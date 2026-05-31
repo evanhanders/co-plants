@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>The Front Range Plantarium</title>
+<title>The Front Range Herbarium</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,600;1,9..144,400&display=swap" rel="stylesheet">
 <style>
@@ -68,7 +68,21 @@
   .card{ background:var(--card);border:1px solid var(--line);border-radius:3px; box-shadow:var(--shadow);overflow:hidden;display:flex;flex-direction:column; position:relative;transition:transform .18s, box-shadow .18s; }
   .card:hover{transform:translateY(-3px);box-shadow:0 1px 0 #fff8,0 16px 36px -14px rgba(60,48,28,.5)}
   .plate{ position:relative;aspect-ratio:3/2;background: radial-gradient(120% 90% at 50% 18%, #fdfaf1, #efe6d2); border-bottom:1px solid var(--line);overflow:hidden; }
-  .plate svg, .plate img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;display:block}
+  .reel{display:flex;height:100%;overflow-x:auto;scroll-snap-type:x mandatory;-webkit-overflow-scrolling:touch;scrollbar-width:none}
+  .reel::-webkit-scrollbar{display:none}
+  .shot{position:relative;flex:0 0 100%;width:100%;height:100%;scroll-snap-align:center}
+  .shot img{width:100%;height:100%;object-fit:cover;display:block}
+  .shot.empty{display:flex;flex-direction:column;align-items:center;justify-content:center;gap:8px;color:var(--ink-soft);font-style:italic;font-size:12px;letter-spacing:.03em;text-align:center;padding:14px;background:radial-gradient(120% 90% at 50% 30%, #fdfaf1, #ece2cc)}
+  .shot.empty svg{opacity:.5}
+  .sbar{position:absolute;left:0;right:0;bottom:0;display:flex;align-items:center;gap:8px;padding:16px 9px 8px;background:linear-gradient(transparent, rgba(24,18,8,.72));z-index:4;pointer-events:none}
+  .sbar > *{pointer-events:auto}
+  .sbar .tabs{display:flex;gap:5px}
+  .sbar .tab{width:25px;height:25px;display:grid;place-items:center;border:1px solid #ffffff66;border-radius:50%;background:#ffffff26;color:#fff;cursor:pointer;padding:0;transition:.15s}
+  .sbar .tab:hover{background:#ffffff44}
+  .sbar .tab.on{background:var(--rust);border-color:var(--rust)}
+  .sbar .lab{flex:1;color:#fff;font-size:11px;letter-spacing:.04em;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;text-shadow:0 1px 2px #0009}
+  .sbar .src{color:#fff;font-size:10px;letter-spacing:.04em;text-decoration:none;opacity:.82;white-space:nowrap;text-shadow:0 1px 2px #0009}
+  .sbar .src:hover{opacity:1;text-decoration:underline}
   .plate .corner{position:absolute;top:8px;left:8px;font-size:10px;letter-spacing:.18em;text-transform:uppercase;color:var(--ink-soft);background:#fbf7eccc;padding:2px 7px;border:1px solid var(--line);border-radius:2px;z-index:2}
   .plate .nat{position:absolute;top:8px;right:8px;font-size:10px;letter-spacing:.1em;text-transform:uppercase;background:var(--green);color:#fff;padding:2px 7px;border-radius:2px;z-index:2}
   .plate .nat.intro{background:var(--gold)}
@@ -119,7 +133,7 @@
 <div class="wrap">
   <header class="masthead">
     <div class="kicker">A Living Field Guide · Boulder &amp; the Colorado Front Range</div>
-    <h1 class="display">The Front Range Plantarium</h1>
+    <h1 class="display">The Front Range Herbarium</h1>
     <p class="sub">Vetted, weed-free specimens for the garden — each checked against Colorado's noxious-weed lists before it earns a page here.</p>
     <div class="meta-row">
       <span><b id="count">0</b> specimens</span>
@@ -139,13 +153,12 @@
     </div>
     <button class="btn" id="addBtn">+ Add</button>
   </div>
-  <div class="note">📷 Photos may not appear inside this in-app preview — it blocks images from outside sites. Open the downloaded file in a normal browser to see them, or tap <b>“View photo ↗”</b> on any card. Cards with no photo on file show a trait-based illustration.</div>
 
   <div id="content"></div>
 
   <footer>
     Verified non-weed in Colorado as of each listed date · re-checked before major plantings.<br>
-    Add a photo URL to any specimen to set its plate. Coyote willow &amp; Turkish cliff sage were retired from this guide.
+    Swipe a card's photo strip to move through the seasons. Coyote willow &amp; Turkish cliff sage were retired from this guide.
   </footer>
 </div>
 
@@ -316,6 +329,73 @@ const DIRECT = {
 function filePathURL(p){ return p.commons ? "https://commons.wikimedia.org/wiki/Special:FilePath/"+encodeURIComponent(p.commons)+"?width=900" : (p.photo||null); }
 function photoURL(p){ return DIRECT[p.botanical] || filePathURL(p); }
 
+/* ---------- real-photo seasonal reel ---------- */
+/* SHOTS: botanical name -> ordered array of { commons | url, s?:'spring'|'summer'|'fall'|'winter', cap? }.
+   Add verified seasonal photos here as they're confirmed; species with no entry fall back to their single photo. */
+const SHOTS = {
+  "Cornus sericea": [
+    { commons:"20170717Cornus sericea1.jpg", s:"summer", cap:"Summer — green foliage (mid-July)" },
+    { commons:"20171031Cornus sericea1.jpg", s:"fall", cap:"Autumn — foliage turning (late Oct)" },
+    { commons:"2015-03-16 14 14 56 Oisier Dogwood in winter at the Northeastern Nevada Museum in Elko, Nevada.JPG", s:"winter", cap:"Winter — bare red stems" }
+  ],
+  "Lupinus argenteus": [
+    { commons:"Lupinus argenteus - Sarah Allen 01.jpg", s:"summer", cap:"Summer — silvery leaves & blue-violet spikes" }
+  ],
+  "Euphorbia brachycera": [
+    { commons:"Euphorbia brachycera 2.jpg", s:"summer", cap:"Summer — yellow-green flowerheads" }
+  ],
+  "Prunus virginiana": [
+    { commons:"Chokecherry (Prunus virginiana) - Kitchener, Ontario 2024-05-19.jpg", s:"spring", cap:"Spring — flowering (mid-May)" },
+    { commons:"Chokecherry (Prunus virginiana) - Kitchener, Ontario 2019-07-28.jpg", s:"summer", cap:"Summer — fruit ripening (late July)" }
+  ],
+  "Rosa woodsii": [
+    { commons:"Wild rose Rosa woodsii closeup.jpg", s:"summer", cap:"Summer — pink flowers" }
+  ],
+  "Salvia pachyphylla": [
+    { commons:"Salvia pachyphylla, the Rose Sage (10461533306).jpg", s:"summer", cap:"Summer — violet-blue bloom" }
+  ]
+};
+function shotsFor(p){
+  if(SHOTS[p.botanical] && SHOTS[p.botanical].length) return SHOTS[p.botanical];
+  if(p.commons) return [{commons:p.commons}];
+  if(p.photo) return [{url:p.photo}];
+  return [];
+}
+function commonsURL(name){ return "https://commons.wikimedia.org/wiki/Special:FilePath/"+encodeURIComponent(name)+"?width=800"; }
+function shotCandidates(sh){
+  if(sh.try && sh.try.length) return sh.try.map(commonsURL);
+  if(sh.url) return [sh.url];
+  if(sh.commons) return [commonsURL(sh.commons)];
+  return [];
+}
+function shotSource(sh){
+  if(sh.link) return sh.link;
+  if(sh.url) return sh.url;
+  var n = sh.commons || (sh.try && sh.try[0]);
+  return n ? "https://commons.wikimedia.org/wiki/File:"+encodeURIComponent(n) : "#";
+}
+const SEASON_ICON = {
+  spring:'<svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22V11"/><path d="M12 13c-1-3-4-5-8-5 0 4 4 6 8 5z"/><path d="M12 11c1-3 4-6 8-6 0 4-4 6-8 6z"/></svg>',
+  summer:'<svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M2 12h2M20 12h2M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4"/></svg>',
+  fall:'<svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M11 3C6 4 4 8 5 13c4 .5 7-2 8-6"/><path d="M5 13c-1 4 1 7 5 8 4-5 4-12 1-18"/></svg>',
+  winter:'<svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M12 2v20M2 12h20M5.5 5.5l13 13M18.5 5.5l-13 13"/></svg>'
+};
+function seasonIcon(s){ return SEASON_ICON[s] || '<svg width="11" height="11" viewBox="0 0 24 24" fill="currentColor"><circle cx="12" cy="12" r="5"/></svg>'; }
+window.__camera = '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M4 8h3l1.6-2h6.8L17 8h3v11H4z"/><circle cx="12" cy="13" r="3.4"/></svg>';
+function capOf(sh){ return sh.cap || (sh.s ? sh.s.charAt(0).toUpperCase()+sh.s.slice(1) : ""); }
+function plateHTML(p){
+  const shots = shotsFor(p);
+  if(!shots.length){ return '<div class="shot empty">'+window.__camera+'<span>Photograph coming soon</span></div>'; }
+  const caps = shots.map(capOf), srcs = shots.map(shotSource);
+  let reel = '<div class="reel" data-caps=\''+JSON.stringify(caps).replace(/'/g,"&#39;")+'\' data-srcs=\''+JSON.stringify(srcs).replace(/'/g,"&#39;")+'\'>';
+  shots.forEach(function(sh){ var cand=shotCandidates(sh); var rest=JSON.stringify(cand.slice(1)).replace(/'/g,"&#39;"); reel += '<figure class="shot"><img src="'+(cand[0]||"")+'" alt="'+p.common+'" loading="lazy" data-alts=\''+rest+'\' onerror="window.__imgnext(this)"></figure>'; });
+  reel += '</div>';
+  let tabs='';
+  if(shots.length>1){ shots.forEach(function(sh,i){ tabs += '<button class="tab'+(i===0?' on':'')+'" data-i="'+i+'" title="'+(caps[i]||'')+'">'+seasonIcon(sh.s)+'</button>'; }); }
+  return reel + '<div class="sbar"><div class="tabs">'+tabs+'</div><span class="lab">'+(caps[0]||'')+'</span>'
+       + '<a class="src" href="'+srcs[0]+'" target="_blank" rel="noopener noreferrer">Commons ↗</a></div>';
+}
+
 /* ---------- illustration generator (fallback) ---------- */
 function leaf(cx,cy,rx,ry,rot,fill){ return '<g transform="translate('+cx+' '+cy+') rotate('+rot+')"><ellipse rx="'+rx+'" ry="'+ry+'" fill="'+fill+'"/><line x1="0" y1="'+(-ry)+'" x2="0" y2="'+ry+'" stroke="rgba(0,0,0,.12)" stroke-width="1"/></g>'; }
 function darken(hex,amt){ const n=parseInt(hex.slice(1),16);let r=(n>>16)-amt,g=((n>>8)&255)-amt,b=(n&255)-amt; r=Math.max(0,r);g=Math.max(0,g);b=Math.max(0,b); return "#"+(r<<16|g<<8|b).toString(16).padStart(6,"0"); }
@@ -372,6 +452,20 @@ function makeIllo(o){
 }
 window.__illo = function(enc){ try{ return makeIllo(JSON.parse(decodeURIComponent(enc))); }catch(e){ return makeIllo({kind:"mound",foliage:"#6f8a55",feature:"dome",accent:"#c6cd4f"}); } };
 window.__imgerr = function(img){ if(img.dataset.fb){ img.src=img.dataset.fb; img.dataset.fb=""; } else { img.outerHTML=window.__illo(img.dataset.illo); } };
+window.__imggone = function(img){ var fig = img.closest ? img.closest('.shot') : null; if(fig){ fig.classList.add('empty'); fig.innerHTML = window.__camera + '<span>Image unavailable</span>'; } };
+window.__imgnext = function(img){ var alts=[]; try{ alts=JSON.parse(img.getAttribute('data-alts')||'[]'); }catch(e){} if(alts.length){ var next=alts.shift(); img.setAttribute('data-alts', JSON.stringify(alts)); img.src=next; } else { window.__imggone(img); } };
+function wireReels(root){
+  Array.prototype.forEach.call(root.querySelectorAll('.plate'), function(plate){
+    var reel = plate.querySelector('.reel'), bar = plate.querySelector('.sbar'); if(!reel||!bar) return;
+    var tabs = Array.prototype.slice.call(bar.querySelectorAll('.tab'));
+    var lab = bar.querySelector('.lab'), src = bar.querySelector('.src');
+    var caps=[], srcs=[]; try{ caps=JSON.parse(reel.dataset.caps||'[]'); }catch(e){} try{ srcs=JSON.parse(reel.dataset.srcs||'[]'); }catch(e){}
+    function setActive(i){ tabs.forEach(function(t,j){ t.classList.toggle('on', j===i); }); if(lab) lab.textContent=caps[i]||''; if(src&&srcs[i]) src.href=srcs[i]; }
+    reel.addEventListener('scroll', function(){ setActive(Math.round(reel.scrollLeft/Math.max(1,reel.clientWidth))); }, {passive:true});
+    tabs.forEach(function(t){ t.onclick=function(){ var j=+t.dataset.i; reel.scrollTo({left:j*reel.clientWidth, behavior:'smooth'}); setActive(j); }; });
+    setActive(0);
+  });
+}
 
 /* ---------- state ---------- */
 let userPlants = [];
@@ -397,14 +491,7 @@ function isUser(p){ const key=p.botanical.toLowerCase().trim(); return userPlant
 function allPlants(){ const map=new Map(); SEED.concat(userPlants).forEach(function(p){ map.set(p.botanical.toLowerCase().trim(), p); }); return Array.from(map.values()).sort(function(a,b){ return a.common.localeCompare(b.common,'en',{sensitivity:'base'}); }); }
 
 function cardHTML(p){
-  const url = photoURL(p);
-  const fb = filePathURL(p);
-  const fbAttr = (fb && fb!==url) ? fb : "";
-  const illoEnc = encodeURIComponent(JSON.stringify(p.illo||{}));
-  const plate = url
-    ? '<img class="photo" src="'+url+'" alt="'+p.common+'" loading="lazy" data-fb="'+fbAttr+'" data-illo="'+illoEnc+'" onerror="window.__imgerr(this)">'
-      + '<a class="credit" href="'+(fb||url)+'" target="_blank" rel="noopener noreferrer">View photo ↗</a>'
-    : makeIllo(p.illo||{kind:'mound',foliage:'#6f8a55',feature:'dome',accent:'#c6cd4f'});
+  const plate = plateHTML(p);
   const nat = (p.native && p.native.indexOf('native')>-1 && p.native!=='Non-native')
     ? '<span class="nat">'+p.native+'</span>' : '<span class="nat intro">'+(p.native||'Vetted')+'</span>';
   const flags=[];
@@ -450,6 +537,7 @@ function render(){
     });
   }
   Array.prototype.forEach.call(content.querySelectorAll('.del'), function(b){ b.onclick=function(){ removePlant(b.dataset.bot); }; });
+  wireReels(content);
 }
 async function removePlant(bot){ userPlants = userPlants.filter(function(u){return u.botanical!==bot;}); await saveUser(); render(); }
 

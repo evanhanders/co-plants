@@ -473,7 +473,8 @@ function wireReels(root){
     var caps=[], srcs=[]; try{ caps=JSON.parse(reel.dataset.caps||'[]'); }catch(e){} try{ srcs=JSON.parse(reel.dataset.srcs||'[]'); }catch(e){}
     function setActive(i){ tabs.forEach(function(t,j){ t.classList.toggle('on', j===i); }); if(lab) lab.textContent=caps[i]||''; if(src&&srcs[i]) src.href=srcs[i]; }
     function curIdx(){ var n=tabs.length?tabs.length-1:0; return Math.min(n, Math.max(0, Math.round(reel.scrollLeft/Math.max(1,reel.clientWidth)))); }
-    reel.addEventListener('scroll', function(){ setActive(curIdx()); }, {passive:true});
+    var settle;
+    reel.addEventListener('scroll', function(){ setActive(curIdx()); clearTimeout(settle); settle=setTimeout(function(){ setActive(curIdx()); }, 150); }, {passive:true});
     reel.addEventListener('scrollend', function(){ setActive(curIdx()); }, {passive:true});
     tabs.forEach(function(t){ t.onclick=function(){ var j=+t.dataset.i; reel.scrollTo({left:j*reel.clientWidth, behavior:'smooth'}); setActive(j); }; });
     setActive(0);

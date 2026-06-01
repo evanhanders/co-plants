@@ -353,6 +353,17 @@ const SHOTS = {
   ],
   "Salvia pachyphylla": [
     { commons:"Salvia pachyphylla, the Rose Sage (10461533306).jpg", s:"summer", cap:"Summer — violet-blue bloom" }
+  ],
+  "Alnus incana ssp. tenuifolia": [
+    { commons:"2016.03.17 12.53.38 DSC02990 - Flickr - andrey zharkikh.jpg", s:"spring", cap:"Spring — male catkins before leaf-out" },
+    { try:["(ms) Alnus incana 8.jpg","(ms) Alnus incana 1.jpg"], s:"summer", cap:"Summer — matte-green, doubly-toothed leaves" },
+    { commons:"Alnus incana - grey alder - 51991215651.jpg", s:"fall", cap:"Fall — woody cones (persist into winter)" },
+    { commons:"Alnus incana canopy (3704259558).jpg", s:"winter", cap:"Late winter — bare canopy, catkins forming" }
+  ],
+  "Schizachyrium scoparium": [
+    { commons:"SchizachyriumScoparium.jpg", s:"summer", cap:"Summer — blue-green clump" },
+    { commons:"Little Bluestem (Andropogon scoparius) (6188871250).jpg", s:"fall", cap:"Fall — coppery-orange color" },
+    { commons:"Andropogon scoparius (3904157742).jpg", s:"fall", cap:"Fall — silvery seed tufts" }
   ]
 };
 function shotsFor(p){
@@ -461,7 +472,9 @@ function wireReels(root){
     var lab = bar.querySelector('.lab'), src = bar.querySelector('.src');
     var caps=[], srcs=[]; try{ caps=JSON.parse(reel.dataset.caps||'[]'); }catch(e){} try{ srcs=JSON.parse(reel.dataset.srcs||'[]'); }catch(e){}
     function setActive(i){ tabs.forEach(function(t,j){ t.classList.toggle('on', j===i); }); if(lab) lab.textContent=caps[i]||''; if(src&&srcs[i]) src.href=srcs[i]; }
-    reel.addEventListener('scroll', function(){ setActive(Math.round(reel.scrollLeft/Math.max(1,reel.clientWidth))); }, {passive:true});
+    function curIdx(){ var n=tabs.length?tabs.length-1:0; return Math.min(n, Math.max(0, Math.round(reel.scrollLeft/Math.max(1,reel.clientWidth)))); }
+    reel.addEventListener('scroll', function(){ setActive(curIdx()); }, {passive:true});
+    reel.addEventListener('scrollend', function(){ setActive(curIdx()); }, {passive:true});
     tabs.forEach(function(t){ t.onclick=function(){ var j=+t.dataset.i; reel.scrollTo({left:j*reel.clientWidth, behavior:'smooth'}); setActive(j); }; });
     setActive(0);
   });

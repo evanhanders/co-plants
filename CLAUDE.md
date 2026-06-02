@@ -108,8 +108,9 @@ non-breaking:** the remote `url`/`commons` stays as a safety net under the local
 ### UI features
 
 Cards grouped by plant type (collapsible) with an A–Z toggle, a search box, a
-weed-gated "add plant" form, and a swipeable per-season photo strip. The card shows a
-small thumbnail; clicking (or `Enter`/`Space` on it — the photos are keyboard-focusable)
+weed-gated "add plant" form, and a per-season photo strip you flip with the season dots
+(the strip is deliberately *not* finger-swipeable — see the tap-vs-swipe note). The card
+shows a small thumbnail; clicking (or `Enter`/`Space` on it — the photos are keyboard-focusable)
 opens the full-size image in a pinch/scroll zoom lightbox. The lightbox is a **swipeable
 gallery**: it loads the whole reel, so swipe left/right, arrow keys, or the on-screen
 `‹ ›` buttons step through that plant's full-size photos (with an "n / m" counter; nav
@@ -144,13 +145,15 @@ last panel or mis-highlight mid-swipe.
 
 ### Tap-vs-swipe gotcha (already fixed — don't regress)
 
-Tapping a card photo opens the lightbox, but the strip is also a horizontal swiper. The
-open is gated on a **move-threshold**: `content` tracks `pointerdown`/`pointermove` and the
-`click` handler bails if the pointer moved >10px (`tapMoved`). The reel uses
-`touch-action:pan-x pan-y` — `pan-x` keeps the horizontal season-swipe crisp, and `pan-y`
-is required so a finger that lands on a photo can still scroll the page vertically (plain
-`pan-x` blocks vertical panning and traps page scroll). The move-threshold (not
-`touch-action`) is what stops a season-swipe from flinging you into the lightbox.
+Tapping a card photo opens the lightbox. **On touch the strip is intentionally not a
+swiper:** the reel uses `touch-action:pan-y`, so a finger that lands on a photo scrolls the
+page (the thumbnail stays put) instead of dragging the strip sideways — exactly what was
+asked for. Season changes come from the **tab dots**, which scroll the reel programmatically
+(`scrollTo`, unaffected by `touch-action`); there is no card-level finger-swipe. The
+lightbox-open is still gated on a **move-threshold** (`content` tracks
+`pointerdown`/`pointermove`; the `click` handler bails if the pointer moved >10px,
+`tapMoved`) so a scroll-drag doesn't fling you into the lightbox. (The full-size lightbox
+*is* swipeable — that's the separate gallery described under UI features.)
 
 ## The plant card fields
 

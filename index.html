@@ -109,10 +109,12 @@ I've verified this plant is <b>not</b> a noxious weed in Colorado (checked again
 </div>
 </div>
 <div class="lbox" id="lbox" role="dialog" aria-modal="true" aria-label="Photo viewer" aria-hidden="true">
-<div class="lb-cap"><span id="lbCapText"></span><a id="lbSrc" href="#" target="_blank" rel="noopener noreferrer">Source ↗</a></div>
+<div class="lb-cap"><span id="lbCount" class="lb-count"></span><span id="lbCapText"></span><a id="lbSrc" href="#" target="_blank" rel="noopener noreferrer">Source ↗</a></div>
 <button class="rbtn lb-close" id="lbClose" aria-label="Close" title="Close">×</button>
 <div class="lb-stage" id="lbStage"><img id="lbImg" alt="" draggable="false"></div>
-<div class="lb-hint">Pinch, scroll, or double-tap to zoom · drag to pan</div>
+<button class="rbtn lb-nav lb-prev" id="lbPrev" aria-label="Previous photo" title="Previous" hidden>‹</button>
+<button class="rbtn lb-nav lb-next" id="lbNext" aria-label="Next photo" title="Next" hidden>›</button>
+<div class="lb-hint" id="lbHint">Pinch, scroll, or double-tap to zoom · drag to pan</div>
 <div class="lb-zoomctl">
 <button class="rbtn" id="lbOut" aria-label="Zoom out" title="Zoom out">−</button>
 <button class="rbtn" id="lbReset" aria-label="Fit to screen" title="Fit to screen">⤢</button>

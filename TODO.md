@@ -31,11 +31,12 @@ _Nothing outstanding — all 28 plants are self-hosted with crisp, smart-cropped
 - **Season tab mis-highlight.** ✅ A 4-panel plant's *fall* photo could light the *winter*
   tab. `curIdx()` now selects the panel whose actual `offsetLeft` is nearest `scrollLeft`
   instead of `Math.round(scrollLeft/clientWidth)` (which mis-rounded with fractional widths).
-- **Trapped page scroll / static thumbnails.** ✅ A finger landing on a card photo couldn't
-  reliably scroll the page (the reel's `touch-action:pan-x` captured the drag). The card
-  strip is now **static on touch** — `touch-action:pan-y` — so a finger-drag scrolls the
-  page and the thumbnail stays put; season changes come from the tab dots (programmatic
-  `scrollTo`), not a finger-swipe. (The full-size lightbox keeps its swipe.)
+- **Static card photo strip (no scroll-chaining).** ✅ The season strip was a horizontal
+  scroll-snap container, so a finger-drag scrolled the *strip* first and the page only at the
+  boundary. It's now a **static stack**: all season photos are absolutely stacked and only the
+  active one is shown (`.show`), swapped by the season dots (`setActive` toggles a class) — no
+  `overflow-x`/`scroll-snap`/`scrollLeft` at all. The thumbnail is just the full image, and a
+  drag scrolls the page immediately. (The full-size lightbox keeps its swipe.)
 - **Swipeable lightbox gallery.** ✅ Enlarging a photo loads the whole reel; swipe
   left/right, arrow keys, or on-screen `‹ ›` buttons step through the full-size images with
   an "n / m" counter (nav hides for single-photo plants and at the ends; drag-follow with

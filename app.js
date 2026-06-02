@@ -65,7 +65,7 @@ if(!shots.length){ return '<div class="shot empty">'+window.__camera+'<span>Phot
 const caps = shots.map(capOf), srcs = shots.map(shotSource), labs = srcs.map(srcLabel);
 const fulls = shots.map(function(sh){ return shotFull(sh, p.dir); });
 let reel = '<div class="reel" data-caps=\''+JSON.stringify(caps).replace(/'/g,"&#39;")+'\' data-srcs=\''+JSON.stringify(srcs).replace(/'/g,"&#39;")+'\' data-labs=\''+JSON.stringify(labs).replace(/'/g,"&#39;")+'\'>';
-shots.forEach(function(sh,i){ var cand=shotCandidates(sh, p.dir); var rest=JSON.stringify(cand.slice(1)).replace(/'/g,"&#39;"); var cp=capPlain(caps[i]); var alt=esc(p.common+(cp?' — '+cp:'')); reel += '<figure class="shot"><img src="'+(cand[0]||"")+'" alt="'+alt+'" loading="lazy" tabindex="0" role="button" aria-label="View larger photo: '+alt+'" data-full="'+esc(fulls[i]||"")+'" data-alts=\''+rest+'\' onerror="window.__imgnext(this)"></figure>'; });
+shots.forEach(function(sh,i){ var cand=shotCandidates(sh, p.dir); var rest=JSON.stringify(cand.slice(1)).replace(/'/g,"&#39;"); var cp=capPlain(caps[i]); var alt=esc(p.common+(cp?' — '+cp:'')); reel += '<figure class="shot'+(i===0?' show':'')+'"><img src="'+(cand[0]||"")+'" alt="'+alt+'" loading="lazy" tabindex="0" role="button" aria-label="View larger photo: '+alt+'" data-full="'+esc(fulls[i]||"")+'" data-alts=\''+rest+'\' onerror="window.__imgnext(this)"></figure>'; });
 reel += '</div>';
 let tabs='';
 if(shots.length>1){ shots.forEach(function(sh,i){ var lab=esc(capPlain(caps[i]) || (sh.s||('Photo '+(i+1)))); tabs += '<button class="tab'+(i===0?' on':'')+'" data-i="'+i+'" aria-label="'+lab+'" aria-pressed="'+(i===0?'true':'false')+'" title="'+esc(caps[i]||'')+'">'+seasonIcon(sh.s)+'</button>'; }); }
@@ -78,14 +78,12 @@ function wireReels(root){
 Array.prototype.forEach.call(root.querySelectorAll('.plate'), function(plate){
 var reel = plate.querySelector('.reel'), bar = plate.querySelector('.sbar'); if(!reel||!bar) return;
 var tabs = Array.prototype.slice.call(bar.querySelectorAll('.tab'));
+var figs = Array.prototype.slice.call(reel.querySelectorAll('.shot'));
 var lab = bar.querySelector('.lab'), src = bar.querySelector('.src');
 var caps=[], srcs=[], labs=[]; try{ caps=JSON.parse(reel.dataset.caps||'[]'); }catch(e){} try{ srcs=JSON.parse(reel.dataset.srcs||'[]'); }catch(e){} try{ labs=JSON.parse(reel.dataset.labs||'[]'); }catch(e){}
-function setActive(i){ tabs.forEach(function(t,j){ t.classList.toggle('on', j===i); t.setAttribute('aria-pressed', j===i?'true':'false'); }); if(lab) lab.textContent=caps[i]||''; if(src&&srcs[i]){ src.href=srcs[i]; src.textContent=labs[i]||'Source ↗'; } }
-function curIdx(){ var figs=reel.children, sl=reel.scrollLeft, best=0, bestd=Infinity; for(var i=0;i<figs.length;i++){ var d=Math.abs(figs[i].offsetLeft - sl); if(d<bestd){ bestd=d; best=i; } } return Math.min(tabs.length?tabs.length-1:0, Math.max(0,best)); }
-var settle;
-reel.addEventListener('scroll', function(){ setActive(curIdx()); clearTimeout(settle); settle=setTimeout(function(){ setActive(curIdx()); }, 150); }, {passive:true});
-reel.addEventListener('scrollend', function(){ setActive(curIdx()); }, {passive:true});
-tabs.forEach(function(t){ t.onclick=function(){ var j=+t.dataset.i; reel.scrollTo({left:j*reel.clientWidth, behavior:REDUCE_MOTION?'auto':'smooth'}); setActive(j); }; });
+/* the strip is a static stack — only the active season's photo is shown; the dots swap it */
+function setActive(i){ figs.forEach(function(f,j){ f.classList.toggle('show', j===i); }); tabs.forEach(function(t,j){ t.classList.toggle('on', j===i); t.setAttribute('aria-pressed', j===i?'true':'false'); }); if(lab) lab.textContent=caps[i]||''; if(src&&srcs[i]){ src.href=srcs[i]; src.textContent=labs[i]||'Source ↗'; } }
+tabs.forEach(function(t){ t.onclick=function(){ setActive(+t.dataset.i); }; });
 setActive(0);
 });
 }
@@ -96,7 +94,6 @@ const collapsed = new Set(); // group names collapsed (type view)
 let natFilter = "all";            // all | native | intro
 const typeFilter = new Set();     // empty = all groups shown
 const traitFilter = new Set();    // empty = no trait constraint; values: winter|pollin|spreads|toxic
-const REDUCE_MOTION = window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
 function isNative(p){ return /(^|\s)native\b/i.test(p.native||'') && (p.native||'').toLowerCase().indexOf('non-native')===-1; }
 /* derived trait predicates — shared by the badges (cardHTML) and the trait filter */
 const TRAITS = {

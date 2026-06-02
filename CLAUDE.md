@@ -232,50 +232,53 @@ species→photo index by streaming its big tables once. The whole pipeline lives
 ## Current plant roster (in the live site)
 
 **27 specimens**, all verified non-weed in CO. Grouped by type below (the order the
-site uses); reel status noted. "Reel" = multi-photo `SHOTS` strip; everything else
-renders its single `commons` photo. (N) = CO/regional native, (I) = introduced/vetted.
+site uses). **24 of 27 now carry repo-hosted photo reels** (close-up + structure,
+seasonal where good shots exist) sourced from the iNaturalist open dataset; each
+plant's exact shots live in its `plant.json`. The **3 cultivars** (garden clematis,
+climbing & rambling rose) have no clean iNat taxon and still ride their remote
+`commons` photo — they're the remaining self-hosting gap. (N) = CO/regional native,
+(I) = introduced/vetted.
 
 **Trees**
-- Chokecherry (*Prunus virginiana*) (N) — 2-photo reel (spring flower + summer fruit)
-- Mountain alder, ssp. *tenuifolia* (*Alnus incana*) (N) — 4-season reel
+- Chokecherry (*Prunus virginiana*) (N) — reel: spring flowers / summer + fall fruit
+- Mountain alder, ssp. *tenuifolia* (*Alnus incana*) (N) — reel: catkins / leaves+cones / fall
 
 **Shrubs**
-- Red-twig dogwood (*Cornus sericea*) (N) — 3-photo reel (summer / fall / winter stems)
-- Wood's rose (*Rosa woodsii*) (N) — single labeled photo (summer)
-- Common lilac (*Syringa vulgaris*) (I) — single photo
+- Red-twig dogwood (*Cornus sericea*) (N) — reel: summer cymes / fall berries / winter red stems
+- Wood's rose (*Rosa woodsii*) (N) — reel: summer flower / habit / fall hips / winter hip
+- Common lilac (*Syringa vulgaris*) (I) — reel: blooming-shrub habit / panicle / foliage
 
 **Subshrubs**
-- Mojave sage (*Salvia pachyphylla*) (I) — single labeled photo
-- Russian sage (*Salvia yangii*, syn. *Perovskia atriplicifolia*) (I) — single photo
+- Mojave sage (*Salvia pachyphylla*) (I) — reel: flower closeup / silvery mounded shrub
+- Russian sage (*Salvia yangii*, syn. *Perovskia atriplicifolia*) (I) — reel: airy habit / flowers / fall spikes
 
 **Ornamental grasses**
-- Little bluestem (*Schizachyrium scoparium*) (N) — 3-photo reel (summer blue / fall
-  copper / seed detail)
+- Little bluestem (*Schizachyrium scoparium*) (N) — reel: summer clump / fall copper / winter seedheads
 
 **Perennials**
-- Cushion spurge (*Euphorbia polychroma*) (I) — single photo
-- Horned spurge (*Euphorbia brachycera*) (N) — single labeled photo
-- Silvery lupine (*Lupinus argenteus*) (N) — single labeled photo
-- Garden peony (*Paeonia lactiflora*) (I) — single photo
-- Dahlia (*Dahlia × hortensis*) (I) — single photo; **tender, not winter-hardy**
-- Oriental poppy (*Papaver orientale*) (I) — single photo
-- Colorado blue columbine (*Aquilegia coerulea*) (N) — single photo
-- Shasta daisy (*Leucanthemum × superbum*) (I) — single photo
-- Aspen fleabane (*Erigeron speciosus*) (N) — single photo
-- Salvia / meadow sage (*Salvia nemorosa*) (I) — single photo
-- Wild bergamot (*Monarda fistulosa*) (N) — single photo
-- Scarlet bee balm (*Monarda didyma*) (I) — single photo
+- Cushion spurge (*Euphorbia polychroma*) (I) — reel: chartreuse bracts / plants in leaf
+- Horned spurge (*Euphorbia brachycera*) (N) — reel: cyathia / glaucous habit
+- Silvery lupine (*Lupinus argenteus*) (N) — reel: silvery foliage / flower spike / habit
+- Garden peony (*Paeonia lactiflora*) (I) — reel: white blooms / post-bloom foliage
+- Dahlia (*Dahlia × hortensis*) (I) — reel: double bloom / border habit; **tender, not winter-hardy**
+- Oriental poppy (*Papaver orientale*) (I) — reel: bloom / blooms+buds habit
+- Colorado blue columbine (*Aquilegia coerulea*) (N) — reel: face-on bloom / whole plant
+- Shasta daisy (*Leucanthemum × superbum*) (I) — reel: flower closeup / flowering clump
+- Aspen fleabane (*Erigeron speciosus*) (N) — reel: ray flower / clump in rock crevice
+- Salvia / meadow sage (*Salvia nemorosa*) (I) — reel: flower spike / mounded clump
+- Wild bergamot (*Monarda fistulosa*) (N) — reel: flowerhead / meadow stand / winter seedhead
+- Scarlet bee balm (*Monarda didyma*) (I) — reel: scarlet flowerhead / flowers+foliage
 
 **Annuals**
-- Snow-on-the-mountain (*Euphorbia marginata*) (N) — single photo
-- Cosmos (*Cosmos bipinnatus*) (I) — single photo
-- California poppy (*Eschscholzia californica*) (I) — single photo
-- Snapdragon (*Antirrhinum majus*) (I) — single photo
+- Snow-on-the-mountain (*Euphorbia marginata*) (N) — reel: white-margined bracts / whole plant / field stand
+- Cosmos (*Cosmos bipinnatus*) (I) — reel: ray-flower closeup / airy foliage habit
+- California poppy (*Eschscholzia californica*) (I) — reel: flowers+foliage / whole plant
+- Snapdragon (*Antirrhinum majus*) (I) — reel: bicolor spike / clump of spikes
 
-**Vines**
-- Garden clematis (*Clematis × jackmanii*, large-flowered hybrids) (I) — single photo
-- Climbing rose (*Rosa*, climbing cultivars) (I) — single photo
-- Rambling rose (*Rosa*, rambling cultivars) (I) — single photo
+**Vines** *(cultivars — still on remote Commons, not yet self-hosted)*
+- Garden clematis (*Clematis × jackmanii*, large-flowered hybrids) (I) — single Commons photo
+- Climbing rose (*Rosa*, climbing cultivars) (I) — single Commons photo
+- Rambling rose (*Rosa*, rambling cultivars) (I) — single Commons photo
 
 **Dropped from the keep-list (do not re-add):** coyote willow (*Salix exigua*) and
 Turkish cliff sage (*Salvia recognita*). Mojave sage is preferred over Turkish cliff
@@ -285,17 +288,24 @@ sage.
 
 The current backlog. Move items out of this section as they ship.
 
-- **Photos still wanted if found:** Wood's rose hips (fall) and a winter
-  little-bluestem shot — both would upgrade those entries to fuller seasonal reels.
-  Most single-photo plants could grow into reels as good Commons seasonal shots
-  turn up.
-- **Self-host images (gradual):** the `plants/.../images/` folders are ready; download
-  CC-licensed Commons originals into them and add `local:` to the shots over time so
-  the guide stops depending on live Commons load.
+- **Self-host the 3 cultivars:** garden clematis ('Jackmanii'), climbing rose, and
+  rambling rose still ride a remote `commons` photo — they have no clean iNaturalist
+  taxon, so the open-data pipeline can't reach them. Hand-source a close-up + structure
+  pair each (the user can paste a CC `File:Name.jpg` title or a direct image URL, or
+  add Wikimedia to the network allowlist so the pipeline/Commons is reachable), then
+  run them through `finalize.py` like the rest.
+- **Fuller seasonal reels:** the sparse natives (horned spurge) and a few single-season
+  garden flowers could still grow extra-season shots as better candidates surface; the
+  iNat candidate pool in `/tmp/imgwork/shortlist.json` (rebuildable via `tools/`) has
+  more options per plant than were picked.
+- **Trim the batch-1 fulls:** a few early full images (e.g. dogwood `wi-stems.jpg`,
+  little-bluestem) were saved at q85/1500px (~0.8 MB); later batches use q82/1400px.
+  Re-running those through `finalize.py` would shave repo weight if it matters.
 
 ## Quick conventions recap
 
-- Real Commons photos only, verified titles, no illustrations, no copyrighted hotlinks.
+- Real CC-licensed photos only (repo-hosted; iNat open data or verified Commons titles),
+  no illustrations, no copyrighted hotlinks. Record attribution.
 - Weed-check every new plant against CO lists A/B/C + Watch before it goes in.
 - Show image + blurb for sign-off **before** creating the plant file.
 - A new plant = one `plant.json` + one `manifest.json` line (not a big array edit).

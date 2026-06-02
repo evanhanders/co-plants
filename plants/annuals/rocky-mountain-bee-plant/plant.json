@@ -1,0 +1,49 @@
+{
+  "common": "Rocky Mountain bee plant",
+  "botanical": "Cleome serrulata",
+  "type": "Annual",
+  "native": "CO native",
+  "blurb": "Colorado-native prairie annual — airy wands of pink-purple 'spider' flowers, alive with bees all summer, that reseed into drifting colonies.",
+  "size": "2–4 ft × 1–2 ft",
+  "sun": "Full sun",
+  "water": "Low; drought-tolerant once established",
+  "spread": "Self-sows freely into colonies; not invasive",
+  "seasons": "Pink-purple spider-flower heads Jun–Sep; slender dangling seed pods follow; dies at first frost",
+  "wildlife": "Pollinator powerhouse — native & honey bees, butterflies, wasps, broad-tailed hummingbirds; seeds feed birds",
+  "deer": "Strong-scented; generally deer- & livestock-avoided",
+  "toxic": "None of concern — foliage was historically cooked as a potherb ('Navajo spinach')",
+  "winter": false,
+  "verified": "2026-06-02",
+  "shots": [
+    {
+      "local": "images/su-flower-t.jpg",
+      "full": "images/su-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/518057247/large.jpg",
+      "s": "summer",
+      "cap": "Summer — pink-purple flower heads with long 'spider' stamens · © frmhswc (CC-BY-NC) / iNaturalist",
+      "by": "frmhswc",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/photos/518057247"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/186304336/large.jpg",
+      "s": "summer",
+      "cap": "Summer — a prairie stand in bloom (Boulder County) · © emlok (CC-BY-NC) / iNaturalist",
+      "by": "emlok",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/photos/186304336"
+    },
+    {
+      "local": "images/fa-seedpods-t.jpg",
+      "full": "images/fa-seedpods.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/514984017/large.jpg",
+      "s": "fall",
+      "cap": "Late season — whole plant with slender dangling seed pods · © Alan Prather (CC-BY) / iNaturalist",
+      "by": "Alan Prather",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/photos/514984017"
+    }
+  ]
+}

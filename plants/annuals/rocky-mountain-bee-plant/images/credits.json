@@ -1,0 +1,53 @@
+[
+  {
+    "file": "images/su-flower.jpg",
+    "photo_id": "518057247",
+    "by": "frmhswc",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/photos/518057247",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      1050
+    ],
+    "thumb_px": [
+      400,
+      300
+    ]
+  },
+  {
+    "file": "images/su-habit.jpg",
+    "photo_id": "186304336",
+    "by": "emlok",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/photos/186304336",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  },
+  {
+    "file": "images/fa-seedpods.jpg",
+    "photo_id": "514984017",
+    "by": "Alan Prather",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/photos/514984017",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1163,
+      1400
+    ],
+    "thumb_px": [
+      332,
+      400
+    ]
+  }
+]

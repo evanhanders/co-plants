@@ -34,18 +34,21 @@ content lives in per-plant data files that the page fetches at runtime.
 
 ## How deploys work
 
-The repo is cloned locally, so deploys are just git:
+Work happens in an ephemeral remote container: the repo is cloned fresh when the
+container starts and reclaimed after inactivity, so **nothing survives unless it's
+committed and pushed.** Deploys are just git:
 
 1. Edit the relevant file(s) — `index.html`, `styles.css`, `app.js`, or a
    `plants/.../plant.json`.
 2. `git add -A && git commit && git push`.
 3. GitHub Pages redeploys automatically; changes go live in a minute or two.
 
-**Local preview:** because the page `fetch()`es the plant data, you can't just
-double-click `index.html` — `file://` blocks fetch. Serve it instead:
+**Preview / self-check:** because the page `fetch()`es the plant data, `file://`
+won't work — serve it over HTTP and validate from inside the container with `curl`
+(the user can't reach the container's `localhost`):
 
 ```
-python3 -m http.server 8000   # then open http://localhost:8000/
+python3 -m http.server 8000   # then curl http://localhost:8000/plants/manifest.json etc.
 ```
 
 ## Architecture
@@ -191,31 +194,52 @@ lean (JPEG q≈82–85) — this is a git repo.
 
 ### Where the photos come from (this environment)
 
-Two CC photo corpora are reachable, depending on the environment's network allowlist:
+Three CC photo sources are reachable from the container (verify with a quick `curl`
+if in doubt):
 
-1. The **iNaturalist open-data set on S3** (`inaturalist-open-data.s3.amazonaws.com`),
-   which holds only CC0 / CC-BY / CC-BY-NC photos. No search endpoint, so we build a
-   species→photo index by streaming its big tables once (the iNat pipeline below).
-2. **Wikimedia Commons** (`*.wikimedia.org`) — reachable when added to the allowlist.
-   It *does* have a search API, used for the hand-sourced cultivars (the Commons
-   pipeline below). Wikimedia rate-limits hard: always send a descriptive
-   `User-Agent`, throttle, and back off on HTTP 429.
+1. The **iNaturalist API** (`api.inaturalist.org`) — a real search endpoint. This is
+   the **fast path** for sourcing: query observations by taxon + place + license and
+   get photo IDs back in seconds, no bulk download. **Use this first.**
+2. The **iNaturalist open-data set on S3** (`inaturalist-open-data.s3.amazonaws.com`) —
+   where the full-res files actually live (`…/photos/{photo_id}/{medium|large|original}.{ext}`),
+   holding only CC0 / CC-BY / CC-BY-NC photos. `finalize.py` pulls from here.
+3. **Wikimedia Commons** (`*.wikimedia.org`) — its own search API, used for the
+   hand-sourced cultivars (the Commons pipeline below). Wikimedia rate-limits hard:
+   always send a descriptive `User-Agent`, throttle, and back off on HTTP 429.
 
-The whole pipeline lives in `tools/` and is reusable.
+Always send a descriptive `User-Agent` (e.g. `co-plants-herbarium/1.0 (evanhanders@gmail.com)`)
+to the iNat API too. The whole pipeline lives in `tools/` and is reusable.
 
-**iNat open-data pipeline** (used for most plants):
+**iNat API path (preferred — used for most plants):**
+
+1. **Resolve the taxon.** `GET /v1/taxa?q=<botanical name>` and take the **active**
+   taxon id — names drift (e.g. Rocky Mountain bee plant is now *Cleomella serrulata*,
+   id `1415100`; the old *Peritoma serrulata* taxon `78444` is inactive and returns
+   nothing). Colorado's `place_id` is **34**.
+2. **Pull CC candidates.** `GET /v1/observations?taxon_id=<id>&place_id=34&photo_license=cc0,cc-by,cc-by-nc&quality_grade=research&order_by=votes&per_page=60`.
+   Extract each photo's `square` url, swap `square→medium` for review thumbs, dedupe by
+   photo id (and by observer for variety), prefer Front Range / Boulder-county localities.
+3. **Montage + review.** Tile the medium thumbs into one labeled contact-sheet, **`Read`
+   it**, and pick the best close-up + structure (per season), checking species/orientation.
+4. **Finalize + thumbnails** (below) — hand-write `shortlist.json` + `picks.json` from
+   the picks, then run `finalize.py` and `rethumb.py`.
+
+The bee-plant add did exactly this end-to-end in a couple minutes (see git history).
+
+**Finalize + thumbnails (shared tail, any source):**
 
 | step | tool | what it does |
 |------|------|--------------|
-| map names→taxa | `species_map.json` + `resolve_taxa.py` | botanical name → iNat `taxon_id` set (incl. subspecies). Edit `species_map.json` to add plants. |
-| build index | `build_index.sh` (`filter_obs.py`, `filter_photos.py`) | streams `observations.csv.gz` (12GB) + `photos.csv.gz` (18GB) from S3, emits `photos_keep.tsv` candidate pool to `/tmp/imgwork`. ~10–15 min; run in background. |
-| shortlist | `select_candidates.py` | ranks candidates (resolution, **Colorado/N-America locality**, lead-photo, license) and writes `shortlist.json`. |
-| review | `fetch_montage.py` | downloads thumbnails and builds one labeled contact-sheet per plant in `/tmp/imgwork/montage/`. **`Read` each montage and pick** the best close-up + structure (per season), checking species/orientation. |
-| finalize | `finalize.py` + a hand-written `picks.json` | downloads full-res for the picks, EXIF-orients, writes the `images/<season>-<kind>.jpg` full image (+ a provisional `-t.jpg`), rewrites `plant.json` `shots[]`, and drops `images/credits.json` for license provenance. |
+| finalize | `finalize.py <shortlist.json> <picks.json>` | for each pick downloads the largest open-data render, EXIF-orients, writes the `images/<season>-<kind>.jpg` full image (≤1400px, +a provisional `-t.jpg`), rewrites that plant's `shots[]`, and drops `images/credits.json`. `shortlist.json` is just a list per slug of `{photo_id, ext, by, lic, link, season}`; `picks.json` indexes into it with `{i, kind, s, cap}`. Both can be hand-written from the API results — you don't need `select_candidates.py`. |
 | thumbnails | `rethumb.py` | (re)generates every `-t.jpg` as a 720×480 smart-crop from the full image — run it after any finalize (see "Image requirements & sourcing"). |
 
-- Photos are served from `…/photos/{photo_id}/{medium|large|original}.{ext}`. License
-  lives in `photos.csv`; photographer name comes from `observers.csv.gz`.
+**Bulk fallback — streaming the open-data tables** (only if the API is unavailable or
+you need a wider pool than the API surfaces): `species_map.json` + `resolve_taxa.py` map
+names→taxa, then `build_index.sh` (`filter_obs.py`, `filter_photos.py`) streams
+`observations.csv.gz` (12GB) + `photos.csv.gz` (18GB) from S3 to a `photos_keep.tsv` pool
+in `/tmp/imgwork` (~10–15 min; run in background), `select_candidates.py` ranks it into
+`shortlist.json`, and `fetch_montage.py` builds the contact sheets. Same `finalize.py` /
+`rethumb.py` tail. Keep `species_map.json` current either way so this stays runnable.
 
 **Wikimedia Commons pipeline** (used for the 3 vine cultivars — climbing & rambling
 roses and 'Jackmanii' clematis, which have no clean iNat taxon — and to hand-replace
@@ -317,9 +341,10 @@ sage.
 The current backlog. Move items out of this section as they ship.
 
 - **Fuller seasonal reels:** the sparse natives (horned spurge) and a few single-season
-  garden flowers could still grow extra-season shots as better candidates surface; the
-  iNat candidate pool in `/tmp/imgwork/shortlist.json` (rebuildable via `tools/`) has
-  more options per plant than were picked.
+  garden flowers could still grow extra-season shots as better candidates surface. The
+  iNat API has far more CC photos per plant than were picked — re-query it (the fast
+  path above) to find spring/fall/winter shots. (`/tmp/*` is ephemeral; nothing is
+  cached between containers — re-query rather than expecting a saved shortlist.)
 - **Trim the batch-1 fulls:** a few early full images (e.g. dogwood `wi-stems.jpg`,
   little-bluestem) were saved at q85/1500px (~0.8 MB); later batches use q82/1400px.
   Re-running those through `finalize.py` would shave repo weight if it matters.

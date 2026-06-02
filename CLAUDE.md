@@ -61,7 +61,7 @@ plants/
   manifest.json         # { "plants": ["trees/chokecherry", ...] } — the list to load
   <category>/<slug>/
     plant.json          # one plant's full record (card fields + photo "shots")
-    images/             # repo-hosted photos for this plant (mostly empty for now)
+    images/             # repo-hosted photos: <shot>.jpg full + <shot>-t.jpg thumb + credits.json
 ```
 
 **Load flow (in `app.js`):** on startup `loadSeed()` fetches `plants/manifest.json`,
@@ -203,7 +203,7 @@ Two CC photo corpora are reachable, depending on the environment's network allow
 
 The whole pipeline lives in `tools/` and is reusable.
 
-**iNat open-data pipeline** (used for 24/27 plants):
+**iNat open-data pipeline** (used for most plants):
 
 | step | tool | what it does |
 |------|------|--------------|
@@ -211,19 +211,21 @@ The whole pipeline lives in `tools/` and is reusable.
 | build index | `build_index.sh` (`filter_obs.py`, `filter_photos.py`) | streams `observations.csv.gz` (12GB) + `photos.csv.gz` (18GB) from S3, emits `photos_keep.tsv` candidate pool to `/tmp/imgwork`. ~10–15 min; run in background. |
 | shortlist | `select_candidates.py` | ranks candidates (resolution, **Colorado/N-America locality**, lead-photo, license) and writes `shortlist.json`. |
 | review | `fetch_montage.py` | downloads thumbnails and builds one labeled contact-sheet per plant in `/tmp/imgwork/montage/`. **`Read` each montage and pick** the best close-up + structure (per season), checking species/orientation. |
-| finalize | `finalize.py` + a hand-written `picks.json` | downloads full-res for the picks, EXIF-orients, writes `images/<season>-<kind>.jpg` + `-t.jpg` thumbs, rewrites `plant.json` `shots[]`, and drops `images/credits.json` for license provenance. |
+| finalize | `finalize.py` + a hand-written `picks.json` | downloads full-res for the picks, EXIF-orients, writes the `images/<season>-<kind>.jpg` full image (+ a provisional `-t.jpg`), rewrites `plant.json` `shots[]`, and drops `images/credits.json` for license provenance. |
+| thumbnails | `rethumb.py` | (re)generates every `-t.jpg` as a 720×480 smart-crop from the full image — run it after any finalize (see "Image requirements & sourcing"). |
 
 - Photos are served from `…/photos/{photo_id}/{medium|large|original}.{ext}`. License
   lives in `photos.csv`; photographer name comes from `observers.csv.gz`.
 
 **Wikimedia Commons pipeline** (used for the 3 vine cultivars — climbing & rambling
-roses and 'Jackmanii' clematis — which have no clean iNat taxon):
+roses and 'Jackmanii' clematis, which have no clean iNat taxon — and to hand-replace
+any photo that needs a better shot, e.g. wild bergamot's soft summer pair):
 
 | step | tool | what it does |
 |------|------|--------------|
 | search + review | `commons_search.py <slug> "query"…` | hits the Commons API (`list=search` in the File: namespace), reads `imageinfo` (URL + size + license + artist via `extmetadata`), keeps only free licenses + raster photos, downloads review thumbs (via `iiurlwidth`, with 429 backoff), and writes `/tmp/commonswork/<slug>/candidates.json`. |
 | montage | `commons_montage.py <slug>` | tiles those thumbs into one labeled contact-sheet (`montage.jpg`). **`Read` it and pick** the close-up + structure, verifying cultivar/orientation. |
-| finalize | `commons_finalize.py commons_picks.json` | the Commons twin of `finalize.py`: downloads each pick's full Commons original, EXIF-orients, writes `images/<season>-<kind>.jpg` + `-t.jpg`, rewrites `plant.json` `shots[]` (with a `commons:` remote fallback + attribution), and drops `images/credits.json`. |
+| finalize | `commons_finalize.py commons_picks.json` | the Commons twin of `finalize.py`: downloads each pick's full Commons original, EXIF-orients, writes `images/<season>-<kind>.jpg` (+ provisional `-t.jpg`), rewrites `plant.json` `shots[]` (with a `commons:` remote fallback + attribution), and drops `images/credits.json`. Run `rethumb.py` afterward for the final card thumbs. **Note:** it rewrites the whole `shots[]`, so to replace only some shots of a multi-shot plant, finalize the new ones then re-add the kept shots to `plant.json` + `credits.json` by hand (as done for bergamot's winter seedhead). |
 
 - The `shots` schema accepts `commons:`/`try:` titles resolved via `Special:FilePath`
   (app.js tries `local → try[] → url → commons`). Verify the exact `File:Name.jpg`
@@ -320,6 +322,9 @@ The current backlog. Move items out of this section as they ship.
 - **Trim the batch-1 fulls:** a few early full images (e.g. dogwood `wi-stems.jpg`,
   little-bluestem) were saved at q85/1500px (~0.8 MB); later batches use q82/1400px.
   Re-running those through `finalize.py` would shave repo weight if it matters.
+- **Thumbnail weight:** the 720×480 card thumbs total ~6.3 MB (up from ~2 MB at 400px).
+  Fine for now; if repo weight matters, `rethumb.py` can drop to 640px or lower JPEG
+  quality — a small sharpness-for-size trade on high-DPI screens.
 
 ## Quick conventions recap
 
@@ -328,5 +333,7 @@ The current backlog. Move items out of this section as they ship.
 - Weed-check every new plant against CO lists A/B/C + Watch before it goes in.
 - Show image + blurb for sign-off **before** creating the plant file.
 - A new plant = one `plant.json` + one `manifest.json` line (not a big array edit).
+- After any `finalize.py`/`commons_finalize.py`, run `rethumb.py` so the card thumbs are
+  720×480 smart-crops, not the provisional 400px ones.
 - Vanilla HTML/CSS/JS, no build, no deps — keep it that way unless the user asks otherwise.
 - Preview locally over `http.server` (fetch won't work from `file://`).

@@ -131,44 +131,76 @@ hosted herbarium. The order matters:
 
 ## Current plant roster (in the live site)
 
-All verified non-weed in CO. Reel status noted.
+**27 specimens**, all verified non-weed in CO. Grouped by type below (the order the
+site uses); reel status noted. "Reel" = multi-photo `SHOTS` strip; everything else
+renders its single `commons` photo. (N) = CO/regional native, (I) = introduced/vetted.
 
-- Red-twig dogwood (*Cornus sericea*) — 4-season reel
-- Mountain alder, ssp. *tenuifolia* (*Alnus incana*) — 4-season reel
-- Little bluestem (*Schizachyrium scoparium*) — 3-photo reel (summer blue / fall
+**Trees**
+- Chokecherry (*Prunus virginiana*) (N) — 2-photo reel (spring flower + summer fruit)
+- Mountain alder, ssp. *tenuifolia* (*Alnus incana*) (N) — 4-season reel
+
+**Shrubs**
+- Red-twig dogwood (*Cornus sericea*) (N) — 3-photo reel (summer / fall / winter stems)
+- Wood's rose (*Rosa woodsii*) (N) — single labeled photo (summer)
+- Common lilac (*Syringa vulgaris*) (I) — single photo
+
+**Subshrubs**
+- Mojave sage (*Salvia pachyphylla*) (I) — single labeled photo
+- Russian sage (*Salvia yangii*, syn. *Perovskia atriplicifolia*) (I) — single photo
+
+**Ornamental grasses**
+- Little bluestem (*Schizachyrium scoparium*) (N) — 3-photo reel (summer blue / fall
   copper / seed detail)
-- Chokecherry (*Prunus virginiana*) — 2-photo reel (spring flower + summer fruit)
-- Wood's rose (*Rosa woodsii*) — single labeled photo
-- Mojave sage (*Salvia pachyphylla*) — single labeled photo
-- Silvery lupine (*Lupinus argenteus*) — single labeled photo
-- Horned spurge (*Euphorbia brachycera*) — single labeled photo
-- Cushion spurge (*Euphorbia polychroma*) — single photo
-- Snow-on-the-mountain (*Euphorbia marginata*) — single photo
+
+**Perennials**
+- Cushion spurge (*Euphorbia polychroma*) (I) — single photo
+- Horned spurge (*Euphorbia brachycera*) (N) — single labeled photo
+- Silvery lupine (*Lupinus argenteus*) (N) — single labeled photo
+- Garden peony (*Paeonia lactiflora*) (I) — single photo
+- Dahlia (*Dahlia × hortensis*) (I) — single photo; **tender, not winter-hardy**
+- Oriental poppy (*Papaver orientale*) (I) — single photo
+- Colorado blue columbine (*Aquilegia coerulea*) (N) — single photo
+- Shasta daisy (*Leucanthemum × superbum*) (I) — single photo
+- Aspen fleabane (*Erigeron speciosus*) (N) — single photo
+- Salvia / meadow sage (*Salvia nemorosa*) (I) — single photo
+- Wild bergamot (*Monarda fistulosa*) (N) — single photo
+- Scarlet bee balm (*Monarda didyma*) (I) — single photo
+
+**Annuals**
+- Snow-on-the-mountain (*Euphorbia marginata*) (N) — single photo
+- Cosmos (*Cosmos bipinnatus*) (I) — single photo
+- California poppy (*Eschscholzia californica*) (I) — single photo
+- Snapdragon (*Antirrhinum majus*) (I) — single photo
+
+**Vines**
+- Garden clematis (*Clematis × jackmanii*, large-flowered hybrids) (I) — single photo
+- Climbing rose (*Rosa*, climbing cultivars) (I) — single photo
+- Rambling rose (*Rosa*, rambling cultivars) (I) — single photo
 
 **Dropped from the keep-list (do not re-add):** coyote willow (*Salix exigua*) and
 Turkish cliff sage (*Salvia recognita*). Mojave sage is preferred over Turkish cliff
 sage.
 
-## Pending work (as of 2026-06-01)
+## Pending work (as of 2026-06-02)
 
-These have **approved blurbs + images but are NOT yet in `index.html`** — they need
-to be added to `SEED` and pushed:
+The previous batch (common lilac, garden peony, dahlia, Russian sage, garden
+clematis) is **done — all five are in `SEED` and live**, along with a later wave
+(cosmos, California poppy, oriental poppy, climbing & rambling rose, snapdragon,
+Colorado blue columbine, Shasta daisy, aspen fleabane, meadow sage, wild bergamot,
+scarlet bee balm). The **search keyboard fix is also shipped** (`blur()` on Enter +
+`search` event, `enterkeyhint="search"` on the input).
 
-- Common lilac (*Syringa vulgaris*) — Eurasian, suckering, deer-resistant
-- Garden peony (*Paeonia lactiflora*) — clumping, long-lived, toxic to dogs/cats/horses
-- Dahlia (*Dahlia* hybrids) — **tender, not winter-hardy in Boulder**; lift & store
-  tubers; not deer-resistant
-- Russian sage (*Salvia yangii*, syn. *Perovskia atriplicifolia*) — xeric Plant Select
-  pick; can self-sow and creep by rhizomes, so use compact 'Little Spire' and deadhead
-- Garden clematis (large-flowered hybrids only — see the clematis weed gotcha above)
+Genuinely open items:
 
-Other open items:
-
-- **Search keyboard fix:** on submit, collapse the phone keyboard via `blur()` and
-  set `enterkeyhint="search"` on the input.
-- **Photos still wanted if found:** Wood's rose hips (fall), and a winter
-  little-bluestem shot.
+- **Photos still wanted if found:** Wood's rose hips (fall) and a winter
+  little-bluestem shot — both would upgrade those entries to fuller seasonal reels.
+  Most of the newer plants (lilac onward) are single-photo and could grow into reels
+  as good Commons seasonal shots turn up.
 - **Optional cleanup:** remove the dead `DIRECT` map and `makeIllo` SVG generator.
+  Note `makeIllo` is still *referenced* by `__imgerr`/`window.__illo` and the add-plant
+  modal still writes an `illo` object onto new plants — but the live reel render path
+  (`plateHTML` → `shotCandidates`) never calls it, so it's inert. Untangle those
+  references before deleting.
 
 ## Quick conventions recap
 

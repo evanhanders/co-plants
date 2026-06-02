@@ -1,0 +1,32 @@
+{
+  "_note": "Maps each plant (category/slug) to the iNaturalist taxon name(s) to match when building the open-data photo index. Multiple names cover synonyms. 'genus_ok' means cultivar/hybrid with no clean iNat species — fall back to genus-level matches.",
+  "plants": [
+    {"slug": "trees/chokecherry",            "names": ["Prunus virginiana"]},
+    {"slug": "trees/mountain-alder",         "names": ["Alnus incana"]},
+    {"slug": "shrubs/red-twig-dogwood",      "names": ["Cornus sericea"]},
+    {"slug": "shrubs/woods-rose",            "names": ["Rosa woodsii"]},
+    {"slug": "shrubs/common-lilac",          "names": ["Syringa vulgaris"]},
+    {"slug": "subshrubs/mojave-sage",        "names": ["Salvia pachyphylla"]},
+    {"slug": "subshrubs/russian-sage",       "names": ["Salvia yangii", "Perovskia atriplicifolia"]},
+    {"slug": "grasses/little-bluestem",      "names": ["Schizachyrium scoparium"]},
+    {"slug": "perennials/aspen-fleabane",    "names": ["Erigeron speciosus"]},
+    {"slug": "perennials/colorado-blue-columbine", "names": ["Aquilegia coerulea"]},
+    {"slug": "perennials/cushion-spurge",    "names": ["Euphorbia polychroma", "Euphorbia epithymoides"]},
+    {"slug": "perennials/dahlia",            "names": ["Dahlia pinnata", "Dahlia hortensis"]},
+    {"slug": "perennials/garden-peony",      "names": ["Paeonia lactiflora"]},
+    {"slug": "perennials/horned-spurge",     "names": ["Euphorbia brachycera"]},
+    {"slug": "perennials/oriental-poppy",    "names": ["Papaver orientale"]},
+    {"slug": "perennials/salvia-meadow-sage","names": ["Salvia nemorosa"]},
+    {"slug": "perennials/scarlet-bee-balm",  "names": ["Monarda didyma"]},
+    {"slug": "perennials/shasta-daisy",      "names": ["Leucanthemum superbum", "Leucanthemum maximum"]},
+    {"slug": "perennials/silvery-lupine",    "names": ["Lupinus argenteus"]},
+    {"slug": "perennials/wild-bergamot",     "names": ["Monarda fistulosa"]},
+    {"slug": "annuals/california-poppy",     "names": ["Eschscholzia californica"]},
+    {"slug": "annuals/cosmos",               "names": ["Cosmos bipinnatus"]},
+    {"slug": "annuals/snapdragon",           "names": ["Antirrhinum majus"]},
+    {"slug": "annuals/snow-on-the-mountain", "names": ["Euphorbia marginata"]},
+    {"slug": "vines/garden-clematis",        "names": ["Clematis jackmanii"], "genus_ok": "Clematis"},
+    {"slug": "vines/climbing-rose",          "names": [], "genus_ok": "Rosa"},
+    {"slug": "vines/rambling-rose",          "names": [], "genus_ok": "Rosa"}
+  ]
+}

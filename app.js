@@ -31,6 +31,22 @@ if(sh.url) return sh.url;
 var n = sh.commons || (sh.try && sh.try[0]);
 return n ? "https://commons.wikimedia.org/wiki/File:"+encodeURIComponent(n) : "#";
 }
+/* Full-size image for the zoom lightbox: prefer a repo-hosted `full`, else upgrade
+   the remote candidate to a larger render. (The card itself uses the small `local`
+   thumbnail via shotCandidates.) */
+function shotFull(sh, dir){
+if(sh.full) return (dir?dir+'/':'')+sh.full;
+if(sh.url) return sh.url;
+if(sh.commons) return commonsURL(sh.commons).replace(/width=\d+/, 'width=2000');
+if(sh.try && sh.try.length) return commonsURL(sh.try[0]).replace(/width=\d+/, 'width=2000');
+return null;
+}
+function srcLabel(href){
+if(!href) return 'Source ↗';
+if(href.indexOf('inaturalist')>-1) return 'iNaturalist ↗';
+if(href.indexOf('commons.wikimedia')>-1) return 'Commons ↗';
+return 'Source ↗';
+}
 const SEASON_ICON = {
 spring:'<svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22V11"/><path d="M12 13c-1-3-4-5-8-5 0 4 4 6 8 5z"/><path d="M12 11c1-3 4-6 8-6 0 4-4 6-8 6z"/></svg>',
 summer:'<svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M2 12h2M20 12h2M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4"/></svg>',
@@ -43,14 +59,15 @@ function capOf(sh){ return sh.cap || (sh.s ? sh.s.charAt(0).toUpperCase()+sh.s.s
 function plateHTML(p){
 const shots = shotsFor(p);
 if(!shots.length){ return '<div class="shot empty">'+window.__camera+'<span>Photograph coming soon</span></div>'; }
-const caps = shots.map(capOf), srcs = shots.map(shotSource);
-let reel = '<div class="reel" data-caps=\''+JSON.stringify(caps).replace(/'/g,"&#39;")+'\' data-srcs=\''+JSON.stringify(srcs).replace(/'/g,"&#39;")+'\'>';
-shots.forEach(function(sh){ var cand=shotCandidates(sh, p.dir); var rest=JSON.stringify(cand.slice(1)).replace(/'/g,"&#39;"); reel += '<figure class="shot"><img src="'+(cand[0]||"")+'" alt="'+p.common+'" loading="lazy" data-alts=\''+rest+'\' onerror="window.__imgnext(this)"></figure>'; });
+const caps = shots.map(capOf), srcs = shots.map(shotSource), labs = srcs.map(srcLabel);
+const fulls = shots.map(function(sh){ return shotFull(sh, p.dir); });
+let reel = '<div class="reel" data-caps=\''+JSON.stringify(caps).replace(/'/g,"&#39;")+'\' data-srcs=\''+JSON.stringify(srcs).replace(/'/g,"&#39;")+'\' data-labs=\''+JSON.stringify(labs).replace(/'/g,"&#39;")+'\'>';
+shots.forEach(function(sh,i){ var cand=shotCandidates(sh, p.dir); var rest=JSON.stringify(cand.slice(1)).replace(/'/g,"&#39;"); reel += '<figure class="shot"><img src="'+(cand[0]||"")+'" alt="'+p.common+'" loading="lazy" data-full="'+(fulls[i]||"")+'" data-alts=\''+rest+'\' onerror="window.__imgnext(this)"></figure>'; });
 reel += '</div>';
 let tabs='';
 if(shots.length>1){ shots.forEach(function(sh,i){ tabs += '<button class="tab'+(i===0?' on':'')+'" data-i="'+i+'" title="'+(caps[i]||'')+'">'+seasonIcon(sh.s)+'</button>'; }); }
 return reel + '<div class="sbar"><div class="tabs">'+tabs+'</div><span class="lab">'+(caps[0]||'')+'</span>'
-+ '<a class="src" href="'+srcs[0]+'" target="_blank" rel="noopener noreferrer">Commons ↗</a></div>';
++ '<a class="src" href="'+srcs[0]+'" target="_blank" rel="noopener noreferrer">'+(labs[0]||'Source ↗')+'</a></div>';
 }
 window.__imggone = function(img){ var fig = img.closest ? img.closest('.shot') : null; if(fig){ fig.classList.add('empty'); fig.innerHTML = window.__camera + '<span>Image unavailable</span>'; } };
 window.__imgnext = function(img){ var alts=[]; try{ alts=JSON.parse(img.getAttribute('data-alts')||'[]'); }catch(e){} if(alts.length){ var next=alts.shift(); img.setAttribute('data-alts', JSON.stringify(alts)); img.src=next; } else { window.__imggone(img); } };
@@ -59,8 +76,8 @@ Array.prototype.forEach.call(root.querySelectorAll('.plate'), function(plate){
 var reel = plate.querySelector('.reel'), bar = plate.querySelector('.sbar'); if(!reel||!bar) return;
 var tabs = Array.prototype.slice.call(bar.querySelectorAll('.tab'));
 var lab = bar.querySelector('.lab'), src = bar.querySelector('.src');
-var caps=[], srcs=[]; try{ caps=JSON.parse(reel.dataset.caps||'[]'); }catch(e){} try{ srcs=JSON.parse(reel.dataset.srcs||'[]'); }catch(e){}
-function setActive(i){ tabs.forEach(function(t,j){ t.classList.toggle('on', j===i); }); if(lab) lab.textContent=caps[i]||''; if(src&&srcs[i]) src.href=srcs[i]; }
+var caps=[], srcs=[], labs=[]; try{ caps=JSON.parse(reel.dataset.caps||'[]'); }catch(e){} try{ srcs=JSON.parse(reel.dataset.srcs||'[]'); }catch(e){} try{ labs=JSON.parse(reel.dataset.labs||'[]'); }catch(e){}
+function setActive(i){ tabs.forEach(function(t,j){ t.classList.toggle('on', j===i); }); if(lab) lab.textContent=caps[i]||''; if(src&&srcs[i]){ src.href=srcs[i]; src.textContent=labs[i]||'Source ↗'; } }
 function curIdx(){ var n=tabs.length?tabs.length-1:0; return Math.min(n, Math.max(0, Math.round(reel.scrollLeft/Math.max(1,reel.clientWidth)))); }
 var settle;
 reel.addEventListener('scroll', function(){ setActive(curIdx()); clearTimeout(settle); settle=setTimeout(function(){ setActive(curIdx()); }, 150); }, {passive:true});
@@ -239,7 +256,7 @@ function anim(on){ img.classList.toggle('anim', !!on); }
 function open(src, cap, source){
 img.classList.remove('anim');
 img.src=src; capText.textContent=cap||'';
-if(source && source!=='#'){ srcA.href=source; srcA.style.display=''; } else { srcA.style.display='none'; }
+if(source && source!=='#'){ srcA.href=source; srcA.textContent=srcLabel(source); srcA.style.display=''; } else { srcA.style.display='none'; }
 reset(); lbox.classList.add('open'); lbox.setAttribute('aria-hidden','false'); document.body.style.overflow='hidden';
 }
 function close(){ lbox.classList.remove('open'); lbox.setAttribute('aria-hidden','true'); document.body.style.overflow=''; img.src=''; pointers.clear(); lastDist=0; lastMid=null; }
@@ -308,7 +325,8 @@ var fig=im.closest('.shot'), reel=im.closest('.reel'), idx=0, caps=[], srcs=[];
 if(reel){ var figs=Array.prototype.slice.call(reel.querySelectorAll('.shot')); idx=Math.max(0,figs.indexOf(fig));
 try{ caps=JSON.parse(reel.dataset.caps||'[]'); }catch(_){}
 try{ srcs=JSON.parse(reel.dataset.srcs||'[]'); }catch(_){} }
-var big=(im.currentSrc||im.src||'').replace(/([?&]width=)\d+/, '$12000');
+var full=im.getAttribute('data-full');
+var big = full ? full : (im.currentSrc||im.src||'').replace(/([?&]width=)\d+/, '$12000');
 window.__openLightbox(big, caps[idx]||'', srcs[idx]||'#');
 });
 

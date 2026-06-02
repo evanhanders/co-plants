@@ -76,25 +76,37 @@ type via `groupOf()`.
 
 - The card fields: `common, botanical, type, native, blurb, size, sun, water,
   spread, seasons, wildlife, deer, toxic, winter, verified`.
-- `commons:'File.jpg'` — the primary photo (a Commons filename). May be `""`.
-- `shots:[…]` *(optional)* — an ordered seasonal reel. Each entry is
-  `{ commons | url | local | try:[a,b], s?:'spring'|'summer'|'fall'|'winter', cap? }`.
-  `try:[…]` lists fallback Commons filenames; `local:'images/foo.jpg'` is a
-  repo-hosted file (resolved against the plant's `dir`).
+- `commons:'File.jpg'` — legacy primary photo (a Commons filename). May be `""`. Once a
+  plant has repo-hosted `shots`, this is just dead fallback metadata; new plants don't
+  need it.
+- `shots:[…]` *(optional)* — an ordered seasonal reel; each entry is one photo panel.
+  Fields: `{ local, full, url | commons | try:[a,b], s?, cap?, by?, lic?, link? }`.
+  - `local:'images/foo-t.jpg'` — repo-hosted **≤400px thumbnail** shown on the card
+    (resolved against the plant's `dir`). This is what the encyclopedia grid loads.
+  - `full:'images/foo.jpg'` — repo-hosted **full-size image (≤1500px)** opened in the
+    zoom lightbox when the card photo is clicked.
+  - `url` / `commons` / `try:[…]` — remote fallbacks (iNat `large` URL, or a Commons
+    filename via `Special:FilePath`) used only if the local file is missing.
+  - `s` — `'spring'|'summer'|'fall'|'winter'` (drives the season tab icon).
+  - `cap` — caption shown under the photo; bake the attribution in, e.g.
+    `"Spring — flower racemes · © Jane Doe (CC-BY) / iNaturalist"`.
+  - `by`/`lic`/`link` — photographer, license, and source page (attribution record).
 
-**Image resolution** (`shotsFor` → `shotCandidates`): per shot, candidates are tried
-in order **local → try[] → url → commons**, each Commons name going through
-`Special:FilePath`. The `<img onerror>` handler (`__imgnext`) walks to the next
-candidate, and falls back to a "coming soon"/"unavailable" placeholder. A plant with
-no `shots` falls back to `commons`, then `photo`. **This means downloading images
-later is non-breaking:** drop a file in the plant's `images/`, add `local:` to the
-shot, and it's preferred while Commons stays as the fallback.
+**Image resolution** (`shotsFor` → `shotCandidates`): per shot the **card thumbnail**
+tries **local → try[] → url → commons** (each Commons name via `Special:FilePath`); the
+`<img onerror>` handler (`__imgnext`) walks to the next candidate, then to a
+"coming soon"/"unavailable" placeholder. The **lightbox full image** (`shotFull`) uses
+`full` (local) if present, else upgrades the remote candidate to a 2000px render. A
+plant with no `shots` falls back to `commons`, then `photo`. **Self-hosting is
+non-breaking:** the remote `url`/`commons` stays as a safety net under the local files.
 
 ### UI features
 
 Cards grouped by plant type (collapsible) with an A–Z toggle, a search box, a
-weed-gated "add plant" form, and a swipeable per-season photo strip. **Photos must
-be real Wikimedia Commons images — no illustrations.**
+weed-gated "add plant" form, and a swipeable per-season photo strip. The card shows a
+small thumbnail; clicking it opens the full-size image in a pinch/scroll zoom lightbox.
+**Photos must be real CC-licensed photographs — no illustrations.** (See "Image
+requirements & sourcing" below for the per-plant photo spec.)
 
 ### Known reel gotcha (already fixed — don't regress)
 
@@ -129,7 +141,8 @@ hosted herbarium. The order matters:
    year+ old or before a big planting.
 2. **Gather the card fields** above (size, sun, water, spread, seasons incl.
    winter, wildlife, deer, toxicity).
-3. **Find a real Wikimedia Commons photo** (see image rules below).
+3. **Source repo-hosted photos** meeting the per-plant spec in "Image requirements &
+   sourcing" below (close-up + structure, right species, open-licensed, upright).
 4. **Show the user the image(s) and the blurb in chat for sign-off first.** Don't
    create the plant file until the visual + blurb are approved.
 5. **After approval,** create `plants/<category>/<slug>/plant.json` (with a `shots`
@@ -139,23 +152,61 @@ hosted herbarium. The order matters:
    common name lowercased and hyphenated. No giant array to edit anymore — one new
    file plus one manifest line.
 
-## Image sourcing rules
+## Image requirements & sourcing
 
-- Use real **CC-licensed Wikimedia Commons** photos via `Special:FilePath`.
-- Prefer finding/verifying the exact `File:Name.jpg` title yourself. In Claude Code
-  with network access you may be able to browse Commons directly — if so, confirm
-  the file resolves before wiring it in.
-- To avoid look-alikes, search the **species-specific subcategory** (e.g.
-  `Category:Alnus incana subsp. tenuifolia`) and `Special:MediaSearch`.
-- **Never hotlink copyrighted nursery/blog photos**, and never bake in guessed or
-  unverified URLs.
-- **Fallback:** if you can't verify an image, the user can paste a Commons
-  `File:Name.jpg` title (or link) and you wire it in. The exact title is all you need.
-- `shots` entries accept `try:[a, b]` so you can list fallback filenames per season.
-- **Repo-hosted images:** to self-host (rather than live-load from Commons), drop the
-  file in the plant's `images/` folder and add `local:'images/name.jpg'` to the shot.
-  Local is tried first; keep the `commons:`/`try:` title on the same shot as a fallback.
-  Still use CC-licensed Commons originals — keep attribution in the `cap`/source.
+**Images are repo-hosted, not hotlinked.** The guide must not depend on a remote host
+staying up, so every shot's photo lives in the plant's `images/` folder. Remote
+`url`/`commons` stays only as a thin fallback.
+
+**Per-plant photo spec** — for each plant aim for, at minimum:
+
+1. **A close-up** showing leaves *and* flowers (the identifying detail).
+2. **A wider "structure" shot** showing how the whole plant grows (habit/form).
+3. **Same species** as the record — verify the photo actually shows the right plant,
+   not a look-alike (check the source taxon, and eyeball it against known features).
+4. **Open-licensed / OK to reuse** — CC0, CC-BY, CC-BY-SA, or (this is a non-commercial
+   personal guide) CC-BY-NC / CC-BY-NC-SA. Never "All Rights Reserved", never a
+   copyrighted nursery/blog photo. Always record attribution.
+5. **A photograph, not a drawing/illustration.**
+6. **Oriented upright, not rotated** — apply EXIF orientation when processing; reject
+   sideways/upside-down shots.
+
+**Nice-to-have:** a matching close-up + structure pair **for each season** (spring /
+summer / fall / winter), so the reel tells the year-round story — especially where the
+plant changes a lot (fall color, winter stems/seedheads). Don't pad the reel with
+near-duplicate summer shots just to hit four tabs.
+
+**Each image ships in two sizes** (the `finalize.py` tool does this automatically):
+a **≤400px square-max thumbnail** (`local:`, what the card grid loads) and a
+**≤1500px full image** (`full:`, what the zoom lightbox opens). Keep files lean
+(JPEG q≈82–85) — this is a git repo.
+
+### Where the photos come from (this environment)
+
+The sandbox network **allowlist blocks all of Wikimedia Commons** (and the iNat/GBIF/
+Openverse/Flickr search APIs). The one reachable CC photo corpus is the **iNaturalist
+open-data set on S3** (`inaturalist-open-data.s3.amazonaws.com`), which holds only
+CC0 / CC-BY / CC-BY-NC photos. There's no search endpoint, so we build a
+species→photo index by streaming its big tables once. The whole pipeline lives in
+`tools/` and is reusable:
+
+| step | tool | what it does |
+|------|------|--------------|
+| map names→taxa | `species_map.json` + `resolve_taxa.py` | botanical name → iNat `taxon_id` set (incl. subspecies). Edit `species_map.json` to add plants. |
+| build index | `build_index.sh` (`filter_obs.py`, `filter_photos.py`) | streams `observations.csv.gz` (12GB) + `photos.csv.gz` (18GB) from S3, emits `photos_keep.tsv` candidate pool to `/tmp/imgwork`. ~10–15 min; run in background. |
+| shortlist | `select_candidates.py` | ranks candidates (resolution, **Colorado/N-America locality**, lead-photo, license) and writes `shortlist.json`. |
+| review | `fetch_montage.py` | downloads thumbnails and builds one labeled contact-sheet per plant in `/tmp/imgwork/montage/`. **`Read` each montage and pick** the best close-up + structure (per season), checking species/orientation. |
+| finalize | `finalize.py` + a hand-written `picks.json` | downloads full-res for the picks, EXIF-orients, writes `images/<season>-<kind>.jpg` + `-t.jpg` thumbs, rewrites `plant.json` `shots[]`, and drops `images/credits.json` for license provenance. |
+
+- Photos are served from `…/photos/{photo_id}/{medium|large|original}.{ext}`. License
+  lives in `photos.csv`; photographer name comes from `observers.csv.gz`.
+- **Cultivars/hybrids** (climbing & rambling roses, 'Jackmanii' clematis, garden dahlia)
+  have no clean iNat taxon — they need hand-sourcing or a kept Commons fallback.
+- If/when Commons is reachable again, the same `shots` schema accepts `commons:`/`try:`
+  titles via `Special:FilePath`; verify the exact `File:Name.jpg` resolves before wiring
+  it in, and prefer the **species-specific subcategory** to dodge look-alikes.
+- **Fallback:** the user can always paste a Commons `File:Name.jpg` title (or any direct
+  CC image URL) and you wire it in.
 
 ## Weed-verification gotchas
 

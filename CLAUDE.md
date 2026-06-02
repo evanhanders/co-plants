@@ -81,8 +81,10 @@ type via `groupOf()`.
   need it.
 - `shots:[…]` *(optional)* — an ordered seasonal reel; each entry is one photo panel.
   Fields: `{ local, full, url | commons | try:[a,b], s?, cap?, by?, lic?, link? }`.
-  - `local:'images/foo-t.jpg'` — repo-hosted **≤400px thumbnail** shown on the card
-    (resolved against the plant's `dir`). This is what the encyclopedia grid loads.
+  - `local:'images/foo-t.jpg'` — repo-hosted **card thumbnail** shown in the grid
+    (resolved against the plant's `dir`). It's a **720×480 (3:2) smart-crop** so it stays
+    crisp on retina/phone screens, where the card image area is 700px+ of device pixels;
+    `tools/rethumb.py` generates these (see below). This is what the encyclopedia grid loads.
   - `full:'images/foo.jpg'` — repo-hosted **full-size image (≤1500px)** opened in the
     zoom lightbox when the card photo is clicked.
   - `url` / `commons` / `try:[…]` — remote fallbacks (iNat `large` URL, or a Commons
@@ -176,10 +178,16 @@ summer / fall / winter), so the reel tells the year-round story — especially w
 plant changes a lot (fall color, winter stems/seedheads). Don't pad the reel with
 near-duplicate summer shots just to hit four tabs.
 
-**Each image ships in two sizes** (the `finalize.py` tool does this automatically):
-a **≤400px square-max thumbnail** (`local:`, what the card grid loads) and a
-**≤1500px full image** (`full:`, what the zoom lightbox opens). Keep files lean
-(JPEG q≈82–85) — this is a git repo.
+**Each image ships in two sizes:** a **720×480 (3:2) smart-cropped thumbnail**
+(`local:`, what the card grid loads) and a **≤1500px full image** (`full:`, what the
+zoom lightbox opens). The `finalize.py` / `commons_finalize.py` tools write the full
+image plus a provisional thumb; **`tools/rethumb.py` then (re)generates every card
+thumbnail** — it crops each full image to the card's 3:2 plate around the most
+*interesting* region (sharpest/highest-edge band, mild center bias) and resizes to
+720×480, so cards stay crisp on retina/phone screens and the subject is framed rather
+than arbitrarily center-cropped. The uncropped full image is untouched. Run it after any
+finalize, or `python3 tools/rethumb.py plants/<cat>/<slug>` for one plant. Keep files
+lean (JPEG q≈82–85) — this is a git repo.
 
 ### Where the photos come from (this environment)
 
@@ -249,11 +257,12 @@ roses and 'Jackmanii' clematis — which have no clean iNat taxon):
 **27 specimens**, all verified non-weed in CO. Grouped by type below (the order the
 site uses). **All 27 now carry repo-hosted photo reels** (close-up + structure,
 seasonal where good shots exist); each plant's exact shots live in its `plant.json`.
-24 were sourced from the iNaturalist open dataset; the **3 vine cultivars** (garden
-clematis, climbing & rambling rose) have no clean iNat taxon and were hand-sourced
-from Wikimedia Commons (see `tools/commons_search.py` + `commons_finalize.py`). Every
-shot keeps a remote `commons`/`url` fallback. (N) = CO/regional native, (I) =
-introduced/vetted.
+most were sourced from the iNaturalist open dataset; the **3 vine cultivars** (garden
+clematis, climbing & rambling rose — no clean iNat taxon) and **wild bergamot's summer
+shots** were hand-sourced from Wikimedia Commons (see `tools/commons_search.py` +
+`commons_finalize.py`). Every shot keeps a remote `commons`/`url` fallback. Card
+thumbnails are 720×480 smart-crops (`tools/rethumb.py`). (N) = CO/regional native,
+(I) = introduced/vetted.
 
 **Trees**
 - Chokecherry (*Prunus virginiana*) (N) — reel: spring flowers / summer + fall fruit

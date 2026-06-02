@@ -14,6 +14,23 @@
   "toxic": "None of concern — foliage was historically cooked as a potherb ('Navajo spinach')",
   "winter": false,
   "verified": "2026-06-02",
+  "care": {
+    "hardiness": "Grown as a warm-season annual — it completes its whole life in one season and dies at the first hard frost, so winter hardiness isn't a concern. Reliable anywhere with a frost-free summer (USDA 2–11 as an annual).",
+    "sun": "Full sun — at least 6 hours of direct light. In too much shade it grows leggy, flops, and blooms sparsely.",
+    "soil": "Lean, sandy or gravelly, and sharply drained — it's a disturbed-ground prairie plant that thrives in poor soil. Tolerates alkaline Front Range clay if drainage is decent; pH 6.5–8.0. Avoid rich, soggy, or heavily amended beds, which make it floppy.",
+    "water": "Low once established. Keep the seedbed evenly moist until plants are a few inches tall, then water deeply but infrequently — every 1–2 weeks in summer heat, less if it rains. Drought-tolerant; overwatering causes weak, leggy growth.",
+    "spacing": "Thin or space plants 12–18 in apart; each reaches 1–2 ft wide and 2–4 ft tall. Sow in generous drifts rather than singletons for the best prairie effect and pollinator draw.",
+    "sow": "Direct-sow where it's to grow — it has a taproot and resents transplanting. Either scatter seed outdoors in late fall (nature stratifies it over winter) or sow in spring once soil reaches ~60–65°F, roughly mid-to-late May around Boulder. Press seed into firm, weed-free soil.",
+    "stratify": "Seed germinates poorly without a cold-moist chill. Fall sowing handles this naturally; for spring sowing, mix seed with damp sand and refrigerate 2–4 weeks (cold-moist stratification) before planting.",
+    "depth": "Barely cover — sow about 1/8 to 1/4 in deep and tamp; it needs near-surface warmth and some light. Germination is uneven, typically 1–3 weeks once soil is warm. Don't panic if it's slow or staggered.",
+    "bloom": "June through September — a long season of pink-purple 'spider' flower heads, with the showiest flush in mid-to-late summer.",
+    "feeding": "None needed. Skip fertilizer and rich compost entirely; lean soil keeps it compact, sturdy, and free-flowering. Feeding produces lush foliage at the expense of bloom and makes it flop.",
+    "maintenance": "Essentially none. Tall plants in exposed sites may appreciate a single support or a neighbor to lean on. Light deadheading early on prolongs bloom, but stop by late summer so pods can ripen for reseeding and birds.",
+    "selfsow": "Leave a few seed pods to dry and shatter and it returns yearly in drifting colonies — abundant but not invasive (not a CO-listed weed). Volunteers are easy to recognize and thin in spring; pull any you don't want.",
+    "troubles": "Trouble-free on the Front Range. Occasional aphids on stems and the odd caterpillar; no serious disease. Good airflow and lean soil keep it clean.",
+    "harvest": "Collect your own seed in fall once pods turn tan and dry but before they split. Dry the pods further indoors, shake out the small dark seeds, and store cool and dry — viability improves after a cold winter or fridge chill.",
+    "companions": "Native grasses (little bluestem), blanketflower, prairie zinnia, native sunflowers, and other lean-soil prairie plants that share its full-sun, low-water needs."
+  },
   "shots": [
     {
       "local": "images/su-flower-t.jpg",

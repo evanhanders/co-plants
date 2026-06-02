@@ -82,6 +82,15 @@ type via `groupOf()`.
 - `commons:'File.jpg'` — legacy primary photo (a Commons filename). May be `""`. Once a
   plant has repo-hosted `shots`, this is just dead fallback metadata; new plants don't
   need it.
+- `care:{…}` *(optional)* — the **grow-and-care detail** for the per-plant detail page
+  (see "Detail page" below). A flat object of prose strings keyed by aspect; the detail
+  renderer reads a fixed, ordered allow-list of keys (`CARE_FIELDS` in `app.js`) and skips
+  any that are absent, so a plant can fill in as many or as few as apply. Current keys:
+  `hardiness, sun, soil, water, spacing, sow, stratify, depth, bloom, feeding,
+  maintenance, selfsow, troubles, harvest, companions`. Keep each value a short paragraph
+  of Front-Range-specific, practical guidance. Add a new aspect by extending `CARE_FIELDS`
+  (key + display label) — no other code change needed. Only the prototype plant (Rocky
+  Mountain bee plant) carries a full `care` block today.
 - `shots:[…]` *(optional)* — an ordered seasonal reel; each entry is one photo panel.
   Fields: `{ local, full, url | commons | try:[a,b], s?, cap?, by?, lic?, link? }`.
   - `local:'images/foo-t.jpg'` — repo-hosted **card thumbnail** shown in the grid
@@ -104,6 +113,25 @@ tries **local → try[] → url → commons** (each Commons name via `Special:Fi
 `full` (local) if present, else upgrades the remote candidate to a 2000px render. A
 plant with no `shots` falls back to `commons`, then `photo`. **Self-hosting is
 non-breaking:** the remote `url`/`commons` stays as a safety net under the local files.
+
+### Detail page ("go into a plant")
+
+Each plant has a full **detail page** reachable from its card (the card title and the
+"Grow & care details →" link both point to it). It is **not a separate file** — it's a
+hash route inside the same SPA: `#plant=<category>/<slug>` (e.g.
+`#plant=annuals/rocky-mountain-bee-plant`). `route()` (wired to load + `hashchange`)
+reads the slug via `currentSlug()`; if present it calls `renderDetail(slug)`, otherwise
+the normal grid `render()`. This keeps the URL shareable, the back button working, and
+**reuses the existing reel + lightbox + shot-resolution code verbatim** (the detail sheet
+is just a bigger `.plate`; `wireReels`/the delegated lightbox handlers already cover it).
+
+`renderDetail` sets `body.detail` (CSS hides the toolbar/filters/legend/meta-row), renders
+a masthead-style **sheet**: hero photo reel + name/botanical/blurb/badges/trait-flags, an
+**"At a glance"** facts table (the same card fields), a **"Growing & care on the Front
+Range"** grid built from the plant's `care` object (see schema), and a **"Photographs"**
+credits list (photographer · license · source per shot). Filter state is kept in memory
+while you're on a detail page, so the back link (`href="#"`) restores the grid you left.
+To extend a plant's detail page, add/extend its `care` object — no per-plant code.
 
 ### UI features
 
@@ -375,6 +403,11 @@ sage.
 
 The current backlog. Move items out of this section as they ship.
 
+- **Roll out detail pages to every plant.** The per-plant detail page (above) is built and
+  wired for all plants, but only the prototype (Rocky Mountain bee plant) has a full `care`
+  block; every other plant currently shows the "notes still being written" placeholder
+  under "Growing & care." Fill in each plant's `care` object (the `CARE_FIELDS` keys) with
+  Front-Range-specific guidance to light up its detail page.
 - **Fuller seasonal reels:** the sparse natives (horned spurge) and a few single-season
   garden flowers could still grow extra-season shots as better candidates surface. The
   iNat API has far more CC photos per plant than were picked — re-query it (the fast

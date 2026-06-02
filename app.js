@@ -126,28 +126,131 @@ else { localStorage.setItem(STORAGE_KEY, JSON.stringify(userPlants)); }
 }
 function isUser(p){ const key=p.botanical.toLowerCase().trim(); return userPlants.some(function(u){return u.botanical.toLowerCase().trim()===key;}) && !SEED.some(function(s){return s.botanical.toLowerCase().trim()===key;}); }
 function allPlants(){ const map=new Map(); SEED.concat(userPlants).forEach(function(p){ map.set(p.botanical.toLowerCase().trim(), p); }); return Array.from(map.values()).sort(function(a,b){ return a.common.localeCompare(b.common,'en',{sensitivity:'base'}); }); }
-function cardHTML(p){
-const plate = plateHTML(p);
-const nat = (p.native && p.native.indexOf('native')>-1 && p.native!=='Non-native')
-? '<span class="nat">'+p.native+'</span>' : '<span class="nat intro">'+(p.native||'Vetted')+'</span>';
+/* the per-plant detail-page hash route, e.g. "#plant=annuals/rocky-mountain-bee-plant" */
+function slugOf(p){ return p.dir ? p.dir.replace(/^plants\//,'') : null; }
+function detailHref(p){ var s=slugOf(p); return s ? '#plant='+encodeURIComponent(s).replace(/%2F/g,'/') : null; }
+function natBadge(p, cls){
+return (p.native && p.native.indexOf('native')>-1 && p.native!=='Non-native')
+? '<span class="'+cls+'">'+(p.native||'')+'</span>' : '<span class="'+cls+' intro">'+(p.native||'Vetted')+'</span>';
+}
+/* trait flags — shared by the grid card and the detail sheet */
+function flagsHTML(p){
 const flags=[];
 if(TRAITS.winter.test(p)) flags.push('<span class="flag winter">❄ Winter interest</span>');
 if(TRAITS.pollin.test(p)) flags.push('<span class="flag pollin">✿ Pollinator</span>');
 if(TRAITS.spreads.test(p)) flags.push('<span class="flag run">↔ Spreads</span>');
 if(TRAITS.toxic.test(p)) flags.push('<span class="flag toxic">⚠ Toxic parts</span>');
+return flags.join('');
+}
+function cardHTML(p){
+const plate = plateHTML(p);
+const nat = natBadge(p, 'nat');
+const href = detailHref(p);
+const name = href ? '<a class="namelink" href="'+href+'">'+p.common+'</a>' : p.common;
 return '<article class="card"><div class="plate">'+plate+'<span class="corner">'+(p.type||'')+'</span>'+nat+'</div>'+
-'<div class="body"><h3 class="name">'+p.common+'</h3><p class="latin">'+p.botanical+'</p>'+
+'<div class="body"><h3 class="name">'+name+'</h3><p class="latin">'+p.botanical+'</p>'+
 '<p class="blurb">'+(p.blurb||'')+'</p><dl class="facts">'+
 '<dt>Size</dt><dd>'+(p.size||'—')+'</dd><dt>Sun</dt><dd>'+(p.sun||'—')+'</dd>'+
 '<dt>Water</dt><dd>'+(p.water||'—')+'</dd><dt>Habit</dt><dd>'+(p.spread||'—')+'</dd>'+
 '<dt>Seasons</dt><dd>'+(p.seasons||'—')+'</dd><dt>Wildlife</dt><dd>'+(p.wildlife||'—')+'</dd>'+
 '<dt>Deer</dt><dd>'+(p.deer||'—')+'</dd>'+(p.toxic?'<dt>Caution</dt><dd>'+p.toxic+'</dd>':'')+
-'</dl><div class="flags">'+flags.join('')+'</div>'+
+'</dl><div class="flags">'+flagsHTML(p)+'</div>'+
 '<div class="verified">Verified non-weed in CO · '+(p.verified||'date n/a')+'</div>'+
+(href?'<a class="detaillink" href="'+href+'">Grow &amp; care details →</a>':'')+
 (isUser(p)?'<button class="del" data-bot="'+p.botanical+'">remove</button>':'')+'</div></article>';
 }
+/* ---------- plant detail ("go into a plant") page ---------- */
+const SITE_TITLE = document.title;
+/* ordered growing-and-care fields read out of a plant's optional `care` object */
+const CARE_FIELDS = [
+['hardiness','Hardiness'],
+['sun','Sunlight'],
+['soil','Soil'],
+['water','Watering'],
+['spacing','Spacing'],
+['sow','Sowing'],
+['stratify','Seed preparation'],
+['depth','Depth & germination'],
+['bloom','Bloom time'],
+['feeding','Feeding'],
+['maintenance','Maintenance'],
+['selfsow','Self-sowing'],
+['troubles','Pests & problems'],
+['harvest','Seed saving'],
+['companions','Good companions']
+];
+function factsDL(p, cls){
+return '<dl class="facts '+(cls||'')+'">'+
+'<dt>Mature size</dt><dd>'+esc(p.size||'—')+'</dd><dt>Sun</dt><dd>'+esc(p.sun||'—')+'</dd>'+
+'<dt>Water</dt><dd>'+esc(p.water||'—')+'</dd><dt>Spread / habit</dt><dd>'+esc(p.spread||'—')+'</dd>'+
+'<dt>Seasonal interest</dt><dd>'+esc(p.seasons||'—')+'</dd><dt>Wildlife</dt><dd>'+esc(p.wildlife||'—')+'</dd>'+
+'<dt>Deer</dt><dd>'+esc(p.deer||'—')+'</dd>'+
+'<dt>Toxicity</dt><dd>'+esc(p.toxic||'None of concern')+'</dd></dl>';
+}
+function carePanels(care){
+return CARE_FIELDS.filter(function(f){ return care[f[0]]; })
+.map(function(f){ return '<div class="care-item"><dt>'+f[1]+'</dt><dd>'+esc(care[f[0]])+'</dd></div>'; })
+.join('');
+}
+function creditsHTML(p){
+var shots = shotsFor(p).filter(function(s){ return s.by||s.lic||s.link||s.url||s.commons; });
+if(!shots.length) return '';
+var rows = shots.map(function(s){
+var src=shotSource(s), lab=srcLabel(src), cp=capPlain(s.cap||'');
+var who = s.by ? esc(s.by) : 'Unknown';
+var lic = s.lic ? ' · '+esc(s.lic) : '';
+var link = (src && src!=='#') ? ' <a href="'+esc(src)+'" target="_blank" rel="noopener noreferrer">'+lab+'</a>' : '';
+return '<li>'+(cp?'<span class="cap">'+esc(cp)+'</span> — ':'')+'© '+who+lic+link+'</li>';
+});
+return '<ul class="creditlist">'+rows.join('')+'</ul>';
+}
+function renderDetail(slug){
+document.body.classList.add('detail');
+window.scrollTo(0,0);
+const p = allPlants().filter(function(x){ return slugOf(x)===slug; })[0];
+const back = '<a class="backlink" href="#">‹ Back to all specimens</a>';
+if(!p){
+document.title = SITE_TITLE;
+content.innerHTML = '<div class="detail">'+back+'<p class="empty">That specimen isn’t in the guide.</p></div>';
+return;
+}
+document.title = p.common+' · '+SITE_TITLE;
+const care = p.care || {};
+const panels = carePanels(care);
+const grow = panels
+? '<div class="caregrid">'+panels+'</div>'
+: '<p class="care-empty">Detailed growing notes for this specimen are still being written — see the at-a-glance facts above for the essentials.</p>';
+const credits = creditsHTML(p);
+content.innerHTML =
+'<div class="detail">'+back+
+'<article class="sheet">'+
+'<div class="sheet-head">'+
+'<div class="plate">'+plateHTML(p)+'</div>'+
+'<div class="sheet-intro">'+
+'<div class="sheet-badges"><span class="badge-type">'+esc(p.type||'')+'</span>'+natBadge(p,'badge-nat')+'</div>'+
+'<h1 class="display sheet-name">'+esc(p.common)+'</h1>'+
+'<p class="latin">'+esc(p.botanical)+'</p>'+
+'<p class="lead">'+esc(p.blurb||'')+'</p>'+
+'<div class="flags">'+flagsHTML(p)+'</div>'+
+'<div class="verified">Verified non-weed in CO · '+esc(p.verified||'date n/a')+'</div>'+
+'</div>'+
+'</div>'+
+'<section><h2>At a glance</h2>'+factsDL(p,'big')+'</section>'+
+'<section><h2>Growing &amp; care on the Front Range</h2>'+grow+'</section>'+
+(credits?'<section><h2>Photographs</h2>'+credits+'</section>':'')+
+'</article>'+
+back.replace('backlink','backlink foot')+
+'</div>';
+wireReels(content);
+}
+/* read the active plant slug out of the URL hash, if any */
+function currentSlug(){ var m=(location.hash||'').match(/(?:^#|&)plant=([^&]+)/); return m?decodeURIComponent(m[1]):null; }
+/* top-level route: a #plant=… hash shows the detail sheet, otherwise the grid */
+function route(){ var slug=currentSlug(); if(slug){ renderDetail(slug); } else { render(); } }
 function gridOf(list){ return '<div class="grid">'+list.map(cardHTML).join('')+'</div>'; }
 function render(){
+document.body.classList.remove('detail');
+if(document.title!==SITE_TITLE) document.title=SITE_TITLE;
 const q=(searchEl.value||'').toLowerCase().trim();
 const total=allPlants().length;
 const list=allPlants().filter(function(p){
@@ -482,4 +585,5 @@ var card='<div class="skel"><div class="plate"></div><div class="body"><div clas
 content.innerHTML='<div class="grid">'+new Array(8).join(card)+card+'</div>';
 var c=document.getElementById('count'); if(c) c.textContent='…';
 }
-(async function(){ renderSkeleton(); await Promise.all([loadSeed(), loadUser()]); applyHash(); buildTypeChips(); buildTraitChips(); render(); })();
+window.addEventListener('hashchange', route);
+(async function(){ renderSkeleton(); await Promise.all([loadSeed(), loadUser()]); applyHash(); buildTypeChips(); buildTraitChips(); route(); })();

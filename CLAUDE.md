@@ -1,8 +1,24 @@
 # CLAUDE.md — The Front Range Herbarium
 
-Handoff notes for working on this project in Claude Code. Read `index.html` first
-to confirm exact data shapes before editing — this file describes intent and
-conventions, the code is the source of truth.
+The working guide for this project: how it's built, the conventions to follow, and
+the workflows to run. This is a **living document** — keep it current as the project
+evolves (see "Keeping this doc current" below). `index.html` is the source of truth
+for exact data shapes; read it to confirm names/shapes before editing.
+
+## Keeping this doc current
+
+Treat CLAUDE.md as part of the codebase, not a one-time handoff:
+
+- **When you change the workflow, conventions, or architecture, update this file in
+  the same commit.** A new step, a new rule, a new gotcha, a renamed data structure —
+  it goes here as you do it, not later.
+- **When the roster changes** (add/remove/rename a plant, or upgrade a single photo
+  to a reel), update the "Current plant roster" section to match.
+- **When an item ships,** move it out of "Open work."
+- **Prune stale guidance.** If something here no longer reflects the code, fix it or
+  delete it — an out-of-date instruction is worse than none. Don't leave historical
+  asides; describe how things *are now*.
+- Keep the tone operational and present-tense: what to do, not what was once done.
 
 ## What this is
 
@@ -16,16 +32,11 @@ One HTML file, no build step, no dependencies. Served via GitHub Pages.
 
 ## How deploys work
 
-In Claude Code this is much simpler than it was over chat. The repo is cloned
-locally, so:
+The repo is cloned locally, so deploys are just git:
 
 1. Edit `index.html` directly.
 2. `git add index.html && git commit && git push`.
 3. GitHub Pages redeploys automatically; changes go live in a minute or two.
-
-(Historical note: over the chat interface I couldn't reliably fetch the repo and
-the user had to upload `index.html` by hand. None of that applies in Claude Code —
-just use git.)
 
 ## Architecture of index.html
 
@@ -181,23 +192,16 @@ renders its single `commons` photo. (N) = CO/regional native, (I) = introduced/v
 Turkish cliff sage (*Salvia recognita*). Mojave sage is preferred over Turkish cliff
 sage.
 
-## Pending work (as of 2026-06-02)
+## Open work
 
-The previous batch (common lilac, garden peony, dahlia, Russian sage, garden
-clematis) is **done — all five are in `SEED` and live**, along with a later wave
-(cosmos, California poppy, oriental poppy, climbing & rambling rose, snapdragon,
-Colorado blue columbine, Shasta daisy, aspen fleabane, meadow sage, wild bergamot,
-scarlet bee balm). The **search keyboard fix is also shipped** (`blur()` on Enter +
-`search` event, `enterkeyhint="search"` on the input).
-
-Genuinely open items:
+The current backlog. Move items out of this section as they ship.
 
 - **Photos still wanted if found:** Wood's rose hips (fall) and a winter
   little-bluestem shot — both would upgrade those entries to fuller seasonal reels.
-  Most of the newer plants (lilac onward) are single-photo and could grow into reels
-  as good Commons seasonal shots turn up.
+  Most single-photo plants could grow into reels as good Commons seasonal shots
+  turn up.
 - **Optional cleanup:** remove the dead `DIRECT` map and `makeIllo` SVG generator.
-  Note `makeIllo` is still *referenced* by `__imgerr`/`window.__illo` and the add-plant
+  `makeIllo` is still *referenced* by `__imgerr`/`window.__illo`, and the add-plant
   modal still writes an `illo` object onto new plants — but the live reel render path
   (`plateHTML` → `shotCandidates`) never calls it, so it's inert. Untangle those
   references before deleting.

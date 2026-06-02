@@ -349,7 +349,7 @@ thumbnails are 720×480 smart-crops (`tools/rethumb.py`). (N) = CO/regional nati
 - Cosmos (*Cosmos bipinnatus*) (I) — reel: ray-flower closeup / airy foliage habit
 - California poppy (*Eschscholzia californica*) (I) — reel: flowers+foliage / whole plant
 - Snapdragon (*Antirrhinum majus*) (I) — reel: bicolor spike / clump of spikes
-- Rocky Mountain bee plant (*Cleome serrulata*) (N) — reel: flower closeup / prairie stand / whole plant + seed pods
+- Rocky Mountain bee plant (*Cleomella serrulata*, syn. *Cleome serrulata*) (N) — reel: flower closeup / prairie stand / whole plant + seed pods
 
 **Vines** *(cultivars — hand-sourced from Wikimedia Commons)*
 - Garden clematis (*Clematis × jackmanii*, large-flowered hybrids) (I) — reel: violet bloom closeup / sheets on a trellis

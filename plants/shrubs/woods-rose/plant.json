@@ -1,0 +1,25 @@
+{
+  "common": "Wood's rose",
+  "botanical": "Rosa woodsii",
+  "type": "Shrub",
+  "native": "CO native",
+  "blurb": "Fragrant pink wild rose with red hips that hang on all winter.",
+  "size": "2–6 ft (to 10 ft)",
+  "sun": "Full sun–part shade",
+  "water": "Low–moderate; drought-tolerant",
+  "spread": "Running — rhizomatous, forms thickets",
+  "seasons": "Pink fragrant flowers May–Jul; red hips & canes persist through winter",
+  "wildlife": "Xerces native/bumble bee value; hips feed birds & mammals",
+  "deer": "Young spring leaves browsed — only somewhat resistant",
+  "toxic": "",
+  "winter": true,
+  "verified": "2026-05-31",
+  "commons": "Wild rose Rosa woodsii closeup.jpg",
+  "shots": [
+    {
+      "commons": "Wild rose Rosa woodsii closeup.jpg",
+      "s": "summer",
+      "cap": "Summer — pink flowers"
+    }
+  ]
+}

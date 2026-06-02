@@ -1,0 +1,25 @@
+{
+  "common": "Mojave sage",
+  "botanical": "Salvia pachyphylla",
+  "type": "Subshrub",
+  "native": "Non-native",
+  "blurb": "Silvery aromatic mound crowned with violet flowers and lasting mauve bracts.",
+  "size": "2–3 ft × 2–3 ft",
+  "sun": "Full sun",
+  "water": "Low; sharp drainage (esp. winter)",
+  "spread": "Clumping mound — stays put",
+  "seasons": "Silvery semi-evergreen foliage; violet-blue blooms w/ mauve bracts Jun–Nov; winter structure",
+  "wildlife": "Pollinator magnet",
+  "deer": "Deer- & rabbit-resistant",
+  "toxic": "",
+  "winter": true,
+  "verified": "2026-05-31",
+  "commons": "Salvia pachyphylla, the Rose Sage (10461533306).jpg",
+  "shots": [
+    {
+      "commons": "Salvia pachyphylla, the Rose Sage (10461533306).jpg",
+      "s": "summer",
+      "cap": "Summer — violet-blue bloom"
+    }
+  ]
+}

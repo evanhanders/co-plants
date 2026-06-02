@@ -1,0 +1,35 @@
+{
+  "common": "Little bluestem",
+  "botanical": "Schizachyrium scoparium",
+  "type": "Grass",
+  "native": "CO native",
+  "blurb": "Prairie bunchgrass turning mahogany-copper with fluffy winter seed heads.",
+  "size": "2–3 ft × 1–1.5 ft",
+  "sun": "Full sun",
+  "water": "Low; very drought-tolerant",
+  "spread": "Clumping bunchgrass — stays put",
+  "seasons": "Blue-green summer; mahogany/copper fall; upright through winter",
+  "wildlife": "Skipper larval host; songbird seed",
+  "deer": "Generally deer- & rabbit-resistant",
+  "toxic": "",
+  "winter": true,
+  "verified": "2026-05-31",
+  "commons": "Schizachyrium scoparium kz3.jpg",
+  "shots": [
+    {
+      "commons": "SchizachyriumScoparium.jpg",
+      "s": "summer",
+      "cap": "Summer — blue-green clump"
+    },
+    {
+      "commons": "Little Bluestem (Andropogon scoparius) (6188871250).jpg",
+      "s": "fall",
+      "cap": "Fall — coppery-orange color"
+    },
+    {
+      "commons": "Andropogon scoparius (3904157742).jpg",
+      "s": "fall",
+      "cap": "Fall — silvery seed tufts"
+    }
+  ]
+}

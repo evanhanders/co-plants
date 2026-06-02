@@ -1,0 +1,32 @@
+{
+  "note": "Generated list of plant records. Each path resolves to plants/<path>/plant.json.",
+  "plants": [
+    "trees/chokecherry",
+    "trees/mountain-alder",
+    "shrubs/common-lilac",
+    "shrubs/red-twig-dogwood",
+    "shrubs/woods-rose",
+    "subshrubs/mojave-sage",
+    "subshrubs/russian-sage",
+    "grasses/little-bluestem",
+    "perennials/aspen-fleabane",
+    "perennials/colorado-blue-columbine",
+    "perennials/cushion-spurge",
+    "perennials/dahlia",
+    "perennials/garden-peony",
+    "perennials/horned-spurge",
+    "perennials/oriental-poppy",
+    "perennials/salvia-meadow-sage",
+    "perennials/scarlet-bee-balm",
+    "perennials/shasta-daisy",
+    "perennials/silvery-lupine",
+    "perennials/wild-bergamot",
+    "annuals/california-poppy",
+    "annuals/cosmos",
+    "annuals/snapdragon",
+    "annuals/snow-on-the-mountain",
+    "vines/climbing-rose",
+    "vines/garden-clematis",
+    "vines/rambling-rose"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "common": "Red-twig dogwood",
+  "botanical": "Cornus sericea",
+  "type": "Shrub",
+  "native": "CO native",
+  "blurb": "The classic winter shrub — fiery red (or yellow 'Flaviramea') stems against snow.",
+  "size": "6–12 ft × similar (dwarfs 3–5 ft)",
+  "sun": "Full sun–part shade",
+  "water": "Moderate–high",
+  "spread": "Running — suckers form colonies",
+  "seasons": "White flowers May–Jun; white berries; brilliant red/yellow winter stems",
+  "wildlife": "Pollinators; bird berries; Spring Azure host",
+  "deer": "Browsed year-round",
+  "toxic": "",
+  "winter": true,
+  "verified": "2026-05-31",
+  "commons": "Cornus sericea - red osier dogwood - 1.jpg",
+  "shots": [
+    {
+      "commons": "20170717Cornus sericea1.jpg",
+      "s": "summer",
+      "cap": "Summer — green foliage (mid-July)"
+    },
+    {
+      "commons": "20171031Cornus sericea1.jpg",
+      "s": "fall",
+      "cap": "Autumn — foliage turning (late Oct)"
+    },
+    {
+      "commons": "2015-03-16 14 14 56 Oisier Dogwood in winter at the Northeastern Nevada Museum in Elko, Nevada.JPG",
+      "s": "winter",
+      "cap": "Winter — bare red stems"
+    }
+  ]
+}

@@ -22,42 +22,73 @@ Treat CLAUDE.md as part of the codebase, not a one-time handoff:
 
 ## What this is
 
-A self-contained plant field guide for the Colorado Front Range (Boulder area).
-One HTML file, no build step, no dependencies. Served via GitHub Pages.
+A plant field guide for the Colorado Front Range (Boulder area). Vanilla HTML/CSS/JS,
+**no build step, no dependencies, no frameworks.** Served via GitHub Pages. Plant
+content lives in per-plant data files that the page fetches at runtime.
 
 - **Live site:** https://evanhanders.github.io/co-plants/
 - **Repo:** `evanhanders/co-plants` (public)
 - **Entry point:** `index.html` at the repo root (GitHub Pages serves it directly)
 - **Title:** "The Front Range Herbarium" (was previously "Plantarium" — don't revert)
+- **`.nojekyll`** is present so Pages serves every file (incl. the `plants/` tree) verbatim.
 
 ## How deploys work
 
 The repo is cloned locally, so deploys are just git:
 
-1. Edit `index.html` directly.
-2. `git add index.html && git commit && git push`.
+1. Edit the relevant file(s) — `index.html`, `styles.css`, `app.js`, or a
+   `plants/.../plant.json`.
+2. `git add -A && git commit && git push`.
 3. GitHub Pages redeploys automatically; changes go live in a minute or two.
 
-## Architecture of index.html
+**Local preview:** because the page `fetch()`es the plant data, you can't just
+double-click `index.html` — `file://` blocks fetch. Serve it instead:
 
-It's a single file: markup + CSS + vanilla JS, no frameworks. The important data
-structures (confirm names/shapes in the file):
+```
+python3 -m http.server 8000   # then open http://localhost:8000/
+```
 
-- **`SEED`** — the list of plant objects. Each plant carries the card fields below
-  plus a `commons:'File.jpg'` reference for its primary photo.
-- **`SHOTS`** — per-plant, per-season photo reels. Entries support a
-  `try:[a, b]` filename-fallback array so a season can list more than one candidate
-  Commons filename and use the first that loads.
-- Rendering pulls images from **Wikimedia Commons via `Special:FilePath`** using
-  `SHOTS` first, falling back to `p.commons`. Missing photos show a placeholder.
+## Architecture
 
-### Dead code to be aware of
+The site is a few plain files plus a tree of per-plant data:
 
-The file still contains a `DIRECT` image map and a `makeIllo` SVG-illustration
-generator. **Both are dead** — nothing in the render path uses them anymore
-(everything goes through `SHOTS` / `p.commons` + `Special:FilePath`). They're
-candidates for cleanup but removing them is optional. A new plant needs only a
-`commons:'File.jpg'` and an optional `SHOTS` reel.
+```
+index.html              # thin shell: markup only; links styles.css + app.js
+styles.css              # all styling
+app.js                  # all behaviour (render, reels, filters, modal, lightbox, loader)
+.nojekyll               # serve everything verbatim on Pages
+plants/
+  manifest.json         # { "plants": ["trees/chokecherry", ...] } — the list to load
+  <category>/<slug>/
+    plant.json          # one plant's full record (card fields + photo "shots")
+    images/             # repo-hosted photos for this plant (mostly empty for now)
+```
+
+**Load flow (in `app.js`):** on startup `loadSeed()` fetches `plants/manifest.json`,
+then fetches every listed `plant.json` in parallel and assigns them to the in-memory
+`SEED` array (stamping each with `dir = "plants/<category>/<slug>"` so its local
+images resolve). `loadUser()` (localStorage-added plants) runs alongside it, then
+`render()`. `SEED` order doesn't matter — the app sorts by common name and groups by
+type via `groupOf()`.
+
+**`plant.json` schema** (confirm exact shape in any file; `index.html` / a real
+`plant.json` is the source of truth):
+
+- The card fields: `common, botanical, type, native, blurb, size, sun, water,
+  spread, seasons, wildlife, deer, toxic, winter, verified`.
+- `commons:'File.jpg'` — the primary photo (a Commons filename). May be `""`.
+- `shots:[…]` *(optional)* — an ordered seasonal reel. Each entry is
+  `{ commons | url | local | try:[a,b], s?:'spring'|'summer'|'fall'|'winter', cap? }`.
+  `try:[…]` lists fallback Commons filenames; `local:'images/foo.jpg'` is a
+  repo-hosted file (resolved against the plant's `dir`).
+
+**Image resolution** (`shotsFor` → `shotCandidates`): per shot, candidates are tried
+in order **local → try[] → url → commons**, each Commons name going through
+`Special:FilePath`. The `<img onerror>` handler (`__imgnext`) walks to the next
+candidate, and falls back to a "coming soon"/"unavailable" placeholder. A plant with
+no `shots` falls back to `commons`, then `photo`. **This means downloading images
+later is non-breaking:** drop a file in the plant's `images/`, add `local:` to the
+shot, and it's preferred while Commons stays as the fallback.
 
 ### UI features
 
@@ -99,11 +130,14 @@ hosted herbarium. The order matters:
 2. **Gather the card fields** above (size, sun, water, spread, seasons incl.
    winter, wildlife, deer, toxicity).
 3. **Find a real Wikimedia Commons photo** (see image rules below).
-4. **Show the user the image(s) and the blurb in chat for sign-off first.** Do not
-   rebuild `index.html` until the visual + blurb are approved — editing the full
-   index is the bigger, later step.
-5. **After approval,** add the plant to the `SEED` list (and a `SHOTS` reel if you
-   have multiple seasonal photos), commit, and push.
+4. **Show the user the image(s) and the blurb in chat for sign-off first.** Don't
+   create the plant file until the visual + blurb are approved.
+5. **After approval,** create `plants/<category>/<slug>/plant.json` (with a `shots`
+   array if you have multiple seasonal photos), add its `"<category>/<slug>"` path to
+   `plants/manifest.json`, then commit and push. Category folder follows `groupOf()`
+   (trees, shrubs, subshrubs, grasses, perennials, annuals, vines); slug is the
+   common name lowercased and hyphenated. No giant array to edit anymore — one new
+   file plus one manifest line.
 
 ## Image sourcing rules
 
@@ -117,7 +151,11 @@ hosted herbarium. The order matters:
   unverified URLs.
 - **Fallback:** if you can't verify an image, the user can paste a Commons
   `File:Name.jpg` title (or link) and you wire it in. The exact title is all you need.
-- `SHOTS` entries accept `try:[a, b]` so you can list fallback filenames per season.
+- `shots` entries accept `try:[a, b]` so you can list fallback filenames per season.
+- **Repo-hosted images:** to self-host (rather than live-load from Commons), drop the
+  file in the plant's `images/` folder and add `local:'images/name.jpg'` to the shot.
+  Local is tried first; keep the `commons:`/`try:` title on the same shot as a fallback.
+  Still use CC-licensed Commons originals — keep attribution in the `cap`/source.
 
 ## Weed-verification gotchas
 
@@ -200,15 +238,15 @@ The current backlog. Move items out of this section as they ship.
   little-bluestem shot — both would upgrade those entries to fuller seasonal reels.
   Most single-photo plants could grow into reels as good Commons seasonal shots
   turn up.
-- **Optional cleanup:** remove the dead `DIRECT` map and `makeIllo` SVG generator.
-  `makeIllo` is still *referenced* by `__imgerr`/`window.__illo`, and the add-plant
-  modal still writes an `illo` object onto new plants — but the live reel render path
-  (`plateHTML` → `shotCandidates`) never calls it, so it's inert. Untangle those
-  references before deleting.
+- **Self-host images (gradual):** the `plants/.../images/` folders are ready; download
+  CC-licensed Commons originals into them and add `local:` to the shots over time so
+  the guide stops depending on live Commons load.
 
 ## Quick conventions recap
 
 - Real Commons photos only, verified titles, no illustrations, no copyrighted hotlinks.
 - Weed-check every new plant against CO lists A/B/C + Watch before it goes in.
-- Show image + blurb for sign-off **before** touching `index.html`.
-- One file, vanilla JS, no build — keep it that way unless the user asks otherwise.
+- Show image + blurb for sign-off **before** creating the plant file.
+- A new plant = one `plant.json` + one `manifest.json` line (not a big array edit).
+- Vanilla HTML/CSS/JS, no build, no deps — keep it that way unless the user asks otherwise.
+- Preview locally over `http.server` (fetch won't work from `file://`).

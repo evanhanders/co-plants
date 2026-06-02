@@ -1,0 +1,25 @@
+{
+  "common": "Silvery lupine",
+  "botanical": "Lupinus argenteus",
+  "type": "Perennial",
+  "native": "CO native",
+  "blurb": "Colorado's most common native lupine — silvery leaves, blue-violet spires.",
+  "size": "1–2 ft × ~1 ft",
+  "sun": "Full sun",
+  "water": "Low; drought-tolerant",
+  "spread": "Clumps; colonizes by seed",
+  "seasons": "Blue-violet spikes Jun–Aug; dies fully to ground in winter",
+  "wildlife": "Xerces bee value; butterfly host; nitrogen-fixer",
+  "deer": "Deer-resistant (toxic alkaloids)",
+  "toxic": "All parts (esp. seeds) toxic if eaten — caution with kids/pets/livestock",
+  "winter": false,
+  "verified": "2026-05-30",
+  "commons": "",
+  "shots": [
+    {
+      "commons": "Lupinus argenteus - Sarah Allen 01.jpg",
+      "s": "summer",
+      "cap": "Summer — silvery leaves & blue-violet spikes"
+    }
+  ]
+}

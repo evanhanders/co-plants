@@ -1,0 +1,30 @@
+{
+  "common": "Chokecherry",
+  "botanical": "Prunus virginiana",
+  "type": "Tree",
+  "native": "CO native",
+  "blurb": "Wildlife powerhouse: fragrant white flower racemes, dark fruit, golden fall color.",
+  "size": "~12 ft × 13.5 ft (to 20–30 ft)",
+  "sun": "Full sun–part shade",
+  "water": "Moderate; drought-tolerant once set",
+  "spread": "Running — rhizomes to 35 ft, forms thickets",
+  "seasons": "White racemes spring; red-black fruit late summer; gold–orange fall",
+  "wildlife": "Top Lepidoptera host; bee magnet; birds eat fruit",
+  "deer": "Browsed (winter browse) — not deer-proof",
+  "toxic": "Leaves, bark & seeds contain cyanide compounds — toxic to people/pets/livestock; ripe fruit flesh edible, seeds not",
+  "winter": false,
+  "verified": "2026-05-31",
+  "commons": "Chokecherry - Prunus virginiana (51361592456).jpg",
+  "shots": [
+    {
+      "commons": "Chokecherry (Prunus virginiana) - Kitchener, Ontario 2024-05-19.jpg",
+      "s": "spring",
+      "cap": "Spring — flowering (mid-May)"
+    },
+    {
+      "commons": "Chokecherry (Prunus virginiana) - Kitchener, Ontario 2019-07-28.jpg",
+      "s": "summer",
+      "cap": "Summer — fruit ripening (late July)"
+    }
+  ]
+}

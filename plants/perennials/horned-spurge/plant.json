@@ -1,0 +1,25 @@
+{
+  "common": "Horned spurge",
+  "botanical": "Euphorbia brachycera",
+  "type": "Perennial",
+  "native": "CO native",
+  "blurb": "A low Rocky Mountain native forming spreading yellow-green mats.",
+  "size": "To ~2 ft tall",
+  "sun": "Full sun",
+  "water": "Low; xeric",
+  "spread": "Mat-forming — rhizomatous, spreads",
+  "seasons": "Yellow-green flowerheads; soft mounded foliage",
+  "wildlife": "Pollinator-friendly blooms",
+  "deer": "Deer-resistant (toxic sap)",
+  "toxic": "Milky sap irritates skin/eyes — wear gloves; caution with kids/pets",
+  "winter": false,
+  "verified": "2026-05-28",
+  "commons": "",
+  "shots": [
+    {
+      "commons": "Euphorbia brachycera 2.jpg",
+      "s": "summer",
+      "cap": "Summer — yellow-green flowerheads"
+    }
+  ]
+}

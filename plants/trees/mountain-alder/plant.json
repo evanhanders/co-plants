@@ -1,0 +1,43 @@
+{
+  "common": "Mountain alder",
+  "botanical": "Alnus incana ssp. tenuifolia",
+  "type": "Tree",
+  "native": "CO native",
+  "blurb": "Multi-stem riparian tree with smooth grey bark and early catkins; fixes nitrogen.",
+  "size": "15–30 ft × 12–20 ft",
+  "sun": "Sun–part shade",
+  "water": "High — moist / riparian",
+  "spread": "Running — rhizomes form dense thickets",
+  "seasons": "Maroon-gold catkins early spring; grey to red-brown bark; short-lived",
+  "wildlife": "Browse for deer/elk/rabbits; birds eat seeds; key insect host",
+  "deer": "Browsed — not deer-proof",
+  "toxic": "",
+  "winter": false,
+  "verified": "2026-05-31",
+  "commons": "(ms) Alnus incana 2.jpg",
+  "shots": [
+    {
+      "commons": "2016.03.17 12.53.38 DSC02990 - Flickr - andrey zharkikh.jpg",
+      "s": "spring",
+      "cap": "Spring — male catkins before leaf-out"
+    },
+    {
+      "try": [
+        "(ms) Alnus incana 8.jpg",
+        "(ms) Alnus incana 1.jpg"
+      ],
+      "s": "summer",
+      "cap": "Summer — matte-green, doubly-toothed leaves"
+    },
+    {
+      "commons": "Alnus incana - grey alder - 51991215651.jpg",
+      "s": "fall",
+      "cap": "Fall — woody cones (persist into winter)"
+    },
+    {
+      "commons": "Alnus incana canopy (3704259558).jpg",
+      "s": "winter",
+      "cap": "Late winter — bare canopy, catkins forming"
+    }
+  ]
+}

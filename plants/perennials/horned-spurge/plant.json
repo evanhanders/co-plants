@@ -17,9 +17,24 @@
   "commons": "",
   "shots": [
     {
-      "commons": "Euphorbia brachycera 2.jpg",
+      "local": "images/sp-flowers-t.jpg",
+      "full": "images/sp-flowers.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/375362233/large.jpeg",
+      "s": "spring",
+      "cap": "Spring — yellow-green cyathia & blue-green leaves · © Anders Hastings (CC-BY) / iNaturalist",
+      "by": "Anders Hastings",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/photos/375362233"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/392836529/large.jpeg",
       "s": "summer",
-      "cap": "Summer — yellow-green flowerheads"
+      "cap": "Summer — glaucous, bushy native habit · © My-Lan Le (CC-BY) / iNaturalist",
+      "by": "My-Lan Le",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/photos/392836529"
     }
   ]
 }

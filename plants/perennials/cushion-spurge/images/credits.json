@@ -1,0 +1,36 @@
+[
+  {
+    "file": "images/sp-flowers.jpg",
+    "photo_id": "8139984",
+    "by": "Patrick Leary",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/photos/8139984",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  },
+  {
+    "file": "images/sp-habit.jpg",
+    "photo_id": "8139986",
+    "by": "Patrick Leary",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/photos/8139986",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  }
+]

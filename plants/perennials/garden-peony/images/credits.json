@@ -1,0 +1,36 @@
+[
+  {
+    "file": "images/sp-flowers.jpg",
+    "photo_id": "387167060",
+    "by": "Scott",
+    "license": "CC0",
+    "source": "https://www.inaturalist.org/photos/387167060",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  },
+  {
+    "file": "images/su-foliage.jpg",
+    "photo_id": "287066890",
+    "by": "Elliot Greiner",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/photos/287066890",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  }
+]

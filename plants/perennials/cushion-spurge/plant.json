@@ -14,5 +14,27 @@
   "toxic": "Milky sap irritates skin/eyes — wear gloves; caution with kids/pets",
   "winter": false,
   "verified": "2026-05-28",
-  "commons": "Euphorbia polychroma, wolfsmelk.JPG"
+  "commons": "Euphorbia polychroma, wolfsmelk.JPG",
+  "shots": [
+    {
+      "local": "images/sp-flowers-t.jpg",
+      "full": "images/sp-flowers.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/8139984/large.jpg",
+      "s": "spring",
+      "cap": "Spring — chartreuse flower bracts · © Patrick Leary (CC-BY) / iNaturalist",
+      "by": "Patrick Leary",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/photos/8139984"
+    },
+    {
+      "local": "images/sp-habit-t.jpg",
+      "full": "images/sp-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/8139986/large.jpg",
+      "s": "spring",
+      "cap": "Spring — acid-yellow plants in leaf · © Patrick Leary (CC-BY) / iNaturalist",
+      "by": "Patrick Leary",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/photos/8139986"
+    }
+  ]
 }

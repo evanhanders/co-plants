@@ -14,5 +14,27 @@
   "toxic": "Toxic to dogs, cats & horses if eaten",
   "winter": false,
   "verified": "2026-06-01",
-  "commons": "Paeonia lactiflora 'Gay Paree'.jpg"
+  "commons": "Paeonia lactiflora 'Gay Paree'.jpg",
+  "shots": [
+    {
+      "local": "images/sp-flowers-t.jpg",
+      "full": "images/sp-flowers.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/387167060/large.jpg",
+      "s": "spring",
+      "cap": "Late spring — single white blooms & glossy foliage · © Scott (CC0) / iNaturalist",
+      "by": "Scott",
+      "lic": "CC0",
+      "link": "https://www.inaturalist.org/photos/387167060"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/287066890/large.jpg",
+      "s": "summer",
+      "cap": "Summer — divided foliage after bloom · © Elliot Greiner (CC-BY) / iNaturalist",
+      "by": "Elliot Greiner",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/photos/287066890"
+    }
+  ]
 }

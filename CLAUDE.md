@@ -183,12 +183,19 @@ a **≤400px square-max thumbnail** (`local:`, what the card grid loads) and a
 
 ### Where the photos come from (this environment)
 
-The sandbox network **allowlist blocks all of Wikimedia Commons** (and the iNat/GBIF/
-Openverse/Flickr search APIs). The one reachable CC photo corpus is the **iNaturalist
-open-data set on S3** (`inaturalist-open-data.s3.amazonaws.com`), which holds only
-CC0 / CC-BY / CC-BY-NC photos. There's no search endpoint, so we build a
-species→photo index by streaming its big tables once. The whole pipeline lives in
-`tools/` and is reusable:
+Two CC photo corpora are reachable, depending on the environment's network allowlist:
+
+1. The **iNaturalist open-data set on S3** (`inaturalist-open-data.s3.amazonaws.com`),
+   which holds only CC0 / CC-BY / CC-BY-NC photos. No search endpoint, so we build a
+   species→photo index by streaming its big tables once (the iNat pipeline below).
+2. **Wikimedia Commons** (`*.wikimedia.org`) — reachable when added to the allowlist.
+   It *does* have a search API, used for the hand-sourced cultivars (the Commons
+   pipeline below). Wikimedia rate-limits hard: always send a descriptive
+   `User-Agent`, throttle, and back off on HTTP 429.
+
+The whole pipeline lives in `tools/` and is reusable.
+
+**iNat open-data pipeline** (used for 24/27 plants):
 
 | step | tool | what it does |
 |------|------|--------------|
@@ -200,11 +207,19 @@ species→photo index by streaming its big tables once. The whole pipeline lives
 
 - Photos are served from `…/photos/{photo_id}/{medium|large|original}.{ext}`. License
   lives in `photos.csv`; photographer name comes from `observers.csv.gz`.
-- **Cultivars/hybrids** (climbing & rambling roses, 'Jackmanii' clematis, garden dahlia)
-  have no clean iNat taxon — they need hand-sourcing or a kept Commons fallback.
-- If/when Commons is reachable again, the same `shots` schema accepts `commons:`/`try:`
-  titles via `Special:FilePath`; verify the exact `File:Name.jpg` resolves before wiring
-  it in, and prefer the **species-specific subcategory** to dodge look-alikes.
+
+**Wikimedia Commons pipeline** (used for the 3 vine cultivars — climbing & rambling
+roses and 'Jackmanii' clematis — which have no clean iNat taxon):
+
+| step | tool | what it does |
+|------|------|--------------|
+| search + review | `commons_search.py <slug> "query"…` | hits the Commons API (`list=search` in the File: namespace), reads `imageinfo` (URL + size + license + artist via `extmetadata`), keeps only free licenses + raster photos, downloads review thumbs (via `iiurlwidth`, with 429 backoff), and writes `/tmp/commonswork/<slug>/candidates.json`. |
+| montage | `commons_montage.py <slug>` | tiles those thumbs into one labeled contact-sheet (`montage.jpg`). **`Read` it and pick** the close-up + structure, verifying cultivar/orientation. |
+| finalize | `commons_finalize.py commons_picks.json` | the Commons twin of `finalize.py`: downloads each pick's full Commons original, EXIF-orients, writes `images/<season>-<kind>.jpg` + `-t.jpg`, rewrites `plant.json` `shots[]` (with a `commons:` remote fallback + attribution), and drops `images/credits.json`. |
+
+- The `shots` schema accepts `commons:`/`try:` titles resolved via `Special:FilePath`
+  (app.js tries `local → try[] → url → commons`). Verify the exact `File:Name.jpg`
+  resolves and prefer the **species-specific search/subcategory** to dodge look-alikes.
 - **Fallback:** the user can always paste a Commons `File:Name.jpg` title (or any direct
   CC image URL) and you wire it in.
 
@@ -232,12 +247,13 @@ species→photo index by streaming its big tables once. The whole pipeline lives
 ## Current plant roster (in the live site)
 
 **27 specimens**, all verified non-weed in CO. Grouped by type below (the order the
-site uses). **24 of 27 now carry repo-hosted photo reels** (close-up + structure,
-seasonal where good shots exist) sourced from the iNaturalist open dataset; each
-plant's exact shots live in its `plant.json`. The **3 cultivars** (garden clematis,
-climbing & rambling rose) have no clean iNat taxon and still ride their remote
-`commons` photo — they're the remaining self-hosting gap. (N) = CO/regional native,
-(I) = introduced/vetted.
+site uses). **All 27 now carry repo-hosted photo reels** (close-up + structure,
+seasonal where good shots exist); each plant's exact shots live in its `plant.json`.
+24 were sourced from the iNaturalist open dataset; the **3 vine cultivars** (garden
+clematis, climbing & rambling rose) have no clean iNat taxon and were hand-sourced
+from Wikimedia Commons (see `tools/commons_search.py` + `commons_finalize.py`). Every
+shot keeps a remote `commons`/`url` fallback. (N) = CO/regional native, (I) =
+introduced/vetted.
 
 **Trees**
 - Chokecherry (*Prunus virginiana*) (N) — reel: spring flowers / summer + fall fruit
@@ -275,10 +291,10 @@ climbing & rambling rose) have no clean iNat taxon and still ride their remote
 - California poppy (*Eschscholzia californica*) (I) — reel: flowers+foliage / whole plant
 - Snapdragon (*Antirrhinum majus*) (I) — reel: bicolor spike / clump of spikes
 
-**Vines** *(cultivars — still on remote Commons, not yet self-hosted)*
-- Garden clematis (*Clematis × jackmanii*, large-flowered hybrids) (I) — single Commons photo
-- Climbing rose (*Rosa*, climbing cultivars) (I) — single Commons photo
-- Rambling rose (*Rosa*, rambling cultivars) (I) — single Commons photo
+**Vines** *(cultivars — hand-sourced from Wikimedia Commons)*
+- Garden clematis (*Clematis × jackmanii*, large-flowered hybrids) (I) — reel: violet bloom closeup / sheets on a trellis
+- Climbing rose (*Rosa*, climbing cultivars) (I) — reel: blooms on a brick wall / wall-trained habit
+- Rambling rose (*Rosa*, rambling cultivars) (I) — reel: clustered blooms / rambler over a pergola arch (Paul's Himalayan Musk)
 
 **Dropped from the keep-list (do not re-add):** coyote willow (*Salix exigua*) and
 Turkish cliff sage (*Salvia recognita*). Mojave sage is preferred over Turkish cliff
@@ -288,12 +304,6 @@ sage.
 
 The current backlog. Move items out of this section as they ship.
 
-- **Self-host the 3 cultivars:** garden clematis ('Jackmanii'), climbing rose, and
-  rambling rose still ride a remote `commons` photo — they have no clean iNaturalist
-  taxon, so the open-data pipeline can't reach them. Hand-source a close-up + structure
-  pair each (the user can paste a CC `File:Name.jpg` title or a direct image URL, or
-  add Wikimedia to the network allowlist so the pipeline/Commons is reachable), then
-  run them through `finalize.py` like the rest.
 - **Fuller seasonal reels:** the sparse natives (horned spurge) and a few single-season
   garden flowers could still grow extra-season shots as better candidates surface; the
   iNat candidate pool in `/tmp/imgwork/shortlist.json` (rebuildable via `tools/`) has

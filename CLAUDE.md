@@ -256,8 +256,8 @@ any photo that needs a better shot, e.g. wild bergamot's soft summer pair):
 
 ## Current plant roster (in the live site)
 
-**27 specimens**, all verified non-weed in CO. Grouped by type below (the order the
-site uses). **All 27 now carry repo-hosted photo reels** (close-up + structure,
+**28 specimens**, all verified non-weed in CO. Grouped by type below (the order the
+site uses). **All 28 now carry repo-hosted photo reels** (close-up + structure,
 seasonal where good shots exist); each plant's exact shots live in its `plant.json`.
 most were sourced from the iNaturalist open dataset; the **3 vine cultivars** (garden
 clematis, climbing & rambling rose — no clean iNat taxon) and **wild bergamot's summer
@@ -301,6 +301,7 @@ thumbnails are 720×480 smart-crops (`tools/rethumb.py`). (N) = CO/regional nati
 - Cosmos (*Cosmos bipinnatus*) (I) — reel: ray-flower closeup / airy foliage habit
 - California poppy (*Eschscholzia californica*) (I) — reel: flowers+foliage / whole plant
 - Snapdragon (*Antirrhinum majus*) (I) — reel: bicolor spike / clump of spikes
+- Rocky Mountain bee plant (*Cleome serrulata*) (N) — reel: flower closeup / prairie stand / whole plant + seed pods
 
 **Vines** *(cultivars — hand-sourced from Wikimedia Commons)*
 - Garden clematis (*Clematis × jackmanii*, large-flowered hybrids) (I) — reel: violet bloom closeup / sheets on a trellis

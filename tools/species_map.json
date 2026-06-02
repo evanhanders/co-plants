@@ -25,6 +25,7 @@
     {"slug": "annuals/cosmos",               "names": ["Cosmos bipinnatus"]},
     {"slug": "annuals/snapdragon",           "names": ["Antirrhinum majus"]},
     {"slug": "annuals/snow-on-the-mountain", "names": ["Euphorbia marginata"]},
+    {"slug": "annuals/rocky-mountain-bee-plant", "names": ["Cleomella serrulata", "Cleome serrulata", "Peritoma serrulata"]},
     {"slug": "vines/garden-clematis",        "names": ["Clematis jackmanii"], "genus_ok": "Clematis"},
     {"slug": "vines/climbing-rose",          "names": [], "genus_ok": "Rosa"},
     {"slug": "vines/rambling-rose",          "names": [], "genus_ok": "Rosa"}

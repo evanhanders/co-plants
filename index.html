@@ -47,6 +47,13 @@ h1.display{font-size:clamp(34px,7vw,58px);font-weight:600;line-height:.98;margin
 .btn.ghost{background:transparent;color:var(--ink)}
 .btn.ghost:hover{background:var(--ink);color:var(--paper)}
 .legend{font-size:11.5px;color:var(--ink-soft);margin:2px 0 8px;font-style:italic}
+.filters{display:flex;gap:8px 16px;flex-wrap:wrap;align-items:center;margin:6px 0 2px}
+.filters .fl-label{font-size:11px;letter-spacing:.16em;text-transform:uppercase;color:var(--ink-soft)}
+.chips{display:inline-flex;gap:6px;flex-wrap:wrap}
+.chip{border:1.5px solid var(--line);background:var(--card);color:var(--ink-soft);font-family:'Fraunces',Georgia,serif;font-size:12.5px;padding:6px 12px;border-radius:20px;cursor:pointer;transition:.15s;letter-spacing:.01em}
+.chip:hover{border-color:var(--ink);color:var(--ink)}
+.chip.active{background:var(--green);border-color:var(--green);color:#fff}
+.seg.mini button{padding:8px 12px;font-size:12.5px}
 .note{font-size:11.5px;color:#8a6a10;background:#fff7df;border:1px solid #e6d28a;border-radius:3px;padding:8px 11px;margin:8px 0 6px}
 .grp{margin-top:8px}
 .group-head{ display:flex;align-items:baseline;gap:12px;margin:26px 0 2px;cursor:pointer;user-select:none; }
@@ -104,7 +111,7 @@ h1.display{font-size:clamp(34px,7vw,58px);font-weight:600;line-height:.98;margin
 .modal h2{font-family:'Fraunces',Georgia,serif;font-weight:600;margin:0 0 4px;font-size:24px}
 .modal p.hint{color:var(--ink-soft);font-size:13px;font-style:italic;margin:0 0 18px}
 label{display:block;font-size:11px;letter-spacing:.12em;text-transform:uppercase;color:var(--rust);margin:13px 0 4px;font-family:'Fraunces',Georgia,serif}
-input[type=text],select,textarea{width:100%;padding:9px 11px;border:1.5px solid var(--line);border-radius:2px;background:#fff;font-family:inherit;font-size:14px;color:var(--ink)}
+input[type=text],input[type=search],select,textarea{width:100%;padding:9px 11px;border:1.5px solid var(--line);border-radius:2px;background:#fff;font-family:inherit;font-size:14px;color:var(--ink)}
 textarea{resize:vertical;min-height:50px}
 .two{display:grid;grid-template-columns:1fr 1fr;gap:12px}
 .weedgate{margin-top:18px;background:#fff7df;border:1px solid #e6d28a;border-radius:3px;padding:12px;display:flex;gap:10px;align-items:flex-start;font-size:13px}
@@ -112,6 +119,22 @@ textarea{resize:vertical;min-height:50px}
 .modal-actions{display:flex;gap:10px;justify-content:flex-end;margin-top:20px}
 .err{color:var(--rust);font-size:12.5px;margin-top:10px;min-height:1em}
 footer{text-align:center;margin-top:40px;font-size:11.5px;color:var(--ink-soft);font-style:italic;border-top:1px solid var(--line);padding-top:18px}
+/* ---------- image lightbox ---------- */
+.shot img{cursor:zoom-in}
+.lbox{position:fixed;inset:0;background:rgba(18,14,8,.95);display:none;z-index:100;touch-action:none;user-select:none;-webkit-user-select:none}
+.lbox.open{display:block}
+.lb-stage{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;overflow:hidden;touch-action:none}
+.lb-stage img{max-width:96%;max-height:86%;transform-origin:center center;will-change:transform;-webkit-user-drag:none;user-select:none;border-radius:2px;box-shadow:0 12px 48px rgba(0,0,0,.55);cursor:zoom-in}
+.lb-stage img.anim{transition:transform .14s ease}
+.lb-stage img.zoomed{cursor:grab}
+.rbtn{border:1.5px solid #ffffff66;background:#ffffff1f;color:#fff;width:42px;height:42px;border-radius:50%;font-size:23px;line-height:1;display:grid;place-items:center;cursor:pointer;-webkit-backdrop-filter:blur(3px);backdrop-filter:blur(3px);font-family:Georgia,serif;padding:0;transition:.15s}
+.rbtn:hover{background:var(--rust);border-color:var(--rust)}
+.lb-close{position:absolute;top:14px;right:14px;z-index:4}
+.lb-zoomctl{position:absolute;left:50%;bottom:calc(22px + env(safe-area-inset-bottom,0px));transform:translateX(-50%);display:flex;gap:14px;z-index:4}
+.lb-cap{position:absolute;left:0;right:0;top:16px;text-align:center;color:#fff;font-size:12px;letter-spacing:.04em;padding:0 66px;pointer-events:none;text-shadow:0 1px 3px #000a}
+.lb-cap a{color:#fff;pointer-events:auto;margin-left:10px;opacity:.85;text-decoration:none;font-size:11px}
+.lb-cap a:hover{opacity:1;text-decoration:underline}
+.lb-hint{position:absolute;left:0;right:0;bottom:calc(74px + env(safe-area-inset-bottom,0px));text-align:center;color:#fff9;font-size:10.5px;letter-spacing:.08em;text-transform:uppercase;pointer-events:none}
 </style>
 </head>
 <body>
@@ -129,7 +152,7 @@ footer{text-align:center;margin-top:40px;font-size:11.5px;color:var(--ink-soft);
 <div class="toolbar">
 <div class="search">
 <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="m21 21-4.3-4.3"/></svg>
-<input id="search" type="text" placeholder="Search by name, type, or trait…" autocomplete="off">
+<input id="search" type="search" inputmode="search" enterkeyhint="search" placeholder="Search by name, type, or trait…" autocomplete="off" autocorrect="off" autocapitalize="none" spellcheck="false">
 </div>
 <div class="seg" id="seg">
 <button data-view="type" class="active">By type</button>
@@ -137,6 +160,17 @@ footer{text-align:center;margin-top:40px;font-size:11.5px;color:var(--ink-soft);
 </div>
 <button class="btn" id="addBtn">+ Add</button>
 </div>
+<div class="filters">
+<span class="fl-label">Origin</span>
+<div class="seg mini" id="natSeg">
+<button data-nat="all" class="active">Both</button>
+<button data-nat="native">Native</button>
+<button data-nat="intro">Introduced</button>
+</div>
+<span class="fl-label">Type</span>
+<div class="chips" id="typeChips"></div>
+</div>
+<div class="legend" id="showing"></div>
 <div id="content"></div>
 <footer>
 Verified non-weed in Colorado as of each listed date · re-checked before major plantings.<br>
@@ -192,16 +226,19 @@ I've verified this plant is <b>not</b> a noxious weed in Colorado (checked again
 </div>
 </div>
 </div>
+<div class="lbox" id="lbox" aria-hidden="true">
+<div class="lb-cap"><span id="lbCapText"></span><a id="lbSrc" href="#" target="_blank" rel="noopener noreferrer">Commons ↗</a></div>
+<button class="rbtn lb-close" id="lbClose" aria-label="Close" title="Close">×</button>
+<div class="lb-stage" id="lbStage"><img id="lbImg" alt="" draggable="false"></div>
+<div class="lb-hint">Pinch, scroll, or double-tap to zoom · drag to pan</div>
+<div class="lb-zoomctl">
+<button class="rbtn" id="lbOut" aria-label="Zoom out" title="Zoom out">−</button>
+<button class="rbtn" id="lbReset" aria-label="Fit to screen" title="Fit to screen">⤢</button>
+<button class="rbtn" id="lbIn" aria-label="Zoom in" title="Zoom in">+</button>
+</div>
+</div>
 <script>
 const SEED = [
-{ common:"African daisy", botanical:"Osteospermum ecklonis", type:"Annual", native:"Non-native",
-commons:"Osteospermum ecklonis1.JPG",
-blurb:"Cheerful daisy grown as a summer annual here — winter-kills, so no weed risk; blooms spring to frost.",
-size:"10–14 in × 14–20 in (some taller)", sun:"Full sun (6–8 hrs)", water:"Moderate; drought-tolerant once established",
-spread:"Tidy mounding clump — doesn't overwinter or reseed here", seasons:"Blooms spring–frost in cool spells; stalls in midsummer heat, reflushes in fall; flowers close at night; no winter presence",
-wildlife:"Attracts bees & butterflies (single-flowered forms best)", deer:"Generally deer-resistant; watch aphids/snails",
-toxic:"", winter:false, verified:"2026-06-01",
-illo:{kind:"mound", foliage:"#7d9460", feature:"dome", accent:"#6a4fa0"} },
 { common:"Chokecherry", botanical:"Prunus virginiana", type:"Tree", native:"CO native",
 commons:"Chokecherry - Prunus virginiana (51361592456).jpg",
 blurb:"Wildlife powerhouse: fragrant white flower racemes, dark fruit, golden fall color.",
@@ -261,14 +298,6 @@ spread:"Running — suckers form colonies", seasons:"White flowers May–Jun; wh
 wildlife:"Pollinators; bird berries; Spring Azure host", deer:"Browsed year-round",
 toxic:"", winter:true, verified:"2026-05-31",
 illo:{kind:"redstems", foliage:"#6f8a55", stem:"#b3402a", feature:"whiteberries", accent:"#f2efe6"} },
-{ common:"Rocky Mountain penstemon", botanical:"Penstemon strictus", type:"Perennial", native:"CO native",
-commons:"Penstemon strictus plant1.JPG",
-blurb:"Short-lived native that self-sows freely — vivid deep blue-violet spikes adored by hummingbirds and bees.",
-size:"1–3 ft × 1–2 ft", sun:"Full sun (tolerates part shade)", water:"Low; xeric once established",
-spread:"Upright clumps; self-sows freely — not aggressive", seasons:"Semi-evergreen basal rosette; deep blue-violet spikes Jun–Jul; upright seed stalks after",
-wildlife:"Hummingbird & native bee magnet (bumble bees); birds eat seed", deer:"Deer- & rabbit-resistant (even slugs avoid it)",
-toxic:"", winter:false, verified:"2026-06-01",
-illo:{kind:"spike", foliage:"#7d9460", feature:"bluespike", accent:"#4a539a"} },
 { common:"Silvery lupine", botanical:"Lupinus argenteus", type:"Perennial", native:"CO native",
 commons:"",
 blurb:"Colorado's most common native lupine — silvery leaves, blue-violet spires.",
@@ -295,7 +324,147 @@ spread:"Running — rhizomatous, forms thickets", seasons:"Pink fragrant flowers
 wildlife:"Xerces native/bumble bee value; hips feed birds & mammals", deer:"Young spring leaves browsed — only somewhat resistant",
 toxic:"", winter:true, verified:"2026-05-31",
 illo:{kind:"rose", foliage:"#5c7a4a", feature:"roseandhips", accent:"#e58aa6", hip:"#b83a2e"} },
+{ common:"Common lilac", botanical:"Syringa vulgaris", type:"Shrub", native:"Non-native",
+commons:"Common Lilac Syringa vulgaris 'Marechal Foch' Flowers.JPG",
+blurb:"Old-fashioned dooryard shrub prized for plumes of intensely fragrant spring bloom.",
+size:"8–15 ft × 6–12 ft (dwarfs 4–6 ft)", sun:"Full sun", water:"Low–moderate; drought-tolerant once established",
+spread:"Suckering — forms a clonal thicket over decades", seasons:"Fragrant lilac/white panicles mid–late spring; green summer; little fall color; bare woody frame in winter",
+wildlife:"Butterflies, bees & hummingbirds at the fragrant blooms", deer:"Deer-resistant (aromatic)",
+toxic:"", winter:false, verified:"2026-06-01",
+illo:{kind:"mound", foliage:"#6f8a55", feature:"dome", accent:"#b98ec8"} },
+{ common:"Garden peony", botanical:"Paeonia lactiflora", type:"Perennial", native:"Non-native",
+commons:"Paeonia lactiflora 'Gay Paree'.jpg",
+blurb:"Lavish, fragrant late-spring blooms on a clump that can outlive the gardener.",
+size:"2–3 ft × 2–3 ft", sun:"Full sun–part shade", water:"Moderate",
+spread:"Clumping — long-lived & slow; resents being moved", seasons:"Big fragrant flowers late spring–early summer; lush green summer; bronze fall; dies to ground in winter",
+wildlife:"Bees (the ants on buds are harmless)", deer:"Deer-resistant",
+toxic:"Toxic to dogs, cats & horses if eaten",
+winter:false, verified:"2026-06-01",
+illo:{kind:"spike", foliage:"#5c7a4a", feature:"bluespike", accent:"#e58aa6"} },
+{ common:"Dahlia", botanical:"Dahlia × hortensis", type:"Perennial", native:"Non-native",
+commons:"A maroon Dahlia flower (Lalbagh, Bangalore, 2017).jpg",
+blurb:"Tender tubers that explode into bold, geometric blooms from midsummer to frost.",
+size:"1–6 ft × 1–3 ft (varies by type)", sun:"Full sun", water:"Moderate, consistent — not xeric",
+spread:"Clumping tuber — no self-sowing", seasons:"Prolific color midsummer–first frost. TENDER: not winter-hardy in Boulder — dig & store tubers, replant after last frost (~mid-May)",
+wildlife:"Open/single types feed bees; double 'dinnerplate' types offer little pollen", deer:"Not deer- or rabbit-resistant — browsed",
+toxic:"Mildly toxic to pets if eaten",
+winter:false, verified:"2026-06-01",
+illo:{kind:"mound", foliage:"#4f6b3c", feature:"dome", accent:"#b1324f"} },
+{ common:"Russian sage", botanical:"Salvia yangii", type:"Subshrub", native:"Non-native",
+commons:"Perovskia atriplicifolia 138-8441.jpg",
+blurb:"An airy haze of lavender-blue over silver stems — tough, xeric and long-blooming.",
+size:"3–5 ft × 2–4 ft ('Little Spire' ~2–3 ft)", sun:"Full sun", water:"Low; xeric once established",
+spread:"Woody-based clump; can self-sow & creep by rhizomes — pick a compact cultivar & deadhead to limit it", seasons:"Silvery aromatic stems; lavender-blue haze midsummer–fall; silver winter structure (cut back hard in late winter)",
+wildlife:"Pollinator magnet — bees, butterflies, hummingbirds", deer:"Deer- & rabbit-resistant (aromatic)",
+toxic:"", winter:true, verified:"2026-06-01",
+illo:{kind:"sage", foliage:"#aab2a2", feature:"globes", accent:"#6a7fc0", bract:"#b08aa6"} },
+{ common:"Garden clematis", botanical:"Clematis × jackmanii", type:"Vine", native:"Non-native",
+commons:"Clematis 'Jackmanii' IMG 0199.jpg",
+blurb:"Classic large-flowered climber — sheets of velvety violet-purple on a sunny trellis.",
+size:"Climbs 6–12 ft × 2–3 ft", sun:"Full sun–part shade — top in sun, roots shaded", water:"Moderate, consistent; keep roots cool & mulched",
+spread:"Twines by leaf-stalks; clumping crown — not invasive/running", seasons:"Showy blooms (spring or summer by pruning group); some give fluffy silver seedheads into fall/winter",
+wildlife:"Bee nectar", deer:"Somewhat deer-resistant",
+toxic:"Irritant/toxic if eaten; sap can irritate skin — caution with kids/pets. AVOID Clematis orientalis (yellow orange-peel clematis) — a CO List B noxious weed (all subspecies & cultivars)",
+winter:false, verified:"2026-06-01",
+illo:{kind:"spike", foliage:"#4f6b3c", feature:"bluespike", accent:"#6a4f9a"} },
+{ common:"Cosmos", botanical:"Cosmos bipinnatus", type:"Annual", native:"Non-native",
+commons:"Cosmea (Cosmos bipinnatus) 02.JPG",
+blurb:"Airy, daisy-like blooms on ferny stems — an effortless cottage-garden annual.",
+size:"2–4 ft × 1–2 ft", sun:"Full sun", water:"Low–moderate; lean soil = more bloom",
+spread:"Self-sows freely; not invasive", seasons:"Pink/white/magenta blooms midsummer–frost; dies at first hard frost",
+wildlife:"Bees, butterflies & hoverflies; finches eat the seed", deer:"Generally deer-resistant",
+toxic:"", winter:false, verified:"2026-06-01",
+illo:{kind:"spike", foliage:"#6f8a55", feature:"bluespike", accent:"#e58aa6"} },
+{ common:"California poppy", botanical:"Eschscholzia californica", type:"Annual", native:"Non-native",
+commons:"20170805Eschscholzia californica1.jpg",
+blurb:"Silky orange cups over blue-green lace — a cheerful, drought-proof self-sower (western US native).",
+size:"8–15 in × 6–12 in", sun:"Full sun", water:"Low; xeric",
+spread:"Reseeds freely; easy to pull", seasons:"Orange (also cream/pink) cups spring–summer, opening with sun; fades in heat",
+wildlife:"Bees & other pollinators", deer:"Generally deer-resistant",
+toxic:"", winter:false, verified:"2026-06-01",
+illo:{kind:"mound", foliage:"#9bb08e", feature:"dome", accent:"#e8902e"} },
+{ common:"Oriental poppy", botanical:"Papaver orientale", type:"Perennial", native:"Non-native",
+commons:"Papaver orientale - oriental poppy.jpg",
+blurb:"Enormous crepe-paper blooms with inky centers — a showstopper, then it naps.",
+size:"2–3 ft × 2–3 ft", sun:"Full sun", water:"Low–moderate; sharp drainage",
+spread:"Clumping; summer-dormant after bloom — pair with fillers", seasons:"Huge scarlet/pink/white flowers late spring–early summer; foliage dies back midsummer, returns in fall",
+wildlife:"Bees love the pollen", deer:"Generally deer-resistant",
+toxic:"Sap & unripe seedpods mildly toxic if eaten", winter:false, verified:"2026-06-01",
+illo:{kind:"mound", foliage:"#7d9460", feature:"dome", accent:"#c5392b"} },
+{ common:"Climbing rose", botanical:"Rosa (climbing cultivars)", type:"Vine", native:"Non-native",
+commons:"Climbing rose Easton Lodge Gardens walled garden Little Easton Essex England 01.jpg",
+blurb:"Stiff-caned roses trained upright on a wall or trellis, many reblooming all summer.",
+size:"Climbs 6–15 ft × 3–6 ft", sun:"Full sun", water:"Moderate, regular",
+spread:"Needs tying to a support — not self-clinging", seasons:"Repeat flushes late spring–fall (by cultivar); hips & bare canes in winter",
+wildlife:"Single-flowered types feed bees; hips feed birds", deer:"Thorny; somewhat deer-resistant",
+toxic:"", winter:false, verified:"2026-06-01",
+illo:{kind:"rose", foliage:"#5c7a4a", feature:"roseandhips", accent:"#e36d8a", hip:"#b83a2e"} },
+{ common:"Rambling rose", botanical:"Rosa (rambling cultivars)", type:"Vine", native:"Non-native",
+commons:"Albertine rose North Yorkshire 30 June 2023 (3).JPG",
+blurb:"Vigorous, flexible-caned roses that 'wander' over fences & arbors in one big flush — plant named cultivars, not invasive wild multiflora rose.",
+size:"Sprawls 15–30 ft × 6–15 ft", sun:"Full sun–part shade", water:"Moderate",
+spread:"Long arching canes scramble & self-layer — give it room", seasons:"One lavish early-summer flush (most types); some hips & arching canes in winter",
+wildlife:"Clustered single blooms draw bees; hips feed birds", deer:"Thorny; somewhat deer-resistant",
+toxic:"", winter:false, verified:"2026-06-01",
+illo:{kind:"rose", foliage:"#5c7a4a", feature:"roseandhips", accent:"#e58aa6", hip:"#b83a2e"} },
+{ common:"Snapdragon", botanical:"Antirrhinum majus", type:"Annual", native:"Non-native",
+commons:"Snapdragon -- Antirrhinum majus.jpg",
+blurb:"Jewel-toned 'snapping' flower spikes kids love — and bumblebees pry open; the real garden snapdragon, not the noxious look-alike 'wild snapdragon' (yellow toadflax) that sneaks into seed mixes.",
+size:"1–3 ft × 6–12 in", sun:"Full sun–part shade", water:"Moderate",
+spread:"Clumping; reseeds; cool-season (often overwinters in mild spots)", seasons:"Spikes in nearly every color late spring–fall; best in cool weather",
+wildlife:"Bumblebee favorite; good cut flower", deer:"Generally deer-resistant",
+toxic:"", winter:false, verified:"2026-06-01",
+illo:{kind:"spike", foliage:"#6f8a55", feature:"bluespike", accent:"#e0682e"} },
+{ common:"Colorado blue columbine", botanical:"Aquilegia coerulea", type:"Perennial", native:"CO native",
+commons:"Columbine-01.jpg",
+blurb:"Colorado's state flower — sky-blue-and-white spurred blooms nodding over ferny foliage.",
+size:"1–2.5 ft × 1–1.5 ft", sun:"Part shade–sun", water:"Moderate; moist, well-drained",
+spread:"Clumping & short-lived; reseeds gently to persist", seasons:"Blue & white long-spurred flowers late spring–early summer; foliage fades by midsummer",
+wildlife:"Hummingbird & hawk-moth nectar; bees", deer:"Generally deer-resistant",
+toxic:"", winter:false, verified:"2026-06-01",
+illo:{kind:"spike", foliage:"#9bb08e", feature:"bluespike", accent:"#5560a8"} },
+{ common:"Shasta daisy", botanical:"Leucanthemum × superbum", type:"Perennial", native:"Non-native",
+commons:"Shasta Daisy Becky NBG LR.jpg",
+blurb:"The classic, well-behaved white daisy — the safe garden stand-in for noxious oxeye — with big golden-eyed blooms all summer.",
+size:"2–4 ft × 1–2 ft", sun:"Full sun", water:"Moderate; well-drained (esp. in winter)",
+spread:"Clumping fibrous roots — stays put; pick sterile 'Becky' to skip reseeding", seasons:"White-and-gold daisies early–late summer with deadheading; tidy clump",
+wildlife:"Bees & butterflies; long-lasting cut flower", deer:"Generally deer-resistant",
+toxic:"", winter:false, verified:"2026-06-01",
+illo:{kind:"mound", foliage:"#6f8a55", feature:"dome", accent:"#f4f1e6"} },
+{ common:"Aspen fleabane", botanical:"Erigeron speciosus", type:"Perennial", native:"CO native",
+commons:"Erigeron speciosus Lindl. DC. 'Fleabane' (Asteraceae) flower.JPG",
+blurb:"A native daisy — lavender-blue rays around a gold eye, blooming for months.",
+size:"1–2.5 ft × 1–1.5 ft", sun:"Full sun", water:"Low–moderate; dry to moist",
+spread:"Clumping; spreads slowly by rhizomes into colonies", seasons:"Lavender-blue daisies Jun–Oct; very long bloom",
+wildlife:"Exceptional pollinator plant — bees, butterflies & more; sulphur butterfly nectar", deer:"Usually passed over by deer",
+toxic:"", winter:false, verified:"2026-06-01",
+illo:{kind:"mound", foliage:"#9bb08e", feature:"dome", accent:"#7d8ac0"} },
+{ common:"Salvia (meadow sage)", botanical:"Salvia nemorosa", type:"Perennial", native:"Non-native",
+commons:"Woodland sage-Salvia nemorosa.jpg",
+blurb:"Upright wands of violet-blue in early summer — a tidy, deadhead-to-rebloom border salvia & pollinator favorite; not to be confused with noxious Mediterranean sage (Salvia aethiopis, a CO List A weed).",
+size:"1.5–2.5 ft × 1.5–2 ft", sun:"Full sun", water:"Low–moderate; good drainage",
+spread:"Clumping; stays tidy — shear after the first flush to rebloom", seasons:"Violet-blue spikes late spring–summer, reblooming if deadheaded; aromatic gray-green foliage",
+wildlife:"Bees & butterflies throng the spikes", deer:"Aromatic foliage — generally deer-resistant",
+toxic:"", winter:false, verified:"2026-06-01",
+illo:{kind:"spike", foliage:"#7d9460", feature:"bluespike", accent:"#5b3f96"} },
+{ common:"Wild bergamot", botanical:"Monarda fistulosa", type:"Perennial", native:"CO native",
+commons:"Monarda fistulosa - Wild Bergamot (Flower).jpg",
+blurb:"Colorado-native bee balm — whimsical lavender 'jester's-hat' heads that hum with pollinators all summer.",
+size:"2–4 ft × 2–3 ft", sun:"Full sun–light shade", water:"Low; drought-tolerant once established",
+spread:"Spreads slowly by rhizomes into clumps; reseeds", seasons:"Lavender-pink heads Jul–Sep; dried seed heads stand into winter",
+wildlife:"Pollinator magnet — native & bumble bees, butterflies, clearwing moths, hummingbirds; Monarch nectar", deer:"Aromatic — deer- & rabbit-resistant",
+toxic:"", winter:false, verified:"2026-06-01",
+illo:{kind:"spike", foliage:"#6f8a55", feature:"bluespike", accent:"#b07cc6"} },
+{ common:"Scarlet bee balm", botanical:"Monarda didyma", type:"Perennial", native:"Non-native",
+commons:"Monarda didyma 'Colrain Red' 6 2021 Bee Balm- (51273491889).jpg",
+blurb:"The classic fire-engine-red bee balm (eastern-US native) — a hummingbird magnet, though thirstier and more mildew-prone than Colorado's wild bergamot.",
+size:"2–4 ft × 1.5–3 ft", sun:"Full sun–part shade", water:"Moderate; likes consistently moist soil",
+spread:"Runs by shallow rhizomes — can colonize; divide to keep in bounds", seasons:"Scarlet 'mop-head' blooms midsummer; seed heads & stems hold into winter",
+wildlife:"Ruby-throated hummingbirds, bumblebees & swallowtails", deer:"Aromatic — deer- & rabbit-resistant",
+toxic:"", winter:false, verified:"2026-06-01",
+illo:{kind:"spike", foliage:"#5c7a4a", feature:"bluespike", accent:"#c43d2e"} },
 ];
+
 const STORAGE_KEY = "plantarium_user_plants_v2";
 const GROUP_ORDER = ["Trees","Shrubs","Subshrubs","Ornamental grasses","Perennials","Annuals","Vines","Groundcovers","Other"];
 function groupOf(type){
@@ -314,16 +483,11 @@ const DIRECT = {
 };
 function filePathURL(p){ return p.commons ? "https://commons.wikimedia.org/wiki/Special:FilePath/"+encodeURIComponent(p.commons)+"?width=900" : (p.photo||null); }
 function photoURL(p){ return DIRECT[p.botanical] || filePathURL(p); }
+
 /* ---------- real-photo seasonal reel ---------- */
 /* SHOTS: botanical name -> ordered array of { commons | url, s?:'spring'|'summer'|'fall'|'winter', cap? }.
 Add verified seasonal photos here as they're confirmed; species with no entry fall back to their single photo. */
 const SHOTS = {
-"Penstemon strictus": [
-{ commons:"Penstemon strictus plant1.JPG", s:"summer", cap:"Summer — deep blue-violet spikes" }
-],
-"Osteospermum ecklonis": [
-{ commons:"Osteospermum ecklonis1.JPG", s:"summer", cap:"Summer — violet ray flowers" }
-],
 "Cornus sericea": [
 { commons:"20170717Cornus sericea1.jpg", s:"summer", cap:"Summer — green foliage (mid-July)" },
 { commons:"20171031Cornus sericea1.jpg", s:"fall", cap:"Autumn — foliage turning (late Oct)" },
@@ -474,6 +638,15 @@ setActive(0);
 let userPlants = [];
 let view = "type";
 const collapsed = new Set(); // group names collapsed (type view)
+let natFilter = "all";            // all | native | intro
+const typeFilter = new Set();     // empty = all groups shown
+function isNative(p){ return (p.native||'').indexOf('native')>-1 && p.native!=='Non-native'; }
+function passesFilters(p){
+if(natFilter==='native' && !isNative(p)) return false;
+if(natFilter==='intro' && isNative(p)) return false;
+if(typeFilter.size && !typeFilter.has(groupOf(p.type))) return false;
+return true; /* add more filter dimensions here as the guide grows */
+}
 const content=document.getElementById('content');
 const searchEl=document.getElementById('search');
 const hasArtifactStore = (typeof window!=="undefined" && window.storage && typeof window.storage.get==="function");
@@ -514,9 +687,17 @@ return '<article class="card"><div class="plate">'+plate+'<span class="corner">'
 function gridOf(list){ return '<div class="grid">'+list.map(cardHTML).join('')+'</div>'; }
 function render(){
 const q=(searchEl.value||'').toLowerCase().trim();
-const list=allPlants().filter(function(p){ if(!q) return true; return [p.common,p.botanical,p.type,p.native,p.blurb,p.seasons,p.wildlife,p.spread].join(' ').toLowerCase().indexOf(q)>-1; });
-document.getElementById('count').textContent = allPlants().length;
-if(!list.length){ content.innerHTML='<div class="grid"><div class="empty">No specimen matches “'+searchEl.value+'”.</div></div>'; return; }
+const total=allPlants().length;
+const list=allPlants().filter(function(p){
+if(!passesFilters(p)) return false;
+if(!q) return true;
+return [p.common,p.botanical,p.type,p.native,p.blurb,p.seasons,p.wildlife,p.spread].join(' ').toLowerCase().indexOf(q)>-1;
+});
+document.getElementById('count').textContent = total;
+const filtering = q || natFilter!=='all' || typeFilter.size>0;
+const showingEl=document.getElementById('showing');
+if(showingEl) showingEl.textContent = filtering ? ('Showing '+list.length+' of '+total) : '';
+if(!list.length){ const why = q ? 'matches “'+searchEl.value+'”' : 'fits the current filters'; content.innerHTML='<div class="grid"><div class="empty">No specimen '+why+'.</div></div>'; return; }
 if(view==="alpha"){
 content.innerHTML = gridOf(list);
 } else {
@@ -543,6 +724,32 @@ async function removePlant(bot){ userPlants = userPlants.filter(function(u){retu
 Array.prototype.forEach.call(document.querySelectorAll('#seg button'), function(btn){
 btn.onclick=function(){ view=btn.dataset.view; Array.prototype.forEach.call(document.querySelectorAll('#seg button'), function(b){ b.classList.toggle('active', b===btn); }); render(); };
 });
+/* ---------- filters: origin (native) + type chips ---------- */
+Array.prototype.forEach.call(document.querySelectorAll('#natSeg button'), function(btn){
+btn.onclick=function(){ natFilter=btn.dataset.nat; Array.prototype.forEach.call(document.querySelectorAll('#natSeg button'), function(b){ b.classList.toggle('active', b===btn); }); render(); };
+});
+function syncTypeChips(){
+const wrap=document.getElementById('typeChips'); if(!wrap) return;
+Array.prototype.forEach.call(wrap.querySelectorAll('.chip'), function(c){
+if(c.dataset.all!=null) c.classList.toggle('active', typeFilter.size===0);
+else c.classList.toggle('active', typeFilter.has(c.dataset.group));
+});
+}
+function buildTypeChips(){
+const wrap=document.getElementById('typeChips'); if(!wrap) return;
+const present=new Set(allPlants().map(function(p){return groupOf(p.type);}));
+let html='<button class="chip" data-all="1">All</button>';
+GROUP_ORDER.forEach(function(g){ if(present.has(g)) html+='<button class="chip" data-group="'+g+'">'+g+'</button>'; });
+wrap.innerHTML=html;
+Array.prototype.forEach.call(wrap.querySelectorAll('.chip'), function(c){
+c.onclick=function(){
+if(c.dataset.all!=null){ typeFilter.clear(); }
+else { var g=c.dataset.group; if(typeFilter.has(g)) typeFilter.delete(g); else typeFilter.add(g); }
+syncTypeChips(); render();
+};
+});
+syncTypeChips();
+}
 /* ---------- add modal ---------- */
 const scrim=document.getElementById('scrim');
 const G=function(id){return document.getElementById(id);};
@@ -573,7 +780,110 @@ await saveUser();
 G('f_weed').checked=false; scrim.classList.remove('open'); render();
 };
 searchEl.addEventListener('input', render);
-(async function(){ await loadUser(); render(); })();
+/* submitting the search (Enter / on-screen "Search" key) drops the mobile keyboard */
+searchEl.addEventListener('keydown', function(e){ if(e.key==='Enter'){ e.preventDefault(); searchEl.blur(); } });
+searchEl.addEventListener('search', function(){ searchEl.blur(); });
+
+/* ---------- image lightbox with pinch / scroll / double-tap zoom ---------- */
+(function(){
+var lbox=document.getElementById('lbox'), stage=document.getElementById('lbStage'), img=document.getElementById('lbImg');
+var capText=document.getElementById('lbCapText'), srcA=document.getElementById('lbSrc');
+var scale=1, tx=0, ty=0, lastDist=0, lastMid=null;
+var pointers=new Map();
+var lastTap=0, lastTapX=0, lastTapY=0, moved=false, downX=0, downY=0;
+function clamp(v,a,b){ return Math.min(b,Math.max(a,v)); }
+function center(){ var r=stage.getBoundingClientRect(); return {x:r.left+r.width/2, y:r.top+r.height/2}; }
+function clampPan(){
+var fw=img.clientWidth*scale, fh=img.clientHeight*scale, r=stage.getBoundingClientRect();
+var ox=Math.max(0,(fw-r.width)/2), oy=Math.max(0,(fh-r.height)/2);
+tx=clamp(tx,-ox,ox); ty=clamp(ty,-oy,oy);
+}
+function apply(){ img.style.transform='translate('+tx+'px,'+ty+'px) scale('+scale+')'; img.classList.toggle('zoomed', scale>1.01); }
+function reset(){ scale=1; tx=0; ty=0; apply(); }
+function zoomAt(ns, px, py){
+ns=clamp(ns,1,5); var f=ns/scale, c=center();
+tx=(px-c.x)*(1-f)+tx*f; ty=(py-c.y)*(1-f)+ty*f; scale=ns;
+if(scale<=1.001){ scale=1; tx=0; ty=0; } else clampPan();
+apply();
+}
+function anim(on){ img.classList.toggle('anim', !!on); }
+function open(src, cap, source){
+img.classList.remove('anim');
+img.src=src; capText.textContent=cap||'';
+if(source && source!=='#'){ srcA.href=source; srcA.style.display=''; } else { srcA.style.display='none'; }
+reset(); lbox.classList.add('open'); lbox.setAttribute('aria-hidden','false'); document.body.style.overflow='hidden';
+}
+function close(){ lbox.classList.remove('open'); lbox.setAttribute('aria-hidden','true'); document.body.style.overflow=''; img.src=''; pointers.clear(); lastDist=0; lastMid=null; }
+window.__openLightbox=open;
+document.getElementById('lbClose').onclick=close;
+document.getElementById('lbIn').onclick=function(){ var c=center(); anim(true); zoomAt(scale*1.5,c.x,c.y); };
+document.getElementById('lbOut').onclick=function(){ var c=center(); anim(true); zoomAt(scale/1.5,c.x,c.y); };
+document.getElementById('lbReset').onclick=function(){ anim(true); reset(); };
+document.addEventListener('keydown', function(e){
+if(!lbox.classList.contains('open')) return;
+var c=center();
+if(e.key==='Escape') close();
+else if(e.key==='+'||e.key==='='){ anim(true); zoomAt(scale*1.5,c.x,c.y); }
+else if(e.key==='-'||e.key==='_'){ anim(true); zoomAt(scale/1.5,c.x,c.y); }
+});
+function dist(a,b){ return Math.hypot(a.x-b.x,a.y-b.y); }
+function mid(a,b){ return {x:(a.x+b.x)/2,y:(a.y+b.y)/2}; }
+function pts(){ return Array.from(pointers.values()); }
+stage.addEventListener('pointerdown', function(e){
+anim(false);
+pointers.set(e.pointerId,{x:e.clientX,y:e.clientY});
+try{ stage.setPointerCapture(e.pointerId); }catch(_){}
+moved=false; downX=e.clientX; downY=e.clientY;
+if(pointers.size===2){ var p=pts(); lastDist=dist(p[0],p[1]); lastMid=mid(p[0],p[1]); }
+});
+stage.addEventListener('pointermove', function(e){
+if(!pointers.has(e.pointerId)) return;
+var prev=pointers.get(e.pointerId); pointers.set(e.pointerId,{x:e.clientX,y:e.clientY});
+if(Math.abs(e.clientX-downX)+Math.abs(e.clientY-downY)>6) moved=true;
+if(pointers.size>=2){
+var p=pts(), d=dist(p[0],p[1]), m=mid(p[0],p[1]);
+if(lastDist>0){
+var f=d/lastDist, ns=clamp(scale*f,1,5), af=ns/scale, c=center();
+tx=(m.x-c.x)*(1-af)+tx*af + (lastMid?(m.x-lastMid.x):0);
+ty=(m.y-c.y)*(1-af)+ty*af + (lastMid?(m.y-lastMid.y):0);
+scale=ns; if(scale<=1.001){scale=1;tx=0;ty=0;} else clampPan(); apply();
+}
+lastDist=d; lastMid=m;
+} else if(pointers.size===1 && scale>1.01){
+tx += e.clientX-prev.x; ty += e.clientY-prev.y; clampPan(); apply();
+}
+});
+function up(e){
+var wasMoved=moved;
+if(pointers.has(e.pointerId)) pointers.delete(e.pointerId);
+if(pointers.size<2){ lastDist=0; lastMid=null; }
+if(pointers.size>0) return;
+if(wasMoved) return;
+if(e.pointerType==='mouse'){ if(e.target===stage && scale<=1.01) close(); return; }
+var now=Date.now();
+var isDbl=(now-lastTap<300) && Math.abs(e.clientX-lastTapX)<32 && Math.abs(e.clientY-lastTapY)<32;
+if(isDbl){ anim(true); if(scale>1.01) reset(); else zoomAt(2.5, e.clientX, e.clientY); lastTap=0; return; }
+lastTap=now; lastTapX=e.clientX; lastTapY=e.clientY;
+if(e.target===stage && scale<=1.01){ setTimeout(function(){ if(lastTap===now && scale<=1.01) close(); }, 300); }
+}
+stage.addEventListener('pointerup', up);
+stage.addEventListener('pointercancel', function(e){ if(pointers.has(e.pointerId)) pointers.delete(e.pointerId); if(pointers.size<2){ lastDist=0; lastMid=null; } });
+stage.addEventListener('dblclick', function(e){ e.preventDefault(); anim(true); if(scale>1.01) reset(); else zoomAt(2.5,e.clientX,e.clientY); });
+stage.addEventListener('wheel', function(e){ e.preventDefault(); anim(false); zoomAt(scale*(e.deltaY<0?1.12:1/1.12), e.clientX, e.clientY); }, {passive:false});
+})();
+/* open the lightbox when a card photo is tapped */
+content.addEventListener('click', function(e){
+var im = e.target && e.target.closest ? e.target.closest('.shot img') : null;
+if(!im || im.closest('.shot.empty')) return;
+var fig=im.closest('.shot'), reel=im.closest('.reel'), idx=0, caps=[], srcs=[];
+if(reel){ var figs=Array.prototype.slice.call(reel.querySelectorAll('.shot')); idx=Math.max(0,figs.indexOf(fig));
+try{ caps=JSON.parse(reel.dataset.caps||'[]'); }catch(_){}
+try{ srcs=JSON.parse(reel.dataset.srcs||'[]'); }catch(_){} }
+var big=(im.currentSrc||im.src||'').replace(/([?&]width=)\d+/, '$12000');
+window.__openLightbox(big, caps[idx]||'', srcs[idx]||'#');
+});
+
+(async function(){ await loadUser(); buildTypeChips(); render(); })();
 </script>
 </body>
 </html>

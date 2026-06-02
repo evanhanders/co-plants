@@ -109,9 +109,26 @@ non-breaking:** the remote `url`/`commons` stays as a safety net under the local
 
 Cards grouped by plant type (collapsible) with an A–Z toggle, a search box, a
 weed-gated "add plant" form, and a swipeable per-season photo strip. The card shows a
-small thumbnail; clicking it opens the full-size image in a pinch/scroll zoom lightbox.
+small thumbnail; clicking (or `Enter`/`Space` on it — the photos are keyboard-focusable)
+opens the full-size image in a pinch/scroll zoom lightbox.
 **Photos must be real CC-licensed photographs — no illustrations.** (See "Image
 requirements & sourcing" below for the per-plant photo spec.)
+
+**Filtering & state.** Three filter axes compose: **Origin** (Both/Native/Introduced),
+**Type** chips (with counts), and **Trait** chips (`Winter`/`Pollinator`/`Spreads`/`Toxic`),
+plus the free-text search. The trait predicates live in one place — the `TRAITS` map in
+`app.js` — and are shared by *both* the card badges and the trait filter, so the two never
+drift; add a new trait by extending that map (and a `passesFilters` clause). The legend
+always reads "Showing N of M specimens" and shows a **Clear all** button when anything is
+active. Filter/search/view state is mirrored into the **URL hash** (`#view=…&nat=…&type=…&trait=…&q=…`)
+via `syncHash()`/`applyHash()`, so filtered views are shareable and survive a reload.
+
+**Accessibility.** Photos are `role="button" tabindex="0"` with descriptive per-shot `alt`;
+group-collapse chevrons are real `<button>`s with `aria-expanded`; the lightbox and add
+modal are `role="dialog" aria-modal` with focus move-in, a Tab focus-trap, focus-return to
+the trigger, and `Escape` to close (both also lock body scroll). There's a global
+`:focus-visible` ring (rust) and a `prefers-reduced-motion` block. Inputs are 16px so iOS
+doesn't force-zoom on focus. A CSS-only skeleton (`.skel`) shows while `plant.json`s fetch.
 
 ### Known reel gotcha (already fixed — don't regress)
 
@@ -119,6 +136,13 @@ The per-season tab is derived from the reel's scroll position. It needs the inde
 clamped, **plus** a recompute ~150ms after scroll settles **plus** a `scrollend`
 listener. Without all three, the tab deselects on the last panel or mis-highlights
 while swiping.
+
+### Tap-vs-swipe gotcha (already fixed — don't regress)
+
+Tapping a card photo opens the lightbox, but the strip is also a horizontal swiper. The
+open is gated on a **move-threshold**: `content` tracks `pointerdown`/`pointermove` and the
+`click` handler bails if the pointer moved >10px (`tapMoved`). The reel also has
+`touch-action:pan-x`. Without this, a season-swipe flings you into the lightbox on touch.
 
 ## The plant card fields
 

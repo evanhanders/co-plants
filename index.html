@@ -4,6 +4,15 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>The Front Range Herbarium</title>
+<meta name="description" content="A living field guide of vetted, weed-free garden specimens for Boulder and the Colorado Front Range — each checked against Colorado's noxious-weed lists.">
+<meta name="theme-color" content="#f1e9d8">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Crect width='24' height='24' rx='4' fill='%23f1e9d8'/%3E%3Cpath d='M12 20V9' stroke='%234f6b3c' stroke-width='1.6' fill='none' stroke-linecap='round'/%3E%3Cpath d='M12 12c-1.4-4-5-6-9-6 0 5 4.4 7.4 9 6.4z' fill='%234f6b3c'/%3E%3Cpath d='M12 9c1.2-3.4 4.6-5.4 8-5.4 0 4.6-4 6.6-8 5.8z' fill='%237d9460'/%3E%3C/svg%3E">
+<meta property="og:type" content="website">
+<meta property="og:title" content="The Front Range Herbarium">
+<meta property="og:description" content="A living field guide of vetted, weed-free garden specimens for Boulder and the Colorado Front Range.">
+<meta property="og:url" content="https://evanhanders.github.io/co-plants/">
+<meta property="og:image" content="https://evanhanders.github.io/co-plants/plants/shrubs/red-twig-dogwood/images/wi-stems.jpg">
+<meta name="twitter:card" content="summary_large_image">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,600;1,9..144,400&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="styles.css">
@@ -40,8 +49,10 @@
 </div>
 <span class="fl-label">Type</span>
 <div class="chips" id="typeChips"></div>
+<span class="fl-label">Traits</span>
+<div class="chips" id="traitChips"></div>
 </div>
-<div class="legend" id="showing"></div>
+<div class="legend"><span id="showing"></span><button type="button" class="clearfilters" id="clearFilters" hidden>Clear all ✕</button></div>
 <div id="content"></div>
 <footer>
 Verified non-weed in Colorado as of each listed date · re-checked before major plantings.<br>
@@ -49,40 +60,40 @@ Swipe a card's photo strip to move through the seasons. Coyote willow &amp; Turk
 </footer>
 </div>
 <div class="scrim" id="scrim">
-<div class="modal">
-<h2 class="display">Add a specimen</h2>
+<div class="modal" role="dialog" aria-modal="true" aria-labelledby="modalTitle">
+<h2 class="display" id="modalTitle">Add a specimen</h2>
 <p class="hint">For plants you've vetted yourself. The weed check below is required — nothing gets in without it.</p>
-<label>Common name</label>
+<label for="f_common">Common name</label>
 <input type="text" id="f_common" placeholder="e.g. Rocky Mountain penstemon">
-<label>Botanical name</label>
+<label for="f_botanical">Botanical name</label>
 <input type="text" id="f_botanical" placeholder="e.g. Penstemon strictus">
 <div class="two">
-<div><label>Type</label>
+<div><label for="f_type">Type</label>
 <select id="f_type"><option>Perennial</option><option>Annual</option><option>Grass</option><option>Shrub</option><option>Subshrub</option><option>Tree</option><option>Vine</option><option>Groundcover</option></select>
 </div>
-<div><label>Native status</label>
+<div><label for="f_native">Native status</label>
 <select id="f_native"><option value="CO native">CO / regional native</option><option value="Non-native">Non-native (vetted)</option></select>
 </div>
 </div>
-<label>One-line description</label>
+<label for="f_blurb">One-line description</label>
 <input type="text" id="f_blurb" placeholder="What makes it lovely?">
 <div class="two">
-<div><label>Mature size (H × W)</label><input type="text" id="f_size" placeholder='e.g. 2–3 ft × 2 ft'></div>
-<div><label>Sun</label><input type="text" id="f_sun" placeholder="Full sun"></div>
+<div><label for="f_size">Mature size (H × W)</label><input type="text" id="f_size" placeholder='e.g. 2–3 ft × 2 ft'></div>
+<div><label for="f_sun">Sun</label><input type="text" id="f_sun" placeholder="Full sun"></div>
 </div>
 <div class="two">
-<div><label>Water</label><input type="text" id="f_water" placeholder="Low (xeric)"></div>
-<div><label>Spread / habit</label><input type="text" id="f_spread" placeholder="Clumping"></div>
+<div><label for="f_water">Water</label><input type="text" id="f_water" placeholder="Low (xeric)"></div>
+<div><label for="f_spread">Spread / habit</label><input type="text" id="f_spread" placeholder="Clumping"></div>
 </div>
-<label>Seasonal interest</label>
+<label for="f_seasons">Seasonal interest</label>
 <input type="text" id="f_seasons" placeholder="Blue spikes early summer; evergreen base">
-<label>Wildlife / pollinators</label>
+<label for="f_wildlife">Wildlife / pollinators</label>
 <input type="text" id="f_wildlife" placeholder="Bees, hummingbirds; bumble bee favorite">
 <div class="two">
-<div><label>Deer note</label><input type="text" id="f_deer" placeholder="Deer-resistant"></div>
-<div><label>Photo URL (optional)</label><input type="text" id="f_photo" placeholder="https://…"></div>
+<div><label for="f_deer">Deer note</label><input type="text" id="f_deer" placeholder="Deer-resistant"></div>
+<div><label for="f_photo">Photo URL (optional)</label><input type="text" id="f_photo" placeholder="https://…"></div>
 </div>
-<label>Toxicity note (optional)</label>
+<label for="f_toxic">Toxicity note (optional)</label>
 <input type="text" id="f_toxic" placeholder="Leave blank if none">
 <div class="weedgate">
 <input type="checkbox" id="f_weed">
@@ -97,7 +108,7 @@ I've verified this plant is <b>not</b> a noxious weed in Colorado (checked again
 </div>
 </div>
 </div>
-<div class="lbox" id="lbox" aria-hidden="true">
+<div class="lbox" id="lbox" role="dialog" aria-modal="true" aria-label="Photo viewer" aria-hidden="true">
 <div class="lb-cap"><span id="lbCapText"></span><a id="lbSrc" href="#" target="_blank" rel="noopener noreferrer">Source ↗</a></div>
 <button class="rbtn lb-close" id="lbClose" aria-label="Close" title="Close">×</button>
 <div class="lb-stage" id="lbStage"><img id="lbImg" alt="" draggable="false"></div>

@@ -14,5 +14,27 @@
   "toxic": "",
   "winter": false,
   "verified": "2026-06-01",
-  "commons": "Climbing rose Easton Lodge Gardens walled garden Little Easton Essex England 01.jpg"
+  "commons": "Climbing rose Easton Lodge Gardens walled garden Little Easton Essex England 01.jpg",
+  "shots": [
+    {
+      "local": "images/su-flower-t.jpg",
+      "full": "images/su-flower.jpg",
+      "commons": "Pale pink climbing rose at Harlow Museum & Walled Gardens, Essex 03.jpg",
+      "s": "summer",
+      "cap": "Summer — stiff canes & blooms trained up a brick wall · © Acabashi (CC BY-SA 4.0) / Wikimedia Commons",
+      "by": "Acabashi",
+      "lic": "CC BY-SA 4.0",
+      "link": "https://commons.wikimedia.org/wiki/File:Pale_pink_climbing_rose_at_Harlow_Museum_%26_Walled_Gardens,_Essex_03.jpg"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "commons": "Pale pink climbing rose at Harlow Museum & Walled Gardens, Essex 05.jpg",
+      "s": "summer",
+      "cap": "Summer — fanned out across a wall, the climbing habit · © Acabashi (CC BY-SA 4.0) / Wikimedia Commons",
+      "by": "Acabashi",
+      "lic": "CC BY-SA 4.0",
+      "link": "https://commons.wikimedia.org/wiki/File:Pale_pink_climbing_rose_at_Harlow_Museum_%26_Walled_Gardens,_Essex_05.jpg"
+    }
+  ]
 }

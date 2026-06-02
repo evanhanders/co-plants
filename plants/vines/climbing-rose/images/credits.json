@@ -1,0 +1,42 @@
+[
+  {
+    "file": "images/su-flower.jpg",
+    "commons_file": "Pale pink climbing rose at Harlow Museum & Walled Gardens, Essex 03.jpg",
+    "by": "Acabashi",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Pale_pink_climbing_rose_at_Harlow_Museum_%26_Walled_Gardens,_Essex_03.jpg",
+    "dataset": "Wikimedia Commons",
+    "orig_px": [
+      5980,
+      3987
+    ],
+    "full_px": [
+      1500,
+      1000
+    ],
+    "thumb_px": [
+      400,
+      267
+    ]
+  },
+  {
+    "file": "images/su-habit.jpg",
+    "commons_file": "Pale pink climbing rose at Harlow Museum & Walled Gardens, Essex 05.jpg",
+    "by": "Acabashi",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Pale_pink_climbing_rose_at_Harlow_Museum_%26_Walled_Gardens,_Essex_05.jpg",
+    "dataset": "Wikimedia Commons",
+    "orig_px": [
+      5591,
+      3728
+    ],
+    "full_px": [
+      1500,
+      1000
+    ],
+    "thumb_px": [
+      400,
+      267
+    ]
+  }
+]

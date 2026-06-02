@@ -17,7 +17,8 @@ shortlist = json.load(open(sys.argv[1]))
 picks = json.load(open(sys.argv[2]))
 UA = "ColoPlantsHerbarium/1.0 (https://github.com/evanhanders/co-plants; evanhanders@gmail.com)"
 BUCKET = "https://inaturalist-open-data.s3.amazonaws.com/photos"
-FULL_MAX, THUMB_MAX = 1500, 400
+FULL_MAX, THUMB_MAX = 1400, 400
+FULL_Q = 82
 
 def dl(pid, ext, size):
     url = f"{BUCKET}/{pid}/{size}.{ext}"
@@ -56,7 +57,7 @@ for slug, plist in picks.items():
         used[base] = used.get(base, 0) + 1
         if used[base] > 1: base = f"{base}{used[base]}"
         full_rel = f"images/{base}.jpg"; thumb_rel = f"images/{base}-t.jpg"
-        fsz = save_variant(im, os.path.join(img_dir, base + ".jpg"), FULL_MAX, 85)
+        fsz = save_variant(im, os.path.join(img_dir, base + ".jpg"), FULL_MAX, FULL_Q)
         tsz = save_variant(im, os.path.join(img_dir, base + "-t.jpg"), THUMB_MAX, 82)
         by, lic = c["by"], c["lic"]
         cap = p.get("cap", "") + f" · © {by} ({lic}) / iNaturalist"

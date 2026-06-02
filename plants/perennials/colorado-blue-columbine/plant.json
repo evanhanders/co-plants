@@ -14,5 +14,27 @@
   "toxic": "",
   "winter": false,
   "verified": "2026-06-01",
-  "commons": "Columbine-01.jpg"
+  "commons": "Columbine-01.jpg",
+  "shots": [
+    {
+      "local": "images/su-flower-t.jpg",
+      "full": "images/su-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/215029646/large.jpg",
+      "s": "summer",
+      "cap": "Summer — the blue-and-white state flower · © Bob Walker (CC-BY) / iNaturalist",
+      "by": "Bob Walker",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/photos/215029646"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/299292077/large.jpg",
+      "s": "summer",
+      "cap": "Summer — nodding flowers, buds & lacy foliage · © Bob Walker (CC-BY) / iNaturalist",
+      "by": "Bob Walker",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/photos/299292077"
+    }
+  ]
 }

@@ -14,5 +14,37 @@
   "toxic": "",
   "winter": true,
   "verified": "2026-06-01",
-  "commons": "Perovskia atriplicifolia 138-8441.jpg"
+  "commons": "Perovskia atriplicifolia 138-8441.jpg",
+  "shots": [
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/560480933/large.jpg",
+      "s": "summer",
+      "cap": "Summer — airy lavender-blue haze · © dfwtxnative (CC-BY-NC) / iNaturalist",
+      "by": "dfwtxnative",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/photos/560480933"
+    },
+    {
+      "local": "images/su-flowers-t.jpg",
+      "full": "images/su-flowers.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/544531984/large.jpg",
+      "s": "summer",
+      "cap": "Summer — violet-blue flowers & aromatic cut foliage · © Eleanor Pate (CC-BY) / iNaturalist",
+      "by": "Eleanor Pate",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/photos/544531984"
+    },
+    {
+      "local": "images/fa-spikes-t.jpg",
+      "full": "images/fa-spikes.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/564445185/large.jpg",
+      "s": "fall",
+      "cap": "Late season — flowering spikes against the sky · © Kevin Bert (CC-BY-NC) / iNaturalist",
+      "by": "Kevin Bert",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/photos/564445185"
+    }
+  ]
 }

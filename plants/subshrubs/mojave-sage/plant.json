@@ -17,9 +17,24 @@
   "commons": "Salvia pachyphylla, the Rose Sage (10461533306).jpg",
   "shots": [
     {
-      "commons": "Salvia pachyphylla, the Rose Sage (10461533306).jpg",
+      "local": "images/su-flowers-t.jpg",
+      "full": "images/su-flowers.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/547767696/large.jpg",
       "s": "summer",
-      "cap": "Summer — violet-blue bloom"
+      "cap": "Summer — violet flowers among silver bracts & leaves · © botanygirl (CC-BY) / iNaturalist",
+      "by": "botanygirl",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/photos/547767696"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/44774299/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — silvery mounded subshrub in bloom · © George Raymond (CC0) / iNaturalist",
+      "by": "George Raymond",
+      "lic": "CC0",
+      "link": "https://www.inaturalist.org/photos/44774299"
     }
   ]
 }

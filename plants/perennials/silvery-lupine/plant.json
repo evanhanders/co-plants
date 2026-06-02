@@ -17,9 +17,34 @@
   "commons": "",
   "shots": [
     {
-      "commons": "Lupinus argenteus - Sarah Allen 01.jpg",
+      "local": "images/sp-foliage-t.jpg",
+      "full": "images/sp-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/652876177/large.jpg",
+      "s": "spring",
+      "cap": "Spring — silvery palmate leaves · © Bob Walker (CC-BY) / iNaturalist",
+      "by": "Bob Walker",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/photos/652876177"
+    },
+    {
+      "local": "images/su-flower-t.jpg",
+      "full": "images/su-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/19795441/large.jpg",
       "s": "summer",
-      "cap": "Summer — silvery leaves & blue-violet spikes"
+      "cap": "Summer — blue-violet pea-flower spike · © mtclymer (CC-BY) / iNaturalist",
+      "by": "mtclymer",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/photos/19795441"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/45240400/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — clumps flowering in grassland · © Eric Watts (CC-BY) / iNaturalist",
+      "by": "Eric Watts",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/photos/45240400"
     }
   ]
 }

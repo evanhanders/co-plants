@@ -19,22 +19,22 @@
     {
       "local": "images/su-flower-t.jpg",
       "full": "images/su-flower.jpg",
-      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/142185725/large.jpg",
+      "commons": "Scioto Audubon - Monarda fistulosa 1.jpg",
       "s": "summer",
-      "cap": "Summer — lavender pompom flowerhead · © Shalana Gray (CC-BY) / iNaturalist",
-      "by": "Shalana Gray",
-      "lic": "CC-BY",
-      "link": "https://www.inaturalist.org/photos/142185725"
+      "cap": "Summer — lavender pompom flowerheads above mint-family foliage · © Sixflashphoto (CC BY-SA 4.0) / Wikimedia Commons",
+      "by": "Sixflashphoto",
+      "lic": "CC BY-SA 4.0",
+      "link": "https://commons.wikimedia.org/wiki/File:Scioto_Audubon_-_Monarda_fistulosa_1.jpg"
     },
     {
       "local": "images/su-habit-t.jpg",
       "full": "images/su-habit.jpg",
-      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/304624122/large.jpeg",
+      "commons": "Monarda fistulosa flowers1.jpg",
       "s": "summer",
-      "cap": "Summer — flowering in a meadow stand · © elik03 (CC-BY) / iNaturalist",
-      "by": "elik03",
-      "lic": "CC-BY",
-      "link": "https://www.inaturalist.org/photos/304624122"
+      "cap": "Summer — flowering in a meadow stand · © Hardyplants (CC BY-SA 4.0) / Wikimedia Commons",
+      "by": "Hardyplants",
+      "lic": "CC BY-SA 4.0",
+      "link": "https://commons.wikimedia.org/wiki/File:Monarda_fistulosa_flowers1.jpg"
     },
     {
       "local": "images/wi-seedhead-t.jpg",

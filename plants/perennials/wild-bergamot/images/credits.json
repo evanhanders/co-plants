@@ -1,36 +1,42 @@
 [
   {
     "file": "images/su-flower.jpg",
-    "photo_id": "142185725",
-    "by": "Shalana Gray",
-    "license": "CC-BY",
-    "source": "https://www.inaturalist.org/photos/142185725",
-    "dataset": "iNaturalist open data",
-    "render": "original",
+    "commons_file": "Scioto Audubon - Monarda fistulosa 1.jpg",
+    "by": "Sixflashphoto",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Scioto_Audubon_-_Monarda_fistulosa_1.jpg",
+    "dataset": "Wikimedia Commons",
+    "orig_px": [
+      6016,
+      4016
+    ],
     "full_px": [
-      1400,
-      1050
+      1500,
+      1001
     ],
     "thumb_px": [
       400,
-      300
+      267
     ]
   },
   {
     "file": "images/su-habit.jpg",
-    "photo_id": "304624122",
-    "by": "elik03",
-    "license": "CC-BY",
-    "source": "https://www.inaturalist.org/photos/304624122",
-    "dataset": "iNaturalist open data",
-    "render": "original",
+    "commons_file": "Monarda fistulosa flowers1.jpg",
+    "by": "Hardyplants",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Monarda_fistulosa_flowers1.jpg",
+    "dataset": "Wikimedia Commons",
+    "orig_px": [
+      5472,
+      3648
+    ],
     "full_px": [
-      1400,
-      1050
+      1500,
+      1000
     ],
     "thumb_px": [
       400,
-      300
+      267
     ]
   },
   {

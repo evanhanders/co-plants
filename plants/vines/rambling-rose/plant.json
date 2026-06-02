@@ -14,5 +14,27 @@
   "toxic": "",
   "winter": false,
   "verified": "2026-06-01",
-  "commons": "Albertine rose North Yorkshire 30 June 2023 (3).JPG"
+  "commons": "Albertine rose North Yorkshire 30 June 2023 (3).JPG",
+  "shots": [
+    {
+      "local": "images/su-flower-t.jpg",
+      "full": "images/su-flower.jpg",
+      "commons": "Rose, Paul's Himalayan Musk Rambler, バラ, ポールズ ヒマラヤン ムスク ランブラー, (15789031421).jpg",
+      "s": "summer",
+      "cap": "Summer — cascading clusters of small pale-pink pompom blooms (Paul's Himalayan Musk) · © T.Kiya (CC BY-SA 2.0) / Wikimedia Commons",
+      "by": "T.Kiya",
+      "lic": "CC BY-SA 2.0",
+      "link": "https://commons.wikimedia.org/wiki/File:Rose,_Paul%27s_Himalayan_Musk_Rambler,_%E3%83%90%E3%83%A9,_%E3%83%9D%E3%83%BC%E3%83%AB%E3%82%BA_%E3%83%92%E3%83%9E%E3%83%A9%E3%83%A4%E3%83%B3_%E3%83%A0%E3%82%B9%E3%82%AF_%E3%83%A9%E3%83%B3%E3%83%96%E3%83%A9%E3%83%BC,_(15789031421).jpg"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "commons": "Rose, Paul's Himalayan Musk Rambler, バラ, ポールズ ヒマラヤン ムスク ランブラー, (23747807260).jpg",
+      "s": "summer",
+      "cap": "Summer — a rambler sprawling in one big flush over a pergola arch · © T.Kiya (CC BY-SA 2.0) / Wikimedia Commons",
+      "by": "T.Kiya",
+      "lic": "CC BY-SA 2.0",
+      "link": "https://commons.wikimedia.org/wiki/File:Rose,_Paul%27s_Himalayan_Musk_Rambler,_%E3%83%90%E3%83%A9,_%E3%83%9D%E3%83%BC%E3%83%AB%E3%82%BA_%E3%83%92%E3%83%9E%E3%83%A9%E3%83%A4%E3%83%B3_%E3%83%A0%E3%82%B9%E3%82%AF_%E3%83%A9%E3%83%B3%E3%83%96%E3%83%A9%E3%83%BC,_(23747807260).jpg"
+    }
+  ]
 }

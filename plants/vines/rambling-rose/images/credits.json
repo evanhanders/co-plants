@@ -1,0 +1,42 @@
+[
+  {
+    "file": "images/su-flower.jpg",
+    "commons_file": "Rose, Paul's Himalayan Musk Rambler, バラ, ポールズ ヒマラヤン ムスク ランブラー, (15789031421).jpg",
+    "by": "T.Kiya",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Rose,_Paul%27s_Himalayan_Musk_Rambler,_%E3%83%90%E3%83%A9,_%E3%83%9D%E3%83%BC%E3%83%AB%E3%82%BA_%E3%83%92%E3%83%9E%E3%83%A9%E3%83%A4%E3%83%B3_%E3%83%A0%E3%82%B9%E3%82%AF_%E3%83%A9%E3%83%B3%E3%83%96%E3%83%A9%E3%83%BC,_(15789031421).jpg",
+    "dataset": "Wikimedia Commons",
+    "orig_px": [
+      2786,
+      3593
+    ],
+    "full_px": [
+      1163,
+      1500
+    ],
+    "thumb_px": [
+      310,
+      400
+    ]
+  },
+  {
+    "file": "images/su-habit.jpg",
+    "commons_file": "Rose, Paul's Himalayan Musk Rambler, バラ, ポールズ ヒマラヤン ムスク ランブラー, (23747807260).jpg",
+    "by": "T.Kiya",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Rose,_Paul%27s_Himalayan_Musk_Rambler,_%E3%83%90%E3%83%A9,_%E3%83%9D%E3%83%BC%E3%83%AB%E3%82%BA_%E3%83%92%E3%83%9E%E3%83%A9%E3%83%A4%E3%83%B3_%E3%83%A0%E3%82%B9%E3%82%AF_%E3%83%A9%E3%83%B3%E3%83%96%E3%83%A9%E3%83%BC,_(23747807260).jpg",
+    "dataset": "Wikimedia Commons",
+    "orig_px": [
+      3648,
+      2736
+    ],
+    "full_px": [
+      1500,
+      1125
+    ],
+    "thumb_px": [
+      400,
+      300
+    ]
+  }
+]

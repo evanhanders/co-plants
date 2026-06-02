@@ -7,7 +7,8 @@ _Nothing outstanding — all 28 plants are self-hosted with crisp, smart-cropped
 ### Web QA / UX polish pass (bugs · a11y · sleekness · QOL)
 
 - **Bug fixes.** ✅ (1) Tap-vs-swipe: a horizontal reel swipe no longer launches the
-  lightbox on touch (10px move-threshold on the open + `touch-action:pan-x` on the reel).
+  lightbox on touch (10px move-threshold on the open; reel `touch-action` — see the
+  reel/lightbox follow-ups below for its final `pan-x pan-y` value).
   (2) iOS no longer force-zooms on input focus (inputs bumped to 16px). (3) Adding a plant
   whose botanical duplicates a seed plant is now rejected with a message instead of silently
   overriding the card with no remove button. (4) Collapsing a group while a search is active
@@ -24,6 +25,19 @@ _Nothing outstanding — all 28 plants are self-hosted with crisp, smart-cropped
 - **QOL features.** ✅ Trait filter chips (Winter/Pollinator/Spreads/Toxic) sharing one
   `TRAITS` map with the badges; per-filter counts on type/trait chips; always-on
   "Showing N of M" legend + **Clear all** button; shareable/reload-safe URL-hash state.
+
+### Reel & lightbox follow-ups
+
+- **Season tab mis-highlight.** ✅ A 4-panel plant's *fall* photo could light the *winter*
+  tab. `curIdx()` now selects the panel whose actual `offsetLeft` is nearest `scrollLeft`
+  instead of `Math.round(scrollLeft/clientWidth)` (which mis-rounded with fractional widths).
+- **Trapped page scroll.** ✅ A finger landing on a card photo couldn't scroll the page —
+  the reel's `touch-action` was `pan-x` (blocks vertical panning). Now `pan-x pan-y`:
+  horizontal swipes still flip seasons, vertical drags scroll the page.
+- **Swipeable lightbox gallery.** ✅ Enlarging a photo loads the whole reel; swipe
+  left/right, arrow keys, or on-screen `‹ ›` buttons step through the full-size images with
+  an "n / m" counter (nav hides for single-photo plants and at the ends; drag-follow with
+  edge resistance; gated on not-zoomed so it doesn't fight pinch/pan).
 
 ## Earlier — self-hosting & thumbnails
 

@@ -110,7 +110,10 @@ non-breaking:** the remote `url`/`commons` stays as a safety net under the local
 Cards grouped by plant type (collapsible) with an A–Z toggle, a search box, a
 weed-gated "add plant" form, and a swipeable per-season photo strip. The card shows a
 small thumbnail; clicking (or `Enter`/`Space` on it — the photos are keyboard-focusable)
-opens the full-size image in a pinch/scroll zoom lightbox.
+opens the full-size image in a pinch/scroll zoom lightbox. The lightbox is a **swipeable
+gallery**: it loads the whole reel, so swipe left/right, arrow keys, or the on-screen
+`‹ ›` buttons step through that plant's full-size photos (with an "n / m" counter; nav
+hides for single-photo plants and at the ends).
 **Photos must be real CC-licensed photographs — no illustrations.** (See "Image
 requirements & sourcing" below for the per-plant photo spec.)
 
@@ -132,17 +135,22 @@ doesn't force-zoom on focus. A CSS-only skeleton (`.skel`) shows while `plant.js
 
 ### Known reel gotcha (already fixed — don't regress)
 
-The per-season tab is derived from the reel's scroll position. It needs the index
-clamped, **plus** a recompute ~150ms after scroll settles **plus** a `scrollend`
-listener. Without all three, the tab deselects on the last panel or mis-highlights
-while swiping.
+The per-season tab is derived from the reel's scroll position. `curIdx()` picks the panel
+whose actual **`offsetLeft` is nearest `scrollLeft`** — *not* `Math.round(scrollLeft/clientWidth)`,
+which mis-rounded with fractional panel widths and lit the wrong season (e.g. a 4-panel
+plant's *fall* panel highlighting the *winter* tab). It still needs the recompute ~150ms
+after scroll settles **plus** a `scrollend` listener so the tab doesn't deselect on the
+last panel or mis-highlight mid-swipe.
 
 ### Tap-vs-swipe gotcha (already fixed — don't regress)
 
 Tapping a card photo opens the lightbox, but the strip is also a horizontal swiper. The
 open is gated on a **move-threshold**: `content` tracks `pointerdown`/`pointermove` and the
-`click` handler bails if the pointer moved >10px (`tapMoved`). The reel also has
-`touch-action:pan-x`. Without this, a season-swipe flings you into the lightbox on touch.
+`click` handler bails if the pointer moved >10px (`tapMoved`). The reel uses
+`touch-action:pan-x pan-y` — `pan-x` keeps the horizontal season-swipe crisp, and `pan-y`
+is required so a finger that lands on a photo can still scroll the page vertically (plain
+`pan-x` blocks vertical panning and traps page scroll). The move-threshold (not
+`touch-action`) is what stops a season-swipe from flinging you into the lightbox.
 
 ## The plant card fields
 

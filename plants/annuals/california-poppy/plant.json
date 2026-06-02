@@ -14,5 +14,27 @@
   "toxic": "",
   "winter": false,
   "verified": "2026-06-01",
-  "commons": "20170805Eschscholzia californica1.jpg"
+  "commons": "20170805Eschscholzia californica1.jpg",
+  "shots": [
+    {
+      "local": "images/su-flowers-t.jpg",
+      "full": "images/su-flowers.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/142398801/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — cupped orange flowers & blue-green ferny foliage · © Mark Richman (CC-BY) / iNaturalist",
+      "by": "Mark Richman",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/photos/142398801"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/3201379/large.jpg",
+      "s": "summer",
+      "cap": "Summer — whole plant: silvery foliage & blooms · © Katja Schulz (CC-BY) / iNaturalist",
+      "by": "Katja Schulz",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/photos/3201379"
+    }
+  ]
 }

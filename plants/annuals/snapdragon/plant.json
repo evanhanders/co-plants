@@ -14,5 +14,27 @@
   "toxic": "",
   "winter": false,
   "verified": "2026-06-01",
-  "commons": "Snapdragon -- Antirrhinum majus.jpg"
+  "commons": "Snapdragon -- Antirrhinum majus.jpg",
+  "shots": [
+    {
+      "local": "images/su-flower-t.jpg",
+      "full": "images/su-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/141976044/large.jpg",
+      "s": "summer",
+      "cap": "Summer — bicolor flower spike · © wehdeinthewater (CC-BY-NC) / iNaturalist",
+      "by": "wehdeinthewater",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/photos/141976044"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/424546596/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — clump of flowering spikes · © Vincent (CC-BY-NC) / iNaturalist",
+      "by": "Vincent",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/photos/424546596"
+    }
+  ]
 }

@@ -1,0 +1,53 @@
+[
+  {
+    "file": "images/su-bracts.jpg",
+    "photo_id": "85086660",
+    "by": "Stephen Hornbeck",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/photos/85086660",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  },
+  {
+    "file": "images/su-habit.jpg",
+    "photo_id": "82900451",
+    "by": "Stephen Hornbeck",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/photos/82900451",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  },
+  {
+    "file": "images/su-colony.jpg",
+    "photo_id": "87939428",
+    "by": "Jess Mullins",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/photos/87939428",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  }
+]

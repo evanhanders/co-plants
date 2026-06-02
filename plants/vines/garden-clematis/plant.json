@@ -14,5 +14,27 @@
   "toxic": "Irritant/toxic if eaten; sap can irritate skin — caution with kids/pets. AVOID Clematis orientalis (yellow orange-peel clematis) — a CO List B noxious weed (all subspecies & cultivars)",
   "winter": false,
   "verified": "2026-06-01",
-  "commons": "Clematis 'Jackmanii' IMG 0199.jpg"
+  "commons": "Clematis 'Jackmanii' IMG 0199.jpg",
+  "shots": [
+    {
+      "local": "images/su-flower-t.jpg",
+      "full": "images/su-flower.jpg",
+      "commons": "Clematis 'Jackmannii' 0193.JPG",
+      "s": "summer",
+      "cap": "Summer — large velvety violet-purple bloom with creamy stamens · © Ronincmc (CC BY-SA 4.0) / Wikimedia Commons",
+      "by": "Ronincmc",
+      "lic": "CC BY-SA 4.0",
+      "link": "https://commons.wikimedia.org/wiki/File:Clematis_%27Jackmannii%27_0193.JPG"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "commons": "2013-08-04 P1270335 (1) DDumais.jpg",
+      "s": "summer",
+      "cap": "Summer — sheets of bloom climbing a trellis · © Daniel Dumais (CC BY-SA 4.0) / Wikimedia Commons",
+      "by": "Daniel Dumais",
+      "lic": "CC BY-SA 4.0",
+      "link": "https://commons.wikimedia.org/wiki/File:2013-08-04_P1270335_(1)_DDumais.jpg"
+    }
+  ]
 }

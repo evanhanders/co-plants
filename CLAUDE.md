@@ -134,26 +134,26 @@ the trigger, and `Escape` to close (both also lock body scroll). There's a globa
 `:focus-visible` ring (rust) and a `prefers-reduced-motion` block. Inputs are 16px so iOS
 doesn't force-zoom on focus. A CSS-only skeleton (`.skel`) shows while `plant.json`s fetch.
 
-### Known reel gotcha (already fixed — don't regress)
+### Card photo strip = static stack (already fixed — don't regress)
 
-The per-season tab is derived from the reel's scroll position. `curIdx()` picks the panel
-whose actual **`offsetLeft` is nearest `scrollLeft`** — *not* `Math.round(scrollLeft/clientWidth)`,
-which mis-rounded with fractional panel widths and lit the wrong season (e.g. a 4-panel
-plant's *fall* panel highlighting the *winter* tab). It still needs the recompute ~150ms
-after scroll settles **plus** a `scrollend` listener so the tab doesn't deselect on the
-last panel or mis-highlight mid-swipe.
+The per-season strip is **not a scroll container.** All of a plant's season photos are
+absolutely stacked inside `.reel`; only the active one carries `.show` (`display:block`),
+the rest are `display:none` (`.reel .shot:not(.show)`). The season **dots** call
+`setActive(i)`, which toggles `.show` on the figures and `.on`/`aria-pressed` on the dots —
+there is **no `overflow-x`, no `scroll-snap`, no scrolling.** This is deliberate: the old
+scroll-snap reel caused **scroll-chaining** on touch (a finger-drag on a photo scrolled the
+strip first, then the page only at the boundary). With a static stack the thumbnail is just
+the full image and a drag scrolls the page immediately. **Don't reintroduce
+`overflow-x`/`scroll-snap`/`scrollLeft`-based tab detection on `.reel`.**
 
 ### Tap-vs-swipe gotcha (already fixed — don't regress)
 
-Tapping a card photo opens the lightbox. **On touch the strip is intentionally not a
-swiper:** the reel uses `touch-action:pan-y`, so a finger that lands on a photo scrolls the
-page (the thumbnail stays put) instead of dragging the strip sideways — exactly what was
-asked for. Season changes come from the **tab dots**, which scroll the reel programmatically
-(`scrollTo`, unaffected by `touch-action`); there is no card-level finger-swipe. The
-lightbox-open is still gated on a **move-threshold** (`content` tracks
-`pointerdown`/`pointermove`; the `click` handler bails if the pointer moved >10px,
-`tapMoved`) so a scroll-drag doesn't fling you into the lightbox. (The full-size lightbox
-*is* swipeable — that's the separate gallery described under UI features.)
+Tapping a card photo opens the lightbox; the strip itself has no finger-swipe (it's the
+static stack above). The lightbox-open is still gated on a **move-threshold** (`content`
+tracks `pointerdown`/`pointermove`; the `click` handler bails if the pointer moved >10px,
+`tapMoved`) so a vertical scroll-drag that starts on a photo doesn't fling you into the
+lightbox on release. (The full-size **lightbox** is the swipeable one — that's the separate
+gallery described under UI features.)
 
 ## The plant card fields
 

@@ -14,5 +14,37 @@
   "toxic": "",
   "winter": false,
   "verified": "2026-06-01",
-  "commons": "Monarda fistulosa - Wild Bergamot (Flower).jpg"
+  "commons": "Monarda fistulosa - Wild Bergamot (Flower).jpg",
+  "shots": [
+    {
+      "local": "images/su-flower-t.jpg",
+      "full": "images/su-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/142185725/large.jpg",
+      "s": "summer",
+      "cap": "Summer — lavender pompom flowerhead · © Shalana Gray (CC-BY) / iNaturalist",
+      "by": "Shalana Gray",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/photos/142185725"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/304624122/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — flowering in a meadow stand · © elik03 (CC-BY) / iNaturalist",
+      "by": "elik03",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/photos/304624122"
+    },
+    {
+      "local": "images/wi-seedhead-t.jpg",
+      "full": "images/wi-seedhead.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/351522243/large.jpeg",
+      "s": "winter",
+      "cap": "Winter — dried seedhead standing through the cold · © Anders Hastings (CC-BY) / iNaturalist",
+      "by": "Anders Hastings",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/photos/351522243"
+    }
+  ]
 }

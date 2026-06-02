@@ -1,0 +1,36 @@
+[
+  {
+    "file": "images/su-flower.jpg",
+    "photo_id": "295193211",
+    "by": "Mark Apgar",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/photos/295193211",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      1400
+    ],
+    "thumb_px": [
+      400,
+      400
+    ]
+  },
+  {
+    "file": "images/su-habit.jpg",
+    "photo_id": "418615811",
+    "by": "Patrick Jackson",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/photos/418615811",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      1400
+    ],
+    "thumb_px": [
+      400,
+      400
+    ]
+  }
+]

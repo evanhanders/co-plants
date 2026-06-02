@@ -14,5 +14,27 @@
   "toxic": "",
   "winter": false,
   "verified": "2026-06-01",
-  "commons": "Monarda didyma 'Colrain Red' 6 2021 Bee Balm- (51273491889).jpg"
+  "commons": "Monarda didyma 'Colrain Red' 6 2021 Bee Balm- (51273491889).jpg",
+  "shots": [
+    {
+      "local": "images/su-flower-t.jpg",
+      "full": "images/su-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/295193211/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — scarlet tubular flowerhead · © Mark Apgar (CC-BY) / iNaturalist",
+      "by": "Mark Apgar",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/photos/295193211"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/418615811/large.jpg",
+      "s": "summer",
+      "cap": "Summer — flowers & foliage in a planting · © Patrick Jackson (CC-BY) / iNaturalist",
+      "by": "Patrick Jackson",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/photos/418615811"
+    }
+  ]
 }

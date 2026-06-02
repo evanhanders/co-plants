@@ -14,5 +14,27 @@
   "toxic": "",
   "winter": false,
   "verified": "2026-06-01",
-  "commons": "Erigeron speciosus Lindl. DC. 'Fleabane' (Asteraceae) flower.JPG"
+  "commons": "Erigeron speciosus Lindl. DC. 'Fleabane' (Asteraceae) flower.JPG",
+  "shots": [
+    {
+      "local": "images/su-flower-t.jpg",
+      "full": "images/su-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/211234995/large.jpg",
+      "s": "summer",
+      "cap": "Summer — lavender ray flower with golden disc · © Bob Walker (CC-BY) / iNaturalist",
+      "by": "Bob Walker",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/photos/211234995"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/142946422/large.jpg",
+      "s": "summer",
+      "cap": "Summer — clump flowering from a rocky crevice · © Mike Duran (CC-BY) / iNaturalist",
+      "by": "Mike Duran",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/photos/142946422"
+    }
+  ]
 }

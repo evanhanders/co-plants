@@ -1,0 +1,53 @@
+[
+  {
+    "file": "images/su-flower.jpg",
+    "photo_id": "142185725",
+    "by": "Shalana Gray",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/photos/142185725",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      1050
+    ],
+    "thumb_px": [
+      400,
+      300
+    ]
+  },
+  {
+    "file": "images/su-habit.jpg",
+    "photo_id": "304624122",
+    "by": "elik03",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/photos/304624122",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      1050
+    ],
+    "thumb_px": [
+      400,
+      300
+    ]
+  },
+  {
+    "file": "images/wi-seedhead.jpg",
+    "photo_id": "351522243",
+    "by": "Anders Hastings",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/photos/351522243",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      1050
+    ],
+    "thumb_px": [
+      400,
+      300
+    ]
+  }
+]

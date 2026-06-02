@@ -1,0 +1,68 @@
+{
+  "vines/garden-clematis": [
+    {
+      "file": "Clematis 'Jackmannii' 0193.JPG",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Clematis_%27Jackmannii%27_0193.JPG",
+      "kind": "flower",
+      "s": "summer",
+      "cap": "Summer — large velvety violet-purple bloom with creamy stamens",
+      "by": "Ronincmc",
+      "lic": "CC BY-SA 4.0",
+      "link": "https://commons.wikimedia.org/wiki/File:Clematis_%27Jackmannii%27_0193.JPG"
+    },
+    {
+      "file": "2013-08-04 P1270335 (1) DDumais.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/2013-08-04_P1270335_%281%29_DDumais.jpg",
+      "kind": "habit",
+      "s": "summer",
+      "cap": "Summer — sheets of bloom climbing a trellis",
+      "by": "Daniel Dumais",
+      "lic": "CC BY-SA 4.0",
+      "link": "https://commons.wikimedia.org/wiki/File:2013-08-04_P1270335_(1)_DDumais.jpg"
+    }
+  ],
+  "vines/climbing-rose": [
+    {
+      "file": "Pale pink climbing rose at Harlow Museum & Walled Gardens, Essex 03.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Pale_pink_climbing_rose_at_Harlow_Museum_%26_Walled_Gardens%2C_Essex_03.jpg",
+      "kind": "flower",
+      "s": "summer",
+      "cap": "Summer — stiff canes & blooms trained up a brick wall",
+      "by": "Acabashi",
+      "lic": "CC BY-SA 4.0",
+      "link": "https://commons.wikimedia.org/wiki/File:Pale_pink_climbing_rose_at_Harlow_Museum_%26_Walled_Gardens,_Essex_03.jpg"
+    },
+    {
+      "file": "Pale pink climbing rose at Harlow Museum & Walled Gardens, Essex 05.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Pale_pink_climbing_rose_at_Harlow_Museum_%26_Walled_Gardens%2C_Essex_05.jpg",
+      "kind": "habit",
+      "s": "summer",
+      "cap": "Summer — fanned out across a wall, the climbing habit",
+      "by": "Acabashi",
+      "lic": "CC BY-SA 4.0",
+      "link": "https://commons.wikimedia.org/wiki/File:Pale_pink_climbing_rose_at_Harlow_Museum_%26_Walled_Gardens,_Essex_05.jpg"
+    }
+  ],
+  "vines/rambling-rose": [
+    {
+      "file": "Rose, Paul's Himalayan Musk Rambler, バラ, ポールズ ヒマラヤン ムスク ランブラー, (15789031421).jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Rose%2C_Paul%27s_Himalayan_Musk_Rambler%2C_%E3%83%90%E3%83%A9%2C_%E3%83%9D%E3%83%BC%E3%83%AB%E3%82%BA_%E3%83%92%E3%83%9E%E3%83%A9%E3%83%A4%E3%83%B3_%E3%83%A0%E3%82%B9%E3%82%AF_%E3%83%A9%E3%83%B3%E3%83%96%E3%83%A9%E3%83%BC%2C_%2815789031421%29.jpg",
+      "kind": "flower",
+      "s": "summer",
+      "cap": "Summer — cascading clusters of small pale-pink pompom blooms (Paul's Himalayan Musk)",
+      "by": "T.Kiya",
+      "lic": "CC BY-SA 2.0",
+      "link": "https://commons.wikimedia.org/wiki/File:Rose,_Paul%27s_Himalayan_Musk_Rambler,_%E3%83%90%E3%83%A9,_%E3%83%9D%E3%83%BC%E3%83%AB%E3%82%BA_%E3%83%92%E3%83%9E%E3%83%A9%E3%83%A4%E3%83%B3_%E3%83%A0%E3%82%B9%E3%82%AF_%E3%83%A9%E3%83%B3%E3%83%96%E3%83%A9%E3%83%BC,_(15789031421).jpg"
+    },
+    {
+      "file": "Rose, Paul's Himalayan Musk Rambler, バラ, ポールズ ヒマラヤン ムスク ランブラー, (23747807260).jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Rose%2C_Paul%27s_Himalayan_Musk_Rambler%2C_%E3%83%90%E3%83%A9%2C_%E3%83%9D%E3%83%BC%E3%83%AB%E3%82%BA_%E3%83%92%E3%83%9E%E3%83%A9%E3%83%A4%E3%83%B3_%E3%83%A0%E3%82%B9%E3%82%AF_%E3%83%A9%E3%83%B3%E3%83%96%E3%83%A9%E3%83%BC%2C_%2823747807260%29.jpg",
+      "kind": "habit",
+      "s": "summer",
+      "cap": "Summer — a rambler sprawling in one big flush over a pergola arch",
+      "by": "T.Kiya",
+      "lic": "CC BY-SA 2.0",
+      "link": "https://commons.wikimedia.org/wiki/File:Rose,_Paul%27s_Himalayan_Musk_Rambler,_%E3%83%90%E3%83%A9,_%E3%83%9D%E3%83%BC%E3%83%AB%E3%82%BA_%E3%83%92%E3%83%9E%E3%83%A9%E3%83%A4%E3%83%B3_%E3%83%A0%E3%82%B9%E3%82%AF_%E3%83%A9%E3%83%B3%E3%83%96%E3%83%A9%E3%83%BC,_(23747807260).jpg"
+    }
+  ]
+}

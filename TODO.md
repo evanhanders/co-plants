@@ -1,8 +1,31 @@
 # TODO
 
-_Nothing outstanding — all 27 plants are self-hosted with crisp, smart-cropped cards._
+_Nothing outstanding — all 28 plants are self-hosted with crisp, smart-cropped cards._
 
 ## Done
+
+### Web QA / UX polish pass (bugs · a11y · sleekness · QOL)
+
+- **Bug fixes.** ✅ (1) Tap-vs-swipe: a horizontal reel swipe no longer launches the
+  lightbox on touch (10px move-threshold on the open + `touch-action:pan-x` on the reel).
+  (2) iOS no longer force-zooms on input focus (inputs bumped to 16px). (3) Adding a plant
+  whose botanical duplicates a seed plant is now rejected with a message instead of silently
+  overriding the card with no remove button. (4) Collapsing a group while a search is active
+  no longer corrupts collapse state after clearing. (5) `winter` auto-detect now also reads
+  the blurb; `isNative` uses a word-boundary test instead of a brittle substring.
+- **Accessibility.** ✅ Photos keyboard-openable (`role=button`, `tabindex`, Enter/Space) with
+  descriptive per-shot `alt`; group chevrons are real `<button>`s with `aria-expanded`;
+  lightbox + add modal are `role=dialog aria-modal` with focus-in / Tab-trap / focus-return /
+  Escape / body-scroll-lock; global `:focus-visible` ring; `prefers-reduced-motion`;
+  season-tab `aria-label`/`aria-pressed`; label `for=` associations on the add form.
+- **Sleek polish.** ✅ CSS-only loading skeleton; inline-SVG favicon + meta description +
+  Open Graph/Twitter + theme-color; larger tap targets (season tabs 25→30px, lightbox
+  controls 44px); lightbox top/side safe-area insets; deeper photo-strip scrim for contrast.
+- **QOL features.** ✅ Trait filter chips (Winter/Pollinator/Spreads/Toxic) sharing one
+  `TRAITS` map with the badges; per-filter counts on type/trait chips; always-on
+  "Showing N of M" legend + **Clear all** button; shareable/reload-safe URL-hash state.
+
+## Earlier — self-hosting & thumbnails
 
 - **Crisp card thumbnails (high-DPI fix).** ✅ Cards render at 700px+ of device pixels on
   retina/phone screens, but thumbnails were capped at 400px and full-frame resized → they

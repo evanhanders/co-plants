@@ -56,16 +56,19 @@ winter:'<svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="curr
 function seasonIcon(s){ return SEASON_ICON[s] || '<svg width="11" height="11" viewBox="0 0 24 24" fill="currentColor"><circle cx="12" cy="12" r="5"/></svg>'; }
 window.__camera = '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M4 8h3l1.6-2h6.8L17 8h3v11H4z"/><circle cx="12" cy="13" r="3.4"/></svg>';
 function capOf(sh){ return sh.cap || (sh.s ? sh.s.charAt(0).toUpperCase()+sh.s.slice(1) : ""); }
+/* the descriptive part of a caption, minus the attribution tail (after · or ©) */
+function capPlain(c){ return (c||'').split('·')[0].split('©')[0].trim(); }
+function esc(s){ return String(s==null?'':s).replace(/&/g,'&amp;').replace(/"/g,'&quot;').replace(/</g,'&lt;').replace(/>/g,'&gt;'); }
 function plateHTML(p){
 const shots = shotsFor(p);
 if(!shots.length){ return '<div class="shot empty">'+window.__camera+'<span>Photograph coming soon</span></div>'; }
 const caps = shots.map(capOf), srcs = shots.map(shotSource), labs = srcs.map(srcLabel);
 const fulls = shots.map(function(sh){ return shotFull(sh, p.dir); });
 let reel = '<div class="reel" data-caps=\''+JSON.stringify(caps).replace(/'/g,"&#39;")+'\' data-srcs=\''+JSON.stringify(srcs).replace(/'/g,"&#39;")+'\' data-labs=\''+JSON.stringify(labs).replace(/'/g,"&#39;")+'\'>';
-shots.forEach(function(sh,i){ var cand=shotCandidates(sh, p.dir); var rest=JSON.stringify(cand.slice(1)).replace(/'/g,"&#39;"); reel += '<figure class="shot"><img src="'+(cand[0]||"")+'" alt="'+p.common+'" loading="lazy" data-full="'+(fulls[i]||"")+'" data-alts=\''+rest+'\' onerror="window.__imgnext(this)"></figure>'; });
+shots.forEach(function(sh,i){ var cand=shotCandidates(sh, p.dir); var rest=JSON.stringify(cand.slice(1)).replace(/'/g,"&#39;"); var cp=capPlain(caps[i]); var alt=esc(p.common+(cp?' — '+cp:'')); reel += '<figure class="shot"><img src="'+(cand[0]||"")+'" alt="'+alt+'" loading="lazy" tabindex="0" role="button" aria-label="View larger photo: '+alt+'" data-full="'+esc(fulls[i]||"")+'" data-alts=\''+rest+'\' onerror="window.__imgnext(this)"></figure>'; });
 reel += '</div>';
 let tabs='';
-if(shots.length>1){ shots.forEach(function(sh,i){ tabs += '<button class="tab'+(i===0?' on':'')+'" data-i="'+i+'" title="'+(caps[i]||'')+'">'+seasonIcon(sh.s)+'</button>'; }); }
+if(shots.length>1){ shots.forEach(function(sh,i){ var lab=esc(capPlain(caps[i]) || (sh.s||('Photo '+(i+1)))); tabs += '<button class="tab'+(i===0?' on':'')+'" data-i="'+i+'" aria-label="'+lab+'" aria-pressed="'+(i===0?'true':'false')+'" title="'+esc(caps[i]||'')+'">'+seasonIcon(sh.s)+'</button>'; }); }
 return reel + '<div class="sbar"><div class="tabs">'+tabs+'</div><span class="lab">'+(caps[0]||'')+'</span>'
 + '<a class="src" href="'+srcs[0]+'" target="_blank" rel="noopener noreferrer">'+(labs[0]||'Source ↗')+'</a></div>';
 }
@@ -77,12 +80,12 @@ var reel = plate.querySelector('.reel'), bar = plate.querySelector('.sbar'); if(
 var tabs = Array.prototype.slice.call(bar.querySelectorAll('.tab'));
 var lab = bar.querySelector('.lab'), src = bar.querySelector('.src');
 var caps=[], srcs=[], labs=[]; try{ caps=JSON.parse(reel.dataset.caps||'[]'); }catch(e){} try{ srcs=JSON.parse(reel.dataset.srcs||'[]'); }catch(e){} try{ labs=JSON.parse(reel.dataset.labs||'[]'); }catch(e){}
-function setActive(i){ tabs.forEach(function(t,j){ t.classList.toggle('on', j===i); }); if(lab) lab.textContent=caps[i]||''; if(src&&srcs[i]){ src.href=srcs[i]; src.textContent=labs[i]||'Source ↗'; } }
+function setActive(i){ tabs.forEach(function(t,j){ t.classList.toggle('on', j===i); t.setAttribute('aria-pressed', j===i?'true':'false'); }); if(lab) lab.textContent=caps[i]||''; if(src&&srcs[i]){ src.href=srcs[i]; src.textContent=labs[i]||'Source ↗'; } }
 function curIdx(){ var n=tabs.length?tabs.length-1:0; return Math.min(n, Math.max(0, Math.round(reel.scrollLeft/Math.max(1,reel.clientWidth)))); }
 var settle;
 reel.addEventListener('scroll', function(){ setActive(curIdx()); clearTimeout(settle); settle=setTimeout(function(){ setActive(curIdx()); }, 150); }, {passive:true});
 reel.addEventListener('scrollend', function(){ setActive(curIdx()); }, {passive:true});
-tabs.forEach(function(t){ t.onclick=function(){ var j=+t.dataset.i; reel.scrollTo({left:j*reel.clientWidth, behavior:'smooth'}); setActive(j); }; });
+tabs.forEach(function(t){ t.onclick=function(){ var j=+t.dataset.i; reel.scrollTo({left:j*reel.clientWidth, behavior:REDUCE_MOTION?'auto':'smooth'}); setActive(j); }; });
 setActive(0);
 });
 }
@@ -92,11 +95,21 @@ let view = "type";
 const collapsed = new Set(); // group names collapsed (type view)
 let natFilter = "all";            // all | native | intro
 const typeFilter = new Set();     // empty = all groups shown
-function isNative(p){ return (p.native||'').indexOf('native')>-1 && p.native!=='Non-native'; }
+const traitFilter = new Set();    // empty = no trait constraint; values: winter|pollin|spreads|toxic
+const REDUCE_MOTION = window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+function isNative(p){ return /(^|\s)native\b/i.test(p.native||'') && (p.native||'').toLowerCase().indexOf('non-native')===-1; }
+/* derived trait predicates — shared by the badges (cardHTML) and the trait filter */
+const TRAITS = {
+winter:{ label:'Winter', icon:'❄', test:function(p){ return !!p.winter; } },
+pollin:{ label:'Pollinator', icon:'✿', test:function(p){ return /bee|pollinat|butterfl|host|hummingbird/i.test(p.wildlife||''); } },
+spreads:{ label:'Spreads', icon:'↔', test:function(p){ return /run|rhizom|sucker|thicket|mat-form/i.test(p.spread||''); } },
+toxic:{ label:'Toxic', icon:'⚠', test:function(p){ return !!p.toxic; } }
+};
 function passesFilters(p){
 if(natFilter==='native' && !isNative(p)) return false;
 if(natFilter==='intro' && isNative(p)) return false;
 if(typeFilter.size && !typeFilter.has(groupOf(p.type))) return false;
+for(const t of traitFilter){ if(!TRAITS[t] || !TRAITS[t].test(p)) return false; }
 return true; /* add more filter dimensions here as the guide grows */
 }
 const content=document.getElementById('content');
@@ -121,10 +134,10 @@ const plate = plateHTML(p);
 const nat = (p.native && p.native.indexOf('native')>-1 && p.native!=='Non-native')
 ? '<span class="nat">'+p.native+'</span>' : '<span class="nat intro">'+(p.native||'Vetted')+'</span>';
 const flags=[];
-if(p.winter) flags.push('<span class="flag winter">❄ Winter interest</span>');
-if((p.wildlife||'').match(/bee|pollinat|butterfl|host|hummingbird/i)) flags.push('<span class="flag pollin">✿ Pollinator</span>');
-if((p.spread||'').match(/run|rhizom|sucker|thicket|mat-form/i)) flags.push('<span class="flag run">↔ Spreads</span>');
-if(p.toxic) flags.push('<span class="flag toxic">⚠ Toxic parts</span>');
+if(TRAITS.winter.test(p)) flags.push('<span class="flag winter">❄ Winter interest</span>');
+if(TRAITS.pollin.test(p)) flags.push('<span class="flag pollin">✿ Pollinator</span>');
+if(TRAITS.spreads.test(p)) flags.push('<span class="flag run">↔ Spreads</span>');
+if(TRAITS.toxic.test(p)) flags.push('<span class="flag toxic">⚠ Toxic parts</span>');
 return '<article class="card"><div class="plate">'+plate+'<span class="corner">'+(p.type||'')+'</span>'+nat+'</div>'+
 '<div class="body"><h3 class="name">'+p.common+'</h3><p class="latin">'+p.botanical+'</p>'+
 '<p class="blurb">'+(p.blurb||'')+'</p><dl class="facts">'+
@@ -146,9 +159,11 @@ if(!q) return true;
 return [p.common,p.botanical,p.type,p.native,p.blurb,p.seasons,p.wildlife,p.spread].join(' ').toLowerCase().indexOf(q)>-1;
 });
 document.getElementById('count').textContent = total;
-const filtering = q || natFilter!=='all' || typeFilter.size>0;
+const filtering = q || natFilter!=='all' || typeFilter.size>0 || traitFilter.size>0;
 const showingEl=document.getElementById('showing');
-if(showingEl) showingEl.textContent = filtering ? ('Showing '+list.length+' of '+total) : '';
+if(showingEl) showingEl.textContent = filtering ? ('Showing '+list.length+' of '+total+' specimens') : ('Showing all '+total+' specimens');
+const clearEl=document.getElementById('clearFilters'); if(clearEl) clearEl.hidden = !filtering;
+syncHash();
 if(!list.length){ const why = q ? 'matches “'+searchEl.value+'”' : 'fits the current filters'; content.innerHTML='<div class="grid"><div class="empty">No specimen '+why+'.</div></div>'; return; }
 if(view==="alpha"){
 content.innerHTML = gridOf(list);
@@ -160,18 +175,18 @@ GROUP_ORDER.forEach(function(g){
 if(!buckets[g]) return;
 const isC = !q && collapsed.has(g);
 html += '<section class="grp'+(isC?' collapsed':'')+'" data-group="'+g+'">'
-+ '<div class="group-head" data-g="'+g+'"><span class="chev">▾</span><h2>'+g+'</h2><span class="gc">'+buckets[g].length+'</span><span class="rule"></span></div>'
++ '<div class="group-head" data-g="'+g+'"><button class="chev" data-g="'+g+'" aria-expanded="'+(isC?'false':'true')+'" aria-label="'+(isC?'Expand ':'Collapse ')+g+'">▾</button><h2>'+g+'</h2><span class="gc">'+buckets[g].length+'</span><span class="rule"></span></div>'
 + gridOf(buckets[g]) + '</section>';
 });
 content.innerHTML = html;
 Array.prototype.forEach.call(content.querySelectorAll('.group-head'), function(h){
-h.onclick=function(){ const g=h.dataset.g; if(collapsed.has(g)) collapsed.delete(g); else collapsed.add(g); h.parentElement.classList.toggle('collapsed'); };
+h.onclick=function(){ if(q) return; /* during search everything is force-expanded */ const g=h.dataset.g; const nowC = !collapsed.has(g); if(nowC) collapsed.add(g); else collapsed.delete(g); h.parentElement.classList.toggle('collapsed', nowC); const chev=h.querySelector('.chev'); if(chev){ chev.setAttribute('aria-expanded', nowC?'false':'true'); chev.setAttribute('aria-label', (nowC?'Expand ':'Collapse ')+g); } };
 });
 }
 Array.prototype.forEach.call(content.querySelectorAll('.del'), function(b){ b.onclick=function(){ removePlant(b.dataset.bot); }; });
 wireReels(content);
 }
-async function removePlant(bot){ userPlants = userPlants.filter(function(u){return u.botanical!==bot;}); await saveUser(); render(); }
+async function removePlant(bot){ userPlants = userPlants.filter(function(u){return u.botanical!==bot;}); await saveUser(); buildTypeChips(); buildTraitChips(); render(); }
 /* ---------- view toggle ---------- */
 Array.prototype.forEach.call(document.querySelectorAll('#seg button'), function(btn){
 btn.onclick=function(){ view=btn.dataset.view; Array.prototype.forEach.call(document.querySelectorAll('#seg button'), function(b){ b.classList.toggle('active', b===btn); }); render(); };
@@ -189,9 +204,10 @@ else c.classList.toggle('active', typeFilter.has(c.dataset.group));
 }
 function buildTypeChips(){
 const wrap=document.getElementById('typeChips'); if(!wrap) return;
-const present=new Set(allPlants().map(function(p){return groupOf(p.type);}));
+const all=allPlants(), counts={};
+all.forEach(function(p){ var g=groupOf(p.type); counts[g]=(counts[g]||0)+1; });
 let html='<button class="chip" data-all="1">All</button>';
-GROUP_ORDER.forEach(function(g){ if(present.has(g)) html+='<button class="chip" data-group="'+g+'">'+g+'</button>'; });
+GROUP_ORDER.forEach(function(g){ if(counts[g]) html+='<button class="chip" data-group="'+g+'">'+g+' <span class="gc">'+counts[g]+'</span></button>'; });
 wrap.innerHTML=html;
 Array.prototype.forEach.call(wrap.querySelectorAll('.chip'), function(c){
 c.onclick=function(){
@@ -202,28 +218,83 @@ syncTypeChips(); render();
 });
 syncTypeChips();
 }
+function syncTraitChips(){
+const wrap=document.getElementById('traitChips'); if(!wrap) return;
+Array.prototype.forEach.call(wrap.querySelectorAll('.chip'), function(c){ c.classList.toggle('active', traitFilter.has(c.dataset.trait)); });
+}
+function buildTraitChips(){
+const wrap=document.getElementById('traitChips'); if(!wrap) return;
+const all=allPlants();
+let html='';
+Object.keys(TRAITS).forEach(function(k){
+var n=all.filter(TRAITS[k].test).length; if(!n) return;
+html+='<button class="chip trait" data-trait="'+k+'"><span class="ic">'+TRAITS[k].icon+'</span>'+TRAITS[k].label+' <span class="gc">'+n+'</span></button>';
+});
+wrap.innerHTML=html;
+Array.prototype.forEach.call(wrap.querySelectorAll('.chip'), function(c){
+c.onclick=function(){ var t=c.dataset.trait; if(traitFilter.has(t)) traitFilter.delete(t); else traitFilter.add(t); syncTraitChips(); render(); };
+});
+syncTraitChips();
+}
+/* clear everything: search + origin + type + traits */
+function clearAllFilters(){
+searchEl.value=''; natFilter='all'; typeFilter.clear(); traitFilter.clear();
+Array.prototype.forEach.call(document.querySelectorAll('#natSeg button'), function(b){ b.classList.toggle('active', b.dataset.nat==='all'); });
+syncTypeChips(); syncTraitChips(); render();
+}
+{ const cf=document.getElementById('clearFilters'); if(cf) cf.onclick=clearAllFilters; }
+/* ---------- shareable URL state (hash) ---------- */
+function syncHash(){
+const parts=[];
+if(view!=='type') parts.push('view='+view);
+if(natFilter!=='all') parts.push('nat='+natFilter);
+if(typeFilter.size) parts.push('type='+encodeURIComponent(Array.from(typeFilter).join(',')));
+if(traitFilter.size) parts.push('trait='+Array.from(traitFilter).join(','));
+const q=(searchEl.value||'').trim(); if(q) parts.push('q='+encodeURIComponent(q));
+const h=parts.length?('#'+parts.join('&')):'';
+if(h!==location.hash){ try{ history.replaceState(null,'',location.pathname+location.search+h); }catch(e){} }
+}
+function applyHash(){
+const h=(location.hash||'').replace(/^#/,''); if(!h) return;
+h.split('&').forEach(function(kv){
+const i=kv.indexOf('='); if(i<0) return; const k=kv.slice(0,i), v=decodeURIComponent(kv.slice(i+1));
+if(k==='view' && (v==='alpha'||v==='type')) view=v;
+else if(k==='nat' && /^(all|native|intro)$/.test(v)) natFilter=v;
+else if(k==='type'){ typeFilter.clear(); v.split(',').forEach(function(g){ if(g) typeFilter.add(g); }); }
+else if(k==='trait'){ traitFilter.clear(); v.split(',').forEach(function(t){ if(TRAITS[t]) traitFilter.add(t); }); }
+else if(k==='q'){ searchEl.value=v; }
+});
+Array.prototype.forEach.call(document.querySelectorAll('#seg button'), function(b){ b.classList.toggle('active', b.dataset.view===view); });
+Array.prototype.forEach.call(document.querySelectorAll('#natSeg button'), function(b){ b.classList.toggle('active', b.dataset.nat===natFilter); });
+}
 /* ---------- add modal ---------- */
 const scrim=document.getElementById('scrim');
 const G=function(id){return document.getElementById(id);};
-G('addBtn').onclick=function(){ G('err').textContent=''; scrim.classList.add('open'); };
-G('cancelBtn').onclick=function(){ scrim.classList.remove('open'); };
-scrim.onclick=function(e){ if(e.target===scrim) scrim.classList.remove('open'); };
+let modalLastTrigger=null;
+function openModal(){ G('err').textContent=''; modalLastTrigger=document.activeElement; scrim.classList.add('open'); document.body.style.overflow='hidden'; setTimeout(function(){ G('f_common').focus(); },0); }
+function closeModal(){ scrim.classList.remove('open'); document.body.style.overflow=''; if(modalLastTrigger && modalLastTrigger.focus){ modalLastTrigger.focus(); } }
+G('addBtn').onclick=openModal;
+G('cancelBtn').onclick=closeModal;
+scrim.onclick=function(e){ if(e.target===scrim) closeModal(); };
+document.addEventListener('keydown', function(e){ if(e.key==='Escape' && scrim.classList.contains('open')) closeModal(); });
 G('saveBtn').onclick=async function(){
 const common=G('f_common').value.trim(), botanical=G('f_botanical').value.trim();
 if(!common||!botanical){ G('err').textContent='Please give both a common and botanical name.'; return; }
 if(!G('f_weed').checked){ G('err').textContent='Please confirm the weed check — no weeds get in without it.'; return; }
+const key=botanical.toLowerCase().trim();
+if(SEED.some(function(s){return s.botanical.toLowerCase().trim()===key;})){ G('err').textContent='That botanical name is already in the guide.'; return; }
 const p={ common:common, botanical:botanical, type:G('f_type').value, native:G('f_native').value,
 blurb:G('f_blurb').value.trim(), size:G('f_size').value.trim(), sun:G('f_sun').value.trim(),
 water:G('f_water').value.trim(), spread:G('f_spread').value.trim(), seasons:G('f_seasons').value.trim(),
 wildlife:G('f_wildlife').value.trim(), deer:G('f_deer').value.trim(), toxic:G('f_toxic').value.trim(),
 photo:G('f_photo').value.trim(), commons:"",
-winter:/winter|evergreen|persist/i.test(G('f_seasons').value),
+winter:/winter|evergreen|persist/i.test(G('f_seasons').value+' '+G('f_blurb').value),
 verified:new Date().toISOString().slice(0,10) };
-userPlants = userPlants.filter(function(u){return u.botanical.toLowerCase().trim()!==botanical.toLowerCase().trim();});
+userPlants = userPlants.filter(function(u){return u.botanical.toLowerCase().trim()!==key;});
 userPlants.push(p);
 await saveUser();
 ['f_common','f_botanical','f_blurb','f_size','f_sun','f_water','f_spread','f_seasons','f_wildlife','f_deer','f_toxic','f_photo'].forEach(function(id){G(id).value='';});
-G('f_weed').checked=false; scrim.classList.remove('open'); render();
+G('f_weed').checked=false; closeModal(); buildTypeChips(); buildTraitChips(); render();
 };
 searchEl.addEventListener('input', render);
 /* submitting the search (Enter / on-screen "Search" key) drops the mobile keyboard */
@@ -253,13 +324,16 @@ if(scale<=1.001){ scale=1; tx=0; ty=0; } else clampPan();
 apply();
 }
 function anim(on){ img.classList.toggle('anim', !!on); }
-function open(src, cap, source){
+var lbTrigger=null;
+function open(src, cap, source, trigger){
+lbTrigger = trigger || document.activeElement;
 img.classList.remove('anim');
 img.src=src; capText.textContent=cap||'';
 if(source && source!=='#'){ srcA.href=source; srcA.textContent=srcLabel(source); srcA.style.display=''; } else { srcA.style.display='none'; }
 reset(); lbox.classList.add('open'); lbox.setAttribute('aria-hidden','false'); document.body.style.overflow='hidden';
+setTimeout(function(){ var c=document.getElementById('lbClose'); if(c) c.focus(); },0);
 }
-function close(){ lbox.classList.remove('open'); lbox.setAttribute('aria-hidden','true'); document.body.style.overflow=''; img.src=''; pointers.clear(); lastDist=0; lastMid=null; }
+function close(){ lbox.classList.remove('open'); lbox.setAttribute('aria-hidden','true'); document.body.style.overflow=''; img.src=''; pointers.clear(); lastDist=0; lastMid=null; if(lbTrigger && lbTrigger.focus){ try{ lbTrigger.focus(); }catch(e){} } }
 window.__openLightbox=open;
 document.getElementById('lbClose').onclick=close;
 document.getElementById('lbIn').onclick=function(){ var c=center(); anim(true); zoomAt(scale*1.5,c.x,c.y); };
@@ -271,6 +345,7 @@ var c=center();
 if(e.key==='Escape') close();
 else if(e.key==='+'||e.key==='='){ anim(true); zoomAt(scale*1.5,c.x,c.y); }
 else if(e.key==='-'||e.key==='_'){ anim(true); zoomAt(scale/1.5,c.x,c.y); }
+else if(e.key==='Tab'){ var f=Array.prototype.slice.call(lbox.querySelectorAll('button, a[href]')).filter(function(el){ return el.offsetParent!==null; }); if(!f.length) return; var first=f[0], last=f[f.length-1]; if(e.shiftKey && document.activeElement===first){ e.preventDefault(); last.focus(); } else if(!e.shiftKey && document.activeElement===last){ e.preventDefault(); first.focus(); } else if(f.indexOf(document.activeElement)<0){ e.preventDefault(); first.focus(); } }
 });
 function dist(a,b){ return Math.hypot(a.x-b.x,a.y-b.y); }
 function mid(a,b){ return {x:(a.x+b.x)/2,y:(a.y+b.y)/2}; }
@@ -305,21 +380,21 @@ if(pointers.has(e.pointerId)) pointers.delete(e.pointerId);
 if(pointers.size<2){ lastDist=0; lastMid=null; }
 if(pointers.size>0) return;
 if(wasMoved) return;
-if(e.pointerType==='mouse'){ if(e.target===stage && scale<=1.01) close(); return; }
+var onCanvas=(e.target===stage||e.target===img);
+if(e.pointerType==='mouse'){ if(onCanvas && scale<=1.01) close(); return; }
 var now=Date.now();
 var isDbl=(now-lastTap<300) && Math.abs(e.clientX-lastTapX)<32 && Math.abs(e.clientY-lastTapY)<32;
 if(isDbl){ anim(true); if(scale>1.01) reset(); else zoomAt(2.5, e.clientX, e.clientY); lastTap=0; return; }
 lastTap=now; lastTapX=e.clientX; lastTapY=e.clientY;
-if(e.target===stage && scale<=1.01){ setTimeout(function(){ if(lastTap===now && scale<=1.01) close(); }, 300); }
+if(onCanvas && scale<=1.01){ setTimeout(function(){ if(lastTap===now && scale<=1.01) close(); }, 300); }
 }
 stage.addEventListener('pointerup', up);
 stage.addEventListener('pointercancel', function(e){ if(pointers.has(e.pointerId)) pointers.delete(e.pointerId); if(pointers.size<2){ lastDist=0; lastMid=null; } });
 stage.addEventListener('dblclick', function(e){ e.preventDefault(); anim(true); if(scale>1.01) reset(); else zoomAt(2.5,e.clientX,e.clientY); });
 stage.addEventListener('wheel', function(e){ e.preventDefault(); anim(false); zoomAt(scale*(e.deltaY<0?1.12:1/1.12), e.clientX, e.clientY); }, {passive:false});
 })();
-/* open the lightbox when a card photo is tapped */
-content.addEventListener('click', function(e){
-var im = e.target && e.target.closest ? e.target.closest('.shot img') : null;
+/* open the lightbox for a card photo */
+function openFromImg(im){
 if(!im || im.closest('.shot.empty')) return;
 var fig=im.closest('.shot'), reel=im.closest('.reel'), idx=0, caps=[], srcs=[];
 if(reel){ var figs=Array.prototype.slice.call(reel.querySelectorAll('.shot')); idx=Math.max(0,figs.indexOf(fig));
@@ -327,7 +402,23 @@ try{ caps=JSON.parse(reel.dataset.caps||'[]'); }catch(_){}
 try{ srcs=JSON.parse(reel.dataset.srcs||'[]'); }catch(_){} }
 var full=im.getAttribute('data-full');
 var big = full ? full : (im.currentSrc||im.src||'').replace(/([?&]width=)\d+/, '$12000');
-window.__openLightbox(big, caps[idx]||'', srcs[idx]||'#');
+window.__openLightbox(big, caps[idx]||'', srcs[idx]||'#', im);
+}
+/* distinguish a tap (open) from a horizontal swipe (change season) so a reel
+   swipe never accidentally launches the lightbox on touch */
+var tapDownX=0, tapDownY=0, tapMoved=false;
+content.addEventListener('pointerdown', function(e){ tapDownX=e.clientX; tapDownY=e.clientY; tapMoved=false; }, {passive:true});
+content.addEventListener('pointermove', function(e){ if(Math.abs(e.clientX-tapDownX)+Math.abs(e.clientY-tapDownY)>10) tapMoved=true; }, {passive:true});
+content.addEventListener('click', function(e){
+if(tapMoved) return; /* it was a swipe, not a tap */
+var im = e.target && e.target.closest ? e.target.closest('.shot img') : null;
+openFromImg(im);
+});
+content.addEventListener('keydown', function(e){
+if(e.key!=='Enter' && e.key!==' ' && e.key!=='Spacebar') return;
+var im = e.target && e.target.closest ? e.target.closest('.shot img') : null;
+if(!im) return;
+e.preventDefault(); openFromImg(im);
 });
 
 async function loadSeed(){
@@ -344,4 +435,9 @@ return fetch('plants/'+rel+'/plant.json')
 SEED = loaded.filter(Boolean);
 }catch(e){ console.error('Could not load plant data', e); SEED = []; }
 }
-(async function(){ await Promise.all([loadSeed(), loadUser()]); buildTypeChips(); render(); })();
+function renderSkeleton(){
+var card='<div class="skel"><div class="plate"></div><div class="body"><div class="ln t"></div><div class="ln s"></div><div class="ln w"></div><div class="ln w"></div><div class="ln s"></div></div></div>';
+content.innerHTML='<div class="grid">'+new Array(8).join(card)+card+'</div>';
+var c=document.getElementById('count'); if(c) c.textContent='…';
+}
+(async function(){ renderSkeleton(); await Promise.all([loadSeed(), loadUser()]); applyHash(); buildTypeChips(); buildTraitChips(); render(); })();

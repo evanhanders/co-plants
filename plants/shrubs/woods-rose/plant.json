@@ -17,9 +17,44 @@
   "commons": "Wild rose Rosa woodsii closeup.jpg",
   "shots": [
     {
-      "commons": "Wild rose Rosa woodsii closeup.jpg",
+      "local": "images/su-flower-t.jpg",
+      "full": "images/su-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/216974061/large.jpeg",
       "s": "summer",
-      "cap": "Summer — pink flowers"
+      "cap": "Summer — pink five-petaled flower · © Michael and Antoni Hinczewski (CC-BY) / iNaturalist",
+      "by": "Michael and Antoni Hinczewski",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/photos/216974061"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/397775558/large.jpg",
+      "s": "summer",
+      "cap": "Summer — low, spreading shrub habit · © stephen (CC-BY) / iNaturalist",
+      "by": "stephen",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/photos/397775558"
+    },
+    {
+      "local": "images/fa-hips-t.jpg",
+      "full": "images/fa-hips.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/98957597/large.jpg",
+      "s": "fall",
+      "cap": "Fall — red hips & colouring leaves · © Bob Walker (CC-BY) / iNaturalist",
+      "by": "Bob Walker",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/photos/98957597"
+    },
+    {
+      "local": "images/wi-hip-t.jpg",
+      "full": "images/wi-hip.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/179309887/large.jpeg",
+      "s": "winter",
+      "cap": "Winter — a hip persisting into the snow · © Corey Farwell (CC-BY) / iNaturalist",
+      "by": "Corey Farwell",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/photos/179309887"
     }
   ]
 }

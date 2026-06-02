@@ -14,5 +14,37 @@
   "toxic": "",
   "winter": false,
   "verified": "2026-06-01",
-  "commons": "Common Lilac Syringa vulgaris 'Marechal Foch' Flowers.JPG"
+  "commons": "Common Lilac Syringa vulgaris 'Marechal Foch' Flowers.JPG",
+  "shots": [
+    {
+      "local": "images/sp-habit-t.jpg",
+      "full": "images/sp-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/134947451/large.jpg",
+      "s": "spring",
+      "cap": "Late spring — whole shrub in bloom · © Shalana Gray (CC-BY) / iNaturalist",
+      "by": "Shalana Gray",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/photos/134947451"
+    },
+    {
+      "local": "images/sp-panicle-t.jpg",
+      "full": "images/sp-panicle.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/75085907/large.jpg",
+      "s": "spring",
+      "cap": "Late spring — fragrant panicles & heart-shaped leaves · © Jared Shorma (CC-BY) / iNaturalist",
+      "by": "Jared Shorma",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/photos/75085907"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/94489462/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — heart-shaped foliage & seed capsules · © Jes Gray (CC-BY) / iNaturalist",
+      "by": "Jes Gray",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/photos/94489462"
+    }
+  ]
 }

@@ -1,0 +1,53 @@
+[
+  {
+    "file": "images/su-flowers.jpg",
+    "photo_id": "137521452",
+    "by": "Asher P Higgins",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/photos/137521452",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1125,
+      1500
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  },
+  {
+    "file": "images/fa-berries.jpg",
+    "photo_id": "235445739",
+    "by": "Jared Lincenberg",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/photos/235445739",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1125,
+      1500
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  },
+  {
+    "file": "images/wi-stems.jpg",
+    "photo_id": "40355647",
+    "by": "Tyler Bishop",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/photos/40355647",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1500,
+      1125
+    ],
+    "thumb_px": [
+      400,
+      300
+    ]
+  }
+]

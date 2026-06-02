@@ -1,0 +1,53 @@
+[
+  {
+    "file": "images/sp-flowers.jpg",
+    "photo_id": "644226685",
+    "by": "Alissa Iverson",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/photos/644226685",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1129,
+      1500
+    ],
+    "thumb_px": [
+      301,
+      400
+    ]
+  },
+  {
+    "file": "images/su-fruit.jpg",
+    "photo_id": "9486693",
+    "by": "Jared Shorma",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/photos/9486693",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1500,
+      1125
+    ],
+    "thumb_px": [
+      400,
+      300
+    ]
+  },
+  {
+    "file": "images/fa-fruit.jpg",
+    "photo_id": "30447526",
+    "by": "Lauren McLaurin",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/photos/30447526",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1500,
+      1386
+    ],
+    "thumb_px": [
+      400,
+      370
+    ]
+  }
+]

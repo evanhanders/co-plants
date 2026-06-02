@@ -1,0 +1,53 @@
+[
+  {
+    "file": "images/su-clump.jpg",
+    "photo_id": "225529037",
+    "by": "Alaina Krakowiak",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/photos/225529037",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1125,
+      1500
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  },
+  {
+    "file": "images/fa-clump.jpg",
+    "photo_id": "52748797",
+    "by": "Jared Shorma",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/photos/52748797",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1125,
+      1500
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  },
+  {
+    "file": "images/wi-seedhead.jpg",
+    "photo_id": "58931161",
+    "by": "Steve Taylor",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/photos/58931161",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1125,
+      1500
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  }
+]

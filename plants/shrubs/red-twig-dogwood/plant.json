@@ -17,19 +17,34 @@
   "commons": "Cornus sericea - red osier dogwood - 1.jpg",
   "shots": [
     {
-      "commons": "20170717Cornus sericea1.jpg",
+      "local": "images/su-flowers-t.jpg",
+      "full": "images/su-flowers.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/137521452/large.jpg",
       "s": "summer",
-      "cap": "Summer — green foliage (mid-July)"
+      "cap": "Summer — flat white flower cymes · © Asher P Higgins (CC-BY) / iNaturalist",
+      "by": "Asher P Higgins",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/photos/137521452"
     },
     {
-      "commons": "20171031Cornus sericea1.jpg",
+      "local": "images/fa-berries-t.jpg",
+      "full": "images/fa-berries.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/235445739/large.jpg",
       "s": "fall",
-      "cap": "Autumn — foliage turning (late Oct)"
+      "cap": "Fall — white berries & red-purple foliage · © Jared Lincenberg (CC-BY) / iNaturalist",
+      "by": "Jared Lincenberg",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/photos/235445739"
     },
     {
-      "commons": "2015-03-16 14 14 56 Oisier Dogwood in winter at the Northeastern Nevada Museum in Elko, Nevada.JPG",
+      "local": "images/wi-stems-t.jpg",
+      "full": "images/wi-stems.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/40355647/large.jpeg",
       "s": "winter",
-      "cap": "Winter — bare red stems"
+      "cap": "Bare season — the signature red stems · © Tyler Bishop (CC-BY) / iNaturalist",
+      "by": "Tyler Bishop",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/photos/40355647"
     }
   ]
 }

@@ -17,27 +17,34 @@
   "commons": "(ms) Alnus incana 2.jpg",
   "shots": [
     {
-      "commons": "2016.03.17 12.53.38 DSC02990 - Flickr - andrey zharkikh.jpg",
+      "local": "images/sp-catkins-t.jpg",
+      "full": "images/sp-catkins.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/259589967/large.jpeg",
       "s": "spring",
-      "cap": "Spring — male catkins before leaf-out"
+      "cap": "Early spring — catkins on the bare branching canopy · © Emily Franzen (CC-BY) / iNaturalist",
+      "by": "Emily Franzen",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/photos/259589967"
     },
     {
-      "try": [
-        "(ms) Alnus incana 8.jpg",
-        "(ms) Alnus incana 1.jpg"
-      ],
+      "local": "images/su-leaves-t.jpg",
+      "full": "images/su-leaves.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/96131815/large.jpg",
       "s": "summer",
-      "cap": "Summer — matte-green, doubly-toothed leaves"
+      "cap": "Summer — doubly-toothed leaves & green cones · © Jared Shorma (CC-BY) / iNaturalist",
+      "by": "Jared Shorma",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/photos/96131815"
     },
     {
-      "commons": "Alnus incana - grey alder - 51991215651.jpg",
+      "local": "images/fa-catkins-t.jpg",
+      "full": "images/fa-catkins.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/436328260/large.jpeg",
       "s": "fall",
-      "cap": "Fall — woody cones (persist into winter)"
-    },
-    {
-      "commons": "Alnus incana canopy (3704259558).jpg",
-      "s": "winter",
-      "cap": "Late winter — bare canopy, catkins forming"
+      "cap": "Fall — foliage & ripening catkins · © Anders Hastings (CC-BY) / iNaturalist",
+      "by": "Anders Hastings",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/photos/436328260"
     }
   ]
 }

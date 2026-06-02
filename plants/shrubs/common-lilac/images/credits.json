@@ -1,0 +1,53 @@
+[
+  {
+    "file": "images/sp-habit.jpg",
+    "photo_id": "134947451",
+    "by": "Shalana Gray",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/photos/134947451",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1500,
+      1125
+    ],
+    "thumb_px": [
+      400,
+      300
+    ]
+  },
+  {
+    "file": "images/sp-panicle.jpg",
+    "photo_id": "75085907",
+    "by": "Jared Shorma",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/photos/75085907",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1125,
+      1500
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  },
+  {
+    "file": "images/su-foliage.jpg",
+    "photo_id": "94489462",
+    "by": "Jes Gray",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/photos/94489462",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      675,
+      1500
+    ],
+    "thumb_px": [
+      180,
+      400
+    ]
+  }
+]

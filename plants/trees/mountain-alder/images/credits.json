@@ -1,0 +1,53 @@
+[
+  {
+    "file": "images/sp-catkins.jpg",
+    "photo_id": "259589967",
+    "by": "Emily Franzen",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/photos/259589967",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1500,
+      1125
+    ],
+    "thumb_px": [
+      400,
+      300
+    ]
+  },
+  {
+    "file": "images/su-leaves.jpg",
+    "photo_id": "96131815",
+    "by": "Jared Shorma",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/photos/96131815",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1125,
+      1500
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  },
+  {
+    "file": "images/fa-catkins.jpg",
+    "photo_id": "436328260",
+    "by": "Anders Hastings",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/photos/436328260",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1500,
+      1001
+    ],
+    "thumb_px": [
+      400,
+      267
+    ]
+  }
+]

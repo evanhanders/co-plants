@@ -17,14 +17,34 @@
   "commons": "Chokecherry - Prunus virginiana (51361592456).jpg",
   "shots": [
     {
-      "commons": "Chokecherry (Prunus virginiana) - Kitchener, Ontario 2024-05-19.jpg",
+      "local": "images/sp-flowers-t.jpg",
+      "full": "images/sp-flowers.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/644226685/large.jpg",
       "s": "spring",
-      "cap": "Spring — flowering (mid-May)"
+      "cap": "Spring — white flower racemes & fresh leaves · © Alissa Iverson (CC-BY) / iNaturalist",
+      "by": "Alissa Iverson",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/photos/644226685"
     },
     {
-      "commons": "Chokecherry (Prunus virginiana) - Kitchener, Ontario 2019-07-28.jpg",
+      "local": "images/su-fruit-t.jpg",
+      "full": "images/su-fruit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/9486693/large.jpg",
       "s": "summer",
-      "cap": "Summer — fruit ripening (late July)"
+      "cap": "Summer — ripening fruit & foliage · © Jared Shorma (CC-BY) / iNaturalist",
+      "by": "Jared Shorma",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/photos/9486693"
+    },
+    {
+      "local": "images/fa-fruit-t.jpg",
+      "full": "images/fa-fruit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/30447526/large.jpeg",
+      "s": "fall",
+      "cap": "Fall — arching branches heavy with fruit · © Lauren McLaurin (CC-BY) / iNaturalist",
+      "by": "Lauren McLaurin",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/photos/30447526"
     }
   ]
 }

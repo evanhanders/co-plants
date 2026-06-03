@@ -352,31 +352,58 @@ against a trusted authority and record what you used in `care_src` so the page s
 (`co-plants-herbarium/1.0 (evanhanders@gmail.com)`) — several of these 403 or 301 without
 one.
 
-**Source priority** (prefer the most authoritative + most local; stop when the facts are
-covered):
+**Trusted care-fact sources** (prefer the most authoritative + most local; stop when the
+facts are covered):
 
-1. **Front-Range-specific first** — **CSU Extension – Yard & Garden** (`extension.colostate.edu`)
-   and **Plant Select** (`plantselect.org`, the CSU + Denver Botanic Gardens program). These
-   speak to how a plant actually performs here (alkaline clay, semi-arid, ~USDA 5b–6a,
-   mid-May last frost, high-altitude sun).
-2. **Species authority** — for **natives**, the **USDA Forest Service / Western Forbs**
-   monographs (`westernforbs.org`), **USDA NRCS Plant Guides/Fact Sheets** + **PLANTS
-   Database** (`plants.usda.gov`), and the **Lady Bird Johnson Wildflower Center**
+1. **Front-Range-specific first** — **CSU Extension – Yard & Garden** (`extension.colostate.edu`),
+   its plant-specific **PlantTalk Colorado** (`planttalk.colostate.edu`) and **CMG GardenNotes**
+   (`cmg.extension.colostate.edu`), and **Plant Select** (`plantselect.org`, the CSU + Denver
+   Botanic Gardens program — the authority for its own introductions like Mojave sage). These
+   speak to how a plant performs here (alkaline clay, semi-arid, ~USDA 5b–6a, mid-May last
+   frost, high-altitude sun).
+2. **Species authority** — for **natives**: **USDA Forest Service / Western Forbs**
+   (`westernforbs.org`), **USDA NRCS Plant Guides + PLANTS Database** (`plants.usda.gov`), the
+   **USDA-FS FEIS** fire-ecology database, and the **Lady Bird Johnson Wildflower Center**
    (`wildflower.org`, needs a UA). For **garden ornamentals & cultivars** (peony, dahlia,
-   clematis, roses), the **RHS** (`rhs.org.uk`).
+   clematis, roses): the **RHS** (`rhs.org.uk` — best for clematis pruning groups & rose
+   pruning) and the **Missouri Botanical Garden Plant Finder** (`missouribotanicalgarden.org`).
+   Other university extensions (**NC State Plant Toolbox**, **Utah State**) are solid generalists.
 3. **Cross-check / last resort** — Wikipedia and reputable references, only to corroborate,
-   never as the sole citation for a hard number.
+   never as the sole citation for a hard number. **Don't cite blogs or nursery product pages**
+   when an authority covers the fact.
 
-**Workflow per plant:** (a) pull the species' practical numbers from the highest-priority
-reachable source(s) — `WebFetch` the page and read off sun/soil/pH/water/sowing/
-stratification/germination/spacing/bloom; (b) **adapt to the Front Range** (Boulder frost
-dates, zone, alkaline clay, intense sun) — this local framing is editorial, so cite the
-Front-Range authority (CSU/Plant Select) for it rather than over-claiming a species page;
-(c) write each `care` value as a short, practical paragraph; (d) list the **actual** sources
-in `care_src` as `{ name, url }`. Keep the citation honest: if a number came from Western
-Forbs, cite Western Forbs — don't list a source you didn't read.
+**The care pipeline** — run all four steps. At scale (a batch of plants), **fan out across
+parallel agents**: one type-batch per agent (trees/shrubs, native perennials, garden
+perennials, sages/lilac, annuals/vines…), each owning **distinct** `plant.json` files so there
+are no write conflicts, each reporting its changes back; the parent validates every diff before
+promoting. The first full rollout (27 plants) ran as 5 agents twice — once to write, once to
+fact-check.
 
-The prototype (Rocky Mountain bee plant) was done this way: the hard numbers
+1. **Source & write.** `WebFetch` the highest-priority reachable source(s); read off
+   sun/soil/pH/water/sowing/stratification/germination/spacing/bloom/pruning and write each
+   `care` value as a short, practical, **Front-Range-adapted** paragraph. The local framing
+   (Boulder frost dates, alkaline clay) is editorial — cite the Front-Range authority for it,
+   don't over-claim a species page.
+2. **Record sources honestly.** List the **actual** sources you read in `care_src` as
+   `{ name, url }`. If a number came from Western Forbs, cite Western Forbs — don't list a
+   source you didn't open.
+3. **Citation-honesty pass.** `curl` every `care_src` URL (with the UA); **drop dead links**
+   (404/403/cert-error) and **blog/nursery citations** where an authority already covers the
+   fact; make sure **every plant keeps ≥1 reachable authoritative source**, re-sourcing any
+   left without one. (Also catch mis-pasted URLs — one plant had a rose page cited under a
+   cosmos.)
+4. **Fact-check / accuracy pass.** Re-verify each claim against the cited authority and
+   **correct outright errors in place** (surgical edits, preserve the voice), logging each as
+   `field: OLD → NEW (source)`. Scrutinize the **high-risk claim types**: hardiness USDA zone,
+   bloom window, mature height × width, spacing, soil pH, stratification weeks/temp, germination
+   days/temp, sowing/planting depth, **pruning group & timing & method**, division cadence,
+   toxicity, and native vs introduced status. (This pass caught ~20 errors across the first 28
+   — e.g. a lilac told to renewal-prune in winter, which strips the flower buds it set the prior
+   summer; a Mojave sage told to skip the fall prune Plant Select actually recommends; a
+   snapdragon "refrigerate the seed" claim with no support; several understated mature sizes
+   and hardiness floors.)
+
+The prototype (Rocky Mountain bee plant) was sourced this way: the hard numbers
 (pH 6.0–7.6, 2–6 wk cold-moist stratification, 0.1–0.25 in sowing depth, 5–20 day
 germination at ~68/50°F, 24–36 in row spacing) come from the USDA-FS Western Forbs
 monograph, with CSU Extension cited for the Front-Range timing.
@@ -485,6 +512,9 @@ The current backlog. Move items out of this section as they ship.
 - Real CC-licensed photos only (repo-hosted; iNat open data or verified Commons titles),
   no illustrations, no copyrighted hotlinks. Record attribution.
 - Weed-check every new plant against CO lists A/B/C + Watch before it goes in.
+- `care` facts are sourced like photos: ground them in a trusted authority, list the real
+  sources in `care_src`, then run the citation-honesty + fact-check passes (see "Sourcing
+  care facts"). No uncited hard numbers; no dead/blog citations.
 - Show image + blurb for sign-off **before** creating the plant file.
 - A new plant = one `plant.json` + one `manifest.json` line (not a big array edit).
 - After any `finalize.py`/`commons_finalize.py`, run `rethumb.py` so the card thumbs are

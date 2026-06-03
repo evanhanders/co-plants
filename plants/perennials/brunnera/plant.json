@@ -28,7 +28,35 @@
     "troubles": "Leaf scorch (brown, papery edges or bleached patches) is the most common problem in Colorado — caused by afternoon sun or drought, not disease. Slugs and snails occasionally damage leaves in moist sites; hand-pick or use iron phosphate bait. Rarely bothered by serious diseases. No deer or rabbit pressure. The plant may go semi-dormant in a very hot, dry August and re-flush with cooler September temperatures — this is normal, not fatal."
   },
   "care_src": [
-    { "name": "Missouri Botanical Garden Plant Finder — Brunnera macrophylla 'Jack Frost'", "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=m800" },
-    { "name": "NC State Extension Plant Toolbox — Brunnera macrophylla", "url": "https://plants.ces.ncsu.edu/plants/brunnera-macrophylla/" }
+    {
+      "name": "Missouri Botanical Garden Plant Finder — Brunnera macrophylla 'Jack Frost'",
+      "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=m800"
+    },
+    {
+      "name": "NC State Extension Plant Toolbox — Brunnera macrophylla",
+      "url": "https://plants.ces.ncsu.edu/plants/brunnera-macrophylla/"
+    }
+  ],
+  "shots": [
+    {
+      "local": "images/sp-close-t.jpg",
+      "full": "images/sp-close.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/124048158/large.jpeg",
+      "s": "spring",
+      "cap": "Airy sprays of tiny blue forget-me-not flowers · © rupicapra (CC-BY-NC) / iNaturalist",
+      "by": "rupicapra",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/75806635"
+    },
+    {
+      "local": "images/sp-structure-t.jpg",
+      "full": "images/sp-structure.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/194630632/large.jpg",
+      "s": "spring",
+      "cap": "Large heart-shaped leaves with silver markings · © charliemcfarlig (CC-BY-NC) / iNaturalist",
+      "by": "charliemcfarlig",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/115300413"
+    }
   ]
 }

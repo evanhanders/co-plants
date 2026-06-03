@@ -28,7 +28,35 @@
     "troubles": "Crown and root rot from winter moisture is the overwhelming cause of failure on the Front Range — guarantee sharp drainage and keep the crown dry. Deer occasionally browse it. No serious pest or disease issues in dry climates."
   },
   "care_src": [
-    { "name": "Plant Select — The Only Truly Hardy Ice Plants Are These!", "url": "https://plantselect.org/the-only-truly-hardy-ice-plants-are-these/" },
-    { "name": "NC State Extension Gardener Plant Toolbox — Delosperma cooperi", "url": "https://plants.ces.ncsu.edu/plants/delosperma-cooperi/" }
+    {
+      "name": "Plant Select — The Only Truly Hardy Ice Plants Are These!",
+      "url": "https://plantselect.org/the-only-truly-hardy-ice-plants-are-these/"
+    },
+    {
+      "name": "NC State Extension Gardener Plant Toolbox — Delosperma cooperi",
+      "url": "https://plants.ces.ncsu.edu/plants/delosperma-cooperi/"
+    }
+  ],
+  "shots": [
+    {
+      "local": "images/su-close-t.jpg",
+      "full": "images/su-close.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/212732843/large.jpg",
+      "s": "summer",
+      "cap": "Summer — vivid magenta many-rayed flowers on the succulent mat · © Francesco Vidotto (CC-BY-NC) / iNaturalist",
+      "by": "Francesco Vidotto",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/125443145"
+    },
+    {
+      "local": "images/su-structure-t.jpg",
+      "full": "images/su-structure.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/249206175/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — a spreading evergreen succulent mat in full bloom · © Richard Gill (CC-BY-NC) / iNaturalist",
+      "by": "Richard Gill",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/145109866"
+    }
   ]
 }

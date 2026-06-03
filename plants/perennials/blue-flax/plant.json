@@ -29,8 +29,39 @@
     "troubles": "Essentially trouble-free on well-drained sites. Aphids occasionally cluster on new growth; blast off with water. The main failure mode is wet, heavy soil or overwatering — plants yellow, lodge, and rot. Short plant life (2–4 years) is normal; let self-sown replacements take over."
   },
   "care_src": [
-    { "name": "CSU Extension Gilpin County — Native Blue Flax", "url": "https://extension.colostate.edu/gilpin/resource/native-blue-flax/" },
-    { "name": "Utah State University Extension — Lewis Flax", "url": "https://extension.usu.edu/rangeplants/forbs-herbaceous/lewis-flax" },
-    { "name": "NC State Extension Plant Toolbox — Linum lewisii", "url": "https://plants.ces.ncsu.edu/plants/linum-lewisii/" }
+    {
+      "name": "CSU Extension Gilpin County — Native Blue Flax",
+      "url": "https://extension.colostate.edu/gilpin/resource/native-blue-flax/"
+    },
+    {
+      "name": "Utah State University Extension — Lewis Flax",
+      "url": "https://extension.usu.edu/rangeplants/forbs-herbaceous/lewis-flax"
+    },
+    {
+      "name": "NC State Extension Plant Toolbox — Linum lewisii",
+      "url": "https://plants.ces.ncsu.edu/plants/linum-lewisii/"
+    }
+  ],
+  "shots": [
+    {
+      "local": "images/su-close-t.jpg",
+      "full": "images/su-close.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/274405602/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — sky-blue five-petaled flowers face the morning sun · © jend8 (CC-BY-NC) / iNaturalist",
+      "by": "jend8",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/158808181"
+    },
+    {
+      "local": "images/su-structure-t.jpg",
+      "full": "images/su-structure.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/401363780/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — airy wands of bloom over fine needle-like foliage · © Dētto (CC-BY-NC) / iNaturalist",
+      "by": "Dētto",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/226319595"
+    }
   ]
 }

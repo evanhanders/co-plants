@@ -28,7 +28,35 @@
     "troubles": "Root rot from poor drainage is the primary problem in Colorado. Shab (Phoma lavandulae) and other fungal issues arise in wet conditions or crowded plantings — sharp drainage and good airflow prevent both. Grasshoppers can damage foliage in heavy years. Otherwise largely pest- and disease-free. A sudden die-off of one half of the crown ('lavender dieback') usually traces back to a wet winter or a drainage low spot."
   },
   "care_src": [
-    { "name": "CSU Extension — Growing Lavender in Colorado", "url": "https://extension.colostate.edu/resource/growing-lavender-in-colorado/" },
-    { "name": "PlantTalk Colorado 1015 — Lavender", "url": "https://planttalk.colostate.edu/topics/annuals-perennials/1015-lavender/" }
+    {
+      "name": "CSU Extension — Growing Lavender in Colorado",
+      "url": "https://extension.colostate.edu/resource/growing-lavender-in-colorado/"
+    },
+    {
+      "name": "PlantTalk Colorado 1015 — Lavender",
+      "url": "https://planttalk.colostate.edu/topics/annuals-perennials/1015-lavender/"
+    }
+  ],
+  "shots": [
+    {
+      "local": "images/su-close-t.jpg",
+      "full": "images/su-close.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/86052436/large.jpg",
+      "s": "summer",
+      "cap": "Summer — purple flower spikes with silvery-gray foliage · © Guglielmo Vacirca (CC-BY-NC) / iNaturalist",
+      "by": "Guglielmo Vacirca",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/54092875"
+    },
+    {
+      "local": "images/su-structure-t.jpg",
+      "full": "images/su-structure.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/289572205/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — mounded lavender in bloom · © Christian Herzig (CC-BY-NC) / iNaturalist",
+      "by": "Christian Herzig",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/167174655"
+    }
   ]
 }

@@ -28,6 +28,31 @@
     "troubles": "No serious pest or disease problems on the Front Range. Watch for aphids on new growth and occasional powdery mildew in humid or crowded conditions — good airflow and sharp drainage prevent both. Root rot can occur in poorly drained or wet winter soil; ensure drainage is adequate. Short-lived perennial if drainage is not maintained."
   },
   "care_src": [
-    { "name": "Missouri Botanical Garden Plant Finder — Scabiosa 'Butterfly Blue'", "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=f490" }
+    {
+      "name": "Missouri Botanical Garden Plant Finder — Scabiosa 'Butterfly Blue'",
+      "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=f490"
+    }
+  ],
+  "shots": [
+    {
+      "local": "images/su-close-t.jpg",
+      "full": "images/su-close.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/292580810/large.jpeg",
+      "s": "summer",
+      "cap": "Lavender-blue pincushion flowerhead with protruding stamens · © no rights reserved (CC0) / iNaturalist",
+      "by": "no rights reserved",
+      "lic": "CC0",
+      "link": "https://www.inaturalist.org/observations/168796471"
+    },
+    {
+      "local": "images/su-structure-t.jpg",
+      "full": "images/su-structure.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/404998897/large.jpg",
+      "s": "summer",
+      "cap": "Scabiosa on wiry stems — habit and scale · © Tony King (CC-BY) / iNaturalist",
+      "by": "Tony King",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/228241212"
+    }
   ]
 }

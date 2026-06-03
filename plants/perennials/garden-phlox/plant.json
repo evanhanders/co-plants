@@ -30,8 +30,39 @@
     "companions": "Black-eyed Susan, purple coneflower, Russian sage, catmint, and ornamental grasses that share its need for full sun and moderate water. Plant in masses for best pollinator effect."
   },
   "care_src": [
-    { "name": "Missouri Botanical Garden Plant Finder — Phlox paniculata", "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=f193" },
-    { "name": "NC State Extension Plant Toolbox — Phlox paniculata", "url": "https://plants.ces.ncsu.edu/plants/phlox-paniculata/" },
-    { "name": "PlantTalk Colorado 1415 — Powdery Mildew", "url": "https://planttalk.colostate.edu/topics/insects-diseases/1415-powdery-mildew/" }
+    {
+      "name": "Missouri Botanical Garden Plant Finder — Phlox paniculata",
+      "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=f193"
+    },
+    {
+      "name": "NC State Extension Plant Toolbox — Phlox paniculata",
+      "url": "https://plants.ces.ncsu.edu/plants/phlox-paniculata/"
+    },
+    {
+      "name": "PlantTalk Colorado 1415 — Powdery Mildew",
+      "url": "https://planttalk.colostate.edu/topics/insects-diseases/1415-powdery-mildew/"
+    }
+  ],
+  "shots": [
+    {
+      "local": "images/su-close-t.jpg",
+      "full": "images/su-close.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/83148865/large.jpg",
+      "s": "summer",
+      "cap": "Domed panicle of pink flowers — garden phlox · © julieofthevalley (CC-BY-NC) / iNaturalist",
+      "by": "julieofthevalley",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/52307412"
+    },
+    {
+      "local": "images/su-structure-t.jpg",
+      "full": "images/su-structure.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/86002315/large.jpg",
+      "s": "summer",
+      "cap": "Tall leafy stems with flower clusters in bloom · © campsis (CC-BY-NC) / iNaturalist",
+      "by": "campsis",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/54062023"
+    }
   ]
 }

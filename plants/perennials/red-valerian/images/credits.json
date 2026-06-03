@@ -1,0 +1,36 @@
+[
+  {
+    "file": "images/su-close.jpg",
+    "photo_id": 287611281,
+    "by": "Jacek Pietruszewski",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/observations/166106265",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  },
+  {
+    "file": "images/su-structure.jpg",
+    "photo_id": 366104884,
+    "by": "Johnny Roger Pedersen",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/207004022",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1054,
+      1400
+    ],
+    "thumb_px": [
+      301,
+      400
+    ]
+  }
+]

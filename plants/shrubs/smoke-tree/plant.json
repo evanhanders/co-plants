@@ -28,7 +28,35 @@
     "troubles": "Generally low-pest, low-disease. Verticillium wilt is the most serious problem — infected branches wilt and die back; remove affected wood well below the discoloration and do not compost. Leaf spot and rust are occasional cosmetic issues; improve airflow and avoid overhead watering. No serious insect pests. Stem dieback after a severe winter is normal — cut dead tips back to live wood in spring."
   },
   "care_src": [
-    { "name": "Missouri Botanical Garden Plant Finder — Cotinus coggygria", "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=c390" },
-    { "name": "NC State Extension Plant Toolbox — Cotinus coggygria", "url": "https://plants.ces.ncsu.edu/plants/cotinus-coggygria/" }
+    {
+      "name": "Missouri Botanical Garden Plant Finder — Cotinus coggygria",
+      "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=c390"
+    },
+    {
+      "name": "NC State Extension Plant Toolbox — Cotinus coggygria",
+      "url": "https://plants.ces.ncsu.edu/plants/cotinus-coggygria/"
+    }
+  ],
+  "shots": [
+    {
+      "local": "images/su-close-t.jpg",
+      "full": "images/su-close.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/202687124/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — feathery smoke-like seed plumes · © Анна Мостовая (CC-BY-NC) / iNaturalist",
+      "by": "Анна Мостовая",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/119873753"
+    },
+    {
+      "local": "images/su-structure-t.jpg",
+      "full": "images/su-structure.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/401077273/large.jpg",
+      "s": "summer",
+      "cap": "Summer — mounded purple-leafed shrub · © Kovács Dávid (CC-BY-NC) / iNaturalist",
+      "by": "Kovács Dávid",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/226169668"
+    }
   ]
 }

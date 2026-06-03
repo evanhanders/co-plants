@@ -29,7 +29,35 @@
     "troubles": "Root rot in poorly drained or consistently wet soil is the main killer on the Front Range. Powdery mildew can appear in humid summers or if plants are crowded — good airflow and lean, dry conditions prevent it. Dead patches in old clumps are normal; divide to rejuvenate. Essentially pest-free."
   },
   "care_src": [
-    { "name": "NC State Extension Gardener Plant Toolbox — Cerastium tomentosum", "url": "https://plants.ces.ncsu.edu/plants/cerastium-tomentosum/" },
-    { "name": "Missouri Botanical Garden Plant Finder — Cerastium tomentosum", "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=h590" }
+    {
+      "name": "NC State Extension Gardener Plant Toolbox — Cerastium tomentosum",
+      "url": "https://plants.ces.ncsu.edu/plants/cerastium-tomentosum/"
+    },
+    {
+      "name": "Missouri Botanical Garden Plant Finder — Cerastium tomentosum",
+      "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=h590"
+    }
+  ],
+  "shots": [
+    {
+      "local": "images/sp-close-t.jpg",
+      "full": "images/sp-close.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/591821819/large.jpg",
+      "s": "spring",
+      "cap": "White 5-notched-petal flowers close-up over silver-gray foliage · © Stephan Pflume (CC-BY-NC) / iNaturalist",
+      "by": "Stephan Pflume",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/326739804"
+    },
+    {
+      "local": "images/sp-structure-t.jpg",
+      "full": "images/sp-structure.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/291295050/large.jpeg",
+      "s": "spring",
+      "cap": "Silver-gray foliage mat smothered in white flowers — groundcover habit · © Marcello Manara (CC-BY) / iNaturalist",
+      "by": "Marcello Manara",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/168107201"
+    }
   ]
 }

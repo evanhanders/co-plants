@@ -1,0 +1,36 @@
+[
+  {
+    "file": "images/su-close.jpg",
+    "photo_id": 202687124,
+    "by": "Анна Мостовая",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/119873753",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      1050
+    ],
+    "thumb_px": [
+      400,
+      300
+    ]
+  },
+  {
+    "file": "images/su-structure.jpg",
+    "photo_id": 401077273,
+    "by": "Kovács Dávid",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/226169668",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      1050
+    ],
+    "thumb_px": [
+      400,
+      300
+    ]
+  }
+]

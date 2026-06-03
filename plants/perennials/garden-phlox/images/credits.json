@@ -1,0 +1,36 @@
+[
+  {
+    "file": "images/su-close.jpg",
+    "photo_id": 83148865,
+    "by": "julieofthevalley",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/52307412",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  },
+  {
+    "file": "images/su-structure.jpg",
+    "photo_id": 86002315,
+    "by": "campsis",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/54062023",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  }
+]

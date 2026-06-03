@@ -28,7 +28,35 @@
     "troubles": "Aphids, scales, and serpentine leaf miners occasionally appear; these are cosmetic and rarely need treatment — encourage natural predators. Powdery mildew can develop in crowded, low-airflow spots; thin the shrub and improve circulation. Drought stress is the main cultural problem on the Front Range: wilting, leaf scorch, and early leaf drop all signal insufficient water."
   },
   "care_src": [
-    { "name": "Lady Bird Johnson Wildflower Center — Lonicera involucrata", "url": "https://www.wildflower.org/plants/result.php?id_plant=loin5" },
-    { "name": "USDA Forest Service — Plant of the Week: Twinberry Honeysuckle", "url": "https://www.fs.usda.gov/wildflowers/plant-of-the-week/lonicera_involucrate.shtml" }
+    {
+      "name": "Lady Bird Johnson Wildflower Center — Lonicera involucrata",
+      "url": "https://www.wildflower.org/plants/result.php?id_plant=loin5"
+    },
+    {
+      "name": "USDA Forest Service — Plant of the Week: Twinberry Honeysuckle",
+      "url": "https://www.fs.usda.gov/wildflowers/plant-of-the-week/lonicera_involucrate.shtml"
+    }
+  ],
+  "shots": [
+    {
+      "local": "images/su-close-t.jpg",
+      "full": "images/su-close.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/416022507/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — shiny black twin berries cupped in showy red-purple bracts · © Ethan (CC-BY-NC) / iNaturalist",
+      "by": "Ethan",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/234049582"
+    },
+    {
+      "local": "images/su-structure-t.jpg",
+      "full": "images/su-structure.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/157596169/large.jpeg",
+      "s": "summer",
+      "cap": "Leafy streamside shrub habit · © no rights reserved (CC0) / iNaturalist",
+      "by": "no rights reserved",
+      "lic": "CC0",
+      "link": "https://www.inaturalist.org/observations/94966035"
+    }
   ]
 }

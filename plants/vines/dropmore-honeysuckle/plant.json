@@ -29,7 +29,35 @@
     "companions": "Plant beneath with drought-tolerant perennials that share the hummingbird theme: Salvia nemorosa, Russian sage, echinacea, or agastache. Pairs well with clematis on the same trellis for multi-season interest."
   },
   "care_src": [
-    { "name": "NC State Extension — Lonicera sempervirens Plant Toolbox (parent species reference)", "url": "https://plants.ces.ncsu.edu/plants/lonicera-sempervirens/" },
-    { "name": "PlantTalk Colorado — Vines for Colorado (CSU Extension)", "url": "https://planttalk.colostate.edu/topics/trees-shrubs-vines/1727-vines-colorado/" }
+    {
+      "name": "NC State Extension — Lonicera sempervirens Plant Toolbox (parent species reference)",
+      "url": "https://plants.ces.ncsu.edu/plants/lonicera-sempervirens/"
+    },
+    {
+      "name": "PlantTalk Colorado — Vines for Colorado (CSU Extension)",
+      "url": "https://planttalk.colostate.edu/topics/trees-shrubs-vines/1727-vines-colorado/"
+    }
+  ],
+  "shots": [
+    {
+      "local": "images/su-flower-t.jpg",
+      "full": "images/su-flower.jpg",
+      "commons": "Lonicera x brownii Dropmore Scarlet (4991083359).jpg",
+      "s": "summer",
+      "cap": "Summer — whorls of long scarlet tubular flowers · © Matt Lavin from Bozeman, Montana, USA (CC BY-SA 2.0) / Wikimedia Commons",
+      "by": "Matt Lavin from Bozeman, Montana, USA",
+      "lic": "CC BY-SA 2.0",
+      "link": "https://commons.wikimedia.org/wiki/File:Lonicera_x_brownii_Dropmore_Scarlet_(4991083359).jpg"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "commons": "Lonicera x brownii 'Dropmore Scarlet' Wiciokrzew Browna 2019-05-26 01.jpg",
+      "s": "summer",
+      "cap": "The climbing vine trained on a support · © Agnieszka Kwiecień, Nova (CC BY-SA 4.0) / Wikimedia Commons",
+      "by": "Agnieszka Kwiecień, Nova",
+      "lic": "CC BY-SA 4.0",
+      "link": "https://commons.wikimedia.org/wiki/File:Lonicera_x_brownii_%27Dropmore_Scarlet%27_Wiciokrzew_Browna_2019-05-26_01.jpg"
+    }
   ]
 }

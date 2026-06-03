@@ -28,8 +28,39 @@
     "troubles": "Crown rot in wet or poorly drained soil is the main enemy — the fix is sharper drainage, not pesticide. Rust and leaf-spot can appear in humid summers; good airflow and base-only watering prevent them. No serious pests; deer and rabbits leave it alone."
   },
   "care_src": [
-    { "name": "Missouri Botanical Garden Plant Finder — Dianthus gratianopolitanus", "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=279029" },
-    { "name": "NC State Extension Plant Toolbox — Dianthus gratianopolitanus", "url": "https://plants.ces.ncsu.edu/plants/dianthus-gratianopolitanus/" },
-    { "name": "Colorado State University — Growing Dianthus", "url": "https://source.colostate.edu/tip-for-growing-the-darling-dianthus/" }
+    {
+      "name": "Missouri Botanical Garden Plant Finder — Dianthus gratianopolitanus",
+      "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=279029"
+    },
+    {
+      "name": "NC State Extension Plant Toolbox — Dianthus gratianopolitanus",
+      "url": "https://plants.ces.ncsu.edu/plants/dianthus-gratianopolitanus/"
+    },
+    {
+      "name": "Colorado State University — Growing Dianthus",
+      "url": "https://source.colostate.edu/tip-for-growing-the-darling-dianthus/"
+    }
+  ],
+  "shots": [
+    {
+      "local": "images/su-close-t.jpg",
+      "full": "images/su-close.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/510414506/large.jpg",
+      "s": "summer",
+      "cap": "Fringed pink flowers — cheddar pink in bloom · © Petr Harant (CC-BY) / iNaturalist",
+      "by": "Petr Harant",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/284035154"
+    },
+    {
+      "local": "images/su-structure-t.jpg",
+      "full": "images/su-structure.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/396279438/large.jpg",
+      "s": "summer",
+      "cap": "Mounded blue-gray grassy mat with flowers · © Leo Vaughan (CC-BY-NC) / iNaturalist",
+      "by": "Leo Vaughan",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/223636775"
+    }
   ]
 }

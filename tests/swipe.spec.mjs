@@ -12,13 +12,13 @@ import { chromium } from 'playwright';
 
 const BASE = process.env.BASE || 'http://localhost:8077';
 const browser = await chromium.launch();
-const ctx = await browser.newContext({ hasTouch: true, viewport: { width: 412, height: 892 }, deviceScaleFactor: 1 });
+const ctx = await browser.newContext({ hasTouch: true, ignoreHTTPSErrors: true, viewport: { width: 412, height: 892 }, deviceScaleFactor: 1 });
 const page = await ctx.newPage();
 const client = await ctx.newCDPSession(page);
 let fails = 0;
 const ok = (c, m) => { console.log((c ? '  ✓ ' : '  ✗ ') + m); if (!c) fails++; };
 
-await page.goto(BASE + '/index.html', { waitUntil: 'networkidle' });
+await page.goto(BASE + '/index.html', { waitUntil: 'domcontentloaded' });
 await page.waitForSelector('.card .reel', { timeout: 20000 });
 
 // pick the first card whose reel has >1 season photo, and scroll it into view

@@ -66,5 +66,12 @@
       400,
       383
     ]
+  },
+  {
+    "file": "images/su-flower.jpg",
+    "by": "Guillaume Labeyrie",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/184870609",
+    "via": "iNaturalist"
   }
 ]

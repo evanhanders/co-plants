@@ -1,27 +1,10 @@
 [
   {
     "file": "images/su-flower.jpg",
-    "photo_id": "49489967",
-    "by": "Jared Shorma",
-    "license": "CC-BY",
-    "source": "https://www.inaturalist.org/photos/49489967",
-    "dataset": "iNaturalist open data",
-    "render": "original",
-    "full_px": [
-      1049,
-      1400
-    ],
-    "thumb_px": [
-      300,
-      400
-    ]
-  },
-  {
-    "file": "images/sp-habit.jpg",
-    "photo_id": "639809152",
-    "by": "Jared Shorma",
-    "license": "CC-BY",
-    "source": "https://www.inaturalist.org/photos/639809152",
+    "photo_id": 76760254,
+    "by": "Leonard Rüdenberg",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/48328412",
     "dataset": "iNaturalist open data",
     "render": "original",
     "full_px": [

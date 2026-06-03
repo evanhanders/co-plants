@@ -43,24 +43,34 @@
   ],
   "shots": [
     {
-      "local": "images/su-flower-t.jpg",
-      "full": "images/su-flower.jpg",
-      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/49489967/large.jpg",
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/242634299/large.jpeg",
       "s": "summer",
-      "cap": "Summer — violet-blue flower spike · © Jared Shorma (CC-BY) / iNaturalist",
-      "by": "Jared Shorma",
+      "cap": "Summer — whole mounding clump of violet-blue spikes in full bloom · © Patrick Hacker (CC-BY) / iNaturalist",
+      "by": "Patrick Hacker",
       "lic": "CC-BY",
-      "link": "https://www.inaturalist.org/photos/49489967"
+      "link": "https://www.inaturalist.org/observations/141607773"
     },
     {
-      "local": "images/sp-habit-t.jpg",
-      "full": "images/sp-habit.jpg",
-      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/639809152/large.jpg",
-      "s": "spring",
-      "cap": "Late spring — mounded clump of upright spikes · © Jared Shorma (CC-BY) / iNaturalist",
-      "by": "Jared Shorma",
+      "local": "images/su-flower-t.jpg",
+      "full": "images/su-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/76760254/large.jpg",
+      "s": "summer",
+      "cap": "Summer — dense purple spikes in a garden border with pollinator · © Leonard Rüdenberg (CC-BY-NC) / iNaturalist",
+      "by": "Leonard Rüdenberg",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/48328412"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/177921195/large.jpg",
+      "s": "summer",
+      "cap": "Summer — upright spike showing the gray-green aromatic foliage · © ajott (CC-BY) / iNaturalist",
+      "by": "ajott",
       "lic": "CC-BY",
-      "link": "https://www.inaturalist.org/photos/639809152"
+      "link": "https://www.inaturalist.org/observations/105967907"
     }
   ],
   "commons": "Woodland sage-Salvia nemorosa.jpg"

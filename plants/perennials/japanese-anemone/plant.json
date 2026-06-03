@@ -43,44 +43,44 @@
   ],
   "shots": [
     {
-      "local": "images/fa-flower-t.jpg",
-      "full": "images/fa-flower.jpg",
-      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/325774234/large.jpg",
-      "s": "fall",
-      "cap": "Fall — large white face-on bloom, yellow stamens · © povlthor (CC-BY-NC) / iNaturalist",
-      "by": "povlthor",
-      "lic": "CC-BY-NC",
-      "link": "https://www.inaturalist.org/observations/186416752"
-    },
-    {
       "local": "images/fa-bloom-t.jpg",
       "full": "images/fa-bloom.jpg",
       "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/162249594/large.jpg",
       "s": "fall",
-      "cap": "Fall — clump of pink flowers on tall branching stems · © susanne1967 (CC-BY-NC) / iNaturalist",
+      "cap": "Fall — white anemone flowers on tall wiry stems, classic clump in bloom · © susanne1967 (CC-BY-NC) / iNaturalist",
       "by": "susanne1967",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/97547622"
     },
     {
+      "local": "images/fa-flower-t.jpg",
+      "full": "images/fa-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/325774234/large.jpeg",
+      "s": "fall",
+      "cap": "Fall — pink anemone clump in full bloom · © povlthor (CC-BY-NC) / iNaturalist",
+      "by": "povlthor",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/186416752"
+    },
+    {
       "local": "images/fa-foliage-t.jpg",
       "full": "images/fa-foliage.jpg",
-      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/413143525/large.jpeg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/161345374/large.jpg",
       "s": "fall",
-      "cap": "Fall — deeply lobed dark-green foliage · © Tereza Šmídová (CC-BY-NC) / iNaturalist",
-      "by": "Tereza Šmídová",
+      "cap": "Fall — face-on pink blooms with lobed dark-green foliage · © rowansugar (CC-BY-NC) / iNaturalist",
+      "by": "rowansugar",
       "lic": "CC-BY-NC",
-      "link": "https://www.inaturalist.org/observations/232539866"
+      "link": "https://www.inaturalist.org/observations/97063943"
     },
     {
       "local": "images/fa-flower2-t.jpg",
       "full": "images/fa-flower2.jpg",
-      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/143723762/large.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/413143525/large.jpeg",
       "s": "fall",
-      "cap": "Fall — pink bloom face-on with yellow stamens · © Susan J. Hewitt (CC-BY-NC) / iNaturalist",
-      "by": "Susan J. Hewitt",
+      "cap": "Fall — pale pink face-on bloom with yellow stamens and buds · © Tereza Šmídová (CC-BY-NC) / iNaturalist",
+      "by": "Tereza Šmídová",
       "lic": "CC-BY-NC",
-      "link": "https://www.inaturalist.org/observations/87198601"
+      "link": "https://www.inaturalist.org/observations/232539866"
     }
   ]
 }

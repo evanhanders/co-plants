@@ -685,11 +685,16 @@ sage.
 
 The current backlog. Move items out of this section as they ship.
 
-- **Fuller seasonal reels:** the sparse natives (horned spurge) and a few single-season
-  garden flowers could still grow extra-season shots as better candidates surface. The
-  iNat API has far more CC photos per plant than were picked — re-query it (the fast
-  path above) to find spring/fall/winter shots. (`/tmp/*` is ephemeral; nothing is
-  cached between containers — re-query rather than expecting a saved shortlist.)
+- **Photo reels (largely done — see `IMAGE_AUDIT.md`):** every plant was audited against the
+  8-axis rubric and re-sourced to **excellent** where open-licensed shots exist. Current state:
+  **52 excellent · 14 effectively-excellent** (only an unfillable/structural cap left, e.g.
+  no-CC-winter blue-oat-grass, spike-flower `front_facing` on lavender/russian-sage, no-CC
+  yellow-cultivar habit for 'Mersea Yellow' pineleaf penstemon) · **2 genuinely fixable gaps:**
+  **Turkish speedwell** still needs a verified *V. liwanensis* off-season mat shot (the Wave-4
+  candidate read as a *V. persica* look-alike and was rejected), and **evening primrose** wants
+  a true massed-drift `bloom_in_context` shot. Re-query the iNat API (the fast path above) when
+  chasing either; `IMAGE_AUDIT.json` is the per-plant scorecard. (`/tmp/*` is ephemeral — re-query
+  rather than expecting a saved shortlist.)
 - **Trim the batch-1 fulls:** a few early full images (e.g. dogwood `wi-stems.jpg`,
   little-bluestem) were saved at q85/1500px (~0.8 MB); later batches use q82/1400px.
   Re-running those through `finalize.py` would shave repo weight if it matters.

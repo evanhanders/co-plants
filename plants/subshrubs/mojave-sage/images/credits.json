@@ -66,5 +66,26 @@
       400,
       300
     ]
+  },
+  {
+    "file": "images/su-flowers.jpg",
+    "by": "Christian Schwarz",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/186481397",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/su-bloom.jpg",
+    "by": "jbmoreau",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/123048291",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/su-flower.jpg",
+    "by": "als93",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/observations/14613698",
+    "via": "iNaturalist"
   }
 ]

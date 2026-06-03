@@ -41,16 +41,6 @@
   ],
   "shots": [
     {
-      "local": "images/su-seedheads-t.jpg",
-      "full": "images/su-seedheads.jpg",
-      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/484075975/large.jpeg",
-      "s": "summer",
-      "cap": "Summer — tall oat-like seed sprays rise above the steel-blue clump · © Felix Riegel (CC-BY-NC) / iNaturalist",
-      "by": "Felix Riegel",
-      "lic": "CC-BY-NC",
-      "link": "https://www.inaturalist.org/observations/269242111"
-    },
-    {
       "local": "images/su-habit-t.jpg",
       "full": "images/su-habit.jpg",
       "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/609435743/large.jpg",

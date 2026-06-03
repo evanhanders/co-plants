@@ -40,6 +40,16 @@
   ],
   "shots": [
     {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/518882242/large.jpg",
+      "s": "summer",
+      "cap": "Summer — whole mock orange shrub arching under a load of white fragrant blossoms, showing its vase-shaped form · © Matthew Syvenky (CC-BY-NC) / iNaturalist",
+      "by": "Matthew Syvenky",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/288456754"
+    },
+    {
       "local": "images/su-flower-t.jpg",
       "full": "images/su-flower.jpg",
       "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/8719256/large.jpeg",

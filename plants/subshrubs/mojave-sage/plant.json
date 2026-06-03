@@ -41,44 +41,44 @@
   ],
   "shots": [
     {
-      "local": "images/su-flowers-t.jpg",
-      "full": "images/su-flowers.jpg",
-      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/428555487/large.jpeg",
-      "s": "summer",
-      "cap": "Summer — fresh violet flowers among silver-purple mauve bracts · © seasand66 (CC-BY) / iNaturalist",
-      "by": "seasand66",
-      "lic": "CC-BY",
-      "link": "https://www.inaturalist.org/observations/240535360"
-    },
-    {
       "local": "images/su-habit-t.jpg",
       "full": "images/su-habit.jpg",
-      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/222866116/large.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/4401622/large.jpg",
       "s": "summer",
-      "cap": "Summer — silvery aromatic mounded subshrub in bloom · © lilygale (CC-BY-NC) / iNaturalist",
-      "by": "lilygale",
+      "cap": "Summer — whole silvery aromatic mound with violet flower spikes in full bloom · © Mark Rosenstein (CC-BY-NC) / iNaturalist",
+      "by": "Mark Rosenstein",
       "lic": "CC-BY-NC",
-      "link": "https://www.inaturalist.org/observations/131000983"
+      "link": "https://www.inaturalist.org/observations/2881088"
     },
     {
-      "local": "images/su-foliage-t.jpg",
-      "full": "images/su-foliage.jpg",
-      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/71206275/large.jpeg",
+      "local": "images/su-flowers-t.jpg",
+      "full": "images/su-flowers.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/319192746/large.jpg",
       "s": "summer",
-      "cap": "Summer — silver-grey aromatic foliage close-up · © Erik Meling (CC-BY-NC) / iNaturalist",
-      "by": "Erik Meling",
+      "cap": "Summer — mass of fresh violet flowers and silver-purple bracts on the mound, showing bloom-in-context · © Christian Schwarz (CC-BY-NC) / iNaturalist",
+      "by": "Christian Schwarz",
       "lic": "CC-BY-NC",
-      "link": "https://www.inaturalist.org/observations/44917371"
+      "link": "https://www.inaturalist.org/observations/186481397"
+    },
+    {
+      "local": "images/su-bloom-t.jpg",
+      "full": "images/su-bloom.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/207485502/large.jpg",
+      "s": "summer",
+      "cap": "Summer — whole Mojave sage plant in bloom in native desert habitat, showing silvery foliage and violet spikes · © jbmoreau (CC-BY-NC) / iNaturalist",
+      "by": "jbmoreau",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/123048291"
     },
     {
       "local": "images/su-flower-t.jpg",
       "full": "images/su-flower.jpg",
-      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/208368983/large.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/23236730/large.jpg",
       "s": "summer",
-      "cap": "Summer — violet flower spike close-up · © Ellen (CC-BY-NC) / iNaturalist",
-      "by": "Ellen",
-      "lic": "CC-BY-NC",
-      "link": "https://www.inaturalist.org/observations/123025752"
+      "cap": "Summer — close-up of violet flower spike emerging from silver-grey bracts, showing fresh open blooms · © als93 (CC-BY) / iNaturalist",
+      "by": "als93",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/14613698"
     }
   ],
   "commons": "Salvia pachyphylla, the Rose Sage (10461533306).jpg"

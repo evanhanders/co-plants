@@ -66,5 +66,19 @@
       400,
       300
     ]
+  },
+  {
+    "file": "images/su-habit.jpg",
+    "by": "odenwaelder",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/134124591",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/su-flower.jpg",
+    "by": "Eleftherios Katsillis",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/observations/200977490",
+    "via": "iNaturalist"
   }
 ]

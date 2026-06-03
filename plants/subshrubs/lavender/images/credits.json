@@ -49,5 +49,13 @@
       300,
       400
     ]
+  },
+  {
+    "file": "images/wi-habit.jpg",
+    "photo_id": 471431492,
+    "by": "Oliver Stöhr",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/photos/471431492",
+    "via": "GBIF"
   }
 ]

@@ -66,5 +66,33 @@
       400,
       300
     ]
+  },
+  {
+    "file": "images/sp-foliage2.jpg",
+    "by": "Morgan Stickrod",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/127731616",
+    "via": "iNat"
+  },
+  {
+    "file": "images/sp-habit2.jpg",
+    "by": "curt_nimz",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/119289541",
+    "via": "iNat"
+  },
+  {
+    "file": "images/sp-bloom2.jpg",
+    "by": "Stacie Wolny",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/77791284",
+    "via": "iNat"
+  },
+  {
+    "file": "images/su-pods.jpg",
+    "by": "David Rankin",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/178268349",
+    "via": "iNat"
   }
 ]

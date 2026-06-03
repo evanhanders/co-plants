@@ -84,6 +84,46 @@
       "by": "Matt Lavin",
       "lic": "CC-BY",
       "link": "https://www.inaturalist.org/observations/101830622"
+    },
+    {
+      "local": "images/sp-foliage2-t.jpg",
+      "full": "images/sp-foliage2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/209005182/large.jpeg",
+      "s": "spring",
+      "cap": "Spring — narrow lance-shaped stem leaves and yellow-green bud cluster · © Morgan Stickrod (CC-BY-NC) / iNat",
+      "by": "Morgan Stickrod",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/127731616"
+    },
+    {
+      "local": "images/sp-habit2-t.jpg",
+      "full": "images/sp-habit2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/191083258/large.jpg",
+      "s": "spring",
+      "cap": "Spring — two plants on red rocky scree showing whole-plant form, basal rosette, and lance stem leaves · © curt_nimz (CC-BY-NC) / iNat",
+      "by": "curt_nimz",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/119289541"
+    },
+    {
+      "local": "images/sp-bloom2-t.jpg",
+      "full": "images/sp-bloom2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/127731616/large.jpg",
+      "s": "spring",
+      "cap": "Spring — face-on cluster of brilliant orange 4-petaled flowers · © Stacie Wolny (CC-BY-NC) / iNat",
+      "by": "Stacie Wolny",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/77791284"
+    },
+    {
+      "local": "images/su-pods-t.jpg",
+      "full": "images/su-pods.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/308197784/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — slender silique seed pods radiating from the upper stems after flowering · © David Rankin (CC-BY-NC) / iNat",
+      "by": "David Rankin",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/178268349"
     }
   ]
 }

@@ -45,24 +45,44 @@
   ],
   "shots": [
     {
-      "local": "images/su-close-t.jpg",
-      "full": "images/su-close.jpg",
-      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/40766817/large.jpg",
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/154236535/large.jpeg",
       "s": "summer",
-      "cap": "Blue-purple spurred flowers close-up on annual larkspur spike · © no rights reserved (CC0) / iNaturalist",
-      "by": "no rights reserved",
-      "lic": "CC0",
-      "link": "https://www.inaturalist.org/observations/26263668"
+      "cap": "Larkspur spire showing full plant height — purple florets and forming seed pods · © François-Xavier Taxil (CC-BY-NC) / iNaturalist",
+      "by": "François-Xavier Taxil",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/93092066"
     },
     {
-      "local": "images/su-structure-t.jpg",
-      "full": "images/su-structure.jpg",
-      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/404558518/large.jpg",
+      "local": "images/su-flower-t.jpg",
+      "full": "images/su-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/283386822/large.jpg",
       "s": "summer",
-      "cap": "Tall larkspur spikes with ferny foliage — plant habit · © jyoung2399 (CC-BY) / iNaturalist",
-      "by": "jyoung2399",
-      "lic": "CC-BY",
-      "link": "https://www.inaturalist.org/observations/228006544"
+      "cap": "Face-on violet-blue larkspur florets showing the spurred structure · © Rick Hammer (CC-BY-NC) / iNaturalist",
+      "by": "Rick Hammer",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/163819286"
+    },
+    {
+      "local": "images/su-bloom-t.jpg",
+      "full": "images/su-bloom.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/284793368/large.jpeg",
+      "s": "summer",
+      "cap": "Purple larkspur flower spike — close view of the florets on the spire · © Alexandre Leroy Delande (CC-BY-NC) / iNaturalist",
+      "by": "Alexandre Leroy Delande",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/164586689"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/69747145/large.jpg",
+      "s": "summer",
+      "cap": "Larkspur plants in bloom showing the finely divided ferny foliage · © chardwood (CC-BY-NC) / iNaturalist",
+      "by": "chardwood",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/43985350"
     }
   ]
 }

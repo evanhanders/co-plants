@@ -42,24 +42,34 @@
   ],
   "shots": [
     {
-      "local": "images/sp-flowers-t.jpg",
-      "full": "images/sp-flowers.jpg",
-      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/8139984/large.jpg",
-      "s": "spring",
-      "cap": "Spring — chartreuse flower bracts · © Patrick Leary (CC-BY) / iNaturalist",
-      "by": "Patrick Leary",
-      "lic": "CC-BY",
-      "link": "https://www.inaturalist.org/photos/8139984"
-    },
-    {
       "local": "images/sp-habit-t.jpg",
       "full": "images/sp-habit.jpg",
-      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/8139986/large.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/648387377/large.jpg",
       "s": "spring",
-      "cap": "Spring — acid-yellow plants in leaf · © Patrick Leary (CC-BY) / iNaturalist",
-      "by": "Patrick Leary",
+      "cap": "Cushion spurge dome in a garden bed — the characteristic mounded form in spring · © karelsef (CC-BY-NC) / iNaturalist",
+      "by": "karelsef",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/355424333"
+    },
+    {
+      "local": "images/sp-flower-t.jpg",
+      "full": "images/sp-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/278100491/large.jpeg",
+      "s": "spring",
+      "cap": "Close view of sulfur-yellow bracts and cyathia — the distinctive cushion spurge flower structure · © Patrick Hacker (CC-BY) / iNaturalist",
+      "by": "Patrick Hacker",
       "lic": "CC-BY",
-      "link": "https://www.inaturalist.org/photos/8139986"
+      "link": "https://www.inaturalist.org/observations/160915919"
+    },
+    {
+      "local": "images/sp-foliage-t.jpg",
+      "full": "images/sp-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/363720697/large.jpeg",
+      "s": "spring",
+      "cap": "Upright stems with chartreuse bracts showing the leaf shape and texture · © Christine Hecher (CC-BY-NC) / iNaturalist",
+      "by": "Christine Hecher",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/205687783"
     }
   ],
   "commons": "Euphorbia polychroma, wolfsmelk.JPG"

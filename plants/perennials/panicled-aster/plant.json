@@ -43,24 +43,44 @@
   ],
   "shots": [
     {
-      "local": "images/fa-close-t.jpg",
-      "full": "images/fa-close.jpg",
-      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/231333563/large.jpg",
+      "local": "images/fa-habit-t.jpg",
+      "full": "images/fa-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/233589035/large.jpeg",
       "s": "fall",
-      "cap": "Fall — small white-to-pale daisy flowers with yellow centers along willowy stems · © Jared Lincenberg (CC-BY) / iNaturalist",
-      "by": "Jared Lincenberg",
-      "lic": "CC-BY",
-      "link": "https://www.inaturalist.org/observations/135616239"
+      "cap": "Panicled aster in full fall bloom — tall branching stems with white daisies along a pond · © Jennifer Ackerfield (CC-BY-NC) / iNaturalist",
+      "by": "Jennifer Ackerfield",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/136831424"
     },
     {
-      "local": "images/fa-structure-t.jpg",
-      "full": "images/fa-structure.jpg",
+      "local": "images/fa-flower-t.jpg",
+      "full": "images/fa-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/227173265/large.jpeg",
+      "s": "fall",
+      "cap": "Face-on white daisy flowers with yellow centers — panicled aster close-up · © Suzanne Dingwell (CC-BY-NC) / iNaturalist",
+      "by": "Suzanne Dingwell",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/133378474"
+    },
+    {
+      "local": "images/fa-bloom-t.jpg",
+      "full": "images/fa-bloom.jpg",
       "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/96252998/large.jpg",
       "s": "fall",
-      "cap": "Fall — tall branching stems with clusters of white aster flowers · © beirdow (CC-BY-NC) / iNaturalist",
+      "cap": "Panicled aster colony in bloom at a Colorado streamside — natural habitat · © beirdow (CC-BY-NC) / iNaturalist",
       "by": "beirdow",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/60208757"
+    },
+    {
+      "local": "images/fa-foliage-t.jpg",
+      "full": "images/fa-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/152608272/large.jpg",
+      "s": "fall",
+      "cap": "Narrow lance-shaped foliage of panicled aster with small white daisies · © David Martin (CC-BY-NC) / iNaturalist",
+      "by": "David Martin",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/92195604"
     }
   ]
 }

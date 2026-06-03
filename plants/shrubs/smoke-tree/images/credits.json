@@ -1,36 +1,70 @@
 [
   {
-    "file": "images/su-close.jpg",
-    "photo_id": 202687124,
-    "by": "Анна Мостовая",
+    "file": "images/su-habit.jpg",
+    "photo_id": 520305342,
+    "by": "Natalia Merkulyeva",
     "license": "CC-BY-NC",
-    "source": "https://www.inaturalist.org/observations/119873753",
+    "source": "https://www.inaturalist.org/observations/289285683",
     "dataset": "iNaturalist open data",
     "render": "original",
     "full_px": [
       1400,
-      1050
+      637
     ],
     "thumb_px": [
       400,
-      300
+      182
     ]
   },
   {
-    "file": "images/su-structure.jpg",
-    "photo_id": 401077273,
-    "by": "Kovács Dávid",
+    "file": "images/su-plumes.jpg",
+    "photo_id": 554230452,
+    "by": "theottergirl",
     "license": "CC-BY-NC",
-    "source": "https://www.inaturalist.org/observations/226169668",
+    "source": "https://www.inaturalist.org/observations/299098739",
     "dataset": "iNaturalist open data",
     "render": "original",
     "full_px": [
-      1400,
-      1050
+      1050,
+      1400
     ],
     "thumb_px": [
-      400,
-      300
+      300,
+      400
+    ]
+  },
+  {
+    "file": "images/su-foliage.jpg",
+    "photo_id": 124611137,
+    "by": "lisabg",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/76169452",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  },
+  {
+    "file": "images/fa-color.jpg",
+    "photo_id": 102749263,
+    "by": "stamoan",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/63964725",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
     ]
   }
 ]

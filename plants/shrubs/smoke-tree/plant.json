@@ -44,24 +44,44 @@
   ],
   "shots": [
     {
-      "local": "images/su-close-t.jpg",
-      "full": "images/su-close.jpg",
-      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/202687124/large.jpeg",
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/520305342/large.jpg",
       "s": "summer",
-      "cap": "Summer — feathery smoke-like seed plumes · © Анна Мостовая (CC-BY-NC) / iNaturalist",
-      "by": "Анна Мостовая",
+      "cap": "Smoke tree covered in pink feathery plumes — full summer display · © Natalia Merkulyeva (CC-BY-NC) / iNaturalist",
+      "by": "Natalia Merkulyeva",
       "lic": "CC-BY-NC",
-      "link": "https://www.inaturalist.org/observations/119873753"
+      "link": "https://www.inaturalist.org/observations/289285683"
     },
     {
-      "local": "images/su-structure-t.jpg",
-      "full": "images/su-structure.jpg",
-      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/401077273/large.jpg",
+      "local": "images/su-plumes-t.jpg",
+      "full": "images/su-plumes.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554230452/large.jpg",
       "s": "summer",
-      "cap": "Summer — mounded purple-leafed shrub · © Kovács Dávid (CC-BY-NC) / iNaturalist",
-      "by": "Kovács Dávid",
+      "cap": "Pink feathery smoke-like seed plumes close-up — the defining summer display · © theottergirl (CC-BY-NC) / iNaturalist",
+      "by": "theottergirl",
       "lic": "CC-BY-NC",
-      "link": "https://www.inaturalist.org/observations/226169668"
+      "link": "https://www.inaturalist.org/observations/299098739"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/124611137/large.jpg",
+      "s": "summer",
+      "cap": "Deep purple-red rounded leaves of a dark-leaf cultivar like 'Royal Purple' · © lisabg (CC-BY-NC) / iNaturalist",
+      "by": "lisabg",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/76169452"
+    },
+    {
+      "local": "images/fa-color-t.jpg",
+      "full": "images/fa-color.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/102749263/large.jpg",
+      "s": "fall",
+      "cap": "Orange-yellow fall foliage of smoke tree — vivid autumn color · © stamoan (CC-BY-NC) / iNaturalist",
+      "by": "stamoan",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/63964725"
     }
   ]
 }

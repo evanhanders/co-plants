@@ -197,6 +197,29 @@ footer{text-align:center;margin-top:40px;font-size:11.5px;color:var(--ink-soft);
 .care-src-lab{font-family:'Fraunces',Georgia,serif;text-transform:uppercase;letter-spacing:.1em;font-size:10px;color:var(--rust)}
 .care-src a{color:var(--green);text-decoration:none}
 .care-src a:hover{text-decoration:underline}
+/* inline citation markers ([n] in prose / fact-table cells) → links into the bibliography */
+sup.cite{font-size:.64em;line-height:0;white-space:nowrap;margin-left:1px}
+sup.cite a{color:var(--green);text-decoration:none;font-weight:700}
+sup.cite a:hover{text-decoration:underline}
+/* "Edible parts" — its own warning-styled section; level sets the banner colour */
+.edible .ed-banner{display:flex;align-items:baseline;gap:12px;flex-wrap:wrap;background:var(--card);border-left:4px solid var(--line);border-radius:3px;padding:12px 16px;margin-bottom:13px}
+.ed-flag{font-family:'Fraunces',Georgia,serif;text-transform:uppercase;letter-spacing:.07em;font-size:11.5px;font-weight:600;color:#fff;background:var(--ink-soft);padding:3px 11px;border-radius:2px;white-space:nowrap}
+.ed-summary{font-size:14px;color:#3b342a;font-style:italic;line-height:1.45}
+.edible.ed-yes .ed-banner{border-left-color:var(--green)} .edible.ed-yes .ed-flag{background:var(--green)}
+.edible.ed-caution .ed-banner{border-left-color:var(--gold)} .edible.ed-caution .ed-flag{background:var(--gold)}
+.edible.ed-toxic .ed-banner{border-left-color:var(--rust)} .edible.ed-toxic .ed-flag{background:var(--rust)}
+.edible.ed-no .ed-banner{border-left-color:var(--ink-soft)}
+.ed-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(232px,1fr));gap:1px;border:1px solid var(--line);border-radius:3px;overflow:hidden;background:var(--line)}
+.ed-item{background:var(--card);padding:14px 16px}
+.ed-item dt{font-family:'Fraunces',Georgia,serif;color:var(--rust);text-transform:uppercase;letter-spacing:.08em;font-size:10.5px;margin-bottom:6px}
+.ed-item dd{margin:0;font-size:13.5px;color:#3b342a;line-height:1.5}
+.ed-item.ed-warn{grid-column:1/-1;background:#faf1e8} /* cautions span full width, tinted */
+/* numbered bibliography */
+ol.biblio{font-size:12.5px;color:var(--ink-soft);line-height:1.6;padding-left:24px;margin:4px 0 0}
+ol.biblio li{margin:0 0 6px;padding-left:4px}
+ol.biblio a{color:var(--green);text-decoration:none}
+ol.biblio a:hover{text-decoration:underline}
+ol.biblio li:target{background:#f6edda;outline:2px solid var(--gold);outline-offset:3px;border-radius:2px}
 .creditlist{list-style:none;padding:0;margin:0;font-size:12.5px;color:var(--ink-soft)}
 .creditlist li{padding:7px 0;border-bottom:1px dashed var(--line);line-height:1.5}
 .creditlist li:last-child{border-bottom:none}

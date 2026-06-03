@@ -26,18 +26,77 @@ const CARE_FIELDS = [
 ['harvest','Seed saving'],
 ['companions','Good companions']
 ];
+/* the standalone "Edible parts" section reads this fixed allow-list out of the
+   plant's optional `edible` object (its `level`+`summary` drive the banner) */
+const EDIBLE_FIELDS = [
+['parts','Edible parts'],
+['preparation','How it’s used'],
+['caution','Cautions']
+];
+const EDIBLE_LEVELS = {
+edible:   {lab:'Edible',                cls:'ed-yes'},
+caution:  {lab:'Edible with caution',   cls:'ed-caution'},
+toxic:    {lab:'Toxic — do not eat',    cls:'ed-toxic'},
+inedible: {lab:'Not considered edible', cls:'ed-no'}
+};
+/* Citations. Prose strings (care + edible) may carry inline [n] / [n,m] markers and
+   the facts table cites via the per-field `fact_src` map; both resolve to superscript
+   links into the page bibliography (`references`). refsup() takes an array of numbers. */
+function refsup(nums){
+if(!nums || !nums.length) return '';
+var links = nums.map(function(n){ return '<a href="#ref-'+n+'">'+n+'</a>'; }).join(',');
+return '<sup class="cite">['+links+']</sup>';
+}
+function cite(text){
+return esc(text).replace(/\[(\d+(?:\s*,\s*\d+)*)\]/g, function(_, g){
+return refsup(g.split(',').map(function(n){ return n.trim(); }));
+});
+}
+function factMark(p, key){
+var fs = (p.fact_src||{})[key];
+return refsup(fs && fs.map(String));
+}
 function factsDL(p){
+function row(label, key, val){ return '<dt>'+label+'</dt><dd>'+esc(val)+factMark(p,key)+'</dd>'; }
 return '<dl class="facts big">'+
-'<dt>Mature size</dt><dd>'+esc(p.size||'—')+'</dd><dt>Sun</dt><dd>'+esc(p.sun||'—')+'</dd>'+
-'<dt>Water</dt><dd>'+esc(p.water||'—')+'</dd><dt>Spread / habit</dt><dd>'+esc(p.spread||'—')+'</dd>'+
-'<dt>Seasonal interest</dt><dd>'+esc(p.seasons||'—')+'</dd><dt>Wildlife</dt><dd>'+esc(p.wildlife||'—')+'</dd>'+
-'<dt>Deer</dt><dd>'+esc(p.deer||'—')+'</dd>'+
-'<dt>Toxicity</dt><dd>'+esc(p.toxic||'None of concern')+'</dd></dl>';
+row('Mature size','size',p.size||'—')+row('Sun','sun',p.sun||'—')+
+row('Water','water',p.water||'—')+row('Spread / habit','spread',p.spread||'—')+
+row('Seasonal interest','seasons',p.seasons||'—')+row('Wildlife','wildlife',p.wildlife||'—')+
+row('Deer','deer',p.deer||'—')+row('Toxicity','toxic',p.toxic||'None of concern')+
+'</dl>';
 }
 function carePanels(care){
 return CARE_FIELDS.filter(function(f){ return care[f[0]]; })
-.map(function(f){ return '<div class="care-item"><dt>'+f[1]+'</dt><dd>'+esc(care[f[0]])+'</dd></div>'; })
+.map(function(f){ return '<div class="care-item"><dt>'+f[1]+'</dt><dd>'+cite(care[f[0]])+'</dd></div>'; })
 .join('');
+}
+function edibleHTML(p){
+var e = p.edible;
+if(!e) return '';
+var lv = EDIBLE_LEVELS[e.level] || EDIBLE_LEVELS.inedible;
+var rows = EDIBLE_FIELDS.filter(function(f){ return e[f[0]]; })
+.map(function(f){ var k=f[0];
+return '<div class="ed-item'+(k==='caution'?' ed-warn':'')+'"><dt>'+f[1]+'</dt><dd>'+cite(e[k])+'</dd></div>'; })
+.join('');
+return '<section class="edible '+lv.cls+'"><h2>Edible parts</h2>'+
+'<div class="ed-banner"><span class="ed-flag">'+esc(lv.lab)+'</span>'+
+(e.summary?'<span class="ed-summary">'+cite(e.summary)+'</span>':'')+'</div>'+
+(rows?'<div class="ed-grid">'+rows+'</div>':'')+
+'</section>';
+}
+/* page-wide numbered bibliography (the `references` array). Falls back to the legacy
+   "compiled from …" line for plants not yet migrated off `care_src`. */
+function bibHTML(p){
+if(!p.references || !p.references.length){
+var legacy = careSrcHTML(p);
+return legacy ? '<section><h2>Sources</h2>'+legacy+'</section>' : '';
+}
+var items = p.references.map(function(c, i){
+var n = i+1, nm = esc(c.name||c.url||'source');
+var body = c.url ? '<a href="'+esc(c.url)+'" target="_blank" rel="noopener noreferrer">'+nm+' ↗</a>' : nm;
+return '<li id="ref-'+n+'" value="'+n+'">'+body+'</li>';
+});
+return '<section class="refs"><h2>References</h2><ol class="biblio">'+items.join('')+'</ol></section>';
 }
 function careSrcHTML(p){
 var s = p.care_src || [];
@@ -83,8 +142,10 @@ BACK+
 '</div>'+
 '</div>'+
 '<section><h2>At a glance</h2>'+factsDL(p)+'</section>'+
-'<section><h2>Growing &amp; care on the Front Range</h2>'+grow+careSrcHTML(p)+'</section>'+
+'<section><h2>Growing &amp; care on the Front Range</h2>'+grow+'</section>'+
+edibleHTML(p)+
 (credits?'<section><h2>Photographs</h2>'+credits+'</section>':'')+
+bibHTML(p)+
 '</article>'+
 BACK.replace('backlink','backlink foot');
 wireReels(detail);

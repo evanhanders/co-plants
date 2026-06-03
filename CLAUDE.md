@@ -70,15 +70,26 @@ python3 -m http.server 8077 &
 node tests/swipe.spec.mjs
 ```
 
-**Citation check (`tools/check_citations.py`).** Curls every plant's `care_src` and flags
-DEAD / wrong-plant (REVIEW) / OK, failing if any plant has no reachable source — run it after
-any `care_src` edit and as a periodic guard on the whole guide. It's step 3 of the care
-pipeline (see "Sourcing care facts"); no dependencies, just Python:
+**Citation check (`tools/check_citations.py`).** Curls every plant's `references` (falls back to
+legacy `care_src`) and flags DEAD / wrong-plant (REVIEW) / OK, failing if any plant has no
+reachable source — run it after any `references` edit and as a periodic guard on the whole guide.
+It's step 3 of the care pipeline (see "Sourcing care facts"); no dependencies, just Python:
 
 ```
 python3 tools/check_citations.py            # audit all 68 plants
 python3 tools/check_citations.py --strict   # also fail on zero content-verified sources
 python3 tools/check_citations.py plants/perennials/knautia   # one or a few dirs
+```
+
+**Reference-integrity check (`tools/check_refs.py`).** The structural companion: scans each
+plant's inline `[n]` markers (in `care`, `edible`, and the `fact_src` map) and verifies every one
+resolves to an entry in that plant's `references` bibliography. **UNDEFINED** (a `[n]` past the end
+of `references`) fails the run; **ORPHAN** (a never-cited reference), **UNCITED** (has care/edible
+but no `references`), and **NO-FACTSRC** are warnings. Run it after any citation edit:
+
+```
+python3 tools/check_refs.py                       # all plants
+python3 tools/check_refs.py plants/trees/chokecherry   # one or a few dirs
 ```
 
 ## Architecture
@@ -147,13 +158,30 @@ is **NOT** the grouping. A file can live in `plants/perennials/` yet be a `Groun
   cold-hardy, so they need their own timing/overwintering note); **`propagation`** = *how to
   propagate by seed **and** by non-seed means* (division, cuttings, layering…). Keep each
   value a short paragraph of Front-Range-specific, practical guidance. Add a new aspect by
-  extending `CARE_FIELDS` (key + display label) — no other code change needed.
-- `care_src:[…]` *(optional, but required whenever `care` is present)* — the **provenance
-  for the care facts**, mirroring photo attribution. A list of `{ name, url }` sources the
-  care prose was compiled from; the detail page renders them as a "Care notes compiled
-  from …" line under the grow-and-care grid (`careSrcHTML` in `plant.js`). Cite the actual
-  authorities you drew from — don't pad it. See "Sourcing care facts" below for the
-  trusted-source priority and the rule against uncited claims.
+  extending `CARE_FIELDS` (key + display label) — no other code change needed. **Every care
+  value carries inline `[n]` citation markers** (e.g. `…pH 5.0–8.0.[1][2]`) keyed to the
+  plant's `references` bibliography; `cite()` in `plant.js` turns them into superscript links.
+- `references:[…]` *(required whenever `care`/`edible` is present)* — the **page bibliography**:
+  an **ordered** list of `{ name, url }` sources, numbered `[1], [2], …` in array order. This is
+  the single source-of-record every inline `[n]` marker (in `care`, `edible`, and `fact_src`)
+  resolves to; `plant.js` renders it as a numbered **References** section at the foot of the
+  detail page (`bibHTML`). It **replaces the old flat `care_src`** (legacy plants still fall back
+  to the "Care notes compiled from …" line until migrated). Cite the actual authorities you drew
+  from — don't pad it. See "Sourcing care facts" for the trusted-source priority + uncited-claim
+  rule, and run **`tools/check_refs.py`** (marker↔bibliography integrity) + **`check_citations.py`**
+  (URL reachability) after editing.
+- `fact_src:{…}` *(optional but expected with `references`)* — **detail-page-only** citations for
+  the "At a glance" facts table: a map of card-field → array of reference numbers, e.g.
+  `{"size":[1,2],"toxic":[1,3]}`. Keys: `size, sun, water, spread, seasons, wildlife, deer, toxic`.
+  `factsDL` in `plant.js` appends the superscript cites. **Do NOT bake `[n]` into the shared card
+  fields themselves** (`size`, `sun`, …) — `app.js`'s grid renders those raw, so markers would leak
+  onto the encyclopedia cards; the citations live only in `fact_src`, which the grid ignores.
+- `edible:{…}` *(optional)* — the **"Edible parts" section** on the detail page (safety-critical;
+  `edibleHTML` + `EDIBLE_FIELDS` in `plant.js`). Fields: **`level`** (`edible | caution | toxic |
+  inedible` — drives the banner colour/label), **`summary`** (one-line banner verdict), and the
+  prose cells **`parts`**, **`preparation`**, **`caution`** (the cautions cell renders full-width +
+  tinted). All prose carries inline `[n]` markers into `references`. Source it like care, but with
+  extra rigor — see "Sourcing edibility facts".
 - `shots:[…]` *(optional)* — an ordered seasonal reel; each entry is one photo panel.
   Fields: `{ local, full, url | commons | try:[a,b], s?, cap?, by?, lic?, link? }`.
   - `local:'images/foo-t.jpg'` — repo-hosted **card thumbnail** shown in the grid
@@ -191,9 +219,12 @@ loader), and renders the sheet. **It reuses the reel + lightbox + shot-resolutio
 
 `renderDetail(p)` builds a masthead-style **sheet**: hero photo reel + name/botanical/
 blurb/badges/trait-flags, an **"At a glance"** facts table (the same card fields), a
-**"Growing & care on the Front Range"** grid built from the plant's `care` object (with a
-"Care notes compiled from …" source line beneath it from `care_src`), and a
-**"Photographs"** credits list (photographer · license · source per shot).
+**"Growing & care on the Front Range"** grid built from the plant's `care` object, a
+warning-styled **"Edible parts"** section from the `edible` object, a **"Photographs"** credits
+list (photographer · license · source per shot), and a numbered **"References"** bibliography
+(the `references` array) that every inline `[n]` cite on the page links into. All claims on the
+detail page — the facts table (via `fact_src`), the care prose, and the edibility prose — carry
+inline `[n]` superscript citations; the encyclopedia grid (`index.html`) stays uncited.
 `setMeta(p)` updates `document.title` + the `og:`/`description` tags to name the plant.
 The page has a slim masthead (the wordmark links home) and a "‹ Back to the herbarium"
 link (`href="index.html"`) top and bottom. To extend a plant's detail page, add/extend its
@@ -537,6 +568,47 @@ The prototype (Rocky Mountain bee plant) was sourced this way: the hard numbers
 (pH 6.0–7.6, 2–6 wk cold-moist stratification, 0.1–0.25 in sowing depth, 5–20 day
 germination at ~68/50°F, 24–36 in row spacing) come from the USDA-FS Western Forbs
 monograph, with CSU Extension cited for the Front-Range timing.
+
+## Inline citations & the page bibliography
+
+Every claim on a plant's **detail page** is cited; the encyclopedia grid stays clean. The
+mechanism (all in `plant.js` + the `references`/`fact_src` schema):
+
+- **`references`** is the per-plant **bibliography** — an ordered `{name,url}` array numbered
+  `[1], [2], …` in order. It is the single source-of-record; it **replaces `care_src`**.
+- **Inline `[n]` / `[n,m]` markers** go at the **end of the claim** they support inside every
+  `care.*` and `edible.*` prose value (e.g. `…USDA zones 4–8.[1][3]`). `cite()` escapes the text
+  then renders each marker as a superscript link into the bibliography.
+- **The facts table** is cited via the **`fact_src`** map (field → `[refs]`), NOT by editing the
+  shared card fields — markers in `size`/`sun`/… would leak onto the grid cards.
+- **Number every claim against the source it actually came from** (same honesty rule as care):
+  a Front-Range-timing claim → the extension source; a hard botanical number → the species
+  authority. Don't cite a source you didn't read; don't leave a hard number uncited.
+- **Validate** with `tools/check_refs.py` (markers ↔ bibliography) and `tools/check_citations.py`
+  (URLs reachable + on-topic) — both must pass before committing.
+
+## Sourcing edibility facts (the detail-page `edible` block)
+
+Edibility is **safety-critical** — people may eat based on it — so it gets *more* rigor than care,
+not less. Be conservative, be **part-specific** (which part is edible vs. which is poisonous), and
+ground every statement in an authority cited in `references`.
+
+- **Set `level` honestly:** `edible` (parts safely eaten with ordinary prep), `caution` (some
+  parts edible but others toxic, or specific prep required for safety — e.g. chokecherry: fruit
+  flesh edible, leaves/twigs/seed pits cyanogenic), `toxic` (poisonous, do not eat — e.g. all
+  euphorbias), `inedible` (no known edible use but not notably poisonous). When in doubt, escalate
+  toward caution/toxic, never the reverse.
+- **Always write the `caution` cell** — name the poisonous parts, the toxic compound if known
+  (cyanogenic glycosides → HCN; euphorbia diterpene-ester latex), look-alike/ID risks, and
+  raw-vs-cooked danger. This is the most important field; never omit it even for "edible" plants.
+- **Trusted edibility/toxicity sources** (prefer authoritative + reachable; send the descriptive
+  `User-Agent`): USDA **NRCS plant guides/fact sheets** & **PLANTS**, **USDA-FS** incl. the **FEIS**
+  fire-ecology database (excellent on toxic compounds + livestock hazard), **university extensions**
+  (CSU, NC State Plant Toolbox, USU…), the **Native American Ethnobotany Database** (naeb.brit.org —
+  documented traditional food use), the **Lady Bird Johnson Wildflower Center**, and for toxicity
+  **poison-control / veterinary** sources (National Capital Poison Center poison.org, **ASPCA**).
+  **PFAF (pfaf.org) only as corroboration, never the sole source** for a safety claim; no foraging
+  blogs or nursery pages. Verify each URL is reachable before citing.
 
 ## Weed-verification gotchas
 

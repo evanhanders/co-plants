@@ -17,25 +17,42 @@
   "winter": false,
   "verified": "2026-06-02",
   "care": {
-    "hardiness": "Grown as a warm-season annual — it completes its whole life in one season and dies at the first hard frost, so winter hardiness isn't a concern. Reliable anywhere with a frost-free summer.",
-    "sun": "Full sun is best — 6+ hours gives sturdy, free-flowering plants. It will grow in part shade, but stretches and blooms less.",
-    "soil": "Medium-textured to sandy, well-drained soil; it tolerates clay and gravel but not waterlogging. Slightly acidic to neutral (pH ~6.0–7.6). A lean, disturbed site suits this prairie annual — skip rich, constantly moist, heavily amended ground, which makes it floppy.",
-    "water": "Low and drought-tolerant — it gets by on roughly 8–10 in. of moisture a year. Keep the seedbed evenly moist until plants are a few inches tall, then water deeply but only every week or two in summer heat. Overwatering causes weak, leggy growth.",
-    "spacing": "Thin or space plants about 12–18 in apart; each reaches 1–2 ft wide and 3–4 ft tall (up to ~6 ft on rich sites). Sow in generous drifts — commercial stands use 24–36 in row spacing — for the best prairie effect and pollinator draw.",
-    "sow": "Direct-sow where it's to grow — it taproots and resents transplanting. Fall sowing is ideal (winter cold-stratifies the seed naturally); otherwise sow in spring after the last frost, roughly mid-to-late May around Boulder. Press seed into firm, weed-free soil.",
-    "stratify": "Seed needs 2–6 weeks of cold-moist stratification to germinate well, and germinates best 2–3 months after harvest. Fall sowing handles the chill outdoors; for spring sowing, mix seed with damp sand and refrigerate about a month first.",
-    "depth": "Sow shallow — about 0.1–0.25 in deep (a light cover) and tamp; it also needs warmth and some light at the surface. Germination takes roughly 5–20 days and is helped by day/night temperature swings (around 68°F day / 50°F night), so expect a staggered, uneven flush.",
-    "bloom": "June through September on the Front Range (May–October across its wider range) — a long season of pink-purple 'spider' flower heads, showiest in mid-to-late summer.",
-    "feeding": "None needed. Skip fertilizer and rich compost entirely; lean soil keeps it compact, sturdy, and free-flowering. Feeding produces lush foliage at the expense of bloom and makes it flop.",
-    "maintenance": "Essentially none. Tall plants in exposed sites may appreciate a single support or a neighbor to lean on. Light deadheading early on prolongs bloom, but stop by late summer so pods can ripen for reseeding and birds.",
-    "selfsow": "A prolific self-sower — leave a few pods to dry and shatter and it returns yearly in drifts, readily colonizing open, disturbed ground. It's abundant but not a CO-listed weed; recognize and thin or pull unwanted spring volunteers.",
-    "troubles": "Trouble-free on the Front Range. Occasional aphids on stems and the odd caterpillar (it's a host plant for checkered white butterflies); no serious disease. Good airflow and lean soil keep it clean.",
-    "harvest": "Collect your own seed in fall once pods turn tan and dry but before they split. Dry the pods further indoors, shake out the small dark seeds, and store cool and dry — germination is best 2–3 months after harvest and after a cold chill.",
-    "companions": "Native grasses (little bluestem), blanketflower, prairie zinnia, native sunflowers, and other lean-soil prairie plants that share its full-sun, low-water needs.",
-    "planting": "Direct-sow where it is to grow — Rocky Mountain bee plant forms a taproot early and resents transplanting. Fall sowing (October–November in Boulder) is ideal: scatter seed on cleared, weed-free ground and let the winter cold naturally stratify the seeds, which then germinate in spring as temperatures warm. For spring planting, sow after the last frost (mid-May in Boulder) once soil has begun to warm; if you didn't cold-stratify the seed indoors first (see 'stratify'), germination may be slow or patchy. In containers, sow into deep pots (10 in or more) to allow taproot development; container plants dry out faster than in-ground plants in Front Range heat and wind, so check moisture daily. As a warm-season annual, pot-grown plants finish at the first hard frost with no overwintering needed or possible.",
-    "propagation": "Seed is the only method — this annual taproots immediately and cannot be divided, layered, or rooted from cuttings. Collect seed in fall once pods turn tan and dry on the plant (before they split and shatter); dry indoors and store cool. For best germination, seeds benefit from cold-moist stratification (2–6 weeks in the refrigerator in damp sand) before spring sowing, or simply fall-sow and let winter provide the chill naturally. The plant self-sows freely on the Front Range if a few pods are left to ripen, so an established patch largely perpetuates itself each year."
+    "hardiness": "Grown as a warm-season annual — it completes its whole life in one season and dies at the first hard frost, so winter hardiness isn't a concern. Reliable anywhere with a frost-free summer.[1]",
+    "sun": "Full sun is best — 6+ hours gives sturdy, free-flowering plants. It will grow in part shade, but stretches and blooms less.[1]",
+    "soil": "Medium-textured to sandy, well-drained soil; it tolerates clay and gravel but not waterlogging. Slightly acidic to neutral (pH ~6.0–7.6). A lean, disturbed site suits this prairie annual — skip rich, constantly moist, heavily amended ground, which makes it floppy.[1]",
+    "water": "Low and drought-tolerant — it gets by on roughly 8–10 in. of moisture a year. Keep the seedbed evenly moist until plants are a few inches tall, then water deeply but only every week or two in summer heat. Overwatering causes weak, leggy growth.[1]",
+    "spacing": "Thin or space plants about 12–18 in apart; each reaches 1–2 ft wide and 3–4 ft tall (up to ~6 ft on rich sites). Sow in generous drifts — commercial stands use 24–36 in row spacing — for the best prairie effect and pollinator draw.[1]",
+    "sow": "Direct-sow where it's to grow — it taproots and resents transplanting. Fall sowing is ideal (winter cold-stratifies the seed naturally); otherwise sow in spring after the last frost, roughly mid-to-late May around Boulder. Press seed into firm, weed-free soil.[1][2]",
+    "stratify": "Seed needs 2–6 weeks of cold-moist stratification to germinate well, and germinates best 2–3 months after harvest. Fall sowing handles the chill outdoors; for spring sowing, mix seed with damp sand and refrigerate about a month first.[1]",
+    "depth": "Sow shallow — about 0.1–0.25 in deep (a light cover) and tamp; it also needs warmth and some light at the surface. Germination takes roughly 5–20 days and is helped by day/night temperature swings (around 68°F day / 50°F night), so expect a staggered, uneven flush.[1]",
+    "bloom": "June through September on the Front Range (May–October across its wider range) — a long season of pink-purple 'spider' flower heads, showiest in mid-to-late summer.[1][2]",
+    "feeding": "None needed. Skip fertilizer and rich compost entirely; lean soil keeps it compact, sturdy, and free-flowering. Feeding produces lush foliage at the expense of bloom and makes it flop.[1]",
+    "maintenance": "Essentially none. Tall plants in exposed sites may appreciate a single support or a neighbor to lean on. Light deadheading early on prolongs bloom, but stop by late summer so pods can ripen for reseeding and birds.[1]",
+    "selfsow": "A prolific self-sower — leave a few pods to dry and shatter and it returns yearly in drifts, readily colonizing open, disturbed ground. It's abundant but not a CO-listed weed; recognize and thin or pull unwanted spring volunteers.[1]",
+    "troubles": "Trouble-free on the Front Range. Occasional aphids on stems and the odd caterpillar (it's a host plant for checkered white butterflies); no serious disease. Good airflow and lean soil keep it clean.[1]",
+    "harvest": "Collect your own seed in fall once pods turn tan and dry but before they split. Dry the pods further indoors, shake out the small dark seeds, and store cool and dry — germination is best 2–3 months after harvest and after a cold chill.[1]",
+    "companions": "Native grasses (little bluestem), blanketflower, prairie zinnia, native sunflowers, and other lean-soil prairie plants that share its full-sun, low-water needs.[2]",
+    "planting": "Direct-sow where it is to grow — Rocky Mountain bee plant forms a taproot early and resents transplanting. Fall sowing (October–November in Boulder) is ideal: scatter seed on cleared, weed-free ground and let the winter cold naturally stratify the seeds, which then germinate in spring as temperatures warm. For spring planting, sow after the last frost (mid-May in Boulder) once soil has begun to warm; if you didn't cold-stratify the seed indoors first (see 'stratify'), germination may be slow or patchy. In containers, sow into deep pots (10 in or more) to allow taproot development; container plants dry out faster than in-ground plants in Front Range heat and wind, so check moisture daily. As a warm-season annual, pot-grown plants finish at the first hard frost with no overwintering needed or possible.[1][2]",
+    "propagation": "Seed is the only method — this annual taproots immediately and cannot be divided, layered, or rooted from cuttings. Collect seed in fall once pods turn tan and dry on the plant (before they split and shatter); dry indoors and store cool. For best germination, seeds benefit from cold-moist stratification (2–6 weeks in the refrigerator in damp sand) before spring sowing, or simply fall-sow and let winter provide the chill naturally. The plant self-sows freely on the Front Range if a few pods are left to ripen, so an established patch largely perpetuates itself each year.[1]"
   },
-  "care_src": [
+  "fact_src": {
+    "size": [1],
+    "sun": [1],
+    "water": [1],
+    "spread": [1],
+    "seasons": [1],
+    "wildlife": [1],
+    "deer": [1],
+    "toxic": [3, 4]
+  },
+  "edible": {
+    "level": "edible",
+    "summary": "The young plants, leaves, and seeds are edible and were a well-documented Native American food, but they need thorough boiling to be palatable.[3][4]",
+    "parts": "The young, tender shoots and leaves are eaten as a cooked green (a potherb rich in vitamin A and calcium), and the seeds are edible — traditionally ground into meal for mush, gruel, or bread. This is an extensively documented food plant of Southwestern and Plains tribes: the Hopi boiled the young plants and ate them like spinach, while the Acoma, Isleta, and Jemez cooked the greens or ground the seeds.[3][4]",
+    "preparation": "Cook before eating. The greens are strong-smelling and bitter raw, so they are boiled — often with one or more changes of water — to make them palatable; the cooked greens can be eaten fresh or pressed into cakes and dried for storage. Seeds are cooked and ground into meal. It is not a raw salad green.[3][4]",
+    "caution": "No part is reported as poisonous to people, but the raw foliage is acrid and strong-smelling (livestock avoid it), which is why traditional preparation always cooks and often re-waters it. As with any wild green, be certain of your identification — the accepted name is now Cleomella serrulata (syn. Cleome serrulata / Peritoma serrulata); don't confuse it with ornamental spider-flower (Cleome / Tarenaya) or other look-alikes.[3]"
+  },
+  "references": [
     {
       "name": "USDA Forest Service — Western Forbs monograph (Peritoma serrulata)",
       "url": "https://westernforbs.org/species/rocky-mountain-beeplant-peritoma-serrulata/"
@@ -43,6 +60,14 @@
     {
       "name": "CSU Extension — Yard & Garden (Front Range adaptation)",
       "url": "https://extension.colostate.edu/topic-areas/yard-garden/"
+    },
+    {
+      "name": "USDA Forest Service — Plant of the Week: Rocky Mountain bee plant (Cleome serrulata)",
+      "url": "https://www.fs.usda.gov/wildflowers/plant-of-the-week/cleome_serrulata.shtml"
+    },
+    {
+      "name": "Native American Ethnobotany Database (BRIT) — Cleome serrulata food-use records",
+      "url": "http://naeb.brit.org/uses/search/?string=Cleome+serrulata"
     }
   ],
   "shots": [

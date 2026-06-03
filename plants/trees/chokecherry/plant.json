@@ -16,25 +16,50 @@
   "winter": false,
   "verified": "2026-05-31",
   "care": {
-    "hardiness": "USDA zones 2–7 — one of the hardiest woody natives in the West. Completely reliable through Boulder's 5b–6a winters and at elevations well above the Front Range; no special protection needed.",
-    "sun": "Full sun is ideal for the best fruit crop and most compact growth. It tolerates part shade readily, but fruit production drops in shadier spots. Give it at least 6 hours of direct sun.",
-    "soil": "Adaptable to most soil types — clay, loam, or sandy — as long as drainage is reasonable. Tolerates a wide pH range (roughly 5.0–8.0), so Boulder's alkaline clay-loam soils are no obstacle. On lean sites it still grows and fruits; organic-matter amendment mainly speeds establishment on heavy clay.",
-    "water": "Moderate water for the first year or two — deep watering roughly once a week during dry spells helps roots knit in. Once established, it is genuinely drought-tolerant and can get by on natural precipitation; an occasional deep soak during extended summer heat keeps fruit quality up. Avoid chronic wet feet.",
-    "spacing": "Allow 10–15 ft between trees for a single-specimen form. If planting a hedgerow or wildlife thicket, you can space 5–8 ft apart and let the suckers fill in. Mature specimens typically reach 20–30 ft tall and 15–25 ft wide on the Front Range.",
-    "bloom": "Fragrant white flower racemes open in April–May on the Front Range, among the first showy tree blossoms of spring. Fruit ripens to dark red-black in late summer — typically August into September — then fall foliage turns gold to orange-red.",
-    "feeding": "Minimal. Chokecherry thrives in lean soils and rarely needs fertilizer. Apply a light balanced feed (e.g., 10-10-10) only in early spring if growth is sluggish or leaves are pale yellow. Avoid high-nitrogen inputs, which push lush growth at the expense of fruit and increase disease.",
-    "maintenance": "Prune in late winter or early spring before bud break. Remove dead, damaged, or crossing branches and open the canopy for light and airflow — this reduces disease pressure and improves fruiting. For a single-trunk tree form, cut suckers and basal shoots at ground level throughout the growing season; for a multi-stem or hedgerow form, leave selected suckers to fill space. You can also remove about one-third of old wood annually to keep vigorous young canes coming.",
-    "selfsow": "A prolific thicket-former: rhizomes extend well beyond the canopy (up to 35 ft) and throw suckers persistently, especially if roots are disturbed. In a lawn or formal bed, clip suckers as they emerge. In a naturalistic or wildlife planting, let them run — the resulting thicket is excellent habitat and erosion control.",
-    "troubles": "Tent caterpillars are the most common nuisance on the Front Range — look for silk tents in branch crotches in spring and remove them before larvae scatter. Black knot fungus (dark warty galls on branches) appears occasionally; prune it out 4–6 in below the gall and discard (not compost). Aphids, bacterial leaf spot, and canker can occur; good air circulation and avoiding overhead irrigation help. The cyanide compounds in leaves, bark, and seeds are toxic to livestock and pets — the ripe fruit flesh is edible for people, but never consume the seeds.",
-    "harvest": "Pick fruit when it turns deep red-black, typically August–September. The berries are very astringent fresh but make excellent jelly, syrup, and wine once cooked and sweetened — traditional Indigenous use. Pit or strain out the seeds (which contain cyanide compounds) during processing. Fruit not picked promptly is eagerly taken by birds and mammals.",
-    "companions": "Other native riparian and woodland-edge plants: mountain alder, Wood's rose, red-twig dogwood, golden currant (*Ribes aureum*), native serviceberry (*Amelanchier*), rabbitbrush. Also combines well with native grasses (little bluestem, blue grama) in a low-maintenance meadow edge.",
-    "planting": "Plant in spring (April–May) or early fall (September) — both windows give roots time to knit in before summer heat or hard frost. Dig the hole twice as wide as the container and the same depth; water thoroughly after planting to settle soil around the roots. Container-grown stock establishes reliably; bare-root trees transplant well in early spring while still dormant. In a pot, chokecherry grows fine through the season but its root system needs real ground eventually — a container left above ground over a Front Range winter will see roots freeze hard at zone 3, which is fine, but the pot must be sizeable (≥15 gal) and sheltered from desiccating wind, or sunk/heeled in; plan to plant it out the following spring.",
-    "propagation": "Seed is the most practical route for large plantings: collect ripe dark fruit in August–September, extract seeds, and cold-moist stratify at 34–40°F for 120–160 days before spring sowing — or sow fresh seed outdoors in fall and let winter do the stratifying. Vegetatively, chokecherry is easiest from its own rhizomes and suckers: sever rooted suckers from the parent with a sharp spade in early spring and replant immediately. Softwood or semi-hardwood stem cuttings taken in early summer, treated with rooting hormone and kept in a humid frame, also succeed. For a single-specimen tree, nursery stock is the fastest path."
+    "hardiness": "USDA zones 2–7 — one of the hardiest woody natives in the West. Completely reliable through Boulder's 5b–6a winters and at elevations well above the Front Range; no special protection needed.[1]",
+    "sun": "Full sun is ideal for the best fruit crop and most compact growth. It tolerates part shade readily, but fruit production drops in shadier spots. Give it at least 6 hours of direct sun.[2]",
+    "soil": "Adaptable to most soil types — clay, loam, or sandy — as long as drainage is reasonable. Tolerates a wide pH range (roughly 5.0–8.0), so Boulder's alkaline clay-loam soils are no obstacle. On lean sites it still grows and fruits; organic-matter amendment mainly speeds establishment on heavy clay.[1][2]",
+    "water": "Moderate water for the first year or two — deep watering roughly once a week during dry spells helps roots knit in. Once established, it is genuinely drought-tolerant and can get by on natural precipitation; an occasional deep soak during extended summer heat keeps fruit quality up. Avoid chronic wet feet.[2]",
+    "spacing": "Allow 10–15 ft between trees for a single-specimen form. If planting a hedgerow or wildlife thicket, you can space 5–8 ft apart and let the suckers fill in. Mature specimens typically reach 20–30 ft tall and 15–25 ft wide on the Front Range.[1][2]",
+    "bloom": "Fragrant white flower racemes open in April–May on the Front Range, among the first showy tree blossoms of spring. Fruit ripens to dark red-black in late summer — typically August into September — then fall foliage turns gold to orange-red.[1][2]",
+    "feeding": "Minimal. Chokecherry thrives in lean soils and rarely needs fertilizer. Apply a light balanced feed (e.g., 10-10-10) only in early spring if growth is sluggish or leaves are pale yellow. Avoid high-nitrogen inputs, which push lush growth at the expense of fruit and increase disease.[2]",
+    "maintenance": "Prune in late winter or early spring before bud break. Remove dead, damaged, or crossing branches and open the canopy for light and airflow — this reduces disease pressure and improves fruiting. For a single-trunk tree form, cut suckers and basal shoots at ground level throughout the growing season; for a multi-stem or hedgerow form, leave selected suckers to fill space. You can also remove about one-third of old wood annually to keep vigorous young canes coming.[2]",
+    "selfsow": "A prolific thicket-former: rhizomes extend well beyond the canopy (up to 35 ft) and throw suckers persistently, especially if roots are disturbed. In a lawn or formal bed, clip suckers as they emerge. In a naturalistic or wildlife planting, let them run — the resulting thicket is excellent habitat and erosion control.[1][3]",
+    "troubles": "Tent caterpillars are the most common nuisance on the Front Range — look for silk tents in branch crotches in spring and remove them before larvae scatter. Black knot fungus (dark warty galls on branches) appears occasionally; prune it out 4–6 in below the gall and discard (not compost). Aphids, bacterial leaf spot, and canker can occur; good air circulation and avoiding overhead irrigation help. The cyanide compounds in leaves, bark, and seeds are toxic to livestock and pets — the ripe fruit flesh is edible for people, but never consume the seeds.[2][3]",
+    "harvest": "Pick fruit when it turns deep red-black, typically August–September. The berries are very astringent fresh but make excellent jelly, syrup, and wine once cooked and sweetened — traditional Indigenous use. Pit or strain out the seeds (which contain cyanide compounds) during processing. Fruit not picked promptly is eagerly taken by birds and mammals.[1][2]",
+    "companions": "Other native riparian and woodland-edge plants: mountain alder, Wood's rose, red-twig dogwood, golden currant (*Ribes aureum*), native serviceberry (*Amelanchier*), rabbitbrush. Also combines well with native grasses (little bluestem, blue grama) in a low-maintenance meadow edge.[2]",
+    "planting": "Plant in spring (April–May) or early fall (September) — both windows give roots time to knit in before summer heat or hard frost. Dig the hole twice as wide as the container and the same depth; water thoroughly after planting to settle soil around the roots. Container-grown stock establishes reliably; bare-root trees transplant well in early spring while still dormant. In a pot, chokecherry grows fine through the season but its root system needs real ground eventually — a container left above ground over a Front Range winter will see roots freeze hard at zone 3, which is fine, but the pot must be sizeable (≥15 gal) and sheltered from desiccating wind, or sunk/heeled in; plan to plant it out the following spring.[1][2]",
+    "propagation": "Seed is the most practical route for large plantings: collect ripe dark fruit in August–September, extract seeds, and cold-moist stratify at 34–40°F for 120–160 days before spring sowing — or sow fresh seed outdoors in fall and let winter do the stratifying. Vegetatively, chokecherry is easiest from its own rhizomes and suckers: sever rooted suckers from the parent with a sharp spade in early spring and replant immediately. Softwood or semi-hardwood stem cuttings taken in early summer, treated with rooting hormone and kept in a humid frame, also succeed. For a single-specimen tree, nursery stock is the fastest path.[1][3]"
   },
-  "care_src": [
+  "fact_src": {
+    "size": [1, 2],
+    "sun": [1, 2],
+    "water": [2],
+    "spread": [1, 3],
+    "seasons": [1, 2],
+    "wildlife": [1, 3],
+    "deer": [3],
+    "toxic": [1, 3]
+  },
+  "edible": {
+    "level": "caution",
+    "summary": "The ripe fruit flesh is edible — almost always cooked into jelly, syrup, juice, or wine — but the leaves, twigs, bark, and the seed pit inside each cherry are poisonous and must not be eaten.[1]",
+    "parts": "Only the ripe fruit flesh (mesocarp) is edible. Chokecherries are a longstanding food across the Front Range and Great Plains — used for preserves, jelly, syrup, juice, and wine, and historically pounded whole and dried into pemmican by Native peoples. The leaves, twigs, bark, and especially the stone (seed pit) inside each cherry are not food.[1]",
+    "preparation": "Eat the fruit fully ripe and cook it: remove the pits (do not crush or chew the stones) and simmer the flesh — cooking and drying drive off most of the cyanogenic compounds, and the trace that leaches into jelly or wine is too low to harm people. The flesh is mouth-puckeringly astringent (\"choke\"-cherry) raw, so it is essentially always cooked and sweetened.[1]",
+    "caution": "The leaves, bark, twigs, and seed stone contain cyanogenic glycosides (chiefly prunasin) that release hydrogen cyanide when the tissue is chewed, crushed, frost-damaged, or wilted. The fruit flesh itself is not toxic, but the pit it surrounds is — so do not crush or chew the pits, leaves, or twigs, and keep children from doing so. Wilted or frost-damaged foliage is markedly more dangerous and is a well-documented livestock-poisoning hazard to cattle and sheep; never feed wilted prunings to animals.[1][3]"
+  },
+  "references": [
+    {
+      "name": "USDA NRCS Plant Fact Sheet — Chokecherry (Prunus virginiana)",
+      "url": "https://plants.sc.egov.usda.gov/DocumentLibrary/factsheet/pdf/fs_prvi.pdf"
+    },
     {
       "name": "USU Extension — Chokecherry in the Garden",
       "url": "https://extension.usu.edu/yardandgarden/research/chokecherry-in-the-garden"
+    },
+    {
+      "name": "USDA Forest Service FEIS — Prunus virginiana (species review)",
+      "url": "https://www.fs.usda.gov/database/feis/plants/tree/pruvir/all.html"
     }
   ],
   "shots": [

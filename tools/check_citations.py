@@ -50,7 +50,7 @@ def name_tokens(d):
 def audit(path):
     d = json.load(open(path)); slug = os.path.dirname(path).replace(REPO + "/plants/", "").replace("plants/", "")
     toks = name_tokens(d); rows = []
-    for s in d.get("care_src", []):
+    for s in d.get("references", d.get("care_src", [])):
         code, body = fetch(s["url"])
         if code not in (200, 202):
             rows.append(("DEAD", code, s["url"]))

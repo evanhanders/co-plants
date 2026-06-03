@@ -1,0 +1,63 @@
+{
+  "common": "Hardy cranesbill",
+  "botanical": "Geranium 'Rozanne'",
+  "type": "Perennial",
+  "native": "Non-native",
+  "blurb": "The famous long-blooming hardy cranesbill — large violet-blue saucer flowers with white eyes appear from early summer and keep going right up to frost with almost no deadheading needed.",
+  "size": "18–20 in × 24–30 in",
+  "sun": "Full sun to part shade",
+  "water": "Moderate; tolerates brief dry spells once established",
+  "spread": "Mounding and sprawling; sterile (no self-sowing); non-invasive",
+  "seasons": "Violet-blue flowers with white eyes Jun–Oct; attractive lobed foliage; often shows fall color (red-orange) before dying back; no winter interest",
+  "wildlife": "Good pollinator plant — bees and small native bees visit the open saucer flowers throughout its very long season",
+  "deer": "Moderately deer-resistant; aromatic foliage is generally avoided",
+  "toxic": "",
+  "winter": false,
+  "verified": "2026-06-03",
+  "care": {
+    "hardiness": "USDA zones 5–8; reliably hardy on the Front Range (5b–6a). 'Rozanne' is a sterile triploid hybrid (Geranium himalayense × G. wallichianum 'Buxton's Variety') and one of the most cold-tolerant of the large-flowered geraniums. Plants die back fully in winter and resprout from the crown. No winter protection needed in Boulder.",
+    "planting": "Plant in-ground in spring (late April–May) or early fall (September). Spring planting lets the plant establish before the summer bloom surge begins. Fall planting is fine if done 6 weeks before hard freeze. In containers, plant in spring in a 12–14 in or larger pot — 'Rozanne' makes a large, trailing plant that fills and overflows a container beautifully. Pot roots are less cold-hardy and the plant dries out more quickly in Front Range heat and wind; water more frequently (check every day or two in July–August) and overwinter pots in an unheated garage or sink them into the ground to protect the crown.",
+    "sun": "Full sun to part shade — one of 'Rozanne's' strengths is its shade tolerance. In full sun (6+ hours) bloom is most prolific; in part shade (3–4 hours) the plant is slightly more open but still flowers well and the foliage stays fresher in summer heat. In Boulder's intense high-altitude sun, afternoon shade (east-facing exposure or dappled shade) can be beneficial and keeps the plant from drying too quickly.",
+    "soil": "Moderately fertile, well-drained soil. Tolerates Front Range clay-loam if drainage is reasonable; amend very heavy clay with compost. Not fussy about pH within the normal Front Range range (6.5–7.5). Avoid waterlogged soil, which can cause crown rot. Overly rich soil produces more foliage and slightly less flower.",
+    "water": "Moderate — water deeply once or twice a week while establishing (first season), then reduce to deep watering every 1–2 weeks once roots are established. 'Rozanne' tolerates brief dry spells but prefers consistent moisture for continuous bloom. Water at the base to keep foliage dry and reduce mildew risk.",
+    "spacing": "Space 24–30 in apart — plants spread generously and look best with room to mound and sprawl. Closer spacing (18 in) fills faster but increases the need for midsummer shearing for airflow.",
+    "propagation": "'Rozanne' is a sterile triploid hybrid and does NOT set seed, so propagation is vegetative only. Division is the standard method: lift and divide crowns in spring (March–April) as new growth emerges, replanting vigorous sections with 3–5 healthy shoots. Plants benefit from division every 3–4 years to stay vigorous. Stem cuttings taken in early summer (May–June) can root in moist perlite under humidity, though division is easier. Because 'Rozanne' is a patented cultivar (Plant Breeders' Rights), propagation for sale is not permitted — division for personal garden use is fine.",
+    "bloom": "Early June through the first hard frost (October) on the Front Range — typically 5 months of near-continuous bloom, which is exceptional for a hardy perennial. Because the plant is sterile it cannot set seed and redirects energy continuously into flowering. Deadheading is not required for rebloom, though light grooming of spent stems keeps it tidy.",
+    "feeding": "Light feeder — a single application of balanced slow-release fertilizer (10-10-10) in early spring, or a side-dress of compost, is sufficient. Avoid high-nitrogen fertilizers, which push vegetative growth at the expense of flower. In average Front Range soil, supplemental feeding may not be necessary.",
+    "maintenance": "The key maintenance task is a midsummer shearing (mid-July to early August): when the plant begins to sprawl open or look tired after its first big flush, cut it back by one-half to two-thirds. It regrows quickly and resumes blooming within 3–4 weeks, often more vigorously. Without this shearing, plants sprawl and flop into neighbors. Cut back dead stems to the crown in late fall or early spring. Divide every 3–4 years to maintain vigor.",
+    "troubles": "Generally trouble-free. Powdery mildew can appear in late summer in humid or crowded conditions; improve airflow and avoid overhead watering. Vine weevil larvae occasionally damage roots in heavy, wet soil. Crown rot in persistently wet ground. The main management issue is summer sprawl — the midsummer shear (see maintenance) is the fix. Because 'Rozanne' is sterile, there are no self-sowing issues.",
+    "companions": "Outstanding paired with roses, salvias, Russian sage, catmint, and ornamental grasses — its sprawling habit and continuous blue-violet flowers weave them together. Also excellent as ground cover under open shrubs or along path edges where it can spill."
+  },
+  "care_src": [
+    {
+      "name": "RHS — Geranium 'Rozanne'",
+      "url": "https://www.rhs.org.uk/plants/94014/geranium-rozanne-pbr-(gerwat)/details"
+    },
+    {
+      "name": "Missouri Botanical Garden — Plant Finder: Geranium 'Rozanne'",
+      "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=a822"
+    }
+  ],
+  "shots": [
+    {
+      "local": "images/su-close-t.jpg",
+      "full": "images/su-close.jpg",
+      "commons": "Geranium Rozanne 10zz.jpg",
+      "s": "summer",
+      "cap": "Violet-blue saucers with a white eye · © Photo by David J. Stang (CC BY-SA 4.0) / Wikimedia Commons",
+      "by": "Photo by David J. Stang",
+      "lic": "CC BY-SA 4.0",
+      "link": "https://commons.wikimedia.org/wiki/File:Geranium_Rozanne_10zz.jpg"
+    },
+    {
+      "local": "images/su-structure-t.jpg",
+      "full": "images/su-structure.jpg",
+      "commons": "Bloeiwijze van Geranium 'Rozanne'. Familie Geraniaceae. Locatie, Tuinreservaat Jonkervallei.jpg",
+      "s": "summer",
+      "cap": "A long-blooming mound from early summer to frost · © Dominicus Johannes Bergsma (CC BY-SA 4.0) / Wikimedia Commons",
+      "by": "Dominicus Johannes Bergsma",
+      "lic": "CC BY-SA 4.0",
+      "link": "https://commons.wikimedia.org/wiki/File:Bloeiwijze_van_Geranium_%27Rozanne%27._Familie_Geraniaceae._Locatie,_Tuinreservaat_Jonkervallei.jpg"
+    }
+  ]
+}

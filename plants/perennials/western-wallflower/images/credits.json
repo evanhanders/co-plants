@@ -1,0 +1,36 @@
+[
+  {
+    "file": "images/sp-close.jpg",
+    "photo_id": 199523944,
+    "by": "Sequoia Janirella Wrens",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/118111055",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  },
+  {
+    "file": "images/sp-structure.jpg",
+    "photo_id": 136403621,
+    "by": "curt_nimz",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/83073258",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1161,
+      1400
+    ],
+    "thumb_px": [
+      332,
+      400
+    ]
+  }
+]

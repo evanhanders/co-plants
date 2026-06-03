@@ -1,0 +1,42 @@
+[
+  {
+    "file": "images/su-close.jpg",
+    "commons_file": "Veronica spicata Icicle 2zz.jpg",
+    "by": "Photo by David J. Stang",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Veronica_spicata_Icicle_2zz.jpg",
+    "dataset": "Wikimedia Commons",
+    "orig_px": [
+      2336,
+      3504
+    ],
+    "full_px": [
+      1000,
+      1500
+    ],
+    "thumb_px": [
+      267,
+      400
+    ]
+  },
+  {
+    "file": "images/su-structure.jpg",
+    "commons_file": "Veronica spicata White Jolanda 2zz.jpg",
+    "by": "Photo by David J. Stang",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Veronica_spicata_White_Jolanda_2zz.jpg",
+    "dataset": "Wikimedia Commons",
+    "orig_px": [
+      1000,
+      1500
+    ],
+    "full_px": [
+      1000,
+      1500
+    ],
+    "thumb_px": [
+      267,
+      400
+    ]
+  }
+]

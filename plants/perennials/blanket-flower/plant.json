@@ -1,0 +1,67 @@
+{
+  "common": "Blanket flower",
+  "botanical": "Gaillardia aristata",
+  "type": "Perennial",
+  "native": "CO native",
+  "blurb": "Bold red-and-gold daisies that blaze from early summer through frost — a Front Range native that asks for nothing but sun and sharp drainage and repays you in months of non-stop pollinator traffic.",
+  "size": "1–3 ft × 1–2 ft",
+  "sun": "Full sun",
+  "water": "Low; drought-tolerant once established",
+  "spread": "Clumping; self-sows lightly and may spread by short rhizomes — not aggressive",
+  "seasons": "Vivid red-and-yellow or orange-and-yellow flowers Jun–Sep (often into Oct); fluffy, globe-shaped seedheads persist into winter",
+  "wildlife": "Special value to native bees; also attracts butterflies and hummingbirds; goldfinches eat the seeds",
+  "deer": "Deer-resistant (hairy, mildly aromatic foliage)",
+  "toxic": "Hairy foliage may cause contact dermatitis in sensitive individuals; not systemically toxic",
+  "winter": false,
+  "verified": "2026-06-03",
+  "care": {
+    "hardiness": "USDA zones 3a–8b — well within Boulder's 5b–6a range and one of the most cold-hardy Front Range perennials available. It handles late-spring freezes with ease and reliably re-sprouts from the crown.",
+    "planting": "Plant bare-root or container plants in spring (late April–May) or early fall (September) in Boulder. Spring is preferred: plants establish quickly in warming soil and bloom their first summer. Avoid midsummer planting in open, hot sites — the combination of transplant stress and intense Front Range sun is hard on new plants. In containers, use a gritty, free-draining mix (no heavy peat); pots dry out much faster than in-ground beds in Colorado's arid climate, so check moisture daily in summer. Container plants can overwinter outdoors if the pot is large (≥5 gal), insulated, or set in a sheltered spot — the crown is cold-hardy but the roots in a small pot are far more exposed than in the ground.",
+    "sun": "Full sun is non-negotiable — 6 or more hours of direct sun daily. Blanket flower planted in part shade blooms poorly, flops, and rots more readily. The intense high-altitude sun of the Front Range suits it perfectly.",
+    "soil": "Well-drained to very dry soil is essential; root rot is the primary killer when drainage is poor. Sandy loam, rocky soil, or even gravel works well. It tolerates lean, infertile soil — do not amend heavily. In Boulder's native alkaline clay, break it up with coarse grit or plant on a slight slope or berm rather than in a low spot that holds moisture. Soil pH slightly acidic to neutral (below 8.0) is best; very high pH can cause chlorosis but plants usually adapt.",
+    "water": "Low once established — deep but infrequent watering every 1–2 weeks in summer heat is plenty. Overwatering or consistently moist soil is the fastest way to kill it. During establishment (first season), water every few days until roots settle, then taper off. In Boulder's semi-arid climate (~15–18 in/yr), established plants often get by on rainfall alone in normal years.",
+    "spacing": "Space plants 12–18 in. apart; each forms a clump 1–2 ft wide at maturity. For a meadow planting, 18 in. centers give airflow and room to spread. Seed-sown drifts can be thinned to 12–18 in. once seedlings are a few inches tall.",
+    "sow": "Direct-sow outdoors in fall (October–November) or spring (after last frost, mid-May in Boulder). Fall sowing lets winter cold-stratify seed naturally for the best spring germination. Press seed into firm, weed-free soil and keep the seedbed moist until emergence. Can also be started indoors 6–8 weeks before last frost in a sunny south window.",
+    "stratify": "Seed does not require cold stratification to germinate, but germination is notoriously variable and erratic — expect uneven flushes over several weeks. Sowing fresh seed in fall and letting winter do its work produces the most reliable stand; stored seed can be sown without treatment in spring.",
+    "depth": "Sow at 1/8 in. depth (barely cover) — seeds need light and warmth to germinate. Tamp the surface firmly after sowing. Germination typically takes 10–20 days in warm soil (65–70°F).",
+    "bloom": "June through September on the Front Range, with the peak display in July–August. Deadheading spent flowers extends bloom by preventing seed set. Leave the last flush of seedheads standing through fall and winter for goldfinch food and modest winter structure.",
+    "feeding": "None needed, and rich fertilizer is counterproductive — it promotes lush, floppy growth at the expense of flowers and weakens the drought-hardened character of the plant. A top-dressing of coarse grit or fine gravel mulch (rather than wood-chip mulch) improves drainage and keeps the crown dry.",
+    "maintenance": "Deadhead regularly through the season to keep plants blooming vigorously. Cut back to basal foliage in early spring once new growth emerges — avoid cutting back in fall in Boulder, as the old stems provide some crown protection through the freeze-thaw cycles. Divide every 2–3 years in early spring to rejuvenate plants and prevent the center from dying out; it is naturally short-lived and division is the best way to keep a colony going.",
+    "selfsow": "Self-sows modestly — seed-grown offspring may not be identical to named cultivars. Leave a few seedheads at season end and expect a scattering of volunteers the following spring; thin to desired spacing.",
+    "propagation": "By seed: direct-sow in fall or spring (see above); germination is variable but plants often bloom in their first year from an early sowing. By division: divide the taproot vertically in early spring, making sure each division has roots and at least one shoot bud — this is the best method for maintaining named cultivars. Root cuttings taken in early spring (2–3 in. sections of the fleshy root) also root readily when inserted into gritty mix.",
+    "troubles": "Root rot in clay or poorly drained soil is the most common problem in Boulder — improve drainage rather than watering less as a fix. Powdery mildew can appear in crowded, low-airflow situations; good spacing prevents it. Aster yellows (phytoplasma, spread by leafhoppers) causes distorted, yellowed flowers — remove and dispose of affected plants. Generally pest-free; short life span (2–4 years) is normal for the species and not a disease.",
+    "companions": "Little bluestem, blue flax (*Linum lewisii*), prairie zinnia, purple coneflower, Rocky Mountain bee plant, and other xeric native perennials and grasses that share full sun and lean-soil requirements."
+  },
+  "care_src": [
+    {
+      "name": "Lady Bird Johnson Wildflower Center — Gaillardia aristata",
+      "url": "https://www.wildflower.org/plants/result.php?id_plant=GAAR"
+    },
+    {
+      "name": "NC State Extension — Gaillardia aristata",
+      "url": "https://plants.ces.ncsu.edu/plants/gaillardia-aristata/"
+    }
+  ],
+  "shots": [
+    {
+      "local": "images/su-close-t.jpg",
+      "full": "images/su-close.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/290951422/large.jpg",
+      "s": "summer",
+      "cap": "Blanket flower — red-and-gold ray florets around a deep red disc · © no rights reserved (CC0) / iNaturalist",
+      "by": "no rights reserved",
+      "lic": "CC0",
+      "link": "https://www.inaturalist.org/observations/167923063"
+    },
+    {
+      "local": "images/su-structure-t.jpg",
+      "full": "images/su-structure.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/295377153/large.jpg",
+      "s": "summer",
+      "cap": "Blanket flower — clump of plants in bloom in dry meadow habitat · © Bob Walker (CC-BY) / iNaturalist",
+      "by": "Bob Walker",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/170315553"
+    }
+  ]
+}

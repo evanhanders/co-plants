@@ -1,0 +1,60 @@
+{
+  "common": "Evening primrose",
+  "botanical": "Oenothera macrocarpa",
+  "type": "Perennial",
+  "native": "Non-native",
+  "blurb": "A sprawling Great Plains xeric perennial (native to NE/KS/MO/TX, not CO) with enormous, silky lemon-yellow cups that open at dusk and glow into the next morning, followed by showy four-winged reddish seedpods — all on a nearly ground-hugging plant built for hot, dry, well-drained sites.",
+  "size": "8–12 in × 18–24 in",
+  "sun": "Full sun",
+  "water": "Low; drought-tolerant; dry preferred",
+  "spread": "Slowly spreading mound; clumping, non-invasive",
+  "seasons": "Narrow willow-like foliage spring through fall; large (3–4 in) lemon-yellow flowers May–Aug, opening in evening; decorative winged reddish seed capsules persist into fall; dies back fully in winter",
+  "wildlife": "Nectar source for hawk moths (sphingid pollinators) and hummingbirds; special value to native bees; seed capsules attract seed-eating birds",
+  "deer": "Moderately deer-resistant",
+  "toxic": "",
+  "winter": false,
+  "verified": "2026-06-03",
+  "care": {
+    "hardiness": "USDA zones 4–8; fully cold-hardy on the Front Range (zones 5b–6a). Dies to the ground each winter and reliably re-emerges in spring. The key to longevity here is sharp drainage — wet winter soil is more dangerous than cold.",
+    "planting": "Plant in-ground in spring (April–May, after last frost) or early fall (September). Good drainage is the single most critical factor — amend heavy clay generously with coarse grit or pea gravel, or site it on a slope, raised bed, or berm. Avoid low spots where water collects. In containers, use a gritty cactus or alpine mix; containers dry fast in Boulder's wind and sun, so check moisture regularly in summer heat. Overwintering in pots is tricky — roots are less cold-hardy than in-ground; sink the pot into the ground or store in an unheated but frost-free space, keeping the mix just barely dry.",
+    "sun": "Full sun — at least 6 hours of direct sun daily. Tolerates reflected heat from walls or rock. Shade reduces flowering significantly and encourages floppy, weak stems.",
+    "soil": "Rocky, gravelly, or sandy well-drained soil; tolerates calcareous (limestone-based) and alkaline substrates, making it a good match for Front Range alkaline clay-loam provided drainage is improved. Keep it lean — rich, amended soil promotes lush vegetative growth at the expense of flowers and shortens the plant's life.",
+    "water": "Very low once established — one of the most drought-tolerant native perennials of the Great Plains. Deep, infrequent watering every 2–3 weeks during summer heat is sufficient; far less in spring and fall. Never let water stand around the crown. The plant actually performs better with some summer drought stress than with regular irrigation.",
+    "spacing": "Allow 18–24 in between plants; the sprawling stems radiate outward from the crown. Beautiful cascading over a rock wall or trailing through a dry gravel garden — position toward the front or edge of a bed.",
+    "propagation": "By seed (no stratification needed): direct-sow in fall or early spring; press lightly into well-drained soil and do not cover deeply — germination is relatively quick and easy. Also propagates readily from stem cuttings taken in early summer (May–June): take 3–4 in softwood tips, insert in gritty medium, and keep barely moist until rooted. Division of established crowns is possible in early spring but the plant resents disturbance and recovers slowly.",
+    "bloom": "May through August on the Front Range — flowers open in the late afternoon or evening and remain open through the following morning (closing in midday heat), providing a long nightly display. Individual flowers last only one evening, but the plant blooms continuously over the whole season. The large, papery, four-petaled cups (3–4 in across) are among the showiest of any xeric perennial.",
+    "feeding": "None needed. Lean soil is essential to keep it compact and blooming freely. Fertilizer or rich amendments produce rank, floppy growth.",
+    "maintenance": "Low. Cut stems back to the ground in late fall after frost kills the top growth, or leave the decorative winged seedpods for winter interest and cut back in early spring before new growth emerges. Remove spent flowers if you want to reduce self-sowing (it self-sows modestly — not aggressively).",
+    "selfsow": "Self-sows modestly from the winged capsules; seedlings appear in spring and are easy to thin or relocate. The plant is not invasive and does not spread by roots.",
+    "troubles": "Root rot in wet or clay soil is the main problem in Front Range gardens — always the first thing to check if the plant fails to re-emerge in spring. Otherwise largely pest- and disease-free. Occasional leaf-miners; no serious insect pests.",
+    "companions": "Blue grama grass, little bluestem, desert penstemon, catmint, cushion spurge, creeping thyme, low sedums, and any other full-sun xeric perennials that tolerate or prefer dry, well-drained, alkaline soil."
+  },
+  "care_src": [
+    {
+      "name": "Lady Bird Johnson Wildflower Center — Oenothera macrocarpa",
+      "url": "https://www.wildflower.org/plants/result.php?id_plant=OEMA"
+    }
+  ],
+  "shots": [
+    {
+      "local": "images/su-close-t.jpg",
+      "full": "images/su-close.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/521423876/large.jpg",
+      "s": "summer",
+      "cap": "Large lemon-yellow papery cup with narrow willow-like foliage · © Eric Watts (CC-BY) / iNaturalist",
+      "by": "Eric Watts",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/289884497"
+    },
+    {
+      "local": "images/su-structure-t.jpg",
+      "full": "images/su-structure.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/203093781/large.jpg",
+      "s": "summer",
+      "cap": "Sprawling Missouri evening primrose habit with flower and lance leaves · © mtmarian (CC-BY-NC) / iNaturalist",
+      "by": "mtmarian",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/95305247"
+    }
+  ]
+}

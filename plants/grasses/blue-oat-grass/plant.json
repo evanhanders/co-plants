@@ -1,0 +1,67 @@
+{
+  "common": "Blue oat grass",
+  "botanical": "Helictotrichon sempervirens",
+  "type": "Ornamental grass",
+  "native": "Non-native",
+  "blurb": "A tidy steel-blue fountain of fine, arching foliage — semi-evergreen through Front Range winters — with tall airy oat-like seed sprays rising above the clump in early summer.",
+  "size": "2–3 ft × 2–3 ft (seed sprays to 4 ft)",
+  "sun": "Full sun",
+  "water": "Low; very xeric once established",
+  "spread": "Slowly expanding clump; non-invasive",
+  "seasons": "Semi-evergreen blue-gray foliage year-round; oat-like tan seed sprays Jun–Jul; foliage bleaches some in winter but holds form",
+  "wildlife": "Seed heads attract finches and sparrows in fall and winter; clump provides modest cover",
+  "deer": "Generally deer-resistant; coarse texture and sharp leaf edges are unappealing",
+  "toxic": "",
+  "winter": true,
+  "verified": "2026-06-03",
+  "care": {
+    "hardiness": "USDA zones 4–8, making it reliably cold-hardy throughout the Front Range (zones 5b–6a). The semi-evergreen foliage bleaches and browns some in a hard Boulder winter but holds its blue-gray form and recovers color quickly in spring — do not cut it to the ground.",
+    "planting": "Plant in spring (late April through May, after soils have dried out some) or early fall (August–September, giving roots 6–8 weeks before frost). Blue oat grass is a cool-season grass that roots best in mild temperatures; midsummer planting in Boulder heat stresses new plants badly. In the ground, space plants generously and amend heavy clay only with grit or coarse sand to sharpen drainage — organic matter holds moisture this grass dislikes. In containers, use a lean, fast-draining mix (add perlite or coarse grit at 25–30%); containers dry rapidly in Front Range sun and wind, which suits this xeric species, but pot roots are far less cold-hardy than in-ground roots — bring pots to a protected, unheated spot (garage, shed) for winter or sink the pot in the ground. Repot or divide container plants every 2–3 years when the center starts to die out.",
+    "sun": "Full sun is essential — 6+ hours of direct sun. Even brief afternoon shade keeps the foliage looking blue; strong sun, especially at Boulder's altitude, intensifies the steel-blue color. Avoid shade, which produces lax, green-gray foliage and weakens the clump.",
+    "soil": "Sharply drained, lean to moderately fertile soil is ideal; pH 6.0–8.0 (tolerates the alkaline clay-loam typical of Boulder yards if drainage is improved). This is a plant of rocky slopes and poor hillsides in its native Mediterranean range — rich, heavy, or consistently moist soil promotes crown rot and shortens the plant's life. Add coarse grit or decomposed granite when planting in dense clay.",
+    "water": "Very low once established — typically 12–15 in/yr (close to Boulder's natural precipitation) with little to no supplemental irrigation after the first season. Water new plantings every 7–10 days the first summer, then taper off. Established plants need a deep soak only in prolonged drought (3–4 weeks without rain). Overwatering is the most common cause of failure on the Front Range; err on the dry side.",
+    "spacing": "Allow 2–3 ft between plants; each forms a 2–3 ft wide clump at maturity. Closer spacing creates a tight groundcover effect; wider spacing lets individual form show. Single specimens work well as focal points at path edges, rock gardens, or mixed borders.",
+    "propagation": "Named cultivars (the common blue selections like 'Saphirsprudel' / 'Sapphire') do not come true from seed and must be propagated by division. Divide clumps in early spring (late March–April in Boulder) before new growth surges, or in early fall (August). Dig the entire clump, split into sections of 4–6 inches each with roots and healthy foliage, discard any dead woody center, and replant immediately. Division every 3–5 years also rejuvenates aging clumps that start dying out in the middle. Seed-grown plants vary considerably in foliage color and intensity.",
+    "bloom": "Oat-like seed heads emerge on tall stalks (to 4 ft) in June–July, starting green and drying to warm tan by midsummer. The flower display is delicate and airy, excellent cut fresh or dried. Deadhead or leave the sprays for winter interest and wildlife — they hold well through fall.",
+    "feeding": "Little to none. A light top-dressing of balanced granular fertilizer in early spring (half the label rate) is sufficient on very lean soils. Do not feed on already-rich or amended beds — excess nitrogen promotes lush, floppy growth and weakens the blue coloration. No fall feeding.",
+    "maintenance": "The key maintenance task is combing out dead and tatty foliage in early spring (late March in Boulder) before new growth begins — use gloved hands or a wide-toothed rake to pull out accumulated dead blades without cutting into live growth. Unlike many ornamental grasses, blue oat grass should NOT be cut hard to the ground: it is semi-evergreen and slow to regrow from a severe cut, which can kill or severely set back the plant. Remove spent seed stalks at the base after they dry if tidiness matters, or leave them for winter interest. Divide aging clumps every 3–5 years when the center dies out.",
+    "troubles": "Crown rot in wet or heavy soils is the main risk — good drainage prevents it. Rust fungus (orange pustules on leaves) occasionally appears in humid summers; improve air circulation and avoid overhead watering. Rabbit browsing of young plants is possible; protect new transplants with wire mesh if rabbits are active in the area. On the Front Range the plant is otherwise largely trouble-free.",
+    "companions": "Rock garden companions: blue grama, prairie dropseed, catmint, salvia, Russian sage, yarrow, and low ornamental alliums that share its sun-and-drought preference. Use it as a textural contrast against rust-colored sedums, dark-leafed shrubs, or warm-toned boulders. Works well at path edges or as a front-of-border accent in a xeric mixed planting."
+  },
+  "care_src": [
+    {
+      "name": "Missouri Botanical Garden — Plant Finder: Helictotrichon sempervirens",
+      "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=a929"
+    },
+    {
+      "name": "NC State Extension — Helictotrichon sempervirens",
+      "url": "https://plants.ces.ncsu.edu/plants/helictotrichon-sempervirens/"
+    },
+    {
+      "name": "CSU Extension — Ornamental Grasses (CMG GardenNotes #558)",
+      "url": "https://cmg.extension.colostate.edu/Gardennotes/558.pdf"
+    }
+  ],
+  "shots": [
+    {
+      "local": "images/su-close-t.jpg",
+      "full": "images/su-close.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/398174699/large.jpg",
+      "s": "summer",
+      "cap": "Steel-blue foliage detail · © Guillaume Labeyrie (CC-BY-NC) / iNaturalist",
+      "by": "Guillaume Labeyrie",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/224642516"
+    },
+    {
+      "local": "images/su-structure-t.jpg",
+      "full": "images/su-structure.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/609435743/large.jpg",
+      "s": "summer",
+      "cap": "Mounding clump habit · © Franck Le Driant (CC-BY-NC) / iNaturalist",
+      "by": "Franck Le Driant",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/335470055"
+    }
+  ]
+}

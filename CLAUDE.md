@@ -455,6 +455,11 @@ monograph, with CSU Extension cited for the Front-Range timing.
   bigleaf/Russell hybrid lupine (*Lupinus polyphyllus*) — not CO-native and invasive
   in some regions. All lupines carry toxic alkaloids.
 - All **euphorbias** have toxic/irritant milky sap (gloves; caution with kids/pets).
+- **Centaurea:** the noxious ones are the **knapweeds** — diffuse (*C. diffusa*), spotted
+  (*C. stoebe*), yellow starthistle (*C. solstitialis*), and the *moncktonii/virgata/psammogena*
+  group are all CO-listed. Garden **mountain bluet / perennial cornflower** (*C. montana*) is
+  **not** listed, but it self-sows and runs by rhizome — deadhead before seed set and divide to
+  contain. Don't confuse it with the knapweeds.
 - **Chamomile:** the garden chamomiles are fine — **German chamomile** (*Matricaria
   chamomilla*, the tea annual) and **Roman chamomile** (*Chamaemelum nobile*). But
   ***scentless chamomile*** (*Tripleurospermum perforatum*, syn. *Matricaria perforata*) is a
@@ -481,77 +486,101 @@ monograph, with CSU Extension cited for the Front-Range timing.
 
 ## Current plant roster (in the live site)
 
-**45 specimens**, all verified non-weed in CO. Grouped by type below (the order the
-site uses). The original **28 carry repo-hosted photo reels** (close-up + structure,
-seasonal where good shots exist); the **16 newest (marked ✎ below) carry full sourced
-care but still await repo-hosted photos** — they render the "photo coming soon"
-placeholder until the iNat/Commons pipeline runs for them. Existing reels were mostly
-sourced from the iNaturalist open dataset; the **3 vine cultivars** (garden clematis,
-climbing & rambling rose) and **wild bergamot's summer shots** were hand-sourced from
-Wikimedia Commons. Every shot keeps a remote `commons`/`url` fallback; card thumbnails
-are 720×480 smart-crops (`tools/rethumb.py`). **All 44 carry a full `care` block**
-(incl. `planting` + `propagation`). (N) = CO/regional native, (I) = introduced/vetted.
+**68 specimens**, all verified non-weed in CO and all carrying a full `care` block (incl.
+`planting` + `propagation`). Grouped by type below (the order the site uses). **All carry
+repo-hosted photo reels** (close-up + structure, seasonal where good shots exist) **except
+pineleaf penstemon**, which shows the "photo coming soon" placeholder — no CC photo of the
+yellow 'Mersea Yellow' cultivar exists on iNat or Commons (the wild species is red-orange),
+so it stays pending until one is supplied. Photos were sourced mostly from the iNaturalist
+open dataset via `tools/inat_montage.py`; cultivars with no clean iNat taxon (the vine
+roses/clematis, 'Dropmore Scarlet' & 'Rozanne', white 'Icicle' speedwell, 'Moonshine' yarrow)
+were hand-sourced from Wikimedia Commons (`commons_search.py` → `commons_finalize.py`). Every
+shot keeps a remote `commons`/`url` fallback; card thumbnails are 720×480 smart-crops
+(`tools/rethumb.py`). (N) = CO/regional native, (I) = introduced/vetted.
 
 **Trees**
-- Chokecherry (*Prunus virginiana*) (N) — reel: spring flowers / summer + fall fruit
-- Mountain alder, ssp. *tenuifolia* (*Alnus incana*) (N) — reel: catkins / leaves+cones / fall
+- Chokecherry (*Prunus virginiana*) (N) — spring flowers / summer + fall fruit
+- Mountain alder, ssp. *tenuifolia* (*Alnus incana*) (N) — catkins / leaves+cones / fall
 
 **Shrubs**
-- Red-twig dogwood (*Cornus sericea*) (N) — reel: summer cymes / fall berries / winter red stems
-- Wood's rose (*Rosa woodsii*) (N) — reel: summer flower / habit / fall hips / winter hip
-- Common lilac (*Syringa vulgaris*) (I) — reel: blooming-shrub habit / panicle / foliage
-- ✎ Twinberry honeysuckle (*Lonicera involucrata*) (N) — moist-site native shrub honeysuckle (photos pending)
-- ✎ Mock orange (*Philadelphus lewisii* 'Cheyenne') (N) — fragrant native, Plant Select (photos pending)
-- ✎ Smoke tree (*Cotinus coggygria*) (I) — purple foliage + smoky plumes (photos pending)
+- Red-twig dogwood (*Cornus sericea*) (N) — summer cymes / fall berries / winter red stems
+- Wood's rose (*Rosa woodsii*) (N) — summer flower / habit / fall hips / winter hip
+- Common lilac (*Syringa vulgaris*) (I) — blooming-shrub habit / panicle / foliage
+- Twinberry honeysuckle (*Lonicera involucrata*) (N) — moist-site native shrub honeysuckle
+- Mock orange (*Philadelphus lewisii* 'Cheyenne') (N) — fragrant native, Plant Select
+- Smoke tree (*Cotinus coggygria*) (I) — purple foliage + smoky plumes
+- Creeping Oregon grape (*Berberis repens*, syn. *Mahonia repens*) (N) — low evergreen native; yellow flowers, blue berries
 
 **Subshrubs**
-- Mojave sage (*Salvia pachyphylla*) (I) — reel: flower closeup / silvery mounded shrub
-- Russian sage (*Salvia yangii*, syn. *Perovskia atriplicifolia*) (I) — reel: airy habit / flowers / fall spikes
-- ✎ Lavender (*Lavandula angustifolia*) (I) — English lavender ('Munstead'/'Hidcote') (photos pending)
+- Mojave sage (*Salvia pachyphylla*) (I) — flower closeup / silvery mounded shrub
+- Russian sage (*Salvia yangii*, syn. *Perovskia atriplicifolia*) (I) — airy habit / flowers / fall spikes
+- Lavender (*Lavandula angustifolia*) (I) — English lavender ('Munstead'/'Hidcote')
+- ✎ Pineleaf penstemon (*Penstemon pinifolius* 'Mersea Yellow') (I) — yellow-flowered SW native; **photo pending** (no CC image of the yellow form)
 
 **Ornamental grasses**
-- Little bluestem (*Schizachyrium scoparium*) (N) — reel: summer clump / fall copper / winter seedheads
+- Little bluestem (*Schizachyrium scoparium*) (N) — summer clump / fall copper / winter seedheads
+- Blue oat grass (*Helictotrichon sempervirens*) (I) — steel-blue evergreen fountain / oat-like sprays
 
 **Perennials**
-- Cushion spurge (*Euphorbia polychroma*) (I) — reel: chartreuse bracts / plants in leaf
-- Horned spurge (*Euphorbia brachycera*) (N) — reel: cyathia / glaucous habit
-- Silvery lupine (*Lupinus argenteus*) (N) — reel: silvery foliage / flower spike / habit
-- Garden peony (*Paeonia lactiflora*) (I) — reel: white blooms / post-bloom foliage
-- Dahlia (*Dahlia × hortensis*) (I) — reel: double bloom / border habit; **tender, not winter-hardy**
-- Oriental poppy (*Papaver orientale*) (I) — reel: bloom / blooms+buds habit
-- Colorado blue columbine (*Aquilegia coerulea*) (N) — reel: face-on bloom / whole plant
-- Shasta daisy (*Leucanthemum × superbum*) (I) — reel: flower closeup / flowering clump
-- Aspen fleabane (*Erigeron speciosus*) (N) — reel: ray flower / clump in rock crevice
-- Salvia / meadow sage (*Salvia nemorosa*) (I) — reel: flower spike / mounded clump
-- Wild bergamot (*Monarda fistulosa*) (N) — reel: flowerhead / meadow stand / winter seedhead
-- Scarlet bee balm (*Monarda didyma*) (I) — reel: scarlet flowerhead / flowers+foliage
-- ✎ Blue flax (*Linum lewisii*) (N) — xeric native, sky-blue morning flowers (photos pending)
-- ✎ Cheddar pinks (*Dianthus gratianopolitanus*) (I) — clove-scented mat, evergreen (photos pending)
-- ✎ Garden phlox (*Phlox paniculata*) (I) — fragrant summer panicles; mildew-aware (photos pending)
-- ✎ Red valerian (*Centranthus ruber*) (I) — Jupiter's beard; lean-soil self-sower (photos pending)
-- ✎ Brunnera (*Brunnera macrophylla*) (I) — **shade + moisture**; forget-me-not blue (photos pending)
-- ✎ Scabiosa / pincushion flower (*Scabiosa columbaria*) (I) — very long bloom (photos pending)
-- ✎ Garden lupine (*Lupinus polyphyllus*, Russell) (I) — showy but **toxic alkaloids + invasive elsewhere**; included by owner choice, deadhead before seed set (photos pending)
+- Cushion spurge (*Euphorbia polychroma*) (I) — chartreuse bracts / plants in leaf
+- Horned spurge (*Euphorbia brachycera*) (N) — cyathia / glaucous habit
+- Silvery lupine (*Lupinus argenteus*) (N) — silvery foliage / flower spike / habit
+- Garden peony (*Paeonia lactiflora*) (I) — white blooms / post-bloom foliage
+- Dahlia (*Dahlia × hortensis*) (I) — double bloom / border habit; **tender, not winter-hardy**
+- Oriental poppy (*Papaver orientale*) (I) — bloom / blooms+buds habit
+- Colorado blue columbine (*Aquilegia coerulea*) (N) — face-on bloom / whole plant
+- Shasta daisy (*Leucanthemum × superbum*) (I) — flower closeup / flowering clump
+- Aspen fleabane (*Erigeron speciosus*) (N) — ray flower / clump in rock crevice
+- Salvia / meadow sage (*Salvia nemorosa*) (I) — flower spike / mounded clump
+- Wild bergamot (*Monarda fistulosa*) (N) — flowerhead / meadow stand / winter seedhead
+- Scarlet bee balm (*Monarda didyma*) (I) — scarlet flowerhead / flowers+foliage
+- Blue flax (*Linum lewisii*) (N) — xeric native, sky-blue morning flowers
+- Cheddar pinks (*Dianthus gratianopolitanus*) (I) — clove-scented mat, evergreen
+- Garden phlox (*Phlox paniculata*) (I) — fragrant summer panicles; mildew-aware
+- Red valerian (*Centranthus ruber*) (I) — Jupiter's beard; lean-soil self-sower
+- Brunnera (*Brunnera macrophylla*) (I) — **shade + moisture**; forget-me-not blue
+- Scabiosa / pincushion flower (*Scabiosa columbaria*) (I) — very long bloom
+- Garden lupine (*Lupinus polyphyllus*, Russell) (I) — showy but **toxic alkaloids + invasive elsewhere**; deadhead before seed set
+- Candytuft (*Iberis sempervirens*) (I) — evergreen white-flowered spring mound
+- Evening primrose (*Oenothera macrocarpa*) (I) — big lemon-yellow cups; sprawling xeric
+- Spike speedwell (*Veronica spicata*, white 'Icicle' lead) (I) — upright white flower spikes
+- Garden verbena (*Glandularia canadensis*) (I) — rose-purple trailing mat; butterfly magnet
+- Coreopsis (*Coreopsis grandiflora* 'Early Sunrise') (I) — golden daisies, long bloom
+- Blanket flower (*Gaillardia aristata*) (N) — red-and-gold native daisy
+- Knautia (*Knautia macedonica*) (I) — wine-red pincushions on wiry stems
+- Yellow yarrow (*Achillea* 'Moonshine') (I) — soft-gold flat heads over silver foliage
+- Hardy cranesbill (*Geranium* 'Rozanne') (I) — violet-blue saucers, summer to frost
+- Pasque flower (*Pulsatilla patens*) (N) — early-spring lavender cups + plumed seedheads; **toxic**
+- Japanese anemone (*Anemone × hybrida*) (I) — fall pink/white flowers; **part shade + moisture**
+- Grecian windflower (*Anemone blanda*) (I) — low spring-blooming blue tuber
+- Western wallflower (*Erysimum capitatum*) (N) — fragrant orange-yellow native; reseeds
+- Bloody cranesbill (*Geranium sanguineum*) (I) — magenta saucers + red fall foliage
+- White heath aster (*Symphyotrichum ericoides*) (N) — fall clouds of tiny white daisies
+- White prairie aster (*Symphyotrichum falcatum*) (N) — low xeric native fall aster
+- Panicled aster (*Symphyotrichum lanceolatum*) (N) — tall willow-leaved fall aster; colonizes
+- Mountain bluet (*Centaurea montana*) (I) — fringed blue cornflower; **self-sows — not the noxious knapweeds**
 
 **Annuals**
-- Snow-on-the-mountain (*Euphorbia marginata*) (N) — reel: white-margined bracts / whole plant / field stand
-- Cosmos (*Cosmos bipinnatus*) (I) — reel: ray-flower closeup / airy foliage habit
-- California poppy (*Eschscholzia californica*) (I) — reel: flowers+foliage / whole plant
-- Snapdragon (*Antirrhinum majus*) (I) — reel: bicolor spike / clump of spikes
-- Rocky Mountain bee plant (*Cleomella serrulata*, syn. *Cleome serrulata*) (N) — reel: flower closeup / prairie stand / whole plant + seed pods
-- ✎ Larkspur (*Consolida ajacis*) (I) — cool-season spires; **all parts toxic**; direct-sow (photos pending)
-- German chamomile (*Matricaria chamomilla*) (I) — apple-scented tea daisy; beneficial-insect draw; self-sows (NOT noxious scentless chamomile)
+- Snow-on-the-mountain (*Euphorbia marginata*) (N) — white-margined bracts / whole plant / field stand
+- Cosmos (*Cosmos bipinnatus*) (I) — ray-flower closeup / airy foliage habit
+- California poppy (*Eschscholzia californica*) (I) — flowers+foliage / whole plant
+- Snapdragon (*Antirrhinum majus*) (I) — bicolor spike / clump of spikes
+- Rocky Mountain bee plant (*Cleomella serrulata*, syn. *Cleome serrulata*) (N) — flower closeup / prairie stand / seed pods
+- Larkspur (*Consolida ajacis*) (I) — cool-season spires; **all parts toxic**; direct-sow
+- German chamomile (*Matricaria chamomilla*) (I) — apple-scented tea daisy; self-sows (NOT noxious scentless chamomile)
 
-**Groundcovers** *(new group)*
-- ✎ Snow-in-summer (*Cerastium tomentosum*) (I) — silver mat, white flowers; lean-soil to behave (photos pending)
-- ✎ Hardy ice plant (*Delosperma cooperi*) (I) — Plant Select succulent mat, magenta bloom (photos pending)
+**Groundcovers**
+- Snow-in-summer (*Cerastium tomentosum*) (I) — silver mat, white flowers; lean-soil to behave
+- Hardy ice plant (*Delosperma cooperi*) (I) — Plant Select succulent mat, magenta bloom
+- Kinnikinnick (*Arctostaphylos uva-ursi*) (N) — evergreen native mat; pink urns, red berries
+- Turkish creeping speedwell (*Veronica liwanensis*) (I) — Plant Select flat blue-flowered mat
 
 **Vines** *(cultivars — hand-sourced from Wikimedia Commons)*
-- Garden clematis (*Clematis × jackmanii*, large-flowered hybrids) (I) — reel: violet bloom closeup / sheets on a trellis
-- Climbing rose (*Rosa*, climbing cultivars) (I) — reel: blooms on a brick wall / wall-trained habit
-- Rambling rose (*Rosa*, rambling cultivars) (I) — reel: clustered blooms / rambler over a pergola arch (Paul's Himalayan Musk)
-- ✎ Trumpet honeysuckle (*Lonicera sempervirens*) (I) — non-invasive native vine, hummingbird red (photos pending)
-- ✎ 'Dropmore Scarlet' honeysuckle (*Lonicera × brownii*) (I) — hardy non-invasive climber (photos pending)
+- Garden clematis (*Clematis × jackmanii*, large-flowered hybrids) (I) — violet bloom closeup / sheets on a trellis
+- Climbing rose (*Rosa*, climbing cultivars) (I) — blooms on a brick wall / wall-trained habit
+- Rambling rose (*Rosa*, rambling cultivars) (I) — clustered blooms / rambler over a pergola arch (Paul's Himalayan Musk)
+- Trumpet honeysuckle (*Lonicera sempervirens*) (I) — non-invasive native vine, hummingbird red
+- 'Dropmore Scarlet' honeysuckle (*Lonicera × brownii*) (I) — hardy non-invasive climber
 
 **Dropped from the keep-list (do not re-add):** coyote willow (*Salix exigua*) and
 Turkish cliff sage (*Salvia recognita*). Mojave sage is preferred over Turkish cliff

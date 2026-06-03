@@ -1,0 +1,64 @@
+{
+  "common": "White heath aster",
+  "botanical": "Symphyotrichum ericoides",
+  "type": "Perennial",
+  "native": "CO native",
+  "blurb": "In late summer the wiry stems of this tough prairie native vanish under a blizzard of tiny white daisies — one of the finest late-season native-bee plants on the Front Range.",
+  "size": "18 in–3 ft × 1–2 ft",
+  "sun": "Full sun",
+  "water": "Low; drought-tolerant once established",
+  "spread": "Spreads slowly by rhizomes and self-sows; can form loose colonies over time",
+  "seasons": "Clouds of small white daisy flowers (yellow centers turning reddish) Aug–Oct; persistent feathery seedheads well into winter",
+  "wildlife": "Exceptional native-bee plant — specialist Andrena bees, butterflies, skippers, beneficial wasps; seedheads feed sparrows and finches",
+  "deer": "Generally deer-resistant; strong-stemmed and tough",
+  "toxic": "",
+  "winter": true,
+  "verified": "2026-06-03",
+  "care": {
+    "hardiness": "USDA zones 3a–9b — extremely cold-hardy and well within Boulder's 5b–6a range. Established clumps shrug off hard winters without protection.",
+    "planting": "Set out container-grown transplants in spring (Apr–May) or early fall (Sep) on the Front Range; fall planting gives roots a head start before winter dormancy. Plant in groups of three or more for the best colony effect. In containers, use a lean, gritty mix in a large pot — these plants want room to spread; container soil dries much faster than in-ground in Front Range heat and wind, so check moisture every day or two. Pot-grown plants are cold-hardy to zone 3 in the ground but their roots are far more vulnerable in a pot exposed to air; sink containers into the ground or move to an unheated garage in November.",
+    "sun": "Full sun (6+ hours) is essential — shading produces weak, floppy stems and sparse bloom. Even 4 hours is marginal; give it the sunniest open spot you have.",
+    "soil": "Thrives in the shallow, rocky, alkaline clay-loam typical of the Front Range — and that is actually ideal. Good drainage is the only real requirement; avoid wet, heavy, or constantly irrigated ground. Lean soil keeps stems compact. No amendment needed.",
+    "water": "Low once established — roughly 10–15 in. per year, which is close to Boulder's natural rainfall. During the first season water every 7–10 days to help roots anchor; from year two water only during prolonged dry spells (every 2–3 weeks). Overwatering makes it flop and spread too aggressively.",
+    "spacing": "Space plants 18–24 in. apart; each forms a clump 1–2 ft wide that slowly expands by rhizome. For a naturalistic drift, plant in clusters and let them fill in over 2–3 seasons.",
+    "propagation": "By seed: collect achenes in fall once the feathery tufts are dry, cold-stratify 4–6 weeks in a damp paper towel in the refrigerator, then sow in early spring on the soil surface (needs light to germinate). Germination is reliable but seedlings are slow the first year. By division: the easiest and fastest method — divide clumps every 2–3 years in early spring, replant outer sections 18 in. apart, compost the worn center. Division also controls spread.",
+    "bloom": "August through October on the Front Range, with peak in September — one of the latest-blooming natives. Each plant produces hundreds of 0.4–0.6 in. daisies on densely branched stems.",
+    "feeding": "None needed; lean, unamended soil produces the sturdiest plants. Fertilizing causes floppy growth and lessens the density of bloom.",
+    "maintenance": "Cut stems back hard to 4–6 in. in early spring (March–April) before new growth emerges. Divide clumps every 2–3 years to keep them vigorous and prevent excessive spread. No deadheading required — leave the seedheads for birds and winter texture. Stake only if grown in partial shade or rich soil.",
+    "selfsow": "Self-sows moderately; seedlings are easy to recognize and thin in spring. Combined with rhizome spread, established plants can slowly colonize a border — welcome in a prairie or meadow planting, easily edited in a formal bed.",
+    "troubles": "Very trouble-free. Powdery mildew can appear in humid, crowded conditions — give plants room and full sun to prevent it. No serious pests. Tall stems in shaded or over-watered sites may need staking.",
+    "companions": "Little bluestem, blue grama, prairie dropseed, purple prairie clover, blanketflower, goldenrod — any full-sun, lean-soil prairie companion that blooms earlier in the season, leaving the aster to close the season."
+  },
+  "care_src": [
+    {
+      "name": "Lady Bird Johnson Wildflower Center — Symphyotrichum ericoides",
+      "url": "https://www.wildflower.org/plants/result.php?id_plant=syer"
+    },
+    {
+      "name": "NC State Extension Gardener Plant Toolbox — Symphyotrichum ericoides",
+      "url": "https://plants.ces.ncsu.edu/plants/symphyotrichum-ericoides/"
+    }
+  ],
+  "shots": [
+    {
+      "local": "images/fa-close-t.jpg",
+      "full": "images/fa-close.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/25124946/large.jpeg",
+      "s": "fall",
+      "cap": "Fall — clusters of tiny white daisy flowers along branching stems · © no rights reserved (CC0) / iNaturalist",
+      "by": "no rights reserved",
+      "lic": "CC0",
+      "link": "https://www.inaturalist.org/observations/16662082"
+    },
+    {
+      "local": "images/fa-structure-t.jpg",
+      "full": "images/fa-structure.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/428733131/large.jpeg",
+      "s": "fall",
+      "cap": "Fall — mounding plant covered in many small white flowers · © FrontRangeWildflowers (CC-BY-NC) / iNaturalist",
+      "by": "FrontRangeWildflowers",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/240630896"
+    }
+  ]
+}

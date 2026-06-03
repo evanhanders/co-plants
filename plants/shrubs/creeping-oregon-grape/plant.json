@@ -1,0 +1,65 @@
+{
+  "common": "Creeping Oregon grape",
+  "botanical": "Berberis repens",
+  "type": "Shrub",
+  "native": "CO native",
+  "blurb": "A low, suckering native evergreen with holly-like leaves that flush bronze-purple in winter, cheerful yellow flowers in spring, and clusters of tart blue berries in fall — one of the most versatile and tough ground-covering shrubs for Front Range shade or sun.",
+  "size": "1–2 ft × 2–5 ft (spreads slowly by suckers)",
+  "sun": "Full sun to full shade",
+  "water": "Low to moderate; drought-tolerant once established",
+  "spread": "Spreads by underground rhizomes/suckers into a colony; slow but steady — contains easily at a bed edge",
+  "seasons": "Yellow flower clusters Apr–May; dusty blue-purple berries ripen Sep–Oct; leaves bronze-purple in winter cold, dark green in summer",
+  "wildlife": "Berries eaten by birds (robins, thrushes, waxwings) and small mammals; flowers attract early native bees; dense stems provide bird cover",
+  "deer": "Deer-resistant (spiny foliage and berberine compounds)",
+  "toxic": "Berries tart/edible (used for jelly); bark and roots contain berberine which is toxic in large quantities — caution with children",
+  "winter": true,
+  "verified": "2026-06-03",
+  "care": {
+    "hardiness": "USDA zones 4b–9b — fully cold-hardy through Boulder's 5b–6a winters and beyond. Native across Colorado's foothills, montane, and plains zones. The evergreen foliage may scorch in exposed, windy winter sites but re-greens reliably in spring. In very exposed locations, a north or east-facing aspect or light shade from buildings reduces winter desiccation.",
+    "planting": "Plant container-grown shrubs in spring (April–May) or early fall (September). Early fall planting works well: roots establish before freeze-up, and the plant comes out of dormancy vigorously the following spring. Dig the hole no deeper than the root ball and 2× as wide. In clay soils, avoid amending the backfill heavily — a sharp transition from amended soil to native clay can trap water; instead, break up the native soil with a fork. Water in thoroughly. In containers, use a well-draining potting mix and a large enough pot (≥5 gal) for the spreading habit; creeping Oregon grape is best as a permanent in-ground plant, but container specimens overwinter reliably if the pot is large or moved to a sheltered spot — roots in small containers are more cold-vulnerable than in-ground roots.",
+    "sun": "Remarkably adaptable — full sun to full shade. In full sun with good soil moisture it grows more densely and berries more heavily; in deep shade under conifers it spreads as a sparse but effective groundcover. At Boulder's high-altitude, intense sun, some afternoon shade extends the life of the foliage and reduces winter scorch. Avoid extreme south- or west-facing exposures with reflected heat and no irrigation.",
+    "soil": "Adaptable to a wide range of soils — sandy, loam, clay — as long as drainage is adequate. Prefers slightly acidic to neutral pH (6.0–7.5); leaves develop chlorosis (yellow with green veins) in strongly alkaline soils above pH 8, which is possible in Boulder's native clay. If chlorosis appears, apply sulfur to acidify the planting area or use chelated iron. Tolerates lean soil well; very fertile, constantly moist soil tends to encourage overly lush growth and root disease. A 2–3 in. wood-chip mulch conserves moisture and keeps the shallow roots cool.",
+    "water": "Low to moderate — once established, creeping Oregon grape is drought-tolerant and survives on Boulder's natural rainfall through most of the growing season. During establishment (first 1–2 growing seasons), water deeply every 5–7 days. Established plants benefit from a deep soak every 2–3 weeks in summer heat; skip if there has been significant rain. Do not keep soil consistently wet — good drainage is important.",
+    "spacing": "Space plants 2–3 ft apart for a groundcover that fills in within 3–5 years. Individual plants spread 2–5 ft wide via suckers; closer spacing (18–24 in.) fills gaps faster. Allow 3 ft from paths and bed edges so spread can be contained with annual edge-cutting rather than digging.",
+    "propagation": "By division: the easiest method — dig rooted suckers from the colony edge in early spring or early fall, ensure each piece has roots, and replant immediately. By stem cuttings: take semi-hardwood cuttings (4–6 in.) in summer, wound the base, dip in rooting hormone, and root in moist, gritty mix with bottom heat; success is moderate. By seed: remove the blue pulp from ripe berries (fall), clean the seeds, and sow outdoors in fall or cold-stratify for 60–90 days (moist, 34–38°F) before indoor spring sowing; germination is slow and variable. Division of suckers is by far the most practical method for the home gardener.",
+    "bloom": "April–May on the Front Range — bright yellow flowers in upright clusters (racemes), mildly fragrant, among the first native shrubs to bloom. An important early nectar source. Blue-purple, grape-like berries ripen in September–October; tart but edible, excellent for jelly and syrup.",
+    "feeding": "Minimal — a light top-dressing of compost in spring every other year is sufficient. Avoid high-nitrogen fertilizers that push soft, disease-prone growth. In chlorotic soils, use chelated iron or soil acidifier per label directions rather than a general fertilizer.",
+    "maintenance": "Low. Remove dead or winter-damaged canes in early spring. Cut back overly long stems or edge the colony annually to contain spread. No formal pruning shape is needed — the natural, informal mounding habit is the appeal. Remove suckers that escape the desired planting area by cutting at ground level or digging with a flat spade. In windy, exposed sites, a loose evergreen bough laid over the planting in November–December protects foliage from winter desiccation.",
+    "selfsow": "Spreads primarily by underground rhizomes producing suckers, not by seed. The spread is slow (inches per year) and easily managed with a spade. Does not self-sow aggressively by seed in the garden.",
+    "harvest": "Pick blue berries in September–October once fully ripe (deep blue-purple, slightly soft). They are tart raw but excellent cooked — rich in pectin and antioxidants. Use for jelly, syrup, or wine. Wear gloves when working around the spiny leaves.",
+    "troubles": "Few significant problems. Leaf scorch (brown or dry leaf tips) in winter from cold, dry wind — provide shelter or accept it as cosmetic and wait for spring re-greening. Iron chlorosis in strongly alkaline soil; acidify the root zone with sulfur. Rust (*Puccinia* spp.) can cause orange pustules on the underside of leaves, especially where wheat is grown nearby (creeping Oregon grape is an alternate host for wheat stem rust) — remove infected leaves and avoid planting near grain crops. Aphids, scale, and whitefly occasionally appear; treat with a strong water spray or insecticidal soap if populations are large.",
+    "companions": "Douglas fir, ponderosa pine, native oaks, red-twig dogwood, wood's rose, and shade-tolerant native perennials like columbine (*Aquilegia coerulea*) and wild ginger. Pairs well with kinnikinnick for a layered native groundcover planting in dry shade."
+  },
+  "care_src": [
+    {
+      "name": "NC State Extension — Berberis repens (Creeping Hollygrape)",
+      "url": "https://plants.ces.ncsu.edu/plants/mahonia-repens/"
+    },
+    {
+      "name": "Lady Bird Johnson Wildflower Center — Berberis repens",
+      "url": "https://www.wildflower.org/plants/result.php?id_plant=BERE"
+    }
+  ],
+  "shots": [
+    {
+      "local": "images/sp-close-t.jpg",
+      "full": "images/sp-close.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/189637136/large.jpg",
+      "s": "spring",
+      "cap": "Creeping Oregon grape — bright yellow flower clusters above spiny compound leaves · © ashleygottlieb (CC-BY-NC) / iNaturalist",
+      "by": "ashleygottlieb",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/112274611"
+    },
+    {
+      "local": "images/sp-structure-t.jpg",
+      "full": "images/sp-structure.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/295465757/large.jpg",
+      "s": "spring",
+      "cap": "Creeping Oregon grape — low-creeping mat of holly-like compound leaves along a rock face · © Stephen Hornbeck (CC-BY) / iNaturalist",
+      "by": "Stephen Hornbeck",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/170361021"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "common": "Bloody cranesbill",
+  "botanical": "Geranium sanguineum",
+  "type": "Perennial",
+  "native": "Non-native",
+  "blurb": "Tough, mounding hardy geranium with vivid magenta-to-crimson saucer flowers in early summer, deeply cut leaves that glow red in fall, and a carefree constitution that handles dry shade to full sun on the Front Range.",
+  "size": "10–18 in × 18–24 in",
+  "sun": "Full sun to part shade",
+  "water": "Low to moderate; drought-tolerant once established",
+  "spread": "Clumping; slowly expands; may self-sow lightly",
+  "seasons": "Magenta-crimson saucer flowers May–Jul; sporadic rebloom through summer; deeply cut leaves turn crimson-red in fall; dies to ground in winter",
+  "wildlife": "Bees and pollinators visit the open saucer flowers; deer and rabbit resistant",
+  "deer": "Resistant — generally left alone by deer and rabbits",
+  "toxic": "",
+  "winter": false,
+  "verified": "2026-06-03",
+  "care": {
+    "hardiness": "USDA zones 3–9; fully hardy across the Front Range (5b–6a) with no special winter protection needed. Dies to the ground after frost and re-emerges reliably each spring.",
+    "planting": "Plant in-ground in spring (late April–May, after last frost) or early fall (September). Spring planting is preferred on the Front Range: the long growing season before frost lets roots establish fully. Fall planting works well if done six or more weeks before freeze-up so roots can anchor before dormancy. In containers, plant spring through early summer; pots dry out faster than garden beds in Colorado's wind and sun, so check moisture every day or two in peak summer heat. Container-grown bloody cranesbill is less cold-hardy in its roots than in-ground plants — bring pots to an unheated garage or shed, or sink them to the rim in the ground, to survive a Front Range winter.",
+    "sun": "Tolerates a wide range — full sun (6+ hours) gives the most flowers and the tightest mound; light to moderate shade is fine and can help in the hottest, most exposed Boulder sites. Avoid deep shade, which reduces flowering significantly.",
+    "soil": "Adaptable to clay-loam, loam, or sandy soils, including the alkaline clay typical of Boulder yards. Needs reasonable drainage — standing water in winter is the one real killer. No soil amendment is usually necessary; it actually flowers better in lean to average soil than in rich, heavily amended ground.",
+    "water": "Low to moderate. Once established (usually by the end of the first growing season), it handles dry spells well and needs watering only every one to two weeks in summer heat, or less if there has been recent rain. Water deeply but infrequently. Young transplants need more consistent moisture the first season until roots reach depth.",
+    "spacing": "Set plants 18–24 in apart; mature clumps reach about 18–24 in wide. Give each plant room to fill its space — they look best when allowed to knit together gently rather than being crowded.",
+    "propagation": "Easiest by division in early spring or early fall: lift a clump, split it into pieces each with a few roots and shoots, and replant immediately. Division also refreshes tired plants every three to four years. Can also be propagated by stem cuttings taken in early summer (before flowering): take 3–4 in softwood cuttings, remove lower leaves, and root in moist perlite or gritty mix. Seed is viable but slow — fresh seed benefits from cold-moist stratification and germination can be erratic; division is far faster and gives true-to-type plants.",
+    "bloom": "Main flush May–July on the Front Range; magenta-to-crimson saucer flowers, about 1 in across, carried above the foliage. Deadheading or a light shear after the first flush can encourage a second, lighter wave of bloom through summer into early fall. Fall foliage color (red to crimson) extends the season of interest.",
+    "feeding": "Little or no feeding needed — in average to lean soil it performs best unfed. A light topdressing of compost in spring is fine; avoid high-nitrogen fertilizers, which promote lush foliage at the expense of flowers.",
+    "maintenance": "Very low. Deadhead spent blooms to tidy and extend flowering. Cut the whole plant back by half after the main bloom flush to encourage compact regrowth and rebloom. In fall, leave the foliage until it browns fully — the red autumn color is attractive — then cut to a few inches above ground after hard frost. Divide every three to four years if the center starts to go bare.",
+    "selfsow": "May self-sow lightly; seedlings are easy to spot and remove or transplant if unwanted. Not aggressively weedy.",
+    "troubles": "Generally trouble-free on the Front Range. In overly wet or poorly drained sites, fungal leaf spots or powdery mildew can appear — good airflow and avoiding overhead watering at night prevent most issues. Vine weevil larvae can damage roots in very heavy, wet soils; improve drainage rather than treating. Slugs may nibble in unusually wet seasons.",
+    "companions": "Salvia nemorosa (meadow sage), Veronica spicata (spike speedwell), ornamental grasses, cushion spurge, and other drought-tolerant perennials that share its lean-soil, low-water preference."
+  },
+  "care_src": [
+    {
+      "name": "NC State Extension — Geranium sanguineum plant profile",
+      "url": "https://plants.ces.ncsu.edu/plants/geranium-sanguineum/"
+    },
+    {
+      "name": "RHS — Geranium sanguineum cultivation notes",
+      "url": "https://www.rhs.org.uk/plants/7773/geranium-sanguineum/details"
+    }
+  ],
+  "shots": [
+    {
+      "local": "images/su-close-t.jpg",
+      "full": "images/su-close.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/613702723/large.jpg",
+      "s": "summer",
+      "cap": "Magenta saucer flower, deeply lobed petals · © Platon Kleanthidis (CC-BY-NC) / iNaturalist",
+      "by": "Platon Kleanthidis",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/337575879"
+    },
+    {
+      "local": "images/su-structure-t.jpg",
+      "full": "images/su-structure.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/622406009/large.jpg",
+      "s": "summer",
+      "cap": "Mounding clump of bloody cranesbill covered in magenta flowers · © Andrejus Gaidamavičius (CC-BY) / iNaturalist",
+      "by": "Andrejus Gaidamavičius",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/341895144"
+    }
+  ]
+}

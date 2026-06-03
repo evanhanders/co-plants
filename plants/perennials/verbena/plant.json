@@ -1,0 +1,64 @@
+{
+  "common": "Garden verbena",
+  "botanical": "Glandularia canadensis 'Homestead Purple'",
+  "type": "Perennial",
+  "native": "Non-native",
+  "blurb": "A heat-loving, drought-tolerant trailing mat that carpets itself with vivid purple flower clusters from late spring until hard frost, drawing butterflies all season and rooting wherever its stems touch soil.",
+  "size": "6–12 in × 18–36 in",
+  "sun": "Full sun",
+  "water": "Low to moderate; drought-tolerant once established",
+  "spread": "Trailing stems root where they touch; spreads steadily but non-invasively",
+  "seasons": "Deep purple flower clusters late May through hard frost; semi-evergreen rosette in mild winters; dies back fully in harsh Front Range winters",
+  "wildlife": "Butterfly magnet — especially skippers, swallowtails, and cabbage whites; also visited by bees and hummingbirds",
+  "deer": "Generally deer-resistant; the aromatic foliage is unattractive to browsers",
+  "toxic": "",
+  "winter": false,
+  "verified": "2026-06-03",
+  "care": {
+    "hardiness": "'Homestead Purple' is rated USDA zones 6–10, placing it right at the warm edge of Boulder's zone 5b–6a range. In practice it behaves as a short-lived perennial on the Front Range — it may survive mild winters with a dry crown and light mulch, but should be treated as a tender perennial or reliable annual here. Gardeners in warmer Boulder microclimates (south-facing, sheltered) report repeat survival; in exposed sites, plan to replace it every 1–2 years from overwintered stem cuttings or fresh nursery stock.",
+    "planting": "Plant out after last frost (mid-May in Boulder) through early summer; this is a warm-season plant that sulks in cold soil. Choose a site with full sun and excellent drainage — boggy clay is the main failure point. Space transplants about 18–24 in. apart to give trailing stems room to fill in. In containers (hanging baskets, patio pots), verbena is a classic performer: plant in a well-draining potting mix, use pots of at least 10–12 in. diameter, and keep them in full sun. Container plants need more frequent watering than in-ground ones — check daily in summer heat. To overwinter in containers, bring indoors before first frost, cut back by half, and keep in a cool sunny window; or take cuttings in August and root them indoors for next year's stock.",
+    "sun": "Full sun — 6 or more hours of direct sun daily is essential. Shaded plants produce sparse flower clusters and are far more prone to powdery mildew. Colorado's intense high-altitude sun suits verbena perfectly.",
+    "soil": "Well-drained to lean soil; tolerates the sandy, gravelly, or alkaline clay-loam soils common on the Front Range provided drainage is good. Rich, constantly moist soil encourages foliar growth over flowering and greatly increases mildew risk. No amendment is needed in average garden soil; in heavy clay, work in coarse grit or plant in a raised area.",
+    "water": "Low to moderate. Once established (4–6 weeks after planting), verbena is remarkably drought-tolerant and thrives in semi-arid Front Range conditions. Water deeply twice a week until established, then cut back to once a week or less. Overhead watering promotes powdery mildew — use drip irrigation or water at the base and in the morning. Container plants need more frequent attention: check daily and water when the top inch of potting mix is dry.",
+    "spacing": "Space 18–24 in. apart in beds; trailing stems can extend 24–36 in. A single plant covers a substantial area within one season. For quick coverage of a dry slope or border edge, plant at 18 in.",
+    "bloom": "Late May through the first hard frost on the Front Range — one of the longest bloom seasons of any perennial or tender perennial. Vivid purple (in 'Homestead Purple') flat-topped flower clusters, 2–3 in. across, are produced continuously without deadheading. Deadheading or shearing spent clusters by one-third will maintain tidiness and promote density, but is not strictly required.",
+    "feeding": "Light feeder. A single application of balanced slow-release fertilizer at planting, plus a mid-season boost (half-strength balanced liquid fertilizer in July) for container plants, is sufficient. Avoid high-nitrogen feeding, which drives leafy growth and reduces flowering.",
+    "maintenance": "Low in beds. Shear or trim stems by one-third in midsummer if plants become leggy or sparse in the center. Remove obviously spent flower clusters if desired, though 'Homestead Purple' is self-cleaning enough to skip deadheading. Cut plants to the ground after hard frost. In fall, if you want to attempt overwintering, heap dry mulch (straw or shredded leaves) over the crown in late October and remove it in mid-April. Take stem cuttings in August as insurance regardless.",
+    "selfsow": "Does not self-sow reliably in cultivation; named cultivars like 'Homestead Purple' are propagated vegetatively. Occasional seedlings may appear but are not a concern.",
+    "troubles": "Powdery mildew is the main challenge — avoid overhead watering, overcrowding, and shade; choose 'Homestead Purple', which has better mildew tolerance than many older verbena cultivars. Spider mites can flare in hot, dry, dusty conditions; a hard spray of water from below dislodges them. Root rot occurs in heavy, wet soil — ensure sharp drainage. Leaf miners may disfigure foliage but are cosmetic only.",
+    "companions": "Catmint, salvia, cushion spurge, and ornamental grasses make natural partners in a low-water, full-sun border. Works well trailing over the edge of a raised bed or wall, combined with upright plants like spike speedwell or garden phlox. In containers, pair with silver-foliaged plants (dusty miller, licorice plant) to make the purple pop.",
+    "propagation": "Easiest by stem cuttings — the most reliable method and the way to carry named cultivars true to type. In August, take 4–5 in. tip cuttings, strip the lower leaves, and stick in moist perlite or a soilless rooting mix; roots form in 2–3 weeks under bright indirect light with warmth. Overwinter rooted cuttings indoors in a cool sunny window and plant out after frost. In the garden, trailing stems naturally root where they contact moist soil — detach and pot up rooted sections in summer for free plants. Seed is available for species and some open-pollinated mixes, but 'Homestead Purple' and most named cultivars do not come true from seed and must be propagated vegetatively."
+  },
+  "care_src": [
+    {
+      "name": "NC State Extension — Glandularia canadensis",
+      "url": "https://plants.ces.ncsu.edu/plants/glandularia-canadensis/"
+    },
+    {
+      "name": "Missouri Botanical Garden Plant Finder — Glandularia canadensis 'Homestead Purple'",
+      "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=b910"
+    }
+  ],
+  "shots": [
+    {
+      "local": "images/su-close-t.jpg",
+      "full": "images/su-close.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/365242721/large.jpg",
+      "s": "summer",
+      "cap": "Dense rose-purple flower cluster · © bethconklin (CC-BY-NC) / iNaturalist",
+      "by": "bethconklin",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/206508435"
+    },
+    {
+      "local": "images/su-structure-t.jpg",
+      "full": "images/su-structure.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/204842006/large.jpg",
+      "s": "summer",
+      "cap": "Trailing mat of rose verbena in bloom · © flyoverstate_photography (CC-BY-NC) / iNaturalist",
+      "by": "flyoverstate_photography",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/121071323"
+    }
+  ]
+}

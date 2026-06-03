@@ -1,0 +1,36 @@
+[
+  {
+    "file": "images/fa-close.jpg",
+    "photo_id": 25124946,
+    "by": "no rights reserved",
+    "license": "CC0",
+    "source": "https://www.inaturalist.org/observations/16662082",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  },
+  {
+    "file": "images/fa-structure.jpg",
+    "photo_id": 428733131,
+    "by": "FrontRangeWildflowers",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/240630896",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1083,
+      1400
+    ],
+    "thumb_px": [
+      310,
+      400
+    ]
+  }
+]

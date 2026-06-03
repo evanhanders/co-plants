@@ -1,0 +1,36 @@
+[
+  {
+    "file": "images/fa-close.jpg",
+    "photo_id": 426506744,
+    "by": "Cindy O'Leary",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/239472336",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1250,
+      1400
+    ],
+    "thumb_px": [
+      357,
+      400
+    ]
+  },
+  {
+    "file": "images/fa-structure.jpg",
+    "photo_id": 157634988,
+    "by": "Stephen Hauptli",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/94987014",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  }
+]

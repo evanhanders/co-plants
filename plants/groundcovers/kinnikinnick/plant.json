@@ -1,0 +1,67 @@
+{
+  "common": "Kinnikinnick",
+  "botanical": "Arctostaphylos uva-ursi",
+  "type": "Groundcover",
+  "native": "CO native",
+  "blurb": "A tough native evergreen mat-former — glossy dark-green leaves, small pink urn-shaped flowers in spring, bright-red berries in fall and winter — that hugs the ground in sun to part shade on well-drained, lean soil; slow to establish but virtually indestructible once settled.",
+  "size": "4–8 in. × 2–6 ft (trailing stems spread wide over time)",
+  "sun": "Full sun to part shade",
+  "water": "Low; drought-tolerant once established",
+  "spread": "Slowly spreading mat via trailing stems (not runners or suckers); non-invasive",
+  "seasons": "White-to-pink urn flowers Apr–May; green berries ripen to bright red by Sep, persisting through winter; glossy leaves turn bronze-red in cold",
+  "wildlife": "Red berries eaten by bears, grouse, robins, and other birds; flowers are an early nectar source for native bees; excellent wildlife cover",
+  "deer": "Generally deer-resistant",
+  "toxic": "Not toxic; berries technically edible but mealy and astringent — more wildlife food than human food",
+  "winter": true,
+  "verified": "2026-06-03",
+  "care": {
+    "hardiness": "USDA zones 3a–7b — extremely cold-hardy, native to alpine and subalpine zones throughout Colorado. Handles Boulder's 5b–6a winters with no protection. The evergreen foliage persists under snow and emerges unscathed in spring.",
+    "planting": "Plant container-grown transplants in spring (April–May) or early fall (September) — spring is preferred so plants have a full season to root before their first winter. Kinnikinnick is notoriously slow to establish and strongly dislikes transplanting: set plants in their permanent spot, disturb the root ball as little as possible, and water in well. Mulch with coarse grit or wood chips to retain moisture during the establishment year. In containers, use a lean, acidic, well-draining potting mix (add 20–30% perlite); pots dry much faster than in-ground plantings in Colorado's arid climate, so check moisture every day in summer heat. Kinnikinnick rarely thrives long-term in pots and is best treated as a permanent in-ground plant. If you must overwinter a container plant, move it to a sheltered, unheated space — roots in small pots are far more vulnerable to freezing than in-ground roots.",
+    "sun": "Full sun to part shade. It naturally grows on open, sunny, well-drained slopes in Colorado and performs best with 4–6+ hours of direct sun. At full sun it stays compact and berries heavily; in deeper shade (more than 50% canopy) growth slows and berries are sparse. Afternoon shade in very hot, reflected-heat exposures (e.g., south-facing walls) can help.",
+    "soil": "This is the most important factor: kinnikinnick demands sharp drainage and lean, low-fertility soil. Sandy, rocky, or gritty soils are ideal. It does NOT tolerate Boulder's native heavy alkaline clay without amendment — on poorly drained clay it rots, yellows, and dies within a season or two. To succeed in clay soils, plant on a slope or raised bed, mix in generous coarse grit or crushed granite, and never let water stand at the crown. Soil pH: it prefers slightly acidic to neutral (pH 5.5–7.0) and can develop chlorosis in strongly alkaline conditions (pH > 7.5), which is common in Boulder. If chlorosis appears, acidify lightly with sulfur and avoid over-watering. Do not fertilize — it is native to infertile soils and fertilization encourages foliar disease and root problems.",
+    "water": "Low once established — kinnikinnick is adapted to dry, open sites and handles the Front Range's semi-arid climate well. During the first season, water regularly (every 3–5 days) until the root system establishes (typically 6–12 months for this slow-rooting plant). After that, deep watering every 2–3 weeks in summer is sufficient; cut back further in fall. Moist or compacted soil is the primary killer — err on the side of too dry rather than too wet.",
+    "spacing": "Plant 18–24 in. apart for a dense mat within 3–5 years. Individual stems trail up to 6 ft over time. Closer spacing (12 in.) fills in faster but requires more plants; wider spacing (3 ft) is fine if you are willing to wait.",
+    "propagation": "By stem cuttings: the most reliable and recommended method. Take semi-hardwood cuttings (4–6 in.) in late summer to fall, strip the lower leaves, dip in rooting hormone, and stick in coarse, moist sand or a 50/50 perlite-peat mix. Bottom heat (~65–70°F) speeds rooting; expect 6–12 weeks. Alternatively, try simple layering — pin a trailing stem to the soil, cover with a thin layer of grit, and sever from the parent after roots form (typically the following spring). By seed: very difficult and slow. Seeds have hard seed coats and deeply dormant embryos; they require both scarification (acid or mechanical) and cold-moist stratification (60–90 days), then may still take 1–2 years to germinate reliably. Commercially available plants from a nursery are far more practical than starting from seed.",
+    "bloom": "April–May on the Front Range — small, nodding, urn-shaped flowers, white to pink, in clusters at stem tips. Though individually tiny, the flowers are important early nectar for native bees emerging in spring. Red berries mature September–October and persist through winter.",
+    "feeding": "Do not fertilize. Kinnikinnick is native to nutrient-poor soils and strongly resents fertilization — it causes root disease and shoot die-back. No fertilizer, no compost, no manure. If the soil is too rich, the plant simply declines.",
+    "maintenance": "Very low once established. Remove dead or winter-damaged stems in early spring. No shearing or aggressive pruning — trim only to contain spread at edges or to remove damaged wood. A light mulch of coarse grit around the crown helps drainage and suppresses weeds without holding moisture against the stems. Weed by hand; avoid hoeing or cultivation near the roots.",
+    "troubles": "Root rot in heavy clay or waterlogged soil (the most common problem in Boulder). Leaf scorch and bronze-red discoloration in winter are normal (the plant goes semi-dormant) — not disease. Iron chlorosis (yellow leaves with green veins) in strongly alkaline soil; amend with sulfur or use chelated iron. Aphids and spider mites occasionally appear in dry, hot summers; rinse off with water. Generally very pest-resistant once established in the right site. The hardest part is establishment: expect slow growth for the first 2–3 years — patience is required.",
+    "companions": "Ponderosa pine, Rocky Mountain juniper, blue grama grass, prairie sage (*Artemisia* spp.), and other xeric natives adapted to open, dry, well-drained Front Range and foothills sites. Works well at the edge of a rock garden or on a sunny, well-drained bank."
+  },
+  "care_src": [
+    {
+      "name": "USDA Forest Service FEIS — Arctostaphylos uva-ursi",
+      "url": "https://www.fs.usda.gov/database/feis/plants/shrub/arcuva/all.html"
+    },
+    {
+      "name": "NC State Extension — Arctostaphylos uva-ursi",
+      "url": "https://plants.ces.ncsu.edu/plants/arctostaphylos-uva-ursi/"
+    },
+    {
+      "name": "Lady Bird Johnson Wildflower Center — Arctostaphylos uva-ursi",
+      "url": "https://www.wildflower.org/plants/result.php?id_plant=ARUV"
+    }
+  ],
+  "shots": [
+    {
+      "local": "images/sp-close-t.jpg",
+      "full": "images/sp-close.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/469420326/large.jpg",
+      "s": "spring",
+      "cap": "Kinnikinnick — small pink urn-shaped flowers among glossy evergreen leaves · © Jared Shorma (CC-BY) / iNaturalist",
+      "by": "Jared Shorma",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/261303391"
+    },
+    {
+      "local": "images/su-structure-t.jpg",
+      "full": "images/su-structure.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/97169781/large.jpg",
+      "s": "summer",
+      "cap": "Kinnikinnick — dense low mat of glossy rounded leaves spreading across rocky ground · © Jared Shorma (CC-BY) / iNaturalist",
+      "by": "Jared Shorma",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/60767538"
+    }
+  ]
+}

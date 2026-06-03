@@ -1,0 +1,35 @@
+{
+  "common": "Pineleaf penstemon",
+  "botanical": "Penstemon pinifolius 'Mersea Yellow'",
+  "type": "Subshrub",
+  "native": "Non-native",
+  "blurb": "A Southwest US native (AZ/NM) celebrated for its fine, needle-like evergreen foliage and long wands of tubular flowers — the 'Mersea Yellow' form trades the usual scarlet for soft butter-yellow — beloved by hummingbirds and built for sharp-draining, xeric gardens.",
+  "size": "12–18 in × 12–18 in",
+  "sun": "Full sun",
+  "water": "Low; xeric once established",
+  "spread": "Clumping, non-spreading; slowly widens",
+  "seasons": "Evergreen needle foliage year-round; soft-yellow tubular flowers Jun–Aug; dormant stems hold winter structure",
+  "wildlife": "Hummingbird magnet; also visited by native bees seeking tubular flowers",
+  "deer": "Generally deer-resistant; not a preferred browse",
+  "toxic": "",
+  "winter": true,
+  "verified": "2026-06-03",
+  "care": {
+    "hardiness": "USDA zones 3–8, making it one of the hardiest penstemons — fully winter-hardy on the Front Range (zones 5b–6a) with excellent drainage. The evergreen foliage remains attractive through Boulder winters, occasionally browning at tips in hard cold but rebounding in spring.",
+    "planting": "Plant in-ground in spring (mid-April to May) or early fall (September) when soils are workable and temperatures are moderate. Excellent drainage is non-negotiable: avoid heavy, wet clay without significant amendment — raised beds or a gravel-mulched slope suit it best. In containers, use a well-drained cactus/alpine mix; container roots are far less cold-hardy than in-ground roots, so overwinter pots in an unheated garage or sink them into the ground with mulch over the rim. Container plants also dry out quickly in Front Range wind and sun — check moisture more frequently than in-ground plants.",
+    "sun": "Full sun is essential — at least 6 hours of direct sun daily. Shade weakens growth, stretches stems, and reduces flowering. The intense high-altitude sun at Boulder's elevation is exactly what this Southwest native evolved for.",
+    "soil": "Sharply drained, lean to average soil is ideal; tolerates sandy, gravelly, or rocky substrates well. Will rot in poorly drained clay or any site that stays wet in winter. Neutral to slightly alkaline pH (6.5–8.0) matches Front Range soils perfectly. Do not add rich organic matter — lean soil keeps the plant compact and long-lived.",
+    "water": "Very low once established — one of the most drought-tolerant penstemons. Water moderately during the first season to establish roots; thereafter, supplemental irrigation every 2–3 weeks during dry summers is sufficient. Avoid overhead watering and any standing moisture in winter, which are the primary causes of crown rot.",
+    "spacing": "Space 12–18 in apart; individual plants reach 12–18 in tall and wide. Plant in small drifts of 3–5 for the most impactful hummingbird display and to show off the fine-textured foliage contrast against boulders or gravel.",
+    "propagation": "By seed (species strain): sow indoors 8–10 weeks before last frost; seeds benefit from 4–6 weeks cold-moist stratification or direct fall-sow; germination is slow and irregular. Easiest reliable method is softwood cuttings in early summer (May–June): take 3–4 in tip cuttings, remove lower leaves, dip in rooting hormone, and insert into a well-drained propagation mix; roots form in 4–6 weeks. Division of established clumps in early spring is also possible but rarely necessary — the plant grows slowly and resents disturbance.",
+    "bloom": "June through August on the Front Range — a long summer show of soft-yellow tubular flowers on upright spikes. The species form is scarlet; 'Mersea Yellow' offers the same hummingbird-attracting tube shape in a cool lemon-yellow that pairs well with silvery or blue-foliaged neighbors.",
+    "feeding": "None needed. This is a lean-soil plant — fertilizing produces lush, floppy growth and shortens its life. Skip compost top-dressing in established beds; a thin layer of coarse grit or gravel mulch around the crown is beneficial.",
+    "maintenance": "Shear back by one-third to one-half immediately after blooming (late August–early September) to keep the plant tidy and encourage a flush of new growth before frost. Remove dead or winter-damaged stems in early spring once new growth appears. Do not cut back hard to bare wood. Replace plants every 4–7 years as they tend to decline with age; rooted cuttings keep the stock fresh.",
+    "troubles": "Crown and root rot in wet or poorly drained soil — the main threat in Front Range clay gardens. Powdery mildew can appear in humid summers; good airflow prevents it. Largely pest-free. Occasional browsing by rabbits on new shoots in spring.",
+    "companions": "Russian sage, Mojave sage, blue grama grass, little bluestem, cushion spurge, Agastache, catmint, low sedums, and creeping thyme — all sharing the same xeric, sharp-drainage requirements and full-sun exposure."
+  },
+  "care_src": [
+    { "name": "Lady Bird Johnson Wildflower Center — Penstemon pinifolius", "url": "https://www.wildflower.org/plants/result.php?id_plant=PENI2" },
+    { "name": "NC State Extension Gardener Plant Toolbox — Achillea / Penstemon genera", "url": "https://plants.ces.ncsu.edu/plants/achillea/" }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "common": "Western wallflower",
+  "botanical": "Erysimum capitatum",
+  "type": "Perennial",
+  "native": "CO native",
+  "blurb": "A tough native short-lived perennial or biennial that covers itself in flat-topped clusters of fragrant orange-to-yellow flowers in spring — one of the earliest Front Range natives to bloom and a magnet for the season's first butterflies.",
+  "size": "1–2.5 ft × 0.5–1 ft",
+  "sun": "Full sun to part shade",
+  "water": "Low; xeric once established",
+  "spread": "Clumping (single taproot); self-sows freely to form colonies — not invasive",
+  "seasons": "Bright orange or yellow flower clusters Apr–Jun; narrow silique seed pods elongate and dry through summer; basal rosette evergreen through mild winters",
+  "wildlife": "Early nectar source for native bees, butterflies (especially checkerspot and orangetip larvae use Brassicaceae), and hummingbirds; seeds eaten by finches",
+  "deer": "Generally deer-avoided (strong mustard-family odor)",
+  "toxic": "None of concern; belongs to the mustard family — seeds and leaves mildly pungent but not poisonous",
+  "winter": false,
+  "verified": "2026-06-03",
+  "care": {
+    "hardiness": "USDA zones 4–8 — fully cold-hardy through Boulder's 5b–6a winters. The basal rosette often persists semi-green under snow. In Colorado it grows naturally from the plains to alpine zones, so it is highly adapted to the region's freeze-thaw cycles.",
+    "planting": "Treat as a biennial or short-lived perennial: sow seed in summer (June–August) for bloom the following spring, or transplant small rosettes in early fall (September). Young plants establish most reliably when roots can develop before hard ground freezes. For spring planting of nursery starts, plant in April–early May before the heat peaks. Western wallflower forms a taproot quickly and dislikes having its roots disturbed — set plants in their permanent spot early and water in well. In containers, use a lean, fast-draining mix and site pots where they get full sun; pots dry out rapidly in Front Range conditions, so water more frequently than in-ground. Container plants overwintered outdoors should be large (≥3 gal) or moved to a sheltered, unheated garage — the roots in a small pot have far less cold buffering than in the ground.",
+    "sun": "Full sun is best for the most compact, floriferous plants; it tolerates part shade (especially afternoon shade in very hot exposures) but may get leggy. Native to open meadows, rocky slopes, and disturbed roadsides across Colorado's foothills and plains.",
+    "soil": "Extremely adaptable — grows in sandy, clayey, or rocky soils in the wild, and tolerates Boulder's alkaline clay better than many ornamentals. Prefers well-drained, lean soil; avoid consistently wet, waterlogged sites. No need to amend with compost; a thin layer of gravel mulch helps keep the crown dry and discourages slugs.",
+    "water": "Low to very low once established — this is a genuinely xeric native. During the spring bloom period it gets by on natural rainfall in most Front Range years. In summer (after bloom), it enters a semi-dormant or slow-growth phase and needs little water. Water transplants and seedlings regularly until established (4–6 weeks), then taper to deep, infrequent irrigation.",
+    "spacing": "Space plants 12–18 in. apart; each forms a narrow, upright clump. For a naturalized self-sowing colony, allow 12 in. minimum between plants and let volunteers fill gaps.",
+    "sow": "Direct-sow outdoors in summer (June–August) for bloom the following spring — this matches its natural biennial/short-lived perennial rhythm. Can also be fall-sown (September–October) for spring germination, or spring-sown after last frost for plants that may bloom later in their first year. Seeds germinate readily without treatment at soil temperatures above 50°F.",
+    "stratify": "Cold stratification is not required but lightly improves germination rate. Seeds sown outdoors in fall stratify naturally through winter. For indoor spring starts, a 2–3 week cold-moist chill in the refrigerator can even out germination.",
+    "depth": "Sow at 1/8–1/4 in. depth (very shallow) and tamp the surface. Germination typically takes 7–14 days in warm conditions. Thin seedlings to 12–18 in. when 2–3 in. tall.",
+    "bloom": "April through June on the Front Range — one of the earliest native perennials to flower. In a warm spring, bloom may begin in late March at lower elevations. Flowers are fragrant (vanilla-like), orange to yellow (color varies by population), carried in flat-topped clusters (corymbs) that elongate into upright racemes.",
+    "feeding": "None needed. Lean soil keeps plants compact and extends their life. Fertilizing produces excessive vegetative growth and may shorten the already brief life span.",
+    "maintenance": "Remove spent flower stalks after seed has ripened if you want to limit self-sowing; leave a few to shatter and reseed the colony. Because western wallflower is short-lived (monocarpic in some populations, dying after flowering; biennial or short-lived perennial in others), the most reliable way to keep it in the garden is to let it self-sow freely. Collect seed in summer once pods turn tan and begin to split.",
+    "selfsow": "A prolific self-sower — a single established plant can scatter hundreds of seeds. Volunteers appear in late summer and fall as basal rosettes. Thin to 12–18 in. spacing; surplus rosettes transplant reasonably well in early fall when young. The colony perpetuates itself year over year once established.",
+    "propagation": "By seed is the standard method — western wallflower taproots deeply and does not divide. Sow in summer for spring bloom (see above). Collect seed from tan, dry pods in early–midsummer before they shatter. Store cool and dry; viability is good for 1–2 years. Because plants are short-lived, keeping a self-sowing colony going is more practical than replanting from purchased seed each cycle. No vegetative propagation methods are reliable.",
+    "troubles": "Few problems in the right site. Aphid colonies sometimes cluster on stems in spring — blast off with water or tolerate (ladybugs usually follow). Rot at the crown in wet or compacted soil; improve drainage rather than cutting back watering. Flea beetles make small holes in leaves but rarely harm established plants. The main 'trouble' is plants dying after flowering — this is normal behavior; self-sowing keeps the colony going.",
+    "companions": "Blue flax (*Linum lewisii*), native columbine (*Aquilegia coerulea*), blanket flower, prairie smoke (*Geum triflorum*), and other early-blooming xeric natives that share its open, well-drained, full-sun habitat."
+  },
+  "care_src": [
+    {
+      "name": "USDA Forest Service — Plant of the Week: Erysimum capitatum",
+      "url": "https://www.fs.usda.gov/wildflowers/plant-of-the-week/erysimum_capitatum.shtml"
+    },
+    {
+      "name": "Lady Bird Johnson Wildflower Center — Wildflower Database",
+      "url": "https://www.wildflower.org/plants/"
+    }
+  ],
+  "shots": [
+    {
+      "local": "images/sp-close-t.jpg",
+      "full": "images/sp-close.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/199523944/large.jpg",
+      "s": "spring",
+      "cap": "Western wallflower — dense cluster of vivid orange 4-petaled flowers · © Sequoia Janirella Wrens (CC-BY-NC) / iNaturalist",
+      "by": "Sequoia Janirella Wrens",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/118111055"
+    },
+    {
+      "local": "images/sp-structure-t.jpg",
+      "full": "images/sp-structure.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/136403621/large.jpg",
+      "s": "spring",
+      "cap": "Western wallflower — upright leafy stems topped with yellow flower clusters · © curt_nimz (CC-BY-NC) / iNaturalist",
+      "by": "curt_nimz",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/83073258"
+    }
+  ]
+}

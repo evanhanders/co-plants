@@ -1,0 +1,63 @@
+{
+  "common": "Yellow yarrow",
+  "botanical": "Achillea 'Moonshine'",
+  "type": "Perennial",
+  "native": "Non-native",
+  "blurb": "A tough, silvery-leaved garden hybrid with flat-topped canary-gold flower heads that bloom relentlessly from early summer into fall — xeric, pollinator-friendly, deer-resistant, and at home in Front Range sun and alkaline soil.",
+  "size": "18–24 in × 18–24 in",
+  "sun": "Full sun",
+  "water": "Low; drought-tolerant once established",
+  "spread": "Slowly spreading clump; divide every 2–3 years to keep vigor",
+  "seasons": "Silver-grey ferny foliage from spring through fall; flat golden-yellow corymbs Jun–Sep; foliage semi-evergreen in mild Front Range winters; seedheads add minor winter texture",
+  "wildlife": "Excellent pollinator plant — attracts native bees, beneficial wasps, hoverflies, and butterflies; larval host for some moth species",
+  "deer": "Deer-resistant; strong aromatic foliage deters browsing; also rabbit-resistant",
+  "toxic": "Mild — aromatic foliage can cause contact dermatitis in sensitive individuals (wear gloves); toxic to cats, dogs, and horses if ingested in quantity",
+  "winter": false,
+  "verified": "2026-06-03",
+  "care": {
+    "hardiness": "USDA zones 3–8; extremely cold-hardy and reliable on the Front Range (zones 5b–6a). The silvery foliage often remains semi-evergreen through mild Boulder winters, greening up reliably in early spring.",
+    "planting": "Plant in-ground in spring (April–May) or early fall (September). Well-drained soil is essential — yarrow planted in wet, compacted clay will rot over winter. Amend heavy clay with coarse grit or pea gravel, or site on a raised bed. In containers, use a well-drained mix; containers dry out quickly in Front Range heat and wind, so check moisture every few days in summer. Overwinter containers in a sheltered spot or sink the pot into the ground with a light mulch over the rim — roots in pots are less cold-hardy than in-ground crowns.",
+    "sun": "Full sun is required for compact growth and maximum bloom — 6+ hours of direct sun daily. Partial shade causes stretchy, floppy stems that require staking, and reduces flower production.",
+    "soil": "Average to lean, well-drained soil; tolerates clay if drainage is adequate, sandy and gravelly substrates, and the alkaline pH common to Front Range soils (6.0–8.0). Avoid rich, constantly moist, heavily amended soils — they produce lush, floppy, short-lived plants prone to crown rot.",
+    "water": "Low — drought-tolerant once established, typically getting by on 12–15 in of annual moisture. Water moderately during the establishment season (first year); in subsequent years, deep watering every 2–3 weeks during summer heat is usually sufficient. Overwatering is the primary cause of failure.",
+    "spacing": "18–24 in apart; plants spread slowly by rhizomes to form patches 18–24 in wide. Divide every 2–3 years to prevent the center from dying out and to maintain vigorous flowering.",
+    "propagation": "Easiest by division in early spring (April–May) or early fall (September): lift the clump, discard the woody center, and replant vigorous outer sections with roots attached — a reliable and fast method. Also propagates from softwood basal cuttings in early summer. Seeds are viable but 'Moonshine' is a hybrid cultivar, so seedlings may not match the parent (off-type flower color or foliage silvering); division is the preferred method to maintain cultivar characteristics.",
+    "bloom": "June through September on the Front Range — a long, canary-gold display of flat-topped corymbs (4–5 in across) held above the silvery foliage. Deadheading spent heads promptly encourages rebloom and extends the season; stop deadheading in late August to allow some seedhead development for minor winter interest and bird value.",
+    "feeding": "Minimal — one light application of a balanced, slow-release fertilizer in spring is optional if soil is very poor. On typical Front Range soils, no feeding is needed; excess nitrogen produces floppy stems and reduces flowering.",
+    "maintenance": "Deadhead regularly throughout summer for continuous bloom. Cut the whole plant back by half to two-thirds after the first main flush (late June–July) to promote a second wave of flowering. In fall after frost, cut stems back to a few inches; the silver basal rosette often persists through winter. Divide every 2–3 years in spring when the center begins to thin or die out.",
+    "troubles": "Powdery mildew in humid summers — ensure good airflow and avoid overhead watering. Stem rot in wet or poorly drained soil. Aggressive spreaders in rich, moist soil; lean conditions keep spread modest. Aphids occasionally on new growth. Contact dermatitis possible — wear gloves when handling.",
+    "companions": "Russian sage, catmint, salvia, coneflower, ornamental grasses (little bluestem, blue grama), ornamental alliums, penstemon, and any other full-sun xeric or drought-tolerant perennials; the silver foliage is a superb foil for blue and purple flowers."
+  },
+  "care_src": [
+    {
+      "name": "NC State Extension Gardener Plant Toolbox — Achillea millefolium",
+      "url": "https://plants.ces.ncsu.edu/plants/achillea-millefolium/"
+    },
+    {
+      "name": "Lady Bird Johnson Wildflower Center — Achillea genus overview",
+      "url": "https://www.wildflower.org/plants/result.php?id_plant=ACMI2"
+    }
+  ],
+  "shots": [
+    {
+      "local": "images/su-close-t.jpg",
+      "full": "images/su-close.jpg",
+      "commons": "Achillea × 'Moonshine', Morris Arboretum 03.jpg",
+      "s": "summer",
+      "cap": "Soft-yellow flat flowerheads · © Shuvaev (CC BY 4.0) / Wikimedia Commons",
+      "by": "Shuvaev",
+      "lic": "CC BY 4.0",
+      "link": "https://commons.wikimedia.org/wiki/File:Achillea_%C3%97_%27Moonshine%27,_Morris_Arboretum_03.jpg"
+    },
+    {
+      "local": "images/su-structure-t.jpg",
+      "full": "images/su-structure.jpg",
+      "commons": "Achillea × 'Moonshine', Morris Arboretum 01.jpg",
+      "s": "summer",
+      "cap": "Silvery ferny clump topped with gold · © Shuvaev (CC BY 4.0) / Wikimedia Commons",
+      "by": "Shuvaev",
+      "lic": "CC BY 4.0",
+      "link": "https://commons.wikimedia.org/wiki/File:Achillea_%C3%97_%27Moonshine%27,_Morris_Arboretum_01.jpg"
+    }
+  ]
+}

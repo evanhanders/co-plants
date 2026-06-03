@@ -1,0 +1,42 @@
+[
+  {
+    "file": "images/su-close.jpg",
+    "commons_file": "Achillea × 'Moonshine', Morris Arboretum 03.jpg",
+    "by": "Shuvaev",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Achillea_%C3%97_%27Moonshine%27,_Morris_Arboretum_03.jpg",
+    "dataset": "Wikimedia Commons",
+    "orig_px": [
+      3456,
+      4608
+    ],
+    "full_px": [
+      1125,
+      1500
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  },
+  {
+    "file": "images/su-structure.jpg",
+    "commons_file": "Achillea × 'Moonshine', Morris Arboretum 01.jpg",
+    "by": "Shuvaev",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Achillea_%C3%97_%27Moonshine%27,_Morris_Arboretum_01.jpg",
+    "dataset": "Wikimedia Commons",
+    "orig_px": [
+      4608,
+      3456
+    ],
+    "full_px": [
+      1500,
+      1125
+    ],
+    "thumb_px": [
+      400,
+      300
+    ]
+  }
+]

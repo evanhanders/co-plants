@@ -1,0 +1,68 @@
+{
+  "common": "Japanese anemone",
+  "botanical": "Anemone × hybrida",
+  "type": "Perennial",
+  "native": "Non-native",
+  "blurb": "Tall, wiry-stemmed perennial that lights up the late-summer and fall garden with luminous pink or white poppy-like flowers — one of very few perennials that blooms well into October on the Front Range.",
+  "size": "3–5 ft × 2–4 ft (spreads over time)",
+  "sun": "Part shade (morning sun / afternoon shade preferred)",
+  "water": "Moderate; consistent moisture, not drought-tolerant",
+  "spread": "Spreads by rhizomes and stolons; can colonize once established — allow room",
+  "seasons": "Bold, dark-green palmate foliage from late spring; luminous pink or white flowers on branching wiry stems Aug–Oct; dies back to ground in winter",
+  "wildlife": "Attracts bumblebees and late-season pollinators; flowers persist into fall when little else is blooming",
+  "deer": "Deer tend to avoid it; toxic alkaloids in foliage are likely deterrent",
+  "toxic": "Mildly toxic if ingested — all Anemone parts contain protoanemonin (an irritant); causes mouth/GI irritation in people and pets. Wear gloves when handling sap.",
+  "winter": false,
+  "verified": "2026-06-03",
+  "care": {
+    "hardiness": "USDA zones 4–8, so it is winter-hardy in Boulder (zones 5b–6a). However, newly planted specimens can winterkill in their first year before the rhizomes are well-established — mulch heavily (3–4 inches) after the ground freezes in November. Established plants are reliably hardy.",
+    "planting": "Plant in spring (late April through May) or early fall (August–early September, 6–8 weeks before frost) when temperatures are mild. Japanese anemone is slow to settle in and often does little its first season — do not expect bloom the first year after spring planting. Choose a sheltered spot with good organic-rich soil before you put the plant in the ground; once established it resents being moved. In Boulder's alkaline clay-loam, enrich the planting hole generously with compost (2–3 inches worked in) and a handful of sulfur to soften pH slightly. In containers, use a rich, moisture-retentive potting mix and situate the pot where it gets afternoon shade; containers dry out quickly in Front Range heat and wind, so check daily and water before the mix fully dries. Container roots are not cold-hardy — bring pots indoors to a cool (above-freezing) garage or basement over winter; do not leave them outside.",
+    "sun": "Part shade is strongly preferred on the Front Range — morning sun with afternoon shade (east or north-facing exposures) suits it best. Hot, unrelenting afternoon sun combined with Boulder's dry air causes the foliage to scorch, the plant to wilt, and flowers to fade quickly. Dappled light under high-branched trees or on the north/east side of a building gives good results.",
+    "soil": "Rich, humus-amended, well-drained but consistently moist soil; pH 5.5–7.0 (on the acidic side of Boulder's typical alkalinity). Work in 2–3 inches of compost before planting. Japanese anemone is not a plant for lean, dry, alkaline clay and will struggle without amendment — on the Front Range this plant needs pampering. Poor drainage causes crown rot, and bone-dry alkaline soil causes stunted growth and failure to bloom.",
+    "water": "Moderate to regular — needs consistent soil moisture throughout the growing season. Water deeply every 5–7 days in summer heat and never let the root zone dry out completely between waterings. Mulch (2–3 inches of wood chips) is very helpful for retaining moisture and moderating soil temperature. This is not a xeric plant; it is best sited where irrigation is dependable. In prolonged drought without irrigation it will defoliate or fail.",
+    "spacing": "Space plants 2–3 ft apart; they spread over several years by underground rhizomes and can form a colony 4+ ft wide in good conditions. Allow ample room, or install a root barrier to contain the spread. Closer spacing gives faster fill but can become crowded.",
+    "propagation": "Division and root cuttings are the practical methods — Japanese anemone rarely sets viable seed reliably, and hybrids don't come true from seed. Divide established clumps in spring (late March–April in Boulder) as growth resumes; dig out sections with roots and several crowns, replant at the same depth, and water well. Root cuttings taken in late fall or winter (2–3 inch sections of pencil-thick roots, planted horizontally 1–2 inches deep in a cold frame or cool greenhouse) are another effective method. Note that established clumps can also sucker outward — these offshoots can be detached and transplanted in spring.",
+    "bloom": "August through October on the Front Range — one of the latest-blooming perennials in the garden. Flowers open over 6–8 weeks, with each branching stem carrying many buds that open in succession, extending the display. Pink forms (e.g. 'Honorine Jobert' is white; 'Robustissima' is pink) are common; both bloom at the same time.",
+    "feeding": "Topdress with 1–2 inches of compost each spring rather than synthetic fertilizer. A balanced slow-release fertilizer at planting and once again in early May on lean soils is acceptable. Avoid high-nitrogen feeding, which pushes lush vegetative growth at the expense of flowers. No fall feeding.",
+    "maintenance": "Cut stems back to the ground in fall after frost kills the foliage, or leave the dried stems over winter and cut back in early spring. Mulch the crown heavily (3–4 inches) after the ground begins to freeze in November for the first 2–3 winters while the plant establishes. Divide every 4–5 years if the center becomes congested or flowering declines. Watch for and remove outward-spreading rhizomes if spread needs to be controlled — they are shallow and easy to pull in spring.",
+    "selfsow": "Minimal self-seeding under typical Front Range conditions; spread is primarily by rhizomes. Deadheading spent flowers will not prevent spread.",
+    "troubles": "The main challenge on the Front Range is siting — hot, dry, and alkaline conditions cause persistent struggle. In poor sites: leaf scorch, failure to establish, and poor or no bloom are common. Powdery mildew can appear in late summer, especially with poor air circulation; choose disease-resistant cultivars ('Robustissima' is notably tough). Slugs may damage young foliage in moist conditions; Japanese beetles occasionally feed on flowers in late summer.",
+    "companions": "Hostas, astilbe, ferns, and other shade-tolerant moisture-lovers that share its preference for part shade and amended soil. Combine with late-season natives like blue mistflower or asters for a late-summer to fall composition. Underplant with spring bulbs (daffodils, alliums) to occupy the same space while anemone is dormant."
+  },
+  "care_src": [
+    {
+      "name": "Missouri Botanical Garden — Plant Finder: Anemone × hybrida",
+      "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=a160"
+    },
+    {
+      "name": "RHS — Anemone × hybrida (Japanese anemone)",
+      "url": "https://www.rhs.org.uk/plants/1380/anemone-x-hybrida/details"
+    },
+    {
+      "name": "NC State Extension — Anemone × hybrida",
+      "url": "https://plants.ces.ncsu.edu/plants/anemone-x-hybrida/"
+    }
+  ],
+  "shots": [
+    {
+      "local": "images/fa-close-t.jpg",
+      "full": "images/fa-close.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/614652729/large.jpg",
+      "s": "fall",
+      "cap": "White flower with yellow center boss · © no rights reserved (CC0) / iNaturalist",
+      "by": "no rights reserved",
+      "lic": "CC0",
+      "link": "https://www.inaturalist.org/observations/338038749"
+    },
+    {
+      "local": "images/fa-structure-t.jpg",
+      "full": "images/fa-structure.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/560862980/large.jpg",
+      "s": "fall",
+      "cap": "Pink flowers on tall wiry stems · © Owen and Carol Fawcett. (CC-BY) / iNaturalist",
+      "by": "Owen and Carol Fawcett.",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/310739699"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "common": "Coreopsis",
+  "botanical": "Coreopsis grandiflora 'Early Sunrise'",
+  "type": "Perennial",
+  "native": "Non-native",
+  "blurb": "A cheerful, easy-going golden daisy (semi-double in 'Early Sunrise') that blooms prolifically from early summer through fall when deadheaded — short-lived but drought-tolerant, pollinator-friendly, and quick to flower from seed in its first year.",
+  "size": "18–24 in × 12–18 in",
+  "sun": "Full sun",
+  "water": "Low; drought-tolerant once established",
+  "spread": "Clumping; self-sows to persist; short-lived perennial (2–3 yrs)",
+  "seasons": "Green lance-like foliage from spring; bright golden semi-double daisies Jun–Sep with peak in early summer and again in late summer with deadheading; dies back in winter",
+  "wildlife": "Excellent pollinator plant — bees, butterflies, and beneficial insects flock to the open-centered flowers; seeds attract goldfinches",
+  "deer": "Moderately deer-resistant",
+  "toxic": "",
+  "winter": false,
+  "verified": "2026-06-03",
+  "care": {
+    "hardiness": "USDA zones 4a–9b; reliably winter-hardy on the Front Range (zones 5b–6a) with good drainage. Note that individual plants are short-lived (often 2–3 years); plan for replacement or allow self-sowing to maintain the planting.",
+    "planting": "Plant in-ground in spring (April–May after last frost) or early fall (September). Good drainage in Front Range clay is important — amend with compost and coarse grit for heavy soils, or site in naturally well-drained spots. Coreopsis is more tolerant of average garden soil than many xeric perennials, but standing water in winter shortens its already brief life. In containers, use a standard well-drained potting mix; check moisture every 2–3 days in summer as pots dry out quickly in Front Range heat and wind. Container plants require winter protection (sheltered spot or sunk in-ground) — roots are less cold-hardy than in-ground crowns.",
+    "sun": "Full sun — 6+ hours of direct sun daily. The most important cultural requirement: shade produces fewer flowers and leggier stems. Tolerates partial shade but flowering suffers noticeably.",
+    "soil": "Average, well-drained soil; tolerates lean to moderate fertility, clay if drainage is adequate, sandy and rocky substrates, and the alkaline pH common to Front Range gardens (6.0–8.0). Overly rich or constantly moist soil produces lush foliage with fewer flowers and accelerates the plant's decline.",
+    "water": "Low to moderate once established — drought-tolerant but more rewarding than most xeric plants with moderate summer watering (every 7–10 days in heat). The drier portion of the garden suits it well. Avoid overwatering, which promotes crown rot and reduces the lifespan.",
+    "spacing": "12–18 in apart; plants reach 18–24 in tall and 12–18 in wide. Set in groups of 3–5 for a generous summer-color impact.",
+    "propagation": "Easily grown from seed — 'Early Sunrise' is a compact cultivar that flowers reliably in its first year from seed, making it behave almost like an annual. Direct-sow outdoors after last frost (mid-May in Boulder) or start indoors 6–8 weeks before last frost; no stratification needed. Germination takes 7–21 days at 65–70°F. Division of established clumps in early spring (April) extends individual plant life and refreshes vigor; divide every 2 years. Self-sown seedlings are the simplest way to maintain an established planting — allow a few spent heads to ripen and shatter in place.",
+    "bloom": "June through September on the Front Range — a long, cheerful season of bright golden-yellow semi-double daisies (2–3 in across) on wiry stems. Peak bloom comes in early summer (June–July) and again in late summer after deadheading. Flower freely through summer heat as long as spent heads are removed.",
+    "feeding": "Minimal — lean to average soil with no supplemental fertilizer is ideal. One light application of balanced slow-release fertilizer in early spring is optional on very poor soils. Excess nitrogen produces lush foliage, fewer flowers, and a shorter-lived plant.",
+    "maintenance": "Deadhead spent flowers regularly (every 1–2 weeks) throughout the season — this is the single most important step for continuous bloom. Allow some seed heads to mature in late summer for self-sowing and goldfinch forage. Cut plants back to a few inches in fall. As individual plants decline after 2–3 years, let self-sown seedlings fill in or divide every other spring.",
+    "selfsow": "Self-sows readily; new seedlings appear in spring and usually flower their first year. Thin or relocate volunteers as needed. Not invasive — a welcome self-perpetuating habit for low-maintenance beds.",
+    "troubles": "Short-lived (2–3 years) — plan for replacement or allow self-sowing. Crown rot in wet, poorly drained soil. Aphids on new growth; aster yellows (phytoplasma) occasionally causes distorted flowers — remove and destroy affected plants. Powdery mildew in humid conditions; good airflow helps.",
+    "companions": "Salvia, Russian sage, catmint, echinacea, rudbeckia, ornamental grasses, shasta daisy, yarrow, black-eyed Susan, and other sun-loving, moderate-water perennials that share the same cheerful summer-color palette."
+  },
+  "care_src": [
+    {
+      "name": "NC State Extension Gardener Plant Toolbox — Coreopsis grandiflora",
+      "url": "https://plants.ces.ncsu.edu/plants/coreopsis-grandiflora/"
+    }
+  ],
+  "shots": [
+    {
+      "local": "images/su-close-t.jpg",
+      "full": "images/su-close.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/76040701/large.jpg",
+      "s": "summer",
+      "cap": "Golden-yellow large-flowered tickseed bloom, face-on · © red_team_fan (CC-BY-NC) / iNaturalist",
+      "by": "red_team_fan",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/47935213"
+    },
+    {
+      "local": "images/su-structure-t.jpg",
+      "full": "images/su-structure.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/280904211/large.jpg",
+      "s": "summer",
+      "cap": "Airy coreopsis clump with multiple golden daisies on wiry stems · © hr_dragonfly (CC-BY) / iNaturalist",
+      "by": "hr_dragonfly",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/162453744"
+    }
+  ]
+}

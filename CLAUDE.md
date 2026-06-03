@@ -109,7 +109,7 @@ repo root like `index.html`, so all root-relative paths (`plants/…`, `styles.c
 then fetches every listed `plant.json` in parallel and assigns them to the in-memory
 `SEED` array (stamping each with `dir = "plants/<category>/<slug>"` so its local
 images resolve). `loadUser()` (localStorage-added plants) runs alongside it, then
-`render()`. `SEED` order doesn't matter — the app sorts by common name and groups by
+`render()`. `SEED` order doesn't matter — the app sorts by botanical name and groups by
 **morphology** via `groupOf(p)` (growth form; forbs split by `bloom_season`). The on-disk
 `plants/<category>/` folder is just a storage path (and the `dir` for image resolution) — it
 is **NOT** the grouping. A file can live in `plants/perennials/` yet be a `Groundcover` or
@@ -198,7 +198,11 @@ link (`href="index.html"`) top and bottom. To extend a plant's detail page, add/
 
 ### UI features
 
-Cards grouped by plant type (collapsible) with an A–Z toggle, a search box, a
+Cards are **sorted by botanical (scientific) name** within each group (`allPlants()`), and
+**both** the common and botanical names are searchable (the search string includes both).
+Each section header carries a one-line plain-language gloss of that growth form (the
+`GROUP_DESC` map in `app.js`, rendered as `.group-desc`; it hides when the group is collapsed).
+Cards are grouped by morphology (collapsible) with an A–Z toggle, a search box, a
 weed-gated "add plant" form, and a per-season photo strip you flip with the season dots
 (the strip is deliberately *not* finger-swipeable — see the tap-vs-swipe note). The card
 shows a small thumbnail; clicking (or `Enter`/`Space` on it — the photos are keyboard-focusable)

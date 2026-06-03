@@ -13,6 +13,19 @@ if(wf) return wf;
 if(t==="Forb") return (p.bloom_season||"Summer")+" forbs";
 return "Other";
 }
+/* one-line plain-language gloss shown under each section header (what the form means) */
+const GROUP_DESC = {
+"Trees":"Woody plants with one or a few main trunks, generally taller than ~15 ft.",
+"Shrubs":"Woody plants that branch from the base and keep their stems through winter, usually under ~15 ft.",
+"Subshrubs":"Woody at the base but with softer top growth that dies back — half-shrub, half-perennial.",
+"Ornamental grasses":"Grasses and grass-like plants grown for their foliage and seed heads, not flowers.",
+"Groundcovers":"Low, spreading or mat-forming plants that knit together to carpet the ground.",
+"Vines":"Climbing or trailing plants that need a support to grow upward.",
+"Spring forbs":"Herbaceous (non-woody) flowering plants whose main show is in spring.",
+"Summer forbs":"Herbaceous (non-woody) flowering plants whose main show is in summer.",
+"Fall forbs":"Herbaceous (non-woody) flowering plants whose main show is in fall.",
+"Other":"Plants that don't fall into the forms above."
+};
 /* ---------- state ---------- */
 let userPlants = [];
 let view = "type";
@@ -46,7 +59,7 @@ else { localStorage.setItem(STORAGE_KEY, JSON.stringify(userPlants)); }
 }catch(e){}
 }
 function isUser(p){ const key=p.botanical.toLowerCase().trim(); return userPlants.some(function(u){return u.botanical.toLowerCase().trim()===key;}) && !SEED.some(function(s){return s.botanical.toLowerCase().trim()===key;}); }
-function allPlants(){ const map=new Map(); SEED.concat(userPlants).forEach(function(p){ map.set(p.botanical.toLowerCase().trim(), p); }); return Array.from(map.values()).sort(function(a,b){ return a.common.localeCompare(b.common,'en',{sensitivity:'base'}); }); }
+function allPlants(){ const map=new Map(); SEED.concat(userPlants).forEach(function(p){ map.set(p.botanical.toLowerCase().trim(), p); }); return Array.from(map.values()).sort(function(a,b){ return a.botanical.localeCompare(b.botanical,'en',{sensitivity:'base'}); }); }
 /* a plant's detail page lives at plant.html?p=<category>/<slug>; only seeded plants
    (which carry a repo dir) have one — user-added localStorage plants don't */
 function slugOf(p){ return p.dir ? p.dir.replace(/^plants\//,'') : null; }
@@ -95,6 +108,7 @@ if(!buckets[g]) return;
 const isC = !q && collapsed.has(g);
 html += '<section class="grp'+(isC?' collapsed':'')+'" data-group="'+g+'">'
 + '<div class="group-head" data-g="'+g+'"><button class="chev" data-g="'+g+'" aria-expanded="'+(isC?'false':'true')+'" aria-label="'+(isC?'Expand ':'Collapse ')+g+'">▾</button><h2>'+g+'</h2><span class="gc">'+buckets[g].length+'</span><span class="rule"></span></div>'
++ (GROUP_DESC[g]?'<p class="group-desc">'+GROUP_DESC[g]+'</p>':'')
 + gridOf(buckets[g]) + '</section>';
 });
 content.innerHTML = html;

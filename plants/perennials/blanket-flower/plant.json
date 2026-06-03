@@ -46,24 +46,54 @@
   ],
   "shots": [
     {
-      "local": "images/su-close-t.jpg",
-      "full": "images/su-close.jpg",
-      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/290951422/large.jpg",
+      "local": "images/su-flower-t.jpg",
+      "full": "images/su-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/218863135/large.jpg",
       "s": "summer",
-      "cap": "Blanket flower — red-and-gold ray florets around a deep red disc · © no rights reserved (CC0) / iNaturalist",
-      "by": "no rights reserved",
-      "lic": "CC0",
-      "link": "https://www.inaturalist.org/observations/167923063"
+      "cap": "Face-on red-and-gold blanket flower with deep scarlet disc · © mads0012 (CC-BY-NC) / iNaturalist",
+      "by": "mads0012",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/128831044"
     },
     {
-      "local": "images/su-structure-t.jpg",
-      "full": "images/su-structure.jpg",
+      "local": "images/su-bloom-t.jpg",
+      "full": "images/su-bloom.jpg",
       "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/295377153/large.jpg",
       "s": "summer",
-      "cap": "Blanket flower — clump of plants in bloom in dry meadow habitat · © Bob Walker (CC-BY) / iNaturalist",
+      "cap": "Clump of blanket flowers blazing in a dry meadow, showing mounding form · © Bob Walker (CC-BY) / iNaturalist",
       "by": "Bob Walker",
       "lic": "CC-BY",
       "link": "https://www.inaturalist.org/observations/170315553"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/402637492/large.jpeg",
+      "s": "summer",
+      "cap": "Single blanket flower plant showing leafy habit among grasses · © lollox (CC-BY-NC) / iNaturalist",
+      "by": "lollox",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/226993510"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/391634817/large.jpg",
+      "s": "summer",
+      "cap": "Hairy lance-shaped leaves of blanket flower at the base · © Curtis Drake (CC-BY) / iNaturalist",
+      "by": "Curtis Drake",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/221159917"
+    },
+    {
+      "local": "images/fa-seedhead-t.jpg",
+      "full": "images/fa-seedhead.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/220158954/large.jpg",
+      "s": "fall",
+      "cap": "Blanket flower plant showing spent fluffy globe seedheads alongside late-season flowers · © siteobserve62 (CC-BY-NC) / iNaturalist",
+      "by": "siteobserve62",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/129541252"
     }
   ]
 }

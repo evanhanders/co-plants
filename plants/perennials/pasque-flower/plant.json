@@ -45,24 +45,44 @@
   ],
   "shots": [
     {
-      "local": "images/sp-close-t.jpg",
-      "full": "images/sp-close.jpg",
-      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/125209425/large.jpg",
+      "local": "images/sp-flower-t.jpg",
+      "full": "images/sp-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/60387499/large.jpg",
       "s": "spring",
-      "cap": "Spring — fuzzy lavender cup flower with golden stamens · © jetpike (CC-BY-NC) / iNaturalist",
-      "by": "jetpike",
+      "cap": "Face-on open lavender cup with golden stamens · © Леонид Федянцев (CC-BY-NC) / iNaturalist",
+      "by": "Леонид Федянцев",
       "lic": "CC-BY-NC",
-      "link": "https://www.inaturalist.org/observations/76545445"
+      "link": "https://www.inaturalist.org/observations/38033046"
     },
     {
-      "local": "images/sp-structure-t.jpg",
-      "full": "images/sp-structure.jpg",
-      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/294219817/large.jpg",
+      "local": "images/sp-bloom-t.jpg",
+      "full": "images/sp-bloom.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/105046545/large.jpg",
       "s": "spring",
-      "cap": "Spring — plants flowering on open hillside, showing low mounding habit · © ranger_karina (CC-BY-NC) / iNaturalist",
-      "by": "ranger_karina",
+      "cap": "Colony of pasque flowers in bloom on open hillside, showing low fuzzy-stemmed habit · © Tatyana Zarubo (CC-BY-NC) / iNaturalist",
+      "by": "Tatyana Zarubo",
       "lic": "CC-BY-NC",
-      "link": "https://www.inaturalist.org/observations/169687030"
+      "link": "https://www.inaturalist.org/observations/65283556"
+    },
+    {
+      "local": "images/sp-seedhead-t.jpg",
+      "full": "images/sp-seedhead.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/120927408/large.jpg",
+      "s": "spring",
+      "cap": "Silky silver-plume seedheads of pasque flower, equally ornamental as the blooms · © Zolotukhina Irina (CC-BY-NC) / iNaturalist",
+      "by": "Zolotukhina Irina",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/74367226"
+    },
+    {
+      "local": "images/sp-foliage-t.jpg",
+      "full": "images/sp-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/187100953/large.jpeg",
+      "s": "spring",
+      "cap": "Ferny silver-silky foliage emerging alongside blooms · © Aleksei Baushev (CC-BY) / iNaturalist",
+      "by": "Aleksei Baushev",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/110870708"
     }
   ]
 }

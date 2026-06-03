@@ -1,36 +1,42 @@
 [
   {
-    "file": "images/su-close.jpg",
-    "photo_id": 290951422,
-    "by": "no rights reserved",
-    "license": "CC0",
-    "source": "https://www.inaturalist.org/observations/167923063",
-    "dataset": "iNaturalist open data",
-    "render": "original",
-    "full_px": [
-      1050,
-      1400
-    ],
-    "thumb_px": [
-      300,
-      400
-    ]
+    "file": "images/su-flower.jpg",
+    "photo_id": 218863135,
+    "by": "mads0012",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/128831044",
+    "dataset": "iNaturalist open data"
   },
   {
-    "file": "images/su-structure.jpg",
+    "file": "images/su-bloom.jpg",
     "photo_id": 295377153,
     "by": "Bob Walker",
     "license": "CC-BY",
     "source": "https://www.inaturalist.org/observations/170315553",
-    "dataset": "iNaturalist open data",
-    "render": "original",
-    "full_px": [
-      933,
-      1400
-    ],
-    "thumb_px": [
-      267,
-      400
-    ]
+    "dataset": "iNaturalist open data"
+  },
+  {
+    "file": "images/su-habit.jpg",
+    "photo_id": 402637492,
+    "by": "lollox",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/226993510",
+    "dataset": "iNaturalist open data"
+  },
+  {
+    "file": "images/su-foliage.jpg",
+    "photo_id": 391634817,
+    "by": "Curtis Drake",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/observations/221159917",
+    "dataset": "iNaturalist open data"
+  },
+  {
+    "file": "images/fa-seedhead.jpg",
+    "photo_id": 220158954,
+    "by": "siteobserve62",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/129541252",
+    "dataset": "iNaturalist open data"
   }
 ]

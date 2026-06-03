@@ -66,6 +66,17 @@ python3 -m http.server 8077 &
 node tests/swipe.spec.mjs
 ```
 
+**Citation check (`tools/check_citations.py`).** Curls every plant's `care_src` and flags
+DEAD / wrong-plant (REVIEW) / OK, failing if any plant has no reachable source — run it after
+any `care_src` edit and as a periodic guard on the whole guide. It's step 3 of the care
+pipeline (see "Sourcing care facts"); no dependencies, just Python:
+
+```
+python3 tools/check_citations.py            # audit all 68 plants
+python3 tools/check_citations.py --strict   # also fail on zero content-verified sources
+python3 tools/check_citations.py plants/perennials/knautia   # one or a few dirs
+```
+
 ## Architecture
 
 The site is a few plain files plus a tree of per-plant data:
@@ -424,11 +435,18 @@ fact-check.
 2. **Record sources honestly.** List the **actual** sources you read in `care_src` as
    `{ name, url }`. If a number came from Western Forbs, cite Western Forbs — don't list a
    source you didn't open.
-3. **Citation-honesty pass.** `curl` every `care_src` URL (with the UA); **drop dead links**
-   (404/403/cert-error) and **blog/nursery citations** where an authority already covers the
-   fact; make sure **every plant keeps ≥1 reachable authoritative source**, re-sourcing any
-   left without one. (Also catch mis-pasted URLs — one plant had a rose page cited under a
-   cosmos.)
+3. **Citation-honesty pass — run `python3 tools/check_citations.py`.** It curls every
+   `care_src` across all plants and classifies each: **DEAD** (non-200), **REVIEW** (200 but
+   the page text never names the plant's genus/species — this is what catches a URL that
+   resolves to the **wrong plant**, e.g. a fabricated MBG `kempercode`/RHS numeric ID serving
+   boxwood or a daffodil), or **OK**. It exits non-zero if any plant has no reachable source
+   (`--strict` also fails on zero content-verified sources). Act on the report: **drop dead
+   links** and **blog/nursery citations** where an authority already covers the fact, **replace
+   wrong-plant URLs** with a verified authority page, and make sure **every plant keeps ≥1
+   reachable authoritative source**. (REVIEW is often just a JS-rendered authority — USDA
+   PLANTS, LBJ Wildflower Center, RHS render plant data client-side, so the genus isn't in the
+   raw HTML; open it and confirm before dropping. Real catches from this pass: ~20 MBG/RHS IDs
+   that resolved to the wrong species, plus a rose page cited under a cosmos.)
 4. **Fact-check / accuracy pass.** Re-verify each claim against the cited authority and
    **correct outright errors in place** (surgical edits, preserve the voice), logging each as
    `field: OLD → NEW (source)`. Scrutinize the **high-risk claim types**: hardiness USDA zone,
@@ -612,7 +630,9 @@ The current backlog. Move items out of this section as they ship.
 - Weed-check every new plant against CO lists A/B/C + Watch before it goes in.
 - `care` facts are sourced like photos: ground them in a trusted authority, list the real
   sources in `care_src`, then run the citation-honesty + fact-check passes (see "Sourcing
-  care facts"). No uncited hard numbers; no dead/blog citations.
+  care facts"). No uncited hard numbers; no dead/blog citations. **Run
+  `python3 tools/check_citations.py` after any `care_src` change** — it catches dead links and
+  URLs that resolve to the wrong plant, and fails if a plant has no reachable source.
 - Show image + blurb for sign-off **before** creating the plant file.
 - A new plant = one `plant.json` + one `manifest.json` line (not a big array edit).
 - After any `finalize.py`/`commons_finalize.py`, run `rethumb.py` so the card thumbs are

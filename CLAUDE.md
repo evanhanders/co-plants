@@ -380,7 +380,9 @@ steps 1–3 — `python3 tools/inat_montage.py "<cat/slug>" "<Botanical name>" [
 [--global]` resolves the active taxon, pulls CC photos (Colorado `place_id=34` by default,
 auto-widening to global if too few; pass `--global` up front for non-CO garden cultivars),
 writes a labeled `montage.jpg` to review and appends the per-slug `shortlist.json` entry.
-Set `PHOTOWORK=/tmp/<dir>` to run several in parallel without collisions.
+Set `PHOTOWORK=/tmp/<dir>` to run several in parallel without collisions. Add `--anygrade`
+to include cultivated/casual observations (needed for garden cultivars like 'Mersea Yellow'
+pineleaf penstemon that log as "casual" and are otherwise filtered out by research-grade).
 
 1. **Resolve the taxon.** `GET /v1/taxa?q=<botanical name>` → the **active** taxon id —
    names drift (Rocky Mountain bee plant is now *Cleomella serrulata*; the old *Peritoma

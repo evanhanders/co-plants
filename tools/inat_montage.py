@@ -35,10 +35,12 @@ def resolve_taxon(name):
             return t["id"], t.get("name")
     raise SystemExit(f"no active taxon for '{name}' (tried '{q}')")
 
-def fetch(slug, name, place_id, use_place):
+def fetch(slug, name, place_id, use_place, anygrade=False):
     tid, tname = resolve_taxon(name)
     params = {"taxon_id": tid, "photo_license": "cc0,cc-by,cc-by-nc",
-              "quality_grade": "research", "order_by": "votes", "per_page": 60}
+              "order_by": "votes", "per_page": 60}
+    if not anygrade:
+        params["quality_grade"] = "research"   # --anygrade keeps cultivated/casual obs (garden cultivars)
     if use_place and place_id:
         params["place_id"] = place_id
     obs = api("observations", params)
@@ -94,11 +96,12 @@ def montage(slug, cands):
 
 if __name__ == "__main__":
     slug, name = sys.argv[1], sys.argv[2]
-    place_id = 34; use_place = True
+    place_id = 34; use_place = True; anygrade = False
     for a in sys.argv[3:]:
         if a == "--global": use_place = False
+        elif a == "--anygrade": anygrade = True
         elif a.isdigit(): place_id = int(a)
-    cands = fetch(slug, name, place_id, use_place)
+    cands = fetch(slug, name, place_id, use_place, anygrade)
     # strip the private _thumb before persisting the shortlist
     shortlist_path = os.path.join(WORK, "shortlist.json")
     sl = json.load(open(shortlist_path)) if os.path.exists(shortlist_path) else {}

@@ -84,6 +84,16 @@
       "by": "entropic_allegory",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/217126453"
+    },
+    {
+      "local": "images/su-seedpods-t.jpg",
+      "full": "images/su-seedpods.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/531030392/original.jpg",
+      "s": "summer",
+      "cap": "Late summer — round buff seed capsules ripening on wiry branching stems, with a late flower still open at top · © Justyn Stahl (CC-BY-NC) / iNaturalist",
+      "by": "Justyn Stahl",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/photos/531030392"
     }
   ]
 }

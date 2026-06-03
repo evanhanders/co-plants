@@ -23,8 +23,14 @@
     "source": "https://www.inaturalist.org/observations/74367226",
     "dataset": "iNaturalist open data",
     "render": "original",
-    "full_px": [824, 1072],
-    "thumb_px": [307, 400]
+    "full_px": [
+      824,
+      1072
+    ],
+    "thumb_px": [
+      307,
+      400
+    ]
   },
   {
     "file": "images/sp-foliage.jpg",
@@ -33,5 +39,12 @@
     "license": "CC-BY",
     "source": "https://www.inaturalist.org/observations/110870708",
     "dataset": "iNaturalist open data"
+  },
+  {
+    "file": "images/sp-seedhead.jpg",
+    "by": "Ryan Sorrells",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/observations/220256785",
+    "via": "iNaturalist"
   }
 ]

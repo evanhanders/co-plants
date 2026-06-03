@@ -42,16 +42,6 @@
   ],
   "shots": [
     {
-      "local": "images/su-habit-t.jpg",
-      "full": "images/su-habit.jpg",
-      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/577326818/large.jpg",
-      "s": "summer",
-      "cap": "Summer — upright blue-green bunchgrass clump · © Jes Gray (CC-BY) / iNaturalist",
-      "by": "Jes Gray",
-      "lic": "CC-BY",
-      "link": "https://www.inaturalist.org/observations/319383496"
-    },
-    {
       "local": "images/fa-habit-t.jpg",
       "full": "images/fa-habit.jpg",
       "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/492621911/large.jpeg",
@@ -60,6 +50,16 @@
       "by": "Kevin G. Borchert",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/273973107"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/577326818/large.jpg",
+      "s": "summer",
+      "cap": "Summer — upright blue-green bunchgrass clump · © Jes Gray (CC-BY) / iNaturalist",
+      "by": "Jes Gray",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/319383496"
     },
     {
       "local": "images/fa-pods-t.jpg",

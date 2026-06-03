@@ -71,6 +71,26 @@
       "by": "naturelaura3",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/76692587"
+    },
+    {
+      "local": "images/sp-colony-t.jpg",
+      "full": "images/sp-colony.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/631419769/large.jpg",
+      "s": "spring",
+      "cap": "Spring — low colony of blue flowers showing the ~6 in clump form · © nicandra711ph (CC-BY-NC) / iNaturalist",
+      "by": "nicandra711ph",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/photos/631419769"
+    },
+    {
+      "local": "images/sp-flower2-t.jpg",
+      "full": "images/sp-flower2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/640079339/large.jpg",
+      "s": "spring",
+      "cap": "Spring — three crisp face-on blue daisy flowers with yellow centres · © Mariana Jordanova (CC-BY-NC) / iNaturalist",
+      "by": "Mariana Jordanova",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/photos/640079339"
     }
   ]
 }

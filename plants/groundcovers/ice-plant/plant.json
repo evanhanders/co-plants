@@ -58,6 +58,16 @@
       "by": "Richard Gill",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/145109866"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/503727225/large.jpg",
+      "s": "summer",
+      "cap": "Summer — fleshy cylindrical succulent leaves of the evergreen mat · © Martin Winter (CC-BY-NC) / iNaturalist",
+      "by": "Martin Winter",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/280508318"
     }
   ]
 }

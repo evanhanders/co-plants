@@ -1,22 +1,22 @@
 [
   {
     "file": "images/su-habit.jpg",
-    "commons_file": "Geranium 'Rozanne'.JPG",
-    "by": "Dominicus Johannes Bergsma",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Geranium_%27Rozanne%27.JPG",
+    "commons_file": "Garten-Storchschnabel (Geranium wallichianum 'Rozanne').jpg",
+    "by": "Burkhard Mücke",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Garten-Storchschnabel_(Geranium_wallichianum_%27Rozanne%27).jpg",
     "dataset": "Wikimedia Commons",
     "orig_px": [
-      4561,
-      3421
+      3456,
+      2304
     ],
     "full_px": [
       1500,
-      1125
+      1000
     ],
     "thumb_px": [
       400,
-      300
+      267
     ]
   },
   {
@@ -25,6 +25,26 @@
     "by": "Photo by David J. Stang",
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Geranium_Rozanne_14zz.jpg",
+    "dataset": "Wikimedia Commons",
+    "orig_px": [
+      3504,
+      2336
+    ],
+    "full_px": [
+      1500,
+      1000
+    ],
+    "thumb_px": [
+      400,
+      267
+    ]
+  },
+  {
+    "file": "images/su-foliage.jpg",
+    "commons_file": "Geranium Rozanne 5zz.jpg",
+    "by": "Photo by David J. Stang",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Geranium_Rozanne_5zz.jpg",
     "dataset": "Wikimedia Commons",
     "orig_px": [
       3504,

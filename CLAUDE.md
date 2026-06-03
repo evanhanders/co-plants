@@ -309,23 +309,42 @@ hosted herbarium. The order matters:
 staying up, so every shot's photo lives in the plant's `images/` folder. Remote
 `url`/`commons` stays only as a thin fallback.
 
-**Per-plant photo spec** — for each plant aim for, at minimum:
+**Per-plant photo goal — the reel should let a viewer *understand the plant*.** Two shots
+is the floor, but cover these **shot types** (3–5 where the plant warrants it), because a
+single flower close-up + one habit shot usually isn't enough to know a plant:
 
-1. **A close-up** showing leaves *and* flowers (the identifying detail).
-2. **A wider "structure" shot** showing how the whole plant grows (habit/form).
-3. **Same species** as the record — verify the photo actually shows the right plant,
-   not a look-alike (check the source taxon, and eyeball it against known features).
-4. **Open-licensed / OK to reuse** — CC0, CC-BY, CC-BY-SA, or (this is a non-commercial
-   personal guide) CC-BY-NC / CC-BY-NC-SA. Never "All Rights Reserved", never a
-   copyrighted nursery/blog photo. Always record attribution.
-5. **A photograph, not a drawing/illustration.**
-6. **Oriented upright, not rotated** — apply EXIF orientation when processing; reject
-   sideways/upside-down shots.
+1. **Whole plant / habit** — its overall form, size and how it grows.
+2. **Foliage** — a shot where you can actually read the leaves (shape, texture, colour),
+   not just blurred greenery behind a flower.
+3. **Flowers, shown FACE-ON (from the front, not the back/side)** — in clear detail. Several
+   front-facing flowers in one frame is great; a shot looking at the *back* of the bloom is not.
+4. **The whole plant IN BLOOM** for anything that flowers heavily — a mass/drift of flowers
+   showing how it reads in the garden, **in addition to** the single-flower close-up. Want
+   **both**, not just a zoom on one flower.
+5. **Seed pods / seedheads / hips / berries** wherever they're a notable feature (asters,
+   larkspur, bee plant, columbine, pasque plumes, rose hips, dogwood berries, milkweed pods…).
+6. **Same species** (verify against the taxon + known features — no look-alikes), **open-licensed**
+   (CC0/CC-BY/CC-BY-SA, or CC-BY-NC/-NC-SA for this non-commercial guide — never ARR; record
+   attribution), **a photograph not an illustration**, and **upright** (apply EXIF orientation).
+7. **Framed for the thumbnail:** the interesting feature must be **centered and clearly visible
+   in the 720×480 card thumbnail without expanding** — not cut off at an edge, not a speck in the
+   corner, not mostly hand/soil/sky/background.
 
-**Nice-to-have:** a matching close-up + structure pair **for each season** (spring /
-summer / fall / winter), so the reel tells the year-round story — especially where the
-plant changes a lot (fall color, winter stems/seedheads). Don't pad the reel with
-near-duplicate summer shots just to hit four tabs.
+**Image quality rubric (used by the audit; score each axis 0–2, or NA).** Score the plant's
+*current* reel — a low score flags a shot type to add or replace:
+
+| axis | 0 | 1 | 2 |
+|------|---|---|---|
+| **whole_plant** | no habit shot | habit cropped/cluttered | clear whole-plant form |
+| **foliage** | can't tell leaf shape | leaves visible but secondary/blurred | leaf shape & texture readable |
+| **flowers** | none/unclear (or not in bloom) | small or partial | crisp, detailed flowers |
+| **front_facing** | bloom shown from behind/side | mixed/angled | face-on | *(NA if no flowers)* |
+| **bloom_in_context** | neither mass nor close-up | only one of the two | both a flowering-mass shot **and** a close-up | *(NA if not a heavy bloomer)* |
+| **seed_pods** | notable pods/seedheads/hips missing | partial | shown well | *(NA if not a notable feature)* |
+| **thumb_framing** | feature cut off / lost in the thumbnail | off-centre or small | centered & legible in the 720×480 thumb |
+
+**Nice-to-have:** seasonal coverage (spring / summer / fall / winter) where the plant changes a
+lot (fall colour, winter stems/seedheads). Don't pad the reel with near-duplicate summer shots.
 
 **Each image ships in two sizes:** a **720×480 (3:2) smart-cropped thumbnail**
 (`local:`, what the card grid loads) and a **≤1500px full image** (`full:`, what the

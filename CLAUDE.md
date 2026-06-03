@@ -38,8 +38,8 @@ Work happens in an ephemeral remote container: the repo is cloned fresh when the
 container starts and reclaimed after inactivity, so **nothing survives unless it's
 committed and pushed.** Deploys are just git:
 
-1. Edit the relevant file(s) — `index.html`, `styles.css`, `app.js`, or a
-   `plants/.../plant.json`.
+1. Edit the relevant file(s) — `index.html`, `plant.html`, `styles.css`, `reel.js`,
+   `app.js`, `plant.js`, or a `plants/.../plant.json`.
 2. `git add -A && git commit && git push`.
 3. GitHub Pages redeploys automatically; changes go live in a minute or two.
 
@@ -56,16 +56,28 @@ python3 -m http.server 8000   # then curl http://localhost:8000/plants/manifest.
 The site is a few plain files plus a tree of per-plant data:
 
 ```
-index.html              # thin shell: markup only; links styles.css + app.js
-styles.css              # all styling
-app.js                  # all behaviour (render, reels, filters, modal, lightbox, loader)
+index.html              # encyclopedia grid shell: markup only; links styles.css + reel.js + app.js
+plant.html              # standalone per-plant detail page shell; links styles.css + reel.js + plant.js
+styles.css              # all styling (grid + detail page)
+reel.js                 # SHARED engine: shot resolution, the seasonal reel, the zoom/swipe
+                        #   lightbox, and the TRAITS predicates/badges. Loaded first on both pages.
+app.js                  # grid behaviour (render cards, filters, search, add modal, loader)
+plant.js                # detail-page behaviour (fetch one plant, render the "sheet", set meta)
 .nojekyll               # serve everything verbatim on Pages
 plants/
   manifest.json         # { "plants": ["trees/chokecherry", ...] } — the list to load
   <category>/<slug>/
-    plant.json          # one plant's full record (card fields + photo "shots")
+    plant.json          # one plant's full record (card fields + photo "shots" + optional care)
     images/             # repo-hosted photos: <shot>.jpg full + <shot>-t.jpg thumb + credits.json
 ```
+
+**Two pages, one shared engine.** `index.html`+`app.js` is the encyclopedia grid;
+`plant.html`+`plant.js` is the standalone detail page. Both `<script src="reel.js">` **first**
+— `reel.js` owns everything photo-related (the reel render `plateHTML`, `wireReels`, the
+lightbox + `wireLightbox(root)` delegation) plus the `TRAITS` map, `flagsHTML`, and
+`natBadge`, so the grid cards and the detail sheet never drift. `plant.html` lives at the
+repo root like `index.html`, so all root-relative paths (`plants/…`, `styles.css`,
+`reel.js`) resolve identically — no path-base juggling.
 
 **Load flow (in `app.js`):** on startup `loadSeed()` fetches `plants/manifest.json`,
 then fetches every listed `plant.json` in parallel and assigns them to the in-memory
@@ -84,7 +96,7 @@ type via `groupOf()`.
   need it.
 - `care:{…}` *(optional)* — the **grow-and-care detail** for the per-plant detail page
   (see "Detail page" below). A flat object of prose strings keyed by aspect; the detail
-  renderer reads a fixed, ordered allow-list of keys (`CARE_FIELDS` in `app.js`) and skips
+  renderer reads a fixed, ordered allow-list of keys (`CARE_FIELDS` in `plant.js`) and skips
   any that are absent, so a plant can fill in as many or as few as apply. Current keys:
   `hardiness, sun, soil, water, spacing, sow, stratify, depth, bloom, feeding,
   maintenance, selfsow, troubles, harvest, companions`. Keep each value a short paragraph
@@ -116,22 +128,25 @@ non-breaking:** the remote `url`/`commons` stays as a safety net under the local
 
 ### Detail page ("go into a plant")
 
-Each plant has a full **detail page** reachable from its card (the card title and the
-"Grow & care details →" link both point to it). It is **not a separate file** — it's a
-hash route inside the same SPA: `#plant=<category>/<slug>` (e.g.
-`#plant=annuals/rocky-mountain-bee-plant`). `route()` (wired to load + `hashchange`)
-reads the slug via `currentSlug()`; if present it calls `renderDetail(slug)`, otherwise
-the normal grid `render()`. This keeps the URL shareable, the back button working, and
-**reuses the existing reel + lightbox + shot-resolution code verbatim** (the detail sheet
-is just a bigger `.plate`; `wireReels`/the delegated lightbox handlers already cover it).
+Each plant has a full **standalone detail page** reachable from its card (the card title and
+the "Grow & care details →" link both point to it). It's a **real separate page** —
+`plant.html?p=<category>/<slug>` (e.g. `plant.html?p=annuals/rocky-mountain-bee-plant`) —
+not a hash route, so it's its own URL with a full reload and its own `<title>`/meta. One
+generic `plant.html` serves every plant: `plant.js` reads the slug from the query string,
+`fetch()`es that single `plants/<slug>/plant.json` (stamping `dir` exactly like the grid
+loader), and renders the sheet. **It reuses the reel + lightbox + shot-resolution code from
+`reel.js` verbatim** (the hero is just a bigger `.plate`; `wireReels(detail)` +
+`wireLightbox(detail)` cover it).
 
-`renderDetail` sets `body.detail` (CSS hides the toolbar/filters/legend/meta-row), renders
-a masthead-style **sheet**: hero photo reel + name/botanical/blurb/badges/trait-flags, an
-**"At a glance"** facts table (the same card fields), a **"Growing & care on the Front
-Range"** grid built from the plant's `care` object (see schema), and a **"Photographs"**
-credits list (photographer · license · source per shot). Filter state is kept in memory
-while you're on a detail page, so the back link (`href="#"`) restores the grid you left.
-To extend a plant's detail page, add/extend its `care` object — no per-plant code.
+`renderDetail(p)` builds a masthead-style **sheet**: hero photo reel + name/botanical/
+blurb/badges/trait-flags, an **"At a glance"** facts table (the same card fields), a
+**"Growing & care on the Front Range"** grid built from the plant's `care` object (see
+schema), and a **"Photographs"** credits list (photographer · license · source per shot).
+`setMeta(p)` updates `document.title` + the `og:`/`description` tags to name the plant.
+The page has a slim masthead (the wordmark links home) and a "‹ Back to the herbarium"
+link (`href="index.html"`) top and bottom. To extend a plant's detail page, add/extend its
+`care` object — no per-plant code. (The grid's own filters live in the URL hash on
+`index.html`; navigating to a detail page is a normal link, and Back returns to the grid.)
 
 ### UI features
 

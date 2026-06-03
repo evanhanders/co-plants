@@ -7,8 +7,14 @@
     "source": "https://www.inaturalist.org/observations/141607773",
     "dataset": "iNaturalist open data",
     "render": "original",
-    "full_px": [1400, 933],
-    "thumb_px": [400, 267]
+    "full_px": [
+      1400,
+      933
+    ],
+    "thumb_px": [
+      400,
+      267
+    ]
   },
   {
     "file": "images/su-flower.jpg",
@@ -18,8 +24,14 @@
     "source": "https://www.inaturalist.org/observations/48328412",
     "dataset": "iNaturalist open data",
     "render": "original",
-    "full_px": [1050, 1400],
-    "thumb_px": [300, 400]
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
   },
   {
     "file": "images/su-foliage.jpg",
@@ -29,7 +41,20 @@
     "source": "https://www.inaturalist.org/observations/105967907",
     "dataset": "iNaturalist open data",
     "render": "original",
-    "full_px": [806, 1200],
-    "thumb_px": [269, 400]
+    "full_px": [
+      806,
+      1200
+    ],
+    "thumb_px": [
+      269,
+      400
+    ]
+  },
+  {
+    "file": "images/fa-foliage.jpg",
+    "by": "Stanislav Murashkin",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/photos/561556563",
+    "via": "iNaturalist"
   }
 ]

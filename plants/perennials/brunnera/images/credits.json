@@ -17,23 +17,6 @@
     ]
   },
   {
-    "file": "images/sp-habit.jpg",
-    "photo_id": 129027114,
-    "by": "elena_tikhonova",
-    "license": "CC-BY-NC",
-    "source": "https://www.inaturalist.org/observations/78814274",
-    "dataset": "iNaturalist open data",
-    "render": "original",
-    "full_px": [
-      950,
-      1400
-    ],
-    "thumb_px": [
-      271,
-      400
-    ]
-  },
-  {
     "file": "images/su-foliage.jpg",
     "photo_id": 257228845,
     "by": "henryedelman",

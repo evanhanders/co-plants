@@ -51,23 +51,6 @@
     ]
   },
   {
-    "file": "images/su-foliage.jpg",
-    "photo_id": 218064905,
-    "by": "millasherms",
-    "license": "CC-BY-NC",
-    "source": "https://www.inaturalist.org/observations/128383741",
-    "dataset": "iNaturalist open data",
-    "render": "original",
-    "full_px": [
-      1050,
-      1400
-    ],
-    "thumb_px": [
-      300,
-      400
-    ]
-  },
-  {
     "file": "images/fa-pods.jpg",
     "photo_id": 230033051,
     "by": "woodsatnight",

@@ -61,6 +61,16 @@
       "by": "Leonard Rüdenberg",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/48328412"
+    },
+    {
+      "local": "images/fa-foliage-t.jpg",
+      "full": "images/fa-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/561556563/original.jpg",
+      "s": "fall",
+      "cap": "Fall — gray-green aromatic basal rosette with finished spikes showing the leaf texture · © Stanislav Murashkin (CC-BY) / iNaturalist",
+      "by": "Stanislav Murashkin",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/photos/561556563"
     }
   ],
   "commons": "Woodland sage-Salvia nemorosa.jpg"

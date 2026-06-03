@@ -41,23 +41,12 @@
   },
   {
     "file": "images/su-foliage.jpg",
-    "commons_file": "Geranium Rozanne 5zz.jpg",
-    "by": "Photo by David J. Stang",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Geranium_Rozanne_5zz.jpg",
+    "commons_file": "Geranium wallichianum Jardín botánico de Valencia.JPG",
+    "by": "Falconaumanni",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Geranium_wallichianum_Jard%C3%ADn_bot%C3%A1nico_de_Valencia.JPG",
     "dataset": "Wikimedia Commons",
-    "orig_px": [
-      3504,
-      2336
-    ],
-    "full_px": [
-      1500,
-      1000
-    ],
-    "thumb_px": [
-      400,
-      267
-    ]
+    "note": "Geranium wallichianum (the species seed-parent of 'Rozanne') — foliage representative of the hybrid's deeply-lobed palmate leaf"
   },
   {
     "file": "images/su-context.jpg",

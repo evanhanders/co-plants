@@ -393,10 +393,11 @@ facts are covered):
 
 1. **Front-Range-specific first** — **CSU Extension – Yard & Garden** (`extension.colostate.edu`),
    its plant-specific **PlantTalk Colorado** (`planttalk.colostate.edu`) and **CMG GardenNotes**
-   (`cmg.extension.colostate.edu`), and **Plant Select** (`plantselect.org`, the CSU + Denver
-   Botanic Gardens program — the authority for its own introductions like Mojave sage). These
-   speak to how a plant performs here (alkaline clay, semi-arid, ~USDA 5b–6a, mid-May last
-   frost, high-altitude sun).
+   (`cmg.extension.colostate.edu`), **Plant Select** (`plantselect.org`, the CSU + Denver
+   Botanic Gardens program — the authority for its own introductions like Mojave sage), and
+   **Denver Urban Gardens** (`dug.org` — a Denver nonprofit; its **Companion Planting Guide**
+   is the go-to for the `companions` field). These speak to how a plant performs here (alkaline
+   clay, semi-arid, ~USDA 5b–6a, mid-May last frost, high-altitude sun).
 2. **Species authority** — for **natives**: **USDA Forest Service / Western Forbs**
    (`westernforbs.org`), **USDA NRCS Plant Guides + PLANTS Database** (`plants.usda.gov`), the
    **USDA-FS FEIS** fire-ecology database, and the **Lady Bird Johnson Wildflower Center**
@@ -454,6 +455,12 @@ monograph, with CSU Extension cited for the Front-Range timing.
   bigleaf/Russell hybrid lupine (*Lupinus polyphyllus*) — not CO-native and invasive
   in some regions. All lupines carry toxic alkaloids.
 - All **euphorbias** have toxic/irritant milky sap (gloves; caution with kids/pets).
+- **Chamomile:** the garden chamomiles are fine — **German chamomile** (*Matricaria
+  chamomilla*, the tea annual) and **Roman chamomile** (*Chamaemelum nobile*). But
+  ***scentless chamomile*** (*Tripleurospermum perforatum*, syn. *Matricaria perforata*) is a
+  **CO List B noxious weed**, and **mayweed chamomile** (*Anthemis cotula*) is also weedy —
+  both look daisy-like; don't confuse them with the herb. The tell: German chamomile is
+  sweetly apple-scented with a hollow, domed/conical disc.
 
 ## Trusted resources
 
@@ -461,6 +468,9 @@ monograph, with CSU Extension cited for the Front-Range timing.
 - **CSU Extension — Yard & Garden:**
   https://extension.colostate.edu/topic-areas/yard-garden/ (how plants perform on
   the Front Range) — also the lead **care-fact** source (see "Sourcing care facts")
+- **Denver Urban Gardens (DUG)** — Denver nonprofit; its **Companion Planting Guide**
+  (https://dug.org/gardening-resources/companion-planting/) is the go-to local source for
+  the detail-page `companions` field
 - **Care-fact authorities** (for the detail-page `care`/`care_src`): **Plant Select**
   (plantselect.org), **USDA Forest Service / Western Forbs** (westernforbs.org), **USDA
   NRCS / PLANTS** (plants.usda.gov), **Lady Bird Johnson Wildflower Center**
@@ -471,7 +481,7 @@ monograph, with CSU Extension cited for the Front-Range timing.
 
 ## Current plant roster (in the live site)
 
-**44 specimens**, all verified non-weed in CO. Grouped by type below (the order the
+**45 specimens**, all verified non-weed in CO. Grouped by type below (the order the
 site uses). The original **28 carry repo-hosted photo reels** (close-up + structure,
 seasonal where good shots exist); the **16 newest (marked ✎ below) carry full sourced
 care but still await repo-hosted photos** — they render the "photo coming soon"
@@ -530,6 +540,7 @@ are 720×480 smart-crops (`tools/rethumb.py`). **All 44 carry a full `care` bloc
 - Snapdragon (*Antirrhinum majus*) (I) — reel: bicolor spike / clump of spikes
 - Rocky Mountain bee plant (*Cleomella serrulata*, syn. *Cleome serrulata*) (N) — reel: flower closeup / prairie stand / whole plant + seed pods
 - ✎ Larkspur (*Consolida ajacis*) (I) — cool-season spires; **all parts toxic**; direct-sow (photos pending)
+- German chamomile (*Matricaria chamomilla*) (I) — apple-scented tea daisy; beneficial-insect draw; self-sows (NOT noxious scentless chamomile)
 
 **Groundcovers** *(new group)*
 - ✎ Snow-in-summer (*Cerastium tomentosum*) (I) — silver mat, white flowers; lean-soil to behave (photos pending)

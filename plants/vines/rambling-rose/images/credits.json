@@ -41,16 +41,25 @@
   },
   {
     "file": "images/su-foliage.jpg",
-    "by": "Graham Buck",
-    "license": "CC-BY-NC",
-    "source": "https://www.inaturalist.org/observations/243781099",
-    "via": "iNaturalist"
+    "commons_file": "Rosa canina leaves 001.jpg",
+    "by": "Iurie",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Rosa_canina_leaves_001.jpg",
+    "via": "Wikimedia Commons"
   },
   {
     "file": "images/fa-hips.jpg",
-    "by": "toadyboys",
-    "license": "CC-BY-NC",
-    "source": "https://www.inaturalist.org/observations/50183083",
-    "via": "iNaturalist"
+    "commons_file": "Rosehips in Eppstein, Hessen 01.jpg",
+    "by": "Kritzolina",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Rosehips_in_Eppstein,_Hessen_01.jpg",
+    "via": "Wikimedia Commons"
+  },
+  {
+    "file": "images/wi-structure.jpg",
+    "by": "Ddgfoto",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Rose_garden_in_winter.jpg",
+    "via": "Wikimedia Commons"
   }
 ]

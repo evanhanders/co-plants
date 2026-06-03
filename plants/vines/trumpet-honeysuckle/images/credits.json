@@ -35,20 +35,12 @@
   },
   {
     "file": "images/su-foliage.jpg",
-    "photo_id": 257931134,
-    "by": "no rights reserved",
-    "license": "CC0",
-    "source": "https://www.inaturalist.org/observations/149665055",
+    "photo_id": 537172811,
+    "by": "josephbratta",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/298235248",
     "dataset": "iNaturalist open data",
-    "render": "original",
-    "full_px": [
-      1050,
-      1400
-    ],
-    "thumb_px": [
-      300,
-      400
-    ]
+    "render": "large"
   },
   {
     "file": "images/su-bloom.jpg",
@@ -73,5 +65,12 @@
     "license": "CC-BY-NC",
     "source": "https://www.inaturalist.org/photos/552381723",
     "via": "GBIF"
+  },
+  {
+    "file": "images/su-habit2.jpg",
+    "by": "Luke Padon",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/observations/40445734",
+    "via": "iNaturalist"
   }
 ]

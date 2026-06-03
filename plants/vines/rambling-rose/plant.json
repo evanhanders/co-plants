@@ -67,22 +67,32 @@
     {
       "local": "images/su-foliage-t.jpg",
       "full": "images/su-foliage.jpg",
-      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/438385548/large.jpeg",
+      "commons": "Rosa canina leaves 001.jpg",
       "s": "summer",
-      "cap": "Summer — compound rose leaf with serrated leaflets, characteristic of rambling roses · © Graham Buck (CC-BY-NC) / iNaturalist",
-      "by": "Graham Buck",
-      "lic": "CC-BY-NC",
-      "link": "https://www.inaturalist.org/observations/243781099"
+      "cap": "Summer — a clean, healthy compound rose leaf with toothed, pointed leaflets · © Iurie (CC0) / Wikimedia Commons",
+      "by": "Iurie",
+      "lic": "CC0",
+      "link": "https://commons.wikimedia.org/wiki/File:Rosa_canina_leaves_001.jpg"
     },
     {
       "local": "images/fa-hips-t.jpg",
       "full": "images/fa-hips.jpg",
-      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/81064455/large.jpg",
+      "commons": "Rosehips in Eppstein, Hessen 01.jpg",
       "s": "fall",
-      "cap": "Fall — orange-red hips ripening on arching canes alongside late flowers, showing seasonal interest · © toadyboys (CC-BY-NC) / iNaturalist",
-      "by": "toadyboys",
-      "lic": "CC-BY-NC",
-      "link": "https://www.inaturalist.org/observations/50183083"
+      "cap": "Autumn — a cluster of bright orange-red rose hips ripening among the foliage · © Kritzolina (CC BY-SA 4.0) / Wikimedia Commons",
+      "by": "Kritzolina",
+      "lic": "CC BY-SA 4.0",
+      "link": "https://commons.wikimedia.org/wiki/File:Rosehips_in_Eppstein,_Hessen_01.jpg"
+    },
+    {
+      "local": "images/wi-structure-t.jpg",
+      "full": "images/wi-structure.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Rose_garden_in_winter.jpg",
+      "s": "winter",
+      "cap": "Winter — long bare arching canes trained over a pergola, the rambler's framework laid bare · © Ddgfoto (CC BY-SA 4.0) / Wikimedia Commons",
+      "by": "Ddgfoto",
+      "lic": "CC BY-SA 4.0",
+      "link": "https://commons.wikimedia.org/wiki/File:Rose_garden_in_winter.jpg"
     }
   ],
   "commons": "Albertine rose North Yorkshire 30 June 2023 (3).JPG"

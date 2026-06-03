@@ -67,12 +67,12 @@
     {
       "local": "images/su-foliage-t.jpg",
       "full": "images/su-foliage.jpg",
-      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/257931134/large.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/537172811/large.jpg",
       "s": "summer",
-      "cap": "Summer — perfoliate leaves (upper pairs fused around the stem), the distinctive foliage of trumpet honeysuckle · © no rights reserved (CC0) / iNaturalist",
-      "by": "no rights reserved",
-      "lic": "CC0",
-      "link": "https://www.inaturalist.org/observations/149665055"
+      "cap": "Summer — coral buds set against a perfoliate leaf disc (the upper leaf pairs fuse into a saucer around the stem), the distinctive foliage of trumpet honeysuckle · © josephbratta (CC-BY-NC) / iNaturalist",
+      "by": "josephbratta",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/298235248"
     },
     {
       "local": "images/su-bloom-t.jpg",
@@ -93,6 +93,16 @@
       "by": "Rick Travis",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/photos/552381723"
+    },
+    {
+      "local": "images/su-habit2-t.jpg",
+      "full": "images/su-habit2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/64177888/large.jpg",
+      "s": "summer",
+      "cap": "Summer — the twining vine in bloom on a wooden fence, coral tubes and perfoliate leaves along the climbing stems · © Luke Padon (CC-BY) / iNaturalist",
+      "by": "Luke Padon",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/40445734"
     }
   ]
 }

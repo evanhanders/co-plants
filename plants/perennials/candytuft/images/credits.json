@@ -49,5 +49,26 @@
       300,
       400
     ]
+  },
+  {
+    "file": "images/sp-mat.jpg",
+    "by": "Todd Boland",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/observations/74565196",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/sp-flower2.jpg",
+    "by": "fotis-samaritakis",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/69055406",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/wi-foliage.jpg",
+    "by": "Oliver Stöhr",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/260413837",
+    "via": "iNaturalist"
   }
 ]

@@ -2,9 +2,9 @@
   {
     "file": "images/su-flower.jpg",
     "photo_id": 212656079,
-    "by": "James Fowler",
+    "by": "Elliott Gordon",
     "license": "CC-BY",
-    "source": "https://www.inaturalist.org/observations/125400178",
+    "source": "https://www.inaturalist.org/observations/85403631",
     "dataset": "iNaturalist open data",
     "render": "original",
     "full_px": [
@@ -14,7 +14,8 @@
     "thumb_px": [
       400,
       400
-    ]
+    ],
+    "via": "iNaturalist"
   },
   {
     "file": "images/su-pods.jpg",
@@ -76,9 +77,30 @@
   },
   {
     "file": "images/su-flower-fresh.jpg",
-    "by": "EllieTrombone",
+    "by": "Elliott Gordon",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/observations/85403631",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/su-berries.jpg",
+    "by": "Luke Padon",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/observations/52722396",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/su-foliage2.jpg",
+    "by": "Jonathan Tales",
     "license": "CC-BY-NC",
-    "source": "https://www.inaturalist.org/observations/75059649",
+    "source": "https://www.inaturalist.org/observations/183536145",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/su-bloom.jpg",
+    "by": "juliegrene",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/124778157",
     "via": "iNaturalist"
   }
 ]

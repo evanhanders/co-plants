@@ -95,12 +95,22 @@
     {
       "local": "images/wi-seeds-t.jpg",
       "full": "images/wi-seeds.jpg",
-      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/342923387/large.jpeg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/608212615/large.jpg",
       "s": "winter",
-      "cap": "Winter — persistent feathery white achene tufts on wiry stems, the classic winter seedhead display · © Samantha Heller (CC-BY-NC) / iNaturalist",
-      "by": "Samantha Heller",
+      "cap": "Winter — a crisp close-up of the feathery white pappus seedheads with their dark achenes, the classic winter display · © Sam Kieschnick (CC-BY) / iNaturalist",
+      "by": "Sam Kieschnick",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/photos/608212615"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/404792854/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — fine heath-like needle foliage on the wiry pre-bloom mound, the texture that names the plant · © Donna J. Parry (CC-BY-NC) / iNaturalist",
+      "by": "Donna J. Parry",
       "lic": "CC-BY-NC",
-      "link": "https://www.inaturalist.org/observations/194995901"
+      "link": "https://www.inaturalist.org/observations/228140119"
     }
   ]
 }

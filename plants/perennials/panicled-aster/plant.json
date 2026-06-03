@@ -81,6 +81,26 @@
       "by": "David Martin",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/92195604"
+    },
+    {
+      "local": "images/fa-seedhead-t.jpg",
+      "full": "images/fa-seedhead.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/441870374/large.jpeg",
+      "s": "fall",
+      "cap": "Late fall — dense clusters of feathery white pappus seedheads, the persistent fluffy seed display after bloom · © no rights reserved (CC0) / iNaturalist",
+      "by": "no rights reserved",
+      "lic": "CC0",
+      "link": "https://www.inaturalist.org/observations/247407497"
+    },
+    {
+      "local": "images/su-summer-t.jpg",
+      "full": "images/su-summer.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/86748476/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — leafy upright stems clothed in narrow lance-shaped (willow-like) leaves before bloom · © no rights reserved (CC0) / iNaturalist",
+      "by": "no rights reserved",
+      "lic": "CC0",
+      "link": "https://www.inaturalist.org/observations/54517863"
     }
   ]
 }

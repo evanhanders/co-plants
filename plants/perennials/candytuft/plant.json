@@ -68,6 +68,36 @@
       "by": "Sofia Gualano",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/280003782"
+    },
+    {
+      "local": "images/sp-mat-t.jpg",
+      "full": "images/sp-mat.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/121880275/large.jpg",
+      "s": "spring",
+      "cap": "Spring — the low evergreen mat in flower, showing its mounded ground-cover form among rock · © Todd Boland (CC-BY) / iNaturalist",
+      "by": "Todd Boland",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/74565196"
+    },
+    {
+      "local": "images/sp-flower2-t.jpg",
+      "full": "images/sp-flower2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/111965022/large.jpeg",
+      "s": "spring",
+      "cap": "Spring — macro of a single flat white corymb, the uneven-petalled florets and yellow-purple eyes · © fotis-samaritakis (CC-BY-NC) / iNaturalist",
+      "by": "fotis-samaritakis",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/69055406"
+    },
+    {
+      "local": "images/wi-foliage-t.jpg",
+      "full": "images/wi-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/467658513/large.jpg",
+      "s": "winter",
+      "cap": "Winter — the evergreen linear foliage holding on a wall, bronzing in the cold · © Oliver Stöhr (CC-BY-NC) / iNaturalist",
+      "by": "Oliver Stöhr",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/260413837"
     }
   ]
 }

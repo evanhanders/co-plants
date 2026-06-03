@@ -85,6 +85,26 @@
       "by": "jenmn",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/318974603"
+    },
+    {
+      "local": "images/su-habit2-t.jpg",
+      "full": "images/su-habit2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/569873416/large.jpg",
+      "s": "summer",
+      "cap": "Summer — a single Rocky Mountain bee plant showing the full upright branching form, height, pink flower heads and dangling pods against open ground · © Sequoia Janirella Wrens (CC-BY-NC) / iNaturalist",
+      "by": "Sequoia Janirella Wrens",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/315459742"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/74953944/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — palmately compound leaves (3–5 narrow leaflets), the diagnostic foliage, in clear detail · © beeplanter_nat (CC-BY-NC) / iNaturalist",
+      "by": "beeplanter_nat",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/47262556"
     }
   ]
 }

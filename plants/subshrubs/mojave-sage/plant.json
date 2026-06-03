@@ -79,6 +79,26 @@
       "by": "als93",
       "lic": "CC-BY",
       "link": "https://www.inaturalist.org/observations/14613698"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/374127110/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — thick, silver-felted leaves in close-up, the 'pachyphylla' (thick-leaved) trait that gives the plant its aromatic silvery character · © Erik Meling (CC-BY-NC) / iNaturalist",
+      "by": "Erik Meling",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/211649064"
+    },
+    {
+      "local": "images/fa-fall-t.jpg",
+      "full": "images/fa-fall.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/593947704/large.jpg",
+      "s": "fall",
+      "cap": "Fall — the silvery felted mound holding its persistent rosy-mauve bracts and last violet flowers into autumn · © Erik Meling (CC-BY-NC) / iNaturalist",
+      "by": "Erik Meling",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/327817495"
     }
   ],
   "commons": "Salvia pachyphylla, the Rose Sage (10461533306).jpg"

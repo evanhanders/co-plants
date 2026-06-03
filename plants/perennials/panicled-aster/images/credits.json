@@ -66,5 +66,19 @@
       400,
       300
     ]
+  },
+  {
+    "file": "images/fa-seedhead.jpg",
+    "by": "no rights reserved",
+    "license": "CC0",
+    "source": "https://www.inaturalist.org/observations/247407497",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/su-summer.jpg",
+    "by": "no rights reserved",
+    "license": "CC0",
+    "source": "https://www.inaturalist.org/observations/54517863",
+    "via": "iNaturalist"
   }
 ]

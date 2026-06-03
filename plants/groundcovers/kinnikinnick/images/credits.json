@@ -58,10 +58,20 @@
     "via": "GBIF"
   },
   {
-    "file": "images/wi-wi-foliage.jpg",
-    "by": "Paweł Pieluszyński",
+    "file": "images/su-foliage.jpg",
+    "photo_id": 385771748,
+    "by": "Christian Nunes",
     "license": "CC-BY-NC",
-    "source": "https://www.inaturalist.org/photos/605244993",
+    "source": "https://www.inaturalist.org/observations/218026592",
+    "dataset": "iNaturalist open data",
+    "render": "large"
+  },
+  {
+    "file": "images/wi-foliage.jpg",
+    "photo_id": 605152993,
+    "by": "Nikolai Braedt",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/photos/605152993",
     "via": "GBIF"
   }
 ]

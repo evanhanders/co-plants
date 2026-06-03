@@ -46,10 +46,20 @@
       "full": "images/su-habit.jpg",
       "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/560480933/large.jpg",
       "s": "summer",
-      "cap": "Summer — airy lavender-blue haze · © dfwtxnative (CC-BY-NC) / iNaturalist",
+      "cap": "Summer — airy lavender-blue haze over silver stems · © dfwtxnative (CC-BY-NC) / iNaturalist",
       "by": "dfwtxnative",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/photos/560480933"
+    },
+    {
+      "local": "images/su-flowers2-t.jpg",
+      "full": "images/su-flowers2.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Perovskia_atriplicifolia_3.jpg",
+      "s": "summer",
+      "cap": "Face-on close-up of the small tubular blue flowers and hairy calyx · © Stan Shebs (CC-BY-SA 3.0) / Wikimedia Commons",
+      "by": "Stan Shebs",
+      "lic": "CC-BY-SA 3.0",
+      "link": "https://commons.wikimedia.org/wiki/File:Perovskia_atriplicifolia_3.jpg"
     },
     {
       "local": "images/su-flowers-t.jpg",
@@ -70,16 +80,6 @@
       "by": "Kevin Bert",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/photos/564445185"
-    },
-    {
-      "local": "images/su-flowers2-t.jpg",
-      "full": "images/su-flowers2.jpg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Perovskia_atriplicifolia_3.jpg",
-      "s": "summer",
-      "cap": "Face-on close-up of the small tubular blue flowers and hairy calyx · © Stan Shebs (CC-BY-SA 3.0) / Wikimedia Commons",
-      "by": "Stan Shebs",
-      "lic": "CC-BY-SA 3.0",
-      "link": "https://commons.wikimedia.org/wiki/File:Perovskia_atriplicifolia_3.jpg"
     }
   ],
   "commons": "Perovskia atriplicifolia 138-8441.jpg"

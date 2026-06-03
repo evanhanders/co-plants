@@ -42,14 +42,14 @@
   ],
   "shots": [
     {
-      "local": "images/su-habit-t.jpg",
-      "full": "images/su-habit.jpg",
-      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/392941611/large.jpeg",
-      "s": "summer",
-      "cap": "Summer — multi-stem mountain alder in a Colorado canyon · © Mary Lata (CC-BY) / iNaturalist",
-      "by": "Mary Lata",
-      "lic": "CC-BY",
-      "link": "https://www.inaturalist.org/observations/221854123"
+      "local": "images/wi-habit-t.jpg",
+      "full": "images/wi-habit.jpg",
+      "commons": "Alnus incana - 5385149782.jpg",
+      "s": "winter",
+      "cap": "Winter — The bare multi-stem riparian form on a streambank below the foothills · © Matt Lavin (CC BY-SA 2.0) / Wikimedia Commons",
+      "by": "Matt Lavin",
+      "lic": "CC BY-SA 2.0",
+      "link": "https://commons.wikimedia.org/wiki/File:Alnus_incana_-_5385149782.jpg"
     },
     {
       "local": "images/sp-catkins-t.jpg",

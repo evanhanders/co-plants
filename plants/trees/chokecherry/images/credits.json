@@ -49,5 +49,19 @@
       400,
       370
     ]
+  },
+  {
+    "file": "images/sp-habit.jpg",
+    "by": "mmd1330",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/117483586",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/su-habit.jpg",
+    "by": "Matt Lavin from Bozeman, Montana, USA",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Prunus_virginiana_-_chokecherry_-_Flickr_-_Matt_Lavin_(7).jpg",
+    "via": "Wikimedia Commons"
   }
 ]

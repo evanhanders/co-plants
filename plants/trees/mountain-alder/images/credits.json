@@ -38,5 +38,19 @@
     "license": "CC-BY",
     "source": "https://www.inaturalist.org/photos/436328260",
     "dataset": "iNaturalist open data"
+  },
+  {
+    "file": "images/wi-habit.jpg",
+    "by": "charliesaunders",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/209929981",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/wi-habit.jpg",
+    "by": "Matt Lavin",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Alnus_incana_-_5385149782.jpg",
+    "via": "Wikimedia Commons"
   }
 ]

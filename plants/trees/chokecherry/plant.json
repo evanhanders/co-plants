@@ -39,6 +39,16 @@
   ],
   "shots": [
     {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "commons": "Prunus virginiana - chokecherry - Flickr - Matt Lavin (7).jpg",
+      "s": "summer",
+      "cap": "Summer — The whole leafy shrub in habitat — a large multi-stem shrub to small tree · © Matt Lavin from Bozeman, Montana, USA (CC BY-SA 2.0) / Wikimedia Commons",
+      "by": "Matt Lavin from Bozeman, Montana, USA",
+      "lic": "CC BY-SA 2.0",
+      "link": "https://commons.wikimedia.org/wiki/File:Prunus_virginiana_-_chokecherry_-_Flickr_-_Matt_Lavin_(7).jpg"
+    },
+    {
       "local": "images/sp-flowers-t.jpg",
       "full": "images/sp-flowers.jpg",
       "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/644226685/large.jpg",

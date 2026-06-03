@@ -1,8 +1,8 @@
 # Image-quality audit — The Front Range Herbarium
 
-Scored against the 8-axis rubric in `CLAUDE.md` (`whole_plant, foliage, flowers, front_facing, bloom_in_context, seed_pods, thumb_framing, seasonal`; ●=2 / ◐=1 / ○=0 / –=NA). **excellent** = every applicable (non-NA) axis = 2. Annuals' `seasonal` is NA (one-season life). Spike/whorl flowers that can't present face-on carry a structural `front_facing` cap. Post-Wave-4 scores reflect per-thumbnail QC of every sourced shot.
+Scored against the 8-axis rubric in `CLAUDE.md` (`whole_plant, foliage, flowers, front_facing, bloom_in_context, seed_pods, thumb_framing, seasonal`; ●=2 / ◐=1 / ○=0 / –=NA). **excellent** = every applicable (non-NA) axis = 2. Annuals' `seasonal` is NA. Spike/whorl flowers that can't present face-on carry a structural `front_facing` cap. Scores reflect per-thumbnail QC of every sourced shot.
 
-**Tally of 68:** **52 excellent** · 14 effectively excellent (only an unfillable/structural cap) · 2 one fixable gap · 0 multi-gap. → **66/68 at best-possible.**
+**Tally of 68:** **54 excellent** · 14 effectively excellent (only an unfillable/structural cap) · 0 fixable gaps. → **all 68 at best-possible.**
 
 ## ⭐ Excellent — every applicable axis = 2
 
@@ -14,6 +14,7 @@ Scored against the 8-axis rubric in `CLAUDE.md` (`whole_plant, foliage, flowers,
 - **Snapdragon** (4 shots)
 - **Snow-on-the-mountain** (5 shots)
 - **Little bluestem** (5 shots)
+- **Turkish speedwell** (5 shots)
 - **Hardy ice plant** (3 shots)
 - **Kinnikinnick** (6 shots)
 - **Snow-in-summer** (4 shots)
@@ -27,6 +28,7 @@ Scored against the 8-axis rubric in `CLAUDE.md` (`whole_plant, foliage, flowers,
 - **Cushion spurge** (5 shots)
 - **Dahlia** (3 shots)
 - **Cheddar pinks** (5 shots)
+- **Evening primrose** (5 shots)
 - **Garden peony** (5 shots)
 - **Garden phlox** (6 shots)
 - **Grecian windflower** (5 shots)
@@ -76,11 +78,6 @@ Scored against the 8-axis rubric in `CLAUDE.md` (`whole_plant, foliage, flowers,
 - **Twinberry honeysuckle** — capped `seasonal`: riparian deciduous; no notable CC fall-colour/winter shot
 - **White prairie aster** — capped `thumb_framing, seed_pods`: no tighter CC pappus close-up than the existing shot
 
-## ◐ One fixable gap remaining
-
-- **Turkish speedwell** — `seasonal` — unfilled: sourced out-of-bloom shot read as V. persica look-alike; still needs a verified V. liwanensis off-season shot
-- **Evening primrose** — `bloom_in_context`
-
 ## Full scorecard
 
 | plant | whole | folia | flowe | front | bloom | seed_ | thumb | seaso | tier |
@@ -104,7 +101,7 @@ Scored against the 8-axis rubric in `CLAUDE.md` (`whole_plant, foliage, flowers,
 | Creeping Oregon grape | ● | ● | ● | – | – | ● | ● | ● | ⭐ |
 | Cushion spurge | ● | ● | ● | ● | ● | – | ● | ● | ⭐ |
 | Dahlia | ● | ● | ● | ● | ● | – | ● | ● | ⭐ |
-| Evening primrose | ● | ● | ● | ● | ◐ | ● | ● | ● | 1 gap |
+| Evening primrose | ● | ● | ● | ● | ● | ● | ● | ● | ⭐ |
 | Garden clematis | ● | ● | ● | ● | ● | ◐ | ● | ● | ◎ |
 | Garden lupine | ● | ● | ● | ◐ | ● | – | ● | ● | ◎ |
 | Garden peony | ● | ● | ● | ● | ● | ● | ● | ● | ⭐ |
@@ -145,7 +142,7 @@ Scored against the 8-axis rubric in `CLAUDE.md` (`whole_plant, foliage, flowers,
 | Snow-on-the-mountain | ● | ● | ● | ● | ● | – | ● | ● | ⭐ |
 | Spike speedwell | ● | ● | ● | ● | ● | – | ● | ◐ | ◎ |
 | Trumpet honeysuckle | ● | ● | ● | – | ● | ● | ● | ● | ⭐ |
-| Turkish speedwell | ● | ● | ● | ● | ● | – | ● | ◐ | 1 gap |
+| Turkish speedwell | ● | ● | ● | ● | ● | – | ● | ● | ⭐ |
 | Twinberry honeysuckle | ● | ● | ● | ● | ● | ● | ● | ◐ | ◎ |
 | Western wallflower | ● | ● | ● | ● | ● | ● | ● | ● | ⭐ |
 | White heath aster | ● | ● | ● | ● | ● | ● | ● | ● | ⭐ |

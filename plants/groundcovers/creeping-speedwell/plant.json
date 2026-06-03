@@ -85,6 +85,16 @@
       "by": "Felix Riegel",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/130093494"
+    },
+    {
+      "local": "images/su-mat-t.jpg",
+      "full": "images/su-mat.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/413567246/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — the dense evergreen mat out of bloom, tiny glossy crenate leaves (nursery-labelled V. liwanensis) · © Vanya Mitin (CC-BY-NC) / iNaturalist",
+      "by": "Vanya Mitin",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/232762341"
     }
   ]
 }

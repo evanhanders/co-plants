@@ -110,6 +110,16 @@
       "by": "violinbio",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/48467279"
+    },
+    {
+      "local": "images/su-drift-t.jpg",
+      "full": "images/su-drift.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/153914170/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — the sprawling clump in prolific bloom, several big lemon cups among many buds · © Denise Elmer (CC-BY) / iNaturalist",
+      "by": "Denise Elmer",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/92913243"
     }
   ]
 }

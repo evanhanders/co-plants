@@ -240,20 +240,16 @@
    "bloom_in_context": 2,
    "seed_pods": "NA",
    "thumb_framing": 2,
-   "seasonal": 1
+   "seasonal": 2
   },
   "overall": "good",
   "gaps": [
    "seasonal=1: five shots are all spring; plant is described as 'reliably evergreen dark green mat year-round' with winter=true and notable purplish winter tints. A fall or winter mat shot (showing the evergreen foliage out of bloom) is the missing season. Gap is fillable from iNat (search V. liwanensis, phenology=no_evidence or fall months)."
   ],
-  "fixable_gaps": [
-   "seasonal"
-  ],
+  "fixable_gaps": [],
   "capped_axes": [],
   "cap_note": "unfilled: sourced out-of-bloom shot read as V. persica look-alike; still needs a verified V. liwanensis off-season shot",
-  "all_gaps": [
-   "seasonal"
-  ]
+  "all_gaps": []
  },
  {
   "slug": "groundcovers/ice-plant",
@@ -634,7 +630,7 @@
    "foliage": 2,
    "flowers": 2,
    "front_facing": 2,
-   "bloom_in_context": 1,
+   "bloom_in_context": 2,
    "seed_pods": 2,
    "thumb_framing": 2,
    "seasonal": 2
@@ -648,14 +644,10 @@
    "seed_pods: fa-pods shows the four-winged capsules but they appear small, early-stage (still greenish-red), and lie flat against rocky soil — a shot of the distinctive fully-developed papery winged capsules filling the frame is needed",
    "thumb_framing: su-flower2 thumb is almost entirely a hand — worst-framed thumb in the audit (score 0 for that specific shot, pulls set to 1)"
   ],
-  "fixable_gaps": [
-   "bloom_in_context"
-  ],
+  "fixable_gaps": [],
   "capped_axes": [],
   "cap_note": "",
-  "all_gaps": [
-   "bloom_in_context"
-  ]
+  "all_gaps": []
  },
  {
   "slug": "perennials/garden-lupine",

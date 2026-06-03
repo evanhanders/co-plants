@@ -685,16 +685,16 @@ sage.
 
 The current backlog. Move items out of this section as they ship.
 
-- **Photo reels (largely done — see `IMAGE_AUDIT.md`):** every plant was audited against the
-  8-axis rubric and re-sourced to **excellent** where open-licensed shots exist. Current state:
-  **52 excellent · 14 effectively-excellent** (only an unfillable/structural cap left, e.g.
-  no-CC-winter blue-oat-grass, spike-flower `front_facing` on lavender/russian-sage, no-CC
-  yellow-cultivar habit for 'Mersea Yellow' pineleaf penstemon) · **2 genuinely fixable gaps:**
-  **Turkish speedwell** still needs a verified *V. liwanensis* off-season mat shot (the Wave-4
-  candidate read as a *V. persica* look-alike and was rejected), and **evening primrose** wants
-  a true massed-drift `bloom_in_context` shot. Re-query the iNat API (the fast path above) when
-  chasing either; `IMAGE_AUDIT.json` is the per-plant scorecard. (`/tmp/*` is ephemeral — re-query
-  rather than expecting a saved shortlist.)
+- **Photo reels (DONE — see `IMAGE_AUDIT.md`):** every plant was audited against the 8-axis
+  rubric and re-sourced to **excellent** wherever an open-licensed shot exists. Final state:
+  **54 excellent · 14 effectively-excellent · 0 fixable gaps** — all 68 at best-possible. The 14
+  carry only an unfillable/structural cap, each logged with its reason in `IMAGE_AUDIT.md` (e.g.
+  no-CC-winter blue-oat-grass; spike/whorl `front_facing` on lavender/russian-sage/garden-lupine;
+  no open-licensed *yellow* 'Mersea Yellow' pineleaf-penstemon habit/macro; no CC fat pre-split
+  silvery-lupine pod). `IMAGE_AUDIT.json` is the per-plant scorecard. If a better open-licensed
+  shot for a capped axis ever surfaces, re-query the iNat API (the fast path above) and append it
+  with `gbif_add.py`. (Watch the *Veronica liwanensis* look-alike: only pick shots verifiable as
+  the tiny-glossy-leaved tight mat, not the coarse-leaved *V. persica*.)
 - **Trim the batch-1 fulls:** a few early full images (e.g. dogwood `wi-stems.jpg`,
   little-bluestem) were saved at q85/1500px (~0.8 MB); later batches use q82/1400px.
   Re-running those through `finalize.py` would shave repo weight if it matters.

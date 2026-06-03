@@ -17,23 +17,6 @@
     ]
   },
   {
-    "file": "images/su-habit.jpg",
-    "photo_id": 547167419,
-    "by": "zebedeugalinha",
-    "license": "CC-BY",
-    "source": "https://www.inaturalist.org/photos/547167419",
-    "dataset": "iNaturalist open data",
-    "render": "original",
-    "full_px": [
-      1050,
-      1400
-    ],
-    "thumb_px": [
-      300,
-      400
-    ]
-  },
-  {
     "file": "images/su-foliage.jpg",
     "photo_id": 40364242,
     "by": "Chris W.",
@@ -58,7 +41,7 @@
     "via": "iNat"
   },
   {
-    "file": "images/su-habit2.jpg",
+    "file": "images/su-habit.jpg",
     "by": "pollomaria",
     "license": "CC-BY-NC",
     "source": "https://www.inaturalist.org/photos/203831788",

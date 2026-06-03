@@ -43,6 +43,16 @@
   ],
   "shots": [
     {
+      "local": "images/sp-habit-t.jpg",
+      "full": "images/sp-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/109655334/large.jpg",
+      "s": "spring",
+      "cap": "Late spring — a mass of orange oriental poppies in full bloom, showing garden scale and colony habit · © Stephen Hauptli (CC-BY-NC) / iNat",
+      "by": "Stephen Hauptli",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/66982073"
+    },
+    {
       "local": "images/sp-flower-t.jpg",
       "full": "images/sp-flower.jpg",
       "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/137519193/large.jpg",
@@ -53,14 +63,14 @@
       "link": "https://www.inaturalist.org/observations/83717370"
     },
     {
-      "local": "images/sp-foliage-t.jpg",
-      "full": "images/sp-foliage.jpg",
-      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/380957856/large.jpeg",
+      "local": "images/sp-bloom2-t.jpg",
+      "full": "images/sp-bloom2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/311958760/large.jpg",
       "s": "spring",
-      "cap": "Spring — deeply cut, bristly-hairy basal leaves, characteristic of oriental poppy · © Лилиана Барсукова (CC-BY-NC) / iNaturalist",
-      "by": "Лилиана Барсукова",
+      "cap": "Late spring — multiple scarlet blooms face-on, showing fringed petals and inky basal blotches · © blueghen (CC-BY-NC) / iNat",
+      "by": "blueghen",
       "lic": "CC-BY-NC",
-      "link": "https://www.inaturalist.org/observations/215471904"
+      "link": "https://www.inaturalist.org/observations/181239753"
     },
     {
       "local": "images/sp-bloom-t.jpg",
@@ -73,6 +83,16 @@
       "link": "https://www.inaturalist.org/observations/88150259"
     },
     {
+      "local": "images/sp-foliage-t.jpg",
+      "full": "images/sp-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/380957856/large.jpeg",
+      "s": "spring",
+      "cap": "Spring — deeply cut, bristly-hairy basal leaves, characteristic of oriental poppy · © Лилиана Барсукова (CC-BY-NC) / iNaturalist",
+      "by": "Лилиана Барсукова",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/215471904"
+    },
+    {
       "local": "images/su-pods-t.jpg",
       "full": "images/su-pods.jpg",
       "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/130787184/large.jpg",
@@ -81,26 +101,6 @@
       "by": "alexmoen",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/79832199"
-    },
-    {
-      "local": "images/sp-habit-t.jpg",
-      "full": "images/sp-habit.jpg",
-      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/109655334/large.jpg",
-      "s": "spring",
-      "cap": "Late spring — a mass of orange oriental poppies in full bloom, showing garden scale and colony habit · © Stephen Hauptli (CC-BY-NC) / iNat",
-      "by": "Stephen Hauptli",
-      "lic": "CC-BY-NC",
-      "link": "https://www.inaturalist.org/observations/66982073"
-    },
-    {
-      "local": "images/sp-bloom2-t.jpg",
-      "full": "images/sp-bloom2.jpg",
-      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/311958760/large.jpg",
-      "s": "spring",
-      "cap": "Late spring — multiple scarlet blooms face-on, showing fringed petals and inky basal blotches · © blueghen (CC-BY-NC) / iNat",
-      "by": "blueghen",
-      "lic": "CC-BY-NC",
-      "link": "https://www.inaturalist.org/observations/181239753"
     }
   ],
   "commons": "Papaver orientale - oriental poppy.jpg"

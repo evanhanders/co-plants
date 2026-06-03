@@ -15,6 +15,23 @@
   "winter": false,
   "verified": "2026-05-28",
   "commons": "Euphorbia polychroma, wolfsmelk.JPG",
+  "care": {
+    "hardiness": "USDA zones 4–8 — fully winter-hardy on the Boulder Front Range (zone 5b–6a). The mound dies back to the crown in winter and re-emerges reliably each spring. No protection needed beyond good drainage; sitting in wet soil through freeze-thaw cycles is the one thing that kills it.",
+    "sun": "Full sun is ideal — 6+ hours gives the tightest, brightest dome. It tolerates light afternoon shade, but too much shade causes the plant to lose its characteristic cushion shape and become open and floppy.",
+    "soil": "Thrives in lean, dry to medium, sharply drained soil — tolerates poor, rocky, sandy, or clay ground as long as it doesn't stay wet. The alkaline clay-loam soils common on the Front Range suit it well without amendment. Rich, heavily amended, or constantly moist soil leads to lax growth and dulls fall color.",
+    "water": "Low and drought-tolerant once established — it gets by on Front Range rainfall (~15–18 in/year) with only supplemental watering during extended dry spells. Water deeply but infrequently through the growing season; avoid overhead irrigation that keeps foliage wet, and ease off entirely in late fall to help harden the crown before freeze-up.",
+    "spacing": "Space 12–18 in apart; each plant matures to roughly 12–18 in tall and as wide (occasionally wider in rich soil). The compact dome habit means it rarely needs adjustment — set it and leave it.",
+    "bloom": "Showy sulfur-yellow bracts appear in April–May on the Front Range, typically 3–4 weeks of peak color. The lime-chartreuse display is long-lasting even after the true flowers fade. Foliage turns vivid red-orange-purple in autumn for a second season of interest.",
+    "feeding": "None needed on average to poor soils — lean conditions keep the mound tight and bright. A light balanced fertilizer in early spring is fine on genuinely poor ground, but skip it on typical Front Range soils; excess nutrients produce loose, soft growth and muted fall color.",
+    "maintenance": "Cut spent flowering shoots back to the base in late summer or fall once color fades — this keeps the mound tidy and prevents unwanted self-seeding. Wear gloves (and eye protection when pruning): the milky white latex sap is a significant skin and mucous-membrane irritant. Do not compost prunings carelessly — wash tools afterward. Divide clumps in early spring every 4–5 years if the center begins to open up; take basal cuttings in spring, dipping cut ends in water to stop sap flow before potting.",
+    "selfsow": "Can self-seed modestly; deadhead promptly after bloom if you want to control spread. Seedlings are easy to spot and pull when small.",
+    "troubles": "Remarkably trouble-free — no serious pests or diseases on the Front Range. The one vulnerability is crown rot from poorly drained or chronically wet soil; ensure good drainage, especially over winter. Sap causes contact dermatitis in sensitive people and is harmful to eyes — keep kids and pets away from cut stems.",
+    "companions": "Pairs beautifully with late-spring bloomers that share its lean, well-drained conditions: blue flax, bearded iris, wallflower, catmint, and ornamental alliums. The bright spring bracts contrast well with blue-purple tones. Fall foliage color reads well next to little bluestem grass."
+  },
+  "care_src": [
+    { "name": "Missouri Botanical Garden Plant Finder — Euphorbia polychroma", "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=h820" },
+    { "name": "RHS — Euphorbia polychroma", "url": "https://www.rhs.org.uk/plants/32745/many-coloured-spurge/details" }
+  ],
   "shots": [
     {
       "local": "images/sp-flowers-t.jpg",

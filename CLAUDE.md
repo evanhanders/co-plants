@@ -505,12 +505,12 @@ monograph, with CSU Extension cited for the Front-Range timing.
 ## Current plant roster (in the live site)
 
 **68 specimens**, all verified non-weed in CO and all carrying a full `care` block (incl.
-`planting` + `propagation`). Grouped by type below (the order the site uses). **All carry
-repo-hosted photo reels** (close-up + structure, seasonal where good shots exist) **except
-pineleaf penstemon**, which shows the "photo coming soon" placeholder — no CC photo of the
-yellow 'Mersea Yellow' cultivar exists on iNat or Commons (the wild species is red-orange),
-so it stays pending until one is supplied. Photos were sourced mostly from the iNaturalist
-open dataset via `tools/inat_montage.py`; cultivars with no clean iNat taxon (the vine
+`planting` + `propagation`) **and a repo-hosted photo reel** (close-up + structure, seasonal
+where good shots exist). Grouped by type below (the order the site uses). Photos were sourced
+mostly from the iNaturalist open dataset via `tools/inat_montage.py` (note: the yellow
+'Mersea Yellow' pineleaf penstemon came from *cultivated* iNat observations — pass through the
+research-grade filter only by querying without `quality_grade=research`, since garden
+cultivars log as "casual"); cultivars with no clean iNat taxon (the vine
 roses/clematis, 'Dropmore Scarlet' & 'Rozanne', white 'Icicle' speedwell, 'Moonshine' yarrow)
 were hand-sourced from Wikimedia Commons (`commons_search.py` → `commons_finalize.py`). Every
 shot keeps a remote `commons`/`url` fallback; card thumbnails are 720×480 smart-crops
@@ -533,7 +533,7 @@ shot keeps a remote `commons`/`url` fallback; card thumbnails are 720×480 smart
 - Mojave sage (*Salvia pachyphylla*) (I) — flower closeup / silvery mounded shrub
 - Russian sage (*Salvia yangii*, syn. *Perovskia atriplicifolia*) (I) — airy habit / flowers / fall spikes
 - Lavender (*Lavandula angustifolia*) (I) — English lavender ('Munstead'/'Hidcote')
-- ✎ Pineleaf penstemon (*Penstemon pinifolius* 'Mersea Yellow') (I) — yellow-flowered SW native; **photo pending** (no CC image of the yellow form)
+- Pineleaf penstemon (*Penstemon pinifolius* 'Mersea Yellow') (I) — yellow-flowered SW native; needle foliage, hummingbird tubular blooms
 
 **Ornamental grasses**
 - Little bluestem (*Schizachyrium scoparium*) (N) — summer clump / fall copper / winter seedheads

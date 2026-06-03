@@ -29,7 +29,35 @@
     "companions": "Russian sage, Mojave sage, blue grama grass, little bluestem, cushion spurge, Agastache, catmint, low sedums, and creeping thyme — all sharing the same xeric, sharp-drainage requirements and full-sun exposure."
   },
   "care_src": [
-    { "name": "Lady Bird Johnson Wildflower Center — Penstemon pinifolius", "url": "https://www.wildflower.org/plants/result.php?id_plant=PENI2" },
-    { "name": "Plant Select — Half Pint® Pineleaf Penstemon (Penstemon pinifolius 'Compactum')", "url": "https://plantselect.org/half-pint-pineleaf-penstemon-penstemon-pinifolius-compactum/" }
+    {
+      "name": "Lady Bird Johnson Wildflower Center — Penstemon pinifolius",
+      "url": "https://www.wildflower.org/plants/result.php?id_plant=PENI2"
+    },
+    {
+      "name": "Plant Select — Half Pint® Pineleaf Penstemon (Penstemon pinifolius 'Compactum')",
+      "url": "https://plantselect.org/half-pint-pineleaf-penstemon-penstemon-pinifolius-compactum/"
+    }
+  ],
+  "shots": [
+    {
+      "local": "images/su-close-t.jpg",
+      "full": "images/su-close.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/399937230/large.jpg",
+      "s": "summer",
+      "cap": "Summer — soft-yellow tubular flowers of the 'Mersea Yellow' form over needle-fine foliage · © ninaem (CC-BY-NC) / iNaturalist",
+      "by": "ninaem",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/225366625"
+    },
+    {
+      "local": "images/su-structure-t.jpg",
+      "full": "images/su-structure.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/522401849/large.jpg",
+      "s": "summer",
+      "cap": "Summer — the low evergreen subshrub in yellow bloom · © Jes Gray (CC-BY) / iNaturalist",
+      "by": "Jes Gray",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/290395437"
+    }
   ]
 }

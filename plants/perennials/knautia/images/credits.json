@@ -1,34 +1,57 @@
 [
   {
     "file": "images/su-habit.jpg",
-    "photo_id": 286084437,
-    "by": "vgruenwa",
+    "photo_id": 389376554,
+    "by": "maddyv05",
     "license": "CC-BY-NC",
-    "source": "https://www.inaturalist.org/observations/165277900",
-    "dataset": "iNaturalist open data"
-  },
-  {
-    "file": "images/su-bloom.jpg",
-    "photo_id": 385346266,
-    "by": "evergreensdad",
-    "license": "CC-BY-NC",
-    "source": "https://www.inaturalist.org/observations/217801107",
-    "dataset": "iNaturalist open data"
-  },
-  {
-    "file": "images/su-flower.jpg",
-    "photo_id": 318612646,
-    "by": "no rights reserved",
-    "license": "CC0",
-    "source": "https://www.inaturalist.org/observations/182709489",
-    "dataset": "iNaturalist open data"
+    "source": "https://www.inaturalist.org/observations/219954763",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
   },
   {
     "file": "images/su-foliage.jpg",
-    "photo_id": 529721304,
+    "photo_id": 521711461,
+    "by": "Elizabeth Buhr",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/290032651",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  },
+  {
+    "file": "images/su-bloom.jpg",
+    "by": "evergreensdad",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/217801107",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/su-flower.jpg",
+    "by": "no rights reserved",
+    "license": "CC0",
+    "source": "https://www.inaturalist.org/observations/182709489",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/su-drift.jpg",
     "by": "johnmuirway-eastdunbartonshire-tcv",
     "license": "CC-BY-NC",
     "source": "https://www.inaturalist.org/observations/294302695",
-    "dataset": "iNaturalist open data"
+    "via": "iNaturalist"
   }
 ]

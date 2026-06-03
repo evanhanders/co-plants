@@ -42,24 +42,44 @@
   ],
   "shots": [
     {
+      "local": "images/fa-structure-t.jpg",
+      "full": "images/fa-structure.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/157634988/large.jpeg",
+      "s": "fall",
+      "cap": "Fall — low mounding habit covered in white daisy flowers in a Colorado prairie · © Stephen Hauptli (CC-BY-NC) / iNaturalist",
+      "by": "Stephen Hauptli",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/94987014"
+    },
+    {
       "local": "images/fa-close-t.jpg",
       "full": "images/fa-close.jpg",
       "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/426506744/large.jpg",
       "s": "fall",
-      "cap": "Fall — white ray flowers and yellow center disk, close-up · © Cindy O'Leary (CC-BY-NC) / iNaturalist",
+      "cap": "Fall — white ray flowers and yellow center disk, face-on close-up · © Cindy O'Leary (CC-BY-NC) / iNaturalist",
       "by": "Cindy O'Leary",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/239472336"
     },
     {
-      "local": "images/fa-structure-t.jpg",
-      "full": "images/fa-structure.jpg",
-      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/157634988/large.jpeg",
+      "local": "images/fa-foliage-t.jpg",
+      "full": "images/fa-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/576506424/large.jpg",
       "s": "fall",
-      "cap": "Fall — low mounding habit with clusters of white daisy flowers · © Stephen Hauptli (CC-BY-NC) / iNaturalist",
-      "by": "Stephen Hauptli",
+      "cap": "Fall — narrow lanceolate grayish-green leaves shown alongside white flower clusters · © Jennifer Ackerfield (CC-BY-NC) / iNaturalist",
+      "by": "Jennifer Ackerfield",
       "lic": "CC-BY-NC",
-      "link": "https://www.inaturalist.org/observations/94987014"
+      "link": "https://www.inaturalist.org/observations/317910899"
+    },
+    {
+      "local": "images/fa-seedheads-t.jpg",
+      "full": "images/fa-seedheads.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/571317431/large.jpg",
+      "s": "fall",
+      "cap": "Late fall — fluffy white pappus seedheads on dried prairie stems, the ornamental late-season feature · © chymus (CC-BY-NC) / iNaturalist",
+      "by": "chymus",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/316220474"
     }
   ]
 }

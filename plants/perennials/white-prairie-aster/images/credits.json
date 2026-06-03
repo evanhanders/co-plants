@@ -32,5 +32,19 @@
       300,
       400
     ]
+  },
+  {
+    "file": "images/fa-foliage.jpg",
+    "by": "Jennifer Ackerfield",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/317910899",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/fa-seedheads.jpg",
+    "by": "chymus",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/316220474",
+    "via": "iNaturalist"
   }
 ]

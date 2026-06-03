@@ -76,6 +76,26 @@
       "by": "ton_bal",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/224699580"
+    },
+    {
+      "local": "images/su-context-t.jpg",
+      "full": "images/su-context.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/79531452/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — clump of erect blue spikes in natural meadow habitat showing the upright clumping form · © Динасафина (CC-BY-NC) / iNaturalist",
+      "by": "Динасафина",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/50087637"
+    },
+    {
+      "local": "images/su-spike-t.jpg",
+      "full": "images/su-spike.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/153152407/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — face-on blue flower spike held for scale, showing the dense starry florets · © no rights reserved (CC0) / iNaturalist",
+      "by": "no rights reserved",
+      "lic": "CC0",
+      "link": "https://www.inaturalist.org/observations/92491919"
     }
   ]
 }

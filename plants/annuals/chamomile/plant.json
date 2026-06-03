@@ -46,16 +46,6 @@
   ],
   "shots": [
     {
-      "local": "images/su-habit-t.jpg",
-      "full": "images/su-habit.jpg",
-      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/111945636/large.jpeg",
-      "s": "summer",
-      "cap": "Summer — airy branching stems with white-and-gold daisies at different stages · © aliaska (CC-BY-NC) / iNaturalist",
-      "by": "aliaska",
-      "lic": "CC-BY-NC",
-      "link": "https://www.inaturalist.org/observations/69044225"
-    },
-    {
       "local": "images/su-foliage-t.jpg",
       "full": "images/su-foliage.jpg",
       "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/127456778/large.jpeg",
@@ -64,16 +54,6 @@
       "by": "Papageorgiou Nikolaos",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/77916172"
-    },
-    {
-      "local": "images/su-flower-t.jpg",
-      "full": "images/su-flower.jpg",
-      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/546223782/large.jpg",
-      "s": "summer",
-      "cap": "Summer — face-on white ray petals around a domed gold center · © Wolfgang Bacher (CC-BY-NC) / iNaturalist",
-      "by": "Wolfgang Bacher",
-      "lic": "CC-BY-NC",
-      "link": "https://www.inaturalist.org/observations/303065625"
     },
     {
       "local": "images/su-bloom-t.jpg",

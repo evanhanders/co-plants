@@ -1,22 +1,5 @@
 [
   {
-    "file": "images/su-flower.jpg",
-    "photo_id": 40178692,
-    "by": "ThePrairiePreacher",
-    "license": "CC-BY-NC",
-    "source": "https://www.inaturalist.org/observations/25906358",
-    "dataset": "iNaturalist open data",
-    "render": "original",
-    "full_px": [
-      1050,
-      1400
-    ],
-    "thumb_px": [
-      300,
-      400
-    ]
-  },
-  {
     "file": "images/su-habit.jpg",
     "photo_id": 203093781,
     "by": "mtmarian",
@@ -66,5 +49,19 @@
       300,
       400
     ]
+  },
+  {
+    "file": "images/su-flower2.jpg",
+    "by": "Chris Stahl",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/observations/280124796",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/su-bloom.jpg",
+    "by": "ghostwheel",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/170735921",
+    "via": "iNaturalist"
   }
 ]

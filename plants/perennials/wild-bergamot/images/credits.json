@@ -55,5 +55,19 @@
       400,
       300
     ]
+  },
+  {
+    "file": "images/su-foliage.jpg",
+    "by": "Jo Roberts",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/observations/294973155",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/fa-seedhead.jpg",
+    "by": "Sawyer Dawson",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/189387087",
+    "via": "iNaturalist"
   }
 ]

@@ -69,14 +69,24 @@
       "link": "https://commons.wikimedia.org/wiki/File:Monarda_fistulosa_flowers1.jpg"
     },
     {
-      "local": "images/wi-seedhead-t.jpg",
-      "full": "images/wi-seedhead.jpg",
-      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/351522243/large.jpeg",
-      "s": "winter",
-      "cap": "Winter — dried seedhead standing through the cold · © Anders Hastings (CC-BY) / iNaturalist",
-      "by": "Anders Hastings",
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/530977694/large.jpg",
+      "s": "summer",
+      "cap": "Summer — toothed lance-shaped leaves with lavender flower heads — the characteristic foliage and bloom together · © Jo Roberts (CC-BY) / iNaturalist",
+      "by": "Jo Roberts",
       "lic": "CC-BY",
-      "link": "https://www.inaturalist.org/photos/351522243"
+      "link": "https://www.inaturalist.org/observations/294973155"
+    },
+    {
+      "local": "images/fa-seedhead-t.jpg",
+      "full": "images/fa-seedhead.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/331751619/large.jpg",
+      "s": "fall",
+      "cap": "Fall — round dried seedhead on silvery stem standing after bloom, characteristic persistent winter form · © Sawyer Dawson (CC-BY-NC) / iNaturalist",
+      "by": "Sawyer Dawson",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/189387087"
     }
   ],
   "commons": "Monarda fistulosa - Wild Bergamot (Flower).jpg"

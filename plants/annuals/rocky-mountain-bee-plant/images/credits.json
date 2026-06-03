@@ -49,5 +49,26 @@
       332,
       400
     ]
+  },
+  {
+    "file": "images/su-drift.jpg",
+    "by": "Jenna March",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/192893722",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/su-flower2.jpg",
+    "by": "mgood987",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/312305494",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/fa-pods.jpg",
+    "by": "jenmn",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/318974603",
+    "via": "iNaturalist"
   }
 ]

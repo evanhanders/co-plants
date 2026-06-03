@@ -63,5 +63,26 @@
     "license": "CC BY-SA 2.0",
     "source": "https://commons.wikimedia.org/wiki/File:Prunus_virginiana_-_chokecherry_-_Flickr_-_Matt_Lavin_(7).jpg",
     "via": "Wikimedia Commons"
+  },
+  {
+    "file": "images/sp-foliage.jpg",
+    "by": "Matt Webb",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/23555768",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/sp-flowers2.jpg",
+    "by": "Eric Schmidt",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/observations/164748764",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/fa-color.jpg",
+    "by": "johnson_annabeth",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/315744729",
+    "via": "iNaturalist"
   }
 ]

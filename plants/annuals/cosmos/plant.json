@@ -46,34 +46,44 @@
   ],
   "shots": [
     {
-      "local": "images/su-flower-t.jpg",
-      "full": "images/su-flower.jpg",
-      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/581132569/large.jpg",
+      "local": "images/su-plant-t.jpg",
+      "full": "images/su-plant.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/141506866/large.jpg",
       "s": "summer",
-      "cap": "Summer — face-on white ray flower, ferny stems in background · © Irving Merino (CC-BY) / iNaturalist",
-      "by": "Irving Merino",
-      "lic": "CC-BY",
-      "link": "https://www.inaturalist.org/observations/321339274"
-    },
-    {
-      "local": "images/su-bloom-t.jpg",
-      "full": "images/su-bloom.jpg",
-      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/165439619/large.jpg",
-      "s": "summer",
-      "cap": "Summer — single magenta ray flower, face-on · © Mark Long (CC-BY-NC) / iNaturalist",
-      "by": "Mark Long",
+      "cap": "Summer — whole cosmos plant showing airy habit and ferny foliage above garden bed · © snoopy88 (CC-BY-NC) / iNaturalist",
+      "by": "snoopy88",
       "lic": "CC-BY-NC",
-      "link": "https://www.inaturalist.org/observations/99265095"
+      "link": "https://www.inaturalist.org/observations/85950071"
     },
     {
       "local": "images/su-foliage-t.jpg",
       "full": "images/su-foliage.jpg",
-      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/97974723/large.jpeg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/568875317/large.jpg",
       "s": "summer",
-      "cap": "Summer — drift of pink cosmos in full bloom · © Ricardo Arredondo T. (CC-BY-NC) / iNaturalist",
-      "by": "Ricardo Arredondo T.",
+      "cap": "Summer — ferny thread-leaf foliage with drift of pink cosmos blooms behind · © Noemí Velasco Rubí (CC-BY-NC) / iNaturalist",
+      "by": "Noemí Velasco Rubí",
       "lic": "CC-BY-NC",
-      "link": "https://www.inaturalist.org/observations/61241491"
+      "link": "https://www.inaturalist.org/observations/314935411"
+    },
+    {
+      "local": "images/su-flower-t.jpg",
+      "full": "images/su-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/456061565/large.jpg",
+      "s": "summer",
+      "cap": "Summer — face-on pink cosmos ray flower with yellow disc, crisp detail · © Francisco J. Muñoz Nolasco (CC-BY-NC) / iNaturalist",
+      "by": "Francisco J. Muñoz Nolasco",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/254597024"
+    },
+    {
+      "local": "images/su-bloom-t.jpg",
+      "full": "images/su-bloom.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/238699414/large.jpg",
+      "s": "summer",
+      "cap": "Summer — a field of cosmos in full bloom, showing drift habit and color range · © Ernesto Godínez Rodríguez (CC-BY-NC) / iNaturalist",
+      "by": "Ernesto Godínez Rodríguez",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/139548416"
     }
   ],
   "commons": "Cosmea (Cosmos bipinnatus) 02.JPG"

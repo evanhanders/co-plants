@@ -41,12 +41,22 @@
     {
       "local": "images/su-habit-t.jpg",
       "full": "images/su-habit.jpg",
-      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/286084437/large.jpeg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/389376554/large.jpg",
       "s": "summer",
-      "cap": "Summer — wiry stem with wine-red pincushion head, garden border behind · © vgruenwa (CC-BY-NC) / iNaturalist",
-      "by": "vgruenwa",
+      "cap": "Summer — whole plant in a border: wiry branching stems, pinnate leaves, and wine-red pincushion heads · © maddyv05 (CC-BY-NC) / iNaturalist",
+      "by": "maddyv05",
       "lic": "CC-BY-NC",
-      "link": "https://www.inaturalist.org/observations/165277900"
+      "link": "https://www.inaturalist.org/observations/219954763"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/521711461/large.jpg",
+      "s": "summer",
+      "cap": "Summer — pinnate grey-green leaf showing narrow leaflets; characteristic knautia foliage · © Elizabeth Buhr (CC-BY-NC) / iNaturalist",
+      "by": "Elizabeth Buhr",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/290032651"
     },
     {
       "local": "images/su-bloom-t.jpg",
@@ -69,8 +79,8 @@
       "link": "https://www.inaturalist.org/observations/182709489"
     },
     {
-      "local": "images/su-foliage-t.jpg",
-      "full": "images/su-foliage.jpg",
+      "local": "images/su-drift-t.jpg",
+      "full": "images/su-drift.jpg",
       "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/529721304/large.jpg",
       "s": "summer",
       "cap": "Summer — drift of knautia showing grey-green pinnate foliage and flowers · © johnmuirway-eastdunbartonshire-tcv (CC-BY-NC) / iNaturalist",

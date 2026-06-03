@@ -38,5 +38,12 @@
     "license": "CC-BY-NC",
     "source": "https://www.inaturalist.org/observations/129541252",
     "dataset": "iNaturalist open data"
+  },
+  {
+    "file": "images/su-habit.jpg",
+    "by": "Jo Roberts",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/observations/294166261",
+    "via": "iNaturalist"
   }
 ]

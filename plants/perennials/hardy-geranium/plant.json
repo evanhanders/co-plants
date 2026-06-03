@@ -41,11 +41,21 @@
   ],
   "shots": [
     {
+      "local": "images/su-context-t.jpg",
+      "full": "images/su-context.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Geranium_%27Rozanne%27.JPG",
+      "s": "summer",
+      "cap": "Summer — several violet-blue saucers open at once with deeply-lobed foliage, bloom in context · © Dominicus Johannes Bergsma (CC BY-SA 3.0) / Wikimedia Commons",
+      "by": "Dominicus Johannes Bergsma",
+      "lic": "CC BY-SA 3.0",
+      "link": "https://commons.wikimedia.org/wiki/File:Geranium_%27Rozanne%27.JPG"
+    },
+    {
       "local": "images/su-habit-t.jpg",
       "full": "images/su-habit.jpg",
       "commons": "Garten-Storchschnabel (Geranium wallichianum 'Rozanne').jpg",
       "s": "summer",
-      "cap": "A sprawling mound of violet-blue saucers, summer to frost · © Burkhard Mücke (CC BY-SA 4.0) / Wikimedia Commons",
+      "cap": "Summer — a sprawling mound of violet-blue saucers, summer to frost · © Burkhard Mücke (CC BY-SA 4.0) / Wikimedia Commons",
       "by": "Burkhard Mücke",
       "lic": "CC BY-SA 4.0",
       "link": "https://commons.wikimedia.org/wiki/File:Garten-Storchschnabel_(Geranium_wallichianum_%27Rozanne%27).jpg"
@@ -55,7 +65,7 @@
       "full": "images/su-flower.jpg",
       "commons": "Geranium Rozanne 14zz.jpg",
       "s": "summer",
-      "cap": "Violet-blue saucers with a white eye and dark veins · © Photo by David J. Stang (CC BY-SA 4.0) / Wikimedia Commons",
+      "cap": "Summer — violet-blue saucer with a white eye and dark veins, face-on · © Photo by David J. Stang (CC BY-SA 4.0) / Wikimedia Commons",
       "by": "Photo by David J. Stang",
       "lic": "CC BY-SA 4.0",
       "link": "https://commons.wikimedia.org/wiki/File:Geranium_Rozanne_14zz.jpg"
@@ -65,7 +75,7 @@
       "full": "images/su-foliage.jpg",
       "commons": "Geranium Rozanne 5zz.jpg",
       "s": "summer",
-      "cap": "The deeply-lobed green foliage of the spreading mound · © Photo by David J. Stang (CC BY-SA 4.0) / Wikimedia Commons",
+      "cap": "Summer — the deeply-lobed palmate foliage of the spreading mound · © Photo by David J. Stang (CC BY-SA 4.0) / Wikimedia Commons",
       "by": "Photo by David J. Stang",
       "lic": "CC BY-SA 4.0",
       "link": "https://commons.wikimedia.org/wiki/File:Geranium_Rozanne_5zz.jpg"

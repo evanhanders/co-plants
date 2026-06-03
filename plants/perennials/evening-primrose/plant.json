@@ -42,44 +42,54 @@
   ],
   "shots": [
     {
-      "local": "images/su-flower-t.jpg",
-      "full": "images/su-flower.jpg",
-      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/40178692/large.jpg",
-      "s": "summer",
-      "cap": "Lemon-yellow four-petaled cup fully open face-on at peak bloom · © ThePrairiePreacher (CC-BY-NC) / iNaturalist",
-      "by": "ThePrairiePreacher",
-      "lic": "CC-BY-NC",
-      "link": "https://www.inaturalist.org/observations/25906358"
-    },
-    {
       "local": "images/su-habit-t.jpg",
       "full": "images/su-habit.jpg",
       "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/203093781/large.jpg",
       "s": "summer",
-      "cap": "Sprawling mound with flowers and lance-shaped willow-like leaves · © mtmarian (CC-BY-NC) / iNaturalist",
+      "cap": "Summer — sprawling mound with open cups and lance-shaped willow-like leaves · © mtmarian (CC-BY-NC) / iNaturalist",
       "by": "mtmarian",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/95305247"
     },
     {
-      "local": "images/fa-pods-t.jpg",
-      "full": "images/fa-pods.jpg",
-      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/461770590/large.jpg",
-      "s": "fall",
-      "cap": "Four-winged reddish seed capsules — the key ornamental feature after bloom · © Aidan Campos (CC-BY-NC) / iNaturalist",
-      "by": "Aidan Campos",
+      "local": "images/su-flower2-t.jpg",
+      "full": "images/su-flower2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/503084660/large.jpg",
+      "s": "summer",
+      "cap": "Summer — face-on lemon-yellow cup at ground level with narrow lance-shaped leaves visible · © Chris Stahl (CC-BY) / iNaturalist",
+      "by": "Chris Stahl",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/280124796"
+    },
+    {
+      "local": "images/su-bloom-t.jpg",
+      "full": "images/su-bloom.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/296173231/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — two open cups together among the low grass-edge habitat, bloom-in-context · © ghostwheel (CC-BY-NC) / iNaturalist",
+      "by": "ghostwheel",
       "lic": "CC-BY-NC",
-      "link": "https://www.inaturalist.org/observations/257416670"
+      "link": "https://www.inaturalist.org/observations/170735921"
     },
     {
       "local": "images/su-foliage-t.jpg",
       "full": "images/su-foliage.jpg",
       "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/663844847/large.jpg",
       "s": "summer",
-      "cap": "Narrow lance-shaped leaves with pale midrib along sprawling stems · © biogotti (CC-BY-NC) / iNaturalist",
+      "cap": "Summer — narrow lance-shaped leaves with pale midrib along sprawling stems · © biogotti (CC-BY-NC) / iNaturalist",
       "by": "biogotti",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/363662165"
+    },
+    {
+      "local": "images/fa-pods-t.jpg",
+      "full": "images/fa-pods.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/461770590/large.jpg",
+      "s": "fall",
+      "cap": "Fall — four-winged reddish seed capsules — the key ornamental feature after bloom · © Aidan Campos (CC-BY-NC) / iNaturalist",
+      "by": "Aidan Campos",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/257416670"
     }
   ]
 }

@@ -14,6 +14,24 @@
   "toxic": "",
   "winter": true,
   "verified": "2026-05-31",
+  "care": {
+    "hardiness": "USDA zones 3–7 — exceptionally cold-hardy and one of the most reliable natives for the Front Range. The species handles both hard winters and late spring frosts without damage; named cultivars (e.g., 'Cardinal', 'Arctic Fire', 'Flaviramea') share this hardiness.",
+    "sun": "Full sun to part shade. Stem color is most vivid — true fire-engine red — when the shrub gets 6+ hours of direct sun. It grows and blooms fine in part shade but the winter stem display is somewhat duller. Avoid deep shade, which also increases disease.",
+    "soil": "Tolerates a wide range of soils, including Boulder's alkaline clay-loam. Prefers organically rich, consistently moist soil but handles wet, swampy conditions and periodic clay-heavy sites that many shrubs find waterlogged. A light annual topdress of compost is beneficial on dry upland sites. Circumneutral to mildly alkaline pH (6.8–7.5) is ideal; iron chlorosis is possible on very high-pH soils — treat with chelated iron if leaves yellow between veins.",
+    "water": "Moderate to high — it's naturally a streamside and wetland-margin shrub. Water deeply and regularly during the first two growing seasons. Once established it handles occasional drought, but prolonged dry periods on an upland site will stress it; supplemental irrigation through July–August heat keeps it healthy and vigorous.",
+    "spacing": "Space 6–10 ft on center for full-size species (6–12 ft tall and wide); compact cultivars like 'Arctic Fire' or 'Kelseyi' can be spaced 3–5 ft apart. Allow room for the suckers — it colonizes outward and can exceed its labeled spread on moist sites.",
+    "bloom": "Flat-topped white flower clusters (cymes) appear May–June and draw pollinators reliably. Small white (sometimes bluish-tinged) berries ripen in late summer and are quickly eaten by birds. Fall foliage turns red-purple before drop. The brilliant red stems are the winter star: color is brightest November through March.",
+    "feeding": "Little to none. Spread a thin layer of compost around the base in early spring if growth seems weak. Avoid high-nitrogen fertilizer, which pushes soft growth susceptible to twig blight.",
+    "maintenance": "Pruning is the key annual task, because only young stems (1–3 years old) show the brightest red; old wood turns grey-green. Two approaches work: (1) Remove 20–25% of the oldest, thickest stems at ground level each spring (late February–March, before bud break) to steadily renew the shrub. (2) Every 2–3 years, coppice the entire shrub to 6–8 in above the ground in early spring — it rebounds quickly with a fresh flush of brilliantly colored stems. Manage root suckers at the perimeter with a sharp spade if you want to contain the spread.",
+    "selfsow": "Spreads by root suckers and can form large colonies if left unchecked. This is an asset for erosion control, wildlife habitat, or a naturalistic planting; in a formal garden, sever suckers with a spade each spring to keep the footprint tidy.",
+    "troubles": "Twig blight (Discula) and canker can girdle stems — most common in humid, shaded, or overcrowded conditions. Good air circulation and annual stem renewal are the best prevention. Scale insects, bagworms, and leaf miners are occasional; twig blight is the main concern on the Front Range's drier, less humid sites, but it still appears in dense plantings after wet springs. Browsed year-round by deer — protect young plantings with fencing until established.",
+    "companions": "Chokecherry, mountain alder, Wood's rose, golden currant, native willows, and wild iris for a naturalistic riparian edge. In a residential border, pair with ornamental grasses (little bluestem, Karl Foerster feather reed grass) and native perennials (columbine, bee balm) for four-season interest: the winter red stems are most striking against a light-colored structure or snowy ground."
+  },
+  "care_src": [
+    { "name": "Missouri Botanical Garden — Plant Finder (Cornus sericea)", "url": "https://www.missouribotanicalgarden.org/plantfinder/PlantFinderDetails.aspx?taxonid=279363" },
+    { "name": "Lady Bird Johnson Wildflower Center — Cornus sericea", "url": "https://www.wildflower.org/plants/result.php?id_plant=cose16" },
+    { "name": "USDA Forest Service — Plant of the Week (Cornus sericea)", "url": "https://www.fs.usda.gov/wildflowers/plant-of-the-week/cornus_sericea.shtml" }
+  ],
   "commons": "Cornus sericea - red osier dogwood - 1.jpg",
   "shots": [
     {

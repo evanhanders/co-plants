@@ -15,6 +15,27 @@
   "winter": false,
   "verified": "2026-06-01",
   "commons": "20170805Eschscholzia californica1.jpg",
+  "care": {
+    "hardiness": "Hardy annual / short-lived perennial native to the western US — perfectly suited to Front Range conditions (USDA zones 5b–6a and higher). The seeds are frost-tolerant and winter-sow naturally; plants complete their cycle in one growing season and die at hard frost, relying on self-sown seed to return the following year.",
+    "sun": "Full sun is required — 6+ hours daily minimum. Flowers close at night and in cloudy or cool weather, and plants in shade stay closed and bloom poorly. Boulder's intense high-altitude sun is ideal.",
+    "soil": "Thrives in poor to moderately fertile, very well-drained soil — sandy, gravelly, or rocky ground is perfect. Rich, moist, or heavily amended soil encourages leafy growth and suppresses flowering. Do not add fertilizer or heavy compost. Slightly acidic to neutral pH (6.0–7.0). Colorado's alkaline clay-loam is acceptable as long as drainage is good; on heavy clay, work in grit or plant on a slope.",
+    "water": "Xeric once established — drought-tolerant by nature and seldom needs supplemental water beyond Boulder's natural rainfall once plants have rooted in. Keep the seedbed evenly moist through germination (10–20 days); then taper off and let soil dry between waterings. Overwatering causes root rot and shortens plant life. It does not tolerate waterlogged soil.",
+    "spacing": "Thin or space plants 6–12 in apart; each grows 8–15 in tall and 6–12 in wide. Sow in generous, naturalistic sweeps — thin rather than transplant, as moving established seedlings almost always fails.",
+    "sow": "Direct-sow where it is to grow — California poppy has a taproot and resents any root disturbance, so starting in pots and transplanting does not work. Fall sowing (October–November in Boulder) is ideal: seeds winter-stratify naturally in the soil and germinate as soon as conditions warm in spring. Spring sowing works too — scatter seed on cleared, weed-free ground as soon as soil can be worked, even with frost still possible; a light frost won't harm germinating seed. Seeds germinate in 10–20 days when soil temperatures reach 50–65°F.",
+    "depth": "Press or rake seeds to about 1/8–1/4 in deep and firm the surface gently. Do not bury deeply — seeds need some light and warmth near the surface to sprout. Because of the taproot, sow thinly and thin in place; pulling or digging seedlings kills them.",
+    "bloom": "Late spring through early summer on the Front Range (roughly May–July), then may rebloom lightly in early fall as temperatures cool. Flowers close in intense afternoon heat and at night — this is normal. Peak display is often May and early June.",
+    "feeding": "None needed or wanted. Fertilizer produces rank, floppy foliage at the expense of bloom. Leave the soil lean.",
+    "maintenance": "Essentially none. Deadhead spent flowers to extend blooming if desired, but allow at least some pods to dry and split on the plant for reliable reseeding. The plant goes summer-dormant in extreme heat — this is normal; do not yank it out. Dried stems can be pulled in late summer after pods have shed seed.",
+    "selfsow": "An enthusiastic self-sower on the Front Range — allow pods to ripen and shatter and a new carpet appears the following spring without any replanting. Seeds can lie dormant in the soil for years and germinate when conditions are right. Not invasive and not on any CO noxious weed list; thin or pull volunteers as needed.",
+    "troubles": "Largely trouble-free in Colorado's dry climate. Root rot is the main risk — caused by overwatering or poor drainage, not a pest. Aphids may appear but seldom need action. No significant disease issues in low-humidity Front Range conditions.",
+    "harvest": "Allow seed pods to ripen fully on the plant until tan and about to split. Harvest on a dry day before they pop, or slip a small paper bag over pods and shake. Store seeds cool and dry through winter; they are viable for several years.",
+    "companions": "Naturalize with other drought-tolerant, lean-soil annuals and perennials: Rocky Mountain bee plant, bachelor's button, prairie zinnia, native grasses, horned spurge, or silvery lupine in an informal meadow-style planting."
+  },
+  "care_src": [
+    { "name": "Cultivating Flora — How to Grow California Poppy in Colorado", "url": "https://cultivatingflora.com/how-to-grow-california-poppy-in-colorado/" },
+    { "name": "Lady Bird Johnson Wildflower Center — California poppy planting time in Colorado (NPIN)", "url": "https://www.wildflower.org/expert/show.php?id=2374" },
+    { "name": "Epic Gardening — How to Plant, Grow and Care for California Poppies", "url": "https://www.epicgardening.com/california-poppies/" }
+  ],
   "shots": [
     {
       "local": "images/su-flowers-t.jpg",

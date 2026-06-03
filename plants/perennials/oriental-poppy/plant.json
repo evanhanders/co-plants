@@ -15,6 +15,23 @@
   "winter": false,
   "verified": "2026-06-01",
   "commons": "Papaver orientale - oriental poppy.jpg",
+  "care": {
+    "hardiness": "USDA zones 3–7 — fully winter-hardy on the Boulder Front Range (zone 5b–6a). The roots are cold-tough; new basal foliage emerges in September and persists through winter, then dies back completely in midsummer. Colorado's cold, dry winters and sharp drainage suit it perfectly.",
+    "sun": "Full sun — at least 6 hours of direct light daily. The high-altitude Front Range sun is ideal; reduced light results in floppy stems and fewer blooms.",
+    "soil": "Organically rich, fertile, medium-moisture, sharply drained soil. Good drainage is the critical requirement — oriental poppies decline rapidly in wet, poorly drained ground, especially over winter. Front Range clay-loam is acceptable if drainage is adequate; on heavy soils, raise the bed or amend with grit and compost. Avoid consistently wet spots.",
+    "water": "Low to moderate once established — they thrive on the Front Range's ~15 in of annual precipitation with only supplemental irrigation during extended dry spells. Water regularly the first season to establish roots. Overwatering, especially after foliage dies back in summer, invites root rot; let the dormant root rest relatively dry.",
+    "spacing": "Space 18–24 in apart; each clump spreads 1.5–2 ft at maturity. Plant in groups of three or more for a bold drift effect. Leave established clumps undisturbed — they resent disturbance and take a season or two to recover if divided or moved.",
+    "bloom": "Late May to mid-June on the Front Range — a short but spectacular show of huge, crepe-papery, bowl-shaped flowers in scarlet, orange, salmon, or white, often with dark basal blotches. Individual flowers last just a few days but a clump carries multiple buds over 3–4 weeks.",
+    "feeding": "Light feeder — a balanced slow-release fertilizer or compost top-dress in early spring is sufficient. Avoid heavy nitrogen, which produces lush foliage but weakens stems. No feeding needed once established on average soils.",
+    "maintenance": "Remove spent flower stems promptly to prevent excessive self-seeding and redirect energy to the root. Do not cut back the foliage until it fully yellows and dies down in midsummer — the leaves are fueling root reserves for next year's blooms. Once dormant, mark the spot clearly (it goes invisible in summer). New foliage returns in September; mulch lightly over winter until plants are well established. Support floppy stems in windy sites with a grow-through ring in spring. Established clumps are best left undisturbed indefinitely; propagate by root cuttings taken in late summer if you want more plants.",
+    "selfsow": "Can self-seed; seedlings may not come true to the parent color. Deadhead consistently if you want to control spread or preserve cultivar integrity.",
+    "troubles": "No serious insect or disease problems on the Front Range. Botrytis and powdery mildew may appear in cool, humid conditions — improve airflow and avoid wetting foliage. Crown rot results from poor drainage, especially when the plant is dormant in summer. Mark clumps to avoid inadvertently digging into dormant roots.",
+    "companions": "Pair with baby's breath (Gypsophila), Boltonia, or whirling butterflies (Gaura) to fill the gap left when foliage dies back in midsummer. Catmint, hardy geranium, and ornamental grasses all work well nearby. The bold scarlet blooms contrast beautifully with blue-purple salvias and catmint in late spring."
+  },
+  "care_src": [
+    { "name": "PlantTalk Colorado — Oriental Poppy (CSU Extension)", "url": "https://planttalk.colostate.edu/topics/annuals-perennials/1037-oriental-poppy-papaver-orientale/" },
+    { "name": "Missouri Botanical Garden Plant Finder — Papaver orientale 'Turkenlouis'", "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=257790&isprofile=0" }
+  ],
   "shots": [
     {
       "local": "images/su-flower-t.jpg",

@@ -15,6 +15,24 @@
   "winter": false,
   "verified": "2026-05-28",
   "commons": "",
+  "care": {
+    "hardiness": "Hardy to at least USDA Zone 4 (possibly Zone 3), so entirely winter-hardy across Boulder and the Front Range (Zone 5b–6a). The top growth dies back fully in fall; the rhizomatous root system overwinters without any protection and re-sprouts reliably each spring.",
+    "sun": "Full sun is ideal — 6+ hours of direct light keeps growth compact and blooming freely. It will tolerate part shade but tends to get a bit leggier in lower light. At high altitude or on hot, south-facing slopes it shines; on the plains full sun is fine as long as drainage is good.",
+    "soil": "Well-drained to dry soils are essential. Horned spurge grows naturally in rocky, sandy, and clay-loam soils across the Intermountain West, and it handles the alkaline clay-loam typical of Front Range gardens without complaint. Avoid heavy, poorly drained spots — standing moisture is its main enemy. No amendment needed; lean soils actually suit it best.",
+    "water": "Xeric once established — this is a true dry-land native, adapted to the Front Range's 15–18 in. annual precipitation. Water new transplants through the first growing season to help them root in, then step back to occasional deep irrigation during prolonged summer drought. Overwatering or wet winter soils are the chief way to kill it.",
+    "spacing": "Plants spread slowly by rhizomes into a low mat, eventually reaching 1–2 ft wide and up to 2 ft tall. Space transplants or allow natural colonies to develop at 12–18 in. apart. The spreading habit makes it a useful groundcover on dry slopes, but it won't run aggressively in well-drained garden soils.",
+    "bloom": "Yellow-green cyathia (the characteristic spurge 'flowers') open in spring through early summer — roughly April to June on the Front Range, earlier on south-facing exposures. The blue-green foliage remains attractive through summer.",
+    "feeding": "None needed. This species thrives on lean, native-style soils; fertilizing encourages lush, floppy growth and is unnecessary.",
+    "maintenance": "Very low-maintenance. Cut back dead or winter-damaged stems in early spring before new growth appears. No deadheading required — the plant doesn't rebloom and the spent cyathia are inconspicuous. Divide or thin spreading clumps every few years if they outgrow their space; this is best done in early spring.",
+    "selfsow": "Spreads primarily by rhizomes rather than prolific seed. It slowly expands its mat but is not considered aggressive or weedy in garden settings — well-mannered compared to invasive spurges like leafy spurge (*Euphorbia esula*). Thin or divide as needed.",
+    "troubles": "Generally trouble-free in dry, well-drained conditions. The main risk is root rot in heavy, wet soils — site it carefully and don't overwater. All euphorbia sap is a skin and eye irritant: wear gloves and eye protection when pruning or dividing, and keep children and pets away from cut stems. The plant is often confused with the invasive leafy spurge; horned spurge is noticeably smaller and less aggressive.",
+    "companions": "Other dry-slope Front Range natives: blue grama grass, prairie smoke, Rocky Mountain penstemon, cushion phlox, and native sedums. Its yellow-green bloom color pairs well with blue/purple tones of native salvias and penstemons."
+  },
+  "care_src": [
+    { "name": "Lady Bird Johnson Wildflower Center — Euphorbia brachycera", "url": "https://www.wildflower.org/plants/result.php?id_plant=EUBR" },
+    { "name": "American Southwest Wildflowers — Euphorbia brachycera", "url": "https://www.americansouthwest.net/plants/wildflowers/euphorbia-brachycera.html" },
+    { "name": "Between Urban and Wild — Shorthorn Spurge", "url": "https://betweenurbanandwild.com/wildflowers/shorthorn-spurge/" }
+  ],
   "shots": [
     {
       "local": "images/sp-flowers-t.jpg",

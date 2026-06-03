@@ -14,6 +14,25 @@
   "toxic": "Leaves, bark & seeds contain cyanide compounds — toxic to people/pets/livestock; ripe fruit flesh edible, seeds not",
   "winter": false,
   "verified": "2026-05-31",
+  "care": {
+    "hardiness": "USDA zones 2–7 — one of the hardiest woody natives in the West. Completely reliable through Boulder's 5b–6a winters and at elevations well above the Front Range; no special protection needed.",
+    "sun": "Full sun is ideal for the best fruit crop and most compact growth. It tolerates part shade readily, but fruit production drops in shadier spots. Give it at least 6 hours of direct sun.",
+    "soil": "Adaptable to most soil types — clay, loam, or sandy — as long as drainage is reasonable. Tolerates a wide pH range (roughly 5.0–8.0), so Boulder's alkaline clay-loam soils are no obstacle. On lean sites it still grows and fruits; organic-matter amendment mainly speeds establishment on heavy clay.",
+    "water": "Moderate water for the first year or two — deep watering roughly once a week during dry spells helps roots knit in. Once established, it is genuinely drought-tolerant and can get by on natural precipitation; an occasional deep soak during extended summer heat keeps fruit quality up. Avoid chronic wet feet.",
+    "spacing": "Allow 10–15 ft between trees for a single-specimen form. If planting a hedgerow or wildlife thicket, you can space 5–8 ft apart and let the suckers fill in. Mature specimens typically reach 15–25 ft tall and 12–20 ft wide on the Front Range.",
+    "bloom": "Fragrant white flower racemes open in April–May on the Front Range, among the first showy tree blossoms of spring. Fruit ripens to dark red-black in late summer — typically August into September — then fall foliage turns gold to orange-red.",
+    "feeding": "Minimal. Chokecherry thrives in lean soils and rarely needs fertilizer. Apply a light balanced feed (e.g., 10-10-10) only in early spring if growth is sluggish or leaves are pale yellow. Avoid high-nitrogen inputs, which push lush growth at the expense of fruit and increase disease.",
+    "maintenance": "Prune in late winter or early spring before bud break. Remove dead, damaged, or crossing branches and open the canopy for light and airflow — this reduces disease pressure and improves fruiting. For a single-trunk tree form, cut suckers and basal shoots at ground level throughout the growing season; for a multi-stem or hedgerow form, leave selected suckers to fill space. You can also remove about one-third of old wood annually to keep vigorous young canes coming.",
+    "selfsow": "A prolific thicket-former: rhizomes extend well beyond the canopy (up to 35 ft) and throw suckers persistently, especially if roots are disturbed. In a lawn or formal bed, clip suckers as they emerge. In a naturalistic or wildlife planting, let them run — the resulting thicket is excellent habitat and erosion control.",
+    "troubles": "Tent caterpillars are the most common nuisance on the Front Range — look for silk tents in branch crotches in spring and remove them before larvae scatter. Black knot fungus (dark warty galls on branches) appears occasionally; prune it out 4–6 in below the gall and discard (not compost). Aphids, bacterial leaf spot, and canker can occur; good air circulation and avoiding overhead irrigation help. The cyanide compounds in leaves, bark, and seeds are toxic to livestock and pets — the ripe fruit flesh is edible for people, but never consume the seeds.",
+    "harvest": "Pick fruit when it turns deep red-black, typically August–September. The berries are very astringent fresh but make excellent jelly, syrup, and wine once cooked and sweetened — traditional Indigenous use. Pit or strain out the seeds (which contain cyanide compounds) during processing. Fruit not picked promptly is eagerly taken by birds and mammals.",
+    "companions": "Other native riparian and woodland-edge plants: mountain alder, Wood's rose, red-twig dogwood, golden currant (*Ribes aureum*), native serviceberry (*Amelanchier*), rabbitbrush. Also combines well with native grasses (little bluestem, blue grama) in a low-maintenance meadow edge."
+  },
+  "care_src": [
+    { "name": "USU Extension — Chokecherry in the Garden", "url": "https://extension.usu.edu/yardandgarden/research/chokecherry-in-the-garden" },
+    { "name": "CultivatingFlora — How to Grow Chokecherries in Colorado", "url": "https://cultivatingflora.com/how-to-grow-chokecherries-in-colorado/" },
+    { "name": "CSU Extension — Common Chokecherry (Colorado Master Gardener)", "url": "https://cmg.extension.colostate.edu/volunteer-information/cmg-gardennotes-class-handouts/common-chokecherry/" }
+  ],
   "commons": "Chokecherry - Prunus virginiana (51361592456).jpg",
   "shots": [
     {

@@ -15,6 +15,24 @@
   "winter": false,
   "verified": "2026-06-01",
   "commons": "Monarda didyma 'Colrain Red' 6 2021 Bee Balm- (51273491889).jpg",
+  "care": {
+    "hardiness": "USDA zones 4–9 — fully winter-hardy on the Front Range (5b–6a). The rhizomes go fully dormant after frost and re-sprout reliably in spring. No special winter mulching is needed in Boulder.",
+    "sun": "Full sun to part shade. In the dry, high-altitude Front Range climate, afternoon shade (3–4 hours) can actually help reduce moisture stress and moderate mildew-promoting heat, though full sun with consistent irrigation is the classic recommendation. Avoid deep shade — it reduces bloom and worsens mildew.",
+    "soil": "Rich, moisture-retentive loam or clay-loam — one of the few garden perennials that actively welcomes Boulder's native clay. Amend planting holes generously with compost. pH 6.0–7.0 preferred; on alkaline sites add sulfur or organic matter to bring pH closer to neutral. Unlike most Front Range plants, this one does NOT want lean or sandy soil.",
+    "water": "Moderate to consistently moist — this is the most water-demanding plant in the herbarium. On the semi-arid Front Range (~15–18 in annual rain) it needs regular supplemental irrigation throughout the growing season: aim to keep the top 6 in of soil consistently moist, roughly a deep soak 1–2 times per week in summer heat. Do not let the soil dry out completely; drought stress is a primary trigger for powdery mildew. Use drip irrigation or a soaker hose — overhead sprinklers wet the foliage and worsen mildew.",
+    "spacing": "Space plants 18–24 in apart; mature clumps reach 2–3 ft wide. Generous spacing is the single most effective cultural tool against powdery mildew — tight planting traps humidity. Stake taller plants (3–4 ft) in exposed or windy spots.",
+    "bloom": "Mid-July into August on the Front Range — roughly 6–8 weeks of the scarlet 'mop-head' flowerheads that hummingbirds can't resist. Deadheading spent heads prolongs bloom and tidies the planting.",
+    "feeding": "Enrich the planting hole with compost; top-dress with an inch of compost each spring. A balanced slow-release fertilizer worked in at planting time helps establish vigorous clumps. Avoid high-nitrogen feeds once plants are established — excessive nitrogen drives leafy growth that's more mildew-prone.",
+    "maintenance": "Deadhead spent flowerheads through summer to extend bloom. After the main bloom period ends (late August or September), cut the whole plant back to the ground; removing all foliage eliminates overwintering mildew spores and encourages a clean flush of new growth. In early spring, cut back any remaining dead stems before new shoots emerge. Divide clumps every 3–4 years (in early spring or fall) to prevent the center from dying out, maintain vigor, and keep plants from spreading beyond their allotted space.",
+    "selfsow": "Spreads moderately by shallow rhizomes — it colonizes outward from the original crown each year. The rate is manageable (not weedy), but divide or edge the clump every few years to keep it in bounds. Can also self-sow from seed if flowerheads are left to ripen, but seedling spread is minimal.",
+    "troubles": "Powdery mildew is the main challenge — it appears as a white-gray powdery coating on upper leaf surfaces, usually from midsummer onward, especially in hot, humid, or crowded conditions. Prevention is far more effective than cure: space plants widely, water at the base, choose mildew-resistant cultivars (look for 'Jacob Cline', 'Raspberry Wine', 'Coral Reef', or the 'Bee-Happy' series), and ensure good airflow. If mildew hits hard, cut the plant to the ground after bloom and dispose of the foliage (do not compost). Occasional aphids on new growth; no serious insect pests on the Front Range.",
+    "companions": "Wild bergamot (native cousin, lower water), ornamental grasses, black-eyed Susan, purple coneflower, Joe-Pye weed, and garden phlox — plants that share the 'moist perennial border' niche. Pairing with drought-tolerant xeric plants is a mismatch; site it near a drip zone or rain garden where moisture can be maintained."
+  },
+  "care_src": [
+    { "name": "Missouri Botanical Garden Plant Finder — Monarda didyma", "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=q250" },
+    { "name": "High Country Gardens — Growing Bee Balm (Monarda)", "url": "https://www.highcountrygardens.com/blogs/perennials/growing-bee-balm-monarda-planting-care" },
+    { "name": "Bloomingboulevards.org — Monarda and Powdery Mildew", "url": "https://www.bloomingboulevards.org/post/monarda-and-powdery-mildew" }
+  ],
   "shots": [
     {
       "local": "images/su-flower-t.jpg",

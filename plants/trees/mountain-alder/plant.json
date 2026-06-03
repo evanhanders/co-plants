@@ -14,6 +14,24 @@
   "toxic": "",
   "winter": false,
   "verified": "2026-05-31",
+  "care": {
+    "hardiness": "USDA zones 3–7 (the thinleaf subspecies is hardy well above timberline and survives the coldest Front Range winters without any protection). A fast-growing but relatively short-lived tree — expect 30–50 years rather than centuries.",
+    "sun": "Full sun to light part shade. In its native riparian canyon habitat it often grows in morning sun with afternoon dappled shade; in a garden setting it does fine in full sun as long as soil moisture is maintained.",
+    "soil": "Requires consistently moist to wet, well-drained to moderately drained soil. Tolerates clay loam and even heavy clay well. Adapts to both mildly acidic and mildly alkaline pH — Front Range soil chemistry is not a barrier, but dry, lean upland soils should be avoided. A nitrogen-fixing symbiont (Frankia) in its roots makes it a soil-builder rather than a nitrogen consumer — no amendment is needed for fertility.",
+    "water": "High — this is a riparian and streamside tree that performs best with reliable moisture. Site it in a low spot, near a water feature, on a rain-garden berm, or in any area that stays moist (seasonal flooding is tolerated). Without steady moisture it declines; it is not a candidate for dry xeric sites. Deep weekly irrigation supports it where natural moisture is limited.",
+    "spacing": "Allow 12–20 ft between stems (or from other structures) at planting — mature trees reach 15–30 ft tall and 12–20 ft wide, and the rhizomatous root system pushes outward. When used as a thicket for erosion control or wildlife habitat, closer spacing (8–10 ft) is fine and the colony fills in naturally.",
+    "bloom": "One of the earliest flowering woody plants on the Front Range: maroon-gold catkins (male) and small upright female catkins appear on bare branches in March–April, before any leaf unfurls. Small woody 'cones' (strobiles) develop through summer and persist into winter — a quiet winter interest feature.",
+    "feeding": "None needed. The root-associated nitrogen-fixing bacteria (Frankia) supply the tree's nitrogen requirements and improve surrounding soil. Fertilizing is unnecessary and may encourage overly lush, disease-prone growth.",
+    "maintenance": "Very little required. Remove any dead or crossing branches in late winter. Manage suckers and root-sprouts if you want to keep a defined multi-stem form rather than a spreading thicket. When grown as a thicket for habitat or bank stabilization, leave the suckers to colonize freely. Old stems on a thicket can be thinned or coppiced to the ground in late winter to encourage fresh vigorous growth — new stems emerge quickly.",
+    "selfsow": "Spreads actively by rhizomes and root suckers to form dense multi-stem stands. In a naturalistic riparian planting this is a virtue; in a smaller garden keep it in check by severing suckers at their base with a sharp spade each spring.",
+    "troubles": "Generally robust and pest-free in Colorado riparian settings. Woolly alder aphids occasionally cluster on stems; tent caterpillars may visit. Leaf rust and occasional leaf spot are minor. The main threat is drought — a tree sited on a dry upland without supplemental water will decline and die. Not browsed as heavily as willows but deer and elk do eat young stems in winter.",
+    "companions": "Ideal with other native riparian and moisture-tolerant species: chokecherry, red-twig dogwood, Wood's rose, native willows (*Salix* spp.), golden currant, wild iris (*Iris missouriensis*). Its nitrogen-fixing ability particularly benefits the surrounding shrub layer. A natural colony planting along a dry creek bed or bioswale is the most ecologically productive use."
+  },
+  "care_src": [
+    { "name": "Plants For A Future — Alnus tenuifolia", "url": "https://pfaf.org/user/Plant.aspx?LatinName=Alnus+tenuifolia" },
+    { "name": "Fort Collins Natural Areas — Thinleaf Alder", "url": "https://apps.fcgov.com/plant-list/?view=70-thinleaf-alder" },
+    { "name": "Sevenoaks Native Nursery — Alnus incana ssp. tenuifolia", "url": "https://sevenoaksnativenursery.com/product/alnus-incana-ssp-tenuifolia/" }
+  ],
   "commons": "(ms) Alnus incana 2.jpg",
   "shots": [
     {

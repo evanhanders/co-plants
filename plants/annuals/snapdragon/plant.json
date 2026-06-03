@@ -15,6 +15,26 @@
   "winter": false,
   "verified": "2026-06-01",
   "commons": "Snapdragon -- Antirrhinum majus.jpg",
+  "care": {
+    "hardiness": "Tender perennial (USDA zones 7–10) grown as a cool-season annual on the Front Range (zones 5b–6a). Tolerates light frost, so plants can go in earlier than heat-lovers — transplant to the garden 2–3 weeks before the last average frost (late April in Boulder). They perform best in spring and early fall; summer heat causes them to pause or go dormant, and a hard freeze kills them.",
+    "sun": "Full sun to part shade — 6+ hours for strongest flowering. In Boulder's intense high-altitude sun, afternoon shade helps snapdragons stay in bloom through the hottest weeks and prevents premature bolting.",
+    "soil": "Moist, organically rich, well-drained soil is ideal. Amend Colorado's alkaline clay-loam with compost at planting to improve both drainage and moisture retention. Slightly acidic to neutral pH (6.2–7.0). Avoid heavy clay that stays wet — root rots are the primary killer in waterlogged ground.",
+    "water": "Moderate and consistent — about 1 in per week. Water at the soil line to keep foliage dry; wet leaves promote the fungal diseases (rust, powdery mildew) that are snapdragons' main weakness. Drip irrigation or soaker hoses are ideal. In Colorado's low humidity and alkaline water, this is less of an issue than in humid climates, but good base hygiene still matters.",
+    "spacing": "Space transplants 6–12 in apart depending on cultivar size (compact dwarfs at 6 in, tall cut-flower types at 12 in). Good airflow between plants is important for disease prevention — do not crowd.",
+    "sow": "Start seeds indoors 8–10 weeks before last frost — around early-to-mid March for Boulder's mid-May frost date. Press seeds onto the surface of moist seed-starting mix and do not cover; snapdragons need light to germinate. Keep soil at 60–70°F; germination takes 10–21 days. Refrigerate seeds 3–5 days before sowing to improve germination. Harden seedlings off over 7–10 days before transplanting.",
+    "depth": "Surface-sow — do not cover seeds. Just press firmly onto moistened seed-starting mix. Germination is best at 60–70°F with light exposure. Transplant into the garden at the same depth they were growing in the pot.",
+    "bloom": "Spring through early summer (May–July) on the Front Range, with a second flush in late summer through fall (September–October) once the heat breaks. Bloom stalls or stops in the hottest weeks of July–August. Long days of intense Colorado sun at altitude often produce vivid, well-saturated colors.",
+    "feeding": "Apply a balanced fertilizer every 2–4 weeks while plants are actively blooming. A moderate application at planting of compost or slow-release fertilizer is a good base. Avoid heavy nitrogen, which promotes leafy growth over flowering.",
+    "maintenance": "Pinch the growing tips of young transplants once or twice to encourage branching and a bushy, multi-stemmed plant. Deadhead spent spikes by snipping back to the nearest lateral bud to extend bloom. If plants go leggy or stop flowering in midsummer heat, cut back hard to 6 in — they will often resprout and rebloom vigorously in the cooler weeks of September. Tall cultivars may need light staking in wind. Remove and discard any plant that develops rust.",
+    "selfsow": "May self-sow in mild winters and lightly in sheltered spots; seedlings will not reliably match parent cultivar colors. Treat volunteers as a bonus rather than relying on them.",
+    "troubles": "Snapdragon rust is the most serious disease — yellow-orange pustules on leaf undersides. Choose rust-resistant cultivars when available. Remove and bag affected plants; do not compost. Rotate planting location the following year. Aphids and spider mites may appear in hot, dry spells; knock off with water or use insecticidal soap. Colorado's low humidity greatly reduces fungal disease pressure versus humid climates, but still water at the base.",
+    "companions": "Cool-season partners: pansies, violas, sweet alyssum, larkspur, and bachelor's button for spring. Transition to heat-tolerant neighbors (cosmos, zinnias, salvia) as summer sets in and snapdragons rest. Makes an excellent cut flower."
+  },
+  "care_src": [
+    { "name": "Missouri Botanical Garden Plant Finder — Antirrhinum majus", "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=287001" },
+    { "name": "Gardener's Path — How to Grow and Care for Snapdragon Flowers", "url": "https://gardenerspath.com/plants/annuals/antirrhinum-majus/" },
+    { "name": "Garden Design — Snapdragon Growing Guide", "url": "https://www.gardendesign.com/annuals/snapdragon.html" }
+  ],
   "shots": [
     {
       "local": "images/su-flower-t.jpg",

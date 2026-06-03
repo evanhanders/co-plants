@@ -15,6 +15,23 @@
   "winter": false,
   "verified": "2026-06-01",
   "commons": "A maroon Dahlia flower (Lalbagh, Bangalore, 2017).jpg",
+  "care": {
+    "hardiness": "Tender — hardy only to USDA zones 7–10; not winter-hardy on the Boulder Front Range (zone 5b–6a). Tubers will freeze and rot if left in the ground through a Colorado winter. Treat dahlias as summer performers: plant in spring after the last frost, enjoy them through fall, then dig and store tubers before hard freeze. Done correctly, a single set of tubers can provide years of blooms.",
+    "sun": "Full sun — at least 6–8 hours of direct sun daily. On the Front Range, the intense high-altitude sun is an asset; dahlias bloom heavily and color is vivid. Some light afternoon shade is tolerated in extreme heat but generally reduces flower count.",
+    "soil": "Organically rich, medium-moisture, well-drained soil. Amend with compost before planting. Good drainage is non-negotiable — waterlogged soil rots tubers both in the ground and in storage. Front Range clay-loam benefits from compost incorporation to improve drainage and fertility.",
+    "water": "Moderate and consistent — dahlias are not xeric. Water deeply once or twice a week once plants are actively growing; do not irrigate between planting and sprouting (the tubers rot easily in cold, wet soil before shoots emerge). In the semi-arid Front Range climate, regular supplemental irrigation is essential from June through early October.",
+    "depth": "Plant tubers horizontally, flat on their side, 6 in deep for taller varieties (over ~3 ft); 2–3 in deep for compact bedding types. Set the eye (growth bud) facing up. Do not water immediately after planting — wait until shoots appear above soil, then begin regular irrigation.",
+    "spacing": "Space 18–24 in apart for most garden dahlias; allow up to 36 in for large 'dinnerplate' types. Shelter from strong winds — tall varieties need staking at planting time. Pinching growing tips when plants are 12–15 in tall encourages branching and more flowers.",
+    "bloom": "Mid-July through the first hard frost, typically early October on the Front Range — one of the longest bloom windows of any garden flower. Open and single-flowered types are prime pollinator plants through this period.",
+    "feeding": "Feed monthly with a low-nitrogen fertilizer (e.g. 5-10-10 or 0-20-20); excess nitrogen drives leafy growth at the expense of flowers. Work compost into the soil before planting for a slow, steady nutrient base. Container-grown dahlias need more frequent feeding through the summer.",
+    "maintenance": "Stake taller varieties at planting — once they topple in wind they're hard to recover. Deadhead regularly to extend bloom. After the first hard frost blackens the foliage (typically early October), cut stems to 4–6 in, carefully dig the clump with a fork, and shake off loose soil. Let clumps air-dry upside-down for a day or two, then divide or store whole. Pack in barely damp vermiculite, peat, or dry sand in a ventilated, frost-free location at 40–45°F (35–50°F is acceptable). Check periodically through winter — if tubers shrivel, mist lightly; if they rot, remove affected ones. Replant the following spring after the last frost (~mid-May around Boulder).",
+    "troubles": "Aphids, caterpillars, spider mites, and leafhoppers are the main pest pressures in Colorado; check undersides of leaves and treat with insecticidal soap early. Powdery mildew appears in late summer when nights cool and humidity rises — improve airflow and avoid overhead watering. Crown gall, root rot, and viral diseases (mosaic) occur occasionally; buy certified virus-free tubers and remove any with mottled or distorted foliage. Deer and rabbits browse dahlias readily — fencing or repellent is worth considering.",
+    "companions": "Zinnias, cosmos, snapdragons, and salvias share dahlias' summer-to-frost bloom window and full-sun requirements. Annual grasses add texture behind dinnerplate types. Pair with bold foliage plants (canna, elephant ear) for a tropical border feel, or with bronze fennel and cleome for a looser cottage look."
+  },
+  "care_src": [
+    { "name": "PlantTalk Colorado — Planting Dahlia Tubers (CSU Extension)", "url": "https://planttalk.colostate.edu/topics/annuals-perennials/1094-planting-dahlia-tubers/" },
+    { "name": "Missouri Botanical Garden Plant Finder — Dahlia (group)", "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=a445" }
+  ],
   "shots": [
     {
       "local": "images/su-flower-t.jpg",

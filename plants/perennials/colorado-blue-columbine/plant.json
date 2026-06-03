@@ -15,6 +15,27 @@
   "winter": false,
   "verified": "2026-06-01",
   "commons": "Columbine-01.jpg",
+  "care": {
+    "hardiness": "Hardy to at least USDA Zone 3 — fully winter-hardy across the Front Range (Zone 5b–6a). It is native to Colorado's mountains from about 6,000 to 11,500 ft, so cold winters are no problem. The foliage dies back to the ground after frost and re-emerges in early spring. Mulch roots lightly in exposed, wind-swept spots on the open plains.",
+    "sun": "Part shade to full sun, with afternoon protection preferred at lower Front Range elevations. Below about 6,500 ft the intense afternoon sun can scorch the lacy foliage and hasten dormancy — plant on the east side of a structure, under high-branched trees, or with a taller perennial to the west. In cooler mountain gardens or north-facing slopes, full sun is fine. The rule of thumb: the hotter and drier the site, the more afternoon shade it needs.",
+    "soil": "Moist, well-drained soil — it detests both drought and waterlogging. In its native habitat it grows in rocky, humus-rich talus and meadow soils (pH roughly 6.0–7.0). On the plains, amend heavy clay with compost and coarse grit to open it up. Mulch the root zone with 1–2 in. of composted bark or wood chips to keep soil cool and hold moisture — this is especially important on the windy, dry Front Range.",
+    "water": "Moderate; water deeply and consistently, especially during bloom and in midsummer heat. It prefers 1–2 deep waterings per week during hot, dry spells while actively growing; ease off once the foliage begins to yellow and die back in late summer. Avoid overhead watering on the foliage, which encourages mildew. Water at the base.",
+    "spacing": "Space plants 12–18 in. apart; mature clumps are 1–1.5 ft wide and 1–2.5 ft tall. Individual plants are short-lived (3–5 years) but self-seed gently to persist in the garden; allow some seed to set each year.",
+    "sow": "Direct-sow in early fall — seeds naturally cold-stratify over winter and germinate in spring. For spring sowing, refrigerate seeds in moist sand for 60 days (about 2 months) first. Surface-sow or barely cover with a thin layer of soil; seeds need light to germinate. Plants bloom in their second or third year from seed, so plan ahead.",
+    "stratify": "Requires 60 days of cold-moist stratification before spring sowing. Place seed in damp sand or on a moist paper towel in a sealed bag and refrigerate for 2 months. Fall-sown seed stratifies naturally outdoors. Without cold treatment, spring-sown seed germinates poorly and unevenly.",
+    "depth": "Sow on the soil surface and press in firmly, or cover with no more than ¼ in. of fine soil — seeds need light for good germination. Soil temperature of 60–70°F promotes germination in 2–4 weeks. Seedlings emerge slowly; be patient.",
+    "bloom": "Late May through July on the Front Range — the distinctive long-spurred blue-and-white flowers are showiest in June at lower elevations. Bloom finishes as heat intensifies in midsummer, and the plant typically goes partly dormant by August. Deadhead spent flowers to extend bloom slightly and keep the plant tidy.",
+    "feeding": "A light top-dressing of compost in spring is sufficient. Avoid high-nitrogen fertilizers, which produce leafy growth at the expense of flowers. In lean native soils it may need nothing at all.",
+    "maintenance": "Deadhead spent flowers to prolong the season; leave a few to set seed for self-sowing. Cut foliage to the ground in late summer once it yellows — this also removes leafminer-infested leaves. Columbine is short-lived (3–5 years); renew by letting it self-seed rather than dividing (taproots dislike disturbance). Seedlings are usually numerous enough to replace aging crowns naturally.",
+    "selfsow": "Self-seeds modestly to persistently — plants scatter seed in late summer and volunteers appear near parent plants the following spring. The seed freely crosses with other columbine cultivars in the garden, so named selections won't come true from seed.",
+    "troubles": "Columbine leafminer (*Phytomyza aquilegiella*) is the most common Front Range pest: the tiny fly larvae tunnel pale squiggly tracks through the leaves in late spring. Unsightly but rarely fatal — cut off infested leaves and discard (don't compost). Aphids cluster on stems in spring; knock off with a strong water spray. Powdery mildew can appear in hot, humid spells; good airflow and avoiding wet foliage help. Sawfly larvae eat the foliage — pick off by hand. The plant is short-lived by nature, not due to pests; succession from self-seed is the best strategy.",
+    "companions": "Aspen fleabane, wild bergamot, native salvias, Rocky Mountain penstemon, prairie smoke (*Geum triflorum*), and shade-tolerant grasses like tufted hairgrass. Its ferny foliage and nodding flowers suit cottage-style and rock garden plantings."
+  },
+  "care_src": [
+    { "name": "Lady Bird Johnson Wildflower Center — Aquilegia coerulea", "url": "https://www.wildflower.org/plants/result.php?id_plant=AQCO" },
+    { "name": "Great Basin Seeds — Colorado Blue Columbine", "url": "https://greatbasinseeds.com/product/colorado-blue-columbine/" },
+    { "name": "CSU Extension — Wildflowers in Colorado (Boulder County)", "url": "https://boulder.extension.colostate.edu/wp-content/uploads/sites/7/2020/05/07233.pdf" }
+  ],
   "shots": [
     {
       "local": "images/su-flower-t.jpg",

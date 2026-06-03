@@ -15,6 +15,28 @@
   "winter": false,
   "verified": "2026-05-30",
   "commons": "",
+  "care": {
+    "hardiness": "Hardy to USDA Zone 4 (and likely colder) — fully winter-hardy across the Front Range (Zone 5b–6a). The foliage dies completely to the ground after frost and re-emerges from the root crown in spring, which is normal. No winter protection needed.",
+    "sun": "Full sun is best, though it tolerates light afternoon shade. In its native Rocky Mountain habitat it grows from open sagebrush foothills to subalpine meadows at 6,500–10,000 ft — the intense Front Range sun suits it perfectly. Plants in too much shade become leggy and flower poorly.",
+    "soil": "Well-drained soils of almost any texture — sandy loam, loam, gravel, even lean clay — as long as it doesn't sit wet. It tolerates a wide pH range (roughly 5.7–7.5), so the alkaline clay-loam of Front Range gardens is acceptable, though adding coarse grit improves drainage in heavier soils. As a nitrogen-fixing legume it thrives in poor, unamended soil and needs no rich compost.",
+    "water": "Low water once established — it is adapted to as little as 10–18 in. of annual precipitation. Water transplants and first-year plants regularly to help them root in; after that, monthly deep watering through summer drought is usually sufficient. Do not overwater; wet soil encourages crown rot.",
+    "spacing": "Space plants 12–18 in. apart. Mature clumps reach about 1–2 ft wide and 1–2 ft tall. It colonizes gradually by seed but is not aggressive; leave a few seed pods to self-sow for a naturalized colony effect.",
+    "sow": "Direct-sow in fall for natural cold stratification over winter, or start in early spring after stratifying seed. Sow where plants are to grow — lupines develop a deep taproot and resent transplanting once established. Scratch seed shallowly into firm, weed-free soil and tamp well. Soaking seed in hot water (not boiling) for 12–24 hours, or nicking the hard seed coat with sandpaper (scarification), greatly improves germination.",
+    "stratify": "Cold-moist stratification for 30 days improves germination of stored seed. Mix seed with damp sand in a sealed bag and refrigerate for 4 weeks before spring sowing. Fall-sown seed stratifies naturally over winter outdoors. Scarification (lightly abrading the seed coat) can substitute for or complement cold treatment — use whichever is convenient.",
+    "depth": "Sow ½–¾ in. deep and firm the soil. Germination typically takes 2–4 weeks once soil warms to 55–65°F in spring. Expect uneven emergence; the taproot develops before much top growth appears.",
+    "bloom": "Blue-violet (occasionally white or pink) pea-flower spikes from late May to mid-August on the Front Range — peak bloom is typically June and July. First-year plants from seed usually bloom lightly; full flowering develops in year two.",
+    "feeding": "As a native nitrogen-fixer it feeds itself through its root-bacteria partnership and needs no added fertilizer. Avoid nitrogen-rich amendments, which push leafy growth at the expense of flowers.",
+    "maintenance": "Cut spent flower spikes back to basal foliage after bloom if you want to tidy the plant; leave some to set seed for self-sowing and wildlife forage. The foliage yellows and dies back fully in fall — cut it to the ground after frost. Plants live 3–5 years and are best renewed by allowing self-seeding rather than division (the taproot dislikes disturbance).",
+    "selfsow": "Colonizes by seed — seed pods ripen and split explosively in late summer. Allow a few pods to mature for self-sowing naturalization. Volunteers pull easily when small if you need to edit the colony.",
+    "troubles": "Generally robust on the Front Range. Slugs can nip new spring growth in moist years; aphids occasionally cluster on stems. All parts — especially seeds and pods — contain toxic alkaloids (quinolizidine alkaloids) that can cause serious illness in livestock and humans if ingested in quantity; keep children and pets from eating seed pods. Handle seed and cut stems with care. No serious diseases in well-drained, sunny sites.",
+    "harvest": "Let pods ripen to tan/brown and collect just before they split (they eject seed forcibly). Dry pods in a paper bag, shake free the seeds, and store cool and dry. Germination is best with scarification or cold stratification.",
+    "companions": "Native grasses (little bluestem, blue grama), Rocky Mountain penstemon, blanketflower, aspen fleabane, and prairie zinnia — dry-meadow and open-slope plants that share its low-water, well-drained requirements."
+  },
+  "care_src": [
+    { "name": "Lady Bird Johnson Wildflower Center — Lupinus argenteus", "url": "https://www.wildflower.org/plants/result.php?id_plant=luar3" },
+    { "name": "Great Basin Seeds — Silvery Lupine", "url": "https://greatbasinseeds.com/product/silvery-lupine/" },
+    { "name": "CSU Extension — Native Herbaceous Perennials for Colorado Landscapes", "url": "https://extension.colostate.edu/resource/native-herbaceous-perennials-for-colorado-landscapes/" }
+  ],
   "shots": [
     {
       "local": "images/sp-foliage-t.jpg",

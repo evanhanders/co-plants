@@ -14,6 +14,24 @@
   "toxic": "",
   "winter": true,
   "verified": "2026-05-31",
+  "care": {
+    "hardiness": "USDA zones 3–9 — perfectly hardy across the entire Front Range (5b–6a) and native to Colorado shortgrass and mixed-grass prairies. No winter protection needed; the copper-tan clumps and fluffy seedheads stand through the coldest months and look good doing it.",
+    "sun": "Full sun — 6+ hours of direct light gives the best color, stiffest stems, and densest clumps. It tolerates light part shade but the characteristic blue-green-to-copper color is muted, and lodging (flopping) increases on shadier sites.",
+    "soil": "Adaptable to sandy, loam, clay-loam, and limestone-derived soils — the full range of Front Range soil types. Well-drained to dry is essential; it will not tolerate standing water, boggy spots, or persistently wet clay. Lean and infertile soil actually produces the best plants: compact, upright, and brilliantly colored. Rich, moist, heavily amended soil causes floppy, lackluster growth.",
+    "water": "Low — highly drought-tolerant once established, as befits a native prairie bunchgrass. In its first season, water deeply once a week to help the root system establish (it's a warm-season grass, so it roots actively June–August). After year one, it thrives on Front Range natural precipitation (~15–18 in/year) with only occasional supplemental watering during extended heat spells. Avoid overwatering — excess moisture is the primary cause of lodging.",
+    "spacing": "Space plants 18–24 in on center for garden plantings; clumps mature to roughly 18–24 in wide and 2–3 ft tall in summer (flower stems can reach 4–5 ft by fall). In prairie or meadow restorations, denser spacing (12–18 in) knits into a sward faster.",
+    "bloom": "A warm-season grass that begins active growth in late May–June once soil warms to 70°F+. Tiny flowers open July–August; fluffy, silvery-white seedheads develop August–October — peak ornamental interest. Fall color (mahogany to copper-red) begins in September and intensifies with cold nights. The clumps hold their form upright through winter, providing structure and bird foraging well into February.",
+    "feeding": "None. Little bluestem is specifically adapted to nutrient-poor soils and grows best without fertilizer. Any nitrogen application makes it tall, floppy, and prone to lodging. Skip the compost amendment in planting too — add sand or fine gravel if drainage needs improving, not organic matter.",
+    "maintenance": "Cut back old growth to 3–4 in above the ground in late winter or very early spring (February–March on the Front Range), before new growth emerges from the base — this is the only regular task. Cutting too early (fall or early winter) removes wildlife forage and the ornamental winter silhouette; cutting too late (after April) risks nicking tender new shoots. Division is rarely needed, but overly large clumps can be divided in spring when new growth is just starting. Cultivars like 'The Blues' and 'Prairie Blues' are somewhat slower to self-sow and may be tidier for smaller gardens.",
+    "selfsow": "Self-seeds moderately in open, disturbed soil — useful for filling gaps in a prairie planting but can spread beyond intended areas in small gardens. Remove seedheads before they shatter if you want to limit spread; in a naturalistic meadow, let them go.",
+    "troubles": "Virtually pest- and disease-free. Rabbits and deer occasionally graze new growth in spring but rarely cause lasting damage; established clumps recover quickly. Lodging (clumps falling open) is the most common problem and is caused by shade, rich soil, or overwatering — address the cultural conditions, not the symptom.",
+    "companions": "The quintessential Front Range prairie companion plant. Pair with Rocky Mountain bee plant, blanketflower (*Gaillardia aristata*), blue grama (*Bouteloua gracilis*), prairie zinnia (*Zinnia grandiflora*), Mexican hat (*Ratibida columnifera*), and native penstemons for a low-water, high-pollinator prairie planting. Its fine-textured copper winter stems contrast beautifully with the red winter bark of red-twig dogwood."
+  },
+  "care_src": [
+    { "name": "Wisconsin Horticulture Extension — Little Bluestem (Schizachyrium scoparium)", "url": "https://hort.extension.wisc.edu/articles/little-bluestem-schizachyrium-scoparium/" },
+    { "name": "Lady Bird Johnson Wildflower Center — Schizachyrium scoparium", "url": "https://www.wildflower.org/plants/result.php?id_plant=SCSC" },
+    { "name": "USDA NRCS — Plant Guide: Little Bluestem (Schizachyrium scoparium)", "url": "https://plants.sc.egov.usda.gov/DocumentLibrary/plantguide/pdf/pg_scsc.pdf" }
+  ],
   "commons": "Schizachyrium scoparium kz3.jpg",
   "shots": [
     {

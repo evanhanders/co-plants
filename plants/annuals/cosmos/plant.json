@@ -15,6 +15,27 @@
   "winter": false,
   "verified": "2026-06-01",
   "commons": "Cosmea (Cosmos bipinnatus) 02.JPG",
+  "care": {
+    "hardiness": "Warm-season annual — killed by hard frost, so treated as an annual everywhere on the Front Range. No winter hardiness needed; direct sow or transplant after danger of frost (mid-May around Boulder).",
+    "sun": "Full sun is essential — at least 6–8 hours of direct light daily. In too much shade plants stretch, stems flop, and flowering drops sharply.",
+    "soil": "Thrives in average to poor, well-drained soil. Rich, heavily fertilized or amended ground produces lush leafy plants with few flowers and weak stems that flop in wind. Colorado's clay-loam soils are fine as long as drainage is decent; sandy or gravelly ground is ideal. Slightly acidic to neutral pH (6.0–7.5).",
+    "water": "Low to moderate once established — plants bloom best in lean, drier conditions. Overwatering or excessively moist soil suppresses flowering and promotes rank growth. Water deeply once a week in summer heat; less if rains are regular. Once self-established in a drift they are largely self-sufficient under Boulder's ~15–18 in annual precipitation.",
+    "spacing": "Space transplants or thin seedlings to 12–18 in apart; plants reach 2–4 ft tall and 1–2 ft wide. Planting a little closer (10–12 in) lets plants support one another against Front Range wind — useful on exposed sites.",
+    "sow": "Direct sow after the last frost when soil has warmed to at least 65°F — around late May in Boulder. Rake seeds into the top inch of loose soil, firm lightly, and water in. Germination takes 7–14 days at 70–75°F. Transplants started indoors 3–4 weeks before last frost are also fine, but direct sowing into a warm bed is easier and just as reliable.",
+    "depth": "Sow or cover seeds to about 1/8 in deep — cosmos needs light to germinate so barely cover and firm down. Thin to final spacing once seedlings reach 2–3 in.",
+    "bloom": "Mid-July through the first hard frost on the Front Range — the later, shorter days of high summer are what trigger heavy bloom on this day-length-sensitive plant. Deadhead faithfully in early summer to keep plants tidy; let seed set from late August onward for self-sowing.",
+    "feeding": "Do not fertilize. Even a single application of balanced fertilizer on average or decent soil produces tall, floppy, leaf-heavy plants that bloom poorly. On genuinely impoverished soils a single low-nitrogen dose at planting is the maximum.",
+    "maintenance": "Stake the tallest varieties (over 3 ft) in exposed spots, or plant in a drift so neighbors provide mutual support. Deadhead spent blooms through midsummer to prolong the flush; stop deadheading from late August so seed heads can ripen for self-sowing and finch feeding. Cut back to 12–18 in mid-season if plants become leggy — they regrow and rebloom.",
+    "selfsow": "A reliable and generous self-sower — allow some seed heads to ripen and shatter and cosmos will return each year in loose drifts. Seedlings are easy to recognize (ferny, thread-fine leaves) and easy to thin or transplant when small. It is not invasive and does not appear on any CO noxious weed list.",
+    "troubles": "Remarkably trouble-free. Aphids may cluster on young shoots; knock them off with water or leave for predators. Few fungal diseases in Colorado's dry air. Powdery mildew can appear in humid, crowded conditions — good spacing and lean soil prevent it. Tall varieties need wind protection or staking, not a disease issue.",
+    "harvest": "Allow seed heads to dry fully on the plant (they turn tan and papery) before collecting. Strip or shake seeds into a bag, dry further indoors, and store in a cool dry place through winter. Saved seed comes true to type for straight species colors.",
+    "companions": "Native grasses, zinnias, sunflowers, Mexican sunflower (Tithonia), bachelor's button, and other lean-soil annuals. The airy foliage pairs well with solid mounding plants like salvia or Russian sage in the mid-border."
+  },
+  "care_src": [
+    { "name": "Utah State University Extension — Cosmos in the Garden", "url": "https://extension.usu.edu/yardandgarden/research/cosmos-in-the-garden" },
+    { "name": "NC State Extension — Cosmos bipinnatus Plant Toolbox", "url": "https://plants.ces.ncsu.edu/plants/cosmos-bipinnatus/" },
+    { "name": "CSU Extension — Selecting and Planting Roses (Front Range climate context)", "url": "https://extension.colostate.edu/resource/selecting-and-planting-roses/" }
+  ],
   "shots": [
     {
       "local": "images/su-flower-t.jpg",

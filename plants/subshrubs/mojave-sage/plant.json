@@ -15,6 +15,22 @@
   "winter": true,
   "verified": "2026-05-31",
   "commons": "Salvia pachyphylla, the Rose Sage (10461533306).jpg",
+  "care": {
+    "hardiness": "USDA zones 5–10 — reliably hardy at Boulder's 5b–6a with one critical caveat: it must stay dry through winter. Wet, poorly drained soil in winter (especially under heavy snow) causes crown rot and is the primary cause of failure in Colorado. Planted in a raised bed, a south-facing berm, or any sharply drained site, it overwinters without issue and is semi-evergreen, holding its silvery foliage through mild stretches.",
+    "sun": "Full sun, no compromise — at least 6–8 hours of direct sun daily. This native of California's high desert hills was built for intense, dry sunlight. Shade causes weak, floppy growth and reduces bloom.",
+    "soil": "Lean, well-drained loam or sandy soil — the closer to gravel or decomposed granite, the better. Good winter drainage is essential (see hardiness above). Front Range clay-loam can work if amended with coarse grit or planted on a slope; avoid low spots that collect and hold moisture. Skip heavy compost or fertilizer; this plant is adapted to nutrient-poor ground and will grow lank and floppy in rich soil.",
+    "water": "Xeric once established. In the first season water regularly to help roots establish, then gradually reduce — mature plants thrive on Boulder's natural precipitation with a deep soak only every 2–3 weeks in the hottest stretches of summer. Move drip emitters away from the crown as the plant expands. Overwatering is the most common way to lose this plant, especially in fall and winter.",
+    "spacing": "Mature plants reach 2–3 ft tall and wide; space at least 2–3 ft apart to allow the mound to develop and maintain airflow. New plants may take one to two seasons before they begin blooming freely.",
+    "bloom": "June through November — one of the longest bloom windows of any subshrub in this guide. The violet-blue flowers are set among persistently showy mauve-purple bracts that remain colorful long after individual flowers finish, giving months of interest into late fall.",
+    "feeding": "None needed. Lean soil is ideal. Fertilizing promotes lush, leggy growth at the expense of the compact silver mound and bloom production. A very light compost top-dressing in spring is acceptable but not necessary.",
+    "maintenance": "Prune in early spring once you can see which stems survived winter — wait until new growth begins to emerge so you can distinguish live from dead wood, then cut dead or frost-damaged stems back to the first signs of green. Do not cut into old woody stems below the live growth zone; this subshrub does not readily regenerate from bare wood. A light shaping after the main bloom flush (late summer) can keep the plant tidy and encourage late-season rebloom. Avoid heavy fall pruning — leaving the structure standing helps protect the crown from desiccating winter winds.",
+    "troubles": "Largely pest- and disease-free on the Front Range. Crown rot from wet winter soil is by far the main risk (see hardiness and drainage notes). Occasional rabbit browsing on young plants; mature aromatic foliage is generally left alone. No serious insect pests.",
+    "companions": "Pairs beautifully with other xeric silver-foliaged plants: Russian sage, desert marigold, Apache plume, blue grama grass, and penstemon. The silver-and-violet color palette works well with yellow-flowered companions (rabbitbrush, sulfur buckwheat) or alongside ornamental grasses for a southwest-inspired planting."
+  },
+  "care_src": [
+    { "name": "Plant Select — Mojave Sage (Salvia pachyphylla)", "url": "https://plantselect.org/plant/salvia-pachyphylla/" },
+    { "name": "Plant Select — Mojave Sage: A Sage for All Seasons", "url": "https://plantselect.org/plantstories/mojave-sage-a-sage-for-all-seasons/" }
+  ],
   "shots": [
     {
       "local": "images/su-flowers-t.jpg",

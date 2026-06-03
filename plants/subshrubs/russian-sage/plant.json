@@ -15,6 +15,23 @@
   "winter": true,
   "verified": "2026-06-01",
   "commons": "Perovskia atriplicifolia 138-8441.jpg",
+  "care": {
+    "hardiness": "USDA zones 4–9 — among the most cold-hardy subshrubs for the Front Range (5b–6a). It dies to the ground (or close to it) in a typical Boulder winter and regrows from the woody base each spring. The silver stems that persist through winter provide genuine structural interest and also mark where the plant lives so you don't accidentally dig it up in spring.",
+    "sun": "Full sun is non-negotiable — 6–8 hours minimum. In part shade the plant flops badly and blooms poorly. The Front Range's 300+ days of intense high-altitude sun is exactly the condition this plant evolved for in the steppes of Central Asia.",
+    "soil": "Average to lean, well-drained soil. It naturally prefers slightly alkaline pH (above 7.0), making Boulder's typically alkaline clay-loam an acceptable match — as long as drainage is adequate. Amend heavy clay with coarse grit or plant on a gentle slope to improve drainage. Rich, fertile, or constantly moist soil causes floppy, rank growth; skip heavy compost. Rocky or sandy soils are fine.",
+    "water": "Xeric once established. Water deeply once or twice a week in the first growing season to develop deep roots; thereafter, established plants are genuinely drought-tolerant and need supplemental irrigation only during prolonged heat or drought (roughly every 2–3 weeks in summer). Overwatering and poor drainage invite root rot — the main way to kill this plant. Never let it sit in wet soil.",
+    "spacing": "Space plants 2–4 ft apart (2 ft for compact cultivars like 'Little Spire', 3–4 ft for full-size selections). Allow generous spacing for airflow — crowding in irrigated mixed borders is where problems start.",
+    "bloom": "Midsummer through early fall on the Front Range — roughly July into September, with the lavender-blue haze at its peak in mid-to-late July. The silvery stems remain attractive well into winter. Deadheading is not required for repeat bloom; the plant blooms on new wood all season.",
+    "feeding": "Little to none. A light side-dressing of compost in early spring is the most that's needed. Avoid nitrogen-heavy fertilizers entirely — they promote lush, floppy growth and reduce the tight, silvery habit that makes this plant useful. Lean soil keeps it upright and free-blooming.",
+    "maintenance": "Hard spring pruning is the essential annual task. Wait until you see the first flush of new silver-green growth emerging from the base — usually late March to mid-April around Boulder — then cut all of the previous year's stems back to 6–12 inches above ground level (or to just above the emerging shoots). Cutting too early risks removing emerging growth; cutting into bare wood below all growth is fine since it re-sprouts readily. Do not skip the spring cut: plants left unpruned become an increasingly floppy, woody tangle. A light shaping after the first bloom flush (midsummer) is optional but not necessary. Leave the silver winter stems standing through the cold months — they protect the crown and look good with snow.",
+    "selfsow": "May self-sow and also spreads slowly by rhizomes in favorable sites. Deadhead if you want to limit self-sowing, or choose a named compact cultivar ('Little Spire', 'Blue Jean Baby') which tend to be less vigorous spreaders. Unwanted seedlings are easy to hoe out in spring.",
+    "troubles": "Remarkably trouble-free — deer and rabbits avoid the strongly aromatic foliage, and it has virtually no serious pest or disease problems on the Front Range. Root rot from waterlogged soil is the one genuine risk (fix drainage). Occasional leafhoppers or aphids; nothing warranting treatment.",
+    "companions": "Classic Front Range combinations: Russian sage with ornamental grasses (little bluestem, blue grama), coneflower, catmint, globe thistle, sedum 'Autumn Joy', and lavender. It harmonizes with anything silver, blue, or yellow. For a xeric border: pair with rabbitbrush, penstemon, desert marigold, or cushion spurge."
+  },
+  "care_src": [
+    { "name": "Proven Winners — How to Grow and Care for Russian Sage", "url": "https://www.provenwinners.com/learn/how-plant/russian-sage" },
+    { "name": "Gardener's Path — How to Grow and Care for Russian Sage", "url": "https://gardenerspath.com/plants/ornamentals/grow-russian-sage/" }
+  ],
   "shots": [
     {
       "local": "images/su-habit-t.jpg",

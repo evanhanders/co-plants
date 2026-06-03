@@ -15,6 +15,22 @@
   "winter": false,
   "verified": "2026-06-01",
   "commons": "Shasta Daisy Becky NBG LR.jpg",
+  "care": {
+    "hardiness": "USDA zones 4–9 — reliably winter-hardy on the Boulder Front Range (zone 5b–6a) and at elevations to about 9,000 ft. The clump goes dormant after frost and re-emerges in spring. Good winter drainage is more important than cold tolerance; a wet crown through freeze-thaw cycles is the main killer.",
+    "sun": "Full sun — 6+ hours daily for the best, stiffest stems and most prolific bloom. Tolerates light afternoon shade, but shaded plants stretch, flop, and flower less. On the high-altitude Front Range, full sun is the norm and plants perform excellently.",
+    "soil": "Moderately fertile, moist but well-drained soil; tolerates clay, loam, or sandy ground across a wide pH range (6.0–8.0). The alkaline clay-loam soils common on the Front Range are fine without special amendment. Avoid rich, constantly wet soil, which promotes lush but floppy growth and root rot.",
+    "water": "Moderate — regular irrigation is needed for reliable summer bloom on the semi-arid Front Range (~15–18 in/year). Water deeply twice a month or more in dry stretches; established plants tolerate occasional dry periods but flower best with consistent moisture. Critically, ensure good drainage going into winter — soggy soil around the crown causes the most failures.",
+    "spacing": "Space 18–24 in apart; plants grow 2–4 ft tall and 1–2 ft wide. Taller cultivars need staking in windy sites. Compact cultivars like 'Snowcap' (to 12 in) or 'Becky' (3–4 ft, very sturdy) reduce the need for support.",
+    "bloom": "Early summer through late summer on the Front Range — typically June through August or September with regular deadheading. One of the longest-blooming white perennials available. Classic white rays around a golden disc; excellent as a cut flower.",
+    "feeding": "Light to moderate feeder — a balanced slow-release fertilizer or compost top-dress in early spring supports strong stems and bloom. Avoid excess nitrogen, which drives leafy growth and flopping. No feeding needed mid-season on average to fertile soils.",
+    "maintenance": "Deadhead spent flowers promptly — snipping back to a lateral bud or leaf prolongs bloom significantly, sometimes into early fall. After the main flush, cut flower stalks back to the basal rosette. Cut stems to the ground in late fall or early winter after frost. Divide clumps every 2–3 years in early spring (before growth begins) or late summer (after bloom fades) to maintain vigor — old clumps tend to die out in the center. Discard the woody center; replant vigorous outer sections 18–24 in apart.",
+    "troubles": "Phytophthora root and crown rot is the primary disease threat, especially in poorly drained or irrigated-overhead sites; cultivar 'Becky' shows excellent resistance. Aphids and leaf eelworms may appear but are seldom severe. Bacterial leaf spot can disfigure foliage in wet summers. Deer occasionally browse young growth, though established plants are generally avoided.",
+    "companions": "Blue salvias, catmint, rudbeckia, purple coneflower, and ornamental grasses all complement the classic white daisy in a summer border. Pair with penstemon and yarrow for a drought-tolerant pollinator planting. The long stems make it a premier cut flower — combine in a vase with Colorado blue columbine or cosmos."
+  },
+  "care_src": [
+    { "name": "NC State Extension — Leucanthemum x superbum", "url": "https://plants.ces.ncsu.edu/plants/leucanthemum-x-superbum/" },
+    { "name": "RHS — Leucanthemum × superbum", "url": "https://www.rhs.org.uk/plants/98781/leucanthemum-superbum/details" }
+  ],
   "shots": [
     {
       "local": "images/su-flower-t.jpg",

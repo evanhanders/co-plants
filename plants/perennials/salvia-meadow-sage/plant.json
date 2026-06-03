@@ -15,6 +15,23 @@
   "winter": false,
   "verified": "2026-06-01",
   "commons": "Woodland sage-Salvia nemorosa.jpg",
+  "care": {
+    "hardiness": "USDA zones 4a–8b — thoroughly cold-hardy on the Front Range (5b–6a) with no special winter protection needed. The low rosette of aromatic foliage often stays semi-evergreen under snow and leafs out reliably each spring.",
+    "sun": "Full sun is essential — 6+ hours of direct sun daily. It will grow in part shade but blooms sparsely, flops, and becomes more susceptible to crown rot. The intense high-altitude Front Range sun is exactly what this plant loves.",
+    "soil": "Average to lean, well-drained soil. It tolerates sandy, gravelly, or even moderately heavy clay-loam (the typical Front Range mix) as long as drainage is good; soggy ground is fatal. Neutral to slightly alkaline pH (7.0–7.8) suits it perfectly. Skip heavy amendment — rich, constantly moist soil causes floppy growth and crown rot.",
+    "water": "Low to moderate. Once established, it is remarkably drought-tolerant and gets by on Boulder's ~15–18 in of annual precipitation with only occasional supplemental irrigation during prolonged heat. In the first season, water once or twice a week to settle roots; thereafter, a deep soak every 1–2 weeks in summer is ample. Never let it sit in wet soil.",
+    "spacing": "Space plants 18–24 in apart; each forms a tidy mound 1.5–2 ft tall and wide. Plant in groups of three or more for the best visual mass of spikes.",
+    "bloom": "Late May into July on the Front Range — the first flush of violet-blue spikes opens around the same time as iris and columbine. Deadheaded plants typically rebloom in August–September with a second (sometimes third) flush of shorter spikes.",
+    "feeding": "Little to none. A light top-dressing of compost in early spring is sufficient. Avoid high-nitrogen fertilizers — they produce lush foliage and weak, floppy stems at the expense of bloom.",
+    "maintenance": "Deadheading for rebloom is the main task: once a spike finishes and the stem turns brown, cut it back to the basal foliage — new flower stalks emerge from the crown and can rebloom two or more times through summer. Shear the whole plant back by one-third to one-half immediately after the main flush (late June or early July) for the cleanest rebloom and most compact habit. Do not prune after early September — cutting at that point stimulates tender new growth that won't harden off before frost. In late winter or early spring, cut any dead or damaged stems to the ground before new growth emerges; the fresh basal rosette needs no other attention.",
+    "selfsow": "May self-sow modestly in disturbed soil, but not aggressively. Seedlings are easy to spot (aromatic gray-green leaves) and straightforward to pull or transplant. The species is clump-forming and does not spread by runners.",
+    "troubles": "Largely trouble-free on the Front Range. Powdery mildew can appear in humid or crowded conditions — ensure good airflow and don't overhead-water. Crown rot occurs in poorly drained or over-watered sites; fix drainage rather than fighting the disease. Deer and rabbits avoid the aromatic foliage.",
+    "companions": "Classic combinations: 'May Night' or 'Caradonna' salvia with 'Siskiyou Pink' gaura, yarrow, catmint, ornamental grasses (little bluestem), cushion spurge, and Russian sage. Pairs beautifully with roses or shasta daisy for a cottage-border effect."
+  },
+  "care_src": [
+    { "name": "PlantTalk Colorado — Salvia (CSU Extension)", "url": "https://planttalk.colostate.edu/topics/annuals-perennials/1058-salvia/" },
+    { "name": "NC State Extension — Salvia nemorosa", "url": "https://plants.ces.ncsu.edu/plants/salvia-nemorosa/" }
+  ],
   "shots": [
     {
       "local": "images/su-flower-t.jpg",

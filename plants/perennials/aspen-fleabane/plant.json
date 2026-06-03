@@ -15,6 +15,27 @@
   "winter": false,
   "verified": "2026-06-01",
   "commons": "Erigeron speciosus Lindl. DC. 'Fleabane' (Asteraceae) flower.JPG",
+  "care": {
+    "hardiness": "Hardy to USDA Zone 2 — exceptionally cold-tolerant and fully at home on the Front Range (Zone 5b–6a). It grows natively from 2,000 to over 11,000 ft in the Rockies and is completely unbothered by Boulder winters. No winter protection needed; the plant dies to the ground after frost and re-emerges reliably in spring.",
+    "sun": "Full sun on the plains and at lower Front Range elevations; part shade is also fine, especially where afternoon heat is intense. At high altitude it prefers open, sunny sites. In Boulder-area gardens, an east- or north-facing exposure with a few hours of afternoon shade keeps the foliage from scorching and prolongs bloom.",
+    "soil": "Well-drained soil is essential — it tolerates sandy, gravelly, clay-loam, calcareous, and moderately alkaline soils (pH roughly 6.6–7.2), fitting right into Front Range conditions. Avoid compacted, waterlogged spots. No amendment beyond basic loosening is needed; it thrives on the lean, gritty soils common to Colorado foothills.",
+    "water": "Low to moderate — once established it gets by on the Front Range's natural precipitation supplemented by an occasional deep watering during extended summer drought. New transplants need regular watering through their first growing season. Do not let the soil stay waterlogged; standing water leads to root rot. A deep watering every 10–14 days in summer heat is typically enough for established plants.",
+    "spacing": "Space plants 18–24 in. apart; mature clumps reach 12–18 in. tall and up to 24–30 in. wide with a loosely branched, spreading form. Slow rhizomatous spread means it can fill in over time — a feature on dry slopes, easy to edit in formal borders.",
+    "sow": "Direct-sow in early fall for natural winter stratification, or start seed indoors 8–10 weeks before the last frost with cold stratification. Seeds are tiny; surface-sow or cover with the barest dusting of fine soil (no more than ⅛ in.) since they need light to germinate without stratification. Press seed firmly into moist soil.",
+    "stratify": "Cold stratification for 30–60 days encourages uniform germination and is especially useful for spring sowing. Mix seed with damp sand in a sealed bag and refrigerate for 4–6 weeks. Without cold treatment, germination is slower and more erratic but still achievable if light is provided.",
+    "depth": "Surface-sow or cover with no more than ⅛ in. of fine, moist soil. Non-stratified seed benefits from light at the surface. Germination occurs in about 7–14 days at 59–70°F (15–21°C) once conditions are right. Seeds are very fine — roughly 2 million per pound — so sow more than you think you need.",
+    "bloom": "June through October on the Front Range — an exceptionally long season of 2-in. lavender-blue daisies with golden centers. Bloom starts earlier in lowland gardens (June) and peaks in midsummer; at higher elevation or on north exposures, it extends well into fall. Deadheading spent flowers triggers rebloom and can keep it going until first frost.",
+    "feeding": "Light feeding is sufficient — a thin top-dressing of compost in spring, or a single application of balanced slow-release fertilizer. Heavy feeding pushes lush growth and floppy stems without extra bloom.",
+    "maintenance": "Deadhead spent flower heads regularly to keep the long bloom going. After several frosts, cut the whole plant to a few inches above ground. Every 3–4 years, divide crowding clumps in early spring or early fall: dig up, split with a sharp spade or knife, and replant the vigorous outer sections. Division keeps plants vigorous and prevents the center from dying out.",
+    "selfsow": "Produces light, wind-dispersed seed and can self-sow modestly. Not weedy or aggressive — volunteers are easy to pull or transplant. In a naturalized planting, allowing some seed to scatter maintains the colony.",
+    "troubles": "One of the most trouble-free Front Range natives. Fungal rots (powdery mildew, rust) can appear in very wet seasons or where airflow is poor, but are rarely serious in the dry, sunny conditions it prefers. Seed heads can harbor a few insect larvae without visible damage. No serious pest problems reported on the Front Range.",
+    "companions": "Wild bergamot, Rocky Mountain penstemon, little bluestem, blanketflower (*Gaillardia*), native salvias, and silvery lupine — dry-to-moderate Front Range perennials that bloom together through summer. Its daisy form contrasts nicely with upright spiky plants."
+  },
+  "care_src": [
+    { "name": "USDA Forest Service / Western Forbs — Aspen Fleabane (Erigeron speciosus)", "url": "https://westernforbs.org/species/aspen-fleabane-erigeron-speciosus/" },
+    { "name": "Harlequin's Gardens — Choice Fleabanes for Colorado Gardens", "url": "https://harlequinsgardens.com/choice-fleabanes-for-colorado-gardens/" },
+    { "name": "CSU Extension — Native Herbaceous Perennials for Colorado Landscapes", "url": "https://extension.colostate.edu/resource/native-herbaceous-perennials-for-colorado-landscapes/" }
+  ],
   "shots": [
     {
       "local": "images/su-flower-t.jpg",

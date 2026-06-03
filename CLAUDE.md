@@ -202,7 +202,11 @@ strip first, then the page only at the boundary). **Don't reintroduce
 `pointerdown`/`pointerup` on each `.reel`: a **horizontal-dominant** swipe past ~40px steps
 the season (`setActive(cur±1)`), while a vertical drag does nothing here so the **page still
 scrolls** (no capture, no `preventDefault`, no overflow → no scroll-chaining). This is the
-safe way to have swipe; keep it pointer-based.
+safe way to have swipe; keep it pointer-based. **Critical:** `.reel`/`.shot img` must carry
+`touch-action: pan-y` in CSS — without it a touchscreen claims the horizontal drag as a
+scroll and fires `pointercancel` instead of `pointerup`, so the swipe silently never fires
+(this is exactly the bug that made it "do nothing" on touch). `pan-y` reserves the horizontal
+axis for the handler while still allowing vertical page scroll.
 
 ### Tap-vs-swipe gotcha (already fixed — don't regress)
 

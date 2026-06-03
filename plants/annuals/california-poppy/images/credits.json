@@ -1,36 +1,70 @@
 [
   {
-    "file": "images/su-flowers.jpg",
-    "photo_id": "142398801",
-    "by": "Mark Richman",
-    "license": "CC-BY",
-    "source": "https://www.inaturalist.org/photos/142398801",
-    "dataset": "iNaturalist open data",
-    "render": "original",
-    "full_px": [
-      1050,
-      1400
-    ],
-    "thumb_px": [
-      300,
-      400
-    ]
-  },
-  {
-    "file": "images/su-habit.jpg",
-    "photo_id": "3201379",
-    "by": "Katja Schulz",
-    "license": "CC-BY",
-    "source": "https://www.inaturalist.org/photos/3201379",
+    "file": "images/su-flower.jpg",
+    "photo_id": 67227218,
+    "by": "pronghornranch67",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/40787239",
     "dataset": "iNaturalist open data",
     "render": "original",
     "full_px": [
       1400,
-      1400
+      1313
     ],
     "thumb_px": [
       400,
-      400
+      375
+    ]
+  },
+  {
+    "file": "images/su-bloom.jpg",
+    "photo_id": 270896125,
+    "by": "Christian Schwarz",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/156649063",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      1050
+    ],
+    "thumb_px": [
+      400,
+      300
+    ]
+  },
+  {
+    "file": "images/su-foliage.jpg",
+    "photo_id": 4449874,
+    "by": "Jon Sullivan",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/observations/3808013",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      934
+    ],
+    "thumb_px": [
+      400,
+      267
+    ]
+  },
+  {
+    "file": "images/su-habit.jpg",
+    "photo_id": 46560845,
+    "by": "Amy",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/observations/29821696",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      1050
+    ],
+    "thumb_px": [
+      400,
+      300
     ]
   }
 ]

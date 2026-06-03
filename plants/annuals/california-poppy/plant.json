@@ -46,24 +46,44 @@
   ],
   "shots": [
     {
-      "local": "images/su-flowers-t.jpg",
-      "full": "images/su-flowers.jpg",
-      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/142398801/large.jpeg",
+      "local": "images/su-flower-t.jpg",
+      "full": "images/su-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/67227218/large.jpg",
       "s": "summer",
-      "cap": "Summer — cupped orange flowers & blue-green ferny foliage · © Mark Richman (CC-BY) / iNaturalist",
-      "by": "Mark Richman",
+      "cap": "Face-on silky orange cups in full bloom · © pronghornranch67 (CC-BY-NC) / iNaturalist",
+      "by": "pronghornranch67",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/40787239"
+    },
+    {
+      "local": "images/su-bloom-t.jpg",
+      "full": "images/su-bloom.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/270896125/large.jpg",
+      "s": "summer",
+      "cap": "Mass of California poppies carpeting a hillside · © Christian Schwarz (CC-BY-NC) / iNaturalist",
+      "by": "Christian Schwarz",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/156649063"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/4449874/large.jpg",
+      "s": "summer",
+      "cap": "Ferny blue-green lacy foliage with flower and closed bud · © Jon Sullivan (CC-BY) / iNaturalist",
+      "by": "Jon Sullivan",
       "lic": "CC-BY",
-      "link": "https://www.inaturalist.org/photos/142398801"
+      "link": "https://www.inaturalist.org/observations/3808013"
     },
     {
       "local": "images/su-habit-t.jpg",
       "full": "images/su-habit.jpg",
-      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/3201379/large.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/46560845/large.jpeg",
       "s": "summer",
-      "cap": "Summer — whole plant: silvery foliage & blooms · © Katja Schulz (CC-BY) / iNaturalist",
-      "by": "Katja Schulz",
+      "cap": "Whole plant habit — sprawling mound amid wildflowers · © Amy (CC-BY) / iNaturalist",
+      "by": "Amy",
       "lic": "CC-BY",
-      "link": "https://www.inaturalist.org/photos/3201379"
+      "link": "https://www.inaturalist.org/observations/29821696"
     }
   ],
   "commons": "20170805Eschscholzia californica1.jpg"

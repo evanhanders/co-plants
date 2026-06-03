@@ -43,24 +43,44 @@
   ],
   "shots": [
     {
-      "local": "images/su-flower-t.jpg",
-      "full": "images/su-flower.jpg",
-      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/536022378/large.jpg",
+      "local": "images/su-bloom-t.jpg",
+      "full": "images/su-bloom.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/569891082/large.jpg",
       "s": "summer",
-      "cap": "Summer — fully double bloom · © MarCheläs (CC-BY-NC) / iNaturalist",
-      "by": "MarCheläs",
+      "cap": "Summer — dahlia clump in full bloom in a garden border · © DiVo (CC-BY-NC) / iNaturalist · © DiVo (CC-BY-NC) / iNaturalist",
+      "by": "DiVo",
       "lic": "CC-BY-NC",
-      "link": "https://www.inaturalist.org/photos/536022378"
+      "link": "https://www.inaturalist.org/observations/315468444"
     },
     {
-      "local": "images/fa-habit-t.jpg",
-      "full": "images/fa-habit.jpg",
-      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/317732099/large.jpeg",
-      "s": "fall",
-      "cap": "Autumn — flowering in the border · © claumeliahl (CC-BY-NC) / iNaturalist",
-      "by": "claumeliahl",
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/326072206/large.jpg",
+      "s": "summer",
+      "cap": "Summer — single bushy dahlia plant in the garden · © Алёна Осипова (CC-BY) / iNaturalist · © Алёна Осипова (CC-BY) / iNaturalist",
+      "by": "Алёна Осипова",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/186568790"
+    },
+    {
+      "local": "images/su-flower-t.jpg",
+      "full": "images/su-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/320086165/large.jpg",
+      "s": "summer",
+      "cap": "Summer — face-on close-up of garden dahlia bloom · © no rights reserved (CC0) / iNaturalist · © no rights reserved (CC0) / iNaturalist",
+      "by": "no rights reserved",
+      "lic": "CC0",
+      "link": "https://www.inaturalist.org/observations/183464520"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/254584503/large.jpg",
+      "s": "summer",
+      "cap": "Summer — dahlia foliage and stem detail · © Cory Whitney (CC-BY-NC) / iNaturalist · © Cory Whitney (CC-BY-NC) / iNaturalist",
+      "by": "Cory Whitney",
       "lic": "CC-BY-NC",
-      "link": "https://www.inaturalist.org/photos/317732099"
+      "link": "https://www.inaturalist.org/observations/69467207"
     }
   ],
   "commons": "A maroon Dahlia flower (Lalbagh, Bangalore, 2017).jpg"

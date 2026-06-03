@@ -52,6 +52,16 @@
       "link": "https://www.inaturalist.org/photos/215029646"
     },
     {
+      "local": "images/sp-bloom-t.jpg",
+      "full": "images/sp-bloom.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/540506444/large.jpg",
+      "s": "spring",
+      "cap": "Spring — plants in bloom in a high-alpine meadow · © arobey63 (CC-BY-NC) / iNaturalist",
+      "by": "arobey63",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/photos/540506444"
+    },
+    {
       "local": "images/su-habit-t.jpg",
       "full": "images/su-habit.jpg",
       "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/299292077/large.jpg",
@@ -60,6 +70,16 @@
       "by": "Bob Walker",
       "lic": "CC-BY",
       "link": "https://www.inaturalist.org/photos/299292077"
+    },
+    {
+      "local": "images/su-pods-t.jpg",
+      "full": "images/su-pods.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/541036110/large.jpg",
+      "s": "summer",
+      "cap": "Summer — long-spurred flowers showing the distinctive spur detail · © Guy Babineau (CC-BY) / iNaturalist",
+      "by": "Guy Babineau",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/300285196"
     }
   ],
   "commons": "Columbine-01.jpg"

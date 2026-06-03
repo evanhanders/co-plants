@@ -1,6 +1,6 @@
 [
   {
-    "file": "images/fa-close.jpg",
+    "file": "images/fa-flower.jpg",
     "photo_id": 25124946,
     "by": "no rights reserved",
     "license": "CC0",
@@ -17,7 +17,41 @@
     ]
   },
   {
-    "file": "images/fa-structure.jpg",
+    "file": "images/fa-habit.jpg",
+    "photo_id": 430023172,
+    "by": "birdlover24",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/241295161",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1194,
+      1400
+    ],
+    "thumb_px": [
+      341,
+      400
+    ]
+  },
+  {
+    "file": "images/fa-bloom.jpg",
+    "photo_id": 100037099,
+    "by": "wgongos",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/62437300",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  },
+  {
+    "file": "images/fa-habit2.jpg",
     "photo_id": 428733131,
     "by": "FrontRangeWildflowers",
     "license": "CC-BY-NC",

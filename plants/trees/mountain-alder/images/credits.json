@@ -1,32 +1,15 @@
 [
   {
-    "file": "images/sp-catkins.jpg",
-    "photo_id": "259589967",
-    "by": "Emily Franzen",
-    "license": "CC-BY",
-    "source": "https://www.inaturalist.org/photos/259589967",
+    "file": "images/su-habit.jpg",
+    "photo_id": 89329509,
+    "by": "crcrogers",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/56073946",
     "dataset": "iNaturalist open data",
     "render": "original",
     "full_px": [
-      1500,
-      1125
-    ],
-    "thumb_px": [
-      400,
-      300
-    ]
-  },
-  {
-    "file": "images/su-leaves.jpg",
-    "photo_id": "96131815",
-    "by": "Jared Shorma",
-    "license": "CC-BY",
-    "source": "https://www.inaturalist.org/photos/96131815",
-    "dataset": "iNaturalist open data",
-    "render": "original",
-    "full_px": [
-      1125,
-      1500
+      1050,
+      1400
     ],
     "thumb_px": [
       300,
@@ -34,20 +17,54 @@
     ]
   },
   {
-    "file": "images/fa-catkins.jpg",
-    "photo_id": "436328260",
-    "by": "Anders Hastings",
+    "file": "images/su-bark.jpg",
+    "photo_id": 392941611,
+    "by": "Mary Lata",
     "license": "CC-BY",
-    "source": "https://www.inaturalist.org/photos/436328260",
+    "source": "https://www.inaturalist.org/observations/221854123",
     "dataset": "iNaturalist open data",
     "render": "original",
     "full_px": [
-      1500,
-      1001
+      1050,
+      1400
     ],
     "thumb_px": [
-      400,
-      267
+      300,
+      400
+    ]
+  },
+  {
+    "file": "images/sp-flower.jpg",
+    "photo_id": 22020153,
+    "by": "jryan26",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/14759479",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  },
+  {
+    "file": "images/su-foliage.jpg",
+    "photo_id": 162242608,
+    "by": "Karen Fergason",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/97543425",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
     ]
   }
 ]

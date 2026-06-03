@@ -1,35 +1,69 @@
 [
   {
-    "file": "images/fa-close.jpg",
-    "photo_id": 614652729,
-    "by": "no rights reserved",
-    "license": "CC0",
-    "source": "https://www.inaturalist.org/observations/338038749",
+    "file": "images/fa-flower.jpg",
+    "photo_id": 325774234,
+    "by": "povlthor",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/186416752",
     "dataset": "iNaturalist open data",
     "render": "original",
     "full_px": [
-      1400,
-      1050
-    ],
-    "thumb_px": [
-      400,
-      300
-    ]
-  },
-  {
-    "file": "images/fa-structure.jpg",
-    "photo_id": 560862980,
-    "by": "Owen and Carol Fawcett.",
-    "license": "CC-BY",
-    "source": "https://www.inaturalist.org/observations/310739699",
-    "dataset": "iNaturalist open data",
-    "render": "original",
-    "full_px": [
-      1054,
+      1050,
       1400
     ],
     "thumb_px": [
-      301,
+      300,
+      400
+    ]
+  },
+  {
+    "file": "images/fa-bloom.jpg",
+    "photo_id": 162249594,
+    "by": "susanne1967",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/97547622",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  },
+  {
+    "file": "images/fa-foliage.jpg",
+    "photo_id": 413143525,
+    "by": "Tereza Šmídová",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/232539866",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  },
+  {
+    "file": "images/fa-flower2.jpg",
+    "photo_id": 143723762,
+    "by": "Susan J. Hewitt",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/87198601",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
       400
     ]
   }

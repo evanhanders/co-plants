@@ -43,24 +43,44 @@
   ],
   "shots": [
     {
-      "local": "images/fa-close-t.jpg",
-      "full": "images/fa-close.jpg",
-      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/614652729/large.jpg",
+      "local": "images/fa-flower-t.jpg",
+      "full": "images/fa-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/325774234/large.jpg",
       "s": "fall",
-      "cap": "White flower with yellow center boss · © no rights reserved (CC0) / iNaturalist",
-      "by": "no rights reserved",
-      "lic": "CC0",
-      "link": "https://www.inaturalist.org/observations/338038749"
+      "cap": "Fall — large white face-on bloom, yellow stamens · © povlthor (CC-BY-NC) / iNaturalist",
+      "by": "povlthor",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/186416752"
     },
     {
-      "local": "images/fa-structure-t.jpg",
-      "full": "images/fa-structure.jpg",
-      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/560862980/large.jpg",
+      "local": "images/fa-bloom-t.jpg",
+      "full": "images/fa-bloom.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/162249594/large.jpg",
       "s": "fall",
-      "cap": "Pink flowers on tall wiry stems · © Owen and Carol Fawcett. (CC-BY) / iNaturalist",
-      "by": "Owen and Carol Fawcett.",
-      "lic": "CC-BY",
-      "link": "https://www.inaturalist.org/observations/310739699"
+      "cap": "Fall — clump of pink flowers on tall branching stems · © susanne1967 (CC-BY-NC) / iNaturalist",
+      "by": "susanne1967",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/97547622"
+    },
+    {
+      "local": "images/fa-foliage-t.jpg",
+      "full": "images/fa-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/413143525/large.jpeg",
+      "s": "fall",
+      "cap": "Fall — deeply lobed dark-green foliage · © Tereza Šmídová (CC-BY-NC) / iNaturalist",
+      "by": "Tereza Šmídová",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/232539866"
+    },
+    {
+      "local": "images/fa-flower2-t.jpg",
+      "full": "images/fa-flower2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/143723762/large.jpg",
+      "s": "fall",
+      "cap": "Fall — pink bloom face-on with yellow stamens · © Susan J. Hewitt (CC-BY-NC) / iNaturalist",
+      "by": "Susan J. Hewitt",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/87198601"
     }
   ]
 }

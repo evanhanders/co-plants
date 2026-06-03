@@ -46,24 +46,44 @@
   ],
   "shots": [
     {
-      "local": "images/sp-close-t.jpg",
-      "full": "images/sp-close.jpg",
-      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/199523944/large.jpg",
+      "local": "images/sp-flower-t.jpg",
+      "full": "images/sp-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/521734832/large.jpg",
       "s": "spring",
-      "cap": "Western wallflower — dense cluster of vivid orange 4-petaled flowers · © Sequoia Janirella Wrens (CC-BY-NC) / iNaturalist",
-      "by": "Sequoia Janirella Wrens",
+      "cap": "Face-on flat-topped orange flower cluster · © Chris (CC-BY-NC) / iNaturalist",
+      "by": "Chris",
       "lic": "CC-BY-NC",
-      "link": "https://www.inaturalist.org/observations/118111055"
+      "link": "https://www.inaturalist.org/observations/290044670"
     },
     {
-      "local": "images/sp-structure-t.jpg",
-      "full": "images/sp-structure.jpg",
+      "local": "images/sp-habit-t.jpg",
+      "full": "images/sp-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/23947835/large.jpg",
+      "s": "spring",
+      "cap": "Upright whole plant in full bloom on rocky slope · © kirbyadams (CC-BY-NC) / iNaturalist",
+      "by": "kirbyadams",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/15993308"
+    },
+    {
+      "local": "images/sp-foliage-t.jpg",
+      "full": "images/sp-foliage.jpg",
       "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/136403621/large.jpg",
       "s": "spring",
-      "cap": "Western wallflower — upright leafy stems topped with yellow flower clusters · © curt_nimz (CC-BY-NC) / iNaturalist",
+      "cap": "Leafy stems showing the narrow lance-shaped leaves and elongating flower spikes · © curt_nimz (CC-BY-NC) / iNaturalist",
       "by": "curt_nimz",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/83073258"
+    },
+    {
+      "local": "images/sp-bloom-t.jpg",
+      "full": "images/sp-bloom.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/514330217/large.jpg",
+      "s": "spring",
+      "cap": "Western wallflower plant covered in bright orange-yellow clusters · © Jared Lincenberg (CC-BY) / iNaturalist",
+      "by": "Jared Lincenberg",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/286118864"
     }
   ]
 }

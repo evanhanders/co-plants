@@ -1,6 +1,6 @@
 [
   {
-    "file": "images/su-close.jpg",
+    "file": "images/su-flower.jpg",
     "photo_id": 130079783,
     "by": "Erik E",
     "license": "CC-BY-NC",
@@ -17,7 +17,7 @@
     ]
   },
   {
-    "file": "images/su-structure.jpg",
+    "file": "images/su-bloom.jpg",
     "photo_id": 107764341,
     "by": "Henrik Kibak",
     "license": "CC-BY",
@@ -31,6 +31,40 @@
     "thumb_px": [
       400,
       300
+    ]
+  },
+  {
+    "file": "images/su-foliage.jpg",
+    "photo_id": 130090567,
+    "by": "Mathias",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/79422534",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  },
+  {
+    "file": "images/su-habit.jpg",
+    "photo_id": 103260607,
+    "by": "Nicolas Olejnik",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/observations/64248500",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
     ]
   }
 ]

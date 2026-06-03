@@ -43,21 +43,41 @@
   ],
   "shots": [
     {
-      "local": "images/fa-close-t.jpg",
-      "full": "images/fa-close.jpg",
+      "local": "images/fa-flower-t.jpg",
+      "full": "images/fa-flower.jpg",
       "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/25124946/large.jpeg",
       "s": "fall",
-      "cap": "Fall — clusters of tiny white daisy flowers along branching stems · © no rights reserved (CC0) / iNaturalist",
+      "cap": "Fall — clusters of tiny white daisy flowers with yellow centers along branching stems · © no rights reserved (CC0) / iNaturalist · © no rights reserved (CC0) / iNaturalist",
       "by": "no rights reserved",
       "lic": "CC0",
       "link": "https://www.inaturalist.org/observations/16662082"
     },
     {
-      "local": "images/fa-structure-t.jpg",
-      "full": "images/fa-structure.jpg",
+      "local": "images/fa-habit-t.jpg",
+      "full": "images/fa-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/430023172/large.jpeg",
+      "s": "fall",
+      "cap": "Fall — compact wiry-stemmed mound at path edge, showing the plant's form when in full bloom · © birdlover24 (CC-BY-NC) / iNaturalist · © birdlover24 (CC-BY-NC) / iNaturalist",
+      "by": "birdlover24",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/241295161"
+    },
+    {
+      "local": "images/fa-bloom-t.jpg",
+      "full": "images/fa-bloom.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/100037099/large.jpg",
+      "s": "fall",
+      "cap": "Fall — stems smothered in tiny white-and-gold daisies, showing the characteristic dense bloom coverage · © wgongos (CC-BY-NC) / iNaturalist · © wgongos (CC-BY-NC) / iNaturalist",
+      "by": "wgongos",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/62437300"
+    },
+    {
+      "local": "images/fa-habit2-t.jpg",
+      "full": "images/fa-habit2.jpg",
       "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/428733131/large.jpeg",
       "s": "fall",
-      "cap": "Fall — mounding plant covered in many small white flowers · © FrontRangeWildflowers (CC-BY-NC) / iNaturalist",
+      "cap": "Fall — mounding plant covered in masses of small white flowers in the Front Range · © FrontRangeWildflowers (CC-BY-NC) / iNaturalist · © FrontRangeWildflowers (CC-BY-NC) / iNaturalist",
       "by": "FrontRangeWildflowers",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/240630896"

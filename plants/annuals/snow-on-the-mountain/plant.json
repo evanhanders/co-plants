@@ -46,34 +46,34 @@
   ],
   "shots": [
     {
-      "local": "images/su-bracts-t.jpg",
-      "full": "images/su-bracts.jpg",
-      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/85086660/large.jpg",
+      "local": "images/su-flower-t.jpg",
+      "full": "images/su-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/148651385/large.jpeg",
       "s": "summer",
-      "cap": "Summer — white-margined bracts · © Stephen Hornbeck (CC-BY) / iNaturalist",
-      "by": "Stephen Hornbeck",
-      "lic": "CC-BY",
-      "link": "https://www.inaturalist.org/photos/85086660"
+      "cap": "Summer — white-bracted stems face-on, showing the white-margined leaves · © Mandy Malone (CC-BY-NC) / iNaturalist",
+      "by": "Mandy Malone",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/89983279"
     },
     {
       "local": "images/su-habit-t.jpg",
       "full": "images/su-habit.jpg",
-      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/82900451/large.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/310269157/large.jpg",
       "s": "summer",
-      "cap": "Summer — whole plant in bloom · © Stephen Hornbeck (CC-BY) / iNaturalist",
-      "by": "Stephen Hornbeck",
-      "lic": "CC-BY",
-      "link": "https://www.inaturalist.org/photos/82900451"
+      "cap": "Summer — whole plant in dry-prairie habitat · © ratonfam (CC-BY-NC) / iNaturalist",
+      "by": "ratonfam",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/178315221"
     },
     {
-      "local": "images/su-colony-t.jpg",
-      "full": "images/su-colony.jpg",
-      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/87939428/large.jpg",
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/163557939/large.jpg",
       "s": "summer",
-      "cap": "Late summer — a stand along a field edge · © Jess Mullins (CC-BY) / iNaturalist",
-      "by": "Jess Mullins",
-      "lic": "CC-BY",
-      "link": "https://www.inaturalist.org/photos/87939428"
+      "cap": "Summer — white-margined leaves and bracts close-up · © ghostburglar (CC-BY-NC) / iNaturalist",
+      "by": "ghostburglar",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/98260255"
     }
   ],
   "commons": "Euphorbia marginata 2.JPG"

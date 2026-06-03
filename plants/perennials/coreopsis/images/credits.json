@@ -1,10 +1,10 @@
 [
   {
-    "file": "images/su-close.jpg",
-    "photo_id": 76040701,
-    "by": "red_team_fan",
+    "file": "images/su-flower.jpg",
+    "photo_id": 280542300,
+    "by": "jadulje",
     "license": "CC-BY-NC",
-    "source": "https://www.inaturalist.org/observations/47935213",
+    "source": "https://www.inaturalist.org/observations/161929368",
     "dataset": "iNaturalist open data",
     "render": "original",
     "full_px": [
@@ -17,20 +17,37 @@
     ]
   },
   {
-    "file": "images/su-structure.jpg",
-    "photo_id": 280904211,
-    "by": "hr_dragonfly",
+    "file": "images/su-bloom.jpg",
+    "photo_id": 204307518,
+    "by": "Alan Prather",
     "license": "CC-BY",
-    "source": "https://www.inaturalist.org/observations/162453744",
+    "source": "https://www.inaturalist.org/observations/120773059",
     "dataset": "iNaturalist open data",
     "render": "original",
     "full_px": [
-      1072,
-      834
+      1054,
+      1400
     ],
     "thumb_px": [
-      400,
-      311
+      301,
+      400
+    ]
+  },
+  {
+    "file": "images/su-foliage.jpg",
+    "photo_id": 279905916,
+    "by": "no rights reserved",
+    "license": "CC0",
+    "source": "https://www.inaturalist.org/observations/161911673",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
     ]
   }
 ]

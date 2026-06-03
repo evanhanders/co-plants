@@ -45,24 +45,44 @@
   ],
   "shots": [
     {
-      "local": "images/su-close-t.jpg",
-      "full": "images/su-close.jpg",
-      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/120475589/large.jpeg",
+      "local": "images/su-flower-t.jpg",
+      "full": "images/su-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/634519103/large.jpg",
       "s": "summer",
-      "cap": "Coral-red tubular flowers with yellow stamens · © Lynn Michael (CC-BY-NC) / iNaturalist",
-      "by": "Lynn Michael",
+      "cap": "Summer — clusters of long coral-red tubes with yellow stamens, face-on against sky · © Thomas Shahan (CC-BY-NC) / iNaturalist · © Thomas Shahan (CC-BY-NC) / iNaturalist",
+      "by": "Thomas Shahan",
       "lic": "CC-BY-NC",
-      "link": "https://www.inaturalist.org/observations/73765664"
+      "link": "https://www.inaturalist.org/observations/347958390"
     },
     {
-      "local": "images/su-structure-t.jpg",
-      "full": "images/su-structure.jpg",
-      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/140158137/large.jpg",
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/361724586/large.jpg",
       "s": "summer",
-      "cap": "Trumpet honeysuckle vine covered in coral-red flowers · © fernsandmoss (CC-BY-NC) / iNaturalist",
-      "by": "fernsandmoss",
+      "cap": "Summer — vine covering a trellis or fence, showing the vigorous climbing habit in full bloom · © cmiller3916 (CC-BY-NC) / iNaturalist · © cmiller3916 (CC-BY-NC) / iNaturalist",
+      "by": "cmiller3916",
       "lic": "CC-BY-NC",
-      "link": "https://www.inaturalist.org/observations/85206987"
+      "link": "https://www.inaturalist.org/observations/204634550"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/257931134/large.jpg",
+      "s": "summer",
+      "cap": "Summer — perfoliate leaves (upper pairs fused around the stem), the distinctive foliage of trumpet honeysuckle · © no rights reserved (CC0) / iNaturalist · © no rights reserved (CC0) / iNaturalist",
+      "by": "no rights reserved",
+      "lic": "CC0",
+      "link": "https://www.inaturalist.org/observations/149665055"
+    },
+    {
+      "local": "images/su-bloom-t.jpg",
+      "full": "images/su-bloom.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/202364029/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — flower clusters and glossy foliage along a twining vine stem · © bonnieeamick (CC-BY-NC) / iNaturalist · © bonnieeamick (CC-BY-NC) / iNaturalist",
+      "by": "bonnieeamick",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/119691164"
     }
   ]
 }

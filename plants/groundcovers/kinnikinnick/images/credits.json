@@ -1,6 +1,6 @@
 [
   {
-    "file": "images/sp-close.jpg",
+    "file": "images/sp-flower.jpg",
     "photo_id": 469420326,
     "by": "Jared Shorma",
     "license": "CC-BY",
@@ -17,20 +17,37 @@
     ]
   },
   {
-    "file": "images/su-structure.jpg",
-    "photo_id": 97169781,
-    "by": "Jared Shorma",
+    "file": "images/su-habit.jpg",
+    "photo_id": 289510510,
+    "by": "Alexander Wentworth",
     "license": "CC-BY",
-    "source": "https://www.inaturalist.org/observations/60767538",
+    "source": "https://www.inaturalist.org/observations/167141307",
     "dataset": "iNaturalist open data",
     "render": "original",
     "full_px": [
-      1050,
-      1400
+      1400,
+      1050
     ],
     "thumb_px": [
-      300,
-      400
+      400,
+      300
+    ]
+  },
+  {
+    "file": "images/fa-pods.jpg",
+    "photo_id": 519385974,
+    "by": "Anders Hastings",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/observations/288796996",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      934
+    ],
+    "thumb_px": [
+      400,
+      267
     ]
   }
 ]

@@ -1,10 +1,10 @@
 [
   {
-    "file": "images/su-flower.jpg",
-    "photo_id": "62973896",
-    "by": "Dan Horowitz",
-    "license": "CC0",
-    "source": "https://www.inaturalist.org/photos/62973896",
+    "file": "images/sp-flower.jpg",
+    "photo_id": 137519193,
+    "by": "johnnyotter",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/83717370",
     "dataset": "iNaturalist open data",
     "render": "original",
     "full_px": [
@@ -17,11 +17,45 @@
     ]
   },
   {
-    "file": "images/su-habit.jpg",
-    "photo_id": "394851376",
-    "by": "Rob Trame",
-    "license": "CC-BY",
-    "source": "https://www.inaturalist.org/photos/394851376",
+    "file": "images/sp-foliage.jpg",
+    "photo_id": 380957856,
+    "by": "Лилиана Барсукова",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/215471904",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  },
+  {
+    "file": "images/sp-bloom.jpg",
+    "photo_id": 145404991,
+    "by": "chefao",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/88150259",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      1050
+    ],
+    "thumb_px": [
+      400,
+      300
+    ]
+  },
+  {
+    "file": "images/su-pods.jpg",
+    "photo_id": 130787184,
+    "by": "alexmoen",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/79832199",
     "dataset": "iNaturalist open data",
     "render": "original",
     "full_px": [

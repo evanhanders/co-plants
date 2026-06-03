@@ -1,69 +1,86 @@
 [
   {
+    "file": "images/sp-bloom.jpg",
+    "photo_id": 537773988,
+    "by": "Jennifer Ackerfield",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/298546531",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1054,
+      1400
+    ],
+    "thumb_px": [
+      301,
+      400
+    ]
+  },
+  {
     "file": "images/su-flower.jpg",
-    "photo_id": "216974061",
-    "by": "Michael and Antoni Hinczewski",
-    "license": "CC-BY",
-    "source": "https://www.inaturalist.org/photos/216974061",
+    "photo_id": 144576209,
+    "by": "cdtrujillo",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/87674527",
     "dataset": "iNaturalist open data",
     "render": "original",
     "full_px": [
-      1129,
-      1500
+      1050,
+      1400
     ],
     "thumb_px": [
-      301,
+      300,
       400
     ]
   },
   {
-    "file": "images/su-habit.jpg",
-    "photo_id": "397775558",
-    "by": "stephen",
-    "license": "CC-BY",
-    "source": "https://www.inaturalist.org/photos/397775558",
+    "file": "images/su-foliage.jpg",
+    "photo_id": 229176965,
+    "by": "Chris Sichko",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/134452988",
     "dataset": "iNaturalist open data",
     "render": "original",
     "full_px": [
-      1500,
-      1129
+      1400,
+      933
     ],
     "thumb_px": [
       400,
-      301
+      267
     ]
   },
   {
-    "file": "images/fa-hips.jpg",
-    "photo_id": "98957597",
-    "by": "Bob Walker",
-    "license": "CC-BY",
-    "source": "https://www.inaturalist.org/photos/98957597",
+    "file": "images/fa-pods.jpg",
+    "photo_id": 399123752,
+    "by": "ElizabethR",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/225138296",
     "dataset": "iNaturalist open data",
     "render": "original",
     "full_px": [
-      1500,
-      1500
+      1050,
+      1400
     ],
     "thumb_px": [
-      400,
+      300,
       400
     ]
   },
   {
-    "file": "images/wi-hip.jpg",
-    "photo_id": "179309887",
-    "by": "Corey Farwell",
-    "license": "CC-BY",
-    "source": "https://www.inaturalist.org/photos/179309887",
+    "file": "images/wi-habit.jpg",
+    "photo_id": 18704535,
+    "by": "no rights reserved",
+    "license": "CC0",
+    "source": "https://www.inaturalist.org/observations/12883163",
     "dataset": "iNaturalist open data",
     "render": "original",
     "full_px": [
-      1129,
-      1500
+      1050,
+      1400
     ],
     "thumb_px": [
-      301,
+      300,
       400
     ]
   }

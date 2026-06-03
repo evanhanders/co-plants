@@ -1,10 +1,10 @@
 [
   {
-    "file": "images/sp-close.jpg",
-    "photo_id": 199523944,
-    "by": "Sequoia Janirella Wrens",
+    "file": "images/sp-flower.jpg",
+    "photo_id": 521734832,
+    "by": "Chris",
     "license": "CC-BY-NC",
-    "source": "https://www.inaturalist.org/observations/118111055",
+    "source": "https://www.inaturalist.org/observations/290044670",
     "dataset": "iNaturalist open data",
     "render": "original",
     "full_px": [
@@ -17,7 +17,24 @@
     ]
   },
   {
-    "file": "images/sp-structure.jpg",
+    "file": "images/sp-habit.jpg",
+    "photo_id": 23947835,
+    "by": "kirbyadams",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/15993308",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1286,
+      1400
+    ],
+    "thumb_px": [
+      367,
+      400
+    ]
+  },
+  {
+    "file": "images/sp-foliage.jpg",
     "photo_id": 136403621,
     "by": "curt_nimz",
     "license": "CC-BY-NC",
@@ -30,6 +47,23 @@
     ],
     "thumb_px": [
       332,
+      400
+    ]
+  },
+  {
+    "file": "images/sp-bloom.jpg",
+    "photo_id": 514330217,
+    "by": "Jared Lincenberg",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/observations/286118864",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
       400
     ]
   }

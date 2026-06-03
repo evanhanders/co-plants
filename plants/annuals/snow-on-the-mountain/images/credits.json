@@ -1,27 +1,27 @@
 [
   {
-    "file": "images/su-bracts.jpg",
-    "photo_id": "85086660",
-    "by": "Stephen Hornbeck",
-    "license": "CC-BY",
-    "source": "https://www.inaturalist.org/photos/85086660",
+    "file": "images/su-flower.jpg",
+    "photo_id": 148651385,
+    "by": "Mandy Malone",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/89983279",
     "dataset": "iNaturalist open data",
     "render": "original",
     "full_px": [
-      1050,
-      1400
+      1400,
+      1050
     ],
     "thumb_px": [
-      300,
-      400
+      400,
+      300
     ]
   },
   {
     "file": "images/su-habit.jpg",
-    "photo_id": "82900451",
-    "by": "Stephen Hornbeck",
-    "license": "CC-BY",
-    "source": "https://www.inaturalist.org/photos/82900451",
+    "photo_id": 310269157,
+    "by": "ratonfam",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/178315221",
     "dataset": "iNaturalist open data",
     "render": "original",
     "full_px": [
@@ -34,19 +34,19 @@
     ]
   },
   {
-    "file": "images/su-colony.jpg",
-    "photo_id": "87939428",
-    "by": "Jess Mullins",
-    "license": "CC-BY",
-    "source": "https://www.inaturalist.org/photos/87939428",
+    "file": "images/su-foliage.jpg",
+    "photo_id": 163557939,
+    "by": "ghostburglar",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/98260255",
     "dataset": "iNaturalist open data",
     "render": "original",
     "full_px": [
-      1050,
-      1400
+      1400,
+      1399
     ],
     "thumb_px": [
-      300,
+      400,
       400
     ]
   }

@@ -1,23 +1,23 @@
 [
   {
-    "file": "images/su-close.jpg",
-    "photo_id": 292580810,
-    "by": "no rights reserved",
-    "license": "CC0",
-    "source": "https://www.inaturalist.org/observations/168796471",
+    "file": "images/su-flower.jpg",
+    "photo_id": 83082701,
+    "by": "Максим Шумских",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/observations/52270929",
     "dataset": "iNaturalist open data",
     "render": "original",
     "full_px": [
-      935,
+      1050,
       1400
     ],
     "thumb_px": [
-      267,
+      300,
       400
     ]
   },
   {
-    "file": "images/su-structure.jpg",
+    "file": "images/su-bloom.jpg",
     "photo_id": 404998897,
     "by": "Tony King",
     "license": "CC-BY",
@@ -31,6 +31,40 @@
     "thumb_px": [
       300,
       400
+    ]
+  },
+  {
+    "file": "images/su-foliage.jpg",
+    "photo_id": 29290859,
+    "by": "lennartn",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/19088460",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      935
+    ],
+    "thumb_px": [
+      400,
+      267
+    ]
+  },
+  {
+    "file": "images/fa-pods.jpg",
+    "photo_id": 20993347,
+    "by": "berthapi2",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/14162146",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1102,
+      1054
+    ],
+    "thumb_px": [
+      400,
+      383
     ]
   }
 ]

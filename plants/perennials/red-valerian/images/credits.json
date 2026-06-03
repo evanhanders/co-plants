@@ -1,11 +1,10 @@
 [
   {
     "file": "images/su-habit.jpg",
-    "photo_id": 41430175,
-    "by": "Andreas Stiller",
-    "license": "CC-BY",
-    "source": "https://www.inaturalist.org/observations/26672307",
-    "dataset": "iNaturalist open data",
+    "by": "Rosser1954",
+    "license": "CC-BY-SA",
+    "source": "https://commons.wikimedia.org/wiki/File:Red_Valerian_(centranthus_ruber)_plant_on_wall,_North_Queensferry,_Fife.jpg",
+    "dataset": "Wikimedia Commons",
     "render": "original",
     "full_px": [
       1400,
@@ -35,10 +34,10 @@
   },
   {
     "file": "images/su-foliage.jpg",
-    "photo_id": 366104884,
-    "by": "Johnny Roger Pedersen",
-    "license": "CC-BY-NC",
-    "source": "https://www.inaturalist.org/observations/207004022",
+    "photo_id": 125062258,
+    "by": "Tim Park",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/photos/125062258",
     "dataset": "iNaturalist open data",
     "render": "original",
     "full_px": [
@@ -49,13 +48,6 @@
       301,
       400
     ]
-  },
-  {
-    "file": "images/su-foliage.jpg",
-    "by": "Stephen Fricker",
-    "license": "CC-BY-NC",
-    "source": "https://www.inaturalist.org/observations/42694025",
-    "via": "iNaturalist"
   },
   {
     "file": "images/fa-seedheads.jpg",

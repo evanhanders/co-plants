@@ -22,5 +22,19 @@
     "license": "CC-BY",
     "source": "https://www.inaturalist.org/observations/186568790",
     "dataset": "iNaturalist open data"
+  },
+  {
+    "file": "images/su-habit2.jpg",
+    "by": "aannurjanah",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/photos/616319281",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/fa-fall.jpg",
+    "by": "Wilhelm Zimmerling PAR",
+    "license": "CC-BY-SA",
+    "source": "https://commons.wikimedia.org/wiki/File:Ruhland,_Karl-Marx-Str._5,_gelbbl%C3%BChende_Dahlie_im_Vorgarten,_Fr%C3%BChherbst,_02.jpg",
+    "via": "Wikimedia Commons"
   }
 ]

@@ -90,6 +90,26 @@
       "by": "Bpogoloff",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/307149522"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/613579372/large.jpg",
+      "s": "summer",
+      "cap": "A full mound of the ferny, blue-green, fan-lobed foliage taking on a purplish late-season tinge · © bangert301 (CC-BY-NC) / iNaturalist",
+      "by": "bangert301",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/337517393"
+    },
+    {
+      "local": "images/fa-seedhead-t.jpg",
+      "full": "images/fa-seedhead.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/229131276/large.jpg",
+      "s": "fall",
+      "cap": "Late season — erect green seed follicles developing alongside the last flowers above the ferny foliage · © abef (CC-BY-NC) / iNaturalist",
+      "by": "abef",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/134425947"
     }
   ],
   "commons": "Columbine-01.jpg"

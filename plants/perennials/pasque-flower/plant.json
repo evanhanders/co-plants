@@ -83,6 +83,26 @@
       "by": "Ryan Sorrells",
       "lic": "CC-BY",
       "link": "https://www.inaturalist.org/observations/220256785"
+    },
+    {
+      "local": "images/sp-clump-t.jpg",
+      "full": "images/sp-clump.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/109406314/large.jpeg",
+      "s": "spring",
+      "cap": "Early spring — a low ground-hugging clump of open lavender-purple cups with golden stamens, showing the compact prairie-mound habit in bloom · © Vitalii Kolomiichuk (CC-BY-NC) / iNaturalist",
+      "by": "Vitalii Kolomiichuk",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/67678211"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/87307439/large.jpg",
+      "s": "summer",
+      "cap": "Summer — the post-bloom basal rosette of finely dissected, ferny, silky-hairy palmate leaves · © Elena Pushay (CC-BY-NC) / iNaturalist",
+      "by": "Elena Pushay",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/54855368"
     }
   ]
 }

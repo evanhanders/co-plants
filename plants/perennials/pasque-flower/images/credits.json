@@ -1,36 +1,17 @@
 [
   {
     "file": "images/sp-flower.jpg",
-    "photo_id": 60387499,
-    "by": "Леонид Федянцев",
+    "by": "mwilliams98",
     "license": "CC-BY-NC",
-    "source": "https://www.inaturalist.org/observations/38033046",
-    "dataset": "iNaturalist open data"
+    "source": "https://www.inaturalist.org/observations/128428462",
+    "via": "iNaturalist"
   },
   {
-    "file": "images/sp-bloom.jpg",
-    "photo_id": 105046545,
-    "by": "Tatyana Zarubo",
+    "file": "images/sp-habit.jpg",
+    "by": "Andrew Pauly",
     "license": "CC-BY-NC",
-    "source": "https://www.inaturalist.org/observations/65283556",
-    "dataset": "iNaturalist open data"
-  },
-  {
-    "file": "images/sp-seedhead.jpg",
-    "photo_id": 120927408,
-    "by": "Zolotukhina Irina",
-    "license": "CC-BY-NC",
-    "source": "https://www.inaturalist.org/observations/74367226",
-    "dataset": "iNaturalist open data",
-    "render": "original",
-    "full_px": [
-      824,
-      1072
-    ],
-    "thumb_px": [
-      307,
-      400
-    ]
+    "source": "https://www.inaturalist.org/observations/218753462",
+    "via": "iNaturalist"
   },
   {
     "file": "images/sp-foliage.jpg",
@@ -45,6 +26,20 @@
     "by": "Ryan Sorrells",
     "license": "CC-BY",
     "source": "https://www.inaturalist.org/observations/220256785",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/sp-clump.jpg",
+    "by": "Vitalii Kolomiichuk",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/67678211",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/su-foliage.jpg",
+    "by": "Elena Pushay",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/54855368",
     "via": "iNaturalist"
   }
 ]

@@ -1,20 +1,17 @@
 [
   {
-    "file": "images/su-flower.jpg",
-    "photo_id": 398279213,
-    "by": "ton_bal",
-    "license": "CC-BY-NC",
-    "source": "https://www.inaturalist.org/observations/224699580",
-    "dataset": "iNaturalist open data",
-    "render": "original",
-    "full_px": [
-      1054,
-      1400
-    ],
-    "thumb_px": [
-      301,
-      400
-    ]
+    "file": "images/su-close.jpg",
+    "by": "Photo by David J. Stang",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Veronica_spicata_Icicle_2zz.jpg",
+    "via": "Wikimedia Commons"
+  },
+  {
+    "file": "images/su-structure.jpg",
+    "by": "Photo by David J. Stang",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Veronica_spicata_White_Jolanda_2zz.jpg",
+    "via": "Wikimedia Commons"
   },
   {
     "file": "images/su-habit.jpg",
@@ -34,19 +31,19 @@
     ]
   },
   {
-    "file": "images/su-bloom.jpg",
-    "photo_id": 160258564,
-    "by": "Igor",
+    "file": "images/su-flower.jpg",
+    "photo_id": 398279213,
+    "by": "ton_bal",
     "license": "CC-BY-NC",
-    "source": "https://www.inaturalist.org/observations/96461190",
+    "source": "https://www.inaturalist.org/observations/224699580",
     "dataset": "iNaturalist open data",
     "render": "original",
     "full_px": [
-      1004,
+      1054,
       1400
     ],
     "thumb_px": [
-      287,
+      301,
       400
     ]
   },
@@ -62,6 +59,13 @@
     "by": "no rights reserved",
     "license": "CC0",
     "source": "https://www.inaturalist.org/observations/92491919",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/su-foliage.jpg",
+    "by": "Mirko Tomasi",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/photos/259549648",
     "via": "iNaturalist"
   }
 ]

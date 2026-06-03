@@ -78,12 +78,12 @@
     {
       "local": "images/sp-bloom-t.jpg",
       "full": "images/sp-bloom.jpg",
-      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/170105624/large.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/130142626/large.jpeg",
       "s": "spring",
-      "cap": "Western wallflower in bloom on a rocky Front Range slope · © Matt Lavin (CC-BY) / iNaturalist",
-      "by": "Matt Lavin",
-      "lic": "CC-BY",
-      "link": "https://www.inaturalist.org/observations/101830622"
+      "cap": "Spring — whole flowering stems showing the upright leafy habit and flat-topped yellow flower clusters · © frog44 (CC-BY-NC) / iNaturalist",
+      "by": "frog44",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/79457804"
     },
     {
       "local": "images/sp-bloom2-t.jpg",
@@ -98,12 +98,12 @@
     {
       "local": "images/su-pods-t.jpg",
       "full": "images/su-pods.jpg",
-      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/308197784/large.jpeg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/530095643/large.jpg",
       "s": "summer",
-      "cap": "Summer — slender silique seed pods radiating from the upper stems after flowering · © David Rankin (CC-BY-NC) / iNat",
-      "by": "David Rankin",
+      "cap": "Summer — slender ascending silique seed pods radiating from the stem as the last flowers fade · © tomclr (CC-BY-NC) / iNaturalist",
+      "by": "tomclr",
       "lic": "CC-BY-NC",
-      "link": "https://www.inaturalist.org/observations/178268349"
+      "link": "https://www.inaturalist.org/photos/530095643"
     }
   ]
 }

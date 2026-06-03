@@ -71,6 +71,26 @@
       "by": "Stanislav Murashkin",
       "lic": "CC-BY",
       "link": "https://www.inaturalist.org/photos/561556563"
+    },
+    {
+      "local": "images/su-floret-t.jpg",
+      "full": "images/su-floret.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/329746400/original.jpeg",
+      "s": "summer",
+      "cap": "Summer — single bilabiate violet-blue floret face-on, showing the dark purple calyx and protruding style · © Steffen (CC-BY-NC) / iNaturalist",
+      "by": "Steffen",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/photos/329746400"
+    },
+    {
+      "local": "images/sp-spring-t.jpg",
+      "full": "images/sp-spring.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/75666231/original.jpeg",
+      "s": "spring",
+      "cap": "Late spring — fresh violet-blue spikes rising over gray-green basal foliage at bloom onset · © Sarka Masova (CC-BY) / iNaturalist",
+      "by": "Sarka Masova",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/photos/75666231"
     }
   ],
   "commons": "Woodland sage-Salvia nemorosa.jpg"

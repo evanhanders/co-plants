@@ -105,6 +105,26 @@
       "by": "Cbaile19",
       "lic": "CC0",
       "link": "https://commons.wikimedia.org/wiki/File:Phlox_paniculata,_2021-8-15,_Seldom_Seen,_01.jpg"
+    },
+    {
+      "local": "images/su-foliage3-t.jpg",
+      "full": "images/su-foliage3.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/71648884/large.jpg",
+      "s": "summer",
+      "cap": "The opposite, prominently veined lance leaves up close — a clean foliage study · © coachastings (CC-BY-NC) / iNaturalist",
+      "by": "coachastings",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/45190779"
+    },
+    {
+      "local": "images/sp-emerging-t.jpg",
+      "full": "images/sp-emerging.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/67812289/large.jpg",
+      "s": "spring",
+      "cap": "Spring — a young shoot emerging with clean opposite lance leaves on bare soil · © mlludewig (CC-BY-NC) / iNaturalist",
+      "by": "mlludewig",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/42701391"
     }
   ]
 }

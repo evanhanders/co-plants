@@ -35,10 +35,10 @@
   },
   {
     "file": "images/su-foliage.jpg",
-    "photo_id": 29290859,
-    "by": "lennartn",
+    "photo_id": 194216434,
+    "by": "Ashton M",
     "license": "CC-BY-NC",
-    "source": "https://www.inaturalist.org/observations/19088460",
+    "source": "https://www.inaturalist.org/photos/194216434",
     "dataset": "iNaturalist open data",
     "render": "original",
     "full_px": [
@@ -73,5 +73,12 @@
     "license": "CC-BY-NC",
     "source": "https://www.inaturalist.org/observations/184870609",
     "via": "iNaturalist"
+  },
+  {
+    "file": "images/su-mass.jpg",
+    "by": "David J. Stang",
+    "license": "CC-BY-SA",
+    "source": "https://commons.wikimedia.org/wiki/File:Scabiosa_columbaria_Butterfly_Blue_26zz.jpg",
+    "via": "Wikimedia Commons"
   }
 ]

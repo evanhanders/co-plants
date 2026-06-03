@@ -59,12 +59,12 @@
     {
       "local": "images/su-foliage-t.jpg",
       "full": "images/su-foliage.jpg",
-      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/29290859/large.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/194216434/original.jpg",
       "s": "summer",
-      "cap": "Summer — lavender pincushion from the side showing protruding stamens and stem · © lennartn (CC-BY-NC) / iNaturalist",
-      "by": "lennartn",
+      "cap": "Summer — ferny gray-green lobed basal foliage rosette · © Ashton M (CC-BY-NC) / iNaturalist",
+      "by": "Ashton M",
       "lic": "CC-BY-NC",
-      "link": "https://www.inaturalist.org/observations/19088460"
+      "link": "https://www.inaturalist.org/photos/194216434"
     },
     {
       "local": "images/fa-pods-t.jpg",
@@ -75,6 +75,16 @@
       "by": "berthapi2",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/14162146"
+    },
+    {
+      "local": "images/su-mass-t.jpg",
+      "full": "images/su-mass.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Scabiosa_columbaria_Butterfly_Blue_26zz.jpg",
+      "s": "summer",
+      "cap": "Summer — a mass of lavender-blue pincushion blooms and buds floating on wiry stems, showing how it reads in the garden · © David J. Stang (CC-BY-SA) / Wikimedia Commons",
+      "by": "David J. Stang",
+      "lic": "CC-BY-SA",
+      "link": "https://commons.wikimedia.org/wiki/File:Scabiosa_columbaria_Butterfly_Blue_26zz.jpg"
     }
   ]
 }

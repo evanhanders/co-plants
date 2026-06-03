@@ -94,6 +94,26 @@
       "by": "siteobserve62",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/129541252"
+    },
+    {
+      "local": "images/su-habit2-t.jpg",
+      "full": "images/su-habit2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/501484598/large.jpg",
+      "s": "summer",
+      "cap": "Summer — the whole mounding clump in a landscape bed, lance foliage with flowers and developing seedheads · © Samuel Wiscomb (CC-BY-NC) / iNaturalist",
+      "by": "Samuel Wiscomb",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/photos/501484598"
+    },
+    {
+      "local": "images/su-drift-t.jpg",
+      "full": "images/su-drift.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/144446367/large.jpg",
+      "s": "summer",
+      "cap": "Summer — a colony of red-and-gold blanket flowers drifting across a Front Range meadow · © omerpearlman (CC-BY-NC) / iNaturalist",
+      "by": "omerpearlman",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/87601553"
     }
   ]
 }

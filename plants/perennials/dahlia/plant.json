@@ -71,6 +71,26 @@
       "by": "Алёна Осипова",
       "lic": "CC-BY",
       "link": "https://www.inaturalist.org/observations/186568790"
+    },
+    {
+      "local": "images/su-habit2-t.jpg",
+      "full": "images/su-habit2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/616319281/large.jpg",
+      "s": "summer",
+      "cap": "Summer — a single garden dahlia plant showing the upright branching habit, full height, dark-green divided foliage and a red bloom · © aannurjanah (CC-BY-NC) / iNaturalist",
+      "by": "aannurjanah",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/photos/616319281"
+    },
+    {
+      "local": "images/fa-fall-t.jpg",
+      "full": "images/fa-fall.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Ruhland%2C_Karl-Marx-Str._5%2C_gelbbl%C3%BChende_Dahlie_im_Vorgarten%2C_Fr%C3%BChherbst%2C_02.jpg",
+      "s": "fall",
+      "cap": "Early autumn — a bushy garden dahlia in full late-season bloom, yellow flowers carried over leafy upright plants · © Wilhelm Zimmerling PAR (CC-BY-SA) / Wikimedia Commons",
+      "by": "Wilhelm Zimmerling PAR",
+      "lic": "CC-BY-SA",
+      "link": "https://commons.wikimedia.org/wiki/File:Ruhland,_Karl-Marx-Str._5,_gelbbl%C3%BChende_Dahlie_im_Vorgarten,_Fr%C3%BChherbst,_02.jpg"
     }
   ],
   "commons": "A maroon Dahlia flower (Lalbagh, Bangalore, 2017).jpg"

@@ -18,20 +18,12 @@
   },
   {
     "file": "images/sp-bloom.jpg",
-    "photo_id": 170105624,
-    "by": "Matt Lavin",
-    "license": "CC-BY",
-    "source": "https://www.inaturalist.org/observations/101830622",
+    "photo_id": 130142626,
+    "by": "frog44",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/79457804",
     "dataset": "iNaturalist open data",
-    "render": "original",
-    "full_px": [
-      1400,
-      1050
-    ],
-    "thumb_px": [
-      400,
-      300
-    ]
+    "render": "original"
   },
   {
     "file": "images/sp-foliage.jpg",
@@ -56,9 +48,9 @@
   },
   {
     "file": "images/su-pods.jpg",
-    "by": "David Rankin",
+    "by": "tomclr",
     "license": "CC-BY-NC",
-    "source": "https://www.inaturalist.org/observations/178268349",
-    "via": "iNat"
+    "source": "https://www.inaturalist.org/photos/530095643",
+    "via": "iNaturalist"
   }
 ]

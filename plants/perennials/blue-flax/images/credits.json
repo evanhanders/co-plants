@@ -69,9 +69,23 @@
   },
   {
     "file": "images/su-seedpods.jpg",
-    "by": "Justyn Stahl",
+    "by": "gerrybates",
     "license": "CC-BY-NC",
-    "source": "https://www.inaturalist.org/photos/531030392",
+    "source": "https://www.inaturalist.org/observations/132483847",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/su-foliage2.jpg",
+    "by": "Suzanne Dingwell",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/202121262",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/sp-firstbloom.jpg",
+    "by": "Joshua Smith",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/117523357",
     "via": "iNaturalist"
   }
 ]

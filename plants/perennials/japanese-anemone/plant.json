@@ -4,7 +4,7 @@
   "type": "Perennial",
   "native": "Non-native",
   "blurb": "Tall, wiry-stemmed perennial that lights up the late-summer and fall garden with luminous pink or white poppy-like flowers — one of very few perennials that blooms well into October on the Front Range.",
-  "size": "3–5 ft × 2–4 ft (spreads over time)",
+  "size": "2.5–4 ft × 2–4 ft (spreads over time)",
   "sun": "Part shade (morning sun / afternoon shade preferred)",
   "water": "Moderate; consistent moisture, not drought-tolerant",
   "spread": "Spreads by rhizomes and stolons; can colonize once established — allow room",
@@ -22,7 +22,7 @@
     "water": "Moderate to regular — needs consistent soil moisture throughout the growing season. Water deeply every 5–7 days in summer heat and never let the root zone dry out completely between waterings. Mulch (2–3 inches of wood chips) is very helpful for retaining moisture and moderating soil temperature. This is not a xeric plant; it is best sited where irrigation is dependable. In prolonged drought without irrigation it will defoliate or fail.",
     "spacing": "Space plants 2–3 ft apart; they spread over several years by underground rhizomes and can form a colony 4+ ft wide in good conditions. Allow ample room, or install a root barrier to contain the spread. Closer spacing gives faster fill but can become crowded.",
     "propagation": "Division and root cuttings are the practical methods — Japanese anemone rarely sets viable seed reliably, and hybrids don't come true from seed. Divide established clumps in spring (late March–April in Boulder) as growth resumes; dig out sections with roots and several crowns, replant at the same depth, and water well. Root cuttings taken in late fall or winter (2–3 inch sections of pencil-thick roots, planted horizontally 1–2 inches deep in a cold frame or cool greenhouse) are another effective method. Note that established clumps can also sucker outward — these offshoots can be detached and transplanted in spring.",
-    "bloom": "August through October on the Front Range — one of the latest-blooming perennials in the garden. Flowers open over 6–8 weeks, with each branching stem carrying many buds that open in succession, extending the display. Pink forms (e.g. 'Honorine Jobert' is white; 'Robustissima' is pink) are common; both bloom at the same time.",
+    "bloom": "August through October on the Front Range — one of the latest-blooming perennials in the garden. Flowers open over 6–8 weeks, with each branching stem carrying many buds that open in succession, extending the display. Common cultivars: 'Honorine Jobert' (white, single) and 'Robustissima' (pink, semi-double) both bloom at the same time.",
     "feeding": "Topdress with 1–2 inches of compost each spring rather than synthetic fertilizer. A balanced slow-release fertilizer at planting and once again in early May on lean soils is acceptable. Avoid high-nitrogen feeding, which pushes lush vegetative growth at the expense of flowers. No fall feeding.",
     "maintenance": "Cut stems back to the ground in fall after frost kills the foliage, or leave the dried stems over winter and cut back in early spring. Mulch the crown heavily (3–4 inches) after the ground begins to freeze in November for the first 2–3 winters while the plant establishes. Divide every 4–5 years if the center becomes congested or flowering declines. Watch for and remove outward-spreading rhizomes if spread needs to be controlled — they are shallow and easy to pull in spring.",
     "selfsow": "Minimal self-seeding under typical Front Range conditions; spread is primarily by rhizomes. Deadheading spent flowers will not prevent spread.",
@@ -31,16 +31,12 @@
   },
   "care_src": [
     {
-      "name": "Missouri Botanical Garden — Plant Finder: Anemone × hybrida",
-      "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=a160"
+      "name": "NC State Extension — Anemone × hybrida",
+      "url": "https://plants.ces.ncsu.edu/plants/anemone-x-hybrida/"
     },
     {
       "name": "RHS — Anemone × hybrida (Japanese anemone)",
       "url": "https://www.rhs.org.uk/plants/1380/anemone-x-hybrida/details"
-    },
-    {
-      "name": "NC State Extension — Anemone × hybrida",
-      "url": "https://plants.ces.ncsu.edu/plants/anemone-x-hybrida/"
     }
   ],
   "shots": [

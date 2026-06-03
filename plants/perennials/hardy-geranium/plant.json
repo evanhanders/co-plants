@@ -4,7 +4,7 @@
   "type": "Perennial",
   "native": "Non-native",
   "blurb": "The famous long-blooming hardy cranesbill — large violet-blue saucer flowers with white eyes appear from early summer and keep going right up to frost with almost no deadheading needed.",
-  "size": "18–20 in × 24–30 in",
+  "size": "12–18 in × 18–24 in",
   "sun": "Full sun to part shade",
   "water": "Moderate; tolerates brief dry spells once established",
   "spread": "Mounding and sprawling; sterile (no self-sowing); non-invasive",
@@ -21,21 +21,21 @@
     "soil": "Moderately fertile, well-drained soil. Tolerates Front Range clay-loam if drainage is reasonable; amend very heavy clay with compost. Not fussy about pH within the normal Front Range range (6.5–7.5). Avoid waterlogged soil, which can cause crown rot. Overly rich soil produces more foliage and slightly less flower.",
     "water": "Moderate — water deeply once or twice a week while establishing (first season), then reduce to deep watering every 1–2 weeks once roots are established. 'Rozanne' tolerates brief dry spells but prefers consistent moisture for continuous bloom. Water at the base to keep foliage dry and reduce mildew risk.",
     "spacing": "Space 24–30 in apart — plants spread generously and look best with room to mound and sprawl. Closer spacing (18 in) fills faster but increases the need for midsummer shearing for airflow.",
-    "propagation": "'Rozanne' is a sterile triploid hybrid and does NOT set seed, so propagation is vegetative only. Division is the standard method: lift and divide crowns in spring (March–April) as new growth emerges, replanting vigorous sections with 3–5 healthy shoots. Plants benefit from division every 3–4 years to stay vigorous. Stem cuttings taken in early summer (May–June) can root in moist perlite under humidity, though division is easier. Because 'Rozanne' is a patented cultivar (Plant Breeders' Rights), propagation for sale is not permitted — division for personal garden use is fine.",
-    "bloom": "Early June through the first hard frost (October) on the Front Range — typically 5 months of near-continuous bloom, which is exceptional for a hardy perennial. Because the plant is sterile it cannot set seed and redirects energy continuously into flowering. Deadheading is not required for rebloom, though light grooming of spent stems keeps it tidy.",
+    "propagation": "'Rozanne' is a hybrid cultivar (Geranium himalayense × G. wallichianum 'Buxton's Variety') that rarely sets seed in garden conditions — it is nearly sterile and should not be counted on to self-sow. Propagation is effectively vegetative only. Division is the standard method: lift and divide crowns in spring (March–April) as new growth emerges, replanting vigorous sections with 3–5 healthy shoots. Plants benefit from division every 3–4 years to stay vigorous. Stem cuttings taken in early summer (May–June) can root in moist perlite under humidity, though division is easier. Because 'Rozanne' is a patented cultivar (Plant Breeders' Rights), propagation for sale is not permitted — division for personal garden use is fine.",
+    "bloom": "Early June through the first hard frost (October) on the Front Range — typically 4–5 months of near-continuous bloom, which is exceptional for a hardy perennial. Because 'Rozanne' rarely sets seed, it redirects most energy into continuous flowering; deadheading is not required for rebloom, though light grooming of spent stems keeps it tidy.",
     "feeding": "Light feeder — a single application of balanced slow-release fertilizer (10-10-10) in early spring, or a side-dress of compost, is sufficient. Avoid high-nitrogen fertilizers, which push vegetative growth at the expense of flower. In average Front Range soil, supplemental feeding may not be necessary.",
     "maintenance": "The key maintenance task is a midsummer shearing (mid-July to early August): when the plant begins to sprawl open or look tired after its first big flush, cut it back by one-half to two-thirds. It regrows quickly and resumes blooming within 3–4 weeks, often more vigorously. Without this shearing, plants sprawl and flop into neighbors. Cut back dead stems to the crown in late fall or early spring. Divide every 3–4 years to maintain vigor.",
-    "troubles": "Generally trouble-free. Powdery mildew can appear in late summer in humid or crowded conditions; improve airflow and avoid overhead watering. Vine weevil larvae occasionally damage roots in heavy, wet soil. Crown rot in persistently wet ground. The main management issue is summer sprawl — the midsummer shear (see maintenance) is the fix. Because 'Rozanne' is sterile, there are no self-sowing issues.",
+    "troubles": "Generally trouble-free. Powdery mildew can appear in late summer in humid or crowded conditions; improve airflow and avoid overhead watering. Vine weevil larvae occasionally damage roots in heavy, wet soil. Crown rot in persistently wet ground. The main management issue is summer sprawl — the midsummer shear (see maintenance) is the fix. 'Rozanne' rarely self-sows, so volunteers are not a concern in practice.",
     "companions": "Outstanding paired with roses, salvias, Russian sage, catmint, and ornamental grasses — its sprawling habit and continuous blue-violet flowers weave them together. Also excellent as ground cover under open shrubs or along path edges where it can spill."
   },
   "care_src": [
     {
-      "name": "RHS — Geranium 'Rozanne'",
-      "url": "https://www.rhs.org.uk/plants/94014/geranium-rozanne-pbr-(gerwat)/details"
+      "name": "NC State Extension — Plant Toolbox: Geranium 'Rozanne'",
+      "url": "https://plants.ces.ncsu.edu/plants/geranium-rozanne/"
     },
     {
-      "name": "Missouri Botanical Garden — Plant Finder: Geranium 'Rozanne'",
-      "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=a822"
+      "name": "Gardeners' World (BBC) — Geranium 'Rozanne'",
+      "url": "https://www.gardenersworld.com/plants/geranium-rozanne/"
     }
   ],
   "shots": [

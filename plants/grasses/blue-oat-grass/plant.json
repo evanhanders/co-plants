@@ -30,16 +30,12 @@
   },
   "care_src": [
     {
-      "name": "Missouri Botanical Garden — Plant Finder: Helictotrichon sempervirens",
-      "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=a929"
-    },
-    {
       "name": "NC State Extension — Helictotrichon sempervirens",
       "url": "https://plants.ces.ncsu.edu/plants/helictotrichon-sempervirens/"
     },
     {
-      "name": "CSU Extension — Ornamental Grasses (CMG GardenNotes #558)",
-      "url": "https://cmg.extension.colostate.edu/Gardennotes/558.pdf"
+      "name": "RHS — Helictotrichon sempervirens",
+      "url": "https://www.rhs.org.uk/plants/8607/helictotrichon-sempervirens/details"
     }
   ],
   "shots": [

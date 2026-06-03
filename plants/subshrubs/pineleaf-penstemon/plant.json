@@ -15,7 +15,7 @@
   "winter": true,
   "verified": "2026-06-03",
   "care": {
-    "hardiness": "USDA zones 3–8, making it one of the hardiest penstemons — fully winter-hardy on the Front Range (zones 5b–6a) with excellent drainage. The evergreen foliage remains attractive through Boulder winters, occasionally browning at tips in hard cold but rebounding in spring.",
+    "hardiness": "USDA zones 4–9, fully winter-hardy on the Front Range (zones 5b–6a) with excellent drainage. The evergreen foliage remains attractive through Boulder winters, occasionally browning at tips in hard cold but rebounding in spring.",
     "planting": "Plant in-ground in spring (mid-April to May) or early fall (September) when soils are workable and temperatures are moderate. Excellent drainage is non-negotiable: avoid heavy, wet clay without significant amendment — raised beds or a gravel-mulched slope suit it best. In containers, use a well-drained cactus/alpine mix; container roots are far less cold-hardy than in-ground roots, so overwinter pots in an unheated garage or sink them into the ground with mulch over the rim. Container plants also dry out quickly in Front Range wind and sun — check moisture more frequently than in-ground plants.",
     "sun": "Full sun is essential — at least 6 hours of direct sun daily. Shade weakens growth, stretches stems, and reduces flowering. The intense high-altitude sun at Boulder's elevation is exactly what this Southwest native evolved for.",
     "soil": "Sharply drained, lean to average soil is ideal; tolerates sandy, gravelly, or rocky substrates well. Will rot in poorly drained clay or any site that stays wet in winter. Neutral to slightly alkaline pH (6.5–8.0) matches Front Range soils perfectly. Do not add rich organic matter — lean soil keeps the plant compact and long-lived.",
@@ -30,6 +30,6 @@
   },
   "care_src": [
     { "name": "Lady Bird Johnson Wildflower Center — Penstemon pinifolius", "url": "https://www.wildflower.org/plants/result.php?id_plant=PENI2" },
-    { "name": "NC State Extension Gardener Plant Toolbox — Achillea / Penstemon genera", "url": "https://plants.ces.ncsu.edu/plants/achillea/" }
+    { "name": "Plant Select — Half Pint® Pineleaf Penstemon (Penstemon pinifolius 'Compactum')", "url": "https://plantselect.org/half-pint-pineleaf-penstemon-penstemon-pinifolius-compactum/" }
   ]
 }

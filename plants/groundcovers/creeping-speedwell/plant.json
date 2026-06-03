@@ -3,25 +3,25 @@
   "botanical": "Veronica liwanensis",
   "type": "Groundcover",
   "native": "Non-native",
-  "blurb": "A Plant Select standout — a flat, near-evergreen mat of tiny dark green leaves that vanishes under a blaze of true-blue flowers every spring, tough between pavers, on dry slopes, and in any sunny spot where nothing else will grow.",
+  "blurb": "A Plant Select standout — a flat, reliably evergreen mat of tiny dark green leaves that vanishes under a blaze of cobalt-blue flowers every spring, tough between pavers, on dry slopes, and in any sunny or partly sunny spot where nothing else will grow.",
   "size": "1–2 in × 12–18 in",
-  "sun": "Full sun",
+  "sun": "Full sun to part sun",
   "water": "Low; xeric once established",
   "spread": "Spreads by creeping stems to form a dense mat; non-invasive; takes light foot traffic",
-  "seasons": "Near-evergreen dark green mat year-round; brilliant true-blue flowers Apr–May; green mat persists through summer and fall; semi-evergreen in Boulder winters with possible bronzing",
+  "seasons": "Reliably evergreen dark green mat year-round; brilliant true-blue flowers Apr–Jun; green mat persists through summer and fall; may show purplish tints in intense sun",
   "wildlife": "Early-spring bee forage — flowers are among the first blue blooms of the season when native bees are emerging",
   "deer": "Deer-resistant",
   "toxic": "",
   "winter": true,
   "verified": "2026-06-03",
   "care": {
-    "hardiness": "Hardy to USDA zone 4 — well-proven on the Front Range (zones 5b–6a). A Plant Select introduction tested specifically for Colorado conditions; it is fully perennial here. The mat is near-evergreen, often retaining dark green foliage through winter with only slight bronzing in the coldest stretches. No protection is needed.",
-    "planting": "Plant in spring (April–May) or early fall (August–mid-September) on the Front Range. Spring planting is easiest: nursery plugs or divisions establish quickly in warming soil before summer. Fall planting by early September gives plants time to root before the ground freezes. Space plants 12–15 in. apart; the mat fills in completely within one to two seasons. Turkish speedwell thrives between stepping stones and pavers — set it at the same time you lay the stone, tucking plugs into gaps, or plant along edges and let it creep in. In containers, it forms a neat low carpet but does not trail dramatically; container roots tolerate Front Range winters better than most tender perennials since the plant is fully zone 4 hardy, though sinking pots to the rim or sheltering in an unheated garage over winter is still prudent on exposed patios.",
-    "sun": "Full sun is required — 6+ hours of direct sun daily. This is a xeric, high-light plant from rocky Turkish hillsides; shade drastically reduces flowering and the mat becomes open and sparse. Colorado's intense high-altitude sun suits it perfectly.",
+    "hardiness": "Hardy to USDA zone 3 — among the most cold-tolerant groundcovers available and well-proven on the Front Range (zones 5b–6a). A Plant Select introduction tested specifically for Colorado conditions; it is fully perennial here. The mat is reliably evergreen, retaining dark green foliage through winter; it may take on attractive purplish tints when exposed to intense summer sun. No winter protection is needed.",
+    "planting": "Plant in spring (April–May) or early fall (August–mid-September) on the Front Range. Spring planting is easiest: nursery plugs or divisions establish quickly in warming soil before summer. Fall planting by early September gives plants time to root before the ground freezes. Space plants 12–15 in. apart; the mat fills in completely within one to two seasons. Turkish speedwell thrives between stepping stones and pavers — set it at the same time you lay the stone, tucking plugs into gaps, or plant along edges and let it creep in. In containers, it forms a neat low carpet but does not trail dramatically; container roots tolerate Front Range winters better than most tender perennials since the plant is fully zone 3 hardy, though sinking pots to the rim or sheltering in an unheated garage over winter is still prudent on exposed patios.",
+    "sun": "Full sun to part sun. Best flowering and the tightest mat come with 6+ hours of direct sun daily; Colorado's intense high-altitude sun suits it well. It tolerates part sun (3–6 hours) but flowering is somewhat reduced and the mat stays lower-growing. Deep shade is not suitable — the plant becomes sparse and blooms poorly.",
     "soil": "Lean, well-drained to sharply drained soil is ideal — the exact opposite of rich, moist border soil. Sandy, gravelly, or rocky ground is perfect. Tolerates the alkaline clay-loam typical of Boulder yards only if drainage is not impeded; in heavy clay, plant in a raised area, on a slope, or amend the planting pocket with coarse grit. Does not need fertilizer or organic matter at planting.",
     "water": "Low to xeric. Established plants are among the most drought-tolerant groundcovers for the Front Range, thriving on Front Range rainfall supplemented by occasional deep watering in the driest summer stretches (every 2–3 weeks). Overwatering is a far more common problem than underwatering — wet, poorly drained soil, especially in winter, is the primary cause of failure. Once established, Turkish speedwell needs almost no supplemental irrigation after the first season.",
     "spacing": "Space plugs or divisions 12–15 in. apart; the mat creeps to fill gaps within one to two seasons. For quick coverage between pavers or on a dry slope, plant at 10–12 in.",
-    "bloom": "April through May on the Front Range — one of the earliest perennial groundcovers to bloom. The mat is covered so densely with tiny true-blue flowers (with a white eye) that the foliage is hidden. Bloom lasts 3–4 weeks; no deadheading is needed or possible at this scale. After bloom the mat remains a tidy, attractive green carpet through summer and fall.",
+    "bloom": "April through June on the Front Range — one of the earliest perennial groundcovers to bloom. The mat is covered so densely with tiny cobalt-blue flowers (with a white eye) that the foliage is hidden. Bloom lasts 4–6 weeks; no deadheading is needed or possible at this scale. After bloom the mat remains a tidy, attractive green carpet through summer and fall.",
     "feeding": "None needed. Lean, unfertilized soil keeps the mat tight and healthy; added nitrogen produces rank, open growth. Do not fertilize.",
     "maintenance": "Virtually none. Trim any winter-damaged or overly vigorous edges with shears in early spring, just before bloom. No deadheading. The mat is self-sustaining. If it creeps beyond its intended area, pull or cut back the edges in spring or fall.",
     "troubles": "Very low-maintenance in well-drained, sunny conditions. Crown rot in heavy, poorly drained soil or under excess irrigation is the main failure mode on the Front Range — ensure drainage before planting. No serious pests; deer avoid it. Slugs may nibble in unusually wet conditions.",
@@ -32,10 +32,6 @@
     {
       "name": "Plant Select — Veronica liwanensis (Turkish Veronica)",
       "url": "https://plantselect.org/plant/veronica-liwanensis/"
-    },
-    {
-      "name": "NC State Extension — Veronica liwanensis",
-      "url": "https://plants.ces.ncsu.edu/plants/veronica-liwanensis/"
     }
   ],
   "shots": [

@@ -8,21 +8,21 @@
   "sun": "Part shade to full sun (tolerates full sun in spring before trees leaf out)",
   "water": "Low to moderate; dry summer dormancy preferred",
   "spread": "Slowly naturalizes by tuber offsets and self-seeding; non-invasive",
-  "seasons": "Starry 1–2 in flowers (blue, white, or pink) March–April; foliage dies back to ground by June; fully dormant all summer through fall",
+  "seasons": "Starry 1–2 in flowers (blue, white, or pink) April–May; foliage dies back to ground by June; fully dormant all summer through fall",
   "wildlife": "Early nectar source for queen bumblebees and solitary bees emerging in late winter–early spring",
   "deer": "Generally deer-resistant; bitter alkaloids in foliage are deterrent",
   "toxic": "Mildly toxic — all Anemone parts contain protoanemonin, an irritant that causes mouth and GI irritation in people and pets if ingested; sap can cause contact dermatitis. Wear gloves when handling tubers and foliage.",
   "winter": false,
   "verified": "2026-06-03",
   "care": {
-    "hardiness": "USDA zones 4–8, making it reliably cold-hardy throughout the Front Range (zones 5b–6a). The tubers overwinter in the ground with no protection once established. Plant in a spot with good drainage — standing water over dormant tubers in winter or spring can cause rot.",
+    "hardiness": "USDA zones 5–9, making it reliably cold-hardy throughout the Front Range (zones 5b–6a). The tubers overwinter in the ground with no protection once established — zone 5 is at the cold edge of the range, so a light mulch over dormant tubers in their first winter is insurance. Plant in a spot with good drainage — standing water over dormant tubers in winter or spring can cause rot.",
     "planting": "Plant tubers in fall, September through October in Boulder, before the ground freezes. Soak tubers in warm water for 24 hours before planting to rehydrate the wrinkled, cork-like pieces; plant 2–3 inches deep and 3–4 inches apart, rough side down (or on their side if orientation is unclear — they find their way). Choose a spot that is moist in spring but dries out by summer, mimicking their Mediterranean origin. In heavy clay, amend with compost and coarse grit to improve drainage. In containers, plant in a lean, sharply drained mix in fall; pots can be overwintered in an unheated garage or kept outside if the pot is large enough to buffer cold (roots are somewhat less cold-hardy than in-ground tubers). Bring pots out to a cool, bright spot as temperatures warm in late winter.",
     "sun": "Adaptable — performs well in part shade to full sun, making it ideal under deciduous shrubs and trees where it gets full sun in early spring before the canopy leafs out, then rests in shade during summer dormancy. Avoid deep, year-round shade. On the sunny Front Range, dappled or morning sun with afternoon shade in summer (when the plant is dormant anyway) is ideal.",
     "soil": "Well-drained, moderately fertile soil; tolerates Boulder's alkaline clay-loam if drainage is adequate. Work in a little compost at planting. Sharp drainage is more critical than fertility — tubers rot in soggy winter or spring soil. A lean, rocky or sandy site suits them well once established.",
     "water": "Low to moderate in spring while actively growing; essentially none needed in summer when the plant is fully dormant. Do not irrigate dormant tubers through summer — they prefer dry conditions at rest, and wet dormancy is a leading cause of rot on the Front Range. In a mixed border with irrigation, plant where summer water hits infrequently, or mark the location so you can skip that zone.",
     "spacing": "Plant tubers 3–4 inches apart for a naturalized colony effect; closer spacing fills in faster. A drift of 15–25 tubers creates a showy early-spring display. Leave them undisturbed and they will multiply over several years.",
     "propagation": "Propagate by lifting and dividing tubers in summer after the foliage has fully died back (July in Boulder). Dig carefully, separate offsets that have formed around the parent tuber, and replant or store in a cool, dry place until fall planting. The plants also self-seed modestly over time — tiny seedlings appear near parent colonies and take 2–3 years to reach blooming size. Collect ripe seed (tiny, woolly achenes) in late spring before foliage dies and sow immediately in a cold frame or outdoors; cold-moist stratification over winter improves germination. Named color selections (e.g. 'Blue Shades', 'White Splendour') should be propagated by division to maintain true color.",
-    "bloom": "March through April on the Front Range — one of the earliest perennial flowers of the season, often blooming alongside species tulips and crocus. Flowers close at night and on overcast days (photonasty), opening wide in sun. The display lasts 3–4 weeks.",
+    "bloom": "April through May on the Front Range — blooming alongside late species tulips and late crocus. Flowers close at night and on overcast days (photonasty), opening wide in sun. The display lasts 3–4 weeks.",
     "feeding": "Little needed. A light topdressing of balanced granular fertilizer or compost when growth emerges in late winter is sufficient. Avoid heavy feeding — lean soil is fine and over-fertilizing produces lush foliage at the expense of flowers.",
     "maintenance": "Almost none. Allow the foliage to die back naturally — do not cut it while still green, as the leaves fuel next year's tubers. By June the plant is fully dormant and invisible; mark the location in fall to avoid disturbing tubers when planting summer annuals nearby. Topdress with a thin layer of compost in fall. Divide congested clumps every 4–5 years if flowering declines.",
     "selfsow": "Self-seeds modestly over time, gradually spreading into a naturalized colony. Seedlings are tiny and appear near the parent clump; they take 2–3 years to bloom. This is slow, non-aggressive spread — desirable under shrubs and in woodland edges.",
@@ -31,16 +31,12 @@
   },
   "care_src": [
     {
-      "name": "Missouri Botanical Garden — Plant Finder: Anemone blanda",
-      "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=a157"
+      "name": "NC State Extension — Anemone blanda",
+      "url": "https://plants.ces.ncsu.edu/plants/anemone-blanda/"
     },
     {
       "name": "RHS — Anemone blanda",
       "url": "https://www.rhs.org.uk/plants/1345/anemone-blanda/details"
-    },
-    {
-      "name": "NC State Extension — Anemone blanda",
-      "url": "https://plants.ces.ncsu.edu/plants/anemone-blanda/"
     }
   ],
   "shots": [

@@ -80,6 +80,16 @@
       "by": "Martin A. Prinz",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/photos/167706531"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/490565052/large.jpg",
+      "s": "summer",
+      "cap": "Summer — oblong/ovate alternate stem leaves and their soft waxy texture · © Helmut Schillo (CC-BY-NC) / iNaturalist",
+      "by": "Helmut Schillo",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/251366043"
     }
   ],
   "commons": "Euphorbia polychroma, wolfsmelk.JPG"

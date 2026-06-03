@@ -87,6 +87,16 @@
       "by": "Archer Silverman",
       "lic": "CC-BY",
       "link": "https://www.inaturalist.org/observations/318079916"
+    },
+    {
+      "local": "images/su-pods-t.jpg",
+      "full": "images/su-pods.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/18702039/large.jpg",
+      "s": "summer",
+      "cap": "Summer — the smooth pendant 3-lobed seed capsule, centered · © Alex Abair (CC-BY) / iNaturalist",
+      "by": "Alex Abair",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/12885472"
     }
   ],
   "commons": ""

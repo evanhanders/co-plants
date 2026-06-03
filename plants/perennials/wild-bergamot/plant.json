@@ -87,6 +87,16 @@
       "by": "Sawyer Dawson",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/189387087"
+    },
+    {
+      "local": "images/wi-winter-seedhead-t.jpg",
+      "full": "images/wi-winter-seedhead.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/591747593/large.jpg",
+      "s": "winter",
+      "cap": "Winter — dried brown seedhead standing on bare stems · © Alex Abair (CC-BY) / iNaturalist",
+      "by": "Alex Abair",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/326706089"
     }
   ],
   "commons": "Monarda fistulosa - Wild Bergamot (Flower).jpg"

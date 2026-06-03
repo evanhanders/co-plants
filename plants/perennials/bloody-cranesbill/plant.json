@@ -56,6 +56,26 @@
       "by": "Andrejus Gaidamavičius",
       "lic": "CC-BY",
       "link": "https://www.inaturalist.org/observations/341895144"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/563361282/original.jpg",
+      "s": "summer",
+      "cap": "Deeply-cut palmate leaves shown clearly alongside a magenta bloom · © Gilles San Martin (CC-BY-SA) / iNaturalist",
+      "by": "Gilles San Martin",
+      "lic": "CC-BY-SA",
+      "link": "https://www.inaturalist.org/photos/563361282"
+    },
+    {
+      "local": "images/fa-fall-t.jpg",
+      "full": "images/fa-fall.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/336180024/large.jpg",
+      "s": "fall",
+      "cap": "Brilliant crimson-red autumn foliage — deeply cut palmate leaves turning scarlet · © ehm4nature (CC-BY-NC) / iNaturalist",
+      "by": "ehm4nature",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/191608792"
     }
   ]
 }

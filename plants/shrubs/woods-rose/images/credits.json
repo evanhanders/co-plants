@@ -43,5 +43,12 @@
     "source": "https://www.inaturalist.org/photos/179309887",
     "dataset": "iNaturalist open data",
     "render": "original"
+  },
+  {
+    "file": "images/sp-habit.jpg",
+    "by": "curt_nimz",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/172206687",
+    "via": "iNaturalist"
   }
 ]

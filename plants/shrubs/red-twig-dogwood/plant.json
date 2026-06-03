@@ -94,6 +94,26 @@
       "by": "carolyncw",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/67865199"
+    },
+    {
+      "local": "images/su-bloom-t.jpg",
+      "full": "images/su-bloom.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/639755861/large.jpg",
+      "s": "summer",
+      "cap": "Summer — a leafy shrub branch smothered in flat-topped white flower cymes, showing the summer bloom · © Loraine Yeatts (CC-BY-NC) / iNaturalist",
+      "by": "Loraine Yeatts",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/350628788"
+    },
+    {
+      "local": "images/wi-stems2-t.jpg",
+      "full": "images/wi-stems2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/604952924/original.jpg",
+      "s": "winter",
+      "cap": "Winter — vivid red canes against a frozen stream and snow, showing the cane colour with natural scale and context · © Stevie Steele (CC-BY) / iNaturalist",
+      "by": "Stevie Steele",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/photos/604952924"
     }
   ],
   "commons": "Cornus sericea - red osier dogwood - 1.jpg"

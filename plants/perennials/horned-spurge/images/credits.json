@@ -66,5 +66,12 @@
       300,
       400
     ]
+  },
+  {
+    "file": "images/fa-detail.jpg",
+    "by": "Archer Silverman",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/observations/318079916",
+    "via": "iNaturalist"
   }
 ]

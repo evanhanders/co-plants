@@ -69,16 +69,6 @@
       "link": "https://www.inaturalist.org/observations/55318379"
     },
     {
-      "local": "images/su-foliage-t.jpg",
-      "full": "images/su-foliage.jpg",
-      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/218064905/large.jpg",
-      "s": "summer",
-      "cap": "Broad aromatic leaves — ovate with toothed margins on square stems · © millasherms (CC-BY-NC) / iNaturalist",
-      "by": "millasherms",
-      "lic": "CC-BY-NC",
-      "link": "https://www.inaturalist.org/observations/128383741"
-    },
-    {
       "local": "images/fa-pods-t.jpg",
       "full": "images/fa-pods.jpg",
       "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/230033051/large.jpg",
@@ -87,6 +77,16 @@
       "by": "woodsatnight",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/134909994"
+    },
+    {
+      "local": "images/su-foliage2-t.jpg",
+      "full": "images/su-foliage2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/34071759/large.jpg",
+      "s": "summer",
+      "cap": "Summer — broad ovate toothed leaves on square stems, with flowers above · © Brian Popelier (CC-BY-NC) / iNaturalist",
+      "by": "Brian Popelier",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/21982426"
     }
   ],
   "commons": "Monarda didyma 'Colrain Red' 6 2021 Bee Balm- (51273491889).jpg"

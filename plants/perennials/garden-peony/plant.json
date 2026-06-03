@@ -85,6 +85,16 @@
       "by": "Колесова Кристина",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/321004273"
+    },
+    {
+      "local": "images/fa-fall-t.jpg",
+      "full": "images/fa-fall.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/565314438/original.jpg",
+      "s": "fall",
+      "cap": "Bronze and red fall foliage with open seed follicles showing black seeds · © Святослав Власенко (CC-BY) / iNaturalist",
+      "by": "Святослав Власенко",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/photos/565314438"
     }
   ],
   "commons": "Paeonia lactiflora 'Gay Paree'.jpg"

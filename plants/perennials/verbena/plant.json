@@ -40,12 +40,12 @@
     {
       "local": "images/su-habit-t.jpg",
       "full": "images/su-habit.jpg",
-      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/64769716/large.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/189292969/large.jpg",
       "s": "summer",
-      "cap": "Summer — trailing mat of rose verbena with visible foliage · © nomad_femme (CC-BY-NC) / iNaturalist",
-      "by": "nomad_femme",
+      "cap": "Summer — trailing mat of rose verbena spreading over rocky ground with multiple purple clusters · © mtnman57 (CC-BY-NC) / iNaturalist",
+      "by": "mtnman57",
       "lic": "CC-BY-NC",
-      "link": "https://www.inaturalist.org/observations/40855056"
+      "link": "https://www.inaturalist.org/observations/112083385"
     },
     {
       "local": "images/su-flower-t.jpg",
@@ -70,12 +70,12 @@
     {
       "local": "images/su-bloom-t.jpg",
       "full": "images/su-bloom.jpg",
-      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/195113820/large.jpeg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/267681107/large.jpg",
       "s": "summer",
-      "cap": "Summer — verbena massed in bloom across a woodland clearing · © Jared Gorrell (CC-BY-NC) / iNaturalist",
-      "by": "Jared Gorrell",
+      "cap": "Summer — rose verbena blooming in a spreading drift, showing massed flower clusters in their natural context · © Matt Tomlinson (CC-BY-NC) / iNaturalist",
+      "by": "Matt Tomlinson",
       "lic": "CC-BY-NC",
-      "link": "https://www.inaturalist.org/observations/115610927"
+      "link": "https://www.inaturalist.org/observations/154892708"
     }
   ]
 }

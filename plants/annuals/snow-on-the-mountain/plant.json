@@ -74,6 +74,26 @@
       "by": "ghostburglar",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/98260255"
+    },
+    {
+      "local": "images/su-habit2-t.jpg",
+      "full": "images/su-habit2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/224138212/large.jpg",
+      "s": "summer",
+      "cap": "Summer — full branched plant in frosted-white at peak, showing the upright 1–2 ft form · © Steven Mlodinow (CC-BY-NC) / iNaturalist",
+      "by": "Steven Mlodinow",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/131687329"
+    },
+    {
+      "local": "images/su-bloom-t.jpg",
+      "full": "images/su-bloom.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/222530703/large.jpg",
+      "s": "summer",
+      "cap": "Summer — a stand of frosted-white plants in dry-prairie habitat, showing the colony effect · © landofthelonesome (CC-BY-NC) / iNaturalist",
+      "by": "landofthelonesome",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/130819419"
     }
   ],
   "commons": "Euphorbia marginata 2.JPG"

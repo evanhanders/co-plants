@@ -85,6 +85,26 @@
       "by": "afitzyviolin",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/93266390"
+    },
+    {
+      "local": "images/su-habit2-t.jpg",
+      "full": "images/su-habit2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554950932/large.jpg",
+      "s": "summer",
+      "cap": "Summer — upright stems from the clump base to the flower panicle, showing the full plant form · © Anne Parker (CC-BY) / iNaturalist",
+      "by": "Anne Parker",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/307652594"
+    },
+    {
+      "local": "images/su-foliage2-t.jpg",
+      "full": "images/su-foliage2.jpg",
+      "commons": "Phlox paniculata, 2021-8-15, Seldom Seen, 01.jpg",
+      "s": "summer",
+      "cap": "Summer — upright stems showing lance-shaped opposite leaves along their length, with flower panicles at top · © Cbaile19 (CC0) / Wikimedia Commons",
+      "by": "Cbaile19",
+      "lic": "CC0",
+      "link": "https://commons.wikimedia.org/wiki/File:Phlox_paniculata,_2021-8-15,_Seldom_Seen,_01.jpg"
     }
   ]
 }

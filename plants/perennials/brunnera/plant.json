@@ -51,16 +51,6 @@
       "link": "https://www.inaturalist.org/observations/218235976"
     },
     {
-      "local": "images/sp-habit-t.jpg",
-      "full": "images/sp-habit.jpg",
-      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/129027114/large.jpeg",
-      "s": "spring",
-      "cap": "Whole plant in bloom in shaded woodland setting · © elena_tikhonova (CC-BY-NC) / iNaturalist",
-      "by": "elena_tikhonova",
-      "lic": "CC-BY-NC",
-      "link": "https://www.inaturalist.org/observations/78814274"
-    },
-    {
       "local": "images/su-foliage-t.jpg",
       "full": "images/su-foliage.jpg",
       "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/257228845/large.jpg",
@@ -79,6 +69,26 @@
       "by": "petersaucy",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/216536748"
+    },
+    {
+      "local": "images/sp-habit2-t.jpg",
+      "full": "images/sp-habit2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/124696630/large.jpg",
+      "s": "spring",
+      "cap": "Spring — whole plant in bloom on mulch, showing the low mounding habit with vivid blue forget-me-not flowers · © ajrick (CC-BY-NC) / iNaturalist",
+      "by": "ajrick",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/76225418"
+    },
+    {
+      "local": "images/sp-bloom2-t.jpg",
+      "full": "images/sp-bloom2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/194630632/large.jpg",
+      "s": "spring",
+      "cap": "Spring — blue forget-me-not flower sprays in a garden setting showing the low drifting habit · © charliemcfarlig (CC-BY-NC) / iNaturalist",
+      "by": "charliemcfarlig",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/115300413"
     }
   ]
 }

@@ -32,5 +32,19 @@
       400,
       300
     ]
+  },
+  {
+    "file": "images/su-foliage.jpg",
+    "by": "Gilles San Martin",
+    "license": "CC-BY-SA",
+    "source": "https://www.inaturalist.org/photos/563361282",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/fa-fall.jpg",
+    "by": "ehm4nature",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/191608792",
+    "via": "iNaturalist"
   }
 ]

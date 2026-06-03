@@ -66,5 +66,19 @@
       400,
       300
     ]
+  },
+  {
+    "file": "images/su-pods.jpg",
+    "by": "rcostantini",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/photos/48748010",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/su-drift.jpg",
+    "by": "mlf",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/photos/257829993",
+    "via": "iNaturalist"
   }
 ]

@@ -84,6 +84,26 @@
       "by": "Amy",
       "lic": "CC-BY",
       "link": "https://www.inaturalist.org/observations/29821696"
+    },
+    {
+      "local": "images/su-pods-t.jpg",
+      "full": "images/su-pods.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/48748010/large.jpg",
+      "s": "summer",
+      "cap": "Elongated cylindrical seed capsules at various stages alongside a flower · © rcostantini (CC-BY-NC) / iNaturalist",
+      "by": "rcostantini",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/photos/48748010"
+    },
+    {
+      "local": "images/su-drift-t.jpg",
+      "full": "images/su-drift.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/257829993/large.jpg",
+      "s": "summer",
+      "cap": "Mass of California poppies blanketing a hillside — whole-plant drift · © mlf (CC-BY-NC) / iNaturalist",
+      "by": "mlf",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/photos/257829993"
     }
   ],
   "commons": "20170805Eschscholzia californica1.jpg"

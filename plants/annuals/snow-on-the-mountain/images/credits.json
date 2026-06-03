@@ -49,5 +49,19 @@
       400,
       400
     ]
+  },
+  {
+    "file": "images/su-habit2.jpg",
+    "by": "Steven Mlodinow",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/131687329",
+    "via": "iNat"
+  },
+  {
+    "file": "images/su-bloom.jpg",
+    "by": "landofthelonesome",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/130819419",
+    "via": "iNat"
   }
 ]

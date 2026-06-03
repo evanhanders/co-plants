@@ -46,5 +46,19 @@
     "license": "CC-BY-NC",
     "source": "https://www.inaturalist.org/observations/191608792",
     "via": "iNaturalist"
+  },
+  {
+    "file": "images/su-pods.jpg",
+    "by": "Krzysztof Ziarnek, Kenraiz",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Geranium_sanguineum_kz18.jpg",
+    "via": "Wikimedia Commons"
+  },
+  {
+    "file": "images/sp-spring.jpg",
+    "by": "Chris Chimaera",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/observations/160626635",
+    "via": "iNaturalist"
   }
 ]

@@ -76,6 +76,26 @@
       "by": "ehm4nature",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/191608792"
+    },
+    {
+      "local": "images/su-pods-t.jpg",
+      "full": "images/su-pods.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Geranium_sanguineum_kz18.jpg",
+      "s": "summer",
+      "cap": "Summer — the distinctive stork's-beak seed capsules splitting open and curling, the namesake “cranesbill” fruit · © Krzysztof Ziarnek, Kenraiz (CC BY-SA 4.0) / Wikimedia Commons",
+      "by": "Krzysztof Ziarnek, Kenraiz",
+      "lic": "CC BY-SA 4.0",
+      "link": "https://commons.wikimedia.org/wiki/File:Geranium_sanguineum_kz18.jpg"
+    },
+    {
+      "local": "images/sp-spring-t.jpg",
+      "full": "images/sp-spring.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/277576165/large.jpeg",
+      "s": "spring",
+      "cap": "Spring — a fresh mound of deeply-cut foliage opening its first magenta saucers at the start of the May–Jul flush · © Chris Chimaera (CC-BY) / iNaturalist",
+      "by": "Chris Chimaera",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/160626635"
     }
   ]
 }

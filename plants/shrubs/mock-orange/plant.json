@@ -68,6 +68,36 @@
       "by": "Curren Frasch",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/64764023"
+    },
+    {
+      "local": "images/su-habit2-t.jpg",
+      "full": "images/su-habit2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/122308067/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — whole mock orange shrub standing back, showing its rounded vase-shaped multi-stem form · © Barbara L. Wilson (CC-BY-NC) / iNaturalist",
+      "by": "Barbara L. Wilson",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/74805708"
+    },
+    {
+      "local": "images/su-foliage2-t.jpg",
+      "full": "images/su-foliage2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/421954461/large.jpg",
+      "s": "summer",
+      "cap": "Summer — glossy oval opposite leaves with prominent veins covering the arching stems · © John D Reynolds (CC-BY-NC) / iNaturalist",
+      "by": "John D Reynolds",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/237122469"
+    },
+    {
+      "local": "images/fa-fall-t.jpg",
+      "full": "images/fa-fall.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/584174409/large.jpg",
+      "s": "fall",
+      "cap": "Fall — leaves turning yellow-bronze among the woody 4-parted seed capsules on bare grey stems · © Elliott Gordon (CC-BY) / iNaturalist",
+      "by": "Elliott Gordon",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/322879504"
     }
   ]
 }

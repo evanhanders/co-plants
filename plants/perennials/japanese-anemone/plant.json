@@ -91,6 +91,26 @@
       "by": "Tereza Šmídová",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/232539866"
+    },
+    {
+      "local": "images/fa-seedhead-t.jpg",
+      "full": "images/fa-seedhead.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Anemone_hybrida%2C_seeds_1.jpg",
+      "s": "fall",
+      "cap": "Late fall — the cottony seedhead bursting open into fluffy white down, an ornamental late-season feature · © Schnobby (CC-BY-SA) / Wikimedia Commons",
+      "by": "Schnobby",
+      "lic": "CC-BY-SA",
+      "link": "https://commons.wikimedia.org/wiki/File:Anemone_hybrida,_seeds_1.jpg"
+    },
+    {
+      "local": "images/sp-spring-t.jpg",
+      "full": "images/sp-spring.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/69139261/large.jpg",
+      "s": "spring",
+      "cap": "Spring — bold dark-green palmate, deeply toothed basal foliage flushing in a fresh clump · © renf (CC-BY-NC) / iNaturalist",
+      "by": "renf",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/43578595"
     }
   ]
 }

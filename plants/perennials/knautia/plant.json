@@ -87,6 +87,26 @@
       "by": "johnmuirway-eastdunbartonshire-tcv",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/294302695"
+    },
+    {
+      "local": "images/su-foliage2-t.jpg",
+      "full": "images/su-foliage2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/163946369/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — the in-situ basal rosette: simple lance-shaped, toothed lower leaves forming a low clump · © Juha Tuomola (CC-BY-NC) / iNaturalist",
+      "by": "Juha Tuomola",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/98466072"
+    },
+    {
+      "local": "images/fa-fall-t.jpg",
+      "full": "images/fa-fall.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/322570128/large.jpg",
+      "s": "fall",
+      "cap": "Late season — a wine-red bloom above a spiny green pincushion seedhead forming as the plant sets seed · © Karsten Mody (CC-BY-NC) / iNaturalist",
+      "by": "Karsten Mody",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/184767242"
     }
   ]
 }

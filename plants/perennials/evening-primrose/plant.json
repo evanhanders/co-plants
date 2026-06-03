@@ -90,6 +90,26 @@
       "by": "Aidan Campos",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/257416670"
+    },
+    {
+      "local": "images/su-flower-t.jpg",
+      "full": "images/su-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/494485979/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — a large lemon-yellow four-petaled cup face-on, with the cross-shaped stigma and silvery lance-shaped leaves · © Michelle W. (鐘偉瑪) (CC-BY) / iNaturalist",
+      "by": "Michelle W. (鐘偉瑪)",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/275150355"
+    },
+    {
+      "local": "images/su-habit2-t.jpg",
+      "full": "images/su-habit2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/76907095/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — the low, sprawling mound with several open cups along the willow-leaved stems · © violinbio (CC-BY-NC) / iNaturalist",
+      "by": "violinbio",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/48467279"
     }
   ]
 }

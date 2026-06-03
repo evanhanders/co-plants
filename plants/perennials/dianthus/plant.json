@@ -66,12 +66,12 @@
     {
       "local": "images/su-foliage-t.jpg",
       "full": "images/su-foliage.jpg",
-      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/388279708/large.jpeg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/487044287/large.jpeg",
       "s": "summer",
-      "cap": "Blue-gray grassy evergreen mat of cheddar pinks between blooms · © Marcela Řezníčková (CC-BY-NC) / iNaturalist",
-      "by": "Marcela Řezníčková",
+      "cap": "Summer — the silver-blue glaucous grassy mat of evergreen foliage spilling over rock, between blooms · © peterweinreich (CC-BY-NC) / iNaturalist",
+      "by": "peterweinreich",
       "lic": "CC-BY-NC",
-      "link": "https://www.inaturalist.org/observations/219369885"
+      "link": "https://www.inaturalist.org/observations/270795279"
     },
     {
       "local": "images/sp-habit-t.jpg",
@@ -92,6 +92,16 @@
       "by": "no rights reserved",
       "lic": "CC0",
       "link": "https://www.inaturalist.org/observations/287930230"
+    },
+    {
+      "local": "images/wi-evergreen-t.jpg",
+      "full": "images/wi-evergreen.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/363842466/large.jpeg",
+      "s": "winter",
+      "cap": "Winter — the glaucous blue-grey grassy mat of evergreen foliage that persists year-round, here off-bloom · © Arne Beck (CC-BY-NC) / iNaturalist",
+      "by": "Arne Beck",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/205753714"
     }
   ]
 }

@@ -101,6 +101,26 @@
       "by": "alexmoen",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/79832199"
+    },
+    {
+      "local": "images/sp-flower2-t.jpg",
+      "full": "images/sp-flower2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/384751108/large.jpg",
+      "s": "spring",
+      "cap": "Late spring — a single fully-open flower face-on: silky crepe-paper orange-red petals around the dark central blotch ring and stamen boss · © Peter Hollings (CC-BY-NC) / iNaturalist",
+      "by": "Peter Hollings",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/217483095"
+    },
+    {
+      "local": "images/fa-fall-foliage-t.jpg",
+      "full": "images/fa-fall-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/245839982/large.jpeg",
+      "s": "fall",
+      "cap": "Fall — the re-emergent basal rosette of deeply-cut, bristly-hairy leaves after summer dormancy, amid fallen autumn leaves · © Zeke Marshall (CC-BY) / iNaturalist",
+      "by": "Zeke Marshall",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/photos/245839982"
     }
   ],
   "commons": "Papaver orientale - oriental poppy.jpg"

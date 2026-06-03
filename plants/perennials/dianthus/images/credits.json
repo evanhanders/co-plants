@@ -35,20 +35,13 @@
   },
   {
     "file": "images/su-foliage.jpg",
-    "photo_id": 388279708,
-    "by": "Marcela Řezníčková",
+    "photo_id": 487044287,
+    "by": "peterweinreich",
     "license": "CC-BY-NC",
-    "source": "https://www.inaturalist.org/observations/219369885",
+    "source": "https://www.inaturalist.org/observations/270795279",
     "dataset": "iNaturalist open data",
-    "render": "original",
-    "full_px": [
-      1050,
-      1400
-    ],
-    "thumb_px": [
-      300,
-      400
-    ]
+    "render": "large",
+    "via": "iNaturalist"
   },
   {
     "file": "images/sp-habit.jpg",
@@ -62,6 +55,13 @@
     "by": "no rights reserved",
     "license": "CC0",
     "source": "https://www.inaturalist.org/observations/287930230",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/wi-evergreen.jpg",
+    "by": "Arne Beck",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/205753714",
     "via": "iNaturalist"
   }
 ]

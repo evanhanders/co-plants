@@ -16,8 +16,14 @@
     "source": "https://www.inaturalist.org/observations/97547622",
     "dataset": "iNaturalist open data",
     "render": "original",
-    "full_px": [1050, 1400],
-    "thumb_px": [300, 400]
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
   },
   {
     "file": "images/fa-flower.jpg",
@@ -27,8 +33,14 @@
     "source": "https://www.inaturalist.org/observations/186416752",
     "dataset": "iNaturalist open data",
     "render": "original",
-    "full_px": [1050, 1400],
-    "thumb_px": [300, 400]
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
   },
   {
     "file": "images/fa-foliage.jpg",
@@ -38,8 +50,14 @@
     "source": "https://www.inaturalist.org/observations/97063943",
     "dataset": "iNaturalist open data",
     "render": "original",
-    "full_px": [1050, 1400],
-    "thumb_px": [300, 400]
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
   },
   {
     "file": "images/fa-flower2.jpg",
@@ -49,7 +67,27 @@
     "source": "https://www.inaturalist.org/observations/232539866",
     "dataset": "iNaturalist open data",
     "render": "original",
-    "full_px": [1050, 1400],
-    "thumb_px": [300, 400]
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  },
+  {
+    "file": "images/fa-seedhead.jpg",
+    "by": "Schnobby",
+    "license": "CC-BY-SA",
+    "source": "https://commons.wikimedia.org/wiki/File:Anemone_hybrida,_seeds_1.jpg",
+    "via": "Wikimedia Commons"
+  },
+  {
+    "file": "images/sp-spring.jpg",
+    "by": "renf",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/43578595",
+    "via": "iNaturalist"
   }
 ]

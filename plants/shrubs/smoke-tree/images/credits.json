@@ -69,9 +69,16 @@
   },
   {
     "file": "images/wi-framework.jpg",
-    "by": "kitoutside",
+    "by": "Богданович Светлана",
     "license": "CC-BY-NC",
-    "source": "https://www.inaturalist.org/photos/607028343",
+    "source": "https://www.inaturalist.org/observations/69997841",
     "via": "iNaturalist"
+  },
+  {
+    "file": "images/sp-spring.jpg",
+    "by": "Acabashi",
+    "license": "CC-BY-SA-4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Cotinus_coggygria_%E2%80%98Royal_Purple%E2%80%99,_Highdown_Gardens,_Worthing_1.jpg",
+    "via": "Wikimedia Commons"
   }
 ]

@@ -49,5 +49,19 @@
       300,
       400
     ]
+  },
+  {
+    "file": "images/sp-habit.jpg",
+    "by": "odenwaelder",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/254119469",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/sp-bloom2.jpg",
+    "by": "no rights reserved",
+    "license": "CC0",
+    "source": "https://www.inaturalist.org/observations/287930230",
+    "via": "iNaturalist"
   }
 ]

@@ -60,6 +60,26 @@
       "by": "Daniel Dumais",
       "lic": "CC BY-SA 4.0",
       "link": "https://commons.wikimedia.org/wiki/File:2013-08-04_P1270335_(1)_DDumais.jpg"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/389313469/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — pinnate leaves with a budding stem, showing the leaf shape and the grip-by-leafstalk habit · © Jannik Stokholm (CC-BY) / iNaturalist",
+      "by": "Jannik Stokholm",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/219921267"
+    },
+    {
+      "local": "images/fa-seeds-t.jpg",
+      "full": "images/fa-seeds.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/589012197/large.jpg",
+      "s": "fall",
+      "cap": "Fall — fluffy silvery seedhead cluster of Clematis viticella, with leaves showing the pinnate shape · © SteveM4560 (CC-BY) / iNaturalist",
+      "by": "SteveM4560",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/325331151"
     }
   ],
   "commons": "Clematis 'Jackmanii' IMG 0199.jpg"

@@ -80,6 +80,26 @@
       "by": "Guy Babineau",
       "lic": "CC-BY",
       "link": "https://www.inaturalist.org/observations/300285196"
+    },
+    {
+      "local": "images/sp-habit-t.jpg",
+      "full": "images/sp-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/86957649/large.jpg",
+      "s": "spring",
+      "cap": "Spring — whole plant with blue-and-white flowers and the characteristic ferny blue-green foliage · © Alex (CC-BY-NC) / iNaturalist",
+      "by": "Alex",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/54642935"
+    },
+    {
+      "local": "images/sp-bloom2-t.jpg",
+      "full": "images/sp-bloom2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553972515/large.jpg",
+      "s": "spring",
+      "cap": "Spring — drift of Colorado blue columbine in bloom against a mountain lake · © Bpogoloff (CC-BY-NC) / iNaturalist",
+      "by": "Bpogoloff",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/307149522"
     }
   ],
   "commons": "Columbine-01.jpg"

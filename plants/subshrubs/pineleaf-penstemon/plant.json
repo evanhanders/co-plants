@@ -61,16 +61,6 @@
       "link": "https://www.inaturalist.org/observations/188573333"
     },
     {
-      "local": "images/su-flower-t.jpg",
-      "full": "images/su-flower.jpg",
-      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/546141794/large.jpg",
-      "s": "summer",
-      "cap": "Yellow tubular flowers of the Mersea Yellow cultivar · © titus9 (CC-BY-NC) / iNaturalist",
-      "by": "titus9",
-      "lic": "CC-BY-NC",
-      "link": "https://www.inaturalist.org/observations/303021960"
-    },
-    {
       "local": "images/su-foliage-t.jpg",
       "full": "images/su-foliage.jpg",
       "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/546141886/large.jpg",
@@ -79,6 +69,16 @@
       "by": "titus9",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/303021960"
+    },
+    {
+      "local": "images/su-flower-t.jpg",
+      "full": "images/su-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/330085401/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — whole plant covered in butter-yellow tubular flower wands, showing the Mersea Yellow form in bloom · © scottysmith (CC-BY-NC) / iNaturalist",
+      "by": "scottysmith",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/188573333"
     }
   ]
 }

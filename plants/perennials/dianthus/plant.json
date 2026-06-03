@@ -72,6 +72,26 @@
       "by": "Marcela Řezníčková",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/219369885"
+    },
+    {
+      "local": "images/sp-habit-t.jpg",
+      "full": "images/sp-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/455108428/large.jpeg",
+      "s": "spring",
+      "cap": "Spring — silver-blue grassy mat with fringed pink flowers in rocky habitat · © odenwaelder (CC-BY-NC) / iNaturalist",
+      "by": "odenwaelder",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/254119469"
+    },
+    {
+      "local": "images/sp-bloom2-t.jpg",
+      "full": "images/sp-bloom2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/517745604/large.jpg",
+      "s": "spring",
+      "cap": "Spring — dense mat smothered in pink fringed blooms showing the carpet effect · © no rights reserved (CC0) / iNaturalist",
+      "by": "no rights reserved",
+      "lic": "CC0",
+      "link": "https://www.inaturalist.org/observations/287930230"
     }
   ]
 }

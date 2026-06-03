@@ -81,6 +81,26 @@
       "by": "FrontRangeWildflowers",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/240630896"
+    },
+    {
+      "local": "images/fa-foliage-t.jpg",
+      "full": "images/fa-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/328031515/large.jpeg",
+      "s": "fall",
+      "cap": "Fall — wiry branching stem showing the fine heath-like foliage texture with flowers opening · © William Bee (CC-BY-NC) / iNaturalist",
+      "by": "William Bee",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/187562356"
+    },
+    {
+      "local": "images/wi-seeds-t.jpg",
+      "full": "images/wi-seeds.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/342923387/large.jpeg",
+      "s": "winter",
+      "cap": "Winter — persistent feathery white achene tufts on wiry stems, the classic winter seedhead display · © Samantha Heller (CC-BY-NC) / iNaturalist",
+      "by": "Samantha Heller",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/194995901"
     }
   ]
 }

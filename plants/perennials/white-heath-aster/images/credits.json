@@ -66,5 +66,19 @@
       310,
       400
     ]
+  },
+  {
+    "file": "images/fa-foliage.jpg",
+    "by": "William Bee",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/187562356",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/wi-seeds.jpg",
+    "by": "Samantha Heller",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/194995901",
+    "via": "iNaturalist"
   }
 ]

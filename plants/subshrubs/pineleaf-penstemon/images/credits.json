@@ -66,5 +66,12 @@
       400,
       300
     ]
+  },
+  {
+    "file": "images/su-flower.jpg",
+    "by": "scottysmith",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/188573333",
+    "via": "iNaturalist"
   }
 ]

@@ -38,5 +38,19 @@
       300,
       400
     ]
+  },
+  {
+    "file": "images/su-foliage.jpg",
+    "by": "Jannik Stokholm",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/observations/219921267",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/fa-seeds.jpg",
+    "by": "SteveM4560",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/observations/325331151",
+    "via": "iNaturalist"
   }
 ]

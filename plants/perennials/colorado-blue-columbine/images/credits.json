@@ -34,5 +34,19 @@
     "source": "https://www.inaturalist.org/observations/300285196",
     "dataset": "iNaturalist open data",
     "render": "original"
+  },
+  {
+    "file": "images/sp-habit.jpg",
+    "by": "Alex",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/54642935",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/sp-bloom2.jpg",
+    "by": "Bpogoloff",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/307149522",
+    "via": "iNaturalist"
   }
 ]

@@ -49,24 +49,44 @@
   ],
   "shots": [
     {
+      "local": "images/su-bloom-t.jpg",
+      "full": "images/su-bloom.jpg",
+      "commons": "Lonicera x brownii 'Dropmore Scarlet' Wiciokrzew Browna 2019-05-26 05.jpg",
+      "s": "summer",
+      "cap": "Vine trained on a wall in full bloom — whorls of scarlet tubular flowers amid the foliage · © Agnieszka Kwiecień, Nova (CC BY-SA 4.0) / Wikimedia Commons",
+      "by": "Agnieszka Kwiecień, Nova",
+      "lic": "CC BY-SA 4.0",
+      "link": "https://commons.wikimedia.org/wiki/File:Lonicera_x_brownii_%27Dropmore_Scarlet%27_Wiciokrzew_Browna_2019-05-26_05.jpg"
+    },
+    {
       "local": "images/su-flower-t.jpg",
       "full": "images/su-flower.jpg",
-      "commons": "Lonicera x brownii Dropmore Scarlet (4991083359).jpg",
+      "commons": "Lonicera x brownii 'Dropmore Scarlet' Wiciokrzew Browna 2019-05-26 04.jpg",
       "s": "summer",
-      "cap": "Summer — whorls of long scarlet tubular flowers · © Matt Lavin from Bozeman, Montana, USA (CC BY-SA 2.0) / Wikimedia Commons",
-      "by": "Matt Lavin from Bozeman, Montana, USA",
-      "lic": "CC BY-SA 2.0",
-      "link": "https://commons.wikimedia.org/wiki/File:Lonicera_x_brownii_Dropmore_Scarlet_(4991083359).jpg"
+      "cap": "Face-on whorl of long scarlet tubular flowers · © Agnieszka Kwiecień, Nova (CC BY-SA 4.0) / Wikimedia Commons",
+      "by": "Agnieszka Kwiecień, Nova",
+      "lic": "CC BY-SA 4.0",
+      "link": "https://commons.wikimedia.org/wiki/File:Lonicera_x_brownii_%27Dropmore_Scarlet%27_Wiciokrzew_Browna_2019-05-26_04.jpg"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "commons": "Lonicera x brownii 'Dropmore Scarlet' Wiciokrzew Browna 2019-05-26 01.jpg",
+      "s": "summer",
+      "cap": "Dense vine foliage showing the rounded blue-green leaves on a wall or trellis · © Agnieszka Kwiecień, Nova (CC BY-SA 4.0) / Wikimedia Commons",
+      "by": "Agnieszka Kwiecień, Nova",
+      "lic": "CC BY-SA 4.0",
+      "link": "https://commons.wikimedia.org/wiki/File:Lonicera_x_brownii_%27Dropmore_Scarlet%27_Wiciokrzew_Browna_2019-05-26_01.jpg"
     },
     {
       "local": "images/su-habit-t.jpg",
       "full": "images/su-habit.jpg",
-      "commons": "Lonicera x brownii 'Dropmore Scarlet' Wiciokrzew Browna 2019-05-26 01.jpg",
+      "commons": "Lonicera x brownii Dropmore Scarlet (4991688816).jpg",
       "s": "summer",
-      "cap": "The climbing vine trained on a support · © Agnieszka Kwiecień, Nova (CC BY-SA 4.0) / Wikimedia Commons",
-      "by": "Agnieszka Kwiecień, Nova",
-      "lic": "CC BY-SA 4.0",
-      "link": "https://commons.wikimedia.org/wiki/File:Lonicera_x_brownii_%27Dropmore_Scarlet%27_Wiciokrzew_Browna_2019-05-26_01.jpg"
+      "cap": "Multiple clusters of scarlet tubular flowers on the vine showing the twining habit in bloom · © Matt Lavin from Bozeman, Montana, USA (CC BY-SA 2.0) / Wikimedia Commons",
+      "by": "Matt Lavin from Bozeman, Montana, USA",
+      "lic": "CC BY-SA 2.0",
+      "link": "https://commons.wikimedia.org/wiki/File:Lonicera_x_brownii_Dropmore_Scarlet_(4991688816).jpg"
     }
   ]
 }

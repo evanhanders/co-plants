@@ -40,24 +40,34 @@
   ],
   "shots": [
     {
-      "local": "images/su-close-t.jpg",
-      "full": "images/su-close.jpg",
-      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/86052436/large.jpg",
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/430009747/large.jpg",
       "s": "summer",
-      "cap": "Summer — purple flower spikes with silvery-gray foliage · © Guglielmo Vacirca (CC-BY-NC) / iNaturalist",
-      "by": "Guglielmo Vacirca",
+      "cap": "Rounded mound of English lavender in full bloom on well-drained rocky ground · © Ricard Dominguez (CC-BY-NC) / iNaturalist",
+      "by": "Ricard Dominguez",
       "lic": "CC-BY-NC",
-      "link": "https://www.inaturalist.org/observations/54092875"
+      "link": "https://www.inaturalist.org/observations/241287967"
     },
     {
-      "local": "images/su-structure-t.jpg",
-      "full": "images/su-structure.jpg",
-      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/289572205/large.jpeg",
+      "local": "images/su-flower-t.jpg",
+      "full": "images/su-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/81487376/large.jpg",
       "s": "summer",
-      "cap": "Summer — mounded lavender in bloom · © Christian Herzig (CC-BY-NC) / iNaturalist",
-      "by": "Christian Herzig",
+      "cap": "Purple flower spikes at peak — whorled florets along tall stems with a bumblebee · © libble (CC-BY-NC) / iNaturalist",
+      "by": "libble",
       "lic": "CC-BY-NC",
-      "link": "https://www.inaturalist.org/observations/167174655"
+      "link": "https://www.inaturalist.org/observations/51296306"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/117754770/large.jpg",
+      "s": "summer",
+      "cap": "Silver-gray narrow linear leaves — the hallmark foliage of English lavender · © leahobispo (CC-BY-NC) / iNaturalist",
+      "by": "leahobispo",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/72244160"
     }
   ]
 }

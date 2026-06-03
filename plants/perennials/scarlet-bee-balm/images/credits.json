@@ -1,35 +1,86 @@
 [
   {
     "file": "images/su-flower.jpg",
-    "photo_id": "295193211",
-    "by": "Mark Apgar",
+    "photo_id": 407793896,
+    "by": "Paul Roots",
     "license": "CC-BY",
-    "source": "https://www.inaturalist.org/photos/295193211",
+    "source": "https://www.inaturalist.org/observations/229717107",
     "dataset": "iNaturalist open data",
     "render": "original",
     "full_px": [
-      1400,
+      1050,
       1400
     ],
     "thumb_px": [
-      400,
+      300,
       400
     ]
   },
   {
     "file": "images/su-habit.jpg",
-    "photo_id": "418615811",
-    "by": "Patrick Jackson",
+    "photo_id": 218879472,
+    "by": "sblumen",
     "license": "CC-BY",
-    "source": "https://www.inaturalist.org/photos/418615811",
+    "source": "https://www.inaturalist.org/observations/128840257",
     "dataset": "iNaturalist open data",
     "render": "original",
     "full_px": [
-      1400,
+      1050,
       1400
     ],
     "thumb_px": [
-      400,
+      300,
+      400
+    ]
+  },
+  {
+    "file": "images/su-bloom.jpg",
+    "photo_id": 88077713,
+    "by": "mmiller6603",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/55318379",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  },
+  {
+    "file": "images/su-foliage.jpg",
+    "photo_id": 218064905,
+    "by": "millasherms",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/128383741",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  },
+  {
+    "file": "images/fa-pods.jpg",
+    "photo_id": 230033051,
+    "by": "woodsatnight",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/134909994",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
       400
     ]
   }

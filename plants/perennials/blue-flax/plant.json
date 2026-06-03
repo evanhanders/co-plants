@@ -46,24 +46,44 @@
   ],
   "shots": [
     {
-      "local": "images/su-close-t.jpg",
-      "full": "images/su-close.jpg",
-      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/274405602/large.jpeg",
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/289320678/large.jpg",
       "s": "summer",
-      "cap": "Summer — sky-blue five-petaled flowers face the morning sun · © jend8 (CC-BY-NC) / iNaturalist",
-      "by": "jend8",
-      "lic": "CC-BY-NC",
-      "link": "https://www.inaturalist.org/observations/158808181"
+      "cap": "Airy wand form — wiry branching stems with sky-blue flowers in open ground · © Bob Walker (CC-BY) / iNaturalist",
+      "by": "Bob Walker",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/167041214"
     },
     {
-      "local": "images/su-structure-t.jpg",
-      "full": "images/su-structure.jpg",
-      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/401363780/large.jpeg",
+      "local": "images/su-flower-t.jpg",
+      "full": "images/su-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/88362881/large.jpg",
       "s": "summer",
-      "cap": "Summer — airy wands of bloom over fine needle-like foliage · © Dētto (CC-BY-NC) / iNaturalist",
-      "by": "Dētto",
+      "cap": "Sky-blue five-petaled flower face-on at morning peak · © Bob Walker (CC-BY) / iNaturalist",
+      "by": "Bob Walker",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/55489724"
+    },
+    {
+      "local": "images/su-bloom-t.jpg",
+      "full": "images/su-bloom.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/204549187/large.jpg",
+      "s": "summer",
+      "cap": "Multiple sky-blue flowers open together on wiry stems in native grassland · © masrlin (CC-BY-NC) / iNaturalist",
+      "by": "masrlin",
       "lic": "CC-BY-NC",
-      "link": "https://www.inaturalist.org/observations/226319595"
+      "link": "https://www.inaturalist.org/observations/120908305"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/384070295/large.jpg",
+      "s": "summer",
+      "cap": "Fine needle-like blue-green leaves along wiry flowering stems · © entropic_allegory (CC-BY-NC) / iNaturalist",
+      "by": "entropic_allegory",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/217126453"
     }
   ]
 }

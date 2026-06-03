@@ -1,27 +1,61 @@
 [
   {
-    "file": "images/su-close.jpg",
-    "photo_id": 521423876,
-    "by": "Eric Watts",
-    "license": "CC-BY",
-    "source": "https://www.inaturalist.org/observations/289884497",
+    "file": "images/su-flower.jpg",
+    "photo_id": 40178692,
+    "by": "ThePrairiePreacher",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/25906358",
     "dataset": "iNaturalist open data",
     "render": "original",
     "full_px": [
-      1054,
+      1050,
       1400
     ],
     "thumb_px": [
-      301,
+      300,
       400
     ]
   },
   {
-    "file": "images/su-structure.jpg",
+    "file": "images/su-habit.jpg",
     "photo_id": 203093781,
     "by": "mtmarian",
     "license": "CC-BY-NC",
     "source": "https://www.inaturalist.org/observations/95305247",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  },
+  {
+    "file": "images/fa-pods.jpg",
+    "photo_id": 461770590,
+    "by": "Aidan Campos",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/257416670",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      925
+    ],
+    "thumb_px": [
+      400,
+      264
+    ]
+  },
+  {
+    "file": "images/su-foliage.jpg",
+    "photo_id": 663844847,
+    "by": "biogotti",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/363662165",
     "dataset": "iNaturalist open data",
     "render": "original",
     "full_px": [

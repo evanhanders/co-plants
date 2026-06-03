@@ -1,36 +1,70 @@
 [
   {
-    "file": "images/su-close.jpg",
-    "photo_id": 274405602,
-    "by": "jend8",
-    "license": "CC-BY-NC",
-    "source": "https://www.inaturalist.org/observations/158808181",
-    "dataset": "iNaturalist open data",
-    "render": "original",
-    "full_px": [
-      1054,
-      1400
-    ],
-    "thumb_px": [
-      301,
-      400
-    ]
-  },
-  {
-    "file": "images/su-structure.jpg",
-    "photo_id": 401363780,
-    "by": "Dētto",
-    "license": "CC-BY-NC",
-    "source": "https://www.inaturalist.org/observations/226319595",
+    "file": "images/su-habit.jpg",
+    "photo_id": 289320678,
+    "by": "Bob Walker",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/observations/167041214",
     "dataset": "iNaturalist open data",
     "render": "original",
     "full_px": [
       1400,
-      788
+      1000
     ],
     "thumb_px": [
       400,
-      225
+      286
+    ]
+  },
+  {
+    "file": "images/su-flower.jpg",
+    "photo_id": 88362881,
+    "by": "Bob Walker",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/observations/55489724",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  },
+  {
+    "file": "images/su-bloom.jpg",
+    "photo_id": 204549187,
+    "by": "masrlin",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/120908305",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  },
+  {
+    "file": "images/su-foliage.jpg",
+    "photo_id": 384070295,
+    "by": "entropic_allegory",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/217126453",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
     ]
   }
 ]

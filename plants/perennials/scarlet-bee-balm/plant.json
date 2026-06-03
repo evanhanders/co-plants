@@ -41,22 +41,52 @@
     {
       "local": "images/su-flower-t.jpg",
       "full": "images/su-flower.jpg",
-      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/295193211/large.jpeg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/407793896/large.jpeg",
       "s": "summer",
-      "cap": "Summer — scarlet tubular flowerhead · © Mark Apgar (CC-BY) / iNaturalist",
-      "by": "Mark Apgar",
+      "cap": "Fresh scarlet mophead flowerheads face-on at peak bloom · © Paul Roots (CC-BY) / iNaturalist",
+      "by": "Paul Roots",
       "lic": "CC-BY",
-      "link": "https://www.inaturalist.org/photos/295193211"
+      "link": "https://www.inaturalist.org/observations/229717107"
     },
     {
       "local": "images/su-habit-t.jpg",
       "full": "images/su-habit.jpg",
-      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/418615811/large.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/218879472/large.jpg",
       "s": "summer",
-      "cap": "Summer — flowers & foliage in a planting · © Patrick Jackson (CC-BY) / iNaturalist",
-      "by": "Patrick Jackson",
+      "cap": "Multiple scarlet blooms on tall upright stems — typical plant in flower · © sblumen (CC-BY) / iNaturalist",
+      "by": "sblumen",
       "lic": "CC-BY",
-      "link": "https://www.inaturalist.org/photos/418615811"
+      "link": "https://www.inaturalist.org/observations/128840257"
+    },
+    {
+      "local": "images/su-bloom-t.jpg",
+      "full": "images/su-bloom.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/88077713/large.jpg",
+      "s": "summer",
+      "cap": "Dense stand of scarlet bee balm in full bloom showing the colony habit · © mmiller6603 (CC-BY-NC) / iNaturalist",
+      "by": "mmiller6603",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/55318379"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/218064905/large.jpg",
+      "s": "summer",
+      "cap": "Broad aromatic leaves — ovate with toothed margins on square stems · © millasherms (CC-BY-NC) / iNaturalist",
+      "by": "millasherms",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/128383741"
+    },
+    {
+      "local": "images/fa-pods-t.jpg",
+      "full": "images/fa-pods.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/230033051/large.jpg",
+      "s": "fall",
+      "cap": "Spent seedheads on upright stems — winter structure after bloom · © woodsatnight (CC-BY-NC) / iNaturalist",
+      "by": "woodsatnight",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/134909994"
     }
   ],
   "commons": "Monarda didyma 'Colrain Red' 6 2021 Bee Balm- (51273491889).jpg"

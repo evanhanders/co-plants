@@ -103,6 +103,12 @@ type via `groupOf()`.
   of Front-Range-specific, practical guidance. Add a new aspect by extending `CARE_FIELDS`
   (key + display label) — no other code change needed. Only the prototype plant (Rocky
   Mountain bee plant) carries a full `care` block today.
+- `care_src:[…]` *(optional, but required whenever `care` is present)* — the **provenance
+  for the care facts**, mirroring photo attribution. A list of `{ name, url }` sources the
+  care prose was compiled from; the detail page renders them as a "Care notes compiled
+  from …" line under the grow-and-care grid (`careSrcHTML` in `plant.js`). Cite the actual
+  authorities you drew from — don't pad it. See "Sourcing care facts" below for the
+  trusted-source priority and the rule against uncited claims.
 - `shots:[…]` *(optional)* — an ordered seasonal reel; each entry is one photo panel.
   Fields: `{ local, full, url | commons | try:[a,b], s?, cap?, by?, lic?, link? }`.
   - `local:'images/foo-t.jpg'` — repo-hosted **card thumbnail** shown in the grid
@@ -140,8 +146,9 @@ loader), and renders the sheet. **It reuses the reel + lightbox + shot-resolutio
 
 `renderDetail(p)` builds a masthead-style **sheet**: hero photo reel + name/botanical/
 blurb/badges/trait-flags, an **"At a glance"** facts table (the same card fields), a
-**"Growing & care on the Front Range"** grid built from the plant's `care` object (see
-schema), and a **"Photographs"** credits list (photographer · license · source per shot).
+**"Growing & care on the Front Range"** grid built from the plant's `care` object (with a
+"Care notes compiled from …" source line beneath it from `care_src`), and a
+**"Photographs"** credits list (photographer · license · source per shot).
 `setMeta(p)` updates `document.title` + the `og:`/`description` tags to name the plant.
 The page has a slim masthead (the wordmark links home) and a "‹ Back to the herbarium"
 link (`href="index.html"`) top and bottom. To extend a plant's detail page, add/extend its
@@ -335,6 +342,45 @@ any photo that needs a better shot, e.g. wild bergamot's soft summer pair):
 - **Fallback:** the user can always paste a Commons `File:Name.jpg` title (or any direct
   CC image URL) and you wire it in.
 
+## Sourcing care facts (the detail-page `care` block)
+
+Care facts get the **same provenance rigor as photos and weed-checks** — no uncited
+horticultural claims. When you fill in a plant's `care` object, ground the specifics
+(stratification weeks, sowing depth, germination temp/days, pH, spacing, bloom window)
+against a trusted authority and record what you used in `care_src` so the page shows it.
+**Verify reachability with a quick `curl` and always send a descriptive `User-Agent`**
+(`co-plants-herbarium/1.0 (evanhanders@gmail.com)`) — several of these 403 or 301 without
+one.
+
+**Source priority** (prefer the most authoritative + most local; stop when the facts are
+covered):
+
+1. **Front-Range-specific first** — **CSU Extension – Yard & Garden** (`extension.colostate.edu`)
+   and **Plant Select** (`plantselect.org`, the CSU + Denver Botanic Gardens program). These
+   speak to how a plant actually performs here (alkaline clay, semi-arid, ~USDA 5b–6a,
+   mid-May last frost, high-altitude sun).
+2. **Species authority** — for **natives**, the **USDA Forest Service / Western Forbs**
+   monographs (`westernforbs.org`), **USDA NRCS Plant Guides/Fact Sheets** + **PLANTS
+   Database** (`plants.usda.gov`), and the **Lady Bird Johnson Wildflower Center**
+   (`wildflower.org`, needs a UA). For **garden ornamentals & cultivars** (peony, dahlia,
+   clematis, roses), the **RHS** (`rhs.org.uk`).
+3. **Cross-check / last resort** — Wikipedia and reputable references, only to corroborate,
+   never as the sole citation for a hard number.
+
+**Workflow per plant:** (a) pull the species' practical numbers from the highest-priority
+reachable source(s) — `WebFetch` the page and read off sun/soil/pH/water/sowing/
+stratification/germination/spacing/bloom; (b) **adapt to the Front Range** (Boulder frost
+dates, zone, alkaline clay, intense sun) — this local framing is editorial, so cite the
+Front-Range authority (CSU/Plant Select) for it rather than over-claiming a species page;
+(c) write each `care` value as a short, practical paragraph; (d) list the **actual** sources
+in `care_src` as `{ name, url }`. Keep the citation honest: if a number came from Western
+Forbs, cite Western Forbs — don't list a source you didn't read.
+
+The prototype (Rocky Mountain bee plant) was done this way: the hard numbers
+(pH 6.0–7.6, 2–6 wk cold-moist stratification, 0.1–0.25 in sowing depth, 5–20 day
+germination at ~68/50°F, 24–36 in row spacing) come from the USDA-FS Western Forbs
+monograph, with CSU Extension cited for the Front-Range timing.
+
 ## Weed-verification gotchas
 
 - **Clematis:** garden/large-flowered hybrids (e.g. 'Jackmanii', *C. viticella*) are
@@ -351,7 +397,11 @@ any photo that needs a better shot, e.g. wild bergamot's soft summer pair):
 - **CO Dept. of Agriculture** noxious weed lists A/B/C + Watch List (weed check)
 - **CSU Extension — Yard & Garden:**
   https://extension.colostate.edu/topic-areas/yard-garden/ (how plants perform on
-  the Front Range)
+  the Front Range) — also the lead **care-fact** source (see "Sourcing care facts")
+- **Care-fact authorities** (for the detail-page `care`/`care_src`): **Plant Select**
+  (plantselect.org), **USDA Forest Service / Western Forbs** (westernforbs.org), **USDA
+  NRCS / PLANTS** (plants.usda.gov), **Lady Bird Johnson Wildflower Center**
+  (wildflower.org, send a UA), and **RHS** (rhs.org.uk) for garden cultivars
 - **MASA Seed Foundation** (Boulder) — trusted local native seed source;
   nursery@masaseedfoundation.org
 - **BBB Seed** (Colorado) and **Great Basin Seeds** (Utah) — seed backups

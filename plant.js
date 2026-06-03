@@ -37,6 +37,15 @@ return CARE_FIELDS.filter(function(f){ return care[f[0]]; })
 .map(function(f){ return '<div class="care-item"><dt>'+f[1]+'</dt><dd>'+esc(care[f[0]])+'</dd></div>'; })
 .join('');
 }
+function careSrcHTML(p){
+var s = p.care_src || [];
+if(!s.length) return '';
+var items = s.map(function(c){
+var nm = esc(c.name || c.url || 'source');
+return c.url ? '<a href="'+esc(c.url)+'" target="_blank" rel="noopener noreferrer">'+nm+' ↗</a>' : nm;
+});
+return '<p class="care-src"><span class="care-src-lab">Care notes compiled from</span> '+items.join(' · ')+'</p>';
+}
 function creditsHTML(p){
 var shots = shotsFor(p).filter(function(s){ return s.by||s.lic||s.link||s.url||s.commons; });
 if(!shots.length) return '';
@@ -72,7 +81,7 @@ BACK+
 '</div>'+
 '</div>'+
 '<section><h2>At a glance</h2>'+factsDL(p)+'</section>'+
-'<section><h2>Growing &amp; care on the Front Range</h2>'+grow+'</section>'+
+'<section><h2>Growing &amp; care on the Front Range</h2>'+grow+careSrcHTML(p)+'</section>'+
 (credits?'<section><h2>Photographs</h2>'+credits+'</section>':'')+
 '</article>'+
 BACK.replace('backlink','backlink foot');

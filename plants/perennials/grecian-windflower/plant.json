@@ -43,24 +43,34 @@
   ],
   "shots": [
     {
-      "local": "images/sp-close-t.jpg",
-      "full": "images/sp-close.jpg",
-      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/118949152/large.jpeg",
+      "local": "images/sp-bloom-t.jpg",
+      "full": "images/sp-bloom.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/119461109/large.jpeg",
       "s": "spring",
-      "cap": "Blue starry flower · © Kostas Zontanos (CC-BY) / iNaturalist",
+      "cap": "Spring — face-on blue flower over deeply lobed foliage · © Kostas Zontanos (CC-BY) / iNaturalist",
       "by": "Kostas Zontanos",
       "lic": "CC-BY",
-      "link": "https://www.inaturalist.org/observations/72904303"
+      "link": "https://www.inaturalist.org/observations/73189038"
     },
     {
-      "local": "images/sp-structure-t.jpg",
-      "full": "images/sp-structure.jpg",
-      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/119461078/large.jpeg",
+      "local": "images/sp-flower-t.jpg",
+      "full": "images/sp-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/619493830/large.jpg",
       "s": "spring",
-      "cap": "Low carpet of blue flowers and foliage · © Kostas Zontanos (CC-BY) / iNaturalist",
-      "by": "Kostas Zontanos",
+      "cap": "Spring — face-on deep-blue daisy flower, compact form · © Pantazi Katerina (CC-BY) / iNaturalist",
+      "by": "Pantazi Katerina",
       "lic": "CC-BY",
-      "link": "https://www.inaturalist.org/observations/73189017"
+      "link": "https://www.inaturalist.org/observations/340421378"
+    },
+    {
+      "local": "images/sp-foliage-t.jpg",
+      "full": "images/sp-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/125449769/large.jpg",
+      "s": "spring",
+      "cap": "Spring — colony of blue flowers naturalizing in a garden · © naturelaura3 (CC-BY-NC) / iNaturalist",
+      "by": "naturelaura3",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/76692587"
     }
   ]
 }

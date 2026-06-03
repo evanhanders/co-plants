@@ -42,21 +42,31 @@
   ],
   "shots": [
     {
-      "local": "images/su-close-t.jpg",
-      "full": "images/su-close.jpg",
-      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/287611281/large.jpeg",
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/41430175/large.jpg",
       "s": "summer",
-      "cap": "Dense cluster of rose-red flowers — red valerian · © Jacek Pietruszewski (CC-BY) / iNaturalist",
-      "by": "Jacek Pietruszewski",
+      "cap": "Summer — whole plant in bloom, showing arching stems and clustered flowers · © Andreas Stiller (CC-BY) / iNaturalist",
+      "by": "Andreas Stiller",
       "lic": "CC-BY",
-      "link": "https://www.inaturalist.org/observations/166106265"
+      "link": "https://www.inaturalist.org/observations/26672307"
     },
     {
-      "local": "images/su-structure-t.jpg",
-      "full": "images/su-structure.jpg",
+      "local": "images/su-flower-t.jpg",
+      "full": "images/su-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/663250080/large.jpg",
+      "s": "summer",
+      "cap": "Summer — flower corymb at stem tip, garden habit · © zebedeugalinha (CC-BY) / iNaturalist",
+      "by": "zebedeugalinha",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/363348968"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
       "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/366104884/large.jpeg",
       "s": "summer",
-      "cap": "Whole plant showing blue-green leaves and flower heads · © Johnny Roger Pedersen (CC-BY-NC) / iNaturalist",
+      "cap": "Summer — dense rose-red flower cluster with glaucous blue-gray foliage · © Johnny Roger Pedersen (CC-BY-NC) / iNaturalist",
       "by": "Johnny Roger Pedersen",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/207004022"

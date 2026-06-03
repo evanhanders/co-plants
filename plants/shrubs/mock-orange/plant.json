@@ -40,8 +40,18 @@
   ],
   "shots": [
     {
-      "local": "images/su-close-t.jpg",
-      "full": "images/su-close.jpg",
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/290379988/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — whole flowering shrub in bloom · © John A Haskins (CC-BY) / iNaturalist",
+      "by": "John A Haskins",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/167614209"
+    },
+    {
+      "local": "images/su-flower-t.jpg",
+      "full": "images/su-flower.jpg",
       "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/8719256/large.jpeg",
       "s": "summer",
       "cap": "Summer — 4-petaled white flowers with yellow stamens · © Charles Swift (CC-BY) / iNaturalist",
@@ -50,14 +60,14 @@
       "link": "https://www.inaturalist.org/observations/6844683"
     },
     {
-      "local": "images/su-structure-t.jpg",
-      "full": "images/su-structure.jpg",
-      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/45132760/large.jpg",
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/104176583/large.jpeg",
       "s": "summer",
-      "cap": "Summer — flowering shrub habit · © Vulpes (CC-BY-NC) / iNaturalist",
-      "by": "Vulpes",
+      "cap": "Summer — flowers and leaf detail, showing opposite oval leaves · © Curren Frasch (CC-BY-NC) / iNaturalist",
+      "by": "Curren Frasch",
       "lic": "CC-BY-NC",
-      "link": "https://www.inaturalist.org/observations/28935971"
+      "link": "https://www.inaturalist.org/observations/64764023"
     }
   ]
 }

@@ -69,6 +69,16 @@
       "by": "Stephan Pflume",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/326739804"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/297835269/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — dense silver-gray woolly foliage mat out of bloom · © Mirko Tomasi (CC-BY-NC) / iNaturalist",
+      "by": "Mirko Tomasi",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/171628570"
     }
   ]
 }

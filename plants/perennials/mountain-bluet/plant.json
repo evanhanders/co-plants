@@ -77,6 +77,16 @@
       "by": "G Nicoll",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/164693707"
+    },
+    {
+      "local": "images/su-rebloom-t.jpg",
+      "full": "images/su-rebloom.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/452047372/large.jpg",
+      "s": "summer",
+      "cap": "Summer rebloom — face-on fringed blue cornflower with rosy-purple center · © Jacques HALLOT (CC-BY-NC) / iNaturalist",
+      "by": "Jacques HALLOT",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/252517009"
     }
   ]
 }

@@ -1,74 +1,6 @@
 [
   {
     "file": "images/su-habit.jpg",
-    "photo_id": 111945636,
-    "by": "aliaska",
-    "license": "CC-BY-NC",
-    "source": "https://www.inaturalist.org/observations/69044225",
-    "dataset": "iNaturalist open data",
-    "render": "original",
-    "full_px": [
-      1400,
-      937
-    ],
-    "thumb_px": [
-      400,
-      268
-    ]
-  },
-  {
-    "file": "images/su-foliage.jpg",
-    "photo_id": 127456778,
-    "by": "Papageorgiou Nikolaos",
-    "license": "CC-BY-NC",
-    "source": "https://www.inaturalist.org/observations/77916172",
-    "dataset": "iNaturalist open data",
-    "render": "original",
-    "full_px": [
-      1400,
-      1050
-    ],
-    "thumb_px": [
-      400,
-      300
-    ]
-  },
-  {
-    "file": "images/su-flower.jpg",
-    "photo_id": 546223782,
-    "by": "Wolfgang Bacher",
-    "license": "CC-BY-NC",
-    "source": "https://www.inaturalist.org/observations/303065625",
-    "dataset": "iNaturalist open data",
-    "render": "original",
-    "full_px": [
-      1400,
-      695
-    ],
-    "thumb_px": [
-      400,
-      199
-    ]
-  },
-  {
-    "file": "images/su-bloom.jpg",
-    "photo_id": 127477928,
-    "by": "Papageorgiou Nikolaos",
-    "license": "CC-BY-NC",
-    "source": "https://www.inaturalist.org/observations/77931581",
-    "dataset": "iNaturalist open data",
-    "render": "original",
-    "full_px": [
-      1400,
-      1050
-    ],
-    "thumb_px": [
-      400,
-      300
-    ]
-  },
-  {
-    "file": "images/su-habit.jpg",
     "by": "odenwaelder",
     "license": "CC-BY-NC",
     "source": "https://www.inaturalist.org/observations/134124591",
@@ -80,5 +12,48 @@
     "license": "CC-BY",
     "source": "https://www.inaturalist.org/observations/200977490",
     "via": "iNaturalist"
+  },
+  {
+    "file": "images/su-bloom.jpg",
+    "by": "Papageorgiou Nikolaos",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/77931581",
+    "via": "iNaturalist",
+    "photo_id": 127477928,
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      1050
+    ],
+    "thumb_px": [
+      400,
+      300
+    ]
+  },
+  {
+    "file": "images/su-foliage.jpg",
+    "by": "Papageorgiou Nikolaos",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/77916172",
+    "via": "iNaturalist",
+    "photo_id": 127456778,
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      1050
+    ],
+    "thumb_px": [
+      400,
+      300
+    ]
+  },
+  {
+    "file": "images/su-habit2.jpg",
+    "by": "Andrea Moro",
+    "license": "CC-BY-SA",
+    "source": "https://commons.wikimedia.org/wiki/File:Matricaria_chamomilla_plant_(23).jpg",
+    "via": "Wikimedia Commons"
   }
 ]

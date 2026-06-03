@@ -81,6 +81,16 @@
       "by": "Mathias",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/79422534"
+    },
+    {
+      "local": "images/sp-spring-foliage-t.jpg",
+      "full": "images/sp-spring-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/125570556/large.jpg",
+      "s": "spring",
+      "cap": "Spring — emerging palmate foliage with rain-beaded leaflets · © Stew Stryker (CC-BY-NC) / iNaturalist",
+      "by": "Stew Stryker",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/76777355"
     }
   ]
 }

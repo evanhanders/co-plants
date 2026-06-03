@@ -49,5 +49,12 @@
       400,
       300
     ]
+  },
+  {
+    "file": "images/su-foliage.jpg",
+    "by": "Mirko Tomasi",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/171628570",
+    "via": "iNaturalist"
   }
 ]

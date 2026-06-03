@@ -1,15 +1,32 @@
 [
   {
     "file": "images/su-flowers.jpg",
-    "photo_id": "137521452",
-    "by": "Asher P Higgins",
-    "license": "CC-BY",
-    "source": "https://www.inaturalist.org/photos/137521452",
+    "photo_id": 196773183,
+    "by": "shawnann74",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/116564411",
     "dataset": "iNaturalist open data",
     "render": "original",
     "full_px": [
-      1125,
-      1500
+      1400,
+      1400
+    ],
+    "thumb_px": [
+      400,
+      400
+    ]
+  },
+  {
+    "file": "images/su-foliage.jpg",
+    "photo_id": 131431883,
+    "by": "Matt Webb",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/80201948",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
     ],
     "thumb_px": [
       300,
@@ -18,15 +35,15 @@
   },
   {
     "file": "images/fa-berries.jpg",
-    "photo_id": "235445739",
-    "by": "Jared Lincenberg",
+    "photo_id": 226001195,
+    "by": "Teresa Jegelewicz Mayfield-Meyer",
     "license": "CC-BY",
-    "source": "https://www.inaturalist.org/photos/235445739",
+    "source": "https://www.inaturalist.org/observations/132725209",
     "dataset": "iNaturalist open data",
     "render": "original",
     "full_px": [
-      1125,
-      1500
+      1050,
+      1400
     ],
     "thumb_px": [
       300,
@@ -35,19 +52,19 @@
   },
   {
     "file": "images/wi-stems.jpg",
-    "photo_id": "40355647",
-    "by": "Tyler Bishop",
-    "license": "CC-BY",
-    "source": "https://www.inaturalist.org/photos/40355647",
+    "photo_id": 109757187,
+    "by": "carolyncw",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/67865199",
     "dataset": "iNaturalist open data",
     "render": "original",
     "full_px": [
-      1500,
-      1125
+      1050,
+      1400
     ],
     "thumb_px": [
-      400,
-      300
+      300,
+      400
     ]
   }
 ]

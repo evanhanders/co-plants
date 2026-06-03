@@ -69,24 +69,24 @@
       "link": "https://www.inaturalist.org/observations/134452988"
     },
     {
-      "local": "images/fa-pods-t.jpg",
-      "full": "images/fa-pods.jpg",
-      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/399123752/large.jpg",
+      "local": "images/fa-hips-t.jpg",
+      "full": "images/fa-hips.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/98957597/large.jpg",
       "s": "fall",
-      "cap": "Fall — red hips clustering on the canes · © ElizabethR (CC-BY-NC) / iNaturalist",
-      "by": "ElizabethR",
-      "lic": "CC-BY-NC",
-      "link": "https://www.inaturalist.org/observations/225138296"
+      "cap": "Fall — red hips & colouring leaves · © Bob Walker (CC-BY) / iNaturalist",
+      "by": "Bob Walker",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/photos/98957597"
     },
     {
-      "local": "images/wi-habit-t.jpg",
-      "full": "images/wi-habit.jpg",
-      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/18704535/large.jpg",
+      "local": "images/wi-hip-t.jpg",
+      "full": "images/wi-hip.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/179309887/large.jpeg",
       "s": "winter",
-      "cap": "Winter — hips persisting on bare canes · © no rights reserved (CC0) / iNaturalist",
-      "by": "no rights reserved",
-      "lic": "CC0",
-      "link": "https://www.inaturalist.org/observations/12883163"
+      "cap": "Winter — a hip persisting into the snow · © Corey Farwell (CC-BY) / iNaturalist",
+      "by": "Corey Farwell",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/photos/179309887"
     }
   ],
   "commons": "Wild rose Rosa woodsii closeup.jpg"

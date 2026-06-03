@@ -49,7 +49,7 @@
       "full": "images/sp-flower.jpg",
       "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/469420326/large.jpg",
       "s": "spring",
-      "cap": "Spring — small pink urn-shaped flowers nestled among glossy evergreen leaves · © Jared Shorma (CC-BY) / iNaturalist · © Jared Shorma (CC-BY) / iNaturalist",
+      "cap": "Spring — small pink urn-shaped flowers nestled among glossy evergreen leaves · © Jared Shorma (CC-BY) / iNaturalist",
       "by": "Jared Shorma",
       "lic": "CC-BY",
       "link": "https://www.inaturalist.org/observations/261303391"
@@ -59,7 +59,7 @@
       "full": "images/su-habit.jpg",
       "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/289510510/large.jpeg",
       "s": "summer",
-      "cap": "Summer — dense low mat hugging rocky ground, showing the groundcover spread · © Alexander Wentworth (CC-BY) / iNaturalist · © Alexander Wentworth (CC-BY) / iNaturalist",
+      "cap": "Summer — dense low mat hugging rocky ground, showing the groundcover spread · © Alexander Wentworth (CC-BY) / iNaturalist",
       "by": "Alexander Wentworth",
       "lic": "CC-BY",
       "link": "https://www.inaturalist.org/observations/167141307"
@@ -67,12 +67,12 @@
     {
       "local": "images/fa-pods-t.jpg",
       "full": "images/fa-pods.jpg",
-      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/519385974/large.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/97725957/large.jpg",
       "s": "fall",
-      "cap": "Fall — bright red berries against glossy dark-green leaves, with autumn bronze tones · © Anders Hastings (CC-BY) / iNaturalist · © Anders Hastings (CC-BY) / iNaturalist",
-      "by": "Anders Hastings",
-      "lic": "CC-BY",
-      "link": "https://www.inaturalist.org/observations/288796996"
+      "cap": "Fall — a maturing red berry among glossy rounded leaves and reddish autumn stems · © ouellet_k (CC-BY-NC) / iNaturalist",
+      "by": "ouellet_k",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/61091011"
     }
   ]
 }

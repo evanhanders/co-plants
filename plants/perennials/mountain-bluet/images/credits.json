@@ -35,19 +35,19 @@
   },
   {
     "file": "images/sp-foliage.jpg",
-    "photo_id": 6475262,
-    "by": "Tuomo Virtanen",
+    "photo_id": 31994435,
+    "by": "Kat",
     "license": "CC-BY-NC",
-    "source": "https://www.inaturalist.org/observations/5236609",
+    "source": "https://www.inaturalist.org/observations/20749387",
     "dataset": "iNaturalist open data",
     "render": "original",
     "full_px": [
-      1200,
-      728
+      1400,
+      1050
     ],
     "thumb_px": [
       400,
-      243
+      300
     ]
   },
   {

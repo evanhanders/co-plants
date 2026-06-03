@@ -1,36 +1,53 @@
 [
   {
-    "file": "images/sp-close.jpg",
-    "photo_id": 111965022,
-    "by": "fotis-samaritakis",
+    "file": "images/sp-bloom.jpg",
+    "photo_id": 668086123,
+    "by": "rapideyemold",
     "license": "CC-BY-NC",
-    "source": "https://www.inaturalist.org/observations/69055406",
-    "dataset": "iNaturalist open data",
-    "render": "original",
-    "full_px": [
-      1100,
-      1084
-    ],
-    "thumb_px": [
-      400,
-      394
-    ]
-  },
-  {
-    "file": "images/sp-structure.jpg",
-    "photo_id": 121880275,
-    "by": "Todd Boland",
-    "license": "CC-BY",
-    "source": "https://www.inaturalist.org/observations/74565196",
+    "source": "https://www.inaturalist.org/observations/365902803",
     "dataset": "iNaturalist open data",
     "render": "original",
     "full_px": [
       1400,
-      1050
+      788
     ],
     "thumb_px": [
       400,
-      300
+      225
+    ]
+  },
+  {
+    "file": "images/sp-flower.jpg",
+    "photo_id": 641633341,
+    "by": "miles_chung",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/351593060",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      787,
+      1400
+    ],
+    "thumb_px": [
+      225,
+      400
+    ]
+  },
+  {
+    "file": "images/sp-foliage.jpg",
+    "photo_id": 502853908,
+    "by": "Sofia Gualano",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/280003782",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
     ]
   }
 ]

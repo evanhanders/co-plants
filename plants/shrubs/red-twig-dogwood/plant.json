@@ -48,32 +48,42 @@
     {
       "local": "images/su-flowers-t.jpg",
       "full": "images/su-flowers.jpg",
-      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/137521452/large.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/196773183/large.jpg",
       "s": "summer",
-      "cap": "Summer — flat white flower cymes · © Asher P Higgins (CC-BY) / iNaturalist",
-      "by": "Asher P Higgins",
-      "lic": "CC-BY",
-      "link": "https://www.inaturalist.org/photos/137521452"
+      "cap": "Summer — face-on white flower cyme with pollinator · © shawnann74 (CC-BY-NC) / iNaturalist",
+      "by": "shawnann74",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/116564411"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/131431883/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — ovate leaves on red-tinged stems, summer foliage · © Matt Webb (CC-BY-NC) / iNaturalist",
+      "by": "Matt Webb",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/80201948"
     },
     {
       "local": "images/fa-berries-t.jpg",
       "full": "images/fa-berries.jpg",
-      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/235445739/large.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/226001195/large.jpg",
       "s": "fall",
-      "cap": "Fall — white berries & red-purple foliage · © Jared Lincenberg (CC-BY) / iNaturalist",
-      "by": "Jared Lincenberg",
+      "cap": "Fall — the white berries — signature food source for birds · © Teresa Jegelewicz Mayfield-Meyer (CC-BY) / iNaturalist",
+      "by": "Teresa Jegelewicz Mayfield-Meyer",
       "lic": "CC-BY",
-      "link": "https://www.inaturalist.org/photos/235445739"
+      "link": "https://www.inaturalist.org/observations/132725209"
     },
     {
       "local": "images/wi-stems-t.jpg",
       "full": "images/wi-stems.jpg",
-      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/40355647/large.jpeg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/109757187/large.jpg",
       "s": "winter",
-      "cap": "Bare season — the signature red stems · © Tyler Bishop (CC-BY) / iNaturalist",
-      "by": "Tyler Bishop",
-      "lic": "CC-BY",
-      "link": "https://www.inaturalist.org/photos/40355647"
+      "cap": "Winter — fiery red stems against snow, the signature display · © carolyncw (CC-BY-NC) / iNaturalist",
+      "by": "carolyncw",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/67865199"
     }
   ],
   "commons": "Cornus sericea - red osier dogwood - 1.jpg"

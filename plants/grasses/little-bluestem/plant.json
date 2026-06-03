@@ -42,34 +42,44 @@
   ],
   "shots": [
     {
-      "local": "images/su-clump-t.jpg",
-      "full": "images/su-clump.jpg",
-      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/225529037/large.jpeg",
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/577326818/large.jpg",
       "s": "summer",
-      "cap": "Summer — upright blue-green clump · © Alaina Krakowiak (CC-BY) / iNaturalist",
-      "by": "Alaina Krakowiak",
+      "cap": "Summer — upright blue-green bunchgrass clump · © Jes Gray (CC-BY) / iNaturalist",
+      "by": "Jes Gray",
       "lic": "CC-BY",
-      "link": "https://www.inaturalist.org/photos/225529037"
+      "link": "https://www.inaturalist.org/observations/319383496"
     },
     {
-      "local": "images/fa-clump-t.jpg",
-      "full": "images/fa-clump.jpg",
-      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/52748797/large.jpg",
+      "local": "images/fa-habit-t.jpg",
+      "full": "images/fa-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/492621911/large.jpeg",
       "s": "fall",
-      "cap": "Fall — coppery autumn colour · © Jared Shorma (CC-BY) / iNaturalist",
-      "by": "Jared Shorma",
-      "lic": "CC-BY",
-      "link": "https://www.inaturalist.org/photos/52748797"
+      "cap": "Fall — vivid copper-orange clump · © Kevin G. Borchert (CC-BY-NC) / iNaturalist",
+      "by": "Kevin G. Borchert",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/273973107"
     },
     {
-      "local": "images/wi-seedhead-t.jpg",
-      "full": "images/wi-seedhead.jpg",
+      "local": "images/fa-pods-t.jpg",
+      "full": "images/fa-pods.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/99636596/large.jpg",
+      "s": "fall",
+      "cap": "Fall — close detail of silver-tufted seedheads on copper stems · © thecaiman1 (CC-BY-NC) / iNaturalist",
+      "by": "thecaiman1",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/62204915"
+    },
+    {
+      "local": "images/wi-habit-t.jpg",
+      "full": "images/wi-habit.jpg",
       "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/58931161/large.jpg",
       "s": "winter",
-      "cap": "Winter — coppery clump & silvery seedheads · © Steve Taylor (CC-BY) / iNaturalist",
+      "cap": "Winter — coppery clump and silvery seedheads · © Steve Taylor (CC-BY) / iNaturalist",
       "by": "Steve Taylor",
       "lic": "CC-BY",
-      "link": "https://www.inaturalist.org/photos/58931161"
+      "link": "https://www.inaturalist.org/observations/37198343"
     }
   ],
   "commons": "Schizachyrium scoparium kz3.jpg"

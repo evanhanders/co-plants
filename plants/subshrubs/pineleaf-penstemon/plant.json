@@ -79,6 +79,16 @@
       "by": "scottysmith",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/188573333"
+    },
+    {
+      "local": "images/wi-winter-t.jpg",
+      "full": "images/wi-winter.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/601626218/large.jpg",
+      "s": "winter",
+      "cap": "Winter — the fine, evergreen pine-like needle foliage persisting through the cold, taking on a faint purple winter tint · © Zanna Vargas (CC-BY-NC) / iNaturalist",
+      "by": "Zanna Vargas",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/331618500"
     }
   ]
 }

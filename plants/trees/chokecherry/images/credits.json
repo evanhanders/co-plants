@@ -1,5 +1,12 @@
 [
   {
+    "file": "images/su-habit.jpg",
+    "by": "Matt Lavin from Bozeman, Montana, USA",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Prunus_virginiana_-_chokecherry_-_Flickr_-_Matt_Lavin_(7).jpg",
+    "via": "Wikimedia Commons"
+  },
+  {
     "file": "images/sp-flowers.jpg",
     "photo_id": "644226685",
     "by": "Alissa Iverson",
@@ -15,6 +22,20 @@
       301,
       400
     ]
+  },
+  {
+    "file": "images/sp-flowers2.jpg",
+    "by": "Eric Schmidt",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/observations/164748764",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/sp-foliage.jpg",
+    "by": "Matt Webb",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/23555768",
+    "via": "iNaturalist"
   },
   {
     "file": "images/su-fruit.jpg",
@@ -51,38 +72,17 @@
     ]
   },
   {
-    "file": "images/sp-habit.jpg",
-    "by": "mmd1330",
-    "license": "CC-BY-NC",
-    "source": "https://www.inaturalist.org/observations/117483586",
-    "via": "iNaturalist"
-  },
-  {
-    "file": "images/su-habit.jpg",
-    "by": "Matt Lavin from Bozeman, Montana, USA",
-    "license": "CC BY-SA 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Prunus_virginiana_-_chokecherry_-_Flickr_-_Matt_Lavin_(7).jpg",
-    "via": "Wikimedia Commons"
-  },
-  {
-    "file": "images/sp-foliage.jpg",
-    "by": "Matt Webb",
-    "license": "CC-BY-NC",
-    "source": "https://www.inaturalist.org/observations/23555768",
-    "via": "iNaturalist"
-  },
-  {
-    "file": "images/sp-flowers2.jpg",
-    "by": "Eric Schmidt",
-    "license": "CC-BY",
-    "source": "https://www.inaturalist.org/observations/164748764",
-    "via": "iNaturalist"
-  },
-  {
     "file": "images/fa-color.jpg",
     "by": "johnson_annabeth",
     "license": "CC-BY-NC",
     "source": "https://www.inaturalist.org/observations/368104425",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/sp-flower-closeup.jpg",
+    "by": "Sue Janssen",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/354722855",
     "via": "iNaturalist"
   }
 ]

@@ -17,6 +17,13 @@
     ]
   },
   {
+    "file": "images/su-flowers2.jpg",
+    "by": "Stan Shebs",
+    "license": "CC-BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Perovskia_atriplicifolia_3.jpg",
+    "via": "Wikimedia Commons"
+  },
+  {
     "file": "images/su-flowers.jpg",
     "photo_id": "544531984",
     "by": "Eleanor Pate",
@@ -51,10 +58,10 @@
     ]
   },
   {
-    "file": "images/su-flowers2.jpg",
-    "by": "Stan Shebs",
-    "license": "CC-BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Perovskia_atriplicifolia_3.jpg",
+    "file": "images/su-foliage.jpg",
+    "by": "Doronenko",
+    "license": "CC-BY-2.5",
+    "source": "https://commons.wikimedia.org/wiki/File:Perovskia_atriplicifolia_leave.jpg",
     "via": "Wikimedia Commons"
   }
 ]

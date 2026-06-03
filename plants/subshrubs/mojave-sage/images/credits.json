@@ -1,22 +1,5 @@
 [
   {
-    "file": "images/su-flowers.jpg",
-    "photo_id": 428555487,
-    "by": "seasand66",
-    "license": "CC-BY",
-    "source": "https://www.inaturalist.org/observations/240535360",
-    "dataset": "iNaturalist open data",
-    "render": "original",
-    "full_px": [
-      1050,
-      1400
-    ],
-    "thumb_px": [
-      300,
-      400
-    ]
-  },
-  {
     "file": "images/su-habit.jpg",
     "photo_id": 222866116,
     "by": "lilygale",
@@ -34,11 +17,11 @@
     ]
   },
   {
-    "file": "images/su-foliage.jpg",
-    "photo_id": 71206275,
-    "by": "Erik Meling",
-    "license": "CC-BY-NC",
-    "source": "https://www.inaturalist.org/observations/44917371",
+    "file": "images/su-flowers.jpg",
+    "photo_id": 428555487,
+    "by": "seasand66",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/observations/240535360",
     "dataset": "iNaturalist open data",
     "render": "original",
     "full_px": [
@@ -49,6 +32,13 @@
       300,
       400
     ]
+  },
+  {
+    "file": "images/su-bloom.jpg",
+    "by": "jbmoreau",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/123048291",
+    "via": "iNaturalist"
   },
   {
     "file": "images/su-flower.jpg",
@@ -68,32 +58,21 @@
     ]
   },
   {
-    "file": "images/su-flowers.jpg",
-    "by": "Christian Schwarz",
-    "license": "CC-BY-NC",
-    "source": "https://www.inaturalist.org/observations/186481397",
-    "via": "iNaturalist"
-  },
-  {
-    "file": "images/su-bloom.jpg",
-    "by": "jbmoreau",
-    "license": "CC-BY-NC",
-    "source": "https://www.inaturalist.org/observations/123048291",
-    "via": "iNaturalist"
-  },
-  {
-    "file": "images/su-flower.jpg",
-    "by": "als93",
-    "license": "CC-BY",
-    "source": "https://www.inaturalist.org/observations/14613698",
-    "via": "iNaturalist"
-  },
-  {
     "file": "images/su-foliage.jpg",
+    "photo_id": 71206275,
     "by": "Erik Meling",
     "license": "CC-BY-NC",
-    "source": "https://www.inaturalist.org/observations/211649064",
-    "via": "iNaturalist"
+    "source": "https://www.inaturalist.org/observations/44917371",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
   },
   {
     "file": "images/fa-fall.jpg",

@@ -34,23 +34,6 @@
     ]
   },
   {
-    "file": "images/su-flower.jpg",
-    "photo_id": 546141794,
-    "by": "titus9",
-    "license": "CC-BY-NC",
-    "source": "https://www.inaturalist.org/observations/303021960",
-    "dataset": "iNaturalist open data",
-    "render": "original",
-    "full_px": [
-      1400,
-      1050
-    ],
-    "thumb_px": [
-      400,
-      300
-    ]
-  },
-  {
     "file": "images/su-foliage.jpg",
     "photo_id": 546141886,
     "by": "titus9",

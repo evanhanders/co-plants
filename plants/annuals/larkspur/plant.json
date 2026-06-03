@@ -83,6 +83,36 @@
       "by": "chardwood",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/43985350"
+    },
+    {
+      "local": "images/su-foliage2-t.jpg",
+      "full": "images/su-foliage2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/532834254/original.jpg",
+      "s": "summer",
+      "cap": "Summer — close-up of the deeply-divided, thread-like ferny foliage · © Martin A. Prinz (CC-BY-NC) / iNat",
+      "by": "Martin A. Prinz",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/photos/532834254"
+    },
+    {
+      "local": "images/su-habit2-t.jpg",
+      "full": "images/su-habit2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/539054624/original.jpg",
+      "s": "summer",
+      "cap": "Summer — garden clump showing whole-plant form: ferny foliage at the base and purple and white flower spires · © bauerku (CC-BY-NC) / iNat",
+      "by": "bauerku",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/photos/539054624"
+    },
+    {
+      "local": "images/su-pods-t.jpg",
+      "full": "images/su-pods.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/531713407/original.jpg",
+      "s": "summer",
+      "cap": "Summer — three green follicle seed pods on the stem, the distinctive fruit of larkspur · © Michal Ducháček (CC-BY-NC) / iNat",
+      "by": "Michal Ducháček",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/photos/531713407"
     }
   ]
 }

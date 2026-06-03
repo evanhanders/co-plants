@@ -81,6 +81,26 @@
       "by": "alexmoen",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/79832199"
+    },
+    {
+      "local": "images/sp-habit-t.jpg",
+      "full": "images/sp-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/109655334/large.jpg",
+      "s": "spring",
+      "cap": "Late spring — a mass of orange oriental poppies in full bloom, showing garden scale and colony habit · © Stephen Hauptli (CC-BY-NC) / iNat",
+      "by": "Stephen Hauptli",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/66982073"
+    },
+    {
+      "local": "images/sp-bloom2-t.jpg",
+      "full": "images/sp-bloom2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/311958760/large.jpg",
+      "s": "spring",
+      "cap": "Late spring — multiple scarlet blooms face-on, showing fringed petals and inky basal blotches · © blueghen (CC-BY-NC) / iNat",
+      "by": "blueghen",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/181239753"
     }
   ],
   "commons": "Papaver orientale - oriental poppy.jpg"

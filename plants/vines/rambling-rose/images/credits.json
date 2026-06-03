@@ -38,5 +38,19 @@
       400,
       300
     ]
+  },
+  {
+    "file": "images/su-foliage.jpg",
+    "by": "Graham Buck",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/243781099",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/fa-hips.jpg",
+    "by": "toadyboys",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/50183083",
+    "via": "iNaturalist"
   }
 ]

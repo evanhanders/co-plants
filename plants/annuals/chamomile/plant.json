@@ -46,26 +46,6 @@
   ],
   "shots": [
     {
-      "local": "images/su-foliage-t.jpg",
-      "full": "images/su-foliage.jpg",
-      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/127456778/large.jpeg",
-      "s": "summer",
-      "cap": "Summer — ferny, finely divided foliage and wiry stems · © Papageorgiou Nikolaos (CC-BY-NC) / iNaturalist",
-      "by": "Papageorgiou Nikolaos",
-      "lic": "CC-BY-NC",
-      "link": "https://www.inaturalist.org/observations/77916172"
-    },
-    {
-      "local": "images/su-bloom-t.jpg",
-      "full": "images/su-bloom.jpg",
-      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/127477928/large.jpeg",
-      "s": "summer",
-      "cap": "Summer — a drift of chamomile flowers, showing how it naturalizes in drifts · © Papageorgiou Nikolaos (CC-BY-NC) / iNaturalist",
-      "by": "Papageorgiou Nikolaos",
-      "lic": "CC-BY-NC",
-      "link": "https://www.inaturalist.org/observations/77931581"
-    },
-    {
       "local": "images/su-habit-t.jpg",
       "full": "images/su-habit.jpg",
       "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/600343239/large.jpg",
@@ -84,6 +64,26 @@
       "by": "Eleftherios Katsillis",
       "lic": "CC-BY",
       "link": "https://www.inaturalist.org/observations/200977490"
+    },
+    {
+      "local": "images/su-bloom-t.jpg",
+      "full": "images/su-bloom.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/127477928/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — a drift of chamomile flowers, showing how it naturalizes in drifts · © Papageorgiou Nikolaos (CC-BY-NC) / iNaturalist",
+      "by": "Papageorgiou Nikolaos",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/77931581"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/127456778/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — ferny, finely divided foliage and wiry stems · © Papageorgiou Nikolaos (CC-BY-NC) / iNaturalist",
+      "by": "Papageorgiou Nikolaos",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/77916172"
     }
   ]
 }

@@ -69,6 +69,16 @@
       "by": "Chris W.",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/26019192"
+    },
+    {
+      "local": "images/su-pods-t.jpg",
+      "full": "images/su-pods.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/183547324/large.jpg",
+      "s": "summer",
+      "cap": "Summer — open snapdragon flowers alongside the rounded two-chambered seed capsules on branching stems · © no rights reserved (CC0) / iNat",
+      "by": "no rights reserved",
+      "lic": "CC0",
+      "link": "https://www.inaturalist.org/photos/183547324"
     }
   ],
   "commons": "Snapdragon -- Antirrhinum majus.jpg"

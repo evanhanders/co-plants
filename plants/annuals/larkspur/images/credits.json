@@ -66,5 +66,26 @@
       300,
       400
     ]
+  },
+  {
+    "file": "images/su-foliage2.jpg",
+    "by": "Martin A. Prinz",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/photos/532834254",
+    "via": "iNat"
+  },
+  {
+    "file": "images/su-habit2.jpg",
+    "by": "bauerku",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/photos/539054624",
+    "via": "iNat"
+  },
+  {
+    "file": "images/su-pods.jpg",
+    "by": "Michal Ducháček",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/photos/531713407",
+    "via": "iNat"
   }
 ]

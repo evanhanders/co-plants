@@ -59,6 +59,26 @@
       "by": "Guillaume Labeyrie",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/224642516"
+    },
+    {
+      "local": "images/su-seedheads-t.jpg",
+      "full": "images/su-seedheads.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/398174518/large.jpg",
+      "s": "summer",
+      "cap": "Summer — close-up of airy oat-like spikelets, the delicate seed sprays that give the plant its name · © Guillaume Labeyrie (CC-BY-NC) / iNaturalist",
+      "by": "Guillaume Labeyrie",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/224642516"
+    },
+    {
+      "local": "images/fa-fall-clump-t.jpg",
+      "full": "images/fa-fall-clump.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/612702301/large.jpg",
+      "s": "fall",
+      "cap": "Fall — steel-blue mound with arching seedheads in a garden setting, showing form into autumn · © Franck Le Driant (CC-BY-NC) / iNaturalist",
+      "by": "Franck Le Driant",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/337012049"
     }
   ]
 }

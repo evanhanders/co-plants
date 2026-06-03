@@ -49,5 +49,26 @@
       301,
       400
     ]
+  },
+  {
+    "file": "images/su-foliage.jpg",
+    "by": "Stephen Fricker",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/42694025",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/fa-seedheads.jpg",
+    "by": "Mathieu Gilbert",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/126456437",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/su-mass.jpg",
+    "by": "Sara Fonseca",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/69050703",
+    "via": "iNaturalist"
   }
 ]

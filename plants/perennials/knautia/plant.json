@@ -49,16 +49,6 @@
       "link": "https://www.inaturalist.org/observations/219954763"
     },
     {
-      "local": "images/su-foliage-t.jpg",
-      "full": "images/su-foliage.jpg",
-      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/521711461/large.jpg",
-      "s": "summer",
-      "cap": "Summer — pinnate grey-green leaf showing narrow leaflets; characteristic knautia foliage · © Elizabeth Buhr (CC-BY-NC) / iNaturalist",
-      "by": "Elizabeth Buhr",
-      "lic": "CC-BY-NC",
-      "link": "https://www.inaturalist.org/observations/290032651"
-    },
-    {
       "local": "images/su-bloom-t.jpg",
       "full": "images/su-bloom.jpg",
       "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/385346266/large.jpg",
@@ -77,6 +67,16 @@
       "by": "no rights reserved",
       "lic": "CC0",
       "link": "https://www.inaturalist.org/observations/182709489"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/521711461/large.jpg",
+      "s": "summer",
+      "cap": "Summer — pinnate grey-green leaf showing narrow leaflets; characteristic knautia foliage · © Elizabeth Buhr (CC-BY-NC) / iNaturalist",
+      "by": "Elizabeth Buhr",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/290032651"
     },
     {
       "local": "images/su-drift-t.jpg",

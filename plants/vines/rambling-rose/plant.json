@@ -63,6 +63,26 @@
       "by": "T.Kiya",
       "lic": "CC BY-SA 2.0",
       "link": "https://commons.wikimedia.org/wiki/File:Rose,_Paul%27s_Himalayan_Musk_Rambler,_%E3%83%90%E3%83%A9,_%E3%83%9D%E3%83%BC%E3%83%AB%E3%82%BA_%E3%83%92%E3%83%9E%E3%83%A9%E3%83%A4%E3%83%B3_%E3%83%A0%E3%82%B9%E3%82%AF_%E3%83%A9%E3%83%B3%E3%83%96%E3%83%A9%E3%83%BC,_(23747807260).jpg"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/438385548/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — compound rose leaf with serrated leaflets, characteristic of rambling roses · © Graham Buck (CC-BY-NC) / iNaturalist",
+      "by": "Graham Buck",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/243781099"
+    },
+    {
+      "local": "images/fa-hips-t.jpg",
+      "full": "images/fa-hips.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/81064455/large.jpg",
+      "s": "fall",
+      "cap": "Fall — orange-red hips ripening on arching canes alongside late flowers, showing seasonal interest · © toadyboys (CC-BY-NC) / iNaturalist",
+      "by": "toadyboys",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/50183083"
     }
   ],
   "commons": "Albertine rose North Yorkshire 30 June 2023 (3).JPG"

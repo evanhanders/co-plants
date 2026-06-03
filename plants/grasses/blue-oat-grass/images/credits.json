@@ -49,5 +49,19 @@
       400,
       267
     ]
+  },
+  {
+    "file": "images/su-seedheads.jpg",
+    "by": "Guillaume Labeyrie",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/224642516",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/fa-fall-clump.jpg",
+    "by": "Franck Le Driant",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/337012049",
+    "via": "iNaturalist"
   }
 ]

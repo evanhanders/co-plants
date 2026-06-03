@@ -75,6 +75,16 @@
       "by": "Todd Boland",
       "lic": "CC-BY",
       "link": "https://www.inaturalist.org/observations/25512773"
+    },
+    {
+      "local": "images/sp-foliage2-t.jpg",
+      "full": "images/sp-foliage2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/586910311/large.jpg",
+      "s": "spring",
+      "cap": "Spring — close-up of the small rounded, scalloped leaves of the evergreen mat alongside spent flowers · © Felix Riegel (CC-BY-NC) / iNat",
+      "by": "Felix Riegel",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/130093494"
     }
   ]
 }

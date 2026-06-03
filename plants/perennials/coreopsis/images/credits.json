@@ -49,5 +49,26 @@
       300,
       400
     ]
+  },
+  {
+    "file": "images/su-habit.jpg",
+    "by": "Theo Witsell",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/199994283",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/su-foliage.jpg",
+    "by": "Theo Witsell",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/46700780",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/su-mass.jpg",
+    "by": "Matt Tomlinson",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/163742050",
+    "via": "iNaturalist"
   }
 ]

@@ -60,6 +60,36 @@
       "by": "zebedeugalinha",
       "lic": "CC-BY",
       "link": "https://www.inaturalist.org/observations/363348968"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/69563071/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — glaucous blue-grey foliage with fluffy achene seedheads above · © Stephen Fricker (CC-BY-NC) / iNaturalist",
+      "by": "Stephen Fricker",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/42694025"
+    },
+    {
+      "local": "images/fa-seedheads-t.jpg",
+      "full": "images/fa-seedheads.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/216765511/large.jpeg",
+      "s": "fall",
+      "cap": "Fall — fluffy dandelion-like achene seedheads on tall branching stems · © Mathieu Gilbert (CC-BY-NC) / iNaturalist",
+      "by": "Mathieu Gilbert",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/126456437"
+    },
+    {
+      "local": "images/su-mass-t.jpg",
+      "full": "images/su-mass.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/115117841/large.jpg",
+      "s": "summer",
+      "cap": "Summer — dense garden mass of rose-red corymbs, showing bloom-in-context · © Sara Fonseca (CC-BY-NC) / iNaturalist",
+      "by": "Sara Fonseca",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/69050703"
     }
   ]
 }

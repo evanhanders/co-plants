@@ -53,24 +53,34 @@
       "link": "https://www.inaturalist.org/observations/161929368"
     },
     {
-      "local": "images/su-bloom-t.jpg",
-      "full": "images/su-bloom.jpg",
-      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/204307518/large.jpeg",
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/349815963/large.jpg",
       "s": "summer",
-      "cap": "Summer — fresh face-on golden daisy, orange disc, narrow foliage visible · © Alan Prather (CC-BY) / iNaturalist",
-      "by": "Alan Prather",
-      "lic": "CC-BY",
-      "link": "https://www.inaturalist.org/observations/120773059"
+      "cap": "Summer — whole plant showing wiry branching stems and golden daisies above grass · © Theo Witsell (CC-BY-NC) / iNaturalist",
+      "by": "Theo Witsell",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/199994283"
     },
     {
       "local": "images/su-foliage-t.jpg",
       "full": "images/su-foliage.jpg",
-      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/279905916/large.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/75484027/large.jpg",
       "s": "summer",
-      "cap": "Summer — thread-fine narrow linear foliage · © no rights reserved (CC0) / iNaturalist",
-      "by": "no rights reserved",
-      "lic": "CC0",
-      "link": "https://www.inaturalist.org/observations/161911673"
+      "cap": "Summer — narrow thread-fine foliage and flower buds on wiry stems · © Theo Witsell (CC-BY-NC) / iNaturalist",
+      "by": "Theo Witsell",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/46700780"
+    },
+    {
+      "local": "images/su-mass-t.jpg",
+      "full": "images/su-mass.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/284681275/large.jpg",
+      "s": "summer",
+      "cap": "Summer — golden mass and drift of coreopsis in full bloom · © Matt Tomlinson (CC-BY-NC) / iNaturalist",
+      "by": "Matt Tomlinson",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/163742050"
     }
   ]
 }

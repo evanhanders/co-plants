@@ -1,5 +1,8 @@
 # Image audit — scorecard
 
+> **Update (2026-06-03):** all 16 poor + 37 fair plants below were re-sourced to 3–5 shots (whole-plant, foliage, face-on flower, plant-in-bloom, seed pods) per this audit and the rubric; correctness flags (wrong species/form, mislabels) fixed. Scores below are the *pre-rebuild* baseline. Re-run the image-audit agents to re-score.
+
+
 Every plant's current photo reel, scored 0–2 (or NA) on the image-quality rubric in CLAUDE.md → **whole · foliage · flowers · front-facing · bloom-in-context · seed-pods · thumb-framing**. Lower = a shot type to add or replace. Raw per-plant scores live in `IMAGE_AUDIT.json`.
 
 **Overall: 14 🟢 good · 38 🟡 fair · 16 🔴 poor** (of 68).

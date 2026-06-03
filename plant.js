@@ -9,10 +9,12 @@ const SITE_TITLE = 'The Front Range Herbarium';
    absent keys are skipped, so a plant fills in as many aspects as apply */
 const CARE_FIELDS = [
 ['hardiness','Hardiness'],
+['planting','When to plant out (ground & pots)'],
 ['sun','Sunlight'],
 ['soil','Soil'],
 ['water','Watering'],
 ['spacing','Spacing'],
+['propagation','Propagation'],
 ['sow','Sowing'],
 ['stratify','Seed preparation'],
 ['depth','Depth & germination'],

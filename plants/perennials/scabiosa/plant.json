@@ -1,0 +1,33 @@
+{
+  "common": "Pincushion flower",
+  "botanical": "Scabiosa columbaria",
+  "type": "Perennial",
+  "native": "Non-native",
+  "blurb": "A non-stop bloomer — lavender-blue pincushion flowers float on wiry stems from late spring to frost, drawing butterflies and bees all season long to this compact, easy-care Front Range perennial.",
+  "size": "12–15 in × 12–15 in",
+  "sun": "Full sun to part shade",
+  "water": "Low to moderate; drought-tolerant once established",
+  "spread": "Clumping; slowly expands but not aggressive",
+  "seasons": "Mound of ferny gray-green foliage spring through fall; lavender-blue flowers May–Oct; dies back to ground in winter",
+  "wildlife": "Outstanding butterfly and bee plant; a top nectar source for monarchs, swallowtails, and native bees",
+  "deer": "Generally deer-resistant",
+  "toxic": "",
+  "winter": false,
+  "verified": "2026-06-03",
+  "care": {
+    "hardiness": "Hardy to USDA zone 4 — very reliable across the Front Range (zones 5b–6a). Excellent cold tolerance combined with heat tolerance makes it unusually well-suited to Colorado's wide temperature swings. The compact cultivar 'Butterfly Blue' (Perennial Plant of the Year 2000) and 'Pink Mist' are the best-proven Front Range selections. Intolerant of wet winter soil; sharp drainage is critical for winter survival.",
+    "planting": "Plant in spring (Apr–May) or early fall (Sep) from nursery transplants. Spring is the most common approach; early fall planting works well in Boulder and lets roots establish before cold. Average, well-drained soil is all it needs — no special soil prep required. In containers, pincushion flower performs well as a seasonal display plant; overwinter pots in a protected spot or move them to an unheated garage, as exposed roots in a pot are far less cold-hardy than in-ground plants.",
+    "sun": "Full sun is ideal for maximum bloom — 6+ hours. It tolerates light afternoon shade, which can actually help prolong flowering during Boulder's hottest July stretches. Avoid deep shade, which reduces blooming dramatically.",
+    "soil": "Average, well-drained soil with a neutral pH suits it perfectly — Colorado's alkaline loam is a fine match. Good drainage is essential; it will not tolerate waterlogged or consistently wet soil, especially in winter, which causes crown rot. Lean to moderately fertile soil produces the best flowering; overly rich soil grows lush foliage at the expense of blooms.",
+    "water": "Low to moderate. Water regularly through the first growing season to establish deep roots; afterward, water deeply every 1–2 weeks in summer heat. Once established it is fairly drought-tolerant, but consistent moisture through the bloom season keeps flowering going. Avoid overhead watering and ensure no standing water around the crown in winter.",
+    "spacing": "Space plants 12–15 in apart — they form compact mounds that don't need much room. Works well at the front of a border or in a rock garden.",
+    "propagation": "Easiest from division in spring every 2–3 years, which also keeps the clump vigorous and free-flowering. Named cultivars like 'Butterfly Blue' are vegetatively propagated; the straight species can be grown from seed started indoors 4–6 weeks before last frost (mid-May around Boulder) or direct-sown in spring. Seeds germinate in 10–15 days at ~65–70°F.",
+    "bloom": "Late spring through frost — typically May into October on the Front Range, with a peak in June–July and again in September. This is one of the longest bloom seasons of any Front Range perennial. Regular deadheading is key to maintaining the continuous display.",
+    "feeding": "Light feeding. A single application of a balanced slow-release fertilizer in spring is sufficient. Avoid high-nitrogen fertilizers, which push foliage over flowers. Plants in average soil often need no feeding at all.",
+    "maintenance": "Deadhead spent flowers regularly by clipping stems down to the basal foliage — this is the most important task for keeping bloom continuous all season. Cut back any remaining flowering stems to the basal rosette in fall after frost; clean up dead foliage in early spring before new growth emerges. Divide every 2–3 years in spring to maintain vigor and prevent the center from dying out.",
+    "troubles": "No serious pest or disease problems on the Front Range. Watch for aphids on new growth and occasional powdery mildew in humid or crowded conditions — good airflow and sharp drainage prevent both. Root rot can occur in poorly drained or wet winter soil; ensure drainage is adequate. Short-lived perennial if drainage is not maintained."
+  },
+  "care_src": [
+    { "name": "Missouri Botanical Garden Plant Finder — Scabiosa 'Butterfly Blue'", "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=f490" }
+  ]
+}

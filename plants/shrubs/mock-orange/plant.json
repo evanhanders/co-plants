@@ -1,0 +1,34 @@
+{
+  "common": "Mock orange",
+  "botanical": "Philadelphus lewisii",
+  "type": "Shrub",
+  "native": "CO native",
+  "blurb": "One of the most powerfully fragrant native shrubs on the Front Range — billowy clusters of pure-white four-petaled flowers with citrus-sweet scent blanket the arching branches in early summer.",
+  "size": "5–9 ft × 5–8 ft",
+  "sun": "Full sun to part shade",
+  "water": "Low to moderate; drought-tolerant once established",
+  "spread": "Clumping; slowly suckering with age — well-behaved, not invasive",
+  "seasons": "Profuse white fragrant flowers Jun–Jul; lush green foliage summer; good yellow fall color; arching vase-shaped stems provide winter structure",
+  "wildlife": "White flowers attract native bees, bumble bees, and butterflies; dense branching offers nesting cover for songbirds",
+  "deer": "Deer-resistant; not preferred browse",
+  "toxic": "",
+  "winter": false,
+  "verified": "2026-06-03",
+  "care": {
+    "hardiness": "Hardy to USDA zone 3, surviving to at least 8,000 ft elevation in Colorado. The Plant Select 'Cheyenne' selection was chosen from a specimen that survived decades of neglect and drought at the Cheyenne Research Station — one of the toughest cultivars available for the Front Range. No winter protection needed.",
+    "planting": "Plant container-grown shrubs in spring (Apr–May) or early fall (Sep). Spring planting before summer heat gives roots the longest establishment window; fall planting works well too if watered through October. Water deeply every 7–10 days the first season to establish, then taper off. Container plants dry out fast and root-bound specimens are prone to stress; best planted in-ground promptly. Needs no special soil preparation beyond improving drainage in heavy clay.",
+    "sun": "Full sun gives the most flowers and the best form. Part shade (3–5 hrs sun) is tolerated and useful on the hot west or south side of a building; flowering is somewhat reduced. Avoid dense shade.",
+    "soil": "Adaptable to a wide range of soils — sandy loam, clay loam, or dry, gravelly ground. Tolerates the alkaline clay-loam typical of Front Range yards. The main requirement is decent drainage; it does not tolerate waterlogged soil in winter. No amendment is needed on average soil.",
+    "water": "Low to moderate once established — twice-monthly deep watering is usually sufficient after the first season in a typical Front Range yard. More in the first year and in sandy soils. Drought-tolerant, but consistent summer moisture improves flower production. Overwatering causes root problems.",
+    "spacing": "Space 5–8 ft apart; allow for the eventual 5–9 ft height and width. Plant as a specimen, at the back of a mixed border, or as an informal screen or hedge. The arching habit needs room to sweep; don't crowd it.",
+    "propagation": "Easiest from cuttings: softwood cuttings in July–August or hardwood cuttings in December both root readily. For seed, stratify in coarse sand at 41°F (~5°C) for 8 weeks before sowing in spring; germination is moderate. Layering also works — pin a low stem to the ground, sever when rooted. The 'Cheyenne' Plant Select cultivar is widely available at Colorado nurseries.",
+    "bloom": "June through early July on the Front Range, with sporadic rebloom into mid-July. Flowers set on the prior year's wood, so timing and method of pruning directly affects next year's display.",
+    "feeding": "Little to none needed. A light top-dressing of compost in spring is beneficial on poor soils; skip nitrogen-heavy fertilizer, which produces lush foliage at the expense of flowering.",
+    "maintenance": "Prune immediately after flowering ends (July) — never in fall or spring, which removes next year's flower buds. Remove spent flowering stems back to strong new growth or a main framework branch. Every 5 years, cut the oldest, woodiest canes to the ground in a renewal prune to keep the shrub vigorous and floriferous. The 'Cheyenne' selection stays tidy for many years with minimal pruning.",
+    "troubles": "Generally pest- and disease-free. Aphids occasionally cluster on new growth in spring; blast off with water. Scale insects are rare. Powdery mildew can appear in dense, humid spots — improve airflow by thinning. The most common failure is waterlogged soil or fall pruning that removes next year's flower buds."
+  },
+  "care_src": [
+    { "name": "Plant Select — Cheyenne® Mock Orange (Philadelphus lewisii 'PWY01S')", "url": "https://plantselect.org/plant/philadelphus-lewisii-pwy01s/" },
+    { "name": "Lady Bird Johnson Wildflower Center — Philadelphus lewisii", "url": "https://www.wildflower.org/plants/result.php?id_plant=phle4" }
+  ]
+}

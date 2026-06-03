@@ -1,0 +1,34 @@
+{
+  "common": "Brunnera",
+  "botanical": "Brunnera macrophylla",
+  "type": "Perennial",
+  "native": "Non-native",
+  "blurb": "Clouds of tiny forget-me-not-blue flowers drift above heart-shaped, often silver-splashed leaves each spring — the shade garden's most reliable early-season bloomer, provided it gets consistent moisture and protection from Boulder's afternoon sun.",
+  "size": "12–18 in × 18–30 in",
+  "sun": "Part shade to full shade",
+  "water": "Medium; consistent moisture required — not drought-tolerant",
+  "spread": "Slowly spreading by rhizomes; non-invasive ground cover",
+  "seasons": "Sprays of tiny blue flowers Apr–May; large ornamental heart-shaped leaves (often silver-marked) provide foliage interest spring through fall; dies back in winter",
+  "wildlife": "Small bees and pollinators visit the spring flowers; deer- and rabbit-resistant",
+  "deer": "Resistant",
+  "toxic": "",
+  "winter": false,
+  "verified": "2026-06-03",
+  "care": {
+    "hardiness": "Hardy to USDA Zone 3 (−40°F), extremely cold-hardy and reliable through Boulder's 5b–6a winters. The crown survives deep cold without protection. The challenge in Colorado is not cold but summer heat and drought: afternoon temperatures and low humidity can scorch the large leaves. Site selection (north or east aspect, building shade) matters more here than winter hardiness.",
+    "planting": "Plant in spring (Apr–May) or early fall (Sep) in a location with reliable shade and moisture. This is one of the few plants in the herbarium that needs amended, moisture-retentive soil — work in generous compost before planting and mulch immediately with 2–3 in of organic mulch to retain moisture and keep the root zone cool. Avoid south- or west-facing exposures. In containers, brunnera does well in part-shade patios with a rich potting mix; pots dry out fast in summer — check moisture daily and never let the mix go bone-dry. Move containers to a sheltered, cool spot for winter or sink the pot to insulate roots.",
+    "sun": "Part shade (2–4 hours of direct sun, preferably morning) to full shade. Morning sun is fine; afternoon sun in Boulder's intense high-altitude light scorches the leaves, especially in July–August. The silver-leaved cultivars ('Jack Frost', 'Looking Glass') are somewhat more sun-sensitive than the plain green species. A north- or east-facing bed, under a tree canopy, or on the shaded side of a building are all ideal.",
+    "soil": "Prefers consistently moist, organically rich, well-drained soil. Boulder's alkaline clay-loam can work if amended with significant compost to improve moisture retention and structure; the plant tolerates a wide pH range (acidic through alkaline). Avoid compacted clay that holds standing water after irrigation — crown rot is a risk in anaerobic conditions even though brunnera wants moisture.",
+    "water": "Medium to medium-high — soil should stay evenly moist but never waterlogged. In Boulder's semi-arid climate this means regular supplemental irrigation through the growing season (1–1.5 in per week in summer). Mulch is essential to reduce evaporation. Drought stress causes leaf scorch, wilting, and early dormancy — if the leaves look bleached and tatty in August, the plant is too dry or too sunny.",
+    "spacing": "Space plants 18–24 in apart. Clumps spread slowly by rhizomes to 18–30 in wide over several years, eventually forming a dense weed-suppressing ground cover under trees or in shaded borders.",
+    "propagation": "Easiest by division in early spring (March–April) just as new leaves emerge — dig the clump, separate rooted sections, and replant at the same depth. Root cuttings taken in late fall or early spring also work well. The species and green-leaved forms self-seed modestly; variegated cultivars ('Jack Frost', 'Looking Glass') are patented and cannot be legally propagated vegetatively — buy new plants for those.",
+    "bloom": "April through May on the Front Range — tiny, intensely blue forget-me-not flowers in airy sprays above the emerging foliage. The bloom period is 3–5 weeks. The foliage, especially silver-marked cultivars, is the main ornamental feature for the rest of the season.",
+    "feeding": "A light top-dressing of compost each spring is the best feeding strategy. Brunnera does not need or benefit from high-nitrogen fertilizers; rich organic soil at planting largely takes care of it. Avoid fertilizing in late summer or fall.",
+    "maintenance": "Remove any tattered or scorched leaves mid-summer — cut them at the base to allow fresh leaves to emerge. Cut the whole plant to the ground in fall after frost. Divide every 3–5 years when clumps become crowded or the center loses vigor. The main ongoing task in Boulder is water management: a consistent deep watering schedule and thick mulch layer determine whether brunnera thrives or struggles.",
+    "troubles": "Leaf scorch (brown, papery edges or bleached patches) is the most common problem in Colorado — caused by afternoon sun or drought, not disease. Slugs and snails occasionally damage leaves in moist sites; hand-pick or use iron phosphate bait. Rarely bothered by serious diseases. No deer or rabbit pressure. The plant may go semi-dormant in a very hot, dry August and re-flush with cooler September temperatures — this is normal, not fatal."
+  },
+  "care_src": [
+    { "name": "Missouri Botanical Garden Plant Finder — Brunnera macrophylla 'Jack Frost'", "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=m800" },
+    { "name": "NC State Extension Plant Toolbox — Brunnera macrophylla", "url": "https://plants.ces.ncsu.edu/plants/brunnera-macrophylla/" }
+  ]
+}

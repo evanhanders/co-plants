@@ -1,0 +1,34 @@
+{
+  "common": "Twinberry honeysuckle",
+  "botanical": "Lonicera involucrata",
+  "type": "Shrub",
+  "native": "CO native",
+  "blurb": "A bold native riparian shrub — pairs of yellow tubular flowers give way to glossy black twin berries cradled in showy deep-red bracts, a hummingbird and songbird magnet from flower to fruit.",
+  "size": "4–10 ft × 4–8 ft",
+  "sun": "Full sun to part shade",
+  "water": "Moderate to high; needs consistent moisture — ideal near seeps, streams, or irrigated beds",
+  "spread": "Slowly spreading by suckers; not invasive — stays in a clump-to-colony over time",
+  "seasons": "Paired yellow flowers May–Jul; shiny black twin berries in dark-red bracts Jul–Sep; yellow fall foliage; bare architectural stems in winter",
+  "wildlife": "Hummingbirds are the primary pollinator; bumble bees visit flowers; songbirds (thrushes, grosbeaks, robins) consume ripe berries; larval host for Gillette's checkerspot butterfly",
+  "deer": "Moderately deer-resistant; not preferred browse, though new growth may be sampled",
+  "toxic": "Berries mildly toxic to humans if eaten in quantity; not known to harm birds or wildlife",
+  "winter": false,
+  "verified": "2026-06-03",
+  "care": {
+    "hardiness": "Hardy to USDA zone 3 — native across Colorado's mountains and foothills including the Front Range, thriving from plains level to ~9,500 ft. No winter protection needed.",
+    "planting": "Plant container-grown shrubs in spring (Apr–May) or early fall (Sep) to allow root establishment before heat or hard frost. This shrub is most at home along streambanks, pond edges, and irrigated borders; give it the most reliably moist spot in the yard. In pots it dries out quickly and performs poorly — plant it in the ground where you can keep its roots consistently moist. Mulch 3–4 in deep to retain soil moisture.",
+    "sun": "Adaptable from full sun to part shade; in full sun on the hot, dry Front Range it must have consistent soil moisture to look its best. Part shade (3–6 hrs direct sun) reduces water stress and suits the streamside conditions this plant evolved in.",
+    "soil": "Prefers moist, fertile, well-drained to boggy soil. Unlike most Front Range shrubs it tolerates — and thrives in — consistently moist soils and even periodic wet feet. Tolerates a wide pH range and alkaline clay. Amend dry, sandy, or gravelly sites with compost to improve moisture retention.",
+    "water": "Regular moisture is essential — water deeply 1–2 times per week in summer heat until well established, then every 7–10 days during drought. This is not a xeric plant; siting it where it receives runoff, near a downspout, or on a drip zone keeps it healthiest. Mulch heavily to conserve moisture.",
+    "spacing": "Space 5–8 ft apart; plants mature to 4–10 ft tall and nearly as wide depending on moisture and light. Allow room for the shrub to spread slightly by suckering over time. It works well as a screening shrub along a fence or water feature.",
+    "propagation": "Easiest from softwood cuttings taken in early summer (June–July) or hardwood cuttings in late fall; both root readily under mist or with bottom heat. Seed requires cold-moist stratification (60 days at 33–41°F); sow in fall for natural overwintering or stratify in damp peat in the refrigerator and sow in spring. Berries ripen Aug–Sep — collect, macerate to free seeds, dry briefly, and sow or stratify. Rooted suckers can be dug and transplanted in early spring.",
+    "bloom": "May through July on the Front Range. Each pair of golden-yellow, tubular flowers is framed by two leafy bracts; the bracts deepen from green to dark red by late summer as the twin berries ripen, extending ornamental interest well into September.",
+    "feeding": "A light application of balanced slow-release fertilizer or compost in early spring supports vigorous growth on lean soils. Skip high-nitrogen feeding once established; too much nitrogen reduces flowering. Generally not needed on organically amended, moist soils.",
+    "maintenance": "Low maintenance once established in a moist site. Prune lightly immediately after flowering (July–Aug) to shape and remove dead wood; avoid heavy pruning in fall or it loses the berry show. Every 4–5 years cut the oldest, woodiest stems to the ground to rejuvenate. Remove suckers that stray out of bounds.",
+    "troubles": "Aphids, scales, and serpentine leaf miners occasionally appear; these are cosmetic and rarely need treatment — encourage natural predators. Powdery mildew can develop in crowded, low-airflow spots; thin the shrub and improve circulation. Drought stress is the main cultural problem on the Front Range: wilting, leaf scorch, and early leaf drop all signal insufficient water."
+  },
+  "care_src": [
+    { "name": "Lady Bird Johnson Wildflower Center — Lonicera involucrata", "url": "https://www.wildflower.org/plants/result.php?id_plant=loin5" },
+    { "name": "USDA Forest Service — Plant of the Week: Twinberry Honeysuckle", "url": "https://www.fs.usda.gov/wildflowers/plant-of-the-week/lonicera_involucrate.shtml" }
+  ]
+}

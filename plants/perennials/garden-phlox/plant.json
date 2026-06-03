@@ -1,0 +1,37 @@
+{
+  "common": "Garden phlox",
+  "botanical": "Phlox paniculata",
+  "type": "Perennial",
+  "native": "Non-native",
+  "blurb": "Stately, sweetly fragrant domed panicles in pink, white, or lavender crown 3-foot stems all summer — a classic butterfly magnet, though powdery-mildew-resistant cultivars are essential in Boulder's semi-arid climate.",
+  "size": "2–4 ft × 2–3 ft",
+  "sun": "Full sun",
+  "water": "Medium; consistent moisture, not drought-tolerant",
+  "spread": "Clumping; spreads slowly by crown; self-seeds but not aggressively (deadhead to limit)",
+  "seasons": "Large fragrant flower panicles Jul–Sep in pink, white, lavender, or red; foliage dies back to the ground in winter",
+  "wildlife": "Major butterfly and sphinx moth magnet; hummingbirds visit; bees work the flowers",
+  "deer": "Moderately deer-resistant; not a top choice but usually passed over",
+  "toxic": "",
+  "winter": false,
+  "verified": "2026-06-03",
+  "care": {
+    "hardiness": "Hardy to USDA Zone 4 (−30°F), well above Boulder's Zone 5b–6a minimum. Completely reliable here; the clump dies to the ground each fall and re-emerges reliably in spring. No winter protection needed.",
+    "planting": "Plant in spring (Apr–May) or early fall (Sep) to give roots time to establish before summer heat or winter cold. Work compost into the planting area — garden phlox wants richer, moister soil than most Front Range perennials. Mulch the root zone (2–3 in) to cool the soil and retain moisture, but keep mulch away from the base of stems to preserve airflow. Container plants transplant easily any time the weather is mild; water in well and keep consistently moist through the first season. Pots dry out faster than beds — water containers daily in summer heat, and overwinter container crowns in a sheltered spot or sink the pot to insulate roots.",
+    "sun": "Full sun is best for sturdy stems and maximum bloom — 6+ hours. Part shade (filtered or morning sun) is tolerated but produces fewer flowers and increases powdery mildew risk by reducing airflow and drying. Boulder's intense high-altitude sun suits it well provided the root zone stays cool and moist.",
+    "soil": "Prefers moderately fertile, moist, well-drained soil — average to rich loam with organic matter. Unlike most plants in this guide, garden phlox does NOT thrive in lean, dry, or alkaline clay without amendment. Work in generous compost or aged manure at planting and top-dress each spring. A neutral to slightly alkaline pH (6.0–7.5) is fine; overly acidic or compacted soils reduce vigor.",
+    "water": "Medium to medium-high — keep the root zone consistently moist, especially through the heat of Jul–Aug. Deep watering (1 in per week; more in heat) at the base is far better than frequent overhead watering. Drought stress invites spider mites and weakens powdery-mildew resistance. Summer mulch dramatically reduces watering frequency.",
+    "spacing": "Space 18–24 in apart and thin stems to 5–7 per clump each spring once shoots are 6 in tall. This spacing and thinning is the single most effective tool against powdery mildew — it opens airflow through the canopy. Crowded clumps in humid microclimates are mildew factories.",
+    "propagation": "Named cultivars do not come true from seed — propagate vegetatively. Division every 3–4 years in early spring (when shoots are 4–6 in tall) keeps clumps vigorous and renews disease resistance; replant the outer sections and discard the woody center. Root cuttings taken in early spring are also reliable. Stem cuttings (3–4 in tip cuttings in early summer) root in a few weeks in moist mix.",
+    "bloom": "July through September on the Front Range — one of the longest-blooming summer perennials. Deadhead spent panicles promptly to the next side bud to encourage additional flushes and to prevent self-seeding (seedlings rarely match the parent cultivar in color or mildew resistance).",
+    "feeding": "A balanced slow-release fertilizer worked in at planting, then a light top-dressing of compost each spring, is sufficient. Avoid excess nitrogen mid-season, which drives lush new growth that is especially vulnerable to powdery mildew.",
+    "maintenance": "Cut plants to the ground in fall and remove all foliage from the garden (do not compost it — mildew spores overwinter in debris). Thin stems to 5–7 per clump each spring. Deadhead through summer. Divide every 3–4 years. For mildew-resistant cultivar choices in Colorado, look for 'David' (white), 'David's Lavender', 'Jeana' (pink), and 'Robert Poore' (purple) — all perform better than older heirlooms in semi-arid heat.",
+    "selfsow": "Self-seeds lightly; seedlings are often mildew-prone and color-variable. Deadhead consistently if this is a concern.",
+    "troubles": "Powdery mildew is the main challenge: a white, chalky coating that appears in mid-to-late summer when warm days follow cool nights. Cultural controls (airflow, spacing, stem thinning, base watering, debris cleanup) reduce it significantly; planting mildew-resistant cultivars is the best long-term fix. Spider mites in hot dry spells; phlox bugs (look for stippled foliage) occasionally; root rot in poorly drained spots. Tall stems may need light staking in exposed sites.",
+    "companions": "Black-eyed Susan, purple coneflower, Russian sage, catmint, and ornamental grasses that share its need for full sun and moderate water. Plant in masses for best pollinator effect."
+  },
+  "care_src": [
+    { "name": "Missouri Botanical Garden Plant Finder — Phlox paniculata", "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=f193" },
+    { "name": "NC State Extension Plant Toolbox — Phlox paniculata", "url": "https://plants.ces.ncsu.edu/plants/phlox-paniculata/" },
+    { "name": "PlantTalk Colorado 1415 — Powdery Mildew", "url": "https://planttalk.colostate.edu/topics/insects-diseases/1415-powdery-mildew/" }
+  ]
+}

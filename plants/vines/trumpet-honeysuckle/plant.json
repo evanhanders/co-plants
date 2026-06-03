@@ -1,0 +1,36 @@
+{
+  "common": "Trumpet honeysuckle",
+  "botanical": "Lonicera sempervirens",
+  "type": "Vine",
+  "native": "Non-native",
+  "blurb": "A well-behaved twining climber with clusters of long coral-red tubes that hummingbirds work all summer, followed by bright red berries that birds devour — vigorous but never weedy.",
+  "size": "10–20 ft × 3–6 ft",
+  "sun": "Full sun to part shade",
+  "water": "Low–moderate; drought-tolerant once established",
+  "spread": "Twining vine; does not sucker or self-sow aggressively",
+  "seasons": "Coral-red tubular flower clusters late spring through summer; small red berries ripen late summer into fall; semi-evergreen (holds some leaves in mild winters)",
+  "wildlife": "Outstanding hummingbird plant; berries attract robins, bluebirds, and other thrushes; flowers visited by bumblebees",
+  "deer": "Generally deer-resistant",
+  "toxic": "Berries mildly toxic to people and pets if ingested (saponins, cyanogenic glycosides); not suitable for consumption",
+  "winter": true,
+  "verified": "2026-06-03",
+  "care": {
+    "hardiness": "USDA zones 4–9 — fully winter-hardy on the Front Range (zone 5b–6a). Tops may die back in severe cold or exposed sites but the root system survives and pushes fresh growth in spring. A thick winter mulch over the root zone helps in the first season.",
+    "planting": "Plant in spring once soil is workable (April–May) or in early fall (September) so roots can establish before freeze. Container-grown plants transplant easily — dig the hole twice as wide as the root ball, set at the same depth, water in well, and tie the first stems loosely to their support. Spring planting is slightly preferred around Boulder since the vine can spend a full season anchoring before facing a cold winter. If growing in a pot, use a large container (15+ gallons) with excellent drainage; potted roots are more vulnerable to cold than in-ground roots, so move containers to a sheltered spot or sink them into a protected corner over winter.",
+    "sun": "Full sun gives the most prolific bloom — aim for 6+ hours of direct sun. Part shade (4–6 hours) works but expect fewer flowers. The vine is a good candidate for a south- or east-facing fence or trellis in Boulder's intense high-altitude sun.",
+    "soil": "Adapts well to a range of soils, including Boulder's typical clay-loam. Prefers moderately fertile, moist, well-drained conditions; slightly acidic to neutral pH (6.0–8.0) is fine. Amend heavy clay with compost at planting to improve drainage. Avoid chronically waterlogged spots.",
+    "water": "Moderate the first season — water deeply once or twice a week until established. Once settled in, trumpet honeysuckle is notably drought-tolerant and needs only occasional deep watering during dry spells (every 1–2 weeks in summer heat). Overwatering promotes aphids and mildew.",
+    "spacing": "Space plants 3–6 ft apart along a fence or trellis. A single plant will cover a modest arbor (10–15 ft spread) within a few seasons; allow more room if planting for a full privacy screen.",
+    "propagation": "Easiest by stem cuttings: take 4–6 in. softwood or semi-hardwood cuttings in summer, strip lower leaves, dip in rooting hormone, and keep in a humid propagation chamber for 4–6 weeks. Can also be layered — pin a long stem to the ground in summer and sever it once rooted the following spring. Seeds germinate after 2–3 months of cold stratification at 40°F but cuttings are faster and true to the parent.",
+    "bloom": "Late spring through summer — typically May through August on the Front Range, with the heaviest flush in June. Flowers develop on current-season growth, so a light annual pruning encourages fresh shoots and a strong rebloom.",
+    "feeding": "Light feeding only. A balanced slow-release fertilizer worked in at planting is sufficient; avoid high-nitrogen feeds that push leafy growth at the expense of flowers. Established plants in decent soil need little or no supplemental fertilizer.",
+    "maintenance": "Provide a sturdy trellis, arbor, fence, or wire support — the vine twines and needs something to wrap around; it will not damage wood or masonry. Prune after the main flush of flowering (late June or July): remove dead or weak stems, cut back overly long shoots, and thin older wood occasionally to keep the center open and encourage fresh flowering canes. Aphids may cluster on new tips in spring; knock off with a strong spray of water or let ladybugs handle them. Good airflow prevents powdery mildew.",
+    "troubles": "Aphids in spring (manage with water spray or beneficial insects); occasional powdery mildew in crowded, poorly ventilated spots — thin stems and improve air circulation. Berries attract birds, which is a feature not a problem. No serious disease issues on the Front Range.",
+    "companions": "Clematis (interplanted on the same trellis), salvia, echinacea, and other hummingbird-friendly perennials below; pair with native grasses for a naturalistic fence planting."
+  },
+  "care_src": [
+    { "name": "NC State Extension — Lonicera sempervirens Plant Toolbox", "url": "https://plants.ces.ncsu.edu/plants/lonicera-sempervirens/" },
+    { "name": "Morton Arboretum — Trumpet Honeysuckle", "url": "https://mortonarb.org/plant-and-protect/trees-and-plants/trumpet-honeysuckle/" },
+    { "name": "PlantTalk Colorado — Vines for Colorado (CSU Extension)", "url": "https://planttalk.colostate.edu/topics/trees-shrubs-vines/1727-vines-colorado/" }
+  ]
+}

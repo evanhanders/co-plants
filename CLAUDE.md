@@ -98,11 +98,14 @@ type via `groupOf()`.
   (see "Detail page" below). A flat object of prose strings keyed by aspect; the detail
   renderer reads a fixed, ordered allow-list of keys (`CARE_FIELDS` in `plant.js`) and skips
   any that are absent, so a plant can fill in as many or as few as apply. Current keys:
-  `hardiness, sun, soil, water, spacing, sow, stratify, depth, bloom, feeding,
-  maintenance, selfsow, troubles, harvest, companions`. Keep each value a short paragraph
-  of Front-Range-specific, practical guidance. Add a new aspect by extending `CARE_FIELDS`
-  (key + display label) — no other code change needed. **All 28 plants now carry a `care`
-  block** (sourced via the "Sourcing care facts" workflow below).
+  `hardiness, planting, sun, soil, water, spacing, propagation, sow, stratify, depth, bloom,
+  feeding, maintenance, selfsow, troubles, harvest, companions`. Two of these carry specific
+  intent: **`planting`** = *when to plant outside on the Front Range, covering both in the
+  ground and in pots/containers* (containers dry faster and their roots are far less
+  cold-hardy, so they need their own timing/overwintering note); **`propagation`** = *how to
+  propagate by seed **and** by non-seed means* (division, cuttings, layering…). Keep each
+  value a short paragraph of Front-Range-specific, practical guidance. Add a new aspect by
+  extending `CARE_FIELDS` (key + display label) — no other code change needed.
 - `care_src:[…]` *(optional, but required whenever `care` is present)* — the **provenance
   for the care facts**, mirroring photo attribution. A list of `{ name, url }` sources the
   care prose was compiled from; the detail page renders them as a "Care notes compiled
@@ -435,15 +438,16 @@ monograph, with CSU Extension cited for the Front-Range timing.
 
 ## Current plant roster (in the live site)
 
-**28 specimens**, all verified non-weed in CO. Grouped by type below (the order the
-site uses). **All 28 now carry repo-hosted photo reels** (close-up + structure,
-seasonal where good shots exist); each plant's exact shots live in its `plant.json`.
-most were sourced from the iNaturalist open dataset; the **3 vine cultivars** (garden
-clematis, climbing & rambling rose — no clean iNat taxon) and **wild bergamot's summer
-shots** were hand-sourced from Wikimedia Commons (see `tools/commons_search.py` +
-`commons_finalize.py`). Every shot keeps a remote `commons`/`url` fallback. Card
-thumbnails are 720×480 smart-crops (`tools/rethumb.py`). (N) = CO/regional native,
-(I) = introduced/vetted.
+**44 specimens**, all verified non-weed in CO. Grouped by type below (the order the
+site uses). The original **28 carry repo-hosted photo reels** (close-up + structure,
+seasonal where good shots exist); the **16 newest (marked ✎ below) carry full sourced
+care but still await repo-hosted photos** — they render the "photo coming soon"
+placeholder until the iNat/Commons pipeline runs for them. Existing reels were mostly
+sourced from the iNaturalist open dataset; the **3 vine cultivars** (garden clematis,
+climbing & rambling rose) and **wild bergamot's summer shots** were hand-sourced from
+Wikimedia Commons. Every shot keeps a remote `commons`/`url` fallback; card thumbnails
+are 720×480 smart-crops (`tools/rethumb.py`). **All 44 carry a full `care` block**
+(incl. `planting` + `propagation`). (N) = CO/regional native, (I) = introduced/vetted.
 
 **Trees**
 - Chokecherry (*Prunus virginiana*) (N) — reel: spring flowers / summer + fall fruit
@@ -453,10 +457,14 @@ thumbnails are 720×480 smart-crops (`tools/rethumb.py`). (N) = CO/regional nati
 - Red-twig dogwood (*Cornus sericea*) (N) — reel: summer cymes / fall berries / winter red stems
 - Wood's rose (*Rosa woodsii*) (N) — reel: summer flower / habit / fall hips / winter hip
 - Common lilac (*Syringa vulgaris*) (I) — reel: blooming-shrub habit / panicle / foliage
+- ✎ Twinberry honeysuckle (*Lonicera involucrata*) (N) — moist-site native shrub honeysuckle (photos pending)
+- ✎ Mock orange (*Philadelphus lewisii* 'Cheyenne') (N) — fragrant native, Plant Select (photos pending)
+- ✎ Smoke tree (*Cotinus coggygria*) (I) — purple foliage + smoky plumes (photos pending)
 
 **Subshrubs**
 - Mojave sage (*Salvia pachyphylla*) (I) — reel: flower closeup / silvery mounded shrub
 - Russian sage (*Salvia yangii*, syn. *Perovskia atriplicifolia*) (I) — reel: airy habit / flowers / fall spikes
+- ✎ Lavender (*Lavandula angustifolia*) (I) — English lavender ('Munstead'/'Hidcote') (photos pending)
 
 **Ornamental grasses**
 - Little bluestem (*Schizachyrium scoparium*) (N) — reel: summer clump / fall copper / winter seedheads
@@ -474,6 +482,13 @@ thumbnails are 720×480 smart-crops (`tools/rethumb.py`). (N) = CO/regional nati
 - Salvia / meadow sage (*Salvia nemorosa*) (I) — reel: flower spike / mounded clump
 - Wild bergamot (*Monarda fistulosa*) (N) — reel: flowerhead / meadow stand / winter seedhead
 - Scarlet bee balm (*Monarda didyma*) (I) — reel: scarlet flowerhead / flowers+foliage
+- ✎ Blue flax (*Linum lewisii*) (N) — xeric native, sky-blue morning flowers (photos pending)
+- ✎ Cheddar pinks (*Dianthus gratianopolitanus*) (I) — clove-scented mat, evergreen (photos pending)
+- ✎ Garden phlox (*Phlox paniculata*) (I) — fragrant summer panicles; mildew-aware (photos pending)
+- ✎ Red valerian (*Centranthus ruber*) (I) — Jupiter's beard; lean-soil self-sower (photos pending)
+- ✎ Brunnera (*Brunnera macrophylla*) (I) — **shade + moisture**; forget-me-not blue (photos pending)
+- ✎ Scabiosa / pincushion flower (*Scabiosa columbaria*) (I) — very long bloom (photos pending)
+- ✎ Garden lupine (*Lupinus polyphyllus*, Russell) (I) — showy but **toxic alkaloids + invasive elsewhere**; included by owner choice, deadhead before seed set (photos pending)
 
 **Annuals**
 - Snow-on-the-mountain (*Euphorbia marginata*) (N) — reel: white-margined bracts / whole plant / field stand
@@ -481,11 +496,18 @@ thumbnails are 720×480 smart-crops (`tools/rethumb.py`). (N) = CO/regional nati
 - California poppy (*Eschscholzia californica*) (I) — reel: flowers+foliage / whole plant
 - Snapdragon (*Antirrhinum majus*) (I) — reel: bicolor spike / clump of spikes
 - Rocky Mountain bee plant (*Cleomella serrulata*, syn. *Cleome serrulata*) (N) — reel: flower closeup / prairie stand / whole plant + seed pods
+- ✎ Larkspur (*Consolida ajacis*) (I) — cool-season spires; **all parts toxic**; direct-sow (photos pending)
+
+**Groundcovers** *(new group)*
+- ✎ Snow-in-summer (*Cerastium tomentosum*) (I) — silver mat, white flowers; lean-soil to behave (photos pending)
+- ✎ Hardy ice plant (*Delosperma cooperi*) (I) — Plant Select succulent mat, magenta bloom (photos pending)
 
 **Vines** *(cultivars — hand-sourced from Wikimedia Commons)*
 - Garden clematis (*Clematis × jackmanii*, large-flowered hybrids) (I) — reel: violet bloom closeup / sheets on a trellis
 - Climbing rose (*Rosa*, climbing cultivars) (I) — reel: blooms on a brick wall / wall-trained habit
 - Rambling rose (*Rosa*, rambling cultivars) (I) — reel: clustered blooms / rambler over a pergola arch (Paul's Himalayan Musk)
+- ✎ Trumpet honeysuckle (*Lonicera sempervirens*) (I) — non-invasive native vine, hummingbird red (photos pending)
+- ✎ 'Dropmore Scarlet' honeysuckle (*Lonicera × brownii*) (I) — hardy non-invasive climber (photos pending)
 
 **Dropped from the keep-list (do not re-add):** coyote willow (*Salix exigua*) and
 Turkish cliff sage (*Salvia recognita*). Mojave sage is preferred over Turkish cliff

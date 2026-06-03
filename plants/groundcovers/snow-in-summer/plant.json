@@ -1,0 +1,35 @@
+{
+  "common": "Snow-in-summer",
+  "botanical": "Cerastium tomentosum",
+  "type": "Groundcover",
+  "native": "Non-native",
+  "blurb": "A silver-gray mat of woolly foliage that erupts into a froth of small white star flowers in late spring — stunning in lean, rocky soil where its spreading is kept in check.",
+  "size": "4–8 in × 12–18 in",
+  "sun": "Full sun",
+  "water": "Low; drought-tolerant once established",
+  "spread": "Spreads by runners and self-seeds; well-behaved in lean, dry, gravelly soil — aggressive in rich or moist ground",
+  "seasons": "Silver-gray woolly mat year-round; smothered in white star flowers May–Jun; foliage persists through winter",
+  "wildlife": "Flowers attract small native bees and hoverflies",
+  "deer": "Deer-resistant",
+  "toxic": "",
+  "winter": false,
+  "verified": "2026-06-03",
+  "care": {
+    "hardiness": "Hardy to USDA zone 3 — fully reliable across the entire Colorado Front Range (zones 5b–6a) and into the foothills. Evergreen foliage persists under snow and looks presentable into winter, though it's not grown primarily for winter interest.",
+    "planting": "Plant in spring (Apr–May) or early fall (Sep) from nursery transplants. Fall planting lets roots establish before summer heat — especially valuable in lean, gravelly beds where soil dries fast. In containers, the silver mat looks lovely in a pot but roots are exposed to temperature swings; overwinter containers in a cold but frost-protected spot (unheated garage) or sink the pot in the ground. Ensure sharp drainage in any container — standing water rots the crown.",
+    "sun": "Full sun is non-negotiable — 6+ hours of direct sun daily. Even slight shade weakens the plant, stretching stems and reducing flowering. Colorado's intense high-altitude sun suits it perfectly.",
+    "soil": "Lean, dry, sandy or gravelly, well-drained soil is ideal. Tolerates alkaline pH (common on the Front Range) and poor soil — in fact, richly amended soil and clay encourage rank, floppy growth and aggressive spread. Avoid heavy clay without serious gravel amendment. Good drainage is the single most critical factor; root rot kills plants in waterlogged ground.",
+    "water": "Low. Once established, snow-in-summer thrives on natural precipitation in Boulder (~15–18 in/yr) supplemented with deep but infrequent summer watering every 1–2 weeks during dry spells. Keep it on the dry side — overwatering causes rank growth, increased spreading, and crown rot. Never let it sit in wet soil.",
+    "spacing": "Space transplants 12–18 in apart; they'll fill in quickly. For a controlled edging or rock-garden accent, set them at the wider end and plan to trim the edges annually. A buried edging strip (4–5 in deep) helps contain runners at bed borders.",
+    "propagation": "Easiest by division in spring or fall — lift a clump, pull apart rooted sections, and replant immediately. Stem cuttings taken in early summer also root readily in sandy soil. Can be grown from seed sown indoors 4–6 weeks before last frost (mid-May around Boulder) or direct-sown in early spring; press seed into the surface (needs light to germinate) and keep moist until sprouted.",
+    "bloom": "Late spring — typically mid-May through June on the Front Range, when the mat is hidden under a sheet of small white star-shaped flowers. Bloom is brief but spectacular. Deadhead or shear promptly after flowers fade.",
+    "feeding": "None needed — lean soil keeps growth compact and spreading in check. Fertilizing encourages lush, floppy stems and makes the plant more aggressive. Skip compost top-dressing too.",
+    "maintenance": "Shear the plant back by about one-third immediately after bloom — this removes spent flowers (preventing self-seeding), refreshes the foliage mound, and keeps it tidy. Large drifts can be run over with a lawn mower on its highest setting. Every few years, divide clumps if they develop dead patches in the center, which is common as the plant ages. Pull or cut any runners that escape the intended bed. Do not cut back hard in fall — wait until spring growth resumes before removing any winter-damaged stems.",
+    "selfsow": "Self-seeds moderately and spreads by runners. On lean, dry, gravelly soil the spread is manageable. On rich or moist soil it can become aggressive and crowd out neighbors — choose the compact cultivar 'Silberteppich' (Silver Carpet) or 'Yo Yo' if space is limited, and shear after bloom every year to prevent self-seeding.",
+    "troubles": "Root rot in poorly drained or consistently wet soil is the main killer on the Front Range. Powdery mildew can appear in humid summers or if plants are crowded — good airflow and lean, dry conditions prevent it. Dead patches in old clumps are normal; divide to rejuvenate. Essentially pest-free."
+  },
+  "care_src": [
+    { "name": "NC State Extension Gardener Plant Toolbox — Cerastium tomentosum", "url": "https://plants.ces.ncsu.edu/plants/cerastium-tomentosum/" },
+    { "name": "Missouri Botanical Garden Plant Finder — Cerastium tomentosum", "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=h590" }
+  ]
+}

@@ -43,6 +43,16 @@
   ],
   "shots": [
     {
+      "local": "images/wi-habit-t.jpg",
+      "full": "images/wi-habit.jpg",
+      "commons": "Barberry bush.jpg",
+      "s": "winter",
+      "cap": "Winter — A low evergreen colony, foliage bronzed red-purple in winter · © Tarasna0922 (CC BY-SA 4.0) / Wikimedia Commons",
+      "by": "Tarasna0922",
+      "lic": "CC BY-SA 4.0",
+      "link": "https://commons.wikimedia.org/wiki/File:Barberry_bush.jpg"
+    },
+    {
       "local": "images/sp-close-t.jpg",
       "full": "images/sp-close.jpg",
       "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/189637136/large.jpg",

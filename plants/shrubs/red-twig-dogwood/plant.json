@@ -46,6 +46,16 @@
   ],
   "shots": [
     {
+      "local": "images/wi-habit-t.jpg",
+      "full": "images/wi-habit.jpg",
+      "commons": "2015-03-16 14 14 56 Oisier Dogwood in winter at the Northeastern Nevada Museum in Elko, Nevada.JPG",
+      "s": "winter",
+      "cap": "Winter — Winter — the whole shrub, a thicket of glowing red stems · © Famartin (CC BY-SA 4.0) / Wikimedia Commons",
+      "by": "Famartin",
+      "lic": "CC BY-SA 4.0",
+      "link": "https://commons.wikimedia.org/wiki/File:2015-03-16_14_14_56_Oisier_Dogwood_in_winter_at_the_Northeastern_Nevada_Museum_in_Elko,_Nevada.JPG"
+    },
+    {
       "local": "images/su-flowers-t.jpg",
       "full": "images/su-flowers.jpg",
       "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/196773183/large.jpg",

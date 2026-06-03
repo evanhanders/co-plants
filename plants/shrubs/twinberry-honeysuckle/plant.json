@@ -40,6 +40,16 @@
   ],
   "shots": [
     {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "commons": "Lonicera involucrata FWS-01.jpg",
+      "s": "summer",
+      "cap": "Summer — An established multi-stem riparian shrub · © Gordon Leppig & Andrea J. Pickart (Public domain) / Wikimedia Commons",
+      "by": "Gordon Leppig & Andrea J. Pickart",
+      "lic": "Public domain",
+      "link": "https://commons.wikimedia.org/wiki/File:Lonicera_involucrata_FWS-01.jpg"
+    },
+    {
       "local": "images/su-flower-t.jpg",
       "full": "images/su-flower.jpg",
       "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/212656079/large.jpeg",
@@ -58,16 +68,6 @@
       "by": "miro",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/7279208"
-    },
-    {
-      "local": "images/su-habit-t.jpg",
-      "full": "images/su-habit.jpg",
-      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/212047349/large.jpeg",
-      "s": "summer",
-      "cap": "Multi-stem twinberry honeysuckle shrub in full leaf showing arching form · © anneshepard1948 (CC-BY-NC) / iNaturalist",
-      "by": "anneshepard1948",
-      "lic": "CC-BY-NC",
-      "link": "https://www.inaturalist.org/observations/125061516"
     },
     {
       "local": "images/su-foliage-t.jpg",

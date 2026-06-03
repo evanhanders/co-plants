@@ -29,8 +29,7 @@
   },
   "care_src": [
     { "name": "Wisconsin Horticulture Extension — Little Bluestem (Schizachyrium scoparium)", "url": "https://hort.extension.wisc.edu/articles/little-bluestem-schizachyrium-scoparium/" },
-    { "name": "Lady Bird Johnson Wildflower Center — Schizachyrium scoparium", "url": "https://www.wildflower.org/plants/result.php?id_plant=SCSC" },
-    { "name": "USDA NRCS — Plant Guide: Little Bluestem (Schizachyrium scoparium)", "url": "https://plants.sc.egov.usda.gov/DocumentLibrary/plantguide/pdf/pg_scsc.pdf" }
+    { "name": "Lady Bird Johnson Wildflower Center — Schizachyrium scoparium", "url": "https://www.wildflower.org/plants/result.php?id_plant=SCSC" }
   ],
   "commons": "Schizachyrium scoparium kz3.jpg",
   "shots": [

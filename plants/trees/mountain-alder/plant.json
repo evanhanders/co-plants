@@ -28,9 +28,8 @@
     "companions": "Ideal with other native riparian and moisture-tolerant species: chokecherry, red-twig dogwood, Wood's rose, native willows (*Salix* spp.), golden currant, wild iris (*Iris missouriensis*). Its nitrogen-fixing ability particularly benefits the surrounding shrub layer. A natural colony planting along a dry creek bed or bioswale is the most ecologically productive use."
   },
   "care_src": [
-    { "name": "Plants For A Future — Alnus tenuifolia", "url": "https://pfaf.org/user/Plant.aspx?LatinName=Alnus+tenuifolia" },
-    { "name": "Fort Collins Natural Areas — Thinleaf Alder", "url": "https://apps.fcgov.com/plant-list/?view=70-thinleaf-alder" },
-    { "name": "Sevenoaks Native Nursery — Alnus incana ssp. tenuifolia", "url": "https://sevenoaksnativenursery.com/product/alnus-incana-ssp-tenuifolia/" }
+    { "name": "USDA NRCS PLANTS — Alnus incana ssp. tenuifolia (thinleaf alder)", "url": "https://plants.usda.gov/plant-profile/ALINT" },
+    { "name": "USDA NRCS — Plant Guide: Thinleaf Alder (PDF)", "url": "https://plants.sc.egov.usda.gov/DocumentLibrary/plantguide/pdf/pg_alin2.pdf" }
   ],
   "commons": "(ms) Alnus incana 2.jpg",
   "shots": [

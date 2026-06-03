@@ -101,8 +101,8 @@ type via `groupOf()`.
   `hardiness, sun, soil, water, spacing, sow, stratify, depth, bloom, feeding,
   maintenance, selfsow, troubles, harvest, companions`. Keep each value a short paragraph
   of Front-Range-specific, practical guidance. Add a new aspect by extending `CARE_FIELDS`
-  (key + display label) — no other code change needed. Only the prototype plant (Rocky
-  Mountain bee plant) carries a full `care` block today.
+  (key + display label) — no other code change needed. **All 28 plants now carry a `care`
+  block** (sourced via the "Sourcing care facts" workflow below).
 - `care_src:[…]` *(optional, but required whenever `care` is present)* — the **provenance
   for the care facts**, mirroring photo attribution. A list of `{ name, url }` sources the
   care prose was compiled from; the detail page renders them as a "Care notes compiled
@@ -468,11 +468,6 @@ sage.
 
 The current backlog. Move items out of this section as they ship.
 
-- **Roll out detail pages to every plant.** The per-plant detail page (above) is built and
-  wired for all plants, but only the prototype (Rocky Mountain bee plant) has a full `care`
-  block; every other plant currently shows the "notes still being written" placeholder
-  under "Growing & care." Fill in each plant's `care` object (the `CARE_FIELDS` keys) with
-  Front-Range-specific guidance to light up its detail page.
 - **Fuller seasonal reels:** the sparse natives (horned spurge) and a few single-season
   garden flowers could still grow extra-season shots as better candidates surface. The
   iNat API has far more CC photos per plant than were picked — re-query it (the fast

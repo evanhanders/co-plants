@@ -4,7 +4,7 @@
   "type": "Shrub",
   "native": "Non-native",
   "blurb": "A large, dramatic shrub famed for billowing clouds of feathery pink-to-purple seed plumes in summer and some of the most vivid orange-to-scarlet fall color of any Front Range shrub — especially striking in purple-leaf cultivars like 'Royal Purple'.",
-  "size": "10–15 ft × 10–15 ft",
+  "size": "10–15 ft × 10–20 ft",
   "sun": "Full sun",
   "water": "Low; drought-tolerant once established — avoid consistently wet soils",
   "spread": "Clumping, multi-stemmed; does not sucker or self-sow aggressively",
@@ -22,7 +22,7 @@
     "water": "Drought-tolerant once established (after 1–2 seasons). Water deeply 1–2 times per week the first season; thereafter, deep watering every 2–3 weeks in summer is usually sufficient. Avoid overwatering and do not site in irrigated lawn beds where roots stay constantly wet. Too much water promotes Verticillium wilt and root rot.",
     "spacing": "Allow 10–15 ft in all directions; smoke tree gets large and needs space to develop its full multi-stemmed, billowing habit. Use as a specimen or large-scale screen. Avoid cramped corners where it will need constant pruning.",
     "propagation": "Easiest from softwood cuttings taken in early summer (June) with rooting hormone, or semi-hardwood cuttings in late summer. Seed propagation is possible but slow — scarify seed coat, cold-stratify 2–3 months, and sow in spring; germination is unreliable. Named cultivars like 'Royal Purple' must be propagated vegetatively to maintain foliage color; buy named-cultivar plants from a reputable nursery rather than growing from seed.",
-    "bloom": "Tiny yellowish flowers appear May–June, but the ornamental display is the massive feathery inflorescence hairs that develop through summer (Jun–Sep), turning from pink to smoky pink-purple as they age. Female plants have the showiest plumes; many named cultivars are female selections.",
+    "bloom": "Tiny yellowish flowers appear May–July, but the ornamental display is the massive feathery inflorescence hairs that develop through summer (Jun–Sep), turning from pink to smoky pink-purple as they age. Female plants have the showiest plumes; many named cultivars are female selections.",
     "feeding": "Little to none needed; this shrub prefers lean soil. Rich soil and high-nitrogen feeding produce large, lush leaves at the expense of the smoke display and fall color. A light compost top-dressing in spring on genuinely poor soil is the most you should do.",
     "maintenance": "Two approaches exist — choose one and stick to it. (1) For the full smoke display: prune lightly in early spring, removing only dead, crossing, or weak stems; preserve the flowering framework on which plumes develop. (2) For large, dramatic foliage (at the expense of smoke): cut stems hard back to 6–12 in above ground in late winter/early spring — this yields outsized leaves but no plumes that season. Many gardeners do approach 1 on half the plant and approach 2 on the other for a mixed effect. Wear gloves: the sap causes contact dermatitis in sensitive individuals.",
     "troubles": "Generally low-pest, low-disease. Verticillium wilt is the most serious problem — infected branches wilt and die back; remove affected wood well below the discoloration and do not compost. Leaf spot and rust are occasional cosmetic issues; improve airflow and avoid overhead watering. No serious insect pests. Stem dieback after a severe winter is normal — cut dead tips back to live wood in spring."
@@ -35,6 +35,10 @@
     {
       "name": "NC State Extension Plant Toolbox — Cotinus coggygria",
       "url": "https://plants.ces.ncsu.edu/plants/cotinus-coggygria/"
+    },
+    {
+      "name": "NC State Extension Plant Toolbox — Cotinus coggygria 'Royal Purple'",
+      "url": "https://plants.ces.ncsu.edu/plants/cotinus-coggygria-royal-purple/"
     }
   ],
   "shots": [

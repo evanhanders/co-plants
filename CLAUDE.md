@@ -195,18 +195,23 @@ the rest are `display:none` (`.reel .shot:not(.show)`). The season **dots** call
 `setActive(i)`, which toggles `.show` on the figures and `.on`/`aria-pressed` on the dots —
 there is **no `overflow-x`, no `scroll-snap`, no scrolling.** This is deliberate: the old
 scroll-snap reel caused **scroll-chaining** on touch (a finger-drag on a photo scrolled the
-strip first, then the page only at the boundary). With a static stack the thumbnail is just
-the full image and a drag scrolls the page immediately. **Don't reintroduce
+strip first, then the page only at the boundary). **Don't reintroduce
 `overflow-x`/`scroll-snap`/`scrollLeft`-based tab detection on `.reel`.**
+
+**Finger-swipe IS supported — but via pointer events, not scrolling.** `wireReels` adds
+`pointerdown`/`pointerup` on each `.reel`: a **horizontal-dominant** swipe past ~40px steps
+the season (`setActive(cur±1)`), while a vertical drag does nothing here so the **page still
+scrolls** (no capture, no `preventDefault`, no overflow → no scroll-chaining). This is the
+safe way to have swipe; keep it pointer-based.
 
 ### Tap-vs-swipe gotcha (already fixed — don't regress)
 
-Tapping a card photo opens the lightbox; the strip itself has no finger-swipe (it's the
-static stack above). The lightbox-open is still gated on a **move-threshold** (`content`
-tracks `pointerdown`/`pointermove`; the `click` handler bails if the pointer moved >10px,
-`tapMoved`) so a vertical scroll-drag that starts on a photo doesn't fling you into the
-lightbox on release. (The full-size **lightbox** is the swipeable one — that's the separate
-gallery described under UI features.)
+Three gestures on a card photo, distinguished by movement: a **tap** (no move) opens the
+lightbox; a **horizontal swipe** changes the season (above); a **vertical drag** scrolls the
+page. The lightbox-open is gated on a **move-threshold** (`content` tracks `pointerdown`/
+`pointermove`; the `click` handler bails if the pointer moved >10px, `tapMoved`) so a swipe
+or scroll-drag that starts on a photo never flings you into the lightbox on release. (The
+full-size **lightbox** is its own swipeable gallery — see UI features.)
 
 ## The plant card fields
 
@@ -298,21 +303,30 @@ if in doubt):
 Always send a descriptive `User-Agent` (e.g. `co-plants-herbarium/1.0 (evanhanders@gmail.com)`)
 to the iNat API too. The whole pipeline lives in `tools/` and is reusable.
 
-**iNat API path (preferred — used for most plants):**
+**iNat API path (preferred — used for most plants):** `tools/inat_montage.py` automates
+steps 1–3 — `python3 tools/inat_montage.py "<cat/slug>" "<Botanical name>" [place_id]
+[--global]` resolves the active taxon, pulls CC photos (Colorado `place_id=34` by default,
+auto-widening to global if too few; pass `--global` up front for non-CO garden cultivars),
+writes a labeled `montage.jpg` to review and appends the per-slug `shortlist.json` entry.
+Set `PHOTOWORK=/tmp/<dir>` to run several in parallel without collisions.
 
-1. **Resolve the taxon.** `GET /v1/taxa?q=<botanical name>` and take the **active**
-   taxon id — names drift (e.g. Rocky Mountain bee plant is now *Cleomella serrulata*,
-   id `1415100`; the old *Peritoma serrulata* taxon `78444` is inactive and returns
-   nothing). Colorado's `place_id` is **34**.
-2. **Pull CC candidates.** `GET /v1/observations?taxon_id=<id>&place_id=34&photo_license=cc0,cc-by,cc-by-nc&quality_grade=research&order_by=votes&per_page=60`.
-   Extract each photo's `square` url, swap `square→medium` for review thumbs, dedupe by
-   photo id (and by observer for variety), prefer Front Range / Boulder-county localities.
-3. **Montage + review.** Tile the medium thumbs into one labeled contact-sheet, **`Read`
-   it**, and pick the best close-up + structure (per season), checking species/orientation.
-4. **Finalize + thumbnails** (below) — hand-write `shortlist.json` + `picks.json` from
-   the picks, then run `finalize.py` and `rethumb.py`.
+1. **Resolve the taxon.** `GET /v1/taxa?q=<botanical name>` → the **active** taxon id —
+   names drift (Rocky Mountain bee plant is now *Cleomella serrulata*; the old *Peritoma
+   serrulata* taxon is inactive). Colorado's `place_id` is **34**.
+2. **Pull CC candidates.** `GET /v1/observations?taxon_id=<id>&place_id=34&photo_license=cc0,cc-by,cc-by-nc&quality_grade=research&order_by=votes&per_page=60`;
+   dedupe by photo id (and observer for variety).
+3. **Montage + review.** Tile medium thumbs into one labeled contact-sheet, **`Read` it**,
+   and pick the best close-up + structure, **checking species + orientation on each tile**.
+4. **Finalize + thumbnails** (below) — hand-write `picks.json` `{i, kind, s, cap}` against
+   the `shortlist.json`, then run `finalize.py` and `rethumb.py`.
+5. **Verify the result (REQUIRED — "are these the right images?").** After finalize+rethumb,
+   tile the **final card thumbnails** (`plants/*/images/*-t.jpg`) into one labeled contact-sheet
+   and **`Read` it**, confirming every shot is the **correct species** (not a look-alike or a
+   mislabeled observation), upright, and in focus — verify **both** the close-up and the habit
+   shot, not just one. Re-pick and re-finalize any that are wrong, weak, or ambiguous before
+   committing. (This QC caught the ice-plant + twinberry close-ups in the 16-plant batch.)
 
-The bee-plant add did exactly this end-to-end in a couple minutes (see git history).
+Pillow is required (`pip install Pillow` if missing). The bee-plant add ran this end-to-end.
 
 **Finalize + thumbnails (shared tail, any source):**
 
@@ -533,6 +547,9 @@ The current backlog. Move items out of this section as they ship.
 
 - Real CC-licensed photos only (repo-hosted; iNat open data or verified Commons titles),
   no illustrations, no copyrighted hotlinks. Record attribution.
+- **Verify every sourced image is the right species** — after finalize+rethumb, `Read` a
+  contact-sheet of the final thumbnails (close-up *and* habit) and re-pick anything wrong,
+  look-alike, or ambiguous before committing (see "iNat API path" step 5).
 - Weed-check every new plant against CO lists A/B/C + Watch before it goes in.
 - `care` facts are sourced like photos: ground them in a trusted authority, list the real
   sources in `care_src`, then run the citation-honesty + fact-check passes (see "Sourcing

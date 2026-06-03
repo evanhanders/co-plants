@@ -4,7 +4,7 @@
   "type": "Perennial",
   "native": "Non-native",
   "blurb": "Showy Russell-hybrid spires in every color from white to deep violet rise above bold palmate foliage in late spring — stunning where conditions suit them, though Front Range gardeners should plan for their preferred cool, slightly acidic conditions.",
-  "size": "3–4 ft × 2–3 ft",
+  "size": "3–4 ft × 1–1½ ft",
   "sun": "Full sun to part shade",
   "water": "Moderate; prefers consistent moisture",
   "spread": "Clumping; self-sows if not deadheaded — deadhead to prevent spread near wildlands",
@@ -24,7 +24,7 @@
     "propagation": "From seed: nick or soak seed overnight to break the hard coat, then sow 1/4 in. deep in individual pots or direct in the garden. Seeds direct-sown in fall or stratified for 4–6 weeks at 40°F germinate more reliably. Note that Russell hybrid seed from the garden will not come true to color — purchase fresh named-cultivar seed or source vegetatively. From sideshoot cuttings: take basal cuttings from new shoots in late spring, root in a free-draining propagation mix; do not divide established plants (deep taproots do not survive division).",
     "bloom": "Late May through July on the Front Range — typically a 3–5 week window in the first flush. Deadheading spent spikes promptly can trigger a lighter second flush in late summer or early fall in cool years. Plants bloom most heavily in their second and third years.",
     "feeding": "Light feeding only. Work compost into the planting bed; a slow-release balanced fertilizer at planting is sufficient. Lupines are legumes and fix their own nitrogen — avoid high-nitrogen fertilizers, which push leafy growth at the expense of blooms and weaken stems.",
-    "maintenance": "Stake taller selections (3–4 ft) with grow-through rings or bamboo stakes in exposed or windy spots. Deadhead spent spikes promptly to encourage rebloom and, critically, to prevent self-seeding in areas near open space or natural lands (see selfsow below). Cut plants back to basal rosette after bloom. Divide or replant as vigor declines, typically every 2–3 years.",
+    "maintenance": "Stake taller selections (3–4 ft) with grow-through rings or bamboo stakes in exposed or windy spots. Deadhead spent spikes promptly to encourage rebloom and, critically, to prevent self-seeding in areas near open space or natural lands (see selfsow below). Cut plants back to basal rosette after bloom. As plants age and vigor declines (typically after 2–5 years), replace from fresh seed or basal cuttings — lupines have a deep taproot and do not divide reliably.",
     "selfsow": "Self-sows freely if seed is allowed to mature. IMPORTANT: deadhead before seed pods ripen — do not allow naturalization near open space, wildlands, or restored native plant communities. Russell lupine (Lupinus polyphyllus) has become invasive in parts of the Upper Midwest, Northeast, and Europe; while it is not a Colorado-listed weed, responsible cultivation means preventing seed set in garden settings. Seedlings that do appear will likely revert toward violet shades rather than maintaining named-cultivar colors.",
     "troubles": "Powdery mildew is common in humid or poorly ventilated spots — space plants generously, avoid overhead watering, and remove badly affected foliage. Aphids cluster on new growth and flower spikes in spring (spray off with water). Slugs and snails damage seedlings and young foliage in wet springs. Root rot in clay or overwatered soil. Alkaline soil causes chlorosis (yellow leaves with green veins) — correct pH before planting or the plants will languish. Short lifespan (often 2–5 years) is inherent, not a pest or disease. Tall plants may need staking to stay upright.",
     "companions": "Salvia nemorosa, oriental poppy, allium, and other early-summer perennials that can carry the display after lupine fades. Pair with ornamental grasses or geraniums that fill in gracefully as lupine foliage declines by midsummer."
@@ -33,6 +33,10 @@
     {
       "name": "Missouri Botanical Garden Plant Finder — Lupinus × hybrida (Russell Hybrids)",
       "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=b764"
+    },
+    {
+      "name": "RHS — How to grow lupins",
+      "url": "https://www.rhs.org.uk/plants/lupins/growing-guide"
     }
   ],
   "shots": [

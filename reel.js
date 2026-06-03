@@ -79,8 +79,25 @@ var figs = Array.prototype.slice.call(reel.querySelectorAll('.shot'));
 var lab = bar.querySelector('.lab'), src = bar.querySelector('.src');
 var caps=[], srcs=[], labs=[]; try{ caps=JSON.parse(reel.dataset.caps||'[]'); }catch(e){} try{ srcs=JSON.parse(reel.dataset.srcs||'[]'); }catch(e){} try{ labs=JSON.parse(reel.dataset.labs||'[]'); }catch(e){}
 /* the strip is a static stack — only the active season's photo is shown; the dots swap it */
-function setActive(i){ figs.forEach(function(f,j){ f.classList.toggle('show', j===i); }); tabs.forEach(function(t,j){ t.classList.toggle('on', j===i); t.setAttribute('aria-pressed', j===i?'true':'false'); }); if(lab) lab.textContent=caps[i]||''; if(src&&srcs[i]){ src.href=srcs[i]; src.textContent=labs[i]||'Source ↗'; } }
+var cur=0;
+function setActive(i){ cur=i; figs.forEach(function(f,j){ f.classList.toggle('show', j===i); }); tabs.forEach(function(t,j){ t.classList.toggle('on', j===i); t.setAttribute('aria-pressed', j===i?'true':'false'); }); if(lab) lab.textContent=caps[i]||''; if(src&&srcs[i]){ src.href=srcs[i]; src.textContent=labs[i]||'Source ↗'; } }
 tabs.forEach(function(t){ t.onclick=function(){ setActive(+t.dataset.i); }; });
+/* finger-swipe the card strip to change season — pointer-based, NOT a scroll container,
+   so a vertical drag still scrolls the page (no scroll-chaining). Horizontal-dominant
+   swipes past a threshold step the season; taps fall through to the lightbox. */
+if(figs.length>1){
+var sx=0, sy=0, sw=false;
+reel.addEventListener('pointerdown', function(e){ sx=e.clientX; sy=e.clientY; sw=true; }, {passive:true});
+reel.addEventListener('pointerup', function(e){
+if(!sw) return; sw=false;
+var dx=e.clientX-sx, dy=e.clientY-sy;
+if(Math.abs(dx)>40 && Math.abs(dx)>Math.abs(dy)*1.4){
+var n = dx<0 ? Math.min(figs.length-1, cur+1) : Math.max(0, cur-1);
+if(n!==cur) setActive(n);
+}
+}, {passive:true});
+reel.addEventListener('pointercancel', function(){ sw=false; }, {passive:true});
+}
 setActive(0);
 });
 }

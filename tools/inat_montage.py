@@ -35,7 +35,7 @@ def resolve_taxon(name):
             return t["id"], t.get("name")
     raise SystemExit(f"no active taxon for '{name}' (tried '{q}')")
 
-PHENO = {"flowering": 13, "fruiting": 14, "budding": 15}  # iNat Plant Phenology annotation (term_id 12)
+PHENO = {"flowering": 13, "fruiting": 14, "budding": 15, "no_evidence": 21}  # iNat Plant Phenology annotation (term_id 12)
 
 def fetch(slug, name, place_id, use_place, anygrade=False, month=None, pheno=None):
     tid, tname = resolve_taxon(name)

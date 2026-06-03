@@ -408,8 +408,10 @@ Set `PHOTOWORK=/tmp/<dir>` to run several in parallel without collisions. Add `-
 to include cultivated/casual observations (needed for garden cultivars like 'Mersea Yellow'
 pineleaf penstemon that log as "casual" and are otherwise filtered out by research-grade).
 **To target a shot type, filter the query:** `--month 9,10,11` (seasonal — fall colour,
-berries) and especially `--phenology fruiting|flowering|budding` (iNat's human-applied Plant
-Phenology annotation — the precise way to surface seed-pods/berries vs blooms). These beat
+berries) and especially `--phenology fruiting|flowering|budding|no_evidence` (iNat's
+human-applied Plant Phenology annotation — the precise way to surface seed-pods/berries vs
+blooms, and `no_evidence` [no flowers] is the way to surface clean **foliage**/out-of-bloom
+shots for a foliage or off-season gap). These beat
 GBIF for this since iNat's annotations are cleaner; reach for GBIF only when you need
 **non-iNat** datasets (observation.org etc.).
 

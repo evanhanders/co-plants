@@ -1,20 +1,19 @@
 [
   {
+    "file": "images/su-habit.jpg",
+    "photo_id": 577326818,
+    "by": "Jes Gray",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/observations/319383496",
+    "dataset": "iNaturalist open data"
+  },
+  {
     "file": "images/fa-habit.jpg",
     "photo_id": 492621911,
     "by": "Kevin G. Borchert",
     "license": "CC-BY-NC",
     "source": "https://www.inaturalist.org/observations/273973107",
-    "dataset": "iNaturalist open data",
-    "render": "original",
-    "full_px": [
-      1050,
-      1400
-    ],
-    "thumb_px": [
-      300,
-      400
-    ]
+    "dataset": "iNaturalist open data"
   },
   {
     "file": "images/fa-pods.jpg",
@@ -22,15 +21,14 @@
     "by": "thecaiman1",
     "license": "CC-BY-NC",
     "source": "https://www.inaturalist.org/observations/62204915",
-    "dataset": "iNaturalist open data",
-    "render": "original",
-    "full_px": [
-      1050,
-      1400
-    ],
-    "thumb_px": [
-      300,
-      400
-    ]
+    "dataset": "iNaturalist open data"
+  },
+  {
+    "file": "images/wi-habit.jpg",
+    "photo_id": 58931161,
+    "by": "Steve Taylor",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/observations/37198343",
+    "dataset": "iNaturalist open data"
   }
 ]

@@ -1,10 +1,30 @@
 [
   {
-    "file": "images/su-close.jpg",
-    "commons_file": "Geranium Rozanne 10zz.jpg",
+    "file": "images/su-habit.jpg",
+    "commons_file": "Geranium 'Rozanne'.JPG",
+    "by": "Dominicus Johannes Bergsma",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Geranium_%27Rozanne%27.JPG",
+    "dataset": "Wikimedia Commons",
+    "orig_px": [
+      4561,
+      3421
+    ],
+    "full_px": [
+      1500,
+      1125
+    ],
+    "thumb_px": [
+      400,
+      300
+    ]
+  },
+  {
+    "file": "images/su-flower.jpg",
+    "commons_file": "Geranium Rozanne 14zz.jpg",
     "by": "Photo by David J. Stang",
     "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Geranium_Rozanne_10zz.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Geranium_Rozanne_14zz.jpg",
     "dataset": "Wikimedia Commons",
     "orig_px": [
       3504,
@@ -17,26 +37,6 @@
     "thumb_px": [
       400,
       267
-    ]
-  },
-  {
-    "file": "images/su-structure.jpg",
-    "commons_file": "Bloeiwijze van Geranium 'Rozanne'. Familie Geraniaceae. Locatie, Tuinreservaat Jonkervallei.jpg",
-    "by": "Dominicus Johannes Bergsma",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Bloeiwijze_van_Geranium_%27Rozanne%27._Familie_Geraniaceae._Locatie,_Tuinreservaat_Jonkervallei.jpg",
-    "dataset": "Wikimedia Commons",
-    "orig_px": [
-      4071,
-      3128
-    ],
-    "full_px": [
-      1500,
-      1153
-    ],
-    "thumb_px": [
-      400,
-      307
     ]
   }
 ]

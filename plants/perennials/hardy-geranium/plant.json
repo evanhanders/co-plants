@@ -41,24 +41,24 @@
   ],
   "shots": [
     {
-      "local": "images/su-close-t.jpg",
-      "full": "images/su-close.jpg",
-      "commons": "Geranium Rozanne 10zz.jpg",
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "commons": "Geranium 'Rozanne'.JPG",
       "s": "summer",
-      "cap": "Violet-blue saucers with a white eye · © Photo by David J. Stang (CC BY-SA 4.0) / Wikimedia Commons",
-      "by": "Photo by David J. Stang",
-      "lic": "CC BY-SA 4.0",
-      "link": "https://commons.wikimedia.org/wiki/File:Geranium_Rozanne_10zz.jpg"
+      "cap": "Summer — sprawling mound bearing multiple violet-blue saucer flowers with white eyes and lobed foliage · © Dominicus Johannes Bergsma (CC BY-SA 3.0) / Wikimedia Commons",
+      "by": "Dominicus Johannes Bergsma",
+      "lic": "CC BY-SA 3.0",
+      "link": "https://commons.wikimedia.org/wiki/File:Geranium_%27Rozanne%27.JPG"
     },
     {
-      "local": "images/su-structure-t.jpg",
-      "full": "images/su-structure.jpg",
-      "commons": "Bloeiwijze van Geranium 'Rozanne'. Familie Geraniaceae. Locatie, Tuinreservaat Jonkervallei.jpg",
+      "local": "images/su-flower-t.jpg",
+      "full": "images/su-flower.jpg",
+      "commons": "Geranium Rozanne 14zz.jpg",
       "s": "summer",
-      "cap": "A long-blooming mound from early summer to frost · © Dominicus Johannes Bergsma (CC BY-SA 4.0) / Wikimedia Commons",
-      "by": "Dominicus Johannes Bergsma",
+      "cap": "Summer — face-on saucer flower: deep violet-blue petals with white eye and contrasting dark stamens · © Photo by David J. Stang (CC BY-SA 4.0) / Wikimedia Commons",
+      "by": "Photo by David J. Stang",
       "lic": "CC BY-SA 4.0",
-      "link": "https://commons.wikimedia.org/wiki/File:Bloeiwijze_van_Geranium_%27Rozanne%27._Familie_Geraniaceae._Locatie,_Tuinreservaat_Jonkervallei.jpg"
+      "link": "https://commons.wikimedia.org/wiki/File:Geranium_Rozanne_14zz.jpg"
     }
   ]
 }

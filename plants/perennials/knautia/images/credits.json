@@ -1,20 +1,19 @@
 [
   {
+    "file": "images/su-habit.jpg",
+    "photo_id": 286084437,
+    "by": "vgruenwa",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/165277900",
+    "dataset": "iNaturalist open data"
+  },
+  {
     "file": "images/su-bloom.jpg",
     "photo_id": 385346266,
     "by": "evergreensdad",
     "license": "CC-BY-NC",
     "source": "https://www.inaturalist.org/observations/217801107",
-    "dataset": "iNaturalist open data",
-    "render": "original",
-    "full_px": [
-      1050,
-      1400
-    ],
-    "thumb_px": [
-      300,
-      400
-    ]
+    "dataset": "iNaturalist open data"
   },
   {
     "file": "images/su-flower.jpg",
@@ -22,49 +21,14 @@
     "by": "no rights reserved",
     "license": "CC0",
     "source": "https://www.inaturalist.org/observations/182709489",
-    "dataset": "iNaturalist open data",
-    "render": "original",
-    "full_px": [
-      1050,
-      1400
-    ],
-    "thumb_px": [
-      300,
-      400
-    ]
-  },
-  {
-    "file": "images/su-habit.jpg",
-    "photo_id": 520298454,
-    "by": "Christoph Moning",
-    "license": "CC-BY",
-    "source": "https://www.inaturalist.org/observations/289282154",
-    "dataset": "iNaturalist open data",
-    "render": "original",
-    "full_px": [
-      788,
-      1400
-    ],
-    "thumb_px": [
-      225,
-      400
-    ]
+    "dataset": "iNaturalist open data"
   },
   {
     "file": "images/su-foliage.jpg",
-    "photo_id": 208967901,
-    "by": "juniperuscommunis",
+    "photo_id": 529721304,
+    "by": "johnmuirway-eastdunbartonshire-tcv",
     "license": "CC-BY-NC",
-    "source": "https://www.inaturalist.org/observations/123358346",
-    "dataset": "iNaturalist open data",
-    "render": "original",
-    "full_px": [
-      1050,
-      1400
-    ],
-    "thumb_px": [
-      300,
-      400
-    ]
+    "source": "https://www.inaturalist.org/observations/294302695",
+    "dataset": "iNaturalist open data"
   }
 ]

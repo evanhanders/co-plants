@@ -346,9 +346,17 @@ single flower close-up + one habit shot usually isn't enough to know a plant:
 | **bloom_in_context** | neither mass nor close-up | only one of the two | both a flowering-mass shot **and** a close-up | *(NA if not a heavy bloomer)* |
 | **seed_pods** | notable pods/seedheads/hips missing | partial | shown well | *(NA if not a notable feature)* |
 | **thumb_framing** | feature cut off / lost in the thumbnail | off-centre or small | centered & legible in the 720×480 thumb |
+| **seasonal** | single season only though the plant changes across the year | two seasons, missing one it clearly has | each season of interest covered (e.g. spring bloom + fall colour/seedheads + winter stems) | *(NA only if the plant truly has one season of interest — e.g. a frost-tender summer annual or a spring ephemeral)* |
 
-**Nice-to-have:** seasonal coverage (spring / summer / fall / winter) where the plant changes a
-lot (fall colour, winter stems/seedheads). Don't pad the reel with near-duplicate summer shots.
+**Overall verdict — push every plant to `excellent`.**
+- **excellent** = *every applicable (non-NA) axis scores 2.* This is the bar we hold every plant to; if any axis is below 2, the reel isn't done — re-source the shot that's lacking.
+- **good** = covers the plant well (no axis at 0, most at 2) — close, but still has a 1 to lift.
+- **fair** = usable but missing shot types (several 1s/0s).
+- **poor** = doesn't convey the plant (multiple 0s).
+
+A plant that genuinely can't reach `excellent` because no open-licensed photo of a needed
+shot exists (a rare cultivar's fall colour, say) should say so explicitly in its `gaps` note —
+"capped at good: no CC winter shot exists" — so it's a known limit, not an oversight.
 
 **Each image ships in two sizes:** a **720×480 (3:2) smart-cropped thumbnail**
 (`local:`, what the card grid loads) and a **≤1500px full image** (`full:`, what the

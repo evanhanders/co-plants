@@ -66,5 +66,12 @@
       400,
       300
     ]
+  },
+  {
+    "file": "images/fa-berries.jpg",
+    "by": "Rick Travis",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/photos/552381723",
+    "via": "GBIF"
   }
 ]

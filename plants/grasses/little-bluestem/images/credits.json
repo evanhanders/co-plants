@@ -30,5 +30,12 @@
     "license": "CC-BY",
     "source": "https://www.inaturalist.org/observations/37198343",
     "dataset": "iNaturalist open data"
+  },
+  {
+    "file": "images/su-bluegreen.jpg",
+    "by": "habitatharry",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/photos/516917677",
+    "via": "GBIF"
   }
 ]

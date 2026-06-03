@@ -73,6 +73,16 @@
       "by": "ouellet_k",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/61091011"
+    },
+    {
+      "local": "images/fa-berries-t.jpg",
+      "full": "images/fa-berries.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/549603058/original.jpg",
+      "s": "fall",
+      "cap": "Fall — a glossy red berry ripening on the evergreen mat · © D Solis (CC-BY-NC) / GBIF",
+      "by": "D Solis",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/photos/549603058"
     }
   ]
 }

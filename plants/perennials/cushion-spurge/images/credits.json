@@ -49,5 +49,12 @@
       300,
       400
     ]
+  },
+  {
+    "file": "images/fa-color.jpg",
+    "by": "Martin A. Prinz",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/photos/167706531",
+    "via": "GBIF"
   }
 ]

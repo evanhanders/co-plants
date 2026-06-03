@@ -31,6 +31,10 @@ content lives in per-plant data files that the page fetches at runtime.
 - **Entry point:** `index.html` at the repo root (GitHub Pages serves it directly)
 - **Title:** "The Front Range Herbarium" (was previously "Plantarium" — don't revert)
 - **`.nojekyll`** is present so Pages serves every file (incl. the `plants/` tree) verbatim.
+- **`LICENSE`** — MIT for the code (site + `tools/`); the written care text is CC-BY-4.0; each
+  **photo keeps its own** CC0/CC-BY/CC-BY-SA/CC-BY-NC license (recorded per shot + in
+  `credits.json`). Because some photos are CC-BY-NC, the photo set as a whole is
+  non-commercial; reuse each photo under its own terms, with attribution.
 
 ## How deploys work
 
@@ -371,6 +375,18 @@ if in doubt):
 3. **Wikimedia Commons** (`*.wikimedia.org`) — its own search API, used for the
    hand-sourced cultivars (the Commons pipeline below). Wikimedia rate-limits hard:
    always send a descriptive `User-Agent`, throttle, and back off on HTTP 429.
+4. **GBIF** (`api.gbif.org`) — aggregates iNaturalist **plus observation.org and many
+   other datasets** with license metadata, so it surfaces openly-licensed photos (and shot
+   types — ripe berries, fall colour) that iNat's vote-sorted top results bury. **Use it to
+   fill gaps the first three miss.** `tools/gbif_montage.py "<cat/slug>" "<Sci name>" [--us]
+   [--month 9,10,11]` pulls StillImage media under open licenses (CC0/BY/BY-SA/BY-NC, never
+   -ND) and tiles a montage; the **`--month` filter is the trick for seasonal shots** (autumn
+   months → berries & fall colour). `tools/gbif_add.py <picks.json>` then **APPENDS** the
+   chosen photo(s) to a plant's `shots[]` (unlike finalize.py/commons_finalize.py, which
+   rewrite the whole reel) — exactly what you want to add one missing shot type; run
+   `rethumb.py` after. (Filled kinnikinnick & trumpet-honeysuckle berries, cushion-spurge
+   fall colour, and a blue-green summer little-bluestem.) GBIF also rate-limits (429) — the
+   tool backs off.
 
 Always send a descriptive `User-Agent` (e.g. `co-plants-herbarium/1.0 (evanhanders@gmail.com)`)
 to the iNat API too. The whole pipeline lives in `tools/` and is reusable.

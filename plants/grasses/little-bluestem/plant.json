@@ -80,6 +80,16 @@
       "by": "Steve Taylor",
       "lic": "CC-BY",
       "link": "https://www.inaturalist.org/observations/37198343"
+    },
+    {
+      "local": "images/su-bluegreen-t.jpg",
+      "full": "images/su-bluegreen.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/516917677/original.jpg",
+      "s": "summer",
+      "cap": "Summer — fine steel-blue foliage, before the fall copper · © habitatharry (CC-BY-NC) / GBIF",
+      "by": "habitatharry",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/photos/516917677"
     }
   ],
   "commons": "Schizachyrium scoparium kz3.jpg"

@@ -86,17 +86,21 @@ tabs.forEach(function(t){ t.onclick=function(){ setActive(+t.dataset.i); }; });
    so a vertical drag still scrolls the page (no scroll-chaining). Horizontal-dominant
    swipes past a threshold step the season; taps fall through to the lightbox. */
 if(figs.length>1){
-var sx=0, sy=0, sw=false;
-reel.addEventListener('pointerdown', function(e){ sx=e.clientX; sy=e.clientY; sw=true; }, {passive:true});
-reel.addEventListener('pointerup', function(e){
+var sx=0, sy=0, lx=0, ly=0, sw=false;
+function commitSwipe(){
 if(!sw) return; sw=false;
-var dx=e.clientX-sx, dy=e.clientY-sy;
-if(Math.abs(dx)>40 && Math.abs(dx)>Math.abs(dy)*1.4){
+var dx=lx-sx, dy=ly-sy;
+if(Math.abs(dx)>35 && Math.abs(dx)>Math.abs(dy)*1.3){
 var n = dx<0 ? Math.min(figs.length-1, cur+1) : Math.max(0, cur-1);
 if(n!==cur) setActive(n);
 }
-}, {passive:true});
-reel.addEventListener('pointercancel', function(){ sw=false; }, {passive:true});
+}
+reel.addEventListener('pointerdown', function(e){ sx=lx=e.clientX; sy=ly=e.clientY; sw=true; }, {passive:true});
+reel.addEventListener('pointermove', function(e){ if(sw){ lx=e.clientX; ly=e.clientY; } }, {passive:true});
+/* commit on pointerup AND pointercancel — some mobile browsers (incl. Brave/Android)
+   end a horizontal drag with pointercancel rather than pointerup */
+reel.addEventListener('pointerup', commitSwipe, {passive:true});
+reel.addEventListener('pointercancel', commitSwipe, {passive:true});
 }
 setActive(0);
 });

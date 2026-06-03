@@ -51,6 +51,21 @@ won't work — serve it over HTTP and validate from inside the container with `c
 python3 -m http.server 8000   # then curl http://localhost:8000/plants/manifest.json etc.
 ```
 
+**Touch / swipe test (`tests/swipe.spec.mjs`).** The card photo-strip swipe is touch-input
+behaviour that `curl` can't catch, so there's a real-browser regression test (Playwright +
+Chromium, the same engine as Brave) that emulates a touchscreen and dispatches genuine touch
+events via CDP — it verifies a horizontal swipe steps the season photo (both directions) and
+a vertical drag scrolls the page without changing it. **Gotcha it guards:** the touched reel
+must be **scrolled into view** or the touch lands off-screen and the test silently no-ops (a
+below-the-fold reel was a false failure once). Run it after any change to `reel.js`'s
+`wireReels` or the reel's `touch-action`:
+
+```
+npm install playwright && npx playwright install chromium   # one-time (gitignored)
+python3 -m http.server 8077 &
+node tests/swipe.spec.mjs
+```
+
 ## Architecture
 
 The site is a few plain files plus a tree of per-plant data:

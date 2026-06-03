@@ -47,24 +47,44 @@
   ],
   "shots": [
     {
-      "local": "images/sp-flowers-t.jpg",
-      "full": "images/sp-flowers.jpg",
-      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/387167060/large.jpg",
+      "local": "images/sp-bloom-t.jpg",
+      "full": "images/sp-bloom.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/640222566/large.jpg",
       "s": "spring",
-      "cap": "Late spring — single white blooms & glossy foliage · © Scott (CC0) / iNaturalist",
-      "by": "Scott",
-      "lic": "CC0",
-      "link": "https://www.inaturalist.org/photos/387167060"
+      "cap": "Clump covered in lush double pink bomb blooms · © Kevin Koehler (CC-BY-NC) / iNaturalist",
+      "by": "Kevin Koehler",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/350861358"
     },
     {
-      "local": "images/su-foliage-t.jpg",
-      "full": "images/su-foliage.jpg",
-      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/287066890/large.jpg",
-      "s": "summer",
-      "cap": "Summer — divided foliage after bloom · © Elliot Greiner (CC-BY) / iNaturalist",
-      "by": "Elliot Greiner",
-      "lic": "CC-BY",
-      "link": "https://www.inaturalist.org/photos/287066890"
+      "local": "images/sp-flower-t.jpg",
+      "full": "images/sp-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/526143904/large.jpg",
+      "s": "spring",
+      "cap": "Face-on double bomb bloom, pink and cream · © Jordyn Day (CC-BY-NC) / iNaturalist",
+      "by": "Jordyn Day",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/292377448"
+    },
+    {
+      "local": "images/sp-foliage-t.jpg",
+      "full": "images/sp-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/271812291/large.jpg",
+      "s": "spring",
+      "cap": "Emerging red-bronze divided foliage in spring · © leshibug (CC-BY-NC) / iNaturalist",
+      "by": "leshibug",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/157186464"
+    },
+    {
+      "local": "images/sp-habit-t.jpg",
+      "full": "images/sp-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/580478383/large.jpg",
+      "s": "spring",
+      "cap": "Whole clump of creamy white double blooms with foliage · © Колесова Кристина (CC-BY-NC) / iNaturalist",
+      "by": "Колесова Кристина",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/321004273"
     }
   ],
   "commons": "Paeonia lactiflora 'Gay Paree'.jpg"

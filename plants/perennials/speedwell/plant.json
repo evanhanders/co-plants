@@ -42,7 +42,7 @@
       "full": "images/su-close.jpg",
       "commons": "Veronica spicata Icicle 2zz.jpg",
       "s": "summer",
-      "cap": "White flower spikes (the 'Icicle' type) · © Photo by David J. Stang (CC BY-SA 4.0) / Wikimedia Commons",
+      "cap": "White 'Icicle' flower spike — crisp, densely packed florets · © Photo by David J. Stang (CC BY-SA 4.0) / Wikimedia Commons",
       "by": "Photo by David J. Stang",
       "lic": "CC BY-SA 4.0",
       "link": "https://commons.wikimedia.org/wiki/File:Veronica_spicata_Icicle_2zz.jpg"
@@ -52,10 +52,30 @@
       "full": "images/su-structure.jpg",
       "commons": "Veronica spicata White Jolanda 2zz.jpg",
       "s": "summer",
-      "cap": "An upright clump of white spikes · © Photo by David J. Stang (CC BY-SA 4.0) / Wikimedia Commons",
+      "cap": "White-flowered clump in full bloom with a visiting bumblebee · © Photo by David J. Stang (CC BY-SA 4.0) / Wikimedia Commons",
       "by": "Photo by David J. Stang",
       "lic": "CC BY-SA 4.0",
       "link": "https://commons.wikimedia.org/wiki/File:Veronica_spicata_White_Jolanda_2zz.jpg"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/313497891/large.jpg",
+      "s": "summer",
+      "cap": "Blue-flowered spikes in natural meadow habitat — the species-type color form · © Terry Instone (CC-BY) / iNaturalist",
+      "by": "Terry Instone",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/180015956"
+    },
+    {
+      "local": "images/su-flower-t.jpg",
+      "full": "images/su-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/398279213/large.jpeg",
+      "s": "summer",
+      "cap": "Face-on blue spike showing the tiny starry florets opening bottom-up · © ton_bal (CC-BY-NC) / iNaturalist",
+      "by": "ton_bal",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/224699580"
     }
   ]
 }

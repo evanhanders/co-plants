@@ -41,24 +41,44 @@
   ],
   "shots": [
     {
-      "local": "images/sp-close-t.jpg",
-      "full": "images/sp-close.jpg",
-      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/124048158/large.jpeg",
+      "local": "images/sp-flower-t.jpg",
+      "full": "images/sp-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/386157566/large.jpg",
       "s": "spring",
-      "cap": "Airy sprays of tiny blue forget-me-not flowers · © rupicapra (CC-BY-NC) / iNaturalist",
-      "by": "rupicapra",
+      "cap": "Silver-splashed heart-shaped leaves with blue forget-me-not flowers · © mattiexoxo (CC-BY-NC) / iNaturalist",
+      "by": "mattiexoxo",
       "lic": "CC-BY-NC",
-      "link": "https://www.inaturalist.org/observations/75806635"
+      "link": "https://www.inaturalist.org/observations/218235976"
     },
     {
-      "local": "images/sp-structure-t.jpg",
-      "full": "images/sp-structure.jpg",
-      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/194630632/large.jpg",
+      "local": "images/sp-habit-t.jpg",
+      "full": "images/sp-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/129027114/large.jpeg",
       "s": "spring",
-      "cap": "Large heart-shaped leaves with silver markings · © charliemcfarlig (CC-BY-NC) / iNaturalist",
-      "by": "charliemcfarlig",
+      "cap": "Whole plant in bloom in shaded woodland setting · © elena_tikhonova (CC-BY-NC) / iNaturalist",
+      "by": "elena_tikhonova",
       "lic": "CC-BY-NC",
-      "link": "https://www.inaturalist.org/observations/115300413"
+      "link": "https://www.inaturalist.org/observations/78814274"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/257228845/large.jpg",
+      "s": "summer",
+      "cap": "Dense mat of silver-marked heart-shaped leaves · © henryedelman (CC-BY-NC) / iNaturalist",
+      "by": "henryedelman",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/149291269"
+    },
+    {
+      "local": "images/sp-bloom-t.jpg",
+      "full": "images/sp-bloom.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/382967335/large.jpg",
+      "s": "spring",
+      "cap": "Airy spray of tiny blue forget-me-not flowers · © petersaucy (CC-BY-NC) / iNaturalist",
+      "by": "petersaucy",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/216536748"
     }
   ]
 }

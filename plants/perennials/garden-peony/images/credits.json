@@ -1,10 +1,10 @@
 [
   {
-    "file": "images/sp-flowers.jpg",
-    "photo_id": "387167060",
-    "by": "Scott",
-    "license": "CC0",
-    "source": "https://www.inaturalist.org/photos/387167060",
+    "file": "images/sp-bloom.jpg",
+    "photo_id": 640222566,
+    "by": "Kevin Koehler",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/350861358",
     "dataset": "iNaturalist open data",
     "render": "original",
     "full_px": [
@@ -17,11 +17,45 @@
     ]
   },
   {
-    "file": "images/su-foliage.jpg",
-    "photo_id": "287066890",
-    "by": "Elliot Greiner",
-    "license": "CC-BY",
-    "source": "https://www.inaturalist.org/photos/287066890",
+    "file": "images/sp-flower.jpg",
+    "photo_id": 526143904,
+    "by": "Jordyn Day",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/292377448",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  },
+  {
+    "file": "images/sp-foliage.jpg",
+    "photo_id": 271812291,
+    "by": "leshibug",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/157186464",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  },
+  {
+    "file": "images/sp-habit.jpg",
+    "photo_id": 580478383,
+    "by": "Колесова Кристина",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/321004273",
     "dataset": "iNaturalist open data",
     "render": "original",
     "full_px": [

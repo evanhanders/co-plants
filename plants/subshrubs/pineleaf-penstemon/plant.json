@@ -41,24 +41,44 @@
   ],
   "shots": [
     {
-      "local": "images/su-close-t.jpg",
-      "full": "images/su-close.jpg",
-      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/399937230/large.jpg",
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/330085380/large.jpeg",
       "s": "summer",
-      "cap": "Summer — soft-yellow tubular flowers of the 'Mersea Yellow' form over needle-fine foliage · © ninaem (CC-BY-NC) / iNaturalist",
-      "by": "ninaem",
+      "cap": "Whole mound of yellow-flowered pineleaf penstemon · © scottysmith (CC-BY-NC) / iNaturalist",
+      "by": "scottysmith",
       "lic": "CC-BY-NC",
-      "link": "https://www.inaturalist.org/observations/225366625"
+      "link": "https://www.inaturalist.org/observations/188573333"
     },
     {
-      "local": "images/su-structure-t.jpg",
-      "full": "images/su-structure.jpg",
-      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/522401849/large.jpg",
+      "local": "images/su-bloom-t.jpg",
+      "full": "images/su-bloom.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/330085348/large.jpeg",
       "s": "summer",
-      "cap": "Summer — the low evergreen subshrub in yellow bloom · © Jes Gray (CC-BY) / iNaturalist",
-      "by": "Jes Gray",
-      "lic": "CC-BY",
-      "link": "https://www.inaturalist.org/observations/290395437"
+      "cap": "Yellow tubular flowers over needle-fine foliage · © scottysmith (CC-BY-NC) / iNaturalist",
+      "by": "scottysmith",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/188573333"
+    },
+    {
+      "local": "images/su-flower-t.jpg",
+      "full": "images/su-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/546141794/large.jpg",
+      "s": "summer",
+      "cap": "Yellow tubular flowers of the Mersea Yellow cultivar · © titus9 (CC-BY-NC) / iNaturalist",
+      "by": "titus9",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/303021960"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/546141886/large.jpg",
+      "s": "summer",
+      "cap": "Close-up of the needle-fine evergreen foliage · © titus9 (CC-BY-NC) / iNaturalist",
+      "by": "titus9",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/303021960"
     }
   ]
 }

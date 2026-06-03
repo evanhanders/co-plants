@@ -399,6 +399,11 @@ writes a labeled `montage.jpg` to review and appends the per-slug `shortlist.jso
 Set `PHOTOWORK=/tmp/<dir>` to run several in parallel without collisions. Add `--anygrade`
 to include cultivated/casual observations (needed for garden cultivars like 'Mersea Yellow'
 pineleaf penstemon that log as "casual" and are otherwise filtered out by research-grade).
+**To target a shot type, filter the query:** `--month 9,10,11` (seasonal — fall colour,
+berries) and especially `--phenology fruiting|flowering|budding` (iNat's human-applied Plant
+Phenology annotation — the precise way to surface seed-pods/berries vs blooms). These beat
+GBIF for this since iNat's annotations are cleaner; reach for GBIF only when you need
+**non-iNat** datasets (observation.org etc.).
 
 1. **Resolve the taxon.** `GET /v1/taxa?q=<botanical name>` → the **active** taxon id —
    names drift (Rocky Mountain bee plant is now *Cleomella serrulata*; the old *Peritoma

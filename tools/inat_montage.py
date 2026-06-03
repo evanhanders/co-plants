@@ -35,12 +35,18 @@ def resolve_taxon(name):
             return t["id"], t.get("name")
     raise SystemExit(f"no active taxon for '{name}' (tried '{q}')")
 
-def fetch(slug, name, place_id, use_place, anygrade=False):
+PHENO = {"flowering": 13, "fruiting": 14, "budding": 15}  # iNat Plant Phenology annotation (term_id 12)
+
+def fetch(slug, name, place_id, use_place, anygrade=False, month=None, pheno=None):
     tid, tname = resolve_taxon(name)
     params = {"taxon_id": tid, "photo_license": "cc0,cc-by,cc-by-nc",
               "order_by": "votes", "per_page": 60}
     if not anygrade:
         params["quality_grade"] = "research"   # --anygrade keeps cultivated/casual obs (garden cultivars)
+    if month:                                  # --month 9,10,11 → seasonal shots (fall colour, berries)
+        params["month"] = month
+    if pheno:                                  # --phenology fruiting|flowering|budding → target a shot type
+        params["term_id"] = 12; params["term_value_id"] = PHENO[pheno]
     if use_place and place_id:
         params["place_id"] = place_id
     obs = api("observations", params)
@@ -96,12 +102,15 @@ def montage(slug, cands):
 
 if __name__ == "__main__":
     slug, name = sys.argv[1], sys.argv[2]
-    place_id = 34; use_place = True; anygrade = False
-    for a in sys.argv[3:]:
+    place_id = 34; use_place = True; anygrade = False; month = None; pheno = None
+    args = sys.argv[3:]
+    for i, a in enumerate(args):
         if a == "--global": use_place = False
         elif a == "--anygrade": anygrade = True
+        elif a == "--month": month = args[i+1]
+        elif a == "--phenology": pheno = args[i+1].lower()
         elif a.isdigit(): place_id = int(a)
-    cands = fetch(slug, name, place_id, use_place, anygrade)
+    cands = fetch(slug, name, place_id, use_place, anygrade, month, pheno)
     # strip the private _thumb before persisting the shortlist
     shortlist_path = os.path.join(WORK, "shortlist.json")
     sl = json.load(open(shortlist_path)) if os.path.exists(shortlist_path) else {}

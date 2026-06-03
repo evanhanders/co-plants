@@ -15,6 +15,27 @@
   "winter": false,
   "verified": "2026-05-28",
   "commons": "Euphorbia marginata 2.JPG",
+  "care": {
+    "hardiness": "A warm-season annual — it germinates, grows, blooms, and sets seed in one season and is killed outright by the first hard frost. There is no overwintering (unless it reseeds). Its native range spans the central and southern plains of North America including Colorado, so it is perfectly adapted to Front Range summers. USDA hardiness zones are not applicable for annuals.",
+    "sun": "Full sun is best — 6+ hours of direct light produces the most robust, upright plants with the brightest white-variegated foliage. It tolerates some afternoon shade but can become floppy and less showy with too little sun. On the dry, high-altitude Front Range, full sun suits it well.",
+    "soil": "Thrives in average to poor, well-drained soil — it is native to dry prairies and tolerates rocky, sandy, and clay-loam textures including the alkaline soils common in Front Range yards. Rich, moist, heavily amended soil makes it floppy. No fertilizer or compost needed at planting; lean ground is ideal. Good drainage is the main requirement.",
+    "water": "Low to moderate once established. Water transplants and seedlings regularly until rooted in; after that, water deeply every 7–10 days in summer heat. It handles the periodic dry spells typical of the Front Range without drama. Overwatering leads to root rot in heavy soils — err on the side of dry.",
+    "spacing": "Space 6–12 in. apart in the garden; plants grow 1–3 ft tall and about 1–2 ft wide with a single upright stem. For a bold colony effect, sow in drifts. In naturalized stands it self-thins as the season progresses.",
+    "sow": "Direct-sow outdoors in early to mid-spring once the soil is workable and frosts are mostly done — around late April to mid-May in Boulder. Alternatively, start indoors 6–8 weeks before the last frost (roughly early April). It taproots and dislikes transplanting, so direct sowing is preferable. Rake seed shallowly into the soil surface or press it in — it may need some light to germinate.",
+    "depth": "Sow shallowly, about ¼ in. deep (or simply pressed into the soil surface). Germination is erratic and takes 10–14 days at soil temperatures of 60–75°F. Sow more seed than you think you need; expect some gaps. Thin to 6–12 in. once seedlings are established.",
+    "bloom": "Small greenish-yellow true flowers appear mid-summer, but the ornamental show — the striking white-margined leaves and white-bracted upper foliage — begins in July and builds through August and September until frost kills the plant. The whole plant becomes increasingly frosted-white as the season advances.",
+    "feeding": "None needed. This is a prairie plant of lean, poor soils; fertilizing produces lush leafy growth and weakens the upright habit. Skip compost and fertilizer entirely for the best form.",
+    "maintenance": "Essentially none during the season. If self-seeding is not wanted, cut plants back before seed matures in fall. Otherwise, let the pods ripen and shatter for next year's colony. Pull or compost spent plants after the first killing frost.",
+    "selfsow": "Prolific self-sower — it naturalizes readily in open, disturbed soil and returns year after year from seed. On the Front Range this is a feature, not a problem; volunteers are easy to pull or thin in spring. If you want to limit the spread, deadhead or cut back before seed matures. It is not CO-listed as a noxious weed.",
+    "troubles": "Generally trouble-free. Aphids occasionally cluster on stems — knock off with a strong water spray. No serious diseases in dry, well-drained conditions. The most important caution is the milky sap: all euphorbia sap is a skin and eye irritant that can cause contact dermatitis; it is toxic if ingested and can irritate mucous membranes. Always wear gloves and eye protection when cutting or pulling plants, and wash hands thoroughly afterward. Keep children and pets from chewing stems. The honey from bees visiting this plant can carry trace irritants, though this is rarely a practical concern.",
+    "harvest": "Collect seed in late summer when pods turn tan and begin to dry, just before they split open explosively. Dry pods in a paper bag indoors, then shake free the dark seeds and store cool and dry. Germination does not require any pretreatment.",
+    "companions": "Other lean-soil, full-sun Front Range annuals and prairie plants: cosmos, California poppy, native sunflowers, blanketflower, and black-eyed Susan. The white-and-green foliage makes a striking contrast to bold red or orange flowers."
+  },
+  "care_src": [
+    { "name": "Missouri Botanical Garden Plant Finder — Euphorbia marginata", "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=280105" },
+    { "name": "Lady Bird Johnson Wildflower Center — Euphorbia marginata", "url": "https://www.wildflower.org/plants/result.php?id_plant=euma8" },
+    { "name": "Gardening Know How — Snow on the Mountain", "url": "https://www.gardeningknowhow.com/ornamental/cacti-succulents/snow-on-the-mountain" }
+  ],
   "shots": [
     {
       "local": "images/su-bracts-t.jpg",

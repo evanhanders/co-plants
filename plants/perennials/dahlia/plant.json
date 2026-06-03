@@ -1,8 +1,10 @@
 {
   "common": "Dahlia",
   "botanical": "Dahlia × hortensis",
-  "type": "Perennial",
+  "type": "Forb",
+  "lifecycle": "Tender perennial",
   "native": "Non-native",
+  "bloom_season": "Summer",
   "blurb": "Tender tubers that explode into bold, geometric blooms from midsummer to frost.",
   "size": "1–6 ft × 1–3 ft (varies by type)",
   "sun": "Full sun",
@@ -14,7 +16,6 @@
   "toxic": "Mildly toxic to pets if eaten",
   "winter": false,
   "verified": "2026-06-01",
-  "commons": "A maroon Dahlia flower (Lalbagh, Bangalore, 2017).jpg",
   "care": {
     "hardiness": "Tender — hardy only to USDA zones 7–10; not winter-hardy on the Boulder Front Range (zone 5b–6a). Tubers will freeze and rot if left in the ground through a Colorado winter. Treat dahlias as summer performers: plant in spring after the last frost, enjoy them through fall, then dig and store tubers before hard freeze. Done correctly, a single set of tubers can provide years of blooms.",
     "sun": "Full sun — at least 6–8 hours of direct sun daily. On the Front Range, the intense high-altitude sun is an asset; dahlias bloom heavily and color is vivid. Some light afternoon shade is tolerated in extreme heat but generally reduces flower count.",
@@ -31,8 +32,14 @@
     "propagation": "The easiest and most reliable method is tuber division: when you dig the clump in fall (or just before replanting in spring), use a clean, sharp knife to cut the clump so that each division has at least one eye (growth bud) attached to a neck of the mother stem — eyes are easiest to see in spring when they start to swell. Discard any rotten or shriveled sections. A clump that started as one tuber may yield 5–15 divisions after a good season. Basal stem cuttings taken in late winter from tubers started indoors (cut 3–4 in shoots with a heel when they are 4–6 in tall, root in moist perlite at 65–70°F with bottom heat) produce many virus-free plants and are the method nurseries use to scale up named varieties. Growing from seed is straightforward for species and some open-pollinated mixes (start indoors 6–8 weeks before last frost at 70°F; seedlings bloom their first year), but cultivar offspring vary wildly and named varieties don't come true — use seed only if you're happy with a surprise."
   },
   "care_src": [
-    { "name": "PlantTalk Colorado — Planting Dahlia Tubers (CSU Extension)", "url": "https://planttalk.colostate.edu/topics/annuals-perennials/1094-planting-dahlia-tubers/" },
-    { "name": "Missouri Botanical Garden Plant Finder — Dahlia (group)", "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=a445" }
+    {
+      "name": "PlantTalk Colorado — Planting Dahlia Tubers (CSU Extension)",
+      "url": "https://planttalk.colostate.edu/topics/annuals-perennials/1094-planting-dahlia-tubers/"
+    },
+    {
+      "name": "Missouri Botanical Garden Plant Finder — Dahlia (group)",
+      "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=a445"
+    }
   ],
   "shots": [
     {
@@ -55,5 +62,6 @@
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/photos/317732099"
     }
-  ]
+  ],
+  "commons": "A maroon Dahlia flower (Lalbagh, Bangalore, 2017).jpg"
 }

@@ -1,8 +1,10 @@
 {
   "common": "Garden phlox",
   "botanical": "Phlox paniculata",
-  "type": "Perennial",
+  "type": "Forb",
+  "lifecycle": "Perennial",
   "native": "Non-native",
+  "bloom_season": "Summer",
   "blurb": "Stately, sweetly fragrant domed panicles in pink, white, or lavender crown 3-foot stems all summer — a classic butterfly magnet, though powdery-mildew-resistant cultivars are essential in Boulder's semi-arid climate.",
   "size": "2–4 ft × 2–3 ft",
   "sun": "Full sun to part shade",

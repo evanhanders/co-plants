@@ -47,8 +47,10 @@
 <button data-nat="native">Native</button>
 <button data-nat="intro">Introduced</button>
 </div>
-<span class="fl-label">Type</span>
+<span class="fl-label">Form</span>
 <div class="chips" id="typeChips"></div>
+<span class="fl-label">Lifecycle</span>
+<div class="chips" id="lifeChips"></div>
 <span class="fl-label">Traits</span>
 <div class="chips" id="traitChips"></div>
 </div>
@@ -68,8 +70,14 @@ Tap the season dots under a card's photo to move through the seasons. Coyote wil
 <label for="f_botanical">Botanical name</label>
 <input type="text" id="f_botanical" placeholder="e.g. Penstemon strictus">
 <div class="two">
-<div><label for="f_type">Type</label>
-<select id="f_type"><option>Perennial</option><option>Annual</option><option>Grass</option><option>Shrub</option><option>Subshrub</option><option>Tree</option><option>Vine</option><option>Groundcover</option></select>
+<div><label for="f_type">Growth form</label>
+<select id="f_type"><option>Forb</option><option>Tree</option><option>Shrub</option><option>Subshrub</option><option>Grass</option><option>Vine</option><option>Groundcover</option></select>
+</div>
+<div><label for="f_lifecycle">Lifecycle</label>
+<select id="f_lifecycle"><option>Perennial</option><option>Annual</option><option>Biennial</option><option>Tender perennial</option></select>
+</div>
+<div><label for="f_bloom">Bloom season (forbs)</label>
+<select id="f_bloom"><option>Spring</option><option selected>Summer</option><option>Fall</option></select>
 </div>
 <div><label for="f_native">Native status</label>
 <select id="f_native"><option value="CO native">CO / regional native</option><option value="Non-native">Non-native (vetted)</option></select>

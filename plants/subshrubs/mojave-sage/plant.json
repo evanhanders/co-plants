@@ -2,6 +2,7 @@
   "common": "Mojave sage",
   "botanical": "Salvia pachyphylla",
   "type": "Subshrub",
+  "lifecycle": "Perennial",
   "native": "Non-native",
   "blurb": "Silvery aromatic mound crowned with violet flowers and lasting mauve bracts.",
   "size": "2–3 ft × 2–3 ft",
@@ -14,7 +15,6 @@
   "toxic": "",
   "winter": true,
   "verified": "2026-05-31",
-  "commons": "Salvia pachyphylla, the Rose Sage (10461533306).jpg",
   "care": {
     "hardiness": "USDA zones 5–10 — reliably hardy at Boulder's 5b–6a with one critical caveat: it must stay dry through winter. Wet, poorly drained soil in winter (especially under heavy snow) causes crown rot and is the primary cause of failure in Colorado. Planted in a raised bed, a south-facing berm, or any sharply drained site, it overwinters without issue and is semi-evergreen, holding its silvery foliage through mild stretches.",
     "sun": "Full sun, no compromise — at least 6–8 hours of direct sun daily. This native of California's high desert hills was built for intense, dry sunlight. Shade causes weak, floppy growth and reduces bloom.",
@@ -30,8 +30,14 @@
     "propagation": "Propagation is notoriously difficult and supply consistently lags demand — buying a nursery-grown Plant Select specimen is by far the most reliable path. Seed is the main natural dispersal route (volunteers occasionally appear near mature plants), but germination rates are low and inconsistent; sow fresh seed in fall directly or in pots of gritty mix left outdoors for natural cold stratification. Softwood stem cuttings taken in late spring to early summer (4–6 in., heel or nodal, with bottom leaves removed) in a gritty, free-draining rooting medium offer the best vegetative option — mist lightly and provide bottom heat if possible, but don't let the mix stay wet. Division of the woody crown is not practical. Patience is the key: even successful cuttings are slow to establish."
   },
   "care_src": [
-    { "name": "Plant Select — Mojave Sage (Salvia pachyphylla)", "url": "https://plantselect.org/plant/salvia-pachyphylla/" },
-    { "name": "Plant Select — Mojave Sage: A Sage for All Seasons", "url": "https://plantselect.org/plantstories/mojave-sage-a-sage-for-all-seasons/" }
+    {
+      "name": "Plant Select — Mojave Sage (Salvia pachyphylla)",
+      "url": "https://plantselect.org/plant/salvia-pachyphylla/"
+    },
+    {
+      "name": "Plant Select — Mojave Sage: A Sage for All Seasons",
+      "url": "https://plantselect.org/plantstories/mojave-sage-a-sage-for-all-seasons/"
+    }
   ],
   "shots": [
     {
@@ -54,5 +60,6 @@
       "lic": "CC0",
       "link": "https://www.inaturalist.org/photos/44774299"
     }
-  ]
+  ],
+  "commons": "Salvia pachyphylla, the Rose Sage (10461533306).jpg"
 }

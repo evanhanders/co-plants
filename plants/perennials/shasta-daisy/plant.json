@@ -1,8 +1,10 @@
 {
   "common": "Shasta daisy",
   "botanical": "Leucanthemum × superbum",
-  "type": "Perennial",
+  "type": "Forb",
+  "lifecycle": "Perennial",
   "native": "Non-native",
+  "bloom_season": "Summer",
   "blurb": "The classic, well-behaved white daisy — the safe garden stand-in for noxious oxeye — with big golden-eyed blooms all summer.",
   "size": "2–4 ft × 1–2 ft",
   "sun": "Full sun",
@@ -14,7 +16,6 @@
   "toxic": "",
   "winter": false,
   "verified": "2026-06-01",
-  "commons": "Shasta Daisy Becky NBG LR.jpg",
   "care": {
     "hardiness": "USDA zones 4–9 — reliably winter-hardy on the Boulder Front Range (zone 5b–6a) and at elevations to about 9,000 ft. The clump goes dormant after frost and re-emerges in spring. Good winter drainage is more important than cold tolerance; a wet crown through freeze-thaw cycles is the main killer.",
     "sun": "Full sun — 6+ hours daily for the best, stiffest stems and most prolific bloom. Tolerates light afternoon shade, but shaded plants stretch, flop, and flower less. On the high-altitude Front Range, full sun is the norm and plants perform excellently.",
@@ -30,8 +31,14 @@
     "propagation": "Division is the easiest and most recommended method: every 2–3 years in early spring (before growth begins) or in late summer after bloom fades, dig the clump, split it with a sharp spade or two forks back-to-back, discard the woody center, and replant vigorous outer sections 18–24 in. apart. Spring division gives the best establishment; late-summer division is also reliable on the Front Range if done by early September. Seed is straightforward for species and open-pollinated cultivars — surface-sow or cover lightly (⅛ in.) indoors 6–8 weeks before last frost at 70°F, or direct-sow in spring; seedlings bloom in year one or two. Named cultivars (especially sterile selections like 'Becky') do not come true from seed and must be propagated by division or basal stem cuttings. Basal cuttings taken in spring (3–4 in. shoots with a slight heel cut when stems are 4–6 in. tall) root readily in moist perlite and are useful for scaling up a favorite cultivar."
   },
   "care_src": [
-    { "name": "NC State Extension — Leucanthemum x superbum", "url": "https://plants.ces.ncsu.edu/plants/leucanthemum-x-superbum/" },
-    { "name": "RHS — Leucanthemum × superbum", "url": "https://www.rhs.org.uk/plants/98781/leucanthemum-superbum/details" }
+    {
+      "name": "NC State Extension — Leucanthemum x superbum",
+      "url": "https://plants.ces.ncsu.edu/plants/leucanthemum-x-superbum/"
+    },
+    {
+      "name": "RHS — Leucanthemum × superbum",
+      "url": "https://www.rhs.org.uk/plants/98781/leucanthemum-superbum/details"
+    }
   ],
   "shots": [
     {
@@ -54,5 +61,6 @@
       "lic": "CC-BY",
       "link": "https://www.inaturalist.org/photos/222899076"
     }
-  ]
+  ],
+  "commons": "Shasta Daisy Becky NBG LR.jpg"
 }

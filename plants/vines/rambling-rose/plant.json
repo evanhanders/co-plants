@@ -2,6 +2,7 @@
   "common": "Rambling rose",
   "botanical": "Rosa (rambling cultivars)",
   "type": "Vine",
+  "lifecycle": "Perennial",
   "native": "Non-native",
   "blurb": "Vigorous, flexible-caned roses that 'wander' over fences & arbors in one big flush — plant named cultivars, not invasive wild multiflora rose.",
   "size": "Sprawls 15–30 ft × 6–15 ft",
@@ -14,7 +15,6 @@
   "toxic": "",
   "winter": false,
   "verified": "2026-06-01",
-  "commons": "Albertine rose North Yorkshire 30 June 2023 (3).JPG",
   "care": {
     "hardiness": "Many classic ramblers are hardy to USDA zone 4–5, making them reliable on the Front Range (zones 5b–6a) when given a sheltered site. Paul's Himalayan Musk, Veilchenblau, American Pillar, and Chevy Chase are among the tougher choices for Colorado. Expect minimal cane dieback in normal winters; in severe winters protect the graft union with a mound of soil or mulch. Choose own-root plants where available — if the top dies, regrowth is the same variety.",
     "sun": "Full sun to part shade — ramblers are more shade-tolerant than climbers or bush roses, making them useful for pergolas, fences, or north-facing walls where other roses struggle. At minimum 4 hours of direct sun for reasonable flowering; 6+ hours for a full flush of bloom.",
@@ -30,9 +30,18 @@
     "propagation": "Hardwood cuttings taken in late fall or early winter are the easiest reliable method: cut 8–12 in lengths of fully ripened, pencil-thick cane, dip the base in rooting hormone, and insert two-thirds of the cutting into a sheltered nursery bed or deep gritty pot. Keep just moist and protect from hard freezes; roots form over winter and the cutting leafs out in spring. Semi-ripe cuttings (6–8 in, mid-to-late summer, leaves retained on the upper nodes) root well under a cloche or plastic cover. Ramblers are also easy to propagate by layering, which suits their naturally arching canes: in spring or summer peg a long flexible cane to the ground, nick a node, cover with soil, and it will root within a season — sever and transplant the following spring. Own-root plants from cuttings or layers are preferred over grafted plants for Front Range conditions: if winter kills the top, any regrowth is the named variety. Seed is not used for cultivars."
   },
   "care_src": [
-    { "name": "RHS — Rose Pruning: Rambling Roses", "url": "https://www.rhs.org.uk/plants/roses/rambler/pruning-guide" },
-    { "name": "CSU Extension — Selecting and Planting Roses", "url": "https://extension.colostate.edu/resource/selecting-and-planting-roses/" },
-    { "name": "PlantTalk Colorado — Pruning Roses (1763)", "url": "https://planttalk.colostate.edu/topics/trees-shrubs-vines/1763-pruning-roses/" }
+    {
+      "name": "RHS — Rose Pruning: Rambling Roses",
+      "url": "https://www.rhs.org.uk/plants/roses/rambler/pruning-guide"
+    },
+    {
+      "name": "CSU Extension — Selecting and Planting Roses",
+      "url": "https://extension.colostate.edu/resource/selecting-and-planting-roses/"
+    },
+    {
+      "name": "PlantTalk Colorado — Pruning Roses (1763)",
+      "url": "https://planttalk.colostate.edu/topics/trees-shrubs-vines/1763-pruning-roses/"
+    }
   ],
   "shots": [
     {
@@ -55,5 +64,6 @@
       "lic": "CC BY-SA 2.0",
       "link": "https://commons.wikimedia.org/wiki/File:Rose,_Paul%27s_Himalayan_Musk_Rambler,_%E3%83%90%E3%83%A9,_%E3%83%9D%E3%83%BC%E3%83%AB%E3%82%BA_%E3%83%92%E3%83%9E%E3%83%A9%E3%83%A4%E3%83%B3_%E3%83%A0%E3%82%B9%E3%82%AF_%E3%83%A9%E3%83%B3%E3%83%96%E3%83%A9%E3%83%BC,_(23747807260).jpg"
     }
-  ]
+  ],
+  "commons": "Albertine rose North Yorkshire 30 June 2023 (3).JPG"
 }

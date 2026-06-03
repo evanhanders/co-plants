@@ -1,8 +1,10 @@
 {
   "common": "Brunnera",
   "botanical": "Brunnera macrophylla",
-  "type": "Perennial",
+  "type": "Forb",
+  "lifecycle": "Perennial",
   "native": "Non-native",
+  "bloom_season": "Spring",
   "blurb": "Clouds of tiny forget-me-not-blue flowers drift above heart-shaped, often silver-splashed leaves each spring — the shade garden's most reliable early-season bloomer, provided it gets consistent moisture and protection from Boulder's afternoon sun.",
   "size": "12–18 in × 18–30 in",
   "sun": "Part shade to full shade",

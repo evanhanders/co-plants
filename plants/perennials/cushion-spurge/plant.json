@@ -1,7 +1,8 @@
 {
   "common": "Cushion spurge",
   "botanical": "Euphorbia polychroma",
-  "type": "Perennial",
+  "type": "Subshrub",
+  "lifecycle": "Perennial",
   "native": "Non-native",
   "blurb": "A tidy chartreuse dome that blazes red-orange in autumn.",
   "size": "12–18 in × 12–18 in (to ~28 in)",
@@ -14,7 +15,6 @@
   "toxic": "Milky sap irritates skin/eyes — wear gloves; caution with kids/pets",
   "winter": false,
   "verified": "2026-05-28",
-  "commons": "Euphorbia polychroma, wolfsmelk.JPG",
   "care": {
     "hardiness": "USDA zones 4–8 — fully winter-hardy on the Boulder Front Range (zone 5b–6a). The mound dies back to the crown in winter and re-emerges reliably each spring. No protection needed beyond good drainage; sitting in wet soil through freeze-thaw cycles is the one thing that kills it.",
     "sun": "Full sun is ideal — 6+ hours gives the tightest, brightest dome. It tolerates light afternoon shade, but too much shade causes the plant to lose its characteristic cushion shape and become open and floppy.",
@@ -31,8 +31,14 @@
     "propagation": "Division in early spring — just as new growth emerges from the crown — is the easiest and most reliable method; dig the clump, split it into sections each with several crowns and roots, and replant immediately at the same depth. Divide every 4–5 years if the center becomes open or unproductive. Basal cuttings taken in spring through early summer (new shoots 3–4 in. long) also root well: sever close to the base, immediately dip the cut end in lukewarm water or powdered charcoal to stop sap bleed, then insert in a gritty rooting mix. Wear gloves throughout — the milky latex is a skin and eye irritant. Seed is possible but slow: surface-sow on gritty compost in autumn and leave outside for winter cold stratification; germination is erratic. For most gardeners, spring division is the go-to approach."
   },
   "care_src": [
-    { "name": "Missouri Botanical Garden Plant Finder — Euphorbia polychroma", "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=h820" },
-    { "name": "RHS — Euphorbia polychroma", "url": "https://www.rhs.org.uk/plants/32745/many-coloured-spurge/details" }
+    {
+      "name": "Missouri Botanical Garden Plant Finder — Euphorbia polychroma",
+      "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=h820"
+    },
+    {
+      "name": "RHS — Euphorbia polychroma",
+      "url": "https://www.rhs.org.uk/plants/32745/many-coloured-spurge/details"
+    }
   ],
   "shots": [
     {
@@ -55,5 +61,6 @@
       "lic": "CC-BY",
       "link": "https://www.inaturalist.org/photos/8139986"
     }
-  ]
+  ],
+  "commons": "Euphorbia polychroma, wolfsmelk.JPG"
 }

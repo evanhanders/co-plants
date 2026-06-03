@@ -1,8 +1,10 @@
 {
   "common": "Blue flax",
   "botanical": "Linum lewisii",
-  "type": "Perennial",
+  "type": "Forb",
+  "lifecycle": "Perennial",
   "native": "CO native",
+  "bloom_season": "Summer",
   "blurb": "Sky-blue, tissue-paper flowers open at sunrise and drop by noon — a long-season, drought-tough Colorado native that reseeds into airy, naturalistic drifts.",
   "size": "1.5–2.5 ft × 1–2 ft",
   "sun": "Full sun",

@@ -1,7 +1,8 @@
 {
   "common": "Candytuft",
   "botanical": "Iberis sempervirens",
-  "type": "Perennial",
+  "type": "Subshrub",
+  "lifecycle": "Perennial",
   "native": "Non-native",
   "blurb": "A woody-based evergreen mat smothered in crisp white flower clusters each spring, then holding its glossy dark foliage through the whole Front Range winter.",
   "size": "6–12 in × 12–24 in",

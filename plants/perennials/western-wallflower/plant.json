@@ -1,8 +1,10 @@
 {
   "common": "Western wallflower",
   "botanical": "Erysimum capitatum",
-  "type": "Perennial",
+  "type": "Forb",
+  "lifecycle": "Biennial",
   "native": "CO native",
+  "bloom_season": "Spring",
   "blurb": "A tough native short-lived perennial or biennial that covers itself in flat-topped clusters of fragrant orange-to-yellow flowers in spring — one of the earliest Front Range natives to bloom and a magnet for the season's first butterflies.",
   "size": "1–2.5 ft × 0.5–1 ft",
   "sun": "Full sun to part shade",

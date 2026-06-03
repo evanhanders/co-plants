@@ -1,8 +1,10 @@
 {
   "common": "Grecian windflower",
   "botanical": "Anemone blanda",
-  "type": "Perennial",
+  "type": "Forb",
+  "lifecycle": "Perennial",
   "native": "Non-native",
+  "bloom_season": "Spring",
   "blurb": "A low spring-blooming tuber that carpets the ground with starry blue, white, or pink daisy-like flowers just 4–6 inches tall — plant soaked tubers in fall and let them naturalize under shrubs or in dappled shade.",
   "size": "4–6 in × 4–6 in (spreading colony over time)",
   "sun": "Part shade to full sun (tolerates full sun in spring before trees leaf out)",

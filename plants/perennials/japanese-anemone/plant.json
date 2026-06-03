@@ -1,8 +1,10 @@
 {
   "common": "Japanese anemone",
   "botanical": "Anemone × hybrida",
-  "type": "Perennial",
+  "type": "Forb",
+  "lifecycle": "Perennial",
   "native": "Non-native",
+  "bloom_season": "Fall",
   "blurb": "Tall, wiry-stemmed perennial that lights up the late-summer and fall garden with luminous pink or white poppy-like flowers — one of very few perennials that blooms well into October on the Front Range.",
   "size": "2.5–4 ft × 2–4 ft (spreads over time)",
   "sun": "Part shade (morning sun / afternoon shade preferred)",

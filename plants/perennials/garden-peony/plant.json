@@ -1,8 +1,10 @@
 {
   "common": "Garden peony",
   "botanical": "Paeonia lactiflora",
-  "type": "Perennial",
+  "type": "Forb",
+  "lifecycle": "Perennial",
   "native": "Non-native",
+  "bloom_season": "Spring",
   "blurb": "Lavish, fragrant late-spring blooms on a clump that can outlive the gardener.",
   "size": "2–3 ft × 2–3 ft",
   "sun": "Full sun–part shade",
@@ -14,7 +16,6 @@
   "toxic": "Toxic to dogs, cats & horses if eaten",
   "winter": false,
   "verified": "2026-06-01",
-  "commons": "Paeonia lactiflora 'Gay Paree'.jpg",
   "care": {
     "hardiness": "USDA zones 3–8 — exceptionally winter-hardy on the Boulder Front Range (zone 5b–6a). The top growth dies to the ground after frost; the roots survive unaided. No lifting or special protection is needed. Peonies actually require a cold dormant period to set buds, so Colorado winters are an asset, not a threat.",
     "sun": "Full sun is ideal — at least 6 hours a day. Afternoon shade is tolerated and can extend bloom in heat, but fewer than 4–5 hours causes sparse flowering and floppy stems. The intense high-altitude sun on the Front Range suits them well.",
@@ -31,9 +32,18 @@
     "propagation": "Division of established clumps is the standard method and the one most relevant to home gardeners. Divide in late summer to early fall (August to September on the Front Range) after the foliage begins to yellow but while the soil is still warm. Dig the entire clump, wash the soil off the crown, and use a sharp knife to cut the root mass into sections, each with 3–5 healthy eyes (red buds) and a good root system — fewer eyes per division means slower establishment and delayed blooming. Replant immediately at the correct depth (eyes 1 in. below the surface) in prepared soil. Divisions take 2–3 years to bloom freely; do not divide more often than every 8–10 years unless truly necessary, as peonies resent root disturbance. Seed is impractical for named cultivars (they do not come true) and takes 3–5 years to first bloom; it's used only for species breeding. Grafting is practiced commercially but is not a home-garden method."
   },
   "care_src": [
-    { "name": "PlantTalk Colorado — Peony (CSU Extension)", "url": "https://planttalk.colostate.edu/topics/annuals-perennials/1042-peony/" },
-    { "name": "Missouri Botanical Garden Plant Finder — Paeonia lactiflora", "url": "http://www.missouribotanicalgarden.org/plantfinder/PlantFinderDetails.aspx?taxonid=286081" },
-    { "name": "CO-Horts (CSU Extension blog) — Peonies: Oh how I love thee", "url": "https://csuhort.blogspot.com/2016/05/peonies-oh-how-i-love-thee.html" }
+    {
+      "name": "PlantTalk Colorado — Peony (CSU Extension)",
+      "url": "https://planttalk.colostate.edu/topics/annuals-perennials/1042-peony/"
+    },
+    {
+      "name": "Missouri Botanical Garden Plant Finder — Paeonia lactiflora",
+      "url": "http://www.missouribotanicalgarden.org/plantfinder/PlantFinderDetails.aspx?taxonid=286081"
+    },
+    {
+      "name": "CO-Horts (CSU Extension blog) — Peonies: Oh how I love thee",
+      "url": "https://csuhort.blogspot.com/2016/05/peonies-oh-how-i-love-thee.html"
+    }
   ],
   "shots": [
     {
@@ -56,5 +66,6 @@
       "lic": "CC-BY",
       "link": "https://www.inaturalist.org/photos/287066890"
     }
-  ]
+  ],
+  "commons": "Paeonia lactiflora 'Gay Paree'.jpg"
 }

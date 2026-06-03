@@ -122,6 +122,7 @@ return (p.native && p.native.indexOf('native')>-1 && p.native!=='Non-native')
 /* trait flags — shared by the grid card and the detail sheet */
 function flagsHTML(p){
 const flags=[];
+if(p.lifecycle) flags.push('<span class="flag life">'+p.lifecycle+'</span>');
 if(TRAITS.winter.test(p)) flags.push('<span class="flag winter">❄ Winter interest</span>');
 if(TRAITS.pollin.test(p)) flags.push('<span class="flag pollin">✿ Pollinator</span>');
 if(TRAITS.spreads.test(p)) flags.push('<span class="flag run">↔ Spreads</span>');

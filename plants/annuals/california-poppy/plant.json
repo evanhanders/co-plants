@@ -1,8 +1,10 @@
 {
   "common": "California poppy",
   "botanical": "Eschscholzia californica",
-  "type": "Annual",
+  "type": "Forb",
+  "lifecycle": "Annual",
   "native": "Non-native",
+  "bloom_season": "Summer",
   "blurb": "Silky orange cups over blue-green lace — a cheerful, drought-proof self-sower (western US native).",
   "size": "8–15 in × 6–12 in",
   "sun": "Full sun",
@@ -14,7 +16,6 @@
   "toxic": "",
   "winter": false,
   "verified": "2026-06-01",
-  "commons": "20170805Eschscholzia californica1.jpg",
   "care": {
     "hardiness": "Hardy annual / short-lived perennial native to the western US — perfectly suited to Front Range conditions (USDA zones 5b–6a and higher). The seeds are frost-tolerant and winter-sow naturally; plants complete their cycle in one growing season and die at hard frost, relying on self-sown seed to return the following year.",
     "sun": "Full sun is required — 6+ hours daily minimum. Flowers close at night and in cloudy or cool weather, and plants in shade stay closed and bloom poorly. Boulder's intense high-altitude sun is ideal.",
@@ -34,8 +35,14 @@
     "propagation": "Seed is the only practical method — California poppy does not divide, layer, or root from cuttings because of its taproot. Collect ripe seed (tan pods just before they split) in summer and fall; store cool and dry. Direct-sow either in fall (the preferred method — natural cold-stratification in the soil) or in early spring. The plant self-sows reliably if a few pods are left to shatter, so a well-established patch largely perpetuates itself without any effort. Saving seed from particularly vivid plants is worthwhile since color can vary in a mixed population."
   },
   "care_src": [
-    { "name": "Lady Bird Johnson Wildflower Center — California poppy planting time in Colorado (NPIN)", "url": "https://www.wildflower.org/expert/show.php?id=2374" },
-    { "name": "Missouri Botanical Garden — Plant Finder (Eschscholzia californica)", "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=b753" }
+    {
+      "name": "Lady Bird Johnson Wildflower Center — California poppy planting time in Colorado (NPIN)",
+      "url": "https://www.wildflower.org/expert/show.php?id=2374"
+    },
+    {
+      "name": "Missouri Botanical Garden — Plant Finder (Eschscholzia californica)",
+      "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=b753"
+    }
   ],
   "shots": [
     {
@@ -58,5 +65,6 @@
       "lic": "CC-BY",
       "link": "https://www.inaturalist.org/photos/3201379"
     }
-  ]
+  ],
+  "commons": "20170805Eschscholzia californica1.jpg"
 }

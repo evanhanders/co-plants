@@ -1,8 +1,10 @@
 {
   "common": "Wild bergamot",
   "botanical": "Monarda fistulosa",
-  "type": "Perennial",
+  "type": "Forb",
+  "lifecycle": "Perennial",
   "native": "CO native",
+  "bloom_season": "Summer",
   "blurb": "Colorado-native bee balm — whimsical lavender 'jester's-hat' heads that hum with pollinators all summer.",
   "size": "2–4 ft × 2–3 ft",
   "sun": "Full sun–light shade",
@@ -14,7 +16,6 @@
   "toxic": "",
   "winter": false,
   "verified": "2026-06-01",
-  "commons": "Monarda fistulosa - Wild Bergamot (Flower).jpg",
   "care": {
     "hardiness": "Hardy to USDA Zone 3 (Zone 3–9 across its full range), and fully winter-hardy on the Front Range (Zone 5b–6a). The Colorado Native Plant Society notes it grows to 9,000 ft in Colorado — Boulder winters are no challenge at all. Stems die back to the ground after frost; the spreading rhizome overwinters without protection and re-sprouts vigorously in spring.",
     "sun": "Full sun is best — 6+ hours produces the tallest, showiest plants and the most pollinator activity. It tolerates light (morning) shade, especially at lower elevations where afternoon heat is intense, but too much shade leads to leggier plants and more powdery mildew. On the Front Range, an open, sunny spot with good airflow is ideal.",
@@ -33,9 +34,18 @@
     "propagation": "Division of the rhizome clump is the primary and easiest method: in early spring (March–April), before growth is more than a few inches tall, dig the outer edge of the clump, break apart sections of rhizome each carrying a few shoots and some roots, and replant 24–36 in apart. Do this every 3–4 years to keep the planting vigorous and prevent the center from dying out. Seed is also reliable: surface-sow on moist growing medium (no stratification required) and press in lightly — seeds need light. Start indoors 8–10 weeks before last frost or direct-sow outdoors in fall for spring germination. Seedlings bloom in their second or third year. Division is far faster to a blooming plant than seed."
   },
   "care_src": [
-    { "name": "Colorado Native Plant Society — Wild Bergamot", "url": "https://conps.org/wild-bergamot/" },
-    { "name": "Lady Bird Johnson Wildflower Center — Monarda fistulosa", "url": "https://www.wildflower.org/plants/result.php?id_plant=mofi" },
-    { "name": "CSU Extension — Native Herbaceous Perennials for Colorado Landscapes", "url": "https://extension.colostate.edu/resource/native-herbaceous-perennials-for-colorado-landscapes/" }
+    {
+      "name": "Colorado Native Plant Society — Wild Bergamot",
+      "url": "https://conps.org/wild-bergamot/"
+    },
+    {
+      "name": "Lady Bird Johnson Wildflower Center — Monarda fistulosa",
+      "url": "https://www.wildflower.org/plants/result.php?id_plant=mofi"
+    },
+    {
+      "name": "CSU Extension — Native Herbaceous Perennials for Colorado Landscapes",
+      "url": "https://extension.colostate.edu/resource/native-herbaceous-perennials-for-colorado-landscapes/"
+    }
   ],
   "shots": [
     {
@@ -68,5 +78,6 @@
       "lic": "CC-BY",
       "link": "https://www.inaturalist.org/photos/351522243"
     }
-  ]
+  ],
+  "commons": "Monarda fistulosa - Wild Bergamot (Flower).jpg"
 }

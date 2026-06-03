@@ -1,8 +1,10 @@
 {
   "common": "Mountain bluet",
   "botanical": "Centaurea montana",
-  "type": "Perennial",
+  "type": "Forb",
+  "lifecycle": "Perennial",
   "native": "Non-native",
+  "bloom_season": "Spring",
   "blurb": "Fringed, almost spidery blue cornflowers on silver-felted stems in late spring — beautiful and vigorous, but it spreads by stolons and seeds so manage it with deadheading and dividing.",
   "size": "12–24 in × 12–18 in",
   "sun": "Full sun to part shade",

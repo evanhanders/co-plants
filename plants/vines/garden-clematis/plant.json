@@ -2,6 +2,7 @@
   "common": "Garden clematis",
   "botanical": "Clematis × jackmanii",
   "type": "Vine",
+  "lifecycle": "Perennial",
   "native": "Non-native",
   "blurb": "Classic large-flowered climber — sheets of velvety violet-purple on a sunny trellis.",
   "size": "Climbs 6–12 ft × 2–3 ft",
@@ -14,7 +15,6 @@
   "toxic": "Irritant/toxic if eaten; sap can irritate skin — caution with kids/pets. AVOID Clematis orientalis (yellow orange-peel clematis) — a CO List B noxious weed (all subspecies & cultivars)",
   "winter": false,
   "verified": "2026-06-01",
-  "commons": "Clematis 'Jackmanii' IMG 0199.jpg",
   "care": {
     "hardiness": "Hardy to USDA zone 4 (RHS H6, to about -20°C) — well within the Front Range's zone 5b–6a. 'Jackmanii' and its large-flowered relatives are among the toughest clematis for Colorado; they die back to the ground in hard winters but reliably regrow from the crown each spring. This is not a problem — it's the expected and desirable behavior for a vine pruned by the Group 3 method (see 'maintenance').",
     "sun": "Best in full sun to part shade, with 6+ hours of direct light for good flowering. In practice, the classic rule applies on the Front Range: sun on the top (the flowering stems), shade on the roots. Afternoon shade from a wall, low shrubs, or a layer of pebbles and mulch at the base keeps the root zone cool and moist, which clematis demand.",
@@ -31,8 +31,14 @@
     "propagation": "Layering is the easiest reliable method for home gardeners: in spring or early summer, bend a flexible stem to the ground (or into a pot of compost set alongside), nick the underside of a node, peg it down, and cover with soil — roots form at the node within a few weeks to months; sever and transplant the rooted layer the following spring. Semi-ripe cuttings taken in June–July (4–6 in, nodal, with lower leaves removed) root well in a gritty mix under a humid cover at around 65–70°F, though they require a season to grow on before transplanting. Division of an established crown is possible but clematis resent root disturbance and divisions are slow to re-establish — layering or cuttings are preferable. Seed is rarely used for cultivars like 'Jackmanii' since offspring are variable and take 2–3 years to bloom. For home gardens, buying a container-grown plant is often the most practical starting point; propagate by layering once established."
   },
   "care_src": [
-    { "name": "RHS — Clematis Group 3 Pruning Guide", "url": "https://www.rhs.org.uk/plants/clematis/group-three-pruning-guide" },
-    { "name": "RHS — Clematis 'Jackmanii' Plant Details", "url": "https://www.rhs.org.uk/plants/96731/clematis-jackmanii-(ll)/details" }
+    {
+      "name": "RHS — Clematis Group 3 Pruning Guide",
+      "url": "https://www.rhs.org.uk/plants/clematis/group-three-pruning-guide"
+    },
+    {
+      "name": "RHS — Clematis 'Jackmanii' Plant Details",
+      "url": "https://www.rhs.org.uk/plants/96731/clematis-jackmanii-(ll)/details"
+    }
   ],
   "shots": [
     {
@@ -55,5 +61,6 @@
       "lic": "CC BY-SA 4.0",
       "link": "https://commons.wikimedia.org/wiki/File:2013-08-04_P1270335_(1)_DDumais.jpg"
     }
-  ]
+  ],
+  "commons": "Clematis 'Jackmanii' IMG 0199.jpg"
 }

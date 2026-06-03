@@ -2,6 +2,7 @@
   "common": "Russian sage",
   "botanical": "Salvia yangii",
   "type": "Subshrub",
+  "lifecycle": "Perennial",
   "native": "Non-native",
   "blurb": "An airy haze of lavender-blue over silver stems — tough, xeric and long-blooming.",
   "size": "3–5 ft × 2–4 ft ('Little Spire' ~2–3 ft)",
@@ -14,7 +15,6 @@
   "toxic": "",
   "winter": true,
   "verified": "2026-06-01",
-  "commons": "Perovskia atriplicifolia 138-8441.jpg",
   "care": {
     "hardiness": "USDA zones 5–9 — reliably hardy on the Front Range (5b–6a). It dies to the ground (or close to it) in a typical Boulder winter and regrows from the woody base each spring. The silver stems that persist through winter provide genuine structural interest and also mark where the plant lives so you don't accidentally dig it up in spring.",
     "sun": "Full sun is non-negotiable — 6–8 hours minimum. In part shade the plant flops badly and blooms poorly. The Front Range's 300+ days of intense high-altitude sun is exactly the condition this plant evolved for in the steppes of Central Asia.",
@@ -31,8 +31,14 @@
     "propagation": "Softwood stem cuttings taken in late spring to early summer — when new growth is 4–6 in. long and still pliable — are the most reliable vegetative method. Take 3–5 in. nodal cuttings, strip the lower leaves, and root in a gritty, well-drained medium; bottom heat speeds things up. The plant can also be grown from seed, though named cultivars will not come true; sow fresh seed in fall or cold-stratify for 4–6 weeks before spring sowing. Division of the woody crown is generally not recommended — the base becomes densely woody with age and divisions rarely transplant successfully; stem cuttings are the preferred vegetative route. For naturalizing or filling a large space, allow existing plants to self-sow lightly and transplant volunteers before the taproot deepens."
   },
   "care_src": [
-    { "name": "Missouri Botanical Garden — Plant Finder (Perovskia atriplicifolia / Salvia yangii)", "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=e540" },
-    { "name": "NC State Extension — Salvia yangii (Russian Sage)", "url": "https://plants.ces.ncsu.edu/plants/salvia-yangii/" }
+    {
+      "name": "Missouri Botanical Garden — Plant Finder (Perovskia atriplicifolia / Salvia yangii)",
+      "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=e540"
+    },
+    {
+      "name": "NC State Extension — Salvia yangii (Russian Sage)",
+      "url": "https://plants.ces.ncsu.edu/plants/salvia-yangii/"
+    }
   ],
   "shots": [
     {
@@ -65,5 +71,6 @@
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/photos/564445185"
     }
-  ]
+  ],
+  "commons": "Perovskia atriplicifolia 138-8441.jpg"
 }

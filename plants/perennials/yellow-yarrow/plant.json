@@ -1,8 +1,10 @@
 {
   "common": "Yellow yarrow",
   "botanical": "Achillea 'Moonshine'",
-  "type": "Perennial",
+  "type": "Forb",
+  "lifecycle": "Perennial",
   "native": "Non-native",
+  "bloom_season": "Summer",
   "blurb": "A tough, silvery-leaved garden hybrid with flat-topped canary-gold flower heads that bloom relentlessly from early summer into fall — xeric, pollinator-friendly, deer-resistant, and at home in Front Range sun and alkaline soil.",
   "size": "18–24 in × 18–24 in",
   "sun": "Full sun",

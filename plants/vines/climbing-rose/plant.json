@@ -2,6 +2,7 @@
   "common": "Climbing rose",
   "botanical": "Rosa (climbing cultivars)",
   "type": "Vine",
+  "lifecycle": "Perennial",
   "native": "Non-native",
   "blurb": "Stiff-caned roses trained upright on a wall or trellis, many reblooming all summer.",
   "size": "Climbs 6–15 ft × 3–6 ft",
@@ -14,7 +15,6 @@
   "toxic": "",
   "winter": false,
   "verified": "2026-06-01",
-  "commons": "Climbing rose Easton Lodge Gardens walled garden Little Easton Essex England 01.jpg",
   "care": {
     "hardiness": "Hardiness varies by cultivar — choose repeat-blooming climbers rated to USDA zone 4 or 5 for Front Range reliability (e.g. 'New Dawn', 'Fourth of July', 'Don Juan'). CSU Extension notes that climbing hybrid teas are generally not recommended in most of Colorado due to winter cane damage; focus on hardy own-root or zone-4/5 climbers that bloom on both old and new wood. Expect some cane dieback in harsh winters; prune out the dead wood in spring.",
     "sun": "Full sun — at least 6 hours daily, ideally 8. A south or west-facing wall or fence suits repeat-blooming climbers well on the Front Range, though a south wall can amplify heat; east-facing exposures (morning sun) help keep canes cooler and reduce mildew pressure.",
@@ -30,9 +30,18 @@
     "propagation": "Hardwood cuttings are the most reliable home method for own-root climbing roses: in late fall or early winter, take 8–12 in pencil-thick cuttings of fully ripened cane, cut just below a bud at the base and at a slant above a bud at the top, dip the base in rooting hormone, and insert two-thirds of the cutting into a pot of gritty compost or into a sheltered nursery bed. Keep just moist and protect from hard freezes; roots form over winter and the cutting leafs out in spring. Semi-ripe cuttings in mid-to-late summer (6–8 in, with leaves retained on the top few nodes) also root well under a cloche or plastic tent. Grafting onto rootstock (the commercial standard, giving more vigorous plants) requires skill and specialized understock — not a practical home method. Own-root roses from cuttings are preferable for Front Range gardeners: if the top is killed by an extreme winter, any regrowth is the named cultivar rather than the rootstock."
   },
   "care_src": [
-    { "name": "RHS — Rose Pruning: Climbing Roses", "url": "https://www.rhs.org.uk/plants/roses/climbing/pruning-guide" },
-    { "name": "CSU Extension — Selecting and Planting Roses", "url": "https://extension.colostate.edu/resource/selecting-and-planting-roses/" },
-    { "name": "PlantTalk Colorado — Pruning Roses (1763)", "url": "https://planttalk.colostate.edu/topics/trees-shrubs-vines/1763-pruning-roses/" }
+    {
+      "name": "RHS — Rose Pruning: Climbing Roses",
+      "url": "https://www.rhs.org.uk/plants/roses/climbing/pruning-guide"
+    },
+    {
+      "name": "CSU Extension — Selecting and Planting Roses",
+      "url": "https://extension.colostate.edu/resource/selecting-and-planting-roses/"
+    },
+    {
+      "name": "PlantTalk Colorado — Pruning Roses (1763)",
+      "url": "https://planttalk.colostate.edu/topics/trees-shrubs-vines/1763-pruning-roses/"
+    }
   ],
   "shots": [
     {
@@ -55,5 +64,6 @@
       "lic": "CC BY-SA 4.0",
       "link": "https://commons.wikimedia.org/wiki/File:Pale_pink_climbing_rose_at_Harlow_Museum_%26_Walled_Gardens,_Essex_05.jpg"
     }
-  ]
+  ],
+  "commons": "Climbing rose Easton Lodge Gardens walled garden Little Easton Essex England 01.jpg"
 }

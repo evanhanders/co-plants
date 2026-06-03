@@ -2,6 +2,7 @@
   "common": "Little bluestem",
   "botanical": "Schizachyrium scoparium",
   "type": "Grass",
+  "lifecycle": "Perennial",
   "native": "CO native",
   "blurb": "Prairie bunchgrass turning mahogany-copper with fluffy winter seed heads.",
   "size": "2–3 ft × 1–1.5 ft",
@@ -30,10 +31,15 @@
     "propagation": "Division in spring is the easiest method and the standard approach for garden propagation: lift a mature clump as new growth is just beginning, split it into sections of 3–5 shoots with intact roots, and replant immediately at the original depth. Clumps do not need dividing frequently — every 4–5 years if they die out in the center — and spring timing is essential. Seed germinates readily without pretreatment when sown outdoors in spring; for earlier indoor starts, 30–60 days cold-moist stratification at 41°F improves germination speed (field germination is naturally patchy, so sow thickly). Sow seed shallowly in a sunny, lean seedbed as soon as soil can be worked and temperatures reach 68–86°F during the day. Named cultivars like 'The Blues' are grown from divisions or tissue culture to come true."
   },
   "care_src": [
-    { "name": "Wisconsin Horticulture Extension — Little Bluestem (Schizachyrium scoparium)", "url": "https://hort.extension.wisc.edu/articles/little-bluestem-schizachyrium-scoparium/" },
-    { "name": "Lady Bird Johnson Wildflower Center — Schizachyrium scoparium", "url": "https://www.wildflower.org/plants/result.php?id_plant=SCSC" }
+    {
+      "name": "Wisconsin Horticulture Extension — Little Bluestem (Schizachyrium scoparium)",
+      "url": "https://hort.extension.wisc.edu/articles/little-bluestem-schizachyrium-scoparium/"
+    },
+    {
+      "name": "Lady Bird Johnson Wildflower Center — Schizachyrium scoparium",
+      "url": "https://www.wildflower.org/plants/result.php?id_plant=SCSC"
+    }
   ],
-  "commons": "Schizachyrium scoparium kz3.jpg",
   "shots": [
     {
       "local": "images/su-clump-t.jpg",
@@ -65,5 +71,6 @@
       "lic": "CC-BY",
       "link": "https://www.inaturalist.org/photos/58931161"
     }
-  ]
+  ],
+  "commons": "Schizachyrium scoparium kz3.jpg"
 }

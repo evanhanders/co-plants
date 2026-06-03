@@ -1,8 +1,10 @@
 {
   "common": "Panicled aster",
   "botanical": "Symphyotrichum lanceolatum",
-  "type": "Perennial",
+  "type": "Forb",
+  "lifecycle": "Perennial",
   "native": "CO native",
+  "bloom_season": "Fall",
   "blurb": "A tall, willow-leaved native aster that erupts in sprays of white-to-pale-lilac daisies in fall — a vigorous colonizer for moist, sunny spots that needs room to roam.",
   "size": "2–5 ft × 2–4 ft (spreading)",
   "sun": "Full sun to part shade",

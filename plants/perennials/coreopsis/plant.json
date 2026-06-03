@@ -1,8 +1,10 @@
 {
   "common": "Coreopsis",
   "botanical": "Coreopsis grandiflora 'Early Sunrise'",
-  "type": "Perennial",
+  "type": "Forb",
+  "lifecycle": "Perennial",
   "native": "Non-native",
+  "bloom_season": "Summer",
   "blurb": "A cheerful, easy-going golden daisy (semi-double in 'Early Sunrise') that blooms prolifically from early summer through fall when deadheaded — short-lived but drought-tolerant, pollinator-friendly, and quick to flower from seed in its first year.",
   "size": "18–24 in × 12–18 in",
   "sun": "Full sun",

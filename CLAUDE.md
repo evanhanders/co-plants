@@ -110,13 +110,25 @@ then fetches every listed `plant.json` in parallel and assigns them to the in-me
 `SEED` array (stamping each with `dir = "plants/<category>/<slug>"` so its local
 images resolve). `loadUser()` (localStorage-added plants) runs alongside it, then
 `render()`. `SEED` order doesn't matter — the app sorts by common name and groups by
-type via `groupOf()`.
+**morphology** via `groupOf(p)` (growth form; forbs split by `bloom_season`). The on-disk
+`plants/<category>/` folder is just a storage path (and the `dir` for image resolution) — it
+is **NOT** the grouping. A file can live in `plants/perennials/` yet be a `Groundcover` or
+`Forb`; don't move files to re-group (it'd break `dir`/manifest), just set `type`.
 
 **`plant.json` schema** (confirm exact shape in any file; `index.html` / a real
 `plant.json` is the source of truth):
 
-- The card fields: `common, botanical, type, native, blurb, size, sun, water,
-  spread, seasons, wildlife, deer, toxic, winter, verified`.
+- The card fields: `common, botanical, type, lifecycle, native, blurb, size, sun, water,
+  spread, seasons, wildlife, deer, toxic, winter, verified` (+ `bloom_season` for forbs).
+- **`type` is MORPHOLOGY (growth form), not lifecycle:** one of `Tree, Shrub, Subshrub,
+  Grass, Vine, Groundcover, Forb`. This is what the grid groups by (`groupOf(p)` in `app.js`).
+- **`lifecycle`** is a **tag, not a grouping category**: `Perennial | Annual | Biennial |
+  Tender perennial`. It renders as a flag on the card/sheet (`flagsHTML`) and is its own
+  filter axis (the "Lifecycle" chips). Set it on every plant (woody things are `Perennial`).
+- **`bloom_season`** (`Spring | Summer | Fall`) is **required on `Forb`s** and drives their
+  grouping — forbs are split into "Spring/Summer/Fall forbs" sections (most things are forbs,
+  so one flat "forbs" list would be huge; bloom season breaks it up and is garden-useful).
+  Pick the plant's *primary/peak* bloom. Non-forbs omit it.
 - `commons:'File.jpg'` — legacy primary photo (a Commons filename). May be `""`. Once a
   plant has repo-hosted `shots`, this is just dead fallback metadata; new plants don't
   need it.
@@ -197,14 +209,16 @@ hides for single-photo plants and at the ends).
 **Photos must be real CC-licensed photographs — no illustrations.** (See "Image
 requirements & sourcing" below for the per-plant photo spec.)
 
-**Filtering & state.** Three filter axes compose: **Origin** (Both/Native/Introduced),
-**Type** chips (with counts), and **Trait** chips (`Winter`/`Pollinator`/`Spreads`/`Toxic`),
-plus the free-text search. The trait predicates live in one place — the `TRAITS` map in
-`app.js` — and are shared by *both* the card badges and the trait filter, so the two never
-drift; add a new trait by extending that map (and a `passesFilters` clause). The legend
-always reads "Showing N of M specimens" and shows a **Clear all** button when anything is
-active. Filter/search/view state is mirrored into the **URL hash** (`#view=…&nat=…&type=…&trait=…&q=…`)
-via `syncHash()`/`applyHash()`, so filtered views are shareable and survive a reload.
+**Filtering & state.** Four filter axes compose: **Origin** (Both/Native/Introduced),
+**Form** chips (the morphology groups, with counts), **Lifecycle** chips
+(`Perennial`/`Tender perennial`/`Biennial`/`Annual`, from each plant's `lifecycle` tag), and
+**Trait** chips (`Winter`/`Pollinator`/`Spreads`/`Toxic`), plus the free-text search. The trait
+predicates live in one place — the `TRAITS` map in `reel.js` — shared by *both* the card badges
+and the trait filter so they never drift; add a new trait by extending that map (and a
+`passesFilters` clause). The legend always reads "Showing N of M specimens" and shows a **Clear
+all** button when anything is active. Filter/search/view state is mirrored into the **URL hash**
+(`#view=…&nat=…&type=…&life=…&trait=…&q=…`) via `syncHash()`/`applyHash()`, so filtered views are
+shareable and survive a reload.
 
 **Accessibility.** Photos are `role="button" tabindex="0"` with descriptive per-shot `alt`;
 group-collapse chevrons are real `<button>`s with `aria-expanded`; the lightbox and add
@@ -247,6 +261,9 @@ full-size **lightbox** is its own swipeable gallery — see UI features.)
 
 Every plant records:
 
+- **Growth form** (`type`: tree / shrub / subshrub / grass / vine / groundcover / forb) and,
+  for forbs, **primary bloom season** (`bloom_season`) — these set the grid grouping.
+- **Lifecycle** tag (`lifecycle`: perennial / annual / biennial / tender perennial)
 - **Mature size** (Height × Width)
 - **Sun** requirement
 - **Water** requirement
@@ -275,9 +292,11 @@ hosted herbarium. The order matters:
    create the plant file until the visual + blurb are approved.
 5. **After approval,** create `plants/<category>/<slug>/plant.json` (with a `shots`
    array if you have multiple seasonal photos), add its `"<category>/<slug>"` path to
-   `plants/manifest.json`, then commit and push. Category folder follows `groupOf()`
-   (trees, shrubs, subshrubs, grasses, perennials, annuals, vines); slug is the
-   common name lowercased and hyphenated. No giant array to edit anymore — one new
+   `plants/manifest.json`, then commit and push. The `<category>` folder is just a storage
+   path (`trees, shrubs, subshrubs, grasses, groundcovers, vines, perennials, annuals` all
+   exist) — it does **not** set the grouping; the `type` (morphology) + `bloom_season` do.
+   Pick whatever folder is closest; don't sweat it. Slug is the common name lowercased and
+   hyphenated. Set `type` (growth form), `lifecycle`, and `bloom_season` (forbs). No giant array to edit anymore — one new
    file plus one manifest line.
 
 ## Image requirements & sourcing
@@ -517,88 +536,90 @@ shot keeps a remote `commons`/`url` fallback; card thumbnails are 720×480 smart
 (`tools/rethumb.py`). (N) = CO/regional native, (I) = introduced/vetted.
 
 **Trees**
-- Chokecherry (*Prunus virginiana*) (N) — spring flowers / summer + fall fruit
-- Mountain alder, ssp. *tenuifolia* (*Alnus incana*) (N) — catkins / leaves+cones / fall
+- Chokecherry (*Prunus virginiana*) (N) — Wildlife powerhouse: fragrant white flower racemes, dark…
+- Mountain alder (*Alnus incana ssp. tenuifolia*) (N) — Multi-stem riparian tree with smooth grey bark and early…
 
 **Shrubs**
-- Red-twig dogwood (*Cornus sericea*) (N) — summer cymes / fall berries / winter red stems
-- Wood's rose (*Rosa woodsii*) (N) — summer flower / habit / fall hips / winter hip
-- Common lilac (*Syringa vulgaris*) (I) — blooming-shrub habit / panicle / foliage
-- Twinberry honeysuckle (*Lonicera involucrata*) (N) — moist-site native shrub honeysuckle
-- Mock orange (*Philadelphus lewisii* 'Cheyenne') (N) — fragrant native, Plant Select
-- Smoke tree (*Cotinus coggygria*) (I) — purple foliage + smoky plumes
-- Creeping Oregon grape (*Berberis repens*, syn. *Mahonia repens*) (N) — low evergreen native; yellow flowers, blue berries
+- Common lilac (*Syringa vulgaris*) (I) — Old-fashioned dooryard shrub prized for plumes of intensely…
+- Creeping Oregon grape (*Berberis repens*) (N) — A low, stoloniferous native evergreen with holly-like leaves…
+- Mock orange (*Philadelphus lewisii*) (N) — One of the most powerfully fragrant native shrubs on the…
+- Red-twig dogwood (*Cornus sericea*) (N) — The classic winter shrub
+- Smoke tree (*Cotinus coggygria*) (I) — A large, dramatic shrub famed for billowing clouds of…
+- Twinberry honeysuckle (*Lonicera involucrata*) (N) — A bold native riparian shrub
+- Wood's rose (*Rosa woodsii*) (N) — Fragrant pink wild rose with red hips that hang on all winter.
 
 **Subshrubs**
-- Mojave sage (*Salvia pachyphylla*) (I) — flower closeup / silvery mounded shrub
-- Russian sage (*Salvia yangii*, syn. *Perovskia atriplicifolia*) (I) — airy habit / flowers / fall spikes
-- Lavender (*Lavandula angustifolia*) (I) — English lavender ('Munstead'/'Hidcote')
-- Pineleaf penstemon (*Penstemon pinifolius* 'Mersea Yellow') (I) — yellow-flowered SW native; needle foliage, hummingbird tubular blooms
+- Candytuft (*Iberis sempervirens*) (I) — A woody-based evergreen mat smothered in crisp white flower…
+- Cushion spurge (*Euphorbia polychroma*) (I) — A tidy chartreuse dome that blazes red-orange in autumn.
+- Lavender (*Lavandula angustifolia*) (I) — The quintessential fragrant subshrub
+- Mojave sage (*Salvia pachyphylla*) (I) — Silvery aromatic mound crowned with violet flowers and…
+- Pineleaf penstemon (*Penstemon pinifolius 'Mersea Yellow'*) (I) — A Southwest US native (AZ/NM) celebrated for its fine,…
+- Russian sage (*Salvia yangii*) (I) — An airy haze of lavender-blue over silver stems
 
 **Ornamental grasses**
-- Little bluestem (*Schizachyrium scoparium*) (N) — summer clump / fall copper / winter seedheads
-- Blue oat grass (*Helictotrichon sempervirens*) (I) — steel-blue evergreen fountain / oat-like sprays
-
-**Perennials**
-- Cushion spurge (*Euphorbia polychroma*) (I) — chartreuse bracts / plants in leaf
-- Horned spurge (*Euphorbia brachycera*) (N) — cyathia / glaucous habit
-- Silvery lupine (*Lupinus argenteus*) (N) — silvery foliage / flower spike / habit
-- Garden peony (*Paeonia lactiflora*) (I) — white blooms / post-bloom foliage
-- Dahlia (*Dahlia × hortensis*) (I) — double bloom / border habit; **tender, not winter-hardy**
-- Oriental poppy (*Papaver orientale*) (I) — bloom / blooms+buds habit
-- Colorado blue columbine (*Aquilegia coerulea*) (N) — face-on bloom / whole plant
-- Shasta daisy (*Leucanthemum × superbum*) (I) — flower closeup / flowering clump
-- Aspen fleabane (*Erigeron speciosus*) (N) — ray flower / clump in rock crevice
-- Salvia / meadow sage (*Salvia nemorosa*) (I) — flower spike / mounded clump
-- Wild bergamot (*Monarda fistulosa*) (N) — flowerhead / meadow stand / winter seedhead
-- Scarlet bee balm (*Monarda didyma*) (I) — scarlet flowerhead / flowers+foliage
-- Blue flax (*Linum lewisii*) (N) — xeric native, sky-blue morning flowers
-- Cheddar pinks (*Dianthus gratianopolitanus*) (I) — clove-scented mat, evergreen
-- Garden phlox (*Phlox paniculata*) (I) — fragrant summer panicles; mildew-aware
-- Red valerian (*Centranthus ruber*) (I) — Jupiter's beard; lean-soil self-sower
-- Brunnera (*Brunnera macrophylla*) (I) — **shade + moisture**; forget-me-not blue
-- Scabiosa / pincushion flower (*Scabiosa columbaria*) (I) — very long bloom
-- Garden lupine (*Lupinus polyphyllus*, Russell) (I) — showy but **toxic alkaloids + invasive elsewhere**; deadhead before seed set
-- Candytuft (*Iberis sempervirens*) (I) — evergreen white-flowered spring mound
-- Evening primrose (*Oenothera macrocarpa*) (I) — big lemon-yellow cups; sprawling xeric
-- Spike speedwell (*Veronica spicata*, white 'Icicle' lead) (I) — upright white flower spikes
-- Garden verbena (*Glandularia canadensis*) (I) — rose-purple trailing mat; butterfly magnet
-- Coreopsis (*Coreopsis grandiflora* 'Early Sunrise') (I) — golden daisies, long bloom
-- Blanket flower (*Gaillardia aristata*) (N) — red-and-gold native daisy
-- Knautia (*Knautia macedonica*) (I) — wine-red pincushions on wiry stems
-- Yellow yarrow (*Achillea* 'Moonshine') (I) — soft-gold flat heads over silver foliage
-- Hardy cranesbill (*Geranium* 'Rozanne') (I) — violet-blue saucers, summer to frost
-- Pasque flower (*Pulsatilla patens*) (N) — early-spring lavender cups + plumed seedheads; **toxic**
-- Japanese anemone (*Anemone × hybrida*) (I) — fall pink/white flowers; **part shade + moisture**
-- Grecian windflower (*Anemone blanda*) (I) — low spring-blooming blue tuber
-- Western wallflower (*Erysimum capitatum*) (N) — fragrant orange-yellow native; reseeds
-- Bloody cranesbill (*Geranium sanguineum*) (I) — magenta saucers + red fall foliage
-- White heath aster (*Symphyotrichum ericoides*) (N) — fall clouds of tiny white daisies
-- White prairie aster (*Symphyotrichum falcatum*) (N) — low xeric native fall aster
-- Panicled aster (*Symphyotrichum lanceolatum*) (N) — tall willow-leaved fall aster; colonizes
-- Mountain bluet (*Centaurea montana*) (I) — fringed blue cornflower; **self-sows — not the noxious knapweeds**
-
-**Annuals**
-- Snow-on-the-mountain (*Euphorbia marginata*) (N) — white-margined bracts / whole plant / field stand
-- Cosmos (*Cosmos bipinnatus*) (I) — ray-flower closeup / airy foliage habit
-- California poppy (*Eschscholzia californica*) (I) — flowers+foliage / whole plant
-- Snapdragon (*Antirrhinum majus*) (I) — bicolor spike / clump of spikes
-- Rocky Mountain bee plant (*Cleomella serrulata*, syn. *Cleome serrulata*) (N) — flower closeup / prairie stand / seed pods
-- Larkspur (*Consolida ajacis*) (I) — cool-season spires; **all parts toxic**; direct-sow
-- German chamomile (*Matricaria chamomilla*) (I) — apple-scented tea daisy; self-sows (NOT noxious scentless chamomile)
+- Blue oat grass (*Helictotrichon sempervirens*) (I) — A tidy steel-blue fountain of fine, arching foliage
+- Little bluestem (*Schizachyrium scoparium*) (N) — Prairie bunchgrass turning mahogany-copper with fluffy…
 
 **Groundcovers**
-- Snow-in-summer (*Cerastium tomentosum*) (I) — silver mat, white flowers; lean-soil to behave
-- Hardy ice plant (*Delosperma cooperi*) (I) — Plant Select succulent mat, magenta bloom
-- Kinnikinnick (*Arctostaphylos uva-ursi*) (N) — evergreen native mat; pink urns, red berries
-- Turkish creeping speedwell (*Veronica liwanensis*) (I) — Plant Select flat blue-flowered mat
+- Bloody cranesbill (*Geranium sanguineum*) (I) — Tough, mounding hardy geranium with vivid magenta-to-crimson…
+- Cheddar pinks (*Dianthus gratianopolitanus*) (I) — Intensely clove-scented, fringed pink flowers hover above a…
+- Evening primrose (*Oenothera macrocarpa*) (I) — A sprawling Great Plains xeric perennial (native to…
+- Garden verbena (*Glandularia canadensis 'Homestead Purple'*) (I) · **Tender perennial** — A heat-loving, drought-tolerant trailing mat that carpets…
+- Hardy cranesbill (*Geranium 'Rozanne'*) (I) — The famous long-blooming hardy cranesbill
+- Hardy ice plant (*Delosperma cooperi*) (I) — A Plant Select staple from South Africa
+- Kinnikinnick (*Arctostaphylos uva-ursi*) (N) — A tough native evergreen mat-former
+- Snow-in-summer (*Cerastium tomentosum*) (I) — A silver-gray mat of woolly foliage that erupts into a froth…
+- Turkish speedwell (*Veronica liwanensis*) (I) — A Plant Select standout
 
-**Vines** *(cultivars — hand-sourced from Wikimedia Commons)*
-- Garden clematis (*Clematis × jackmanii*, large-flowered hybrids) (I) — violet bloom closeup / sheets on a trellis
-- Climbing rose (*Rosa*, climbing cultivars) (I) — blooms on a brick wall / wall-trained habit
-- Rambling rose (*Rosa*, rambling cultivars) (I) — clustered blooms / rambler over a pergola arch (Paul's Himalayan Musk)
-- Trumpet honeysuckle (*Lonicera sempervirens*) (I) — non-invasive native vine, hummingbird red
-- 'Dropmore Scarlet' honeysuckle (*Lonicera × brownii*) (I) — hardy non-invasive climber
+**Vines**
+- 'Dropmore Scarlet' honeysuckle (*Lonicera × brownii 'Dropmore Scarlet'*) (I) — A Canadian-bred cold-hardy twining vine that puts on a…
+- Climbing rose (*Rosa (climbing cultivars)*) (I) — Stiff-caned roses trained upright on a wall or trellis, many…
+- Garden clematis (*Clematis × jackmanii*) (I) — Classic large-flowered climber
+- Rambling rose (*Rosa (rambling cultivars)*) (I) — Vigorous, flexible-caned roses that 'wander' over fences &…
+- Trumpet honeysuckle (*Lonicera sempervirens*) (I) — A well-behaved twining climber with clusters of long…
+
+**Spring forbs**
+- Brunnera (*Brunnera macrophylla*) (I) — Clouds of tiny forget-me-not-blue flowers drift above…
+- Colorado blue columbine (*Aquilegia coerulea*) (N) — Colorado's state flower
+- Garden peony (*Paeonia lactiflora*) (I) — Lavish, fragrant late-spring blooms on a clump that can…
+- Grecian windflower (*Anemone blanda*) (I) — A low spring-blooming tuber that carpets the ground with…
+- Horned spurge (*Euphorbia brachycera*) (N) — A low Rocky Mountain native forming spreading yellow-green mats.
+- Mountain bluet (*Centaurea montana*) (I) — Fringed, almost spidery blue cornflowers on silver-felted…
+- Oriental poppy (*Papaver orientale*) (I) — Enormous crepe-paper blooms with inky centers
+- Pasque flower (*Pulsatilla patens*) (N) — One of the very first wildflowers of spring
+- Western wallflower (*Erysimum capitatum*) (N) · **Biennial** — A tough native short-lived perennial or biennial that covers…
+
+**Summer forbs**
+- Aspen fleabane (*Erigeron speciosus*) (N) — A native daisy
+- Blanket flower (*Gaillardia aristata*) (N) — Bold red-and-gold daisies that blaze from early summer…
+- Blue flax (*Linum lewisii*) (N) — Sky-blue, tissue-paper flowers open at sunrise and drop by noon
+- California poppy (*Eschscholzia californica*) (I) · **Annual** — Silky orange cups over blue-green lace
+- Coreopsis (*Coreopsis grandiflora 'Early Sunrise'*) (I) — A cheerful, easy-going golden daisy (semi-double in 'Early…
+- Cosmos (*Cosmos bipinnatus*) (I) · **Annual** — Airy, daisy-like blooms on ferny stems
+- Dahlia (*Dahlia × hortensis*) (I) · **Tender perennial** — Tender tubers that explode into bold, geometric blooms from…
+- Garden lupine (*Lupinus polyphyllus (Russell hybrids)*) (I) — Showy Russell-hybrid spires in every color from white to…
+- Garden phlox (*Phlox paniculata*) (I) — Stately, sweetly fragrant domed panicles in pink, white, or…
+- German chamomile (*Matricaria chamomilla*) (I) · **Annual** — The apple-scented tea chamomile
+- Knautia (*Knautia macedonica*) (I) — Wiry, branching stems carry wine-red pincushion flowers from…
+- Larkspur (*Consolida ajacis*) (I) · **Annual** — A cool-season cottage-garden classic with tall airy spires…
+- Pincushion flower (*Scabiosa columbaria*) (I) — A non-stop bloomer
+- Red valerian (*Centranthus ruber*) (I) — Jupiter's beard
+- Rocky Mountain bee plant (*Cleomella serrulata*) (N) · **Annual** — Colorado-native prairie annual
+- Salvia (meadow sage) (*Salvia nemorosa*) (I) — Upright wands of violet-blue in early summer
+- Scarlet bee balm (*Monarda didyma*) (I) — The classic fire-engine-red bee balm (eastern-US native)
+- Shasta daisy (*Leucanthemum × superbum*) (I) — The classic, well-behaved white daisy
+- Silvery lupine (*Lupinus argenteus*) (N) — Colorado's most common native lupine
+- Snapdragon (*Antirrhinum majus*) (I) · **Annual** — Jewel-toned 'snapping' flower spikes kids love
+- Snow-on-the-mountain (*Euphorbia marginata*) (N) · **Annual** — Upright annual frosted with white-margined leaves and bracts…
+- Spike speedwell (*Veronica spicata*) (I) — Upright candlestick spikes of starry flowers (lead form:…
+- Wild bergamot (*Monarda fistulosa*) (N) — Colorado-native bee balm
+- Yellow yarrow (*Achillea 'Moonshine'*) (I) — A tough, silvery-leaved garden hybrid with flat-topped…
+
+**Fall forbs**
+- Japanese anemone (*Anemone × hybrida*) (I) — Tall, wiry-stemmed perennial that lights up the late-summer…
+- Panicled aster (*Symphyotrichum lanceolatum*) (N) — A tall, willow-leaved native aster that erupts in sprays of…
+- White heath aster (*Symphyotrichum ericoides*) (N) — In late summer the wiry stems of this tough prairie native…
+- White prairie aster (*Symphyotrichum falcatum*) (N) — A low, compact native aster that smothers itself in small…
 
 **Dropped from the keep-list (do not re-add):** coyote willow (*Salix exigua*) and
 Turkish cliff sage (*Salvia recognita*). Mojave sage is preferred over Turkish cliff

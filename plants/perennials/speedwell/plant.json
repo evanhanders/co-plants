@@ -1,8 +1,10 @@
 {
   "common": "Spike speedwell",
   "botanical": "Veronica spicata",
-  "type": "Perennial",
+  "type": "Forb",
+  "lifecycle": "Perennial",
   "native": "Non-native",
+  "bloom_season": "Summer",
   "blurb": "Upright candlestick spikes of starry flowers (lead form: crisp white 'Icicle', though blue and pink cultivars abound) rise above a neat, clumping base in summer — a tidy, heat-tolerant pollinator favorite that rebloms freely with deadheading.",
   "size": "12–24 in × 12–18 in",
   "sun": "Full sun",

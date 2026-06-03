@@ -2,6 +2,7 @@
   "common": "Wood's rose",
   "botanical": "Rosa woodsii",
   "type": "Shrub",
+  "lifecycle": "Perennial",
   "native": "CO native",
   "blurb": "Fragrant pink wild rose with red hips that hang on all winter.",
   "size": "2–6 ft (to 10 ft)",
@@ -31,9 +32,11 @@
     "propagation": "Softwood cuttings taken in early summer with a heel and treated with rooting hormone are the most reliable vegetative method — published success rates of 92–99% at season's end. Division of rooted suckers in early spring is the easiest low-tech approach: sever a sucker well away from the parent crown with a sharp spade, dig it out with as much root as possible, and replant immediately. Seed requires stratification: soak the hip pulp off, then either cold-dry stratify at 32–50°F for 30+ days or do a two-step warm (68°F, 60 days) followed by cold (37°F, 90 days) treatment before spring sowing. The species forms a persistent seed bank (seeds viable 16+ years), so direct fall sowing in a prepared bed and waiting for natural stratification is a practical option for a wildlife planting. Cultivated starts from a native plant nursery are the fastest route to an established hedgerow."
   },
   "care_src": [
-    { "name": "Lady Bird Johnson Wildflower Center — Rosa woodsii", "url": "https://www.wildflower.org/plants/result.php?id_plant=rowo" }
+    {
+      "name": "Lady Bird Johnson Wildflower Center — Rosa woodsii",
+      "url": "https://www.wildflower.org/plants/result.php?id_plant=rowo"
+    }
   ],
-  "commons": "Wild rose Rosa woodsii closeup.jpg",
   "shots": [
     {
       "local": "images/su-flower-t.jpg",
@@ -75,5 +78,6 @@
       "lic": "CC-BY",
       "link": "https://www.inaturalist.org/photos/179309887"
     }
-  ]
+  ],
+  "commons": "Wild rose Rosa woodsii closeup.jpg"
 }

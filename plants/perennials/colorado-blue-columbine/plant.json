@@ -1,8 +1,10 @@
 {
   "common": "Colorado blue columbine",
   "botanical": "Aquilegia coerulea",
-  "type": "Perennial",
+  "type": "Forb",
+  "lifecycle": "Perennial",
   "native": "CO native",
+  "bloom_season": "Spring",
   "blurb": "Colorado's state flower — sky-blue-and-white spurred blooms nodding over ferny foliage.",
   "size": "1–2.5 ft × 1–1.5 ft",
   "sun": "Part shade–sun",
@@ -14,7 +16,6 @@
   "toxic": "",
   "winter": false,
   "verified": "2026-06-01",
-  "commons": "Columbine-01.jpg",
   "care": {
     "hardiness": "Hardy to at least USDA Zone 3 — fully winter-hardy across the Front Range (Zone 5b–6a). It is native to Colorado's mountains from about 6,000 to 11,500 ft, so cold winters are no problem. The foliage dies back to the ground after frost and re-emerges in early spring. Mulch roots lightly in exposed, wind-swept spots on the open plains.",
     "sun": "Part shade to full sun, with afternoon protection preferred at lower Front Range elevations. Below about 6,500 ft the intense afternoon sun can scorch the lacy foliage and hasten dormancy — plant on the east side of a structure, under high-branched trees, or with a taller perennial to the west. In cooler mountain gardens or north-facing slopes, full sun is fine. The rule of thumb: the hotter and drier the site, the more afternoon shade it needs.",
@@ -60,5 +61,6 @@
       "lic": "CC-BY",
       "link": "https://www.inaturalist.org/photos/299292077"
     }
-  ]
+  ],
+  "commons": "Columbine-01.jpg"
 }

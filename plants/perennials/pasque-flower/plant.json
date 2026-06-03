@@ -1,8 +1,10 @@
 {
   "common": "Pasque flower",
   "botanical": "Pulsatilla patens",
-  "type": "Perennial",
+  "type": "Forb",
+  "lifecycle": "Perennial",
   "native": "CO native",
+  "bloom_season": "Spring",
   "blurb": "One of the very first wildflowers of spring — silky lavender cups push up through the snow on fuzzy stems, then transform into shimmering plumed seedheads that persist for weeks.",
   "size": "6–12 in × 8–12 in",
   "sun": "Full sun",

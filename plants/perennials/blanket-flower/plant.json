@@ -1,8 +1,10 @@
 {
   "common": "Blanket flower",
   "botanical": "Gaillardia aristata",
-  "type": "Perennial",
+  "type": "Forb",
+  "lifecycle": "Perennial",
   "native": "CO native",
+  "bloom_season": "Summer",
   "blurb": "Bold red-and-gold daisies that blaze from early summer through frost — a Front Range native that asks for nothing but sun and sharp drainage and repays you in months of non-stop pollinator traffic.",
   "size": "1–3 ft × 1–2 ft",
   "sun": "Full sun",

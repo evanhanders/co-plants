@@ -1,8 +1,10 @@
 {
   "common": "Scarlet bee balm",
   "botanical": "Monarda didyma",
-  "type": "Perennial",
+  "type": "Forb",
+  "lifecycle": "Perennial",
   "native": "Non-native",
+  "bloom_season": "Summer",
   "blurb": "The classic fire-engine-red bee balm (eastern-US native) — a hummingbird magnet, though thirstier and more mildew-prone than Colorado's wild bergamot.",
   "size": "2–4 ft × 1.5–3 ft",
   "sun": "Full sun–part shade",
@@ -14,7 +16,6 @@
   "toxic": "",
   "winter": false,
   "verified": "2026-06-01",
-  "commons": "Monarda didyma 'Colrain Red' 6 2021 Bee Balm- (51273491889).jpg",
   "care": {
     "hardiness": "USDA zones 4–9 — fully winter-hardy on the Front Range (5b–6a). The rhizomes go fully dormant after frost and re-sprout reliably in spring. No special winter mulching is needed in Boulder.",
     "sun": "Full sun to part shade. In the dry, high-altitude Front Range climate, afternoon shade (3–4 hours) can actually help reduce moisture stress and moderate mildew-promoting heat, though full sun with consistent irrigation is the classic recommendation. Avoid deep shade — it reduces bloom and worsens mildew.",
@@ -31,7 +32,10 @@
     "propagation": "Division is by far the most reliable and productive method. Every 3–4 years in early spring (or immediately after bloom finishes in early fall), dig the clump, shake off the soil, and pull apart the shallow stoloniferous rhizomes into sections of 3–5 shoots with intact roots. Replant divisions immediately 18–24 in apart and water thoroughly. Division simultaneously propagates the plant, renews vigor, and controls spread — it does all three jobs at once. Stem cuttings taken from the new basal growth in spring (3–4 in softwood tip cuttings, stripped of lower leaves) root readily in moist perlite within 3–4 weeks at 65–70°F. Seed is possible but slow — start indoors 8–10 weeks before last frost, no stratification needed, surface-sow at 65–70°F; named cultivars do not come true from seed and must be divided or cut."
   },
   "care_src": [
-    { "name": "Missouri Botanical Garden Plant Finder — Monarda didyma", "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=q250" }
+    {
+      "name": "Missouri Botanical Garden Plant Finder — Monarda didyma",
+      "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=q250"
+    }
   ],
   "shots": [
     {
@@ -54,5 +58,6 @@
       "lic": "CC-BY",
       "link": "https://www.inaturalist.org/photos/418615811"
     }
-  ]
+  ],
+  "commons": "Monarda didyma 'Colrain Red' 6 2021 Bee Balm- (51273491889).jpg"
 }

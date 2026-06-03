@@ -1,8 +1,10 @@
 {
   "common": "Oriental poppy",
   "botanical": "Papaver orientale",
-  "type": "Perennial",
+  "type": "Forb",
+  "lifecycle": "Perennial",
   "native": "Non-native",
+  "bloom_season": "Spring",
   "blurb": "Enormous crepe-paper blooms with inky centers — a showstopper, then it naps.",
   "size": "2–3 ft × 2–3 ft",
   "sun": "Full sun",
@@ -14,7 +16,6 @@
   "toxic": "Sap & unripe seedpods mildly toxic if eaten",
   "winter": false,
   "verified": "2026-06-01",
-  "commons": "Papaver orientale - oriental poppy.jpg",
   "care": {
     "hardiness": "USDA zones 3–7 — fully winter-hardy on the Boulder Front Range (zone 5b–6a). The roots are cold-tough; new basal foliage emerges in September and persists through winter, then dies back completely in midsummer. Colorado's cold, dry winters and sharp drainage suit it perfectly.",
     "sun": "Full sun — at least 6 hours of direct light daily. The high-altitude Front Range sun is ideal; reduced light results in floppy stems and fewer blooms.",
@@ -31,8 +32,14 @@
     "propagation": "The easiest reliable method for named cultivars is root cuttings: in late summer (mid-August through September), when the plant is dormant, carefully dig alongside the clump, sever a few pencil-thick roots, and cut them into 2–3 in. sections. Insert them vertically (cut-end down) in a free-draining mix — perlite or gritty compost — just below the surface in a cold frame or cool greenhouse; they root over winter and sprout the following spring. Division of the whole clump is possible at the same late-summer window but is more disruptive and the plant dislikes it; divide only if the clump is crowded and even then expect a lost bloom year. Growing from seed is straightforward but slow and variable: surface-sow or barely cover (⅛ in.) in fall for natural stratification, or refrigerate in moist sand for 4–6 weeks before a spring sow. Seedlings bloom in year two or three and offspring of cultivars will not come true to the parent color."
   },
   "care_src": [
-    { "name": "PlantTalk Colorado — Oriental Poppy (CSU Extension)", "url": "https://planttalk.colostate.edu/topics/annuals-perennials/1037-oriental-poppy-papaver-orientale/" },
-    { "name": "Missouri Botanical Garden Plant Finder — Papaver orientale 'Turkenlouis'", "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=257790&isprofile=0" }
+    {
+      "name": "PlantTalk Colorado — Oriental Poppy (CSU Extension)",
+      "url": "https://planttalk.colostate.edu/topics/annuals-perennials/1037-oriental-poppy-papaver-orientale/"
+    },
+    {
+      "name": "Missouri Botanical Garden Plant Finder — Papaver orientale 'Turkenlouis'",
+      "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=257790&isprofile=0"
+    }
   ],
   "shots": [
     {
@@ -55,5 +62,6 @@
       "lic": "CC-BY",
       "link": "https://www.inaturalist.org/photos/394851376"
     }
-  ]
+  ],
+  "commons": "Papaver orientale - oriental poppy.jpg"
 }

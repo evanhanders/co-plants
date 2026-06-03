@@ -74,7 +74,7 @@ BACK+
 '<div class="sheet-head">'+
 '<div class="plate">'+plateHTML(p)+'</div>'+
 '<div class="sheet-intro">'+
-'<div class="sheet-badges"><span class="badge-type">'+esc(p.type||'')+'</span>'+natBadge(p,'badge-nat')+'</div>'+
+'<div class="sheet-badges"><span class="badge-type">'+esc((p.type||'')+(p.type==='Forb'&&p.bloom_season?(' · '+p.bloom_season.toLowerCase()+'-blooming'):''))+'</span>'+natBadge(p,'badge-nat')+'</div>'+
 '<h1 class="display sheet-name">'+esc(p.common)+'</h1>'+
 '<p class="latin">'+esc(p.botanical)+'</p>'+
 '<p class="lead">'+esc(p.blurb||'')+'</p>'+

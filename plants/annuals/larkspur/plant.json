@@ -1,8 +1,10 @@
 {
   "common": "Larkspur",
   "botanical": "Consolida ajacis",
-  "type": "Annual",
+  "type": "Forb",
+  "lifecycle": "Annual",
   "native": "Non-native",
+  "bloom_season": "Summer",
   "blurb": "A cool-season cottage-garden classic with tall airy spires of blue, purple, pink, or white — best fall-sown in Colorado for a spectacular May–June show before summer heat shuts it down.",
   "size": "3–4 ft × 1 ft",
   "sun": "Full sun",

@@ -2,6 +2,7 @@
   "common": "Common lilac",
   "botanical": "Syringa vulgaris",
   "type": "Shrub",
+  "lifecycle": "Perennial",
   "native": "Non-native",
   "blurb": "Old-fashioned dooryard shrub prized for plumes of intensely fragrant spring bloom.",
   "size": "8–15 ft × 6–12 ft (dwarfs 4–6 ft)",
@@ -14,7 +15,6 @@
   "toxic": "",
   "winter": false,
   "verified": "2026-06-01",
-  "commons": "Common Lilac Syringa vulgaris 'Marechal Foch' Flowers.JPG",
   "care": {
     "hardiness": "USDA zones 3–7 — one of the hardiest ornamental shrubs for the Front Range (5b–6a) and a traditional choice in Boulder gardens for over a century. Lilacs actually need cold winters (a genuine chilling requirement) to bloom well, which makes them ideal for Colorado but unsuitable for warm climates south of zone 7.",
     "sun": "Full sun is essential for good flowering — at least 5–6 hours of direct sun daily. Lilacs planted in full sun bloom reliably; those shaded out by nearby trees or buildings progressively produce fewer and smaller flower clusters until they may stop blooming altogether. If your lilac has stopped blooming, check for shade creep from maturing trees as the first culprit.",
@@ -31,8 +31,14 @@
     "propagation": "Softwood cuttings taken in early summer (June, from fresh non-flowering shoots) are the standard reliable method — treat with rooting hormone, insert in a humid propagating frame or covered pot of moist perlite, and roots develop in 4–6 weeks. Suckers from own-root plants can be separated and replanted in early spring; always dig the sucker well below ground level to capture root. Layering in spring — bending a low branch to the ground, nicking the underside, pegging it down with a stone, and covering with soil — produces a rooted new plant by fall. Seed germinates without stratification but seedlings from named cultivars will not come true; the shrub blooms best on 2–5-year-old wood, so propagated plants take a few years to reach flowering size. For most gardeners, buying a named cultivar on its own roots from a local nursery is the most direct path to a reliably blooming Front Range lilac."
   },
   "care_src": [
-    { "name": "Missouri Botanical Garden Plant Finder — Syringa vulgaris", "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=282932" },
-    { "name": "PlantTalk Colorado — Renewing Shrubs (CSU Extension)", "url": "https://planttalk.colostate.edu/topics/trees-shrubs-vines/1729-renewing-shrubs/" }
+    {
+      "name": "Missouri Botanical Garden Plant Finder — Syringa vulgaris",
+      "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=282932"
+    },
+    {
+      "name": "PlantTalk Colorado — Renewing Shrubs (CSU Extension)",
+      "url": "https://planttalk.colostate.edu/topics/trees-shrubs-vines/1729-renewing-shrubs/"
+    }
   ],
   "shots": [
     {
@@ -65,5 +71,6 @@
       "lic": "CC-BY",
       "link": "https://www.inaturalist.org/photos/94489462"
     }
-  ]
+  ],
+  "commons": "Common Lilac Syringa vulgaris 'Marechal Foch' Flowers.JPG"
 }

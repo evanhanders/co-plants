@@ -1,8 +1,10 @@
 {
   "common": "Snapdragon",
   "botanical": "Antirrhinum majus",
-  "type": "Annual",
+  "type": "Forb",
+  "lifecycle": "Annual",
   "native": "Non-native",
+  "bloom_season": "Summer",
   "blurb": "Jewel-toned 'snapping' flower spikes kids love — and bumblebees pry open; the real garden snapdragon, not the noxious look-alike 'wild snapdragon' (yellow toadflax) that sneaks into seed mixes.",
   "size": "1–3 ft × 6–12 in",
   "sun": "Full sun–part shade",
@@ -14,7 +16,6 @@
   "toxic": "",
   "winter": false,
   "verified": "2026-06-01",
-  "commons": "Snapdragon -- Antirrhinum majus.jpg",
   "care": {
     "hardiness": "Tender perennial (USDA zones 7–10) grown as a cool-season annual on the Front Range (zones 5b–6a). Tolerates light frost, so plants can go in earlier than heat-lovers — transplant to the garden 2–3 weeks before the last average frost (late April in Boulder). They perform best in spring and early fall; summer heat causes them to pause or go dormant, and a hard freeze kills them.",
     "sun": "Full sun to part shade — 6+ hours for strongest flowering. In Boulder's intense high-altitude sun, afternoon shade helps snapdragons stay in bloom through the hottest weeks and prevents premature bolting.",
@@ -33,7 +34,10 @@
     "propagation": "Seed is the standard method for home gardeners. Start indoors 8–10 weeks before the last frost (early-to-mid March for Boulder); surface-sow on moist seed-starting mix without covering, keep at 65–75°F, and expect germination in 7–14 days. Named cultivar colors will not come true from self-sown seed, so save seed only from open-pollinated varieties if color matters. Stem cuttings are possible for overwintering a particularly good plant: take 3–4 in tip cuttings in late summer, root in moist perlite or seed-starting mix under cover, and overwinter the rooted cuttings in a bright, frost-free spot (windowsill or cold frame) for replanting in spring — this is the easiest non-seed method to carry a favorite form over winter in Colorado's harsh climate."
   },
   "care_src": [
-    { "name": "Missouri Botanical Garden Plant Finder — Antirrhinum majus", "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=287001" }
+    {
+      "name": "Missouri Botanical Garden Plant Finder — Antirrhinum majus",
+      "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=287001"
+    }
   ],
   "shots": [
     {
@@ -56,5 +60,6 @@
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/photos/424546596"
     }
-  ]
+  ],
+  "commons": "Snapdragon -- Antirrhinum majus.jpg"
 }

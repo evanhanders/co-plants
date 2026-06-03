@@ -1,8 +1,10 @@
 {
   "common": "Pincushion flower",
   "botanical": "Scabiosa columbaria",
-  "type": "Perennial",
+  "type": "Forb",
+  "lifecycle": "Perennial",
   "native": "Non-native",
+  "bloom_season": "Summer",
   "blurb": "A non-stop bloomer — lavender-blue pincushion flowers float on wiry stems from late spring to frost, drawing butterflies and bees all season long to this compact, easy-care Front Range perennial.",
   "size": "12–15 in × 12–15 in",
   "sun": "Full sun to part shade",

@@ -97,6 +97,7 @@ h1.display{font-size:clamp(34px,7vw,58px);font-weight:600;line-height:.98;margin
 .flag.toxic{border-color:#c9a040;color:#8a6a10;background:#fff7df}
 .flag.pollin{border-color:#caa0c0;color:#8a4a78}
 .flag.run{border-color:#c79a86;color:#9a5230}
+.flag.life{border-color:#a9b59a;color:#5a6a3f;background:#f3f6ec;font-weight:600}
 .verified{margin-top:12px;font-size:11px;color:var(--green);font-style:italic;display:flex;align-items:center;gap:6px}
 .verified::before{content:"";width:7px;height:7px;border-radius:50%;background:var(--green);display:inline-block}
 .del{position:absolute;bottom:12px;right:12px;border:none;background:none;color:var(--ink-soft);cursor:pointer;font-size:11px;text-decoration:underline;font-family:inherit}

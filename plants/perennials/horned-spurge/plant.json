@@ -1,8 +1,10 @@
 {
   "common": "Horned spurge",
   "botanical": "Euphorbia brachycera",
-  "type": "Perennial",
+  "type": "Forb",
+  "lifecycle": "Perennial",
   "native": "CO native",
+  "bloom_season": "Spring",
   "blurb": "A low Rocky Mountain native forming spreading yellow-green mats.",
   "size": "To ~2 ft tall",
   "sun": "Full sun",
@@ -14,7 +16,6 @@
   "toxic": "Milky sap irritates skin/eyes — wear gloves; caution with kids/pets",
   "winter": false,
   "verified": "2026-05-28",
-  "commons": "",
   "care": {
     "hardiness": "Hardy to at least USDA Zone 4 (possibly Zone 3), so entirely winter-hardy across Boulder and the Front Range (Zone 5b–6a). The top growth dies back fully in fall; the rhizomatous root system overwinters without any protection and re-sprouts reliably each spring.",
     "sun": "Full sun is ideal — 6+ hours of direct light keeps growth compact and blooming freely. It will tolerate part shade but tends to get a bit leggier in lower light. At high altitude or on hot, south-facing slopes it shines; on the plains full sun is fine as long as drainage is good.",
@@ -31,7 +32,10 @@
     "propagation": "Division in early spring is the primary and most practical method — dig sections of the rhizomatous mat just as new growth emerges, making sure each division has both roots and at least one shoot. Replant promptly and keep moist until established. Seed is the other viable route: sow outdoors in fall for natural winter cold stratification, or refrigerate seed in damp sand for 4–6 weeks before spring sowing. Like all euphorbias, the sap is a skin and eye irritant — wear gloves when dividing or cutting. Stem cuttings are possible in principle but rarely attempted; the rhizome-division method is far simpler and more reliable for this spreading native."
   },
   "care_src": [
-    { "name": "Lady Bird Johnson Wildflower Center — Euphorbia brachycera", "url": "https://www.wildflower.org/plants/result.php?id_plant=EUBR" }
+    {
+      "name": "Lady Bird Johnson Wildflower Center — Euphorbia brachycera",
+      "url": "https://www.wildflower.org/plants/result.php?id_plant=EUBR"
+    }
   ],
   "shots": [
     {
@@ -54,5 +58,6 @@
       "lic": "CC-BY",
       "link": "https://www.inaturalist.org/photos/392836529"
     }
-  ]
+  ],
+  "commons": ""
 }

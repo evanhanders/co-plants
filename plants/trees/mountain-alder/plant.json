@@ -2,6 +2,7 @@
   "common": "Mountain alder",
   "botanical": "Alnus incana ssp. tenuifolia",
   "type": "Tree",
+  "lifecycle": "Perennial",
   "native": "CO native",
   "blurb": "Multi-stem riparian tree with smooth grey bark and early catkins; fixes nitrogen.",
   "size": "15–30 ft × 12–20 ft",
@@ -30,10 +31,15 @@
     "propagation": "Seed is the primary natural propagation route but requires attention: collect strobiles (cones) in late summer before they fully dry and release seed, air-dry briefly, and clean. Seeds from some lots germinate readily without treatment; others benefit from 4 weeks of cold-moist stratification at 34–40°F, especially dried seed. Sow shallowly in a moist seedbed in full light — germination requires light and temperatures of 50–77°F. Viability is generally low and seeds should not be stored beyond 1–2 years. Vegetatively, the easiest method is dividing rooted root-crown sprouts or suckers from an established clump with a spade in early spring. Hardwood cuttings taken in winter have also been used successfully. For streambank or bioswale restoration, bare-root or container whips from a native plant nursery are the most reliable start."
   },
   "care_src": [
-    { "name": "USDA NRCS PLANTS — Alnus incana ssp. tenuifolia (thinleaf alder)", "url": "https://plants.usda.gov/plant-profile/ALINT" },
-    { "name": "USDA NRCS — Plant Guide: Thinleaf Alder (PDF)", "url": "https://plants.sc.egov.usda.gov/DocumentLibrary/plantguide/pdf/pg_alin2.pdf" }
+    {
+      "name": "USDA NRCS PLANTS — Alnus incana ssp. tenuifolia (thinleaf alder)",
+      "url": "https://plants.usda.gov/plant-profile/ALINT"
+    },
+    {
+      "name": "USDA NRCS — Plant Guide: Thinleaf Alder (PDF)",
+      "url": "https://plants.sc.egov.usda.gov/DocumentLibrary/plantguide/pdf/pg_alin2.pdf"
+    }
   ],
-  "commons": "(ms) Alnus incana 2.jpg",
   "shots": [
     {
       "local": "images/sp-catkins-t.jpg",
@@ -65,5 +71,6 @@
       "lic": "CC-BY",
       "link": "https://www.inaturalist.org/photos/436328260"
     }
-  ]
+  ],
+  "commons": "(ms) Alnus incana 2.jpg"
 }

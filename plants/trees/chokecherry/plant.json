@@ -2,6 +2,7 @@
   "common": "Chokecherry",
   "botanical": "Prunus virginiana",
   "type": "Tree",
+  "lifecycle": "Perennial",
   "native": "CO native",
   "blurb": "Wildlife powerhouse: fragrant white flower racemes, dark fruit, golden fall color.",
   "size": "~12 ft × 13.5 ft (to 20–30 ft)",
@@ -36,7 +37,6 @@
       "url": "https://extension.usu.edu/yardandgarden/research/chokecherry-in-the-garden"
     }
   ],
-  "commons": "Chokecherry - Prunus virginiana (51361592456).jpg",
   "shots": [
     {
       "local": "images/sp-flowers-t.jpg",
@@ -68,5 +68,6 @@
       "lic": "CC-BY",
       "link": "https://www.inaturalist.org/photos/30447526"
     }
-  ]
+  ],
+  "commons": "Chokecherry - Prunus virginiana (51361592456).jpg"
 }

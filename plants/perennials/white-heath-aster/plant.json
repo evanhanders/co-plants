@@ -1,8 +1,10 @@
 {
   "common": "White heath aster",
   "botanical": "Symphyotrichum ericoides",
-  "type": "Perennial",
+  "type": "Forb",
+  "lifecycle": "Perennial",
   "native": "CO native",
+  "bloom_season": "Fall",
   "blurb": "In late summer the wiry stems of this tough prairie native vanish under a blizzard of tiny white daisies — one of the finest late-season native-bee plants on the Front Range.",
   "size": "18 in–3 ft × 1–2 ft",
   "sun": "Full sun",

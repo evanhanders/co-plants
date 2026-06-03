@@ -1,8 +1,10 @@
 {
   "common": "Garden lupine",
   "botanical": "Lupinus polyphyllus (Russell hybrids)",
-  "type": "Perennial",
+  "type": "Forb",
+  "lifecycle": "Perennial",
   "native": "Non-native",
+  "bloom_season": "Summer",
   "blurb": "Showy Russell-hybrid spires in every color from white to deep violet rise above bold palmate foliage in late spring — stunning where conditions suit them, though Front Range gardeners should plan for their preferred cool, slightly acidic conditions.",
   "size": "3–4 ft × 1–1½ ft",
   "sun": "Full sun to part shade",

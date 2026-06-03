@@ -1,8 +1,10 @@
 {
   "common": "Cosmos",
   "botanical": "Cosmos bipinnatus",
-  "type": "Annual",
+  "type": "Forb",
+  "lifecycle": "Annual",
   "native": "Non-native",
+  "bloom_season": "Summer",
   "blurb": "Airy, daisy-like blooms on ferny stems — an effortless cottage-garden annual.",
   "size": "2–4 ft × 1–2 ft",
   "sun": "Full sun",
@@ -14,7 +16,6 @@
   "toxic": "",
   "winter": false,
   "verified": "2026-06-01",
-  "commons": "Cosmea (Cosmos bipinnatus) 02.JPG",
   "care": {
     "hardiness": "Warm-season annual — killed by hard frost, so treated as an annual everywhere on the Front Range. No winter hardiness needed; direct sow or transplant after danger of frost (mid-May around Boulder).",
     "sun": "Full sun is essential — at least 6–8 hours of direct light daily. In too much shade plants stretch, stems flop, and flowering drops sharply.",
@@ -34,8 +35,14 @@
     "propagation": "Seed is the only practical method — cosmos does not divide (no persistent crown or rhizome) and vegetative propagation is rarely attempted. Direct sow or start indoors as described above. For saving and sowing: allow selected seed heads to ripen and dry fully on the plant (they turn tan and narrow, like a needle), then strip and dry further indoors before storage. Saved open-pollinated seed comes true to color. The plant's most efficient 'propagation' is self-sowing: allow some seed heads to shatter in place from late August onward and cosmos will return in drifts the following year with no effort. Thin or transplant volunteers early while the taproot is still small."
   },
   "care_src": [
-    { "name": "Utah State University Extension — Cosmos in the Garden", "url": "https://extension.usu.edu/yardandgarden/research/cosmos-in-the-garden" },
-    { "name": "NC State Extension — Cosmos bipinnatus Plant Toolbox", "url": "https://plants.ces.ncsu.edu/plants/cosmos-bipinnatus/" }
+    {
+      "name": "Utah State University Extension — Cosmos in the Garden",
+      "url": "https://extension.usu.edu/yardandgarden/research/cosmos-in-the-garden"
+    },
+    {
+      "name": "NC State Extension — Cosmos bipinnatus Plant Toolbox",
+      "url": "https://plants.ces.ncsu.edu/plants/cosmos-bipinnatus/"
+    }
   ],
   "shots": [
     {
@@ -58,5 +65,6 @@
       "lic": "CC-BY",
       "link": "https://www.inaturalist.org/photos/302645943"
     }
-  ]
+  ],
+  "commons": "Cosmea (Cosmos bipinnatus) 02.JPG"
 }

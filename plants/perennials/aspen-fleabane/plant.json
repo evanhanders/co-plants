@@ -1,8 +1,10 @@
 {
   "common": "Aspen fleabane",
   "botanical": "Erigeron speciosus",
-  "type": "Perennial",
+  "type": "Forb",
+  "lifecycle": "Perennial",
   "native": "CO native",
+  "bloom_season": "Summer",
   "blurb": "A native daisy — lavender-blue rays around a gold eye, blooming for months.",
   "size": "1–2.5 ft × 1–1.5 ft",
   "sun": "Full sun",
@@ -14,7 +16,6 @@
   "toxic": "",
   "winter": false,
   "verified": "2026-06-01",
-  "commons": "Erigeron speciosus Lindl. DC. 'Fleabane' (Asteraceae) flower.JPG",
   "care": {
     "hardiness": "Hardy to USDA Zone 2 — exceptionally cold-tolerant and fully at home on the Front Range (Zone 5b–6a). It grows natively from 2,000 to over 11,000 ft in the Rockies and is completely unbothered by Boulder winters. No winter protection needed; the plant dies to the ground after frost and re-emerges reliably in spring.",
     "sun": "Full sun on the plains and at lower Front Range elevations; part shade is also fine, especially where afternoon heat is intense. At high altitude it prefers open, sunny sites. In Boulder-area gardens, an east- or north-facing exposure with a few hours of afternoon shade keeps the foliage from scorching and prolongs bloom.",
@@ -34,8 +35,14 @@
     "propagation": "Division is the most reliable vegetative method: every 3–4 years in early spring or early fall, dig the clump, split with a sharp spade or two forks back-to-back into vigorous outer sections (the center may die out), and replant at the same depth 18–24 in. apart. This is also the quickest way to multiply a specific plant. Rhizomatous spread means the colony will slowly self-expand without any intervention — simply dig rooted offsets from the edge of an established clump and replant. Seed is equally easy and the natural renewal strategy: surface-sow (no more than ⅛ in. of soil cover) in fall for natural cold stratification, or start indoors 8–10 weeks before last frost (see the `sow`, `stratify`, and `depth` entries for the full protocol). Seeds germinate readily at 60–70°F; plants bloom in their first or second year. Allow some seed heads to scatter in a naturalized planting to maintain the colony without any active effort."
   },
   "care_src": [
-    { "name": "USDA Forest Service / Western Forbs — Aspen Fleabane (Erigeron speciosus)", "url": "https://westernforbs.org/species/aspen-fleabane-erigeron-speciosus/" },
-    { "name": "CSU Extension — Native Herbaceous Perennials for Colorado Landscapes", "url": "https://extension.colostate.edu/resource/native-herbaceous-perennials-for-colorado-landscapes/" }
+    {
+      "name": "USDA Forest Service / Western Forbs — Aspen Fleabane (Erigeron speciosus)",
+      "url": "https://westernforbs.org/species/aspen-fleabane-erigeron-speciosus/"
+    },
+    {
+      "name": "CSU Extension — Native Herbaceous Perennials for Colorado Landscapes",
+      "url": "https://extension.colostate.edu/resource/native-herbaceous-perennials-for-colorado-landscapes/"
+    }
   ],
   "shots": [
     {
@@ -58,5 +65,6 @@
       "lic": "CC-BY",
       "link": "https://www.inaturalist.org/photos/142946422"
     }
-  ]
+  ],
+  "commons": "Erigeron speciosus Lindl. DC. 'Fleabane' (Asteraceae) flower.JPG"
 }

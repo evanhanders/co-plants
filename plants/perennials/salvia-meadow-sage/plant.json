@@ -1,8 +1,10 @@
 {
   "common": "Salvia (meadow sage)",
   "botanical": "Salvia nemorosa",
-  "type": "Perennial",
+  "type": "Forb",
+  "lifecycle": "Perennial",
   "native": "Non-native",
+  "bloom_season": "Summer",
   "blurb": "Upright wands of violet-blue in early summer — a tidy, deadhead-to-rebloom border salvia & pollinator favorite; not to be confused with noxious Mediterranean sage (Salvia aethiopis, a CO List A weed).",
   "size": "1.5–2.5 ft × 1.5–2 ft",
   "sun": "Full sun",
@@ -14,7 +16,6 @@
   "toxic": "",
   "winter": false,
   "verified": "2026-06-01",
-  "commons": "Woodland sage-Salvia nemorosa.jpg",
   "care": {
     "hardiness": "USDA zones 4a–8b — thoroughly cold-hardy on the Front Range (5b–6a) with no special winter protection needed. The low rosette of aromatic foliage often stays semi-evergreen under snow and leafs out reliably each spring.",
     "sun": "Full sun is essential — 6+ hours of direct sun daily. It will grow in part shade but blooms sparsely, flops, and becomes more susceptible to crown rot. The intense high-altitude Front Range sun is exactly what this plant loves.",
@@ -31,8 +32,14 @@
     "propagation": "The easiest route is division: in early spring, as new basal growth emerges, dig the clump and pull or cut it apart into sections of 3–5 rosettes, each with roots attached, and replant immediately. Divide every 3–4 years to maintain vigor. Basal cuttings taken in spring (2–3 in shoots with a heel of stem tissue, before the plant bolts) root readily in moist perlite or a gritty mix in 3–4 weeks with bottom heat at ~65–70°F. Seed propagation is also possible — surface-sow indoors 8–10 weeks before last frost (no stratification needed), at 65–70°F in the light; germination takes 7–21 days. Named cultivars (e.g. 'Caradonna', 'May Night') do not come true from seed and are best propagated by division or cutting."
   },
   "care_src": [
-    { "name": "PlantTalk Colorado — Salvia (CSU Extension)", "url": "https://planttalk.colostate.edu/topics/annuals-perennials/1058-salvia/" },
-    { "name": "NC State Extension — Salvia nemorosa", "url": "https://plants.ces.ncsu.edu/plants/salvia-nemorosa/" }
+    {
+      "name": "PlantTalk Colorado — Salvia (CSU Extension)",
+      "url": "https://planttalk.colostate.edu/topics/annuals-perennials/1058-salvia/"
+    },
+    {
+      "name": "NC State Extension — Salvia nemorosa",
+      "url": "https://plants.ces.ncsu.edu/plants/salvia-nemorosa/"
+    }
   ],
   "shots": [
     {
@@ -55,5 +62,6 @@
       "lic": "CC-BY",
       "link": "https://www.inaturalist.org/photos/639809152"
     }
-  ]
+  ],
+  "commons": "Woodland sage-Salvia nemorosa.jpg"
 }

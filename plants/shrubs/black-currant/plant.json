@@ -4,7 +4,77 @@
   "type": "Shrub",
   "lifecycle": "Perennial",
   "native": "Non-native",
-  "blurb": "stub",
+  "blurb": "A compact bush of intensely aromatic, blackcurrant-scented foliage and matte-black berries that cook into a deep, musky, incomparable jam and cordial.",
+  "size": "3–4 ft × 3–4 ft",
+  "sun": "Full sun to part shade",
+  "water": "Moderate to high; intolerant of drought, wants steady moisture",
+  "spread": "Compact clumping bush; does not run or self-sow",
+  "seasons": "Pendant flower racemes in April; matte black berry clusters ripen June–July; aromatic lobed summer foliage; bare cane frame in winter",
+  "wildlife": "Bees visit the spring flowers; birds strip the ripe fruit if unnetted",
+  "deer": "Aromatic foliage is not a favored browse; not reliably deer-proof",
+  "toxic": "Non-toxic; berries and leaves are not poisonous (leaves are used for tea)",
+  "winter": false,
+  "verified": "2026-06-04",
+  "origin": "Central & northern Europe and northern Asia",
+  "habitat": "Damp, fertile woods and stream sides on moist ground",
+  "care": {
+    "hardiness": "USDA zones 3–7 — fully hardy on the Front Range (5b–6a) and croppable in Colorado to high elevation. 'Ben Sarek' is a compact, densely branched selection (a 'Goliath' × 'Ojebyn' cross) that stays around 3–4 ft, handy for small gardens.[1][2]",
+    "planting": "Plant dormant bare-root or container bushes in early spring, setting the crown about 2 in below the soil line to encourage strong new canes from the base; container stock can also go in during early fall. Black currant is the thirstiest of the Ribes and resents drying out, so give it your most reliably moist spot. It can spend a season in a large pot, but containers dry fast in Boulder's sun and wind and their roots freeze far harder than the zone-3 wood does in the ground — sink or insulate the pot and water diligently, then move it into open ground for best cropping.[1][4][2]",
+    "sun": "Full sun to part shade. It fruits best in full sun but still crops well in light shade, so a spot with some afternoon shade is fine on the hot Front Range and helps keep its shallow roots cool and moist.[1][2][4]",
+    "soil": "Wants fertile, organically rich, moisture-retentive but well-drained soil; it copes with most soils, including Boulder's alkaline clay, if you amend with compost for moisture and drainage. A pH near 6–7 is ideal but not essential.[1][4][2]",
+    "water": "Black currant is intolerant of drought and needs steady moisture all season for a good crop — water deeply and regularly through summer, mulch to conserve it, and never let it bake dry. Ease off after harvest to harden the wood, then water once deeply in November before freeze-up.[1][4]",
+    "spacing": "Space bushes about 4–5 ft apart — black currant is more vigorous than red currant and gooseberry, so give it a touch more room; the compact 'Ben Sarek' can take the lower end. Rows 6–8 ft apart.[3][1]",
+    "propagation": "Very easy from hardwood cuttings about 8 in (20 cm) long taken from healthy, virus-free plants in mid-autumn to winter and lined out to root; unlike red currant, leave all the buds on so shoots arise from below ground for a multi-stemmed bush. Mound layering also works. Seed isn't used for cultivars. 'Ben Sarek' is self-fertile, so one bush fruits on its own.[4][1][2]",
+    "bloom": "Small pendant racemes of greenish, faintly reddish bell flowers open in April; bees work them. They give way to long, drooping clusters of black berries that ripen in June–July.[2][4]",
+    "feeding": "A moderately hungry plant — mulch with compost or well-rotted manure in spring, or apply a granular feed before bud-swell; black currant appreciates a little more nitrogen than the other Ribes to fuel the young wood it fruits on, but don't overdo it.[4][1]",
+    "maintenance": "Unlike red currant and gooseberry, black currant fruits best on strong one- and two-year-old wood, so prune to renew it: each winter cut about one-third of the oldest, darkest stems right to the base, leaving the younger pale wood. On an established bush this cycles the whole plant over three years and keeps cropping heavy. (Pruning out young wood instead would remove next year's crop.)[4][3]",
+    "harvest": "Pick in June–July when the berries are fully black and slightly soft. Modern bushes tend to ripen a whole cluster together, so you can strip the strigs at once; net against birds, which love them. The fresh fruit is sharp and musky — most of the crop goes to cooking.[1][2][4]",
+    "troubles": "On the Front Range expect only minor pests — aphids, cane borers, spider mites — plus powdery mildew on crowded bushes (prune for airflow). The signature black-currant issue is big bud mite, which swells buds and can carry reversion virus; remove and destroy fat round buds, and start with clean stock. Most important: Ribes are alternate hosts for white pine blister rust (Cronartium ribicola), and black currant (Ribes nigrum) is the strongest host of all the currants and gooseberries. Colorado has no statewide ban, but choose a resistant cultivar — 'Ben Sarek' is rated highly resistant, and 'Consort', 'Titania', and 'Crusader' are essentially immune — and keep black currants well away from five-needle (white) pines.[4][3][2]",
+    "companions": "Best grown with the other Ribes — red currant and gooseberry — in a moist, lightly shaded small-fruit bed, underplanted with shallow herbs and spring bulbs that won't compete for water. The one planting rule that matters here is distance from five-needle white pines, given black currant's role as the prime blister-rust host.[1][2]"
+  },
+  "fact_src": {
+    "size": [2, 1],
+    "sun": [1, 2],
+    "water": [1, 4],
+    "spread": [2, 3],
+    "seasons": [2, 4],
+    "wildlife": [2, 4],
+    "deer": [2],
+    "toxic": [2, 1],
+    "origin": [5],
+    "habitat": [5]
+  },
+  "edible": {
+    "level": "edible",
+    "food": true,
+    "card": "Ripe black berries (jam, cordial, baking)",
+    "summary": "The aromatic black berries are edible and prized — sharp and musky fresh, superb cooked into jam, cordial, syrup, and pie; the leaves are also used for tea, and no part is poisonous.[1][2]",
+    "parts": "The fruit is the part eaten: matte-black berries in pendant clusters, ripening June–July, with an intense, musky, distinctive flavor. They are very high in vitamin C and pectin. Fresh they are sharp and aromatic; cooked they make exceptional jam, jelly, cordial, syrup, sauce, and pie filling. The young leaves are sometimes brewed as a herbal tea. No part of the plant is poisonous.[1][2]",
+    "preparation": "Most of the crop is cooked: simmered with sugar into jam, jelly, syrup, and cordial, baked into pies and puddings, or steeped for tea (leaves). The fresh berries are edible but tart and strongly flavored, so they are usually sweetened. Wash and de-stem before use, and eat only fruit from bushes you have not sprayed.[1][2]",
+    "caution": "Black currant has no toxic parts — berries and leaves are both safe — so the cautions are ordinary ones: the raw fruit is intensely sharp and best cooked and sweetened, and you should eat only unsprayed fruit. The bush's notable hazard is botanical, not dietary: black currant is the strongest alternate host of any Ribes for white pine blister rust, a disease lethal to five-needle white pines, so it should be sited away from such pines and (where required) grown only as a resistant cultivar like 'Ben Sarek' — a tree-health concern, not a food-safety one.[2][4]"
+  },
+  "references": [
+    {
+      "name": "CSU Extension — Currants, Gooseberries, and Jostaberries",
+      "url": "https://extension.colostate.edu/resource/currants-gooseberries-and-jostaberries/"
+    },
+    {
+      "name": "Missouri Botanical Garden Plant Finder — Ribes nigrum 'Ben Sarek'",
+      "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=257221"
+    },
+    {
+      "name": "University of Minnesota Extension — Growing currants and gooseberries in the home garden",
+      "url": "https://extension.umn.edu/fruit/growing-currants-and-gooseberries-home-garden"
+    },
+    {
+      "name": "Royal Horticultural Society (RHS) — Blackcurrants: grow your own",
+      "url": "https://www.rhs.org.uk/fruit/blackcurrants/grow-your-own"
+    },
+    {
+      "name": "Ribes nigrum (blackcurrant) — native range — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ribes_nigrum"
+    }
+  ],
   "shots": [
     {
       "local": "images/sp-habit-t.jpg",

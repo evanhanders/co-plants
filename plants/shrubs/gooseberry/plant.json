@@ -4,7 +4,73 @@
   "type": "Shrub",
   "lifecycle": "Perennial",
   "native": "Non-native",
-  "blurb": "stub",
+  "blurb": "A Finnish-bred dessert gooseberry: spiny arching canes hung with large dark-red berries that have tart skin over surprisingly sweet flesh, good enough to eat off the bush.",
+  "size": "3–5 ft × 3–5 ft",
+  "sun": "Full sun to part shade",
+  "water": "Moderate; steady summer moisture for plump fruit",
+  "spread": "Clumping spiny shrub; does not run or self-sow",
+  "seasons": "Greenish-yellow bell flowers in April; large dark-red berries ripen in July; lobed green summer foliage; bare thorny cane frame in winter",
+  "wildlife": "Bees work the early flowers; the thorny canes give birds cover",
+  "deer": "Spiny stems deter heavy browsing; not a deer favorite",
+  "toxic": "Non-toxic; the ripe berries are not poisonous (the canes are thorny)",
+  "winter": false,
+  "verified": "2026-06-04",
+  "origin": "Europe, northwest Africa & southwest Asia",
+  "habitat": "Rocky forests, copses and hedgerows",
+  "care": {
+    "hardiness": "USDA zones 4–6 (hardy 3–7 in practice) — well within the Front Range range (5b–6a) and grown in Colorado to high elevation. Like the currants it prefers cool summers, so it earns a spot with some afternoon shade over a baking exposure.[2][1]",
+    "planting": "Plant dormant bare-root or container bushes in early spring, setting the crown 1–2 in below the soil line; container stock can also go in during early fall. A large pot suits it for a season, but pots dry fast and freeze hard in Boulder — its roots are far less cold-tolerant than the zone-4 top growth, so sink or insulate the pot, water faithfully, and plan to move it into open ground for the best, plumpest fruit. Wear gloves: the canes are thorny.[1][2]",
+    "sun": "Full sun to part shade. It fruits best in full sun but, like the currants, still crops in light or afternoon shade — useful on the hot Front Range, where a little shade reduces heat and water stress and helps the berries swell.[1][2]",
+    "soil": "Average to fertile, well-drained soil at pH 6–7 is ideal, but it tolerates Boulder's heavier alkaline clay at higher pH; amend clay with compost for drainage and moisture. It is hardy on poorer soils too.[1][2]",
+    "water": "Give adequate, even moisture through the season for the largest, plumpest berries — gooseberry dislikes drought stress but also resents waterlogging. After harvest, taper the water to harden the wood for winter, then water deeply once in November before the ground freezes.[1]",
+    "spacing": "Space plants about 3.5–4.5 ft apart, in rows 6–8 ft apart; each spiny bush matures to roughly 3–5 ft tall and wide. Give yourself elbow room around the thorny canes for picking.[1][2]",
+    "propagation": "Propagate from hardwood cuttings of year-old wood taken in late fall to winter, or by mound layering — heap soil over the crown in spring and detach rooted shoots the next year. Tip layering of the arching canes also works. Seed isn't used for cultivars. 'Hinnomäki Red' is self-fertile, so a single bush will fruit.[1][3]",
+    "bloom": "Small greenish-yellow bell flowers with reflexed sepals open singly or in pairs along the spiny stems in April, ahead of most fruit; bees visit them. They set the large dark-red berries that ripen in July.[2][1]",
+    "feeding": "A light feeder — mulch with compost or well-rotted manure in spring, or apply a modest granular feed before bud-swell. Avoid heavy nitrogen, which encourages soft, mildew-prone growth at the expense of fruit.[1][3]",
+    "maintenance": "Gooseberry fruits on spurs of two- and three-year-old wood, so prune in late winter or early spring before bud-swell. Build an open, goblet-shaped bush of about three canes each of one-, two- and three-year-old wood, removing the oldest stems at the base each year and thinning the center; the airy frame both ripens fruit and curbs powdery mildew. The thorns make this the fussiest of the three to prune — gauntlet gloves help.[1][3]",
+    "harvest": "For dessert use, let the berries hang until fully dark red, soft, and sweet — usually in July; 'Hinnomäki Red' has tart skin over sweet flesh and is one of the better gooseberries to eat fresh. For cooking (where the tartness is wanted) they can be picked earlier and firmer. Mind the thorns when picking, and net against birds.[1][2]",
+    "troubles": "On the Front Range pests are minor — aphids, cane borers, spider mites — but powdery mildew is the classic gooseberry problem, coating leaves and fruit in crowded, damp, low-airflow bushes; prune for an open habit, space well, and avoid overhead watering ('Hinnomäki Red' has good mildew resistance). Like all Ribes, gooseberry is an alternate host for white pine blister rust (Cronartium ribicola) — a much weaker host than black currant, and Colorado has no statewide ban, but keep it away from five-needle (white) pines as a courtesy.[1][3][2]",
+    "companions": "Slots into a part-shade corner of an edible garden or the dappled edge of a border, alongside the currants in a small-fruit bed; its thorny canes also make a deterrent low hedge. The one siting rule that matters is distance from five-needle white pines (a blister-rust precaution).[1][2]"
+  },
+  "fact_src": {
+    "size": [1, 2],
+    "sun": [1, 2],
+    "water": [1],
+    "spread": [1, 2],
+    "seasons": [2, 1],
+    "wildlife": [2, 1],
+    "deer": [2],
+    "toxic": [2, 1],
+    "origin": [4, 2],
+    "habitat": [4]
+  },
+  "edible": {
+    "level": "edible",
+    "food": true,
+    "card": "Ripe dessert berries (fresh, pies, jam)",
+    "summary": "The large dark-red berries are edible and, in 'Hinnomäki Red', sweet enough to eat fresh off the bush — tart skin over sweet flesh — and equally good in pies and jam; no part is poisonous.[1][2]",
+    "parts": "The fruit is the part eaten: large, dark-red, faintly striped berries with tart skin and sweet flesh, ripening in July. Picked dead-ripe they are a true dessert gooseberry for eating out of hand; picked a little firmer and tarter they are classic for pies, crumbles, jam, jelly, and sauce. The leaves and stems (which are thorny) are not used as food.[1][2]",
+    "preparation": "Eat fully ripe red berries fresh, or cook firmer ones with sugar into pies, crumbles, jam, jelly, fool, and sauce. Top-and-tail the berries (remove the blossom and stalk ends) before cooking, wash them, and watch for the cane thorns while picking. Eat only fruit from bushes you have not sprayed.[1][2]",
+    "caution": "Gooseberry has no toxic parts — the ripe berries are not poisonous — so the cautions are practical ones: the canes are sharply thorny, so wear gloves when picking and pruning; very underripe berries are extremely tart and best cooked rather than eaten raw; and eat only unsprayed fruit. As with the currants, the bush is an alternate host for white pine blister rust, which threatens nearby white pines, not people eating the fruit.[1][2]"
+  },
+  "references": [
+    {
+      "name": "CSU Extension — Currants, Gooseberries, and Jostaberries",
+      "url": "https://extension.colostate.edu/resource/currants-gooseberries-and-jostaberries/"
+    },
+    {
+      "name": "Missouri Botanical Garden Plant Finder — Ribes uva-crispa 'Hinnonmäki Röd'",
+      "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=260958"
+    },
+    {
+      "name": "University of Minnesota Extension — Growing currants and gooseberries in the home garden",
+      "url": "https://extension.umn.edu/fruit/growing-currants-and-gooseberries-home-garden"
+    },
+    {
+      "name": "Ribes uva-crispa (gooseberry) — native range — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ribes_uva-crispa"
+    }
+  ],
   "shots": [
     {
       "local": "images/su-habit-t.jpg",

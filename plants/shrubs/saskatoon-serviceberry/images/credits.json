@@ -35,27 +35,27 @@
   },
   {
     "file": "images/su-fruit.jpg",
-    "photo_id": 92323179,
-    "by": "BeeeH",
+    "photo_id": 149569284,
+    "by": "Tamar",
     "license": "CC-BY-NC",
-    "source": "https://www.inaturalist.org/observations/57857303",
+    "source": "https://www.inaturalist.org/observations/90492449",
     "dataset": "iNaturalist open data",
     "render": "original",
     "full_px": [
-      1050,
-      1400
+      634,
+      423
     ],
     "thumb_px": [
-      300,
-      400
+      400,
+      267
     ]
   },
   {
     "file": "images/su-foliage.jpg",
-    "photo_id": 196401768,
-    "by": "John Powers",
-    "license": "CC-BY",
-    "source": "https://www.inaturalist.org/observations/116357149",
+    "photo_id": 144004305,
+    "by": "David Martin",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/87351921",
     "dataset": "iNaturalist open data",
     "render": "original",
     "full_px": [
@@ -68,19 +68,19 @@
     ]
   },
   {
-    "file": "images/sp-habit.jpg",
-    "photo_id": 15340610,
-    "by": "Harry Podschwit",
-    "license": "CC-BY",
-    "source": "https://www.inaturalist.org/observations/10911539",
+    "file": "images/su-habit.jpg",
+    "photo_id": 147906018,
+    "by": "Glen",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/89557698",
     "dataset": "iNaturalist open data",
     "render": "original",
     "full_px": [
-      1400,
+      1050,
       1400
     ],
     "thumb_px": [
-      400,
+      300,
       400
     ]
   }

@@ -1,0 +1,47 @@
+{
+  "common": "raspberry",
+  "botanical": "tmp",
+  "type": "Shrub",
+  "shots": [
+    {
+      "local": "images/su-fruit-t.jpg",
+      "full": "images/su-fruit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/9463992/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — ripe red raspberries on the cane with compound foliage, the fall-bearing crop · © Ben Armstrong (CC-BY) / iNaturalist",
+      "by": "Ben Armstrong",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/7310237"
+    },
+    {
+      "local": "images/su-berry-t.jpg",
+      "full": "images/su-berry.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/222301770/large.jpg",
+      "s": "summer",
+      "cap": "Summer — a ripe red raspberry close-up, showing the aggregate of drupelets · © Emily L. Stanley (CC-BY-NC) / iNaturalist",
+      "by": "Emily L. Stanley",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/130696727"
+    },
+    {
+      "local": "images/su-flower-t.jpg",
+      "full": "images/su-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/286961624/large.jpeg",
+      "s": "summer",
+      "cap": "Early summer — white five-petalled raspberry flower · © Radha Veach (CC-BY-NC) / iNaturalist",
+      "by": "Radha Veach",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/165756643"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/523793182/large.jpg",
+      "s": "summer",
+      "cap": "Summer — pinnately compound leaves and prickly cane, the plant's structure · © Jeremy Barker (CC-BY-NC) / iNaturalist",
+      "by": "Jeremy Barker",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/291134135"
+    }
+  ]
+}

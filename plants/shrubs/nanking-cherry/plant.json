@@ -28,32 +28,32 @@
     {
       "local": "images/su-fruit-t.jpg",
       "full": "images/su-fruit.jpg",
-      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/393542913/large.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/139758414/large.jpg",
       "s": "summer",
-      "cap": "Summer — bright scarlet cherries crowding the branches, sweet-tart and edible · © Megan (CC-BY-NC) / iNaturalist",
-      "by": "Megan",
+      "cap": "Summer — ripe scarlet cherries, sweet-tart and edible, hanging from the stem · © Helga Green (CC-BY-NC) / iNaturalist",
+      "by": "Helga Green",
       "lic": "CC-BY-NC",
-      "link": "https://www.inaturalist.org/observations/222180349"
-    },
-    {
-      "local": "images/su-foliage-t.jpg",
-      "full": "images/su-foliage.jpg",
-      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/469260383/large.jpg",
-      "s": "summer",
-      "cap": "Summer — the softly downy (tomentose), deeply veined leaves that name the species · © no rights reserved (CC0) / iNaturalist",
-      "by": "no rights reserved",
-      "lic": "CC0",
-      "link": "https://www.inaturalist.org/observations/261222957"
+      "link": "https://www.inaturalist.org/observations/84989291"
     },
     {
       "local": "images/su-habit-t.jpg",
       "full": "images/su-habit.jpg",
-      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/210609965/large.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/286405110/large.jpeg",
       "s": "summer",
-      "cap": "Summer — the dense, twiggy, fruit-laden shrub form · © Natalie Rudkins (CC-BY-NC) / iNaturalist",
-      "by": "Natalie Rudkins",
+      "cap": "Summer — the dense, twiggy shrub crowded with red fruit, the way it reads in the garden · © lee_meow (CC-BY-NC) / iNaturalist",
+      "by": "lee_meow",
       "lic": "CC-BY-NC",
-      "link": "https://www.inaturalist.org/observations/124273035"
+      "link": "https://www.inaturalist.org/observations/165450952"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/393542913/large.jpg",
+      "s": "summer",
+      "cap": "Summer — the softly downy (tomentose), deeply veined leaves that name the species · © Megan (CC-BY-NC) / iNaturalist",
+      "by": "Megan",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/222180349"
     }
   ]
 }

@@ -1,0 +1,47 @@
+{
+  "common": "jostaberry",
+  "botanical": "tmp",
+  "type": "Shrub",
+  "shots": [
+    {
+      "local": "images/su-fruit-t.jpg",
+      "full": "images/su-fruit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/42920313/large.jpg",
+      "s": "summer",
+      "cap": "Summer — dark, gooseberry-like jostaberries ripening on thornless stems · © frahome (CC-BY-NC) / iNaturalist",
+      "by": "frahome",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/27576488"
+    },
+    {
+      "local": "images/su-berry-t.jpg",
+      "full": "images/su-berry.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/529364407/large.jpg",
+      "s": "summer",
+      "cap": "Summer — near-black ripe jostaberries hanging along the cane · © Aliaksandr Mialik (CC-BY-NC) / iNaturalist",
+      "by": "Aliaksandr Mialik",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/294116305"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/666360649/large.jpg",
+      "s": "summer",
+      "cap": "Summer — the vigorous thornless bush, currant-and-gooseberry in habit · © agyagfalva_6b_lehel (CC-BY-NC) / iNaturalist",
+      "by": "agyagfalva_6b_lehel",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/364996203"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/484660175/large.jpeg",
+      "s": "summer",
+      "cap": "Lobed, gooseberry-like leaves on smooth, spineless stems · © Ezra (CC-BY-NC) / iNaturalist",
+      "by": "Ezra",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/269547944"
+    }
+  ]
+}

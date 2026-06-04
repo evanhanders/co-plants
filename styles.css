@@ -26,7 +26,9 @@ h1.display{font-size:clamp(34px,7vw,58px);font-weight:600;line-height:.98;margin
 .meta-row b{color:var(--green);font-style:normal}
 .toolbar{display:flex;gap:10px;flex-wrap:wrap;align-items:center;justify-content:space-between;margin:22px 0 6px}
 .search{flex:1;min-width:200px;position:relative}
-.search input{ width:100%;padding:11px 14px 11px 40px;border:1.5px solid var(--line);border-radius:2px; background:var(--card);font-family:inherit;font-size:16px;color:var(--ink);-webkit-appearance:none;appearance:none; }
+/* selector is [type=search]-qualified so it outranks the generic `input[type=search]` form reset
+   below (equal specificity + later source order was overriding the 40px left pad back to 11px) */
+.search input[type=search]{ width:100%;padding:11px 14px 11px 40px;border:1.5px solid var(--line);border-radius:2px; background:var(--card);font-family:inherit;font-size:16px;color:var(--ink);-webkit-appearance:none;appearance:none; }
 .search input:focus{outline:none;border-color:var(--green);box-shadow:0 0 0 2px var(--green-soft)}
 /* drop the native search-field chrome so our left padding is honoured (no glyph under the text) */
 .search input::-webkit-search-decoration,.search input::-webkit-search-cancel-button,.search input::-webkit-search-results-button,.search input::-webkit-search-results-decoration{-webkit-appearance:none;appearance:none}

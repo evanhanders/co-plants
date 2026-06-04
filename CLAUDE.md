@@ -44,8 +44,14 @@ committed and pushed.** Deploys are just git:
 
 1. Edit the relevant file(s) — `index.html`, `plant.html`, `styles.css`, `reel.js`,
    `app.js`, `plant.js`, or a `plants/.../plant.json`.
-2. `git add -A && git commit && git push`.
-3. GitHub Pages redeploys automatically; changes go live in a minute or two.
+2. `git add -A && git commit && git push` (to the working feature branch).
+3. **Merge to `main` to ship — this is the standard end-of-task step.** When a unit of
+   work is complete, validated (`tools/check_refs.py` + `tools/check_citations.py` pass,
+   and any visual change rendered in Chromium), and pushed, open a PR into `main` and
+   **squash-merge** it. **GitHub Pages deploys from `main`**, so work isn't live until it's
+   merged — **don't leave finished work parked on a feature branch.** Sync the branch to the
+   merged `main` afterward (`git fetch origin main && git reset --hard origin/main`).
+4. GitHub Pages redeploys from `main` automatically; changes go live in a minute or two.
 
 **Preview / self-check:** because the page `fetch()`es the plant data, `file://`
 won't work — serve it over HTTP and validate from inside the container with `curl`
@@ -909,3 +915,6 @@ The current backlog. Move items out of this section as they ship.
   720×480 smart-crops, not the provisional 400px ones.
 - Vanilla HTML/CSS/JS, no build, no deps — keep it that way unless the user asks otherwise.
 - Preview locally over `http.server` (fetch won't work from `file://`).
+- **Ship by merging to `main`.** Finished, validated, pushed work gets a PR squash-merged into
+  `main` (Pages deploys from `main`) — that's the default last step, not an optional one. Don't
+  leave completed work sitting on a feature branch (see "How deploys work").

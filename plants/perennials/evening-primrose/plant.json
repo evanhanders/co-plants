@@ -16,21 +16,38 @@
   "winter": false,
   "verified": "2026-06-03",
   "care": {
-    "hardiness": "USDA zones 4–8; fully cold-hardy on the Front Range (zones 5b–6a). Dies to the ground each winter and reliably re-emerges in spring. The key to longevity here is sharp drainage — wet winter soil is more dangerous than cold.",
-    "planting": "Plant in-ground in spring (April–May, after last frost) or early fall (September). Good drainage is the single most critical factor — amend heavy clay generously with coarse grit or pea gravel, or site it on a slope, raised bed, or berm. Avoid low spots where water collects. In containers, use a gritty cactus or alpine mix; containers dry fast in Boulder's wind and sun, so check moisture regularly in summer heat. Overwintering in pots is tricky — roots are less cold-hardy than in-ground; sink the pot into the ground or store in an unheated but frost-free space, keeping the mix just barely dry.",
-    "sun": "Full sun — at least 6 hours of direct sun daily. Tolerates reflected heat from walls or rock. Shade reduces flowering significantly and encourages floppy, weak stems.",
-    "soil": "Rocky, gravelly, or sandy well-drained soil; tolerates calcareous (limestone-based) and alkaline substrates, making it a good match for Front Range alkaline clay-loam provided drainage is improved. Keep it lean — rich, amended soil promotes lush vegetative growth at the expense of flowers and shortens the plant's life.",
-    "water": "Very low once established — one of the most drought-tolerant native perennials of the Great Plains. Deep, infrequent watering every 2–3 weeks during summer heat is sufficient; far less in spring and fall. Never let water stand around the crown. The plant actually performs better with some summer drought stress than with regular irrigation.",
-    "spacing": "Allow 18–24 in between plants; the sprawling stems radiate outward from the crown. Beautiful cascading over a rock wall or trailing through a dry gravel garden — position toward the front or edge of a bed.",
-    "propagation": "By seed (no stratification needed): direct-sow in fall or early spring; press lightly into well-drained soil and do not cover deeply — germination is relatively quick and easy. Also propagates readily from stem cuttings taken in early summer (May–June): take 3–4 in softwood tips, insert in gritty medium, and keep barely moist until rooted. Division of established crowns is possible in early spring but the plant resents disturbance and recovers slowly.",
-    "bloom": "April through August on the Front Range — flowers open in the late afternoon or evening and remain open through the following morning (closing in midday heat), providing a long nightly display. Individual flowers last only one evening, but the plant blooms continuously over the whole season. The large, papery, four-petaled cups (3–4 in across) are among the showiest of any xeric perennial.",
-    "feeding": "None needed. Lean soil is essential to keep it compact and blooming freely. Fertilizer or rich amendments produce rank, floppy growth.",
-    "maintenance": "Low. Cut stems back to the ground in late fall after frost kills the top growth, or leave the decorative winged seedpods for winter interest and cut back in early spring before new growth emerges. Remove spent flowers if you want to reduce self-sowing (it self-sows modestly — not aggressively).",
-    "selfsow": "Self-sows modestly from the winged capsules; seedlings appear in spring and are easy to thin or relocate. The plant is not invasive and does not spread by roots.",
-    "troubles": "Root rot in wet or clay soil is the main problem in Front Range gardens — always the first thing to check if the plant fails to re-emerge in spring. Otherwise largely pest- and disease-free. Occasional leaf-miners; no serious insect pests.",
-    "companions": "Blue grama grass, little bluestem, desert penstemon, catmint, cushion spurge, creeping thyme, low sedums, and any other full-sun xeric perennials that tolerate or prefer dry, well-drained, alkaline soil."
+    "hardiness": "USDA zones 4–8; fully cold-hardy on the Front Range (zones 5b–6a). Dies to the ground each winter and reliably re-emerges in spring. The key to longevity here is sharp drainage — wet winter soil is more dangerous than cold.[1][2]",
+    "planting": "Plant in-ground in spring (April–May, after last frost) or early fall (September). Good drainage is the single most critical factor — amend heavy clay generously with coarse grit or pea gravel, or site it on a slope, raised bed, or berm. Avoid low spots where water collects. In containers, use a gritty cactus or alpine mix; containers dry fast in Boulder's wind and sun, so check moisture regularly in summer heat. Overwintering in pots is tricky — roots are less cold-hardy than in-ground; sink the pot into the ground or store in an unheated but frost-free space, keeping the mix just barely dry.[1][2]",
+    "sun": "Full sun — at least 6 hours of direct sun daily. Tolerates reflected heat from walls or rock. Shade reduces flowering significantly and encourages floppy, weak stems.[1]",
+    "soil": "Rocky, gravelly, or sandy well-drained soil; tolerates calcareous (limestone-based) and alkaline substrates, making it a good match for Front Range alkaline clay-loam provided drainage is improved. Keep it lean — rich, amended soil promotes lush vegetative growth at the expense of flowers and shortens the plant's life.[1]",
+    "water": "Very low once established — one of the most drought-tolerant native perennials of the Great Plains. Deep, infrequent watering every 2–3 weeks during summer heat is sufficient; far less in spring and fall. Never let water stand around the crown. The plant actually performs better with some summer drought stress than with regular irrigation.[1]",
+    "spacing": "Allow 18–24 in between plants; the sprawling stems radiate outward from the crown. Beautiful cascading over a rock wall or trailing through a dry gravel garden — position toward the front or edge of a bed.[1]",
+    "propagation": "By seed (no stratification needed): direct-sow in fall or early spring; press lightly into well-drained soil and do not cover deeply — germination is relatively quick and easy. Also propagates readily from stem cuttings taken in early summer (May–June): take 3–4 in softwood tips, insert in gritty medium, and keep barely moist until rooted. Division of established crowns is possible in early spring but the plant resents disturbance and recovers slowly.[1]",
+    "bloom": "April through August on the Front Range — flowers open in the late afternoon or evening and remain open through the following morning (closing in midday heat), providing a long nightly display. Individual flowers last only one evening, but the plant blooms continuously over the whole season. The large, papery, four-petaled cups (3–4 in across) are among the showiest of any xeric perennial.[1]",
+    "feeding": "None needed. Lean soil is essential to keep it compact and blooming freely. Fertilizer or rich amendments produce rank, floppy growth.[1]",
+    "maintenance": "Low. Cut stems back to the ground in late fall after frost kills the top growth, or leave the decorative winged seedpods for winter interest and cut back in early spring before new growth emerges. Remove spent flowers if you want to reduce self-sowing (it self-sows modestly — not aggressively).[1]",
+    "selfsow": "Self-sows modestly from the winged capsules; seedlings appear in spring and are easy to thin or relocate. The plant is not invasive and does not spread by roots.[1]",
+    "troubles": "Root rot in wet or clay soil is the main problem in Front Range gardens — always the first thing to check if the plant fails to re-emerge in spring. Otherwise largely pest- and disease-free. Occasional leaf-miners; no serious insect pests.[1]",
+    "companions": "Blue grama grass, little bluestem, desert penstemon, catmint, cushion spurge, creeping thyme, low sedums, and any other full-sun xeric perennials that tolerate or prefer dry, well-drained, alkaline soil.[1]"
   },
-  "care_src": [
+  "fact_src": {
+    "size": [1, 2],
+    "sun": [1],
+    "water": [1],
+    "spread": [1, 2],
+    "seasons": [1, 3],
+    "wildlife": [1, 3],
+    "deer": [1],
+    "toxic": [1, 4]
+  },
+  "edible": {
+    "level": "caution",
+    "summary": "Evening primroses (genus Oenothera) have edible roots, young shoots, and seeds, but Missouri evening primrose specifically is not well-documented as a food — treat it with caution and be sure of your identification before eating any part.[1][4]",
+    "parts": "In the wider Oenothera genus the edible parts are the taproot (boiled like a parsnip), the young shoots and leaves (cooked as a green), and the oil-rich seeds; the seeds of the genus are the famous source of evening primrose oil (rich in gamma-linolenic acid). These uses are best documented for Oenothera biennis; for this Great Plains species, O. macrocarpa, specific food-use records are sparse, so any edible use is by analogy to the genus rather than a documented tradition for this plant.[4]",
+    "preparation": "Following genus practice, roots are dug from first-year or young plants and boiled (often with a change of water) before eating; young spring shoots and leaves are cooked, not eaten raw, as the mature foliage turns tough and bitter. Because the food use here is genus-level rather than species-specific, prepare conservatively and in small amounts.[4]",
+    "caution": "No part of Oenothera macrocarpa is reported as poisonous, but it is not an established, well-documented food plant the way O. biennis is, so do not rely on it as forage — identify it with certainty and eat only small, cooked amounts of correctly-identified parts. Evening primrose seed oil can interact with some medications and is not recommended in pregnancy; this is a known caution for the genus's seed oil, not a green-thumb garnish. As always with a wild or ornamental plant, when in doubt, don't.[1][4]"
+  },
+  "references": [
     {
       "name": "Lady Bird Johnson Wildflower Center — Oenothera macrocarpa",
       "url": "https://www.wildflower.org/plants/result.php?id_plant=OEMA"
@@ -38,6 +55,14 @@
     {
       "name": "USDA NRCS PLANTS Database — Oenothera macrocarpa",
       "url": "https://plants.sc.egov.usda.gov/plant-profile/OEMA"
+    },
+    {
+      "name": "Illinois Wildflowers — Missouri Evening Primrose (Oenothera macrocarpa)",
+      "url": "https://www.illinoiswildflowers.info/prairie/plantx/ms_primrosex.htm"
+    },
+    {
+      "name": "Plants For A Future (PFAF) — Oenothera biennis (genus edible uses: root, shoots, seed/EPO oil; corroboration)",
+      "url": "https://pfaf.org/user/Plant.aspx?LatinName=Oenothera+biennis"
     }
   ],
   "shots": [

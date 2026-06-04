@@ -17,21 +17,36 @@
   "winter": true,
   "verified": "2026-06-03",
   "care": {
-    "hardiness": "USDA zones 3a–9b — extremely cold-hardy and well within Boulder's 5b–6a range. Established clumps shrug off hard winters without protection.",
-    "planting": "Set out container-grown transplants in spring (Apr–May) or early fall (Sep) on the Front Range; fall planting gives roots a head start before winter dormancy. Plant in groups of three or more for the best colony effect. In containers, use a lean, gritty mix in a large pot — these plants want room to spread; container soil dries much faster than in-ground in Front Range heat and wind, so check moisture every day or two. Pot-grown plants are cold-hardy to zone 3 in the ground but their roots are far more vulnerable in a pot exposed to air; sink containers into the ground or move to an unheated garage in November.",
-    "sun": "Full sun (6+ hours) is essential — shading produces weak, floppy stems and sparse bloom. Even 4 hours is marginal; give it the sunniest open spot you have.",
-    "soil": "Thrives in the shallow, rocky, alkaline clay-loam typical of the Front Range — and that is actually ideal. Good drainage is the only real requirement; avoid wet, heavy, or constantly irrigated ground. Lean soil keeps stems compact. No amendment needed.",
-    "water": "Low once established — roughly 10–15 in. per year, which is close to Boulder's natural rainfall. During the first season water every 7–10 days to help roots anchor; from year two water only during prolonged dry spells (every 2–3 weeks). Overwatering makes it flop and spread too aggressively.",
-    "spacing": "Space plants 18–24 in. apart; each forms a clump 1–2 ft wide that slowly expands by rhizome. For a naturalistic drift, plant in clusters and let them fill in over 2–3 seasons.",
-    "propagation": "By seed: collect achenes in fall once the feathery tufts are dry, cold-stratify 4–6 weeks in a damp paper towel in the refrigerator, then sow in early spring on the soil surface (needs light to germinate). Germination is reliable but seedlings are slow the first year. By division: the easiest and fastest method — divide clumps every 2–3 years in early spring, replant outer sections 18 in. apart, compost the worn center. Division also controls spread.",
-    "bloom": "August through October on the Front Range, with peak in September — one of the latest-blooming natives. Each plant produces hundreds of 0.4–0.6 in. daisies on densely branched stems.",
-    "feeding": "None needed; lean, unamended soil produces the sturdiest plants. Fertilizing causes floppy growth and lessens the density of bloom.",
-    "maintenance": "Cut stems back hard to 4–6 in. in early spring (March–April) before new growth emerges. Divide clumps every 2–3 years to keep them vigorous and prevent excessive spread. No deadheading required — leave the seedheads for birds and winter texture. Stake only if grown in partial shade or rich soil.",
-    "selfsow": "Self-sows moderately; seedlings are easy to recognize and thin in spring. Combined with rhizome spread, established plants can slowly colonize a border — welcome in a prairie or meadow planting, easily edited in a formal bed.",
-    "troubles": "Very trouble-free. Powdery mildew can appear in humid, crowded conditions — give plants room and full sun to prevent it. No serious pests. Tall stems in shaded or over-watered sites may need staking.",
-    "companions": "Little bluestem, blue grama, prairie dropseed, purple prairie clover, blanketflower, goldenrod — any full-sun, lean-soil prairie companion that blooms earlier in the season, leaving the aster to close the season."
+    "hardiness": "USDA zones 3a–9b — extremely cold-hardy and well within Boulder's 5b–6a range. Established clumps shrug off hard winters without protection.[2]",
+    "planting": "Set out container-grown transplants in spring (Apr–May) or early fall (Sep) on the Front Range; fall planting gives roots a head start before winter dormancy. Plant in groups of three or more for the best colony effect. In containers, use a lean, gritty mix in a large pot — these plants want room to spread; container soil dries much faster than in-ground in Front Range heat and wind, so check moisture every day or two. Pot-grown plants are cold-hardy to zone 3 in the ground but their roots are far more vulnerable in a pot exposed to air; sink containers into the ground or move to an unheated garage in November.[2]",
+    "sun": "Full sun (6+ hours) is essential — shading produces weak, floppy stems and sparse bloom. Even 4 hours is marginal; give it the sunniest open spot you have.[1][2]",
+    "soil": "Thrives in the shallow, rocky, alkaline clay-loam typical of the Front Range — and that is actually ideal. Good drainage is the only real requirement; avoid wet, heavy, or constantly irrigated ground. Lean soil keeps stems compact. No amendment needed.[1][2]",
+    "water": "Low once established — roughly 10–15 in. per year, which is close to Boulder's natural rainfall. During the first season water every 7–10 days to help roots anchor; from year two water only during prolonged dry spells (every 2–3 weeks). Overwatering makes it flop and spread too aggressively.[1][2]",
+    "spacing": "Space plants 18–24 in. apart; each forms a clump 1–2 ft wide that slowly expands by rhizome. For a naturalistic drift, plant in clusters and let them fill in over 2–3 seasons.[2]",
+    "propagation": "By seed: collect achenes in fall once the feathery tufts are dry, cold-stratify 4–6 weeks in a damp paper towel in the refrigerator, then sow in early spring on the soil surface (needs light to germinate). Germination is reliable but seedlings are slow the first year. By division: the easiest and fastest method — divide clumps every 2–3 years in early spring, replant outer sections 18 in. apart, compost the worn center. Division also controls spread.[2][3]",
+    "bloom": "August through October on the Front Range, with peak in September — one of the latest-blooming natives. Each plant produces hundreds of 0.4–0.6 in. daisies on densely branched stems.[1][2]",
+    "feeding": "None needed; lean, unamended soil produces the sturdiest plants. Fertilizing causes floppy growth and lessens the density of bloom.[2]",
+    "maintenance": "Cut stems back hard to 4–6 in. in early spring (March–April) before new growth emerges. Divide clumps every 2–3 years to keep them vigorous and prevent excessive spread. No deadheading required — leave the seedheads for birds and winter texture. Stake only if grown in partial shade or rich soil.[2]",
+    "selfsow": "Self-sows moderately; seedlings are easy to recognize and thin in spring. Combined with rhizome spread, established plants can slowly colonize a border — welcome in a prairie or meadow planting, easily edited in a formal bed.[2]",
+    "troubles": "Very trouble-free. Powdery mildew can appear in humid, crowded conditions — give plants room and full sun to prevent it. No serious pests. Tall stems in shaded or over-watered sites may need staking.[2]",
+    "companions": "Little bluestem, blue grama, prairie dropseed, purple prairie clover, blanketflower, goldenrod — any full-sun, lean-soil prairie companion that blooms earlier in the season, leaving the aster to close the season.[1]"
   },
-  "care_src": [
+  "fact_src": {
+    "size": [1, 2],
+    "sun": [1, 2],
+    "water": [1, 2],
+    "spread": [2, 3],
+    "seasons": [1, 2],
+    "wildlife": [1, 2],
+    "deer": [2],
+    "toxic": [3]
+  },
+  "edible": {
+    "level": "inedible",
+    "summary": "White heath aster is not a food plant — it has documented Native American ceremonial and medicinal uses but no edible use, and livestock avoid it.[3]",
+    "caution": "There is no recorded use of white heath aster (Symphyotrichum ericoides) as food; its documented Native American uses were medicinal and ceremonial — burned as an herbal steam in sweat baths and used to revive an unconscious person — not culinary, and grazing animals decline to eat it. No part is reported as a serious poison to people or pets, but because it is not an established edible it should not be eaten. As with any daisy-family (Asteraceae) plant, those with ragweed/aster allergies may react to the pollen, and a wild plant should never be eaten without certain identification.[3]"
+  },
+  "references": [
     {
       "name": "Lady Bird Johnson Wildflower Center — Symphyotrichum ericoides",
       "url": "https://www.wildflower.org/plants/result.php?id_plant=syer"
@@ -39,6 +54,10 @@
     {
       "name": "NC State Extension Gardener Plant Toolbox — Symphyotrichum ericoides",
       "url": "https://plants.ces.ncsu.edu/plants/symphyotrichum-ericoides/"
+    },
+    {
+      "name": "USDA NRCS Plant Guide — White Heath Aster (Symphyotrichum ericoides)",
+      "url": "https://plants.sc.egov.usda.gov/DocumentLibrary/plantguide/pdf/pg_syere.pdf"
     }
   ],
   "shots": [

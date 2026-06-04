@@ -37,12 +37,12 @@
     "seasons": [1],
     "wildlife": [1],
     "deer": [1, 2],
-    "toxic": [2, 3]
+    "toxic": [2]
   },
   "edible": {
     "level": "inedible",
-    "summary": "Turkish speedwell is a low-toxicity ornamental groundcover with no established food use — not poisonous, but not eaten.[2][3]",
-    "caution": "Veronica liwanensis has no recognized culinary use and should not be treated as a food. The Veronica (speedwell) genus is broadly non-toxic — this species is not listed as poisonous to people, dogs, cats, or horses (ASPCA), and a few other speedwells (e.g. V. officinalis) have a folk-tea history — but this Plant Select ornamental selection is not a documented edible or herbal plant, so be conservative and do not consume it; eating plant material in quantity can cause mild stomach upset in any case. Don't confuse it with the coarse-leaved weed Veronica persica.[2][3]"
+    "summary": "Turkish speedwell is a low-toxicity ornamental groundcover with no established food use — not poisonous, but not eaten.[1][2]",
+    "caution": "Veronica liwanensis has no recognized culinary use and should not be treated as a food. The Veronica (speedwell) genus is broadly non-toxic and not flagged as poisonous, and a few other speedwells (e.g. V. officinalis) have a folk herbal-tea history — but this Plant Select ornamental selection is not a documented edible or herbal plant, so be conservative and do not consume it; eating plant material in quantity can cause mild stomach upset in any case. Don't confuse it with the coarse-leaved weed Veronica persica.[1][2]"
   },
   "references": [
     {
@@ -52,10 +52,6 @@
     {
       "name": "NC State Extension Plant Toolbox — Veronica (speedwell genus)",
       "url": "https://plants.ces.ncsu.edu/plants/veronica/"
-    },
-    {
-      "name": "ASPCA — Toxic and Non-Toxic Plants (Veronica not listed as toxic to pets)",
-      "url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants"
     }
   ],
   "shots": [

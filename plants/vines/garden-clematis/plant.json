@@ -15,6 +15,8 @@
   "toxic": "Irritant/toxic if eaten; sap can irritate skin — caution with kids/pets. AVOID Clematis orientalis (yellow orange-peel clematis) — a CO List B noxious weed (all subspecies & cultivars)",
   "winter": false,
   "verified": "2026-06-01",
+  "origin": "Garden hybrid — Chinese (C. lanuginosa) × S.-European (C. viticella) parents",
+  "habitat": "Derived from woodland margins and rocky slopes in China and S. Europe",
   "care": {
     "hardiness": "Hardy to USDA zone 4 (RHS H6, to about -20°C) — well within the Front Range's zone 5b–6a. 'Jackmanii' and its large-flowered relatives are among the toughest clematis for Colorado; they die back to the ground in hard winters but reliably regrow from the crown each spring. This is not a problem — it's the expected and desirable behavior for a vine pruned by the Group 3 method (see 'maintenance').[1][2]",
     "sun": "Best in full sun to part shade, with 6+ hours of direct light for good flowering. In practice, the classic rule applies on the Front Range: sun on the top (the flowering stems), shade on the roots. Afternoon shade from a wall, low shrubs, or a layer of pebbles and mulch at the base keeps the root zone cool and moist, which clematis demand.[2][3]",
@@ -38,7 +40,9 @@
     "seasons": [1, 2],
     "wildlife": [3],
     "deer": [3],
-    "toxic": [3, 4]
+    "toxic": [3, 4],
+    "origin": [2],
+    "habitat": [2]
   },
   "edible": {
     "level": "toxic",

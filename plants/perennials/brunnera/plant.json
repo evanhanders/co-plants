@@ -16,6 +16,8 @@
   "toxic": "",
   "winter": false,
   "verified": "2026-06-03",
+  "origin": "Caucasus region — western Caucasus and adjacent northeastern Turkey",
+  "habitat": "Moist mountain forests and shaded woodland margins",
   "care": {
     "hardiness": "Hardy to USDA Zone 3 (−40°F), extremely cold-hardy and reliable through Boulder's 5b–6a winters. The crown survives deep cold without protection. The challenge in Colorado is not cold but summer heat and drought: afternoon temperatures and low humidity can scorch the large leaves. Site selection (north or east aspect, building shade) matters more here than winter hardiness.[1][2]",
     "planting": "Plant in spring (Apr–May) or early fall (Sep) in a location with reliable shade and moisture. This is one of the few plants in the herbarium that needs amended, moisture-retentive soil — work in generous compost before planting and mulch immediately with 2–3 in of organic mulch to retain moisture and keep the root zone cool. Avoid south- or west-facing exposures. In containers, brunnera does well in part-shade patios with a rich potting mix; pots dry out fast in summer — check moisture daily and never let the mix go bone-dry. Move containers to a sheltered, cool spot for winter or sink the pot to insulate roots.[1][2]",
@@ -37,7 +39,9 @@
     "seasons": [1, 2],
     "wildlife": [2],
     "deer": [2],
-    "toxic": [2, 3]
+    "toxic": [2, 3],
+    "origin": [1],
+    "habitat": [1]
   },
   "edible": {
     "level": "inedible",

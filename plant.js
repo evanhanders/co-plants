@@ -58,11 +58,16 @@ return refsup(fs && fs.map(String));
 }
 function factsDL(p){
 function row(label, key, val){ return '<dt>'+label+'</dt><dd>'+esc(val)+factMark(p,key)+'</dd>'; }
+/* provenance rows — non-native plants only: native range + wild habitat */
+var prov = isNative(p) ? '' :
+(p.origin?row('Native to','origin',p.origin):'')+
+(p.habitat?row('Wild habitat','habitat',p.habitat):'');
 return '<dl class="facts big">'+
 row('Mature size','size',p.size||'—')+row('Sun','sun',p.sun||'—')+
 row('Water','water',p.water||'—')+row('Spread / habit','spread',p.spread||'—')+
 row('Seasonal interest','seasons',p.seasons||'—')+row('Wildlife','wildlife',p.wildlife||'—')+
 row('Deer','deer',p.deer||'—')+row('Toxicity','toxic',p.toxic||'None of concern')+
+prov+
 '</dl>';
 }
 function carePanels(care){

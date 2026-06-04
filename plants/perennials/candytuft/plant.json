@@ -15,6 +15,8 @@
   "toxic": "Mildly toxic — all parts contain glucosinolates; keep away from pets and children who might ingest",
   "winter": true,
   "verified": "2026-06-03",
+  "origin": "S. Europe — Iberian Peninsula east to Turkey and NW Africa",
+  "habitat": "Sunny rocky slopes, walls, and dry Mediterranean scrubland",
   "care": {
     "hardiness": "USDA zones 3–8; fully cold-hardy on the Front Range (5b–6a) and holds its evergreen foliage through Boulder winters without protection. The woody base is more cold-hardy than the soft tips — a late hard frost after bud break can brown shoot tips, but the plant recovers.[1][2]",
     "planting": "Plant in-ground in spring (late April–May, after the last hard frost) or in early fall (September) so roots establish before freeze-up. Fall planting is ideal for Front Range clay soils — cooler temps and autumn moisture let roots settle without summer heat stress. In containers, plant in spring; candytuft in pots dries out faster than in-ground and the roots are less cold-hardy — water more frequently in summer heat and overwinter pots in an unheated garage or sink them into the ground to protect the root zone from freeze-thaw cycles.[1]",
@@ -36,7 +38,9 @@
     "seasons": [1, 2],
     "wildlife": [1],
     "deer": [1],
-    "toxic": [1]
+    "toxic": [1],
+    "origin": [1],
+    "habitat": [1]
   },
   "edible": {
     "level": "inedible",

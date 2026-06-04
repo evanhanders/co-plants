@@ -15,6 +15,8 @@
   "toxic": "Foliage & seeds contain cardiac glycosides — not for eating",
   "winter": false,
   "verified": "2026-06-04",
+  "origin": "Southern Europe and the Mediterranean — garden hybrid of Erysimum cheiri parentage",
+  "habitat": "Rocky coastal cliffs, old walls, and dry Mediterranean scrub",
   "gaps": "Photos are species-representative Erysimum (apricot-flowered forms) — no open-licensed photograph of the exact 'Apricot Twist'/'Sunset' cultivar exists on Commons/iNaturalist/GBIF/Openverse as of 2026-06; swap in a cultivar shot if one appears.",
   "shots": [
     {
@@ -91,6 +93,12 @@
     ],
     "toxic": [
       3
+    ],
+    "origin": [
+      2
+    ],
+    "habitat": [
+      2
     ]
   },
   "edible": {

@@ -15,6 +15,8 @@
   "toxic": "Leaves used as edible flavoring in small amounts; mildly toxic to pets (ASPCA)",
   "winter": false,
   "verified": "2026-06-04",
+  "origin": "South Africa — Cape Provinces and Northern Provinces",
+  "habitat": "Rocky hillsides and scrubby dry slopes of the South African Cape",
   "care": {
     "hardiness": "A frost-tender tender perennial (roughly USDA 9–11) that cannot survive a Front Range winter outdoors — it is killed by frost, so on the Front Range it is grown as a warm-season container or annual plant and overwintered indoors.[2][1]",
     "planting": "Set plants outside only after all danger of frost has passed and the soil has warmed to about 60 F — late May on the Front Range.[2] It is most practical in containers so it can be moved: grow it in a pot of well-drained potting mix on a sunny patio for the summer, then bring it indoors before the first fall frost.[1][2] If grown in the ground, dig and pot it up in early fall ahead of frost. To overwinter, set the potted plant in a bright sunny window with cool temperatures around 60–65 F, cut large plants back, and reduce water — it may drop some leaves at first but will recover.[1][2]",
@@ -85,6 +87,12 @@
     "toxic": [
       4,
       1
+    ],
+    "origin": [
+      2
+    ],
+    "habitat": [
+      2
     ]
   },
   "shots": [

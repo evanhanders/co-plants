@@ -62,6 +62,10 @@ return '<article class="card"><div class="plate">'+plate+'<span class="corner">'
 '<dt>Deer</dt><dd>'+(p.deer||'—')+'</dd>'+
 (p.edible&&p.edible.food&&p.edible.card?'<dt class="ed">Edible</dt><dd>'+p.edible.card+'</dd>':'')+
 (p.toxic?'<dt>Caution</dt><dd>'+p.toxic+'</dd>':'')+
+/* provenance — non-native plants only: where it's from + its wild growing conditions */
+(isNative(p)?'':
+ (p.origin?'<dt class="prov">Native to</dt><dd>'+p.origin+'</dd>':'')+
+ (p.habitat?'<dt class="prov">Wild habitat</dt><dd>'+p.habitat+'</dd>':''))+
 '</dl><div class="flags">'+flagsHTML(p)+'</div>'+
 '<div class="verified">Verified non-weed in CO · '+(p.verified||'date n/a')+'</div>'+
 (href?'<a class="detaillink" href="'+href+'">Grow &amp; care details →</a>':'')+
@@ -74,7 +78,7 @@ const total=allPlants().length;
 const list=allPlants().filter(function(p){
 if(!passesFilters(p)) return false;
 if(!q) return true;
-return [p.common,p.botanical,p.type,p.lifecycle,p.bloom_season,p.native,p.blurb,p.seasons,p.wildlife,p.spread].join(' ').toLowerCase().indexOf(q)>-1;
+return [p.common,p.botanical,p.type,p.lifecycle,p.bloom_season,p.native,p.blurb,p.seasons,p.wildlife,p.spread,p.origin,p.habitat].join(' ').toLowerCase().indexOf(q)>-1;
 });
 document.getElementById('count').textContent = total;
 const filtering = q || natFilter!=='all' || typeFilter.size>0 || traitFilter.size>0 || lifeFilter.size>0;

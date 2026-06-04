@@ -15,6 +15,8 @@
   "toxic": "Fruit flesh edible; pits, leaves & twigs cyanogenic — toxic to people/pets/livestock",
   "winter": false,
   "verified": "2026-06-04",
+  "origin": "Hybrid: American plum (N. America) × Chinese apricot-plum; bred in Minnesota, 1911",
+  "habitat": "Streambanks and thickets (P. americana); woodland margins in China (P. simonii)",
   "care": {
     "hardiness": "An exceptionally cold-hardy interspecific hybrid (an American × Asian plum cross) rated roughly USDA zone 3–8 and reliable to about -40°F, so Boulder's 5b–6a winters are no challenge at all.[1] On the Front Range the limiting factor is not winter cold but late spring frost on its early bloom — plant it at the high point of the yard, where frost drains away, and avoid hot south/west walls that force it into bloom too soon.[3]",
     "planting": "Set a dormant bare-root or container tree in spring (April–May) when the soil is workable, or plant container stock in early fall (September) to root in before hard frost; pick a high, open, full-sun site away from frost-pooling low spots and early-bloom-forcing wall heat.[3] Dig the hole as deep as the root ball and twice as wide, backfilling mostly with native soil rather than a rich amended pocket so roots grow out into the clay.[2] Toka makes a full-size tree and is poorly suited to permanent pot culture; if you must container-grow a dwarf, use a large (≥20 gal) pot, water much more often (pots dry fast in dry Front-Range air), and sink or heel-in the pot or move it to an unheated shed for winter, since potted roots are far less cold-hardy than the zone-3 canopy.[2][3]",
@@ -95,7 +97,9 @@
     "toxic": [
       5,
       6
-    ]
+    ],
+    "origin": [1],
+    "habitat": [1]
   },
   "shots": [
     {

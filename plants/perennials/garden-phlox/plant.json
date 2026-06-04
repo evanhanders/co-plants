@@ -16,6 +16,8 @@
   "toxic": "",
   "winter": false,
   "verified": "2026-06-03",
+  "origin": "Eastern and central United States",
+  "habitat": "Moist open woods, woodland edges, and stream banks",
   "care": {
     "hardiness": "Hardy to USDA Zone 4 (−20°F to −30°F), well above Boulder's Zone 5b–6a minimum. Completely reliable here; the clump dies to the ground each fall and re-emerges reliably in spring. No winter protection needed.[1][2]",
     "planting": "Plant in spring (Apr–May) or early fall (Sep) to give roots time to establish before summer heat or winter cold. Work compost into the planting area — garden phlox wants richer, moister soil than most Front Range perennials. Mulch the root zone (2–3 in) to cool the soil and retain moisture, but keep mulch away from the base of stems to preserve airflow. Container plants transplant easily any time the weather is mild; water in well and keep consistently moist through the first season. Pots dry out faster than beds — water containers daily in summer heat, and overwinter container crowns in a sheltered spot or sink the pot to insulate roots.[1][2]",
@@ -39,7 +41,9 @@
     "seasons": [1, 2],
     "wildlife": [1, 2],
     "deer": [2],
-    "toxic": [2]
+    "toxic": [2],
+    "origin": [1],
+    "habitat": [1]
   },
   "edible": {
     "level": "inedible",

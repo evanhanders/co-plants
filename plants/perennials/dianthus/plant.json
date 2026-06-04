@@ -15,6 +15,8 @@
   "toxic": "Saponins in foliage and stems may cause mild GI upset if ingested; contact dermatitis possible with sensitive skin",
   "winter": true,
   "verified": "2026-06-03",
+  "origin": "Western and central Europe, from Britain to the Balkans",
+  "habitat": "Sunny limestone cliffs, rocky grassland, and well-drained chalk slopes",
   "care": {
     "hardiness": "USDA zones 3–9 (most cultivars 4–8); completely reliable on the Front Range (~5b–6a). The evergreen mat handles deep cold well provided the soil drains sharply — wet, frozen crowns cause more losses than cold temperatures alone.[1][2]",
     "planting": "Set out container plants in spring (Apr–early May) or early fall (Sep) once the worst heat has passed. Plant with the crown exactly at soil level — burying it invites crown rot. In containers, cheddar pinks do well in shallow terracotta or gritty troughs; pot mix must drain sharply (add perlite or fine grit). Container roots are exposed to wider temperature swings — move pots to a sheltered wall over winter or sink them into the ground.[2][3]",
@@ -36,7 +38,9 @@
     "seasons": [1, 2],
     "wildlife": [2],
     "deer": [2],
-    "toxic": [2, 4, 5]
+    "toxic": [2, 4, 5],
+    "origin": [1],
+    "habitat": [1]
   },
   "edible": {
     "level": "edible",

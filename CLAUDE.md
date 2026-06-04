@@ -147,7 +147,19 @@ is **NOT** the grouping. A file can live in `plants/perennials/` yet be a `Groun
 `plant.json` is the source of truth):
 
 - The card fields: `common, botanical, type, lifecycle, native, blurb, size, sun, water,
-  spread, seasons, wildlife, deer, toxic, winter, verified` (+ `bloom_season` for forbs).
+  spread, seasons, wildlife, deer, toxic, winter, verified` (+ `bloom_season` for forbs;
+  + `origin` and `habitat` on **non-native** plants).
+- **`origin` + `habitat`** *(non-native plants only)* — the plant's **provenance**: `origin`
+  = a short phrase naming where it's **from** (its native region/countries, or for a
+  cultivar/garden hybrid the wild ancestor species' range, stated honestly); `habitat` = a
+  short phrase describing its **natural growing conditions in the wild** (terrain, soil,
+  moisture, elevation, plant community). Both render as blue **Native to** / **Wild habitat**
+  rows in the card facts list and the detail page's "At a glance" table — gated on
+  `!isNative(p)`, so native plants never show them. Keep each a **card-fact phrase** (~3–12
+  words), not a sentence. Like the other shared card fields, they're rendered **raw** by the
+  grid, so **bake NO inline `[n]` markers into them** — the detail-page citation goes in
+  `fact_src` (`origin`/`habitat` keys). Source the native-range claim like any fact (prefer an
+  authority already in `references` — MBG/RHS/USDA all state native range).
 - **`type` is MORPHOLOGY (growth form), not lifecycle:** one of `Tree, Shrub, Subshrub,
   Grass, Vine, Groundcover, Forb`. This is what the grid groups by (`groupOf(p)` in `app.js`).
 - **`lifecycle`** is a **tag, not a grouping category**: `Perennial | Annual | Biennial |
@@ -185,7 +197,8 @@ is **NOT** the grouping. A file can live in `plants/perennials/` yet be a `Groun
   (URL reachability) after editing.
 - `fact_src:{…}` *(optional but expected with `references`)* — **detail-page-only** citations for
   the "At a glance" facts table: a map of card-field → array of reference numbers, e.g.
-  `{"size":[1,2],"toxic":[1,3]}`. Keys: `size, sun, water, spread, seasons, wildlife, deer, toxic`.
+  `{"size":[1,2],"toxic":[1,3]}`. Keys: `size, sun, water, spread, seasons, wildlife, deer, toxic`
+  (+ `origin, habitat` on non-native plants).
   `factsDL` in `plant.js` appends the superscript cites. **Do NOT bake `[n]` into the shared card
   fields themselves** (`size`, `sun`, …) — `app.js`'s grid renders those raw, so markers would leak
   onto the encyclopedia cards; the citations live only in `fact_src`, which the grid ignores.
@@ -362,6 +375,9 @@ Every plant records:
 - **Wildlife / pollinator** value
 - **Deer** note (resistant or not)
 - **Toxicity** note (to people/pets/livestock)
+- **Provenance** *(non-native plants only)* — where it's **from** (`origin`) and its **natural
+  growing conditions in the wild** (`habitat`); shown as blue "Native to" / "Wild habitat"
+  card rows
 - **Weed-verification date** — "verified non-weed as of [date]"
 
 ## Workflow: adding ("saving") a plant
@@ -720,7 +736,10 @@ ground every statement in an authority cited in `references`.
 where good shots exist). Every plant's detail page is now **fully cited** — a numbered
 `references` bibliography with inline `[n]` markers on the facts table (`fact_src`), the care
 prose, and a safety-reviewed **`edible` block** (current split: 37 inedible · 21 caution · 16
-edible · 11 toxic). Grouped by type below (the order the site uses). Photos were sourced
+edible · 11 toxic). Every **non-native** plant (62 of the 85) also carries **provenance** —
+`origin` (where it's from) + `habitat` (its wild growing conditions) — shown as blue "Native
+to" / "Wild habitat" rows on its card and detail page, cited via `fact_src`. Grouped by type
+below (the order the site uses). Photos were sourced
 mostly from the iNaturalist open dataset via `tools/inat_montage.py` (note: the yellow
 'Mersea Yellow' pineleaf penstemon came from *cultivated* iNat observations — pass through the
 research-grade filter only by querying without `quality_grade=research`, since garden

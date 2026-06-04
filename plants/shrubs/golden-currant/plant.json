@@ -1,0 +1,59 @@
+{
+  "common": "x",
+  "botanical": "x",
+  "type": "Shrub",
+  "lifecycle": "Perennial",
+  "native": "x",
+  "shots": [
+    {
+      "local": "images/sp-flower-t.jpg",
+      "full": "images/sp-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/64065542/large.jpeg",
+      "s": "spring",
+      "cap": "Spring — face-on golden-yellow tubular flowers in nodding clusters, clove-scented · © no rights reserved (CC0) / iNaturalist",
+      "by": "no rights reserved",
+      "lic": "CC0",
+      "link": "https://www.inaturalist.org/observations/26522313"
+    },
+    {
+      "local": "images/sp-bloom-t.jpg",
+      "full": "images/sp-bloom.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/372176524/large.jpeg",
+      "s": "spring",
+      "cap": "Spring — a golden currant shrub lit up with sprays of yellow bloom · © Colin Waters (CC-BY-NC) / iNaturalist",
+      "by": "Colin Waters",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/210417646"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/40625622/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — the three-lobed, smooth currant leaves · © connorbenfield (CC-BY-NC) / iNaturalist",
+      "by": "connorbenfield",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/26177381"
+    },
+    {
+      "local": "images/su-fruit-t.jpg",
+      "full": "images/su-fruit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/210988492/large.jpg",
+      "s": "summer",
+      "cap": "Summer — ripening berries, which mature from amber-red to black · © applek (CC-BY-NC) / iNaturalist",
+      "by": "applek",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/124477605"
+    },
+    {
+      "local": "images/sp-habit-t.jpg",
+      "full": "images/sp-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/1784927/large.jpg",
+      "s": "spring",
+      "cap": "Spring — the loose, upright fountain-form shrub · © richwurster (CC-BY-NC) / iNaturalist",
+      "by": "richwurster",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/1441924"
+    }
+  ]
+}

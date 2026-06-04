@@ -1,0 +1,59 @@
+{
+  "common": "x",
+  "botanical": "x",
+  "type": "Shrub",
+  "lifecycle": "Perennial",
+  "native": "x",
+  "shots": [
+    {
+      "local": "images/sp-bloom-t.jpg",
+      "full": "images/sp-bloom.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/391875049/large.jpeg",
+      "s": "spring",
+      "cap": "Spring — branches densely lined with white-to-pink blossom, the cherry’s spectacular bloom · © no rights reserved (CC0) / iNaturalist",
+      "by": "no rights reserved",
+      "lic": "CC0",
+      "link": "https://www.inaturalist.org/observations/221286849"
+    },
+    {
+      "local": "images/sp-flower-t.jpg",
+      "full": "images/sp-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/127844126/large.jpeg",
+      "s": "spring",
+      "cap": "Spring — face-on five-petaled flowers, white blushed pink, borne tight to the stems · © jmarmand (CC-BY-NC) / iNaturalist",
+      "by": "jmarmand",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/78141837"
+    },
+    {
+      "local": "images/su-fruit-t.jpg",
+      "full": "images/su-fruit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/393542913/large.jpg",
+      "s": "summer",
+      "cap": "Summer — bright scarlet cherries crowding the branches, sweet-tart and edible · © Megan (CC-BY-NC) / iNaturalist",
+      "by": "Megan",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/222180349"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/469260383/large.jpg",
+      "s": "summer",
+      "cap": "Summer — the softly downy (tomentose), deeply veined leaves that name the species · © no rights reserved (CC0) / iNaturalist",
+      "by": "no rights reserved",
+      "lic": "CC0",
+      "link": "https://www.inaturalist.org/observations/261222957"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/210609965/large.jpg",
+      "s": "summer",
+      "cap": "Summer — the dense, twiggy, fruit-laden shrub form · © Natalie Rudkins (CC-BY-NC) / iNaturalist",
+      "by": "Natalie Rudkins",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/124273035"
+    }
+  ]
+}

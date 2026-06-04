@@ -1,0 +1,50 @@
+{
+  "common": "Gooseberry",
+  "botanical": "Ribes uva-crispa 'Hinnomäki Red'",
+  "type": "Shrub",
+  "lifecycle": "Perennial",
+  "native": "Non-native",
+  "blurb": "stub",
+  "shots": [
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/87764054/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — a bush laden with dark-red dessert gooseberries in the garden · © Ingeborg van Leeuwen (CC-BY-NC) / iNaturalist",
+      "by": "Ingeborg van Leeuwen",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/55128915"
+    },
+    {
+      "local": "images/sp-foliage-t.jpg",
+      "full": "images/sp-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/129886062/large.jpg",
+      "s": "spring",
+      "cap": "Lobed, maple-like gooseberry foliage, showing the leaf shape · © jasminefriends (CC-BY-NC) / iNaturalist",
+      "by": "jasminefriends",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/79305759"
+    },
+    {
+      "local": "images/sp-flower-t.jpg",
+      "full": "images/sp-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/60184342/large.jpeg",
+      "s": "spring",
+      "cap": "Spring — a single reddish gooseberry bell flower with reflexed sepals · © Matthieu Gauvain (CC-BY-NC) / iNaturalist",
+      "by": "Matthieu Gauvain",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/37917525"
+    },
+    {
+      "local": "images/su-fruit-t.jpg",
+      "full": "images/su-fruit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/297484896/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — close-up of a ripe dark-red gooseberry on the spined stem · © Ark (CC-BY-NC) / iNaturalist",
+      "by": "Ark",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/171437499"
+    }
+  ]
+}

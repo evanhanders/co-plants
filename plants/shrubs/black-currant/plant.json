@@ -1,0 +1,50 @@
+{
+  "common": "Black currant",
+  "botanical": "Ribes nigrum 'Ben Sarek'",
+  "type": "Shrub",
+  "lifecycle": "Perennial",
+  "native": "Non-native",
+  "blurb": "stub",
+  "shots": [
+    {
+      "local": "images/sp-habit-t.jpg",
+      "full": "images/sp-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/488884603/large.jpg",
+      "s": "spring",
+      "cap": "Spring — a leafy bush hung with drooping flower racemes · © Scott Shanks (CC-BY) / iNaturalist",
+      "by": "Scott Shanks",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/271771842"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/285380376/large.jpeg",
+      "s": "summer",
+      "cap": "Distinctly lobed, aromatic black-currant leaves, showing the foliage · © Tyler Hacking (CC-BY) / iNaturalist",
+      "by": "Tyler Hacking",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/164902718"
+    },
+    {
+      "local": "images/su-fruit-t.jpg",
+      "full": "images/su-fruit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/146613455/large.jpg",
+      "s": "summer",
+      "cap": "Summer — a close-up cluster of matte black currants on the stem · © heiu (CC-BY-NC) / iNaturalist",
+      "by": "heiu",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/88825567"
+    },
+    {
+      "local": "images/su-fruit2-t.jpg",
+      "full": "images/su-fruit2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/528711363/large.jpg",
+      "s": "summer",
+      "cap": "Ripe black berry clusters among the lobed leaves, the way it fruits · © Harry J. Walker (CC-BY-NC) / iNaturalist",
+      "by": "Harry J. Walker",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/293765428"
+    }
+  ]
+}

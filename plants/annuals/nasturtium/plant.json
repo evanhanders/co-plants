@@ -1,0 +1,135 @@
+{
+  "common": "Nasturtium",
+  "botanical": "Tropaeolum majus",
+  "type": "Vine",
+  "lifecycle": "Annual",
+  "native": "Introduced",
+  "blurb": "Easy peppery-edible annual — round lily-pad leaves and spurred jewel-toned flowers that trail or climb, blooming nonstop till frost.",
+  "size": "Trailing/climbing 6–10 ft (bush types ~1 ft)",
+  "sun": "Full sun (part shade in extreme heat)",
+  "water": "Moderate; lean soil yields more flowers",
+  "spread": "Trailing/climbing annual; self-sows lightly",
+  "seasons": "Round lily-pad leaves & spurred orange/red/yellow flowers, summer to frost",
+  "wildlife": "Bees & hummingbirds; classic aphid trap-crop",
+  "deer": "Sometimes browsed",
+  "toxic": "Edible — peppery leaves, flowers & green seed pods are all edible",
+  "winter": false,
+  "verified": "2026-06-04",
+  "care": {
+    "hardiness": "A frost-tender warm-season annual (grown as an annual everywhere; USDA 2a–11b as a summer crop) — it is killed by the first hard frost, so on the Front Range treat it as a one-season plant sown after the mid-May last-frost date and pulled when fall frost blackens it.[3][1]",
+    "planting": "Direct-sow in the ground after the danger of frost has passed — early to mid-May on the Front Range — because nasturtium resents transplanting and does poorly when its roots are disturbed.[2][1] In containers it grows beautifully (the trailing types spill from pots and window boxes); sow the seed straight into the pot at the same May timing in any well-drained potting mix, and remember pots dry out and overheat faster than ground beds in Boulder's intense summer sun, so site them where they get a little afternoon relief in a heat wave.[3][1]",
+    "sun": "Full sun for the heaviest bloom; in the Front Range's intense high-altitude summer sun a little afternoon shade prevents heat stress and keeps the foliage from turning overly pungent. Too much shade reduces flowering.[3][2]",
+    "soil": "Poor to average, well-drained soil — lean soil is genuinely better here, because rich or fertilized ground pushes lush leaves at the expense of flowers. Boulder's alkaline clay is fine as long as it drains; it tolerates drought and neglect.[3][2]",
+    "water": "Moderate, even moisture. Keep plants consistently watered through the dry Front Range summer — adequate moisture moderates the leaf and flower spiciness, while heat stress and drought make the foliage overly pungent. Don't overwater, and let the surface dry between soakings.[1][3]",
+    "spacing": "Space plants about 8–12 in apart; bush types stay around 1 ft, while trailing/climbing types run 6–10 ft and want a fence, trellis, or edge to spill over.[1][3]",
+    "sow": "Sow seed directly where it is to grow, about 0.5–1 in deep, once soil has warmed after frost (early–mid May on the Front Range). The large seeds germinate readily; soaking them overnight speeds sprouting, and keeping the seedbed moist until emergence helps.[2][1]",
+    "bloom": "Blooms through the summer, roughly July into fall on the Front Range, flowering nonstop until the first hard frost cuts it down.[1][2]",
+    "feeding": "Do not feed. Nasturtium flowers best in lean soil — fertilizing increases foliage at the expense of flowers, so skip the fertilizer entirely for the best bloom.[3][2]",
+    "maintenance": "Very low-maintenance. Deadheading spent flowers and picking leaves and blooms for the kitchen keeps plants tidy and productive; pull and compost the whole plant after frost.[2][1]",
+    "selfsow": "It self-sows lightly — a few volunteers often come up the following spring from dropped seed. The volunteers are easy to pull or move while small; it is not aggressive or weedy on the Front Range.[3]",
+    "troubles": "Aphids are the signature pest and the reason nasturtium is grown as a classic trap crop — it lures aphids (and whiteflies, mealybugs) away from vegetables nearby; hose off or tolerate the colonies. Otherwise it is largely trouble-free and deer-resistant.[3][1]",
+    "harvest": "Pick young leaves and fully open flowers for the kitchen throughout the season — younger leaves are the most tender and least bitter, and flowers are mildest. Gather in the morning and use fresh (they don't dry well); store rinsed leaves and flowers in a plastic bag in the refrigerator. Harvest the immature green seed pods while still soft and bright green to pickle as \"poor man's capers.\"[1][2]",
+    "propagation": "By seed only — collect the dried mature seeds in fall and sow them the next spring after frost, or let the plant self-sow. The seeds are large and easy to handle; nasturtium does not propagate by cuttings or division.[3][2]",
+    "companions": "A textbook companion/trap crop: interplant it among squash, cucumbers, beans, brassicas, and tomatoes, where it draws aphids and other pests away from the food crops while its flowers feed bees and hummingbirds.[3][1]"
+  },
+  "edible": {
+    "level": "edible",
+    "food": true,
+    "card": "Peppery leaves, flowers & seed pods",
+    "summary": "A genuinely edible flower: the leaves, flowers, flower buds, and immature green seed pods are all edible raw, with a peppery, watercress-like bite.[1][2]",
+    "parts": "The young leaves, the open flowers, the flower buds, and the immature (green, still-soft) seed pods are all edible. Younger leaves are the most tender and flavorful; older leaves turn bitter, and the flowers are milder than the leaves.[1][2][3]",
+    "preparation": "Use the leaves and flowers fresh — toss them into green and potato salads, egg and seafood dishes, and herb vinegars, or use the bright flowers as an edible garnish (they don't dry well, so use fresh).[1][2] The flavor is peppery and cress-like, from the same mustard-oil (glucosinolate) compounds as garden cress.[3] Pickle the immature green seed pods in vinegar as a caper substitute — the classic \"poor man's capers.\"[2][1]",
+    "caution": "Eat only flowers and foliage you know are nasturtium and that were grown without pesticides or other chemicals; rinse thoroughly before eating.[1] Introduce edible flowers slowly into your diet and eat in moderation — the peppery glucosinolate compounds are pungent and can be irritating in quantity, and anyone with kidney issues should be cautious with the mustard-oil content.[1][4] Note that nasturtium is listed as toxic to cats, dogs, and horses, so keep pets from grazing on it even though it is fine for people.[3]"
+  },
+  "references": [
+    {
+      "name": "CSU Extension — How to grow, harvest and eat 12 tasty edible annual flowers in Colorado",
+      "url": "https://extension.colostate.edu/resource/how-to-grow-harvest-and-eat-12-tasty-edible-annual-flowers-in-colorado/"
+    },
+    {
+      "name": "University of Illinois Extension — Nasturtium (Herbs)",
+      "url": "https://extension.illinois.edu/herbs/nasturtium"
+    },
+    {
+      "name": "NC State Extension Plant Toolbox — Tropaeolum majus",
+      "url": "https://plants.ces.ncsu.edu/plants/tropaeolum-majus/"
+    },
+    {
+      "name": "University of Minnesota Extension — Edible flowers",
+      "url": "https://extension.umn.edu/flowers/edible-flowers"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      1,
+      3
+    ],
+    "sun": [
+      3,
+      2
+    ],
+    "water": [
+      1,
+      3
+    ],
+    "spread": [
+      3
+    ],
+    "seasons": [
+      1,
+      2
+    ],
+    "wildlife": [
+      3
+    ],
+    "deer": [
+      3
+    ],
+    "toxic": [
+      1,
+      3
+    ]
+  },
+  "shots": [
+    {
+      "local": "images/su-flowers-t.jpg",
+      "full": "images/su-flowers.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/93339096/large.jpg",
+      "s": "summer",
+      "cap": "Summer — a spurred orange flower face-on · © indahbom (CC-BY-NC) / iNaturalist",
+      "by": "indahbom",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/58462350"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/604211395/large.jpg",
+      "s": "summer",
+      "cap": "Summer — the round, peltate lily-pad leaves · © Patricia Eugenia Muñoz Castro (CC-BY-NC) / iNaturalist",
+      "by": "Patricia Eugenia Muñoz Castro",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/332877862"
+    },
+    {
+      "local": "images/su-close-t.jpg",
+      "full": "images/su-close.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/487269188/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — flowers and foliage together · © zebedeugalinha (CC-BY) / iNaturalist",
+      "by": "zebedeugalinha",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/270917386"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/72667274/large.jpg",
+      "s": "summer",
+      "cap": "Summer — the plant trailing and scrambling · © Eduardo Nadal (CC-BY-NC) / iNaturalist",
+      "by": "Eduardo Nadal",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/45818707"
+    }
+  ]
+}

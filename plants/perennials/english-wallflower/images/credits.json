@@ -1,0 +1,70 @@
+[
+  {
+    "file": "images/sp-flowers.jpg",
+    "photo_id": 270886038,
+    "by": "Sven Eisenbiegler",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/156643350",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      1050
+    ],
+    "thumb_px": [
+      400,
+      300
+    ]
+  },
+  {
+    "file": "images/sp-close.jpg",
+    "photo_id": 659632341,
+    "by": "Martin A. Prinz",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/361444509",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      933,
+      1400
+    ],
+    "thumb_px": [
+      267,
+      400
+    ]
+  },
+  {
+    "file": "images/sp-habit.jpg",
+    "photo_id": 111695971,
+    "by": "Errol Véla",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/68910216",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      1119
+    ],
+    "thumb_px": [
+      400,
+      320
+    ]
+  },
+  {
+    "file": "images/su-seedpods.jpg",
+    "photo_id": 128102131,
+    "by": "Errol Véla",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/78293013",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      933,
+      1400
+    ],
+    "thumb_px": [
+      267,
+      400
+    ]
+  }
+]

@@ -1,0 +1,121 @@
+{
+  "common": "Regal geranium (Martha Washington)",
+  "botanical": "Pelargonium × domesticum",
+  "type": "Subshrub",
+  "lifecycle": "Tender perennial",
+  "native": "Introduced",
+  "blurb": "The showiest pelargonium — big ruffled, dark-blotched azalea-like blooms in late spring. Loves cool weather, sulks in summer heat; frost-tender.",
+  "size": "~1–2 ft × 1–1.5 ft",
+  "sun": "Part sun; cool conditions (dislikes extreme heat)",
+  "water": "Moderate; well-drained",
+  "spread": "Clumping tender subshrub",
+  "seasons": "Pleated serrated leaves; large ruffled, blotched blooms late spring–early summer",
+  "wildlife": "Ornamental; minor pollinator value",
+  "deer": "Generally deer-resistant",
+  "toxic": "Mildly toxic to cats, dogs & horses (ASPCA)",
+  "winter": false,
+  "verified": "2026-06-04",
+  "care": {
+    "hardiness": "A tender hybrid hardy only to about USDA zones 10–11, so on the Front Range (Boulder, ~5b–6a) it is grown as an annual or overwintered indoors — any frost kills it.[1][2]",
+    "planting": "Set out only after the last frost — after mid-May on the Front Range — but note that the regal type is fundamentally a cool-season bloomer: it flowers best in the cooler weather of late spring and early summer and needs consistently cool nights to set buds. Give it a cooler, part-shade spot rather than a baking bed. It is most rewarding grown in pots so it can be moved to shelter; before the first fall frost overwinter it as a bright, cool (50–60°F) indoor houseplant — where it often reblooms in winter — or store the dormant, cut-back plant in a cool, dark basement.[1][2]",
+    "sun": "Full sun to part shade, but lean toward part sun with afternoon shade on the Front Range — unlike zonals it is not heat-tolerant and will scorch and stop blooming in a hot, sunny bed. A cooler, brighter-but-sheltered position gives the best flowering.[1][2]",
+    "soil": "Average, organically rich, well-drained soil or a free-draining potting mix; consistently poorly drained, soggy soil leads to stem and root rot. Boulder's alkaline soils are fine once improved for drainage.[1]",
+    "water": "Moderate and even — water when the top of the soil begins to dry and avoid both waterlogging (which rots the crown) and drought stress. Containers in dry Front Range air dry quickly in summer and need regular checking.[1][2]",
+    "spacing": "Allow about 10–12 inches between plants in a bed; mature plants form a clump roughly 1–2 ft tall and wide.[1]",
+    "propagation": "Almost always grown from stem cuttings, which root readily and keep the cultivar true — take 3–4 inch tip cuttings in summer; this is also how favorites are carried through winter. Regals are not typically grown from seed by home gardeners.[2]",
+    "bloom": "Carries large, ruffled, azalea-like flowers boldly blotched and veined in darker tones, in late spring and early summer; bloom tapers off as summer heat builds and can resume when temperatures cool. Deadhead spent trusses to encourage more.[1]",
+    "feeding": "A moderate feeder; feed potted plants every few weeks during active growth and bloom with a balanced or bloom fertilizer, easing off when the plant slows in summer heat or winter rest.[2]",
+    "maintenance": "Deadhead spent flowers, and after the main spring flush pinch the plant back and move it somewhere cooler to ride out the heat. Before the first frost, bring it indoors to a bright cool window (or store it dormant) to overwinter.[1][2]",
+    "troubles": "The chief Front-Range challenge is heat: it sulks, stops blooming, and may yellow in a hot site, so site it cool. Watch for botrytis/gray mold in cool damp conditions, whiteflies, aphids, and tobacco budworm on the buds, and stem/root rot in poorly drained soil. Good airflow and careful watering keep it healthy.[1][2]",
+    "companions": "Best showcased on its own in a pot as a spring specimen, or grouped with other cool-season container plants (pansies, violas, nemesia, lobelia) that share its preference for cool weather and part shade.[2]"
+  },
+  "fact_src": {
+    "size": [
+      1
+    ],
+    "sun": [
+      1,
+      2
+    ],
+    "water": [
+      1,
+      2
+    ],
+    "spread": [
+      1
+    ],
+    "seasons": [
+      1
+    ],
+    "wildlife": [
+      2
+    ],
+    "deer": [
+      2
+    ],
+    "toxic": [
+      3
+    ]
+  },
+  "edible": {
+    "level": "inedible",
+    "summary": "Not a food plant — regal geranium is purely ornamental and is mildly toxic to pets; do not eat it.[1][3]",
+    "caution": "The ASPCA lists geraniums (Pelargonium spp.) as toxic to cats, dogs, and horses; the toxic principles are the essential-oil compounds geraniol and linalool, and ingestion can cause vomiting, loss of appetite, depression, and contact dermatitis. It is not consumed by people, and handling the foliage may irritate sensitive skin. Keep it away from grazing pets.[1][3]"
+  },
+  "references": [
+    {
+      "name": "Missouri Botanical Garden Plant Finder — Pelargonium × domesticum (regal/Martha Washington geranium)",
+      "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=263625"
+    },
+    {
+      "name": "Clemson HGIC — Geranium (Pelargonium types & culture)",
+      "url": "https://hgic.clemson.edu/factsheet/geranium/"
+    },
+    {
+      "name": "ASPCA — Geranium (Pelargonium spp.) toxic to cats, dogs & horses",
+      "url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/geranium"
+    }
+  ],
+  "shots": [
+    {
+      "local": "images/sp-flowers-t.jpg",
+      "full": "images/sp-flowers.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/186550348/large.jpg",
+      "s": "spring",
+      "cap": "Late spring — a ruffled, dark-blotched bloom · © alemor (CC-BY-NC) / iNaturalist",
+      "by": "alemor",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/110572854"
+    },
+    {
+      "local": "images/sp-close-t.jpg",
+      "full": "images/sp-close.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/182116847/large.jpg",
+      "s": "spring",
+      "cap": "Late spring — the showy blotched petals up close · © gruponucleomutis (CC-BY-NC) / iNaturalist",
+      "by": "gruponucleomutis",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/108194211"
+    },
+    {
+      "local": "images/sp-foliage-t.jpg",
+      "full": "images/sp-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/243285334/large.jpeg",
+      "s": "spring",
+      "cap": "Spring — the pleated, serrated leaves · © andres_1220 (CC-BY-NC) / iNaturalist",
+      "by": "andres_1220",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/141949399"
+    },
+    {
+      "local": "images/sp-habit-t.jpg",
+      "full": "images/sp-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/97582566/large.jpg",
+      "s": "spring",
+      "cap": "Spring — a plant in full flush · © Val Marsh (CC-BY-NC) / iNaturalist",
+      "by": "Val Marsh",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/61006761"
+    }
+  ]
+}

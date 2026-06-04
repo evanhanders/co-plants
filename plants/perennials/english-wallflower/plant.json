@@ -1,0 +1,126 @@
+{
+  "common": "English wallflower",
+  "botanical": "Erysimum cheiri",
+  "type": "Forb",
+  "lifecycle": "Biennial",
+  "native": "Introduced",
+  "bloom_season": "Spring",
+  "blurb": "The classic fragrant cottage-garden wallflower — jewel-toned spring spires of clove-scented bloom. Grown as a biennial on the Front Range.",
+  "size": "~1–2 ft × 1–1.5 ft",
+  "sun": "Full sun",
+  "water": "Low–moderate; sharp drainage",
+  "spread": "Clumping — biennial; may self-sow",
+  "seasons": "Low evergreen rosette; intensely fragrant gold/orange/red/mahogany flowers mid–late spring",
+  "wildlife": "Fragrant flowers draw bees & early butterflies",
+  "deer": "Generally deer-resistant",
+  "toxic": "Foliage & seeds contain cardiac glycosides — not for eating",
+  "winter": false,
+  "verified": "2026-06-04",
+  "shots": [
+    {
+      "local": "images/sp-flowers-t.jpg",
+      "full": "images/sp-flowers.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/270886038/large.jpeg",
+      "s": "spring",
+      "cap": "Spring — fragrant jewel-toned flowers worked by a bee · © Sven Eisenbiegler (CC-BY-NC) / iNaturalist",
+      "by": "Sven Eisenbiegler",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/156643350"
+    },
+    {
+      "local": "images/sp-close-t.jpg",
+      "full": "images/sp-close.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/659632341/large.jpg",
+      "s": "spring",
+      "cap": "Spring — a dense head of clove-scented bloom · © Martin A. Prinz (CC-BY-NC) / iNaturalist",
+      "by": "Martin A. Prinz",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/361444509"
+    },
+    {
+      "local": "images/sp-habit-t.jpg",
+      "full": "images/sp-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/111695971/large.jpeg",
+      "s": "spring",
+      "cap": "Spring — a flowering clump · © Errol Véla (CC-BY-NC) / iNaturalist",
+      "by": "Errol Véla",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/68910216"
+    },
+    {
+      "local": "images/su-seedpods-t.jpg",
+      "full": "images/su-seedpods.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/128102131/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — the slender upright seed pods (siliques) · © Errol Véla (CC-BY-NC) / iNaturalist",
+      "by": "Errol Véla",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/78293013"
+    }
+  ],
+  "care": {
+    "hardiness": "Erysimum cheiri is hardy only to about USDA zone 7–9, so it is not a dependable perennial through Boulder's 5b–6a winters — and that's why it's grown as a biennial here: sow one year, bloom and enjoy the next spring, then let it go. A few plants may overwinter in a sheltered, sharply-drained spot, but don't count on long-term survival.[1][2]",
+    "planting": "Set out young plants in early fall or in spring after the mid-May frost, into full sun and fast-draining soil; fall-set plants make a rosette, overwinter (with luck and good drainage), and bloom the following spring. In containers it grows well but potted roots are tender — overwinter the pot in an unheated garage or cold frame, kept on the dry side. Sharp winter drainage matters everywhere; it rots in cold, wet clay.[1][2]",
+    "sow": "Grown as a biennial: sow seed in early-to-mid summer (roughly June–July) for bloom the following spring. Start in flats or a nursery bed, then transplant the young rosettes to their flowering positions by early fall. Seed sown very early spring under cover can occasionally flower the same year as an annual.[1][2]",
+    "sun": "Full sun — 6+ hours; it needs the light to bloom heavily and stay compact. A little afternoon shade is tolerated in the hottest sites but full sun is best on the Front Range.[1][2]",
+    "soil": "Lean, well-drained, neutral-to-alkaline soil — Boulder's alkaline ground suits it. It thrives in poor, gritty, even rocky soil and dislikes rich or soggy ground. Improve heavy clay drainage with grit.[1][2]",
+    "water": "Low to moderate; drought-tolerant once rooted. Water to establish, then let it dry between waterings and avoid winter wet, which rots the crown.[1][2]",
+    "spacing": "Space about 12 in apart (up to ~18 in for larger strains); plants reach roughly 1–2 ft tall and 1–1.5 ft wide.[1][2]",
+    "propagation": "From seed (the practical route for this biennial — see Sowing). It self-sows where happy, so leaving a few seed heads can perpetuate a patch; deadheading prevents that. Named perennial cultivars are taken from cuttings, but the species E. cheiri is grown from seed.[1][2]",
+    "bloom": "Intensely clove-fragrant flowers in jewel tones — gold, orange, red, mahogany, and purple — crowd short spikes in mid-to-late spring (about April–June). Bloom is a single glorious spring season, after which biennial plants decline.[1][2]",
+    "feeding": "Little needed; it flowers best in lean soil. A light spring feed or compost is plenty. Excess nitrogen gives leaves at the expense of bloom.[2]",
+    "maintenance": "Deadhead spent spikes to tidy plants and extend bloom (or to prevent self-sowing); leave a few heads if you want volunteer seedlings. Pull and compost the plants after they finish, since they're grown as biennials, and start a fresh sowing for next year.[1][2]",
+    "troubles": "Few serious pests; the main risks are crown rot in wet or poorly-drained soil and short life in cold winters. Sharp drainage and full sun head off most problems. Like other brassicas it can attract flea beetles and the usual cabbage-family pests, but rarely seriously.[1][2]",
+    "companions": "Fragrant and an early-season draw for bees and butterflies — classic in cottage-style spring beds with tulips and other bulbs, and good with other sun-loving, well-drained companions that share its lean-soil, dry-winter preferences.[1][2]"
+  },
+  "fact_src": {
+    "size": [
+      1,
+      2
+    ],
+    "sun": [
+      1,
+      2
+    ],
+    "water": [
+      1,
+      2
+    ],
+    "spread": [
+      1,
+      2
+    ],
+    "seasons": [
+      1,
+      2
+    ],
+    "wildlife": [
+      1
+    ],
+    "deer": [
+      1
+    ],
+    "toxic": [
+      3
+    ]
+  },
+  "edible": {
+    "level": "inedible",
+    "summary": "A fragrant ornamental wallflower grown for spring color and scent — not a food plant; do not eat any part.[1][3]",
+    "caution": "English wallflower is not edible: its foliage and seeds contain cardiac glycosides (cardenolides) — heart-active compounds the plant makes as a chemical defense — so no part should be eaten despite the sweet floral fragrance. Grow it for the bees and the scent, not for consumption.[3]"
+  },
+  "references": [
+    {
+      "name": "NC State Extension Plant Toolbox — Erysimum cheiri (wallflower)",
+      "url": "https://plants.ces.ncsu.edu/plants/erysimum-cheiri/"
+    },
+    {
+      "name": "Missouri Botanical Garden Plant Finder — Erysimum cheiri",
+      "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=278066"
+    },
+    {
+      "name": "Erysimum (cardenolide / cardiac-glycoside chemistry) — overview",
+      "url": "https://en.wikipedia.org/wiki/Erysimum"
+    }
+  ]
+}

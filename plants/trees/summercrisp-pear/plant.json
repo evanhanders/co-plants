@@ -46,5 +46,78 @@
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/209555654"
     }
-  ]
+  ],
+  "care": {
+    "hardiness": "'Summercrisp' is a University of Minnesota release (introduced 1985) bred for cold-climate growing, hardy to roughly USDA zone 3/4 — well within Boulder's 5b–6a range with margin to spare, so winter cold is not the limiting factor here.[1][2] It is also notably fire-blight-resistant, the trait that makes it a safe pear for the warm, moist springs of the Front Range that ravage susceptible cultivars.[1][2]",
+    "planting": "Plant a dormant bare-root or container tree in spring (April–May on the Front Range), in full sun and well-drained soil; set the graft union above the soil line and water in well.[1][3] You need a second, compatible pear nearby for pollination (below), so plan space for two.[1] Pears are poor permanent container subjects this far inland: a potted tree's roots are much less cold-hardy than the top and can freeze in an exposed pot even in a mild zone-5 winter, so use a large (≥20 gal) container, sink or heel it in or shelter it (unheated garage) over winter, and plan to plant it in the ground before long.[3]",
+    "sun": "Full sun — 6 or more hours of direct sun for the best crop and fruit quality.[1][3] Front-Range high-altitude sun is an asset; site the tree in the open, away from late-frost pockets.[3]",
+    "soil": "Tolerates most well-drained soils across a near-neutral to slightly alkaline pH (about 6.0–8.0), so Boulder's clay-loam is fine if it drains.[3] Avoid waterlogged ground; amend heavy clay with organic matter and don't over-enrich — see Feeding.[1][3]",
+    "water": "Moderate and regular: water newly planted trees about weekly through the first year or two, keeping the soil moist but never waterlogged; once established a deep soak during dry spells suffices.[1] Steady moisture during fruit fill improves size and quality.[1]",
+    "spacing": "Standard pears are large — common pear can reach 25–40 ft — so give 'Summercrisp' room (roughly 15–20 ft between standard trees) and plant its pollinizer within that range so bees move between them.[1][3] On the Front Range it commonly matures around 18–25 ft tall.[1]",
+    "propagation": "Like all fruit cultivars, 'Summercrisp' does not come true from seed and is propagated by budding or grafting the named scion onto a pear (or quince) rootstock — buy a grafted tree.[3] Seed-grown pears are random seedlings, not the cultivar, and pear seeds carry the cyanogenic compound noted under Edible parts.[3]",
+    "bloom": "White spring blossom — but a single tree will not fruit well: 'Summercrisp', like most pears, needs a second, different pear variety blooming at the same time to cross-pollinate, such as 'Luscious', 'Parker', or 'Ure'.[1][2] Plant a compatible partner within bee range; bees do the work.[1][3]",
+    "feeding": "Feed sparingly. Pears need little fertilizer once established, and excess nitrogen produces soft, succulent growth that is highly susceptible to fire blight — a real hazard on the Front Range — so go light and use a balanced feed in early spring only if growth is weak.[1] A mulched in-ground tree often needs no feeding at all.[4]",
+    "maintenance": "Train and prune to a central leader (a single dominant trunk with tiered scaffold branches forming a pyramid), pruning every year in late winter/early spring after the coldest weather and before growth begins — not during bloom or for about two weeks after.[1][4] Remove water sprouts promptly and keep the canopy open. Fire-blight sanitation is part of routine care: cut out any blighted shoots (which look scorched/blackened) at least 6–8 in below the visibly affected wood, disinfecting tools between cuts, and remove the prunings.[1] 'Summercrisp's resistance reduces but does not eliminate the need for this.[1][2]",
+    "troubles": "Fire blight (the bacterium *Erwinia amylovora*) is the headline pear disease, favored by warm, wet spring weather — 'Summercrisp' is resistant, which is its main selling point here, but practice sanitation and avoid over-fertilizing anyway.[1][2] Watch also for codling moth (larvae tunneling the fruit) and pear psylla (sap-feeding insects that excrete sticky honeydew), the standard pear insect pests, plus pear scab.[1][3] Keep the tree vigorous, the canopy open, and fallen fruit cleaned up.[1]",
+    "harvest": "'Summercrisp' is the unusual pear you pick — and eat — early. Harvest in mid-to-late August when the fruit is still firm and has turned from dark green to a lighter green with a red blush; unlike most pears it should NOT be allowed to ripen soft before eating — it's prized eaten crisp straight off the tree, and over-ripening turns it mealy.[1][2] (Most pears, by contrast, are picked mature-but-hard and ripened indoors; 'Summercrisp' is the exception.)[1] Pick promptly — wildlife takes any fruit left on the tree.[1]",
+    "companions": "Plant its required pollinizer pear ('Luscious', 'Parker', or 'Ure') nearby, and keep turf and aggressive groundcovers back from the trunk to reduce competition and pest cover; underplant with low pollinator-friendly herbs (chives, alliums) rather than vigorous spreaders.[1][3] Mulch the root zone but keep the trunk flare clear.[4]"
+  },
+  "fact_src": {
+    "size": [
+      1,
+      3
+    ],
+    "sun": [
+      1,
+      3
+    ],
+    "water": [
+      1
+    ],
+    "spread": [
+      1,
+      2
+    ],
+    "seasons": [
+      1,
+      2
+    ],
+    "wildlife": [
+      3
+    ],
+    "deer": [
+      3
+    ],
+    "toxic": [
+      3
+    ]
+  },
+  "edible": {
+    "level": "edible",
+    "food": true,
+    "card": "Crisp sweet pears, fresh",
+    "summary": "The pear fruit flesh is straightforwardly edible — 'Summercrisp' is grown to be eaten crisp and fresh; only the seeds carry a mild cyanogenic compound.[1][2]",
+    "parts": "The fruit flesh is the food. 'Summercrisp' is picked and eaten while still firm and crisp (not ripened soft like a dessert pear), sweet and good fresh out of hand; the flesh can also be cooked or canned.[1][2] The core and seeds are discarded.[3]",
+    "preparation": "Eat it fresh and crisp — that is the whole point of this cultivar — picking in mid-to-late August when firm and lightly blushed; do not let it ripen soft before eating, which turns it mealy.[1][2] Core it and discard the seeds.[3]",
+    "caution": "The fruit flesh is safe to eat. Like apple and other pome-fruit seeds, pear seeds contain a cyanogenic compound (amygdalin) that can release small amounts of hydrogen cyanide if the seeds are crushed and chewed — a hazard only if many seeds are deliberately chewed, not from eating the fruit normally.[3] Discard the core and seeds and don't chew them; the flesh itself poses no such risk.[3]"
+  },
+  "references": [
+    {
+      "name": "University of Minnesota Extension — Growing Pears in the Home Garden",
+      "url": "https://extension.umn.edu/fruit/growing-pears-home-garden"
+    },
+    {
+      "name": "MSU Extension — Summercrisp Pear, a Hardy Pear for the North",
+      "url": "https://www.canr.msu.edu/news/summercrisp_pear_a_hardy_pear_for_the_north"
+    },
+    {
+      "name": "NC State Extension Plant Toolbox — Pyrus communis (Common Pear)",
+      "url": "https://plants.ces.ncsu.edu/plants/pyrus-communis/"
+    },
+    {
+      "name": "RHS — Pears: grow your own",
+      "url": "https://www.rhs.org.uk/fruit/pears/grow-your-own"
+    }
+  ],
+  "gaps": "Photos are species-representative Pyrus communis — no open-licensed photograph of the 'Summercrisp' cultivar exists on Commons/iNaturalist/GBIF/Openverse/Flickr as of 2026-06; re-source and swap in a cultivar shot if one ever appears."
 }

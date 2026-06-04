@@ -15,6 +15,8 @@
   "toxic": "Mildly toxic to cats, dogs & horses (ASPCA)",
   "winter": false,
   "verified": "2026-06-04",
+  "origin": "South Africa — coastal and rocky scrub of the southern Cape",
+  "habitat": "Rocky coastal hillsides and scrubby slopes, scrambling over boulders",
   "care": {
     "hardiness": "A tender trailing South African species hardy only to about USDA zones 10–11; on the Front Range (Boulder, ~5b–6a) it is grown as a warm-season annual or overwintered indoors, as any frost kills it.[1][2]",
     "planting": "Set plants out only after the last frost — after mid-May on the Front Range — into hanging baskets, window boxes, and tall containers where its trailing stems can cascade; it also works as an annual groundcover in a bed. To carry it over winter, before the first fall frost take stem cuttings to root on a bright cool windowsill, or bring whole baskets into a bright, cool room (50–60°F), cut back and kept just barely moist.[1][3]",
@@ -55,6 +57,12 @@
     ],
     "toxic": [
       4
+    ],
+    "origin": [
+      1
+    ],
+    "habitat": [
+      1
     ]
   },
   "edible": {

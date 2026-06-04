@@ -15,6 +15,8 @@
   "toxic": "",
   "winter": false,
   "verified": "2026-06-03",
+  "origin": "South-central and southeastern United States — Illinois to Texas and the Carolinas",
+  "habitat": "Rocky prairies, glades, fields, and disturbed open ground",
   "care": {
     "hardiness": "'Homestead Purple' is rated USDA zones 6–10, placing it right at the warm edge of Boulder's zone 5b–6a range. In practice it behaves as a short-lived perennial on the Front Range — it may survive mild winters with a dry crown and light mulch, but should be treated as a tender perennial or reliable annual here. Gardeners in warmer Boulder microclimates (south-facing, sheltered) report repeat survival; in exposed sites, plan to replace it every 1–2 years from overwintered stem cuttings or fresh nursery stock.[1]",
     "planting": "Plant out after last frost (mid-May in Boulder) through early summer; this is a warm-season plant that sulks in cold soil. Choose a site with full sun and excellent drainage — boggy clay is the main failure point. Space transplants about 18–24 in. apart to give trailing stems room to fill in. In containers (hanging baskets, patio pots), verbena is a classic performer: plant in a well-draining potting mix, use pots of at least 10–12 in. diameter, and keep them in full sun. Container plants need more frequent watering than in-ground ones — check daily in summer heat. To overwinter in containers, bring indoors before first frost, cut back by half, and keep in a cool sunny window; or take cuttings in August and root them indoors for next year's stock.[1]",
@@ -38,7 +40,9 @@
     "seasons": [1, 2],
     "wildlife": [1, 2],
     "deer": [1],
-    "toxic": [1, 2]
+    "toxic": [1, 2],
+    "origin": [2],
+    "habitat": [2]
   },
   "edible": {
     "level": "inedible",

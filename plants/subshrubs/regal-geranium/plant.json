@@ -1,0 +1,60 @@
+{
+  "common": "Regal geranium (Martha Washington)",
+  "botanical": "Pelargonium × domesticum",
+  "type": "Subshrub",
+  "lifecycle": "Tender perennial",
+  "native": "Introduced",
+  "blurb": "The showiest pelargonium — big ruffled, dark-blotched azalea-like blooms in late spring. Loves cool weather, sulks in summer heat; frost-tender.",
+  "size": "~1–2 ft × 1–1.5 ft",
+  "sun": "Part sun; cool conditions (dislikes extreme heat)",
+  "water": "Moderate; well-drained",
+  "spread": "Clumping tender subshrub",
+  "seasons": "Pleated serrated leaves; large ruffled, blotched blooms late spring–early summer",
+  "wildlife": "Ornamental; minor pollinator value",
+  "deer": "Generally deer-resistant",
+  "toxic": "Mildly toxic to cats, dogs & horses (ASPCA)",
+  "winter": false,
+  "verified": "2026-06-04",
+  "shots": [
+    {
+      "local": "images/sp-flowers-t.jpg",
+      "full": "images/sp-flowers.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/186550348/large.jpg",
+      "s": "spring",
+      "cap": "Late spring — a ruffled, dark-blotched bloom · © alemor (CC-BY-NC) / iNaturalist",
+      "by": "alemor",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/110572854"
+    },
+    {
+      "local": "images/sp-close-t.jpg",
+      "full": "images/sp-close.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/182116847/large.jpg",
+      "s": "spring",
+      "cap": "Late spring — the showy blotched petals up close · © gruponucleomutis (CC-BY-NC) / iNaturalist",
+      "by": "gruponucleomutis",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/108194211"
+    },
+    {
+      "local": "images/sp-foliage-t.jpg",
+      "full": "images/sp-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/243285334/large.jpeg",
+      "s": "spring",
+      "cap": "Spring — the pleated, serrated leaves · © andres_1220 (CC-BY-NC) / iNaturalist",
+      "by": "andres_1220",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/141949399"
+    },
+    {
+      "local": "images/sp-habit-t.jpg",
+      "full": "images/sp-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/97582566/large.jpg",
+      "s": "spring",
+      "cap": "Spring — a plant in full flush · © Val Marsh (CC-BY-NC) / iNaturalist",
+      "by": "Val Marsh",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/61006761"
+    }
+  ]
+}

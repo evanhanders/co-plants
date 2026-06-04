@@ -1,0 +1,60 @@
+{
+  "common": "Ivy-leaved geranium",
+  "botanical": "Pelargonium peltatum",
+  "type": "Groundcover",
+  "lifecycle": "Tender perennial",
+  "native": "Introduced",
+  "blurb": "The window-box spiller — glossy ivy-shaped leaves and dangling flower clusters that cascade all summer. Frost-tender; overwinter indoors.",
+  "size": "Trailing 2–3 ft+",
+  "sun": "Full sun–part shade",
+  "water": "Moderate; well-drained",
+  "spread": "Trailing/cascading tender perennial",
+  "seasons": "Glossy ivy-shaped leaves; loose clusters of pink/red/mauve/white flowers all summer",
+  "wildlife": "Minor pollinator interest",
+  "deer": "Generally deer-resistant",
+  "toxic": "Mildly toxic to cats, dogs & horses (ASPCA)",
+  "winter": false,
+  "verified": "2026-06-04",
+  "shots": [
+    {
+      "local": "images/su-flowers-t.jpg",
+      "full": "images/su-flowers.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/167081349/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — red flower clusters on trailing stems · © suzette35 (CC-BY-NC) / iNaturalist",
+      "by": "suzette35",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/100131347"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/281315838/large.jpg",
+      "s": "summer",
+      "cap": "Summer — the glossy, ivy-shaped leaves · © baezagustin (CC-BY-NC) / iNaturalist",
+      "by": "baezagustin",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/162685359"
+    },
+    {
+      "local": "images/su-close-t.jpg",
+      "full": "images/su-close.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/439169011/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — a single flower up close · © christineandruby (CC-BY-NC) / iNaturalist",
+      "by": "christineandruby",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/246047160"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/56509920/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — cascading growth in bloom · © jhonatan_casamin (CC-BY-NC) / iNaturalist",
+      "by": "jhonatan_casamin",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/35807639"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+[
+  {
+    "file": "images/sp-flowers.jpg",
+    "commons_file": "(MHNT) Erysimum linifolium Bowles' Mauve - Les Martels, Giroussens Tarn.jpg",
+    "by": "Didier Descouens",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:(MHNT)_Erysimum_linifolium_Bowles%27_Mauve_-_Les_Martels,_Giroussens_Tarn.jpg",
+    "dataset": "Wikimedia Commons",
+    "orig_px": [
+      3487,
+      4763
+    ],
+    "full_px": [
+      1098,
+      1500
+    ],
+    "thumb_px": [
+      293,
+      400
+    ]
+  },
+  {
+    "file": "images/sp-close.jpg",
+    "commons_file": "Cuckoo Bumblebee - Flickr - Martin Cooper Ipswich.jpg",
+    "by": "Martin Cooper from Ipswich, UK",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Cuckoo_Bumblebee_-_Flickr_-_Martin_Cooper_Ipswich.jpg",
+    "dataset": "Wikimedia Commons",
+    "orig_px": [
+      3155,
+      2882
+    ],
+    "full_px": [
+      1500,
+      1370
+    ],
+    "thumb_px": [
+      400,
+      365
+    ]
+  },
+  {
+    "file": "images/sp-bloom.jpg",
+    "commons_file": "Erysimum 'Bowles Mauve'. Kort levende rijk bloeiende plant. Locatie, Tuinreservaat Jonkervallei.jpg",
+    "by": "Dominicus Johannes Bergsma",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Erysimum_%27Bowles_Mauve%27._Kort_levende_rijk_bloeiende_plant._Locatie,_Tuinreservaat_Jonkervallei.jpg",
+    "dataset": "Wikimedia Commons",
+    "orig_px": [
+      2985,
+      3283
+    ],
+    "full_px": [
+      1364,
+      1500
+    ],
+    "thumb_px": [
+      364,
+      400
+    ]
+  },
+  {
+    "file": "images/su-habit.jpg",
+    "commons_file": "Erysimum Bowles Mauve - Flickr - peganum (1).jpg",
+    "by": "peganum from Small Dole, England",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Erysimum_Bowles_Mauve_-_Flickr_-_peganum_(1).jpg",
+    "dataset": "Wikimedia Commons",
+    "orig_px": [
+      4000,
+      3000
+    ],
+    "full_px": [
+      1500,
+      1125
+    ],
+    "thumb_px": [
+      400,
+      300
+    ]
+  }
+]

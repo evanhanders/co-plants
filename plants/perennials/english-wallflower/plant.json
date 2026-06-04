@@ -1,0 +1,61 @@
+{
+  "common": "English wallflower",
+  "botanical": "Erysimum cheiri",
+  "type": "Forb",
+  "lifecycle": "Biennial",
+  "native": "Introduced",
+  "bloom_season": "Spring",
+  "blurb": "The classic fragrant cottage-garden wallflower — jewel-toned spring spires of clove-scented bloom. Grown as a biennial on the Front Range.",
+  "size": "~1–2 ft × 1–1.5 ft",
+  "sun": "Full sun",
+  "water": "Low–moderate; sharp drainage",
+  "spread": "Clumping — biennial; may self-sow",
+  "seasons": "Low evergreen rosette; intensely fragrant gold/orange/red/mahogany flowers mid–late spring",
+  "wildlife": "Fragrant flowers draw bees & early butterflies",
+  "deer": "Generally deer-resistant",
+  "toxic": "Foliage & seeds contain cardiac glycosides — not for eating",
+  "winter": false,
+  "verified": "2026-06-04",
+  "shots": [
+    {
+      "local": "images/sp-flowers-t.jpg",
+      "full": "images/sp-flowers.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/270886038/large.jpeg",
+      "s": "spring",
+      "cap": "Spring — fragrant jewel-toned flowers worked by a bee · © Sven Eisenbiegler (CC-BY-NC) / iNaturalist",
+      "by": "Sven Eisenbiegler",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/156643350"
+    },
+    {
+      "local": "images/sp-close-t.jpg",
+      "full": "images/sp-close.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/659632341/large.jpg",
+      "s": "spring",
+      "cap": "Spring — a dense head of clove-scented bloom · © Martin A. Prinz (CC-BY-NC) / iNaturalist",
+      "by": "Martin A. Prinz",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/361444509"
+    },
+    {
+      "local": "images/sp-habit-t.jpg",
+      "full": "images/sp-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/111695971/large.jpeg",
+      "s": "spring",
+      "cap": "Spring — a flowering clump · © Errol Véla (CC-BY-NC) / iNaturalist",
+      "by": "Errol Véla",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/68910216"
+    },
+    {
+      "local": "images/su-seedpods-t.jpg",
+      "full": "images/su-seedpods.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/128102131/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — the slender upright seed pods (siliques) · © Errol Véla (CC-BY-NC) / iNaturalist",
+      "by": "Errol Véla",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/78293013"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "common": "Apricot wallflower",
+  "botanical": "Erysimum 'Apricot Twist'",
+  "type": "Subshrub",
+  "lifecycle": "Perennial",
+  "native": "Introduced",
+  "blurb": "A long-blooming perennial wallflower whose flowers open apricot and age to mauve-pink — months of warm color. Short-lived; needs sharp drainage.",
+  "size": "~1.5–2.5 ft × 2 ft",
+  "sun": "Full sun",
+  "water": "Low–moderate; sharp drainage",
+  "spread": "Clumping — bushy short-lived perennial",
+  "seasons": "Near-evergreen mound; apricot-to-mauve color-shifting flowers spring into summer",
+  "wildlife": "Long bloom = extended bee & butterfly nectar",
+  "deer": "Generally deer-resistant",
+  "toxic": "Foliage & seeds contain cardiac glycosides — not for eating",
+  "winter": false,
+  "verified": "2026-06-04",
+  "gaps": "Photos are species-representative Erysimum (apricot-flowered forms) — no open-licensed photograph of the exact 'Apricot Twist'/'Sunset' cultivar exists on Commons/iNaturalist/GBIF/Openverse as of 2026-06; swap in a cultivar shot if one appears.",
+  "shots": [
+    {
+      "local": "images/sp-flowers-t.jpg",
+      "full": "images/sp-flowers.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/261370206/large.jpeg",
+      "s": "spring",
+      "cap": "Spring — apricot-orange flowers (shown on a representative Erysimum) · © babisloyfakis (CC-BY-NC) / iNaturalist",
+      "by": "babisloyfakis",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/151477882"
+    },
+    {
+      "local": "images/sp-close-t.jpg",
+      "full": "images/sp-close.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/131697937/large.jpeg",
+      "s": "spring",
+      "cap": "Spring — warm-toned blooms massing on the plant (representative Erysimum) · © bekkerura (CC-BY-NC) / iNaturalist",
+      "by": "bekkerura",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/80356803"
+    },
+    {
+      "local": "images/sp-habit-t.jpg",
+      "full": "images/sp-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/70511282/large.jpg",
+      "s": "spring",
+      "cap": "Spring — the bushy mound in bloom (representative Erysimum) · © Leonard Rüdenberg (CC-BY-NC) / iNaturalist",
+      "by": "Leonard Rüdenberg",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/44472173"
+    }
+  ]
+}

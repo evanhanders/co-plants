@@ -1,0 +1,61 @@
+{
+  "common": "Acanthus (bear's breeches)",
+  "botanical": "Acanthus mollis",
+  "type": "Forb",
+  "lifecycle": "Perennial",
+  "native": "Introduced",
+  "bloom_season": "Summer",
+  "blurb": "Architectural 'bear's breeches' — huge glossy leaves and dramatic hooded white-and-purple flower spikes. Tender here (~zone 7); needs a sheltered spot and a hard mulch.",
+  "size": "~3–4 ft × 2–3 ft (flower spikes to 5 ft)",
+  "sun": "Part shade–full sun (afternoon shade in hot sites)",
+  "water": "Moderate; drought-tolerant once established",
+  "spread": "Clumping — spreads by deep roots; hard to remove once sited",
+  "seasons": "Bold glossy foliage spring–fall; tall white-&-purple flower spikes early–mid summer",
+  "wildlife": "Bees & bumblebees work the hooded flowers",
+  "deer": "Largely deer-resistant",
+  "toxic": "Not considered toxic; sap and leaf-spines can irritate skin",
+  "winter": false,
+  "verified": "2026-06-04",
+  "shots": [
+    {
+      "local": "images/su-flowers-t.jpg",
+      "full": "images/su-flowers.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/75385877/large.jpg",
+      "s": "summer",
+      "cap": "Summer — the hooded white-and-mauve flowers up close · © touco13 (CC-BY-NC) / iNaturalist",
+      "by": "touco13",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/47529703"
+    },
+    {
+      "local": "images/su-bloom-t.jpg",
+      "full": "images/su-bloom.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/118086224/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — a tall flower spike in full bloom · © C. Mosc (CC-BY-NC) / iNaturalist",
+      "by": "C. Mosc",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/72427799"
+    },
+    {
+      "local": "images/sp-foliage-t.jpg",
+      "full": "images/sp-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/38052179/large.jpg",
+      "s": "spring",
+      "cap": "Spring — the bold, glossy, deeply-lobed leaves · © dinster85 (CC-BY-NC) / iNaturalist",
+      "by": "dinster85",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/24609734"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/392509481/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — the whole architectural clump in a garden · © spyrusmt (CC-BY-NC) / iNaturalist",
+      "by": "spyrusmt",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/221639561"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "common": "Bowles's Mauve wallflower",
+  "botanical": "Erysimum 'Bowles's Mauve'",
+  "type": "Subshrub",
+  "lifecycle": "Perennial",
+  "native": "Introduced",
+  "blurb": "The famous all-summer wallflower: a grey-leaved mound smothered in fragrant mauve racemes that feed early bees. Short-lived and borderline-hardy (~zone 6b).",
+  "size": "~2–2.5 ft × 2–3 ft",
+  "sun": "Full sun",
+  "water": "Low–moderate; drought-tolerant with sharp drainage",
+  "spread": "Clumping — sterile, non-self-sowing woody mound",
+  "seasons": "Grey-green near-evergreen mound; mauve-purple racemes much of the year (peak spring)",
+  "wildlife": "Top early-season bee & butterfly nectar plant",
+  "deer": "Generally deer-resistant",
+  "toxic": "Not considered notably toxic; not for eating",
+  "winter": false,
+  "verified": "2026-06-04",
+  "shots": [
+    {
+      "local": "images/sp-flowers-t.jpg",
+      "full": "images/sp-flowers.jpg",
+      "commons": "(MHNT) Erysimum linifolium Bowles' Mauve - Les Martels, Giroussens Tarn.jpg",
+      "s": "spring",
+      "cap": "Spring — the signature mauve-purple raceme up close · © Didier Descouens (CC BY-SA 4.0) / Wikimedia Commons",
+      "by": "Didier Descouens",
+      "lic": "CC BY-SA 4.0",
+      "link": "https://commons.wikimedia.org/wiki/File:(MHNT)_Erysimum_linifolium_Bowles%27_Mauve_-_Les_Martels,_Giroussens_Tarn.jpg"
+    },
+    {
+      "local": "images/sp-close-t.jpg",
+      "full": "images/sp-close.jpg",
+      "commons": "Cuckoo Bumblebee - Flickr - Martin Cooper Ipswich.jpg",
+      "s": "spring",
+      "cap": "Spring — flowers feeding a bumblebee · © Martin Cooper from Ipswich, UK (CC BY 2.0) / Wikimedia Commons",
+      "by": "Martin Cooper from Ipswich, UK",
+      "lic": "CC BY 2.0",
+      "link": "https://commons.wikimedia.org/wiki/File:Cuckoo_Bumblebee_-_Flickr_-_Martin_Cooper_Ipswich.jpg"
+    },
+    {
+      "local": "images/sp-bloom-t.jpg",
+      "full": "images/sp-bloom.jpg",
+      "commons": "Erysimum 'Bowles Mauve'. Kort levende rijk bloeiende plant. Locatie, Tuinreservaat Jonkervallei.jpg",
+      "s": "spring",
+      "cap": "Spring — the whole plant smothered in bloom · © Dominicus Johannes Bergsma (CC BY-SA 4.0) / Wikimedia Commons",
+      "by": "Dominicus Johannes Bergsma",
+      "lic": "CC BY-SA 4.0",
+      "link": "https://commons.wikimedia.org/wiki/File:Erysimum_%27Bowles_Mauve%27._Kort_levende_rijk_bloeiende_plant._Locatie,_Tuinreservaat_Jonkervallei.jpg"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "commons": "Erysimum Bowles Mauve - Flickr - peganum (1).jpg",
+      "s": "summer",
+      "cap": "Summer — the grey-leaved shrubby mound in a border · © peganum from Small Dole, England (CC BY-SA 2.0) / Wikimedia Commons",
+      "by": "peganum from Small Dole, England",
+      "lic": "CC BY-SA 2.0",
+      "link": "https://commons.wikimedia.org/wiki/File:Erysimum_Bowles_Mauve_-_Flickr_-_peganum_(1).jpg"
+    }
+  ]
+}

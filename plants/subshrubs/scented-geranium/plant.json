@@ -1,0 +1,60 @@
+{
+  "common": "Scented-leaf geranium",
+  "botanical": "Pelargonium graveolens",
+  "type": "Subshrub",
+  "lifecycle": "Tender perennial",
+  "native": "Introduced",
+  "blurb": "Grown for fragrance — brush the deeply cut leaves for rose, lemon, or mint scent (lovely in baking). Frost-tender; an easy windowsill keeper.",
+  "size": "~2–3 ft × 2 ft",
+  "sun": "Full sun–part shade",
+  "water": "Moderate; well-drained",
+  "spread": "Bushy tender subshrub",
+  "seasons": "Deeply cut aromatic (rose/lemon/mint) foliage; small pink/mauve flowers in summer",
+  "wildlife": "Aromatic foliage; small flowers draw some bees",
+  "deer": "Deer-resistant (aromatic foliage)",
+  "toxic": "Leaves used as edible flavoring in small amounts; mildly toxic to pets (ASPCA)",
+  "winter": false,
+  "verified": "2026-06-04",
+  "shots": [
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/665883768/large.jpg",
+      "s": "summer",
+      "cap": "Summer — the deeply cut, rose-scented leaves · © zebedeugalinha (CC-BY) / iNaturalist",
+      "by": "zebedeugalinha",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/364750073"
+    },
+    {
+      "local": "images/su-flowers-t.jpg",
+      "full": "images/su-flowers.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/53576002/large.jpg",
+      "s": "summer",
+      "cap": "Summer — the small pink flowers · © ocontreras (CC-BY-NC) / iNaturalist",
+      "by": "ocontreras",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/34070784"
+    },
+    {
+      "local": "images/su-foliage2-t.jpg",
+      "full": "images/su-foliage2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/169641919/large.jpg",
+      "s": "summer",
+      "cap": "Summer — aromatic divided foliage · © sabrinagoddard (CC-BY-NC) / iNaturalist",
+      "by": "sabrinagoddard",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/101532220"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/598533659/large.jpg",
+      "s": "summer",
+      "cap": "Summer — a bushy potted plant · © junito rivera (CC-BY-NC) / iNaturalist",
+      "by": "junito rivera",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/330113845"
+    }
+  ]
+}

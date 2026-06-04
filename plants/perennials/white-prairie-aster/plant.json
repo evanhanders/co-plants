@@ -17,20 +17,35 @@
   "winter": false,
   "verified": "2026-06-03",
   "care": {
-    "hardiness": "Native across the Rocky Mountain states and High Plains from 700 to 8,500 ft elevation — easily hardy through USDA zone 3 and perfectly at home in Boulder's 5b–6a winters. No protection needed.",
-    "planting": "Set out transplants in spring (Apr–May) once the soil has warmed, or in early fall (Sep) to allow roots to establish before winter. This plant naturally grows in dry, exposed sites — avoid over-amending the soil or over-watering at planting. In containers, use a very lean, gritty mix and a deep pot; containers dry out quickly on the sunny Front Range and need checking every day or two. Container roots are much less cold-hardy than in-ground roots — sink the pot or move it to a sheltered, unheated space by late October.",
-    "sun": "Full sun only — this is a high-plains prairie plant adapted to intense Colorado sun. It will not thrive in part shade.",
-    "soil": "Well-drained to dry, lean soils — sand, loam, gravelly clay. Tolerates the alkaline, hard-packed soils common on the Front Range. Excellent drainage is the key requirement; avoid any site that holds moisture after rain.",
-    "water": "Very low once established — among the most xeric of the native asters. After the first season (water every 10–14 days to establish), supplemental watering is rarely needed; Front Range natural rainfall (~15 in./yr) is usually sufficient. Overwatering is the main way to kill this plant.",
-    "spacing": "Space 12–18 in. apart; plants spread slowly and can be left to naturalize. For a prairie planting, let them fill in over 2–3 years.",
-    "propagation": "By seed: collect achenes in fall after the feathery tufts dry; cold-stratify 4–6 weeks (damp sand or paper towel, refrigerator) before sowing on the surface in spring. Germination is moderate. By division: divide clumps in early spring every 3–4 years, replanting outer sections; this is the fastest way to propagate and the best way to manage spread.",
-    "bloom": "July through October on the Front Range — a long, late season. Flowers are small (0.3–0.5 in.) white daisies with yellow centers that redden with age; very numerous on well-established plants.",
-    "feeding": "None. Lean soil is ideal — fertilizing promotes rank growth and reduces flowering.",
-    "maintenance": "Cut stems back to 4–6 in. in early spring before new growth appears. Divide every 3–4 years to keep plants vigorous. Otherwise, this aster is essentially self-sufficient on the Front Range.",
-    "selfsow": "Reseeds gently in open, disturbed ground. Not a problem seeder — seedlings are easy to recognize and remove if unwanted.",
-    "troubles": "Very few issues on the Front Range. Powdery mildew in dense plantings or humid conditions; prevent with full sun and good spacing. Root rot if soil stays wet. Essentially pest-free."
+    "hardiness": "Native across the Rocky Mountain states and High Plains from 700 to 8,500 ft elevation — easily hardy through USDA zone 3 and perfectly at home in Boulder's 5b–6a winters. No protection needed.[1][2]",
+    "planting": "Set out transplants in spring (Apr–May) once the soil has warmed, or in early fall (Sep) to allow roots to establish before winter. This plant naturally grows in dry, exposed sites — avoid over-amending the soil or over-watering at planting. In containers, use a very lean, gritty mix and a deep pot; containers dry out quickly on the sunny Front Range and need checking every day or two. Container roots are much less cold-hardy than in-ground roots — sink the pot or move it to a sheltered, unheated space by late October.[1]",
+    "sun": "Full sun only — this is a high-plains prairie plant adapted to intense Colorado sun. It will not thrive in part shade.[1]",
+    "soil": "Well-drained to dry, lean soils — sand, loam, gravelly clay. Tolerates the alkaline, hard-packed soils common on the Front Range. Excellent drainage is the key requirement; avoid any site that holds moisture after rain.[1][2]",
+    "water": "Very low once established — among the most xeric of the native asters. After the first season (water every 10–14 days to establish), supplemental watering is rarely needed; Front Range natural rainfall (~15 in./yr) is usually sufficient. Overwatering is the main way to kill this plant.[1]",
+    "spacing": "Space 12–18 in. apart; plants spread slowly and can be left to naturalize. For a prairie planting, let them fill in over 2–3 years.[1]",
+    "propagation": "By seed: collect achenes in fall after the feathery tufts dry; cold-stratify 4–6 weeks (damp sand or paper towel, refrigerator) before sowing on the surface in spring. Germination is moderate. By division: divide clumps in early spring every 3–4 years, replanting outer sections; this is the fastest way to propagate and the best way to manage spread.[1][2]",
+    "bloom": "July through October on the Front Range — a long, late season. Flowers are small (0.3–0.5 in.) white daisies with yellow centers that redden with age; very numerous on well-established plants.[1]",
+    "feeding": "None. Lean soil is ideal — fertilizing promotes rank growth and reduces flowering.[1]",
+    "maintenance": "Cut stems back to 4–6 in. in early spring before new growth appears. Divide every 3–4 years to keep plants vigorous. Otherwise, this aster is essentially self-sufficient on the Front Range.[1]",
+    "selfsow": "Reseeds gently in open, disturbed ground. Not a problem seeder — seedlings are easy to recognize and remove if unwanted.[1]",
+    "troubles": "Very few issues on the Front Range. Powdery mildew in dense plantings or humid conditions; prevent with full sun and good spacing. Root rot if soil stays wet. Essentially pest-free.[1]"
   },
-  "care_src": [
+  "fact_src": {
+    "size": [1, 2],
+    "sun": [1],
+    "water": [1],
+    "spread": [1, 2],
+    "seasons": [1],
+    "wildlife": [1],
+    "deer": [1],
+    "toxic": [3]
+  },
+  "edible": {
+    "level": "inedible",
+    "summary": "White prairie aster is not a food plant — there is no established edible use; like the other native asters it is grown ornamentally and for wildlife, not for eating.[3]",
+    "caution": "White prairie aster (Symphyotrichum falcatum) has no recorded use as human food. Native asters in this group are not known to seriously poison people or pets — the ASPCA lists asters as non-toxic to dogs, cats, and horses — so an accidental nibble is not an emergency, but the plant is not an accepted edible and should not be eaten. As with any daisy-family (Asteraceae) plant, people with ragweed/aster allergies can react to the pollen or foliage, and no wild plant should be eaten without certain identification.[3]"
+  },
+  "references": [
     {
       "name": "Lady Bird Johnson Wildflower Center — Symphyotrichum falcatum",
       "url": "https://www.wildflower.org/plants/result.php?id_plant=SYFA"
@@ -38,6 +53,10 @@
     {
       "name": "USDA NRCS PLANTS Database — Symphyotrichum falcatum (SYFA)",
       "url": "https://plants.sc.egov.usda.gov/plant-profile/SYFA"
+    },
+    {
+      "name": "ASPCA — Toxic and Non-toxic Plants: Aster",
+      "url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/aster"
     }
   ],
   "shots": [

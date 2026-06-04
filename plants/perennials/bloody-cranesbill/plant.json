@@ -42,8 +42,8 @@
   },
   "edible": {
     "level": "inedible",
-    "summary": "Bloody cranesbill is a non-toxic ornamental with no documented food use — not poisonous, but not a recognized edible.[1][2][3]",
-    "caution": "Geranium sanguineum is a true cranesbill (genus Geranium) and is reported as non-toxic to people and to dogs, cats, and horses (ASPCA) — note it is NOT the houseplant 'geranium' (Pelargonium), which is mildly toxic to pets, so don't conflate the two. Even so, no authority documents the bloody cranesbill as a food: PFAF lists no edible use for cranesbills, and while the flowers occasionally appear as a salad garnish, this is not a substantiated food plant and it should not be relied on as one. The root is high in tannins and has only a folk-medicinal (astringent) history, not a culinary one. Be conservative: treat it as inedible.[1][2][3]"
+    "summary": "Bloody cranesbill is an ornamental with no documented food use — not notably poisonous, but not a recognized edible.[1][3]",
+    "caution": "Geranium sanguineum is a true cranesbill (genus Geranium) — note it is NOT the houseplant 'geranium' (Pelargonium), which is the one ASPCA lists as toxic (vomiting, depression, dermatitis) to dogs and cats, so don't conflate the two. No authority documents the bloody cranesbill itself as a food: PFAF lists no edible use for cranesbills, and while the flowers occasionally appear as a salad garnish, this is not a substantiated food plant and it should not be relied on as one. The root is high in tannins and has only a folk-medicinal (astringent) history, not a culinary one. Be conservative: treat it as inedible.[1][2][3]"
   },
   "references": [
     {
@@ -51,8 +51,8 @@
       "url": "https://plants.ces.ncsu.edu/plants/geranium-sanguineum/"
     },
     {
-      "name": "ASPCA — Toxic and Non-Toxic Plants (Geranium non-toxic to pets; Pelargonium is the toxic 'geranium')",
-      "url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants"
+      "name": "ASPCA Animal Poison Control — Geranium (Pelargonium, the toxic-to-pets 'geranium', distinct from true Geranium)",
+      "url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/garden-geranium"
     },
     {
       "name": "Plants For A Future (PFAF) — Geranium pratense (true cranesbill, edibility 0 / no edible use; corroboration)",

@@ -41,8 +41,8 @@
   },
   "edible": {
     "level": "inedible",
-    "summary": "'Rozanne' is a non-toxic ornamental cranesbill with no documented food use — not poisonous, but not a recognized edible.[1][3][4]",
-    "caution": "Geranium 'Rozanne' is a true cranesbill (genus Geranium) and is reported as non-toxic to people and to dogs, cats, and horses (ASPCA) — note it is NOT the houseplant 'geranium' (Pelargonium), which is mildly toxic to pets. No authority documents this hybrid (or cranesbills generally) as a food: PFAF lists no edible use for the genus, so although cranesbill flowers occasionally turn up as a salad garnish, this sterile garden cultivar is not a substantiated edible and should not be relied on as one. Be conservative and treat it as inedible.[1][3][4]"
+    "summary": "'Rozanne' is an ornamental cranesbill with no documented food use — not notably poisonous, but not a recognized edible.[1][4]",
+    "caution": "Geranium 'Rozanne' is a true cranesbill (genus Geranium) — note it is NOT the houseplant 'geranium' (Pelargonium), which is the one ASPCA lists as toxic (vomiting, depression, dermatitis) to dogs and cats. No authority documents this hybrid (or cranesbills generally) as a food: PFAF lists no edible use for the genus, so although cranesbill flowers occasionally turn up as a salad garnish, this sterile garden cultivar is not a substantiated edible and should not be relied on as one. Be conservative and treat it as inedible.[1][3][4]"
   },
   "references": [
     {
@@ -54,8 +54,8 @@
       "url": "https://www.rhs.org.uk/plants/97076/geranium-rozanne-(gerwat-pbr)/details"
     },
     {
-      "name": "ASPCA — Toxic and Non-Toxic Plants (Geranium non-toxic to pets; Pelargonium is the toxic 'geranium')",
-      "url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants"
+      "name": "ASPCA Animal Poison Control — Geranium (Pelargonium, the toxic-to-pets 'geranium', distinct from true Geranium)",
+      "url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/garden-geranium"
     },
     {
       "name": "Plants For A Future (PFAF) — Geranium pratense (true cranesbill, edibility 0 / no edible use; corroboration)",

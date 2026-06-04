@@ -75,7 +75,9 @@ return '<article class="card"><div class="plate">'+plate+'<span class="corner">'
 '<dt>Size</dt><dd>'+(p.size||'—')+'</dd><dt>Sun</dt><dd>'+(p.sun||'—')+'</dd>'+
 '<dt>Water</dt><dd>'+(p.water||'—')+'</dd><dt>Habit</dt><dd>'+(p.spread||'—')+'</dd>'+
 '<dt>Seasons</dt><dd>'+(p.seasons||'—')+'</dd><dt>Wildlife</dt><dd>'+(p.wildlife||'—')+'</dd>'+
-'<dt>Deer</dt><dd>'+(p.deer||'—')+'</dd>'+(p.toxic?'<dt>Caution</dt><dd>'+p.toxic+'</dd>':'')+
+'<dt>Deer</dt><dd>'+(p.deer||'—')+'</dd>'+
+(p.edible&&p.edible.food&&p.edible.card?'<dt class="ed">Edible</dt><dd>'+p.edible.card+'</dd>':'')+
+(p.toxic?'<dt>Caution</dt><dd>'+p.toxic+'</dd>':'')+
 '</dl><div class="flags">'+flagsHTML(p)+'</div>'+
 '<div class="verified">Verified non-weed in CO · '+(p.verified||'date n/a')+'</div>'+
 (href?'<a class="detaillink" href="'+href+'">Grow &amp; care details →</a>':'')+

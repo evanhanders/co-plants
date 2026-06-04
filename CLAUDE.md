@@ -186,8 +186,11 @@ is **NOT** the grouping. A file can live in `plants/perennials/` yet be a `Groun
   actually eat — that flag (not `level`) drives the grid's **Edible** trait badge/filter, so set it
   on the `edible` plants and the genuinely-edible `caution` ones (chokecherry, Oregon grape, Wood's
   rose, kinnikinnick, blue flax, columbine, dahlia, yarrow), but NOT the "don't eat" cautions.
-  All prose carries inline `[n]` markers into `references`. Source it like care, but with extra
-  rigor — see "Sourcing edibility facts".
+  When `food:true`, also add **`card`** — a *short, citation-free* phrase naming the edible part(s)
+  (e.g. `"Ripe fruit, cooked (jelly, syrup)"`); the encyclopedia grid renders it as a green **Edible**
+  row in the card's facts list (the grid is uncited, so keep `card` free of `[n]` markers — the cited
+  detail goes in `summary`/`parts`). All prose carries inline `[n]` markers into `references`. Source
+  it like care, but with extra rigor — see "Sourcing edibility facts".
 - `shots:[…]` *(optional)* — an ordered seasonal reel; each entry is one photo panel.
   Fields: `{ local, full, url | commons | try:[a,b], s?, cap?, by?, lic?, link? }`.
   - `local:'images/foo-t.jpg'` — repo-hosted **card thumbnail** shown in the grid

@@ -1,0 +1,139 @@
+{
+  "common": "Honeycrisp apple",
+  "botanical": "Malus domestica 'Honeycrisp'",
+  "type": "Tree",
+  "lifecycle": "Perennial",
+  "native": "Introduced",
+  "blurb": "Explosively crisp, honey-sweet apple — the Front Range's most dependable tree fruit, hardy and late-blooming.",
+  "size": "~12–15 ft × 12–15 ft (smaller on semi-dwarf rootstock)",
+  "sun": "Full sun (6+ hrs)",
+  "water": "Moderate, regular — deep weekly soak in summer",
+  "spread": "Clumping — single tree; needs a pollinizer apple nearby",
+  "seasons": "Pink-white blossom mid–late spring; large red-blushed fruit Sept–Oct",
+  "wildlife": "Blossoms feed bees; dropped fruit feeds birds & mammals",
+  "deer": "Foliage & fruit browsed — not deer-resistant",
+  "toxic": "Fruit flesh edible; seeds contain cyanogenic amygdalin (mildly toxic if chewed in quantity)",
+  "winter": false,
+  "verified": "2026-06-04",
+  "shots": [
+    {
+      "local": "images/sp-flowers-t.jpg",
+      "full": "images/sp-flowers.jpg",
+      "commons": "Flowers of 'Minnesota 447' apple.jpg",
+      "s": "spring",
+      "cap": "Spring — pink-white apple blossom (the 'Minnesota 447' breeding selection released as Honeycrisp) · © Nadiatalent (CC BY-SA 4.0) / Wikimedia Commons",
+      "by": "Nadiatalent",
+      "lic": "CC BY-SA 4.0",
+      "link": "https://commons.wikimedia.org/wiki/File:Flowers_of_%27Minnesota_447%27_apple.jpg"
+    },
+    {
+      "local": "images/fa-habit-t.jpg",
+      "full": "images/fa-habit.jpg",
+      "commons": "Honeycrisp apple tree.jpg",
+      "s": "fall",
+      "cap": "Fall — the whole tree laden with ripening red fruit · © MikeyMoose (CC BY-SA 3.0) / Wikimedia Commons",
+      "by": "MikeyMoose",
+      "lic": "CC BY-SA 3.0",
+      "link": "https://commons.wikimedia.org/wiki/File:Honeycrisp_apple_tree.jpg"
+    },
+    {
+      "local": "images/fa-fruit-t.jpg",
+      "full": "images/fa-fruit.jpg",
+      "commons": "Honeycrisp apples.jpg",
+      "s": "fall",
+      "cap": "Fall — clusters of red-blushed apples on the branch · © MikeyMoose (CC BY-SA 3.0) / Wikimedia Commons",
+      "by": "MikeyMoose",
+      "lic": "CC BY-SA 3.0",
+      "link": "https://commons.wikimedia.org/wiki/File:Honeycrisp_apples.jpg"
+    },
+    {
+      "local": "images/fa-close-t.jpg",
+      "full": "images/fa-close.jpg",
+      "commons": "Honeycrisp-Apple.jpg",
+      "s": "fall",
+      "cap": "Ripe fruit — the glossy red-over-gold Honeycrisp apple · © Evan-Amos (CC0) / Wikimedia Commons",
+      "by": "Evan-Amos",
+      "lic": "CC0",
+      "link": "https://commons.wikimedia.org/wiki/File:Honeycrisp-Apple.jpg"
+    }
+  ],
+  "references": [
+    {
+      "name": "CSU Extension — Backyard Orchard: Apples and Pears",
+      "url": "https://extension.colostate.edu/resource/backyard-orchard-apples-and-pears/"
+    },
+    {
+      "name": "PlantTalk Colorado #1201 — Apples",
+      "url": "https://planttalk.colostate.edu/topics/fruits/1201-apples/"
+    },
+    {
+      "name": "University of Minnesota Extension — Growing Apples",
+      "url": "https://extension.umn.edu/fruit/growing-apples"
+    },
+    {
+      "name": "NC State Extension Plant Toolbox — Malus domestica",
+      "url": "https://plants.ces.ncsu.edu/plants/malus-domestica/"
+    },
+    {
+      "name": "Amygdalin: Toxicity, Anticancer Activity and Analytical Procedures for Its Determination in Plant Seeds (Molecules, 2021) — NCBI PMC",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8069783/"
+    }
+  ],
+  "care": {
+    "hardiness": "'Honeycrisp' is among the cold-hardiest dessert apples — a 1991 University of Minnesota release bred for the upper Midwest, rated USDA zones roughly 3–6 (to zone 7).[3] On the Front Range it is completely reliable through Boulder's 5b–6a winters; its mid-to-late bloom is a real asset here, opening late enough that it usually escapes the spring frosts that nip earlier apples in our up-and-down springs.[1][3]",
+    "planting": "Plant in spring once the ground is workable (April–May), or in early fall, in full sun on a high spot so cold air drains past it rather than pooling around the buds — avoid frost-pocket lows and the warm south/west wall of a building, which pushes bloom too early into frost danger.[1] Bare-root trees go in while dormant; container stock anytime in the growing season. In a pot the roots are far less cold-hardy than the canopy and freeze far harder than ground roots over a Front Range winter, so a containerized apple needs a large (≥20 gal) pot, a sheltered or heeled-in spot out of desiccating wind, and is best moved to an unheated garage if a hard cold snap hits; plan to plant it in the ground within a year or two.[3]",
+    "sun": "Full sun — at least 6 hours of direct sun, the more the better for fruit set, sugar, and the signature red blush. Our intense high-altitude light suits it; shade cuts cropping and invites disease.[1][4]",
+    "soil": "Wants well-drained soil and tolerates a wide pH including the alkaline (>8.0) clay-loam common around Boulder, performing best in neutral 6.0–7.0 ground.[4] Amend heavy clay with organic matter at planting to speed establishment and improve drainage; never plant where water stands.[1]",
+    "water": "Moderate but regular — a deep weekly soak through the dry Front Range summer keeps fruit sizing and quality up, especially the first few years while roots establish. Water at the dripline, not the trunk, and avoid chronic wet feet, which invites root rot.[1][3]",
+    "spacing": "Size depends on rootstock: dwarf trees want about 6–8 ft, semi-dwarf 12–15 ft, and standard (seedling) trees 20–25 ft apart.[3] A semi-dwarf 'Honeycrisp' is the practical backyard choice here, staying around 12–15 ft and leaving room for the second variety it needs nearby for pollination.[1][3]",
+    "propagation": "Apples do not come true from seed, so 'Honeycrisp' is propagated only by grafting (or budding) a scion of the named cultivar onto a chosen rootstock — never grown from its own pips.[4] The rootstock sets the tree's mature size and precocity (dwarf, semi-dwarf, or standard), so buy a grafted tree on a rootstock matched to your space; seed-grown trees would be a genetic lottery, not 'Honeycrisp'.[3][4]",
+    "bloom": "Pink-budded white blossom opens mid-to-late spring (typically May here), usefully late among apples so it often dodges late frosts.[1][3] Crucially, apples need pollen from a *different*, co-blooming apple or crabapple variety — 'Honeycrisp' is not self-fruitful, so plant a second compatible apple (or rely on a flowering crabapple) within about 100 ft whose bloom overlaps.[2][3]",
+    "feeding": "Feed lightly. A modest spring application of a balanced fertilizer supports young trees, but avoid heavy nitrogen — lush, soft growth both delays fruiting and dramatically increases fire-blight susceptibility, a real hazard in our warm, moist Front Range springs.[1][3]",
+    "maintenance": "Train to a central leader and prune while fully dormant in late winter (around early March here), thinning crossing and crowded wood to open the canopy to light and air — better airflow lowers disease pressure.[1][3] 'Honeycrisp' tends to overbear and biennial-bear, so thin the young fruit in June–July to one apple per cluster, about 6 in apart, for larger fruit and a crop every year.[3]",
+    "troubles": "Fire blight is the headline risk on the Front Range: in warm (65–90°F), wet or humid bloom-time weather it can blight blossoms and shoots, so keep nitrogen modest, and cut out any strikes 8–12 in below the visibly dead tissue in dry weather, sterilizing pruners (10% bleach or 70% alcohol) between every cut and disposing of prunings.[1][3] Codling moth is the most serious fruit pest — its larvae tunnel to the core — and apple maggot is established in parts of the Front Range; both need monitoring and well-timed sprays for clean fruit.[1] 'Honeycrisp' is also prone to bitter pit (corky brown spots from calcium imbalance), eased by steady watering and not over-thinning or over-fertilizing.[3]",
+    "harvest": "Pick in September into October as the ground color shifts from green toward cream-yellow under the red blush and the flesh eats crisp and juicy.[3] Well-grown, properly cold-stored 'Honeycrisp' keeps its famous crunch for many months — stored 7+ months at cold-storage conditions — so it is a genuine keeper as well as a fresh-eating apple.[3]",
+    "companions": "Plant a second, different apple variety or a compatible flowering crabapple within ~100 ft as the essential pollinizer.[2][3] Keep the root zone in low groundcover or mulch rather than competing turf, and site away from junipers/hawthorns that share apple diseases (cedar-apple rust, fire blight).[1]"
+  },
+  "fact_src": {
+    "size": [
+      3,
+      4
+    ],
+    "sun": [
+      1,
+      4
+    ],
+    "water": [
+      1,
+      3
+    ],
+    "spread": [
+      2,
+      3
+    ],
+    "seasons": [
+      1,
+      3
+    ],
+    "wildlife": [
+      2,
+      4
+    ],
+    "deer": [
+      1
+    ],
+    "toxic": [
+      4,
+      5
+    ]
+  },
+  "edible": {
+    "level": "edible",
+    "food": true,
+    "card": "Crisp, sweet fruit — fresh, baked, or pressed",
+    "summary": "The fruit is one of the best fresh-eating apples there is — explosively crisp and honey-sweet — and is also baked, sauced, dried, or pressed to cider; only the seeds carry a trace toxin.[3][5]",
+    "parts": "The fruit (flesh and skin) is the edible part, eaten fresh or cooked.[4] 'Honeycrisp' is prized above all as a fresh dessert apple for its loud crunch and balanced sweet-tart, honeyed flavor, and it also bakes, sauces, dries, and presses to juice and cider well; it holds its crispness in cold storage for months.[3]",
+    "preparation": "Eat fresh out of hand, or core and slice for pies, crisps, sauce, drying, and juice/cider.[3][4] Cut out and discard the seedy core — the flesh needs no special preparation to be safe.[5]",
+    "caution": "The flesh and skin are entirely safe; the only concern is the seeds, which (like all apples and stone fruit) contain cyanogenic amygdalin. Amygdalin releases hydrogen cyanide only when seeds are crushed or chewed — whole seeds swallowed by accident pass through harmlessly, and a person would have to deliberately chew on the order of dozens to hundreds of seeds to risk poisoning — so simply core the apple and don't eat or grind the pips, and keep children and pets from chewing them.[5]"
+  }
+}

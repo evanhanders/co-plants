@@ -476,6 +476,20 @@ if in doubt):
    `rethumb.py` after. (Filled kinnikinnick & trumpet-honeysuckle berries, cushion-spurge
    fall colour, and a blue-green summer little-bluestem.) GBIF also rate-limits (429) — the
    tool backs off.
+5. **Openverse** (`api.openverse.org`) — aggregates CC-licensed media from **Flickr**, museums,
+   and Wikimedia, no API key needed (anonymous `page_size` max **20**). This is the **last-resort
+   path for named cultivars** that have NO clean iNat taxon and nothing on Commons/GBIF — many
+   home growers post cultivar-labeled fruit/flower series to Flickr under CC. Query
+   `GET /v1/images/?q=<cultivar>&license_type=all-cc&page_size=20`; each result carries `url`
+   (direct `live.staticflickr.com` image), `license`/`license_version`, `creator`, and
+   `foreign_landing_url`. **Skip any `-nd` (NoDerivatives) license**; CC-BY-NC-SA is fine for this
+   non-commercial guide. There's no dedicated tool yet — download the picks, then build the
+   `shots[]` + `credits.json` the same way `commons_finalize.py` does (`url` as the remote
+   fallback, baked attribution `© <creator> (<license>) / Flickr`) and run `rethumb.py`. (Found
+   the real **Toka plum** blossom/fruit series and the **Reliance peach** fruit shots this way —
+   both had zero Commons/iNat cultivar photos.) **Watch the noise:** "GoldRush"/"Reliance"/
+   "Summercrisp" are also a Chaplin film, a steamship, and a chocolate bar — always Read a montage
+   to verify the subject before finalizing.
 
 Always send a descriptive `User-Agent` (e.g. `co-plants-herbarium/1.0 (evanhanders@gmail.com)`)
 to the iNat API too. The whole pipeline lives in `tools/` and is reusable.
@@ -701,24 +715,38 @@ ground every statement in an authority cited in `references`.
 
 ## Current plant roster (in the live site)
 
-**68 specimens**, all verified non-weed in CO and all carrying a full `care` block (incl.
+**76 specimens**, all verified non-weed in CO and all carrying a full `care` block (incl.
 `planting` + `propagation`) **and a repo-hosted photo reel** (close-up + structure, seasonal
 where good shots exist). Every plant's detail page is now **fully cited** — a numbered
 `references` bibliography with inline `[n]` markers on the facts table (`fact_src`), the care
-prose, and a safety-reviewed **`edible` block** (current split: 30 inedible · 16 caution · 11
+prose, and a safety-reviewed **`edible` block** (current split: 30 inedible · 21 caution · 14
 edible · 11 toxic). Grouped by type below (the order the site uses). Photos were sourced
 mostly from the iNaturalist open dataset via `tools/inat_montage.py` (note: the yellow
 'Mersea Yellow' pineleaf penstemon came from *cultivated* iNat observations — pass through the
 research-grade filter only by querying without `quality_grade=research`, since garden
 cultivars log as "casual"); cultivars with no clean iNat taxon (the vine
 roses/clematis, 'Dropmore Scarlet' & 'Rozanne', white 'Icicle' speedwell, 'Moonshine' yarrow)
-were hand-sourced from Wikimedia Commons (`commons_search.py` → `commons_finalize.py`). Every
-shot keeps a remote `commons`/`url` fallback; card thumbnails are 720×480 smart-crops
-(`tools/rethumb.py`). (N) = CO/regional native, (I) = introduced/vetted.
+were hand-sourced from Wikimedia Commons (`commons_search.py` → `commons_finalize.py`). The 8
+**fruit-tree cultivars** (Honeycrisp/GoldRush apples, Evans Bali/Montmorency cherries,
+Stanley/Toka plums, Reliance peach, Summercrisp pear) used Commons for the cultivar-labeled
+shots, **Openverse/Flickr** (`api.openverse.org` → CC-licensed Flickr photos) for the Toka and
+Reliance cultivar shots that Commons lacked, and honestly-captioned **species-representative**
+shots where no cultivar photo exists at all (Summercrisp pear — see its `gaps` note; the
+*Pyrus communis* shots match the cultivar's described look). Every shot keeps a remote
+`commons`/`url` fallback; card thumbnails are 720×480 smart-crops (`tools/rethumb.py`).
+(N) = CO/regional native, (I) = introduced/vetted.
 
 **Trees**
 - Chokecherry (*Prunus virginiana*) (N) — Wildlife powerhouse: fragrant white flower racemes, dark…
 - Mountain alder (*Alnus incana ssp. tenuifolia*) (N) — Multi-stem riparian tree with smooth grey bark and early…
+- Honeycrisp apple (*Malus domestica 'Honeycrisp'*) (I) — Explosively crisp, honey-sweet apple; the Front Range's most dependable tree fruit.
+- GoldRush apple (*Malus domestica 'GoldRush'*) (I) — A spicy-tart keeper apple that stores till spring; fire-blight-resistant.
+- Evans Bali cherry (*Prunus cerasus 'Evans'*) (I) — Zone-3-hardy tart cherry, self-fertile and sweet enough to eat fresh or bake.
+- Montmorency cherry (*Prunus cerasus 'Montmorency'*) (I) — The classic bright-red pie cherry — the Front Range's bulletproof tart cherry.
+- Stanley plum (*Prunus domestica 'Stanley'*) (I) — Self-fertile European prune plum: sweet blue fruit fresh, dried, or canned.
+- Toka plum (*Prunus 'Toka'*) (I) — The "bubblegum plum" — spicy-sweet, hardy to -40°F, the orchard's best pollinizer.
+- Reliance peach (*Prunus persica 'Reliance'*) (I) — The hardiest peach and one of the last to bloom — the best shot at homegrown peaches.
+- Summercrisp pear (*Pyrus communis 'Summercrisp'*) (I) — Cold-hardy, fire-blight-resistant pear, picked crisp and sweet in mid-summer. *(photos species-representative — see `gaps`)*
 
 **Shrubs**
 - Common lilac (*Syringa vulgaris*) (I) — Old-fashioned dooryard shrub prized for plumes of intensely…

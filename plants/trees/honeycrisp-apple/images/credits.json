@@ -1,0 +1,82 @@
+[
+  {
+    "file": "images/sp-flowers.jpg",
+    "commons_file": "Flowers of 'Minnesota 447' apple.jpg",
+    "by": "Nadiatalent",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Flowers_of_%27Minnesota_447%27_apple.jpg",
+    "dataset": "Wikimedia Commons",
+    "orig_px": [
+      1280,
+      1144
+    ],
+    "full_px": [
+      1280,
+      1144
+    ],
+    "thumb_px": [
+      400,
+      358
+    ]
+  },
+  {
+    "file": "images/fa-habit.jpg",
+    "commons_file": "Honeycrisp apple tree.jpg",
+    "by": "MikeyMoose",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Honeycrisp_apple_tree.jpg",
+    "dataset": "Wikimedia Commons",
+    "orig_px": [
+      4770,
+      3178
+    ],
+    "full_px": [
+      1500,
+      999
+    ],
+    "thumb_px": [
+      400,
+      266
+    ]
+  },
+  {
+    "file": "images/fa-fruit.jpg",
+    "commons_file": "Honeycrisp apples.jpg",
+    "by": "MikeyMoose",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Honeycrisp_apples.jpg",
+    "dataset": "Wikimedia Commons",
+    "orig_px": [
+      4770,
+      3178
+    ],
+    "full_px": [
+      1500,
+      999
+    ],
+    "thumb_px": [
+      400,
+      266
+    ]
+  },
+  {
+    "file": "images/fa-close.jpg",
+    "commons_file": "Honeycrisp-Apple.jpg",
+    "by": "Evan-Amos",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Honeycrisp-Apple.jpg",
+    "dataset": "Wikimedia Commons",
+    "orig_px": [
+      2880,
+      2600
+    ],
+    "full_px": [
+      1500,
+      1354
+    ],
+    "thumb_px": [
+      400,
+      361
+    ]
+  }
+]

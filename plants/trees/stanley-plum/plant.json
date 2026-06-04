@@ -1,0 +1,137 @@
+{
+  "common": "Stanley plum",
+  "botanical": "Prunus domestica 'Stanley'",
+  "type": "Tree",
+  "lifecycle": "Perennial",
+  "native": "Introduced",
+  "blurb": "Self-fertile European prune plum: sweet blue fruit superb fresh, dried, or canned.",
+  "size": "~12–18 ft × 12–15 ft",
+  "sun": "Full sun (6+ hrs)",
+  "water": "Moderate, regular",
+  "spread": "Clumping — self-fertile (one tree fruits)",
+  "seasons": "White blossom spring; deep-blue prune plums late Aug–Sept",
+  "wildlife": "Bee magnet in bloom; fruit for wildlife",
+  "deer": "Foliage & fruit browsed — not deer-resistant",
+  "toxic": "Fruit flesh edible; pits, leaves & twigs cyanogenic — toxic to people/pets/livestock",
+  "winter": false,
+  "verified": "2026-06-04",
+  "care": {
+    "hardiness": "A European plum hardy to about USDA zone 4–8, so it is fully reliable through Boulder's 5b–6a winters.[5] Plums are among the most dependable fruit producers on the Front Range, cropping nearly every year; the main risk here is not winter cold but a hard frost on early bloom — site the tree at the high point of the yard (frost pools in low spots) and away from south- or west-facing walls that push it into bloom too early.[1][2]",
+    "planting": "Plant a dormant bare-root or container tree in spring (April–May) once the soil is workable, or set container stock in early fall (September) so roots establish before hard frost; choose a high, open spot in full sun with sharp drainage — avoid hot south/west wall microclimates that trigger frost-vulnerable early bloom.[1] Dig the hole as deep as the root ball and twice as wide, and backfill mostly with the native soil rather than heavily amended mix so roots grow out into the clay instead of circling.[3] Standard plums are too large and too cold-needy in the roots to keep long-term in a pot; if you grow a dwarf in a container, use a large (≥20 gal) pot, water far more often (pots dry fast in dry Front-Range air), and sink or heel the pot in or move it to an unheated shed over winter, since potted roots are far less cold-hardy than the zone-4 top.[1][3]",
+    "sun": "Full sun — at least 6 hours, and ideally a half-day or more of direct sun — for good flower set, sweet fruit, and an open, disease-resistant canopy.[3][5] Shade cuts the crop and slows the foliage drying that keeps fungal disease down.[3]",
+    "soil": "Wants a fertile, well-drained soil and tolerates the Front Range's alkaline clay-loam as long as it drains and does not stay soggy.[5] Plant into mostly native soil rather than a richly amended pocket, which can hold water and root-bind the tree in heavy clay; coarse organic mulch over the root zone does more good than digging amendments into the hole.[1][3]",
+    "water": "Keep a young tree evenly moist — roughly 1–2 inches of water per week, checking the soil 4–8 inches down before watering rather than watering on a fixed schedule.[3] Once established it is moderately drought-tolerant, but consistent deep watering through fruit sizing in summer is what gives full, sweet plums; never let it sit waterlogged.[3]",
+    "spacing": "Give a standard tree about 12–20 ft of space (plan for a mature spread roughly equal to its height); on the Front Range expect about 12–18 ft tall and wide.[3] Stanley is self-fertile, so a single tree fits a small yard, but allow room on all sides for the open canopy and good airflow.[1][3]",
+    "propagation": "Named cultivars like 'Stanley' do not come true from seed — propagate by grafting or budding (T-budding in late summer) onto a compatible plum rootstock to keep the cultivar identical.[5] Seedlings are genetic lotteries used only as rootstock; for the home garden, buy a grafted nursery tree rather than trying to root cuttings.[3][5]",
+    "bloom": "White blossom opens in early-to-mid spring, often among the earliest fruit trees to flower — which is why a late frost is the chief crop risk here.[1] Fruit follows as deep blue-purple freestone 'prune' plums that ripen late August into September on the Front Range.[1][3]",
+    "feeding": "Feed lightly: a modest application of balanced fertilizer in early spring is plenty for an established tree, and only if growth is weak or leaves are pale.[3] Avoid heavy nitrogen, which pushes soft, aphid- and disease-prone shoots at the expense of fruit; a layer of compost or mulch over the root zone usually supplies what it needs.[3]",
+    "maintenance": "Train to an open-center (vase) form and prune annually in late winter / early spring before bud break, removing dead, broken, crossing, and inward-growing wood to open the canopy for light and air — good airflow is the main defense against fungal disease.[3] Make any disease pruning in dry, freezing late-winter weather to limit bacterial canker and silver leaf spread.[3][4] Black knot (hard black galls on the wood) is a real risk for 'Stanley' specifically; inspect each winter and cut galls out at least 4 inches below the swelling, then burn, bury, or trash the prunings — never compost them.[4]",
+    "troubles": "Watch for plum curculio (a weevil that scars and drops young fruit), aphids (curling new growth — discourage them by not over-feeding nitrogen), and peach tree borer at the trunk base (controlled with a well-timed July trunk spray).[1][3] Brown rot is the most serious disease, rotting blossoms and shriveling fruit, and 'Stanley' is notably susceptible to black knot; manage all three with open-canopy pruning, prompt removal of mummied fruit and galls, and good orchard sanitation.[3][4] The leaves, twigs, and seed pits are cyanogenic and toxic to pets, horses, and livestock — keep them from browsing prunings.[4][5]",
+    "harvest": "Pick when the plums color up to deep blue-purple and the flesh just begins to soften — typically late August through September here.[1][3] As a true freestone prune plum, Stanley separates cleanly from the pit and is excellent fresh, but it shines dried into prunes and canned; let fruit reach full ripeness on the tree for top sugar, but harvest before it drops.[1][3]",
+    "companions": "Pair with another European plum (e.g. 'Green Gage' or 'Blue Damson') if you want a second variety for an even heavier set — but note European plums will not cross-pollinate the Japanese/hybrid plums, which bloom on a different schedule.[1] Keep the root zone in mulch or low, non-competitive groundcover rather than turf for best moisture and reduced borer pressure.[3]"
+  },
+  "edible": {
+    "level": "caution",
+    "food": true,
+    "card": "Sweet blue plums — fresh, dried, canned",
+    "summary": "The ripe blue plum flesh is sweet and excellent eaten fresh, dried into prunes, or canned — but the pits, leaves, and twigs are cyanogenic and must never be eaten.[5][3]",
+    "parts": "Only the ripe fruit flesh is food. 'Stanley' is a classic freestone prune plum: deep blue-purple drupes whose flesh is sweet and meaty, eaten fresh or dried into prunes.[5][3] The single seed (pit) inside each plum, along with the leaves and twigs, is not food.[4][5]",
+    "preparation": "Eat the fruit fully ripe and fresh, or process it — its freestone flesh slips cleanly off the pit, making it ideal for drying into prunes, canning, jam, and baking.[1][3] Discard the pits; do not crack, crush, or chew the stones to get at the kernel inside.[4]",
+    "caution": "Like all Prunus, the seed pit (kernel), leaves, and twigs contain cyanogenic glycosides that release hydrogen cyanide when the tissue is chewed, crushed, or wilted; the fruit flesh is safe but the stone it surrounds is not — never crack or eat the pits, and keep children from doing so.[4][5] Wilted or frost-damaged foliage is markedly more toxic and is a documented poisoning hazard to dogs, cats, horses, and livestock, so never let animals browse the leaves or fallen prunings.[4][5]"
+  },
+  "references": [
+    {
+      "name": "CSU PlantTalk Colorado #1206 — Plums",
+      "url": "https://planttalk.colostate.edu/topics/fruits/1206-plums/"
+    },
+    {
+      "name": "CSU PlantTalk Colorado #1217 — Fruit Trees for Colorado",
+      "url": "https://planttalk.colostate.edu/topics/fruits/1217-fruit-trees-colorado/"
+    },
+    {
+      "name": "University of Minnesota Extension — Growing stone fruits in the home garden",
+      "url": "https://extension.umn.edu/fruit/growing-stone-fruits-home-garden"
+    },
+    {
+      "name": "University of Minnesota Extension — Black knot of Prunus",
+      "url": "https://extension.umn.edu/plant-diseases/black-knot"
+    },
+    {
+      "name": "NC State Extension Plant Toolbox — Prunus domestica (European plum)",
+      "url": "https://plants.ces.ncsu.edu/plants/prunus-domestica/"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      3,
+      5
+    ],
+    "sun": [
+      3,
+      5
+    ],
+    "water": [
+      3
+    ],
+    "spread": [
+      1,
+      3
+    ],
+    "seasons": [
+      1,
+      3
+    ],
+    "wildlife": [
+      1
+    ],
+    "deer": [
+      3
+    ],
+    "toxic": [
+      4,
+      5
+    ]
+  },
+  "shots": [
+    {
+      "local": "images/sp-flowers-t.jpg",
+      "full": "images/sp-flowers.jpg",
+      "commons": "Šljiva Stanley u cvatu (detalj).jpg",
+      "s": "spring",
+      "cap": "Spring — Stanley plum blossom, a face-on detail of the white flowers · © Silverije (CC BY-SA 4.0) / Wikimedia Commons",
+      "by": "Silverije",
+      "lic": "CC BY-SA 4.0",
+      "link": "https://commons.wikimedia.org/wiki/File:%C5%A0ljiva_Stanley_u_cvatu_(detalj).jpg"
+    },
+    {
+      "local": "images/sp-habit-t.jpg",
+      "full": "images/sp-habit.jpg",
+      "commons": "Šljive Stanley u cvatu.jpg",
+      "s": "spring",
+      "cap": "Spring — the whole tree in full bloom · © Silverije (CC BY-SA 4.0) / Wikimedia Commons",
+      "by": "Silverije",
+      "lic": "CC BY-SA 4.0",
+      "link": "https://commons.wikimedia.org/wiki/File:%C5%A0ljive_Stanley_u_cvatu.jpg"
+    },
+    {
+      "local": "images/su-fruit-t.jpg",
+      "full": "images/su-fruit.jpg",
+      "commons": "Šljiva Stanley - zeleni plodovi.jpg",
+      "s": "summer",
+      "cap": "Summer — green Stanley plums sizing up · © Silverije (CC BY-SA 4.0) / Wikimedia Commons",
+      "by": "Silverije",
+      "lic": "CC BY-SA 4.0",
+      "link": "https://commons.wikimedia.org/wiki/File:%C5%A0ljiva_Stanley_-_zeleni_plodovi.jpg"
+    },
+    {
+      "local": "images/fa-close-t.jpg",
+      "full": "images/fa-close.jpg",
+      "commons": "Šljiva Stanley - zreli plodovi (2022).JPG",
+      "s": "fall",
+      "cap": "Ripe fruit — deep-blue Stanley prune plums · © Silverije (CC BY-SA 4.0) / Wikimedia Commons",
+      "by": "Silverije",
+      "lic": "CC BY-SA 4.0",
+      "link": "https://commons.wikimedia.org/wiki/File:%C5%A0ljiva_Stanley_-_zreli_plodovi_(2022).JPG"
+    }
+  ]
+}

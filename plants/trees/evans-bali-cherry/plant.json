@@ -1,0 +1,133 @@
+{
+  "common": "Evans Bali cherry",
+  "botanical": "Prunus cerasus 'Evans'",
+  "type": "Tree",
+  "lifecycle": "Perennial",
+  "native": "Introduced",
+  "blurb": "Zone-3-hardy tart cherry, self-fertile and sweet enough to eat fresh or bake into pie.",
+  "size": "~10–14 ft × 10–12 ft",
+  "sun": "Full sun (6+ hrs)",
+  "water": "Moderate; drought-tolerant once established",
+  "spread": "Clumping — self-fertile (one tree fruits); may sucker",
+  "seasons": "White blossom spring; dark-red tart cherries July",
+  "wildlife": "Bee-pollinated; birds eagerly take the fruit",
+  "deer": "Foliage & fruit browsed — not deer-resistant",
+  "toxic": "Fruit flesh edible (tart); pits, leaves & twigs cyanogenic — toxic to people/pets/livestock",
+  "winter": false,
+  "verified": "2026-06-04",
+  "shots": [
+    {
+      "local": "images/su-fruit-t.jpg",
+      "full": "images/su-fruit.jpg",
+      "commons": "EvansCherriesRipening.jpg",
+      "s": "summer",
+      "cap": "Summer — dark-red tart cherries ripening on the tree · © Montanabw (CC BY-SA 3.0) / Wikimedia Commons",
+      "by": "Montanabw",
+      "lic": "CC BY-SA 3.0",
+      "link": "https://commons.wikimedia.org/wiki/File:EvansCherriesRipening.jpg"
+    },
+    {
+      "local": "images/su-close-t.jpg",
+      "full": "images/su-close.jpg",
+      "commons": "EvansCherry2.JPG",
+      "s": "summer",
+      "cap": "Summer — close view of the glossy red fruit and glossy foliage · © Montanabw (CC BY-SA 3.0) / Wikimedia Commons",
+      "by": "Montanabw",
+      "lic": "CC BY-SA 3.0",
+      "link": "https://commons.wikimedia.org/wiki/File:EvansCherry2.JPG"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "commons": "EvansCherryNetted2.JPG",
+      "s": "summer",
+      "cap": "Summer — the netted tree hanging heavy with fruit · © Montanabw (CC BY-SA 3.0) / Wikimedia Commons",
+      "by": "Montanabw",
+      "lic": "CC BY-SA 3.0",
+      "link": "https://commons.wikimedia.org/wiki/File:EvansCherryNetted2.JPG"
+    },
+    {
+      "local": "images/sp-flowers-t.jpg",
+      "full": "images/sp-flowers.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/628853065/large.jpg",
+      "s": "spring",
+      "cap": "Spring — white sour-cherry blossom (shown on the species, Prunus cerasus; 'Evans' blooms the same) · © Dino Babić (CC-BY) / iNaturalist",
+      "by": "Dino Babić",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/345092574"
+    }
+  ],
+  "care": {
+    "hardiness": "Exceptionally cold-hardy — reliably USDA zone 3, and some sources rate it to zone 2.[4] That makes 'Evans' (also sold as 'Bali') one of the most winter-bulletproof fruit trees you can plant on the Front Range: Boulder's 5b–6a winters and the cold pockets above town hold no terror for it, and unlike sweet cherries it sails through late hard freezes.[1][4] No winter protection needed in the ground.",
+    "planting": "Plant in spring once the soil is workable (bare-root stock goes in early, while still dormant; container stock after mid-May once hard-frost danger is past).[2] Choose full sun on slightly higher ground so cold air drains away — frost settling in a low pocket can nip the early blossom and cost a crop.[1] Dig the hole as deep as the rootball and twice as wide, and water in well. In a pot 'Evans' grows fine through the season, but a container left out over a Front Range winter freezes far harder than the ground and can kill roots even on a zone-3 tree — use a large tub (≥20 gal), sink or heel it in, or move it to an unheated shelter, and plan to plant it in the ground the next spring.[2]",
+    "sun": "Full sun — at least 6 hours of direct sun a day for the best crop and the healthiest tree.[2][3] In Boulder's intense high-altitude light it fruits and ripens well; too much shade cuts both flowering and fruit quality.[3]",
+    "soil": "Wants fertile, well-drained soil and resents standing water — never plant where water pools after rain.[2][3] It tolerates the Front Range's alkaline clay-loam if drainage is decent; loosening heavy clay and working in organic matter at planting speeds establishment. Reasonably adaptable on pH, but good drainage matters more than richness.[2][3]",
+    "water": "Give young trees about 1–2 inches of water a week (rain plus irrigation) through the first couple of seasons to settle the roots.[2] Once established it is notably drought-tolerant for a fruit tree, but a deep soak during dry summer spells — and especially while fruit is sizing up — keeps the crop plump. Avoid chronic wet feet.[2]",
+    "spacing": "Mature size is modest — roughly 12–14 ft tall and about as wide — so space single trees 12–20 ft apart.[4][2] It is naturally a small, manageable tree, which is part of its appeal for a home yard.[4]",
+    "propagation": "Cultivars are not true from seed — a pit will not give you another 'Evans'.[3] Nursery trees are propagated by grafting or budding, but 'Evans' is also grown on its own roots, and it suckers freely (often well beyond the trunk, especially where roots are disturbed); you can lift a rooted sucker once it is a couple of years old and replant it to get a genetically identical tree — an easy route most grafted cherries don't offer.[4]",
+    "bloom": "Clouds of white five-petaled flowers open in spring.[3] Like other tart cherries it blooms a touch later than sweet cherries, which helps it dodge the Front Range's late frosts — but it still flowers early enough that a cold pocket can damage the bloom, so site it on higher ground.[1] Crucially it is self-fertile (self-fruitful): a single tree sets a full crop with no pollinizer needed.[1][4]",
+    "feeding": "Tart cherries are not heavy feeders. A light application of balanced fertilizer in early spring is plenty if growth is weak or leaves are pale; skip it if the tree is growing well.[2] Avoid pushing it with high nitrogen, which forces soft growth at the expense of fruit and invites disease.[2]",
+    "maintenance": "Train to an open-center (vase) shape for light and airflow, and prune in late winter once the coldest weather is past — dormant pruning limits the spread of fungal and bacterial cankers that thrive when cuts are made in wet conditions.[2][1] Prune only in dry weather; if you must cut during the growing season, sterilize tools between cuts.[1] Remove dead, damaged, and crossing wood, keep the center open, and clip unwanted root suckers at ground level.[2][4] Birds are the number-one pest at harvest — drape netting over the tree as fruit colors up.[2]",
+    "troubles": "Birds will strip a ripening crop, so net the tree.[2] Watch for cherry/black aphids and the maggots of the cherry fruit fly (remove and destroy dropped fruit to break the fly's cycle).[2] Brown rot and cherry leaf spot are the main fungal threats — the dry Front Range climate helps, and good airflow from open-center pruning, plus cleaning up fallen fruit and leaves, keeps them in check.[2] Bacterial canker and cytospora canker can infect trees stressed or pruned in wet weather; prune dry and dormant, and cut out cankered wood well below the lesion.[1][2]",
+    "harvest": "Fruit ripens in summer — typically July on the Front Range (August in colder prairie sites).[4] The cherries turn dark red and are sweeter and less sharp than most sour cherries, good enough to eat fresh as well as the standard pie/jam/juice uses.[4] Pick when fully colored and before the birds finish them; clip with stems on to avoid tearing the spurs.[4]",
+    "companions": "Plant where pollinators can reach the spring bloom; cherries are bee-pollinated.[1] Underplant with low, non-competitive perennials and bulbs rather than thirsty turf right up to the trunk, and keep a mulched, grass-free zone over the root area to reduce competition and mower damage. Give it room and a sunny, frost-drained spot rather than crowding it among larger trees.[1]"
+  },
+  "edible": {
+    "level": "caution",
+    "food": true,
+    "card": "Tart cherries — pies, jam, juice, fresh",
+    "summary": "The ripe cherry flesh is edible — 'Evans' is sweet enough to eat fresh, and excellent for pies, jam, and juice — but the pit inside each cherry, plus the leaves and twigs, are cyanogenic and must not be eaten.[4][3]",
+    "parts": "Only the ripe fruit flesh is food. 'Evans'/'Bali' tart cherries are dark red and milder than most sour cherries, used for pies, preserves, jam, and juice and palatable fresh off the tree.[4] The stone (pit) inside each cherry, the leaves, and the twigs are not food and should never be eaten.[3]",
+    "preparation": "Eat the cherries ripe and pit them before use — remove the stones and do not crush or chew them.[3] The flesh works fresh, but is most often cooked and sweetened into pie, jam, syrup, or juice; cooking the pitted flesh is the standard, safe preparation.[4]",
+    "caution": "The pits (stones), leaves, and twigs contain cyanogenic compounds that release hydrogen cyanide when the tissue is chewed, crushed, or wilted — the pits are specifically described as poisonous.[3] Never swallow, crush, or chew the pits; pit the fruit before cooking and keep children and pets from gnawing seeds or stems. Wilted or frost-damaged foliage is the most dangerous form and is a documented poisoning hazard to livestock (cattle, horses) and to cats and dogs — do not let animals browse the tree or eat fallen prunings.[3]"
+  },
+  "fact_src": {
+    "size": [
+      4,
+      2
+    ],
+    "sun": [
+      2,
+      3
+    ],
+    "water": [
+      2
+    ],
+    "spread": [
+      1,
+      4
+    ],
+    "seasons": [
+      4,
+      3
+    ],
+    "wildlife": [
+      1,
+      2
+    ],
+    "deer": [
+      2
+    ],
+    "toxic": [
+      3
+    ]
+  },
+  "references": [
+    {
+      "name": "CSU Extension – PlantTalk Colorado #1202: Cherries",
+      "url": "https://planttalk.colostate.edu/topics/fruits/1202-cherries/"
+    },
+    {
+      "name": "University of Minnesota Extension – Growing stone fruits in the home garden",
+      "url": "https://extension.umn.edu/fruit/growing-stone-fruits-home-garden"
+    },
+    {
+      "name": "NC State Extension Plant Toolbox – Prunus cerasus (Sour/Tart Cherry)",
+      "url": "https://plants.ces.ncsu.edu/plants/prunus-cerasus/"
+    },
+    {
+      "name": "Gardening at USask (University of Saskatchewan) – Sour Cherries (Evans cherry)",
+      "url": "https://gardening.usask.ca/gardening-advice/gardenline-nested-pages/food-plant-pages/fruit/sour-cherries.php"
+    }
+  ]
+}

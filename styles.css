@@ -97,6 +97,7 @@ h1.display{font-size:clamp(34px,7vw,58px);font-weight:600;line-height:.98;margin
 .flag.winter{border-color:#9fb6c9;color:#3f6480}
 .flag.toxic{border-color:#c9a040;color:#8a6a10;background:#fff7df}
 .flag.pollin{border-color:#caa0c0;color:#8a4a78}
+.flag.edible{border-color:#9cb98c;color:#4f6b3c;background:#f2f7ec}
 .flag.run{border-color:#c79a86;color:#9a5230}
 .flag.life{border-color:#a9b59a;color:#5a6a3f;background:#f3f6ec;font-weight:600}
 .verified{margin-top:12px;font-size:11px;color:var(--green);font-style:italic;display:flex;align-items:center;gap:6px}

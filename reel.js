@@ -113,7 +113,8 @@ const TRAITS = {
 winter:{ label:'Winter', icon:'❄', test:function(p){ return !!p.winter; } },
 pollin:{ label:'Pollinator', icon:'✿', test:function(p){ return /bee|pollinat|butterfl|host|hummingbird/i.test(p.wildlife||''); } },
 spreads:{ label:'Spreads', icon:'↔', test:function(p){ return /run|rhizom|sucker|thicket|mat-form/i.test(p.spread||''); } },
-toxic:{ label:'Toxic', icon:'⚠', test:function(p){ return !!p.toxic; } }
+toxic:{ label:'Toxic', icon:'⚠', test:function(p){ return !!p.toxic; } },
+edible:{ label:'Edible', icon:'❧', test:function(p){ return !!(p.edible && p.edible.food); } }
 };
 function natBadge(p, cls){
 return (p.native && p.native.indexOf('native')>-1 && p.native!=='Non-native')
@@ -126,6 +127,7 @@ if(p.lifecycle) flags.push('<span class="flag life">'+p.lifecycle+'</span>');
 if(TRAITS.winter.test(p)) flags.push('<span class="flag winter">❄ Winter interest</span>');
 if(TRAITS.pollin.test(p)) flags.push('<span class="flag pollin">✿ Pollinator</span>');
 if(TRAITS.spreads.test(p)) flags.push('<span class="flag run">↔ Spreads</span>');
+if(TRAITS.edible.test(p)) flags.push('<span class="flag edible">❧ Edible parts</span>');
 if(TRAITS.toxic.test(p)) flags.push('<span class="flag toxic">⚠ Toxic parts</span>');
 return flags.join('');
 }

@@ -41,6 +41,7 @@
   },
   "edible": {
     "level": "caution",
+    "food": true,
     "summary": "The mealy red berries are edible (bland raw, better cooked), but the leaves — though a documented traditional tea and smoking herb — contain arbutin/hydroquinone and are not for casual or repeated ingestion.[1][4]",
     "parts": "The **berries** (small red drupes) are the edible part. They are dry, mealy, and nearly tasteless raw — a recognized emergency/wildlife food more than a treat — but Indigenous peoples fried or dried them and added them to pemmican, and they make passable jelly, jam, or sauce when cooked. The **leaves** are documented as a traditional beverage tea and a tobacco substitute (the name 'kinnikinnick' refers to this smoking use), and historically as a medicinal urinary-tract astringent — but the leaves are a caution, not a casual food (see below).[1]",
     "preparation": "Berries are best cooked — fried, dried, or simmered into jelly, jam, or sauce — to improve their bland, mealy texture; they can be eaten raw in a pinch but are unrewarding. The leaves were traditionally dried and steeped as a tea or smoked; do not treat leaf tea as an everyday beverage given its arbutin content.[1]",

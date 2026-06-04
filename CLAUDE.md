@@ -182,8 +182,12 @@ is **NOT** the grouping. A file can live in `plants/perennials/` yet be a `Groun
   prose cells **`parts`**, **`preparation`**, **`caution`** (the cautions cell renders full-width +
   tinted). For **`toxic`/`inedible`** plants the renderer shows **only the banner + `caution`** (the
   "no part is edible / no prep makes it safe" cells are noise next to a DO-NOT-EAT banner), so those
-  two levels need just `summary` + `caution`. All prose carries inline `[n]` markers into
-  `references`. Source it like care, but with extra rigor — see "Sourcing edibility facts".
+  two levels need just `summary` + `caution`. Add **`food: true`** when the plant has a part people
+  actually eat — that flag (not `level`) drives the grid's **Edible** trait badge/filter, so set it
+  on the `edible` plants and the genuinely-edible `caution` ones (chokecherry, Oregon grape, Wood's
+  rose, kinnikinnick, blue flax, columbine, dahlia, yarrow), but NOT the "don't eat" cautions.
+  All prose carries inline `[n]` markers into `references`. Source it like care, but with extra
+  rigor — see "Sourcing edibility facts".
 - `shots:[…]` *(optional)* — an ordered seasonal reel; each entry is one photo panel.
   Fields: `{ local, full, url | commons | try:[a,b], s?, cap?, by?, lic?, link? }`.
   - `local:'images/foo-t.jpg'` — repo-hosted **card thumbnail** shown in the grid
@@ -253,10 +257,15 @@ requirements & sourcing" below for the per-plant photo spec.)
 **Filtering & state.** Four filter axes compose: **Origin** (Both/Native/Introduced),
 **Form** chips (the morphology groups, with counts), **Lifecycle** chips
 (`Perennial`/`Tender perennial`/`Biennial`/`Annual`, from each plant's `lifecycle` tag), and
-**Trait** chips (`Winter`/`Pollinator`/`Spreads`/`Toxic`), plus the free-text search. The trait
-predicates live in one place — the `TRAITS` map in `reel.js` — shared by *both* the card badges
-and the trait filter so they never drift; add a new trait by extending that map (and a
-`passesFilters` clause). The legend always reads "Showing N of M specimens" and shows a **Clear
+**Trait** chips (`Winter`/`Pollinator`/`Spreads`/`Edible`/`Toxic`), plus the free-text search. The
+trait predicates live in one place — the `TRAITS` map in `reel.js` — shared by *both* the card
+badges and the trait filter (and auto-built chips with counts) so they never drift; add a new trait
+by extending that map (`flagsHTML` also pushes the badge). The **`Edible`** trait flags plants with
+a genuine edible part — its predicate is the explicit `edible.food === true` marker (NOT the
+`edible.level`), so a "partly edible" plant like chokecherry (fruit edible, rest toxic) carries
+*both* the Edible and Toxic badges, while a `caution`/`inedible` plant that's really "don't eat"
+(california poppy, peony, red-twig dogwood) is left untagged. Set `edible.food:true` on a plant when
+it has a part people actually eat. The legend always reads "Showing N of M specimens" and shows a **Clear
 all** button when anything is active. Filter/search/view state is mirrored into the **URL hash**
 (`#view=…&nat=…&type=…&life=…&trait=…&q=…`) via `syncHash()`/`applyHash()`, so filtered views are
 shareable and survive a reload.

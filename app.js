@@ -32,7 +32,7 @@ let view = "type";
 const collapsed = new Set(); // group names collapsed (type view)
 let natFilter = "all";            // all | native | intro
 const typeFilter = new Set();     // empty = all groups shown
-const traitFilter = new Set();    // empty = no trait constraint; values: winter|pollin|spreads|toxic
+const traitFilter = new Set();    // empty = no trait constraint; values: winter|pollin|spreads|toxic|edible
 const lifeFilter = new Set();     // empty = all lifecycles; values: Perennial|Annual|Biennial|Tender perennial
 /* isNative + the TRAITS predicate map live in reel.js (shared with the detail page) */
 function passesFilters(p){

@@ -70,6 +70,20 @@ python3 -m http.server 8077 &
 node tests/swipe.spec.mjs
 ```
 
+**Visual / CSS / UX changes — rendering in Chromium is a CRITICAL step, not optional.** For any
+change to *how the page looks or behaves* (CSS, layout, an icon, a control, mobile sizing), reading
+the stylesheet and reasoning about it is **not enough and has been wrong twice** — `curl` returns
+markup, never computed style, so it can't see a cascade override, a UA form-control default, or an
+overlap. **Before claiming a visual fix works, render it in Playwright + Chromium (the same one-time
+install above), emulate the target device — `chromium.launch()` → `newContext({ ...devices['Pixel 5'] })`
+for Android, since the guide is phone-first — type/interact as a user would, then (a) read back the
+**computed style + geometry** with `getComputedStyle()`/`getBoundingClientRect()` to prove the rule
+actually applied, and (b) `locator(sel).screenshot()` and `Read` the PNG to see it.** Example caught
+this way: the search field's magnifier overlapped the text because a later equal-specificity
+`input[type=search]{padding:9px 11px}` reset was silently overriding `.search input`'s `padding-left`
+— invisible in the source, obvious the instant `getComputedStyle().paddingLeft` read `11px` instead
+of `40px`. Reason from the *computed* value, fix, then re-render to confirm.
+
 **Citation check (`tools/check_citations.py`).** Curls every plant's `references` (falls back to
 legacy `care_src`) and flags DEAD / wrong-plant (REVIEW) / OK, failing if any plant has no
 reachable source — run it after any `references` edit and as a periodic guard on the whole guide.

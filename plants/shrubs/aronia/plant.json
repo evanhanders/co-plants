@@ -17,6 +17,60 @@
   "verified": "2026-06-04",
   "origin": "Eastern North America (NE US & Canada — not a Colorado native)",
   "habitat": "Bogs, swamp edges, moist woods and dry uplands — wide moisture range on acid to neutral soils",
+  "care": {
+    "hardiness": "Exceptionally cold-hardy — rated USDA zones 3–8, so it shrugs off the Front Range's 5b–6a winters with no protection needed.[1][2] It is one of the toughest small-fruit shrubs you can grow in Boulder: hardy to zone 3 and broadly tolerant of soil and exposure, though it is not a true xeric plant (see Water).[4]",
+    "planting": "Plant container-grown shrubs in early spring (April) or early fall (September) so roots establish before summer heat or hard freeze. Set the crown at the depth it grew in the pot, water in well, and mulch 2–3 in to hold moisture. Aronia also grows well in a large container (15+ gal) for a few seasons, but pots dry out fast in the semi-arid Front Range and the roots — though the plant is zone-3 hardy in the ground — sit at full ambient freezing in a pot, so sink, wrap, or shelter the container over winter and plan to move it into the ground for best long-term cropping.[1][2]",
+    "sun": "Best fruit and the strongest red fall color come in full sun (6+ hours); it tolerates partial shade (2–6 hours) but flowers and crops more sparsely there.[1][2] On the high-altitude Front Range, full sun is the right call for a productive berry shrub.",
+    "soil": "Remarkably adaptable — grows in clay, loam, sand, and shallow rocky soils across an acid-to-alkaline pH range, so Boulder's alkaline clay is fine.[1] It is naturally a wetland-edge plant that also handles 'occasionally dry' to 'occasionally wet' soils, tolerating salt and compaction.[1][2] Amend heavy clay with compost to improve both drainage and moisture retention.",
+    "water": "This is the key Front-Range caveat: aronia is broadly adaptable but is NOT drought-tolerant — Colorado authorities note it needs more than 15 inches of irrigation a year to crop well.[4] Water deeply and regularly through establishment, then keep it on a moderate drip or weekly summer soaking; a baked, unirrigated xeric site will give poor fruit. Site it where it gets supplemental water rather than treating it like a true dryland shrub.[4]",
+    "spacing": "Mature plants reach about 3–8 ft tall and 3–6 ft wide.[1][2] Space landscape plants 4–6 ft apart for a thicket or informal hedge; for berry rows, growers space plants 3–4 ft apart within the row.[3] Allow room for the clump to widen as it suckers.",
+    "propagation": "Easiest by division of the suckering clump or by digging rooted suckers in early spring and replanting them.[1] Softwood cuttings taken in early summer root readily under mist; hardwood cuttings can be taken in late fall. Seed is also used but needs cold-moist stratification and seedlings are slower to fruit, so vegetative methods (suckers, cuttings) are the practical route for a known cultivar.[1]",
+    "bloom": "Flat 2–3 in clusters (corymbs) of small white flowers with showy pink anthers open in May–June, just as the glossy new leaves expand.[2][1] Aronia is self-fruitful — a single plant sets fruit without a pollinizer — so one shrub will crop on its own.[3]",
+    "feeding": "Low feeder. A light dressing of compost or a balanced slow-release fertilizer in early spring is plenty; avoid heavy nitrogen, which pushes leafy growth at the expense of fruit. Established plants in amended soil generally need no feeding.[3]",
+    "maintenance": "Very low maintenance with no serious pests or diseases.[1] The main task is managing the suckers: it spreads freely into a clonal thicket, so pull or cut stray suckers at ground level to hold its footprint, or let it run if you want a screen.[1][2] For berry production, prune out the oldest, woodiest canes every few years to keep young, productive wood coming on.[3] Brilliant wine-red fall color needs no help.",
+    "harvest": "Berries ripen blackish-purple in late August into September; pick when fully black and slightly soft.[1][3] They hang well and even improve after a frost or after freezing, which tames some of the astringency.[4] One self-fruitful shrub yields generously; strip whole clusters by hand.",
+    "troubles": "About as trouble-free as berry shrubs get on the Front Range — 'no serious insect or disease problems' is the standard note.[1] The realistic problems here are cultural: underwatering (it is not xeric) reduces crop and fall color, and unchecked suckering can outgrow its spot. Birds will compete for ripe fruit. Do not confuse it with Prunus virginiana chokecherry — a different, toxic-foliaged plant despite the similar name.[1]",
+    "companions": "Pairs well in a mixed native/edible border with other tough shrubs — wood's rose, red-twig dogwood, or chokecherry — and underplants nicely with spring bulbs and tough perennials like yarrow or aster that carry color after its bloom. Give it a moist, sunny spot rather than the driest xeric corner.[4][1]"
+  },
+  "fact_src": {
+    "size": [1, 2],
+    "sun": [1, 2],
+    "water": [4],
+    "spread": [1, 2],
+    "seasons": [1, 2],
+    "wildlife": [1, 2],
+    "deer": [1],
+    "toxic": [1, 3],
+    "origin": [1, 2],
+    "habitat": [1, 2]
+  },
+  "edible": {
+    "level": "edible",
+    "food": true,
+    "card": "Black berries, cooked (juice, jelly, syrup)",
+    "summary": "The glossy black berries are edible and famously high in antioxidants — but far too astringent to enjoy raw, so they are cooked, juiced, or frozen first.[1][3]",
+    "parts": "The ripe blackish-purple berries (technically small pomes) are the edible part.[1] They carry more antioxidants — anthocyanins and flavonoids — than almost any other temperate fruit, roughly three times that of blueberries, which is the whole point of growing them.[3] The leaves, twigs, and bark are not used as food.",
+    "preparation": "Pick the berries fully black, ideally after a frost or freeze, which softens the mouth-puckering astringency.[4] They are too astringent to eat fresh in quantity, so they are processed: pressed for juice, cooked into jam, jelly, syrup, or wine, dried, baked into goods, or blended (often with sweeter fruit like apple) to balance the tartness.[1][3] Sweetening and cooking turn the harsh raw berry into a richly flavored, deep-purple product.",
+    "caution": "Aronia (Aronia melanocarpa) is entirely non-toxic — its 'choke' reputation is pure astringency from tannins and polyphenols, not poison.[3] Do not confuse it with chokecherry (Prunus virginiana), an unrelated plant whose leaves, twigs, and seed pits ARE cyanide-bearing.[1] As with other pome fruit in the rose family (apple, pear), the seeds contain only trace cyanogenic compounds and are harmless in normal eating; the flesh is safe. The practical caution is simply that the raw berries are intensely astringent and best cooked or frozen before eating.[3][4]"
+  },
+  "references": [
+    {
+      "name": "NC State Extension Plant Toolbox — Aronia melanocarpa",
+      "url": "https://plants.ces.ncsu.edu/plants/aronia-melanocarpa/"
+    },
+    {
+      "name": "University of Minnesota Extension — Black chokeberry",
+      "url": "https://extension.umn.edu/trees-and-shrubs/black-chokeberry"
+    },
+    {
+      "name": "University of Wisconsin–Madison Extension (Crops & Soils) — Aronia Berries",
+      "url": "https://cropsandsoils.extension.wisc.edu/aronia-berries/"
+    },
+    {
+      "name": "Colorado State University Extension — Alternative Small Fruits",
+      "url": "https://extension.colostate.edu/resource/alternative-small-fruits/"
+    }
+  ],
   "shots": [
     {
       "local": "images/fa-habit-t.jpg",

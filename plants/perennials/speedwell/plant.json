@@ -38,12 +38,12 @@
     "seasons": [1],
     "wildlife": [1],
     "deer": [1, 2],
-    "toxic": [2, 3]
+    "toxic": [2]
   },
   "edible": {
     "level": "inedible",
-    "summary": "Spike speedwell is a low-toxicity ornamental with no established food use — not poisonous, but not a food plant.[2][3]",
-    "caution": "Veronica spicata has no recognized culinary use and should not be eaten. The Veronica (speedwell) genus is broadly non-toxic — this species is not listed as poisonous to people, dogs, cats, or horses (ASPCA), and a few relatives (e.g. V. officinalis) have a folk herbal-tea history — but this border ornamental and its named cultivars ('Icicle', 'Royal Candles') are not documented food or medicinal plants, so be conservative and do not consume it. As with any non-food ornamental, eating plant material in quantity may cause mild stomach upset.[2][3]"
+    "summary": "Spike speedwell is a low-toxicity ornamental with no established food use — not poisonous, but not a food plant.[1][2]",
+    "caution": "Veronica spicata has no recognized culinary use and should not be eaten. The Veronica (speedwell) genus is broadly non-toxic and not flagged as poisonous, and a few relatives (e.g. V. officinalis) have a folk herbal-tea history — but this border ornamental and its named cultivars ('Icicle', 'Royal Candles') are not documented food or medicinal plants, so be conservative and do not consume it. As with any non-food ornamental, eating plant material in quantity may cause mild stomach upset.[1][2]"
   },
   "references": [
     {
@@ -53,10 +53,6 @@
     {
       "name": "NC State Extension Plant Toolbox — Veronica (speedwell genus)",
       "url": "https://plants.ces.ncsu.edu/plants/veronica/"
-    },
-    {
-      "name": "ASPCA — Toxic and Non-Toxic Plants (Veronica not listed as toxic to pets)",
-      "url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants"
     }
   ],
   "shots": [

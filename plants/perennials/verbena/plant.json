@@ -38,12 +38,12 @@
     "seasons": [1, 2],
     "wildlife": [1, 2],
     "deer": [1],
-    "toxic": [2, 3]
+    "toxic": [1, 2]
   },
   "edible": {
     "level": "inedible",
-    "summary": "Rose verbena ('Homestead Purple') is an ornamental with no established food use — it is not eaten, though it is not considered notably poisonous to people or pets.[2][3]",
-    "caution": "Glandularia canadensis (rose verbena, formerly Verbena canadensis) has no recognized culinary use and should not be eaten — it is not a food plant, and it is the garden trailing verbena, NOT the medicinal European vervain (Verbena officinalis) it is sometimes confused with, so don't substitute it in herbal preparations. It is not listed as toxic to dogs, cats, or horses by the ASPCA, but, as with any non-food ornamental, ingesting plant material in quantity can cause mild stomach upset. No part is documented as edible.[2][3]"
+    "summary": "Rose verbena ('Homestead Purple') is an ornamental with no established food use — it is not eaten, though it is not flagged as notably poisonous.[1][2]",
+    "caution": "Glandularia canadensis (rose verbena, formerly Verbena canadensis) has no recognized culinary use and should not be eaten — it is not a food plant, and it is the garden trailing verbena, NOT the medicinal European vervain (Verbena officinalis) it is sometimes confused with, so don't substitute it in herbal preparations. It is not flagged as poisonous in the horticultural authorities, but, as with any non-food ornamental, ingesting plant material in quantity can cause mild stomach upset. No part is documented as edible.[1][2]"
   },
   "references": [
     {
@@ -53,10 +53,6 @@
     {
       "name": "Missouri Botanical Garden Plant Finder — Glandularia canadensis",
       "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=287505"
-    },
-    {
-      "name": "ASPCA — Toxic and Non-Toxic Plants (garden/trailing verbena not listed as toxic to pets)",
-      "url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants"
     }
   ],
   "shots": [

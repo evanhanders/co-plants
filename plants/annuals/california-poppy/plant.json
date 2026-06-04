@@ -17,24 +17,41 @@
   "winter": false,
   "verified": "2026-06-01",
   "care": {
-    "hardiness": "Hardy annual / short-lived perennial native to the western US — perfectly suited to Front Range conditions (USDA zones 5b–6a and higher). The seeds are frost-tolerant and winter-sow naturally; plants complete their cycle in one growing season and die at hard frost, relying on self-sown seed to return the following year.",
-    "sun": "Full sun is required — 6+ hours daily minimum. Flowers close at night and in cloudy or cool weather, and plants in shade stay closed and bloom poorly. Boulder's intense high-altitude sun is ideal.",
-    "soil": "Thrives in poor to moderately fertile, very well-drained soil — sandy, gravelly, or rocky ground is perfect. Rich, moist, or heavily amended soil encourages leafy growth and suppresses flowering. Do not add fertilizer or heavy compost. Slightly acidic to neutral pH (6.0–7.0). Colorado's alkaline clay-loam is acceptable as long as drainage is good; on heavy clay, work in grit or plant on a slope.",
-    "water": "Xeric once established — drought-tolerant by nature and seldom needs supplemental water beyond Boulder's natural rainfall once plants have rooted in. Keep the seedbed evenly moist through germination (10–20 days); then taper off and let soil dry between waterings. Overwatering causes root rot and shortens plant life. It does not tolerate waterlogged soil.",
-    "spacing": "Thin or space plants 6–12 in apart; each grows 8–15 in tall and 6–12 in wide. Sow in generous, naturalistic sweeps — thin rather than transplant, as moving established seedlings almost always fails.",
-    "sow": "Direct-sow where it is to grow — California poppy has a taproot and resents any root disturbance, so starting in pots and transplanting does not work. Fall sowing (October–November in Boulder) is ideal: seeds winter-stratify naturally in the soil and germinate as soon as conditions warm in spring. Spring sowing works too — scatter seed on cleared, weed-free ground as soon as soil can be worked, even with frost still possible; a light frost won't harm germinating seed. Seeds germinate in 10–20 days when soil temperatures reach 50–65°F.",
-    "depth": "Press or rake seeds to about 1/8–1/4 in deep and firm the surface gently. Do not bury deeply — seeds need some light and warmth near the surface to sprout. Because of the taproot, sow thinly and thin in place; pulling or digging seedlings kills them.",
-    "bloom": "Late spring through early summer on the Front Range (roughly May–July), then may rebloom lightly in early fall as temperatures cool. Flowers close in intense afternoon heat and at night — this is normal. Peak display is often May and early June.",
-    "feeding": "None needed or wanted. Fertilizer produces rank, floppy foliage at the expense of bloom. Leave the soil lean.",
-    "maintenance": "Essentially none. Deadhead spent flowers to extend blooming if desired, but allow at least some pods to dry and split on the plant for reliable reseeding. The plant goes summer-dormant in extreme heat — this is normal; do not yank it out. Dried stems can be pulled in late summer after pods have shed seed.",
-    "selfsow": "An enthusiastic self-sower on the Front Range — allow pods to ripen and shatter and a new carpet appears the following spring without any replanting. Seeds can lie dormant in the soil for years and germinate when conditions are right. Not invasive and not on any CO noxious weed list; thin or pull volunteers as needed.",
-    "troubles": "Largely trouble-free in Colorado's dry climate. Root rot is the main risk — caused by overwatering or poor drainage, not a pest. Aphids may appear but seldom need action. No significant disease issues in low-humidity Front Range conditions.",
-    "harvest": "Allow seed pods to ripen fully on the plant until tan and about to split. Harvest on a dry day before they pop, or slip a small paper bag over pods and shake. Store seeds cool and dry through winter; they are viable for several years.",
-    "companions": "Naturalize with other drought-tolerant, lean-soil annuals and perennials: Rocky Mountain bee plant, bachelor's button, prairie zinnia, native grasses, horned spurge, or silvery lupine in an informal meadow-style planting.",
-    "planting": "The easiest method is fall sowing (October–November in Boulder): scatter seed directly on cleared, weed-free ground and let winter do the stratifying — seeds lie dormant and germinate as soon as soil temperatures climb in March or April. For spring planting, direct-sow as soon as soil can be worked, even with frost still possible (seeds are frost-tolerant); aim for late March through mid-April. Do not start indoors or transplant — California poppy forms a taproot immediately after sprouting and transplanting almost always kills it. In pots, direct-sow into deep containers (at least 8–10 in) to accommodate the taproot; container plants dry out quickly in Boulder's sun and wind, so check moisture daily once plants are up, and expect a shorter display than in-ground plants once summer heat arrives.",
-    "propagation": "Seed is the only practical method — California poppy does not divide, layer, or root from cuttings because of its taproot. Collect ripe seed (tan pods just before they split) in summer and fall; store cool and dry. Direct-sow either in fall (the preferred method — natural cold-stratification in the soil) or in early spring. The plant self-sows reliably if a few pods are left to shatter, so a well-established patch largely perpetuates itself without any effort. Saving seed from particularly vivid plants is worthwhile since color can vary in a mixed population."
+    "hardiness": "Hardy annual / short-lived perennial native to the western US — perfectly suited to Front Range conditions (USDA zones 5b–6a and higher). The seeds are frost-tolerant and winter-sow naturally; plants complete their cycle in one growing season and die at hard frost, relying on self-sown seed to return the following year.[1][2]",
+    "sun": "Full sun is required — 6+ hours daily minimum. Flowers close at night and in cloudy or cool weather, and plants in shade stay closed and bloom poorly. Boulder's intense high-altitude sun is ideal.[2]",
+    "soil": "Thrives in poor to moderately fertile, very well-drained soil — sandy, gravelly, or rocky ground is perfect. Rich, moist, or heavily amended soil encourages leafy growth and suppresses flowering. Do not add fertilizer or heavy compost. Slightly acidic to neutral pH (6.0–7.0). Colorado's alkaline clay-loam is acceptable as long as drainage is good; on heavy clay, work in grit or plant on a slope.[2]",
+    "water": "Xeric once established — drought-tolerant by nature and seldom needs supplemental water beyond Boulder's natural rainfall once plants have rooted in. Keep the seedbed evenly moist through germination (10–20 days); then taper off and let soil dry between waterings. Overwatering causes root rot and shortens plant life. It does not tolerate waterlogged soil.[2]",
+    "spacing": "Thin or space plants 6–12 in apart; each grows 8–15 in tall and 6–12 in wide. Sow in generous, naturalistic sweeps — thin rather than transplant, as moving established seedlings almost always fails.[2]",
+    "sow": "Direct-sow where it is to grow — California poppy has a taproot and resents any root disturbance, so starting in pots and transplanting does not work. Fall sowing (October–November in Boulder) is ideal: seeds winter-stratify naturally in the soil and germinate as soon as conditions warm in spring. Spring sowing works too — scatter seed on cleared, weed-free ground as soon as soil can be worked, even with frost still possible; a light frost won't harm germinating seed. Seeds germinate in 10–20 days when soil temperatures reach 50–65°F.[1][2]",
+    "depth": "Press or rake seeds to about 1/8–1/4 in deep and firm the surface gently. Do not bury deeply — seeds need some light and warmth near the surface to sprout. Because of the taproot, sow thinly and thin in place; pulling or digging seedlings kills them.[2]",
+    "bloom": "Late spring through early summer on the Front Range (roughly May–July), then may rebloom lightly in early fall as temperatures cool. Flowers close in intense afternoon heat and at night — this is normal. Peak display is often May and early June.[2]",
+    "feeding": "None needed or wanted. Fertilizer produces rank, floppy foliage at the expense of bloom. Leave the soil lean.[2]",
+    "maintenance": "Essentially none. Deadhead spent flowers to extend blooming if desired, but allow at least some pods to dry and split on the plant for reliable reseeding. The plant goes summer-dormant in extreme heat — this is normal; do not yank it out. Dried stems can be pulled in late summer after pods have shed seed.[2]",
+    "selfsow": "An enthusiastic self-sower on the Front Range — allow pods to ripen and shatter and a new carpet appears the following spring without any replanting. Seeds can lie dormant in the soil for years and germinate when conditions are right. Not invasive and not on any CO noxious weed list; thin or pull volunteers as needed.[2]",
+    "troubles": "Largely trouble-free in Colorado's dry climate. Root rot is the main risk — caused by overwatering or poor drainage, not a pest. Aphids may appear but seldom need action. No significant disease issues in low-humidity Front Range conditions.[2]",
+    "harvest": "Allow seed pods to ripen fully on the plant until tan and about to split. Harvest on a dry day before they pop, or slip a small paper bag over pods and shake. Store seeds cool and dry through winter; they are viable for several years.[2]",
+    "companions": "Naturalize with other drought-tolerant, lean-soil annuals and perennials: Rocky Mountain bee plant, bachelor's button, prairie zinnia, native grasses, horned spurge, or silvery lupine in an informal meadow-style planting.[2]",
+    "planting": "The easiest method is fall sowing (October–November in Boulder): scatter seed directly on cleared, weed-free ground and let winter do the stratifying — seeds lie dormant and germinate as soon as soil temperatures climb in March or April. For spring planting, direct-sow as soon as soil can be worked, even with frost still possible (seeds are frost-tolerant); aim for late March through mid-April. Do not start indoors or transplant — California poppy forms a taproot immediately after sprouting and transplanting almost always kills it. In pots, direct-sow into deep containers (at least 8–10 in) to accommodate the taproot; container plants dry out quickly in Boulder's sun and wind, so check moisture daily once plants are up, and expect a shorter display than in-ground plants once summer heat arrives.[1][2]",
+    "propagation": "Seed is the only practical method — California poppy does not divide, layer, or root from cuttings because of its taproot. Collect ripe seed (tan pods just before they split) in summer and fall; store cool and dry. Direct-sow either in fall (the preferred method — natural cold-stratification in the soil) or in early spring. The plant self-sows reliably if a few pods are left to shatter, so a well-established patch largely perpetuates itself without any effort. Saving seed from particularly vivid plants is worthwhile since color can vary in a mixed population.[2]"
   },
-  "care_src": [
+  "fact_src": {
+    "size": [2],
+    "sun": [2],
+    "water": [2],
+    "spread": [2],
+    "seasons": [2],
+    "wildlife": [2],
+    "deer": [2],
+    "toxic": [3]
+  },
+  "edible": {
+    "level": "caution",
+    "summary": "Not a food plant — the whole plant contains opium-poppy-relative alkaloids and is used only as a mild herbal sedative tea or extract, best avoided in pregnancy and before driving.[3]",
+    "parts": "There is no part eaten as ordinary food. The aerial parts (and sometimes the whole plant) are dried and steeped as a traditional calming/sleep tea or taken as a tincture or capsule for anxiety and insomnia; this is herbal-medicine use, not culinary use. The bright flowers are sometimes added to bouquets but are not a salad green or vegetable.[3]",
+    "preparation": "If used at all, it is used as a measured herbal preparation — a tea (roughly 2–3.5 g of dried herb) or a standardized extract — not eaten in quantity. Treat it as a mild medicinal herb, not a food: keep amounts small, and consult a healthcare provider first because it can interact with sedatives and other medications.[3]",
+    "caution": "California poppy contains benzylisoquinoline alkaloids (protopine, allocryptopine, reticuline, californidine and relatives) in the same family as the opium poppy's; these are mildly sedative and can cause drowsiness and nausea, so do not drive or operate machinery after use, and they may produce a positive opiate result on a drug screen. Because it contains opiate-related alkaloids, it should be avoided during pregnancy and breastfeeding, and kept away from children and pets. It is not a casual edible — do not treat the foliage or flowers as a vegetable or eat large amounts.[3]"
+  },
+  "references": [
     {
       "name": "Lady Bird Johnson Wildflower Center — California poppy planting time in Colorado (NPIN)",
       "url": "https://www.wildflower.org/expert/show.php?id=2374"
@@ -42,6 +59,10 @@
     {
       "name": "Missouri Botanical Garden — Plant Finder (Eschscholzia californica)",
       "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=b753"
+    },
+    {
+      "name": "National Capital Poison Center (Poison Control) — What to know about California poppy products",
+      "url": "https://www.poison.org/articles/what-to-know-california-poppy-products-211"
     }
   ],
   "shots": [

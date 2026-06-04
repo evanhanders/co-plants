@@ -17,23 +17,62 @@
   "winter": false,
   "verified": "2026-06-01",
   "care": {
-    "hardiness": "Hardy to USDA Zone 3 (Zone 3–9 across its full range), and fully winter-hardy on the Front Range (Zone 5b–6a). The Colorado Native Plant Society notes it grows to 9,000 ft in Colorado — Boulder winters are no challenge at all. Stems die back to the ground after frost; the spreading rhizome overwinters without protection and re-sprouts vigorously in spring.",
-    "sun": "Full sun is best — 6+ hours produces the tallest, showiest plants and the most pollinator activity. It tolerates light (morning) shade, especially at lower elevations where afternoon heat is intense, but too much shade leads to leggier plants and more powdery mildew. On the Front Range, an open, sunny spot with good airflow is ideal.",
-    "soil": "Adaptable across a wide range — sandy loam, loam, and clay are all fine, from acidic to alkaline (pH well below 6.8 to well above 7.2). It handles the alkaline clay-loam typical of Front Range yards without amendment. Well-drained conditions are preferred but it tolerates moderately moist soil. Lean, unamended soil is actually better than heavily fertilized ground, which makes it floppy. CSU Extension lists it for low-to-moderate moisture, well-drained soils to 9,000 ft.",
-    "water": "Low water once established — a true Front Range survivor. It is drought-tolerant with its deep root and rhizome network, and on the Colorado Native Plant Society's list of low-water-needs plants. Water transplants and first-year plants through their first summer; after that, occasional deep watering during the hottest, driest weeks is sufficient. Avoid overwatering — consistently wet soil encourages powdery mildew and root problems.",
-    "spacing": "Space transplants 24–36 in. apart; plants reach 2–4 ft tall and spread 2–3 ft wide by rhizome. In a naturalized planting the rhizomes expand gently over years — attractive as a drifting colony on a sunny slope. In a formal border, divide every 3–4 years to keep it in bounds and maintain vigor.",
-    "sow": "Start from seed with direct-sowing in fall (preferred), or indoors 8–10 weeks before the last frost (around mid-May in Boulder). No cold stratification required — it germinates readily at room temperature. Scatter seed on the soil surface and press in gently; seeds need light to germinate. Seedlings bloom in their second year; the plant reaches full size by year three.",
-    "depth": "Surface-sow or barely cover with ⅛ in. of fine soil — seeds require light. Germination takes about 1–2 weeks at 65–75°F.",
-    "bloom": "July through September on the Front Range — lavender-pink jester's-hat flowerheads for 4–6 weeks or more in mid-to-late summer. The dried brown seedheads stand attractively through fall and winter, feeding goldfinches and sparrows and providing four-season interest.",
-    "feeding": "Minimal. A light top-dressing of compost in spring is enough. Heavy nitrogen fertilization makes plants leggy and floppy; lean soil keeps them compact and free-flowering.",
-    "maintenance": "Little regular work required. Optionally cut back by half in late June ('Chelsea chop') to delay bloom and produce a bushier, less floppy plant. Deadhead or shear lightly mid-season to encourage a second flush. Leave seedheads standing through winter for birds; cut back dead stems to ground level in late winter or early spring before new growth emerges. Divide crowding clumps every 3–4 years in early spring or fall by digging and splitting the rhizome mass — this restores vigor and improves airflow.",
-    "selfsow": "Spreads primarily by creeping rhizomes, forming steadily expanding clumps. Also self-seeds modestly — not aggressively. On the Front Range it is easy to manage: pull or pot up unwanted rhizome shoots in spring when they are still small.",
-    "troubles": "Powdery mildew is the main Front Range nuisance, especially in humid summers or where airflow is poor. It looks bad but rarely kills the plant. Plant in full sun with adequate spacing, avoid overhead watering, and cut back affected stems. Dividing crowded clumps every few years helps too. Deer and rabbits generally leave it alone due to the strong minty fragrance.",
-    "companions": "Black-eyed Susan, prairie coneflower, blanketflower, little bluestem, aspen fleabane, Rocky Mountain penstemon, and other native meadow perennials with similar low-water, full-sun needs. Its bold lavender heads pair beautifully with the fine texture of ornamental grasses.",
-    "planting": "Set bare-root or container-grown transplants out in spring (late April–May) once the soil has warmed, or in early fall (September) — both windows work well for this tough native. Spring planting allows the plant to spread its rhizome network all season before winter. For fall planting, aim for at least 6 weeks before the first hard frost (early October in Boulder) so roots anchor in. In containers, use a well-drained mix; bergamot grows fine in a large pot but the shallow rhizomes dry out more quickly than in-ground plants — check moisture every couple of days in summer heat. Container roots are much less cold-hardy than in-ground crowns; move pots to an unheated shelter (garage, shed) over winter or sink them into the ground for the season.",
-    "propagation": "Division of the rhizome clump is the primary and easiest method: in early spring (March–April), before growth is more than a few inches tall, dig the outer edge of the clump, break apart sections of rhizome each carrying a few shoots and some roots, and replant 24–36 in apart. Do this every 3–4 years to keep the planting vigorous and prevent the center from dying out. Seed is also reliable: surface-sow on moist growing medium (no stratification required) and press in lightly — seeds need light. Start indoors 8–10 weeks before last frost or direct-sow outdoors in fall for spring germination. Seedlings bloom in their second or third year. Division is far faster to a blooming plant than seed."
+    "hardiness": "Hardy to USDA Zone 3 (Zone 3–9 across its full range), and fully winter-hardy on the Front Range (Zone 5b–6a). The Colorado Native Plant Society notes it grows to 9,000 ft in Colorado — Boulder winters are no challenge at all. Stems die back to the ground after frost; the spreading rhizome overwinters without protection and re-sprouts vigorously in spring.[1][2]",
+    "sun": "Full sun is best — 6+ hours produces the tallest, showiest plants and the most pollinator activity. It tolerates light (morning) shade, especially at lower elevations where afternoon heat is intense, but too much shade leads to leggier plants and more powdery mildew. On the Front Range, an open, sunny spot with good airflow is ideal.[2][3]",
+    "soil": "Adaptable across a wide range — sandy loam, loam, and clay are all fine, from acidic to alkaline (pH well below 6.8 to well above 7.2). It handles the alkaline clay-loam typical of Front Range yards without amendment. Well-drained conditions are preferred but it tolerates moderately moist soil. Lean, unamended soil is actually better than heavily fertilized ground, which makes it floppy. CSU Extension lists it for low-to-moderate moisture, well-drained soils to 9,000 ft.[2][3]",
+    "water": "Low water once established — a true Front Range survivor. It is drought-tolerant with its deep root and rhizome network, and on the Colorado Native Plant Society's list of low-water-needs plants. Water transplants and first-year plants through their first summer; after that, occasional deep watering during the hottest, driest weeks is sufficient. Avoid overwatering — consistently wet soil encourages powdery mildew and root problems.[1][3]",
+    "spacing": "Space transplants 24–36 in. apart; plants reach 2–4 ft tall and spread 2–3 ft wide by rhizome. In a naturalized planting the rhizomes expand gently over years — attractive as a drifting colony on a sunny slope. In a formal border, divide every 3–4 years to keep it in bounds and maintain vigor.[2]",
+    "sow": "Start from seed with direct-sowing in fall (preferred), or indoors 8–10 weeks before the last frost (around mid-May in Boulder). No cold stratification required — it germinates readily at room temperature. Scatter seed on the soil surface and press in gently; seeds need light to germinate. Seedlings bloom in their second year; the plant reaches full size by year three.[2]",
+    "depth": "Surface-sow or barely cover with ⅛ in. of fine soil — seeds require light. Germination takes about 1–2 weeks at 65–75°F.[2]",
+    "bloom": "July through September on the Front Range — lavender-pink jester's-hat flowerheads for 4–6 weeks or more in mid-to-late summer. The dried brown seedheads stand attractively through fall and winter, feeding goldfinches and sparrows and providing four-season interest.[1][3]",
+    "feeding": "Minimal. A light top-dressing of compost in spring is enough. Heavy nitrogen fertilization makes plants leggy and floppy; lean soil keeps them compact and free-flowering.[2]",
+    "maintenance": "Little regular work required. Optionally cut back by half in late June ('Chelsea chop') to delay bloom and produce a bushier, less floppy plant. Deadhead or shear lightly mid-season to encourage a second flush. Leave seedheads standing through winter for birds; cut back dead stems to ground level in late winter or early spring before new growth emerges. Divide crowding clumps every 3–4 years in early spring or fall by digging and splitting the rhizome mass — this restores vigor and improves airflow.[2][3]",
+    "selfsow": "Spreads primarily by creeping rhizomes, forming steadily expanding clumps. Also self-seeds modestly — not aggressively. On the Front Range it is easy to manage: pull or pot up unwanted rhizome shoots in spring when they are still small.[2]",
+    "troubles": "Powdery mildew is the main Front Range nuisance, especially in humid summers or where airflow is poor. It looks bad but rarely kills the plant. Plant in full sun with adequate spacing, avoid overhead watering, and cut back affected stems. Dividing crowded clumps every few years helps too. Deer and rabbits generally leave it alone due to the strong minty fragrance.[2][3]",
+    "companions": "Black-eyed Susan, prairie coneflower, blanketflower, little bluestem, aspen fleabane, Rocky Mountain penstemon, and other native meadow perennials with similar low-water, full-sun needs. Its bold lavender heads pair beautifully with the fine texture of ornamental grasses.[3]",
+    "planting": "Set bare-root or container-grown transplants out in spring (late April–May) once the soil has warmed, or in early fall (September) — both windows work well for this tough native. Spring planting allows the plant to spread its rhizome network all season before winter. For fall planting, aim for at least 6 weeks before the first hard frost (early October in Boulder) so roots anchor in. In containers, use a well-drained mix; bergamot grows fine in a large pot but the shallow rhizomes dry out more quickly than in-ground plants — check moisture every couple of days in summer heat. Container roots are much less cold-hardy than in-ground crowns; move pots to an unheated shelter (garage, shed) over winter or sink them into the ground for the season.[3]",
+    "propagation": "Division of the rhizome clump is the primary and easiest method: in early spring (March–April), before growth is more than a few inches tall, dig the outer edge of the clump, break apart sections of rhizome each carrying a few shoots and some roots, and replant 24–36 in apart. Do this every 3–4 years to keep the planting vigorous and prevent the center from dying out. Seed is also reliable: surface-sow on moist growing medium (no stratification required) and press in lightly — seeds need light. Start indoors 8–10 weeks before last frost or direct-sow outdoors in fall for spring germination. Seedlings bloom in their second or third year. Division is far faster to a blooming plant than seed.[2]"
   },
-  "care_src": [
+  "fact_src": {
+    "size": [
+      2
+    ],
+    "sun": [
+      2,
+      3
+    ],
+    "water": [
+      1,
+      3
+    ],
+    "spread": [
+      2
+    ],
+    "seasons": [
+      1,
+      2
+    ],
+    "wildlife": [
+      1,
+      4
+    ],
+    "deer": [
+      2,
+      4
+    ],
+    "toxic": [
+      4,
+      5
+    ]
+  },
+  "edible": {
+    "level": "edible",
+    "summary": "The aromatic leaves and flowers are a well-documented edible — used fresh or dried as a thyme-scented seasoning and as a mint-family tea — with a long Native American food and beverage history.[4][5]",
+    "parts": "The leaves and the showy lavender flowers are the edible parts. Both are sharply aromatic (the active compound is thymol, the oregano/thyme-scented oil), so they are used as a culinary herb and to brew an herbal tea — the plant is also called 'bee balm' or 'Oswego tea.' Native American records document wild bergamot used as a food flavoring, a cooked-food seasoning, and a beverage by many tribes; the roots and woody stems are not used as food.[4][5]",
+    "preparation": "Use the leaves and flowers fresh or dried. Snip young leaves into salads, soups, beans, or meat dishes as a thyme/oregano substitute, scatter the flowers as a garnish, and steep leaves or flowers (fresh or dried) in hot water for a fragrant tea. The flavor is strong, so use sparingly; harvest leaves just before or at bloom for the most oil.[4][5]",
+    "caution": "Safe in ordinary culinary amounts, but the high thymol content makes it a concentrated essential-oil herb: avoid medicinal/large quantities in pregnancy, and people sensitive to mint-family plants may react. Be sure of your identification — true Monarda has square stems, opposite aromatic leaves, and the distinctive tubular two-lipped 'jester's-hat' flower whorls; don't confuse non-flowering plants with unscented look-alikes.[4][5]"
+  },
+  "references": [
     {
       "name": "Colorado Native Plant Society — Wild Bergamot",
       "url": "https://conps.org/wild-bergamot/"
@@ -45,6 +84,14 @@
     {
       "name": "CSU Extension — Native Herbaceous Perennials for Colorado Landscapes",
       "url": "https://extension.colostate.edu/resource/native-herbaceous-perennials-for-colorado-landscapes/"
+    },
+    {
+      "name": "Native American Ethnobotany Database (BRIT) — Monarda fistulosa food & beverage use",
+      "url": "http://naeb.brit.org/uses/search/?string=Monarda+fistulosa"
+    },
+    {
+      "name": "NC State Extension Gardener Plant Toolbox — Monarda fistulosa (wild bergamot)",
+      "url": "https://plants.ces.ncsu.edu/plants/monarda-fistulosa/"
     }
   ],
   "shots": [

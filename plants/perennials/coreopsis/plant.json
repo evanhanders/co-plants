@@ -17,21 +17,36 @@
   "winter": false,
   "verified": "2026-06-03",
   "care": {
-    "hardiness": "USDA zones 4a–9b; reliably winter-hardy on the Front Range (zones 5b–6a) with good drainage. Note that individual plants are short-lived (often 2–3 years); plan for replacement or allow self-sowing to maintain the planting.",
-    "planting": "Plant in-ground in spring (April–May after last frost) or early fall (September). Good drainage in Front Range clay is important — amend with compost and coarse grit for heavy soils, or site in naturally well-drained spots. Coreopsis is more tolerant of average garden soil than many xeric perennials, but standing water in winter shortens its already brief life. In containers, use a standard well-drained potting mix; check moisture every 2–3 days in summer as pots dry out quickly in Front Range heat and wind. Container plants require winter protection (sheltered spot or sunk in-ground) — roots are less cold-hardy than in-ground crowns.",
-    "sun": "Full sun — 6+ hours of direct sun daily. The most important cultural requirement: shade produces fewer flowers and leggier stems. Tolerates partial shade but flowering suffers noticeably.",
-    "soil": "Average, well-drained soil; tolerates lean to moderate fertility, clay if drainage is adequate, sandy and rocky substrates, and the alkaline pH common to Front Range gardens (6.0–8.0). Overly rich or constantly moist soil produces lush foliage with fewer flowers and accelerates the plant's decline.",
-    "water": "Low to moderate once established — drought-tolerant but more rewarding than most xeric plants with moderate summer watering (every 7–10 days in heat). The drier portion of the garden suits it well. Avoid overwatering, which promotes crown rot and reduces the lifespan.",
-    "spacing": "12–18 in apart; plants reach 18–24 in tall and 12–18 in wide. Set in groups of 3–5 for a generous summer-color impact.",
-    "propagation": "Easily grown from seed — 'Early Sunrise' is a compact cultivar that flowers reliably in its first year from seed, making it behave almost like an annual. Direct-sow outdoors after last frost (mid-May in Boulder) or start indoors 6–8 weeks before last frost; no stratification needed. Germination takes 7–21 days at 65–70°F. Division of established clumps in early spring (April) extends individual plant life and refreshes vigor; divide every 2 years. Self-sown seedlings are the simplest way to maintain an established planting — allow a few spent heads to ripen and shatter in place.",
-    "bloom": "June through September on the Front Range — a long, cheerful season of bright golden-yellow semi-double daisies (2–3 in across) on wiry stems. Peak bloom comes in early summer (June–July) and again in late summer after deadheading. Flower freely through summer heat as long as spent heads are removed.",
-    "feeding": "Minimal — lean to average soil with no supplemental fertilizer is ideal. One light application of balanced slow-release fertilizer in early spring is optional on very poor soils. Excess nitrogen produces lush foliage, fewer flowers, and a shorter-lived plant.",
-    "maintenance": "Deadhead spent flowers regularly (every 1–2 weeks) throughout the season — this is the single most important step for continuous bloom. Allow some seed heads to mature in late summer for self-sowing and goldfinch forage. Cut plants back to a few inches in fall. As individual plants decline after 2–3 years, let self-sown seedlings fill in or divide every other spring.",
-    "selfsow": "Self-sows readily; new seedlings appear in spring and usually flower their first year. Thin or relocate volunteers as needed. Not invasive — a welcome self-perpetuating habit for low-maintenance beds.",
-    "troubles": "Short-lived (2–3 years) — plan for replacement or allow self-sowing. Crown rot in wet, poorly drained soil. Aphids on new growth; aster yellows (phytoplasma) occasionally causes distorted flowers — remove and destroy affected plants. Powdery mildew in humid conditions; good airflow helps.",
-    "companions": "Salvia, Russian sage, catmint, echinacea, rudbeckia, ornamental grasses, shasta daisy, yarrow, black-eyed Susan, and other sun-loving, moderate-water perennials that share the same cheerful summer-color palette."
+    "hardiness": "USDA zones 4a–9b; reliably winter-hardy on the Front Range (zones 5b–6a) with good drainage. Note that individual plants are short-lived (often 2–3 years); plan for replacement or allow self-sowing to maintain the planting.[1][2]",
+    "planting": "Plant in-ground in spring (April–May after last frost) or early fall (September). Good drainage in Front Range clay is important — amend with compost and coarse grit for heavy soils, or site in naturally well-drained spots. Coreopsis is more tolerant of average garden soil than many xeric perennials, but standing water in winter shortens its already brief life. In containers, use a standard well-drained potting mix; check moisture every 2–3 days in summer as pots dry out quickly in Front Range heat and wind. Container plants require winter protection (sheltered spot or sunk in-ground) — roots are less cold-hardy than in-ground crowns.[1][2]",
+    "sun": "Full sun — 6+ hours of direct sun daily. The most important cultural requirement: shade produces fewer flowers and leggier stems. Tolerates partial shade but flowering suffers noticeably.[1][2]",
+    "soil": "Average, well-drained soil; tolerates lean to moderate fertility, clay if drainage is adequate, sandy and rocky substrates, and the alkaline pH common to Front Range gardens (6.0–8.0). Overly rich or constantly moist soil produces lush foliage with fewer flowers and accelerates the plant's decline.[1][2]",
+    "water": "Low to moderate once established — drought-tolerant but more rewarding than most xeric plants with moderate summer watering (every 7–10 days in heat). The drier portion of the garden suits it well. Avoid overwatering, which promotes crown rot and reduces the lifespan.[1][2]",
+    "spacing": "12–18 in apart; plants reach 18–24 in tall and 12–18 in wide. Set in groups of 3–5 for a generous summer-color impact.[1]",
+    "propagation": "Easily grown from seed — 'Early Sunrise' is a compact cultivar that flowers reliably in its first year from seed, making it behave almost like an annual. Direct-sow outdoors after last frost (mid-May in Boulder) or start indoors 6–8 weeks before last frost; no stratification needed. Germination takes 7–21 days at 65–70°F. Division of established clumps in early spring (April) extends individual plant life and refreshes vigor; divide every 2 years. Self-sown seedlings are the simplest way to maintain an established planting — allow a few spent heads to ripen and shatter in place.[1][2]",
+    "bloom": "June through September on the Front Range — a long, cheerful season of bright golden-yellow semi-double daisies (2–3 in across) on wiry stems. Peak bloom comes in early summer (June–July) and again in late summer after deadheading. Flower freely through summer heat as long as spent heads are removed.[1][2]",
+    "feeding": "Minimal — lean to average soil with no supplemental fertilizer is ideal. One light application of balanced slow-release fertilizer in early spring is optional on very poor soils. Excess nitrogen produces lush foliage, fewer flowers, and a shorter-lived plant.[1]",
+    "maintenance": "Deadhead spent flowers regularly (every 1–2 weeks) throughout the season — this is the single most important step for continuous bloom. Allow some seed heads to mature in late summer for self-sowing and goldfinch forage. Cut plants back to a few inches in fall. As individual plants decline after 2–3 years, let self-sown seedlings fill in or divide every other spring.[1]",
+    "selfsow": "Self-sows readily; new seedlings appear in spring and usually flower their first year. Thin or relocate volunteers as needed. Not invasive — a welcome self-perpetuating habit for low-maintenance beds.[1][2]",
+    "troubles": "Short-lived (2–3 years) — plan for replacement or allow self-sowing. Crown rot in wet, poorly drained soil. Aphids on new growth; aster yellows (phytoplasma) occasionally causes distorted flowers — remove and destroy affected plants. Powdery mildew in humid conditions; good airflow helps.[1]",
+    "companions": "Salvia, Russian sage, catmint, echinacea, rudbeckia, ornamental grasses, shasta daisy, yarrow, black-eyed Susan, and other sun-loving, moderate-water perennials that share the same cheerful summer-color palette.[1]"
   },
-  "care_src": [
+  "fact_src": {
+    "size": [1, 2],
+    "sun": [1, 2],
+    "water": [1, 2],
+    "spread": [1, 2],
+    "seasons": [1, 2],
+    "wildlife": [1, 2],
+    "deer": [1],
+    "toxic": [1]
+  },
+  "edible": {
+    "level": "inedible",
+    "summary": "This coreopsis is an ornamental — non-toxic to pets and people but with no established food use, so don't eat it.[1]",
+    "caution": "Coreopsis grandiflora 'Early Sunrise' is grown purely as an ornamental and pollinator plant. NC State's toolbox lists it as non-toxic to dogs, cats, and horses, and it carries no poison rating — but \"non-toxic\" is not the same as edible: it has no established culinary use and no documented safe edible preparation, so it should be treated as a non-food plant. (A few other Coreopsis species have a documented history as a traditional dye or as a brewed tea, but that use is not established for C. grandiflora, so don't extrapolate it.) Don't eat the flowers, foliage, or seeds.[1]"
+  },
+  "references": [
     {
       "name": "NC State Extension Gardener Plant Toolbox — Coreopsis grandiflora",
       "url": "https://plants.ces.ncsu.edu/plants/coreopsis-grandiflora/"

@@ -16,19 +16,36 @@
   "winter": true,
   "verified": "2026-06-03",
   "care": {
-    "hardiness": "USDA zones 3–9 (most cultivars 4–8); completely reliable on the Front Range (~5b–6a). The evergreen mat handles deep cold well provided the soil drains sharply — wet, frozen crowns cause more losses than cold temperatures alone.",
-    "planting": "Set out container plants in spring (Apr–early May) or early fall (Sep) once the worst heat has passed. Plant with the crown exactly at soil level — burying it invites crown rot. In containers, cheddar pinks do well in shallow terracotta or gritty troughs; pot mix must drain sharply (add perlite or fine grit). Container roots are exposed to wider temperature swings — move pots to a sheltered wall over winter or sink them into the ground.",
-    "sun": "Full sun — at least 6 hours of direct sun daily. More sun means sturdier, more compact growth and heavier bloom. Part shade is tolerated but produces looser plants with fewer flowers.",
-    "soil": "Well-drained, gritty, moderately fertile soil is ideal — this plant evolved in limestone screes and thrives in average to slightly alkaline loam with good structure, not truly impoverished ground. Boulder's alkaline clay-loam must be amended with coarse grit or decomposed granite to open drainage; raised beds and rock gardens suit it perfectly. Avoid heavy clay and moisture-retentive mixes. Crown rot is the chief killer; do not mulch over the crown.",
-    "water": "Medium — keep soil moderately moist but never wet; the plant tolerates brief dry spells better than most dianthus but is not a xeric plant. Deep watering once a week in summer heat is a reasonable baseline; let the top inch of soil dry between waterings. Wet foliage and soggy roots rot the crown. Water at the base, not overhead.",
-    "spacing": "Space 12–18 in apart; each mat spreads slowly to 12–18 in wide. In rock gardens or wall crevices, tighter spacing (10–12 in) fills the gap faster.",
-    "propagation": "Easiest by stem cuttings taken in early summer just after the main bloom flush — a 2–3 in non-flowering shoot rooted in gritty mix roots quickly. Division in early spring or after bloom every 3–4 years keeps the mat vigorous as centers die back. Seed is also viable — direct sow or start indoors 6–8 weeks before last frost; barely cover seed, as germination needs light.",
-    "bloom": "May through June on the Front Range (main flush); with prompt deadheading expect intermittent pink flowers throughout summer into early fall. The clove-carnation fragrance is strongest on warm afternoons.",
-    "feeding": "Very light feeding only — an all-purpose liquid fertilizer at half-strength every 6–8 weeks during the growing season is ample. Rich fertilization produces lush, floppy growth and fewer flowers. Skip winter feeding entirely.",
-    "maintenance": "Shear plants lightly by one-third immediately after the main June bloom to encourage a tidy, compact mat and trigger rebloom. Deadhead through summer. Remove any dead, brown patches in spring and trim winter-damaged tips. Divide every 3–4 years when the center dies out. Do not mulch over the crown; leave it exposed for airflow.",
-    "troubles": "Crown rot in wet or poorly drained soil is the main enemy — the fix is sharper drainage, not pesticide. Rust and leaf-spot can appear in humid summers; good airflow and base-only watering prevent them. No serious pests; deer and rabbits leave it alone."
+    "hardiness": "USDA zones 3–9 (most cultivars 4–8); completely reliable on the Front Range (~5b–6a). The evergreen mat handles deep cold well provided the soil drains sharply — wet, frozen crowns cause more losses than cold temperatures alone.[1][2]",
+    "planting": "Set out container plants in spring (Apr–early May) or early fall (Sep) once the worst heat has passed. Plant with the crown exactly at soil level — burying it invites crown rot. In containers, cheddar pinks do well in shallow terracotta or gritty troughs; pot mix must drain sharply (add perlite or fine grit). Container roots are exposed to wider temperature swings — move pots to a sheltered wall over winter or sink them into the ground.[2][3]",
+    "sun": "Full sun — at least 6 hours of direct sun daily. More sun means sturdier, more compact growth and heavier bloom. Part shade is tolerated but produces looser plants with fewer flowers.[1][2]",
+    "soil": "Well-drained, gritty, moderately fertile soil is ideal — this plant evolved in limestone screes and thrives in average to slightly alkaline loam with good structure, not truly impoverished ground. Boulder's alkaline clay-loam must be amended with coarse grit or decomposed granite to open drainage; raised beds and rock gardens suit it perfectly. Avoid heavy clay and moisture-retentive mixes. Crown rot is the chief killer; do not mulch over the crown.[1][2]",
+    "water": "Medium — keep soil moderately moist but never wet; the plant tolerates brief dry spells better than most dianthus but is not a xeric plant. Deep watering once a week in summer heat is a reasonable baseline; let the top inch of soil dry between waterings. Wet foliage and soggy roots rot the crown. Water at the base, not overhead.[1][3]",
+    "spacing": "Space 12–18 in apart; each mat spreads slowly to 12–18 in wide. In rock gardens or wall crevices, tighter spacing (10–12 in) fills the gap faster.[1]",
+    "propagation": "Easiest by stem cuttings taken in early summer just after the main bloom flush — a 2–3 in non-flowering shoot rooted in gritty mix roots quickly. Division in early spring or after bloom every 3–4 years keeps the mat vigorous as centers die back. Seed is also viable — direct sow or start indoors 6–8 weeks before last frost; barely cover seed, as germination needs light.[1][2]",
+    "bloom": "May through June on the Front Range (main flush); with prompt deadheading expect intermittent pink flowers throughout summer into early fall. The clove-carnation fragrance is strongest on warm afternoons.[1][2]",
+    "feeding": "Very light feeding only — an all-purpose liquid fertilizer at half-strength every 6–8 weeks during the growing season is ample. Rich fertilization produces lush, floppy growth and fewer flowers. Skip winter feeding entirely.[1][3]",
+    "maintenance": "Shear plants lightly by one-third immediately after the main June bloom to encourage a tidy, compact mat and trigger rebloom. Deadhead through summer. Remove any dead, brown patches in spring and trim winter-damaged tips. Divide every 3–4 years when the center dies out. Do not mulch over the crown; leave it exposed for airflow.[1][2]",
+    "troubles": "Crown rot in wet or poorly drained soil is the main enemy — the fix is sharper drainage, not pesticide. Rust and leaf-spot can appear in humid summers; good airflow and base-only watering prevent them. No serious pests; deer and rabbits leave it alone.[1][2]"
   },
-  "care_src": [
+  "fact_src": {
+    "size": [1, 2],
+    "sun": [1, 2],
+    "water": [1, 3],
+    "spread": [1, 2],
+    "seasons": [1, 2],
+    "wildlife": [2],
+    "deer": [2],
+    "toxic": [2, 4]
+  },
+  "edible": {
+    "level": "edible",
+    "summary": "The fringed petals are edible — a classic clove-scented edible flower for salads, desserts, and crystallizing — but trim off the bitter white petal base first, and do not eat the leaves or stems.[4]",
+    "parts": "Only the flower petals are eaten. Dianthus petals (the whole Dianthus genus — pinks and carnations) are a long-established edible flower, prized for a sweet, spicy, clove-like flavor. The bitter, narrow white heel at the base of each petal is not edible and is removed before use. The leaves and stems are not food.[4]",
+    "preparation": "Pull the petals from the calyx, snip away the bitter white base of each petal, then use the colored portion fresh in salads, scattered over desserts, or crystallized with sugar to decorate cakes. Use only flowers grown without pesticides, and be certain of the identification before eating any flower.[4]",
+    "caution": "Eat the petals only — the leaves and stems contain triterpenoid saponins and can cause mild gastrointestinal upset (including vomiting) if eaten and mild contact dermatitis on sensitive skin. The whole plant (notably the foliage) is listed as toxic to dogs, cats, and horses by the ASPCA, so keep pets from grazing it. Always remove the bitter white petal base, and use only pesticide-free, correctly identified flowers.[2][4]"
+  },
+  "references": [
     {
       "name": "Missouri Botanical Garden Plant Finder — Dianthus gratianopolitanus",
       "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=279029"
@@ -40,6 +57,10 @@
     {
       "name": "Colorado State University — Growing Dianthus",
       "url": "https://source.colostate.edu/tip-for-growing-the-darling-dianthus/"
+    },
+    {
+      "name": "NC State Extension Plant Toolbox — Dianthus (genus: petals edible, bitter base removed; leaf saponin toxicity)",
+      "url": "https://plants.ces.ncsu.edu/plants/dianthus/"
     }
   ],
   "shots": [

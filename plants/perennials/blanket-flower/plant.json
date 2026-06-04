@@ -17,24 +17,63 @@
   "winter": false,
   "verified": "2026-06-03",
   "care": {
-    "hardiness": "USDA zones 3a–8b — well within Boulder's 5b–6a range and one of the most cold-hardy Front Range perennials available. It handles late-spring freezes with ease and reliably re-sprouts from the crown.",
-    "planting": "Plant bare-root or container plants in spring (late April–May) or early fall (September) in Boulder. Spring is preferred: plants establish quickly in warming soil and bloom their first summer. Avoid midsummer planting in open, hot sites — the combination of transplant stress and intense Front Range sun is hard on new plants. In containers, use a gritty, free-draining mix (no heavy peat); pots dry out much faster than in-ground beds in Colorado's arid climate, so check moisture daily in summer. Container plants can overwinter outdoors if the pot is large (≥5 gal), insulated, or set in a sheltered spot — the crown is cold-hardy but the roots in a small pot are far more exposed than in the ground.",
-    "sun": "Full sun is non-negotiable — 6 or more hours of direct sun daily. Blanket flower planted in part shade blooms poorly, flops, and rots more readily. The intense high-altitude sun of the Front Range suits it perfectly.",
-    "soil": "Well-drained to very dry soil is essential; root rot is the primary killer when drainage is poor. Sandy loam, rocky soil, or even gravel works well. It tolerates lean, infertile soil — do not amend heavily. In Boulder's native alkaline clay, break it up with coarse grit or plant on a slight slope or berm rather than in a low spot that holds moisture. Soil pH slightly acidic to neutral (below 8.0) is best; very high pH can cause chlorosis but plants usually adapt.",
-    "water": "Low once established — deep but infrequent watering every 1–2 weeks in summer heat is plenty. Overwatering or consistently moist soil is the fastest way to kill it. During establishment (first season), water every few days until roots settle, then taper off. In Boulder's semi-arid climate (~15–18 in/yr), established plants often get by on rainfall alone in normal years.",
-    "spacing": "Space plants 12–18 in. apart; each forms a clump 1–2 ft wide at maturity. For a meadow planting, 18 in. centers give airflow and room to spread. Seed-sown drifts can be thinned to 12–18 in. once seedlings are a few inches tall.",
-    "sow": "Direct-sow outdoors in fall (October–November) or spring (after last frost, mid-May in Boulder). Fall sowing lets winter cold-stratify seed naturally for the best spring germination. Press seed into firm, weed-free soil and keep the seedbed moist until emergence. Can also be started indoors 6–8 weeks before last frost in a sunny south window.",
-    "stratify": "Seed does not require cold stratification to germinate, but germination is notoriously variable and erratic — expect uneven flushes over several weeks. Sowing fresh seed in fall and letting winter do its work produces the most reliable stand; stored seed can be sown without treatment in spring.",
-    "depth": "Sow at 1/8 in. depth (barely cover) — seeds need light and warmth to germinate. Tamp the surface firmly after sowing. Germination typically takes 10–20 days in warm soil (65–70°F).",
-    "bloom": "June through September on the Front Range, with the peak display in July–August. Deadheading spent flowers extends bloom by preventing seed set. Leave the last flush of seedheads standing through fall and winter for goldfinch food and modest winter structure.",
-    "feeding": "None needed, and rich fertilizer is counterproductive — it promotes lush, floppy growth at the expense of flowers and weakens the drought-hardened character of the plant. A top-dressing of coarse grit or fine gravel mulch (rather than wood-chip mulch) improves drainage and keeps the crown dry.",
-    "maintenance": "Deadhead regularly through the season to keep plants blooming vigorously. Cut back to basal foliage in early spring once new growth emerges — avoid cutting back in fall in Boulder, as the old stems provide some crown protection through the freeze-thaw cycles. Divide every 2–3 years in early spring to rejuvenate plants and prevent the center from dying out; it is naturally short-lived and division is the best way to keep a colony going.",
-    "selfsow": "Self-sows modestly — seed-grown offspring may not be identical to named cultivars. Leave a few seedheads at season end and expect a scattering of volunteers the following spring; thin to desired spacing.",
-    "propagation": "By seed: direct-sow in fall or spring (see above); germination is variable but plants often bloom in their first year from an early sowing. By division: divide the taproot vertically in early spring, making sure each division has roots and at least one shoot bud — this is the best method for maintaining named cultivars. Root cuttings taken in early spring (2–3 in. sections of the fleshy root) also root readily when inserted into gritty mix.",
-    "troubles": "Root rot in clay or poorly drained soil is the most common problem in Boulder — improve drainage rather than watering less as a fix. Powdery mildew can appear in crowded, low-airflow situations; good spacing prevents it. Aster yellows (phytoplasma, spread by leafhoppers) causes distorted, yellowed flowers — remove and dispose of affected plants. Generally pest-free; short life span (2–4 years) is normal for the species and not a disease.",
-    "companions": "Little bluestem, blue flax (*Linum lewisii*), prairie zinnia, purple coneflower, Rocky Mountain bee plant, and other xeric native perennials and grasses that share full sun and lean-soil requirements."
+    "hardiness": "USDA zones 3a–8b — well within Boulder's 5b–6a range and one of the most cold-hardy Front Range perennials available. It handles late-spring freezes with ease and reliably re-sprouts from the crown.[1][2]",
+    "planting": "Plant bare-root or container plants in spring (late April–May) or early fall (September) in Boulder. Spring is preferred: plants establish quickly in warming soil and bloom their first summer. Avoid midsummer planting in open, hot sites — the combination of transplant stress and intense Front Range sun is hard on new plants. In containers, use a gritty, free-draining mix (no heavy peat); pots dry out much faster than in-ground beds in Colorado's arid climate, so check moisture daily in summer. Container plants can overwinter outdoors if the pot is large (≥5 gal), insulated, or set in a sheltered spot — the crown is cold-hardy but the roots in a small pot are far more exposed than in the ground.[2]",
+    "sun": "Full sun is non-negotiable — 6 or more hours of direct sun daily. Blanket flower planted in part shade blooms poorly, flops, and rots more readily. The intense high-altitude sun of the Front Range suits it perfectly.[1][2]",
+    "soil": "Well-drained to very dry soil is essential; root rot is the primary killer when drainage is poor. Sandy loam, rocky soil, or even gravel works well. It tolerates lean, infertile soil — do not amend heavily. In Boulder's native alkaline clay, break it up with coarse grit or plant on a slight slope or berm rather than in a low spot that holds moisture. Soil pH slightly acidic to neutral (below 8.0) is best; very high pH can cause chlorosis but plants usually adapt.[2]",
+    "water": "Low once established — deep but infrequent watering every 1–2 weeks in summer heat is plenty. Overwatering or consistently moist soil is the fastest way to kill it. During establishment (first season), water every few days until roots settle, then taper off. In Boulder's semi-arid climate (~15–18 in/yr), established plants often get by on rainfall alone in normal years.[1][2]",
+    "spacing": "Space plants 12–18 in. apart; each forms a clump 1–2 ft wide at maturity. For a meadow planting, 18 in. centers give airflow and room to spread. Seed-sown drifts can be thinned to 12–18 in. once seedlings are a few inches tall.[2]",
+    "sow": "Direct-sow outdoors in fall (October–November) or spring (after last frost, mid-May in Boulder). Fall sowing lets winter cold-stratify seed naturally for the best spring germination. Press seed into firm, weed-free soil and keep the seedbed moist until emergence. Can also be started indoors 6–8 weeks before last frost in a sunny south window.[2]",
+    "stratify": "Seed does not require cold stratification to germinate, but germination is notoriously variable and erratic — expect uneven flushes over several weeks. Sowing fresh seed in fall and letting winter do its work produces the most reliable stand; stored seed can be sown without treatment in spring.[2]",
+    "depth": "Sow at 1/8 in. depth (barely cover) — seeds need light and warmth to germinate. Tamp the surface firmly after sowing. Germination typically takes 10–20 days in warm soil (65–70°F).[2]",
+    "bloom": "June through September on the Front Range, with the peak display in July–August. Deadheading spent flowers extends bloom by preventing seed set. Leave the last flush of seedheads standing through fall and winter for goldfinch food and modest winter structure.[1][2]",
+    "feeding": "None needed, and rich fertilizer is counterproductive — it promotes lush, floppy growth at the expense of flowers and weakens the drought-hardened character of the plant. A top-dressing of coarse grit or fine gravel mulch (rather than wood-chip mulch) improves drainage and keeps the crown dry.[2]",
+    "maintenance": "Deadhead regularly through the season to keep plants blooming vigorously. Cut back to basal foliage in early spring once new growth emerges — avoid cutting back in fall in Boulder, as the old stems provide some crown protection through the freeze-thaw cycles. Divide every 2–3 years in early spring to rejuvenate plants and prevent the center from dying out; it is naturally short-lived and division is the best way to keep a colony going.[1][2]",
+    "selfsow": "Self-sows modestly — seed-grown offspring may not be identical to named cultivars. Leave a few seedheads at season end and expect a scattering of volunteers the following spring; thin to desired spacing.[2]",
+    "propagation": "By seed: direct-sow in fall or spring (see above); germination is variable but plants often bloom in their first year from an early sowing. By division: divide the taproot vertically in early spring, making sure each division has roots and at least one shoot bud — this is the best method for maintaining named cultivars. Root cuttings taken in early spring (2–3 in. sections of the fleshy root) also root readily when inserted into gritty mix.[2]",
+    "troubles": "Root rot in clay or poorly drained soil is the most common problem in Boulder — improve drainage rather than watering less as a fix. Powdery mildew can appear in crowded, low-airflow situations; good spacing prevents it. Aster yellows (phytoplasma, spread by leafhoppers) causes distorted, yellowed flowers — remove and dispose of affected plants. Generally pest-free; short life span (2–4 years) is normal for the species and not a disease.[2]",
+    "companions": "Little bluestem, blue flax (*Linum lewisii*), prairie zinnia, purple coneflower, Rocky Mountain bee plant, and other xeric native perennials and grasses that share full sun and lean-soil requirements.[1]"
   },
-  "care_src": [
+  "fact_src": {
+    "size": [
+      1,
+      2
+    ],
+    "sun": [
+      1,
+      2
+    ],
+    "water": [
+      1,
+      2
+    ],
+    "spread": [
+      1,
+      2
+    ],
+    "seasons": [
+      1,
+      2
+    ],
+    "wildlife": [
+      1,
+      2
+    ],
+    "deer": [
+      1,
+      2
+    ],
+    "toxic": [
+      2,
+      3
+    ]
+  },
+  "edible": {
+    "level": "inedible",
+    "summary": "Blanket flower is not a food plant — there is no culinary use; it has traditional medicinal use only, which is not eating, and its hairy foliage can irritate skin.[2][3]",
+    "caution": "Gaillardia aristata is grown as an ornamental and pollinator plant, not as food — there is no established edible use of its flowers, leaves, seeds, or roots. Native American records document it only for non-food medicinal purposes (e.g., as eyewashes and remedies); a traditional medicinal mention is not a license to eat it. The hairy, mildly aromatic foliage can cause contact dermatitis in sensitive people, so wear gloves if you're prone to skin reactions. It is not reported as systemically poisonous, but treat it as inedible.[2][3]"
+  },
+  "references": [
     {
       "name": "Lady Bird Johnson Wildflower Center — Gaillardia aristata",
       "url": "https://www.wildflower.org/plants/result.php?id_plant=GAAR"
@@ -42,6 +81,10 @@
     {
       "name": "NC State Extension — Gaillardia aristata",
       "url": "https://plants.ces.ncsu.edu/plants/gaillardia-aristata/"
+    },
+    {
+      "name": "Native American Ethnobotany Database (BRIT) — Gaillardia aristata medicinal use records",
+      "url": "http://naeb.brit.org/uses/search/?string=Gaillardia+aristata"
     }
   ],
   "shots": [

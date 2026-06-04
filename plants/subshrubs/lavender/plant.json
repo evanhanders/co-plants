@@ -16,19 +16,36 @@
   "winter": true,
   "verified": "2026-06-03",
   "care": {
-    "hardiness": "English lavender (*L. angustifolia*) is the hardiest type for Colorado, rated USDA zone 5 and often performing in zone 4 with good drainage. Cultivars 'Munstead' and 'Hidcote' are the most reliably winter-hardy on the Front Range (zones 5b–6a). Plants may die back to the woody base in harsh winters but resprout from the crown if drainage was sharp and the crown stayed dry — wet, frozen soil is far more lethal than cold alone.",
-    "planting": "Plant in spring (Apr–May) or early fall (Sep) from nursery-grown, vegetatively propagated stock — English lavender does not come reliably true from seed. Fall planting has been shown to produce better survival and faster establishment in Colorado. Set the crown slightly above the surrounding soil level to promote drainage, and surround with gravel mulch to keep the crown dry. In containers, lavender looks beautiful but roots are exposed to lethal freeze-thaw cycles; use a large pot with drainage holes, a gritty mix, and overwinter in a cold but frost-free space (unheated shed or garage) — or sink the pot to the rim in the ground from October through April.",
-    "sun": "Full sun is essential — 6–8 hours minimum. In shade plants become loose, floppy, and bloom poorly. Colorado's intense high-altitude sun and low humidity perfectly match lavender's Mediterranean origins.",
-    "soil": "Lean, well-drained, alkaline to neutral soil is ideal — lavender was made for Colorado's alkaline clay-loam as long as drainage is sharp. Amend heavy clay with coarse gravel or grit (not just organic matter) to open up the structure; raised beds and gravelly slopes are excellent. Avoid rich, constantly moist, or organically heavy soils, which produce lush but short-lived, poorly fragranced plants prone to root rot. The crown must never sit in water.",
-    "water": "Low. Once established (after the first season), water deeply but infrequently — every 2–3 weeks until buds form, then once or twice weekly through the bloom period. Newly planted lavender needs weekly water the first summer. Reduce water sharply in late summer, but do not cut off entirely — CSU Extension advises that the root zone should not be allowed to dry out completely during winter. Overwatering and winter wetness are the top killers; the goal is moist (not wet) soil at the crown through dormancy.",
-    "spacing": "Space plants 2–3 ft apart in landscape beds (3–6 ft between rows in a lavender field). Lavender needs good airflow around its crown to reduce moisture and discourage fungal problems — don't crowd it.",
-    "propagation": "Take semi-hardwood cuttings immediately after the first bloom flush (July), from non-flowering side shoots. Strip the lower leaves, insert into well-draining potting soil or vermiculite, and keep lightly moist; roots form in about 3 weeks with no rooting hormone. Do not attempt to grow named cultivars from seed — they will not come true. Division is possible but lavender resents root disturbance; cuttings are far more reliable.",
-    "bloom": "Primary bloom June–July on the Front Range; English lavender often reblooms in late August–September if the first flush is cut back promptly after flowering. Harvest stems in the morning when roughly half the flowers on a spike have opened — this produces the longest-lasting fragrance for drying.",
-    "feeding": "Little to none. A very light application of a balanced fertilizer in early spring is sufficient for plants in lean soil; skip feeding entirely in average or rich soil. High-nitrogen fertilizer produces rank, floppy growth with reduced fragrance and poor winter hardiness.",
-    "maintenance": "Prune once a year in spring — when green basal leaves emerge from the crown, cut back by about one-third of the previous year's top growth, shaping into a rounded mound. Never cut into old, bare, leafless wood below the green zone; lavender does not regenerate from purely woody stems. Remove old flower stalks when blooms fade to encourage reblooming. Do not cut back hard in fall. After several years, plants become woody and bloom less; plan to replace or take fresh cuttings every 5–8 years.",
-    "troubles": "Root rot from poor drainage is the primary problem in Colorado. Shab (Phoma lavandulae) and other fungal issues arise in wet conditions or crowded plantings — sharp drainage and good airflow prevent both. Grasshoppers can damage foliage in heavy years. Otherwise largely pest- and disease-free. A sudden die-off of one half of the crown ('lavender dieback') usually traces back to a wet winter or a drainage low spot."
+    "hardiness": "English lavender (*L. angustifolia*) is the hardiest type for Colorado, rated USDA zone 5 and often performing in zone 4 with good drainage. Cultivars 'Munstead' and 'Hidcote' are the most reliably winter-hardy on the Front Range (zones 5b–6a). Plants may die back to the woody base in harsh winters but resprout from the crown if drainage was sharp and the crown stayed dry — wet, frozen soil is far more lethal than cold alone.[1][3]",
+    "planting": "Plant in spring (Apr–May) or early fall (Sep) from nursery-grown, vegetatively propagated stock — English lavender does not come reliably true from seed. Fall planting has been shown to produce better survival and faster establishment in Colorado. Set the crown slightly above the surrounding soil level to promote drainage, and surround with gravel mulch to keep the crown dry. In containers, lavender looks beautiful but roots are exposed to lethal freeze-thaw cycles; use a large pot with drainage holes, a gritty mix, and overwinter in a cold but frost-free space (unheated shed or garage) — or sink the pot to the rim in the ground from October through April.[1][2]",
+    "sun": "Full sun is essential — 6–8 hours minimum. In shade plants become loose, floppy, and bloom poorly. Colorado's intense high-altitude sun and low humidity perfectly match lavender's Mediterranean origins.[1][2]",
+    "soil": "Lean, well-drained, alkaline to neutral soil is ideal — lavender was made for Colorado's alkaline clay-loam as long as drainage is sharp. Amend heavy clay with coarse gravel or grit (not just organic matter) to open up the structure; raised beds and gravelly slopes are excellent. Avoid rich, constantly moist, or organically heavy soils, which produce lush but short-lived, poorly fragranced plants prone to root rot. The crown must never sit in water.[1][2]",
+    "water": "Low. Once established (after the first season), water deeply but infrequently — every 2–3 weeks until buds form, then once or twice weekly through the bloom period. Newly planted lavender needs weekly water the first summer. Reduce water sharply in late summer, but do not cut off entirely — CSU Extension advises that the root zone should not be allowed to dry out completely during winter. Overwatering and winter wetness are the top killers; the goal is moist (not wet) soil at the crown through dormancy.[1]",
+    "spacing": "Space plants 2–3 ft apart in landscape beds (3–6 ft between rows in a lavender field). Lavender needs good airflow around its crown to reduce moisture and discourage fungal problems — don't crowd it.[1]",
+    "propagation": "Take semi-hardwood cuttings immediately after the first bloom flush (July), from non-flowering side shoots. Strip the lower leaves, insert into well-draining potting soil or vermiculite, and keep lightly moist; roots form in about 3 weeks with no rooting hormone. Do not attempt to grow named cultivars from seed — they will not come true. Division is possible but lavender resents root disturbance; cuttings are far more reliable.[1][3]",
+    "bloom": "Primary bloom June–July on the Front Range; English lavender often reblooms in late August–September if the first flush is cut back promptly after flowering. Harvest stems in the morning when roughly half the flowers on a spike have opened — this produces the longest-lasting fragrance for drying.[1][2]",
+    "feeding": "Little to none. A very light application of a balanced fertilizer in early spring is sufficient for plants in lean soil; skip feeding entirely in average or rich soil. High-nitrogen fertilizer produces rank, floppy growth with reduced fragrance and poor winter hardiness.[1]",
+    "maintenance": "Prune once a year in spring — when green basal leaves emerge from the crown, cut back by about one-third of the previous year's top growth, shaping into a rounded mound. Never cut into old, bare, leafless wood below the green zone; lavender does not regenerate from purely woody stems. Remove old flower stalks when blooms fade to encourage reblooming. Do not cut back hard in fall. After several years, plants become woody and bloom less; plan to replace or take fresh cuttings every 5–8 years.[1][2]",
+    "troubles": "Root rot from poor drainage is the primary problem in Colorado. Shab (Phoma lavandulae) and other fungal issues arise in wet conditions or crowded plantings — sharp drainage and good airflow prevent both. Grasshoppers can damage foliage in heavy years. Otherwise largely pest- and disease-free. A sudden die-off of one half of the crown ('lavender dieback') usually traces back to a wet winter or a drainage low spot.[1]"
   },
-  "care_src": [
+  "fact_src": {
+    "size": [3],
+    "sun": [1, 2],
+    "water": [1],
+    "spread": [3],
+    "seasons": [1, 3],
+    "wildlife": [3],
+    "deer": [3],
+    "toxic": [3, 4]
+  },
+  "edible": {
+    "level": "edible",
+    "summary": "The flowers and flower buds are edible and widely used as a culinary herb — but in small amounts, and the strongly aromatic leaves and stems can cause nausea if eaten in quantity.[3]",
+    "parts": "The dried (or fresh) flowers and flower buds are the part used in the kitchen — infused into teas, baked into shortbread and other sweets, blended into herbes de Provence, and steeped into vinegars, jellies, and syrups. English lavender (*L. angustifolia*) is the type grown for culinary use because it is lower in camphor than the lavandins; use a light hand, as the flavor is intense and turns soapy or bitter when overdone.[3]",
+    "preparation": "Use the flowers sparingly — a pinch where you'd use any strong herb. Harvest spikes in the morning when about half the florets have opened, then dry them for the longest-lasting flavor. Strip the tiny florets from the stems before adding to food; steep for teas. Lavender pairs with both sweet (baking, honey) and savory (lamb, herbes de Provence) dishes but is easy to overuse.[3]",
+    "caution": "Although the flowers are a recognized culinary herb, lavender carries a low-severity toxicity rating: the flowers, leaves, and stems contain the essential-oil compounds linalool and linalyl acetate, and eating the foliage — or too much of the flower — can cause nausea, vomiting, and loss of appetite. It is also toxic to dogs, cats, and horses if ingested, so keep pets from grazing it. Lavender essential oil is far more concentrated than the herb and should never be taken internally. Use the dried flowers in modest culinary amounts only.[3][4]"
+  },
+  "references": [
     {
       "name": "CSU Extension — Growing Lavender in Colorado",
       "url": "https://extension.colostate.edu/resource/growing-lavender-in-colorado/"
@@ -36,6 +53,14 @@
     {
       "name": "PlantTalk Colorado 1015 — Lavender",
       "url": "https://planttalk.colostate.edu/topics/annuals-perennials/1015-lavender/"
+    },
+    {
+      "name": "NC State Extension Gardener Plant Toolbox — Lavandula angustifolia",
+      "url": "https://plants.ces.ncsu.edu/plants/lavandula-angustifolia/"
+    },
+    {
+      "name": "ASPCA Animal Poison Control — Lavender (Lavandula angustifolia)",
+      "url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/lavender"
     }
   ],
   "shots": [

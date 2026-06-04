@@ -17,24 +17,76 @@
   "winter": false,
   "verified": "2026-06-01",
   "care": {
-    "hardiness": "USDA zones 4–9 — fully winter-hardy on the Front Range (5b–6a). The rhizomes go fully dormant after frost and re-sprout reliably in spring. No special winter mulching is needed in Boulder.",
-    "sun": "Full sun to part shade. In the dry, high-altitude Front Range climate, afternoon shade (3–4 hours) can actually help reduce moisture stress and moderate mildew-promoting heat, though full sun with consistent irrigation is the classic recommendation. Avoid deep shade — it reduces bloom and worsens mildew.",
-    "soil": "Rich, moisture-retentive loam or clay-loam — one of the few garden perennials that actively welcomes Boulder's native clay. Amend planting holes generously with compost. pH 6.0–7.0 preferred; on alkaline sites add sulfur or organic matter to bring pH closer to neutral. Unlike most Front Range plants, this one does NOT want lean or sandy soil.",
-    "water": "Moderate to consistently moist — this is the most water-demanding plant in the herbarium. On the semi-arid Front Range (~15–18 in annual rain) it needs regular supplemental irrigation throughout the growing season: aim to keep the top 6 in of soil consistently moist, roughly a deep soak 1–2 times per week in summer heat. Do not let the soil dry out completely; drought stress is a primary trigger for powdery mildew. Use drip irrigation or a soaker hose — overhead sprinklers wet the foliage and worsen mildew.",
-    "spacing": "Space plants 18–24 in apart; mature clumps reach 2–3 ft wide. Generous spacing is the single most effective cultural tool against powdery mildew — tight planting traps humidity. Stake taller plants (3–4 ft) in exposed or windy spots.",
-    "bloom": "Mid-July into September on the Front Range — roughly 6–8 weeks of the scarlet 'mop-head' flowerheads that hummingbirds can't resist. Deadheading spent heads prolongs bloom and tidies the planting.",
-    "feeding": "Enrich the planting hole with compost; top-dress with an inch of compost each spring. A balanced slow-release fertilizer worked in at planting time helps establish vigorous clumps. Avoid high-nitrogen feeds once plants are established — excessive nitrogen drives leafy growth that's more mildew-prone.",
-    "maintenance": "Deadhead spent flowerheads through summer to extend bloom. After the main bloom period ends (late August or September), cut the whole plant back to the ground; removing all foliage eliminates overwintering mildew spores and encourages a clean flush of new growth. In early spring, cut back any remaining dead stems before new shoots emerge. Divide clumps every 3–4 years (in early spring or fall) to prevent the center from dying out, maintain vigor, and keep plants from spreading beyond their allotted space.",
-    "selfsow": "Spreads by shallow underground stolons — it colonizes outward from the original crown each year. The rate is manageable (not weedy), but divide or edge the clump every few years to keep it in bounds. Can also self-sow from seed if flowerheads are left to ripen, but seedling spread is minimal.",
-    "troubles": "Powdery mildew is the main challenge — it appears as a white-gray powdery coating on upper leaf surfaces, usually from midsummer onward, especially in hot, humid, or crowded conditions. Prevention is far more effective than cure: space plants widely, water at the base, choose mildew-resistant cultivars (look for 'Jacob Cline', 'Raspberry Wine', 'Coral Reef', or the 'Bee-Happy' series), and ensure good airflow. If mildew hits hard, cut the plant to the ground after bloom and dispose of the foliage (do not compost). Occasional aphids on new growth; no serious insect pests on the Front Range.",
-    "companions": "Wild bergamot (native cousin, lower water), ornamental grasses, black-eyed Susan, purple coneflower, Joe-Pye weed, and garden phlox — plants that share the 'moist perennial border' niche. Pairing with drought-tolerant xeric plants is a mismatch; site it near a drip zone or rain garden where moisture can be maintained.",
-    "planting": "Plant container-grown stock in spring (late April–May) or early fall (September). Spring is the preferred season on the Front Range: the plant can establish its rhizomes throughout summer under a consistent irrigation schedule, and you can dial in watering before the heat peaks. Fall planting is fine if done at least 6 weeks before the first hard frost (early October in Boulder). Scarlet bee balm is well-suited to a container with rich, moisture-retentive potting mix — but its high water demand makes container culture labor-intensive in Boulder's dry air; check soil moisture daily in summer and water when the top inch dries out. Container roots freeze much more readily than in-ground crowns: overwinter pots in an unheated but frost-protected garage or shelter, or sink the container into the ground through the cold months.",
-    "propagation": "Division is by far the most reliable and productive method. Every 3–4 years in early spring (or immediately after bloom finishes in early fall), dig the clump, shake off the soil, and pull apart the shallow stoloniferous rhizomes into sections of 3–5 shoots with intact roots. Replant divisions immediately 18–24 in apart and water thoroughly. Division simultaneously propagates the plant, renews vigor, and controls spread — it does all three jobs at once. Stem cuttings taken from the new basal growth in spring (3–4 in softwood tip cuttings, stripped of lower leaves) root readily in moist perlite within 3–4 weeks at 65–70°F. Seed is possible but slow — start indoors 8–10 weeks before last frost, no stratification needed, surface-sow at 65–70°F; named cultivars do not come true from seed and must be divided or cut."
+    "hardiness": "USDA zones 4–9 — fully winter-hardy on the Front Range (5b–6a). The rhizomes go fully dormant after frost and re-sprout reliably in spring. No special winter mulching is needed in Boulder.[1]",
+    "sun": "Full sun to part shade. In the dry, high-altitude Front Range climate, afternoon shade (3–4 hours) can actually help reduce moisture stress and moderate mildew-promoting heat, though full sun with consistent irrigation is the classic recommendation. Avoid deep shade — it reduces bloom and worsens mildew.[1][2]",
+    "soil": "Rich, moisture-retentive loam or clay-loam — one of the few garden perennials that actively welcomes Boulder's native clay. Amend planting holes generously with compost. pH 6.0–7.0 preferred; on alkaline sites add sulfur or organic matter to bring pH closer to neutral. Unlike most Front Range plants, this one does NOT want lean or sandy soil.[1]",
+    "water": "Moderate to consistently moist — this is the most water-demanding plant in the herbarium. On the semi-arid Front Range (~15–18 in annual rain) it needs regular supplemental irrigation throughout the growing season: aim to keep the top 6 in of soil consistently moist, roughly a deep soak 1–2 times per week in summer heat. Do not let the soil dry out completely; drought stress is a primary trigger for powdery mildew. Use drip irrigation or a soaker hose — overhead sprinklers wet the foliage and worsen mildew.[1][2]",
+    "spacing": "Space plants 18–24 in apart; mature clumps reach 2–3 ft wide. Generous spacing is the single most effective cultural tool against powdery mildew — tight planting traps humidity. Stake taller plants (3–4 ft) in exposed or windy spots.[1][2]",
+    "bloom": "Mid-July into September on the Front Range — roughly 6–8 weeks of the scarlet 'mop-head' flowerheads that hummingbirds can't resist. Deadheading spent heads prolongs bloom and tidies the planting.[1]",
+    "feeding": "Enrich the planting hole with compost; top-dress with an inch of compost each spring. A balanced slow-release fertilizer worked in at planting time helps establish vigorous clumps. Avoid high-nitrogen feeds once plants are established — excessive nitrogen drives leafy growth that's more mildew-prone.[1]",
+    "maintenance": "Deadhead spent flowerheads through summer to extend bloom. After the main bloom period ends (late August or September), cut the whole plant back to the ground; removing all foliage eliminates overwintering mildew spores and encourages a clean flush of new growth. In early spring, cut back any remaining dead stems before new shoots emerge. Divide clumps every 3–4 years (in early spring or fall) to prevent the center from dying out, maintain vigor, and keep plants from spreading beyond their allotted space.[1][2]",
+    "selfsow": "Spreads by shallow underground stolons — it colonizes outward from the original crown each year. The rate is manageable (not weedy), but divide or edge the clump every few years to keep it in bounds. Can also self-sow from seed if flowerheads are left to ripen, but seedling spread is minimal.[1]",
+    "troubles": "Powdery mildew is the main challenge — it appears as a white-gray powdery coating on upper leaf surfaces, usually from midsummer onward, especially in hot, humid, or crowded conditions. Prevention is far more effective than cure: space plants widely, water at the base, choose mildew-resistant cultivars (look for 'Jacob Cline', 'Raspberry Wine', 'Coral Reef', or the 'Bee-Happy' series), and ensure good airflow. If mildew hits hard, cut the plant to the ground after bloom and dispose of the foliage (do not compost). Occasional aphids on new growth; no serious insect pests on the Front Range.[1][2]",
+    "companions": "Wild bergamot (native cousin, lower water), ornamental grasses, black-eyed Susan, purple coneflower, Joe-Pye weed, and garden phlox — plants that share the 'moist perennial border' niche. Pairing with drought-tolerant xeric plants is a mismatch; site it near a drip zone or rain garden where moisture can be maintained.[1]",
+    "planting": "Plant container-grown stock in spring (late April–May) or early fall (September). Spring is the preferred season on the Front Range: the plant can establish its rhizomes throughout summer under a consistent irrigation schedule, and you can dial in watering before the heat peaks. Fall planting is fine if done at least 6 weeks before the first hard frost (early October in Boulder). Scarlet bee balm is well-suited to a container with rich, moisture-retentive potting mix — but its high water demand makes container culture labor-intensive in Boulder's dry air; check soil moisture daily in summer and water when the top inch dries out. Container roots freeze much more readily than in-ground crowns: overwinter pots in an unheated but frost-protected garage or shelter, or sink the container into the ground through the cold months.[1]",
+    "propagation": "Division is by far the most reliable and productive method. Every 3–4 years in early spring (or immediately after bloom finishes in early fall), dig the clump, shake off the soil, and pull apart the shallow stoloniferous rhizomes into sections of 3–5 shoots with intact roots. Replant divisions immediately 18–24 in apart and water thoroughly. Division simultaneously propagates the plant, renews vigor, and controls spread — it does all three jobs at once. Stem cuttings taken from the new basal growth in spring (3–4 in softwood tip cuttings, stripped of lower leaves) root readily in moist perlite within 3–4 weeks at 65–70°F. Seed is possible but slow — start indoors 8–10 weeks before last frost, no stratification needed, surface-sow at 65–70°F; named cultivars do not come true from seed and must be divided or cut.[1][2]"
   },
-  "care_src": [
+  "fact_src": {
+    "size": [
+      1,
+      2
+    ],
+    "sun": [
+      1,
+      2
+    ],
+    "water": [
+      1
+    ],
+    "spread": [
+      1
+    ],
+    "seasons": [
+      1,
+      2
+    ],
+    "wildlife": [
+      1,
+      2,
+      4
+    ],
+    "deer": [
+      2,
+      3
+    ],
+    "toxic": [
+      2,
+      3
+    ]
+  },
+  "edible": {
+    "level": "edible",
+    "summary": "The fragrant leaves and scarlet flowers are edible — the classic 'Oswego tea' and a citrusy mint-family seasoning and garnish.[2][3]",
+    "parts": "The leaves and the red tubular flowers are the edible parts. Scarlet bee balm is the original 'Oswego tea,' brewed by the Oswego people and adopted by colonists; the leaves carry an oregano-to-citrus mint aroma and the flowers are sweet and showy. Native American records document Monarda didyma used as a beverage and food seasoning. Roots and woody stems are not eaten.[2][3]",
+    "preparation": "Steep fresh or dried leaves (and flowers) in hot water for tea; chop young leaves sparingly into salads, fruit dishes, or as an herb; and scatter the petals as an edible garnish. Harvest leaves around bloom for peak flavor. The taste is strong — use a light hand.[2][3]",
+    "caution": "Safe in normal culinary amounts. Like all the aromatic Monardas it is rich in essential oils (thymol/carvacrol-type compounds), so avoid concentrated medicinal doses, especially in pregnancy, and mint-family-sensitive people may react. Confirm identity by the square stem, opposite aromatic leaves, and red two-lipped whorled flowerheads.[2][3]"
+  },
+  "references": [
     {
       "name": "Missouri Botanical Garden Plant Finder — Monarda didyma",
       "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=q250"
+    },
+    {
+      "name": "NC State Extension Gardener Plant Toolbox — Monarda didyma (scarlet bee balm)",
+      "url": "https://plants.ces.ncsu.edu/plants/monarda-didyma/"
+    },
+    {
+      "name": "Native American Ethnobotany Database (BRIT) — Monarda didyma food & beverage use",
+      "url": "http://naeb.brit.org/uses/search/?string=Monarda+didyma"
+    },
+    {
+      "name": "Lady Bird Johnson Wildflower Center — Monarda didyma",
+      "url": "https://www.wildflower.org/plants/result.php?id_plant=modi"
     }
   ],
   "shots": [

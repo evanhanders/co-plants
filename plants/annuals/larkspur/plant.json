@@ -17,23 +17,38 @@
   "winter": false,
   "verified": "2026-06-03",
   "care": {
-    "hardiness": "Cool-season hardy annual — seed withstands freezing soil, making it ideal for fall sowing or very early spring sowing on the Front Range. Plants grow actively in cool weather (below ~75°F) and bolt or die once sustained summer heat arrives. Not winter-hardy as a plant, but fall-sown seeds overwinter in the ground and germinate naturally in late winter/early spring.",
-    "planting": "Direct sowing is strongly preferred — larkspur has a fragile taproot and resents root disturbance. Sow seed directly where it will grow and bloom. Best timing in Colorado: fall sowing (September–November) is the preferred method — scatter seed on prepared soil before the ground freezes, let winter cold-stratify the seed naturally, and the plants emerge and bloom the following May–June. Early spring sowing also works: sow as soon as the soil is workable (March–April, even into a light snow), pressing seed firmly into moist soil. Summer heat is the enemy — the earlier the seed is in the ground, the better. If starting indoors, sow in individual deep pots or plug cells 5–7 weeks before transplanting out, keep at 55°F (13°C), and transplant with minimal root disturbance before plants become pot-bound.",
-    "sun": "Full sun is essential for sturdy, upright stems — 6+ hours of direct sun daily. Part shade produces floppy plants that lean and bloom poorly. In Boulder's intense high-altitude sun, a position with slight afternoon shade extends the bloom a bit in hot springs.",
-    "soil": "Prefers loose, moderately fertile, well-drained soil. Tolerates slightly alkaline conditions (near-neutral to mildly alkaline pH is fine), making it compatible with typical Front Range soils. Work compost into heavy clay before sowing to improve drainage; waterlogging rots seedlings. A lean-to-moderate soil keeps plants upright — very rich soil produces tall, floppy stems.",
-    "water": "Moderate while actively growing — keep the seedbed and young plants evenly moist until established. Once plants are growing vigorously, water deeply every 5–7 days in dry spring weather. Ease off as summer heat approaches. Avoid overhead watering on dense stands to reduce mildew.",
-    "spacing": "Thin seedlings to 8–12 in. apart once they reach 2–3 in. tall. Larkspur looks best in generous drifts of 20 or more plants; broadcast-sow and then thin rather than planting in rows.",
-    "propagation": "Seed only — as a taprooted annual it lives one season and can't be divided or rooted from cuttings. Direct sowing where it's to grow is best (see Sowing); if transplanting from indoor starts, use deep individual pots and handle roots carefully. Let a few spikes ripen and shatter and it returns from self-sown seed; collect the dry seed pods for sowing elsewhere.",
-    "sow": "Broadcast or scatter seed on weed-free, loosely raked soil and tamp it firmly into contact with the soil surface. Fall sowing: scatter in September through November before ground freezes — no pre-treatment needed. Early spring sowing: sow March–April as soon as soil is workable; pre-chilling seed in the refrigerator for 7 days at 35°F (2°C) improves germination rates.",
-    "depth": "Sow 1/4 in. deep — darkness is required for germination, so a firm light covering of soil is essential. Do not surface-sow uncovered. Germination takes 10–20 days at soil temperatures around 55°F (13°C); seed will not germinate reliably above 55°F, so warm spring soil gives poor results — another reason fall or very early spring sowing excels on the Front Range.",
-    "bloom": "May through June on the Front Range (occasionally into early July in cool, cloudy springs). Bloom window is 3–5 weeks per plant, but a staggered fall sowing across a large drift extends the show. Once daytime temperatures consistently exceed 75–80°F, plants stop flowering and decline.",
-    "feeding": "Minimal. Work a light layer of compost into the soil before sowing; no additional fertilizer is needed. Rich, heavily amended soil produces tall, floppy plants prone to lodging — lean to moderate fertility keeps them upright.",
-    "maintenance": "Stake or use grow-through rings for the tallest selections (4 ft varieties flop in wind without support). Deadhead spent lower florets to keep the spike tidy, but allow a few spikes to go to seed if you want natural reseeding. Pull or cut plants once they yellow after bloom — they won't revive in summer heat.",
-    "selfsow": "Prolific self-sower in favorable spots. Allow a portion of the stand to set seed each year: pods ripen and shatter, scattering seed for the following season. Seedlings emerge in fall or early spring and are easy to recognize and thin. To control spread, deadhead most spikes before pods mature; do not compost the cut spikes if seeds have begun to form.",
-    "troubles": "ALL PARTS TOXIC — handle with gloves; keep children and livestock away. Powdery mildew on crowded plants in late spring (improve airflow by thinning); occasional slugs on seedlings in wet springs; aphids on new growth. No serious pests on the Front Range. The biggest cultural failure is sowing too late into warm soil — germination will be poor and plants won't bloom before heat arrives.",
-    "companions": "California poppy, cosmos, snapdragons, and other cool-season or early-blooming annuals. Plant with low perennials that will fill the gap when larkspur declines in summer: salvia, echinacea, or ornamental grasses."
+    "hardiness": "Cool-season hardy annual — seed withstands freezing soil, making it ideal for fall sowing or very early spring sowing on the Front Range. Plants grow actively in cool weather (below ~75°F) and bolt or die once sustained summer heat arrives. Not winter-hardy as a plant, but fall-sown seeds overwinter in the ground and germinate naturally in late winter/early spring.[1][2]",
+    "planting": "Direct sowing is strongly preferred — larkspur has a fragile taproot and resents root disturbance. Sow seed directly where it will grow and bloom. Best timing in Colorado: fall sowing (September–November) is the preferred method — scatter seed on prepared soil before the ground freezes, let winter cold-stratify the seed naturally, and the plants emerge and bloom the following May–June. Early spring sowing also works: sow as soon as the soil is workable (March–April, even into a light snow), pressing seed firmly into moist soil. Summer heat is the enemy — the earlier the seed is in the ground, the better. If starting indoors, sow in individual deep pots or plug cells 5–7 weeks before transplanting out, keep at 55°F (13°C), and transplant with minimal root disturbance before plants become pot-bound.[1][2]",
+    "sun": "Full sun is essential for sturdy, upright stems — 6+ hours of direct sun daily. Part shade produces floppy plants that lean and bloom poorly. In Boulder's intense high-altitude sun, a position with slight afternoon shade extends the bloom a bit in hot springs.[1]",
+    "soil": "Prefers loose, moderately fertile, well-drained soil. Tolerates slightly alkaline conditions (near-neutral to mildly alkaline pH is fine), making it compatible with typical Front Range soils. Work compost into heavy clay before sowing to improve drainage; waterlogging rots seedlings. A lean-to-moderate soil keeps plants upright — very rich soil produces tall, floppy stems.[1]",
+    "water": "Moderate while actively growing — keep the seedbed and young plants evenly moist until established. Once plants are growing vigorously, water deeply every 5–7 days in dry spring weather. Ease off as summer heat approaches. Avoid overhead watering on dense stands to reduce mildew.[1][2]",
+    "spacing": "Thin seedlings to 8–12 in. apart once they reach 2–3 in. tall. Larkspur looks best in generous drifts of 20 or more plants; broadcast-sow and then thin rather than planting in rows.[2]",
+    "propagation": "Seed only — as a taprooted annual it lives one season and can't be divided or rooted from cuttings. Direct sowing where it's to grow is best (see Sowing); if transplanting from indoor starts, use deep individual pots and handle roots carefully. Let a few spikes ripen and shatter and it returns from self-sown seed; collect the dry seed pods for sowing elsewhere.[1][2]",
+    "sow": "Broadcast or scatter seed on weed-free, loosely raked soil and tamp it firmly into contact with the soil surface. Fall sowing: scatter in September through November before ground freezes — no pre-treatment needed. Early spring sowing: sow March–April as soon as soil is workable; pre-chilling seed in the refrigerator for 7 days at 35°F (2°C) improves germination rates.[2]",
+    "depth": "Sow 1/4 in. deep — darkness is required for germination, so a firm light covering of soil is essential. Do not surface-sow uncovered. Germination takes 10–20 days at soil temperatures around 55°F (13°C); seed will not germinate reliably above 55°F, so warm spring soil gives poor results — another reason fall or very early spring sowing excels on the Front Range.[2]",
+    "bloom": "May through June on the Front Range (occasionally into early July in cool, cloudy springs). Bloom window is 3–5 weeks per plant, but a staggered fall sowing across a large drift extends the show. Once daytime temperatures consistently exceed 75–80°F, plants stop flowering and decline.[1][2]",
+    "feeding": "Minimal. Work a light layer of compost into the soil before sowing; no additional fertilizer is needed. Rich, heavily amended soil produces tall, floppy plants prone to lodging — lean to moderate fertility keeps them upright.[2]",
+    "maintenance": "Stake or use grow-through rings for the tallest selections (4 ft varieties flop in wind without support). Deadhead spent lower florets to keep the spike tidy, but allow a few spikes to go to seed if you want natural reseeding. Pull or cut plants once they yellow after bloom — they won't revive in summer heat.[2]",
+    "selfsow": "Prolific self-sower in favorable spots. Allow a portion of the stand to set seed each year: pods ripen and shatter, scattering seed for the following season. Seedlings emerge in fall or early spring and are easy to recognize and thin. To control spread, deadhead most spikes before pods mature; do not compost the cut spikes if seeds have begun to form.[2]",
+    "troubles": "ALL PARTS TOXIC — handle with gloves; keep children and livestock away. Powdery mildew on crowded plants in late spring (improve airflow by thinning); occasional slugs on seedlings in wet springs; aphids on new growth. No serious pests on the Front Range. The biggest cultural failure is sowing too late into warm soil — germination will be poor and plants won't bloom before heat arrives.[1][3]",
+    "companions": "California poppy, cosmos, snapdragons, and other cool-season or early-blooming annuals. Plant with low perennials that will fill the gap when larkspur declines in summer: salvia, echinacea, or ornamental grasses.[1]"
   },
-  "care_src": [
+  "fact_src": {
+    "size": [1, 2],
+    "sun": [1],
+    "water": [1, 2],
+    "spread": [2],
+    "seasons": [1, 2],
+    "wildlife": [1],
+    "deer": [1, 3],
+    "toxic": [1, 3]
+  },
+  "edible": {
+    "level": "toxic",
+    "summary": "Larkspur is poisonous — every part contains toxic diterpenoid alkaloids and no part is edible; the seeds are the most concentrated and most dangerous.[1][3]",
+    "caution": "All parts of larkspur (Consolida ajacis) — leaves, flowers, stems, and especially the seeds and young growth — contain toxic diterpenoid (norditerpenoid) alkaloids, chiefly methyllycaconitine along with delphinine, ajacine, and ajaconine. These are potent neuromuscular poisons: they block acetylcholine receptors at the neuromuscular junction (a curare-like action), and human ingestion can cause burning of the mouth, nausea and vomiting, numbness and tingling, muscle weakness, slowed heart rate, and in severe cases respiratory paralysis and death. Larkspur (Delphinium/Consolida) is also one of the most important poisonous plants to cattle on western rangelands, causing significant livestock losses. Do not eat any part, wear gloves when handling, and keep the seeds, dried spikes, and prunings away from children, pets, and livestock — dried plant material remains toxic.[1][3]"
+  },
+  "references": [
     {
       "name": "Missouri Botanical Garden Plant Finder — Consolida ajacis",
       "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=263223"
@@ -41,6 +56,10 @@
     {
       "name": "Johnny's Selected Seeds — Larkspur Key Growing Information",
       "url": "https://www.johnnyseeds.com/growers-library/flowers/larkspur-consolida/larkspur-key-growing-information.html"
+    },
+    {
+      "name": "Cornell University — Poisonous Plants: Polycyclic Diterpene Alkaloids (Delphinium/larkspur)",
+      "url": "https://poisonousplants.ansci.cornell.edu/toxicagents/polycycl.html"
     }
   ],
   "shots": [

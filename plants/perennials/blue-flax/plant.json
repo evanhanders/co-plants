@@ -17,20 +17,60 @@
   "winter": false,
   "verified": "2026-06-03",
   "care": {
-    "hardiness": "Hardy to USDA zone 3 and native up to ~9,500 ft in Colorado — it shrugs off Front Range winters without protection. Choose Linum lewisii (the native species) over the look-alike Linum perenne, which is a non-native introduced European species.",
-    "planting": "Easiest planted by direct seeding in fall (Oct–Nov) so winter cold stratifies the seed naturally and it germinates with snowmelt in spring. Container-grown transplants can go in the ground in spring (Apr–early May) once frost danger is past, or in early fall (Sep); water in well but little supplemental water is needed after the first season. Pots dry out fast and need more frequent watering than in-ground plants; blue flax is not a typical container subject.",
-    "sun": "Full sun (6+ hours) is essential. It grows lank and blooms poorly in part shade and is prone to lodging in rich, moist, shaded spots.",
-    "soil": "Lean, sharply drained soil is the key to success — sandy loam, gravelly soil, or a droughty clay-loam all work. Blue flax does not like constantly wet or heavily amended soil. It tolerates a broad pH range including the alkaline clay-loam typical of Front Range yards (pH roughly 6.0–8.0), but will rot in waterlogged winter ground.",
-    "water": "Essentially xeric once established — natural precipitation (~15–18 in/yr on the Front Range) is adequate after the first season. Keep the seedbed or new transplants evenly moist through establishment (a few weeks); after that, deep, infrequent supplemental watering only in the hottest, driest stretches of summer. Rich, moist soil causes floppy, pest-prone plants.",
-    "spacing": "Space transplants or thin seedlings to 12–18 in apart; each plant stays narrow (roughly 1 ft wide). For meadow or naturalistic plantings, seed generously in drifts and thin to 12 in for the first season — the colony fills in over time via self-sowing.",
-    "propagation": "Direct seed is the easiest method. Sow in fall (preferred) for natural cold-stratification, or in very early spring. For spring sowing, mix seed with damp sand and refrigerate for 4–6 weeks before sowing. Press seed shallowly into firm, weed-free soil — a bare-soil covering of about ¼ in is ideal; it needs warmth and some light. Germination is erratic, 1–3 weeks with temperature cycling. Cuttings are not practical (deep taproot); division is generally not recommended as the taproot dislikes disturbance. Let plants self-sow for a self-sustaining colony.",
-    "bloom": "May through July on the Front Range, with the peak flush in June. Each sky-blue flower lasts only a morning, but a mature plant carries dozens of buds and keeps opening fresh flowers daily across a 6–8-week season.",
-    "feeding": "None. Blue flax is a lean-soil native — fertilizing makes it lanky, floppy, and short-lived. Skip compost and amendments in the planting area.",
-    "maintenance": "Cut back to a few inches after seed ripens in late summer (Aug) to keep plants tidy and encourage reblooming; or leave the seed capsules for birds and self-sowing. Replace plants every 2–3 years as they are somewhat short-lived; self-sown seedlings take over naturally. Thin spring volunteers to the spacing you want.",
-    "selfsow": "Self-sows freely enough to maintain a permanent colony in open, disturbed, or gravelly soil. Seedlings are easy to spot and pull while small; thin rather than eliminate them. Not listed as a CO noxious or invasive species.",
-    "troubles": "Essentially trouble-free on well-drained sites. Aphids occasionally cluster on new growth; blast off with water. The main failure mode is wet, heavy soil or overwatering — plants yellow, lodge, and rot. Short plant life (2–4 years) is normal; let self-sown replacements take over."
+    "hardiness": "Hardy to USDA zone 3 and native up to ~9,500 ft in Colorado — it shrugs off Front Range winters without protection. Choose Linum lewisii (the native species) over the look-alike Linum perenne, which is a non-native introduced European species.[1][2]",
+    "planting": "Easiest planted by direct seeding in fall (Oct–Nov) so winter cold stratifies the seed naturally and it germinates with snowmelt in spring. Container-grown transplants can go in the ground in spring (Apr–early May) once frost danger is past, or in early fall (Sep); water in well but little supplemental water is needed after the first season. Pots dry out fast and need more frequent watering than in-ground plants; blue flax is not a typical container subject.[1]",
+    "sun": "Full sun (6+ hours) is essential. It grows lank and blooms poorly in part shade and is prone to lodging in rich, moist, shaded spots.[2][3]",
+    "soil": "Lean, sharply drained soil is the key to success — sandy loam, gravelly soil, or a droughty clay-loam all work. Blue flax does not like constantly wet or heavily amended soil. It tolerates a broad pH range including the alkaline clay-loam typical of Front Range yards (pH roughly 6.0–8.0), but will rot in waterlogged winter ground.[1][2]",
+    "water": "Essentially xeric once established — natural precipitation (~15–18 in/yr on the Front Range) is adequate after the first season. Keep the seedbed or new transplants evenly moist through establishment (a few weeks); after that, deep, infrequent supplemental watering only in the hottest, driest stretches of summer. Rich, moist soil causes floppy, pest-prone plants.[1][2]",
+    "spacing": "Space transplants or thin seedlings to 12–18 in apart; each plant stays narrow (roughly 1 ft wide). For meadow or naturalistic plantings, seed generously in drifts and thin to 12 in for the first season — the colony fills in over time via self-sowing.[1][3]",
+    "propagation": "Direct seed is the easiest method. Sow in fall (preferred) for natural cold-stratification, or in very early spring. For spring sowing, mix seed with damp sand and refrigerate for 4–6 weeks before sowing. Press seed shallowly into firm, weed-free soil — a bare-soil covering of about ¼ in is ideal; it needs warmth and some light. Germination is erratic, 1–3 weeks with temperature cycling. Cuttings are not practical (deep taproot); division is generally not recommended as the taproot dislikes disturbance. Let plants self-sow for a self-sustaining colony.[1][2]",
+    "bloom": "May through July on the Front Range, with the peak flush in June. Each sky-blue flower lasts only a morning, but a mature plant carries dozens of buds and keeps opening fresh flowers daily across a 6–8-week season.[1][3]",
+    "feeding": "None. Blue flax is a lean-soil native — fertilizing makes it lanky, floppy, and short-lived. Skip compost and amendments in the planting area.[1]",
+    "maintenance": "Cut back to a few inches after seed ripens in late summer (Aug) to keep plants tidy and encourage reblooming; or leave the seed capsules for birds and self-sowing. Replace plants every 2–3 years as they are somewhat short-lived; self-sown seedlings take over naturally. Thin spring volunteers to the spacing you want.[1]",
+    "selfsow": "Self-sows freely enough to maintain a permanent colony in open, disturbed, or gravelly soil. Seedlings are easy to spot and pull while small; thin rather than eliminate them. Not listed as a CO noxious or invasive species.[1][2]",
+    "troubles": "Essentially trouble-free on well-drained sites. Aphids occasionally cluster on new growth; blast off with water. The main failure mode is wet, heavy soil or overwatering — plants yellow, lodge, and rot. Short plant life (2–4 years) is normal; let self-sown replacements take over.[2]"
   },
-  "care_src": [
+  "fact_src": {
+    "size": [
+      2,
+      3
+    ],
+    "sun": [
+      2,
+      3
+    ],
+    "water": [
+      1,
+      2
+    ],
+    "spread": [
+      1,
+      2
+    ],
+    "seasons": [
+      1,
+      3
+    ],
+    "wildlife": [
+      2,
+      4
+    ],
+    "deer": [
+      2
+    ],
+    "toxic": [
+      4,
+      5
+    ]
+  },
+  "edible": {
+    "level": "caution",
+    "summary": "The ripe seeds are edible and nutritious like commercial flax — but only after cooking/roasting, because raw seeds and the foliage contain cyanogenic glycosides that release cyanide; eat in moderation.[4][5]",
+    "parts": "The small ripe seeds are the food part — like cultivated flax (Linum usitatissimum) they are rich in oil and were a documented Native American food, parched and ground into meal or added to other foods. The blue flowers, fine leaves, and stems are not eaten as food.[4][5]",
+    "preparation": "Always cook the seeds — roast, parch, or boil them; traditional use parched the seeds and ground them into a meal. Heat drives off the volatile cyanide from the cyanogenic glycosides and makes the seed safe and palatable. Eat in moderation rather than in large raw quantities, exactly as is advised for store flaxseed.[4][5]",
+    "caution": "Raw seeds, immature seed capsules, and the foliage contain cyanogenic glycosides (linamarin-type) that release hydrogen cyanide (HCN) when the tissue is chewed, crushed, or wetted — the same chemistry that makes wilted prunus leaves a livestock hazard. Cooking destroys most of it, so never eat the raw seeds in quantity and don't browse the foliage. Choose the native Linum lewisii and be sure of your ID; this is not a salad green.[4][5]"
+  },
+  "references": [
     {
       "name": "CSU Extension Gilpin County — Native Blue Flax",
       "url": "https://extension.colostate.edu/gilpin/resource/native-blue-flax/"
@@ -42,6 +82,14 @@
     {
       "name": "NC State Extension Plant Toolbox — Linum lewisii",
       "url": "https://plants.ces.ncsu.edu/plants/linum-lewisii/"
+    },
+    {
+      "name": "USDA Forest Service FEIS — Linum lewisii (species review; cyanogenic glycosides)",
+      "url": "https://www.fs.usda.gov/database/feis/plants/forb/linlew/all.html"
+    },
+    {
+      "name": "Native American Ethnobotany Database (BRIT) — Linum lewisii food use",
+      "url": "http://naeb.brit.org/uses/search/?string=Linum+lewisii"
     }
   ],
   "shots": [

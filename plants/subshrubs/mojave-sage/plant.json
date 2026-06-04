@@ -16,20 +16,35 @@
   "winter": true,
   "verified": "2026-05-31",
   "care": {
-    "hardiness": "USDA zones 5–10 — reliably hardy at Boulder's 5b–6a with one critical caveat: it must stay dry through winter. Wet, poorly drained soil in winter (especially under heavy snow) causes crown rot and is the primary cause of failure in Colorado. Planted in a raised bed, a south-facing berm, or any sharply drained site, it overwinters without issue and is semi-evergreen, holding its silvery foliage through mild stretches.",
-    "sun": "Full sun, no compromise — at least 6–8 hours of direct sun daily. This native of California's high desert hills was built for intense, dry sunlight. Shade causes weak, floppy growth and reduces bloom.",
-    "soil": "Lean, well-drained loam or sandy soil — the closer to gravel or decomposed granite, the better. Good winter drainage is essential (see hardiness above). Front Range clay-loam can work if amended with coarse grit or planted on a slope; avoid low spots that collect and hold moisture. Skip heavy compost or fertilizer; this plant is adapted to nutrient-poor ground and will grow lank and floppy in rich soil.",
-    "water": "Xeric once established. In the first season water regularly to help roots establish, then gradually reduce — mature plants thrive on Boulder's natural precipitation with a deep soak only every 2–3 weeks in the hottest stretches of summer. Move drip emitters away from the crown as the plant expands. Overwatering is the most common way to lose this plant, especially in fall and winter.",
-    "spacing": "Mature plants typically reach 18–24 in tall and 24–30 in wide; space at least 2–3 ft apart to allow the mound to develop and maintain airflow. New plants may take one to two seasons before they begin blooming freely.",
-    "bloom": "June through November — one of the longest bloom windows of any subshrub in this guide. The violet-blue flowers are set among persistently showy mauve-purple bracts that remain colorful long after individual flowers finish, giving months of interest into late fall.",
-    "feeding": "None needed. Lean soil is ideal. Fertilizing promotes lush, leggy growth at the expense of the compact silver mound and bloom production. A very light compost top-dressing in spring is acceptable but not necessary.",
-    "maintenance": "Prune in early spring once you can see which stems survived winter — wait until new growth begins to emerge so you can distinguish live from dead wood, then cut dead or frost-damaged stems back to the first signs of green. Do not cut into old woody stems below the live growth zone; this subshrub does not readily regenerate from bare wood. A good pruning after fall flowering helps maintain the plant's shape and prevents the base from becoming too woody — cut just above live growth, not into bare old wood.",
-    "troubles": "Largely pest- and disease-free on the Front Range. Crown rot from wet winter soil is by far the main risk (see hardiness and drainage notes). Occasional rabbit browsing on young plants; mature aromatic foliage is generally left alone. No serious insect pests.",
-    "companions": "Pairs beautifully with other xeric silver-foliaged plants: Russian sage, desert marigold, Apache plume, blue grama grass, and penstemon. The silver-and-violet color palette works well with yellow-flowered companions (rabbitbrush, sulfur buckwheat) or alongside ornamental grasses for a southwest-inspired planting.",
-    "planting": "Plant in spring — April through mid-May is ideal on the Front Range — so the plant is fully rooted before summer heat and has a complete growing season to harden off before its first winter. Fall planting is possible but risky: the crown needs months of root development before facing freeze-thaw cycles in wet soil. In containers, Mojave sage is a poor candidate for outdoor overwintering — pot roots are far less insulated than in-ground crowns, and a wet potting mix in winter will rot the plant quickly. If you grow it in a pot, use a fast-draining cactus-style mix, bring the container into an unheated garage or shed before hard freezes, and keep it nearly dry through winter. Sink the pot to its rim in a gravel bed through the growing season to moderate root temperature.",
-    "propagation": "Propagation is notoriously difficult and supply consistently lags demand — buying a nursery-grown Plant Select specimen is by far the most reliable path. Seed is the main natural dispersal route (volunteers occasionally appear near mature plants), but germination rates are low and inconsistent; sow fresh seed in fall directly or in pots of gritty mix left outdoors for natural cold stratification. Softwood stem cuttings taken in late spring to early summer (4–6 in., heel or nodal, with bottom leaves removed) in a gritty, free-draining rooting medium offer the best vegetative option — mist lightly and provide bottom heat if possible, but don't let the mix stay wet. Division of the woody crown is not practical. Patience is the key: even successful cuttings are slow to establish."
+    "hardiness": "USDA zones 5–10 — reliably hardy at Boulder's 5b–6a with one critical caveat: it must stay dry through winter. Wet, poorly drained soil in winter (especially under heavy snow) causes crown rot and is the primary cause of failure in Colorado. Planted in a raised bed, a south-facing berm, or any sharply drained site, it overwinters without issue and is semi-evergreen, holding its silvery foliage through mild stretches.[1][2]",
+    "sun": "Full sun, no compromise — at least 6–8 hours of direct sun daily. This native of California's high desert hills was built for intense, dry sunlight. Shade causes weak, floppy growth and reduces bloom.[1]",
+    "soil": "Lean, well-drained loam or sandy soil — the closer to gravel or decomposed granite, the better. Good winter drainage is essential (see hardiness above). Front Range clay-loam can work if amended with coarse grit or planted on a slope; avoid low spots that collect and hold moisture. Skip heavy compost or fertilizer; this plant is adapted to nutrient-poor ground and will grow lank and floppy in rich soil.[1][2]",
+    "water": "Xeric once established. In the first season water regularly to help roots establish, then gradually reduce — mature plants thrive on Boulder's natural precipitation with a deep soak only every 2–3 weeks in the hottest stretches of summer. Move drip emitters away from the crown as the plant expands. Overwatering is the most common way to lose this plant, especially in fall and winter.[1]",
+    "spacing": "Mature plants typically reach 18–24 in tall and 24–30 in wide; space at least 2–3 ft apart to allow the mound to develop and maintain airflow. New plants may take one to two seasons before they begin blooming freely.[1]",
+    "bloom": "June through November — one of the longest bloom windows of any subshrub in this guide. The violet-blue flowers are set among persistently showy mauve-purple bracts that remain colorful long after individual flowers finish, giving months of interest into late fall.[1][2]",
+    "feeding": "None needed. Lean soil is ideal. Fertilizing promotes lush, leggy growth at the expense of the compact silver mound and bloom production. A very light compost top-dressing in spring is acceptable but not necessary.[1]",
+    "maintenance": "Prune in early spring once you can see which stems survived winter — wait until new growth begins to emerge so you can distinguish live from dead wood, then cut dead or frost-damaged stems back to the first signs of green. Do not cut into old woody stems below the live growth zone; this subshrub does not readily regenerate from bare wood. A good pruning after fall flowering helps maintain the plant's shape and prevents the base from becoming too woody — cut just above live growth, not into bare old wood.[2]",
+    "troubles": "Largely pest- and disease-free on the Front Range. Crown rot from wet winter soil is by far the main risk (see hardiness and drainage notes). Occasional rabbit browsing on young plants; mature aromatic foliage is generally left alone. No serious insect pests.[1]",
+    "companions": "Pairs beautifully with other xeric silver-foliaged plants: Russian sage, desert marigold, Apache plume, blue grama grass, and penstemon. The silver-and-violet color palette works well with yellow-flowered companions (rabbitbrush, sulfur buckwheat) or alongside ornamental grasses for a southwest-inspired planting.[2]",
+    "planting": "Plant in spring — April through mid-May is ideal on the Front Range — so the plant is fully rooted before summer heat and has a complete growing season to harden off before its first winter. Fall planting is possible but risky: the crown needs months of root development before facing freeze-thaw cycles in wet soil. In containers, Mojave sage is a poor candidate for outdoor overwintering — pot roots are far less insulated than in-ground crowns, and a wet potting mix in winter will rot the plant quickly. If you grow it in a pot, use a fast-draining cactus-style mix, bring the container into an unheated garage or shed before hard freezes, and keep it nearly dry through winter. Sink the pot to its rim in a gravel bed through the growing season to moderate root temperature.[1][2]",
+    "propagation": "Propagation is notoriously difficult and supply consistently lags demand — buying a nursery-grown Plant Select specimen is by far the most reliable path. Seed is the main natural dispersal route (volunteers occasionally appear near mature plants), but germination rates are low and inconsistent; sow fresh seed in fall directly or in pots of gritty mix left outdoors for natural cold stratification. Softwood stem cuttings taken in late spring to early summer (4–6 in., heel or nodal, with bottom leaves removed) in a gritty, free-draining rooting medium offer the best vegetative option — mist lightly and provide bottom heat if possible, but don't let the mix stay wet. Division of the woody crown is not practical. Patience is the key: even successful cuttings are slow to establish.[1][2]"
   },
-  "care_src": [
+  "fact_src": {
+    "size": [1],
+    "sun": [1],
+    "water": [1],
+    "spread": [1],
+    "seasons": [1, 2],
+    "wildlife": [1, 2],
+    "deer": [1],
+    "toxic": [1, 3]
+  },
+  "edible": {
+    "level": "inedible",
+    "summary": "Mojave sage is a fragrant ornamental desert sage, not a culinary herb — it has no documented food use and should not be eaten or confused with cooking sage.[1][3]",
+    "caution": "Despite the name and aroma, Mojave sage (*Salvia pachyphylla*) is grown strictly as an ornamental and is NOT the culinary sage of the kitchen (that is *Salvia officinalis*). No authority documents it as a food plant; its only recorded traditional uses are medicinal and ceremonial. The foliage is rich in bitter aromatic terpenoid compounds (carnosol, carnosic acid and related diterpenes) and, like other ornamental salvias, can cause digestive upset if eaten in quantity. Treat it as inedible: enjoy the fragrance, but do not cook with or consume any part, and don't let its sage-like scent lead you to substitute it for the culinary herb.[1][3]"
+  },
+  "references": [
     {
       "name": "Plant Select — Mojave Sage (Salvia pachyphylla)",
       "url": "https://plantselect.org/plant/salvia-pachyphylla/"
@@ -37,6 +52,10 @@
     {
       "name": "Plant Select — Mojave Sage: A Sage for All Seasons",
       "url": "https://plantselect.org/plantstories/mojave-sage-a-sage-for-all-seasons/"
+    },
+    {
+      "name": "Wikipedia — Salvia pachyphylla (chemistry: carnosol, carnosic acid & related diterpenes; traditional-medicine study)",
+      "url": "https://en.wikipedia.org/wiki/Salvia_pachyphylla"
     }
   ],
   "shots": [

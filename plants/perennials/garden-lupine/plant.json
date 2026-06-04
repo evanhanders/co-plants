@@ -17,21 +17,58 @@
   "winter": false,
   "verified": "2026-06-03",
   "care": {
-    "hardiness": "USDA zones 4–8. The root crown survives Front Range winters reliably, but plants are often short-lived perennials (2–5 years even in ideal conditions) and tend to decline faster in hot, dry summers. Treat as a short-lived perennial or every-other-year replanting project rather than a permanent fixture. In zone 6a, mulch the crown lightly after hard frost in the first season.",
-    "planting": "Plant in spring (April–May) or early fall (September). Spring planting is preferred: set transplants outdoors after mid-April when soil is above 45°F, spacing 18–24 in. apart. Lupines have a deep taproot and resent disturbance once established, so plant where they will stay. For containers, use a deep (12+ in.) pot with well-drained, slightly acidic mix; pots dry out quickly and roots are less cold-hardy than in-ground plantings — shelter containers in a garage or cold frame over winter. Be realistic: lupines are at the hot/dry/alkaline edge of their comfort zone on the Front Range, and performance is more reliable in a favorable microclimate (east-facing, amended soil, reliable moisture) than in full south-facing heat and wind.",
-    "sun": "Full sun is preferred in cool climates; on the Front Range, afternoon shade (east-facing or dappled afternoon) meaningfully extends bloom and reduces heat stress. Intense mid-afternoon sun in Boulder's high-altitude setting can scorch foliage and shorten bloom. Aim for 4–6 hours of morning sun with afternoon relief.",
-    "soil": "Prefers organically rich, moderately fertile, slightly acidic to neutral, well-drained soil (pH 5.5–7.0). This is a genuine challenge on the Front Range, where soils are typically alkaline clay (pH 7.5–8.5). Amend the planting bed generously with compost and peat or sulfur to lower pH; raised beds with custom acidic mix work best. Avoid planting in unimproved alkaline clay — plants will struggle and yellow from iron chlorosis. Good drainage is non-negotiable; lupines rot in waterlogged soil.",
-    "water": "Moderate and consistent — keep soil evenly moist, especially during bloom. Water deeply 1–2 times per week in dry spring weather; reduce slightly after bloom. Lupines dislike both drought and waterlogging; mulch the root zone to retain moisture and keep roots cool. In Boulder's semi-arid climate, expect to irrigate regularly through spring and into summer.",
-    "spacing": "Space plants 18–24 in. apart in groups of three or more for visual impact. Lupines look best in generous drifts — a single isolated plant rarely makes a statement. Allow 24 in. for air circulation, which reduces powdery mildew.",
-    "propagation": "From seed: nick or soak seed overnight to break the hard coat, then sow 1/4 in. deep in individual pots or direct in the garden. Seeds direct-sown in fall or stratified for 4–6 weeks at 40°F germinate more reliably. Note that Russell hybrid seed from the garden will not come true to color — purchase fresh named-cultivar seed or source vegetatively. From sideshoot cuttings: take basal cuttings from new shoots in late spring, root in a free-draining propagation mix; do not divide established plants (deep taproots do not survive division).",
-    "bloom": "Late May through July on the Front Range — typically a 3–5 week window in the first flush. Deadheading spent spikes promptly can trigger a lighter second flush in late summer or early fall in cool years. Plants bloom most heavily in their second and third years.",
-    "feeding": "Light feeding only. Work compost into the planting bed; a slow-release balanced fertilizer at planting is sufficient. Lupines are legumes and fix their own nitrogen — avoid high-nitrogen fertilizers, which push leafy growth at the expense of blooms and weaken stems.",
-    "maintenance": "Stake taller selections (3–4 ft) with grow-through rings or bamboo stakes in exposed or windy spots. Deadhead spent spikes promptly to encourage rebloom and, critically, to prevent self-seeding in areas near open space or natural lands (see selfsow below). Cut plants back to basal rosette after bloom. As plants age and vigor declines (typically after 2–5 years), replace from fresh seed or basal cuttings — lupines have a deep taproot and do not divide reliably.",
-    "selfsow": "Self-sows freely if seed is allowed to mature. IMPORTANT: deadhead before seed pods ripen — do not allow naturalization near open space, wildlands, or restored native plant communities. Russell lupine (Lupinus polyphyllus) has become invasive in parts of the Upper Midwest, Northeast, and Europe; while it is not a Colorado-listed weed, responsible cultivation means preventing seed set in garden settings. Seedlings that do appear will likely revert toward violet shades rather than maintaining named-cultivar colors.",
-    "troubles": "Powdery mildew is common in humid or poorly ventilated spots — space plants generously, avoid overhead watering, and remove badly affected foliage. Aphids cluster on new growth and flower spikes in spring (spray off with water). Slugs and snails damage seedlings and young foliage in wet springs. Root rot in clay or overwatered soil. Alkaline soil causes chlorosis (yellow leaves with green veins) — correct pH before planting or the plants will languish. Short lifespan (often 2–5 years) is inherent, not a pest or disease. Tall plants may need staking to stay upright.",
-    "companions": "Salvia nemorosa, oriental poppy, allium, and other early-summer perennials that can carry the display after lupine fades. Pair with ornamental grasses or geraniums that fill in gracefully as lupine foliage declines by midsummer."
+    "hardiness": "USDA zones 4–8. The root crown survives Front Range winters reliably, but plants are often short-lived perennials (2–5 years even in ideal conditions) and tend to decline faster in hot, dry summers. Treat as a short-lived perennial or every-other-year replanting project rather than a permanent fixture. In zone 6a, mulch the crown lightly after hard frost in the first season.[1][2]",
+    "planting": "Plant in spring (April–May) or early fall (September). Spring planting is preferred: set transplants outdoors after mid-April when soil is above 45°F, spacing 18–24 in. apart. Lupines have a deep taproot and resent disturbance once established, so plant where they will stay. For containers, use a deep (12+ in.) pot with well-drained, slightly acidic mix; pots dry out quickly and roots are less cold-hardy than in-ground plantings — shelter containers in a garage or cold frame over winter. Be realistic: lupines are at the hot/dry/alkaline edge of their comfort zone on the Front Range, and performance is more reliable in a favorable microclimate (east-facing, amended soil, reliable moisture) than in full south-facing heat and wind.[1][2]",
+    "sun": "Full sun is preferred in cool climates; on the Front Range, afternoon shade (east-facing or dappled afternoon) meaningfully extends bloom and reduces heat stress. Intense mid-afternoon sun in Boulder's high-altitude setting can scorch foliage and shorten bloom. Aim for 4–6 hours of morning sun with afternoon relief.[1][2]",
+    "soil": "Prefers organically rich, moderately fertile, slightly acidic to neutral, well-drained soil (pH 5.5–7.0). This is a genuine challenge on the Front Range, where soils are typically alkaline clay (pH 7.5–8.5). Amend the planting bed generously with compost and peat or sulfur to lower pH; raised beds with custom acidic mix work best. Avoid planting in unimproved alkaline clay — plants will struggle and yellow from iron chlorosis. Good drainage is non-negotiable; lupines rot in waterlogged soil.[1][2]",
+    "water": "Moderate and consistent — keep soil evenly moist, especially during bloom. Water deeply 1–2 times per week in dry spring weather; reduce slightly after bloom. Lupines dislike both drought and waterlogging; mulch the root zone to retain moisture and keep roots cool. In Boulder's semi-arid climate, expect to irrigate regularly through spring and into summer.[2]",
+    "spacing": "Space plants 18–24 in. apart in groups of three or more for visual impact. Lupines look best in generous drifts — a single isolated plant rarely makes a statement. Allow 24 in. for air circulation, which reduces powdery mildew.[1]",
+    "propagation": "From seed: nick or soak seed overnight to break the hard coat, then sow 1/4 in. deep in individual pots or direct in the garden. Seeds direct-sown in fall or stratified for 4–6 weeks at 40°F germinate more reliably. Note that Russell hybrid seed from the garden will not come true to color — purchase fresh named-cultivar seed or source vegetatively. From sideshoot cuttings: take basal cuttings from new shoots in late spring, root in a free-draining propagation mix; do not divide established plants (deep taproots do not survive division).[1][2]",
+    "bloom": "Late May through July on the Front Range — typically a 3–5 week window in the first flush. Deadheading spent spikes promptly can trigger a lighter second flush in late summer or early fall in cool years. Plants bloom most heavily in their second and third years.[1][2]",
+    "feeding": "Light feeding only. Work compost into the planting bed; a slow-release balanced fertilizer at planting is sufficient. Lupines are legumes and fix their own nitrogen — avoid high-nitrogen fertilizers, which push leafy growth at the expense of blooms and weaken stems.[2]",
+    "maintenance": "Stake taller selections (3–4 ft) with grow-through rings or bamboo stakes in exposed or windy spots. Deadhead spent spikes promptly to encourage rebloom and, critically, to prevent self-seeding in areas near open space or natural lands (see selfsow below). Cut plants back to basal rosette after bloom. As plants age and vigor declines (typically after 2–5 years), replace from fresh seed or basal cuttings — lupines have a deep taproot and do not divide reliably.[1][2]",
+    "selfsow": "Self-sows freely if seed is allowed to mature. IMPORTANT: deadhead before seed pods ripen — do not allow naturalization near open space, wildlands, or restored native plant communities. Russell lupine (Lupinus polyphyllus) has become invasive in parts of the Upper Midwest, Northeast, and Europe; while it is not a Colorado-listed weed, responsible cultivation means preventing seed set in garden settings. Seedlings that do appear will likely revert toward violet shades rather than maintaining named-cultivar colors.[1][2]",
+    "troubles": "Powdery mildew is common in humid or poorly ventilated spots — space plants generously, avoid overhead watering, and remove badly affected foliage. Aphids cluster on new growth and flower spikes in spring (spray off with water). Slugs and snails damage seedlings and young foliage in wet springs. Root rot in clay or overwatered soil. Alkaline soil causes chlorosis (yellow leaves with green veins) — correct pH before planting or the plants will languish. Short lifespan (often 2–5 years) is inherent, not a pest or disease. Tall plants may need staking to stay upright.[1][2]",
+    "companions": "Salvia nemorosa, oriental poppy, allium, and other early-summer perennials that can carry the display after lupine fades. Pair with ornamental grasses or geraniums that fill in gracefully as lupine foliage declines by midsummer.[1]"
   },
-  "care_src": [
+  "fact_src": {
+    "size": [
+      1,
+      2
+    ],
+    "sun": [
+      1,
+      2
+    ],
+    "water": [
+      1,
+      2
+    ],
+    "spread": [
+      1,
+      2
+    ],
+    "seasons": [
+      1,
+      2
+    ],
+    "wildlife": [
+      2
+    ],
+    "deer": [
+      3
+    ],
+    "toxic": [
+      3,
+      4
+    ]
+  },
+  "edible": {
+    "level": "toxic",
+    "summary": "Garden (Russell) lupine is poisonous — its seeds and foliage contain toxic alkaloids; no part is a safe food.[3][4]",
+    "caution": "Russell hybrid lupines (Lupinus polyphyllus) contain quinolizidine alkaloids throughout the plant, most concentrated in the seeds and green pods. Eating them can cause nausea, vomiting, and nervous-system effects; lupines are a recognized livestock poison and some lupine alkaloids are teratogenic. These are NOT the sweet edible 'lupini' beans of cuisine (a specially bred, thoroughly leached species) — never eat the seeds, pods, or leaves of an ornamental garden lupine. The pea-like pods are an attractive nuisance to children; keep all parts away from kids, pets, and grazing animals.[3][4]"
+  },
+  "references": [
     {
       "name": "Missouri Botanical Garden Plant Finder — Lupinus × hybrida (Russell Hybrids)",
       "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=b764"
@@ -39,6 +76,14 @@
     {
       "name": "RHS — How to grow lupins",
       "url": "https://www.rhs.org.uk/plants/lupins/growing-guide"
+    },
+    {
+      "name": "USDA Forest Service FEIS — Lupinus sericeus (lupine alkaloid toxicity & livestock hazard)",
+      "url": "https://www.fs.usda.gov/database/feis/plants/forb/lupser/all.html"
+    },
+    {
+      "name": "ASPCA Animal Poison Control — Lupine (toxic to animals)",
+      "url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/lupine"
     }
   ],
   "shots": [

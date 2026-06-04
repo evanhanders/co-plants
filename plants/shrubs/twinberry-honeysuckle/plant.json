@@ -16,19 +16,36 @@
   "winter": false,
   "verified": "2026-06-03",
   "care": {
-    "hardiness": "Hardy to USDA zone 4 — native across Colorado's mountains and foothills including the Front Range, thriving from plains level to ~9,500 ft. No winter protection needed.",
-    "planting": "Plant container-grown shrubs in spring (Apr–May) or early fall (Sep) to allow root establishment before heat or hard frost. This shrub is most at home along streambanks, pond edges, and irrigated borders; give it the most reliably moist spot in the yard. In pots it dries out quickly and performs poorly — plant it in the ground where you can keep its roots consistently moist. Mulch 3–4 in deep to retain soil moisture.",
-    "sun": "Adaptable from full sun to part shade; in full sun on the hot, dry Front Range it must have consistent soil moisture to look its best. Part shade (3–6 hrs direct sun) reduces water stress and suits the streamside conditions this plant evolved in.",
-    "soil": "Prefers moist, fertile, well-drained to boggy soil. Unlike most Front Range shrubs it tolerates — and thrives in — consistently moist soils and even periodic wet feet. Tolerates a wide pH range and alkaline clay. Amend dry, sandy, or gravelly sites with compost to improve moisture retention.",
-    "water": "Regular moisture is essential — water deeply 1–2 times per week in summer heat until well established, then every 7–10 days during drought. This is not a xeric plant; siting it where it receives runoff, near a downspout, or on a drip zone keeps it healthiest. Mulch heavily to conserve moisture.",
-    "spacing": "Space 5–8 ft apart; plants mature to 4–10 ft tall and nearly as wide depending on moisture and light. Allow room for the shrub to spread slightly by suckering over time. It works well as a screening shrub along a fence or water feature.",
-    "propagation": "Easiest from softwood cuttings taken in early summer (June–July) or hardwood cuttings in late fall; both root readily under mist or with bottom heat. Seed requires cold-moist stratification (60 days at 33–41°F); sow in fall for natural overwintering or stratify in damp peat in the refrigerator and sow in spring. Berries ripen Aug–Sep — collect, macerate to free seeds, dry briefly, and sow or stratify. Rooted suckers can be dug and transplanted in early spring.",
-    "bloom": "May through July on the Front Range. Each pair of golden-yellow, tubular flowers is framed by two leafy bracts; the bracts deepen from green to dark red by late summer as the twin berries ripen, extending ornamental interest well into September.",
-    "feeding": "A light application of balanced slow-release fertilizer or compost in early spring supports vigorous growth on lean soils. Skip high-nitrogen feeding once established; too much nitrogen reduces flowering. Generally not needed on organically amended, moist soils.",
-    "maintenance": "Low maintenance once established in a moist site. Prune lightly immediately after flowering (July–Aug) to shape and remove dead wood; avoid heavy pruning in fall or it loses the berry show. Every 4–5 years cut the oldest, woodiest stems to the ground to rejuvenate. Remove suckers that stray out of bounds.",
-    "troubles": "Aphids, scales, and serpentine leaf miners occasionally appear; these are cosmetic and rarely need treatment — encourage natural predators. Powdery mildew can develop in crowded, low-airflow spots; thin the shrub and improve circulation. Drought stress is the main cultural problem on the Front Range: wilting, leaf scorch, and early leaf drop all signal insufficient water."
+    "hardiness": "Hardy to USDA zone 4 — native across Colorado's mountains and foothills including the Front Range, thriving from plains level to ~9,500 ft. No winter protection needed.[1][2]",
+    "planting": "Plant container-grown shrubs in spring (Apr–May) or early fall (Sep) to allow root establishment before heat or hard frost. This shrub is most at home along streambanks, pond edges, and irrigated borders; give it the most reliably moist spot in the yard. In pots it dries out quickly and performs poorly — plant it in the ground where you can keep its roots consistently moist. Mulch 3–4 in deep to retain soil moisture.[1]",
+    "sun": "Adaptable from full sun to part shade; in full sun on the hot, dry Front Range it must have consistent soil moisture to look its best. Part shade (3–6 hrs direct sun) reduces water stress and suits the streamside conditions this plant evolved in.[1][2]",
+    "soil": "Prefers moist, fertile, well-drained to boggy soil. Unlike most Front Range shrubs it tolerates — and thrives in — consistently moist soils and even periodic wet feet. Tolerates a wide pH range and alkaline clay. Amend dry, sandy, or gravelly sites with compost to improve moisture retention.[1][2]",
+    "water": "Regular moisture is essential — water deeply 1–2 times per week in summer heat until well established, then every 7–10 days during drought. This is not a xeric plant; siting it where it receives runoff, near a downspout, or on a drip zone keeps it healthiest. Mulch heavily to conserve moisture.[1][2]",
+    "spacing": "Space 5–8 ft apart; plants mature to 4–10 ft tall and nearly as wide depending on moisture and light. Allow room for the shrub to spread slightly by suckering over time. It works well as a screening shrub along a fence or water feature.[1]",
+    "propagation": "Easiest from softwood cuttings taken in early summer (June–July) or hardwood cuttings in late fall; both root readily under mist or with bottom heat. Seed requires cold-moist stratification (60 days at 33–41°F); sow in fall for natural overwintering or stratify in damp peat in the refrigerator and sow in spring. Berries ripen Aug–Sep — collect, macerate to free seeds, dry briefly, and sow or stratify. Rooted suckers can be dug and transplanted in early spring.[1][2]",
+    "bloom": "May through July on the Front Range. Each pair of golden-yellow, tubular flowers is framed by two leafy bracts; the bracts deepen from green to dark red by late summer as the twin berries ripen, extending ornamental interest well into September.[1][2]",
+    "feeding": "A light application of balanced slow-release fertilizer or compost in early spring supports vigorous growth on lean soils. Skip high-nitrogen feeding once established; too much nitrogen reduces flowering. Generally not needed on organically amended, moist soils.[1]",
+    "maintenance": "Low maintenance once established in a moist site. Prune lightly immediately after flowering (July–Aug) to shape and remove dead wood; avoid heavy pruning in fall or it loses the berry show. Every 4–5 years cut the oldest, woodiest stems to the ground to rejuvenate. Remove suckers that stray out of bounds.[1]",
+    "troubles": "Aphids, scales, and serpentine leaf miners occasionally appear; these are cosmetic and rarely need treatment — encourage natural predators. Powdery mildew can develop in crowded, low-airflow spots; thin the shrub and improve circulation. Drought stress is the main cultural problem on the Front Range: wilting, leaf scorch, and early leaf drop all signal insufficient water.[1][2]"
   },
-  "care_src": [
+  "fact_src": {
+    "size": [1],
+    "sun": [1, 2],
+    "water": [1, 2],
+    "spread": [1],
+    "seasons": [1, 2],
+    "wildlife": [1, 2],
+    "deer": [1],
+    "toxic": [2, 3]
+  },
+  "edible": {
+    "level": "caution",
+    "summary": "The shiny black twin berries are best regarded with caution — their edibility is genuinely disputed: some tribes ate them sparingly, others considered them poisonous or used them as an emetic, so treat them as inedible unless you have expert local guidance.[2][3]",
+    "parts": "The only part ever used as food is the paired black berry, and even that is contested. A few Northwest and Interior peoples ate the berries occasionally, but the fruit is bitter, and several tribes (e.g. Makah, Okanagan-Colville) considered the berries poisonous, while others used a berry infusion as a deliberate cathartic and emetic to purge the body. The leaves and other parts are not food. Given this conflicting record, twinberry is not a fruit to forage casually.[3]",
+    "preparation": "There is no safe, generally recommended preparation that makes these berries a reliable food — the traditional record is too divided, and the most consistent reported effect is emetic (vomiting/purging). The conservative course is to leave the berries for the songbirds, who eat them readily, rather than attempting to eat them yourself.[2][3]",
+    "caution": "The black berries are widely regarded as inedible-to-mildly-toxic for people: documented tribal uses include treating them as poisonous and using a berry infusion specifically as an emetic and cathartic, so eating them in any quantity can cause nausea, vomiting, and digestive upset. Do not eat the berries; keep children from sampling them. They are not known to harm birds or wildlife, which consume them freely — wildlife tolerance does not imply human safety.[2][3]"
+  },
+  "references": [
     {
       "name": "Lady Bird Johnson Wildflower Center — Lonicera involucrata",
       "url": "https://www.wildflower.org/plants/result.php?id_plant=loin5"
@@ -36,6 +53,10 @@
     {
       "name": "USDA Forest Service — Plant of the Week: Twinberry Honeysuckle",
       "url": "https://www.fs.usda.gov/wildflowers/plant-of-the-week/lonicera_involucrate.shtml"
+    },
+    {
+      "name": "Native American Ethnobotany Database (BRIT) — Lonicera involucrata food, emetic & poison records",
+      "url": "http://naeb.brit.org/uses/search/?string=Lonicera+involucrata"
     }
   ],
   "shots": [

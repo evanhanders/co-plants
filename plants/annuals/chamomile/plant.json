@@ -17,24 +17,41 @@
   "winter": false,
   "verified": "2026-06-03",
   "care": {
-    "hardiness": "Grown as a warm-season annual — it lives a single season and dies at the first hard frost, so winter hardiness isn't a concern; it's reliable wherever summers are frost-free. It is notably cool-tolerant, shrugging off chilly spring and fall weather.",
-    "planting": "Direct-sow in the ground around the last frost (mid-May in Boulder) — being cool-tolerant it's fine sown in early-to-mid spring, and you can also fall-sow for an earlier start the next year. It resents transplanting, so sow in place or use deep cells and set out carefully after mid-May. It grows easily in pots (sunny patio or windowsill), but as an annual it simply finishes at the first hard frost — there's nothing to overwinter.",
-    "sun": "Full sun (6+ hours) gives the most bloom; it tolerates a few hours of afternoon shade, which can help in the hottest part of a Front Range summer.",
-    "soil": "Easy-going — average, well-drained soil; it tolerates the Front Range's alkaline clay-loam and lean ground. Slightly acidic to neutral (pH ~5.6–7.5). Avoid rich, soggy soil, which makes it floppy.",
-    "water": "Low to moderate. Keep the seedbed evenly moist until seedlings are established, then water modestly — it's fairly drought-tolerant once growing. Don't overwater or let it sit wet.",
-    "spacing": "Thin or space plants about 6–8 in apart (they're slender); broadcast in generous drifts for the best haze of bloom and the strongest draw for beneficial insects.",
-    "propagation": "Seed only — as an annual it can't be divided or rooted from cuttings. It self-sows readily: leave a few flowerheads to ripen and it returns on its own, or collect the dried heads and scatter the seed where you want it.",
-    "sow": "Surface-sow — the tiny seeds need light to germinate, so scatter them on firmed, weed-free soil and press in without covering. Germination takes roughly 7–14 days in warm soil. Direct-sowing is easiest; thin once the seedlings are up.",
-    "depth": "Do not bury the seed — press it onto the surface (light is required for germination) and tamp for good contact; keep the surface from drying out until it sprouts.",
-    "bloom": "Early summer into fall on the Front Range — a long season of small white-rayed, gold-coned daisies, especially if you pick or deadhead regularly.",
-    "feeding": "Little to none — lean soil is fine and keeps the plant from flopping. Skip fertilizer.",
-    "maintenance": "Very low. Harvesting or deadheading the flowers keeps it blooming; leave a few heads to dry at season's end for self-sowing. No staking or pruning needed.",
-    "selfsow": "Self-sows freely into cheerful drifts — welcome in an herb or pollinator bed and easy to pull where unwanted. It is NOT invasive, and is a different plant from Colorado's noxious 'scentless chamomile' (Tripleurospermum perforatum) — don't confuse the two.",
-    "troubles": "Trouble-free; the odd flush of aphids, which in turn draws the very beneficial insects chamomile is prized for attracting. No serious disease on the Front Range.",
-    "harvest": "For tea, pick fully open flowerheads on a dry morning while the white rays are still flat or just beginning to reflex; dry them in a single layer out of direct sun, then store airtight.",
-    "companions": "A classic kitchen-garden companion — Denver Urban Gardens lists chamomile as a companion to cabbages and onions that 'improves growth and flavor.' Its flowers pull in hoverflies, lacewings and parasitic wasps that prey on garden pests, earning it the old nickname 'the plant's physician.'"
+    "hardiness": "Grown as a warm-season annual — it lives a single season and dies at the first hard frost, so winter hardiness isn't a concern; it's reliable wherever summers are frost-free. It is notably cool-tolerant, shrugging off chilly spring and fall weather.[1]",
+    "planting": "Direct-sow in the ground around the last frost (mid-May in Boulder) — being cool-tolerant it's fine sown in early-to-mid spring, and you can also fall-sow for an earlier start the next year. It resents transplanting, so sow in place or use deep cells and set out carefully after mid-May. It grows easily in pots (sunny patio or windowsill), but as an annual it simply finishes at the first hard frost — there's nothing to overwinter.[1]",
+    "sun": "Full sun (6+ hours) gives the most bloom; it tolerates a few hours of afternoon shade, which can help in the hottest part of a Front Range summer.[1]",
+    "soil": "Easy-going — average, well-drained soil; it tolerates the Front Range's alkaline clay-loam and lean ground. Slightly acidic to neutral (pH ~5.6–7.5). Avoid rich, soggy soil, which makes it floppy.[1]",
+    "water": "Low to moderate. Keep the seedbed evenly moist until seedlings are established, then water modestly — it's fairly drought-tolerant once growing. Don't overwater or let it sit wet.[1]",
+    "spacing": "Thin or space plants about 6–8 in apart (they're slender); broadcast in generous drifts for the best haze of bloom and the strongest draw for beneficial insects.[1]",
+    "propagation": "Seed only — as an annual it can't be divided or rooted from cuttings. It self-sows readily: leave a few flowerheads to ripen and it returns on its own, or collect the dried heads and scatter the seed where you want it.[1]",
+    "sow": "Surface-sow — the tiny seeds need light to germinate, so scatter them on firmed, weed-free soil and press in without covering. Germination takes roughly 7–14 days in warm soil. Direct-sowing is easiest; thin once the seedlings are up.[1]",
+    "depth": "Do not bury the seed — press it onto the surface (light is required for germination) and tamp for good contact; keep the surface from drying out until it sprouts.[1]",
+    "bloom": "Early summer into fall on the Front Range — a long season of small white-rayed, gold-coned daisies, especially if you pick or deadhead regularly.[1]",
+    "feeding": "Little to none — lean soil is fine and keeps the plant from flopping. Skip fertilizer.[1]",
+    "maintenance": "Very low. Harvesting or deadheading the flowers keeps it blooming; leave a few heads to dry at season's end for self-sowing. No staking or pruning needed.[1]",
+    "selfsow": "Self-sows freely into cheerful drifts — welcome in an herb or pollinator bed and easy to pull where unwanted. It is NOT invasive, and is a different plant from Colorado's noxious 'scentless chamomile' (Tripleurospermum perforatum) — don't confuse the two.[1]",
+    "troubles": "Trouble-free; the odd flush of aphids, which in turn draws the very beneficial insects chamomile is prized for attracting. No serious disease on the Front Range.[1]",
+    "harvest": "For tea, pick fully open flowerheads on a dry morning while the white rays are still flat or just beginning to reflex; dry them in a single layer out of direct sun, then store airtight.[1]",
+    "companions": "A classic kitchen-garden companion — Denver Urban Gardens lists chamomile as a companion to cabbages and onions that 'improves growth and flavor.' Its flowers pull in hoverflies, lacewings and parasitic wasps that prey on garden pests, earning it the old nickname 'the plant's physician.'[2]"
   },
-  "care_src": [
+  "fact_src": {
+    "size": [1],
+    "sun": [1],
+    "water": [1],
+    "spread": [1],
+    "seasons": [1],
+    "wildlife": [1, 2],
+    "deer": [1],
+    "toxic": [1]
+  },
+  "edible": {
+    "level": "edible",
+    "summary": "German chamomile is the classic edible/medicinal chamomile — the dried flowerheads make the familiar apple-scented tea — with one caveat: people allergic to ragweed and other daisy-family plants can react to it.[1]",
+    "parts": "The flowerheads are the part used — dried and steeped for chamomile tea, and also used as a garnish and in culinary and craft preparations. This is the true tea chamomile (Matricaria chamomilla). The foliage is aromatic but it is the flowers that are harvested; there is no use of the roots.[1]",
+    "preparation": "Pick fully open flowerheads on a dry morning, dry them in a single layer out of direct sun, and store airtight; steep the dried (or fresh) flowers in hot water for a calming tea. Used in normal beverage amounts it is well tolerated.[1]",
+    "caution": "German chamomile is in the daisy family (Asteraceae) and is related to ragweed: people sensitive to ragweed, chrysanthemums, or other Asteraceae can get contact dermatitis, oral swelling, or — rarely — severe allergic (anaphylactic) reactions, so anyone with those allergies should be cautious. The flowers and leaves contain the sesquiterpene lactone desacetylmatricarin (a low-severity contact allergen). Critically, make sure you have the true sweetly apple-scented German chamomile and not a daisy-like look-alike: Colorado's noxious 'scentless chamomile' (Tripleurospermum perforatum) and weedy mayweed chamomile (Anthemis cotula) resemble it but are not the tea herb.[1]"
+  },
+  "references": [
     {
       "name": "NC State Extension — Matricaria chamomilla",
       "url": "https://plants.ces.ncsu.edu/plants/matricaria-chamomilla/"

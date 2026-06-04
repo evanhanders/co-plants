@@ -16,26 +16,45 @@
   "winter": true,
   "verified": "2026-06-03",
   "care": {
-    "hardiness": "Hardy to approximately USDA zone 5 in dry conditions — the Front Range (zones 5b–6a) sits right at its cold limit, and the plants perform reliably here precisely because our winters are cold but dry. The original *Delosperma cooperi* introduction was pioneered in Colorado by Panayoti Kelaidis of Denver Botanic Garden in the early 1990s and became the founding Plant Select groundcover. Note: cold hardiness drops by 1–2 zones in wet-winter climates — it's wetness, not cold, that kills them.",
-    "planting": "Plant in spring once soil has warmed (late Apr–May) or by mid-summer so plants can root in before cold arrives — fall planting is risky at zone 5. Choose a site with sharply drained soil and full sun; raised beds, gravelly slopes, and rock gardens are ideal. In containers, the succulent mat is striking but roots are fully exposed to freeze-thaw; containers must be kept completely dry in winter and ideally moved to a cold, frost-free space (unheated garage or shed) — a wet, frozen pot will kill it.",
-    "sun": "Full sun — 6 or more hours of direct sun daily is required. In shade the stems etiolate and flowering stops. Colorado's intense high-altitude sun is a perfect match.",
-    "soil": "Sandy, gravelly, or shallow rocky soil with excellent drainage — this is the single most important requirement. Clay soil is acceptable only if heavily amended with coarse grit and raised above surrounding grade. Avoid any site where water pools after rain. A gravel mulch layer (pea gravel or crushed granite) around the crown keeps moisture away from the stems and is strongly recommended on the Front Range.",
-    "water": "Low to very low. Established plants are extremely drought-tolerant; water weekly during summer heat to maintain best flowering, then taper off sharply in late summer/fall to harden the plant before winter. Cut irrigation entirely once temperatures drop below 50°F. Winter wetness — not cold — is the primary killer; keep the crown dry from October through April.",
-    "spacing": "Space transplants 15–18 in apart; they spread by trailing stems and fill in within a season or two. For quick coverage of a slope, plant at 12 in.",
-    "propagation": "Easiest from stem cuttings in late spring or early summer — snip a 3–4 in tip, strip the lower leaves, and press into barely moist gritty sand; roots form in 2–3 weeks with no rooting hormone. Can also be grown from seed, but cultivated selections (including most Plant Select varieties) are propagated vegetatively. Plants often root where trailing stems contact soil and can be divided in spring.",
-    "bloom": "June through September — and often into October on the Front Range — with 2 in wide, neon magenta-pink daisy-like flowers that nearly hide the foliage at peak bloom. Deadheading is not necessary; spent flowers drop cleanly.",
-    "feeding": "Minimal. A single light application of a balanced or low-nitrogen organic fertilizer in spring is sufficient; avoid high-nitrogen feeding, which produces lush growth that winterkills easily. Do not fertilize after mid-summer.",
-    "maintenance": "Cut out any winter-damaged or blackened stems in mid-spring once new growth appears — use scissors to snip back to live tissue. Otherwise virtually maintenance-free. If the center of an old mat becomes woody or bare, divide in spring and replant rooted side pieces. Apply a gravel mulch in fall to help keep the crown dry through snowmelt.",
-    "troubles": "Crown and root rot from winter moisture is the overwhelming cause of failure on the Front Range — guarantee sharp drainage and keep the crown dry. Deer occasionally browse it. No serious pest or disease issues in dry climates."
+    "hardiness": "Hardy to approximately USDA zone 5 in dry conditions — the Front Range (zones 5b–6a) sits right at its cold limit, and the plants perform reliably here precisely because our winters are cold but dry. The original *Delosperma cooperi* introduction was pioneered in Colorado by Panayoti Kelaidis of Denver Botanic Garden in the early 1990s and became the founding Plant Select groundcover. Note: cold hardiness drops by 1–2 zones in wet-winter climates — it's wetness, not cold, that kills them.[1][2]",
+    "planting": "Plant in spring once soil has warmed (late Apr–May) or by mid-summer so plants can root in before cold arrives — fall planting is risky at zone 5. Choose a site with sharply drained soil and full sun; raised beds, gravelly slopes, and rock gardens are ideal. In containers, the succulent mat is striking but roots are fully exposed to freeze-thaw; containers must be kept completely dry in winter and ideally moved to a cold, frost-free space (unheated garage or shed) — a wet, frozen pot will kill it.[1][2]",
+    "sun": "Full sun — 6 or more hours of direct sun daily is required. In shade the stems etiolate and flowering stops. Colorado's intense high-altitude sun is a perfect match.[1][2]",
+    "soil": "Sandy, gravelly, or shallow rocky soil with excellent drainage — this is the single most important requirement. Clay soil is acceptable only if heavily amended with coarse grit and raised above surrounding grade. Avoid any site where water pools after rain. A gravel mulch layer (pea gravel or crushed granite) around the crown keeps moisture away from the stems and is strongly recommended on the Front Range.[1][2]",
+    "water": "Low to very low. Established plants are extremely drought-tolerant; water weekly during summer heat to maintain best flowering, then taper off sharply in late summer/fall to harden the plant before winter. Cut irrigation entirely once temperatures drop below 50°F. Winter wetness — not cold — is the primary killer; keep the crown dry from October through April.[1]",
+    "spacing": "Space transplants 15–18 in apart; they spread by trailing stems and fill in within a season or two. For quick coverage of a slope, plant at 12 in.[2]",
+    "propagation": "Easiest from stem cuttings in late spring or early summer — snip a 3–4 in tip, strip the lower leaves, and press into barely moist gritty sand; roots form in 2–3 weeks with no rooting hormone. Can also be grown from seed, but cultivated selections (including most Plant Select varieties) are propagated vegetatively. Plants often root where trailing stems contact soil and can be divided in spring.[2]",
+    "bloom": "June through September — and often into October on the Front Range — with 2 in wide, neon magenta-pink daisy-like flowers that nearly hide the foliage at peak bloom. Deadheading is not necessary; spent flowers drop cleanly.[1][2]",
+    "feeding": "Minimal. A single light application of a balanced or low-nitrogen organic fertilizer in spring is sufficient; avoid high-nitrogen feeding, which produces lush growth that winterkills easily. Do not fertilize after mid-summer.[2]",
+    "maintenance": "Cut out any winter-damaged or blackened stems in mid-spring once new growth appears — use scissors to snip back to live tissue. Otherwise virtually maintenance-free. If the center of an old mat becomes woody or bare, divide in spring and replant rooted side pieces. Apply a gravel mulch in fall to help keep the crown dry through snowmelt.[1][2]",
+    "troubles": "Crown and root rot from winter moisture is the overwhelming cause of failure on the Front Range — guarantee sharp drainage and keep the crown dry. Deer occasionally browse it. No serious pest or disease issues in dry climates.[1][2]"
   },
-  "care_src": [
+  "fact_src": {
+    "size": [2],
+    "sun": [1, 2],
+    "water": [1, 2],
+    "spread": [2],
+    "seasons": [1, 2],
+    "wildlife": [2],
+    "deer": [2],
+    "toxic": [2, 3]
+  },
+  "edible": {
+    "level": "inedible",
+    "summary": "Hardy ice plant is grown as an ornamental, not a food — there is no established edible use for Delosperma cooperi, so don't eat it.[2][3]",
+    "caution": "Delosperma cooperi has no recognized food use and should not be eaten. While some other members of the ice-plant family (Aizoaceae) are eaten elsewhere, that does not transfer to this South African ornamental groundcover — no authoritative source documents it as a human food. It is not listed as notably poisonous either: the ASPCA classifies ice plant as non-toxic to dogs, cats, and horses, and the NC State Plant Toolbox lists no toxicity for it. Treat it as inedible (not a known poison, but not a food); keep curious children and pets from grazing on it as a general precaution, since it is simply not a tested edible.[2][3]"
+  },
+  "references": [
     {
       "name": "Plant Select — The Only Truly Hardy Ice Plants Are These!",
       "url": "https://plantselect.org/the-only-truly-hardy-ice-plants-are-these/"
     },
     {
-      "name": "NC State Extension Gardener Plant Toolbox — Delosperma cooperi",
+      "name": "NC State Extension Gardener Plant Toolbox — Delosperma cooperi (no toxicity or edibility listed)",
       "url": "https://plants.ces.ncsu.edu/plants/delosperma-cooperi/"
+    },
+    {
+      "name": "ASPCA Animal Poison Control — Ice Plant (non-toxic to dogs, cats, horses)",
+      "url": "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/ice-plant"
     }
   ],
   "shots": [

@@ -16,20 +16,37 @@
   "winter": false,
   "verified": "2026-06-03",
   "care": {
-    "hardiness": "USDA zones 4–9, and notably rated to zone 3 in its Canadian prairie origins — among the hardiest climbing honeysuckles available. Fully reliable on the Front Range (zone 5b–6a) with no die-back in normal winters. Mulch roots the first winter on exposed or windy sites.",
-    "planting": "Plant in spring (April–May) or early fall (September). Spring planting gives the vine a full season to root before its first Colorado winter. Dig the hole twice as wide as the root ball, set at the same depth, water in thoroughly, and attach stems to their support immediately. For containers, use a large pot (15+ gallons) with fast-draining mix; potted roots are less cold-tolerant than in-ground, so move the container to a sheltered, unheated garage or sink it against a foundation wall over winter.",
-    "sun": "Full sun (6+ hours) produces the most prolific and long-lasting flower display. Tolerates part shade but bloom output drops noticeably. A south- or west-facing trellis or fence suits it well in Boulder's intense sun.",
-    "soil": "Tolerant of a wide range of soil types, including clay-loam; prefers moist, fertile, well-drained conditions with a neutral to slightly acidic pH (around 6.0–8.0). Amend heavy clay with compost at planting. Avoid standing water.",
-    "water": "Moderate the first season — water deeply once or twice a week while establishing. Once settled in, the vine is drought-tolerant: water deeply every 7–14 days during summer dry spells, less in cooler periods. Avoid overhead watering, which promotes foliar disease.",
-    "spacing": "Space plants 6–10 ft apart along a trellis or fence; a single plant will cover its allotted run within 2–3 seasons. Provide sturdy support from the start — the mature vine is substantial and requires a robust structure.",
-    "propagation": "Take 4–6 in. softwood cuttings in early summer, remove lower leaves, dip in rooting hormone, and root in a humid propagation chamber (4–6 weeks). Hardwood cuttings in late fall also root well. Layering works too: pin a long stem to the soil in late summer, sever and transplant once rooted the following spring. Seeds are rarely true to the cultivar — vegetative propagation is preferred.",
-    "bloom": "Early summer through fall — typically June into October on the Front Range, one of the longest bloom windows of any hardy vine. Heaviest flowering in June–July; lighter rebloom continues into early fall.",
-    "feeding": "Light to none. Work a balanced slow-release fertilizer into the planting hole or top-dress lightly in early spring. Avoid high-nitrogen fertilizers, which push foliage at the expense of flowers. Established vines in decent soil need no regular feeding.",
-    "maintenance": "Provide a trellis, arbor, wire system, or sturdy fence — the vine twines and needs a structure to wrap around; it does not self-cling to walls. Prune in late winter or very early spring (February–March) before growth resumes: remove any dead or frost-damaged wood and thin older crowded stems to the base. For a hard rejuvenation, cut the whole vine back by one-third to one-half — it recovers vigorously within one season. Light summer tidying after the main bloom flush is also helpful.",
-    "troubles": "Aphids on new growth in spring (spray off with water); powdery mildew in poor-airflow spots (thin stems, avoid overhead watering); occasional leaf-spot or scale. Keep stems thinned and the trellis off walls for air circulation. No serious pest or disease pressure on the Front Range.",
-    "companions": "Plant beneath with drought-tolerant perennials that share the hummingbird theme: Salvia nemorosa, Russian sage, echinacea, or agastache. Pairs well with clematis on the same trellis for multi-season interest."
+    "hardiness": "USDA zones 4–9, and notably rated to zone 3 in its Canadian prairie origins — among the hardiest climbing honeysuckles available. Fully reliable on the Front Range (zone 5b–6a) with no die-back in normal winters. Mulch roots the first winter on exposed or windy sites.[1][3]",
+    "planting": "Plant in spring (April–May) or early fall (September). Spring planting gives the vine a full season to root before its first Colorado winter. Dig the hole twice as wide as the root ball, set at the same depth, water in thoroughly, and attach stems to their support immediately. For containers, use a large pot (15+ gallons) with fast-draining mix; potted roots are less cold-tolerant than in-ground, so move the container to a sheltered, unheated garage or sink it against a foundation wall over winter.[4]",
+    "sun": "Full sun (6+ hours) produces the most prolific and long-lasting flower display. Tolerates part shade but bloom output drops noticeably. A south- or west-facing trellis or fence suits it well in Boulder's intense sun.[1][4]",
+    "soil": "Tolerant of a wide range of soil types, including clay-loam; prefers moist, fertile, well-drained conditions with a neutral to slightly acidic pH (around 6.0–8.0). Amend heavy clay with compost at planting. Avoid standing water.[1]",
+    "water": "Moderate the first season — water deeply once or twice a week while establishing. Once settled in, the vine is drought-tolerant: water deeply every 7–14 days during summer dry spells, less in cooler periods. Avoid overhead watering, which promotes foliar disease.[1]",
+    "spacing": "Space plants 6–10 ft apart along a trellis or fence; a single plant will cover its allotted run within 2–3 seasons. Provide sturdy support from the start — the mature vine is substantial and requires a robust structure.[1][3]",
+    "propagation": "Take 4–6 in. softwood cuttings in early summer, remove lower leaves, dip in rooting hormone, and root in a humid propagation chamber (4–6 weeks). Hardwood cuttings in late fall also root well. Layering works too: pin a long stem to the soil in late summer, sever and transplant once rooted the following spring. Seeds are rarely true to the cultivar — vegetative propagation is preferred.[1]",
+    "bloom": "Early summer through fall — typically June into October on the Front Range, one of the longest bloom windows of any hardy vine. Heaviest flowering in June–July; lighter rebloom continues into early fall.[1][3]",
+    "feeding": "Light to none. Work a balanced slow-release fertilizer into the planting hole or top-dress lightly in early spring. Avoid high-nitrogen fertilizers, which push foliage at the expense of flowers. Established vines in decent soil need no regular feeding.[1]",
+    "maintenance": "Provide a trellis, arbor, wire system, or sturdy fence — the vine twines and needs a structure to wrap around; it does not self-cling to walls. Prune in late winter or very early spring (February–March) before growth resumes: remove any dead or frost-damaged wood and thin older crowded stems to the base. For a hard rejuvenation, cut the whole vine back by one-third to one-half — it recovers vigorously within one season. Light summer tidying after the main bloom flush is also helpful.[1][3]",
+    "troubles": "Aphids on new growth in spring (spray off with water); powdery mildew in poor-airflow spots (thin stems, avoid overhead watering); occasional leaf-spot or scale. Keep stems thinned and the trellis off walls for air circulation. No serious pest or disease pressure on the Front Range.[1]",
+    "companions": "Plant beneath with drought-tolerant perennials that share the hummingbird theme: Salvia nemorosa, Russian sage, echinacea, or agastache. Pairs well with clematis on the same trellis for multi-season interest.[4]"
   },
-  "care_src": [
+  "fact_src": {
+    "size": [1, 3],
+    "sun": [1],
+    "water": [1],
+    "spread": [1, 3],
+    "seasons": [1, 3],
+    "wildlife": [1, 3],
+    "deer": [1],
+    "toxic": [5]
+  },
+  "edible": {
+    "level": "caution",
+    "summary": "'Dropmore Scarlet' is a hummingbird ornamental, not a food plant — its berries are mildly toxic and should not be eaten, though the flower nectar is harmless.[1][5]",
+    "parts": "There is no recommended edible part. Children sometimes sip a single drop of nectar from a fresh flower (harmless), but the leaves, stems, and the small orange-red berries are not food. The berries are there for the birds.[1][5]",
+    "preparation": "None — do not prepare or eat any part of the vine. Leave the berries for wildlife and enjoy the flowers ornamentally.[1]",
+    "caution": "Climbing/ornamental honeysuckle (Lonicera) berries contain saponins and are considered mildly toxic — eating them, especially in quantity, can cause nausea, vomiting, diarrhea, and abdominal cramps. No human fatalities are recorded for this group, but the bright fruit tempts children, who are most at risk; keep them from eating it. 'Dropmore Scarlet' is a Lonicera × brownii hybrid (a cross of L. sempervirens × L. hirsuta), and like its relatives should be treated conservatively as not for consumption. Sipping a drop of flower nectar is not the same as eating the berries — never eat the berries.[1][5]"
+  },
+  "references": [
     {
       "name": "NC State Extension — Lonicera × brownii Plant Toolbox",
       "url": "https://plants.ces.ncsu.edu/plants/lonicera-x-brownii/"
@@ -45,6 +62,10 @@
     {
       "name": "PlantTalk Colorado — Vines for Colorado (CSU Extension)",
       "url": "https://planttalk.colostate.edu/topics/trees-shrubs-vines/1727-vines-colorado/"
+    },
+    {
+      "name": "NC State Extension Gardener Plant Toolbox — Lonicera tatarica (honeysuckle berry toxicity: saponins, fruit, GI upset)",
+      "url": "https://plants.ces.ncsu.edu/plants/lonicera-tatarica/"
     }
   ],
   "shots": [

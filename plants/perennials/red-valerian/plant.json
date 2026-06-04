@@ -17,26 +17,43 @@
   "winter": false,
   "verified": "2026-06-03",
   "care": {
-    "hardiness": "Hardy to USDA Zone 5 (−20°F), reliable through Boulder's Zone 5b–6a winters. Dies to the ground after hard frost and re-emerges from the base in spring. A mulch layer of 2–3 in over the crown provides insurance in the coldest microclimates.",
-    "planting": "Plant in spring (Apr–May) or early fall (Sep). Red valerian is not fussy about soil quality — the main requirement is sharp drainage. It excels in gravelly berms, rock walls, and hell-strip plantings where heavy clay has been replaced or amended with grit. Work coarse grit or gravel into clay planting holes to ensure water moves away from the crown. Container plants establish readily; keep pots on the lean and dry side (do not over-pot) and insulate roots over winter in a sheltered spot.",
-    "sun": "Full sun is best for the densest bloom, but red valerian tolerates part shade (3–4 hours of direct sun) and will flower acceptably. Boulder's high-altitude sun is ideal — the plant comes from sun-baked Mediterranean slopes and walls.",
-    "soil": "Thrives in poor, lean, well-drained, and even alkaline soils — it actually flowers more compactly on infertile ground. Boulder's alkaline clay-loam suits it perfectly if drainage is adequate; rock walls and limestone rubble are ideal. Crown rot is the one weakness: avoid heavy, constantly moist, or waterlogged spots.",
-    "water": "Low and drought-tolerant once established (by the second season). Water new transplants regularly through the first summer, then reduce to deep, infrequent irrigation. Mature plants are excellent candidates for xeric borders. Overwatering causes crown rot and floppy growth.",
-    "spacing": "Space plants 18–24 in apart; each reaches 1–2 ft wide. In walls or rocky crevices, single plants work well. In borders, a group of three spaced at 18 in creates a strong color drift.",
-    "propagation": "Seed is easiest and most reliable — surface-sow in spring or fall (no stratification needed); germination is quick under warm conditions. Named colors do not come reliably from seed; for specific cultivars, propagate by basal cuttings in spring (3–4 in shoots with a heel, rooted in gritty mix). Division is possible in early spring but the tap-rooted habit makes it less clean than cuttings.",
-    "bloom": "May through hard frost on the Front Range — one of the longest bloom seasons in the garden. Shearing spent flower stems back by half after each flush (or full deadheading of individual stems) triggers rapid rebloom and prevents the prolific self-seeding.",
-    "feeding": "None needed and none recommended — lean soil keeps the plant compact and free-flowering. Fertilizing produces lush, floppy stems and less bloom.",
-    "maintenance": "Deadhead or shear spent stems regularly to prolong bloom and to manage self-seeding. In Colorado's semi-arid climate, self-sowing is not rampant — a few seedlings appear around established plants and are easy to weed or relocate. Cut plants back hard (to 6 in) in early spring to remove winter-dead stems and encourage fresh, compact growth. Divide or replace every 4–5 years if the center becomes woody.",
-    "selfsow": "Self-sows freely via wind-dispersed, dandelion-like seed heads. In humid climates this can be weedy; on the dry Front Range it is moderate and easily managed by deadheading before seeds ripen. Welcome volunteer seedlings where a drift effect is wanted.",
-    "troubles": "No serious pests or diseases. Crown rot in wet, poorly drained soil is the main failure mode — fix drainage, not chemistry. Occasional aphids and mealybugs; strong airflow and lean conditions keep populations low."
+    "hardiness": "Hardy to USDA Zone 5 (−20°F), reliable through Boulder's Zone 5b–6a winters. Dies to the ground after hard frost and re-emerges from the base in spring. A mulch layer of 2–3 in over the crown provides insurance in the coldest microclimates.[1][2]",
+    "planting": "Plant in spring (Apr–May) or early fall (Sep). Red valerian is not fussy about soil quality — the main requirement is sharp drainage. It excels in gravelly berms, rock walls, and hell-strip plantings where heavy clay has been replaced or amended with grit. Work coarse grit or gravel into clay planting holes to ensure water moves away from the crown. Container plants establish readily; keep pots on the lean and dry side (do not over-pot) and insulate roots over winter in a sheltered spot.[1][2]",
+    "sun": "Full sun is best for the densest bloom, but red valerian tolerates part shade (3–4 hours of direct sun) and will flower acceptably. Boulder's high-altitude sun is ideal — the plant comes from sun-baked Mediterranean slopes and walls.[1][2]",
+    "soil": "Thrives in poor, lean, well-drained, and even alkaline soils — it actually flowers more compactly on infertile ground. Boulder's alkaline clay-loam suits it perfectly if drainage is adequate; rock walls and limestone rubble are ideal. Crown rot is the one weakness: avoid heavy, constantly moist, or waterlogged spots.[1][2]",
+    "water": "Low and drought-tolerant once established (by the second season). Water new transplants regularly through the first summer, then reduce to deep, infrequent irrigation. Mature plants are excellent candidates for xeric borders. Overwatering causes crown rot and floppy growth.[1][2]",
+    "spacing": "Space plants 18–24 in apart; each reaches 1–2 ft wide. In walls or rocky crevices, single plants work well. In borders, a group of three spaced at 18 in creates a strong color drift.[1]",
+    "propagation": "Seed is easiest and most reliable — surface-sow in spring or fall (no stratification needed); germination is quick under warm conditions. Named colors do not come reliably from seed; for specific cultivars, propagate by basal cuttings in spring (3–4 in shoots with a heel, rooted in gritty mix). Division is possible in early spring but the tap-rooted habit makes it less clean than cuttings.[1][2]",
+    "bloom": "May through hard frost on the Front Range — one of the longest bloom seasons in the garden. Shearing spent flower stems back by half after each flush (or full deadheading of individual stems) triggers rapid rebloom and prevents the prolific self-seeding.[1][2]",
+    "feeding": "None needed and none recommended — lean soil keeps the plant compact and free-flowering. Fertilizing produces lush, floppy stems and less bloom.[1]",
+    "maintenance": "Deadhead or shear spent stems regularly to prolong bloom and to manage self-seeding. In Colorado's semi-arid climate, self-sowing is not rampant — a few seedlings appear around established plants and are easy to weed or relocate. Cut plants back hard (to 6 in) in early spring to remove winter-dead stems and encourage fresh, compact growth. Divide or replace every 4–5 years if the center becomes woody.[1][2]",
+    "selfsow": "Self-sows freely via wind-dispersed, dandelion-like seed heads. In humid climates this can be weedy; on the dry Front Range it is moderate and easily managed by deadheading before seeds ripen. Welcome volunteer seedlings where a drift effect is wanted.[1][2]",
+    "troubles": "No serious pests or diseases. Crown rot in wet, poorly drained soil is the main failure mode — fix drainage, not chemistry. Occasional aphids and mealybugs; strong airflow and lean conditions keep populations low.[1][2]"
   },
-  "care_src": [
+  "fact_src": {
+    "size": [1, 2],
+    "sun": [1, 2],
+    "water": [1, 2],
+    "spread": [1, 2],
+    "seasons": [1, 2],
+    "wildlife": [1, 2],
+    "deer": [1],
+    "toxic": [2]
+  },
+  "edible": {
+    "level": "edible",
+    "summary": "The young leaves and the roots of red valerian are edible (leaves raw or boiled, roots in soups), but they are bitter, of minor culinary value, and must not be confused with the unrelated medicinal valerian.[2]",
+    "parts": "The leaves and the roots are the edible parts. The young leaves can be eaten raw in salads or lightly boiled as a cooked green, and the roots have been used to flavor soups. This is a minor, historical pot-herb use rather than a staple food — the leaves are noticeably bitter, so they are usually used sparingly and young.[2]",
+    "preparation": "Use the leaves young, when they are least bitter: a few raw in a salad, or briefly boiled to soften the bitterness, like a mild cooked green. The roots are simmered into soups for flavor rather than eaten as a vegetable. Because the flavor is bitter and the food value low, treat it as an occasional garnish or seasoning, not a bulk green.[2]",
+    "caution": "Do not confuse red valerian (Centranthus ruber, \"Jupiter's beard\") with medicinal/true valerian (Valeriana officinalis) — they are different plants in the same family, and the sedative herb used for valerian preparations is V. officinalis, NOT this ornamental; don't use Centranthus as a substitute. No part of Centranthus ruber is reported as poisonous, and authoritative sources record no toxicity rating, but as with any wild or garden green, be certain of your identification before eating and start with small amounts, since the leaves are bitter and the documented food use is limited.[2]"
+  },
+  "references": [
     {
       "name": "Missouri Botanical Garden Plant Finder — Centranthus ruber",
       "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=b950"
     },
     {
-      "name": "NC State Extension Plant Toolbox — Centranthus ruber",
+      "name": "NC State Extension Gardener Plant Toolbox — Centranthus ruber",
       "url": "https://plants.ces.ncsu.edu/plants/centranthus-ruber/"
     }
   ],

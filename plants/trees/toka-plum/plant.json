@@ -15,6 +15,88 @@
   "toxic": "Fruit flesh edible; pits, leaves & twigs cyanogenic — toxic to people/pets/livestock",
   "winter": false,
   "verified": "2026-06-04",
+  "care": {
+    "hardiness": "An exceptionally cold-hardy interspecific hybrid (an American × Asian plum cross) rated roughly USDA zone 3–8 and reliable to about -40°F, so Boulder's 5b–6a winters are no challenge at all.[1] On the Front Range the limiting factor is not winter cold but late spring frost on its early bloom — plant it at the high point of the yard, where frost drains away, and avoid hot south/west walls that force it into bloom too soon.[3]",
+    "planting": "Set a dormant bare-root or container tree in spring (April–May) when the soil is workable, or plant container stock in early fall (September) to root in before hard frost; pick a high, open, full-sun site away from frost-pooling low spots and early-bloom-forcing wall heat.[3] Dig the hole as deep as the root ball and twice as wide, backfilling mostly with native soil rather than a rich amended pocket so roots grow out into the clay.[2] Toka makes a full-size tree and is poorly suited to permanent pot culture; if you must container-grow a dwarf, use a large (≥20 gal) pot, water much more often (pots dry fast in dry Front-Range air), and sink or heel-in the pot or move it to an unheated shed for winter, since potted roots are far less cold-hardy than the zone-3 canopy.[2][3]",
+    "sun": "Full sun — at least 6 hours, ideally a half-day or more — for heavy flowering, sweet fruit, and an airy canopy; it will tolerate light part shade but crops and ripens best in full sun.[1][2]",
+    "soil": "Adaptable to most soil types and tolerant of the Front Range's alkaline clay-loam as long as it drains and prefers well-drained ground; it does not want wet feet.[1] Plant into mostly native soil rather than a heavily amended hole, and mulch the root zone instead of digging amendments into heavy clay.[1][2]",
+    "water": "Water a young tree evenly — about 1–2 inches per week, checking the soil 4–8 inches down before watering — to settle it in.[2] Once established it is moderately drought-tolerant, but a deep soak during fruit sizing in summer heat keeps the plums full and sweet; avoid waterlogging.[1][2]",
+    "spacing": "Give it 12–20 ft of room (mature spread roughly equals height); expect about 15–20 ft tall and 12–15 ft wide on the Front Range, in a natural vase shape.[1][2] If you are planting it specifically as a pollinizer, keep it within about 100 yards of the Japanese/hybrid plums it is meant to pollinate.[2]",
+    "propagation": "Named hybrids like 'Toka' do not come true from seed — propagate by grafting or budding onto a compatible plum rootstock to keep the cultivar.[2] Note that hybrid/American-type plums readily throw root suckers; these can be dug and moved but will be the rootstock, not necessarily 'Toka', so for a true tree buy grafted nursery stock.[2]",
+    "bloom": "A heavy, fragrant white bloom opens in early spring — earlier than most fruit trees, which is both its great strength as a pollen source and its frost vulnerability here.[1][3][4] Reddish-bronze, apricot-fleshed plums follow, ripening August into September.[1]",
+    "feeding": "Feed lightly — a modest balanced fertilizer in early spring, only if growth is weak or foliage pale.[2] Skip heavy nitrogen, which fuels soft aphid- and disease-prone growth at the expense of fruit; compost or mulch over the root zone usually suffices.[2]",
+    "maintenance": "Train to an open-center (vase) form and prune annually in late winter / early spring before bud break, removing dead, broken, crossing, and inward growth to open the canopy for light and airflow — the main defense against fungal disease.[2] Do disease pruning in dry, freezing weather to limit bacterial canker and silver leaf, and cut any black-knot galls out at least 4 inches below the swelling, then burn, bury, or trash the wood (Japanese/hybrid plums are susceptible — never compost the prunings).[2][5]",
+    "troubles": "Watch for plum curculio (scars and drops young fruit), aphids on new growth (don't over-feed nitrogen), brown rot (the most serious disease — rots blossoms and shrivels fruit), and black knot on the wood.[2][3] Manage all of them with open-canopy pruning, prompt removal of mummied fruit and galls, and clean orchard sanitation.[2][5] The leaves, twigs, and seed pits are cyanogenic and toxic to pets, horses, and livestock — keep them from browsing the prunings.[5][6]",
+    "harvest": "Pick when the skin colors to reddish-bronze and the flesh just softens, typically August–September here; hybrid plums tend to ripen a bit ahead of European types.[1][2] The famously sweet, spicy 'bubblegum' flesh is best fresh off the tree but also makes fine jam, sauce, and preserves; harvest before fruit drops.[1]",
+    "companions": "Plant Toka near another Japanese or American/hybrid plum (e.g. 'Superior', 'Pipestone', 'Waneta', or a wild American plum) — Toka is the orchard's premier pollinizer, shedding abundant compatible pollen, and most hybrid plums set far better with it nearby.[1][2] Note the European plums (like 'Stanley') are in a different pollination group and bloom on a different schedule, so Toka will not cross-pollinate them and vice versa.[1][3] Keep the root zone mulched rather than in turf for moisture and reduced borer pressure.[2]"
+  },
+  "edible": {
+    "level": "caution",
+    "food": true,
+    "card": "Spicy-sweet plums, fresh or preserves",
+    "summary": "The ripe reddish-bronze plum flesh is intensely sweet ('bubblegum plum') and excellent fresh or in preserves — but the pits, leaves, and twigs are cyanogenic and must never be eaten.[1][6]",
+    "parts": "Only the ripe fruit flesh is food. Toka's reddish-bronze plums have apricot-colored flesh that is famously sweet and spicy — the reason it is nicknamed the 'bubblegum plum.'[1] The seed (pit) inside each plum, along with the leaves and twigs, is not food.[5][6]",
+    "preparation": "Eat the plums fully ripe and fresh, or cook them into jam, sauce, and preserves; the sweet, aromatic flesh is at its best straight off the tree.[1][2] Discard the pits — do not crack, crush, or chew the stones to reach the kernel inside.[5]",
+    "caution": "Like all Prunus, the seed pit (kernel), leaves, and twigs contain cyanogenic glycosides that release hydrogen cyanide when chewed, crushed, or wilted; the fruit flesh is safe but the stone it surrounds is not — never crack or eat the pits, and keep children from doing so.[5][6] Wilted or frost-damaged foliage is markedly more toxic and is a documented poisoning hazard to dogs, cats, horses, and livestock, so never let animals browse the leaves or fallen prunings.[5][6]"
+  },
+  "references": [
+    {
+      "name": "University of Minnesota — UFOR Nursery & Lab: Toka Plum (Prunus salicina 'Toka')",
+      "url": "https://trees.umn.edu/toka-plum-prunus-salicina-toka"
+    },
+    {
+      "name": "University of Minnesota Extension — Growing stone fruits in the home garden",
+      "url": "https://extension.umn.edu/fruit/growing-stone-fruits-home-garden"
+    },
+    {
+      "name": "CSU PlantTalk Colorado #1206 — Plums",
+      "url": "https://planttalk.colostate.edu/topics/fruits/1206-plums/"
+    },
+    {
+      "name": "CSU PlantTalk Colorado #1217 — Fruit Trees for Colorado",
+      "url": "https://planttalk.colostate.edu/topics/fruits/1217-fruit-trees-colorado/"
+    },
+    {
+      "name": "University of Minnesota Extension — Black knot of Prunus",
+      "url": "https://extension.umn.edu/plant-diseases/black-knot"
+    },
+    {
+      "name": "NC State Extension Plant Toolbox — Prunus salicina (Japanese plum)",
+      "url": "https://plants.ces.ncsu.edu/plants/prunus-salicina/"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      1,
+      2
+    ],
+    "sun": [
+      1,
+      2
+    ],
+    "water": [
+      2
+    ],
+    "spread": [
+      1,
+      2
+    ],
+    "seasons": [
+      1,
+      3
+    ],
+    "wildlife": [
+      1,
+      3
+    ],
+    "deer": [
+      2
+    ],
+    "toxic": [
+      5,
+      6
+    ]
+  },
   "shots": [
     {
       "local": "images/sp-flowers-t.jpg",

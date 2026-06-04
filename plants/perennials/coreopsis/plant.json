@@ -16,6 +16,8 @@
   "toxic": "",
   "winter": false,
   "verified": "2026-06-03",
+  "origin": "South-central and SE United States (NE to TX, east to TN; US native, not CO-native)",
+  "habitat": "Open sandy woods, roadsides, and rocky fields",
   "care": {
     "hardiness": "USDA zones 4a–9b; reliably winter-hardy on the Front Range (zones 5b–6a) with good drainage. Note that individual plants are short-lived (often 2–3 years); plan for replacement or allow self-sowing to maintain the planting.[1][2]",
     "planting": "Plant in-ground in spring (April–May after last frost) or early fall (September). Good drainage in Front Range clay is important — amend with compost and coarse grit for heavy soils, or site in naturally well-drained spots. Coreopsis is more tolerant of average garden soil than many xeric perennials, but standing water in winter shortens its already brief life. In containers, use a standard well-drained potting mix; check moisture every 2–3 days in summer as pots dry out quickly in Front Range heat and wind. Container plants require winter protection (sheltered spot or sunk in-ground) — roots are less cold-hardy than in-ground crowns.[1][2]",
@@ -39,7 +41,9 @@
     "seasons": [1, 2],
     "wildlife": [1, 2],
     "deer": [1],
-    "toxic": [1]
+    "toxic": [1],
+    "origin": [2],
+    "habitat": [2]
   },
   "edible": {
     "level": "inedible",

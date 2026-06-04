@@ -16,6 +16,8 @@
   "toxic": "Mildly toxic — all Anemone parts contain protoanemonin, an irritant that causes mouth and GI irritation in people and pets if ingested; sap can cause contact dermatitis. Wear gloves when handling tubers and foliage.",
   "winter": false,
   "verified": "2026-06-03",
+  "origin": "SE Europe and SW Asia (Turkey, Lebanon, and Syria)",
+  "habitat": "Rocky woodland edges, open scrub, and hillside meadows",
   "care": {
     "hardiness": "USDA zones 5–9, making it reliably cold-hardy throughout the Front Range (zones 5b–6a). The tubers overwinter in the ground with no protection once established — zone 5 is at the cold edge of the range, so a light mulch over dormant tubers in their first winter is insurance. Plant in a spot with good drainage — standing water over dormant tubers in winter or spring can cause rot.[1][2]",
     "planting": "Plant tubers in fall, September through October in Boulder, before the ground freezes. Soak tubers in warm water for 24 hours before planting to rehydrate the wrinkled, cork-like pieces; plant 2–3 inches deep and 3–4 inches apart, rough side down (or on their side if orientation is unclear — they find their way). Choose a spot that is moist in spring but dries out by summer, mimicking their Mediterranean origin. In heavy clay, amend with compost and coarse grit to improve drainage. In containers, plant in a lean, sharply drained mix in fall; pots can be overwintered in an unheated garage or kept outside if the pot is large enough to buffer cold (roots are somewhat less cold-hardy than in-ground tubers). Bring pots out to a cool, bright spot as temperatures warm in late winter.[1][2]",
@@ -39,7 +41,9 @@
     "seasons": [1, 2],
     "wildlife": [1],
     "deer": [1],
-    "toxic": [1]
+    "toxic": [1],
+    "origin": [1],
+    "habitat": [1]
   },
   "edible": {
     "level": "toxic",

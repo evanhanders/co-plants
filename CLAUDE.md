@@ -736,7 +736,10 @@ ground every statement in an authority cited in `references`.
 where good shots exist). Every plant's detail page is now **fully cited** — a numbered
 `references` bibliography with inline `[n]` markers on the facts table (`fact_src`), the care
 prose, and a safety-reviewed **`edible` block** (current split: 37 inedible · 21 caution · 16
-edible · 11 toxic). Grouped by type below (the order the site uses). Photos were sourced
+edible · 11 toxic). Every **non-native** plant (62 of the 85) also carries **provenance** —
+`origin` (where it's from) + `habitat` (its wild growing conditions) — shown as blue "Native
+to" / "Wild habitat" rows on its card and detail page, cited via `fact_src`. Grouped by type
+below (the order the site uses). Photos were sourced
 mostly from the iNaturalist open dataset via `tools/inat_montage.py` (note: the yellow
 'Mersea Yellow' pineleaf penstemon came from *cultivated* iNat observations — pass through the
 research-grade filter only by querying without `quality_grade=research`, since garden

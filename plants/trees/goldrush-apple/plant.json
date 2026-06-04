@@ -46,5 +46,88 @@
       "lic": "CC BY-SA 3.0",
       "link": "https://commons.wikimedia.org/wiki/File:Gold_Rush_PK1_jm26174_ji.jpg"
     }
-  ]
+  ],
+  "references": [
+    {
+      "name": "CSU Extension — Backyard Orchard: Apples and Pears",
+      "url": "https://extension.colostate.edu/resource/backyard-orchard-apples-and-pears/"
+    },
+    {
+      "name": "PlantTalk Colorado #1201 — Apples",
+      "url": "https://planttalk.colostate.edu/topics/fruits/1201-apples/"
+    },
+    {
+      "name": "University of Minnesota Extension — Growing Apples",
+      "url": "https://extension.umn.edu/fruit/growing-apples"
+    },
+    {
+      "name": "NC State Extension Plant Toolbox — Malus domestica",
+      "url": "https://plants.ces.ncsu.edu/plants/malus-domestica/"
+    },
+    {
+      "name": "eXtension Apples — Disease-Resistant Apple Cultivars",
+      "url": "https://apples.extension.org/disease-resistant-apple-cultivars/"
+    },
+    {
+      "name": "Amygdalin: Toxicity, Anticancer Activity and Analytical Procedures for Its Determination in Plant Seeds (Molecules, 2021) — NCBI PMC",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8069783/"
+    }
+  ],
+  "care": {
+    "hardiness": "'GoldRush' (PRI co-op selection 'Co-op 38', released 1994 by the Purdue–Rutgers–Illinois disease-resistant apple program) is rated about USDA zones 5–8, well within Boulder's 5b–6a range.[5] Its one Front-Range caveat is the season length: it ripens very late, so site it in the warmest, sunniest spot in the yard to be sure the long-season fruit finishes before a hard fall freeze.[1][5]",
+    "planting": "Plant in spring (April–May) or early fall, in full sun on high ground where cold air drains away rather than settling around the buds; avoid frost pockets and the warm south/west wall that forces bloom too early into frost.[1] Set bare-root trees in while dormant, container stock through the growing season. In a pot the roots freeze far harder than ground roots over a Front-Range winter, so use a large (≥20 gal) container in a sheltered or heeled-in spot out of the wind (or move it to an unheated garage in a hard cold snap), and plan to plant it in the ground within a year or two.[3]",
+    "sun": "Full sun, 6+ hours minimum and ideally all day — long, intense Front-Range light helps this very-late apple ripen and build its high sugar and acid.[1][4]",
+    "soil": "Well-drained soil; tolerant of a broad pH including Boulder's alkaline (>8.0) clay-loam, happiest near neutral 6.0–7.0.[4] Amend heavy clay with organic matter at planting to improve drainage and establishment, and never plant where water stands.[1]",
+    "water": "Moderate, regular water — a deep weekly soak through the dry summer keeps the long-developing fruit sizing, tapering off only as harvest nears in fall.[1][3] Water at the dripline and avoid chronic wet feet.[3]",
+    "spacing": "Spacing follows the rootstock: roughly 6–8 ft for dwarf, 12–15 ft for semi-dwarf, and 20–25 ft for standard trees.[3] 'GoldRush' is a vigorous grower, so a semi-dwarf rootstock makes the most manageable backyard tree at about 12–15 ft, with room for the pollinizer it needs nearby.[3][5]",
+    "propagation": "Apples don't come true from seed, so 'GoldRush' is propagated only by grafting or budding a scion of the cultivar onto a selected rootstock — never from its own seed.[4] The rootstock determines mature size, vigor, and how soon it bears, so buy a grafted tree on a rootstock sized to your space; because 'GoldRush' is naturally vigorous, a size-controlling semi-dwarf rootstock is usually wise.[3][5]",
+    "bloom": "White-and-pink blossom opens in spring (around May here).[1] Like all apples, 'GoldRush' is not self-fruitful and needs pollen from a *different*, co-blooming apple or flowering crabapple within about 100 ft whose bloom overlaps — plant a compatible second variety to set a crop.[2][3]",
+    "feeding": "Feed lightly with a balanced fertilizer in spring if growth is weak; keep nitrogen modest. Heavy nitrogen pushes soft growth that delays bearing and raises fire-blight risk — and though 'GoldRush' is more fire-blight-tolerant than many apples, it is not immune.[1][5]",
+    "maintenance": "Train to a central leader and prune while fully dormant in late winter (about early March), thinning crowded and crossing wood for light and airflow.[1][3] This vigorous, heavy-cropping variety benefits from fruit thinning in June–July (one apple per cluster, ~6 in apart) for size and to even out cropping.[3] Its standout virtue is field immunity to apple scab (it carries the Vf resistance gene), so it usually needs no scab fungicide — a major spray savings.[5]",
+    "troubles": "'GoldRush' is bred for disease resistance — scab-immune and notably resistant to powdery mildew, with moderate (not complete) fire-blight tolerance — which makes it one of the lower-spray apples for the Front Range.[5] Still watch fire blight in warm, wet bloom-time weather: keep nitrogen modest and cut out any strikes 8–12 in below the dead tissue in dry weather, sterilizing pruners between cuts.[1][5] Codling moth (the wormy-apple pest) and apple maggot still attack the fruit here and need monitoring and timed control for clean fruit; cedar-apple rust can affect it, so site away from junipers.[1]",
+    "harvest": "Pick very late — typically late October on the Front Range, among the last apples of the season, when the skin turns clear gold-yellow.[5] Picked fresh it is sharply spicy-tart; its hallmark is exceptional storage — it keeps firm and crisp for many months in cold storage (on the order of 7 months / into spring), and the flavor actually mellows and sweetens as it stores.[5]",
+    "companions": "Plant a different apple variety or a compatible flowering crabapple within ~100 ft as the required pollinizer.[2][3] Keep the root zone in mulch or low groundcover rather than competing turf, and keep it away from junipers/hawthorns that host shared diseases like cedar-apple rust.[1]"
+  },
+  "fact_src": {
+    "size": [
+      3,
+      5
+    ],
+    "sun": [
+      1,
+      4
+    ],
+    "water": [
+      1,
+      3
+    ],
+    "spread": [
+      2,
+      3
+    ],
+    "seasons": [
+      1,
+      5
+    ],
+    "wildlife": [
+      2,
+      4
+    ],
+    "deer": [
+      1
+    ],
+    "toxic": [
+      4,
+      6
+    ]
+  },
+  "edible": {
+    "level": "edible",
+    "food": true,
+    "card": "Crisp, spicy-tart keeper fruit — fresh, baked, or cider",
+    "summary": "The fruit is a top-class eating and cooking apple — spicy-tart off the tree, mellowing sweeter in storage — eaten fresh, baked, sauced, or pressed to cider; only the seeds carry a trace toxin.[5][6]",
+    "parts": "The fruit (flesh and skin) is the edible part, fresh or cooked.[4] 'GoldRush' is a complex, spicy-tart dessert and culinary apple with high sugar and acid; it is celebrated as a keeper whose flavor deepens and sweetens through months of cold storage, and it bakes, sauces, dries, and makes excellent cider.[5]",
+    "preparation": "Eat fresh (the tartness mellows after some weeks in storage), or core and slice for pies, sauce, drying, and juice/cider.[5] Cut out and discard the seedy core — the flesh needs no special treatment to be safe.[6]",
+    "caution": "The flesh and skin are entirely safe; the only concern is the seeds, which contain cyanogenic amygdalin like all apple pips. Amygdalin releases hydrogen cyanide only when seeds are crushed or chewed — whole seeds swallowed by accident pass through harmlessly, and it would take deliberately chewing on the order of dozens to hundreds of seeds to risk poisoning — so just core the apple, don't eat or grind the pips, and keep children and pets from chewing them.[6]"
+  }
 }

@@ -15,6 +15,8 @@
   "toxic": "",
   "winter": false,
   "verified": "2026-06-01",
+  "origin": "Garden hybrids of Asian and European wild roses",
+  "habitat": "Derived from wild roses of woodland edges, hedgerows, and rocky ground",
   "care": {
     "hardiness": "Hardiness varies by cultivar — choose repeat-blooming climbers rated to USDA zone 4 or 5 for Front Range reliability (e.g. 'New Dawn', 'Fourth of July', 'Don Juan'). CSU Extension notes that climbing hybrid teas are generally not recommended in most of Colorado due to winter cane damage; focus on hardy own-root or zone-4/5 climbers that bloom on both old and new wood. Expect some cane dieback in harsh winters; prune out the dead wood in spring.[2]",
     "sun": "Full sun — at least 6 hours daily, ideally 8. A south or west-facing wall or fence suits repeat-blooming climbers well on the Front Range, though a south wall can amplify heat; east-facing exposures (morning sun) help keep canes cooler and reduce mildew pressure.[2]",
@@ -37,7 +39,9 @@
     "seasons": [2],
     "wildlife": [1, 4],
     "deer": [1],
-    "toxic": [4, 5]
+    "toxic": [4, 5],
+    "origin": [5],
+    "habitat": [5]
   },
   "edible": {
     "level": "edible",

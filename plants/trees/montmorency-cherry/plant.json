@@ -15,6 +15,8 @@
   "toxic": "Fruit flesh edible (tart); pits, leaves & twigs cyanogenic — toxic to people/pets/livestock",
   "winter": false,
   "verified": "2026-06-04",
+  "origin": "Europe to SW Asia (Black Sea and Caspian region)",
+  "habitat": "Forest margins and woodland edges in Europe and SW Asia",
   "shots": [
     {
       "local": "images/sp-flowers-t.jpg",
@@ -109,7 +111,9 @@
     ],
     "toxic": [
       3
-    ]
+    ],
+    "origin": [3],
+    "habitat": [3]
   },
   "references": [
     {

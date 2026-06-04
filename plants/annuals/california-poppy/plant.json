@@ -16,6 +16,8 @@
   "toxic": "",
   "winter": false,
   "verified": "2026-06-01",
+  "origin": "Western US — California, SW Oregon to Baja California",
+  "habitat": "Open grassy slopes and disturbed sandy or rocky ground",
   "care": {
     "hardiness": "Hardy annual / short-lived perennial native to the western US — perfectly suited to Front Range conditions (USDA zones 5b–6a and higher). The seeds are frost-tolerant and winter-sow naturally; plants complete their cycle in one growing season and die at hard frost, relying on self-sown seed to return the following year.[1][2]",
     "sun": "Full sun is required — 6+ hours daily minimum. Flowers close at night and in cloudy or cool weather, and plants in shade stay closed and bloom poorly. Boulder's intense high-altitude sun is ideal.[2]",
@@ -42,7 +44,9 @@
     "seasons": [2],
     "wildlife": [2],
     "deer": [2],
-    "toxic": [3]
+    "toxic": [3],
+    "origin": [2],
+    "habitat": [2]
   },
   "edible": {
     "level": "caution",

@@ -15,6 +15,8 @@
   "toxic": "Milky sap irritates skin/eyes — wear gloves; caution with kids/pets",
   "winter": false,
   "verified": "2026-05-28",
+  "origin": "Central and SE Europe to NW Turkey",
+  "habitat": "Rocky open hillsides, dry woodland edges, and scrub on limestone",
   "care": {
     "hardiness": "USDA zones 4–8 — fully winter-hardy on the Boulder Front Range (zone 5b–6a). The mound dies back to the crown in winter and re-emerges reliably each spring. No protection needed beyond good drainage; sitting in wet soil through freeze-thaw cycles is the one thing that kills it.[1][3]",
     "sun": "Full sun is ideal — 6+ hours gives the tightest, brightest dome. It tolerates light afternoon shade, but too much shade causes the plant to lose its characteristic cushion shape and become open and floppy.[1]",
@@ -38,7 +40,9 @@
     "seasons": [1],
     "wildlife": [1],
     "deer": [1],
-    "toxic": [3, 4]
+    "toxic": [3, 4],
+    "origin": [3],
+    "habitat": [3]
   },
   "edible": {
     "level": "toxic",

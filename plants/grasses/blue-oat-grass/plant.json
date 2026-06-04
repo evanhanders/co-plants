@@ -15,6 +15,8 @@
   "toxic": "",
   "winter": true,
   "verified": "2026-06-03",
+  "origin": "SW Europe — southwestern Alps of France and Italy",
+  "habitat": "Rocky limestone slopes, gravelly screes, and dry montane meadows",
   "care": {
     "hardiness": "USDA zones 4–8, making it reliably cold-hardy throughout the Front Range (zones 5b–6a). The semi-evergreen foliage bleaches and browns some in a hard Boulder winter but holds its blue-gray form and recovers color quickly in spring — do not cut it to the ground.[1][2]",
     "planting": "Plant in spring (late April through May, after soils have dried out some) or early fall (August–September, giving roots 6–8 weeks before frost). Blue oat grass is a cool-season grass that roots best in mild temperatures; midsummer planting in Boulder heat stresses new plants badly. In the ground, space plants generously and amend heavy clay only with grit or coarse sand to sharpen drainage — organic matter holds moisture this grass dislikes. In containers, use a lean, fast-draining mix (add perlite or coarse grit at 25–30%); containers dry rapidly in Front Range sun and wind, which suits this xeric species, but pot roots are far less cold-hardy than in-ground roots — bring pots to a protected, unheated spot (garage, shed) for winter or sink the pot in the ground. Repot or divide container plants every 2–3 years when the center starts to die out.[1][2]",
@@ -37,7 +39,9 @@
     "seasons": [1, 2],
     "wildlife": [1],
     "deer": [1],
-    "toxic": [1]
+    "toxic": [1],
+    "origin": [1],
+    "habitat": [1]
   },
   "edible": {
     "level": "inedible",

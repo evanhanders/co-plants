@@ -15,6 +15,8 @@
   "toxic": "",
   "winter": false,
   "verified": "2026-06-01",
+  "origin": "Garden hybrids of Asian and European wild roses",
+  "habitat": "Derived from wild roses of woodland edges, hedgerows, and rocky ground",
   "care": {
     "hardiness": "Many classic ramblers are hardy to USDA zone 4–5, making them reliable on the Front Range (zones 5b–6a) when given a sheltered site. Paul's Himalayan Musk, Veilchenblau, American Pillar, and Chevy Chase are among the tougher choices for Colorado. Expect minimal cane dieback in normal winters; in severe winters protect the graft union with a mound of soil or mulch. Choose own-root plants where available — if the top dies, regrowth is the same variety.[2]",
     "sun": "Full sun to part shade — ramblers are more shade-tolerant than climbers or bush roses, making them useful for pergolas, fences, or north-facing walls where other roses struggle. At minimum 4 hours of direct sun for reasonable flowering; 6+ hours for a full flush of bloom.[1][2]",
@@ -37,7 +39,9 @@
     "seasons": [1],
     "wildlife": [1, 4],
     "deer": [1],
-    "toxic": [4, 5]
+    "toxic": [4, 5],
+    "origin": [5],
+    "habitat": [5]
   },
   "edible": {
     "level": "edible",

@@ -15,6 +15,8 @@
   "toxic": "Resinous sap may cause contact dermatitis, especially for people sensitive to poison ivy (same family, Anacardiaceae); wear gloves when pruning",
   "winter": true,
   "verified": "2026-06-03",
+  "origin": "Southern Europe to central China — a vast Eurasian range",
+  "habitat": "Rocky hillsides, scrub, and dry open woodland on calcareous soils",
   "care": {
     "hardiness": "Hardy to USDA zone 4 (some sources list zone 5 for certain purple-leaf cultivars; the straight species and 'Royal Purple' are reliably zone 4b–5a). Reliable across the Front Range where winter lows rarely reach zone 4 extremes. Young plants may experience stem tip dieback in harsh winters; this is cosmetic and growth resumes vigorously in spring.[1][2]",
     "planting": "Plant in spring (Apr–May) or early fall (Sep) in a well-drained spot with room for its eventual full size — this shrub gets large. Avoid low spots, heavy clay that pools water, and north-facing walls with poor drainage. In containers it dries out very quickly and is far less cold-hardy; roots in pots can be killed by extended hard freezes — if overwintering in a pot, move to an unheated but frost-protected garage or sink the pot into the ground. Plant in-ground for best results.[1][2]",
@@ -36,7 +38,9 @@
     "seasons": [1, 2],
     "wildlife": [2],
     "deer": [2],
-    "toxic": [2]
+    "toxic": [2],
+    "origin": [2],
+    "habitat": [2]
   },
   "edible": {
     "level": "inedible",

@@ -16,6 +16,8 @@
   "toxic": "ALL PARTS TOXIC — foliage, flowers, and seeds contain toxic alkaloids (delphinine and related compounds) harmful to people, livestock, and pets if ingested; wear gloves when handling and keep away from children",
   "winter": false,
   "verified": "2026-06-03",
+  "origin": "Mediterranean — southern Europe and North Africa",
+  "habitat": "Disturbed ground, rocky slopes, and dry coastal cliffs",
   "care": {
     "hardiness": "Cool-season hardy annual — seed withstands freezing soil, making it ideal for fall sowing or very early spring sowing on the Front Range. Plants grow actively in cool weather (below ~75°F) and bolt or die once sustained summer heat arrives. Not winter-hardy as a plant, but fall-sown seeds overwinter in the ground and germinate naturally in late winter/early spring.[1][2]",
     "planting": "Direct sowing is strongly preferred — larkspur has a fragile taproot and resents root disturbance. Sow seed directly where it will grow and bloom. Best timing in Colorado: fall sowing (September–November) is the preferred method — scatter seed on prepared soil before the ground freezes, let winter cold-stratify the seed naturally, and the plants emerge and bloom the following May–June. Early spring sowing also works: sow as soon as the soil is workable (March–April, even into a light snow), pressing seed firmly into moist soil. Summer heat is the enemy — the earlier the seed is in the ground, the better. If starting indoors, sow in individual deep pots or plug cells 5–7 weeks before transplanting out, keep at 55°F (13°C), and transplant with minimal root disturbance before plants become pot-bound.[1][2]",
@@ -41,7 +43,9 @@
     "seasons": [1, 2],
     "wildlife": [1],
     "deer": [1, 3],
-    "toxic": [1, 3]
+    "toxic": [1, 3],
+    "origin": [1],
+    "habitat": [1]
   },
   "edible": {
     "level": "toxic",

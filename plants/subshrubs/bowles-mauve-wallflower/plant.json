@@ -15,6 +15,8 @@
   "toxic": "Not considered notably toxic; not for eating",
   "winter": false,
   "verified": "2026-06-04",
+  "origin": "Mediterranean Europe — hybrid with S. European Erysimum parentage",
+  "habitat": "Sunny rocky walls, cliffs, and dry scrub in Mediterranean regions",
   "shots": [
     {
       "local": "images/sp-flowers-t.jpg",
@@ -100,7 +102,9 @@
     ],
     "toxic": [
       3
-    ]
+    ],
+    "origin": [2],
+    "habitat": [2]
   },
   "edible": {
     "level": "inedible",

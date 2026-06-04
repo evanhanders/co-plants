@@ -16,6 +16,8 @@
   "toxic": "",
   "winter": false,
   "verified": "2026-06-03",
+  "origin": "Mediterranean Europe — southern France, Iberia, and the western Mediterranean",
+  "habitat": "Rocky slopes, old walls, and sun-baked limestone cliffs",
   "care": {
     "hardiness": "Hardy to USDA Zone 5 (−20°F), reliable through Boulder's Zone 5b–6a winters. Dies to the ground after hard frost and re-emerges from the base in spring. A mulch layer of 2–3 in over the crown provides insurance in the coldest microclimates.[1][2]",
     "planting": "Plant in spring (Apr–May) or early fall (Sep). Red valerian is not fussy about soil quality — the main requirement is sharp drainage. It excels in gravelly berms, rock walls, and hell-strip plantings where heavy clay has been replaced or amended with grit. Work coarse grit or gravel into clay planting holes to ensure water moves away from the crown. Container plants establish readily; keep pots on the lean and dry side (do not over-pot) and insulate roots over winter in a sheltered spot.[1][2]",
@@ -38,7 +40,9 @@
     "seasons": [1, 2],
     "wildlife": [1, 2],
     "deer": [1],
-    "toxic": [2]
+    "toxic": [2],
+    "origin": [1],
+    "habitat": [1]
   },
   "edible": {
     "level": "edible",

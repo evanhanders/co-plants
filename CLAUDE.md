@@ -270,6 +270,29 @@ all** button when anything is active. Filter/search/view state is mirrored into 
 (`#view=…&nat=…&type=…&life=…&trait=…&q=…`) via `syncHash()`/`applyHash()`, so filtered views are
 shareable and survive a reload.
 
+### Adding a trait
+
+A "trait" is a single boolean fact about a plant (Winter / Pollinator / Spreads / Edible / Toxic)
+that shows as a **card+sheet badge** *and* a **filter chip with a count** — both driven off one
+predicate so they can't drift. To add one (e.g. `Fragrant`):
+
+1. **Add one entry to the `TRAITS` map in `reel.js`** — `key:{ label, icon, test:function(p){…} }`.
+   The `test(p)` predicate is the whole definition of who qualifies; base it on existing data
+   (regex a field, e.g. `/fragran|scent/i.test(p.blurb||'')`) or on an explicit per-plant marker
+   (like the `Edible` trait's `edible.food === true`). Prefer an explicit marker when "who
+   qualifies" is a judgment call rather than something cleanly derivable from a field.
+2. **Push the badge in `flagsHTML` (`reel.js`)** —
+   `if(TRAITS.key.test(p)) flags.push('<span class="flag CLASS">ICON Label</span>');` (the map's
+   `test` is the gate; the badge text/icon lives here).
+3. **Add a `.flag.CLASS` colour rule in `styles.css`** next to the other `.flag.*` rules.
+4. **That's it for wiring.** `app.js` never hard-codes trait names: `buildTraitChips()` iterates
+   `Object.keys(TRAITS)` (auto-creating the chip + live count), `passesFilters()` tests
+   `TRAITS[t].test(p)`, and the `trait=` URL-hash round-trip + Clear-all already cover any key in
+   the map. The one-line comment listing trait values at the top of `app.js` is the only manual
+   touch (cosmetic).
+5. **If the predicate reads a new data field, populate it** on the qualifying `plant.json`s (and
+   document the field in the "`plant.json` schema" list). Then sanity-check the count.
+
 **Accessibility.** Photos are `role="button" tabindex="0"` with descriptive per-shot `alt`;
 group-collapse chevrons are real `<button>`s with `aria-expanded`; the lightbox and add
 modal are `role="dialog" aria-modal` with focus move-in, a Tab focus-trap, focus-return to

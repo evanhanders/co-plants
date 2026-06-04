@@ -36,14 +36,14 @@
     "seasons": [1, 2],
     "wildlife": [2],
     "deer": [2],
-    "toxic": [2, 4]
+    "toxic": [2, 4, 5]
   },
   "edible": {
     "level": "edible",
     "summary": "The fringed petals are edible — a classic clove-scented edible flower for salads, desserts, and crystallizing — but trim off the bitter white petal base first, and do not eat the leaves or stems.[4]",
     "parts": "Only the flower petals are eaten. Dianthus petals (the whole Dianthus genus — pinks and carnations) are a long-established edible flower, prized for a sweet, spicy, clove-like flavor. The bitter, narrow white heel at the base of each petal is not edible and is removed before use. The leaves and stems are not food.[4]",
     "preparation": "Pull the petals from the calyx, snip away the bitter white base of each petal, then use the colored portion fresh in salads, scattered over desserts, or crystallized with sugar to decorate cakes. Use only flowers grown without pesticides, and be certain of the identification before eating any flower.[4]",
-    "caution": "Eat the petals only — the leaves and stems contain triterpenoid saponins and can cause mild gastrointestinal upset (including vomiting) if eaten and mild contact dermatitis on sensitive skin. The whole plant (notably the foliage) is listed as toxic to dogs, cats, and horses by the ASPCA, so keep pets from grazing it. Always remove the bitter white petal base, and use only pesticide-free, correctly identified flowers.[2][4]"
+    "caution": "Eat the petals only — the leaves and stems contain triterpenoid saponins and can cause mild gastrointestinal upset (including vomiting) if eaten and mild contact dermatitis on sensitive skin. Dianthus (carnations/pinks) is listed as toxic to dogs, cats, and horses by the ASPCA (mild GI signs and dermatitis), so keep pets from grazing it. Always remove the bitter white petal base, and use only pesticide-free, correctly identified flowers.[2][4][5]"
   },
   "references": [
     {
@@ -61,6 +61,10 @@
     {
       "name": "NC State Extension Plant Toolbox — Dianthus (genus: petals edible, bitter base removed; leaf saponin toxicity)",
       "url": "https://plants.ces.ncsu.edu/plants/dianthus/"
+    },
+    {
+      "name": "ASPCA Animal Poison Control — Carnation/Pinks (Dianthus, toxic to dogs/cats/horses, mild GI + dermatitis)",
+      "url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/carnation"
     }
   ],
   "shots": [

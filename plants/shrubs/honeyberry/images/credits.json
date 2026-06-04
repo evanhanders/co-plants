@@ -1,0 +1,70 @@
+[
+  {
+    "file": "images/su-fruit.jpg",
+    "photo_id": 44036850,
+    "by": "karrin",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/28258108",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      933
+    ],
+    "thumb_px": [
+      400,
+      267
+    ]
+  },
+  {
+    "file": "images/su-berry.jpg",
+    "photo_id": 248939749,
+    "by": "alopecurus",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/144972306",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      1050
+    ],
+    "thumb_px": [
+      400,
+      300
+    ]
+  },
+  {
+    "file": "images/sp-flower.jpg",
+    "photo_id": 195777613,
+    "by": "Jared Manninen",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/115998804",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1200,
+      800
+    ],
+    "thumb_px": [
+      400,
+      267
+    ]
+  },
+  {
+    "file": "images/su-foliage.jpg",
+    "photo_id": 132064130,
+    "by": "mkrochta",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/80565999",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  }
+]

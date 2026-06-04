@@ -1,0 +1,131 @@
+{
+  "common": "Jostaberry",
+  "botanical": "Ribes × nidigrolaria",
+  "type": "Shrub",
+  "lifecycle": "Perennial",
+  "native": "Non-native",
+  "blurb": "A thornless black-currant-by-gooseberry hybrid — a vigorous, trouble-free bush hung with big tart-sweet near-black berries that ripen to currant-and-gooseberry flavor.",
+  "size": "5–6 ft × 5–6 ft",
+  "sun": "Full sun to part shade (best fruit in full sun; afternoon shade helps in heat)",
+  "water": "Moderate — evenly moist soil; taper off after harvest to harden for winter",
+  "spread": "Clumping — a broad multi-stemmed bush; does not run or sucker invasively",
+  "seasons": "Maroon-pink and cream flowers April–May; reddish-black berries ripen midsummer; green summer foliage; bare arching stems in winter",
+  "wildlife": "Bees and early pollinators work the spring flowers; birds will strip the ripe fruit if it isn't netted",
+  "deer": "Browsed occasionally; not a preferred deer food but not reliably deer-proof",
+  "toxic": "",
+  "winter": false,
+  "verified": "2026-06-04",
+  "origin": "A garden hybrid bred in Germany in the 1970s from European black currant and gooseberry parents",
+  "habitat": "A cultivated hybrid with no wild habitat; its parent Ribes grow in cool, moist temperate woodlands and thickets of Europe and Asia",
+  "care": {
+    "hardiness": "Very cold-hardy — rated for USDA zones 3–8, so it shrugs off a Boulder zone 5b–6a winter with no protection. As a Ribes it actually prefers cooler summers; on the hot Front Range, fruit and foliage hold up best with even moisture and a little afternoon shade. Currants, gooseberries, and jostaberries can be grown here up to about 10,000 ft with the right siting.[1][2]",
+    "planting": "Plant dormant bare-root or container bushes in early spring (April) or in early fall (September) so the roots establish in cool soil before heat or hard freeze. Give it rich, well-drained ground and space to reach 5–6 ft. Jostaberry grows acceptably in a large (15–20+ gal) container for a season or two — water it often, since pots dry fast in the semi-arid climate, and protect the pot over winter because a container root ball freezes far harder than ground-planted roots; sink, wrap, or move it to an unheated garage. For a long-lived, productive bush, plant it in the ground.[1]",
+    "sun": "Grows best and fruits most heavily in full sun, but tolerates part shade — and in the Front Range's hot, high-altitude summers a spot with afternoon shade actually helps protect the foliage and fruit from scorch. Aim for at least a half-day of sun for a good crop.[2]",
+    "soil": "Prefers fertile, loamy, evenly moist, well-drained soil with a pH around 6–7, but it tolerates the heavier clay soils and higher pH common on the Front Range. Work in compost at planting and mulch to keep the shallow roots cool and the moisture even.[1][2]",
+    "water": "Keep the soil evenly moist through the growing season — adequate, steady water gives the best fruit size and yield. After harvest, gradually reduce watering to let the plant harden off for winter, then give one final deep watering in November before the ground freezes. Avoid both drought stress and waterlogged soil.[1]",
+    "spacing": "Set bushes about 3.5–4.5 ft apart in the row, with rows 6–8 ft apart; each plant matures into a broad 5–6 ft multi-stemmed bush. A single bush is self-fertile, so one plant will fruit on its own.[1][2]",
+    "propagation": "Easiest from hardwood cuttings of year-old wood taken in late fall or winter (the standard method for currants and gooseberries) and lined out to root; mound layering — heaping soil over the base of the bush so the lower stems root — also works well. Seed is not used for this hybrid and will not come true. Lift and replant rooted layers or cuttings in early spring.[1]",
+    "bloom": "Clusters of small maroon-pink and creamy-white flowers open in April–May, among the earlier shrubs to bloom; they are visited by early bees. Late-spring frosts in Boulder can nip open flowers, but the bush itself is unharmed and usually still sets a crop.[1][2]",
+    "feeding": "Apply roughly 4–8 oz of a balanced fertilizer (such as 10-10-10) per plant per year, worked into the soil in early spring as growth begins; compost serves the same purpose. Avoid heavy late-season nitrogen, which delays hardening. Established bushes in good soil need only modest feeding.[1]",
+    "maintenance": "Jostaberry fruits on spurs on two- and three-year-old wood, so prune in late winter or early spring before the buds swell: remove the oldest stems (older than about three years), along with any dead, weak, or crossing wood, to keep a framework of vigorous young-to-middle-aged canes. The thornless stems make this far more pleasant than pruning a gooseberry. Net the bush as fruit colors if birds are a problem.[1]",
+    "harvest": "Pick the berries midsummer when they are fully colored — reddish-black to black — and slightly soft; under-ripe fruit is sharply tart, while fully ripe jostaberries are tart-sweet with a black-currant-and-gooseberry flavor. They hold on the bush reasonably well and ripen somewhat unevenly, so pick over the bush more than once.[1][2]",
+    "troubles": "One of the great virtues of jostaberry is its disease resistance: it was bred to resist white pine blister rust, powdery mildew, and gooseberry mildew, and in Colorado Ribes diseases have not been a major problem. (Because all Ribes are alternate hosts for white pine blister rust, this hybrid's strong resistance is a real advantage where five-needle pines grow — but it is still a minor potential host, so site it well away from valuable white pines if rust is a regional concern.) Watch for aphids, cane borers, and spider mites; birds are the most likely cause of crop loss.[1][2]",
+    "companions": "Like currants and gooseberries, jostaberry pairs well with other small fruits in a dedicated berry bed and appreciates a cool, mulched, lightly shaded root run. Underplant or edge with low herbs and avoid crowding it with thirsty vegetables that compete for the even moisture it wants. Give it room to reach its full 5–6 ft spread.[1]"
+  },
+  "fact_src": {
+    "size": [
+      1,
+      2
+    ],
+    "sun": [
+      2
+    ],
+    "water": [
+      1
+    ],
+    "spread": [
+      1,
+      2
+    ],
+    "seasons": [
+      1,
+      2
+    ],
+    "wildlife": [
+      2
+    ],
+    "deer": [
+      2
+    ],
+    "toxic": [
+      2
+    ],
+    "origin": [
+      2
+    ],
+    "habitat": [
+      2
+    ]
+  },
+  "edible": {
+    "level": "edible",
+    "food": true,
+    "card": "Ripe berries (fresh, jam, pies)",
+    "summary": "The large reddish-black-to-black berries are fully edible — eaten fresh when ripe or, more often, cooked into preserves, pies, and juice.[1][2]",
+    "parts": "The berries are the edible part. Ripe (fully colored, soft) jostaberries are tart-sweet with a black-currant-and-gooseberry flavor and can be eaten fresh out of hand; under-ripe fruit is quite tart and is better cooked. They make excellent jams, jellies, chutneys, pies, crumbles, juice, and liqueur. No other part of the plant is eaten.[1][2]",
+    "preparation": "Pick the berries when fully ripe (reddish-black to black and slightly soft) for fresh eating; pick a touch earlier and more tart for jelly, where the higher pectin and acid help it set. Top-and-tail like gooseberries if eating in quantity, then eat fresh, cook into preserves and baked goods, or press for juice; they freeze well.[1][2]",
+    "caution": "Jostaberry is a straightforwardly edible fruit bush with no known toxic parts. The only real cautions are practical: eat the berries fully ripe for the best (less sharply tart) flavor, and wash fruit from any plant that may have been sprayed. As with any fruit, positively identify the plant before eating.[1][2]"
+  },
+  "references": [
+    {
+      "name": "CSU Extension — Currants, Gooseberries and Jostaberries",
+      "url": "https://extension.colostate.edu/resource/currants-gooseberries-and-jostaberries/"
+    },
+    {
+      "name": "Missouri Botanical Garden Plant Finder — Ribes × nidigrolaria",
+      "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=446178&isprofile=0&pt=7"
+    }
+  ],
+  "shots": [
+    {
+      "local": "images/su-fruit-t.jpg",
+      "full": "images/su-fruit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/42920313/large.jpg",
+      "s": "summer",
+      "cap": "Summer — dark, gooseberry-like jostaberries ripening on thornless stems · © frahome (CC-BY-NC) / iNaturalist",
+      "by": "frahome",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/27576488"
+    },
+    {
+      "local": "images/su-berry-t.jpg",
+      "full": "images/su-berry.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/529364407/large.jpg",
+      "s": "summer",
+      "cap": "Summer — near-black ripe jostaberries hanging along the cane · © Aliaksandr Mialik (CC-BY-NC) / iNaturalist",
+      "by": "Aliaksandr Mialik",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/294116305"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/666360649/large.jpg",
+      "s": "summer",
+      "cap": "Summer — the vigorous thornless bush, currant-and-gooseberry in habit · © agyagfalva_6b_lehel (CC-BY-NC) / iNaturalist",
+      "by": "agyagfalva_6b_lehel",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/364996203"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/484660175/large.jpeg",
+      "s": "summer",
+      "cap": "Lobed, gooseberry-like leaves on smooth, spineless stems · © Ezra (CC-BY-NC) / iNaturalist",
+      "by": "Ezra",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/269547944"
+    }
+  ]
+}

@@ -741,12 +741,12 @@ ground every statement in an authority cited in `references`.
 
 ## Current plant roster (in the live site)
 
-**85 specimens**, all verified non-weed in CO and all carrying a full `care` block (incl.
+**96 specimens**, all verified non-weed in CO and all carrying a full `care` block (incl.
 `planting` + `propagation`) **and a repo-hosted photo reel** (close-up + structure, seasonal
 where good shots exist). Every plant's detail page is now **fully cited** — a numbered
 `references` bibliography with inline `[n]` markers on the facts table (`fact_src`), the care
-prose, and a safety-reviewed **`edible` block** (current split: 37 inedible · 21 caution · 16
-edible · 11 toxic). Every **non-native** plant (62 of the 85) also carries **provenance** —
+prose, and a safety-reviewed **`edible` block** (current split: 37 inedible · 22 caution · 26
+edible · 11 toxic). Every **non-native** plant (71 of the 96) also carries **provenance** —
 `origin` (where it's from) + `habitat` (its wild growing conditions) — shown as blue "Native
 to" / "Wild habitat" rows on its card and detail page, cited via `fact_src`. Grouped by type
 below (the order the site uses). Photos were sourced
@@ -792,6 +792,17 @@ blocks say so plainly rather than overselling hardiness.
 - Smoke tree (*Cotinus coggygria*) (I) — A large, dramatic shrub famed for billowing clouds of…
 - Twinberry honeysuckle (*Lonicera involucrata*) (N) — A bold native riparian shrub
 - Wood's rose (*Rosa woodsii*) (N) — Fragrant pink wild rose with red hips that hang on all winter.
+- Saskatoon serviceberry (*Amelanchier alnifolia 'Smoky'*) (N) — Bulletproof native fruiting shrub; sweet blueberry-like pomes for pies. *(Edible + Toxic: foliage/seeds cyanogenic)*
+- Golden currant (*Ribes aureum*) (N) — Thornless native currant; clove-scented golden spring trumpets, sweet amber-to-black berries.
+- Nanking cherry (*Prunus tomentosa*) (I) — Iron-hardy Asian bush cherry (−40°F); sweet-tart scarlet cherries. *(Edible + Toxic: pits/foliage cyanogenic)*
+- Red currant (*Ribes rubrum 'Red Lake'*) (I) — CSU's go-to red currant; translucent ruby strigs for jewel-bright jelly.
+- Black currant (*Ribes nigrum 'Ben Sarek'*) (I) — Aromatic compact bush; matte-black berries for deep musky jam/cordial. (Strongest white-pine-blister-rust host; 'Ben Sarek' rust-resistant.)
+- Gooseberry (*Ribes uva-crispa 'Hinnomäki Red'*) (I) — Finnish dessert gooseberry; tart-skinned, sweet-fleshed dark-red berries.
+- Raspberry (*Rubus idaeus 'Caroline'*) (I) — Fall-bearing red raspberry; mow to the ground each spring, crop late summer to frost.
+- Jostaberry (*Ribes × nidigrolaria*) (I) — Thornless black-currant × gooseberry hybrid; vigorous, big tart-sweet near-black berries.
+- Honeyberry / haskap (*Lonicera caerulea*) (I) — The true Front-Range blueberry alternative; alkaline-clay & −40°F tolerant, earliest fruit. (Needs two varieties to fruit.)
+- Black chokeberry / aronia (*Aronia melanocarpa*) (I) — Ultra-hardy; red fall foliage + glossy black antioxidant berries (cooked/juiced). *(Not xeric — wants supplemental water.)*
+- Sea buckthorn (*Hippophae rhamnoides*) (I) — Suckering silver-leaved, thorny shrub; intensely tart vitamin-C orange berries. *(Dioecious — needs male+female; suckering Elaeagnaceae, contain away from waterways.)*
 
 **Subshrubs**
 - Apricot wallflower (*Erysimum 'Apricot Twist'*) (I) — Long-blooming perennial wallflower; flowers open apricot and age to mauve. *(photos species-representative — see `gaps`)*

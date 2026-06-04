@@ -1,0 +1,50 @@
+{
+  "common": "Summercrisp pear",
+  "botanical": "Pyrus communis 'Summercrisp'",
+  "type": "Tree",
+  "lifecycle": "Perennial",
+  "native": "Introduced",
+  "blurb": "Cold-hardy, fire-blight-resistant pear, picked crisp and sweet in mid-summer.",
+  "size": "~18–25 ft × 12–15 ft",
+  "sun": "Full sun (6+ hrs)",
+  "water": "Moderate, regular",
+  "spread": "Clumping — needs a second pear (e.g. Luscious, Parker) to pollinate",
+  "seasons": "White blossom spring; crisp green-red pears mid–late Aug",
+  "wildlife": "Bee-pollinated blossom; fruit for wildlife",
+  "deer": "Foliage & fruit browsed — not deer-resistant",
+  "toxic": "Fruit flesh edible; seeds contain cyanogenic amygdalin (mildly toxic if chewed in quantity)",
+  "winter": false,
+  "verified": "2026-06-04",
+  "shots": [
+    {
+      "local": "images/sp-flowers-t.jpg",
+      "full": "images/sp-flowers.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/636957770/large.jpg",
+      "s": "spring",
+      "cap": "Spring — white pear blossom with pink anthers (shown on the species, Pyrus communis; 'Summercrisp' blooms the same) · © nicandra711ph (CC-BY-NC) / iNaturalist",
+      "by": "nicandra711ph",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/349189331"
+    },
+    {
+      "local": "images/su-fruit-t.jpg",
+      "full": "images/su-fruit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/161319862/large.jpg",
+      "s": "summer",
+      "cap": "Summer — a ripening pear on the tree (species-representative of the chartreuse, red-blushed 'Summercrisp') · © Богданович Светлана (CC-BY-NC) / iNaturalist",
+      "by": "Богданович Светлана",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/97050218"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/370812780/large.jpg",
+      "s": "summer",
+      "cap": "Summer — pear foliage and developing fruit (Pyrus communis, representative) · © Michal Svit (CC-BY-NC) / iNaturalist",
+      "by": "Michal Svit",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/209555654"
+    }
+  ]
+}

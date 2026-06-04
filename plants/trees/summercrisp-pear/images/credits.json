@@ -1,0 +1,59 @@
+[
+  {
+    "file": "images/sp-flowers.jpg",
+    "by": "nicandra711ph",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/349189331",
+    "dataset": "iNaturalist",
+    "orig_px": [
+      788,
+      1024
+    ],
+    "full_px": [
+      788,
+      1024
+    ],
+    "thumb_px": [
+      308,
+      400
+    ]
+  },
+  {
+    "file": "images/su-fruit.jpg",
+    "by": "Богданович Светлана",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/97050218",
+    "dataset": "iNaturalist",
+    "orig_px": [
+      768,
+      1024
+    ],
+    "full_px": [
+      768,
+      1024
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  },
+  {
+    "file": "images/su-foliage.jpg",
+    "by": "Michal Svit",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/209555654",
+    "dataset": "iNaturalist",
+    "orig_px": [
+      768,
+      1024
+    ],
+    "full_px": [
+      768,
+      1024
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  }
+]

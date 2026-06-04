@@ -1,0 +1,60 @@
+{
+  "common": "Evans Bali cherry",
+  "botanical": "Prunus cerasus 'Evans'",
+  "type": "Tree",
+  "lifecycle": "Perennial",
+  "native": "Introduced",
+  "blurb": "Zone-3-hardy tart cherry, self-fertile and sweet enough to eat fresh or bake into pie.",
+  "size": "~10–14 ft × 10–12 ft",
+  "sun": "Full sun (6+ hrs)",
+  "water": "Moderate; drought-tolerant once established",
+  "spread": "Clumping — self-fertile (one tree fruits); may sucker",
+  "seasons": "White blossom spring; dark-red tart cherries July",
+  "wildlife": "Bee-pollinated; birds eagerly take the fruit",
+  "deer": "Foliage & fruit browsed — not deer-resistant",
+  "toxic": "Fruit flesh edible (tart); pits, leaves & twigs cyanogenic — toxic to people/pets/livestock",
+  "winter": false,
+  "verified": "2026-06-04",
+  "shots": [
+    {
+      "local": "images/su-fruit-t.jpg",
+      "full": "images/su-fruit.jpg",
+      "commons": "EvansCherriesRipening.jpg",
+      "s": "summer",
+      "cap": "Summer — dark-red tart cherries ripening on the tree · © Montanabw (CC BY-SA 3.0) / Wikimedia Commons",
+      "by": "Montanabw",
+      "lic": "CC BY-SA 3.0",
+      "link": "https://commons.wikimedia.org/wiki/File:EvansCherriesRipening.jpg"
+    },
+    {
+      "local": "images/su-close-t.jpg",
+      "full": "images/su-close.jpg",
+      "commons": "EvansCherry2.JPG",
+      "s": "summer",
+      "cap": "Summer — close view of the glossy red fruit and glossy foliage · © Montanabw (CC BY-SA 3.0) / Wikimedia Commons",
+      "by": "Montanabw",
+      "lic": "CC BY-SA 3.0",
+      "link": "https://commons.wikimedia.org/wiki/File:EvansCherry2.JPG"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "commons": "EvansCherryNetted2.JPG",
+      "s": "summer",
+      "cap": "Summer — the netted tree hanging heavy with fruit · © Montanabw (CC BY-SA 3.0) / Wikimedia Commons",
+      "by": "Montanabw",
+      "lic": "CC BY-SA 3.0",
+      "link": "https://commons.wikimedia.org/wiki/File:EvansCherryNetted2.JPG"
+    },
+    {
+      "local": "images/sp-flowers-t.jpg",
+      "full": "images/sp-flowers.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/628853065/large.jpg",
+      "s": "spring",
+      "cap": "Spring — white sour-cherry blossom (shown on the species, Prunus cerasus; 'Evans' blooms the same) · © Dino Babić (CC-BY) / iNaturalist",
+      "by": "Dino Babić",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/345092574"
+    }
+  ]
+}

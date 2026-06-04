@@ -1,0 +1,60 @@
+{
+  "common": "Stanley plum",
+  "botanical": "Prunus domestica 'Stanley'",
+  "type": "Tree",
+  "lifecycle": "Perennial",
+  "native": "Introduced",
+  "blurb": "Self-fertile European prune plum: sweet blue fruit superb fresh, dried, or canned.",
+  "size": "~12–18 ft × 12–15 ft",
+  "sun": "Full sun (6+ hrs)",
+  "water": "Moderate, regular",
+  "spread": "Clumping — self-fertile (one tree fruits)",
+  "seasons": "White blossom spring; deep-blue prune plums late Aug–Sept",
+  "wildlife": "Bee magnet in bloom; fruit for wildlife",
+  "deer": "Foliage & fruit browsed — not deer-resistant",
+  "toxic": "Fruit flesh edible; pits, leaves & twigs cyanogenic — toxic to people/pets/livestock",
+  "winter": false,
+  "verified": "2026-06-04",
+  "shots": [
+    {
+      "local": "images/sp-flowers-t.jpg",
+      "full": "images/sp-flowers.jpg",
+      "commons": "Šljiva Stanley u cvatu (detalj).jpg",
+      "s": "spring",
+      "cap": "Spring — Stanley plum blossom, a face-on detail of the white flowers · © Silverije (CC BY-SA 4.0) / Wikimedia Commons",
+      "by": "Silverije",
+      "lic": "CC BY-SA 4.0",
+      "link": "https://commons.wikimedia.org/wiki/File:%C5%A0ljiva_Stanley_u_cvatu_(detalj).jpg"
+    },
+    {
+      "local": "images/sp-habit-t.jpg",
+      "full": "images/sp-habit.jpg",
+      "commons": "Šljive Stanley u cvatu.jpg",
+      "s": "spring",
+      "cap": "Spring — the whole tree in full bloom · © Silverije (CC BY-SA 4.0) / Wikimedia Commons",
+      "by": "Silverije",
+      "lic": "CC BY-SA 4.0",
+      "link": "https://commons.wikimedia.org/wiki/File:%C5%A0ljive_Stanley_u_cvatu.jpg"
+    },
+    {
+      "local": "images/su-fruit-t.jpg",
+      "full": "images/su-fruit.jpg",
+      "commons": "Šljiva Stanley - zeleni plodovi.jpg",
+      "s": "summer",
+      "cap": "Summer — green Stanley plums sizing up · © Silverije (CC BY-SA 4.0) / Wikimedia Commons",
+      "by": "Silverije",
+      "lic": "CC BY-SA 4.0",
+      "link": "https://commons.wikimedia.org/wiki/File:%C5%A0ljiva_Stanley_-_zeleni_plodovi.jpg"
+    },
+    {
+      "local": "images/fa-close-t.jpg",
+      "full": "images/fa-close.jpg",
+      "commons": "Šljiva Stanley - zreli plodovi (2022).JPG",
+      "s": "fall",
+      "cap": "Ripe fruit — deep-blue Stanley prune plums · © Silverije (CC BY-SA 4.0) / Wikimedia Commons",
+      "by": "Silverije",
+      "lic": "CC BY-SA 4.0",
+      "link": "https://commons.wikimedia.org/wiki/File:%C5%A0ljiva_Stanley_-_zreli_plodovi_(2022).JPG"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+[
+  {
+    "file": "images/sp-flowers.jpg",
+    "by": "livewombat",
+    "license": "CC BY-NC-SA 2.0",
+    "source": "https://www.flickr.com/photos/89778868@N00/40154571440",
+    "dataset": "Flickr",
+    "orig_px": [
+      815,
+      1024
+    ],
+    "full_px": [
+      815,
+      1024
+    ],
+    "thumb_px": [
+      318,
+      400
+    ]
+  },
+  {
+    "file": "images/sp-habit.jpg",
+    "by": "livewombat",
+    "license": "CC BY-NC-SA 2.0",
+    "source": "https://www.flickr.com/photos/89778868@N00/41265699134",
+    "dataset": "Flickr",
+    "orig_px": [
+      814,
+      1024
+    ],
+    "full_px": [
+      814,
+      1024
+    ],
+    "thumb_px": [
+      318,
+      400
+    ]
+  },
+  {
+    "file": "images/su-fruit.jpg",
+    "by": "livewombat",
+    "license": "CC BY-NC-SA 2.0",
+    "source": "https://www.flickr.com/photos/89778868@N00/34371477530",
+    "dataset": "Flickr",
+    "orig_px": [
+      869,
+      1024
+    ],
+    "full_px": [
+      869,
+      1024
+    ],
+    "thumb_px": [
+      339,
+      400
+    ]
+  },
+  {
+    "file": "images/su-close.jpg",
+    "by": "winuna4",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/130731159",
+    "dataset": "iNaturalist",
+    "orig_px": [
+      768,
+      1024
+    ],
+    "full_px": [
+      768,
+      1024
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  }
+]

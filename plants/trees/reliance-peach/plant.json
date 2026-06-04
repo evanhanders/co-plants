@@ -1,0 +1,50 @@
+{
+  "common": "Reliance peach",
+  "botanical": "Prunus persica 'Reliance'",
+  "type": "Tree",
+  "lifecycle": "Perennial",
+  "native": "Introduced",
+  "blurb": "The hardiest peach and one of the last to bloom — the Front Range's best shot at homegrown peaches.",
+  "size": "~10–15 ft × 10–15 ft",
+  "sun": "Full sun (6+ hrs), sheltered site",
+  "water": "Moderate, regular — deep weekly soak in summer",
+  "spread": "Clumping — self-fertile (one tree fruits)",
+  "seasons": "Pink blossom mid-spring; red-blushed yellow freestone peaches Aug",
+  "wildlife": "Bee-pollinated; fruit for wildlife",
+  "deer": "Foliage & fruit browsed — not deer-resistant",
+  "toxic": "Fruit flesh edible; pit, leaves & twigs cyanogenic — toxic to people/pets/livestock",
+  "winter": false,
+  "verified": "2026-06-04",
+  "shots": [
+    {
+      "local": "images/sp-flowers-t.jpg",
+      "full": "images/sp-flowers.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/479318736/large.jpg",
+      "s": "spring",
+      "cap": "Spring — pink peach blossom (shown on the species; 'Reliance' blooms the same, but later than most peaches) · © Annika Lindqvist (CC-BY) / iNaturalist",
+      "by": "Annika Lindqvist",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/266765651"
+    },
+    {
+      "local": "images/su-fruit-t.jpg",
+      "full": "images/su-fruit.jpg",
+      "url": "https://live.staticflickr.com/4117/4912349569_a535b4a82a_b.jpg",
+      "s": "summer",
+      "cap": "Summer — a Reliance peach ripening on the branch · © RevNaomi (CC BY-NC 2.0) / Flickr",
+      "by": "RevNaomi",
+      "lic": "CC BY-NC 2.0",
+      "link": "https://www.flickr.com/photos/30500453@N03/4912349569"
+    },
+    {
+      "local": "images/su-close-t.jpg",
+      "full": "images/su-close.jpg",
+      "url": "https://live.staticflickr.com/4095/4912952578_562fc49af9_b.jpg",
+      "s": "summer",
+      "cap": "Ripe fruit — the red-blushed, freestone Reliance peach with its foliage · © RevNaomi (CC BY-NC 2.0) / Flickr",
+      "by": "RevNaomi",
+      "lic": "CC BY-NC 2.0",
+      "link": "https://www.flickr.com/photos/30500453@N03/4912952578"
+    }
+  ]
+}

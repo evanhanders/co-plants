@@ -1,0 +1,60 @@
+{
+  "common": "Toka plum",
+  "botanical": "Prunus 'Toka'",
+  "type": "Tree",
+  "lifecycle": "Perennial",
+  "native": "Introduced",
+  "blurb": "The 'bubblegum plum' — spicy-sweet, bombproof to -40°F, and the orchard's best pollinator.",
+  "size": "~15–20 ft × 12–15 ft",
+  "sun": "Full sun (6+ hrs)",
+  "water": "Moderate; drought-tolerant once established",
+  "spread": "Clumping — partly self-fertile; the best pollinizer for other plums",
+  "seasons": "Fragrant white blossom early spring; reddish-bronze plums Aug–Sept",
+  "wildlife": "Powerful pollinator magnet (bees & butterflies); fruit for wildlife",
+  "deer": "Foliage & fruit browsed — not deer-resistant",
+  "toxic": "Fruit flesh edible; pits, leaves & twigs cyanogenic — toxic to people/pets/livestock",
+  "winter": false,
+  "verified": "2026-06-04",
+  "shots": [
+    {
+      "local": "images/sp-flowers-t.jpg",
+      "full": "images/sp-flowers.jpg",
+      "url": "https://live.staticflickr.com/909/40154571440_8d7fed7865_b.jpg",
+      "s": "spring",
+      "cap": "Spring — fragrant white blossom with a foraging bee · © livewombat (CC BY-NC-SA 2.0) / Flickr",
+      "by": "livewombat",
+      "lic": "CC BY-NC-SA 2.0",
+      "link": "https://www.flickr.com/photos/89778868@N00/40154571440"
+    },
+    {
+      "local": "images/sp-habit-t.jpg",
+      "full": "images/sp-habit.jpg",
+      "url": "https://live.staticflickr.com/975/41265699134_fec9ceff06_b.jpg",
+      "s": "spring",
+      "cap": "Spring — the whole tree flowering in a Front-Range yard · © livewombat (CC BY-NC-SA 2.0) / Flickr",
+      "by": "livewombat",
+      "lic": "CC BY-NC-SA 2.0",
+      "link": "https://www.flickr.com/photos/89778868@N00/41265699134"
+    },
+    {
+      "local": "images/su-fruit-t.jpg",
+      "full": "images/su-fruit.jpg",
+      "url": "https://live.staticflickr.com/4223/34371477530_109d617081_b.jpg",
+      "s": "summer",
+      "cap": "Summer — young fruit sizing up amid the foliage · © livewombat (CC BY-NC-SA 2.0) / Flickr",
+      "by": "livewombat",
+      "lic": "CC BY-NC-SA 2.0",
+      "link": "https://www.flickr.com/photos/89778868@N00/34371477530"
+    },
+    {
+      "local": "images/su-close-t.jpg",
+      "full": "images/su-close.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/222370247/large.jpg",
+      "s": "summer",
+      "cap": "Late summer — ripe reddish plums (shown on a related American plum, representative of Toka's red-bronze fruit) · © winuna4 (CC-BY-NC) / iNaturalist",
+      "by": "winuna4",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/130731159"
+    }
+  ]
+}

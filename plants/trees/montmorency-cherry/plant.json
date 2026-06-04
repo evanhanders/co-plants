@@ -1,0 +1,60 @@
+{
+  "common": "Montmorency cherry",
+  "botanical": "Prunus cerasus 'Montmorency'",
+  "type": "Tree",
+  "lifecycle": "Perennial",
+  "native": "Introduced",
+  "blurb": "The classic bright-red pie cherry — the Front Range's bulletproof, time-tested tart cherry.",
+  "size": "~15–18 ft × 15 ft (semi-dwarf ~10 ft)",
+  "sun": "Full sun (6+ hrs)",
+  "water": "Moderate; drought-tolerant once established",
+  "spread": "Clumping — self-fertile (one tree fruits)",
+  "seasons": "White blossom spring; bright-red tart cherries late June–July",
+  "wildlife": "Bee-pollinated; birds eagerly take the fruit",
+  "deer": "Foliage & fruit browsed — not deer-resistant",
+  "toxic": "Fruit flesh edible (tart); pits, leaves & twigs cyanogenic — toxic to people/pets/livestock",
+  "winter": false,
+  "verified": "2026-06-04",
+  "shots": [
+    {
+      "local": "images/sp-flowers-t.jpg",
+      "full": "images/sp-flowers.jpg",
+      "commons": "Prunus cerasus 'Montmorency' 01.jpg",
+      "s": "spring",
+      "cap": "Spring — sprays of white blossom along the branches · © Cephas (CC BY-SA 4.0) / Wikimedia Commons",
+      "by": "Cephas",
+      "lic": "CC BY-SA 4.0",
+      "link": "https://commons.wikimedia.org/wiki/File:Prunus_cerasus_%27Montmorency%27_01.jpg"
+    },
+    {
+      "local": "images/sp-close-t.jpg",
+      "full": "images/sp-close.jpg",
+      "commons": "Prunus cerasus 'Montmorency' 07.jpg",
+      "s": "spring",
+      "cap": "Spring — a single five-petaled flower face-on · © Cephas (CC BY-SA 4.0) / Wikimedia Commons",
+      "by": "Cephas",
+      "lic": "CC BY-SA 4.0",
+      "link": "https://commons.wikimedia.org/wiki/File:Prunus_cerasus_%27Montmorency%27_07.jpg"
+    },
+    {
+      "local": "images/su-fruit-t.jpg",
+      "full": "images/su-fruit.jpg",
+      "commons": "Montmorency cherries (3648681426).jpg",
+      "s": "summer",
+      "cap": "Summer — bright-red Montmorency pie cherries · © Martha Dol. (CC BY 2.0) / Wikimedia Commons",
+      "by": "Martha Dol.",
+      "lic": "CC BY 2.0",
+      "link": "https://commons.wikimedia.org/wiki/File:Montmorency_cherries_(3648681426).jpg"
+    },
+    {
+      "local": "images/wi-bark-t.jpg",
+      "full": "images/wi-bark.jpg",
+      "commons": "Prunus cerasus Montmorency tree bark 11.jpg",
+      "s": "winter",
+      "cap": "Winter — the smooth grey-brown bark and branch structure · © PumpkinSky (CC BY-SA 4.0) / Wikimedia Commons",
+      "by": "PumpkinSky",
+      "lic": "CC BY-SA 4.0",
+      "link": "https://commons.wikimedia.org/wiki/File:Prunus_cerasus_Montmorency_tree_bark_11.jpg"
+    }
+  ]
+}

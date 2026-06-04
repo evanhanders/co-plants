@@ -1,0 +1,82 @@
+[
+  {
+    "file": "images/sp-flowers.jpg",
+    "commons_file": "Šljiva Stanley u cvatu (detalj).jpg",
+    "by": "Silverije",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%C5%A0ljiva_Stanley_u_cvatu_(detalj).jpg",
+    "dataset": "Wikimedia Commons",
+    "orig_px": [
+      1944,
+      2592
+    ],
+    "full_px": [
+      1125,
+      1500
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  },
+  {
+    "file": "images/sp-habit.jpg",
+    "commons_file": "Šljive Stanley u cvatu.jpg",
+    "by": "Silverije",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%C5%A0ljive_Stanley_u_cvatu.jpg",
+    "dataset": "Wikimedia Commons",
+    "orig_px": [
+      1944,
+      2592
+    ],
+    "full_px": [
+      1125,
+      1500
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  },
+  {
+    "file": "images/su-fruit.jpg",
+    "commons_file": "Šljiva Stanley - zeleni plodovi.jpg",
+    "by": "Silverije",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%C5%A0ljiva_Stanley_-_zeleni_plodovi.jpg",
+    "dataset": "Wikimedia Commons",
+    "orig_px": [
+      3864,
+      5152
+    ],
+    "full_px": [
+      1125,
+      1500
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  },
+  {
+    "file": "images/fa-close.jpg",
+    "commons_file": "Šljiva Stanley - zreli plodovi (2022).JPG",
+    "by": "Silverije",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%C5%A0ljiva_Stanley_-_zreli_plodovi_(2022).JPG",
+    "dataset": "Wikimedia Commons",
+    "orig_px": [
+      3864,
+      5152
+    ],
+    "full_px": [
+      1125,
+      1500
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  }
+]

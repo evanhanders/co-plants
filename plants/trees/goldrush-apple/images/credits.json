@@ -1,0 +1,62 @@
+[
+  {
+    "file": "images/sp-flowers.jpg",
+    "commons_file": "Goldrush-flower.jpg",
+    "by": "Abrahami",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Goldrush-flower.jpg",
+    "dataset": "Wikimedia Commons",
+    "orig_px": [
+      627,
+      452
+    ],
+    "full_px": [
+      627,
+      452
+    ],
+    "thumb_px": [
+      400,
+      288
+    ]
+  },
+  {
+    "file": "images/fa-fruit.jpg",
+    "commons_file": "Goldrush (Apfel) jm94416.jpg",
+    "by": "Joergens.mi",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Goldrush_(Apfel)_jm94416.jpg",
+    "dataset": "Wikimedia Commons",
+    "orig_px": [
+      6305,
+      4729
+    ],
+    "full_px": [
+      1500,
+      1125
+    ],
+    "thumb_px": [
+      400,
+      300
+    ]
+  },
+  {
+    "file": "images/fa-close.jpg",
+    "commons_file": "Gold Rush PK1 jm26174 ji.jpg",
+    "by": "joergens.mi",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Gold_Rush_PK1_jm26174_ji.jpg",
+    "dataset": "Wikimedia Commons",
+    "orig_px": [
+      6378,
+      4183
+    ],
+    "full_px": [
+      1500,
+      984
+    ],
+    "thumb_px": [
+      400,
+      262
+    ]
+  }
+]

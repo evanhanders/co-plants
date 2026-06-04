@@ -1,0 +1,60 @@
+{
+  "common": "Honeycrisp apple",
+  "botanical": "Malus domestica 'Honeycrisp'",
+  "type": "Tree",
+  "lifecycle": "Perennial",
+  "native": "Introduced",
+  "blurb": "Explosively crisp, honey-sweet apple — the Front Range's most dependable tree fruit, hardy and late-blooming.",
+  "size": "~12–15 ft × 12–15 ft (smaller on semi-dwarf rootstock)",
+  "sun": "Full sun (6+ hrs)",
+  "water": "Moderate, regular — deep weekly soak in summer",
+  "spread": "Clumping — single tree; needs a pollinizer apple nearby",
+  "seasons": "Pink-white blossom mid–late spring; large red-blushed fruit Sept–Oct",
+  "wildlife": "Blossoms feed bees; dropped fruit feeds birds & mammals",
+  "deer": "Foliage & fruit browsed — not deer-resistant",
+  "toxic": "Fruit flesh edible; seeds contain cyanogenic amygdalin (mildly toxic if chewed in quantity)",
+  "winter": false,
+  "verified": "2026-06-04",
+  "shots": [
+    {
+      "local": "images/sp-flowers-t.jpg",
+      "full": "images/sp-flowers.jpg",
+      "commons": "Flowers of 'Minnesota 447' apple.jpg",
+      "s": "spring",
+      "cap": "Spring — pink-white apple blossom (the 'Minnesota 447' breeding selection released as Honeycrisp) · © Nadiatalent (CC BY-SA 4.0) / Wikimedia Commons",
+      "by": "Nadiatalent",
+      "lic": "CC BY-SA 4.0",
+      "link": "https://commons.wikimedia.org/wiki/File:Flowers_of_%27Minnesota_447%27_apple.jpg"
+    },
+    {
+      "local": "images/fa-habit-t.jpg",
+      "full": "images/fa-habit.jpg",
+      "commons": "Honeycrisp apple tree.jpg",
+      "s": "fall",
+      "cap": "Fall — the whole tree laden with ripening red fruit · © MikeyMoose (CC BY-SA 3.0) / Wikimedia Commons",
+      "by": "MikeyMoose",
+      "lic": "CC BY-SA 3.0",
+      "link": "https://commons.wikimedia.org/wiki/File:Honeycrisp_apple_tree.jpg"
+    },
+    {
+      "local": "images/fa-fruit-t.jpg",
+      "full": "images/fa-fruit.jpg",
+      "commons": "Honeycrisp apples.jpg",
+      "s": "fall",
+      "cap": "Fall — clusters of red-blushed apples on the branch · © MikeyMoose (CC BY-SA 3.0) / Wikimedia Commons",
+      "by": "MikeyMoose",
+      "lic": "CC BY-SA 3.0",
+      "link": "https://commons.wikimedia.org/wiki/File:Honeycrisp_apples.jpg"
+    },
+    {
+      "local": "images/fa-close-t.jpg",
+      "full": "images/fa-close.jpg",
+      "commons": "Honeycrisp-Apple.jpg",
+      "s": "fall",
+      "cap": "Ripe fruit — the glossy red-over-gold Honeycrisp apple · © Evan-Amos (CC0) / Wikimedia Commons",
+      "by": "Evan-Amos",
+      "lic": "CC0",
+      "link": "https://commons.wikimedia.org/wiki/File:Honeycrisp-Apple.jpg"
+    }
+  ]
+}

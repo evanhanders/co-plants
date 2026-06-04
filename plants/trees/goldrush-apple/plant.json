@@ -1,0 +1,50 @@
+{
+  "common": "GoldRush apple",
+  "botanical": "Malus domestica 'GoldRush'",
+  "type": "Tree",
+  "lifecycle": "Perennial",
+  "native": "Introduced",
+  "blurb": "A spicy-tart keeper apple that stores till spring; fire-blight-resistant and Front-Range-reliable.",
+  "size": "~12–18 ft × 12–15 ft (smaller on semi-dwarf rootstock)",
+  "sun": "Full sun (6+ hrs)",
+  "water": "Moderate, regular",
+  "spread": "Clumping — needs a pollinizer; very late harvest",
+  "seasons": "White-pink blossom spring; gold fruit late Oct, stores into spring",
+  "wildlife": "Bee-pollinated blossom; fruit for wildlife",
+  "deer": "Foliage & fruit browsed — not deer-resistant",
+  "toxic": "Fruit flesh edible; seeds contain cyanogenic amygdalin (mildly toxic if chewed in quantity)",
+  "winter": false,
+  "verified": "2026-06-04",
+  "shots": [
+    {
+      "local": "images/sp-flowers-t.jpg",
+      "full": "images/sp-flowers.jpg",
+      "commons": "Goldrush-flower.jpg",
+      "s": "spring",
+      "cap": "Spring — white-and-pink apple blossom · © Abrahami (CC BY-SA 3.0) / Wikimedia Commons",
+      "by": "Abrahami",
+      "lic": "CC BY-SA 3.0",
+      "link": "https://commons.wikimedia.org/wiki/File:Goldrush-flower.jpg"
+    },
+    {
+      "local": "images/fa-fruit-t.jpg",
+      "full": "images/fa-fruit.jpg",
+      "commons": "Goldrush (Apfel) jm94416.jpg",
+      "s": "fall",
+      "cap": "Fall — golden-yellow GoldRush apples, whole and cut to show the firm flesh · © Joergens.mi (CC BY-SA 3.0) / Wikimedia Commons",
+      "by": "Joergens.mi",
+      "lic": "CC BY-SA 3.0",
+      "link": "https://commons.wikimedia.org/wiki/File:Goldrush_(Apfel)_jm94416.jpg"
+    },
+    {
+      "local": "images/fa-close-t.jpg",
+      "full": "images/fa-close.jpg",
+      "commons": "Gold Rush PK1 jm26174 ji.jpg",
+      "s": "fall",
+      "cap": "Ripe fruit — gold GoldRush apples, the classic long-keeping dessert apple · © joergens.mi (CC BY-SA 3.0) / Wikimedia Commons",
+      "by": "joergens.mi",
+      "lic": "CC BY-SA 3.0",
+      "link": "https://commons.wikimedia.org/wiki/File:Gold_Rush_PK1_jm26174_ji.jpg"
+    }
+  ]
+}

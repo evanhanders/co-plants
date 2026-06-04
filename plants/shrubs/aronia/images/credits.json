@@ -1,0 +1,104 @@
+[
+  {
+    "file": "images/fa-habit.jpg",
+    "photo_id": 158604686,
+    "by": "Lara Maynard",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/95529517",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  },
+  {
+    "file": "images/sp-flower.jpg",
+    "photo_id": 41559774,
+    "by": "Basil Conlin",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/26753402",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      1141
+    ],
+    "thumb_px": [
+      400,
+      326
+    ]
+  },
+  {
+    "file": "images/sp-bloom.jpg",
+    "photo_id": 382129649,
+    "by": "Christine Murray",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/216089959",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      1054
+    ],
+    "thumb_px": [
+      400,
+      301
+    ]
+  },
+  {
+    "file": "images/fa-berries.jpg",
+    "photo_id": 313978654,
+    "by": "David Govatski",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/180266555",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  },
+  {
+    "file": "images/fa-fall.jpg",
+    "photo_id": 98940216,
+    "by": "esdena",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/61805029",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  },
+  {
+    "file": "images/su-foliage.jpg",
+    "photo_id": 47018076,
+    "by": "learyma",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/30107264",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  }
+]

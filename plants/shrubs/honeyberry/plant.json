@@ -1,7 +1,68 @@
 {
-  "common": "honeyberry",
-  "botanical": "tmp",
+  "common": "Honeyberry (haskap)",
+  "botanical": "Lonicera caerulea",
   "type": "Shrub",
+  "lifecycle": "Perennial",
+  "native": "Non-native",
+  "blurb": "The Front Range's true blueberry alternative — an edible honeysuckle that shrugs off alkaline clay and −40°F cold and ripens elongated blue, blueberry-meets-raspberry berries before anything else in the garden.",
+  "size": "4–6 ft × 4–6 ft",
+  "sun": "Full sun to part shade (afternoon shade helps in the hottest sites)",
+  "water": "Moderate — keep evenly moist; not drought-tolerant",
+  "spread": "Clumping — a rounded, arching multi-stemmed bush; not a vine and not invasive",
+  "seasons": "Pale yellow flowers very early spring; elongated blue berries ripen in early summer (first fruit of the year); green summer foliage; bare twiggy frame in winter",
+  "wildlife": "Early bumble bees and other bees pollinate the flowers; birds will take the ripe fruit if it isn't netted",
+  "deer": "Generally left alone; not a preferred deer browse, though young growth may be sampled",
+  "toxic": "No part is toxic; the blue fruit is fully edible (unlike the toxic red berries of invasive bush honeysuckles)",
+  "winter": false,
+  "verified": "2026-06-04",
+  "origin": "Cultivated forms bred from circumboreal wild stock — Russian, Japanese, and Canadian germplasm",
+  "habitat": "Moist boreal forests, peaty soils, and stream edges across the cool northern hemisphere — Asia, Europe, and North America",
+  "care": {
+    "hardiness": "Extraordinarily cold-hardy — a long-lived boreal shrub rated to USDA zone 2 and tolerant of roughly −40°F, so it is utterly unfazed by a Boulder zone 5b–6a winter; it needs cold and is unhappy in warm climates (south of about zone 7 it doesn't get enough winter chill to fruit well). Its early bloom is itself frost-tough — the flowers withstand hard spring frosts down to about 19°F, a real asset in Boulder's variable spring.[1][2]",
+    "planting": "Plant container shrubs in early spring (April) or early fall (September) so the roots settle in cool soil. The key step on the Front Range: plant TWO different, compatible cultivars that bloom at the same time — honeyberry is self-incompatible and a lone plant sets little or no fruit, so always plant at least a pair of different varieties for cross-pollination. It grows in a large container for a few years (water often, as pots dry fast here, and protect the pot over winter even though the plant is bone-hardy, since a potted root ball freezes harder than ground roots), but does best long-term in the ground in evenly moist soil.[1][2]",
+    "sun": "Full sun to part shade. Full sun gives the heaviest fruit set, but because this is a cool-climate boreal plant, a site with some afternoon shade protects it from the Front Range's intense high-altitude summer sun and heat. Aim for at least a half-day of direct sun.[1][2]",
+    "soil": "Remarkably unfussy about soil — and crucially, tolerant of alkaline ground: its native range includes calcareous soils with pH as high as ~7.7, and it tolerates even higher, which makes it the practical edible-berry choice where blueberries fail on Front Range alkaline clay (blueberries demand acidic soil this region can't easily provide). It does want organically rich, evenly moist, well-drained soil; amend clay with compost and mulch well.[1][2]",
+    "water": "Keep the soil evenly moist — honeyberry is not drought-tolerant and grows naturally near water. During establishment, water deeply every 5–7 days; thereafter keep it from drying out, especially while fruit is sizing. Drip irrigation that holds the soil moist (but never waterlogged) is ideal in the semi-arid climate. Mulch heavily to conserve moisture.[1][2]",
+    "spacing": "Space plants about 3–4 ft apart within a row, with rows 6–10 ft apart; each matures to a rounded 4–6 ft bush. Set the two (or more) different cultivars near each other so bees can move pollen between them for fruit set.[1][2]",
+    "propagation": "Propagate from softwood cuttings in early summer or hardwood cuttings in late fall under mist or with bottom heat; both root readily, and cuttings keep a named cultivar true. Mound layering also works. Seed is viable but seedlings are variable and won't match the parent cultivar, so cuttings are preferred for known fruiting types. Remember to grow out two different varieties for pollination.[1][2]",
+    "bloom": "Among the very first shrubs to flower — pairs of small, cream-to-pale-yellow tubular blossoms open in early spring, well ahead of most fruit. The flowers are notably frost-hardy (to about 19°F), so they usually survive Boulder's late cold snaps; early bumble bees are the main pollinators, moving pollen between the two required cultivars.[1][2]",
+    "feeding": "Apply about a half cup of a balanced fertilizer (such as 16-16-16) per plant in spring as growth begins, or topdress with compost. Avoid nitrogen after spring, which pushes soft late growth more prone to winter injury. Established plants in good soil need little feeding.[2]",
+    "maintenance": "Low maintenance. Prune lightly in late winter while dormant to remove dead, weak, or crowded wood and open the center; do not remove more than about 25% of the plant in any one year. Young plants bear little — yields build noticeably by the third or fourth year. Net the bush as the berries color, since birds find the early fruit before almost anything else is ripe.[2]",
+    "harvest": "The reward for an early bloomer: honeyberries ripen in early to mid-June — usually just before strawberries — making them the first fruit of the gardening year. The berries are elongated and oblong (not round like a blueberry) and color deep blue on the outside with reddish-purple flesh; they're ready when fully blue and slightly soft, and the inside has lost its green tinge. Pick gently into a shallow container; the soft fruit bruises easily.[2]",
+    "troubles": "Refreshingly trouble-free — honeyberry has few serious pests or diseases. The main hazards are cultural: drought stress (it must not dry out) and birds, which strip the early fruit fast unless it's netted. Powdery mildew can show on the foliage late in the season in humid, crowded conditions but rarely harms the plant. Site it out of the hottest, driest exposures to avoid leaf scorch.[1][2]",
+    "companions": "Plant the required pair of different cultivars together so they cross-pollinate, and give them a cool, mulched, evenly moist root run. They pair well with other small fruits and early-spring bee plants that bloom alongside them to draw pollinators. Avoid hot, dry, reflected-heat sites; an east-facing or lightly shaded bed suits this boreal shrub better than a baking south wall.[1][2]"
+  },
+  "fact_src": {
+    "size": [1, 2],
+    "sun": [1, 2],
+    "water": [1, 2],
+    "spread": [1],
+    "seasons": [1, 2],
+    "wildlife": [1, 2],
+    "deer": [2],
+    "toxic": [1],
+    "origin": [1],
+    "habitat": [1]
+  },
+  "edible": {
+    "level": "edible",
+    "food": true,
+    "card": "Ripe blue berries (fresh, jam, pies)",
+    "summary": "The elongated blue berries are fully edible and excellent — a sweet-tart fruit eaten fresh or cooked, described as a cross between blueberry, raspberry, and black currant.[1][2]",
+    "parts": "The blue, oblong berries are the edible part — there is no toxic part on this honeysuckle. Ripe fruit is sweet-tart with a flavor likened to a blend of blueberry, raspberry, and black currant, and is unusually high in vitamin C (higher than blueberry or raspberry). Eat them fresh or use them in pies, jams, jellies, juices, sauces, ice cream, and wine.[1][2]",
+    "preparation": "Pick the berries fully ripe — deep blue outside, the flesh no longer green inside, and slightly soft — for the sweetest flavor; under-ripe fruit is sharply tart. Eat fresh out of hand, or cook into jam, jelly, pie, syrup, or sauce; they freeze very well, like blueberries. Handle gently, as the soft fruit bruises.[1][2]",
+    "caution": "These blue honeyberries are fully edible and safe — but do not confuse this species with the invasive bush honeysuckles (Lonicera maackii, L. morrowii, L. tatarica and the like), whose paired RED or orange berries are toxic and should never be eaten. The tell is the fruit: edible haskap is an elongated BLUE berry on a low, arching, non-twining shrub. Eat only blue-berried Lonicera caerulea you have positively identified, and only fruit that hasn't been sprayed.[1]"
+  },
+  "references": [
+    {
+      "name": "Utah State University Extension — Haskap (Honeyberry) in the Garden",
+      "url": "https://extension.usu.edu/yardandgarden/research/haskap-in-the-garden"
+    },
+    {
+      "name": "Missouri Botanical Garden Plant Finder — Lonicera caerulea",
+      "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=278931&isprofile=0&pt=7"
+    }
+  ],
   "shots": [
     {
       "local": "images/su-fruit-t.jpg",

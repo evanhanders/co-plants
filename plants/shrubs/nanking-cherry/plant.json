@@ -1,9 +1,80 @@
 {
-  "common": "x",
-  "botanical": "x",
+  "common": "Nanking cherry",
+  "botanical": "Prunus tomentosa",
   "type": "Shrub",
   "lifecycle": "Perennial",
-  "native": "x",
+  "native": "Non-native",
+  "origin": "Northern China, Korea, and the Himalayas",
+  "habitat": "Mountain slopes and forest margins of cold, semi-arid interior Asia",
+  "blurb": "An iron-hardy Asian bush cherry that froths pink-budded white over its downy branches in earliest spring, then loads them with sweet-tart scarlet cherries — tough to -40°F, drought-tolerant, and right at home in alkaline Front Range clay.",
+  "size": "6–12 ft × 6–12 ft",
+  "sun": "Full sun for heaviest fruit; tolerates part shade",
+  "water": "Low; very drought-tolerant once established",
+  "spread": "Dense, twiggy, multi-stemmed shrub; not running, but self-seeds modestly without being invasive",
+  "seasons": "Pink-budded white flowers in earliest spring; scarlet cherries ripen Jun–Jul; downy green summer foliage; bare twiggy framework in winter",
+  "wildlife": "Very early flowers feed emerging bees; birds eagerly strip the ripe cherries; dense form gives nesting and shelter cover",
+  "deer": "Browsed by deer and rabbits, especially young plants; protect when establishing",
+  "toxic": "Ripe fruit is edible and sweet-tart; the pits, leaves, and twigs contain cyanogenic glycosides and are toxic to people, dogs, cats, and horses — eat the flesh only",
+  "winter": false,
+  "verified": "2026-06-04",
+  "care": {
+    "hardiness": "Exceptionally cold hardy — rated USDA zone 2–3 and able to take temperature swings from -40°F to 90°F in a single season, so Front Range winters are no concern. Its cold, dry interior-Asian origin makes it well adapted to nearly every Colorado condition: extreme cold, heat, aridity, high elevation, and most soils.[1][2]",
+    "planting": "Fall is the best time to transplant, when the plant is going dormant; early spring also works. It needs cross-pollination, so plant two or more Nanking cherries within bee range to set a good crop. In a container it dries out fast and its roots are far less cold-hardy than the top; use a large pot, water frequently, and overwinter the pot in an unheated garage or sink it in the ground — it is far happier and hardier planted out.[2][3]",
+    "sun": "Fruits most heavily with 8+ hours of full sun; it will grow in part shade but flower and fruit less. Give it the sunniest spot for the best cherry crop.[2][3]",
+    "soil": "Adaptable to nearly all soil types but prefers well-drained, sandy soils; notably it tolerates alkaline soil up to about pH 8.0 and possibly higher, which suits Front Range clay-loam well. Avoid waterlogged ground.[2][3]",
+    "water": "Very drought-tolerant once established; water young plants regularly through the first couple of seasons, then mainly during extended dry spells. Consistent moisture through bloom and fruit-set improves crop size, but the plant needs little supplemental water otherwise.[2]",
+    "spacing": "Space 6–10 ft apart for a hedge or windbreak, or 8–15 ft for stand-alone plants; mature size is typically 6–12 ft tall and wide. Plant in groups so the required cross-pollination happens.[2][3]",
+    "propagation": "Most often grown from seed, which needs about 100 days of cold stratification before sowing — clean the pits from ripe fruit, stratify cold-moist, then sow. It can also be propagated from softwood cuttings and layering; seedlings are variable, so propagate vegetatively to keep a particularly good fruiting plant.[2][3]",
+    "bloom": "One of the earliest shrubs to flower — pink buds open to a profusion of dense white, lightly pink-blushed flowers in earliest spring, around apricot-blossom time. Because it blooms so early, an occasional late hard frost can nip the flowers and reduce that year's crop.[2][3]",
+    "feeding": "Light feeding is enough — a spring application of compost or balanced fertilizer on poor soils. Excess nitrogen encourages soft growth and fewer flowers.[2]",
+    "maintenance": "Low maintenance. Each year remove a few of the oldest canes (about 3–5) to keep the center open for air circulation and light, which also reduces disease; prune after harvest or in late winter. Remove dead or damaged wood as it appears.[2]",
+    "troubles": "Watch for spider mites, western cherry fruit fly, black cherry aphid, and coryneum (shothole) blight; brown rot and borers can appear on stressed plants. Most issues are manageable with good airflow and sanitation. Birds are the main competitor for ripe fruit — net or harvest promptly.[1][2]",
+    "harvest": "Cherries — about ½ in across, cherry-shaped with a large pit — ripen bright red in June–July and range from sweet to tart. Pick when fully colored and slightly soft; eat fresh or make jam, jelly, preserves, pies, and juice. Remove and discard the pits, which are cyanogenic.[1][2]",
+    "companions": "Works as a fruiting hedge, windbreak, or wildlife shrub alongside other tough plants — serviceberry, golden currant, chokecherry — and pairs well with low-water perennials and grasses at its base. Plant several together both for pollination and for a denser screen.[2]"
+  },
+  "fact_src": {
+    "origin": [1, 4],
+    "habitat": [2, 4],
+    "size": [1, 2],
+    "sun": [2, 3],
+    "water": [2, 3],
+    "spread": [4],
+    "seasons": [1, 2],
+    "wildlife": [2, 3],
+    "deer": [3],
+    "toxic": [1, 5]
+  },
+  "edible": {
+    "level": "caution",
+    "food": true,
+    "card": "Ripe cherry flesh (fresh, jam, jelly, pie)",
+    "summary": "The ripe red cherries are edible and sweet-tart — good fresh and in jam, jelly, and pies — but the pits, leaves, and twigs are cyanogenic and must not be eaten.[1][2][5]",
+    "parts": "The edible part is the ripe cherry flesh — bright red, about ½ in across, ranging from sweet to tart, ripening June–July. Use it fresh or cooked in jam, jelly, preserves, pies, and juice. Each fruit holds a single large pit (stone), which is NOT food: like other Prunus stones it is cyanogenic. The leaves, twigs, and bark are likewise not edible.[1][2]",
+    "preparation": "Eat the ripe flesh fresh, or cook it into jams, jellies, preserves, pies, and juice. Pit the fruit and discard the stones rather than crushing or grinding them; never crack the pits to eat the kernels. Do not brew tea from the leaves or twigs. Ordinary cooking of the pitted flesh is safe.[1][2]",
+    "caution": "Like all Prunus (cherries, plums, almonds), the pits/seeds, leaves, and twigs contain cyanogenic glycosides that release hydrogen cyanide (HCN); the toxin is especially concentrated in wilting leaves and in the seed kernels. The ripe FLESH is the edible part — discard every pit and do not crack or eat the kernels. ASPCA lists cherry (Prunus) stems, leaves, and seeds as toxic to dogs, cats, and horses, causing difficulty breathing and shock; keep pruned foliage and pits away from pets and livestock, and keep children from swallowing or crushing the pits.[1][5]"
+  },
+  "references": [
+    {
+      "name": "NC State Extension Plant Toolbox — Prunus tomentosa",
+      "url": "https://plants.ces.ncsu.edu/plants/prunus-tomentosa/"
+    },
+    {
+      "name": "Utah State University Extension — How to Grow Nanking Cherries in Your Garden",
+      "url": "https://extension.usu.edu/yardandgarden/research/nanking-cherry-in-the-garden"
+    },
+    {
+      "name": "Missouri Botanical Garden Plant Finder — Prunus tomentosa",
+      "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=286358"
+    },
+    {
+      "name": "Missouri Botanical Garden Plant Finder — Prunus tomentosa (native range, naturalizing, downy habit)",
+      "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=286358"
+    },
+    {
+      "name": "ASPCA Animal Poison Control — Cherry (Prunus) toxicity (cyanogenic glycosides; stems, leaves, seeds)",
+      "url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/cherry"
+    }
+  ],
   "shots": [
     {
       "local": "images/sp-bloom-t.jpg",

@@ -1,9 +1,68 @@
 {
-  "common": "x",
-  "botanical": "x",
+  "common": "Golden currant",
+  "botanical": "Ribes aureum",
   "type": "Shrub",
   "lifecycle": "Perennial",
-  "native": "x",
+  "native": "CO native",
+  "blurb": "A tough, thornless native currant that wreaths itself in clove-scented golden trumpets each spring, then ripens sweet amber-to-black berries — a hummingbird magnet that thrives in alkaline clay from streambank to dry slope.",
+  "size": "3–10 ft × 3–6 ft",
+  "sun": "Full sun to part shade; best flowering and fruiting in full sun",
+  "water": "Low to moderate; very adaptable from streamside moisture to drought once established",
+  "spread": "Suckers slowly from rhizomes into a loose, multi-stemmed clump or thicket — easily contained",
+  "seasons": "Clove-scented golden flowers Apr–Jun; berries ripen amber-red to black through summer; yellow-to-red fall foliage; bare arching stems in winter",
+  "wildlife": "Tubular spring flowers are a top early nectar source for hummingbirds, native bees, and butterflies; songbirds, small mammals, and bears eat the ripe berries",
+  "deer": "Browsed by deer and rabbits, especially young growth, but tough and resprouts readily — not a preferred browse",
+  "toxic": "Ripe berries are edible and tasty; no significant toxicity reported, though as with most fruit, eat only fully ripe berries",
+  "winter": false,
+  "verified": "2026-06-04",
+  "care": {
+    "hardiness": "Very cold hardy (USDA zone 2–3) and native across Colorado from the plains to about 8,000 ft, so the Front Range is squarely within range — no winter protection needed. CSU notes currants succeed at elevations up to 10,000 ft, thriving where most other fruit crops fail.[1][2][3]",
+    "planting": "Plant dormant or container stock in early spring as soon as the soil can be worked; this is the standard planting window CSU gives for currants. Golden currant transplants and establishes easily. In a container it dries out fast and its roots are far less cold-hardy, so use a large pot, water often, and overwinter the pot in an unheated garage or sink it in the ground — it performs far better planted out.[2][3]",
+    "sun": "Grows best and fruits most heavily in full sun but tolerates part shade; in Colorado's intense high-altitude sun a little afternoon shade on the hottest sites is fine and reduces water need.[1][3]",
+    "soil": "Exceptionally adaptable — described as tolerating everything from standing water to drought. Produces best in fertile, well-drained loam but readily handles the region's clay soils and higher (alkaline) pH; CSU lists a pH of 6–7 as ideal while noting clay and higher pH are tolerated.[1][3]",
+    "water": "Naturally a streambank and wash plant, yet genuinely drought-tolerant once established. For best berry size and yield give regular water through bloom and fruiting, then taper off after harvest to harden the plant for winter, as CSU advises for currants.[2][3]",
+    "spacing": "For a fruiting planting space plants about 3.5–4.5 ft apart in rows 6–8 ft apart, per CSU's currant spacing; as an ornamental or wildlife shrub give each plant 4–6 ft. Mature plants reach 3–10 ft and spread slowly by suckering.[1][3]",
+    "propagation": "By seed, cold-moist stratify cleaned seed about 60 days at roughly 28–36°F (germination improves with stratification, scarification optional); collect and clean fruit promptly by maceration and flotation. Easiest non-seed routes are hardwood cuttings of year-old wood, mound layering, or simply digging and moving rooted suckers — currant cultivars are normally grown from cuttings, not seed.[1][2][3]",
+    "bloom": "Racemes of golden-yellow, tubular, clove- or spice-scented flowers open April–June, often before or with the leaves; the flowers age from gold to orange or reddish. This early, fragrant bloom is a key nectar event for hummingbirds and bees.[1][2]",
+    "feeding": "Light feeding only — a spring topdressing of compost or balanced fertilizer on lean soils. Avoid excess nitrogen, which favors leaves over flowers and fruit.[3]",
+    "maintenance": "Low maintenance. Prune in late winter or early spring before bud swell, removing wood older than about three years to keep a mix of young, productive canes; thin crowded stems for light and air. Remove unwanted suckers to limit spread.[3]",
+    "troubles": "Generally trouble-free; can host currant aphids, currant borer, and leaf spot, and Ribes can carry white pine blister rust (a concern only near five-needle pines). Birds compete for the ripe berries — net or harvest promptly.[3]",
+    "harvest": "Berries ripen unevenly through summer, coloring amber-red to orange to black; pick when fully colored and soft for best sweetness. Eat fresh or cook into jam, jelly, syrup, and pies, or dry them — Plains peoples dried golden currants and mixed them into pemmican.[1][2]",
+    "companions": "Combine with other resilient natives — chokecherry, Wood's rose, serviceberry — in a low-water wildlife or edible hedge, underplanted with prairie grasses and perennials.[1]"
+  },
+  "fact_src": {
+    "size": [1, 2],
+    "sun": [1, 3],
+    "water": [2, 3],
+    "spread": [1, 2],
+    "seasons": [1, 2],
+    "wildlife": [1, 2],
+    "deer": [2],
+    "toxic": [1, 2]
+  },
+  "edible": {
+    "level": "edible",
+    "food": true,
+    "card": "Ripe berries (fresh, jam, jelly, dried)",
+    "summary": "The ripe berries — coloring amber-red to black — are a genuine wild edible, eaten fresh or cooked into jam, jelly, syrup, and pies; sweet, mild, and very unlike a European black currant.[1][2]",
+    "parts": "The edible part is the ripe berry, which ripens unevenly through summer from amber-red and orange to a final bluish-black. The flavor is mild, sweet, and pleasant. Golden currant was an important food of Plains peoples, who ate the fruit fresh or dried it and mixed it into pemmican with dried buffalo or venison. The leaves and stems are not used as food.[1][2]",
+    "preparation": "Eat fully ripe berries fresh, or cook them into jam, jelly, syrup, sauce, and pies; they also dry well for winter use. Pick when berries are fully colored and soft — underripe currants are tart and astringent. No special detoxification is required for the ripe fruit.[1][2]",
+    "caution": "Eat only fully ripe berries; underripe fruit is sharply tart and astringent. No significant toxicity is reported for the fruit of golden currant, but as with any wild edible, identify the plant with certainty (note the thornless stems, three-lobed maple-like leaves, and clove-scented golden tubular flowers) and don't confuse it with unrelated shrubs. The fruit is the food; the leaves and stems are not eaten.[1][2]"
+  },
+  "references": [
+    {
+      "name": "Lady Bird Johnson Wildflower Center — Ribes aureum",
+      "url": "https://www.wildflower.org/plants/result.php?id_plant=riau"
+    },
+    {
+      "name": "USDA Forest Service FEIS — Ribes aureum (golden currant) species review",
+      "url": "https://research.fs.usda.gov/feis/species-reviews/ribaur"
+    },
+    {
+      "name": "CSU Extension Fact Sheet 7.005 — Currants, Gooseberries and Jostaberries (Colorado culture, spacing, pruning)",
+      "url": "https://extension.colostate.edu/topic-areas/yard-garden/currants-gooseberries-and-jostaberries-7-005/"
+    }
+  ],
   "shots": [
     {
       "local": "images/sp-flower-t.jpg",

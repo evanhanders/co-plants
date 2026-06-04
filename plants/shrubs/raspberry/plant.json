@@ -1,7 +1,80 @@
 {
-  "common": "raspberry",
-  "botanical": "tmp",
+  "common": "Raspberry",
+  "botanical": "Rubus idaeus 'Caroline'",
   "type": "Shrub",
+  "lifecycle": "Perennial",
+  "native": "Non-native",
+  "blurb": "A fall-bearing red raspberry that fruits on first-year canes — mow the whole patch to the ground each spring and still harvest a heavy crop of sweet berries from late summer to frost.",
+  "size": "4–6 ft × spreading thicket (canes 3–9 ft)",
+  "sun": "Full sun (6+ hrs); tolerates light afternoon shade",
+  "water": "Moderate — 1–3 in of water a week, more as fruit ripens; not drought-tolerant",
+  "spread": "Running — suckers from the roots into a widening thicket; contain with edging or mowing",
+  "seasons": "White flowers early summer; ripe red berries late summer into fall (the primocane crop); yellow fall foliage; bare prickly canes in winter",
+  "wildlife": "Bees work the flowers; songbirds and small mammals take the fruit; larval host for several butterflies and moths",
+  "deer": "Not deer-resistant — deer browse the tender canes and fruit; protect young plantings",
+  "toxic": "Fruit and fully dried leaves are safe; partially wilted leaves can release small amounts of cyanide",
+  "winter": false,
+  "verified": "2026-06-04",
+  "origin": "Cultivated red raspberry — Eurasian Rubus idaeus crossed with the North American native subspecies",
+  "habitat": "Wild raspberries grow in clearings, woodland edges, burns, and rocky slopes across the cool northern hemisphere",
+  "care": {
+    "hardiness": "Red raspberries are the hardiest of the brambles and the most dependable along the Front Range; some varieties withstand around -35°F, so a Boulder zone 5b–6a winter is no obstacle. 'Caroline' is a vigorous fall-bearing (primocane) red raspberry well suited to the region.[1][2]",
+    "planting": "Plant dormant bare-root or container canes in early spring (April) before they leaf out, setting the crown at the depth it grew in the nursery; spring planting lets the roots establish before summer heat. Choose a permanent, full-sun bed with good drainage — raspberries resent wet feet and root-rot in soggy ground. Raspberries are poor long-term container plants (they sucker and want a deep, cool, moist root run), but in a large tub they survive a season; remember a potted root ball freezes far harder than ground-planted roots, so sink or heavily insulate the pot over winter and water often, as containers dry fast in the semi-arid climate. Best practice on the Front Range is to plant them in the ground in a dedicated row.[1][2]",
+    "sun": "Full sun — at least 6 hours of direct sun a day — gives the best cane vigor and the heaviest, sweetest fruit set. Plants tolerate a little afternoon shade in the hottest sites, but heavy shade reduces both yield and fruit quality.[1][3]",
+    "soil": "Wants organically rich, well-drained soil that is slightly acidic (about pH 6.0–6.5) — the one spot Front Range gardeners must work at, since local soils trend alkaline. Amend the bed generously with compost and avoid heavy, poorly drained clay; raspberries are intolerant of wet conditions that cause root rot. Mulch to keep the shallow roots cool and moist.[1][3]",
+    "water": "Give 1–3 inches of water per week through the growing season, leaning toward the higher end as the berries swell and ripen — even moisture during fruiting makes plumper, sweeter fruit. This is not a xeric plant; drip or soaker irrigation keeps the foliage dry and the root zone evenly moist. Don't let an established patch go bone-dry in a Boulder summer.[1]",
+    "spacing": "Set plants about 2–3 ft apart in the row; they will fill in by suckering into a continuous hedgerow 1–2 ft wide. Keep rows 6–8 ft apart for access and airflow, and run the canes between a simple two-wire trellis or in a narrow contained bed so the thicket stays pickable.[1]",
+    "propagation": "By far the easiest method is to dig and transplant the rooted suckers that spring up around an established plant — lift them in early spring with a chunk of root and replant. Root cuttings taken in late fall or winter and tip-layering (burying an arching cane tip in late summer until it roots) also work. Seed is rarely used and cultivars like 'Caroline' will not come true from it. Most gardeners simply move suckers or buy certified disease-free stock.[1][3]",
+    "bloom": "Clusters of small white five-petalled flowers open in early summer (roughly June–July on the Front Range) on the current season's new canes. Bees and other pollinators work them heavily, and well-pollinated flowers set the fullest, best-shaped berries.[1][3]",
+    "feeding": "Topdress in early spring with compost or a balanced fertilizer worked lightly into the soil as growth resumes; a second light feeding in early summer supports the developing fall crop. Avoid heavy nitrogen late in the season, which pushes soft growth that won't harden before frost. Established beds in good soil need little more than annual compost.[1]",
+    "maintenance": "The great advantage of a fall-bearing variety like 'Caroline' is simple pruning: in early spring, mow or cut the entire patch to the ground before new growth starts. The new primocanes that come up each year then flower and fruit that same fall — no sorting of old and new canes. (If you instead want a lighter early-summer crop the next year, leave the canes and cut only the tops that fruited; most Front Range growers skip this and take the single, larger fall crop.) Thin crowded new canes to a hand's width apart for airflow, and keep the suckers in bounds.[1]",
+    "harvest": "The fall (primocane) crop ripens from late summer until frost. Pick in the cool of early morning, and roll each ripe berry gently off its receptacle rather than squeezing or pulling — a ripe raspberry slips free cleanly, leaving the white core behind. Berries are highly perishable; refrigerate or process them the day you pick.[1]",
+    "troubles": "Cane borers (raspberry and rednecked cane borers) tunnel into stems, causing wilted tips — prune out and destroy affected canes. Fusarium and other wilts, plus root rots in poorly drained soil, are the main diseases; good drainage and airflow are the best defense. Aphids and spider mites appear in hot, dry spells. Birds will take the fruit — net if needed.[3]",
+    "companions": "Garlic and other alliums interplanted near raspberries are a traditional pairing said to deter Japanese beetle and improve plant health; tansy and rue are likewise grown nearby to repel beetles and flying pests. Give the patch its own dedicated row rather than crowding it with vegetables, since the suckering canes will spread.[4]"
+  },
+  "fact_src": {
+    "size": [1, 3],
+    "sun": [1, 3],
+    "water": [1],
+    "spread": [1, 3],
+    "seasons": [1, 3],
+    "wildlife": [3],
+    "deer": [1],
+    "toxic": [3, 5],
+    "origin": [3],
+    "habitat": [3]
+  },
+  "edible": {
+    "level": "edible",
+    "food": true,
+    "card": "Ripe berries (fresh, jam, pies)",
+    "summary": "The ripe red berries are a classic dessert fruit eaten fresh or cooked, and the leaves make a traditional tea — but the fruit is the part to grow this for.[1][3]",
+    "parts": "The ripe red aggregate berries are the food crop — sweet, fragrant, and eaten fresh out of hand or cooked into pies, preserves, jams, syrups, and wine. The dried leaves are also brewed as a mild herbal tea (the classic 'raspberry leaf tea'). No other part is used as food.[3]",
+    "preparation": "Pick berries fully ripe (they detach with a gentle roll) and eat them fresh or cook them into jelly, jam, pie, or syrup; they freeze well. For leaf tea, use only fully fresh or completely dried leaves — never partially wilted ones (see caution).[1][3]",
+    "caution": "The fruit is safe for everyone. The leaves are a different matter: fully dried (or fully fresh) raspberry leaves are fine for tea, but partially wilted or partly dried leaves can release small amounts of cyanide and cause nausea and stomach upset — so only brew leaves that are crisp-fresh or completely dry, never anything in between. The canes carry sharp prickles; wear gloves when pruning. As always, eat only fruit you have positively identified and that has not been sprayed.[3][5]"
+  },
+  "references": [
+    {
+      "name": "PlantTalk Colorado #1207 — Raspberries (CSU Extension)",
+      "url": "https://planttalk.colostate.edu/topics/fruits/1207-raspberries/"
+    },
+    {
+      "name": "Missouri Botanical Garden Plant Finder — Rubus idaeus",
+      "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=295999"
+    },
+    {
+      "name": "NC State Extension Gardener Plant Toolbox — Rubus idaeus",
+      "url": "https://plants.ces.ncsu.edu/plants/rubus-idaeus/"
+    },
+    {
+      "name": "Denver Urban Gardens — Companion Planting Guide",
+      "url": "https://dug.org/gardening-resources/companion-planting/"
+    },
+    {
+      "name": "NC State Extension Gardener Plant Toolbox — Rubus idaeus subsp. idaeus (leaf-tea & wilted-leaf caution)",
+      "url": "https://plants.ces.ncsu.edu/plants/rubus-idaeus-subsp-idaeus/"
+    }
+  ],
   "shots": [
     {
       "local": "images/su-fruit-t.jpg",

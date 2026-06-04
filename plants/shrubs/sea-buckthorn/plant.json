@@ -1,0 +1,82 @@
+{
+  "common": "Sea buckthorn",
+  "botanical": "Hippophae rhamnoides",
+  "type": "Shrub",
+  "lifecycle": "Perennial",
+  "native": "Non-native",
+  "blurb": "A vigorous, suckering silver-leaved shrub armed with vicious thorns and studded in fall with dense clusters of intensely tart, vitamin-C-rich orange berries.",
+  "size": "6–16 ft × 6–13 ft",
+  "sun": "Full sun",
+  "water": "Low; drought-tolerant once established",
+  "spread": "Suckers aggressively into dense clonal thickets and fixes nitrogen — same family as the noxious Russian olive, so confine it: root barrier or regular sucker removal, and keep it away from waterways/ditches",
+  "seasons": "Inconspicuous greenish flowers before the leaves in spring; silvery summer foliage on thorny stems; dense orange berries cling from fall into winter; bare spiny frame mid-winter",
+  "wildlife": "Wind-pollinated (little for bees); berries feed birds where they hang into winter; nitrogen-fixing roots build soil",
+  "deer": "Largely avoided — the sharp spines deter browsing",
+  "toxic": "Berries are edible and nutritious (very acidic); no part is poisonous, but the thorns are a real hazard",
+  "winter": false,
+  "verified": "2026-06-04",
+  "origin": "Cool-temperate Eurasia (Europe to Asia)",
+  "habitat": "Coastal dunes, river gravels and alpine slopes — sunny, exposed, sandy/poor, sometimes saline ground",
+  "shots": [
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/169124738/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — the silvery, upright whole-shrub form of an established plant · © no rights reserved (CC0) / iNaturalist",
+      "by": "no rights reserved",
+      "lic": "CC0",
+      "link": "https://www.inaturalist.org/observations/101278747"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/669718313/large.jpg",
+      "s": "summer",
+      "cap": "Summer — narrow silver-scaly leaves, the plant's distinctive foliage · © esdena (CC-BY-NC) / iNaturalist",
+      "by": "esdena",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/366767759"
+    },
+    {
+      "local": "images/su-thorns-t.jpg",
+      "full": "images/su-thorns.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/190744203/large.jpeg",
+      "s": "summer",
+      "cap": "A stem showing the sharp woody spines (thorns) that make the shrub a harvest hazard · © Gaël Covain (CC-BY-NC) / iNaturalist",
+      "by": "Gaël Covain",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/112905620"
+    },
+    {
+      "local": "images/fa-berries-t.jpg",
+      "full": "images/fa-berries.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/64613431/large.jpg",
+      "s": "fall",
+      "cap": "Fall — a tight cluster of bright-orange berries packed along the stem · © no rights reserved (CC0) / iNaturalist",
+      "by": "no rights reserved",
+      "lic": "CC0",
+      "link": "https://www.inaturalist.org/observations/40760685"
+    },
+    {
+      "local": "images/fa-berries2-t.jpg",
+      "full": "images/fa-berries2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/315876818/large.jpg",
+      "s": "fall",
+      "cap": "Fall — ripe orange berries among the narrow silvery leaves, face-on · © Shawn Brescia (CC-BY-NC) / iNaturalist",
+      "by": "Shawn Brescia",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/181259664"
+    },
+    {
+      "local": "images/fa-fruit-t.jpg",
+      "full": "images/fa-fruit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/172482148/large.jpg",
+      "s": "fall",
+      "cap": "Fall — a fruit-laden branch showing the heavy orange-berry display against silvery foliage · © dmitry tretjakov (CC-BY-NC) / iNaturalist",
+      "by": "dmitry tretjakov",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/103099902"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "common": "Black chokeberry",
+  "botanical": "Aronia melanocarpa",
+  "type": "Shrub",
+  "lifecycle": "Perennial",
+  "native": "Non-native",
+  "blurb": "An ultra-hardy berry shrub that pairs spring corymbs of pink-anthered white flowers with brilliant red fall foliage and glossy black antioxidant-packed fruit.",
+  "size": "3–8 ft × 3–6 ft",
+  "sun": "Full sun to part shade",
+  "water": "Moderate; adaptable but not truly drought-tolerant — wants supplemental water on the dry Front Range",
+  "spread": "Suckers freely into a multi-stem clonal thicket over time",
+  "seasons": "Pink-anthered white flower clusters May–Jun; glossy dark-green summer foliage; blackish-purple berries Aug–Sep; brilliant wine-red fall color; bare twiggy frame in winter",
+  "wildlife": "Spring flowers feed bees & pollinators; ripe berries draw birds (cedar waxwings, robins) into fall",
+  "deer": "Seldom seriously browsed; reasonably deer-resistant",
+  "toxic": "Non-toxic to people and pets; the fruit is edible (very astringent raw)",
+  "winter": false,
+  "verified": "2026-06-04",
+  "origin": "Eastern North America (NE US & Canada — not a Colorado native)",
+  "habitat": "Bogs, swamp edges, moist woods and dry uplands — wide moisture range on acid to neutral soils",
+  "shots": [
+    {
+      "local": "images/fa-habit-t.jpg",
+      "full": "images/fa-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/158604686/large.jpg",
+      "s": "fall",
+      "cap": "Fall — an established multi-stem shrub hung with ripening black berries · © Lara Maynard (CC-BY-NC) / iNaturalist",
+      "by": "Lara Maynard",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/95529517"
+    },
+    {
+      "local": "images/sp-flower-t.jpg",
+      "full": "images/sp-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/41559774/large.jpeg",
+      "s": "spring",
+      "cap": "Spring — a corymb of white flowers with showy pink anthers, face-on · © Basil Conlin (CC-BY-NC) / iNaturalist",
+      "by": "Basil Conlin",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/26753402"
+    },
+    {
+      "local": "images/sp-bloom-t.jpg",
+      "full": "images/sp-bloom.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/382129649/large.jpeg",
+      "s": "spring",
+      "cap": "Spring — the shrub in full bloom, flat-topped white flower clusters across the canopy · © Christine Murray (CC-BY-NC) / iNaturalist",
+      "by": "Christine Murray",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/216089959"
+    },
+    {
+      "local": "images/fa-berries-t.jpg",
+      "full": "images/fa-berries.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/313978654/large.jpg",
+      "s": "fall",
+      "cap": "Late summer–fall — a flat cluster of glossy blackish-purple pomes, the edible (very astringent) fruit · © David Govatski (CC-BY-NC) / iNaturalist",
+      "by": "David Govatski",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/180266555"
+    },
+    {
+      "local": "images/fa-fall-t.jpg",
+      "full": "images/fa-fall.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/98940216/large.jpeg",
+      "s": "fall",
+      "cap": "Fall — the brilliant wine-red autumn foliage, the plant's signature display · © esdena (CC-BY-NC) / iNaturalist",
+      "by": "esdena",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/61805029"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/47018076/large.jpg",
+      "s": "summer",
+      "cap": "Summer — glossy dark-green obovate leaves and ripening fruit on the bush · © learyma (CC-BY-NC) / iNaturalist",
+      "by": "learyma",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/30107264"
+    }
+  ]
+}

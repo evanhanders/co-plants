@@ -12,7 +12,7 @@
   "seasons": "Clove-scented golden flowers Apr–Jun; berries ripen amber-red to black through summer; yellow-to-red fall foliage; bare arching stems in winter",
   "wildlife": "Tubular spring flowers are a top early nectar source for hummingbirds, native bees, and butterflies; songbirds, small mammals, and bears eat the ripe berries",
   "deer": "Browsed by deer and rabbits, especially young growth, but tough and resprouts readily — not a preferred browse",
-  "toxic": "Ripe berries are edible and tasty; no significant toxicity reported, though as with most fruit, eat only fully ripe berries",
+  "toxic": "",
   "winter": false,
   "verified": "2026-06-04",
   "care": {
@@ -31,14 +31,37 @@
     "companions": "Combine with other resilient natives — chokecherry, Wood's rose, serviceberry — in a low-water wildlife or edible hedge, underplanted with prairie grasses and perennials.[1]"
   },
   "fact_src": {
-    "size": [1, 2],
-    "sun": [1, 3],
-    "water": [2, 3],
-    "spread": [1, 2],
-    "seasons": [1, 2],
-    "wildlife": [1, 2],
-    "deer": [2],
-    "toxic": [1, 2]
+    "size": [
+      1,
+      2
+    ],
+    "sun": [
+      1,
+      3
+    ],
+    "water": [
+      2,
+      3
+    ],
+    "spread": [
+      1,
+      2
+    ],
+    "seasons": [
+      1,
+      2
+    ],
+    "wildlife": [
+      1,
+      2
+    ],
+    "deer": [
+      2
+    ],
+    "toxic": [
+      1,
+      2
+    ]
   },
   "edible": {
     "level": "edible",

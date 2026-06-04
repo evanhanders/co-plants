@@ -12,7 +12,7 @@
   "seasons": "Pendant flower racemes in April; matte black berry clusters ripen June–July; aromatic lobed summer foliage; bare cane frame in winter",
   "wildlife": "Bees visit the spring flowers; birds strip the ripe fruit if unnetted",
   "deer": "Aromatic foliage is not a favored browse; not reliably deer-proof",
-  "toxic": "Non-toxic; berries and leaves are not poisonous (leaves are used for tea)",
+  "toxic": "",
   "winter": false,
   "verified": "2026-06-04",
   "origin": "Central & northern Europe and northern Asia",
@@ -33,16 +33,43 @@
     "companions": "Best grown with the other Ribes — red currant and gooseberry — in a moist, lightly shaded small-fruit bed, underplanted with shallow herbs and spring bulbs that won't compete for water. The one planting rule that matters here is distance from five-needle white pines, given black currant's role as the prime blister-rust host.[1][2]"
   },
   "fact_src": {
-    "size": [2, 1],
-    "sun": [1, 2],
-    "water": [1, 4],
-    "spread": [2, 3],
-    "seasons": [2, 4],
-    "wildlife": [2, 4],
-    "deer": [2],
-    "toxic": [2, 1],
-    "origin": [5],
-    "habitat": [5]
+    "size": [
+      2,
+      1
+    ],
+    "sun": [
+      1,
+      2
+    ],
+    "water": [
+      1,
+      4
+    ],
+    "spread": [
+      2,
+      3
+    ],
+    "seasons": [
+      2,
+      4
+    ],
+    "wildlife": [
+      2,
+      4
+    ],
+    "deer": [
+      2
+    ],
+    "toxic": [
+      2,
+      1
+    ],
+    "origin": [
+      5
+    ],
+    "habitat": [
+      5
+    ]
   },
   "edible": {
     "level": "edible",

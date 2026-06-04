@@ -12,7 +12,7 @@
   "seasons": "White flowers early summer; ripe red berries late summer into fall (the primocane crop); yellow fall foliage; bare prickly canes in winter",
   "wildlife": "Bees work the flowers; songbirds and small mammals take the fruit; larval host for several butterflies and moths",
   "deer": "Not deer-resistant — deer browse the tender canes and fruit; protect young plantings",
-  "toxic": "Fruit and fully dried leaves are safe; partially wilted leaves can release small amounts of cyanide",
+  "toxic": "",
   "winter": false,
   "verified": "2026-06-04",
   "origin": "Cultivated red raspberry — Eurasian Rubus idaeus crossed with the North American native subspecies",
@@ -33,16 +33,41 @@
     "companions": "Garlic and other alliums interplanted near raspberries are a traditional pairing said to deter Japanese beetle and improve plant health; tansy and rue are likewise grown nearby to repel beetles and flying pests. Give the patch its own dedicated row rather than crowding it with vegetables, since the suckering canes will spread.[4]"
   },
   "fact_src": {
-    "size": [1, 3],
-    "sun": [1, 3],
-    "water": [1],
-    "spread": [1, 3],
-    "seasons": [1, 3],
-    "wildlife": [3],
-    "deer": [1],
-    "toxic": [3, 5],
-    "origin": [3],
-    "habitat": [3]
+    "size": [
+      1,
+      3
+    ],
+    "sun": [
+      1,
+      3
+    ],
+    "water": [
+      1
+    ],
+    "spread": [
+      1,
+      3
+    ],
+    "seasons": [
+      1,
+      3
+    ],
+    "wildlife": [
+      3
+    ],
+    "deer": [
+      1
+    ],
+    "toxic": [
+      3,
+      5
+    ],
+    "origin": [
+      3
+    ],
+    "habitat": [
+      3
+    ]
   },
   "edible": {
     "level": "edible",

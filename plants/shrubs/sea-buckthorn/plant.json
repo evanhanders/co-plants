@@ -12,11 +12,84 @@
   "seasons": "Inconspicuous greenish flowers before the leaves in spring; silvery summer foliage on thorny stems; dense orange berries cling from fall into winter; bare spiny frame mid-winter",
   "wildlife": "Wind-pollinated (little for bees); berries feed birds where they hang into winter; nitrogen-fixing roots build soil",
   "deer": "Largely avoided — the sharp spines deter browsing",
-  "toxic": "Berries are edible and nutritious (very acidic); no part is poisonous, but the thorns are a real hazard",
+  "toxic": "",
   "winter": false,
   "verified": "2026-06-04",
   "origin": "Cool-temperate Eurasia (Europe to Asia)",
   "habitat": "Coastal dunes, river gravels and alpine slopes — sunny, exposed, sandy/poor, sometimes saline ground",
+  "care": {
+    "hardiness": "Extremely cold-hardy — rated to about USDA zone 2–3, so the Front Range's 5b–6a winters are no obstacle and it needs no protection.[1] Combined with its drought and salt tolerance, it is one of the toughest fruiting shrubs you can plant in Boulder. The trade-off is vigor: it is a spreading, suckering shrub best given room and a containment plan (see Maintenance).[1]",
+    "planting": "Plant container shrubs in spring (April–May) once the soil works, or in early fall. CRITICAL: sea buckthorn is dioecious — male and female flowers are on separate plants — so you must plant at least one MALE for every group of females or you get no berries; one male pollinizes roughly 6–8 females.[1] Site it away from waterways, ditches, irrigation channels, and low wet ground: like its noxious relative Russian olive (same family, Elaeagnaceae), it suckers and fixes nitrogen and can invade riparian corridors, and it is a documented regional invasive elsewhere though not currently on any Colorado noxious list.[2][3] Choose a dry, contained, non-riparian spot, and plan from the start to manage its spread.[2]",
+    "sun": "Full sun, full stop — it evolved on open dunes and river gravels and demands all-day sun for good fruiting and dense, silvery growth.[1] It will not thrive or crop in shade.",
+    "soil": "Thrives in average to poor, well-drained soil and is famously unfussy: it tolerates sand, gravel, compaction, and salt, and actually builds fertility on barren ground by fixing atmospheric nitrogen through root nodules (the same Frankia symbiosis its relative Russian olive uses).[1][3] Boulder's lean alkaline soils suit it well. It wants good drainage — avoid soggy sites.",
+    "water": "Genuinely drought-tolerant once established — one of the few berry shrubs that actually earns a xeric rating on the Front Range, which is a real selling point here.[1] Water through the first year or two to establish, then it gets by on little supplemental irrigation. Do not overwater; its strength is tolerating dry, poor, exposed ground.",
+    "spacing": "Plants mature to roughly 6–16 ft tall and nearly as wide, occasionally tree-like.[1] Space females 6–8 ft apart with a male within ~30 ft for pollination; closer spacing makes a dense, nearly impenetrable thorny hedge.[1] Leave room for the colony to widen by suckers — or install a root barrier (see Maintenance).",
+    "propagation": "Easiest from suckers — dig rooted suckers in early spring and transplant them (note that a sucker is the same sex as its parent, so track which are male and female).[1] Hardwood and softwood cuttings root with bottom heat; layering works too. Seed germinates but seedling sex is unknown until first bloom (years later), so seed is impractical if you want a known male-to-female ratio — buy or propagate sexed plants instead.[1]",
+    "bloom": "Tiny, inconspicuous greenish-yellow flowers open in March–April BEFORE the leaves and are wind-pollinated — there is no showy bloom and little nectar for bees; the ornamental payoff is the foliage and fruit, not the flowers.[1] Because pollination is by wind, keep males upwind of and within range of the females.",
+    "feeding": "Essentially never needs feeding — as a nitrogen-fixer it makes its own and performs best on lean soil.[1][3] Skip fertilizer entirely; rich or high-nitrogen ground only pushes soft, over-vigorous growth and more suckering.",
+    "maintenance": "Plan for vigor and containment. Sea buckthorn suckers profusely into dense thickets, and because it fixes nitrogen and shares the suckering, riparian-invasive habit of its noxious relative Russian olive (both Elaeagnaceae), it should be actively confined: install a root barrier at planting, or commit to cutting/pulling stray suckers every season, and never site it beside a stream, ditch, or wet swale where it could escape.[2][3] It is a documented regional invasive in parts of North America (e.g. spreading in Canadian prairie and floodplain habitats) even though it is not currently listed in Colorado, so containment here is prudence, not paranoia.[2] Prune in late winter to shape and to keep the thorny canopy reachable; wear heavy gloves and eye protection — the spines are vicious.[1]",
+    "harvest": "Orange berries ripen September–October and cling to the thorny stems through fall and often deep into winter.[1] Harvest is the hard part: the fruit is packed tight against viciously spined branches, so pickers often cut whole fruiting branches and freeze them, then knock the frozen, brittle berries off — far easier than picking by hand. Wear thick gloves and eye protection. The berries are intensely acidic but very high in vitamin C and are juiced or cooked rather than eaten out of hand.[1]",
+    "troubles": "Few pests bother it, but its own vigor is the main 'trouble': aggressive suckering can colonize beyond its bounds, so monitor and remove escapees, and keep it out of riparian sites where that spread becomes an ecological problem (the Russian-olive cautionary tale, same family).[2][3] The thorns make every operation — pruning, harvest, weeding underneath — hazardous; gloves and eye protection are not optional. No male means no fruit, the most common disappointment with this plant.[1]",
+    "companions": "Best given its own dry, sunny, contained corner rather than crowded into a moist mixed border. Its nitrogen-fixing roots can benefit nearby plantings, and it makes a tough windbreak or wildlife hedge on poor ground. Keep it well away from streamside or rain-garden plantings; pair instead with other xeric, sun-loving shrubs on lean soil.[1][3]"
+  },
+  "fact_src": {
+    "size": [
+      1
+    ],
+    "sun": [
+      1
+    ],
+    "water": [
+      1
+    ],
+    "spread": [
+      1,
+      2,
+      3
+    ],
+    "seasons": [
+      1
+    ],
+    "wildlife": [
+      1,
+      3
+    ],
+    "deer": [
+      1
+    ],
+    "toxic": [
+      1
+    ],
+    "origin": [
+      1
+    ],
+    "habitat": [
+      1
+    ]
+  },
+  "edible": {
+    "level": "edible",
+    "food": true,
+    "card": "Tart orange berries, juiced/cooked",
+    "summary": "The orange berries are edible, safe, and exceptionally high in vitamin C — but intensely acidic, so they are juiced or cooked rather than eaten raw; the real hazard is the shrub's vicious thorns at harvest.[1]",
+    "parts": "The orange berries are the edible part — among the most vitamin-C-rich fruits in the temperate world, and loaded with other vitamins and antioxidants.[1] They ripen September–October and persist into winter. No part of the plant is poisonous; the leaves are sometimes brewed as tea, but the berry is the food crop.[1]",
+    "preparation": "The berries are very tart and acidic — too sharp for most people to eat by the handful — so they are pressed into juice, cooked into jellies, jams, sauces, and pie fillings, or used as a tangy flavoring and ice-cream topping; some find fully ripe fruit pleasantly tangy-sweet.[1] A practical harvest trick is to cut fruiting branches and freeze them, then shake the brittle frozen berries free, since hand-picking among the spines is brutal.[1]",
+    "caution": "The berries themselves are safe and nutritious — the cautions are practical, not toxicological. First, the fruit is extremely acidic: eaten raw in quantity it is mouth-searingly tart and best sweetened or diluted. Second, and more important, the shrub is armed with long, very sharp woody spines, so harvesting is a genuine injury hazard — wear thick gloves and eye protection, and consider the cut-and-freeze method to keep hands out of the thorns.[1] No part of sea buckthorn is poisonous.[1]"
+  },
+  "references": [
+    {
+      "name": "University of Saskatchewan, College of Agriculture & Bioresources — Sea buckthorn",
+      "url": "https://gardening.usask.ca/articles-and-lists/articles-plant-descriptions/trees/sea-buckthorn.php"
+    },
+    {
+      "name": "USDA Forest Service FEIS — Elaeagnus angustifolia (Russian olive): Elaeagnaceae family, nitrogen-fixing & riparian-invasive habit",
+      "url": "https://www.fs.usda.gov/database/feis/plants/tree/elaang/all.html"
+    },
+    {
+      "name": "Missouri Botanical Garden Plant Finder — Hippophae rhamnoides",
+      "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=279280"
+    }
+  ],
   "shots": [
     {
       "local": "images/su-habit-t.jpg",

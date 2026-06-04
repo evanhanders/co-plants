@@ -12,7 +12,7 @@
   "seasons": "Pale yellow flowers very early spring; elongated blue berries ripen in early summer (first fruit of the year); green summer foliage; bare twiggy frame in winter",
   "wildlife": "Early bumble bees and other bees pollinate the flowers; birds will take the ripe fruit if it isn't netted",
   "deer": "Generally left alone; not a preferred deer browse, though young growth may be sampled",
-  "toxic": "No part is toxic; the blue fruit is fully edible (unlike the toxic red berries of invasive bush honeysuckles)",
+  "toxic": "",
   "winter": false,
   "verified": "2026-06-04",
   "origin": "Cultivated forms bred from circumboreal wild stock — Russian, Japanese, and Canadian germplasm",
@@ -33,16 +33,41 @@
     "companions": "Plant the required pair of different cultivars together so they cross-pollinate, and give them a cool, mulched, evenly moist root run. They pair well with other small fruits and early-spring bee plants that bloom alongside them to draw pollinators. Avoid hot, dry, reflected-heat sites; an east-facing or lightly shaded bed suits this boreal shrub better than a baking south wall.[1][2]"
   },
   "fact_src": {
-    "size": [1, 2],
-    "sun": [1, 2],
-    "water": [1, 2],
-    "spread": [1],
-    "seasons": [1, 2],
-    "wildlife": [1, 2],
-    "deer": [2],
-    "toxic": [1],
-    "origin": [1],
-    "habitat": [1]
+    "size": [
+      1,
+      2
+    ],
+    "sun": [
+      1,
+      2
+    ],
+    "water": [
+      1,
+      2
+    ],
+    "spread": [
+      1
+    ],
+    "seasons": [
+      1,
+      2
+    ],
+    "wildlife": [
+      1,
+      2
+    ],
+    "deer": [
+      2
+    ],
+    "toxic": [
+      1
+    ],
+    "origin": [
+      1
+    ],
+    "habitat": [
+      1
+    ]
   },
   "edible": {
     "level": "edible",

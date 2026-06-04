@@ -51,6 +51,10 @@ committed and pushed.** Deploys are just git:
    **squash-merge** it. **GitHub Pages deploys from `main`**, so work isn't live until it's
    merged — **don't leave finished work parked on a feature branch.** Sync the branch to the
    merged `main` afterward (`git fetch origin main && git reset --hard origin/main`).
+   - **"Unverified" merge commits are expected and fine — don't try to "fix" them.** Merging
+     through the GitHub API means GitHub authors the squash/merge commit (committer
+     `noreply@github.com`), so it shows as **Unverified** and the git stop-hook will flag the
+     branch tip. That's cosmetic; **never rewrite/force-push `main` to re-sign it.**
 4. GitHub Pages redeploys from `main` automatically; changes go live in a minute or two.
 
 **Preview / self-check:** because the page `fetch()`es the plant data, `file://`

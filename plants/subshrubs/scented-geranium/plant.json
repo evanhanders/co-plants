@@ -15,6 +15,78 @@
   "toxic": "Leaves used as edible flavoring in small amounts; mildly toxic to pets (ASPCA)",
   "winter": false,
   "verified": "2026-06-04",
+  "care": {
+    "hardiness": "A frost-tender tender perennial (roughly USDA 9–11) that cannot survive a Front Range winter outdoors — it is killed by frost, so on the Front Range it is grown as a warm-season container or annual plant and overwintered indoors.[2][1]",
+    "planting": "Set plants outside only after all danger of frost has passed and the soil has warmed to about 60 F — late May on the Front Range.[2] It is most practical in containers so it can be moved: grow it in a pot of well-drained potting mix on a sunny patio for the summer, then bring it indoors before the first fall frost.[1][2] If grown in the ground, dig and pot it up in early fall ahead of frost. To overwinter, set the potted plant in a bright sunny window with cool temperatures around 60–65 F, cut large plants back, and reduce water — it may drop some leaves at first but will recover.[1][2]",
+    "sun": "Full sun for the best growth and the strongest leaf fragrance — at least 4–8 hours of direct sun. In the Front Range's intense summer sun a little afternoon shade in a heat wave is fine; indoors over winter give it the brightest window you have.[3][2]",
+    "soil": "Light, well-drained soil is essential — it tolerates dry soil far better than wet, and poor drainage causes leaf yellowing and disease. In containers use a free-draining potting mix with ample drainage holes; lean soil is fine.[3][1]",
+    "water": "Moderate; let the top 1–2 in of soil dry between waterings, then water thoroughly. It is quite drought-tolerant and resents soggy soil, but never let it wilt to the point the leaves yellow and drop. Keep the foliage dry to limit disease.[2][3]",
+    "spacing": "Give each plant room to reach roughly 2–3 ft tall and 2 ft wide in a season; in a mixed container or bed allow about 18–24 in between plants.[3]",
+    "propagation": "By stem cuttings — the standard and easiest method, and the one that keeps the named scent true (seed won't). Take a 2–3 in terminal cutting, treat with rooting hormone, and root in moist medium over about 3–4 weeks; cuttings are also the space-saving way to carry a plant through winter indoors.[2][1]",
+    "bloom": "Grown chiefly for foliage; it carries small pink-to-mauve flowers through summer, but the deeply cut aromatic leaves (rose, lemon, or mint depending on the type) are the real feature.[1][3]",
+    "feeding": "Feed lightly during active summer growth; reduce or stop feeding for the overwintering plant indoors, when low light slows it down.[2]",
+    "maintenance": "Pinch and harvest the shoots to keep it bushy; cut large plants back before bringing them indoors for winter. Brush or harvest the foliage often — that's the point of the plant.[1][2]",
+    "troubles": "Largely trouble-free outdoors; its aromatic foliage makes it deer-resistant. Overwatering and poor drainage cause yellowing leaves and disease, and indoor winter plants can attract whiteflies and aphids in low light — keep foliage dry and air moving.[3][2]",
+    "harvest": "Pick the fragrant leaves as needed all season, using them fresh or dried. Harvest lightly and often rather than stripping the plant; younger leaves are the most aromatic.[1][3]",
+    "companions": "Combines well in summer containers and herb plantings with other heat-lovers and aromatic herbs (basil, lavender, other scented pelargoniums); its scent and deer-resistance make it a good edging or pot companion among less-protected plants.[3]"
+  },
+  "edible": {
+    "level": "edible",
+    "food": true,
+    "card": "Fragrant leaves flavor sugar, jelly & baking",
+    "summary": "The fragrant leaves of the culinary scented types (rose, lemon) are used as a flavoring — to infuse sugar, jellies, baked goods, beverages, and teas — not eaten as a leafy green.[1][3]",
+    "parts": "Only the aromatic leaves of the named culinary scented geraniums (rose geranium, Pelargonium graveolens, and lemon-scented kin) are used in the kitchen, and used as a flavoring rather than as bulk food. Rose geranium is recognized as safe as a food flavoring (FEMA GRAS).[1][3]",
+    "preparation": "Use the leaves to impart fragrance: layer them in a jar of sugar to scent it, line a cake or pound-cake pan with leaves before baking, infuse them into jellies, syrups, punches, vinegars, and teas, then lift the leaf out before serving.[1][3] The leaf flavors the dish and is typically removed rather than eaten whole.[1]",
+    "caution": "Use the leaf as a flavoring, not as a bulk food — infuse and remove it, don't eat it by the handful, and use only the named culinary scented types (rose/lemon) grown without pesticides.[1][3] The more pungent scented cultivars are meant for potpourri and perfume, not eating.[1] Important for pet owners: the ASPCA lists Pelargonium (geranium) as toxic to dogs, cats, and horses — the toxic principles geraniol and linalool can cause vomiting, loss of appetite, depression, and dermatitis — so keep pets from chewing the plant even though the leaves are used in human food.[4]"
+  },
+  "references": [
+    {
+      "name": "University of Illinois Extension — Scented Geranium (Herbs)",
+      "url": "https://extension.illinois.edu/herbs/scented-geranium"
+    },
+    {
+      "name": "University of Minnesota Extension — Growing geraniums as annual flowers in Minnesota",
+      "url": "https://extension.umn.edu/flowers/growing-geraniums-minnesota"
+    },
+    {
+      "name": "Clemson Cooperative Extension HGIC — Annual Geranium (Pelargonium)",
+      "url": "https://hgic.clemson.edu/factsheet/geranium/"
+    },
+    {
+      "name": "ASPCA — Geranium (Pelargonium spp.), toxic to dogs, cats, horses",
+      "url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/geranium"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      3
+    ],
+    "sun": [
+      3,
+      2
+    ],
+    "water": [
+      2,
+      3
+    ],
+    "spread": [
+      3
+    ],
+    "seasons": [
+      1,
+      3
+    ],
+    "wildlife": [
+      1
+    ],
+    "deer": [
+      3
+    ],
+    "toxic": [
+      4,
+      1
+    ]
+  },
   "shots": [
     {
       "local": "images/su-foliage-t.jpg",

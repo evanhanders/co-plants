@@ -28,14 +28,24 @@
       "link": "https://www.inaturalist.org/observations/47529703"
     },
     {
+      "local": "images/su-flowers2-t.jpg",
+      "full": "images/su-flowers2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/100819149/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — the hooded white flowers tucked under spiny maroon bracts, stacked up the spike · © anetteffm (CC-BY-NC) / iNaturalist",
+      "by": "anetteffm",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/62877681"
+    },
+    {
       "local": "images/su-bloom-t.jpg",
       "full": "images/su-bloom.jpg",
-      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/118086224/large.jpeg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/191761509/large.jpg",
       "s": "summer",
-      "cap": "Summer — a tall flower spike in full bloom · © C. Mosc (CC-BY-NC) / iNaturalist",
-      "by": "C. Mosc",
+      "cap": "Summer — the whole flower spikes in habitat, showing the plant's dramatic vertical inflorescence · © samutrifix (CC-BY-NC) / iNaturalist",
+      "by": "samutrifix",
       "lic": "CC-BY-NC",
-      "link": "https://www.inaturalist.org/observations/72427799"
+      "link": "https://www.inaturalist.org/observations/113508414"
     },
     {
       "local": "images/sp-foliage-t.jpg",
@@ -56,6 +66,67 @@
       "by": "spyrusmt",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/221639561"
+    }
+  ],
+  "care": {
+    "hardiness": "The catch on the Front Range: Acanthus mollis is rated only USDA zones 7–10, so Boulder's 5b–6a winters are at or below its limit. It is NOT reliably winter-hardy here. Grow it in your warmest, most sheltered microclimate (a south- or west-facing wall, protected from desiccating winter wind) and mulch the crown heavily after the ground chills, or treat it as a containerized/dieback plant. Foliage is evergreen only in warm climates and is killed below about 20°F, so expect it to die to the ground each winter here even where the roots survive.[1][2]",
+    "planting": "In the ground, plant out in late spring after the mid-May last frost so roots establish through the warm season; site it against a heat-holding wall and mulch deeply (4–6 in of shredded bark or leaves over the crown) once the soil cools in fall. Because it is borderline-hardy, containers are the safer route in Boulder: pot in a large, well-drained container and move it into an unheated garage, shed, or cold frame for winter — potted roots are far less cold-hardy than those in the ground and will freeze through in an exposed pot. Containers also dry out fast in our sun, so check moisture often in summer.[1][2]",
+    "sun": "Full sun to part shade. In Boulder's intense high-altitude light and summer heat, give it afternoon shade — dappled or east-facing exposure keeps the big glossy leaves from scorching and from going prematurely summer-dormant. Too much shade reduces flowering.[1][2]",
+    "soil": "Adaptable to clay, loam, sand, and shallow rocky soils; it tolerates Boulder's alkaline clay well. It prefers fertile, medium-moisture, well-drained ground but resents wet feet — sharp winter drainage is important for survival here. Amending heavy clay with organic matter speeds establishment.[1][2]",
+    "water": "Moderate while establishing; once settled it is drought-tolerant. Without summer irrigation in our semi-arid climate it may go dormant and drop its leaves — a deep soak during extended heat keeps the foliage looking good. Avoid soggy soil, especially over winter.[1][2]",
+    "spacing": "Give each plant 2–3 ft of room; the bold clump reaches 3–5 ft tall (flower spikes to 5 ft) and 2–3 ft wide. It needs space because it is hard to move or remove once established.[1][2]",
+    "propagation": "By seed, division, or root cuttings. Easiest vegetatively: take root cuttings in early spring (its preferred propagation method), or divide an established clump in spring or fall. Seed can be sown but is slower. Be warned — any chunk of the brittle, deep root left in the ground will resprout, which is also why it is so hard to eradicate.[1][2]",
+    "bloom": "Tall spikes of hooded, snapdragon-like flowers — creamy-white with purple-mauve bracts — rise on 3–5 ft stems in early-to-mid summer (roughly June–July). The dramatic foliage carries the plant the rest of the season.[1][2]",
+    "feeding": "Light needs. A spring topdressing of compost is usually enough on decent soil; on lean ground a light balanced feed in spring supports the large leaves. Don't overfeed.[1]",
+    "maintenance": "Cut spent flower spikes after bloom; remove tattered or scorched leaves through summer. Where it dies back, clear the dead foliage in late fall or early spring and renew the protective mulch. Site it where you want it permanently — it is very difficult to dig out once the deep roots are down.[1][2]",
+    "troubles": "Slugs and snails chew the big leaves, and powdery mildew can appear on crowded, shaded, or drought-stressed plants — give it air movement and afternoon (not all-day) shade. The leaf margins and flower bracts are spiny, so wear gloves when handling. Its biggest 'problem' here is simply marginal hardiness; in milder gardens it can spread aggressively by creeping roots, so root barriers help.[1][2]",
+    "companions": "Pair its architectural foliage with other part-shade, alkaline-clay-tolerant perennials and a sheltered, slightly richer bed: hostas, brunnera, hardy geraniums, and bold-leaved companions read well against the deeply lobed leaves; surround with a heat-holding wall and lower mulch-loving plants to buffer the winter cold.[1][2]"
+  },
+  "fact_src": {
+    "size": [
+      1,
+      2
+    ],
+    "sun": [
+      1,
+      2
+    ],
+    "water": [
+      1,
+      2
+    ],
+    "spread": [
+      1,
+      2
+    ],
+    "seasons": [
+      1,
+      2
+    ],
+    "wildlife": [
+      2
+    ],
+    "deer": [
+      1
+    ],
+    "toxic": [
+      1,
+      2
+    ]
+  },
+  "edible": {
+    "level": "inedible",
+    "summary": "Bear's breeches is an ornamental foliage plant with no edible use — it is grown for its leaves and flower spikes, not for eating.[1][2]",
+    "caution": "Acanthus mollis is not considered notably poisonous, but it has no food use and should not be eaten. Handle it with care for a different reason: the leaf margins and flower bracts are spiny, and the sap can irritate sensitive skin — wear gloves when cutting or dividing it.[1][2]"
+  },
+  "references": [
+    {
+      "name": "NC State Extension Plant Toolbox — Acanthus mollis (bear's breeches)",
+      "url": "https://plants.ces.ncsu.edu/plants/acanthus-mollis/"
+    },
+    {
+      "name": "Missouri Botanical Garden Plant Finder — Acanthus mollis",
+      "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=275338"
     }
   ]
 }

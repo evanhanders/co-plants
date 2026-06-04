@@ -715,11 +715,11 @@ ground every statement in an authority cited in `references`.
 
 ## Current plant roster (in the live site)
 
-**76 specimens**, all verified non-weed in CO and all carrying a full `care` block (incl.
+**85 specimens**, all verified non-weed in CO and all carrying a full `care` block (incl.
 `planting` + `propagation`) **and a repo-hosted photo reel** (close-up + structure, seasonal
 where good shots exist). Every plant's detail page is now **fully cited** — a numbered
 `references` bibliography with inline `[n]` markers on the facts table (`fact_src`), the care
-prose, and a safety-reviewed **`edible` block** (current split: 30 inedible · 21 caution · 14
+prose, and a safety-reviewed **`edible` block** (current split: 37 inedible · 21 caution · 16
 edible · 11 toxic). Grouped by type below (the order the site uses). Photos were sourced
 mostly from the iNaturalist open dataset via `tools/inat_montage.py` (note: the yellow
 'Mersea Yellow' pineleaf penstemon came from *cultivated* iNat observations — pass through the
@@ -734,6 +734,13 @@ Reliance cultivar shots that Commons lacked, and honestly-captioned **species-re
 shots where no cultivar photo exists at all (Summercrisp pear — see its `gaps` note; the
 *Pyrus communis* shots match the cultivar's described look). Every shot keeps a remote
 `commons`/`url` fallback; card thumbnails are 720×480 smart-crops (`tools/rethumb.py`).
+Nine **garden ornamentals** followed (Acanthus, three wallflowers, nasturtium, four
+pelargoniums): photos came from iNat at the species/type level (fine for these), Commons for
+the 'Bowles's Mauve' wallflower cultivar, and honestly-captioned **species-representative**
+*Erysimum* for the 'Apricot Twist' wallflower (no CC cultivar photo exists — see its `gaps`).
+Several are **frost-tender** on the Front Range (Acanthus is borderline ~zone 7; the
+pelargoniums are killed by frost and grown as annuals or overwintered indoors) — the `care`
+blocks say so plainly rather than overselling hardiness.
 (N) = CO/regional native, (I) = introduced/vetted.
 
 **Trees**
@@ -758,12 +765,17 @@ shots where no cultivar photo exists at all (Summercrisp pear — see its `gaps`
 - Wood's rose (*Rosa woodsii*) (N) — Fragrant pink wild rose with red hips that hang on all winter.
 
 **Subshrubs**
+- Apricot wallflower (*Erysimum 'Apricot Twist'*) (I) — Long-blooming perennial wallflower; flowers open apricot and age to mauve. *(photos species-representative — see `gaps`)*
+- Bowles's Mauve wallflower (*Erysimum 'Bowles's Mauve'*) (I) — A grey-leaved mound smothered in fragrant mauve racemes; top early-bee plant. Short-lived (~zone 6b).
 - Candytuft (*Iberis sempervirens*) (I) — A woody-based evergreen mat smothered in crisp white flower…
 - Cushion spurge (*Euphorbia polychroma*) (I) — A tidy chartreuse dome that blazes red-orange in autumn.
 - Lavender (*Lavandula angustifolia*) (I) — The quintessential fragrant subshrub
 - Mojave sage (*Salvia pachyphylla*) (I) — Silvery aromatic mound crowned with violet flowers and…
 - Pineleaf penstemon (*Penstemon pinifolius 'Mersea Yellow'*) (I) — A Southwest US native (AZ/NM) celebrated for its fine,…
+- Regal geranium (*Pelargonium × domesticum*) (I) · **Tender perennial** — The showiest pelargonium: big ruffled, dark-blotched cool-season blooms.
 - Russian sage (*Salvia yangii*) (I) — An airy haze of lavender-blue over silver stems
+- Scented-leaf geranium (*Pelargonium graveolens*) (I) · **Tender perennial** — Grown for rose/lemon/mint-scented foliage (lovely in baking).
+- Zonal geranium (*Pelargonium × hortorum*) (I) · **Tender perennial** — The classic bedding 'geranium' — bold flower balls over zoned leaves.
 
 **Ornamental grasses**
 - Blue oat grass (*Helictotrichon sempervirens*) (I) — A tidy steel-blue fountain of fine, arching foliage
@@ -776,6 +788,7 @@ shots where no cultivar photo exists at all (Summercrisp pear — see its `gaps`
 - Garden verbena (*Glandularia canadensis 'Homestead Purple'*) (I) · **Tender perennial** — A heat-loving, drought-tolerant trailing mat that carpets…
 - Hardy cranesbill (*Geranium 'Rozanne'*) (I) — The famous long-blooming hardy cranesbill
 - Hardy ice plant (*Delosperma cooperi*) (I) — A Plant Select staple from South Africa
+- Ivy-leaved geranium (*Pelargonium peltatum*) (I) · **Tender perennial** — The window-box spiller: glossy ivy leaves and cascading flower clusters.
 - Kinnikinnick (*Arctostaphylos uva-ursi*) (N) — A tough native evergreen mat-former
 - Snow-in-summer (*Cerastium tomentosum*) (I) — A silver-gray mat of woolly foliage that erupts into a froth…
 - Turkish speedwell (*Veronica liwanensis*) (I) — A Plant Select standout
@@ -784,12 +797,14 @@ shots where no cultivar photo exists at all (Summercrisp pear — see its `gaps`
 - 'Dropmore Scarlet' honeysuckle (*Lonicera × brownii 'Dropmore Scarlet'*) (I) — A Canadian-bred cold-hardy twining vine that puts on a…
 - Climbing rose (*Rosa (climbing cultivars)*) (I) — Stiff-caned roses trained upright on a wall or trellis, many…
 - Garden clematis (*Clematis × jackmanii*) (I) — Classic large-flowered climber
+- Nasturtium (*Tropaeolum majus*) (I) · **Annual** — Easy peppery-edible annual; round leaves and spurred flowers that trail or climb.
 - Rambling rose (*Rosa (rambling cultivars)*) (I) — Vigorous, flexible-caned roses that 'wander' over fences &…
 - Trumpet honeysuckle (*Lonicera sempervirens*) (I) — A well-behaved twining climber with clusters of long…
 
 **Spring forbs**
 - Brunnera (*Brunnera macrophylla*) (I) — Clouds of tiny forget-me-not-blue flowers drift above…
 - Colorado blue columbine (*Aquilegia coerulea*) (N) — Colorado's state flower
+- English wallflower (*Erysimum cheiri*) (I) · **Biennial** — The classic fragrant cottage-garden wallflower in jewel-toned spring spires.
 - Garden peony (*Paeonia lactiflora*) (I) — Lavish, fragrant late-spring blooms on a clump that can…
 - Grecian windflower (*Anemone blanda*) (I) — A low spring-blooming tuber that carpets the ground with…
 - Horned spurge (*Euphorbia brachycera*) (N) — A low Rocky Mountain native forming spreading yellow-green mats.
@@ -799,6 +814,7 @@ shots where no cultivar photo exists at all (Summercrisp pear — see its `gaps`
 - Western wallflower (*Erysimum capitatum*) (N) · **Biennial** — A tough native short-lived perennial or biennial that covers…
 
 **Summer forbs**
+- Acanthus (*Acanthus mollis*) (I) — Architectural 'bear's breeches': huge glossy leaves and hooded white-&-purple flower spikes. Tender (~zone 7).
 - Aspen fleabane (*Erigeron speciosus*) (N) — A native daisy
 - Blanket flower (*Gaillardia aristata*) (N) — Bold red-and-gold daisies that blaze from early summer…
 - Blue flax (*Linum lewisii*) (N) — Sky-blue, tissue-paper flowers open at sunrise and drop by noon

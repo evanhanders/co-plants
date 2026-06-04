@@ -47,5 +47,69 @@
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/44472173"
     }
+  ],
+  "care": {
+    "hardiness": "Borderline on the Front Range. Like 'Bowles's Mauve', Erysimum 'Apricot Twist' is reliably hardy only to about USDA zone 6–9 (RHS rating H4, to roughly -10°C/15°F) — at the edge of Boulder's 5b–6a winters — and it is a naturally short-lived perennial that gets woody and tired after a few years. Survival here depends on full sun and very sharp drainage; plan to replace it from cuttings every 2–3 years.[1][2]",
+    "planting": "Plant out in spring after the mid-May frost into a sunny, fast-draining bed so it establishes before winter. It rots in cold, wet clay, so use a raised bed, a slope, or soil heavily amended with grit. In containers it grows and blooms well, but potted roots are far less cold-hardy than in-ground ones — overwinter the pot sheltered (unheated garage or against a warm wall) and keep it dry then.[1][2]",
+    "sun": "Full sun is essential — 6+ hours. It flowers poorly and stretches in shade; Boulder's strong light suits it.[1][2]",
+    "soil": "Poor to moderately fertile, well-drained, neutral-to-alkaline soil — Boulder's alkaline ground is fine as long as drainage is sharp. Lean, gritty soil gives the sturdiest, longest-lived plants; rich or wet soil shortens its life. Add grit to clay.[1][2]",
+    "water": "Low to moderate. Water to establish, then it's drought-tolerant — let it dry between waterings and keep it dry over winter. Winter-wet feet are the main killer.[1][2]",
+    "spacing": "Space about 2 ft apart; the bushy mound reaches roughly 1.5–2.5 ft tall and about 2 ft wide.[1][2]",
+    "propagation": "Cuttings only — this is a sterile/near-sterile named cultivar that doesn't come true or set useful seed, so propagate by semi-hardwood cuttings of non-flowering shoots in spring or summer (May–July), taken with a small heel; they root easily. Keep young rooted plants in reserve to replace the parent when it gets woody after a few years.[1][2]",
+    "bloom": "A very long season of warm color: flowers open rich apricot from dark buds and age through to mauve-pink, giving a two-toned effect from mid-spring well into summer (longer if deadheaded). Because perennial wallflowers don't stop to set seed, bloom is exceptionally prolonged.[1][2]",
+    "feeding": "Minimal — it performs best in lean soil. A light spring feed or compost topdressing is plenty; rich feeding gives soft, short-lived growth.[1]",
+    "maintenance": "Shear lightly after the main flush to keep it tidy and prolong bloom; deadhead through the season. Avoid cutting hard into bare old wood. When it eventually gets woody and gappy, replace it with a rooted cutting rather than trying to rejuvenate it.[1][2]",
+    "troubles": "Few pests; its real enemies are wet, heavy soil and cold winters, both of which rot or kill it. Give it sharp drainage and a sheltered, sunny spot, and treat it as short-lived — keep cuttings coming.[1][2]",
+    "companions": "A long-blooming nectar source for bees and butterflies, so pair it with other sun-loving, sharply-drained xeric companions — lavender, catmint, dianthus, and Mediterranean-style perennials that share its lean-soil, full-sun, dry-winter needs.[1][2]"
+  },
+  "fact_src": {
+    "size": [
+      1,
+      2
+    ],
+    "sun": [
+      1,
+      2
+    ],
+    "water": [
+      1,
+      2
+    ],
+    "spread": [
+      1,
+      2
+    ],
+    "seasons": [
+      1,
+      2
+    ],
+    "wildlife": [
+      1
+    ],
+    "deer": [
+      2
+    ],
+    "toxic": [
+      3
+    ]
+  },
+  "edible": {
+    "level": "inedible",
+    "summary": "An ornamental wallflower grown for its long season of color-shifting bloom — not a food plant; do not eat any part.[1][3]",
+    "caution": "Like other Erysimum, 'Apricot Twist' is not edible: wallflower foliage and seeds contain cardiac glycosides (cardenolides), heart-active defensive compounds, so no part should be eaten. Grow it for the pollinators, not the table.[1][3]"
+  },
+  "references": [
+    {
+      "name": "RHS — Erysimum 'Apricot Twist' (wallflower)",
+      "url": "https://www.rhs.org.uk/plants/152161/erysimum-apricot-twist/details"
+    },
+    {
+      "name": "Missouri Botanical Garden Plant Finder — Erysimum cheiri (wallflower; genus care)",
+      "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=278066"
+    },
+    {
+      "name": "Erysimum (cardenolide / cardiac-glycoside chemistry) — overview",
+      "url": "https://en.wikipedia.org/wiki/Erysimum"
+    }
   ]
 }

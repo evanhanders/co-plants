@@ -15,6 +15,71 @@
   "toxic": "Mildly toxic to cats, dogs & horses (ASPCA)",
   "winter": false,
   "verified": "2026-06-04",
+  "care": {
+    "hardiness": "A tender trailing South African species hardy only to about USDA zones 10–11; on the Front Range (Boulder, ~5b–6a) it is grown as a warm-season annual or overwintered indoors, as any frost kills it.[1][2]",
+    "planting": "Set plants out only after the last frost — after mid-May on the Front Range — into hanging baskets, window boxes, and tall containers where its trailing stems can cascade; it also works as an annual groundcover in a bed. To carry it over winter, before the first fall frost take stem cuttings to root on a bright cool windowsill, or bring whole baskets into a bright, cool room (50–60°F), cut back and kept just barely moist.[1][3]",
+    "sun": "Full sun to part shade. Ivy geranium tolerates a bit more heat and light shade than the zonal type and actually prefers some afternoon shade where summers are hot — under the strong Front Range sun, morning sun with afternoon shade above ~85°F keeps it blooming and prevents leaf scorch.[1][3]",
+    "soil": "Average to organically rich, well-drained soil (or a free-draining potting mix in containers) with a neutral to slightly alkaline pH, which suits Boulder's alkaline soils. Soggy, poorly drained soil causes stem and root rot.[1]",
+    "water": "Moderate and, above all, even — ivy geranium is especially prone to edema (water-blisters on the leaves) when soil moisture swings between wet and dry, so water consistently and let the top of the mix dry only slightly between waterings. Hanging baskets in dry Front Range air may need daily summer water.[1][3]",
+    "spacing": "In a bed space plants about 12 inches apart; a single plant trails to as much as 2–3 ft long, so allow that room to cascade from a basket or box.[1]",
+    "propagation": "Usually grown from stem cuttings, which root readily and keep a cultivar true — take 3–4 inch tip cuttings in mid-to-late summer, the standard way to overwinter favorites. Some seed strains can also be started indoors on a heat mat in late winter.[2][3]",
+    "bloom": "Blooms freely all summer, dangling loose clusters of pink, red, mauve, lavender, or white flowers (many with darker veining) over the glossy ivy-shaped leaves; flowering slows in extreme heat and picks back up as it cools. Deadhead to prolong it.[1]",
+    "feeding": "A moderate feeder; feed container plants every 4–6 weeks through the season with a balanced or bloom fertilizer. Avoid excess nitrogen, which favors foliage over flowers.[3]",
+    "maintenance": "Pinch back leggy trailing stems to keep the plant full, and remove spent flower clusters to encourage rebloom. Decide its overwintering route (cuttings or an indoor cool-room plant) before the first frost.[1][3]",
+    "troubles": "Edema (corky leaf blisters) is the signature problem and is driven by uneven watering — keep moisture steady. Botrytis/gray mold can appear in cool damp weather; aphids, whiteflies, and tobacco budworm (chewing flower buds) may show up, and waterlogged soil brings stem and root rot. Good airflow and base-watering help.[1][3]",
+    "companions": "A natural spiller in mixed containers and baskets — combine it with upright zonal geraniums, petunias, calibrachoa, bacopa, lobelia, and sweet alyssum for a full basket.[3]"
+  },
+  "fact_src": {
+    "size": [
+      1
+    ],
+    "sun": [
+      1,
+      3
+    ],
+    "water": [
+      1,
+      3
+    ],
+    "spread": [
+      1
+    ],
+    "seasons": [
+      1
+    ],
+    "wildlife": [
+      3
+    ],
+    "deer": [
+      3
+    ],
+    "toxic": [
+      4
+    ]
+  },
+  "edible": {
+    "level": "inedible",
+    "summary": "Not a food plant — ivy-leaved geranium is purely ornamental and is mildly toxic to pets; do not eat it.[1][2]",
+    "caution": "The ASPCA lists geraniums (Pelargonium spp.) as toxic to cats, dogs, and horses; the toxic principles are the essential-oil compounds geraniol and linalool, and ingestion can cause vomiting, loss of appetite, depression, and contact dermatitis. It is not eaten by people, and contact with the foliage can irritate sensitive skin. Keep it away from grazing pets.[1][2]"
+  },
+  "references": [
+    {
+      "name": "Missouri Botanical Garden Plant Finder — Pelargonium peltatum (ivy-leaf geranium)",
+      "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=280858"
+    },
+    {
+      "name": "NC State Extension Plant Toolbox — Pelargonium peltatum",
+      "url": "https://plants.ces.ncsu.edu/plants/pelargonium-peltatum/"
+    },
+    {
+      "name": "Clemson HGIC — Geranium (Pelargonium types & culture)",
+      "url": "https://hgic.clemson.edu/factsheet/geranium/"
+    },
+    {
+      "name": "ASPCA — Geranium (Pelargonium spp.) toxic to cats, dogs & horses",
+      "url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/geranium"
+    }
+  ],
   "shots": [
     {
       "local": "images/su-flowers-t.jpg",

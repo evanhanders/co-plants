@@ -56,5 +56,69 @@
       "lic": "CC BY-SA 2.0",
       "link": "https://commons.wikimedia.org/wiki/File:Erysimum_Bowles_Mauve_-_Flickr_-_peganum_(1).jpg"
     }
+  ],
+  "care": {
+    "hardiness": "Borderline here. Erysimum 'Bowles's Mauve' is reliably hardy only to about USDA zone 6–9 (RHS rating H4, to roughly -10°C/15°F), which puts it right at the edge of Boulder's 5b–6a winters — and it is naturally short-lived (typically 2–4 years) even in mild gardens. Expect to lose plants in a hard, wet winter; the keys to survival here are full sun and very sharp drainage. Plan to replace it from cuttings every few years.[1][2]",
+    "planting": "Plant out in spring after the mid-May frost into a sunny, fast-draining bed so it can root in and harden before winter. It hates sitting wet over winter in cold clay, so set it on a slope, in a raised bed, or in soil heavily amended with grit. In containers it grows and flowers well, but potted roots are far less cold-hardy than in-ground ones — shelter the pot in an unheated garage or against a warm wall for winter, and keep it on the dry side then.[1][2]",
+    "sun": "Full sun is essential — at least 6 hours of direct sun. It flowers far less and grows leggy in shade; Boulder's strong sun suits it well.[1][2]",
+    "soil": "Poor to moderately fertile, well-drained, neutral to alkaline soil — Boulder's alkaline ground is ideal as long as drainage is sharp. It tolerates lean, gritty, or rocky soils; rich or wet soil shortens its life. Add grit to heavy clay.[1][2]",
+    "water": "Low to moderate. Water to establish, then it is drought-tolerant — let it dry between waterings and keep it dry through winter. Overwatering and winter-wet feet are the main killers.[1][2]",
+    "spacing": "Space about 2–3 ft apart; the woody mound reaches roughly 2–2.5 ft tall and 2–3 ft wide within a year or two.[1][2]",
+    "propagation": "Cuttings only — 'Bowles's Mauve' is sterile and sets no seed, so there is no seed route. Its sterility is exactly why it blooms so relentlessly (it never stops to make seed). Take semi-hardwood cuttings of non-flowering side shoots in spring or summer (May–July), ideally with a small heel; they root easily. Always keep a few young plants coming so you can replace the parent when it gets woody and tired after 2–3 years.[1][2]",
+    "bloom": "One of the longest-blooming perennials there is: fragrant mauve-purple racemes appear through spring, summer, and into autumn, with the heaviest flush in spring. Because it is sterile it just keeps pushing new spikes instead of setting seed.[1][2]",
+    "feeding": "Minimal — it performs best in lean soil. A light spring feed or compost topdressing is plenty; rich feeding produces soft, short-lived growth.[1]",
+    "maintenance": "Shear lightly after the main spring flush to keep it tidy and prolong bloom; the usual 'cut back when it stops flowering' rule doesn't apply because it barely stops. Avoid hard cutting into old bare wood. When the plant inevitably gets woody and gappy after a few years, replace it with a rooted cutting rather than trying to rejuvenate it.[1][2]",
+    "troubles": "Few pests. Its real enemies are wet, heavy soil and cold winters — both rot or kill it. Provide sharp drainage and a sheltered, sunny spot. Don't expect longevity; treat it as a short-lived perennial and keep cuttings in reserve.[1][2]",
+    "companions": "A top early-season nectar plant for bees and butterflies, so pair it with other sun-loving, well-drained xeric companions in a hot, sharp-draining bed — lavender, catmint, dianthus, and other Mediterranean-style perennials that share its lean-soil, full-sun, dry-winter preferences.[1][2]"
+  },
+  "fact_src": {
+    "size": [
+      1,
+      2
+    ],
+    "sun": [
+      1,
+      2
+    ],
+    "water": [
+      1,
+      2
+    ],
+    "spread": [
+      1,
+      2
+    ],
+    "seasons": [
+      1,
+      2
+    ],
+    "wildlife": [
+      1
+    ],
+    "deer": [
+      2
+    ],
+    "toxic": [
+      3
+    ]
+  },
+  "edible": {
+    "level": "inedible",
+    "summary": "An ornamental wallflower grown for its nonstop fragrant bloom — it is not a food plant and should not be eaten.[1][3]",
+    "caution": "Like other Erysimum, 'Bowles's Mauve' is not a food plant: the foliage and seeds of wallflowers contain cardiac glycosides (cardenolides) that act on the heart, so no part of the plant should be eaten. (This cultivar is sterile and rarely sets seed, but the toxic chemistry is in the plant regardless.) Grow it for the bees, not the table.[1][3]"
+  },
+  "references": [
+    {
+      "name": "RHS — Erysimum 'Bowles's Mauve' (wallflower)",
+      "url": "https://www.rhs.org.uk/plants/91464/erysimum-bowles-s-mauve/details"
+    },
+    {
+      "name": "Missouri Botanical Garden Plant Finder — Erysimum cheiri (wallflower; genus care)",
+      "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=278066"
+    },
+    {
+      "name": "Erysimum (cardenolide / cardiac-glycoside chemistry) — overview",
+      "url": "https://en.wikipedia.org/wiki/Erysimum"
+    }
   ]
 }

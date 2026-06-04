@@ -74,7 +74,12 @@ function edibleHTML(p){
 var e = p.edible;
 if(!e) return '';
 var lv = EDIBLE_LEVELS[e.level] || EDIBLE_LEVELS.inedible;
-var rows = EDIBLE_FIELDS.filter(function(f){ return e[f[0]]; })
+/* a wholly toxic/inedible plant needs no "parts"/"how it's used" cells — the banner
+   already says don't eat it; show just the cautions (the part that actually matters) */
+var fields = (e.level==='toxic'||e.level==='inedible')
+? EDIBLE_FIELDS.filter(function(f){ return f[0]==='caution'; })
+: EDIBLE_FIELDS;
+var rows = fields.filter(function(f){ return e[f[0]]; })
 .map(function(f){ var k=f[0];
 return '<div class="ed-item'+(k==='caution'?' ed-warn':'')+'"><dt>'+f[1]+'</dt><dd>'+cite(e[k])+'</dd></div>'; })
 .join('');

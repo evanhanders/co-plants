@@ -180,8 +180,10 @@ is **NOT** the grouping. A file can live in `plants/perennials/` yet be a `Groun
   `edibleHTML` + `EDIBLE_FIELDS` in `plant.js`). Fields: **`level`** (`edible | caution | toxic |
   inedible` — drives the banner colour/label), **`summary`** (one-line banner verdict), and the
   prose cells **`parts`**, **`preparation`**, **`caution`** (the cautions cell renders full-width +
-  tinted). All prose carries inline `[n]` markers into `references`. Source it like care, but with
-  extra rigor — see "Sourcing edibility facts".
+  tinted). For **`toxic`/`inedible`** plants the renderer shows **only the banner + `caution`** (the
+  "no part is edible / no prep makes it safe" cells are noise next to a DO-NOT-EAT banner), so those
+  two levels need just `summary` + `caution`. All prose carries inline `[n]` markers into
+  `references`. Source it like care, but with extra rigor — see "Sourcing edibility facts".
 - `shots:[…]` *(optional)* — an ordered seasonal reel; each entry is one photo panel.
   Fields: `{ local, full, url | commons | try:[a,b], s?, cap?, by?, lic?, link? }`.
   - `local:'images/foo-t.jpg'` — repo-hosted **card thumbnail** shown in the grid

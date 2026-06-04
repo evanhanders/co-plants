@@ -130,7 +130,7 @@ const care = p.care || {};
 const panels = carePanels(care);
 const grow = panels
 ? '<div class="caregrid">'+panels+'</div>'
-: '<p class="care-empty">Detailed growing notes for this specimen are still being written — see the at-a-glance facts above for the essentials.</p>';
+: '<p class="care-empty">Detailed growing notes for this plant are still being written — see the at-a-glance facts above for the essentials.</p>';
 const credits = creditsHTML(p);
 detail.innerHTML =
 BACK+
@@ -177,7 +177,7 @@ detail.innerHTML = BACK+'<p class="empty">'+esc(msg)+'</p>';
 async function load(){
 const slug = (new URLSearchParams(location.search).get('p') || decodeURIComponent((location.search||'').replace(/^\?/,''))).trim();
 if(!slug || !/^[a-z0-9][a-z0-9/-]*$/i.test(slug)){
-showError('No plant specified. Head back to the herbarium and pick a specimen.'); return;
+showError('No plant specified. Head back to the herbarium and pick a plant.'); return;
 }
 try{
 const res = await fetch('plants/'+slug+'/plant.json', {cache:'no-cache'});
@@ -188,7 +188,7 @@ renderDetail(p);
 setMeta(p);
 window.scrollTo(0,0);
 }catch(e){
-showError('That specimen isn’t in the guide (yet).');
+showError('That plant isn’t in the guide (yet).');
 }
 }
 load();

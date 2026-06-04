@@ -281,7 +281,7 @@ a genuine edible part — its predicate is the explicit `edible.food === true` m
 `edible.level`), so a "partly edible" plant like chokecherry (fruit edible, rest toxic) carries
 *both* the Edible and Toxic badges, while a `caution`/`inedible` plant that's really "don't eat"
 (california poppy, peony, red-twig dogwood) is left untagged. Set `edible.food:true` on a plant when
-it has a part people actually eat. The legend always reads "Showing N of M specimens" and shows a **Clear
+it has a part people actually eat. The legend always reads "Showing N of M plants" and shows a **Clear
 all** button when anything is active. Filter/search/view state is mirrored into the **URL hash**
 (`#view=…&nat=…&type=…&life=…&trait=…&q=…`) via `syncHash()`/`applyHash()`, so filtered views are
 shareable and survive a reload.

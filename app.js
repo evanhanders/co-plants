@@ -79,10 +79,10 @@ return [p.common,p.botanical,p.type,p.lifecycle,p.bloom_season,p.native,p.blurb,
 document.getElementById('count').textContent = total;
 const filtering = q || natFilter!=='all' || typeFilter.size>0 || traitFilter.size>0 || lifeFilter.size>0;
 const showingEl=document.getElementById('showing');
-if(showingEl) showingEl.textContent = filtering ? ('Showing '+list.length+' of '+total+' specimens') : ('Showing all '+total+' specimens');
+if(showingEl) showingEl.textContent = filtering ? ('Showing '+list.length+' of '+total+' plants') : ('Showing all '+total+' plants');
 const clearEl=document.getElementById('clearFilters'); if(clearEl) clearEl.hidden = !filtering;
 syncHash();
-if(!list.length){ const why = q ? 'matches “'+searchEl.value+'”' : 'fits the current filters'; content.innerHTML='<div class="grid"><div class="empty">No specimen '+why+'.</div></div>'; return; }
+if(!list.length){ const why = q ? 'match “'+searchEl.value+'”' : 'fit the current filters'; content.innerHTML='<div class="grid"><div class="empty">No plants '+why+'.</div></div>'; return; }
 if(view==="alpha"){
 content.innerHTML = gridOf(list);
 } else {

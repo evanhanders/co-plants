@@ -38,7 +38,6 @@
 <button data-view="type" class="active">By type</button>
 <button data-view="alpha">A–Z</button>
 </div>
-<button class="btn" id="addBtn">+ Add</button>
 </div>
 <div class="filters">
 <span class="fl-label">Origin</span>
@@ -60,61 +59,6 @@
 Verified non-weed in Colorado as of each listed date · re-checked before major plantings.<br>
 Tap the season dots under a card's photo to move through the seasons. Coyote willow &amp; Turkish cliff sage were retired from this guide.
 </footer>
-</div>
-<div class="scrim" id="scrim">
-<div class="modal" role="dialog" aria-modal="true" aria-labelledby="modalTitle">
-<h2 class="display" id="modalTitle">Add a specimen</h2>
-<p class="hint">For plants you've vetted yourself. The weed check below is required — nothing gets in without it.</p>
-<label for="f_common">Common name</label>
-<input type="text" id="f_common" placeholder="e.g. Rocky Mountain penstemon">
-<label for="f_botanical">Botanical name</label>
-<input type="text" id="f_botanical" placeholder="e.g. Penstemon strictus">
-<div class="two">
-<div><label for="f_type">Growth form</label>
-<select id="f_type"><option>Forb</option><option>Tree</option><option>Shrub</option><option>Subshrub</option><option>Grass</option><option>Vine</option><option>Groundcover</option></select>
-</div>
-<div><label for="f_lifecycle">Lifecycle</label>
-<select id="f_lifecycle"><option>Perennial</option><option>Annual</option><option>Biennial</option><option>Tender perennial</option></select>
-</div>
-<div><label for="f_bloom">Bloom season (forbs)</label>
-<select id="f_bloom"><option>Spring</option><option selected>Summer</option><option>Fall</option></select>
-</div>
-<div><label for="f_native">Native status</label>
-<select id="f_native"><option value="CO native">CO / regional native</option><option value="Non-native">Non-native (vetted)</option></select>
-</div>
-</div>
-<label for="f_blurb">One-line description</label>
-<input type="text" id="f_blurb" placeholder="What makes it lovely?">
-<div class="two">
-<div><label for="f_size">Mature size (H × W)</label><input type="text" id="f_size" placeholder='e.g. 2–3 ft × 2 ft'></div>
-<div><label for="f_sun">Sun</label><input type="text" id="f_sun" placeholder="Full sun"></div>
-</div>
-<div class="two">
-<div><label for="f_water">Water</label><input type="text" id="f_water" placeholder="Low (xeric)"></div>
-<div><label for="f_spread">Spread / habit</label><input type="text" id="f_spread" placeholder="Clumping"></div>
-</div>
-<label for="f_seasons">Seasonal interest</label>
-<input type="text" id="f_seasons" placeholder="Blue spikes early summer; evergreen base">
-<label for="f_wildlife">Wildlife / pollinators</label>
-<input type="text" id="f_wildlife" placeholder="Bees, hummingbirds; bumble bee favorite">
-<div class="two">
-<div><label for="f_deer">Deer note</label><input type="text" id="f_deer" placeholder="Deer-resistant"></div>
-<div><label for="f_photo">Photo URL (optional)</label><input type="text" id="f_photo" placeholder="https://…"></div>
-</div>
-<label for="f_toxic">Toxicity note (optional)</label>
-<input type="text" id="f_toxic" placeholder="Leave blank if none">
-<div class="weedgate">
-<input type="checkbox" id="f_weed">
-<label for="f_weed" style="margin:0;text-transform:none;letter-spacing:0;color:var(--ink);font-family:inherit;font-size:13px">
-I've verified this plant is <b>not</b> a noxious weed in Colorado (checked against Lists A, B, C and the Watch List).
-</label>
-</div>
-<div class="err" id="err"></div>
-<div class="modal-actions">
-<button class="btn ghost" id="cancelBtn">Cancel</button>
-<button class="btn" id="saveBtn">Add to guide</button>
-</div>
-</div>
 </div>
 <div class="lbox" id="lbox" role="dialog" aria-modal="true" aria-label="Photo viewer" aria-hidden="true">
 <div class="lb-cap"><span id="lbCount" class="lb-count"></span><span id="lbCapText"></span><a id="lbSrc" href="#" target="_blank" rel="noopener noreferrer">Source ↗</a></div>

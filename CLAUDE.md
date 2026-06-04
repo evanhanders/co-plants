@@ -116,7 +116,7 @@ plant.html              # standalone per-plant detail page shell; links styles.c
 styles.css              # all styling (grid + detail page)
 reel.js                 # SHARED engine: shot resolution, the seasonal reel, the zoom/swipe
                         #   lightbox, and the TRAITS predicates/badges. Loaded first on both pages.
-app.js                  # grid behaviour (render cards, filters, search, add modal, loader)
+app.js                  # grid behaviour (render cards, filters, search, loader)
 plant.js                # detail-page behaviour (fetch one plant, render the "sheet", set meta)
 .nojekyll               # serve everything verbatim on Pages
 plants/
@@ -137,8 +137,7 @@ repo root like `index.html`, so all root-relative paths (`plants/…`, `styles.c
 **Load flow (in `app.js`):** on startup `loadSeed()` fetches `plants/manifest.json`,
 then fetches every listed `plant.json` in parallel and assigns them to the in-memory
 `SEED` array (stamping each with `dir = "plants/<category>/<slug>"` so its local
-images resolve). `loadUser()` (localStorage-added plants) runs alongside it, then
-`render()`. `SEED` order doesn't matter — the app sorts by botanical name and groups by
+images resolve), then `render()`. `SEED` order doesn't matter — the app sorts by botanical name and groups by
 **morphology** via `groupOf(p)` (growth form; forbs split by `bloom_season`). The on-disk
 `plants/<category>/` folder is just a storage path (and the `dir` for image resolution) — it
 is **NOT** the grouping. A file can live in `plants/perennials/` yet be a `Groundcover` or
@@ -260,8 +259,8 @@ Cards are **sorted by botanical (scientific) name** within each group (`allPlant
 **both** the common and botanical names are searchable (the search string includes both).
 Each section header carries a one-line plain-language gloss of that growth form (the
 `GROUP_DESC` map in `app.js`, rendered as `.group-desc`; it hides when the group is collapsed).
-Cards are grouped by morphology (collapsible) with an A–Z toggle, a search box, a
-weed-gated "add plant" form, and a per-season photo strip you flip with the season dots
+Cards are grouped by morphology (collapsible) with an A–Z toggle, a search box, and a
+per-season photo strip you flip with the season dots
 (the strip is deliberately *not* finger-swipeable — see the tap-vs-swipe note). The card
 shows a small thumbnail; clicking (or `Enter`/`Space` on it — the photos are keyboard-focusable)
 opens the full-size image in a pinch/scroll zoom lightbox. The lightbox is a **swipeable
@@ -311,11 +310,11 @@ predicate so they can't drift. To add one (e.g. `Fragrant`):
    document the field in the "`plant.json` schema" list). Then sanity-check the count.
 
 **Accessibility.** Photos are `role="button" tabindex="0"` with descriptive per-shot `alt`;
-group-collapse chevrons are real `<button>`s with `aria-expanded`; the lightbox and add
-modal are `role="dialog" aria-modal` with focus move-in, a Tab focus-trap, focus-return to
-the trigger, and `Escape` to close (both also lock body scroll). There's a global
-`:focus-visible` ring (rust) and a `prefers-reduced-motion` block. Inputs are 16px so iOS
-doesn't force-zoom on focus. A CSS-only skeleton (`.skel`) shows while `plant.json`s fetch.
+group-collapse chevrons are real `<button>`s with `aria-expanded`; the lightbox is a
+`role="dialog" aria-modal` with focus move-in, a Tab focus-trap, focus-return to
+the trigger, and `Escape` to close (it also locks body scroll). There's a global
+`:focus-visible` ring (rust) and a `prefers-reduced-motion` block. The search input is 16px so
+iOS doesn't force-zoom on focus. A CSS-only skeleton (`.skel`) shows while `plant.json`s fetch.
 
 ### Card photo strip = static stack (already fixed — don't regress)
 

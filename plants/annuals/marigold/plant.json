@@ -1,0 +1,134 @@
+{
+  "common": "Marigold",
+  "botanical": "Tagetes patula",
+  "type": "Forb",
+  "lifecycle": "Annual",
+  "native": "Non-native",
+  "bloom_season": "Summer",
+  "blurb": "The bulletproof bedding annual — ferny aromatic foliage topped all summer by yellow-to-mahogany ruffled blooms that shrug off heat and feed late-season pollinators.",
+  "size": "6–12 in × 6–18 in",
+  "sun": "Full sun",
+  "water": "Moderate; keep evenly moist, tolerates short dry spells",
+  "spread": "Clumping; non-running, but self-sows lightly from dropped seed",
+  "seasons": "Yellow, orange, and red-brown flowers early summer to frost; aromatic ferny foliage spring–fall; killed outright by the first hard frost",
+  "wildlife": "Open single and semi-double types draw bees, hoverflies, and butterflies; a long-season nectar source into fall; tightly double pompons offer little forage",
+  "deer": "Deer- and rabbit-resistant — the pungent foliage is generally passed over",
+  "toxic": "Low toxicity; the foliage can cause skin redness or dermatitis on contact (phototoxic thiophenes), and sap may mildly irritate pets' mouths or stomachs",
+  "origin": "Mexico & Guatemala",
+  "habitat": "Open, seasonally-moist disturbed ground and roadsides",
+  "winter": false,
+  "verified": "2026-06-06",
+  "care": {
+    "hardiness": "Grown as a frost-tender warm-season annual — it completes its life in a single season and is killed by the first hard frost, so winter hardiness is not a factor on the Front Range.[1]",
+    "planting": "A heat-lover: do not rush it out. Set out transplants or direct-sow only after the mid-May last frost in Boulder, once soil and nights have warmed — cold soil stalls it and frost kills it. Plant into a sunny, well-drained bed. In containers it thrives (a classic patio annual): use a free-draining potting mix in a pot with drainage holes, site in full sun, and expect to water daily in summer heat and wind, as pots dry far faster than ground beds. Pot plants finish at the first fall frost with no overwintering possible.[1][2]",
+    "sun": "Full sun — 6+ hours gives the sturdiest, most free-flowering plants. It tolerates a few hours of afternoon shade but stretches and blooms less.[1]",
+    "soil": "Adaptable to clay, loam, or sand; wants average, well-drained, evenly moist soil and tolerates a wide pH from acidic to alkaline (about 6.0–8.0), so Boulder's alkaline clay is fine if drainage is decent. Skip very rich, over-fertilized ground, which produces lush leaves at the expense of bloom.[1]",
+    "water": "Moderate — keep the soil evenly moist, especially through establishment and peak summer heat, but let the surface dry slightly between waterings; it tolerates short dry spells once rooted in. Avoid soggy soil, which invites root rot, and water at the base to keep foliage dry and discourage leaf disease.[1]",
+    "spacing": "Space dwarf French types 6–10 in apart (under 12 in) for a solid edging mat; allow a bit more room for larger-growing strains.[1]",
+    "propagation": "Seed only — this annual cannot be divided or rooted as cuttings reliably. Start seed indoors 4–6 weeks before the mid-May frost, or direct-sow into warm soil after frost. It germinates fast (about 5–7 days) in warmth. Save your own seed by letting a few heads dry on the plant; note that seed from hybrid strains may not come true.[1][2]",
+    "depth": "Sow seed shallowly, about ¼ in deep, and keep moist and warm (~70–75°F) for quick, even germination.[1]",
+    "bloom": "Early summer to the first frost on the Front Range — bloom is continuous and heaviest when plants are regularly deadheaded; a long, dependable season of color from June into October.[1]",
+    "feeding": "Little to none. Lean soil suits it; heavy feeding produces floppy foliage and fewer flowers. A single light feed at planting is plenty on poor ground.[1]",
+    "maintenance": "Deadhead spent flowers regularly to keep bloom coming and the plants tidy; pinch young plants once to encourage bushy, compact growth. No staking needed for dwarf French types.[1]",
+    "selfsow": "Self-sows lightly where seed drops onto bare soil, but volunteers are easy to recognize and pull; it is not aggressive or weedy.[1]",
+    "troubles": "Generally trouble-free. Spider mites can flare in hot, dry spells; slugs and snails chew seedlings; and in wet weather watch for powdery mildew, gray mold (Botrytis), and aphids. Good airflow, full sun, and base watering keep it clean.[1]",
+    "companions": "A classic vegetable-garden companion — interplant among tomatoes, peppers, beans, and squash. The roots exude a compound that suppresses soil nematodes (an effect documented for Tagetes, strongest where marigolds are grown as a dense cover the prior season rather than scattered among crops); the aromatic foliage is widely believed to deter some insect pests, though that claim is far less well supported than the nematode effect.[1]"
+  },
+  "edible": {
+    "level": "edible",
+    "food": true,
+    "card": "Petals (garnish)",
+    "summary": "French marigold petals are edible in small amounts as a colorful, mildly citrusy-to-bitter garnish; use the ray petals only and in moderation, not as a vegetable.[1][3]",
+    "parts": "The flower petals (ray florets) are the edible part, used fresh as a confetti-like garnish on salads, rice, soups, and cakes and as a yellow food coloring; the leaves are used sparingly for flavoring. Pull the petals from the bitter green base before use. African/American marigold (Tagetes erecta) petals are edible too but markedly more bitter, and the strongly scented foliage of all marigolds is not a salad green.[1][3]",
+    "preparation": "Use only the colorful ray petals, removed from the calyx, and use them sparingly — the flavor ranges from mildly citrus to distinctly bitter and pungent depending on type. Eat in small quantities as a garnish, not as a main ingredient. Always use plants you know are pesticide-free, and do not confuse culinary marigold with pot marigold/calendula (Calendula officinalis), a different, milder genus.[3]",
+    "caution": "Tagetes contains phototoxic thiophene compounds in its foliage, flowers, and roots: handling the plant (especially with broken skin, then sun exposure) can cause skin redness, burning, and blisters in sensitive people, so wear gloves if you react. Eat only the petals and only in small amounts; the pungent leaves and seeds are not a food. For pets, the plant is of low toxicity but the sap may cause mild mouth or gastrointestinal irritation if chewed. Anyone with a known allergy to Asteraceae (daisy-family) plants should avoid eating it.[1]"
+  },
+  "references": [
+    {
+      "name": "NC State Extension Gardener Plant Toolbox — Tagetes patula (French Marigold)",
+      "url": "https://plants.ces.ncsu.edu/plants/tagetes-patula/"
+    },
+    {
+      "name": "CSU Extension — Yard & Garden (Front Range adaptation: frost dates, alkaline clay)",
+      "url": "https://extension.colostate.edu/topic-areas/yard-garden/"
+    },
+    {
+      "name": "Missouri Botanical Garden Plant Finder — Calendula officinalis (edible-flower context, marigold vs. calendula)",
+      "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=277409"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      1
+    ],
+    "sun": [
+      1
+    ],
+    "water": [
+      1
+    ],
+    "spread": [
+      1
+    ],
+    "seasons": [
+      1
+    ],
+    "wildlife": [
+      1
+    ],
+    "deer": [
+      1
+    ],
+    "toxic": [
+      1
+    ],
+    "origin": [
+      1
+    ],
+    "habitat": [
+      1
+    ]
+  },
+  "shots": [
+    {
+      "local": "images/su-flower-t.jpg",
+      "full": "images/su-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/263126287/large.jpg",
+      "s": "summer",
+      "cap": "Summer — flower close-up, face-on · © julia_santos1998 (CC-BY-NC) / iNaturalist",
+      "by": "julia_santos1998",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/152423975"
+    },
+    {
+      "local": "images/su-flower2-t.jpg",
+      "full": "images/su-flower2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/168349531/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — flower close-up, face-on · © ㅤ‌ (CC-BY) / iNaturalist",
+      "by": "ㅤ‌",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/100842489"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/578317990/large.jpg",
+      "s": "summer",
+      "cap": "Summer — the whole plant and its form · © Sonam Choden (CC-BY-NC) / iNaturalist",
+      "by": "Sonam Choden",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/319898786"
+    },
+    {
+      "local": "images/su-mass-t.jpg",
+      "full": "images/su-mass.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/609877001/large.jpg",
+      "s": "summer",
+      "cap": "Summer — a drift in full bloom · © Robin (CC-BY-NC) / iNaturalist",
+      "by": "Robin",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/335688825"
+    }
+  ]
+}

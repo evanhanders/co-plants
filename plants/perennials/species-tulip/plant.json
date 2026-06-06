@@ -1,0 +1,138 @@
+{
+  "common": "Species tulip",
+  "botanical": "Tulipa tarda",
+  "type": "Forb",
+  "lifecycle": "Perennial",
+  "native": "Non-native",
+  "bloom_season": "Spring",
+  "blurb": "A low, tough wild tulip whose starry yellow-and-white flowers open flat in the sun — and, unlike the big hybrids, it actually comes back and naturalizes in our dry-summer climate.",
+  "size": "4–6 in × 4–6 in",
+  "sun": "Full sun",
+  "water": "Low; water in spring growth, then keep dry through summer dormancy",
+  "spread": "Naturalizing; multiplies into clumps and self-sows where summers are dry, but stays well-behaved",
+  "seasons": "Star-shaped yellow flowers with white tips, opening flat in sun, early-to-mid spring; narrow strappy leaves spring; fully dormant by midsummer; nothing above ground fall–winter",
+  "wildlife": "Early-spring nectar and pollen for bees when flowers open flat in sunshine",
+  "deer": "Not reliably deer-resistant — like other tulips it can be browsed by deer and rabbits and dug by rodents; the small bulbs are less of a target than big hybrids",
+  "toxic": "Toxic — all parts contain tulipalin (tulipalin A and B) and glycosides, like all tulips; ingestion causes vomiting, drooling, and diarrhea in dogs, cats, and horses, with the bulb most concentrated; handling bulbs can cause 'tulip fingers'",
+  "origin": "Central Asia (Tien Shan)",
+  "habitat": "Stony alpine slopes & steppe with hot, dry summers",
+  "winter": false,
+  "verified": "2026-06-06",
+  "care": {
+    "hardiness": "USDA zones 3a–8b — fully cold-hardy in Boulder and arguably better suited to the Front Range than hybrid tulips, because it actually persists.[1][3] Species (botanical) tulips like T. tarda naturalize and multiply over years in gardens, where large border hybrids decline after the first season; our hot, dry summers mimic its native steppe and let it perennialize.[3]",
+    "planting": "Plant the small bulbs in fall, mid-September through late October, before the ground freezes, so they root over winter.[2] Set them pointed-end up about 2–3 times the bulb's height deep — roughly 3–5 in. for these small bulbs — and 3–4 in. apart in a hot, sharply drained spot (a rock garden, gravel bed, the edge of a path, a sunny slope).[2][3] Boulder's clay holds winter and summer moisture; amend the planting pocket with coarse grit and raise the bed if water lingers, since wet soil rots the bulbs. In containers, use a gritty fast-draining mix in a terracotta pot and overwinter it in an unheated garage or cold frame to buffer freeze-thaw; pot bulbs are less cold-protected than in-ground ones.[2]",
+    "sun": "Full sun — it needs sun both to flower well and for the blooms to open; the star-shaped flowers spread flat in bright sun and close in cloud and at night. A baking, open site is ideal.[1][3]",
+    "soil": "Sharply drained, lean soil — sandy, gravelly, or grit-amended clay; it resents rich, wet, heavy ground and rots in it.[1][3] Neutral to alkaline suits it, so Boulder's pH is fine; concentrate on drainage rather than fertility.[3]",
+    "water": "Low. Water in at planting and again if fall is dry. Spring rain and snowmelt usually carry it through bloom; supplement only in a warm dry spell. Once foliage yellows in early summer, stop watering and let it bake bone-dry through dormancy — the summer drought is exactly what lets this species perennialize and is essential to prevent rot.[1][3]",
+    "spacing": "Space bulbs about 3–4 in. apart, in clusters or drifts; left undisturbed in a dry, sunny site they fill in and form colonies over a few years.[1][3]",
+    "propagation": "By offsets: established clumps split into daughter bulbs; lift in summer dormancy if a clump gets crowded, separate the bulblets, and replant immediately at depth — or simply leave them to multiply in place. By seed: T. tarda will self-sow where summers are dry; let a few pods ripen and shed, or collect and sow seed in a gritty mix in a cold frame, expecting several years (typically 4–6) to first bloom. Letting it self-sow and multiply naturally is the easiest route and how it naturalizes.[1][3]",
+    "depth": "Plant the small bulbs about 2–3 times their height deep — roughly 3–5 in. — slightly deeper in light sandy soil.[2][3]",
+    "bloom": "Early-to-mid spring on the Front Range, typically April; the flat-opening yellow-and-white stars come a touch earlier than tall border tulips and last one to two weeks.[1][3]",
+    "feeding": "Little needed — lean conditions suit it. A light scatter of bone meal or low-nitrogen bulb fertilizer at fall planting is plenty; avoid rich feeding, which favors floppy leaves over flowers and can shorten the bulb's life.[3]",
+    "maintenance": "Nearly hands-off. Let the leaves yellow and die back fully before removing them, so they recharge the bulb. Deadhead if you want to limit self-sowing, or leave a few pods to let it naturalize. Clumps can go years without lifting; divide only when crowding reduces flowering.[2][3]",
+    "troubles": "Bulb rot in wet, poorly drained, or summer-watered soil is the main risk — drainage and summer dryness prevent it.[1][3] Voles, squirrels, and chipmunks may dig the bulbs and deer/rabbits browse the flowers, though the small bulbs are a lesser target than big hybrids; mesh or a grit collar protects new plantings. Tulip fire (Botrytis) can spot foliage in cool wet springs.[1]",
+    "companions": "Pair with other lean, sun-loving rock-garden and xeric plants — creeping thyme, sedum, pasque flower, dwarf iris, snow crocus, and ice plant — that share its full-sun, sharp-drainage, dry-summer needs and won't shade or overwater it.[3]"
+  },
+  "edible": {
+    "level": "toxic",
+    "food": false,
+    "summary": "Do not eat any part — like all tulips, every part is toxic (the bulb most of all) and handling bulbs can irritate skin.[1][4]",
+    "caution": "Tulipa tarda, like all tulips, contains tulipalin A and B and glycosides in every part, most concentrated in the bulb.[1][4] Ingestion causes vomiting, hypersalivation, depression, and diarrhea in dogs, cats, and horses, and stomach pain, nausea, and vomiting in people.[1][4] Never eat an unlabeled bulb — tulip bulbs can be mistaken for onions. Handling bulbs can cause an allergic contact dermatitis ('tulip fingers'); wear gloves. Keep bulbs and plants away from children and pets; if ingestion is suspected, call Poison Control (1-800-222-1222) or the ASPCA Animal Poison Control Center (888-426-4435).[1][4]"
+  },
+  "references": [
+    {
+      "name": "NC State Extension Gardener Plant Toolbox — Tulipa (Tulip)",
+      "url": "https://plants.ces.ncsu.edu/plants/tulipa/"
+    },
+    {
+      "name": "PlantTalk Colorado (CSU Extension) — Fall Bulb Planting for Spring Blooms",
+      "url": "https://planttalk.colostate.edu/topics/annuals-perennials/1086-fall-bulb-planting-spring-blooms/"
+    },
+    {
+      "name": "RHS — Tulips: growing guide (species/botanical tulips naturalise where hybrids decline; planting depth)",
+      "url": "https://www.rhs.org.uk/plants/tulip/growing-guide"
+    },
+    {
+      "name": "ASPCA Animal Poison Control — Tulip (Tulipa spp.) toxicity",
+      "url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/tulip"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      1
+    ],
+    "sun": [
+      1,
+      3
+    ],
+    "water": [
+      1,
+      3
+    ],
+    "spread": [
+      3
+    ],
+    "seasons": [
+      1,
+      3
+    ],
+    "wildlife": [
+      1
+    ],
+    "deer": [
+      1
+    ],
+    "toxic": [
+      1,
+      4
+    ],
+    "origin": [
+      3
+    ],
+    "habitat": [
+      3
+    ]
+  },
+  "shots": [
+    {
+      "local": "images/sp-flower-t.jpg",
+      "full": "images/sp-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/188773346/large.jpeg",
+      "s": "spring",
+      "cap": "Spring — flower close-up, face-on · © Ellen Mittermaier (CC-BY-NC) / iNaturalist",
+      "by": "Ellen Mittermaier",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/111797570"
+    },
+    {
+      "local": "images/sp-habit-t.jpg",
+      "full": "images/sp-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/363317900/large.jpeg",
+      "s": "spring",
+      "cap": "Spring — the whole plant and its form · © konrad-m-a-kaczmarek (CC-BY-NC) / iNaturalist",
+      "by": "konrad-m-a-kaczmarek",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/205471325"
+    },
+    {
+      "local": "images/sp-flower2-t.jpg",
+      "full": "images/sp-flower2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/638685371/large.jpg",
+      "s": "spring",
+      "cap": "Spring — flower close-up, face-on · © no rights reserved (CC0) / iNaturalist",
+      "by": "no rights reserved",
+      "lic": "CC0",
+      "link": "https://www.inaturalist.org/observations/350075015"
+    },
+    {
+      "local": "images/sp-foliage-t.jpg",
+      "full": "images/sp-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/122517016/large.jpg",
+      "s": "spring",
+      "cap": "Spring — foliage detail · © chillaholic (CC-BY-NC) / iNaturalist",
+      "by": "chillaholic",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/74644011"
+    }
+  ]
+}

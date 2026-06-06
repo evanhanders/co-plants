@@ -1,0 +1,141 @@
+{
+  "common": "Sweet pea",
+  "botanical": "Lathyrus odoratus",
+  "type": "Vine",
+  "lifecycle": "Annual",
+  "native": "Non-native",
+  "blurb": "The most fragrant of climbing annuals — ruffled, jewel-toned blooms scrambling up a trellis on cool spring air, perfuming the garden until summer heat shuts them down.",
+  "size": "6–8 ft × 2–3 ft",
+  "sun": "Full sun",
+  "water": "Moderate; keep evenly moist, cool roots",
+  "spread": "Clumping climber; clings by tendrils, needs a trellis or support",
+  "seasons": "Intensely fragrant spring-to-early-summer flowers in many colors; declines fast in summer heat; killed by frost",
+  "wildlife": "Open, nectar-rich flowers draw long-tongued bumblebees and butterflies; a good cool-season nectar source before the summer heat ends bloom",
+  "deer": "Not reliably deer-resistant — tender new growth and flowers may be browsed",
+  "toxic": "Toxic if eaten — seeds and pods contain a lathyrogen (ODAP) and are poisonous despite resembling edible garden peas; toxic to horses",
+  "origin": "Sicily & southern Italy / Aegean (Crete)",
+  "habitat": "Mediterranean scrub, rocky slopes, and disturbed ground",
+  "winter": false,
+  "verified": "2026-06-06",
+  "care": {
+    "hardiness": "Grown as a cool-weather annual — seedlings tolerate light frost and even prefer to start in cold soil, but the plant completes its life in one season and is killed by hard frost. It thrives in the cool of spring and declines rapidly once summer heat sets in.[1][3]",
+    "planting": "Plant very early — sweet pea wants cool roots and resents heat. Direct-sow as soon as the ground can be worked in spring (it tolerates light frost), or for an earlier start sow indoors 6–8 weeks before the last frost in deep pots/root-trainers (it forms a long taproot) and transplant out while still cool. A fall sowing in a sheltered spot can overwinter for the earliest, strongest bloom. Set it at the base of a trellis, fence, netting, or teepee — it must have support to climb. In containers, use a deep pot and a free-draining mix, keep roots cool and shaded, and water consistently (pots dry fast in Front Range heat and wind); even potted plants finish when summer heat arrives.[1][2][3]",
+    "sun": "Full sun — 6+ hours for the best bloom and fragrance — but with cool roots: mulch the base and, in hot-summer Boulder, give the roots afternoon shade while the vine climbs into the sun.[1][3]",
+    "soil": "Rich, fertile, well-drained soil high in organic matter, with near-neutral pH; Boulder's alkaline clay is workable if generously amended with compost and kept evenly moist. Dig the bed deeply, since the plant taproots.[1][3]",
+    "water": "Moderate and even — keep the soil consistently moist (this is not a xeric plant) and never let it dry out during bloom, which triggers bud drop. Water at the base, mulch to keep roots cool, and ease off only as the plant declines in heat.[1][3]",
+    "spacing": "Space plants about 6–8 in apart along a support for a dense fragrant screen; allow 2–3 ft of horizontal run per plant.[1]",
+    "propagation": "Seed only — this taprooted annual cannot be divided or rooted from cuttings. Sow fresh seed; many growers nick or soak the hard seed coat overnight to speed germination. It does not reliably self-sow in our climate, so save seed from dried pods (handle as toxic — see caution) to resow. Sow direct or in deep pots that minimize root disturbance at transplant.[1][3]",
+    "depth": "Sow seed about 1 in deep into cool, moist soil; germination takes roughly 2–3 weeks and is faster after soaking or nicking the seed coat.[1]",
+    "bloom": "Spring into early summer on the Front Range (roughly May–early July), with the cool-season bloom ending abruptly as summer heat builds; heat-tolerant cultivars and cool, moist roots stretch the season.[1][3]",
+    "feeding": "A hungry annual — work compost into the bed at planting and feed lightly during active growth and bloom; avoid heavy nitrogen, which favors foliage over flowers.[1]",
+    "maintenance": "Deadhead relentlessly — sweet peas stop flowering the moment seedpods set, so picking the fragrant flowers (or cutting spent ones) keeps bloom coming. Tie young vines to the support to start them climbing, and keep roots mulched and moist. Pull and compost the foliage (not the toxic pods) once heat ends the show.[1][3]",
+    "troubles": "Powdery mildew in crowded, dry-rooted conditions; aphids on tender growth; and root rot in soggy soil. Bud drop is usually a sign of dry roots or heat stress, not disease. Avoid replanting in the exact same spot two years running. Good airflow, cool moist roots, and full sun keep it healthy.[1][3]",
+    "harvest": "This is a cut-flower, not a food crop — harvest the flowers freely (it actually extends bloom). Do NOT harvest the pods for eating; they are toxic. Collect dried pods only for seed-saving, and keep them away from children and pets.[1][3]"
+  },
+  "edible": {
+    "level": "toxic",
+    "food": false,
+    "summary": "Ornamental sweet pea is grown only for its flowers — it is NOT a food plant. The seeds and pods are toxic despite looking like edible garden peas, and the plant is poisonous to horses.[1][3]",
+    "caution": "Do not eat any part of ornamental sweet pea (Lathyrus odoratus). Although the pods look like edible vegetable peas (Pisum sativum), they are inedible and poisonous: the seeds contain a lathyrogen (β-aminopropionitrile / ODAP-type compounds), and chronic or large ingestion of Lathyrus seeds causes lathyrism — a serious neurological poisoning marked by weakness, slow/weak pulse, shallow breathing, paralysis, tremors, seizures, and potentially death. The greatest practical danger is confusion with garden peas: keep sweet pea out of the vegetable garden where someone might mistake the pods, and teach children NOT to eat the pods, however pea-like they look. The plant is listed as toxic to horses (keep it away from pasture and grazing); ASPCA reports the closely related perennial sweet pea (L. latifolius) as non-toxic to dogs and cats, but the seeds/pods of any Lathyrus should be considered unsafe to eat. If ingestion is suspected, call Poison Control (1-800-222-1222) for people or ASPCA Animal Poison Control (888-426-4435) for pets.[1][3]"
+  },
+  "references": [
+    {
+      "name": "NC State Extension Gardener Plant Toolbox — Lathyrus odoratus (Annual Sweet Pea)",
+      "url": "https://plants.ces.ncsu.edu/plants/lathyrus-odoratus/"
+    },
+    {
+      "name": "CSU Extension — Yard & Garden (Front Range adaptation: cool-season sowing, hot-summer decline)",
+      "url": "https://extension.colostate.edu/topic-areas/yard-garden/"
+    },
+    {
+      "name": "Missouri Botanical Garden Plant Finder — Lathyrus odoratus",
+      "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=280383"
+    },
+    {
+      "name": "ASPCA Animal Poison Control — Sweet Pea (Lathyrus, toxicity to horses)",
+      "url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/sweet-pea"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      1,
+      3
+    ],
+    "sun": [
+      1,
+      3
+    ],
+    "water": [
+      1,
+      3
+    ],
+    "spread": [
+      1,
+      3
+    ],
+    "seasons": [
+      1,
+      3
+    ],
+    "wildlife": [
+      1
+    ],
+    "deer": [
+      1
+    ],
+    "toxic": [
+      1,
+      3,
+      4
+    ],
+    "origin": [
+      1,
+      3
+    ],
+    "habitat": [
+      3
+    ]
+  },
+  "shots": [
+    {
+      "local": "images/su-flower-t.jpg",
+      "full": "images/su-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/18913646/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — flower close-up, face-on · © DKN (CC-BY-NC) / iNaturalist",
+      "by": "DKN",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/13001830"
+    },
+    {
+      "local": "images/su-flowersfoliage-t.jpg",
+      "full": "images/su-flowersfoliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/250593856/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — flowers with foliage and tendrils · © Christian Gilli (CC-BY-NC) / iNaturalist",
+      "by": "Christian Gilli",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/145841034"
+    },
+    {
+      "local": "images/su-climbing-t.jpg",
+      "full": "images/su-climbing.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/365528801/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — climbing by tendrils on a support · © Liliana Beatriz Chao Fernández (CC-BY-NC) / iNaturalist",
+      "by": "Liliana Beatriz Chao Fernández",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/206696713"
+    },
+    {
+      "local": "images/su-mass-t.jpg",
+      "full": "images/su-mass.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/72241943/large.jpg",
+      "s": "summer",
+      "cap": "Summer — a drift in full bloom · © sddonavan (CC-BY-NC) / iNaturalist",
+      "by": "sddonavan",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/45557364"
+    }
+  ]
+}

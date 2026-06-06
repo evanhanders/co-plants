@@ -1,0 +1,145 @@
+{
+  "common": "Black-eyed Susan",
+  "botanical": "Rudbeckia hirta",
+  "type": "Forb",
+  "lifecycle": "Perennial",
+  "native": "Non-native",
+  "bloom_season": "Summer",
+  "blurb": "The cheerful prairie daisy — golden petals around a dark chocolate cone, blooming for months and seeding itself into easygoing drifts that bees and goldfinches love.",
+  "size": "2–3 ft × 1–2 ft",
+  "sun": "Full sun to part shade",
+  "water": "Low to moderate; drought-tolerant once established",
+  "spread": "Short-lived but self-sows freely to persist in colonies; not aggressive",
+  "seasons": "Golden dark-coned daisies Jun–Oct; dark seedheads stand into fall and winter feeding finches; dies back in winter",
+  "wildlife": "Strong pollinator plant — bees and butterflies on the bloom, a butterfly larval host, and goldfinches strip the seedheads",
+  "deer": "Moderately to strongly deer-resistant — the bristly, hairy foliage is usually passed over",
+  "toxic": "Mildly toxic if eaten and a contact skin irritant for some people; not a food plant — handle and site away from grazing pets",
+  "origin": "Central & eastern North America",
+  "habitat": "Prairies, meadows, open woods and roadsides",
+  "winter": true,
+  "verified": "2026-06-06",
+  "care": {
+    "hardiness": "Hardy to about USDA zone 3, so Boulder's zone 5b–6a is easy; it behaves as a short-lived perennial, biennial, or annual depending on conditions, persisting in the garden mainly by self-sowing.[1][2][3]",
+    "planting": "Plant out in spring after the last frost (mid-May in Boulder), or sow seed in spring or fall. It takes Boulder's clay readily as long as drainage is reasonable. In containers use a quality mix in a pot at least 10 in across, water more often than in-ground plants in summer heat, and treat it as an annual or move it to the ground, since it's short-lived in pots.[1][2]",
+    "sun": "Full sun to part shade — full sun gives the most flowers and sturdiest stems; afternoon shade can extend bloom in hot, exposed sites.[1][2]",
+    "soil": "Adaptable, growing in clay, loam, or sand and tolerating acid, neutral, or alkaline soil — Boulder's alkaline clay is fine. It wants reasonable drainage but is not fussy.[1][2]",
+    "water": "Low to moderate and drought-tolerant once established. Keep new plants watered, then water deeply but infrequently; it tolerates both dry and evenly moist soil but not constant wet feet.[1][2]",
+    "spacing": "Space plants about 12–18 in apart; they fill in and self-sow to knit a drift.[2]",
+    "propagation": "Mainly by seed — it self-sows freely, or you can collect ripe seed from the dark cones and sow in fall or after a cold-moist chill in spring (seed needs light, so press it on the surface). Short-lived perennial forms can sometimes be divided in spring, but seed and volunteers are the dependable route.[1][2]",
+    "sow": "Surface-sow seed and press it in without covering — it needs light to germinate. Fall sowing lets winter chill it; spring sowing benefits from a few weeks of cold-moist stratification first. Expect a staggered flush.[1][2]",
+    "bloom": "June through October on the Front Range — a long season of golden, dark-coned daisies, with deadheading prolonging the show and late heads left to seed.[1][2]",
+    "feeding": "Light. Rich feeding makes floppy, disease-prone growth; a single spring topdress of compost is plenty for this tough plant.[2]",
+    "maintenance": "Low. Deadhead to extend bloom, but leave the final heads standing — the dark seed cones give winter structure and feed goldfinches. Cut back old stems in late winter. Thin self-sown seedlings to control spread.[1][2]",
+    "selfsow": "Self-sows readily, which is how it persists since individual plants are short-lived; volunteers come up in open ground near the parents. It is not invasive here — pull or transplant unwanted seedlings while young.[1][2]",
+    "troubles": "Generally easy; powdery mildew, leaf spot, and rust can appear on crowded or shaded plants, and slugs/snails nibble seedlings. Good airflow and full sun keep it clean. Wear gloves if you're sensitive — the bristly sap/foliage can irritate skin.[1][2]"
+  },
+  "edible": {
+    "level": "caution",
+    "food": false,
+    "summary": "Black-eyed Susan is not a food plant — it is considered mildly toxic if eaten and can cause skin irritation in sensitive people from handling.[1][2]",
+    "caution": "Do not eat any part of this plant. Rudbeckia hirta is regarded as mildly toxic if ingested and the bristly, hairy foliage and sap can trigger contact dermatitis (skin irritation) in sensitive people, so wear gloves when cutting or handling lots of it. While historically used externally/medicinally by some Native American groups, it is not a culinary plant and should not be treated as edible. Keep it away from pets that graze on plants; if ingestion is suspected, call Poison Control (1-800-222-1222) or ASPCA Animal Poison Control (888-426-4435).[1][2]"
+  },
+  "references": [
+    {
+      "name": "Lady Bird Johnson Wildflower Center — Rudbeckia hirta (Black-eyed Susan)",
+      "url": "https://www.wildflower.org/plants/result.php?id_plant=RUHI2"
+    },
+    {
+      "name": "NC State Extension Gardener Plant Toolbox — Rudbeckia hirta (Black-eyed Susan)",
+      "url": "https://plants.ces.ncsu.edu/plants/rudbeckia-hirta/"
+    },
+    {
+      "name": "USDA NRCS PLANTS Database — Rudbeckia hirta profile",
+      "url": "https://plants.sc.egov.usda.gov/plant-profile/RUHI2"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      1,
+      2
+    ],
+    "sun": [
+      1,
+      2
+    ],
+    "water": [
+      1,
+      2
+    ],
+    "spread": [
+      1,
+      2
+    ],
+    "seasons": [
+      1,
+      2
+    ],
+    "wildlife": [
+      1
+    ],
+    "deer": [
+      2
+    ],
+    "toxic": [
+      2
+    ],
+    "origin": [
+      1
+    ],
+    "habitat": [
+      1
+    ]
+  },
+  "shots": [
+    {
+      "local": "images/su-flower-t.jpg",
+      "full": "images/su-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/212745687/large.jpg",
+      "s": "summer",
+      "cap": "Summer — flower close-up, face-on · © David Martin (CC-BY-NC) / iNaturalist",
+      "by": "David Martin",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/125461979"
+    },
+    {
+      "local": "images/su-flower2-t.jpg",
+      "full": "images/su-flower2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/228549927/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — flower close-up, face-on · © Phyllis Holst (CC-BY-NC) / iNaturalist",
+      "by": "Phyllis Holst",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/134117879"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/316419478/large.jpg",
+      "s": "summer",
+      "cap": "Summer — the whole plant and its form · © pahearn1 (CC-BY-NC) / iNaturalist",
+      "by": "pahearn1",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/181570466"
+    },
+    {
+      "local": "images/su-massdrift-t.jpg",
+      "full": "images/su-massdrift.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/567068918/large.jpg",
+      "s": "summer",
+      "cap": "Summer — a field drift in full bloom · © azuriteamy (CC-BY-NC) / iNaturalist",
+      "by": "azuriteamy",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/313985955"
+    },
+    {
+      "local": "images/fa-seedhead-t.jpg",
+      "full": "images/fa-seedhead.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/113298156/large.jpeg",
+      "s": "fall",
+      "cap": "Fall — dried seedheads · © Link Davis (CC-BY-NC) / iNaturalist",
+      "by": "Link Davis",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/69774757"
+    }
+  ]
+}

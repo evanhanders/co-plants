@@ -1,0 +1,70 @@
+[
+  {
+    "file": "images/su-habit.jpg",
+    "photo_id": 39885081,
+    "by": "Andrés Ramírez-Barrera",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/observations/25729840",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  },
+  {
+    "file": "images/su-bloommass.jpg",
+    "photo_id": 560869447,
+    "by": "joe_md",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/310742807",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      787,
+      1400
+    ],
+    "thumb_px": [
+      225,
+      400
+    ]
+  },
+  {
+    "file": "images/su-flower.jpg",
+    "photo_id": 238171945,
+    "by": "Claude Kolwelter",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/observations/139269213",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      953,
+      1400
+    ],
+    "thumb_px": [
+      272,
+      400
+    ]
+  },
+  {
+    "file": "images/su-foliage.jpg",
+    "photo_id": 332914875,
+    "by": "hl12",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/189968952",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  }
+]

@@ -1,0 +1,126 @@
+{
+  "common": "Rocky Mountain iris",
+  "botanical": "Iris missouriensis",
+  "type": "Forb",
+  "lifecycle": "Perennial",
+  "native": "CO native",
+  "bloom_season": "Spring",
+  "blurb": "Colorado's wild blue flag — pale lavender-blue, purple-veined irises rise from grassy fans across wet mountain meadows in late spring.",
+  "size": "1–2 ft × 1–2 ft",
+  "sun": "Full sun to part shade",
+  "water": "High in spring; needs steady moisture through bloom, tolerates dry summer",
+  "spread": "Slowly clumping/spreading by rhizome into dense patches; not aggressive in dry gardens",
+  "seasons": "Lavender-blue, purple-veined flowers May–Jun; upright grassy fans summer; foliage dies back, dormant in dry late summer/winter",
+  "wildlife": "Flowers visited by bees and hummingbirds; forms cover in moist meadows",
+  "deer": "Avoided by deer and cattle — the tough, slightly toxic foliage is left ungrazed",
+  "toxic": "Toxic — rhizomes and rootstock contain irritant compounds causing GI upset (nausea, vomiting, diarrhea) and skin irritation in people, pets, and livestock",
+  "winter": false,
+  "verified": "2026-06-06",
+  "care": {
+    "hardiness": "Reliably hardy on the Front Range — a high-country native of the western mountains to roughly USDA zone 3, so Boulder's zone 5b–6a winters are no concern for established clumps.[1][2]",
+    "planting": "Plant rhizomes or divisions in early fall or in spring after the soil thaws, in a spot that stays moist through spring and early summer — a low swale, near a downspout, beside a pond, or in irrigated meadow. Set the rhizome shallow, just at or barely below the soil surface, fan side up. In containers it must never dry out during growth; use a large pot kept consistently watered spring through bloom, then ease off as foliage dies back. It can take dry late-summer soil once dormant.[1][2]",
+    "sun": "Full sun to part shade — full sun gives the most flowers where soil stays moist; light afternoon shade helps it hold moisture in hotter, exposed Front Range sites.[1]",
+    "soil": "Adaptable but happiest in moisture-retentive soil; it tolerates Boulder's alkaline clay and high lime well (high calcium-carbonate tolerance). Heavy clay is fine here as long as it stays moist through spring rather than baking hard early.[1]",
+    "water": "High during the growing and bloom season — this is a wet-meadow plant that needs steady moisture from emergence through about six weeks after flowering. After bloom it tolerates a dry summer dormancy and resents soggy soil while dormant. Do not plant it in an unirrigated xeric bed; treat it as a moist-zone or rain-garden perennial.[1][2]",
+    "spacing": "Space divisions about 12–18 in apart; clumps slowly knit into dense patches by rhizome over several years.[1]",
+    "propagation": "Easiest by division: lift and split the rhizomes in late summer after flowering or in early fall, keeping a fan of leaves and roots on each piece, and replant shallow at once. By seed: collect ripe seed, give it cold-moist stratification over winter (sow outdoors in fall or refrigerate in damp medium), and expect slow germination and several years to first bloom.[1][2]",
+    "bloom": "Late May into June on the Front Range — one to several pale lavender-blue, purple-veined flowers per slender stem, rising just above the grassy foliage.[1]",
+    "feeding": "Light. A spring topdress of compost in moist ground is plenty; heavy fertilizer is unnecessary and pushes soft growth.[2]",
+    "maintenance": "Low. Leave foliage to ripen and feed the rhizome, then tidy dead leaves after dormancy. Divide crowded clumps every few years to keep them vigorous. Keep water steady through bloom; let it dry afterward.[1][2]",
+    "troubles": "Few pests when sited right. The main failure is wrong moisture — too dry in spring and it won't flower; waterlogged while dormant and the rhizome rots. Wear gloves when dividing, as the rhizome sap can irritate skin.[1][2]"
+  },
+  "edible": {
+    "level": "toxic",
+    "food": false,
+    "summary": "Rocky Mountain iris is toxic and is not eaten — the rhizomes and rootstock contain irritant compounds that cause digestive upset and skin irritation in people, pets, and livestock.[1][2]",
+    "caution": "Do not eat any part of this plant. The thick rhizomes and rootstock contain irritant resinous/glycoside compounds; ingestion causes nausea, vomiting, abdominal pain, and diarrhea in humans and pets, and handling the cut rhizome can cause skin irritation (wear gloves when dividing). The tough foliage is also unpalatable and is avoided by cattle and deer — its toxicity is part of why it is left ungrazed in meadows. Keep rhizomes and foliage away from children, dogs, cats, and livestock. If ingestion is suspected, call Poison Control (1-800-222-1222) or ASPCA Animal Poison Control (888-426-4435).[1][2]"
+  },
+  "references": [
+    {
+      "name": "Lady Bird Johnson Wildflower Center — Iris missouriensis (Rocky Mountain iris / western blue flag)",
+      "url": "https://www.wildflower.org/plants/result.php?id_plant=IRMI"
+    },
+    {
+      "name": "USDA NRCS PLANTS Database — Iris missouriensis profile",
+      "url": "https://plants.sc.egov.usda.gov/plant-profile/IRMI"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      1
+    ],
+    "sun": [
+      1
+    ],
+    "water": [
+      1
+    ],
+    "spread": [
+      1
+    ],
+    "seasons": [
+      1
+    ],
+    "wildlife": [
+      1
+    ],
+    "deer": [
+      1
+    ],
+    "toxic": [
+      1
+    ]
+  },
+  "shots": [
+    {
+      "local": "images/sp-flower-t.jpg",
+      "full": "images/sp-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/260368243/large.jpeg",
+      "s": "spring",
+      "cap": "Spring — flower close-up, face-on · © FrontRangeWildflowers (CC-BY-NC) / iNaturalist",
+      "by": "FrontRangeWildflowers",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/150945089"
+    },
+    {
+      "local": "images/sp-flower2-t.jpg",
+      "full": "images/sp-flower2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/506498105/large.jpg",
+      "s": "spring",
+      "cap": "Spring — flower close-up, face-on · © Jared Shorma (CC-BY) / iNaturalist",
+      "by": "Jared Shorma",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/281942586"
+    },
+    {
+      "local": "images/sp-mass-t.jpg",
+      "full": "images/sp-mass.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/292922142/large.jpg",
+      "s": "spring",
+      "cap": "Spring — a drift in full bloom · © greenkava (CC-BY-NC) / iNaturalist",
+      "by": "greenkava",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/168981768"
+    },
+    {
+      "local": "images/sp-habit-t.jpg",
+      "full": "images/sp-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/281130448/large.jpeg",
+      "s": "spring",
+      "cap": "Spring — the whole plant and its form · © Zoe (CC-BY-NC) / iNaturalist",
+      "by": "Zoe",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/162581044"
+    },
+    {
+      "local": "images/su-foliagepod-t.jpg",
+      "full": "images/su-foliagepod.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/419028749/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — grassy fans of foliage · © Becca Lee (CC-BY-NC) / iNaturalist",
+      "by": "Becca Lee",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/235603469"
+    }
+  ]
+}

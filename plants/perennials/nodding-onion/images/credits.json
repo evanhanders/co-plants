@@ -1,0 +1,70 @@
+[
+  {
+    "file": "images/su-flower.jpg",
+    "photo_id": 318047111,
+    "by": "Jared Shorma",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/observations/182425292",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      1050
+    ],
+    "thumb_px": [
+      400,
+      300
+    ]
+  },
+  {
+    "file": "images/su-flowernodding.jpg",
+    "photo_id": 413632709,
+    "by": "Ernie Marx",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/232794241",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      933
+    ],
+    "thumb_px": [
+      400,
+      267
+    ]
+  },
+  {
+    "file": "images/su-mass.jpg",
+    "photo_id": 472428853,
+    "by": "farragutroad",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/263019087",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      1050
+    ],
+    "thumb_px": [
+      400,
+      300
+    ]
+  },
+  {
+    "file": "images/fa-seedhead.jpg",
+    "photo_id": 44470840,
+    "by": "John A Haskins",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/observations/28523701",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      1050
+    ],
+    "thumb_px": [
+      400,
+      300
+    ]
+  }
+]

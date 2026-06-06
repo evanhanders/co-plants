@@ -1,0 +1,135 @@
+{
+  "common": "Bearded iris",
+  "botanical": "Iris × germanica",
+  "type": "Forb",
+  "lifecycle": "Perennial",
+  "native": "Non-native",
+  "bloom_season": "Spring",
+  "blurb": "Sword-leaved fans send up ruffled, fragrant late-spring flags in nearly every color, their fuzzy 'beards' glowing against silky falls — and they revel in our sun, alkaline clay, and dry summers.",
+  "size": "1–4 ft × 1–2 ft",
+  "sun": "Full sun",
+  "water": "Low; xeric once established, avoid wet feet",
+  "spread": "Clumping; rhizomes creep outward into wider clumps over a few years and want dividing",
+  "seasons": "Ruffled flags in late spring (May–Jun), some cultivars reblooming in fall; upright grey-green sword foliage spring–fall; foliage dies back for winter",
+  "wildlife": "Visited by bees and the occasional hummingbird for nectar; not a major wildlife plant but its early-season bloom offers some forage",
+  "deer": "Deer- and rabbit-resistant; the rhizomes and foliage are bitter and toxic, so browsing animals leave them alone",
+  "toxic": "Toxic — the rhizomes (and to a lesser degree leaves and sap) contain irisin/iridin and pentacyclic terpenoids; ingestion causes drooling, vomiting, and diarrhea in dogs, cats, and horses, and the sap can irritate skin",
+  "origin": "Garden hybrid; Mediterranean & southern-European ancestry (I. pallida × I. variegata)",
+  "habitat": "Dry, sunny rocky slopes and hillsides",
+  "winter": false,
+  "verified": "2026-06-06",
+  "care": {
+    "hardiness": "Reliably hardy on the Front Range — tall bearded iris tolerates roughly USDA zones 3–9, well within Boulder's zone 5b–6a, and needs no winter protection once established. It is one of the easiest, most drought-adapted perennials for our region, thriving in full sun, alkaline clay, and dry summers.[1][3]",
+    "planting": "Plant rhizomes in late summer (late July through September on the Front Range), which gives them six-plus weeks to root before the ground freezes. THE CRITICAL RULE: set the rhizome horizontally with its top at or just barely above the soil surface — on our heavy clay leave the crown exposed so the summer sun can bake it; only on very light sandy soil cover it lightly. Do NOT bury it deep and do NOT mulch over the rhizome — buried or smothered rhizomes rot and won't bloom. Spread the roots downward in a shallow trench and firm the soil around them. In containers, use a fast-draining gritty mix in a wide pot, keep the rhizome surface-exposed, and shelter pots from saturating winter wet; in-ground planting is far more dependable here.[1][3]",
+    "sun": "Full sun — at least 6 hours of direct sun, and ideally all-day sun on the rhizomes. Sun baking the exposed rhizome through summer is what triggers flowering; shade or crowding from neighboring plants reduces bloom.[1][3]",
+    "soil": "Well-drained soil above all — bearded iris rots in soggy ground. It is unfussy about fertility and actively prefers lean, gritty, neutral-to-alkaline soil, so Boulder's alkaline clay suits it well once drainage is improved. On heavy clay, plant on a slight mound or work in coarse grit; avoid heavy organic mulch and rich, constantly moist beds.[1][3]",
+    "water": "Low and drought-tolerant once established. Water newly planted rhizomes to settle them and through their first fall, then taper off. In summer an established clump needs little to no supplemental water beyond occasional deep soaks in prolonged drought; overwatering — especially in summer — causes rhizome rot, the most common way to kill this plant. Let the soil dry between waterings.[1][3]",
+    "spacing": "Space rhizomes 12–18 in. apart (up to 2–3 ft for large drifts), with the cut leaf fans all pointing the same direction so the clump grows outward evenly. Close spacing fills in faster but crowds sooner; wider spacing delays the need to divide.[1]",
+    "propagation": "By division — the standard and easiest method. Lift and divide congested clumps every 3–4 years, ideally about six weeks after flowering (mid- to late summer here). Discard the spent woody center, cut the young outer rhizomes into pieces each with one healthy fan of leaves and a section of roots, trim the leaves back to a 4–6 in. fan to reduce wind-rock, and replant at the surface. By seed: possible but slow and won't come true for named hybrids — sow ripe seed in fall, expect erratic germination and 2–3 years to first bloom; division is preferred for true-to-type plants.[1][3]",
+    "depth": "Plant shallow: the top of the rhizome at or just above soil level on clay, barely covered (under ~1 in.) only on light sandy soil. Roots go down into the trench, the rhizome stays at the surface. Deep planting is the classic cause of non-flowering and rot.[1][3]",
+    "bloom": "Late spring — roughly mid-May into June on the Front Range — with a showy two-to-three-week flush; some modern reblooming ('remontant') cultivars throw a second round in late summer or fall if kept watered.[1][3]",
+    "feeding": "Light feeders. A modest scattering of a low-nitrogen fertilizer (e.g. 5-10-10 or bonemeal) in early spring and again after bloom is plenty; high-nitrogen feeding produces lush foliage, soft rot-prone rhizomes, and few flowers. Lean soil gives the best bloom.[1]",
+    "maintenance": "Snap or cut off spent flower stalks at the base after bloom to stop seed formation. Keep the rhizomes clear of fallen leaves and mulch year-round. In fall, cut the foliage back to a short fan and remove and destroy old leaves to reduce overwintering iris borer and leaf-spot; do not pile winter mulch over the crowns. Divide every 3–4 years to keep clumps vigorous and free-flowering.[1][3]",
+    "troubles": "Soft rot of the rhizome (from wet soil, deep planting, or mulch over the crown) is the main problem — plant shallow, improve drainage, and keep crowns exposed. Iris borer and bacterial/fungal leaf spot can occur; sanitation (removing old foliage in fall) is the best defense. Both are far less troublesome in our dry climate than in humid regions.[1][3]",
+    "companions": "Pair with other sun-loving, low-water plants that won't shade or crowd the rhizomes — catmint, salvia, ornamental allium, peony, and lavender share its full-sun, lean-soil, dry-summer preferences and bloom around the same season.[3]"
+  },
+  "edible": {
+    "level": "toxic",
+    "food": false,
+    "summary": "Bearded iris is toxic — no part is edible. The rhizomes are the most poisonous part and cause vomiting and diarrhea in people and pets; the sap can irritate skin.[1][2]",
+    "caution": "All parts of Iris × germanica are toxic and it is not a food plant. The rhizomes (underground stems) contain the highest concentration of toxins — irisin/iridin and pentacyclic terpenoids (zeorin, missourin, missouriensin) — with lower amounts in the leaves, sap, and seeds. Ingestion by people, dogs, cats, or horses causes salivation/drooling, nausea, vomiting, abdominal pain, and diarrhea; the irritant sap can also cause skin irritation (handle with care, wash after dividing rhizomes). Severity is generally low for a small accidental nibble, but keep rhizomes, foliage, and cut flowers away from children and pets, and do not eat any part. Note the rhizome's superficial resemblance to ginger or other edible rhizomes — never confuse them. If significant ingestion is suspected, call Poison Control (1-800-222-1222) or ASPCA Animal Poison Control (888-426-4435).[1][2]"
+  },
+  "references": [
+    {
+      "name": "NC State Extension Gardener Plant Toolbox — Iris × germanica (Bearded Iris)",
+      "url": "https://plants.ces.ncsu.edu/plants/iris-germanica/"
+    },
+    {
+      "name": "ASPCA Animal Poison Control — Iris (toxic to dogs, cats, horses)",
+      "url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/iris"
+    },
+    {
+      "name": "RHS — How to grow border (bearded) irises",
+      "url": "https://www.rhs.org.uk/plants/iris/border/growing-guide"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      1
+    ],
+    "sun": [
+      1,
+      3
+    ],
+    "water": [
+      1,
+      3
+    ],
+    "spread": [
+      1,
+      3
+    ],
+    "seasons": [
+      1,
+      3
+    ],
+    "wildlife": [
+      1
+    ],
+    "deer": [
+      1
+    ],
+    "toxic": [
+      1,
+      2
+    ],
+    "origin": [
+      1
+    ],
+    "habitat": [
+      1
+    ]
+  },
+  "shots": [
+    {
+      "local": "images/sp-flower-t.jpg",
+      "full": "images/sp-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/447224875/large.jpeg",
+      "s": "spring",
+      "cap": "Spring — flower close-up, face-on · © Janey Taylor (CC-BY-NC) / iNaturalist",
+      "by": "Janey Taylor",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/250104897"
+    },
+    {
+      "local": "images/sp-habit-t.jpg",
+      "full": "images/sp-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/635344176/large.jpg",
+      "s": "spring",
+      "cap": "Spring — the whole plant and its form · © Nemo di Punta Grossa (CC-BY-NC) / iNaturalist",
+      "by": "Nemo di Punta Grossa",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/348373974"
+    },
+    {
+      "local": "images/sp-mass-t.jpg",
+      "full": "images/sp-mass.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/269774397/large.jpeg",
+      "s": "spring",
+      "cap": "Spring — a drift in full bloom · © Igor Božović i Ozi (CC-BY-NC) / iNaturalist",
+      "by": "Igor Božović i Ozi",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/156033777"
+    },
+    {
+      "local": "images/sp-foliage-t.jpg",
+      "full": "images/sp-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/117125041/large.jpeg",
+      "s": "spring",
+      "cap": "Spring — foliage detail · © Todd Boland (CC-BY) / iNaturalist",
+      "by": "Todd Boland",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/71893964"
+    }
+  ]
+}

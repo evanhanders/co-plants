@@ -767,12 +767,12 @@ ground every statement in an authority cited in `references`.
 
 ## Current plant roster (in the live site)
 
-**108 specimens**, all verified non-weed in CO and all carrying a full `care` block (incl.
+**128 specimens**, all verified non-weed in CO and all carrying a full `care` block (incl.
 `planting` + `propagation`) **and a repo-hosted photo reel** (close-up + structure, seasonal
 where good shots exist). Every plant's detail page is now **fully cited** — a numbered
 `references` bibliography with inline `[n]` markers on the facts table (`fact_src`), the care
-prose, and a safety-reviewed **`edible` block** (current split: 41 inedible · 23 caution · 29
-edible · 15 toxic). Every **non-native** plant (83 of the 108) also carries **provenance** —
+prose, and a safety-reviewed **`edible` block** (current split: 43 inedible · 28 caution · 34
+edible · 23 toxic). Every **non-native** plant (100 of the 128) also carries **provenance** —
 `origin` (where it's from) + `habitat` (its wild growing conditions) — shown as blue "Native
 to" / "Wild habitat" rows on its card and detail page, cited via `fact_src`. Grouped by type
 below (the order the site uses). Photos were sourced
@@ -808,6 +808,20 @@ hazel** and **pussy willow** are North-American natives but **not** Front-Range 
 `Non-native` with honest `origin`); **pussy willow is dioecious** (buy a named *male* for the
 pollen-bearing catkins) and a **high-water wetland shrub**; **sweet alyssum** is left `caution`/not-
 food (no authority documents it as culinary). Photos via `tools/inat_montage.py` (iNat open data).
+Most recently, a **20-plant cut-flower/bulb batch** was added: the cottage/cut-flower annuals **marigold,
+nigella, bachelor's button, sweet pea (a Vine), amaranth, celosia, strawflower, calendula**; the
+spring-bulb/corm garden classics **garden tulip, species tulip, daffodil, Dutch crocus, bearded iris,
+ornamental allium, gladiolus**; and the natives **sunflower (CO-native annual), Rocky Mountain iris,
+nodding onion**, plus **black-eyed Susan** and **desert marigold**. Honesty calls: **gladiolus** is a
+`Tender perennial` (corms not winter-hardy here — lift & store each fall like dahlia); **garden hybrid
+tulips run short-lived** on the dry Front Range (species tulips perennialize far better); **black-eyed
+Susan** and **desert marigold** are North-American/SW-US natives but **not** Front-Range natives (marked
+`Non-native` with honest `origin`, per the witch-hazel/pussy-willow convention); **sweet pea is toxic**
+(lathyrism — not the edible pea) and **nigella is the ornamental *N. damascena*, not culinary *N.
+sativa*** (left `caution`/not-food); **nodding onion is edible but has a deadly death-camas look-alike**
+(eat only if it smells of onion). **Ranunculus was evaluated and ruled out** (too marginal here — see
+"Ruled out"). Strawflower's reel is the yellow species form only (no CC cultivar shots — logged in its
+`gaps`). All photos via `tools/inat_montage.py` (iNat open data); 720×480 smart-crop thumbs.
 (N) = CO/regional native, (I) = introduced/vetted.
 
 **Trees**
@@ -883,6 +897,7 @@ food (no authority documents it as culinary). Photos via `tools/inat_montage.py`
 - Nasturtium (*Tropaeolum majus*) (I) · **Annual** — Easy peppery-edible annual; round leaves and spurred flowers that trail or climb.
 - Rambling rose (*Rosa (rambling cultivars)*) (I) — Vigorous, flexible-caned roses that 'wander' over fences &…
 - Trumpet honeysuckle (*Lonicera sempervirens*) (I) — A well-behaved twining climber with clusters of long…
+- Sweet pea (*Lathyrus odoratus*) (I) · **Annual** — The most fragrant climbing annual; ruffled jewel-toned blooms on cool spring air. *(Toxic — seeds/pods, lathyrism; not the edible pea.)*
 
 **Spring forbs**
 - Brunnera (*Brunnera macrophylla*) (I) — Clouds of tiny forget-me-not-blue flowers drift above…
@@ -902,6 +917,12 @@ food (no authority documents it as culinary). Photos via `tools/inat_montage.py`
 - Christmas rose (*Helleborus niger*) (I) — Leathery evergreen perennial whose white cups open in the dead of winter — rare midwinter bee forage. *(Toxic; sap irritant.)*
 - Sweet alyssum (*Lobularia maritima*) (I) · **Annual** — Low honey-scented carpet from spring to frost; a magnet for bees, hoverflies & beneficials.
 - Pansy (*Viola × wittrockiana*) (I) · **Annual** — Cheerful cool-season faces that bloom through frost; edible flowers, easy potted colour for warm-day bees.
+- Rocky Mountain iris (*Iris missouriensis*) (N) — Colorado's wild blue flag; lavender, purple-veined irises from grassy fans in wet mountain meadows. *(Toxic rhizome; wants spring moisture.)*
+- Bearded iris (*Iris × germanica*) (I) — The classic dooryard iris; ruffled bearded blooms over sword foliage, thriving on heat, sun & lean clay. *(Toxic rhizome; plant rhizome at the surface.)*
+- Garden tulip (*Tulipa gesneriana*) (I) — Bold goblets in every colour; spectacular year one, but big hybrids often run short-lived on the dry Front Range. *(Toxic bulb.)*
+- Species tulip (*Tulipa tarda*) (I) — Little wild tulips that actually come back; starry yellow-and-white flowers that naturalize in our dry-summer climate. *(Toxic bulb.)*
+- Daffodil (*Narcissus*) (I) — The most dependable spring bulb here; sunny trumpets that multiply into drifts and, being toxic, are ignored by deer & voles. *(Toxic, all parts.)*
+- Dutch crocus (*Crocus vernus*) (I) — The big, bold spring crocus; plump purple/white/feathered goblets naturalizing into lawns to feed early bees. *(Inedible — deadly Colchicum look-alike.)*
 
 **Summer forbs**
 - Acanthus (*Acanthus mollis*) (I) — Architectural 'bear's breeches': huge glossy leaves and hooded white-&-purple flower spikes. Tender (~zone 7).
@@ -929,6 +950,19 @@ food (no authority documents it as culinary). Photos via `tools/inat_montage.py`
 - Spike speedwell (*Veronica spicata*) (I) — Upright candlestick spikes of starry flowers (lead form:…
 - Wild bergamot (*Monarda fistulosa*) (N) — Colorado-native bee balm
 - Yellow yarrow (*Achillea 'Moonshine'*) (I) — A tough, silvery-leaved garden hybrid with flat-topped…
+- Sunflower (*Helianthus annuus*) (N) · **Annual** — Colorado's own wild sunflower; branching golden, dark-eyed heads bees mob and goldfinches strip for seed. *(Edible seeds.)*
+- Nodding onion (*Allium cernuum*) (N) — A dainty native onion whose stalk crooks so its umbel of pink bells nods to the ground; bee-covered in midsummer. *(Edible — but deadly death-camas look-alike; smell for onion.)*
+- Desert marigold (*Baileya multiradiata*) (I) — Woolly silver mound throwing long-stemmed lemon daisies for months in the hottest, leanest ground. *(SW-US native, not CO; toxic to livestock.)*
+- Black-eyed Susan (*Rudbeckia hirta*) (I) — Golden petals around a chocolate cone for months, seeding into easy drifts bees & goldfinches love. *(E/central-N.A. native, not Front-Range; mild caution.)*
+- Marigold (*Tagetes patula*) (I) · **Annual** — Bulletproof bedding annual; ferny aromatic foliage under ruffled yellow-to-mahogany blooms all summer. *(Edible petals.)*
+- Nigella / love-in-a-mist (*Nigella damascena*) (I) · **Annual** — Sky-blue flowers in a haze of thread-fine foliage, then inflated horned 'balloon' seedpods for drying. *(Caution — ornamental, not culinary N. sativa.)*
+- Bachelor's button (*Centaurea cyanus*) (I) · **Annual** — True-blue fringed buttons on wiry stems; easy cool-season reseeder that draws bees. *(Edible petals; NOT a knapweed/weed.)*
+- Amaranth / love-lies-bleeding (*Amaranthus caudatus*) (I) · **Annual** — Tall stems draped in drooping crimson ropes; a dramatic ancient grain that's also an edible green. *(Edible grain & cooked leaves.)*
+- Celosia (*Celosia argentea*) (I) · **Annual** — Velvety flame plumes and brain-folded combs in electric reds & golds that shrug off Front Range heat. *(Caution — young leaves cooked.)*
+- Strawflower (*Xerochrysum bracteatum*) (I) · **Annual** — Stiff papery 'everlasting' bracts that dry perfectly for winter arrangements. *(Inedible; reel is yellow species form — see `gaps`.)*
+- Calendula / pot marigold (*Calendula officinalis*) (I) · **Annual** — The true edible pot marigold; cheerful daisies blooming hardest in cool spring & fall. *(Edible petals.)*
+- Ornamental allium (*Allium hollandicum*) (I) — Giant lollipop globes of starry purple on bare stems; a bee magnet deer & voles leave alone. *(Caution — oniony; all alliums toxic to pets.)*
+- Gladiolus (*Gladiolus × hortulanus*) (I) · **Tender perennial** — Sword-leaved spikes of ruffled trumpets, grown from corms lifted & stored over winter like dahlias. *(Toxic corms.)*
 
 **Fall forbs**
 - Japanese anemone (*Anemone × hybrida*) (I) — Tall, wiry-stemmed perennial that lights up the late-summer…

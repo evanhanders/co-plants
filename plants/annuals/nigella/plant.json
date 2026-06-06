@@ -1,0 +1,139 @@
+{
+  "common": "Nigella",
+  "botanical": "Nigella damascena",
+  "type": "Forb",
+  "lifecycle": "Annual",
+  "native": "Non-native",
+  "bloom_season": "Summer",
+  "blurb": "Love-in-a-mist — sky-blue flowers nestled in a haze of thread-fine foliage, followed by extraordinary inflated, horned 'balloon' seedpods prized for drying.",
+  "size": "1.5–2 ft × 1–1.5 ft",
+  "sun": "Full sun",
+  "water": "Moderate; even moisture, well-drained soil",
+  "spread": "Clumping; self-sows freely into drifts where it's grown",
+  "seasons": "Blue (or white/pink/purple) flowers June–Aug above ferny foliage; inflated horned seedpods follow and persist; dies at frost",
+  "wildlife": "Open flowers offer pollen and nectar to bees and hoverflies; the dried seedheads feed seed-eating birds and are valued for cut/dried arrangements",
+  "deer": "Generally deer-resistant — the lacy, slightly pungent foliage is usually passed over",
+  "toxic": "Mildly toxic in quantity — the seeds contain saponins and alkaloids; this is the ornamental love-in-a-mist, NOT the culinary black-cumin spice (N. sativa)",
+  "origin": "Southern Europe & N. Africa (Mediterranean)",
+  "habitat": "Disturbed fields, rocky slopes, and cultivated ground",
+  "winter": false,
+  "verified": "2026-06-06",
+  "care": {
+    "hardiness": "Grown as a cool-season hardy annual — seedlings tolerate light frost, and the plant completes its life in one season. It thrives in the cool of late spring and fades as summer heat arrives, so it is treated as a spring-into-early-summer annual on the Front Range.[1][3]",
+    "planting": "Direct-sow where it is to grow — it taproots and resents transplanting. Sow in early spring as soon as the ground can be worked (it likes cool soil and even tolerates a light frost), or sow in fall to overwinter and bloom early. A second sowing every few weeks into early summer extends the show. In containers, sow into a deep, free-draining pot to allow the taproot; pots dry fast in Front Range heat and wind, so water consistently. It finishes at frost with no overwintering.[1][2][3]",
+    "sun": "Full sun — 6+ hours gives the sturdiest plants and best bloom; it tolerates very light shade but stretches.[1][3]",
+    "soil": "Average, medium-moisture, well-drained soil of any texture (clay, loam, or sand) and near-neutral pH; Boulder's alkaline clay is acceptable with decent drainage. It dislikes soggy ground.[1][3]",
+    "water": "Moderate and even — keep the soil consistently moist while plants are growing and flowering; it is not a xeric plant, but it also resents waterlogging. Once seedpods form and foliage browns, watering can stop.[1][3]",
+    "spacing": "Thin or space seedlings about 8–12 in apart; sow in generous drifts for the best haze-of-blue effect, since individual plants are airy and short-lived.[1]",
+    "propagation": "Seed only — this taprooted annual cannot be divided or rooted from cuttings. Direct-sow fresh seed in spring or fall. It self-sows prolifically: leave a few of the inflated pods to ripen and shatter and it returns each year. Collect the small black seeds from the dried, papery pods to sow where you want them.[1][3]",
+    "depth": "Sow seed shallowly, about ⅛–¼ in deep, and keep evenly moist; germination takes roughly 2–3 weeks in cool soil.[1]",
+    "bloom": "June through August on the Front Range, with the cool-season bloom strongest in late spring to early summer before heat shortens it; the prized inflated, horned seedpods follow and persist for weeks.[1][3]",
+    "feeding": "Little to none — average soil is plenty. Excess nitrogen produces lax foliage and fewer flowers.[1]",
+    "maintenance": "Very low. For the dried-pod harvest, leave flowers to set seed; to prolong bloom instead, deadhead and resow. Plants are short-lived and decline quickly in heat — pull spent plants and let a few pods reseed for next year.[1][3]",
+    "selfsow": "Self-sows freely where seed drops, returning in cheerful drifts each spring; volunteers are easy to recognize and thin. It is not a CO-listed or aggressive weed, but it will colonize open ground if every pod is left to shatter.[1][3]",
+    "troubles": "Largely trouble-free. Damping-off can strike seedlings in cold, wet soil, and root rot occurs in waterlogged ground; otherwise pests and disease are minimal. Good drainage and full sun are the main needs.[1][3]",
+    "harvest": "For dried arrangements, cut the inflated, horned seedpods when they are fully formed and just beginning to dry on the plant, and hang them upside down to finish — they hold their shape and bronzy-striped color for months.[1][3]",
+    "companions": "Pairs well in cottage and cutting gardens with other cool-season annuals and spring perennials — larkspur, bachelor's button, poppies, and calendula — that share its full-sun, even-moisture, self-sowing habit.[1]"
+  },
+  "edible": {
+    "level": "caution",
+    "food": false,
+    "summary": "Love-in-a-mist (Nigella damascena) is grown for its flowers and ornamental seedpods, not for food — its seeds are used only sparingly as an aromatic and can be mildly toxic in quantity. It is NOT the culinary black-cumin spice.[1][3]",
+    "caution": "Do not confuse Nigella damascena (love-in-a-mist / devil-in-the-bush) with Nigella sativa, the true culinary 'black cumin' / 'kalonji' spice — they are different species. The seeds of N. damascena have only limited, traditional use as a mild nutmeg-like aromatic and are not a recognized food or spice; they contain saponins and trace alkaloids (the genus carries the toxic alkaloid damascenine in damascena) and can cause stomach upset if eaten in any quantity. Treat this plant as ornamental: enjoy the flowers and dried pods, but do not eat the seeds or any other part, and keep the seedpods away from children who might mistake them for edible pods. Anyone wanting the culinary black-seed spice should buy Nigella sativa, not save seed from this ornamental.[1][3]"
+  },
+  "references": [
+    {
+      "name": "NC State Extension Gardener Plant Toolbox — Nigella damascena (Love-in-a-Mist)",
+      "url": "https://plants.ces.ncsu.edu/plants/nigella-damascena/"
+    },
+    {
+      "name": "CSU Extension — Yard & Garden (Front Range adaptation: cool-season sowing, frost dates)",
+      "url": "https://extension.colostate.edu/topic-areas/yard-garden/"
+    },
+    {
+      "name": "Missouri Botanical Garden Plant Finder — Nigella damascena",
+      "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=b744"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      1,
+      3
+    ],
+    "sun": [
+      1,
+      3
+    ],
+    "water": [
+      1,
+      3
+    ],
+    "spread": [
+      1,
+      3
+    ],
+    "seasons": [
+      1,
+      3
+    ],
+    "wildlife": [
+      1
+    ],
+    "deer": [
+      1
+    ],
+    "toxic": [
+      1,
+      3
+    ],
+    "origin": [
+      1,
+      3
+    ],
+    "habitat": [
+      1
+    ]
+  },
+  "shots": [
+    {
+      "local": "images/su-flowerblue-t.jpg",
+      "full": "images/su-flowerblue.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/661630302/large.jpg",
+      "s": "summer",
+      "cap": "Summer — a sky-blue flower face-on in its lacy 'mist' · © Marina DIB (CC-BY-NC) / iNaturalist",
+      "by": "Marina DIB",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/362502539"
+    },
+    {
+      "local": "images/su-flowerpink-t.jpg",
+      "full": "images/su-flowerpink.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/511502645/large.jpg",
+      "s": "summer",
+      "cap": "Summer — a flower face-on · © Serey Lek (CC-BY-NC) / iNaturalist",
+      "by": "Serey Lek",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/284606693"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/478381068/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — foliage detail · © tigertail (CC-BY-NC) / iNaturalist",
+      "by": "tigertail",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/266262465"
+    },
+    {
+      "local": "images/fa-seedpod-t.jpg",
+      "full": "images/fa-seedpod.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/562705395/large.jpg",
+      "s": "fall",
+      "cap": "Fall — the inflated horned 'balloon' seedpods · © Jacques HALLOT (CC-BY-NC) / iNaturalist",
+      "by": "Jacques HALLOT",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/311706896"
+    }
+  ]
+}

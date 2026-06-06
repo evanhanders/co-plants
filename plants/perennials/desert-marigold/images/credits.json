@@ -1,0 +1,53 @@
+[
+  {
+    "file": "images/sp-foliagehabit.jpg",
+    "photo_id": 165874705,
+    "by": "Steve Matson",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/observations/99497825",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      888,
+      1136
+    ],
+    "thumb_px": [
+      313,
+      400
+    ]
+  },
+  {
+    "file": "images/sp-flower.jpg",
+    "photo_id": 617095697,
+    "by": "Ryan",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/339246547",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  },
+  {
+    "file": "images/sp-clump.jpg",
+    "photo_id": 282821104,
+    "by": "Melanie J. Davis",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/observations/163516128",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  }
+]

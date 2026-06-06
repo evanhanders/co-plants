@@ -1,0 +1,70 @@
+[
+  {
+    "file": "images/su-flower.jpg",
+    "photo_id": 387717354,
+    "by": "Deidre Casey",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/219067374",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  },
+  {
+    "file": "images/su-mass.jpg",
+    "photo_id": 665939593,
+    "by": "peteraiken",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/363984375",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  },
+  {
+    "file": "images/su-massfoliage.jpg",
+    "photo_id": 18572318,
+    "by": "miquelon",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/observations/12807434",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      1050
+    ],
+    "thumb_px": [
+      400,
+      300
+    ]
+  },
+  {
+    "file": "images/su-foliage.jpg",
+    "photo_id": 650684739,
+    "by": "ullikaiser",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/356792643",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  }
+]

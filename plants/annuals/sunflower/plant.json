@@ -1,0 +1,145 @@
+{
+  "common": "Sunflower",
+  "botanical": "Helianthus annuus",
+  "type": "Forb",
+  "lifecycle": "Annual",
+  "native": "CO native",
+  "bloom_season": "Summer",
+  "blurb": "Colorado's own wild sunflower — branching stems carry a parade of golden, dark-eyed heads that bees mob all summer and goldfinches strip for seed in fall.",
+  "size": "3–8 ft × 1–3 ft",
+  "sun": "Full sun",
+  "water": "Low to moderate; drought-tolerant once established",
+  "spread": "Self-sows freely into drifts; not invasive",
+  "seasons": "Golden dark-centered heads Jul–Oct; seed-packed heads ripen and feed birds into fall; killed by hard frost",
+  "wildlife": "Pollinator and bird magnet — native bees, honey bees and butterflies on the bloom; seeds are prime forage for goldfinches and other songbirds",
+  "deer": "Not notably deer-resistant; young plants may be browsed, mature stalks usually left",
+  "toxic": "Not toxic to people; seeds are eaten — note hulls/foliage can be a mild digestive irritant to pets in quantity",
+  "winter": false,
+  "verified": "2026-06-06",
+  "care": {
+    "hardiness": "Grown as a warm-season annual — the wild common sunflower completes its whole life cycle in one season and is killed by the first hard frost, so winter hardiness is not a concern on the Front Range.[1][3]",
+    "planting": "Direct-sow outdoors where it is to grow after the danger of frost has passed and the soil has warmed — roughly mid-to-late May in Boulder. It taproots and resents transplanting, so sow in place. In containers use a deep, wide pot (at least 12 in) for the giant single-stem types and water daily in summer heat and wind; branching wild types are lankier and better in the ground. As an annual, pot plants finish at the first hard frost with no overwintering.[1][2]",
+    "sun": "Full sun — 6+ hours gives the sturdiest stems and the most heads. Heads of young plants track the sun (heliotropism) before settling to face east; in too little light plants stretch and flower poorly.[1]",
+    "soil": "Tolerates a wide range, including Boulder's heavy alkaline clay and lean sandy ground; it favors dry, disturbed soil and only needs reasonable drainage. No pH amendment is needed for our alkaline soil. Note the species is mildly allelopathic, so give nearby seedlings room.[1]",
+    "water": "Low to moderate. Keep the seedbed evenly moist until plants are a few inches tall, then water deeply but infrequently — it is drought-tolerant once the taproot is down. Avoid constant wet soil. Tall heads need a little extra water while the seed fills in late summer heat.[1]",
+    "spacing": "Space branching wild types about 18–24 in apart and tall single-head selections 12–18 in apart; sow in generous drifts for the best pollinator draw and screening effect.[1]",
+    "sow": "Sow seed about ¾–1 in deep into firm, weed-free soil after the last frost; thin seedlings to spacing once they have a few true leaves. Successive sowings two to three weeks apart extend the bloom and seed season into fall.[1]",
+    "depth": "Plant seed roughly ¾–1 in deep; cover and tamp, and keep moist until germination, which takes about 7–10 days in warm soil.[1]",
+    "bloom": "July through October on the Front Range — a long season of golden, dark-centered heads, heaviest in mid-to-late summer; wild plants branch and carry many heads in succession rather than one giant terminal head.[1][3]",
+    "feeding": "Little to none. Rich feeding produces lush, floppy growth at the expense of strong stems; lean soil keeps plants self-supporting. A single light topdress of compost at planting is plenty.[1]",
+    "maintenance": "Essentially none. Stake the tallest single-stem types in windy, exposed sites. Deadhead early heads to prolong flowering, but leave the late heads to ripen seed for goldfinches and self-sowing.[1]",
+    "selfsow": "A prolific self-sower on open, disturbed ground — leave a few heads to ripen and it returns yearly in drifts. It is the wild native annual, abundant but not a CO-listed noxious weed; pull unwanted spring volunteers while young.[1][3]",
+    "troubles": "Generally trouble-free here. Watch for aphids, sunflower beetles, and the odd caterpillar; powdery mildew and rust appear on crowded, shaded plants. Squirrels and birds raid ripening heads — bag a head in mesh if you want to save seed. Good airflow and full sun keep it clean.[1]",
+    "harvest": "For your own seed, let heads dry on the plant until the back turns yellow-brown and the seeds loosen; cut, finish-drying indoors under cover, then rub the seeds free. Roast cleaned seeds for snacking or leave whole heads out as winter bird feeders.[1][4]",
+    "companions": "Native bunchgrasses (little bluestem), blanketflower, Rocky Mountain bee plant, and other full-sun, lean-soil prairie plants that share its low-water needs; keep it clear of small seedlings that its allelopathy can suppress.[2]"
+  },
+  "edible": {
+    "level": "edible",
+    "food": true,
+    "card": "Seeds, roasted",
+    "summary": "The ripe seeds are edible and nutritious — roasted as a snack or pressed for oil — and the wild sunflower is a long-documented Native American food and oilseed crop.[1][4]",
+    "parts": "The mature seeds (kernels) are the food part, eaten roasted and salted, ground into meal, or pressed for oil; the wild species is the ancestor of the cultivated oilseed and confection sunflowers. Unopened flower buds and young shoots have also been eaten cooked, though they are minor and bitter compared with the seed.[1][4]",
+    "preparation": "Let heads ripen fully, then dry, thresh, and clean the seeds. Roast in or out of the hull for snacking, or hull and grind for meal; the kernels are also pressed for cooking oil. Rinse and roast lightly to improve flavor and digestibility.[4]",
+    "caution": "The seed kernels are the safe food part. Eating large amounts of the fibrous hulls is not recommended for people and can cause digestive upset, and the hulls and foliage may irritate pets' digestion if eaten in quantity. As with any wild plant, be certain of identification before eating, and don't harvest seed from roadsides or sprayed ground where it may carry herbicide or contaminants.[1][4]"
+  },
+  "references": [
+    {
+      "name": "Lady Bird Johnson Wildflower Center — Helianthus annuus (Common sunflower)",
+      "url": "https://www.wildflower.org/plants/result.php?id_plant=HEAN3"
+    },
+    {
+      "name": "CSU Extension — Yard & Garden (Front Range adaptation)",
+      "url": "https://extension.colostate.edu/topic-areas/yard-garden/"
+    },
+    {
+      "name": "USDA Forest Service — Plant of the Week: Common sunflower (Helianthus annuus)",
+      "url": "https://www.fs.usda.gov/wildflowers/plant-of-the-week/helianthus_annuus.shtml"
+    },
+    {
+      "name": "USDA NRCS PLANTS Database — Helianthus annuus profile",
+      "url": "https://plants.sc.egov.usda.gov/plant-profile/HEAN3"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      1
+    ],
+    "sun": [
+      1
+    ],
+    "water": [
+      1
+    ],
+    "spread": [
+      1,
+      3
+    ],
+    "seasons": [
+      1,
+      3
+    ],
+    "wildlife": [
+      1,
+      3
+    ],
+    "deer": [
+      1
+    ],
+    "toxic": [
+      1,
+      4
+    ]
+  },
+  "shots": [
+    {
+      "local": "images/su-flower-t.jpg",
+      "full": "images/su-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/46521584/large.jpg",
+      "s": "summer",
+      "cap": "Summer — flower close-up, face-on · © Doug Grinbergs (CC-BY-NC) / iNaturalist",
+      "by": "Doug Grinbergs",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/29797115"
+    },
+    {
+      "local": "images/su-plant-t.jpg",
+      "full": "images/su-plant.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/21349872/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — a whole flowering plant in the field · © Peggy Lyon (CC-BY-NC) / iNaturalist",
+      "by": "Peggy Lyon",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/14363593"
+    },
+    {
+      "local": "images/su-mass-t.jpg",
+      "full": "images/su-mass.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/155746201/large.jpg",
+      "s": "summer",
+      "cap": "Summer — a drift in full bloom · © gailkenny (CC-BY-NC) / iNaturalist",
+      "by": "gailkenny",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/93930270"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/570816094/large.jpg",
+      "s": "summer",
+      "cap": "Summer — the whole plant and its form · © P Holroyd (CC-BY) / iNaturalist",
+      "by": "P Holroyd",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/315954219"
+    },
+    {
+      "local": "images/fa-seedhead-t.jpg",
+      "full": "images/fa-seedhead.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/615892275/large.jpg",
+      "s": "fall",
+      "cap": "Fall — dried seedheads · © Tom Kaye (CC-BY-NC) / iNaturalist",
+      "by": "Tom Kaye",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/338646655"
+    }
+  ]
+}

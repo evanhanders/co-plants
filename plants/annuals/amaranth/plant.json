@@ -1,0 +1,140 @@
+{
+  "common": "Amaranth",
+  "botanical": "Amaranthus caudatus",
+  "type": "Forb",
+  "lifecycle": "Annual",
+  "native": "Non-native",
+  "bloom_season": "Summer",
+  "blurb": "Love-lies-bleeding drapes tall stems in long, drooping ropes of crimson tassels — a dramatic ancient grain crop that doubles as an edible leafy green.",
+  "size": "3–5 ft × 1–2 ft",
+  "sun": "Full sun (tolerates part shade)",
+  "water": "Moderate; drought-tolerant once established, deeper water in heat",
+  "spread": "Single upright annual; self-sows from dropped seed but pulls easily",
+  "seasons": "Drooping crimson flower tassels mid-summer to first frost; bushy upright foliage spring–summer; killed outright by the first hard freeze",
+  "wildlife": "Seeds feed finches and other birds; the dense seedheads provide late-season forage",
+  "deer": "Generally not a deer favorite, but not reliably deer-proof",
+  "toxic": "No part toxic to people; leaves and seeds are edible cooked. Like all amaranths, foliage can concentrate nitrates when grown on heavily fertilized soil",
+  "origin": "Andes / South America (ancient cultigen)",
+  "habitat": "Cultivated fields and disturbed ground; the only amaranth grown above ~2,500 m in the Andes",
+  "winter": false,
+  "verified": "2026-06-06",
+  "care": {
+    "hardiness": "Grown as a warm-season annual across USDA zones 2–11 — it completes its life in a single season and is killed by the first hard frost, so winter hardiness is not a concern on the Front Range.[1]",
+    "planting": "A frost-tender warm-season annual: do not set plants or sow seed outside until after Boulder's average last frost, roughly May 10–15, and the soil has warmed.[3] You can start seed indoors 4–6 weeks before that and harden off, but amaranth grows so fast from direct seed that sowing in place is simplest. In containers use a deep, well-drained pot in full sun; potted plants dry out far faster in Front Range heat and wind, so check moisture daily. There is no overwintering — the plant dies at the first hard freeze.[1][3]",
+    "sun": "Full sun for the sturdiest, most free-flowering plants; it will grow in partial shade (2–6 hours) but stretches and leans.[1]",
+    "soil": "Average, well-drained soil; tolerates lean and dry ground. Good drainage matters more than fertility — overly rich soil produces lush leaves at the expense of strong flower tassels and can concentrate nitrates in the foliage.[1][2]",
+    "water": "Moderate and drought-tolerant once established. Keep the seedbed evenly moist until seedlings are a few inches tall, then water deeply but infrequently; in the hottest part of a Boulder summer a deep soak every week or so keeps it from wilting. It is listed as drought-resistant and tolerates dry spells.[1]",
+    "spacing": "Thin or space plants 12–18 in. apart (up to ~3 ft for the largest plants); each reaches 1–2 ft wide and 3–5 ft tall.[1]",
+    "sow": "Direct-sow in spring after the last frost (mid-May in Boulder) onto firm, weed-free soil, or start indoors a few weeks earlier. Press the tiny seed into the surface and barely cover. Expect flowering about three months after sowing, so sow promptly for a full summer display.[1][3]",
+    "depth": "Sow shallow — the seed is fine and needs light to germinate, so cover with no more than about 1/4 in. of soil and firm gently.[1]",
+    "bloom": "Mid-summer into fall, with the trailing crimson tassels persisting until the first frost.[1]",
+    "feeding": "Little to none. Skip rich feeding — excess nitrogen makes plants floppy, delays flowering, and increases nitrate accumulation in the leaves; lean soil gives the best plant.[2]",
+    "maintenance": "Low. Tall plants in windy, exposed Front Range sites may need staking. Leave a few seedheads if you want to harvest grain or feed birds; otherwise cut and compost spent plants after frost.[1]",
+    "selfsow": "Self-sows from dropped seed and can return as volunteers, but the seedlings are easy to recognize and pull. This ornamental/grain species is not weedy in the way the wild pigweeds are; thin unwanted spring volunteers.[1]",
+    "harvest": "For grain, cut whole seedheads when they feel dry and rub or shake out the small pale seeds over a sheet; winnow the chaff and store cool and dry. Young leaves can be picked through the growing season for cooked greens.[1][2]",
+    "propagation": "Seed only — this annual cannot be divided or rooted from cuttings. Collect ripe seed from dried heads in late summer/fall and sow the following spring after frost.[1]"
+  },
+  "edible": {
+    "level": "edible",
+    "food": true,
+    "card": "Grain & young leaves, cooked",
+    "summary": "Both the grain (seed) and the young leaves are edible — Amaranthus caudatus (kiwicha) is an ancient Andean pseudocereal — but the leaves should be cooked, not eaten raw in quantity.[2][4]",
+    "parts": "The small seeds are a gluten-free pseudocereal high in protein and lysine; they are ground into flour, popped like tiny popcorn, or cooked as a cereal, and in Mexico popped seeds are bound with honey into the sweet alegría.[4] The young, tender leaves are eaten as a cooked leafy green, mild and spinach-like.[2]",
+    "preparation": "Cook the leaves — boil or sauté them like spinach (they soften quickly and shouldn't be overcooked). Toast or pop the seeds before eating, or grind them to flour; the raw seed is not eaten as-is.[2][4]",
+    "caution": "Like all amaranths, the leaves can accumulate oxalates and, when the plant is grown on heavily fertilized (nitrogen-rich) soil, nitrates — so eat leaves cooked and in moderation and avoid leaves from plants pushed with synthetic fertilizer; those with kidney/oxalate concerns should limit them.[2] Be sure of your plant: this is the cultivated grain/ornamental amaranth, not a wild pigweed (do not confuse it with the noxious Palmer amaranth, Amaranthus palmeri, a Colorado-listed weed). No part of A. caudatus is reported poisonous to people.[2][4]"
+  },
+  "references": [
+    {
+      "name": "NC State Extension Gardener Plant Toolbox — Amaranthus caudatus (Love-Lies-Bleeding)",
+      "url": "https://plants.ces.ncsu.edu/plants/amaranthus-caudatus/"
+    },
+    {
+      "name": "Plants For A Future (PFAF) — Amaranthus caudatus (edible uses, nitrate/oxalate cautions)",
+      "url": "https://pfaf.org/user/Plant.aspx?LatinName=Amaranthus+caudatus"
+    },
+    {
+      "name": "PlantTalk Colorado (CSU Extension) — Annuals (Front Range planting timing)",
+      "url": "https://planttalk.colostate.edu/topics/annuals-perennials/1005-annuals/"
+    },
+    {
+      "name": "Wikipedia — Amaranthus caudatus (kiwicha): Andean origin, grain & leaf use",
+      "url": "https://en.wikipedia.org/wiki/Amaranthus_caudatus"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      1
+    ],
+    "sun": [
+      1
+    ],
+    "water": [
+      1
+    ],
+    "spread": [
+      1
+    ],
+    "seasons": [
+      1
+    ],
+    "wildlife": [
+      1
+    ],
+    "deer": [
+      1
+    ],
+    "toxic": [
+      2,
+      4
+    ],
+    "origin": [
+      1,
+      4
+    ],
+    "habitat": [
+      4
+    ]
+  },
+  "shots": [
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/39885081/large.jpg",
+      "s": "summer",
+      "cap": "Summer — the whole plant and its form · © Andrés Ramírez-Barrera (CC-BY) / iNaturalist",
+      "by": "Andrés Ramírez-Barrera",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/25729840"
+    },
+    {
+      "local": "images/su-bloommass-t.jpg",
+      "full": "images/su-bloommass.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/560869447/large.jpg",
+      "s": "summer",
+      "cap": "Summer — a mass of bloom · © joe_md (CC-BY-NC) / iNaturalist",
+      "by": "joe_md",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/310742807"
+    },
+    {
+      "local": "images/su-flower-t.jpg",
+      "full": "images/su-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/238171945/large.jpg",
+      "s": "summer",
+      "cap": "Summer — flower close-up, face-on · © Claude Kolwelter (CC-BY) / iNaturalist",
+      "by": "Claude Kolwelter",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/139269213"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/332914875/large.jpg",
+      "s": "summer",
+      "cap": "Summer — foliage detail · © hl12 (CC-BY-NC) / iNaturalist",
+      "by": "hl12",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/189968952"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+[
+  {
+    "file": "images/su-flower.jpg",
+    "photo_id": 56778078,
+    "by": "Mike",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/35961762",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      1248
+    ],
+    "thumb_px": [
+      400,
+      356
+    ]
+  },
+  {
+    "file": "images/su-clumpfoliage.jpg",
+    "photo_id": 72569317,
+    "by": "Vik Dunis",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/45756546",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      640,
+      427
+    ],
+    "thumb_px": [
+      400,
+      267
+    ]
+  },
+  {
+    "file": "images/su-bloommass.jpg",
+    "photo_id": 96565172,
+    "by": "Max Campbell",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/observations/60390962",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      800,
+      600
+    ],
+    "thumb_px": [
+      400,
+      300
+    ]
+  }
+]

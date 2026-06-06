@@ -1,0 +1,123 @@
+{
+  "common": "Strawflower",
+  "botanical": "Xerochrysum bracteatum",
+  "type": "Forb",
+  "lifecycle": "Annual",
+  "native": "Non-native",
+  "bloom_season": "Summer",
+  "blurb": "Strawflower opens stiff, papery 'everlasting' bracts in hot golds, oranges, reds, and pinks that feel crisp to the touch and dry perfectly for winter arrangements.",
+  "size": "1–3 ft × 6 in–1.5 ft",
+  "sun": "Full sun (tolerates part shade)",
+  "water": "Low; drought-tolerant once established",
+  "spread": "Upright clump; does not run, may self-sow lightly",
+  "seasons": "Papery daisy-like flowerheads from early summer to first frost; gray-green foliage spring–summer; frost-tender, killed by the first hard freeze",
+  "wildlife": "Open flowers attract butterflies and bees; seedheads draw small birds",
+  "deer": "Deer-resistant",
+  "toxic": "No known toxicity and no known edible use — grown ornamentally and for dried flowers",
+  "origin": "Australia",
+  "habitat": "Open grassland and open woodland across much of Australia",
+  "winter": false,
+  "verified": "2026-06-06",
+  "care": {
+    "hardiness": "Hardy only in USDA zones 8–10, where it can persist as a short-lived tender perennial; on the Front Range it is grown as a warm-season annual and is killed by the first hard frost.[1]",
+    "planting": "A frost-tender annual: plant out or sow only after Boulder's average last frost (about May 10–15) and once the soil has warmed.[2] Start seed indoors 4–6 weeks earlier and harden off for the earliest bloom, or direct-sow once it's warm. It is heat- and drought-tolerant and well suited to hot, sunny Front Range beds. In containers use a sunny, sharply drained pot; potted plants dry faster in our heat and wind, so water more often. No overwintering outdoors — it dies at frost.[1][2]",
+    "sun": "Full sun for the most flowers and sturdiest stems; it tolerates partial shade (2–6 hours) but blooms less.[1]",
+    "soil": "Average, well-drained loam; easily grown in average to dry soils and tolerant of pH from acidic to alkaline, so Boulder's alkaline clay is fine with improved drainage. It dislikes wet feet.[1]",
+    "water": "Low — drought-tolerant once established. Keep seedlings moist, then water deeply but infrequently; it is happiest on the dry side and resents soggy soil.[1]",
+    "spacing": "Space plants about 9–18 in. apart depending on the cultivar (dwarf types ~12 in., tall cut-flower types wider); each forms an upright clump 1–3 ft tall.[1]",
+    "sow": "Start seed indoors 4–6 weeks before the last frost or direct-sow after frost (mid-to-late May in Boulder). The seed needs light to germinate, so press it onto the surface and leave it barely covered.[1][2]",
+    "depth": "Surface-sow — barely cover the seed (no more than a sprinkle of fine soil) since light aids germination; keep evenly moist and warm until it sprouts.[1]",
+    "bloom": "From early summer until frost — a long season of papery bracted flowerheads in yellow, orange, red, pink, and white.[1]",
+    "feeding": "Light feeding is plenty; this is a low-maintenance plant that performs well on lean, dry soil and does not need heavy fertilizing.[1]",
+    "maintenance": "Low-maintenance. Deadhead to keep new flowers coming; taller selections may need staking in windy, exposed spots. Pull and compost after frost.[1]",
+    "selfsow": "May self-sow lightly in open, warm ground, but Front Range frost limits volunteers and seedlings are easy to thin; it forms a clump and does not run.[1]",
+    "harvest": "For 'everlasting' dried flowers, cut stems just as the bracts begin to open (they keep opening as they dry), strip the leaves, bundle loosely, and hang upside down in a dark, airy place — the bracts hold their shape and color for months.[1]",
+    "propagation": "Grown from seed (started indoors or direct-sown); stems can also be rooted from cuttings. Save seed from spent heads in fall and sow the next spring after frost.[1]"
+  },
+  "edible": {
+    "level": "inedible",
+    "food": false,
+    "summary": "Strawflower is an ornamental grown for its papery 'everlasting' flowers — there is no documented edible use, and it is not eaten.[1]",
+    "caution": "Xerochrysum bracteatum is cultivated purely for its dried and cut flowers and has no known culinary use; it is not reported as a food plant, so do not eat any part of it. It is not, however, listed as notably poisonous to people or pets — it simply has no edible use. As with any non-food plant, keep flowers and foliage out of reach of small children and pets, and don't substitute it for an edible look-alike daisy.[1]"
+  },
+  "references": [
+    {
+      "name": "NC State Extension Gardener Plant Toolbox — Xerochrysum bracteatum (Strawflower)",
+      "url": "https://plants.ces.ncsu.edu/plants/xerochrysum-bracteatum/"
+    },
+    {
+      "name": "PlantTalk Colorado (CSU Extension) — Annuals (Front Range planting timing)",
+      "url": "https://planttalk.colostate.edu/topics/annuals-perennials/1005-annuals/"
+    },
+    {
+      "name": "Wikipedia — Xerochrysum bracteatum (strawflower / golden everlasting): Australian origin, habitat",
+      "url": "https://en.wikipedia.org/wiki/Xerochrysum_bracteatum"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      1
+    ],
+    "sun": [
+      1
+    ],
+    "water": [
+      1
+    ],
+    "spread": [
+      1
+    ],
+    "seasons": [
+      1
+    ],
+    "wildlife": [
+      1
+    ],
+    "deer": [
+      1
+    ],
+    "toxic": [
+      1
+    ],
+    "origin": [
+      1,
+      3
+    ],
+    "habitat": [
+      1,
+      3
+    ]
+  },
+  "shots": [
+    {
+      "local": "images/su-flower-t.jpg",
+      "full": "images/su-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/56778078/large.jpg",
+      "s": "summer",
+      "cap": "Summer — flower close-up, face-on · © Mike (CC-BY-NC) / iNaturalist",
+      "by": "Mike",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/35961762"
+    },
+    {
+      "local": "images/su-clumpfoliage-t.jpg",
+      "full": "images/su-clumpfoliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/72569317/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — a flowering clump with readable foliage · © Vik Dunis (CC-BY-NC) / iNaturalist",
+      "by": "Vik Dunis",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/45756546"
+    },
+    {
+      "local": "images/su-bloommass-t.jpg",
+      "full": "images/su-bloommass.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/96565172/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — a mass of bloom · © Max Campbell (CC-BY) / iNaturalist",
+      "by": "Max Campbell",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/60390962"
+    }
+  ]
+}

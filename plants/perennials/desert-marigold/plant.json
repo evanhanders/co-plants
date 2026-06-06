@@ -1,0 +1,118 @@
+{
+  "common": "Desert marigold",
+  "botanical": "Baileya multiradiata",
+  "type": "Forb",
+  "lifecycle": "Perennial",
+  "native": "Non-native",
+  "bloom_season": "Summer",
+  "blurb": "A woolly silver-leaved mound that throws up long-stemmed, brilliant lemon-yellow daisies for months on end in the hottest, driest, leanest ground.",
+  "size": "1–1.5 ft × 1–1.5 ft",
+  "sun": "Full sun",
+  "water": "Very low; xeric once established — overwatering kills it",
+  "spread": "Short-lived; self-sows to perpetuate itself; clumping, non-aggressive",
+  "seasons": "Lemon-yellow daisies over silver foliage spring through fall; papery seedheads follow; foliage shabby in cold winters",
+  "wildlife": "Long-season nectar/pollen for native bees and butterflies; special value to native bees",
+  "deer": "Generally deer-resistant — woolly, bitter, toxic foliage is avoided by browsers and livestock",
+  "toxic": "Toxic to livestock — foliage poisons sheep and goats (and cattle); not a human food plant",
+  "origin": "Southwestern U.S. deserts (AZ, NM, TX, N. Mexico)",
+  "habitat": "Desert flats, washes, gravelly slopes & roadsides",
+  "winter": false,
+  "verified": "2026-06-06",
+  "care": {
+    "hardiness": "A Southwestern-desert native (a short-lived perennial or biennial that often behaves as an annual) hardy to roughly USDA zone 5–6; in Boulder it survives mild winters but is most reliable treated as a self-sowing short-lived perennial that renews itself from seed. Sharp drainage is the key to overwintering it here — wet winter clay is far more likely to kill it than cold.[1][2]",
+    "planting": "Plant in spring after the last frost (mid-May in Boulder) into hot, lean, sharply drained ground — a gravel bed, rock garden, hot slope, or south wall is ideal. Work grit into Boulder's clay or plant on a raised, gritty mound; it rots in heavy wet soil. In containers use a fast-draining cactus/gritty mix in a terracotta pot, water sparingly, and expect to treat it as an annual or reseed it, since pot roots are far less cold-hardy.[1][2]",
+    "sun": "Full sun, the more the better — this is a high-light desert plant that wants blazing exposure and reflected heat; in shade it stretches, flops, and barely blooms.[1]",
+    "soil": "Poor, lean, sandy or gravelly, sharply drained soil; it tolerates caliche and a range of textures but not rich, moist, or waterlogged ground. Boulder's alkaline pH is no problem; the fix it needs is drainage, not fertility.[1]",
+    "water": "Very low. Water lightly to establish, then leave it to xeric conditions — it thrives on roughly desert rainfall and resents irrigation. Overwatering, and wet soil in winter, are the main causes of death; do not give it supplemental summer water once established.[1]",
+    "spacing": "Space plants about 12–18 in apart; each makes a low mound and they fill in and reseed to form loose colonies.[1]",
+    "propagation": "By seed — the practical way to keep it going. It self-sows readily from its papery seedheads; collect ripe seed and sow in fall or early spring on the surface of lean, gritty soil (it needs light and warmth to germinate). It does not divide well, being short-lived and taprooted, so rely on seed and volunteers.[1][2]",
+    "bloom": "Spring through fall on the Front Range — an exceptionally long season of bright lemon-yellow daisies on slender stems above the silver mound, peaking in the heat of summer and rebounding after rain.[1]",
+    "feeding": "None. Fertilizer and rich soil produce soft, floppy, short-lived plants; lean, unfed ground keeps it compact and free-flowering.[1]",
+    "maintenance": "Very low. Shear off spent flower stems to tidy it and prolong bloom, but leave some seedheads late in the season so it can reseed. Cut back winter-shabby foliage in early spring. Expect to let it self-sow rather than nurse old plants for years.[1][2]",
+    "selfsow": "Self-sows freely from its papery seedheads — the normal way a 'planting' persists, since individual plants are short-lived. Volunteers appear in open, gritty ground; thin or move them as wanted. It is not a CO-listed weed and is easy to pull.[1]",
+    "troubles": "Few pests; the killer is wet feet. Root and crown rot from overwatering or heavy wet soil is the main failure — site it dry and gritty. The woolly, bitter, toxic foliage keeps deer, rabbits, and most insects off.[1][2]"
+  },
+  "edible": {
+    "level": "toxic",
+    "food": false,
+    "summary": "Desert marigold is not a food plant and is toxic to grazing livestock — its foliage poisons sheep and goats (and cattle) and it has no edible use for people.[1][2]",
+    "caution": "Do not eat any part of this plant, and be aware it is a documented livestock-poisoning plant on Southwestern rangeland: the foliage is toxic to sheep and goats (and cattle), causing illness when grazed, especially where other forage is scarce. The woolly, bitter leaves are normally avoided by animals, but hungry stock can be poisoned. It has no traditional or documented human food use. Keep it away from grazing animals; if livestock or pet poisoning is suspected, contact a veterinarian or ASPCA Animal Poison Control (888-426-4435).[1][2]"
+  },
+  "references": [
+    {
+      "name": "Lady Bird Johnson Wildflower Center — Baileya multiradiata (Desert marigold)",
+      "url": "https://www.wildflower.org/plants/result.php?id_plant=BAMU"
+    },
+    {
+      "name": "USDA NRCS PLANTS Database — Baileya multiradiata profile",
+      "url": "https://plants.sc.egov.usda.gov/plant-profile/BAMU"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      1
+    ],
+    "sun": [
+      1
+    ],
+    "water": [
+      1
+    ],
+    "spread": [
+      1
+    ],
+    "seasons": [
+      1
+    ],
+    "wildlife": [
+      1
+    ],
+    "deer": [
+      1
+    ],
+    "toxic": [
+      1,
+      2
+    ],
+    "origin": [
+      1,
+      2
+    ],
+    "habitat": [
+      1,
+      2
+    ]
+  },
+  "shots": [
+    {
+      "local": "images/sp-foliagehabit-t.jpg",
+      "full": "images/sp-foliagehabit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/165874705/large.jpg",
+      "s": "spring",
+      "cap": "Spring — woolly silver foliage with flowers on bare stalks · © Steve Matson (CC-BY) / iNaturalist",
+      "by": "Steve Matson",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/99497825"
+    },
+    {
+      "local": "images/sp-flower-t.jpg",
+      "full": "images/sp-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/617095697/large.jpg",
+      "s": "spring",
+      "cap": "Spring — flower close-up, face-on · © Ryan (CC-BY-NC) / iNaturalist",
+      "by": "Ryan",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/339246547"
+    },
+    {
+      "local": "images/sp-clump-t.jpg",
+      "full": "images/sp-clump.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/282821104/large.jpg",
+      "s": "spring",
+      "cap": "Spring — a flowering clump · © Melanie J. Davis (CC-BY) / iNaturalist",
+      "by": "Melanie J. Davis",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/163516128"
+    }
+  ]
+}

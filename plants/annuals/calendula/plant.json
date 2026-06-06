@@ -1,0 +1,139 @@
+{
+  "common": "Calendula",
+  "botanical": "Calendula officinalis",
+  "type": "Forb",
+  "lifecycle": "Annual",
+  "native": "Non-native",
+  "bloom_season": "Summer",
+  "blurb": "The true edible 'pot marigold' — cheerful yellow-to-orange daisies on aromatic stems that bloom hardest in cool spring and fall, sulking only in midsummer heat.",
+  "size": "1–2 ft × 1–2 ft",
+  "sun": "Full sun to part afternoon shade",
+  "water": "Moderate; keep evenly moist, dislikes drought and heat",
+  "spread": "Clumping; reseeds readily into the garden",
+  "seasons": "Yellow-to-orange daisies in cool spring and again in fall, pausing in peak heat; aromatic foliage spring–fall; killed by hard frost",
+  "wildlife": "Open daisy form is an easy landing pad for bees, hoverflies, and butterflies; a long-season nectar plant that often blooms into late fall",
+  "deer": "Deer- and rabbit-resistant — the resinous, scented foliage is usually left alone",
+  "toxic": "Non-toxic — listed as safe around dogs and cats, and the petals are a traditional edible",
+  "origin": "Southern Europe (Mediterranean), original wild range uncertain",
+  "habitat": "Disturbed, cultivated, and waste ground",
+  "winter": false,
+  "verified": "2026-06-06",
+  "care": {
+    "hardiness": "Grown as a cool-season annual — it tolerates light frost and even mild freezes far better than tender marigolds, but is not reliably perennial here; it completes its season in one year. It blooms best in the cool of spring and fall and slows or stops in the heat of midsummer.[1][3]",
+    "planting": "Plant it early — calendula loves cool weather. Direct-sow in the garden a few weeks before the mid-May last frost (it tolerates light frost), or set out transplants in mid-spring; you can also sow a second crop in late summer for fall bloom. In Boulder's hot, dry midsummer, site it where it gets some afternoon shade to push it through the heat. In containers, use a free-draining mix in a pot with drainage holes; pots dry quickly in Front Range heat and wind, so water daily and consider an afternoon-shaded spot. It finishes at hard frost with no overwintering.[1][2][3]",
+    "sun": "Full sun for most of the season, but in hot-summer climates like the Front Range it appreciates some afternoon shade, which prolongs bloom and keeps plants from frying out in July–August.[1][3]",
+    "soil": "Adaptable to clay, loam, or sand; wants average, moderately fertile, well-drained soil. It tolerates a wide pH including Boulder's alkaline clay. Avoid waterlogged ground.[1]",
+    "water": "Moderate and even — keep the soil consistently moist, as calendula performs poorly under drought and in hot, dry conditions. Water at the base to keep foliage dry. It is not a xeric plant; in a dry zone it will stall and look ragged.[1]",
+    "spacing": "Space plants about 8–12 in apart for a full, mounding edging or cutting patch.[1]",
+    "propagation": "Seed only — it cannot be reliably divided or rooted from cuttings. Start indoors 6–8 weeks before the last frost, or direct-sow before the last frost date. Calendula self-sows freely, so an established patch returns from dropped seed; collect the curved, ridged seeds from spent heads to sow where you want them.[1][3]",
+    "depth": "Sow seed about ¼–½ in deep — it germinates better with darkness over the seed — and keep evenly moist until it sprouts in roughly 1–2 weeks.[1]",
+    "bloom": "Cool spring through early summer, pausing in the heat of midsummer, then reblooming through fall until hard frost — a long season on the Front Range, especially with deadheading and a touch of afternoon shade.[1][3]",
+    "feeding": "Light. Average soil and an occasional feed are plenty; rich nitrogen produces leaves at the expense of flowers.[1]",
+    "maintenance": "Deadhead regularly to keep flowers coming and to limit self-sowing; pinch young plants to encourage branching. Shear leggy summer plants back to encourage a fresh fall flush.[1][3]",
+    "selfsow": "Reseeds readily in the garden — welcome volunteers appear the following spring; thin or transplant them while small. It is easy to recognize and pull, and is not weedy or invasive.[1][3]",
+    "troubles": "Susceptible to powdery mildew (especially in crowded, shaded, or humid conditions), slugs and snails on seedlings, aphids, whiteflies, and cucumber mosaic virus. Full sun, good airflow, base watering, and prompt removal of mildewed leaves keep it healthy.[1]",
+    "companions": "A classic kitchen-garden and cutting-bed annual — interplant among vegetables, where its open flowers draw pollinators and aphid predators; pairs well with herbs and other cool-season annuals that share its even-moisture needs.[1]"
+  },
+  "edible": {
+    "level": "edible",
+    "food": true,
+    "card": "Petals (color, garnish)",
+    "summary": "Calendula is the true edible 'pot marigold': the petals are a long-standing culinary ingredient, used fresh or dried for golden color and a mildly bitter, peppery flavor.[1][3]",
+    "parts": "The flower petals (ray florets) are the edible part, pulled from the bitter central base. They add color and a slightly bitter, tangy, peppery note to salads, soups, custards, rice, cookies, herb butters, and vinegars, and dried petals are used as an inexpensive saffron-style coloring ('poor man's saffron'). The flowers and young leaves are edible but somewhat bitter; calendula is also a traditional herbal-tea and skin-salve plant.[1][3]",
+    "preparation": "Use the petals fresh as a garnish or steep/dry them for color; remove them from the green base, which is bitter and resinous. Use plants grown without pesticides. This is the genuinely culinary 'pot marigold' (Calendula officinalis) — distinct from the more bitter, scented Tagetes 'marigolds,' whose petals are also edible but used far more sparingly.[1][3]",
+    "caution": "Calendula is non-toxic and listed as safe around dogs and cats, but a few cautions apply: people with allergies to Asteraceae (daisy-family) plants — ragweed, chamomile, chrysanthemum — may react to it, and it is traditionally avoided during pregnancy as an internal herb. As with any edible flower, use only pesticide-free blooms and eat in reasonable amounts. Do not confuse the edible petals with the whole flower head, whose green parts are unpalatably bitter.[1]"
+  },
+  "references": [
+    {
+      "name": "NC State Extension Gardener Plant Toolbox — Calendula officinalis (Pot Marigold)",
+      "url": "https://plants.ces.ncsu.edu/plants/calendula-officinalis/"
+    },
+    {
+      "name": "CSU Extension — Yard & Garden (Front Range adaptation: frost dates, hot-summer siting)",
+      "url": "https://extension.colostate.edu/topic-areas/yard-garden/"
+    },
+    {
+      "name": "Missouri Botanical Garden Plant Finder — Calendula officinalis",
+      "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=277409"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      1,
+      3
+    ],
+    "sun": [
+      1,
+      3
+    ],
+    "water": [
+      1
+    ],
+    "spread": [
+      1,
+      3
+    ],
+    "seasons": [
+      1,
+      3
+    ],
+    "wildlife": [
+      1
+    ],
+    "deer": [
+      1
+    ],
+    "toxic": [
+      1
+    ],
+    "origin": [
+      1,
+      3
+    ],
+    "habitat": [
+      1
+    ]
+  },
+  "shots": [
+    {
+      "local": "images/su-flower-t.jpg",
+      "full": "images/su-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/276946896/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — flower close-up, face-on · © stallis (CC-BY-NC) / iNaturalist",
+      "by": "stallis",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/160269402"
+    },
+    {
+      "local": "images/su-bloommass-t.jpg",
+      "full": "images/su-bloommass.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/65991127/large.jpg",
+      "s": "summer",
+      "cap": "Summer — a mass of bloom · © Michal Javurek (CC-BY-NC) / iNaturalist",
+      "by": "Michal Javurek",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/41591802"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/337375786/large.jpg",
+      "s": "summer",
+      "cap": "Summer — the whole plant and its form · © georges3 (CC-BY) / iNaturalist",
+      "by": "georges3",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/192211549"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/167721844/large.jpg",
+      "s": "summer",
+      "cap": "Summer — foliage detail · © c3766 (CC-BY-NC) / iNaturalist",
+      "by": "c3766",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/100485120"
+    }
+  ]
+}

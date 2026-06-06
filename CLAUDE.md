@@ -940,6 +940,18 @@ food (no authority documents it as culinary). Photos via `tools/inat_montage.py`
 Turkish cliff sage (*Salvia recognita*). Mojave sage is preferred over Turkish cliff
 sage.
 
+**Ruled out — evaluated and intentionally NOT added (don't re-propose):** plants we
+looked at and decided against, with the reason, so they aren't re-pitched every roster
+pass. Re-add only if the stated reason no longer holds.
+
+- **Ranunculus / Persian buttercup (*Ranunculus asiaticus*)** — too marginal on the Front
+  Range to thrive. It's a cool-season Mediterranean tuber that needs mild winters and cool,
+  dry springs; here it sulks and stalls in the hot, dry May–June heat that arrives just as it
+  should bloom, the tubers are very prone to rot in our soils, and they're not winter-hardy
+  (must be lifted/treated as a fussy cool-season annual). Doable only with fuss and poor
+  reliability, so it fails the "thrives in some capacity" bar. (Note: weedy *Ranunculus
+  repens*, creeping buttercup, is a separate avoid-entirely.)
+
 ## Open work
 
 The current backlog. Move items out of this section as they ship.

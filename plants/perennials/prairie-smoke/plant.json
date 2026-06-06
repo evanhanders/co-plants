@@ -1,0 +1,112 @@
+{
+  "common": "Prairie smoke",
+  "botanical": "Geum triflorum",
+  "type": "Forb",
+  "lifecycle": "Perennial",
+  "native": "CO native",
+  "flower_color": [
+    "pink",
+    "red"
+  ],
+  "bloom": [
+    "spring"
+  ],
+  "bloom_season": "Spring",
+  "blurb": "One of spring's quirkiest natives — nodding dusky-pink urn-shaped flowers give way to spectacular feathery, smoke-pink seedhead plumes over a low fern-leaved mat.",
+  "size": "~6–12 in tall × 12 in wide",
+  "sun": "Full sun to part shade",
+  "water": "Low to moderate; xeric once established",
+  "spread": "Clumping; slowly spreads by rhizome",
+  "seasons": "Nodding pink flowers in spring, then smoky feathered seedheads; semi-evergreen ferny foliage",
+  "wildlife": "Early native bees",
+  "deer": "Deer resistant",
+  "toxic": "",
+  "winter": false,
+  "verified": "2026-06-06",
+  "shots": [
+    {
+      "local": "images/sp-flower-t.jpg",
+      "full": "images/sp-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/253291343/large.jpeg",
+      "s": "spring",
+      "cap": "Spring — nodding flowers · © FrontRangeWildflowers (CC-BY-NC) / iNaturalist · © FrontRangeWildflowers (CC-BY-NC) / iNaturalist",
+      "by": "FrontRangeWildflowers",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/147222479"
+    },
+    {
+      "local": "images/su-seedhead-t.jpg",
+      "full": "images/su-seedhead.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/292117007/large.jpg",
+      "s": "summer",
+      "cap": "Summer — smoky seedhead plumes · © Ralph F Brueggemann (CC-BY-NC) / iNaturalist · © Ralph F Brueggemann (CC-BY-NC) / iNaturalist",
+      "by": "Ralph F Brueggemann",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/168548507"
+    },
+    {
+      "local": "images/sp-foliage-t.jpg",
+      "full": "images/sp-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/139742907/large.jpg",
+      "s": "spring",
+      "cap": "Spring — ferny foliage · © Andrew Gaier (CC-BY-NC) / iNaturalist · © Andrew Gaier (CC-BY-NC) / iNaturalist",
+      "by": "Andrew Gaier",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/84979829"
+    }
+  ],
+  "care": {
+    "hardiness": "Exceptionally cold-hardy, rated USDA zones 3–7, so it handles Boulder's zone 5b–6a winters easily; the limit here is summer heat and wet, not cold.[2]",
+    "planting": "Plant in spring after the mid-May last frost, or early fall, in sharp-draining soil. In pots use a gritty alpine-style mix and keep it on the dry side, especially over winter — it is intolerant of wet winter conditions and rots in poorly drained ground.[2]",
+    "sun": "Full sun in our climate (it accepts part shade in hotter regions), with good air circulation. The early spring bloom and feathery seed plumes color best in sun.[1][2]",
+    "soil": "Lean, dry to medium, well-drained soil, near-neutral but adaptable; it grows on thin soil over limestone as well as clay and sand. On Boulder clay, plant high and add grit for drainage.[1][2]",
+    "water": "Low to moderate; drought-tolerant once established but intolerant of wet, especially in winter. Avoid soggy sites where root rot sets in.[2]",
+    "spacing": "Space about 9–12 inches apart; it slowly spreads by rhizomes into a low groundcover clump.[1][2]",
+    "propagation": "Grown from seed or by division. Seed germinates without pretreatment, though cold stratification raises the germination rate. Because it spreads by rhizomes, mature clumps divide well — take rhizome cuttings or divisions in late summer or early spring.[1][2]",
+    "sow": "Sow seed in late spring/early summer when ripe; no pretreatment is strictly necessary but stratification improves germination.[1]",
+    "stratify": "Cold-moist stratification is optional but increases the germination rate.[1]",
+    "bloom": "Among the earliest perennials — nodding reddish-pink to purple bells in spring (roughly April–June), followed by the smoky, feathery seed plumes that give it its name.[1][2]",
+    "maintenance": "Low; let the ornamental seed plumes stand, and divide every few years to renew. Mainly needs sharp drainage to thrive.[2]",
+    "troubles": "Root rot in poorly drained or wet-winter soils is the chief problem; otherwise trouble-free.[2]"
+  },
+  "references": [
+    {
+      "name": "Lady Bird Johnson Wildflower Center — Geum triflorum",
+      "url": "https://www.wildflower.org/plants/result.php?id_plant=GETR"
+    },
+    {
+      "name": "Missouri Botanical Garden Plant Finder — Geum triflorum",
+      "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=286420"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      1,
+      2
+    ],
+    "sun": [
+      1,
+      2
+    ],
+    "water": [
+      2
+    ],
+    "spread": [
+      1,
+      2
+    ],
+    "seasons": [
+      1,
+      2
+    ],
+    "wildlife": [
+      1
+    ]
+  },
+  "edible": {
+    "level": "inedible",
+    "food": false,
+    "summary": "No culinary use; only a traditional medicinal root tea is documented, so it is treated as inedible.[2]",
+    "caution": "Native peoples once boiled the roots for a medicinal tea, but no part has documented food use — this is a medicinal/ethnobotanical use, not a food, so don't eat it. Not notably poisonous, but not a forage plant.[2]"
+  }
+}

@@ -42,6 +42,9 @@
   "edible": {
     "level": "edible",
     "food": true,
+    "kinds": [
+      "leaves"
+    ],
     "card": "Fragrant leaves flavor sugar, jelly & baking",
     "summary": "The fragrant leaves of the culinary scented types (rose, lemon) are used as a flavoring — to infuse sugar, jellies, baked goods, beverages, and teas — not eaten as a leafy green.[1][3]",
     "parts": "Only the aromatic leaves of the named culinary scented geraniums (rose geranium, Pelargonium graveolens, and lemon-scented kin) are used in the kitchen, and used as a flavoring rather than as bulk food. Rose geranium is recognized as safe as a food flavoring (FEMA GRAS).[1][3]",

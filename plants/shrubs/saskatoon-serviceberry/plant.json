@@ -72,6 +72,9 @@
   "edible": {
     "level": "edible",
     "food": true,
+    "kinds": [
+      "fruit"
+    ],
     "card": "Ripe blue-purple fruit (fresh, baked, dried)",
     "summary": "The ripe blue-purple pomes are a choice wild edible — sweet, blueberry-like with a hint of almond — eaten fresh or baked; the seeds, leaves, and twigs are not food.[1][3]",
     "parts": "The edible part is the ripe pome — the soft, sweet, blue-purple to nearly black fruit that ripens June–July. It's often compared to blueberry but with a slight apple flavor, and is high in iron, potassium, and manganese. Indigenous peoples ate the fruit fresh, dried it like raisins, and pounded it into pemmican; it's classic pie, jelly, syrup, and muffin fruit. The leaves, twigs, bark, and seeds are not eaten as food.[1][2][3]",

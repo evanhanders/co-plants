@@ -41,6 +41,9 @@
   "edible": {
     "level": "caution",
     "food": true,
+    "kinds": [
+      "fruit"
+    ],
     "card": "Sweet blue plums — fresh, dried, canned",
     "summary": "The ripe blue plum flesh is sweet and excellent eaten fresh, dried into prunes, or canned — but the pits, leaves, and twigs are cyanogenic and must never be eaten.[5][3]",
     "parts": "Only the ripe fruit flesh is food. 'Stanley' is a classic freestone prune plum: deep blue-purple drupes whose flesh is sweet and meaty, eaten fresh or dried into prunes.[5][3] The single seed (pit) inside each plum, along with the leaves and twigs, is not food.[4][5]",

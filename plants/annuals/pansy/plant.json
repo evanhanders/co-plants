@@ -46,6 +46,9 @@
   "edible": {
     "level": "edible",
     "food": true,
+    "kinds": [
+      "flowers"
+    ],
     "card": "Flowers (edible garnish)",
     "summary": "Pansy flowers are edible and widely used as a culinary garnish — eaten raw, candied, used on cakes, or floated in drinks; the flavour is mild and grassy.[1][3]",
     "parts": "The flowers are the edible part. They can be eaten whole — petals and all — or separated into individual petals. The flavour is mild and slightly grassy; some darker-coloured varieties have a mildly stronger taste. The leaves and stems are not typically used as food.[1][3]",

@@ -83,6 +83,10 @@
   "edible": {
     "level": "edible",
     "food": true,
+    "kinds": [
+      "leaves",
+      "roots"
+    ],
     "card": "Young leaves & roots (bitter)",
     "summary": "The young leaves and the roots of red valerian are edible (leaves raw or boiled, roots in soups), but they are bitter, of minor culinary value, and must not be confused with the unrelated medicinal valerian.[2]",
     "parts": "The leaves and the roots are the edible parts. The young leaves can be eaten raw in salads or lightly boiled as a cooked green, and the roots have been used to flavor soups. This is a minor, historical pot-herb use rather than a staple food — the leaves are noticeably bitter, so they are usually used sparingly and young.[2]",

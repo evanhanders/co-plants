@@ -113,6 +113,9 @@
   "edible": {
     "level": "caution",
     "food": true,
+    "kinds": [
+      "fruit"
+    ],
     "card": "Tart pie cherries — pies, jam, juice",
     "summary": "The ripe cherry flesh is edible — Montmorency is the classic pie/jam/juice cherry, usually cooked and sweetened — but the pit inside each cherry, plus the leaves and twigs, are cyanogenic and must not be eaten.[1][3]",
     "parts": "Only the ripe fruit flesh is food. Montmorency cherries are bright red and mouth-puckeringly tart, the standard cherry for pies, preserves, jam, juice, and drying.[1] The stone (pit) inside each cherry, the leaves, and the twigs are not food and should never be eaten.[3]",

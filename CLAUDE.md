@@ -230,10 +230,16 @@ is **NOT** the grouping. A file can live in `plants/perennials/` yet be a `Groun
   tinted). For **`toxic`/`inedible`** plants the renderer shows **only the banner + `caution`** (the
   "no part is edible / no prep makes it safe" cells are noise next to a DO-NOT-EAT banner), so those
   two levels need just `summary` + `caution`. Add **`food: true`** when the plant has a part people
-  actually eat — that flag (not `level`) drives the grid's **Edible** trait badge/filter, so set it
-  on the `edible` plants and the genuinely-edible `caution` ones (chokecherry, Oregon grape, Wood's
-  rose, kinnikinnick, blue flax, columbine, dahlia, yarrow), but NOT the "don't eat" cautions.
-  When `food:true`, also add **`card`** — a *short, citation-free* phrase naming the edible part(s)
+  actually eat — set it on the `edible` plants and the genuinely-edible `caution` ones (chokecherry,
+  Oregon grape, Wood's rose, kinnikinnick, blue flax, columbine, dahlia, yarrow), but NOT the
+  "don't eat" cautions.
+  When `food:true`, also add **`kinds`** — a JSON array naming which **parts** are eaten, from a fixed
+  set: `fruit, flowers, leaves, stems, seeds, roots` (multiple where several parts are eaten; rose =
+  `["fruit","flowers"]` = hips + petals; dahlia = `["roots","flowers"]` = tubers + petals; bulbs →
+  `roots`). This is the data behind the **Edibility** filter group + the granular card/sheet badges
+  (`fruit`/`eflower`/`eleaf`/`estem`/`eseed`/`eroot` predicates in `reel.js`'s `TRAITS`); the two
+  toxicity facets are derived from `level` (`caution` → **Toxic parts**, `toxic` → **Fully toxic**),
+  so no extra field. Also add **`card`** — a *short, citation-free* phrase naming the edible part(s)
   (e.g. `"Ripe fruit, cooked (jelly, syrup)"`); the encyclopedia grid renders it as a green **Edible**
   row in the card's facts list (the grid is uncited, so keep `card` free of `[n]` markers — the cited
   detail goes in `summary`/`parts`). All prose carries inline `[n]` markers into `references`. Source
@@ -308,47 +314,54 @@ requirements & sourcing" below for the per-plant photo spec.)
 `app.js`. Each group is `{ key, label, mode, opts:[{v,label,test(p)}] }`; current groups are
 **Form** (morphology), **Flower colour** (from `flower_color`), **Bloom** (from `bloom`),
 **Lifecycle** (`lifecycle` tag), **Sun** (derived from the `sun` field by `sunOf()`), **Water**
-(derived from the `water` directive by `waterOf()`), **Origin** (`isNative`), and **Traits**
-(the `TRAITS` map) — plus the free-text search. **`mode:'or'`** = a plant matches *any* selected
-chip in the group; **`mode:'and'`** = it must match *all* (only Traits is `and`, so Winter AND
-Edible composes). Two UX behaviours fall out of one renderer (`renderFilters()`), recomputed on
-every `render()`:
+(derived from the `water` directive by `waterOf()`), **Origin** (`isNative`), **Traits** (Winter/
+Pollinator/Spreads) and **Edibility** — plus the free-text search. **`mode:'or'`** = a plant matches
+*any* selected chip in the group; **`mode:'and'`** = it must match *all* (only Traits is `and`, so
+Winter AND Pollinator composes; Edibility is `or`). Two UX behaviours fall out of one renderer
+(`renderFilters()`), recomputed on every `render()`:
 - **Selected chips jump to the front of their group** (active-first sort), the rest keep natural order.
 - **Faceted counts:** each chip shows how many plants remain given the **other** groups' active
   filters **and** the search (its own group is excluded from its base via `passesFilters(p, exceptKey)`).
   A chip whose count drops to 0 (and isn't active) is dimmed + disabled (`.chip.off`).
 
+**Edibility** is its own granular group: **Fruit · Edible flowers · Edible leaves · Edible stems ·
+Edible seeds · Edible roots** (from each plant's `edible.kinds`) plus **Toxic parts** (`level ===
+'caution'`) and **Fully toxic** (`level === 'toxic'`). The same predicates drive the granular **card
++ sheet badges** (`flagsHTML` in `reel.js` iterates `FLAG_ORDER`): green ❧ part badges, an amber
+⚠ Toxic-parts badge, and a red ☠ Fully-toxic badge — so e.g. chokecherry reads `❧ Fruit` + `⚠ Toxic
+parts`. (The coarse old `Edible`/`Toxic` traits were replaced by these.)
+
+**Collapsible on mobile.** A `#filterToggle` button (hidden on desktop, shown ≤560px) collapses the
+whole `#filters` bar; tapping toggles `.filters.open` + its `aria-expanded`, and its count chip
+(`#ftCount`) shows the number of active filter selections so applied filters are visible while collapsed.
+
 Add a filter dimension by adding one entry to `GROUPS` (and, if it reads new data, populating that
 field on the plants); the delegated click handler, faceted counts, selected-first ordering, URL-hash
-round-trip and Clear-all all work off the group automatically. The **`Edible`** trait flags plants
-with a genuine edible part — its predicate is the explicit `edible.food === true` marker (NOT the
-`edible.level`), so a "partly edible" plant like chokecherry (fruit edible, rest toxic) carries
-*both* the Edible and Toxic badges, while a `caution`/`inedible` plant that's really "don't eat"
-(california poppy, peony, red-twig dogwood) is left untagged. Set `edible.food:true` on a plant when
-it has a part people actually eat. The legend always reads "Showing N of M plants" and shows a **Clear
-all** button when anything is active. Each group's selection is mirrored into the **URL hash** under
-its `key` (`#view=…&type=…&color=…&bloom=…&life=…&sun=…&water=…&nat=…&trait=…&q=…`) via
+round-trip and Clear-all all work off the group automatically. The legend always reads "Showing N of M
+plants" and shows a **Clear all** button when anything is active. Each group's selection is mirrored
+into the **URL hash** under its `key`
+(`#view=…&type=…&color=…&bloom=…&life=…&sun=…&water=…&nat=…&trait=…&edible=…&q=…`) via
 `syncHash()`/`applyHash()`, so filtered views are shareable and survive a reload.
 
 ### Adding a trait
 
-A "trait" is a single boolean fact about a plant (Winter / Pollinator / Spreads / Edible / Toxic)
-that shows as a **card+sheet badge** *and* a **filter chip with a count** — both driven off one
-predicate so they can't drift. To add one (e.g. `Fragrant`):
+A "trait" is a single boolean fact about a plant (Winter / Pollinator / Spreads, plus the granular
+Edibility facets) that shows as a **card+sheet badge** *and* a **filter chip with a count** — both
+driven off one predicate so they can't drift. To add one (e.g. `Fragrant`):
 
 1. **Add one entry to the `TRAITS` map in `reel.js`** — `key:{ label, icon, test:function(p){…} }`.
    The `test(p)` predicate is the whole definition of who qualifies; base it on existing data
    (regex a field, e.g. `/fragran|scent/i.test(p.blurb||'')`) or on an explicit per-plant marker
-   (like the `Edible` trait's `edible.food === true`). Prefer an explicit marker when "who
+   (like the edibility facets' `edible.kinds`/`edible.level`). Prefer an explicit marker when "who
    qualifies" is a judgment call rather than something cleanly derivable from a field.
-2. **Push the badge in `flagsHTML` (`reel.js`)** —
-   `if(TRAITS.key.test(p)) flags.push('<span class="flag CLASS">ICON Label</span>');` (the map's
-   `test` is the gate; the badge text/icon lives here).
+2. **Wire the badge in `reel.js`** — add the key to **`FLAG_ORDER`** (render order) and **`FLAG_CLASS`**
+   (its `.flag.CLASS`); `flagsHTML` iterates those and emits `<span class="flag CLASS">ICON Label</span>`
+   from the map's `icon`/`label`. No per-trait `if` to add.
 3. **Add a `.flag.CLASS` colour rule in `styles.css`** next to the other `.flag.*` rules.
-4. **That's it for wiring.** `app.js` never hard-codes trait names: the `trait` group in `GROUPS`
-   iterates `Object.keys(TRAITS)` (auto-building the chips with faceted counts), `passesFilters()`
-   tests `TRAITS[t].test(p)`, and the `trait=` URL-hash round-trip + Clear-all already cover any key
-   in the map.
+4. **Add the key to the right group in `GROUPS` (`app.js`)** — `trait` (Winter/Pollinator/Spreads,
+   `mode:'and'`) or `edible` (the Edibility facets, `mode:'or'`); each group lists its keys explicitly
+   and maps them to `TRAITS`. `passesFilters()` tests `TRAITS[t].test(p)`, and the per-group URL-hash
+   round-trip + faceted counts + Clear-all then cover it automatically.
 5. **If the predicate reads a new data field, populate it** on the qualifying `plant.json`s (and
    document the field in the "`plant.json` schema" list). Then sanity-check the count.
 

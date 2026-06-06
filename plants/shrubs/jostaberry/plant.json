@@ -77,6 +77,9 @@
   "edible": {
     "level": "edible",
     "food": true,
+    "kinds": [
+      "fruit"
+    ],
     "card": "Ripe berries (fresh, jam, pies)",
     "summary": "The large reddish-black-to-black berries are fully edible — eaten fresh when ripe or, more often, cooked into preserves, pies, and juice.[1][2]",
     "parts": "The berries are the edible part. Ripe (fully colored, soft) jostaberries are tart-sweet with a black-currant-and-gooseberry flavor and can be eaten fresh out of hand; under-ripe fruit is quite tart and is better cooked. They make excellent jams, jellies, chutneys, pies, crumbles, juice, and liqueur. No other part of the plant is eaten.[1][2]",

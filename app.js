@@ -62,7 +62,8 @@ const GROUPS=[
 {key:'sun',  label:'Sun',   mode:'or', opts:['Full sun','Part shade','Shade'].map(function(k){ return {v:k,label:k,test:function(p){return sunOf(p).indexOf(k)>-1;}}; })},
 {key:'water',label:'Water', mode:'or', opts:['Low','Moderate','High'].map(function(k){ return {v:k,label:k,test:function(p){return waterOf(p).indexOf(k)>-1;}}; })},
 {key:'nat',  label:'Origin',mode:'or', opts:[{v:'native',label:'Native',test:function(p){return isNative(p);}},{v:'intro',label:'Introduced',test:function(p){return !isNative(p);}}]},
-{key:'trait',label:'Traits',mode:'and', cls:'trait', opts:Object.keys(TRAITS).map(function(k){ return {v:k,label:TRAITS[k].label,icon:TRAITS[k].icon,test:TRAITS[k].test}; })}
+{key:'trait',label:'Traits',mode:'and', cls:'trait', opts:['winter','pollin','spreads'].map(function(k){ return {v:k,label:TRAITS[k].label,icon:TRAITS[k].icon,test:TRAITS[k].test}; })},
+{key:'edible',label:'Edibility',mode:'or', cls:'ed', opts:['fruit','eflower','eleaf','estem','eseed','eroot','toxparts','fulltox'].map(function(k){ return {v:k,label:TRAITS[k].label,icon:TRAITS[k].icon,test:TRAITS[k].test}; })}
 ];
 const GMAP={}; GROUPS.forEach(function(g){ g.sel=new Set(); g.byv={}; g.opts.forEach(function(o){ g.byv[o.v]=o; }); GMAP[g.key]=g; });
 function anyFilter(){ return GROUPS.some(function(g){ return g.sel.size>0; }); }
@@ -146,6 +147,7 @@ const total=all.length;
 const list=all.filter(function(p){ return passesFilters(p) && matchesQuery(p,q); });
 document.getElementById('count').textContent = total;
 renderFilters(all, q);
+updateFilterToggle();
 const filtering = q || anyFilter();
 const showingEl=document.getElementById('showing');
 if(showingEl) showingEl.textContent = filtering ? ('Showing '+list.length+' of '+total+' plants') : ('Showing all '+total+' plants');
@@ -187,6 +189,10 @@ render();
 /* clear everything: search + every filter group */
 function clearAllFilters(){ searchEl.value=''; GROUPS.forEach(function(g){ g.sel.clear(); }); render(); }
 { const cf=document.getElementById('clearFilters'); if(cf) cf.onclick=clearAllFilters; }
+/* mobile: a "Filters" toggle collapses/expands the whole filter bar */
+{ const ft=document.getElementById('filterToggle'), fb=document.getElementById('filters');
+if(ft && fb) ft.addEventListener('click', function(){ const open=!fb.classList.contains('open'); fb.classList.toggle('open', open); ft.setAttribute('aria-expanded', open?'true':'false'); }); }
+function updateFilterToggle(){ const n=GROUPS.reduce(function(a,g){ return a+g.sel.size; },0); const c=document.getElementById('ftCount'); if(c){ c.textContent=n; c.hidden=(n===0); } }
 /* ---------- shareable URL state (hash) ---------- */
 function syncHash(){
 const parts=[];

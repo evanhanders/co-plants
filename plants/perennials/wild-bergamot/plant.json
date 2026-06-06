@@ -75,6 +75,10 @@
   "edible": {
     "level": "edible",
     "food": true,
+    "kinds": [
+      "leaves",
+      "flowers"
+    ],
     "card": "Leaves & flowers — tea & seasoning",
     "summary": "The aromatic leaves and flowers are a well-documented edible — used fresh or dried as a thyme-scented seasoning and as a mint-family tea — with a long Native American food and beverage history.[4][5]",
     "parts": "The leaves and the showy lavender flowers are the edible parts. Both are sharply aromatic (the active compound is thymol, the oregano/thyme-scented oil), so they are used as a culinary herb and to brew an herbal tea — the plant is also called 'bee balm' or 'Oswego tea.' Native American records document wild bergamot used as a food flavoring, a cooked-food seasoning, and a beverage by many tribes; the roots and woody stems are not used as food.[4][5]",

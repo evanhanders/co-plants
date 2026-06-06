@@ -40,6 +40,10 @@
   "edible": {
     "level": "edible",
     "food": true,
+    "kinds": [
+      "leaves",
+      "flowers"
+    ],
     "card": "Leaves (culinary herb)",
     "summary": "One of the most widely used culinary herbs: the fresh or dried leaves flavour roasted meat, bread, soups, and vegetables; the flowers are milder and can be used as a garnish.[1][3]",
     "parts": "The fresh or dried needle-like leaves are the primary culinary part — harvest young stem tips for the best flavour. The small pale-blue flowers are also edible and carry a milder rosemary flavour; they can be sprinkled over salads, pasta, or savoury dishes as a garnish.[3][2]",

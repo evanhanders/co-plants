@@ -46,6 +46,9 @@
   "edible": {
     "level": "edible",
     "food": true,
+    "kinds": [
+      "flowers"
+    ],
     "card": "Petals (garnish)",
     "summary": "Cornflower petals are a long-standing edible garnish — mild, faintly sweet-to-spicy, and prized for their vivid true-blue color on salads, cakes, and as a dried tea/confetti.[1][3]",
     "parts": "The flower petals (ray and disk florets) are the edible part, pulled from the bitter green base. They are used fresh to scatter brilliant blue color over salads, desserts, and drinks, and dried as a colorful component of herbal-tea blends (a signature ingredient of Earl Grey-style blends). The flavor is mild — faintly clove-like to slightly bitter — so they are valued more for color than taste.[1][3]",

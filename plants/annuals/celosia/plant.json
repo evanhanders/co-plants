@@ -46,6 +46,10 @@
   "edible": {
     "level": "caution",
     "food": true,
+    "kinds": [
+      "leaves",
+      "stems"
+    ],
     "card": "Young leaves & shoots, cooked",
     "summary": "The young leaves and shoots of Celosia argentea are eaten cooked as a leafy vegetable — 'Lagos spinach' (soko) across West Africa — but garden cultivars are bred for show, not the table, and the greens are eaten cooked, not raw.[2][4]",
     "parts": "The young leaves and tender shoots are the food part: an important, nutritious cooked vegetable used in soups and stews in West Africa and Southeast Asia, mild and spinach-like with no bitterness when cooked. An edible oil can be pressed from the seed.[2][4]",

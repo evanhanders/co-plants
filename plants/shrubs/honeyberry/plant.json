@@ -78,6 +78,9 @@
   "edible": {
     "level": "edible",
     "food": true,
+    "kinds": [
+      "fruit"
+    ],
     "card": "Ripe blue berries (fresh, jam, pies)",
     "summary": "The elongated blue berries are fully edible and excellent — a sweet-tart fruit eaten fresh or cooked, described as a cross between blueberry, raspberry, and black currant.[1][2]",
     "parts": "The blue, oblong berries are the edible part — there is no toxic part on this honeysuckle. Ripe fruit is sweet-tart with a flavor likened to a blend of blueberry, raspberry, and black currant, and is unusually high in vitamin C (higher than blueberry or raspberry). Eat them fresh or use them in pies, jams, jellies, juices, sauces, ice cream, and wine.[1][2]",

@@ -83,6 +83,10 @@
   "edible": {
     "level": "caution",
     "food": true,
+    "kinds": [
+      "roots",
+      "flowers"
+    ],
     "card": "Tubers, cooked, & petals",
     "summary": "Dahlia tubers were historically a food (eaten by the Aztecs) and the petals are an edible garnish — but flavor and quality are highly variable, the plant is toxic to pets, and the sap can irritate skin, so it is a caution-level edible rather than a reliable vegetable.[3]",
     "parts": "Two parts have a food history: the tubers, which the Aztecs cultivated and ate and which can be cooked (texture compared to water chestnut or jicama, flavor ranging from sweet to bitter and inconsistent between cultivars), and the petals, which are non-toxic to people and used fresh as a colorful garnish on salads and desserts. The leaves and stems are not eaten and are toxic to pets.[3]",

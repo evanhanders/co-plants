@@ -72,6 +72,9 @@
   "edible": {
     "level": "caution",
     "food": true,
+    "kinds": [
+      "fruit"
+    ],
     "card": "Ripe fruit, cooked (jelly, syrup, wine)",
     "summary": "The ripe fruit flesh is edible — almost always cooked into jelly, syrup, juice, or wine — but the leaves, twigs, bark, and the seed pit inside each cherry are poisonous and must not be eaten.[1]",
     "parts": "Only the ripe fruit flesh (mesocarp) is edible. Chokecherries are a longstanding food across the Front Range and Great Plains — used for preserves, jelly, syrup, juice, and wine, and historically pounded whole and dried into pemmican by Native peoples. The leaves, twigs, bark, and especially the stone (seed pit) inside each cherry are not food.[1]",

@@ -41,6 +41,10 @@
   "edible": {
     "level": "caution",
     "food": true,
+    "kinds": [
+      "roots",
+      "leaves"
+    ],
     "card": "Bulbs & leaves, like onion",
     "summary": "The bulbs and leaves are edible and used like a mild onion or chive — but ONLY eat plants that smell strongly of onion, because the deadly death-camas grows in the same meadows and looks similar.[3][4]",
     "parts": "The small bulbs and the grassy leaves are the edible parts, with a mild oniony flavor; they are eaten raw in small amounts or cooked as a seasoning, and the plant is a documented Native American food and seasoning. Use it as you would a chive or scallion.[3]",

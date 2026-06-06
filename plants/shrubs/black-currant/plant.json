@@ -81,6 +81,10 @@
   "edible": {
     "level": "edible",
     "food": true,
+    "kinds": [
+      "fruit",
+      "leaves"
+    ],
     "card": "Ripe black berries (jam, cordial, baking)",
     "summary": "The aromatic black berries are edible and prized — sharp and musky fresh, superb cooked into jam, cordial, syrup, and pie; the leaves are also used for tea, and no part is poisonous.[1][2]",
     "parts": "The fruit is the part eaten: matte-black berries in pendant clusters, ripening June–July, with an intense, musky, distinctive flavor. They are very high in vitamin C and pectin. Fresh they are sharp and aromatic; cooked they make exceptional jam, jelly, cordial, syrup, sauce, and pie filling. The young leaves are sometimes brewed as a herbal tea. No part of the plant is poisonous.[1][2]",

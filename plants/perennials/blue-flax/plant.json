@@ -73,6 +73,9 @@
   "edible": {
     "level": "caution",
     "food": true,
+    "kinds": [
+      "seeds"
+    ],
     "card": "Seeds — only cooked or roasted",
     "summary": "The ripe seeds are edible and nutritious like commercial flax — but only after cooking/roasting, because raw seeds and the foliage contain cyanogenic glycosides that release cyanide; eat in moderation.[4][5]",
     "parts": "The small ripe seeds are the food part — like cultivated flax (Linum usitatissimum) they are rich in oil and were a documented Native American food, parched and ground into meal or added to other foods. The blue flowers, fine leaves, and stems are not eaten as food.[4][5]",

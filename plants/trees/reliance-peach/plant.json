@@ -149,6 +149,9 @@
   "edible": {
     "level": "caution",
     "food": true,
+    "kinds": [
+      "fruit"
+    ],
     "card": "Sweet freestone peaches, fresh",
     "summary": "The ripe peach flesh is delicious eaten fresh or cooked, but the stone (pit), seeds, leaves, and twigs are cyanogenic and must not be eaten.[2][3]",
     "parts": "Only the ripe fruit flesh is food — 'Reliance' is a freestone, so the sweet yellow, red-blushed flesh lifts cleanly off the central stone for fresh eating, canning, freezing, pies, and preserves.[1][2] The hard stone (pit) it surrounds, the seed inside that stone, and the tree's leaves and twigs are not food.[2]",

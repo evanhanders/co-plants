@@ -43,6 +43,9 @@
   "edible": {
     "level": "edible",
     "food": true,
+    "kinds": [
+      "seeds"
+    ],
     "card": "Seeds, roasted",
     "summary": "The ripe seeds are edible and nutritious — roasted as a snack or pressed for oil — and the wild sunflower is a long-documented Native American food and oilseed crop.[1][4]",
     "parts": "The mature seeds (kernels) are the food part, eaten roasted and salted, ground into meal, or pressed for oil; the wild species is the ancestor of the cultivated oilseed and confection sunflowers. Unopened flower buds and young shoots have also been eaten cooked, though they are minor and bitter compared with the seed.[1][4]",

@@ -80,6 +80,9 @@
   "edible": {
     "level": "edible",
     "food": true,
+    "kinds": [
+      "flowers"
+    ],
     "card": "Flowers — the classic tea",
     "summary": "German chamomile is the classic edible/medicinal chamomile — the dried flowerheads make the familiar apple-scented tea — with one caveat: people allergic to ragweed and other daisy-family plants can react to it.[1]",
     "parts": "The flowerheads are the part used — dried and steeped for chamomile tea, and also used as a garnish and in culinary and craft preparations. This is the true tea chamomile (Matricaria chamomilla). The foliage is aromatic but it is the flowers that are harvested; there is no use of the roots.[1]",

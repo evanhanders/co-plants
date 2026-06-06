@@ -108,14 +108,27 @@ setActive(0);
 
 /* ---------- trait predicates + badges (shared by grid cards and the detail sheet) ---------- */
 function isNative(p){ return /(^|\s)native\b/i.test(p.native||'') && (p.native||'').toLowerCase().indexOf('non-native')===-1; }
-/* derived trait predicates — shared by the badges and the trait filter */
+/* derived trait predicates — shared by the badges (flagsHTML) and the filter groups.
+   Edibility is granular: one predicate per edible part (from edible.kinds) plus
+   Toxic parts (level 'caution' — some part poisonous) vs Fully toxic (level 'toxic'). */
+function edKinds(p){ return (p.edible && p.edible.kinds) || []; }
+function edLevel(p){ return (p.edible && p.edible.level) || ''; }
 const TRAITS = {
 winter:{ label:'Winter', icon:'❄', test:function(p){ return !!p.winter; } },
 pollin:{ label:'Pollinator', icon:'✿', test:function(p){ return /bee|pollinat|butterfl|host|hummingbird/i.test(p.wildlife||''); } },
 spreads:{ label:'Spreads', icon:'↔', test:function(p){ return /run|rhizom|sucker|thicket|mat-form/i.test(p.spread||''); } },
-toxic:{ label:'Toxic', icon:'⚠', test:function(p){ return !!p.toxic; } },
-edible:{ label:'Edible', icon:'❧', test:function(p){ return !!(p.edible && p.edible.food); } }
+fruit:{ label:'Fruit', icon:'❧', test:function(p){ return edKinds(p).indexOf('fruit')>-1; } },
+eflower:{ label:'Edible flowers', icon:'❧', test:function(p){ return edKinds(p).indexOf('flowers')>-1; } },
+eleaf:{ label:'Edible leaves', icon:'❧', test:function(p){ return edKinds(p).indexOf('leaves')>-1; } },
+estem:{ label:'Edible stems', icon:'❧', test:function(p){ return edKinds(p).indexOf('stems')>-1; } },
+eseed:{ label:'Edible seeds', icon:'❧', test:function(p){ return edKinds(p).indexOf('seeds')>-1; } },
+eroot:{ label:'Edible roots', icon:'❧', test:function(p){ return edKinds(p).indexOf('roots')>-1; } },
+toxparts:{ label:'Toxic parts', icon:'⚠', test:function(p){ return edLevel(p)==='caution'; } },
+fulltox:{ label:'Fully toxic', icon:'☠', test:function(p){ return edLevel(p)==='toxic'; } }
 };
+/* badge CSS class + render order (lifecycle is prepended separately) */
+const FLAG_CLASS={ winter:'winter', pollin:'pollin', spreads:'run', fruit:'edible', eflower:'edible', eleaf:'edible', estem:'edible', eseed:'edible', eroot:'edible', toxparts:'toxparts', fulltox:'toxic' };
+const FLAG_ORDER=['winter','pollin','spreads','fruit','eflower','eleaf','estem','eseed','eroot','toxparts','fulltox'];
 function natBadge(p, cls){
 return (p.native && p.native.indexOf('native')>-1 && p.native!=='Non-native')
 ? '<span class="'+cls+'">'+(p.native||'')+'</span>' : '<span class="'+cls+' intro">'+(p.native||'Vetted')+'</span>';
@@ -124,11 +137,7 @@ return (p.native && p.native.indexOf('native')>-1 && p.native!=='Non-native')
 function flagsHTML(p){
 const flags=[];
 if(p.lifecycle) flags.push('<span class="flag life">'+p.lifecycle+'</span>');
-if(TRAITS.winter.test(p)) flags.push('<span class="flag winter">❄ Winter interest</span>');
-if(TRAITS.pollin.test(p)) flags.push('<span class="flag pollin">✿ Pollinator</span>');
-if(TRAITS.spreads.test(p)) flags.push('<span class="flag run">↔ Spreads</span>');
-if(TRAITS.edible.test(p)) flags.push('<span class="flag edible">❧ Edible parts</span>');
-if(TRAITS.toxic.test(p)) flags.push('<span class="flag toxic">⚠ Toxic parts</span>');
+FLAG_ORDER.forEach(function(k){ if(TRAITS[k].test(p)) flags.push('<span class="flag '+FLAG_CLASS[k]+'">'+TRAITS[k].icon+' '+TRAITS[k].label+'</span>'); });
 return flags.join('');
 }
 

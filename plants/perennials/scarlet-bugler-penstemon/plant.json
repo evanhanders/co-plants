@@ -1,0 +1,59 @@
+{
+  "collection": "penstemons",
+  "common": "Scarlet bugler penstemon",
+  "botanical": "Penstemon barbatus",
+  "type": "Forb",
+  "lifecycle": "Perennial",
+  "native": "CO native",
+  "flower_color": [
+    "red"
+  ],
+  "bloom": [
+    "summer",
+    "fall"
+  ],
+  "bloom_season": "Summer",
+  "blurb": "Tall, airy wands of brilliant scarlet tubular flowers from early summer into fall — a hummingbird favorite that shrugs off heat and drought on the lean Front Range.",
+  "size": "~2–3 ft tall × 1–2 ft wide (flower stalks to 4 ft)",
+  "sun": "Full sun",
+  "water": "Low; xeric once established",
+  "spread": "Clumping; reseeds",
+  "seasons": "Scarlet tubular flowers early summer–fall; narrow blue-green foliage; tan seed stalks in winter",
+  "wildlife": "Premier hummingbird plant; also native bees",
+  "deer": "Deer resistant",
+  "toxic": "",
+  "winter": false,
+  "verified": "2026-06-06",
+  "shots": [
+    {
+      "local": "images/su-flower-t.jpg",
+      "full": "images/su-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/402673087/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — scarlet flowers · © Anders Hastings (CC-BY) / iNaturalist · © Anders Hastings (CC-BY) / iNaturalist",
+      "by": "Anders Hastings",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/227014749"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/403811116/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — scarlet wands · © Reid Hardin (CC-BY) / iNaturalist · © Reid Hardin (CC-BY) / iNaturalist",
+      "by": "Reid Hardin",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/227617971"
+    },
+    {
+      "local": "images/sp-foliage-t.jpg",
+      "full": "images/sp-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/406215970/large.jpg",
+      "s": "spring",
+      "cap": "Foliage & habit · © curt_nimz (CC-BY-NC) / iNaturalist · © curt_nimz (CC-BY-NC) / iNaturalist",
+      "by": "curt_nimz",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/228881854"
+    }
+  ]
+}

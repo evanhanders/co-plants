@@ -1,0 +1,59 @@
+{
+  "collection": "penstemons",
+  "common": "Rocky Mountain penstemon",
+  "botanical": "Penstemon strictus",
+  "type": "Forb",
+  "lifecycle": "Perennial",
+  "native": "CO native",
+  "flower_color": [
+    "purple",
+    "blue"
+  ],
+  "bloom": [
+    "summer"
+  ],
+  "bloom_season": "Summer",
+  "blurb": "Colorado's most dependable native penstemon — dense wands of deep blue-violet tubular flowers over glossy strap-shaped leaves, a magnet for native bees and hummingbirds that thrives on lean, dry, unimproved soil.",
+  "size": "~18–30 in tall × 12–18 in wide",
+  "sun": "Full sun (tolerates light afternoon shade)",
+  "water": "Low; xeric once established — no supplemental water in average years",
+  "spread": "Clumping; self-sows modestly",
+  "seasons": "Blue-violet flower spikes late spring–early summer; semi-evergreen basal rosette; dark seed capsules persist into winter",
+  "wildlife": "Major nectar source for native bees and bumblebees; visited by hummingbirds",
+  "deer": "Seldom browsed — deer and rabbit resistant",
+  "toxic": "",
+  "winter": false,
+  "verified": "2026-06-06",
+  "shots": [
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/400885712/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — flowering drift · © Jacquelyn Fitzgerald (CC-BY-NC) / iNaturalist · © Jacquelyn Fitzgerald (CC-BY-NC) / iNaturalist",
+      "by": "Jacquelyn Fitzgerald",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/226067836"
+    },
+    {
+      "local": "images/su-flower-t.jpg",
+      "full": "images/su-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/41776752/large.jpg",
+      "s": "summer",
+      "cap": "Summer — flower close-up · © Bryan Guarente (CC-BY-NC) / iNaturalist · © Bryan Guarente (CC-BY-NC) / iNaturalist",
+      "by": "Bryan Guarente",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/26886939"
+    },
+    {
+      "local": "images/sp-foliage-t.jpg",
+      "full": "images/sp-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/407511786/large.jpg",
+      "s": "spring",
+      "cap": "Foliage & flowering stems · © Erik Danielsen (CC-BY-NC) / iNaturalist · © Erik Danielsen (CC-BY-NC) / iNaturalist",
+      "by": "Erik Danielsen",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/229570992"
+    }
+  ]
+}

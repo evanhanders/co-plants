@@ -1,0 +1,70 @@
+{
+  "collection": "penstemons",
+  "common": "Bluemist penstemon",
+  "botanical": "Penstemon virens",
+  "type": "Forb",
+  "lifecycle": "Perennial",
+  "native": "CO native",
+  "flower_color": [
+    "blue",
+    "purple"
+  ],
+  "bloom": [
+    "spring",
+    "summer"
+  ],
+  "bloom_season": "Summer",
+  "blurb": "A low Front Range foothills native forming neat glossy evergreen rosettes that throw up clouds of small blue-violet flowers in late spring; happy in dry shade and lean granitic soil.",
+  "size": "~8–15 in tall × 12 in wide",
+  "sun": "Full sun to part shade (takes dry shade)",
+  "water": "Low; xeric",
+  "spread": "Clumping evergreen rosettes; self-sows",
+  "seasons": "Clouds of blue-violet flowers late spring–early summer; glossy evergreen basal rosette year-round",
+  "wildlife": "Native bees, bumblebees, and hummingbirds",
+  "deer": "Deer resistant",
+  "toxic": "",
+  "winter": true,
+  "verified": "2026-06-06",
+  "shots": [
+    {
+      "local": "images/su-flower-t.jpg",
+      "full": "images/su-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/458747075/large.jpg",
+      "s": "summer",
+      "cap": "Late spring — flower close-up · © Jared Shorma (CC-BY) / iNaturalist · © Jared Shorma (CC-BY) / iNaturalist",
+      "by": "Jared Shorma",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/255931416"
+    },
+    {
+      "local": "images/su-bloom-t.jpg",
+      "full": "images/su-bloom.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/41500753/large.jpg",
+      "s": "summer",
+      "cap": "Late spring — flowering mass · © dlehle (CC-BY-NC) / iNaturalist · © dlehle (CC-BY-NC) / iNaturalist",
+      "by": "dlehle",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/26717055"
+    },
+    {
+      "local": "images/sp-foliage-t.jpg",
+      "full": "images/sp-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/505444158/large.jpg",
+      "s": "spring",
+      "cap": "Evergreen basal foliage · © curt_nimz (CC-BY-NC) / iNaturalist · © curt_nimz (CC-BY-NC) / iNaturalist",
+      "by": "curt_nimz",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/281377563"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/601523690/large.jpg",
+      "s": "summer",
+      "cap": "Habit — growing on granite · © Elias (CC-BY) / iNaturalist · © Elias (CC-BY) / iNaturalist",
+      "by": "Elias",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/331567616"
+    }
+  ]
+}

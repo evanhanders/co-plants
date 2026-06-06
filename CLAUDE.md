@@ -378,7 +378,12 @@ Every plant records:
 - **Lifecycle** tag (`lifecycle`: perennial / annual / biennial / tender perennial)
 - **Mature size** (Height × Width)
 - **Sun** requirement
-- **Water** requirement
+- **Water** requirement — on the card the `water` field is a short **practical directive**, not
+  a bare class (e.g. *"Low; xeric once established"*, *"Moderate; deep weekly soak in summer"*; for
+  thirsty/riparian plants say it plainly — *"High — moist/wet soil, not for dry zones"*). The
+  detailed version goes in `care.water`. In our semi-arid climate **water demand is a first-class
+  "is it happy here?" check** — audit it and flag the genuine water-hogs (riparian alder, dogwood,
+  twinberry, black currant…) so they don't land in a dry zone.
 - **Spread / habit** (clumping vs. running/self-sowing)
 - **Seasonal appearance** — including **winter** (this guide cares about winter
   interest specifically)
@@ -404,7 +409,10 @@ hosted herbarium. The order matters:
 3. **Source repo-hosted photos** meeting the per-plant spec in "Image requirements &
    sourcing" below (close-up + structure, right species, open-licensed, upright).
 4. **Show the user the image(s) and the blurb in chat for sign-off first.** Don't
-   create the plant file until the visual + blurb are approved.
+   create the plant file until the visual + blurb are approved. Build a **picks-only preview** for
+   the sign-off — download just the *chosen* photos (by iNat photo id; probe S3 for the ext) and
+   tile them captioned, then send with `SendUserFile`. It's far clearer than handing over the full
+   montage, and the act of building + `Read`ing it is where bad picks get caught (see Pick QC below).
 5. **After approval,** create `plants/<category>/<slug>/plant.json` (with a `shots`
    array if you have multiple seasonal photos), add its `"<category>/<slug>"` path to
    `plants/manifest.json`, then commit and push. The `<category>` folder is just a storage
@@ -551,6 +559,24 @@ GBIF for this since iNat's annotations are cleaner; reach for GBIF only when you
    mislabeled observation), upright, and in focus — verify **both** the close-up and the habit
    shot, not just one. Re-pick and re-finalize any that are wrong, weak, or ambiguous before
    committing. (This QC caught the ice-plant + twinberry close-ups in the 16-plant batch.)
+
+**Pick QC — auto-reject (do this on the *picked* shots, not just the montage).** The **parent**, not
+only a sourcing sub-agent, must `Read` the chosen shots and toss any that are: a **pressed/dried
+herbarium specimen**, a **hand-dominated** cut-twig shot (a hand fills the frame), an **indoor / wall
+/ AC-unit** background, a **pavement-crack / litter / weedy** setting (cigarette butts, trash), or
+the subject **lost in grass / a tiny speck**. These slip past taxon-keyword montage sourcing and were
+each caught *only* by eyeballing the picks (a pressed-specimen pussy-willow "habit", hand-held
+foliage twigs, a cigarette-butt alyssum). When re-sourcing, hand the sub-agent this reject list
+explicitly. Sub-agents also mislabel (a distant habitat shot tagged "flower close-up", flowers shown
+from behind) — trust the pixels you `Read`, not the agent's caption.
+
+**Finalizing from bare photo ids.** When picks span several montage passes (whose `shortlist.json`
+gets overwritten), don't fight the scattered files — hand-build finalize's inputs directly from a list
+of `{photo_id, kind, s, by, lic, cap}`: probe `inaturalist-open-data.s3.amazonaws.com/photos/<id>/
+medium.{jpeg,jpg,png}` (HEAD) to learn each `ext`, then emit `shortlist.json` + `picks.json` yourself
+and run `finalize.py`. (CC0/CC-BY/CC-BY-NC are all in the open-data bucket, so this works for every
+license we accept.) **`finalize.py` requires the `plant.json` to already exist** — it only injects
+`shots[]` — so write the (shots-less) record first, then finalize, then `rethumb.py`.
 
 Pillow is required (`pip install Pillow` if missing). The bee-plant add ran this end-to-end.
 
@@ -942,6 +968,13 @@ The current backlog. Move items out of this section as they ship.
 - **Verify every sourced image is the right species** — after finalize+rethumb, `Read` a
   contact-sheet of the final thumbnails (close-up *and* habit) and re-pick anything wrong,
   look-alike, or ambiguous before committing (see "iNat API path" step 5).
+- **`Read` the *picks*, not just the montage** — auto-reject pressed/herbarium specimens,
+  hand-dominated twig shots, wall/indoor backgrounds, pavement/litter settings, and subjects lost in
+  grass; trust the pixels over a sub-agent's caption (see "Pick QC"). Sign off via a picks-only
+  preview sheet (`SendUserFile`).
+- The card `water` field is a short practical **directive** (xeric → "no supplemental water once
+  established"; water-hog → "not for dry zones"), with detail in `care.water`. Treat water demand as
+  a Boulder happiness check, not an afterthought.
 - Weed-check every new plant against CO lists A/B/C + Watch before it goes in.
 - `care` facts are sourced like photos: ground them in a trusted authority, list the real
   sources in `care_src`, then run the citation-honesty + fact-check passes (see "Sourcing

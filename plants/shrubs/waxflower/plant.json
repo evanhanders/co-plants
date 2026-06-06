@@ -1,0 +1,58 @@
+{
+  "common": "Waxflower",
+  "botanical": "Jamesia americana",
+  "type": "Shrub",
+  "lifecycle": "Perennial",
+  "native": "CO native",
+  "flower_color": [
+    "white",
+    "pink"
+  ],
+  "bloom": [
+    "spring",
+    "summer"
+  ],
+  "blurb": "A handsome Front Range foothills native of rocky canyons — clusters of waxy white (sometimes pink) star flowers in early summer over richly veined leaves that turn rose-red in fall.",
+  "size": "~3–5 ft tall × 3–5 ft wide",
+  "sun": "Full sun to part shade",
+  "water": "Low to moderate; xeric once established",
+  "spread": "Clumping, mounded",
+  "seasons": "Waxy white-to-pink flower clusters early summer; deeply veined leaves turning rose-red in fall; shreddy bark in winter",
+  "wildlife": "Native bees and hummingbirds",
+  "deer": "Deer resistant",
+  "toxic": "",
+  "winter": false,
+  "verified": "2026-06-06",
+  "shots": [
+    {
+      "local": "images/su-flower-t.jpg",
+      "full": "images/su-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/27938383/large.jpg",
+      "s": "summer",
+      "cap": "Summer — waxy white flower · © nheilgeist (CC-BY-NC) / iNaturalist · © nheilgeist (CC-BY-NC) / iNaturalist",
+      "by": "nheilgeist",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/18287543"
+    },
+    {
+      "local": "images/su-bloom-t.jpg",
+      "full": "images/su-bloom.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/618874922/large.jpg",
+      "s": "summer",
+      "cap": "Summer — flowering spray · © glswrthy (CC-BY-NC) / iNaturalist · © glswrthy (CC-BY-NC) / iNaturalist",
+      "by": "glswrthy",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/340116853"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/297247976/large.jpg",
+      "s": "summer",
+      "cap": "Summer — whole shrub · © pegshanson (CC-BY-NC) / iNaturalist · © pegshanson (CC-BY-NC) / iNaturalist",
+      "by": "pegshanson",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/171308129"
+    }
+  ]
+}

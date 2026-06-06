@@ -1,0 +1,67 @@
+{
+  "common": "Rabbitbrush",
+  "botanical": "Ericameria nauseosa",
+  "type": "Shrub",
+  "lifecycle": "Perennial",
+  "native": "CO native",
+  "flower_color": [
+    "yellow"
+  ],
+  "bloom": [
+    "summer",
+    "fall"
+  ],
+  "blurb": "A silver-stemmed native shrub that erupts in clouds of golden flowers in fall when little else blooms — a critical late-season pollinator plant, bone-dry tough and deer-proof.",
+  "size": "~2–5 ft tall × 3–5 ft wide",
+  "sun": "Full sun",
+  "water": "Low; xeric — very drought-tolerant",
+  "spread": "Clumping, rounded",
+  "seasons": "Silvery narrow foliage; masses of golden flowers late summer–fall; fluffy tan seedheads into winter",
+  "wildlife": "Critical late-season nectar for bees and butterflies (incl. migrating monarchs); seeds for birds",
+  "deer": "Deer resistant",
+  "toxic": "",
+  "winter": true,
+  "verified": "2026-06-06",
+  "shots": [
+    {
+      "local": "images/fa-habit-t.jpg",
+      "full": "images/fa-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/29728642/large.jpeg",
+      "s": "fall",
+      "cap": "Fall — golden shrub in bloom · © Karen Scopel (CC-BY-NC) / iNaturalist · © Karen Scopel (CC-BY-NC) / iNaturalist",
+      "by": "Karen Scopel",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/19335032"
+    },
+    {
+      "local": "images/fa-flower-t.jpg",
+      "full": "images/fa-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/57961948/large.jpeg",
+      "s": "fall",
+      "cap": "Fall — golden flower close-up · © Judith Ellen Lopez (CC-BY-NC) / iNaturalist · © Judith Ellen Lopez (CC-BY-NC) / iNaturalist",
+      "by": "Judith Ellen Lopez",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/36649880"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/589370620/large.jpg",
+      "s": "summer",
+      "cap": "Summer — silvery foliage · © Scott F Smith (CC-BY-NC) / iNaturalist · © Scott F Smith (CC-BY-NC) / iNaturalist",
+      "by": "Scott F Smith",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/325510390"
+    },
+    {
+      "local": "images/wi-seedhead-t.jpg",
+      "full": "images/wi-seedhead.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/482162230/large.jpg",
+      "s": "winter",
+      "cap": "Winter — fluffy seedheads · © Suzanne Mrozak (CC-BY-NC) / iNaturalist · © Suzanne Mrozak (CC-BY-NC) / iNaturalist",
+      "by": "Suzanne Mrozak",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/268253163"
+    }
+  ]
+}

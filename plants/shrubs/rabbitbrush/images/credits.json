@@ -1,0 +1,70 @@
+[
+  {
+    "file": "images/fa-habit.jpg",
+    "photo_id": 29728642,
+    "by": "Karen Scopel",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/19335032",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      1050
+    ],
+    "thumb_px": [
+      400,
+      300
+    ]
+  },
+  {
+    "file": "images/fa-flower.jpg",
+    "photo_id": 57961948,
+    "by": "Judith Ellen Lopez",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/36649880",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1165,
+      1400
+    ],
+    "thumb_px": [
+      333,
+      400
+    ]
+  },
+  {
+    "file": "images/su-foliage.jpg",
+    "photo_id": 589370620,
+    "by": "Scott F Smith",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/325510390",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1389,
+      1400
+    ],
+    "thumb_px": [
+      397,
+      400
+    ]
+  },
+  {
+    "file": "images/wi-seedhead.jpg",
+    "photo_id": 482162230,
+    "by": "Suzanne Mrozak",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/268253163",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      1050
+    ],
+    "thumb_px": [
+      400,
+      300
+    ]
+  }
+]

@@ -1,0 +1,56 @@
+{
+  "common": "Leadplant",
+  "botanical": "Amorpha canescens",
+  "type": "Shrub",
+  "lifecycle": "Perennial",
+  "native": "CO native",
+  "flower_color": [
+    "purple"
+  ],
+  "bloom": [
+    "summer"
+  ],
+  "blurb": "A refined prairie native with silvery, ferny foliage and spikes of tiny purple flowers lit by orange anthers in early summer — a nitrogen-fixing, deep-rooted legume that thrives on neglect.",
+  "size": "~1.5–3 ft tall × 2–3 ft wide",
+  "sun": "Full sun",
+  "water": "Low; xeric — deep taproot",
+  "spread": "Clumping from a woody taproot",
+  "seasons": "Silvery ferny foliage; purple-and-orange flower spikes early–midsummer; tan seed spikes after",
+  "wildlife": "Native bees and butterflies; larval host for several butterflies and moths",
+  "deer": "Browsed by deer and rabbits (palatable) — may need protection",
+  "toxic": "",
+  "winter": false,
+  "verified": "2026-06-06",
+  "shots": [
+    {
+      "local": "images/su-flower-t.jpg",
+      "full": "images/su-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/394685441/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — purple flower spike · © Tamar (CC-BY-NC) / iNaturalist · © Tamar (CC-BY-NC) / iNaturalist",
+      "by": "Tamar",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/222792167"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/401726530/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — whole plant in bloom · © treehugger92 (CC-BY-NC) / iNaturalist · © treehugger92 (CC-BY-NC) / iNaturalist",
+      "by": "treehugger92",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/226509603"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/198637954/large.jpg",
+      "s": "summer",
+      "cap": "Summer — silvery ferny foliage · © David Martin (CC-BY-NC) / iNaturalist · © David Martin (CC-BY-NC) / iNaturalist",
+      "by": "David Martin",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/117611531"
+    }
+  ]
+}

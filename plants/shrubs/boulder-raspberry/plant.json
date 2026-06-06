@@ -1,0 +1,57 @@
+{
+  "common": "Boulder raspberry",
+  "botanical": "Rubus deliciosus",
+  "type": "Shrub",
+  "lifecycle": "Perennial",
+  "native": "CO native",
+  "flower_color": [
+    "white"
+  ],
+  "bloom": [
+    "spring",
+    "summer"
+  ],
+  "blurb": "Named for Boulder itself — a thornless, arching native shrub hung with big white rose-like flowers in late spring over handsome maple-shaped leaves; tough, shade-tolerant, and a foothills classic.",
+  "size": "~3–5 ft tall × 5–6 ft wide",
+  "sun": "Full sun to part shade",
+  "water": "Low to moderate; xeric once established",
+  "spread": "Clumping, arching; suckers",
+  "seasons": "Large white flowers late spring–early summer; maple-like leaves turning yellow in fall; dry reddish fruit",
+  "wildlife": "Native bees; fruit and cover for birds",
+  "deer": "Browsed but resilient",
+  "toxic": "",
+  "winter": false,
+  "verified": "2026-06-06",
+  "shots": [
+    {
+      "local": "images/sp-flower-t.jpg",
+      "full": "images/sp-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/145691480/large.jpg",
+      "s": "spring",
+      "cap": "Spring — white flower close-up · © Reid Hardin (CC-BY) / iNaturalist · © Reid Hardin (CC-BY) / iNaturalist",
+      "by": "Reid Hardin",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/88311275"
+    },
+    {
+      "local": "images/sp-bloom-t.jpg",
+      "full": "images/sp-bloom.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/131536156/large.jpg",
+      "s": "spring",
+      "cap": "Spring — flowering spray · © Rolf Asphaug (CC-BY-NC) / iNaturalist · © Rolf Asphaug (CC-BY-NC) / iNaturalist",
+      "by": "Rolf Asphaug",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/80262470"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/135866065/large.jpg",
+      "s": "summer",
+      "cap": "Summer — foliage & habit · © curt_nimz (CC-BY-NC) / iNaturalist · © curt_nimz (CC-BY-NC) / iNaturalist",
+      "by": "curt_nimz",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/82766081"
+    }
+  ]
+}

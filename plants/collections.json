@@ -1,0 +1,83 @@
+{
+  "note": "Display metadata for plant collections (cultivar/genus clusters). MEMBERSHIP lives on each plant.json as `collection:\"<id>\"`; this file only names the group, places it in a home section, picks the lead photo, and gives the blurb. See CLAUDE.md › Collections.",
+  "collections": {
+    "apples": {
+      "name": "Apples",
+      "group": "Trees",
+      "lead": "honeycrisp-apple",
+      "blurb": "Cold-hardy apple cultivars (Malus domestica) for the Front Range."
+    },
+    "plums": {
+      "name": "Plums",
+      "group": "Trees",
+      "lead": "toka-plum",
+      "blurb": "Hardy European & hybrid plums (Prunus) for our climate."
+    },
+    "tart-cherries": {
+      "name": "Tart cherries",
+      "group": "Trees",
+      "lead": "montmorency-cherry",
+      "blurb": "Self-fertile sour-cherry cultivars (Prunus cerasus)."
+    },
+    "currants": {
+      "name": "Currants & gooseberries",
+      "group": "Shrubs",
+      "lead": "golden-currant",
+      "blurb": "Ribes and their kin — currants, gooseberry, and the jostaberry hybrid."
+    },
+    "pelargoniums": {
+      "name": "Pelargoniums",
+      "group": "Subshrubs",
+      "lead": "zonal-geranium",
+      "blurb": "Tender 'geraniums' (Pelargonium) — bedding, scented, ivy & regal types."
+    },
+    "wallflowers": {
+      "name": "Wallflowers",
+      "group": "Subshrubs",
+      "lead": "bowles-mauve-wallflower",
+      "blurb": "Erysimum — fragrant cottage-garden wallflowers, perennial & biennial."
+    },
+    "asters": {
+      "name": "Asters",
+      "group": "Fall forbs",
+      "lead": "panicled-aster",
+      "blurb": "Native fall-blooming Symphyotrichum asters."
+    },
+    "irises": {
+      "name": "Irises",
+      "group": "Spring forbs",
+      "lead": "bearded-iris",
+      "blurb": "Bearded, dwarf-bulb and wild-blue-flag irises."
+    },
+    "tulips": {
+      "name": "Tulips",
+      "group": "Spring forbs",
+      "lead": "tulip",
+      "blurb": "Garden hybrid and perennializing species tulips."
+    },
+    "vining-roses": {
+      "name": "Climbing & rambling roses",
+      "group": "Vines",
+      "lead": "climbing-rose",
+      "blurb": "Trained-upright climbers and vigorous ramblers."
+    },
+    "hardy-geraniums": {
+      "name": "Hardy geraniums",
+      "group": "Groundcovers",
+      "lead": "hardy-geranium",
+      "blurb": "True cranesbills (Geranium) — tough, long-blooming mounders."
+    },
+    "crocuses": {
+      "name": "Crocuses",
+      "group": "Spring forbs",
+      "lead": "dutch-crocus",
+      "blurb": "Early snow crocus and big Dutch crocus for the first bees."
+    },
+    "penstemons": {
+      "name": "Penstemons",
+      "group": "Summer forbs",
+      "lead": "pineleaf-penstemon",
+      "blurb": "Beardtongues — Western native and garden penstemons."
+    }
+  }
+}

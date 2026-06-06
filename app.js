@@ -2,6 +2,13 @@
    The photo reel + lightbox engine and trait helpers live in reel.js (loaded first);
    the per-plant detail view is its own standalone page (plant.html / plant.js). */
 let SEED = []; // populated at load by loadSeed() from plants/<cat>/<slug>/plant.json
+/* COLLECTIONS: cultivar/genus clusters (apples, penstemons, …). Membership lives on each
+   plant.json as `collection:"<id>"`; this map (plants/collections.json) only names the group,
+   places its single family card in a home `group` (section), picks the `lead` photo, and gives
+   a blurb. In the type view, a collection with ≥2 visible members collapses into ONE expandable
+   family card; a lone visible member renders as a normal card in its own section. */
+let COLLECTIONS = {};
+const famOpen = new Set(); // collection ids the user has expanded (type view; default collapsed)
 /* Plants are grouped by MORPHOLOGY (growth form); herbaceous "forbs" are split by their
    primary bloom season. Lifecycle (perennial/annual/biennial/tender) is a TAG, not a group. */
 const GROUP_ORDER = ["Trees","Shrubs","Subshrubs","Ornamental grasses","Groundcovers","Vines","Spring forbs","Summer forbs","Fall forbs","Other"];
@@ -87,7 +94,10 @@ function allPlants(){ const map=new Map(); SEED.forEach(function(p){ map.set(p.b
 /* a plant's detail page lives at plant.html?p=<category>/<slug>; only seeded plants
    (which carry a repo dir) have one — user-added localStorage plants don't */
 function slugOf(p){ return p.dir ? p.dir.replace(/^plants\//,'') : null; }
+function slugTail(p){ return p.dir ? p.dir.split('/').pop() : null; } /* "honeycrisp-apple" */
 function detailHref(p){ var s=slugOf(p); return s ? 'plant.html?p='+encodeURIComponent(s).replace(/%2F/g,'/') : null; }
+/* the plant's collection id, but only if that collection is defined in COLLECTIONS */
+function colOf(p){ var c=p&&p.collection; return (c && COLLECTIONS[c]) ? c : null; }
 function cardHTML(p){
 const plate = plateHTML(p);
 const nat = natBadge(p, 'nat');
@@ -112,6 +122,27 @@ return '<article class="card"><div class="plate">'+plate+'<span class="corner">'
 '</div></article>';
 }
 function gridOf(list){ return '<div class="grid">'+list.map(cardHTML).join('')+'</div>'; }
+/* one collapsed/expandable family card standing in for a whole collection. The lead member's
+   photo reel is reused as the cover; the member cards (verbatim cardHTML) nest under it and
+   keep their own detail-page links. Open state spans the full grid width (see styles.css). */
+function familyCardHTML(id, members, open){
+const col = COLLECTIONS[id];
+const lead = members.filter(function(m){ return slugTail(m)===col.lead; })[0] || members[0];
+const plate = plateHTML(lead);
+const n = members.length;
+const names = members.map(function(m){ return m.common; }).join(' · ');
+/* a single native badge only when every member agrees; mixed collections show none */
+const nat = members.every(isNative) ? natBadge(lead,'nat') : '';
+const inner = '<div class="grid">'+members.map(cardHTML).join('')+'</div>';
+return '<article class="card family'+(open?' open':'')+'" data-col="'+id+'">'+
+'<div class="plate">'+plate+'<span class="famcount">'+n+' varieties</span>'+nat+'</div>'+
+'<div class="body"><h3 class="name">'+col.name+'</h3>'+
+'<p class="latin">'+(col.blurb||'')+'</p>'+
+'<p class="fammembers">'+names+'</p>'+
+'<button type="button" class="fam-toggle" data-col="'+id+'" data-n="'+n+'" aria-expanded="'+(open?'true':'false')+'">'+
+(open?'Hide':'Show')+' '+n+' varieties <span class="fchev">▾</span></button>'+
+'</div><div class="members">'+inner+'</div></article>';
+}
 /* ---------- the filter bar: faceted counts + selected-first ordering ---------- */
 function renderFilters(all, q){
 const root=document.getElementById('filters'); if(!root) return;
@@ -157,20 +188,46 @@ if(!list.length){ const why = q ? 'match “'+searchEl.value+'”' : 'fit the cu
 if(view==="alpha"){
 content.innerHTML = gridOf(list);
 } else {
-const buckets={};
-list.forEach(function(p){ const g=groupOf(p); (buckets[g]=buckets[g]||[]).push(p); });
+/* Fold the filtered list into renderable ITEMS bucketed by section. An item is either a
+   single plant or a collection family. A collection with ≥2 visible members becomes ONE
+   family item placed in its home group; a lone visible member falls back to a normal card
+   in its own morphology section, so it never hides behind a pointless wrapper. */
+const colSets={};
+list.forEach(function(p){ const c=colOf(p); if(c){ (colSets[c]=colSets[c]||[]).push(p); } });
+const buckets={}, counts={}; // group -> items[]; group -> plant count (for the header tally)
+function add(g,item,nPlants){ (buckets[g]=buckets[g]||[]).push(item); counts[g]=(counts[g]||0)+nPlants; }
+list.forEach(function(p){ if(colOf(p)) return; const g=groupOf(p); add(g,{key:p.botanical,html:cardHTML(p)},1); });
+const famForceOpen = !!filtering; // a search/filter is on → show what matched, expanded
+Object.keys(colSets).forEach(function(id){
+const members=colSets[id].slice().sort(function(a,b){ return a.botanical.localeCompare(b.botanical,'en',{sensitivity:'base'}); });
+if(members.length===1){ const p=members[0]; add(groupOf(p),{key:p.botanical,html:cardHTML(p)},1); return; }
+const col=COLLECTIONS[id], g=col.group||groupOf(members[0]);
+const lead=members.filter(function(m){ return slugTail(m)===col.lead; })[0]||members[0];
+add(g,{key:lead.botanical,html:familyCardHTML(id,members,famForceOpen||famOpen.has(id))},members.length);
+});
+Object.keys(buckets).forEach(function(g){ buckets[g].sort(function(a,b){ return a.key.localeCompare(b.key,'en',{sensitivity:'base'}); }); });
 let html="";
 GROUP_ORDER.forEach(function(g){
 if(!buckets[g]) return;
 const isC = !q && collapsed.has(g);
 html += '<section class="grp'+(isC?' collapsed':'')+'" data-group="'+g+'">'
-+ '<div class="group-head" data-g="'+g+'"><button class="chev" data-g="'+g+'" aria-expanded="'+(isC?'false':'true')+'" aria-label="'+(isC?'Expand ':'Collapse ')+g+'">▾</button><h2>'+g+'</h2><span class="gc">'+buckets[g].length+'</span><span class="rule"></span></div>'
++ '<div class="group-head" data-g="'+g+'"><button class="chev" data-g="'+g+'" aria-expanded="'+(isC?'false':'true')+'" aria-label="'+(isC?'Expand ':'Collapse ')+g+'">▾</button><h2>'+g+'</h2><span class="gc">'+counts[g]+'</span><span class="rule"></span></div>'
 + (GROUP_DESC[g]?'<p class="group-desc">'+GROUP_DESC[g]+'</p>':'')
-+ gridOf(buckets[g]) + '</section>';
++ '<div class="grid">'+buckets[g].map(function(it){ return it.html; }).join('')+'</div>' + '</section>';
 });
 content.innerHTML = html;
 Array.prototype.forEach.call(content.querySelectorAll('.group-head'), function(h){
 h.onclick=function(){ if(q) return; /* during search everything is force-expanded */ const g=h.dataset.g; const nowC = !collapsed.has(g); if(nowC) collapsed.add(g); else collapsed.delete(g); h.parentElement.classList.toggle('collapsed', nowC); const chev=h.querySelector('.chev'); if(chev){ chev.setAttribute('aria-expanded', nowC?'false':'true'); chev.setAttribute('aria-label', (nowC?'Expand ':'Collapse ')+g); } };
+});
+/* family expand/collapse: toggle in place (no full re-render → keeps scroll & sibling state) */
+Array.prototype.forEach.call(content.querySelectorAll('.fam-toggle'), function(btn){
+btn.onclick=function(e){ e.preventDefault();
+const id=btn.dataset.col, n=btn.dataset.n, art=btn.closest('.family');
+const willOpen=!art.classList.contains('open');
+art.classList.toggle('open', willOpen);
+btn.setAttribute('aria-expanded', willOpen?'true':'false');
+btn.innerHTML=(willOpen?'Hide':'Show')+' '+n+' varieties <span class="fchev">▾</span>';
+if(willOpen) famOpen.add(id); else famOpen.delete(id); };
 });
 }
 wireReels(content);
@@ -231,6 +288,8 @@ return fetch('plants/'+rel+'/plant.json')
 .catch(function(){ return null; });
 }));
 SEED = loaded.filter(Boolean);
+try{ const cr=await fetch('plants/collections.json',{cache:'no-cache'}); if(cr.ok){ const cj=await cr.json(); COLLECTIONS=(cj&&cj.collections)||cj||{}; } }
+catch(e){ COLLECTIONS={}; }
 }catch(e){ console.error('Could not load plant data', e); SEED = []; }
 }
 function renderSkeleton(){

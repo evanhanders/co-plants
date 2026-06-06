@@ -1,0 +1,53 @@
+[
+  {
+    "file": "images/sp-flower.jpg",
+    "photo_id": 253291343,
+    "by": "FrontRangeWildflowers",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/147222479",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      1167
+    ],
+    "thumb_px": [
+      400,
+      333
+    ]
+  },
+  {
+    "file": "images/su-seedhead.jpg",
+    "photo_id": 292117007,
+    "by": "Ralph F Brueggemann",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/168548507",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      1050
+    ],
+    "thumb_px": [
+      400,
+      300
+    ]
+  },
+  {
+    "file": "images/sp-foliage.jpg",
+    "photo_id": 139742907,
+    "by": "Andrew Gaier",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/84979829",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  }
+]

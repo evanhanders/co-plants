@@ -1,0 +1,57 @@
+{
+  "common": "Sulphur flower buckwheat",
+  "botanical": "Eriogonum umbellatum",
+  "type": "Subshrub",
+  "lifecycle": "Perennial",
+  "native": "CO native",
+  "flower_color": [
+    "yellow",
+    "orange"
+  ],
+  "bloom": [
+    "summer"
+  ],
+  "blurb": "A tough evergreen mat-former crowned in early summer with sulphur-yellow pompom umbels that age to rust and orange — a Plant Select pollinator favorite for hot, lean, gravelly ground.",
+  "size": "~6–12 in tall × 12–18 in wide",
+  "sun": "Full sun",
+  "water": "Low; xeric",
+  "spread": "Mat-forming; clumping",
+  "seasons": "Sulphur-yellow umbels early summer aging to orange-red; evergreen blue-green foliage; russet fall and winter color",
+  "wildlife": "Major native-bee and butterfly plant; larval host for blues and hairstreaks",
+  "deer": "Deer resistant",
+  "toxic": "",
+  "winter": true,
+  "verified": "2026-06-06",
+  "shots": [
+    {
+      "local": "images/su-flower-t.jpg",
+      "full": "images/su-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/148391963/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — sulphur-yellow umbels · © Van Remsen (CC-BY-NC) / iNaturalist · © Van Remsen (CC-BY-NC) / iNaturalist",
+      "by": "Van Remsen",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/89834632"
+    },
+    {
+      "local": "images/fa-fallcolor-t.jpg",
+      "full": "images/fa-fallcolor.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/79555546/large.jpg",
+      "s": "fall",
+      "cap": "Fall — rust-red autumn color · © Jeremy Maya Robinson (CC-BY-NC) / iNaturalist · © Jeremy Maya Robinson (CC-BY-NC) / iNaturalist",
+      "by": "Jeremy Maya Robinson",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/50101297"
+    },
+    {
+      "local": "images/sp-foliage-t.jpg",
+      "full": "images/sp-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/407370030/large.jpeg",
+      "s": "spring",
+      "cap": "Spring — silver foliage mat · © tythebeeguy (CC-BY-NC) / iNaturalist · © tythebeeguy (CC-BY-NC) / iNaturalist",
+      "by": "tythebeeguy",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/229493300"
+    }
+  ]
+}

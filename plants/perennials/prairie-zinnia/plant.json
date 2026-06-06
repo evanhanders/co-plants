@@ -1,0 +1,58 @@
+{
+  "common": "Prairie zinnia",
+  "botanical": "Zinnia grandiflora",
+  "type": "Forb",
+  "lifecycle": "Perennial",
+  "native": "CO native",
+  "flower_color": [
+    "yellow"
+  ],
+  "bloom": [
+    "summer",
+    "fall"
+  ],
+  "bloom_season": "Summer",
+  "blurb": "A fine-leaved native that mounds into a tidy cushion smothered in golden, papery daisies from midsummer to frost — a Plant Select-tough groundcover for the hottest, driest, leanest spots.",
+  "size": "~4–8 in tall × 8–12 in wide",
+  "sun": "Full sun",
+  "water": "Low; xeric — extremely drought-tolerant",
+  "spread": "Spreads slowly by rhizome into low mats",
+  "seasons": "Golden daisy flowers midsummer–fall, drying to papery tan; fine needle-like foliage",
+  "wildlife": "Native bees and butterflies",
+  "deer": "Deer resistant",
+  "toxic": "",
+  "winter": false,
+  "verified": "2026-06-06",
+  "shots": [
+    {
+      "local": "images/su-flower-t.jpg",
+      "full": "images/su-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/568780428/large.jpg",
+      "s": "summer",
+      "cap": "Summer — golden flower close-up · © jeremypmccann (CC-BY-NC) / iNaturalist · © jeremypmccann (CC-BY-NC) / iNaturalist",
+      "by": "jeremypmccann",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/314888667"
+    },
+    {
+      "local": "images/su-mound-t.jpg",
+      "full": "images/su-mound.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/526155342/large.jpg",
+      "s": "summer",
+      "cap": "Summer — flowering mound · © Lorraine Lanning (CC-BY-NC) / iNaturalist · © Lorraine Lanning (CC-BY-NC) / iNaturalist",
+      "by": "Lorraine Lanning",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/292383920"
+    },
+    {
+      "local": "images/su-mass-t.jpg",
+      "full": "images/su-mass.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/211302594/large.jpg",
+      "s": "summer",
+      "cap": "Summer — golden drift · © David Martin (CC-BY-NC) / iNaturalist · © David Martin (CC-BY-NC) / iNaturalist",
+      "by": "David Martin",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/124653250"
+    }
+  ]
+}

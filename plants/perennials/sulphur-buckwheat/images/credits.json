@@ -1,0 +1,53 @@
+[
+  {
+    "file": "images/su-flower.jpg",
+    "photo_id": 148391963,
+    "by": "Van Remsen",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/89834632",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1106,
+      963
+    ],
+    "thumb_px": [
+      400,
+      348
+    ]
+  },
+  {
+    "file": "images/fa-fallcolor.jpg",
+    "photo_id": 79555546,
+    "by": "Jeremy Maya Robinson",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/50101297",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  },
+  {
+    "file": "images/sp-foliage.jpg",
+    "photo_id": 407370030,
+    "by": "tythebeeguy",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/229493300",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  }
+]

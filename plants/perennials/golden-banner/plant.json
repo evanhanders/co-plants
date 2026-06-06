@@ -1,0 +1,58 @@
+{
+  "common": "Golden banner",
+  "botanical": "Thermopsis divaricarpa",
+  "type": "Forb",
+  "lifecycle": "Perennial",
+  "native": "CO native",
+  "flower_color": [
+    "yellow"
+  ],
+  "bloom": [
+    "spring",
+    "summer"
+  ],
+  "bloom_season": "Spring",
+  "blurb": "Bright lupine-like spikes of golden pea flowers light up late spring over clean blue-green trifoliate foliage — a vigorous, deer-proof native that spreads into bold drifts.",
+  "size": "~1.5–2.5 ft tall × 1.5 ft wide",
+  "sun": "Full sun to part shade",
+  "water": "Low to moderate; xeric once established",
+  "spread": "Spreads by rhizome into colonies",
+  "seasons": "Golden flower spikes late spring–early summer; blue-green trifoliate foliage; curved seed pods in summer",
+  "wildlife": "Bumblebees and native bees; larval host for sulphur butterflies",
+  "deer": "Deer resistant (toxic alkaloids)",
+  "toxic": "Foliage and seeds contain quinolizidine alkaloids — toxic if eaten; keep from children, pets, and livestock.",
+  "winter": false,
+  "verified": "2026-06-06",
+  "shots": [
+    {
+      "local": "images/sp-flower-t.jpg",
+      "full": "images/sp-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/1828337/large.jpg",
+      "s": "spring",
+      "cap": "Spring — golden flower spikes · © Jess Till (CC-BY-NC) / iNaturalist · © Jess Till (CC-BY-NC) / iNaturalist",
+      "by": "Jess Till",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/1474701"
+    },
+    {
+      "local": "images/sp-habit-t.jpg",
+      "full": "images/sp-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/18131601/large.jpeg",
+      "s": "spring",
+      "cap": "Spring — whole plant in bloom · © rowz (CC-BY-NC) / iNaturalist · © rowz (CC-BY-NC) / iNaturalist",
+      "by": "rowz",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/12551559"
+    },
+    {
+      "local": "images/su-pods-t.jpg",
+      "full": "images/su-pods.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/90008792/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — foliage & seed pods · © Suzanne Dingwell (CC-BY-NC) / iNaturalist · © Suzanne Dingwell (CC-BY-NC) / iNaturalist",
+      "by": "Suzanne Dingwell",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/56480702"
+    }
+  ]
+}

@@ -78,5 +78,26 @@
       267,
       400
     ]
+  },
+  {
+    "file": "images/su-habit.jpg",
+    "by": "menileksisaybeyene",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/180109782",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/su-foliage.jpg",
+    "by": "Scott Corbett",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/262076922",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/sp-bloommass.jpg",
+    "by": "Céline",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/observations/156240567",
+    "via": "iNaturalist"
   }
 ]

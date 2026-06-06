@@ -55,5 +55,33 @@
       400,
       378
     ]
+  },
+  {
+    "file": "images/su-foliage.jpg",
+    "by": "frahome",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/29256224",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/sp-blossom.jpg",
+    "by": "Evan M. Raskin",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/observations/5573507",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/sp-bloommass.jpg",
+    "by": "herrick83",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/267431549",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/fa-habit.jpg",
+    "by": "derrickw-franks",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/251666141",
+    "via": "iNaturalist"
   }
 ]

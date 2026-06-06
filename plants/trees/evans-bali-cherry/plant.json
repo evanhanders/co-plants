@@ -57,6 +57,36 @@
       "by": "Dino Babić",
       "lic": "CC-BY",
       "link": "https://www.inaturalist.org/observations/345092574"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/470912184/large.jpeg",
+      "s": "summer",
+      "cap": "Summer foliage — glossy serrated sour-cherry leaves (species-representative) · © Scott Corbett (CC-BY-NC) / iNaturalist",
+      "by": "Scott Corbett",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/262076922"
+    },
+    {
+      "local": "images/sp-blossom-t.jpg",
+      "full": "images/sp-blossom.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/452201165/large.jpeg",
+      "s": "spring",
+      "cap": "Spring — face-on white sour-cherry blossom (species-representative) · © Angus Mossman (CC-BY-NC) / iNaturalist",
+      "by": "Angus Mossman",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/252592075"
+    },
+    {
+      "local": "images/sp-bloommass-t.jpg",
+      "full": "images/sp-bloommass.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/270148454/large.jpeg",
+      "s": "spring",
+      "cap": "Spring — branches massed with white cherry blossom (species-representative) · © Céline (CC-BY) / iNaturalist",
+      "by": "Céline",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/156240567"
     }
   ],
   "care": {
@@ -113,8 +143,12 @@
     "toxic": [
       3
     ],
-    "origin": [3],
-    "habitat": [3]
+    "origin": [
+      3
+    ],
+    "habitat": [
+      3
+    ]
   },
   "references": [
     {

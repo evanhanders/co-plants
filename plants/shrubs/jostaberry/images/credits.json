@@ -66,5 +66,26 @@
       400,
       321
     ]
+  },
+  {
+    "file": "images/sp-flower.jpg",
+    "by": "Ezra",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/photos/484660175",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/su-habit2.jpg",
+    "by": "msalzano",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/photos/270585556",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/su-foliage2.jpg",
+    "by": "Igor",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/photos/91958223",
+    "via": "iNaturalist"
   }
 ]

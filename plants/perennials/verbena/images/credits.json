@@ -30,5 +30,12 @@
     "license": "CC-BY-NC",
     "source": "https://www.inaturalist.org/observations/154892708",
     "dataset": "iNaturalist open data"
+  },
+  {
+    "file": "images/su-foliage2.jpg",
+    "by": "Kristi Zoebelein",
+    "license": "CC0",
+    "source": "https://www.inaturalist.org/photos/616813909",
+    "via": "iNaturalist"
   }
 ]

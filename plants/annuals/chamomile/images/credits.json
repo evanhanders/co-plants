@@ -55,5 +55,19 @@
     "license": "CC-BY-SA",
     "source": "https://commons.wikimedia.org/wiki/File:Matricaria_chamomilla_plant_(23).jpg",
     "via": "Wikimedia Commons"
+  },
+  {
+    "file": "images/su-singleplant.jpg",
+    "by": "Eleftherios Katsillis",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/observations/70326180",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/su-fernfoliage.jpg",
+    "by": "Ametsak",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/observations/303073156",
+    "via": "iNaturalist"
   }
 ]

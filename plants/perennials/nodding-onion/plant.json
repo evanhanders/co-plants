@@ -130,6 +130,36 @@
       "by": "John A Haskins",
       "lic": "CC-BY",
       "link": "https://www.inaturalist.org/observations/28523701"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/167015023/large.jpg",
+      "s": "summer",
+      "cap": "Summer — grassy clump in habitat · © curt_nimz (CC-BY-NC) / iNaturalist",
+      "by": "curt_nimz",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/100097330"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/195708634/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — narrow grassy basal leaves · © humon (CC-BY) / iNaturalist",
+      "by": "humon",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/115959695"
+    },
+    {
+      "local": "images/su-bloommass-t.jpg",
+      "full": "images/su-bloommass.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/310418606/large.jpg",
+      "s": "summer",
+      "cap": "Summer — flowering stems and basal foliage in context · © calekennamer (CC-BY-NC) / iNaturalist",
+      "by": "calekennamer",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/178395202"
     }
   ]
 }

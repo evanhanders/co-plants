@@ -49,5 +49,19 @@
       300,
       400
     ]
+  },
+  {
+    "file": "images/sp-foliage.jpg",
+    "by": "Tony KM",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/photos/187572189",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/sp-plant.jpg",
+    "by": "Sebastian Cato",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/photos/183037788",
+    "via": "iNaturalist"
   }
 ]

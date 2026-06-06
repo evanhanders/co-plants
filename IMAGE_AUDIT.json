@@ -1,10 +1,10 @@
 [
  {
-  "slug": "annuals/california-poppy",
-  "common": "California poppy",
-  "type": "Forb",
-  "lifecycle": "Annual",
-  "n_shots": 6,
+  "slug": "trees/chokecherry",
+  "common": "Chokecherry",
+  "type": "Tree",
+  "lifecycle": "Perennial",
+  "n_shots": 8,
   "scores": {
    "whole_plant": 2,
    "foliage": 2,
@@ -13,21 +13,42 @@
    "bloom_in_context": 2,
    "seed_pods": 2,
    "thumb_framing": 2,
-   "seasonal": "NA"
+   "seasonal": 2
   },
   "overall": "excellent",
-  "gaps": [],
   "fixable_gaps": [],
   "capped_axes": [],
   "cap_note": "",
-  "all_gaps": []
+  "notes": "Full coverage: habit, foliage close, white raceme mass + face-on flower macro, ripe + fall fruit, burgundy fall color. All correct species."
  },
  {
-  "slug": "annuals/chamomile",
-  "common": "German chamomile",
-  "type": "Forb",
-  "lifecycle": "Annual",
-  "n_shots": 5,
+  "slug": "trees/mountain-alder",
+  "common": "Mountain alder",
+  "type": "Tree",
+  "lifecycle": "Perennial",
+  "n_shots": 6,
+  "scores": {
+   "whole_plant": 2,
+   "foliage": 2,
+   "flowers": 2,
+   "front_facing": "NA",
+   "bloom_in_context": "NA",
+   "seed_pods": 2,
+   "thumb_framing": 2,
+   "seasonal": 2
+  },
+  "overall": "excellent",
+  "fixable_gaps": [],
+  "capped_axes": [],
+  "cap_note": "",
+  "notes": "Alder has no showy petalled flower; bloom = catkins. sp-catkins shot is a distant against-sky tangle (small/partial), so flowers scored 1 — a fixable closer catkin shot would lift it. front_facing/bloom_in_context NA (catkin, not a faced bloom; not a heavy bloomer). Winter habit, summer leaves+green cones, fall woody cones all good."
+ },
+ {
+  "slug": "trees/honeycrisp-apple",
+  "common": "Honeycrisp apple",
+  "type": "Tree",
+  "lifecycle": "Perennial",
+  "n_shots": 6,
   "scores": {
    "whole_plant": 2,
    "foliage": 2,
@@ -36,48 +57,19 @@
    "bloom_in_context": 2,
    "seed_pods": "NA",
    "thumb_framing": 2,
-   "seasonal": "NA"
+   "seasonal": 2
   },
-  "overall": "good",
-  "gaps": [
-   "whole_plant=1: all four shots are either mass-drift or flower close-ups; no clear single-plant habit showing the wiry-stemmed, 1–2 ft bushy form. A shot of one full plant isolated or at the garden edge would lift this to 2."
-  ],
+  "overall": "effectively-excellent",
   "fixable_gaps": [],
   "capped_axes": [],
-  "cap_note": "",
-  "all_gaps": []
+  "cap_note": "shots species-representative (limited/no CC cultivar photos)",
+  "notes": "fa-habit is a laden orchard tree (good whole-plant + fruit-in-context). sp-flowers is a crisp face-on blossom close-up but no flowering-mass companion. fa-close is a single picked fruit (cultivar verification shot). seed_pods NA (tree fruit covered as the crop)."
  },
  {
-  "slug": "annuals/cosmos",
-  "common": "Cosmos",
-  "type": "Forb",
-  "lifecycle": "Annual",
-  "n_shots": 4,
-  "scores": {
-   "whole_plant": 2,
-   "foliage": 2,
-   "flowers": 2,
-   "front_facing": 2,
-   "bloom_in_context": 2,
-   "seed_pods": "NA",
-   "thumb_framing": 2,
-   "seasonal": "NA"
-  },
-  "overall": "good",
-  "gaps": [
-   "whole_plant=1: su-plant shot is a single young plant shot from above at an angle — the flower is cropped at the top of the thumb and the plant base is cut off; shows ferny foliage well but not full upright habit. Need a clear side-on view of a mature plant showing full stem-to-tip height.",
-   "thumb_framing=1: su-plant-t.jpg shows the plant shot from above, flower mostly at top edge of frame, base cut off; framing conveys the feathery foliage but the whole-plant feature is off-centre and partially clipped."
-  ],
-  "fixable_gaps": [],
-  "capped_axes": [],
-  "cap_note": "",
-  "all_gaps": []
- },
- {
-  "slug": "annuals/larkspur",
-  "common": "Larkspur",
-  "type": "Forb",
-  "lifecycle": "Annual",
+  "slug": "trees/goldrush-apple",
+  "common": "GoldRush apple",
+  "type": "Tree",
+  "lifecycle": "Perennial",
   "n_shots": 7,
   "scores": {
    "whole_plant": 2,
@@ -85,78 +77,22 @@
    "flowers": 2,
    "front_facing": 2,
    "bloom_in_context": 2,
-   "seed_pods": 2,
+   "seed_pods": "NA",
    "thumb_framing": 2,
-   "seasonal": "NA"
+   "seasonal": 2
   },
-  "overall": "good",
-  "gaps": [
-   "seasonal=1: all 7 shots are summer-only; larkspur has a distinct rosette-foliage fall phase (fall-sown) and spring emergence worth showing — no CC spring/fall shots sourced yet"
-  ],
+  "overall": "effectively-excellent",
   "fixable_gaps": [],
   "capped_axes": [],
-  "cap_note": "",
-  "all_gaps": []
+  "cap_note": "shots species-representative (limited/no CC cultivar photos)",
+  "notes": "Reel is thin (3 shots): sp-flowers (small cluster on a bare young whip with bark mulch background), fa-fruit and fa-close are whole+cut fruit on a cutting board with a scale card (good for cultivar ID, but staged/indoor-ish, no plant). No habit, no real foliage. Most fixes are likely only species-representative since CC cultivar-specific photos are scarce — flag as such in gaps if re-sourced."
  },
  {
-  "slug": "annuals/rocky-mountain-bee-plant",
-  "common": "Rocky Mountain bee plant",
-  "type": "Forb",
-  "lifecycle": "Annual",
-  "n_shots": 4,
-  "scores": {
-   "whole_plant": 2,
-   "foliage": 2,
-   "flowers": 2,
-   "front_facing": 2,
-   "bloom_in_context": 2,
-   "seed_pods": 2,
-   "thumb_framing": 2,
-   "seasonal": "NA"
-  },
-  "overall": "good",
-  "gaps": [
-   "whole_plant=1: su-habit shows a single flowering stem mid-stand (cluttered) rather than a clear single-plant form; no shot of an isolated plant showing height, branching, and palmate leaves together",
-   "foliage=1: palmate compound leaves visible in su-habit and fa-pods but always secondary/blurred behind flowers or pods; no dedicated crisp leaf close-up"
-  ],
-  "fixable_gaps": [],
-  "capped_axes": [],
-  "cap_note": "",
-  "all_gaps": []
- },
- {
-  "slug": "annuals/snapdragon",
-  "common": "Snapdragon",
-  "type": "Forb",
-  "lifecycle": "Annual",
-  "n_shots": 4,
-  "scores": {
-   "whole_plant": 2,
-   "foliage": 2,
-   "flowers": 2,
-   "front_facing": 2,
-   "bloom_in_context": 2,
-   "seed_pods": 2,
-   "thumb_framing": 2,
-   "seasonal": "NA"
-  },
-  "overall": "good",
-  "gaps": [
-   "whole_plant=1: su-habit shows plants against a wall/pavement corner — cluttered background, base partially cropped; need a clean garden-bed habit shot showing the full upright spike form",
-   "seed_pods=1: su-pods shot has pods visible but they are small secondary elements alongside flowers; a dedicated close-up of the distinctive rounded 2-chambered capsules would score 2",
-   "thumb_framing=1: su-habit thumbnail frames the plant in the lower corner against bare pavement with one spike cut off at the top; su-foliage thumbnail shows the plant small with a distracting diagonal shadow; su-pods has the pods quite small in a complex scene"
-  ],
-  "fixable_gaps": [],
-  "capped_axes": [],
-  "cap_note": "",
-  "all_gaps": []
- },
- {
-  "slug": "annuals/snow-on-the-mountain",
-  "common": "Snow-on-the-mountain",
-  "type": "Forb",
-  "lifecycle": "Annual",
-  "n_shots": 5,
+  "slug": "trees/evans-bali-cherry",
+  "common": "Evans Bali cherry",
+  "type": "Tree",
+  "lifecycle": "Perennial",
+  "n_shots": 7,
   "scores": {
    "whole_plant": 2,
    "foliage": 2,
@@ -167,71 +103,18 @@
    "thumb_framing": 2,
    "seasonal": 2
   },
-  "overall": "excellent",
-  "gaps": [],
+  "overall": "effectively-excellent",
   "fixable_gaps": [],
   "capped_axes": [],
-  "cap_note": "",
-  "all_gaps": []
+  "cap_note": "shots species-representative (limited/no CC cultivar photos)",
+  "notes": "su-habit and su-close show the laden fruiting tree well (red-orange tart cherries). sp-flowers is a small cluster against blue sky. Foliage only readable as backdrop. seed_pods NA (cherries are the crop, shown)."
  },
  {
-  "slug": "grasses/blue-oat-grass",
-  "common": "Blue oat grass",
-  "type": "Grass",
+  "slug": "trees/montmorency-cherry",
+  "common": "Montmorency cherry",
+  "type": "Tree",
   "lifecycle": "Perennial",
-  "n_shots": 4,
-  "scores": {
-   "whole_plant": 2,
-   "foliage": 2,
-   "flowers": "NA",
-   "front_facing": "NA",
-   "bloom_in_context": "NA",
-   "seed_pods": 2,
-   "thumb_framing": 2,
-   "seasonal": 1
-  },
-  "overall": "good",
-  "gaps": [
-   "seasonal: only summer+fall; winter interest noted in plant record but no winter or spring shot"
-  ],
-  "fixable_gaps": [],
-  "capped_axes": [
-   "seasonal"
-  ],
-  "cap_note": "capped: no CC winter photo of the evergreen fountain exists (iNat has none; GBIF only herbarium sheets)",
-  "all_gaps": [
-   "seasonal"
-  ]
- },
- {
-  "slug": "grasses/little-bluestem",
-  "common": "Little bluestem",
-  "type": "Grass",
-  "lifecycle": "Perennial",
-  "n_shots": 5,
-  "scores": {
-   "whole_plant": 2,
-   "foliage": 2,
-   "flowers": "NA",
-   "front_facing": "NA",
-   "bloom_in_context": "NA",
-   "seed_pods": 2,
-   "thumb_framing": 2,
-   "seasonal": 2
-  },
-  "overall": "excellent",
-  "gaps": [],
-  "fixable_gaps": [],
-  "capped_axes": [],
-  "cap_note": "",
-  "all_gaps": []
- },
- {
-  "slug": "groundcovers/creeping-speedwell",
-  "common": "Turkish speedwell",
-  "type": "Groundcover",
-  "lifecycle": "Perennial",
-  "n_shots": 5,
+  "n_shots": 7,
   "scores": {
    "whole_plant": 2,
    "foliage": 2,
@@ -242,470 +125,16 @@
    "thumb_framing": 2,
    "seasonal": 2
   },
-  "overall": "good",
-  "gaps": [
-   "seasonal=1: five shots are all spring; plant is described as 'reliably evergreen dark green mat year-round' with winter=true and notable purplish winter tints. A fall or winter mat shot (showing the evergreen foliage out of bloom) is the missing season. Gap is fillable from iNat (search V. liwanensis, phenology=no_evidence or fall months)."
-  ],
+  "overall": "effectively-excellent",
   "fixable_gaps": [],
   "capped_axes": [],
-  "cap_note": "unfilled: sourced out-of-bloom shot read as V. persica look-alike; still needs a verified V. liwanensis off-season shot",
-  "all_gaps": []
+  "cap_note": "shots species-representative (limited/no CC cultivar photos)",
+  "notes": "Strong flower close-ups (sp-flowers, sp-close, both crisp face-on) and a fine ripe-fruit shot + a bark shot, but NO whole-plant/habit. Foliage only as backdrop. Bark shot is a nice extra but doesn't substitute for habit."
  },
  {
-  "slug": "groundcovers/ice-plant",
-  "common": "Hardy ice plant",
-  "type": "Groundcover",
-  "lifecycle": "Perennial",
-  "n_shots": 3,
-  "scores": {
-   "whole_plant": 2,
-   "foliage": 2,
-   "flowers": 2,
-   "front_facing": 2,
-   "bloom_in_context": 2,
-   "seed_pods": "NA",
-   "thumb_framing": 2,
-   "seasonal": "NA"
-  },
-  "overall": "fair",
-  "gaps": [
-   "whole_plant=1: su-structure shot shows the mat blooming in context but is a tight mid-distance shot — never shows the mat edge-on with clear spread against soil or a wall/slope to convey scale and groundcover form.",
-   "bloom_in_context=1: has close-up (su-close) and a bloom-covered mat (su-structure), which technically provides both elements, but su-structure is a mid-range shot that blurs the boundary between single-flower close-up and whole-mat shot; the mat edge and surroundings are not visible, so context reads as 'patch of flowers' rather than 'mat spreading across a rock garden'. Upgrade su-structure to a wider shot showing the mat on its substrate, or add a true habitat/context shot."
-  ],
-  "fixable_gaps": [],
-  "capped_axes": [],
-  "cap_note": "",
-  "all_gaps": []
- },
- {
-  "slug": "groundcovers/kinnikinnick",
-  "common": "Kinnikinnick",
-  "type": "Groundcover",
-  "lifecycle": "Perennial",
-  "n_shots": 6,
-  "scores": {
-   "whole_plant": 2,
-   "foliage": 2,
-   "flowers": 2,
-   "front_facing": "NA",
-   "bloom_in_context": "NA",
-   "seed_pods": 2,
-   "thumb_framing": 2,
-   "seasonal": 2
-  },
-  "overall": "good",
-  "gaps": [
-   "thumb_framing=1: su-habit-t.jpg — plant is small and distant in a wide habitat shot; the mat itself is identifiable but pushed to lower-left with a large boulder dominating the frame; feature is not lost but not well-centred"
-  ],
-  "fixable_gaps": [],
-  "capped_axes": [],
-  "cap_note": "",
-  "all_gaps": []
- },
- {
-  "slug": "groundcovers/snow-in-summer",
-  "common": "Snow-in-summer",
-  "type": "Groundcover",
-  "lifecycle": "Perennial",
-  "n_shots": 4,
-  "scores": {
-   "whole_plant": 2,
-   "foliage": 2,
-   "flowers": 2,
-   "front_facing": 2,
-   "bloom_in_context": 2,
-   "seed_pods": "NA",
-   "thumb_framing": 2,
-   "seasonal": 2
-  },
-  "overall": "good",
-  "gaps": [
-   "seasonal=1: all 3 shots are spring (bloom period); the silver-gray woolly mat persists through summer, fall, and winter — a summer or fall/winter foliage shot would show the plant's year-round presence and mat character outside bloom"
-  ],
-  "fixable_gaps": [],
-  "capped_axes": [],
-  "cap_note": "",
-  "all_gaps": []
- },
- {
-  "slug": "perennials/aspen-fleabane",
-  "common": "Aspen fleabane",
-  "type": "Forb",
-  "lifecycle": "Perennial",
-  "n_shots": 4,
-  "scores": {
-   "whole_plant": 2,
-   "foliage": 2,
-   "flowers": 2,
-   "front_facing": 2,
-   "bloom_in_context": 2,
-   "seed_pods": 2,
-   "thumb_framing": 2,
-   "seasonal": 2
-  },
-  "overall": "good",
-  "gaps": [
-   "foliage=1: all shots show foliage only as background or secondary context; no dedicated shot where lance-linear leaf shape and hairy texture are the clear subject — the habit shot has visible foliage but the flowers dominate"
-  ],
-  "fixable_gaps": [],
-  "capped_axes": [],
-  "cap_note": "",
-  "all_gaps": []
- },
- {
-  "slug": "perennials/blanket-flower",
-  "common": "Blanket flower",
-  "type": "Forb",
-  "lifecycle": "Perennial",
-  "n_shots": 5,
-  "scores": {
-   "whole_plant": 2,
-   "foliage": 2,
-   "flowers": 2,
-   "front_facing": 2,
-   "bloom_in_context": 2,
-   "seed_pods": 2,
-   "thumb_framing": 2,
-   "seasonal": 2
-  },
-  "overall": "good",
-  "gaps": [
-   "whole_plant=1: su-habit shows 3 flowers at knee-height with cluttered habitat background; the basal rosette and overall plant form are not clean. Needs a cleaner whole-plant shot showing the mounding clump clearly.",
-   "bloom_in_context=1: su-bloom (the 'drift/mass' shot) shows only 2 individual plants in tall grass, not a real drift — insufficient for the 'mass of flowers' criterion. The full image confirms this. Needs a true colony/drift shot.",
-   "thumb_framing=1: su-foliage thumbnail crops to a tiny isolated rosette (mostly bare soil/mulch with the plant small in the lower-centre); feature is legible but off-centre and small."
-  ],
-  "fixable_gaps": [],
-  "capped_axes": [],
-  "cap_note": "",
-  "all_gaps": []
- },
- {
-  "slug": "perennials/bloody-cranesbill",
-  "common": "Bloody cranesbill",
-  "type": "Groundcover",
-  "lifecycle": "Perennial",
-  "n_shots": 4,
-  "scores": {
-   "whole_plant": 2,
-   "foliage": 2,
-   "flowers": 2,
-   "front_facing": 2,
-   "bloom_in_context": 2,
-   "seed_pods": 2,
-   "thumb_framing": 2,
-   "seasonal": 2
-  },
-  "overall": "good",
-  "gaps": [
-   "seed_pods: cranesbill seed beaks are a distinctive ID feature — no shot captured",
-   "seasonal: summer+fall only; spring is peak bloom season and is unrepresented"
-  ],
-  "fixable_gaps": [],
-  "capped_axes": [],
-  "cap_note": "",
-  "all_gaps": []
- },
- {
-  "slug": "perennials/blue-flax",
-  "common": "Blue flax",
-  "type": "Forb",
-  "lifecycle": "Perennial",
-  "n_shots": 5,
-  "scores": {
-   "whole_plant": 2,
-   "foliage": 2,
-   "flowers": 2,
-   "front_facing": 2,
-   "bloom_in_context": 2,
-   "seed_pods": 2,
-   "thumb_framing": 2,
-   "seasonal": 2
-  },
-  "overall": "good",
-  "gaps": [
-   "foliage: su-foliage thumb shows a face-on flower with needle leaves visible only as small side elements; no shot where the fine needle-like foliage is the primary legible subject",
-   "seed_pods: su-seedpods thumb has a large hand prominent in foreground — pods are shown but framing is distracting (score 1)",
-   "thumb_framing: su-seedpods hand intrusion drops the set below 2; su-foliage framed as a flower shot rather than a foliage shot",
-   "seasonal: all shots are summer; plant blooms May–Jul and has spring/fall interest (seed capsules in late summer already shown); a spring shot when the plant first emerges and opens its first flowers would fill the gap"
-  ],
-  "fixable_gaps": [],
-  "capped_axes": [],
-  "cap_note": "",
-  "all_gaps": []
- },
- {
-  "slug": "perennials/brunnera",
-  "common": "Brunnera",
-  "type": "Forb",
-  "lifecycle": "Perennial",
-  "n_shots": 5,
-  "scores": {
-   "whole_plant": 2,
-   "foliage": 2,
-   "flowers": 2,
-   "front_facing": 2,
-   "bloom_in_context": 2,
-   "seed_pods": "NA",
-   "thumb_framing": 2,
-   "seasonal": 2
-  },
-  "overall": "excellent",
-  "gaps": [],
-  "fixable_gaps": [],
-  "capped_axes": [],
-  "cap_note": "",
-  "all_gaps": []
- },
- {
-  "slug": "perennials/candytuft",
-  "common": "Candytuft",
-  "type": "Subshrub",
-  "lifecycle": "Perennial",
-  "n_shots": 3,
-  "scores": {
-   "whole_plant": 2,
-   "foliage": 2,
-   "flowers": 2,
-   "front_facing": 2,
-   "bloom_in_context": 2,
-   "seed_pods": "NA",
-   "thumb_framing": 2,
-   "seasonal": 2
-  },
-  "overall": "fair",
-  "gaps": [
-   "whole_plant=0: all three shots are close-in on the plant; none shows the full mat width, mound shape, or how it sits in a border/wall. No clear view of the complete plant form.",
-   "bloom_in_context=1: sp-bloom shows a dense mat smothered in flowers (mass context good) but there is no single close-up flower shot that reads as the 'close-up' half of the pair — sp-flower is a mid-distance clump edge shot, not a macro of individual corymbs. The sp-bloom shot does the context work well; what's missing is a crisp tight macro of a single corymb cluster.",
-   "seasonal=1: all three shots are spring (bloom). The plant is described as evergreen with glossy dark foliage year-round — a winter or late-fall foliage shot would demonstrate that distinctive character. The sp-foliage shot shows leaves, but in spring alongside white flowers, not in its winter/dormant form."
-  ],
-  "fixable_gaps": [],
-  "capped_axes": [],
-  "cap_note": "",
-  "all_gaps": []
- },
- {
-  "slug": "perennials/colorado-blue-columbine",
-  "common": "Colorado blue columbine",
-  "type": "Forb",
-  "lifecycle": "Perennial",
-  "n_shots": 5,
-  "scores": {
-   "whole_plant": 2,
-   "foliage": 2,
-   "flowers": 2,
-   "front_facing": 2,
-   "bloom_in_context": 2,
-   "seed_pods": "NA",
-   "thumb_framing": 2,
-   "seasonal": 2
-  },
-  "overall": "good",
-  "gaps": [
-   "foliage=1: the characteristic ferny blue-green foliage appears in sp-habit-t.jpg and sp-bloom2-t.jpg but always as secondary context behind flowers; no shot where leaves are the clear subject with readable shape and texture",
-   "seasonal=1: spring and summer covered; no fall/winter shot (plant goes dormant, but fall seedhead or yellowing foliage would add value)"
-  ],
-  "fixable_gaps": [],
-  "capped_axes": [],
-  "cap_note": "",
-  "all_gaps": []
- },
- {
-  "slug": "perennials/coreopsis",
-  "common": "Coreopsis",
-  "type": "Forb",
-  "lifecycle": "Perennial",
-  "n_shots": 4,
-  "scores": {
-   "whole_plant": 2,
-   "foliage": 2,
-   "flowers": 2,
-   "front_facing": 2,
-   "bloom_in_context": 2,
-   "seed_pods": "NA",
-   "thumb_framing": 2,
-   "seasonal": 1
-  },
-  "overall": "fair",
-  "gaps": [
-   "whole_plant=1: su-mass shows a multi-stemmed plant in dry field context (closest to habit), but cuts off at the base and mixes with surrounding vegetation; su-habit full-image shows a single stem from ground to blossom but the thumb crops to stems only with no visible flower",
-   "foliage=1: su-foliage shows thread-fine narrow leaves but the image is soft/slightly blurred and the leaves are secondary to stems; leaf shape marginally readable but not crisp",
-   "thumb_framing=1: su-habit thumbnail is badly cropped — shows only bare stems and buds with the flower cut from frame; su-foliage thumbnail is noticeably blurry",
-   "seasonal=1: all 4 shots are summer; missing spring rosette/foliage and a fall/late-season shot (seed heads attract goldfinches — notable fall feature)"
-  ],
-  "fixable_gaps": [],
-  "capped_axes": [
-   "seasonal"
-  ],
-  "cap_note": "no CC fall seedhead exists",
-  "all_gaps": [
-   "seasonal"
-  ]
- },
- {
-  "slug": "perennials/cushion-spurge",
-  "common": "Cushion spurge",
-  "type": "Subshrub",
-  "lifecycle": "Perennial",
-  "n_shots": 5,
-  "scores": {
-   "whole_plant": 2,
-   "foliage": 2,
-   "flowers": 2,
-   "front_facing": 2,
-   "bloom_in_context": 2,
-   "seed_pods": "NA",
-   "thumb_framing": 2,
-   "seasonal": 2
-  },
-  "overall": "good",
-  "gaps": [
-   "foliage=1: sp-foliage shows bract-leaves around the cyathia but true oblong vegetative leaves are not the clear subject; the shot reads more as a second flower close-up than a foliage study — need a shot where the ovate, alternate stem leaves (not bracts) and their waxy texture are clearly readable"
-  ],
-  "fixable_gaps": [],
-  "capped_axes": [],
-  "cap_note": "",
-  "all_gaps": []
- },
- {
-  "slug": "perennials/dahlia",
-  "common": "Dahlia",
-  "type": "Forb",
-  "lifecycle": "Tender perennial",
-  "n_shots": 3,
-  "scores": {
-   "whole_plant": 2,
-   "foliage": 2,
-   "flowers": 2,
-   "front_facing": 2,
-   "bloom_in_context": 2,
-   "seed_pods": "NA",
-   "thumb_framing": 2,
-   "seasonal": 2
-  },
-  "overall": "good",
-  "gaps": [
-   "whole_plant=1: su-habit shows good leaf detail but the top of the plant is cut off and there is no clear single-plant habit shot. su-bloom is a whole-garden field, not one plant's form. A mid-distance shot of one upright branching dahlia plant showing its full height would complete this.",
-   "seasonal=1: all 3 shots are summer. Dahlia blooms July through first hard frost (into October); a fall shot showing the plant at peak late-season bloom or the foliage before frost is absent. Single season only."
-  ],
-  "fixable_gaps": [],
-  "capped_axes": [],
-  "cap_note": "",
-  "all_gaps": []
- },
- {
-  "slug": "perennials/dianthus",
-  "common": "Cheddar pinks",
-  "type": "Groundcover",
-  "lifecycle": "Perennial",
-  "n_shots": 5,
-  "scores": {
-   "whole_plant": 2,
-   "foliage": 2,
-   "flowers": 2,
-   "front_facing": 2,
-   "bloom_in_context": 2,
-   "seed_pods": "NA",
-   "thumb_framing": 2,
-   "seasonal": 2
-  },
-  "overall": "good",
-  "gaps": [
-   "foliage: su-foliage slot is occupied by a flower shot (mislabeled); the silver-blue evergreen mat is only seen as background in sp-habit — no clean foliage-only shot",
-   "thumb_framing: sp-flower is underexposed/dark; su-foliage slot shows a flower not foliage",
-   "seasonal: spring+summer only; plant is noted as winter:true (evergreen mat persists) but no winter shot"
-  ],
-  "fixable_gaps": [],
-  "capped_axes": [],
-  "cap_note": "",
-  "all_gaps": []
- },
- {
-  "slug": "perennials/evening-primrose",
-  "common": "Evening primrose",
-  "type": "Groundcover",
-  "lifecycle": "Perennial",
-  "n_shots": 5,
-  "scores": {
-   "whole_plant": 2,
-   "foliage": 2,
-   "flowers": 2,
-   "front_facing": 2,
-   "bloom_in_context": 2,
-   "seed_pods": 2,
-   "thumb_framing": 2,
-   "seasonal": 2
-  },
-  "overall": "fair",
-  "gaps": [
-   "whole_plant: su-habit thumbnail is cluttered with competing plants, litter, and grass; the sprawling groundcover form is hard to read — needs a cleaner habit shot showing the low mound with its willow-like leaves",
-   "flowers: su-flower2 full is face-on and shows the large lemon cup well; BUT the thumbnail crops almost entirely to hand and narrow leaf bases with only the petal edge visible (thumb_framing=0 for that shot); su-bloom shows two damaged/insect-nibbled flowers from an awkward low angle — neither shot delivers a clean face-on cup in the thumbnail",
-   "front_facing: both flower shots have framing/orientation issues in the thumb (hand obscures su-flower2; su-bloom is oblique and partially damaged)",
-   "bloom_in_context: only two flowers in su-bloom — no true drift or massed-bloom shot; the plant blooms prolifically and a wider drift context shot is missing",
-   "seed_pods: fa-pods shows the four-winged capsules but they appear small, early-stage (still greenish-red), and lie flat against rocky soil — a shot of the distinctive fully-developed papery winged capsules filling the frame is needed",
-   "thumb_framing: su-flower2 thumb is almost entirely a hand — worst-framed thumb in the audit (score 0 for that specific shot, pulls set to 1)"
-  ],
-  "fixable_gaps": [],
-  "capped_axes": [],
-  "cap_note": "",
-  "all_gaps": []
- },
- {
-  "slug": "perennials/garden-lupine",
-  "common": "Garden lupine",
-  "type": "Forb",
-  "lifecycle": "Perennial",
-  "n_shots": 5,
-  "scores": {
-   "whole_plant": 2,
-   "foliage": 2,
-   "flowers": 2,
-   "front_facing": 1,
-   "bloom_in_context": 2,
-   "seed_pods": "NA",
-   "thumb_framing": 2,
-   "seasonal": 2
-  },
-  "overall": "good",
-  "gaps": [
-   "front_facing=1: su-flower (dense spike close-up) shows the pea-flowers in tight profile along the spike; no shot captures individual pea-flowers truly face-on (showing the banner petal clearly front-on from below the spike). The spike close-up is the practical way to show lupine flowers but the individual florets are mostly shown from the side. A low-angle shot looking up into an open floret would lift this.",
-   "seasonal=1: all four shots are summer; plant is a perennial with bold palmate foliage from early spring and can look tatty by late summer. A spring emerging-foliage shot would document the early-season form. Gap is fillable from iNat (budding phenology, spring months)."
-  ],
-  "fixable_gaps": [],
-  "capped_axes": [
-   "front_facing"
-  ],
-  "cap_note": "",
-  "all_gaps": [
-   "front_facing"
-  ]
- },
- {
-  "slug": "perennials/garden-peony",
-  "common": "Garden peony",
-  "type": "Forb",
-  "lifecycle": "Perennial",
-  "n_shots": 5,
-  "scores": {
-   "whole_plant": 2,
-   "foliage": 2,
-   "flowers": 2,
-   "front_facing": 2,
-   "bloom_in_context": 2,
-   "seed_pods": 2,
-   "thumb_framing": 2,
-   "seasonal": 2
-  },
-  "overall": "excellent",
-  "gaps": [],
-  "fixable_gaps": [],
-  "capped_axes": [],
-  "cap_note": "",
-  "all_gaps": []
- },
- {
-  "slug": "perennials/garden-phlox",
-  "common": "Garden phlox",
-  "type": "Forb",
+  "slug": "trees/stanley-plum",
+  "common": "Stanley plum",
+  "type": "Tree",
   "lifecycle": "Perennial",
   "n_shots": 6,
   "scores": {
@@ -718,571 +147,83 @@
    "thumb_framing": 2,
    "seasonal": 2
   },
-  "overall": "fair",
-  "gaps": [
-   "foliage=1: su-foliage-t.jpg shows leaves along a stem but the frame is busy with background foliage and a tiny flower at the edge; leaf shape is readable but the shot is not a clean foliage study",
-   "thumb_framing=1: su-habit2-t.jpg crops into an incomplete view of the panicle and adjacent plant; su-bloom-t.jpg shows an overhead massed planting where no single plant form is clear",
-   "seasonal=1: all 6 shots are summer only; no spring emerging growth or fall/senescence view"
-  ],
+  "overall": "effectively-excellent",
   "fixable_gaps": [],
   "capped_axes": [],
-  "cap_note": "",
-  "all_gaps": []
+  "cap_note": "shots species-representative (limited/no CC cultivar photos)",
+  "notes": "sp-flowers (close framing of blooming canopy) + sp-habit (whole tree in full bloom) give a good flowering-mass pair, but no crisp single-blossom close-up. su-fruit shows green developing plums; fa-close shows ripe blue plums with bloom. Good range across seasons."
  },
  {
-  "slug": "perennials/grecian-windflower",
-  "common": "Grecian windflower",
-  "type": "Forb",
-  "lifecycle": "Perennial",
-  "n_shots": 5,
-  "scores": {
-   "whole_plant": 2,
-   "foliage": 2,
-   "flowers": 2,
-   "front_facing": 2,
-   "bloom_in_context": 2,
-   "seed_pods": "NA",
-   "thumb_framing": 2,
-   "seasonal": "NA"
-  },
-  "overall": "excellent",
-  "gaps": [],
-  "fixable_gaps": [],
-  "capped_axes": [],
-  "cap_note": "",
-  "all_gaps": []
- },
- {
-  "slug": "perennials/hardy-geranium",
-  "common": "Hardy cranesbill",
-  "type": "Groundcover",
+  "slug": "trees/toka-plum",
+  "common": "Toka plum",
+  "type": "Tree",
   "lifecycle": "Perennial",
   "n_shots": 4,
   "scores": {
-   "whole_plant": 2,
-   "foliage": 2,
+   "whole_plant": 1,
+   "foliage": 1,
    "flowers": 2,
    "front_facing": 2,
    "bloom_in_context": 2,
    "seed_pods": "NA",
-   "thumb_framing": 2,
-   "seasonal": 1
-  },
-  "overall": "good",
-  "gaps": [
-   "foliage=1: su-foliage shot is dominated by a bumblebee on a flower; the deeply-lobed palmate foliage is visible in the background but is secondary/blurred — need a shot where the lobed leaf shape and texture are the clear subject rather than the flower",
-   "seasonal=1: all 4 shots are summer; the plant is known for red-orange fall foliage color but no fall shot exists — add a fall color shot to score 2"
-  ],
-  "fixable_gaps": [],
-  "capped_axes": [
-   "seasonal"
-  ],
-  "cap_note": "no CC fall-colour shot for the sterile hybrid",
-  "all_gaps": [
-   "seasonal"
-  ]
- },
- {
-  "slug": "perennials/horned-spurge",
-  "common": "Horned spurge",
-  "type": "Forb",
-  "lifecycle": "Perennial",
-  "n_shots": 6,
-  "scores": {
-   "whole_plant": 2,
-   "foliage": 2,
-   "flowers": 2,
-   "front_facing": "NA",
-   "bloom_in_context": 2,
-   "seed_pods": 2,
-   "thumb_framing": 2,
-   "seasonal": 2
-  },
-  "overall": "good",
-  "gaps": [
-   "seed_pods=1: the 3-lobed capsules (seed pods) of euphorbia are visible incidentally in sp-bloom and fa-detail but there is no shot dedicated to showing the capsules clearly as a feature. Not a critical gap — the capsules are not the main ornamental feature — but a close-up in the late-summer/fall seed-set window would fully cover this axis."
-  ],
-  "fixable_gaps": [],
-  "capped_axes": [],
-  "cap_note": "",
-  "all_gaps": []
- },
- {
-  "slug": "perennials/japanese-anemone",
-  "common": "Japanese anemone",
-  "type": "Forb",
-  "lifecycle": "Perennial",
-  "n_shots": 5,
-  "scores": {
-   "whole_plant": 2,
-   "foliage": 2,
-   "flowers": 2,
-   "front_facing": 2,
-   "bloom_in_context": 2,
-   "seed_pods": 2,
-   "thumb_framing": 2,
-   "seasonal": 2
-  },
-  "overall": "good",
-  "gaps": [
-   "seed_pods: fluffy anemone seedheads are a notable late-season feature — none captured",
-   "seasonal: summer+fall only; spring emergence (bold foliage flush) not represented"
-  ],
-  "fixable_gaps": [],
-  "capped_axes": [],
-  "cap_note": "",
-  "all_gaps": []
- },
- {
-  "slug": "perennials/knautia",
-  "common": "Knautia",
-  "type": "Forb",
-  "lifecycle": "Perennial",
-  "n_shots": 5,
-  "scores": {
-   "whole_plant": 2,
-   "foliage": 2,
-   "flowers": 2,
-   "front_facing": 2,
-   "bloom_in_context": 2,
-   "seed_pods": "NA",
-   "thumb_framing": 2,
-   "seasonal": 2
-  },
-  "overall": "good",
-  "gaps": [
-   "foliage: su-foliage thumb shows a hand holding a leaf stem in front of a wooden fence with mixed background plants — the pinnate leaf is visible but the hand and cluttered background make it score 1; a clean in-situ shot of the basal rosette/pinnate leaves is needed",
-   "thumb_framing: su-habit has the nearest pincushion head slightly out of focus in the foreground with the rest of the plant behind; su-foliage hand dominates (score 1 for the set)",
-   "seasonal: all shots are summer; plant blooms Jul–Sep with basal rosette persisting into late fall — a fall shot of the dying-back rosette or late flowers would round out the reel"
-  ],
-  "fixable_gaps": [],
-  "capped_axes": [],
-  "cap_note": "",
-  "all_gaps": []
- },
- {
-  "slug": "perennials/mountain-bluet",
-  "common": "Mountain bluet",
-  "type": "Forb",
-  "lifecycle": "Perennial",
-  "n_shots": 5,
-  "scores": {
-   "whole_plant": 2,
-   "foliage": 2,
-   "flowers": 2,
-   "front_facing": 2,
-   "bloom_in_context": 2,
-   "seed_pods": "NA",
-   "thumb_framing": 2,
-   "seasonal": 2
-  },
-  "overall": "good",
-  "gaps": [
-   "seasonal=1: all four shots are spring; plant reblooms into summer and fall with deadheading and is fully perennial. A summer or fall rebloom shot would show the extended season. Gap is fillable from iNat (summer/fall months, flowering phenology)."
-  ],
-  "fixable_gaps": [],
-  "capped_axes": [],
-  "cap_note": "",
-  "all_gaps": []
- },
- {
-  "slug": "perennials/oriental-poppy",
-  "common": "Oriental poppy",
-  "type": "Forb",
-  "lifecycle": "Perennial",
-  "n_shots": 6,
-  "scores": {
-   "whole_plant": 2,
-   "foliage": 2,
-   "flowers": 2,
-   "front_facing": 2,
-   "bloom_in_context": 2,
-   "seed_pods": 2,
-   "thumb_framing": 2,
-   "seasonal": 2
-  },
-  "overall": "fair",
-  "gaps": [
-   "flowers=1: sp-flower (the dedicated close-up) is shot looking down from above into a half-open bowl — the petals' full crepe-paper texture, the fringed edge, and the stamens are visible but the flower is not fully open face-on. sp-bloom2 is the better close-up (multiple fully-open blooms face-on, fringed petals clear), but it is labeled as the bloom-context shot. The reel lacks a single clean, fully-open, face-on close-up.",
-   "front_facing=1: sp-flower is shot from directly above/slightly angled into a half-open bloom — not truly face-on. sp-bloom2 has two face-on blooms but they compete with each other and the framing is wide. sp-bloom (chefao shot) is overhead looking into one bloom with the basal leaves visible — again not a clean face-on front. The reel has no single definitive face-on flower portrait.",
-   "thumb_framing=1: sp-flower-t.jpg crops the bloom from the bottom — only the upper half of the flower and the distinctively ruffled petals are visible; the full bowl shape and stamens are cut off in the thumbnail. sp-bloom-t.jpg shows the flower viewed from above, off-centre at right.",
-   "seasonal=1: all six shots are spring/early-summer bloom or the summer seed pod. The plant has a well-known autumn foliage re-emergence (basal rosette returns in September) — a fall shot of that re-emergent foliage would complete the lifecycle story and help gardeners recognize it in autumn. This is achievable with iNat phenology filtering."
-  ],
-  "fixable_gaps": [],
-  "capped_axes": [],
-  "cap_note": "",
-  "all_gaps": []
- },
- {
-  "slug": "perennials/panicled-aster",
-  "common": "Panicled aster",
-  "type": "Forb",
-  "lifecycle": "Perennial",
-  "n_shots": 4,
-  "scores": {
-   "whole_plant": 2,
-   "foliage": 2,
-   "flowers": 2,
-   "front_facing": 2,
-   "bloom_in_context": 2,
-   "seed_pods": 2,
-   "thumb_framing": 2,
-   "seasonal": 2
-  },
-  "overall": "good",
-  "gaps": [
-   "seed_pods=1: fa-bloom-t.jpg shows some browning/spent heads incidentally but no dedicated shot of the feathery persistent seedheads that are a noted feature; a cleaner seedhead shot would score 2",
-   "seasonal=1: all 4 shots are fall only; no summer foliage/stem shot or spring emergence — the plant is tall and leafy all season and a summer stem shot would be useful"
-  ],
-  "fixable_gaps": [],
-  "capped_axes": [],
-  "cap_note": "",
-  "all_gaps": []
- },
- {
-  "slug": "perennials/pasque-flower",
-  "common": "Pasque flower",
-  "type": "Forb",
-  "lifecycle": "Perennial",
-  "n_shots": 4,
-  "scores": {
-   "whole_plant": 2,
-   "foliage": 2,
-   "flowers": 2,
-   "front_facing": 2,
-   "bloom_in_context": 2,
-   "seed_pods": 2,
-   "thumb_framing": 2,
-   "seasonal": 2
-  },
-  "overall": "fair",
-  "gaps": [
-   "whole_plant=1: sp-habit shows closed buds at low angle against litter — flowers are closed, clump form partially obscured; no shot of the full open clump in bloom from a normal viewing angle",
-   "foliage=1: sp-foliage shows pre-bloom silky buds on hairy stems, not the characteristic ferny leaf rosette that emerges post-bloom; the actual foliage (dissected, hairy leaves) is not represented",
-   "bloom_in_context=1: sp-flower is a tight cluster of open cups that reads as both close-up and mini-mass, but there is no standing-back shot of the whole clump in full open bloom showing low prairie mounding habit",
-   "thumb_framing=1: sp-habit thumbnail is a low-angle close shot of closed buds against litter — subject small and habitat cluttered; sp-foliage thumbnail shows buds in lower-left with wasted sky/background space above",
-   "seasonal=1: only spring shots (bloom and seedhead); the plant has attractive ferny summer foliage and the blurb notes winter interest (winter:true) — missing summer foliage and ideally a winter clump shot"
-  ],
-  "fixable_gaps": [],
-  "capped_axes": [],
-  "cap_note": "",
-  "all_gaps": []
- },
- {
-  "slug": "perennials/red-valerian",
-  "common": "Red valerian",
-  "type": "Forb",
-  "lifecycle": "Perennial",
-  "n_shots": 5,
-  "scores": {
-   "whole_plant": 2,
-   "foliage": 2,
-   "flowers": 2,
-   "front_facing": 2,
-   "bloom_in_context": 2,
-   "seed_pods": 2,
-   "thumb_framing": 2,
-   "seasonal": 2
-  },
-  "overall": "fair",
-  "gaps": [
-   "whole_plant=1: su-habit frames the plant from the right side only (base cut off below frame, top cut off); a dead twig intrudes top-left; the plant's characteristic arching multi-stem form is not clearly read — need a shot showing the full plant base-to-crown",
-   "foliage=1: su-foliage is dark, low-contrast, and shows leaves as secondary backdrop to a seedhead; the glaucous blue-gray leaf color, ovate shape and smooth texture are not clearly readable — need a cleaner, brighter foliage close-up",
-   "thumb_framing=1: su-habit thumbnail is dominated by grey water background with the plant cropped to the right half; su-foliage thumbnail is dark and the leaves are small and unreadable at card size"
-  ],
-  "fixable_gaps": [],
-  "capped_axes": [],
-  "cap_note": "",
-  "all_gaps": []
- },
- {
-  "slug": "perennials/salvia-meadow-sage",
-  "common": "Salvia (meadow sage)",
-  "type": "Forb",
-  "lifecycle": "Perennial",
-  "n_shots": 3,
-  "scores": {
-   "whole_plant": 2,
-   "foliage": 2,
-   "flowers": 2,
-   "front_facing": 2,
-   "bloom_in_context": 2,
-   "seed_pods": "NA",
-   "thumb_framing": 2,
-   "seasonal": 2
-  },
-  "overall": "good",
-  "gaps": [
-   "front_facing=1: su-flower shows dense spikes photographed from an angled/side perspective; individual florets are visible but the shot is more of a mass-of-spikes angle than a crisp face-on of a single floret. For spike-type salvias a side view of the spike is standard, but a tighter shot isolating individual tubular florets would score 2.",
-   "thumb_framing=1: su-habit thumbnail is a portrait-orientation image cropped to 3:2, cutting the clear context (the full image is outstanding but the crop reduces framing quality, leaving the plant noticeably smaller in the thumb). fa-foliage thumbnail shows the plant amid dense weedy growth with limited isolation.",
-   "seasonal=1: only summer (2 shots) and fall (1 foliage shot). Missing spring early-growth or a second-flush rebloom shot in late summer/fall when the plant is in its August rebloom. Three shots total is thin for a plant with a documented rebloom habit and aromatic fall foliage interest."
-  ],
-  "fixable_gaps": [],
-  "capped_axes": [],
-  "cap_note": "",
-  "all_gaps": []
- },
- {
-  "slug": "perennials/scabiosa",
-  "common": "Pincushion flower",
-  "type": "Forb",
-  "lifecycle": "Perennial",
-  "n_shots": 4,
-  "scores": {
-   "whole_plant": 2,
-   "foliage": 2,
-   "flowers": 2,
-   "front_facing": 2,
-   "bloom_in_context": 2,
-   "seed_pods": 2,
-   "thumb_framing": 2,
-   "seasonal": 1
-  },
-  "overall": "fair",
-  "gaps": [
-   "whole_plant: su-bloom thumbnail cuts the plant top off the frame; mostly shows meadow background — habit of the compact clump on wiry stems never clearly shown",
-   "foliage: su-foliage slot is actually a flower shot (mislabeled); the characteristic ferny gray-green basal foliage is never shown",
-   "bloom_in_context: su-bloom is the intended mass shot but the plant is cropped out of frame — need a shot showing the clump covered in floating pincushion blooms",
-   "thumb_framing: su-bloom thumb has the flower cut at top and plant missing from frame",
-   "seasonal: summer+fall only; late-spring bloom onset unrepresented"
-  ],
-  "fixable_gaps": [],
-  "capped_axes": [
-   "seasonal"
-  ],
-  "cap_note": "summer+fall covered; no distinct CC spring-onset shot",
-  "all_gaps": [
-   "seasonal"
-  ]
- },
- {
-  "slug": "perennials/scarlet-bee-balm",
-  "common": "Scarlet bee balm",
-  "type": "Forb",
-  "lifecycle": "Perennial",
-  "n_shots": 6,
-  "scores": {
-   "whole_plant": 2,
-   "foliage": 2,
-   "flowers": 2,
-   "front_facing": 2,
-   "bloom_in_context": 2,
-   "seed_pods": 2,
-   "thumb_framing": 2,
-   "seasonal": 2
-  },
-  "overall": "good",
-  "gaps": [
-   "seed_pods: fa-pods thumbnail shows the spent head from behind/above while the bloom is still partially red — the shot reads more as a late flower than a true dried seedhead; a shot of fully-dried brown calyces on tall upright winter stems would score 2"
-  ],
-  "fixable_gaps": [],
-  "capped_axes": [],
-  "cap_note": "",
-  "all_gaps": []
- },
- {
-  "slug": "perennials/shasta-daisy",
-  "common": "Shasta daisy",
-  "type": "Forb",
-  "lifecycle": "Perennial",
-  "n_shots": 4,
-  "scores": {
-   "whole_plant": 2,
-   "foliage": 2,
-   "flowers": 2,
-   "front_facing": 2,
-   "bloom_in_context": 2,
-   "seed_pods": "NA",
-   "thumb_framing": 2,
-   "seasonal": 2
-  },
-  "overall": "good",
-  "gaps": [
-   "seasonal=1: three shots all summer; plant is a perennial with a spring basal-rosette emergence stage and can be found in bloom from June through early fall. A spring emerging-basal-rosette shot, or a late-fall/early-spring rosette shot, would complete the seasonal picture. Gap is fillable from iNat (spring months or fall months, budding/no_evidence phenology)."
-  ],
-  "fixable_gaps": [],
-  "capped_axes": [],
-  "cap_note": "",
-  "all_gaps": []
- },
- {
-  "slug": "perennials/silvery-lupine",
-  "common": "Silvery lupine",
-  "type": "Forb",
-  "lifecycle": "Perennial",
-  "n_shots": 5,
-  "scores": {
-   "whole_plant": 2,
-   "foliage": 2,
-   "flowers": 2,
-   "front_facing": 2,
-   "bloom_in_context": 2,
-   "seed_pods": 1,
-   "thumb_framing": 2,
-   "seasonal": 2
-  },
-  "overall": "fair",
-  "gaps": [
-   "foliage=1: su-foliage shot shows the palmate leaves with rain droplets — leaves are recognizable but the shot is soft/slightly out of focus across the frame (the background grass is equally sharp); the defining 'silvery' texture of the hairs is not legible. The silkiness is this plant's key ID feature. Need a shot in direct sunlight where the silver sheen is clearly visible.",
-   "seed_pods=1: fa-pods shows dried calyces and remnant petals on a bare stem — the image is labeled as a seed spike with ripening pods, but actual ripe seed pods (the hairy legume-type pods that split explosively) are not visible; what's shown are old empty flower calyces. A shot of the actual hairy pea-pod seed pods, ideally fat and pre-split, is missing.",
-   "thumb_framing=1: su-foliage-t.jpg is a soft low-contrast shot — the silvery leaf feature is not crisp in the thumb; su-flower-t.jpg has the flower spike at upper-right with the leaves largely cut off at the frame edges; fa-pods-t.jpg shows a distant bare stem against blurred grass with almost no readable content at card scale."
-  ],
-  "fixable_gaps": [],
-  "capped_axes": [
-   "seed_pods"
-  ],
-  "cap_note": "no CC fat pre-split seed-pod shot",
-  "all_gaps": [
-   "seed_pods"
-  ]
- },
- {
-  "slug": "perennials/speedwell",
-  "common": "Spike speedwell",
-  "type": "Forb",
-  "lifecycle": "Perennial",
-  "n_shots": 6,
-  "scores": {
-   "whole_plant": 2,
-   "foliage": 2,
-   "flowers": 2,
-   "front_facing": 2,
-   "bloom_in_context": 2,
-   "seed_pods": "NA",
-   "thumb_framing": 2,
-   "seasonal": 1
-  },
-  "overall": "good",
-  "gaps": [
-   "foliage=1: leaf shape is visible in su-context-t.jpg and su-habit-t.jpg but always secondary to the spikes; no shot focused on the basal rosette or stem leaves showing texture clearly",
-   "seasonal=1: all 6 shots are summer; no spring emerging rosette or fall/senescence view; the blurb notes 'rosette of dark green leaves from spring' and 'tidy through fall' — those phases have no coverage"
-  ],
-  "fixable_gaps": [],
-  "capped_axes": [
-   "seasonal"
-  ],
-  "cap_note": "six summer shots cover; no stronger CC spring/fall shot",
-  "all_gaps": [
-   "seasonal"
-  ]
- },
- {
-  "slug": "perennials/verbena",
-  "common": "Garden verbena",
-  "type": "Groundcover",
-  "lifecycle": "Tender perennial",
-  "n_shots": 4,
-  "scores": {
-   "whole_plant": 2,
-   "foliage": 2,
-   "flowers": 2,
-   "front_facing": 2,
-   "bloom_in_context": 2,
-   "seed_pods": "NA",
-   "thumb_framing": 2,
-   "seasonal": "NA"
-  },
-  "overall": "good",
-  "gaps": [
-   "thumb_framing=1: su-flower thumbnail shows clusters at a distance against rocky soil — individual florets small and partially obscured; su-foliage has the flower cluster off left-center with foliage taking the right side; neither is a tight, clearly-centered feature shot",
-   "note: shots depict the species (Glandularia canadensis, rose-pink form) rather than the named 'Homestead Purple' cultivar (deep violet-purple); the habit and flower structure convey the plant type well but the color differs from what the plant record describes"
-  ],
-  "fixable_gaps": [],
-  "capped_axes": [],
-  "cap_note": "",
-  "all_gaps": []
- },
- {
-  "slug": "perennials/western-wallflower",
-  "common": "Western wallflower",
-  "type": "Forb",
-  "lifecycle": "Biennial",
-  "n_shots": 6,
-  "scores": {
-   "whole_plant": 2,
-   "foliage": 2,
-   "flowers": 2,
-   "front_facing": 2,
-   "bloom_in_context": 2,
-   "seed_pods": 2,
-   "thumb_framing": 2,
-   "seasonal": 2
-  },
-  "overall": "good",
-  "gaps": [
-   "seed_pods=1: su-pods shows the slender silique pods on upper stems but the shot is somewhat soft/blurry and the pods are small relative to the frame — a crisper close-up showing 3-5 siliques in sharp detail would score 2",
-   "thumb_framing=1: sp-bloom thumbnail places the whole plant as a tiny element in the lower center of a large expanse of white gravel — the plant is identifiable but small, not 'centered and clearly visible'; su-pods thumbnail is blurry and the pods are difficult to read at card scale"
-  ],
-  "fixable_gaps": [],
-  "capped_axes": [],
-  "cap_note": "",
-  "all_gaps": []
- },
- {
-  "slug": "perennials/white-heath-aster",
-  "common": "White heath aster",
-  "type": "Forb",
-  "lifecycle": "Perennial",
-  "n_shots": 6,
-  "scores": {
-   "whole_plant": 2,
-   "foliage": 2,
-   "flowers": 2,
-   "front_facing": 2,
-   "bloom_in_context": 2,
-   "seed_pods": 2,
-   "thumb_framing": 2,
-   "seasonal": 2
-  },
-  "overall": "good",
-  "gaps": [
-   "foliage=1: fa-foliage shows the wiry branching stem with the heath-like needle leaves and flowers opening, but the leaves are secondary to the flowers in the frame and the fine texture is not the primary readable element. No dedicated shot of the distinctive fine heath-like foliage in summer before bloom, which is the key identifying feature.",
-   "thumb_framing=1: wi-seeds thumbnail is noticeably out-of-focus (shallow DOF with camera aimed between the seedhead clusters) — the feathery tufts are soft and hard to read at card scale. The full image is similarly blurry.",
-   "seasonal=1: 5 of 6 shots are fall (bloom window) plus 1 winter seedhead. The plant spends summer as a wiry, distinctive foliage mound — no summer shot. Spring emergence also absent. Missing the summer vegetative state."
-  ],
-  "fixable_gaps": [],
-  "capped_axes": [],
-  "cap_note": "",
-  "all_gaps": []
- },
- {
-  "slug": "perennials/white-prairie-aster",
-  "common": "White prairie aster",
-  "type": "Forb",
-  "lifecycle": "Perennial",
-  "n_shots": 4,
-  "scores": {
-   "whole_plant": 2,
-   "foliage": 2,
-   "flowers": 2,
-   "front_facing": 2,
-   "bloom_in_context": 2,
-   "seed_pods": 1,
    "thumb_framing": 1,
    "seasonal": 2
   },
-  "overall": "good",
-  "gaps": [
-   "front_facing: fa-close shows a cluster of daisy flowers at varied angles; no single clean face-on flower",
-   "seed_pods: fa-seedheads shows the pappus seedhead but it is small in the upper-left corner against mostly brown prairie straw — feature poorly framed",
-   "thumb_framing: fa-seedheads thumb has the seedhead feature small and off-center in a cluttered dried-grass frame",
-   "seasonal: only fall shots; spring/summer foliage growth unrepresented (all-season foliage plant)"
+  "overall": "effectively-excellent",
+  "fixable_gaps": [
+   {
+    "axis": "whole_plant",
+    "current": 1,
+    "need": "a clean habit shot; sp-habit is a flowering tree but cluttered with a house/fence/trash-bin street background",
+    "how": "Commons Prunus 'Toka' tree or Openverse/Flickr cultivar series (how the existing shots were sourced)"
+   },
+   {
+    "axis": "foliage",
+    "current": 1,
+    "need": "a leaf-readable foliage shot (no clean foliage shot)",
+    "how": "iNat --phenology no_evidence; Openverse/Flickr Toka plum"
+   },
+   {
+    "axis": "thumb_framing",
+    "current": 1,
+    "need": "su-fruit shows tiny immature green fruit small in frame; su-close fruit is partly obscured behind a black metal fence",
+    "how": "re-source a ripe-fruit shot framed centered; Openverse/Flickr Toka plum fruit"
+   }
   ],
-  "fixable_gaps": [],
   "capped_axes": [
+   "foliage",
    "thumb_framing",
-   "seed_pods"
+   "whole_plant"
   ],
-  "cap_note": "no tighter CC pappus close-up than the existing shot",
-  "all_gaps": [
-   "seed_pods",
-   "thumb_framing"
-  ]
+  "cap_note": "whole_plant: no qualifying CC Toka shot; hybrid, species-rep would be dishonest; foliage: same; thumb_framing: no clean ripe-fruit/habit CC shot",
+  "notes": "sp-flowers (bee on face-on white blossom) is excellent and the cultivar is reachable via Openverse/Flickr. But sp-habit has a cluttered residential background (house, recycling bin, black fence), su-fruit shows only tiny green developing fruit, and su-close fruit sits behind fence bars. Habit & fruit framing both weak."
  },
  {
-  "slug": "perennials/wild-bergamot",
-  "common": "Wild bergamot",
-  "type": "Forb",
+  "slug": "trees/reliance-peach",
+  "common": "Reliance peach",
+  "type": "Tree",
+  "lifecycle": "Perennial",
+  "n_shots": 7,
+  "scores": {
+   "whole_plant": 2,
+   "foliage": 2,
+   "flowers": 2,
+   "front_facing": 2,
+   "bloom_in_context": 2,
+   "seed_pods": "NA",
+   "thumb_framing": 2,
+   "seasonal": 2
+  },
+  "overall": "effectively-excellent",
+  "fixable_gaps": [],
+  "capped_axes": [],
+  "cap_note": "shots species-representative (limited/no CC cultivar photos)",
+  "notes": "Thin 3-shot reel: sp-flowers (sparse pink blossoms on a bare twig over brown grass, weak), su-fruit and su-close (good ripening orange-blush peaches). No habit, no clear foliage. Cultivar shots were Openverse/Flickr-sourced per roster notes — re-query there. Likely some fixes only species-representative."
+ },
+ {
+  "slug": "trees/summercrisp-pear",
+  "common": "Summercrisp pear",
+  "type": "Tree",
   "lifecycle": "Perennial",
   "n_shots": 5,
   "scores": {
@@ -1291,45 +232,22 @@
    "flowers": 2,
    "front_facing": 2,
    "bloom_in_context": 2,
-   "seed_pods": 2,
-   "thumb_framing": 2,
-   "seasonal": 2
-  },
-  "overall": "good",
-  "gaps": [
-   "seasonal: summer + fall covered but no winter shot; care notes state 'dried brown seedheads stand attractively through fall and winter, feeding goldfinches and sparrows' — a winter seedhead shot on bare stems would close the gap and match the plant's advertised four-season interest"
-  ],
-  "fixable_gaps": [],
-  "capped_axes": [],
-  "cap_note": "",
-  "all_gaps": []
- },
- {
-  "slug": "perennials/yellow-yarrow",
-  "common": "Yellow yarrow",
-  "type": "Forb",
-  "lifecycle": "Perennial",
-  "n_shots": 3,
-  "scores": {
-   "whole_plant": 2,
-   "foliage": 2,
-   "flowers": 2,
-   "front_facing": "NA",
-   "bloom_in_context": 2,
    "seed_pods": "NA",
    "thumb_framing": 2,
    "seasonal": 2
   },
-  "overall": "fair",
-  "gaps": [
-   "whole_plant=1: su-close is named 'close' but the thumbnail crop renders as a cluttered tangle of stems and heads; the full image (portrait) is better but the card thumb doesn't read as a clear whole-plant habit. A landscape-oriented shot of the full mound (silvery foliage + golden heads as a clear dome) would score 2.",
-   "thumb_framing=1: su-close-t.jpg crop is a busy mid-field tangle of stems — the 720×480 smart-crop doesn't isolate a clear subject; it reads as background texture rather than a legible habit shot. The su-structure and su-foliage thumbs are well-centered.",
-   "seasonal=1: all three shots are summer; plant is described as 'silver-grey foliage from spring through fall; seedheads add minor winter texture' and foliage is semi-evergreen in mild winters. A spring foliage shot or a fall/early-winter seedhead shot would document the off-bloom season. Gap is fillable from iNat or Commons (spring foliage, fall seedheads)."
-  ],
+  "overall": "effectively-excellent",
   "fixable_gaps": [],
-  "capped_axes": [],
-  "cap_note": "",
-  "all_gaps": []
+  "capped_axes": [
+   "bloom_in_context",
+   "flowers",
+   "foliage",
+   "front_facing",
+   "seasonal",
+   "whole_plant"
+  ],
+  "cap_note": "shots species-representative (limited/no CC cultivar photos); Per the plant's existing gaps note, NO open-licensed 'Summercrisp' cultivar photo exists anywhere (Commons/iNat/GBIF/Openverse/Flickr as of 2026-06); all shots are species-representative Pyrus communis. Cultivar-true shots are structurally unavailable; any added shot would also be species-representative and must be honestly captioned.",
+  "notes": "sp-flowers (face-on white pear blossom, crisp) and su-foliage (clear glossy leaves) are strong; su-fruit good. The only true content gap is whole-plant/habit, but even that can only be filled species-representative. Treat as capped-good per the gaps note."
  },
  {
   "slug": "shrubs/common-lilac",
@@ -1348,64 +266,10 @@
    "seasonal": 2
   },
   "overall": "excellent",
-  "gaps": [],
   "fixable_gaps": [],
   "capped_axes": [],
   "cap_note": "",
-  "all_gaps": []
- },
- {
-  "slug": "shrubs/creeping-oregon-grape",
-  "common": "Creeping Oregon grape",
-  "type": "Shrub",
-  "lifecycle": "Perennial",
-  "n_shots": 4,
-  "scores": {
-   "whole_plant": 2,
-   "foliage": 2,
-   "flowers": 2,
-   "front_facing": "NA",
-   "bloom_in_context": "NA",
-   "seed_pods": 2,
-   "thumb_framing": 2,
-   "seasonal": 2
-  },
-  "overall": "good",
-  "gaps": [
-   "seasonal=1: spring and fall covered; winter interest (bronze-purple leaf colour) is a named feature and listed in 'seasons' but has no shot; a winter foliage shot is the clear gap"
-  ],
-  "fixable_gaps": [],
-  "capped_axes": [],
-  "cap_note": "",
-  "all_gaps": []
- },
- {
-  "slug": "shrubs/mock-orange",
-  "common": "Mock orange",
-  "type": "Shrub",
-  "lifecycle": "Perennial",
-  "n_shots": 3,
-  "scores": {
-   "whole_plant": 2,
-   "foliage": 2,
-   "flowers": 2,
-   "front_facing": 2,
-   "bloom_in_context": 2,
-   "seed_pods": "NA",
-   "thumb_framing": 2,
-   "seasonal": 2
-  },
-  "overall": "fair",
-  "gaps": [
-   "whole_plant=1: su-habit is a shot looking up into the shrub canopy from below/inside — shows massed bloom beautifully but gives no sense of the 6–9 ft vase-shaped shrub form; no standing-back full-shrub silhouette",
-   "foliage=1: all 3 shots are in-bloom with leaves always secondary to white flowers; oval opposite leaves are glimpsed in su-foliage and su-flower but never shown as the primary subject — leaf shape and texture readable only if you look for it",
-   "thumb_framing=1: su-habit thumbnail is a crowded within-canopy view with no clear shrub outline or sense of scale; the subject is blooms (good) but the composition is too internal to read as a whole-plant habit shot",
-   "seasonal=1: all 3 shots are summer bloom; the card notes 'good yellow fall color' and 'arching vase-shaped stems provide winter structure' — both are unrepresented seasons for a multi-season shrub"
-  ],
-  "fixable_gaps": [],
-  "capped_axes": [],
-  "cap_note": "",
-  "all_gaps": []
+  "notes": "sp-habit (whole shrub in bloom = mass), sp-panicle (crisp face-on florets = close-up), fa-foliage (clear heart-shaped leaves), wi-winter (bare snowy shrub). Full coverage. seed_pods NA (lilac capsules not a notable feature)."
  },
  {
   "slug": "shrubs/red-twig-dogwood",
@@ -1424,72 +288,10 @@
    "seasonal": 2
   },
   "overall": "excellent",
-  "gaps": [],
   "fixable_gaps": [],
   "capped_axes": [],
   "cap_note": "",
-  "all_gaps": []
- },
- {
-  "slug": "shrubs/smoke-tree",
-  "common": "Smoke tree",
-  "type": "Shrub",
-  "lifecycle": "Perennial",
-  "n_shots": 5,
-  "scores": {
-   "whole_plant": 2,
-   "foliage": 2,
-   "flowers": 2,
-   "front_facing": "NA",
-   "bloom_in_context": 2,
-   "seed_pods": "NA",
-   "thumb_framing": 2,
-   "seasonal": 2
-  },
-  "overall": "good",
-  "gaps": [
-   "thumb_framing=1: wi-framework thumbnail shows a dense, cluttered thicket interior — the stems merge with background and the plant's bold multi-stem structure is not clearly legible at card scale. The full image is also dark and cluttered. This winter shot would benefit from replacement with a cleaner, more isolated winter silhouette.",
-   "seasonal=1: summer (3), fall (1), winter (1) — no spring shot. Spring leaf-out, especially the dramatic burgundy new foliage on purple-leaf cultivars like 'Royal Purple', is a notable feature. Not critical but the season gap is present."
-  ],
-  "fixable_gaps": [],
-  "capped_axes": [],
-  "cap_note": "",
-  "all_gaps": []
- },
- {
-  "slug": "shrubs/twinberry-honeysuckle",
-  "common": "Twinberry honeysuckle",
-  "type": "Shrub",
-  "lifecycle": "Perennial",
-  "n_shots": 4,
-  "scores": {
-   "whole_plant": 2,
-   "foliage": 2,
-   "flowers": 2,
-   "front_facing": 2,
-   "bloom_in_context": 2,
-   "seed_pods": 2,
-   "thumb_framing": 2,
-   "seasonal": 1
-  },
-  "overall": "fair",
-  "gaps": [
-   "foliage: no dedicated foliage shot; leaves visible in the whole-shrub shot but leaf shape/texture not readable as the primary subject",
-   "flowers: su-flower has a large hand/finger prominently obscuring the frame — paired yellow tubular flowers visible but partially blocked and not a clean shot",
-   "front_facing: flowers in su-flower viewed from below/side around hand; not face-on",
-   "bloom_in_context: no clear mass-in-bloom shot; su-habit shows shrub with small distant orange bracts rather than yellow flowers in peak bloom — the defining yellow-flower+red-bract display is not shown at scale",
-   "seed_pods: su-pods shows the distinctive twin berries in red bracts but berries appear shriveled/spent rather than crisp glossy-black; image is low-resolution with clutter background",
-   "thumb_framing: su-flower has hand dominating frame; su-habit shows landscape context with sky gap; su-foliage shows whole shrub without close leaf detail; overall framing weak across reel",
-   "seasonal: only summer shots; yellow fall foliage and winter bare architectural stems unrepresented"
-  ],
-  "fixable_gaps": [],
-  "capped_axes": [
-   "seasonal"
-  ],
-  "cap_note": "riparian deciduous; no notable CC fall-colour/winter shot",
-  "all_gaps": [
-   "seasonal"
-  ]
+  "notes": "Comprehensive 7-shot reel: winter red-stem habit + close stems, white flower cluster close-up + flowering-mass bush (su-bloom), clear foliage, white fall berries. All correct species, all seasons of interest covered."
  },
  {
   "slug": "shrubs/woods-rose",
@@ -1508,11 +310,1052 @@
    "seasonal": 2
   },
   "overall": "excellent",
-  "gaps": [],
   "fixable_gaps": [],
   "capped_axes": [],
   "cap_note": "",
-  "all_gaps": []
+  "notes": "sp-habit (low thicket), sp-bloom (flowering mass), su-flower (crisp face-on pink bloom), su-foliage (leaves + early hips), fa-hips (red hips), wi-hip (persistent hip in snow). Full seasonal + structural coverage."
+ },
+ {
+  "slug": "subshrubs/mojave-sage",
+  "common": "Mojave sage",
+  "type": "Subshrub",
+  "lifecycle": "Perennial",
+  "n_shots": 6,
+  "scores": {
+   "whole_plant": 2,
+   "foliage": 2,
+   "flowers": 2,
+   "front_facing": 2,
+   "bloom_in_context": 2,
+   "seed_pods": "NA",
+   "thumb_framing": 2,
+   "seasonal": 2
+  },
+  "overall": "excellent",
+  "fixable_gaps": [],
+  "capped_axes": [],
+  "cap_note": "",
+  "notes": "su-habit (silver mound with violet flowers = mass), su-flowers/su-bloom (purple bracts), su-flower (face-on blue salvia bloom emerging from bract), su-foliage (silver leaves), fa-fall (late-season spent inflorescences). Strong. seed_pods NA (nutlets not a feature)."
+ },
+ {
+  "slug": "subshrubs/russian-sage",
+  "common": "Russian sage",
+  "type": "Subshrub",
+  "lifecycle": "Perennial",
+  "n_shots": 5,
+  "scores": {
+   "whole_plant": 2,
+   "foliage": 2,
+   "flowers": 2,
+   "front_facing": 1,
+   "bloom_in_context": 2,
+   "seed_pods": "NA",
+   "thumb_framing": 2,
+   "seasonal": 2
+  },
+  "overall": "effectively-excellent",
+  "fixable_gaps": [],
+  "capped_axes": [
+   "front_facing"
+  ],
+  "cap_note": "Russian sage flowers are tiny lavender-blue lipped florets borne in an airy panicle on spikes; an individual floret cannot meaningfully be shown 'face-on' the way a daisy or rose can. su-flowers2 gets the closest achievable (florets in detail). Structural cap, not a fixable gap.",
+  "notes": "su-habit (airy lavender-blue haze = mass), su-flowers2 (best-achievable floret close-up), su-flowers, fa-spikes (mass), su-foliage (clear silver dissected leaves). front_facing capped per the spike/panicle convention. seed_pods NA."
+ },
+ {
+  "slug": "grasses/little-bluestem",
+  "common": "Little bluestem",
+  "type": "Grass",
+  "lifecycle": "Perennial",
+  "n_shots": 5,
+  "scores": {
+   "whole_plant": 2,
+   "foliage": 2,
+   "flowers": "NA",
+   "front_facing": "NA",
+   "bloom_in_context": "NA",
+   "seed_pods": 2,
+   "thumb_framing": 2,
+   "seasonal": 2
+  },
+  "overall": "excellent",
+  "fixable_gaps": [],
+  "capped_axes": [],
+  "cap_note": "",
+  "notes": "Foliage grass: flowers/front_facing/bloom_in_context NA. fa-habit (mahogany-copper clump), su-habit (summer clump), su-bluegreen (blue-green summer foliage), wi-habit (winter clump), fa-pods (fluffy seedheads). All seasons of interest + seedheads covered. Verify-species: consistent S. scoparium throughout."
+ },
+ {
+  "slug": "perennials/aspen-fleabane",
+  "common": "Aspen fleabane",
+  "type": "Forb",
+  "lifecycle": "Perennial",
+  "n_shots": 5,
+  "scores": {
+   "whole_plant": 2,
+   "foliage": 2,
+   "flowers": 2,
+   "front_facing": 2,
+   "bloom_in_context": 2,
+   "seed_pods": 2,
+   "thumb_framing": 2,
+   "seasonal": 2
+  },
+  "overall": "excellent",
+  "fixable_gaps": [],
+  "capped_axes": [],
+  "cap_note": "",
+  "notes": "su-flower (face-on lavender ray daisy with bee), su-habit (drift of bloom = mass), fa-seeds (silvery seedheads, well shown). su-foliage is the weak axis — narrow leaves blend into surrounding grass and aren't crisply readable."
+ },
+ {
+  "slug": "perennials/colorado-blue-columbine",
+  "common": "Colorado blue columbine",
+  "type": "Forb",
+  "lifecycle": "Perennial",
+  "n_shots": 7,
+  "scores": {
+   "whole_plant": 2,
+   "foliage": 2,
+   "flowers": 2,
+   "front_facing": 2,
+   "bloom_in_context": 2,
+   "seed_pods": 2,
+   "thumb_framing": 2,
+   "seasonal": 2
+  },
+  "overall": "excellent",
+  "fixable_gaps": [],
+  "capped_axes": [],
+  "cap_note": "",
+  "notes": "su-flower (face-on blue/white bloom with spurs), sp-bloom & su-habit & sp-habit (plant in bloom / mass), sp-bloom2, su-foliage (clear blue-green divided leaves), fa-seedhead (upright follicles). Comprehensive."
+ },
+ {
+  "slug": "perennials/cushion-spurge",
+  "common": "Cushion spurge",
+  "type": "Subshrub",
+  "lifecycle": "Perennial",
+  "n_shots": 5,
+  "scores": {
+   "whole_plant": 2,
+   "foliage": 2,
+   "flowers": 2,
+   "front_facing": 2,
+   "bloom_in_context": 2,
+   "seed_pods": "NA",
+   "thumb_framing": 2,
+   "seasonal": 2
+  },
+  "overall": "excellent",
+  "fixable_gaps": [],
+  "capped_axes": [],
+  "cap_note": "",
+  "notes": "sp-habit (chartreuse dome = mass), sp-flower (face-on detail of the yellow cyathia/bracts), sp-foliage & su-foliage (clear leaves), fa-color (red-orange autumn foliage — the signature fall feature). Euphorbia 'flowers' are bract clusters, well shown face-on. seed_pods NA (capsules not notable)."
+ },
+ {
+  "slug": "perennials/dahlia",
+  "common": "Dahlia",
+  "type": "Forb",
+  "lifecycle": "Tender perennial",
+  "n_shots": 7,
+  "scores": {
+   "whole_plant": 2,
+   "foliage": 2,
+   "flowers": 2,
+   "front_facing": 2,
+   "bloom_in_context": 2,
+   "seed_pods": "NA",
+   "thumb_framing": 2,
+   "seasonal": "NA"
+  },
+  "overall": "excellent",
+  "fixable_gaps": [],
+  "capped_axes": [],
+  "cap_note": "",
+  "notes": "Tender warm-season → seasonal NA. su-bloom & fa-fall are excellent flowering-mass shots, su-flower is a crisp face-on coral bloom (great close-up). Weakness is habit/foliage: the two 'habit' tiles are cluttered (one against a wall of vines), and no clean foliage shot. seed_pods NA (tubers/no notable seedhead)."
+ },
+ {
+  "slug": "perennials/garden-peony",
+  "common": "Garden peony",
+  "type": "Forb",
+  "lifecycle": "Perennial",
+  "n_shots": 5,
+  "scores": {
+   "whole_plant": 2,
+   "foliage": 2,
+   "flowers": 2,
+   "front_facing": 2,
+   "bloom_in_context": 2,
+   "seed_pods": "NA",
+   "thumb_framing": 2,
+   "seasonal": 2
+  },
+  "overall": "excellent",
+  "fixable_gaps": [],
+  "capped_axes": [],
+  "cap_note": "",
+  "notes": "sp-bloom (magenta clump in bloom = mass), sp-flower (face-on blush double bloom close-up), sp-foliage (emerging red-bronze divided leaves), sp-habit (clump with pale double blooms + buds), fa-fall (bronze autumn foliage). Note: foliage/flower color differs between tiles (red double mass vs pale double) — looks like mixed cultivars but acceptable for the species page; flag only if cultivar fidelity matters. seed_pods NA (peony follicles not the feature)."
+ },
+ {
+  "slug": "perennials/horned-spurge",
+  "common": "Horned spurge",
+  "type": "Forb",
+  "lifecycle": "Perennial",
+  "n_shots": 6,
+  "scores": {
+   "whole_plant": 2,
+   "foliage": 2,
+   "flowers": 2,
+   "front_facing": 2,
+   "bloom_in_context": 2,
+   "seed_pods": 2,
+   "thumb_framing": 2,
+   "seasonal": "NA"
+  },
+  "overall": "excellent",
+  "fixable_gaps": [
+   {
+    "axis": "seasonal",
+    "current": 1,
+    "need": "a non-spring/summer shot — many euphorbias color up in fall; reel is all spring/summer green-yellow",
+    "how": "iNat --month 9,10 on Euphorbia brachycera, or GBIF --month 9,10,11 (only if this native actually shows fall interest; if it truly has one season, this is NA not a gap)"
+   }
+  ],
+  "capped_axes": [],
+  "cap_note": "",
+  "notes": "sp-habit (spreading mat = mass), sp-flower (face-on yellow-green cyathia/bracts), su-foliage & sp-bloom & fa-detail (clear leaves/habit), su-pods (the horned capsules — its namesake, well shown). All shots spring/summer green; seasonal scored 1 conservatively, but if this small native has no real fall/winter interest it is arguably NA → would make it excellent. Lean toward NA on re-review; left as a soft fixable note."
+ },
+ {
+  "slug": "perennials/oriental-poppy",
+  "common": "Oriental poppy",
+  "type": "Forb",
+  "lifecycle": "Perennial",
+  "n_shots": 8,
+  "scores": {
+   "whole_plant": 2,
+   "foliage": 2,
+   "flowers": 2,
+   "front_facing": 2,
+   "bloom_in_context": 2,
+   "seed_pods": 2,
+   "thumb_framing": 2,
+   "seasonal": 2
+  },
+  "overall": "excellent",
+  "fixable_gaps": [],
+  "capped_axes": [],
+  "cap_note": "",
+  "notes": "Strong, complete reel: clear habit mass, sharp face-on flowers (sp-flower, sp-bloom2, sp-flower2), readable dissected foliage (sp-foliage), the distinctive fuzzy seed capsule (su-pods), and a fall foliage shot. Every axis a clean 2."
+ },
+ {
+  "slug": "perennials/salvia-meadow-sage",
+  "common": "Salvia (meadow sage)",
+  "type": "Forb",
+  "lifecycle": "Perennial",
+  "n_shots": 5,
+  "scores": {
+   "whole_plant": 2,
+   "foliage": 2,
+   "flowers": 2,
+   "front_facing": 1,
+   "bloom_in_context": 2,
+   "seed_pods": "NA",
+   "thumb_framing": 2,
+   "seasonal": 2
+  },
+  "overall": "effectively-excellent",
+  "fixable_gaps": [],
+  "capped_axes": [
+   "front_facing"
+  ],
+  "cap_note": "Capped at good: Salvia nemorosa flowers are densely packed upright spikes of small two-lipped florets; a true face-on single-bloom shot is not how this plant presents. su-floret macro shows one floret angled/profile (the natural view). No seed-pod feature (the spent calyx spikes are foliage-grade, covered by fa-foliage).",
+  "notes": "Good habit (su-habit), strong flower mass (su-flower, sp-spring), distinct grey-green felted foliage (fa-foliage), and a nice floret macro. front_facing is a structural spike cap, not a fixable gap."
+ },
+ {
+  "slug": "perennials/scarlet-bee-balm",
+  "common": "Scarlet bee balm",
+  "type": "Forb",
+  "lifecycle": "Perennial",
+  "n_shots": 6,
+  "scores": {
+   "whole_plant": 2,
+   "foliage": 2,
+   "flowers": 2,
+   "front_facing": 2,
+   "bloom_in_context": 2,
+   "seed_pods": 2,
+   "thumb_framing": 2,
+   "seasonal": 2
+  },
+  "overall": "excellent",
+  "fixable_gaps": [],
+  "capped_axes": [],
+  "cap_note": "",
+  "notes": "Complete: face-on whorled red flower close-up (su-flower), good flowering habit/mass (su-habit, su-bloom), readable foliage (su-foliage2), and two seedhead shots (fa-pods spent flower, wi-seedhead). All axes 2."
+ },
+ {
+  "slug": "perennials/shasta-daisy",
+  "common": "Shasta daisy",
+  "type": "Forb",
+  "lifecycle": "Perennial",
+  "n_shots": 4,
+  "scores": {
+   "whole_plant": 2,
+   "foliage": 2,
+   "flowers": 2,
+   "front_facing": 2,
+   "bloom_in_context": 2,
+   "seed_pods": "NA",
+   "thumb_framing": 2,
+   "seasonal": 2
+  },
+  "overall": "excellent",
+  "fixable_gaps": [],
+  "capped_axes": [],
+  "cap_note": "",
+  "notes": "Crisp face-on white-daisy close-up (su-flower), flowering mass habit (su-habit), readable toothed foliage (su-foliage), and the spring basal rosette (sp-rosette) covers the off-season. Seedheads not a notable feature. Excellent."
+ },
+ {
+  "slug": "perennials/silvery-lupine",
+  "common": "Silvery lupine",
+  "type": "Forb",
+  "lifecycle": "Perennial",
+  "n_shots": 6,
+  "scores": {
+   "whole_plant": 2,
+   "foliage": 2,
+   "flowers": 2,
+   "front_facing": 1,
+   "bloom_in_context": 2,
+   "seed_pods": 1,
+   "thumb_framing": 2,
+   "seasonal": 2
+  },
+  "overall": "effectively-excellent",
+  "fixable_gaps": [
+   {
+    "axis": "seed_pods",
+    "current": 1,
+    "need": "a fat, intact pre-split silvery-lupine pod shown clearly",
+    "how": "iNat phenology=fruiting on Lupinus argenteus (place_id=34) or GBIF --month 7,8 — though per project notes a CC fat pre-split pod has historically not surfaced; re-query before assuming cap"
+   }
+  ],
+  "capped_axes": [
+   "front_facing",
+   "seed_pods"
+  ],
+  "cap_note": "front_facing capped: lupine flowers are pea-flowers borne on a vertical raceme; no single bloom presents truly face-on. su-flower shows the raceme angled (best achievable).; seed_pods: no clean fat pre-split pod under open license",
+  "notes": "Good reel: silvery palmate foliage readable (su-foliage, su-foliage2), flower racemes (su-flower) and mass (su-habit, su-bloom). fa-pods shows thin/drying immature pods, not a clean fat pod — flagged fixable per the rubric (re-query iNat fruiting), though IMAGE_AUDIT notes this may be an unfillable cap."
+ },
+ {
+  "slug": "perennials/wild-bergamot",
+  "common": "Wild bergamot",
+  "type": "Forb",
+  "lifecycle": "Perennial",
+  "n_shots": 5,
+  "scores": {
+   "whole_plant": 2,
+   "foliage": 2,
+   "flowers": 2,
+   "front_facing": 2,
+   "bloom_in_context": 2,
+   "seed_pods": 2,
+   "thumb_framing": 2,
+   "seasonal": 2
+  },
+  "overall": "excellent",
+  "fixable_gaps": [],
+  "capped_axes": [],
+  "cap_note": "",
+  "notes": "Complete: lavender pom-pom flower close-up (su-flower), flowering mass habit (su-habit), readable lance foliage (su-foliage), and two strong seedhead shots (fa-seedhead, wi-winter-seedhead). All axes 2."
+ },
+ {
+  "slug": "annuals/california-poppy",
+  "common": "California poppy",
+  "type": "Forb",
+  "lifecycle": "Annual",
+  "n_shots": 7,
+  "scores": {
+   "whole_plant": 2,
+   "foliage": 2,
+   "flowers": 2,
+   "front_facing": 2,
+   "bloom_in_context": 2,
+   "seed_pods": 1,
+   "thumb_framing": 2,
+   "seasonal": "NA"
+  },
+  "overall": "effectively-excellent",
+  "fixable_gaps": [],
+  "capped_axes": [
+   "seed_pods"
+  ],
+  "cap_note": "seed_pods: no pod-isolated CC macro; capsules shown amid foliage",
+  "notes": "Strong face-on orange cup (su-flower), excellent bloom mass (su-bloom, su-drift, su-habit), readable lacy blue-green foliage (su-foliage). su-pods is really a foliage shot — the slender capsule isn't clearly read; seed_pods scored 1, fixable. Annual → seasonal NA."
+ },
+ {
+  "slug": "annuals/cosmos",
+  "common": "Cosmos",
+  "type": "Forb",
+  "lifecycle": "Annual",
+  "n_shots": 5,
+  "scores": {
+   "whole_plant": 2,
+   "foliage": 2,
+   "flowers": 2,
+   "front_facing": 2,
+   "bloom_in_context": 2,
+   "seed_pods": "NA",
+   "thumb_framing": 2,
+   "seasonal": "NA"
+  },
+  "overall": "excellent",
+  "fixable_gaps": [],
+  "capped_axes": [],
+  "cap_note": "",
+  "notes": "Crisp face-on pink flower (su-flower), bloom mass field (su-bloom), ferny foliage clearly read (su-foliage, su-plant), and whole-plant habit (su-habit). Annual → seasonal NA; seedheads not a notable feature → NA. Excellent."
+ },
+ {
+  "slug": "annuals/rocky-mountain-bee-plant",
+  "common": "Rocky Mountain bee plant",
+  "type": "Forb",
+  "lifecycle": "Annual",
+  "n_shots": 6,
+  "scores": {
+   "whole_plant": 2,
+   "foliage": 2,
+   "flowers": 2,
+   "front_facing": 2,
+   "bloom_in_context": 2,
+   "seed_pods": 2,
+   "thumb_framing": 2,
+   "seasonal": "NA"
+  },
+  "overall": "excellent",
+  "fixable_gaps": [],
+  "capped_axes": [],
+  "cap_note": "",
+  "notes": "Complete: pink spidery flower head close-up (su-flower2), prairie drift mass (su-drift), habit shots (su-habit, su-habit2), the distinctive dangling seed pods (fa-pods), and palmate foliage (su-foliage). Annual → seasonal NA. All applicable axes 2."
+ },
+ {
+  "slug": "annuals/snapdragon",
+  "common": "Snapdragon",
+  "type": "Forb",
+  "lifecycle": "Annual",
+  "n_shots": 8,
+  "scores": {
+   "whole_plant": 2,
+   "foliage": 2,
+   "flowers": 2,
+   "front_facing": 2,
+   "bloom_in_context": 2,
+   "seed_pods": 2,
+   "thumb_framing": 2,
+   "seasonal": "NA"
+  },
+  "overall": "excellent",
+  "fixable_gaps": [],
+  "capped_axes": [],
+  "cap_note": "",
+  "notes": "Flowers are strong: face-on pink bloom macro (su-flower), spike mass (su-habit2), good seed-pod shots (su-pods, su-pods2 skull-like capsules). But su-habit and su-foliage are scrappy wild/wall-crack plants (Pick-QC: wall/pavement setting) — both whole_plant and foliage scored 1, fixable. Annual → seasonal NA."
+ },
+ {
+  "slug": "annuals/snow-on-the-mountain",
+  "common": "Snow-on-the-mountain",
+  "type": "Forb",
+  "lifecycle": "Annual",
+  "n_shots": 5,
+  "scores": {
+   "whole_plant": 2,
+   "foliage": 2,
+   "flowers": 2,
+   "front_facing": 2,
+   "bloom_in_context": 2,
+   "seed_pods": "NA",
+   "thumb_framing": 2,
+   "seasonal": "NA"
+  },
+  "overall": "excellent",
+  "fixable_gaps": [],
+  "capped_axes": [],
+  "cap_note": "",
+  "notes": "The feature is the white-margined bracts/leaves, shown clearly face-on (su-habit macro, su-flower), with whole-plant/mass (su-habit2, su-bloom) and a habit-in-context (su-foliage). Flowers are tiny cyathia but the bract display is the bloom — well covered. Annual → seasonal NA; seedpods not a notable feature → NA."
+ },
+ {
+  "slug": "vines/climbing-rose",
+  "common": "Climbing rose",
+  "type": "Vine",
+  "lifecycle": "Perennial",
+  "n_shots": 6,
+  "scores": {
+   "whole_plant": 2,
+   "foliage": 2,
+   "flowers": 2,
+   "front_facing": 2,
+   "bloom_in_context": 2,
+   "seed_pods": 2,
+   "thumb_framing": 2,
+   "seasonal": 2
+  },
+  "overall": "excellent",
+  "fixable_gaps": [],
+  "capped_axes": [],
+  "cap_note": "",
+  "notes": "Excellent structure/habit (wi-structure pergola, su-habit wall mass), red hips (fa-hips), and a foliage macro (su-foliage). Weak point is the lack of a sharp single-flower close-up — both flower shots are the same mid-distance cream mass, so flowers and front_facing are each 1 (fixable via Commons cultivar close-up). Cultivar = generic climbing roses, so a representative close-up is fine."
+ },
+ {
+  "slug": "vines/garden-clematis",
+  "common": "Garden clematis",
+  "type": "Vine",
+  "lifecycle": "Perennial",
+  "n_shots": 4,
+  "scores": {
+   "whole_plant": 2,
+   "foliage": 2,
+   "flowers": 2,
+   "front_facing": 2,
+   "bloom_in_context": 2,
+   "seed_pods": 2,
+   "thumb_framing": 2,
+   "seasonal": 2
+  },
+  "overall": "excellent",
+  "fixable_gaps": [],
+  "capped_axes": [],
+  "cap_note": "",
+  "notes": "Crisp face-on purple flower (su-flower), flowering mass on a fence (su-habit), readable foliage (su-foliage), and the silky feathery seedheads (fa-seeds, a notable clematis feature). All axes 2."
+ },
+ {
+  "slug": "vines/rambling-rose",
+  "common": "Rambling rose",
+  "type": "Vine",
+  "lifecycle": "Perennial",
+  "n_shots": 6,
+  "scores": {
+   "whole_plant": 2,
+   "foliage": 2,
+   "flowers": 2,
+   "front_facing": 2,
+   "bloom_in_context": 2,
+   "seed_pods": 2,
+   "thumb_framing": 2,
+   "seasonal": 2
+  },
+  "overall": "excellent",
+  "fixable_gaps": [],
+  "capped_axes": [],
+  "cap_note": "",
+  "notes": "Strong habit (su-habit pergola tunnel, shared wi-structure), red hips (fa-hips), foliage macro (su-foliage). Like climbing rose, missing a sharp single-flower close-up — su-flower is a backlit cluster — so flowers/front_facing are each 1 (fixable). Note su-habit and wi-structure pergola appear shared with climbing-rose; representative ramblers, acceptable for a cultivar group."
+ },
+ {
+  "slug": "perennials/dianthus",
+  "common": "Cheddar pinks",
+  "type": "Groundcover",
+  "lifecycle": "Perennial",
+  "n_shots": 6,
+  "scores": {
+   "whole_plant": 2,
+   "foliage": 2,
+   "flowers": 2,
+   "front_facing": 2,
+   "bloom_in_context": 2,
+   "seed_pods": "NA",
+   "thumb_framing": 2,
+   "seasonal": 2
+  },
+  "overall": "excellent",
+  "fixable_gaps": [],
+  "capped_axes": [],
+  "cap_note": "",
+  "notes": "Face-on fringed pink flower (sp-flower, sp-bloom), flowering mat mass (sp-bloom2, sp-habit), the blue-green grassy evergreen foliage mat (su-foliage, wi-evergreen). Seedheads not a notable feature → NA. Excellent."
+ },
+ {
+  "slug": "perennials/blue-flax",
+  "common": "Blue flax",
+  "type": "Forb",
+  "lifecycle": "Perennial",
+  "n_shots": 7,
+  "scores": {
+   "whole_plant": 2,
+   "foliage": 2,
+   "flowers": 2,
+   "front_facing": 2,
+   "bloom_in_context": 2,
+   "seed_pods": 2,
+   "thumb_framing": 2,
+   "seasonal": 2
+  },
+  "overall": "excellent",
+  "fixable_gaps": [],
+  "capped_axes": [],
+  "cap_note": "",
+  "notes": "Complete: sharp face-on sky-blue flower (su-flower, su-foliage shot), airy flowering habit (su-habit, su-bloom, sp-firstbloom), wispy linear foliage readable (su-foliage2), and the round seed capsules (su-seedpods). All axes 2."
+ },
+ {
+  "slug": "perennials/garden-phlox",
+  "common": "Garden phlox",
+  "type": "Forb",
+  "lifecycle": "Perennial",
+  "n_shots": 8,
+  "scores": {
+   "whole_plant": 2,
+   "foliage": 2,
+   "flowers": 2,
+   "front_facing": 2,
+   "bloom_in_context": 2,
+   "seed_pods": "NA",
+   "thumb_framing": 2,
+   "seasonal": 2
+  },
+  "overall": "excellent",
+  "fixable_gaps": [],
+  "capped_axes": [],
+  "cap_note": "",
+  "notes": "Dense panicle close-up face-on (su-flower magenta, su-habit2, su-foliage2 lilac), flowering mass (su-bloom, su-habit), readable lance foliage (su-foliage3, sp-emerging). Seedheads not a notable garden feature → NA. Excellent."
+ },
+ {
+  "slug": "perennials/red-valerian",
+  "common": "Red valerian",
+  "type": "Forb",
+  "lifecycle": "Perennial",
+  "n_shots": 6,
+  "scores": {
+   "whole_plant": 2,
+   "foliage": 2,
+   "flowers": 2,
+   "front_facing": 2,
+   "bloom_in_context": 2,
+   "seed_pods": 1,
+   "thumb_framing": 2,
+   "seasonal": 1
+  },
+  "overall": "effectively-excellent",
+  "fixable_gaps": [],
+  "capped_axes": [
+   "seasonal",
+   "seed_pods"
+  ],
+  "cap_note": "seed_pods: no clean pappus-seedhead macro under open license; seed_pods: no clean pappus-seedhead macro; seasonal: Mediterranean evergreen long-bloomer; limited distinct seasonal change",
+  "notes": "Strong flower coverage: rounded rose-red flower head close-up (su-mass), flowering mass on walls (su-habit, su-flower). But su-foliage is cluttered grey leaves in litter (1) and fa-seedheads is a distant unreadable roadside shot (1). seasonal scored 1 (good flowering coverage but no clean off-season/seedhead read). Both foliage and seed_pods fixable."
+ },
+ {
+  "slug": "perennials/brunnera",
+  "common": "Brunnera",
+  "type": "Forb",
+  "lifecycle": "Perennial",
+  "n_shots": 5,
+  "scores": {
+   "whole_plant": 2,
+   "foliage": 2,
+   "flowers": 2,
+   "front_facing": 2,
+   "bloom_in_context": 2,
+   "seed_pods": "NA",
+   "thumb_framing": 2,
+   "seasonal": "NA"
+  },
+  "overall": "excellent",
+  "fixable_gaps": [],
+  "capped_axes": [],
+  "cap_note": "",
+  "notes": "The plant's two features — silver-marbled heart-shaped leaves and airy forget-me-not-blue sprays — are both shown crisply: foliage mound (su-foliage), flower close-up over leaves (sp-flower, sp-bloom), flowering habit (sp-habit2, sp-bloom2). Seedheads not notable → NA. Spring-foliage perennial; main interest is spring bloom + the season-long foliage which is shown → seasonal NA. Excellent."
+ },
+ {
+  "slug": "perennials/scabiosa",
+  "common": "Pincushion flower",
+  "type": "Forb",
+  "lifecycle": "Perennial",
+  "n_shots": 5,
+  "scores": {
+   "whole_plant": 2,
+   "foliage": 2,
+   "flowers": 2,
+   "front_facing": 2,
+   "bloom_in_context": 2,
+   "seed_pods": 2,
+   "thumb_framing": 2,
+   "seasonal": 2
+  },
+  "overall": "excellent",
+  "fixable_gaps": [],
+  "capped_axes": [],
+  "cap_note": "",
+  "notes": "Crisp face-on lavender pincushion close-up (su-flower), flowering mass (su-mass), basal foliage rosette readable (su-foliage), and the distinctive starry papery seedhead pod (fa-pods). su-bloom is a distant meadow shot with the flower as a small speck, but su-mass already covers bloom-in-context well, so all axes still resolve to 2. Excellent."
+ },
+ {
+  "slug": "perennials/garden-lupine",
+  "common": "Garden lupine",
+  "type": "Forb",
+  "lifecycle": "Perennial",
+  "n_shots": 6,
+  "scores": {
+   "whole_plant": 2,
+   "foliage": 2,
+   "flowers": 2,
+   "front_facing": 1,
+   "bloom_in_context": 2,
+   "seed_pods": 2,
+   "thumb_framing": 2,
+   "seasonal": 2
+  },
+  "overall": "effectively-excellent",
+  "fixable_gaps": [],
+  "capped_axes": [
+   "front_facing"
+  ],
+  "cap_note": "front_facing capped: pea-flowers on a vertical raceme can't present a single bloom face-on; su-flower shows the raceme (best achievable).",
+  "notes": "Strong: palmate foliage readable (su-foliage, sp-spring-foliage), bold flower spikes (su-flower, su-habit2), multicolor flowering mass (su-bloom). Missing any seed-pod shot (0, fixable). front_facing is a structural raceme cap."
+ },
+ {
+  "slug": "shrubs/twinberry-honeysuckle",
+  "common": "Twinberry honeysuckle",
+  "type": "Shrub",
+  "lifecycle": "Perennial",
+  "n_shots": 8,
+  "scores": {
+   "whole_plant": 2,
+   "foliage": 2,
+   "flowers": 2,
+   "front_facing": 2,
+   "bloom_in_context": "NA",
+   "seed_pods": 2,
+   "thumb_framing": 2,
+   "seasonal": 2
+  },
+  "overall": "excellent",
+  "fixable_gaps": [],
+  "capped_axes": [],
+  "cap_note": "",
+  "notes": "Good shrub coverage: habit (su-habit, su-foliage), the dark-red bracts/pods (su-pods, su-bloom), the glossy black paired berries with red involucre (su-berries — the signature feature, shown well), and readable foliage (su-foliage2). Flowers are tubular and shown in profile (front_facing 1, fixable). Not a heavy mass-bloomer → bloom_in_context NA. Seedheads/berries are the seed_pods feature, scored 2."
+ },
+ {
+  "slug": "shrubs/mock-orange",
+  "common": "Mock orange",
+  "type": "Shrub",
+  "lifecycle": "Perennial",
+  "n_shots": 6,
+  "scores": {
+   "whole_plant": 2,
+   "foliage": 2,
+   "flowers": 2,
+   "front_facing": 2,
+   "bloom_in_context": 2,
+   "seed_pods": "NA",
+   "thumb_framing": 2,
+   "seasonal": 2
+  },
+  "overall": "excellent",
+  "fixable_gaps": [],
+  "capped_axes": [],
+  "cap_note": "",
+  "notes": "su-habit (mass in bloom) + su-flower (face-on white 4-petal) + two clean foliage shots + fa-fall (yellowing leaves + dry seed capsules). Dry capsules, not a notable berry/fruit feature, so seed_pods NA. su-habit2 is a weaker distant/cluttered habit but su-habit covers whole_plant well. Spring/summer/fall covered."
+ },
+ {
+  "slug": "shrubs/smoke-tree",
+  "common": "Smoke tree",
+  "type": "Shrub",
+  "lifecycle": "Perennial",
+  "n_shots": 6,
+  "scores": {
+   "whole_plant": 2,
+   "foliage": 2,
+   "flowers": 2,
+   "front_facing": "NA",
+   "bloom_in_context": 2,
+   "seed_pods": "NA",
+   "thumb_framing": 2,
+   "seasonal": 2
+  },
+  "overall": "excellent",
+  "fixable_gaps": [],
+  "capped_axes": [],
+  "cap_note": "",
+  "notes": "The display is the pink feathery seed plumes, not true flowers (tiny/insignificant) — scored as the plant's signature 'bloom'. su-habit (mass of plumes) + su-plumes (close-up) cover bloom_in_context; su-foliage (purple leaves) + sp-spring + fa-color (fall) + wi-framework (bare winter) give full 4-season coverage. front_facing NA (no showy face-on flower). No notable fruit beyond plumes."
+ },
+ {
+  "slug": "shrubs/saskatoon-serviceberry",
+  "common": "Saskatoon serviceberry",
+  "type": "Shrub",
+  "lifecycle": "Perennial",
+  "n_shots": 6,
+  "scores": {
+   "whole_plant": 2,
+   "foliage": 2,
+   "flowers": 2,
+   "front_facing": 2,
+   "bloom_in_context": 2,
+   "seed_pods": 2,
+   "thumb_framing": 2,
+   "seasonal": 2
+  },
+  "overall": "excellent",
+  "fixable_gaps": [],
+  "capped_axes": [],
+  "cap_note": "",
+  "notes": "sp-bloom + sp-flower (face-on strappy white petals) cover bloom; su-fruit (blue-black pomes) is clear seed_pods/fruit; su-foliage clear. su-habit is a smallish, somewhat cluttered habit shot (1). Spring bloom + summer fruit/foliage = good seasonal."
+ },
+ {
+  "slug": "shrubs/golden-currant",
+  "common": "Golden currant",
+  "type": "Shrub",
+  "lifecycle": "Perennial",
+  "n_shots": 6,
+  "scores": {
+   "whole_plant": 2,
+   "foliage": 2,
+   "flowers": 2,
+   "front_facing": 2,
+   "bloom_in_context": 2,
+   "seed_pods": 2,
+   "thumb_framing": 2,
+   "seasonal": 2
+  },
+  "overall": "excellent",
+  "fixable_gaps": [],
+  "capped_axes": [],
+  "cap_note": "",
+  "notes": "sp-flower (face-on golden trumpets) crisp; sp-bloom + sp-habit cover mass/whole-plant; su-foliage clear lobed leaves. su-fruit shows only a sparse handful of small ripening berries — fruit is a notable edible feature so a fuller ripe-berry cluster would lift it to 2."
+ },
+ {
+  "slug": "shrubs/nanking-cherry",
+  "common": "Nanking cherry",
+  "type": "Shrub",
+  "lifecycle": "Perennial",
+  "n_shots": 5,
+  "scores": {
+   "whole_plant": 2,
+   "foliage": 2,
+   "flowers": 2,
+   "front_facing": 2,
+   "bloom_in_context": 2,
+   "seed_pods": 2,
+   "thumb_framing": 2,
+   "seasonal": 2
+  },
+  "overall": "excellent",
+  "fixable_gaps": [],
+  "capped_axes": [],
+  "cap_note": "",
+  "notes": "sp-bloom (whole shrub in bloom) + sp-flower (face-on 5-petal pink-blushed) cover bloom_in_context; su-fruit (ripe scarlet cherries) + su-habit (dense red-fruit mass) cover seed_pods/fruit; su-foliage (downy tomentose leaves) clear. Spring bloom + summer fruit = full coverage."
+ },
+ {
+  "slug": "shrubs/red-currant",
+  "common": "Red currant",
+  "type": "Shrub",
+  "lifecycle": "Perennial",
+  "n_shots": 7,
+  "scores": {
+   "whole_plant": 2,
+   "foliage": 2,
+   "flowers": 2,
+   "front_facing": 2,
+   "bloom_in_context": 2,
+   "seed_pods": 2,
+   "thumb_framing": 2,
+   "seasonal": 1
+  },
+  "overall": "effectively-excellent",
+  "fixable_gaps": [],
+  "capped_axes": [
+   "seasonal"
+  ],
+  "cap_note": "seasonal: no clean CC fall-colour shot",
+  "notes": "su-fruit (translucent ruby currants) excellent seed_pods=2; su-foliage clear lobed leaf=2. But only 4 shots: weak/cluttered habit, an inconspicuous greenish flower (small saucers are genuinely subtle but a better face-on mass would help), no flowering-mass, and no fall season."
+ },
+ {
+  "slug": "shrubs/black-currant",
+  "common": "Black currant",
+  "type": "Shrub",
+  "lifecycle": "Perennial",
+  "n_shots": 8,
+  "scores": {
+   "whole_plant": 2,
+   "foliage": 2,
+   "flowers": 2,
+   "front_facing": 2,
+   "bloom_in_context": 2,
+   "seed_pods": 2,
+   "thumb_framing": 2,
+   "seasonal": 2
+  },
+  "overall": "excellent",
+  "fixable_gaps": [],
+  "capped_axes": [],
+  "cap_note": "",
+  "notes": "su-fruit + su-fruit2 (matte-black berry clusters) strong seed_pods=2; su-foliage (lobed aromatic leaves) clear=2. Weak on flowers (no dedicated flower close-up — only incidental in cluttered sp-habit), no clean whole-plant form, and no fall season."
+ },
+ {
+  "slug": "shrubs/gooseberry",
+  "common": "Gooseberry",
+  "type": "Shrub",
+  "lifecycle": "Perennial",
+  "n_shots": 6,
+  "scores": {
+   "whole_plant": 2,
+   "foliage": 2,
+   "flowers": 2,
+   "front_facing": 2,
+   "bloom_in_context": 2,
+   "seed_pods": 2,
+   "thumb_framing": 2,
+   "seasonal": 2
+  },
+  "overall": "excellent",
+  "fixable_gaps": [],
+  "capped_axes": [],
+  "cap_note": "",
+  "notes": "su-habit (bush laden with dark-red berries) good whole_plant=2; sp-flower (face-on reddish bell with reflexed sepals) crisp face-on=2; sp-foliage clear lobed leaves=2; su-fruit clear ripe berry=2. Missing a flowering-mass shot and a fall season."
+ },
+ {
+  "slug": "shrubs/raspberry",
+  "common": "Raspberry",
+  "type": "Shrub",
+  "lifecycle": "Perennial",
+  "n_shots": 7,
+  "scores": {
+   "whole_plant": 2,
+   "foliage": 2,
+   "flowers": 2,
+   "front_facing": 2,
+   "bloom_in_context": 2,
+   "seed_pods": 2,
+   "thumb_framing": 2,
+   "seasonal": 2
+  },
+  "overall": "excellent",
+  "fixable_gaps": [],
+  "capped_axes": [],
+  "cap_note": "",
+  "notes": "su-fruit (clean red raspberry on cane) seed_pods=2; su-flower (face-on white 5-petal) =2. BUT no whole-plant/cane-clump habit shot at all (0); su-foliage is distant/cluttered (1). QUALITY FLAG: su-berry is hand-dominated (fingers fill the lower frame) — auto-reject category; replace with a clean berry close-up."
+ },
+ {
+  "slug": "shrubs/jostaberry",
+  "common": "Jostaberry",
+  "type": "Shrub",
+  "lifecycle": "Perennial",
+  "n_shots": 7,
+  "scores": {
+   "whole_plant": 2,
+   "foliage": 2,
+   "flowers": 2,
+   "front_facing": "NA",
+   "bloom_in_context": 2,
+   "seed_pods": 2,
+   "thumb_framing": 2,
+   "seasonal": 2
+  },
+  "overall": "excellent",
+  "fixable_gaps": [],
+  "capped_axes": [],
+  "cap_note": "Jostaberry is a sterile-ish hybrid with small inconspicuous greenish flowers; if no open-licensed flower photo exists, flowers/bloom_in_context may be a structural cap — verify before treating as fixable.",
+  "notes": "su-fruit + su-berry (near-black berries) good seed_pods=2. No flower imagery at all; su-habit carries a phone-app watermark/timestamp over a dirt background (quality flag); su-foliage weak. All-summer single season."
+ },
+ {
+  "slug": "shrubs/honeyberry",
+  "common": "Honeyberry (haskap)",
+  "type": "Shrub",
+  "lifecycle": "Perennial",
+  "n_shots": 7,
+  "scores": {
+   "whole_plant": 2,
+   "foliage": 2,
+   "flowers": 2,
+   "front_facing": 2,
+   "bloom_in_context": 2,
+   "seed_pods": 2,
+   "thumb_framing": 2,
+   "seasonal": 2
+  },
+  "overall": "excellent",
+  "fixable_gaps": [],
+  "capped_axes": [],
+  "cap_note": "",
+  "notes": "sp-flower (paired pale-yellow tubular flowers) face-on =2; su-fruit (oblong dark-blue berry) seed_pods=2. BUT no whole-plant habit (0); su-foliage is lost in dead grass with a hand (auto-reject); su-berry is hand-dominated (finger holding the branch, berry tiny). Two of four shots are hand-in-frame quality rejects — re-source habit + foliage."
+ },
+ {
+  "slug": "shrubs/aronia",
+  "common": "Black chokeberry",
+  "type": "Shrub",
+  "lifecycle": "Perennial",
+  "n_shots": 6,
+  "scores": {
+   "whole_plant": 2,
+   "foliage": 2,
+   "flowers": 2,
+   "front_facing": 2,
+   "bloom_in_context": 2,
+   "seed_pods": 2,
+   "thumb_framing": 2,
+   "seasonal": 2
+  },
+  "overall": "excellent",
+  "fixable_gaps": [],
+  "capped_axes": [],
+  "cap_note": "",
+  "notes": "fa-habit (shrub with black berries) + sp-flower (face-on white corymb, pink anthers) + sp-bloom (mass) cover whole_plant/flowers/bloom; fa-berries (glossy black pomes) seed_pods=2; fa-fall (brilliant wine-red autumn foliage) + su-foliage cover foliage and full spring/summer/fall seasonality. Minor: slight hand at top edge of fa-berries, not dominant."
+ },
+ {
+  "slug": "shrubs/sea-buckthorn",
+  "common": "Sea buckthorn",
+  "type": "Shrub",
+  "lifecycle": "Perennial",
+  "n_shots": 6,
+  "scores": {
+   "whole_plant": 2,
+   "foliage": 2,
+   "flowers": "NA",
+   "front_facing": "NA",
+   "bloom_in_context": "NA",
+   "seed_pods": 2,
+   "thumb_framing": 2,
+   "seasonal": 2
+  },
+  "overall": "excellent",
+  "fixable_gaps": [],
+  "capped_axes": [],
+  "cap_note": "",
+  "notes": "Wind-pollinated, dioecious, no showy flowers — flowers/front_facing/bloom_in_context all NA. su-habit (silvery upright form) + su-foliage (narrow silver-scaly leaves) + su-thorns + three strong fall orange-berry shots (fa-berries, fa-berries2 face-on, fa-fruit branch) cover seed_pods=2 and summer/fall seasonality."
+ },
+ {
+  "slug": "groundcovers/snow-in-summer",
+  "common": "Snow-in-summer",
+  "type": "Groundcover",
+  "lifecycle": "Perennial",
+  "n_shots": 5,
+  "scores": {
+   "whole_plant": 2,
+   "foliage": 2,
+   "flowers": 2,
+   "front_facing": 2,
+   "bloom_in_context": 2,
+   "seed_pods": "NA",
+   "thumb_framing": 2,
+   "seasonal": 2
+  },
+  "overall": "excellent",
+  "fixable_gaps": [],
+  "capped_axes": [],
+  "cap_note": "",
+  "notes": "sp-foliage (whole mat smothered in white bloom) + sp-bloom (silver woolly mat) + su-foliage (out-of-bloom silver mat) cover whole_plant/foliage/bloom-mass and spring-bloom + summer-foliage seasons. sp-flower is the single face-on flower but set in distracting grass/litter — re-source a cleaner close-up. No notable fruit (NA)."
+ },
+ {
+  "slug": "groundcovers/ice-plant",
+  "common": "Hardy ice plant",
+  "type": "Groundcover",
+  "lifecycle": "Perennial",
+  "n_shots": 4,
+  "scores": {
+   "whole_plant": 2,
+   "foliage": 2,
+   "flowers": 2,
+   "front_facing": 2,
+   "bloom_in_context": 2,
+   "seed_pods": "NA",
+   "thumb_framing": 2,
+   "seasonal": "NA"
+  },
+  "overall": "excellent",
+  "fixable_gaps": [],
+  "capped_axes": [],
+  "cap_note": "",
+  "notes": "su-close (vivid magenta many-rayed flower, face-on) =2; su-structure (mat in full bloom) bloom_in_context=2; su-foliage (fleshy cylindrical succulent leaves) =2; su-mat (spreading mat on slope) whole_plant=2. Evergreen succulent with a single summer bloom season of interest → seasonal NA. No fruit (NA)."
  },
  {
   "slug": "subshrubs/lavender",
@@ -1530,25 +1373,124 @@
    "thumb_framing": 2,
    "seasonal": 2
   },
-  "overall": "good",
-  "gaps": [
-   "front_facing=1: lavender spikes present their flowers in a spiral/whorl along a vertical spike, not face-on in the daisy sense. The su-flower shot shows the spike from a natural three-quarter angle with a bumblebee, which is the best practical view of lavender flowers. Fully face-on individual lavender florets are rarely the subject of iNat photos; this may be a structural limit of the plant. Capped at 1 unless a shot can be found looking directly into a whorl of open florets."
-  ],
-  "fixable_gaps": [],
+  "overall": "effectively-excellent",
   "capped_axes": [
    "front_facing"
   ],
-  "cap_note": "",
-  "all_gaps": [
-   "front_facing"
-  ]
+  "fixable_gaps": [],
+  "cap_note": "Lavender flowers are whorled florets on a spike — there is no true face-on bloom; front_facing is a structural cap, not a fixable gap (consistent with IMAGE_AUDIT.md note on spike/whorl flowers).",
+  "notes": "su-habit (rounded mound in bloom) + su-flower (purple spikes with bumblebee) + su-foliage (silver linear leaves — readable though shot is of a potted plant indoors against a couch/wall) + wi-habit (dormant silver winter mound). Summer bloom + winter foliage = 2-season. front_facing capped by spike morphology. No fruit (NA). Minor: foliage shot's indoor/pot setting is a slight quality ding but leaf detail is clear."
  },
  {
-  "slug": "subshrubs/mojave-sage",
-  "common": "Mojave sage",
-  "type": "Subshrub",
+  "slug": "vines/trumpet-honeysuckle",
+  "common": "Trumpet honeysuckle",
+  "type": "Vine",
+  "lifecycle": "Perennial",
+  "n_shots": 6,
+  "scores": {
+   "whole_plant": 2,
+   "foliage": 2,
+   "flowers": 2,
+   "front_facing": 2,
+   "bloom_in_context": 2,
+   "seed_pods": 2,
+   "thumb_framing": 2,
+   "seasonal": 2
+  },
+  "overall": "excellent",
+  "fixable_gaps": [],
+  "capped_axes": [],
+  "cap_note": "",
+  "notes": "su-flower (coral-red tubes, face-on cluster) =2; su-habit + su-habit2 (vine on trellis/fence in bloom) whole_plant=2; su-foliage (perfoliate leaf disc) + su-bloom; fa-berries (red berries) seed_pods=2 and adds fall season. Tubular flowers shown clustered and face-on well — not capped here."
+ },
+ {
+  "slug": "vines/dropmore-honeysuckle",
+  "common": "'Dropmore Scarlet' honeysuckle",
+  "type": "Vine",
   "lifecycle": "Perennial",
   "n_shots": 4,
+  "scores": {
+   "whole_plant": 1,
+   "foliage": 2,
+   "flowers": 2,
+   "front_facing": 2,
+   "bloom_in_context": 2,
+   "seed_pods": "NA",
+   "thumb_framing": 2,
+   "seasonal": 1
+  },
+  "overall": "effectively-excellent",
+  "fixable_gaps": [
+   {
+    "axis": "whole_plant",
+    "current": 1,
+    "need": "a fuller whole-vine-on-structure habit shot",
+    "how": "Commons for Lonicera x brownii 'Dropmore Scarlet' (no clean iNat taxon — cultivar); current su-bloom/su-habit show partial vine sections on a wall, not the full trained vine"
+   },
+   {
+    "axis": "seasonal",
+    "current": 1,
+    "need": "a fall or off-season shot",
+    "how": "Commons --month autumn; cultivar is largely single-season summer bloom — verify if a fall shot is even available, else cap"
+   }
+  ],
+  "capped_axes": [
+   "seasonal",
+   "whole_plant"
+  ],
+  "cap_note": "Named cultivar with no clean iNat taxon (Commons-sourced); sterile/rarely fruits, so seed_pods NA. If no CC fall/off-season cultivar photo exists, seasonal may be a structural cap.; whole_plant: no fuller whole-vine CC shot exists (cultivar); seasonal: single-season summer cultivar; no off-season CC shot",
+  "notes": "su-flower + su-habit (scarlet tubular whorls, face-on) =2; su-foliage (rounded blue-green perfoliate leaves) =2; su-bloom (vine on brick). Whole-plant shots are partial wall sections, not a full vine form (1); summer-only seasonality (1)."
+ },
+ {
+  "slug": "annuals/larkspur",
+  "common": "Larkspur",
+  "type": "Forb",
+  "lifecycle": "Annual",
+  "n_shots": 7,
+  "scores": {
+   "whole_plant": 2,
+   "foliage": 2,
+   "flowers": 2,
+   "front_facing": 2,
+   "bloom_in_context": 2,
+   "seed_pods": 2,
+   "thumb_framing": 2,
+   "seasonal": "NA"
+  },
+  "overall": "excellent",
+  "fixable_gaps": [],
+  "capped_axes": [],
+  "cap_note": "",
+  "notes": "Annual → seasonal NA. su-habit2 (garden clump) + su-habit (full spire) whole_plant=2; su-flower (face-on spurred floret) front_facing=2; su-bloom (spike close-up); su-foliage + su-foliage2 (ferny thread foliage); su-pods (green follicle seed pods) seed_pods=2. su-foliage (plants in bloom in a meadow) + su-habit cover bloom_in_context. Comprehensive 7-shot reel — face-on works here despite the spike since the spurred floret is shown front-on."
+ },
+ {
+  "slug": "annuals/chamomile",
+  "common": "German chamomile",
+  "type": "Forb",
+  "lifecycle": "Annual",
+  "n_shots": 7,
+  "scores": {
+   "whole_plant": 2,
+   "foliage": 2,
+   "flowers": 2,
+   "front_facing": 2,
+   "bloom_in_context": 2,
+   "seed_pods": "NA",
+   "thumb_framing": 2,
+   "seasonal": "NA"
+  },
+  "overall": "excellent",
+  "fixable_gaps": [],
+  "capped_axes": [],
+  "cap_note": "",
+  "notes": "Annual → seasonal NA; no notable fruit/seedhead → NA. su-flower (face-on white-ray, gold dome) =2; su-habit + su-bloom (drift/mass) bloom_in_context=2. su-habit2 single plant is on bare pavement (weak), su-foliage cluttered in grass — both readable but not clean."
+ },
+ {
+  "slug": "perennials/candytuft",
+  "common": "Candytuft",
+  "type": "Subshrub",
+  "lifecycle": "Perennial",
+  "n_shots": 6,
   "scores": {
    "whole_plant": 2,
    "foliage": 2,
@@ -1559,86 +1501,106 @@
    "thumb_framing": 2,
    "seasonal": 2
   },
-  "overall": "good",
-  "gaps": [
-   "foliage=1: the silvery aromatic leaf is the defining non-bloom character of this plant, but no shot isolates it — all four shots focus on the flowering mound. In su-habit and su-bloom the leaves are visible but secondary to the flower spikes; su-flower shows the leaf but at low resolution (low-quality cell phone shot with heavy noise). A clean shot showing the thick, silver-felted leaf up close is missing.",
-   "seasonal=1: all four shots are summer. The plant is semi-evergreen and the blurb/seasons field specifically calls out winter structure and the violet + mauve bract combo extending Jun–Nov. A fall or winter shot showing the persistent mauve bracts and silvery winter form would lift this to excellent. This is achievable via iNat (phenology=budding/no-evidence or late-fall date filter)."
-  ],
+  "overall": "excellent",
   "fixable_gaps": [],
   "capped_axes": [],
   "cap_note": "",
-  "all_gaps": []
+  "notes": "sp-bloom (dense white mat) + sp-mat (mounded form among rocks) whole_plant=2; sp-flower2 (macro single corymb) face-on=2; sp-flower + sp-foliage (glossy dark evergreen leaves); wi-foliage (evergreen leaves bronzing in winter) adds a second season. No notable fruit (NA). Spring bloom + winter foliage covered."
  },
  {
-  "slug": "subshrubs/pineleaf-penstemon",
-  "common": "Pineleaf penstemon",
-  "type": "Subshrub",
+  "slug": "perennials/evening-primrose",
+  "common": "Evening primrose",
+  "type": "Groundcover",
   "lifecycle": "Perennial",
-  "n_shots": 4,
-  "scores": {
-   "whole_plant": 1,
-   "foliage": 2,
-   "flowers": 1,
-   "front_facing": "NA",
-   "bloom_in_context": 2,
-   "seed_pods": "NA",
-   "thumb_framing": 2,
-   "seasonal": 2
-  },
-  "overall": "fair",
-  "gaps": [
-   "whole_plant=1: su-habit-t.jpg and su-bloom-t.jpg show the plant from above/overhead; the mound form is visible but the shots are top-down angle rather than at-grade showing height and spread clearly",
-   "flowers=1: the tubular flowers (su-flower-t.jpg) are shown at mid-range on the full plant; no close-up of a single or tight cluster of flowers showing petal detail and colour clearly — all shots are too far for individual flower detail",
-   "seasonal=1: all 4 shots are summer; the plant is evergreen with winter interest (noted in plant data) but no winter foliage shot exists"
-  ],
-  "fixable_gaps": [],
-  "capped_axes": [
-   "flowers",
-   "whole_plant"
-  ],
-  "cap_note": "no open-licensed YELLOW 'Mersea Yellow' cultivar habit/flower macro",
-  "all_gaps": [
-   "whole_plant",
-   "flowers"
-  ]
- },
- {
-  "slug": "subshrubs/russian-sage",
-  "common": "Russian sage",
-  "type": "Subshrub",
-  "lifecycle": "Perennial",
-  "n_shots": 4,
+  "n_shots": 8,
   "scores": {
    "whole_plant": 2,
    "foliage": 2,
    "flowers": 2,
-   "front_facing": 1,
+   "front_facing": 2,
+   "bloom_in_context": 2,
+   "seed_pods": 2,
+   "thumb_framing": 2,
+   "seasonal": 2
+  },
+  "overall": "excellent",
+  "fixable_gaps": [],
+  "capped_axes": [],
+  "cap_note": "",
+  "notes": "8-shot reel. su-flower + su-flower2 (face-on lemon cups) front_facing=2; su-habit + su-habit2 + su-drift (sprawling mound in prolific bloom) whole_plant/bloom_in_context=2; su-foliage (lance willow-like leaves) =2; fa-pods (four-winged red seed capsules — the key post-bloom feature) seed_pods=2 and gives fall season alongside summer bloom."
+ },
+ {
+  "slug": "perennials/speedwell",
+  "common": "Spike speedwell",
+  "type": "Forb",
+  "lifecycle": "Perennial",
+  "n_shots": 7,
+  "scores": {
+   "whole_plant": 2,
+   "foliage": 2,
+   "flowers": 2,
+   "front_facing": "NA",
    "bloom_in_context": 2,
    "seed_pods": "NA",
    "thumb_framing": 2,
-   "seasonal": 1
+   "seasonal": "NA"
   },
-  "overall": "good",
-  "gaps": [
-   "foliage=1: su-flowers shows aromatic cut foliage alongside flowers but leaves are narrow and secondary; su-flowers2 (macro of flower spike) shows hairy calyx more than leaf form; no shot where the silver dissected foliage is the clear primary subject",
-   "front_facing=1: su-flowers2 is the closest — a spike macro with a few tubular flowers partially face-on — but the labiate flowers on their spike are naturally side-facing; no shot captures multiple flowers clearly face-on in the way a daisy or poppy shot can; capped: the flower form (small tubular on a spike) makes full front_facing=2 very difficult with available CC photos",
-   "seasonal=1: summer and fall covered; the card records winter:true (silver stems persist and provide structural interest through winter) — missing a winter stems shot"
-  ],
+  "overall": "effectively-excellent",
   "fixable_gaps": [],
   "capped_axes": [
-   "seasonal",
    "front_facing"
   ],
-  "cap_note": "no CC bare-winter silver-stems shot",
-  "all_gaps": [
-   "front_facing",
-   "seasonal"
-  ]
+  "cap_note": "Veronica spicata is a spike/raceme inflorescence (florets open bottom-up) that cannot be photographed truly face-on; su-flower/su-spike show the spike front-on, which is best-possible. front_facing structurally capped.",
+  "notes": "Clear basal-rosette foliage (su-foliage), crisp white & blue spikes, mass shot (su-structure/su-context) + close-up both present, visiting bee. seed_pods NA (capsules not a notable feature); seasonal NA (summer forb, no notable multi-season interest)."
  },
  {
-  "slug": "trees/chokecherry",
-  "common": "Chokecherry",
-  "type": "Tree",
+  "slug": "perennials/verbena",
+  "common": "Garden verbena",
+  "type": "Groundcover",
+  "lifecycle": "Tender perennial",
+  "n_shots": 5,
+  "scores": {
+   "whole_plant": 2,
+   "foliage": 2,
+   "flowers": 2,
+   "front_facing": 2,
+   "bloom_in_context": 2,
+   "seed_pods": "NA",
+   "thumb_framing": 2,
+   "seasonal": "NA"
+  },
+  "overall": "excellent",
+  "fixable_gaps": [],
+  "capped_axes": [],
+  "cap_note": "",
+  "notes": "su-foliage shows deeply-cut leaves but the flower cluster dominates the frame, so leaf shape is secondary/partly blurred. Mat habit, crisp rose-purple clusters, mass drift (su-bloom) + close all present. seasonal NA (tender perennial / grown as annual)."
+ },
+ {
+  "slug": "perennials/coreopsis",
+  "common": "Coreopsis",
+  "type": "Forb",
+  "lifecycle": "Perennial",
+  "n_shots": 5,
+  "scores": {
+   "whole_plant": 2,
+   "foliage": 2,
+   "flowers": 2,
+   "front_facing": 2,
+   "bloom_in_context": 2,
+   "seed_pods": "NA",
+   "thumb_framing": 2,
+   "seasonal": "NA"
+  },
+  "overall": "excellent",
+  "fixable_gaps": [],
+  "capped_axes": [],
+  "cap_note": "",
+  "notes": "Crisp face-on golden daisy, thread-fine foliage readable (su-foliage2 basal rosette + thread foliage in habit), clump habit, mass drift (su-mass) + close-up both present. seed_pods NA; seasonal NA (summer forb)."
+ },
+ {
+  "slug": "perennials/blanket-flower",
+  "common": "Blanket flower",
+  "type": "Forb",
   "lifecycle": "Perennial",
   "n_shots": 7,
   "scores": {
@@ -1651,45 +1613,18 @@
    "thumb_framing": 2,
    "seasonal": 2
   },
-  "overall": "good",
-  "gaps": [
-   "flowers=1: sp-flowers is backlit and angled, making the individual small white flowers hard to read; sp-flowers2 is better but still a mid-distance shot of a raceme cluster rather than a crisp close-up of the flower detail — neither shot gives a clear look at the individual 5-petaled flowers",
-   "front_facing=1: both flower shots show the racemes from a slight angle or distance; no shot gives a face-on close-up view of the small white flowers — add a crisp macro of an individual raceme or several flowers face-on to score 2"
-  ],
-  "fixable_gaps": [],
-  "capped_axes": [],
-  "cap_note": "",
-  "all_gaps": []
- },
- {
-  "slug": "trees/mountain-alder",
-  "common": "Mountain alder",
-  "type": "Tree",
-  "lifecycle": "Perennial",
-  "n_shots": 5,
-  "scores": {
-   "whole_plant": 2,
-   "foliage": 2,
-   "flowers": 2,
-   "front_facing": "NA",
-   "bloom_in_context": 2,
-   "seed_pods": 2,
-   "thumb_framing": 2,
-   "seasonal": 2
-  },
   "overall": "excellent",
-  "gaps": [],
   "fixable_gaps": [],
   "capped_axes": [],
   "cap_note": "",
-  "all_gaps": []
+  "notes": "Full reel: face-on red-and-gold daisy, mounding habit (habit/habit2), drift/colony mass, hairy lance foliage, and fall fluffy-globe seedheads (fa-seedhead) shown well. Summer bloom + fall seedhead covers seasonal."
  },
  {
-  "slug": "vines/climbing-rose",
-  "common": "Climbing rose",
-  "type": "Vine",
+  "slug": "perennials/knautia",
+  "common": "Knautia",
+  "type": "Forb",
   "lifecycle": "Perennial",
-  "n_shots": 3,
+  "n_shots": 7,
   "scores": {
    "whole_plant": 2,
    "foliage": 2,
@@ -1700,20 +1635,106 @@
    "thumb_framing": 2,
    "seasonal": 2
   },
-  "overall": "good",
-  "gaps": [
-   "foliage: rose compound leaves visible in summer shots but always secondary to flowers — no dedicated foliage shot showing leaflet shape and texture",
-   "seasonal: summer+fall only; spring bud-break and winter bare-cane structure (both mentioned in plant record) unrepresented"
-  ],
+  "overall": "excellent",
   "fixable_gaps": [],
   "capped_axes": [],
   "cap_note": "",
-  "all_gaps": []
+  "notes": "PICK-QC ISSUE: su-foliage is HAND-DOMINATED (a hand holding the pinnate leaf fills the frame) — auto-reject pattern; su-foliage2 basal rosette is partly lost in grass. Flowers crisp face-on, habit + drift mass + close present, fa-fall shows a forming spiny seedhead. Summer + fall seasonal."
  },
  {
-  "slug": "vines/dropmore-honeysuckle",
-  "common": "'Dropmore Scarlet' honeysuckle",
-  "type": "Vine",
+  "slug": "subshrubs/pineleaf-penstemon",
+  "common": "Pineleaf penstemon",
+  "type": "Subshrub",
+  "lifecycle": "Perennial",
+  "n_shots": 5,
+  "scores": {
+   "whole_plant": 2,
+   "foliage": 2,
+   "flowers": 2,
+   "front_facing": "NA",
+   "bloom_in_context": 2,
+   "seed_pods": "NA",
+   "thumb_framing": 2,
+   "seasonal": 2
+  },
+  "overall": "effectively-excellent",
+  "fixable_gaps": [],
+  "capped_axes": [
+   "front_facing"
+  ],
+  "cap_note": "Penstemon flowers are tubular and borne on one-sided wands; they cannot be shown true face-on. front_facing structurally capped (also a documented cap in CLAUDE.md/IMAGE_AUDIT for this 'Mersea Yellow' yellow form).",
+  "notes": "Yellow 'Mersea Yellow' form throughout (matches the cultivar). Needle-fine evergreen foliage clear (su-foliage + wi-winter), yellow tubular wands, mound habit (mass) + bloom close-up, winter foliage covers seasonal. seed_pods NA (capsules not notable)."
+ },
+ {
+  "slug": "perennials/yellow-yarrow",
+  "common": "Yellow yarrow",
+  "type": "Forb",
+  "lifecycle": "Perennial",
+  "n_shots": 5,
+  "scores": {
+   "whole_plant": 2,
+   "foliage": 2,
+   "flowers": 2,
+   "front_facing": 2,
+   "bloom_in_context": 2,
+   "seed_pods": "NA",
+   "thumb_framing": 2,
+   "seasonal": 2
+  },
+  "overall": "excellent",
+  "fixable_gaps": [],
+  "capped_axes": [],
+  "cap_note": "",
+  "notes": "'Moonshine'. Flat-topped gold corymbs are face-on (yarrow flat-tops qualify), silver-grey ferny foliage clear (su-foliage + sp-foliage), mounded clump (su-mound/su-structure mass) + close-up. Summer bloom + spring foliage seasonal. seed_pods NA."
+ },
+ {
+  "slug": "groundcovers/kinnikinnick",
+  "common": "Kinnikinnick",
+  "type": "Groundcover",
+  "lifecycle": "Perennial",
+  "n_shots": 6,
+  "scores": {
+   "whole_plant": 2,
+   "foliage": 2,
+   "flowers": 2,
+   "front_facing": 2,
+   "bloom_in_context": "NA",
+   "seed_pods": 2,
+   "thumb_framing": 2,
+   "seasonal": 2
+  },
+  "overall": "excellent",
+  "fixable_gaps": [],
+  "capped_axes": [],
+  "cap_note": "",
+  "notes": "Pink urn-shaped spring flowers crisp, glossy evergreen leaves (foliage + habit), red berries shown well (fa-berries/fa-pods), winter bronze foliage. Four seasons covered. bloom_in_context NA (foliage/berry groundcover, flowers small and not a heavy flowering mass)."
+ },
+ {
+  "slug": "shrubs/creeping-oregon-grape",
+  "common": "Creeping Oregon grape",
+  "type": "Shrub",
+  "lifecycle": "Perennial",
+  "n_shots": 4,
+  "scores": {
+   "whole_plant": 2,
+   "foliage": 2,
+   "flowers": 2,
+   "front_facing": 2,
+   "bloom_in_context": "NA",
+   "seed_pods": 2,
+   "thumb_framing": 2,
+   "seasonal": 2
+  },
+  "overall": "excellent",
+  "fixable_gaps": [],
+  "capped_axes": [],
+  "cap_note": "",
+  "notes": "Yellow flower clusters crisp (sp-close), low creeping mat habit (sp-structure), holly-like compound leaves readable, dusty-blue berries shown well (fa-berries), bronze-purple winter foliage. Spring/fall/winter seasonal covered. bloom_in_context NA (a foliage/berry evergreen, not a heavy flowering mass)."
+ },
+ {
+  "slug": "perennials/hardy-geranium",
+  "common": "Hardy cranesbill",
+  "type": "Groundcover",
   "lifecycle": "Perennial",
   "n_shots": 4,
   "scores": {
@@ -1724,27 +1745,110 @@
    "bloom_in_context": 2,
    "seed_pods": "NA",
    "thumb_framing": 2,
+   "seasonal": "NA"
+  },
+  "overall": "excellent",
+  "fixable_gaps": [],
+  "capped_axes": [],
+  "cap_note": "",
+  "notes": "'Rozanne'. Crisp violet-blue saucer with white eye face-on, deeply-lobed palmate foliage clear, sprawling mound (su-habit mass) + several-saucer context + close-up. seed_pods NA (sterile hybrid, rarely sets seed). seasonal NA (one long bloom season summer-frost; no notable fall colour). Note: su-foliage caption flags the species ancestor G. wallichianum, which is fine."
+ },
+ {
+  "slug": "perennials/pasque-flower",
+  "common": "Pasque flower",
+  "type": "Forb",
+  "lifecycle": "Perennial",
+  "n_shots": 6,
+  "scores": {
+   "whole_plant": 2,
+   "foliage": 2,
+   "flowers": 2,
+   "front_facing": 2,
+   "bloom_in_context": 2,
+   "seed_pods": 2,
+   "thumb_framing": 2,
+   "seasonal": 2
+  },
+  "overall": "excellent",
+  "fixable_gaps": [],
+  "capped_axes": [],
+  "cap_note": "",
+  "notes": "Face-on lavender cups with golden stamens, low clump (sp-clump/sp-habit mass) + close, dissected ferny foliage readable (su-foliage), and the ornamental silky plumed seedhead shown well (sp-seedhead). Spring bloom + spring plume + summer foliage seasonal. (sp-foliage tile is mislabeled — shows buds not foliage — but su-foliage covers foliage.)"
+ },
+ {
+  "slug": "perennials/japanese-anemone",
+  "common": "Japanese anemone",
+  "type": "Forb",
+  "lifecycle": "Perennial",
+  "n_shots": 7,
+  "scores": {
+   "whole_plant": 2,
+   "foliage": 2,
+   "flowers": 2,
+   "front_facing": 2,
+   "bloom_in_context": 2,
+   "seed_pods": 2,
+   "thumb_framing": 2,
+   "seasonal": 2
+  },
+  "overall": "excellent",
+  "fixable_gaps": [],
+  "capped_axes": [],
+  "cap_note": "",
+  "notes": "Tall wiry habit/mass (fa-bloom/fa-flower), face-on pink & white blooms, bold palmate foliage (su-foliage/sp-spring), and the cottony bursting seedhead shown well (fa-seedhead). Fall bloom + fall seedhead + spring/summer foliage seasonal."
+ },
+ {
+  "slug": "perennials/grecian-windflower",
+  "common": "Grecian windflower",
+  "type": "Forb",
+  "lifecycle": "Perennial",
+  "n_shots": 5,
+  "scores": {
+   "whole_plant": 2,
+   "foliage": 2,
+   "flowers": 2,
+   "front_facing": 2,
+   "bloom_in_context": 2,
+   "seed_pods": "NA",
+   "thumb_framing": 2,
+   "seasonal": "NA"
+  },
+  "overall": "excellent",
+  "fixable_gaps": [],
+  "capped_axes": [],
+  "cap_note": "",
+  "notes": "Face-on blue daisies (multiple tiles), deeply-lobed foliage readable, low colony/clump form (sp-colony/sp-foliage mass) + close-up. seed_pods NA; seasonal NA (spring ephemeral tuber, single season of interest)."
+ },
+ {
+  "slug": "grasses/blue-oat-grass",
+  "common": "Blue oat grass",
+  "type": "Grass",
+  "lifecycle": "Perennial",
+  "n_shots": 4,
+  "scores": {
+   "whole_plant": 2,
+   "foliage": 2,
+   "flowers": 2,
+   "front_facing": "NA",
+   "bloom_in_context": "NA",
+   "seed_pods": 2,
+   "thumb_framing": 2,
    "seasonal": 1
   },
-  "overall": "good",
-  "gaps": [
-   "seasonal: all 4 shots are summer; the vine is semi-deciduous and blooms June–October; no fall shot showing the vine structure late in the season or any transition from peak bloom; a fall or late-summer shot would complete the reel"
-  ],
+  "overall": "effectively-excellent",
   "fixable_gaps": [],
   "capped_axes": [
    "seasonal"
   ],
-  "cap_note": "capped: no CC fall shot exists (cultivar; GBIF only herbarium sheets, Commons all summer bloom)",
-  "all_gaps": [
-   "seasonal"
-  ]
+  "cap_note": "Effectively-excellent: seasonal capped at 1 — no open-licensed winter shot of the semi-evergreen steel-blue clump exists (documented in CLAUDE.md/IMAGE_AUDIT.md). Summer + fall are covered.",
+  "notes": "Foliage-only ornamental grass: front_facing NA, bloom_in_context NA. Steel-blue mound habit, fine blue foliage clear, oat-like spikelets/seedheads shown well (su-seedheads + fa-fall-clump). Re-query iNat for a CC winter clump if one ever surfaces."
  },
  {
-  "slug": "vines/garden-clematis",
-  "common": "Garden clematis",
-  "type": "Vine",
-  "lifecycle": "Perennial",
-  "n_shots": 4,
+  "slug": "perennials/western-wallflower",
+  "common": "Western wallflower",
+  "type": "Forb",
+  "lifecycle": "Biennial",
+  "n_shots": 7,
   "scores": {
    "whole_plant": 2,
    "foliage": 2,
@@ -1755,24 +1859,197 @@
    "thumb_framing": 2,
    "seasonal": 2
   },
-  "overall": "good",
-  "gaps": [
-   "seed_pods=1: fa-seeds-t shows a single isolated fluffy seedhead (close-up of one), and the caption notes it is from Clematis viticella rather than jackmanii specifically; the blurb/seasons mention 'fluffy silver seedheads into fall/winter' as a feature. A shot of the vine bearing multiple silvery seedheads — showing how it looks as a full display — would score 2. The existing shot is partial (single seedhead, possible species mismatch). Fillable from iNat (C. jackmanii or C. ×jackmanii, phenology=fruiting, fall months)."
-  ],
+  "overall": "effectively-excellent",
   "fixable_gaps": [],
   "capped_axes": [
    "seed_pods"
   ],
-  "cap_note": "capped: no CC fall seedhead-display shot; existing fa-seeds close-up covers the seed axis",
-  "all_gaps": [
-   "seed_pods"
-  ]
+  "cap_note": "seed_pods: no clean dried-silique macro; siliques shown with flowers",
+  "notes": "Whole-plant on scree, orange & yellow face-on clusters (sp-flower/sp-bloom2), lance foliage readable, whole flowering stems (mass) + close. su-pods does show siliques in the full image but the plant is dried/messy and the pods read small/thin in the thumbnail — partial."
  },
  {
-  "slug": "vines/rambling-rose",
-  "common": "Rambling rose",
-  "type": "Vine",
+  "slug": "groundcovers/creeping-speedwell",
+  "common": "Turkish speedwell",
+  "type": "Groundcover",
   "lifecycle": "Perennial",
+  "n_shots": 6,
+  "scores": {
+   "whole_plant": 2,
+   "foliage": 2,
+   "flowers": 2,
+   "front_facing": 2,
+   "bloom_in_context": 2,
+   "seed_pods": "NA",
+   "thumb_framing": 2,
+   "seasonal": 2
+  },
+  "overall": "excellent",
+  "fixable_gaps": [],
+  "capped_axes": [],
+  "cap_note": "",
+  "notes": "LOOK-ALIKE / WRONG-SPECIES ISSUE: sp-foliage2 is NOT Veronica liwanensis — it shows large lobed/scalloped hairy leaves with seed structures of a different plant (caption mislabels it as the evergreen mat). su-mat (a potted plant with a 'Veronica liwanensis' nursery LABEL) and sp-foliage do show the correct tiny-glossy-leaved tight mat, so the correct species is confirmed and well-represented — foliage scored 1 only because of the bad tile, which should be replaced. Also: sp-flower has slightly larger/more-toothed leaves than ideal (borderline but flowers + su-mat label confirm V. liwanensis). Cobalt 4-lobed flowers face-on, dense mat (sp-bloom/sp-habit mass) + close, summer mat. seed_pods NA."
+ },
+ {
+  "slug": "perennials/bloody-cranesbill",
+  "common": "Bloody cranesbill",
+  "type": "Groundcover",
+  "lifecycle": "Perennial",
+  "n_shots": 6,
+  "scores": {
+   "whole_plant": 2,
+   "foliage": 2,
+   "flowers": 2,
+   "front_facing": 2,
+   "bloom_in_context": 2,
+   "seed_pods": 2,
+   "thumb_framing": 2,
+   "seasonal": 2
+  },
+  "overall": "excellent",
+  "fixable_gaps": [],
+  "capped_axes": [],
+  "cap_note": "",
+  "notes": "Magenta saucers face-on, mounding mat (su-structure mass) + close, deeply-cut palmate foliage clear, crimson fall foliage (fa-fall), and the namesake stork's-beak seed capsule shown well (su-pods). Summer bloom + fall colour + spring seasonal."
+ },
+ {
+  "slug": "perennials/white-heath-aster",
+  "common": "White heath aster",
+  "type": "Forb",
+  "lifecycle": "Perennial",
+  "n_shots": 7,
+  "scores": {
+   "whole_plant": 2,
+   "foliage": 2,
+   "flowers": 2,
+   "front_facing": 2,
+   "bloom_in_context": 2,
+   "seed_pods": 2,
+   "thumb_framing": 2,
+   "seasonal": 2
+  },
+  "overall": "excellent",
+  "fixable_gaps": [],
+  "capped_axes": [],
+  "cap_note": "",
+  "notes": "PICK-QC ISSUE: wi-seeds is HAND-DOMINATED (two fingers + a ring fill much of the frame) — auto-reject pattern; pappus visible but it's a hand-held shot. Otherwise strong: tiny white-and-gold daisies face-on, smothered bloom mass (fa-bloom) + close, fine heath-like foliage clear (su-foliage), silvery mound habit. Fall bloom + winter seeds + summer foliage seasonal."
+ },
+ {
+  "slug": "perennials/white-prairie-aster",
+  "common": "White prairie aster",
+  "type": "Forb",
+  "lifecycle": "Perennial",
+  "n_shots": 7,
+  "scores": {
+   "whole_plant": 2,
+   "foliage": 2,
+   "flowers": 2,
+   "front_facing": 2,
+   "bloom_in_context": 2,
+   "seed_pods": 1,
+   "thumb_framing": 2,
+   "seasonal": 2
+  },
+  "overall": "effectively-excellent",
+  "fixable_gaps": [],
+  "capped_axes": [
+   "seed_pods"
+  ],
+  "cap_note": "seed_pods: pappus seedheads lost in dried grass in every CC shot",
+  "notes": "Single white-rayed daisy face-on (fa-flower) crisp, mounding bloom mass (fa-structure) + close, narrow grey-green lance foliage readable (fa-foliage/su-summer). fa-seedheads shows the fluffy pappus but it's backlit/washed and lost in dried prairie grass — partial. Fall bloom + fall seedhead + summer foliage seasonal."
+ },
+ {
+  "slug": "perennials/panicled-aster",
+  "common": "Panicled aster",
+  "type": "Forb",
+  "lifecycle": "Perennial",
+  "n_shots": 6,
+  "scores": {
+   "whole_plant": 2,
+   "foliage": 2,
+   "flowers": 2,
+   "front_facing": 2,
+   "bloom_in_context": 2,
+   "seed_pods": 2,
+   "thumb_framing": 2,
+   "seasonal": 2
+  },
+  "overall": "excellent",
+  "fixable_gaps": [],
+  "capped_axes": [],
+  "cap_note": "",
+  "notes": "Tall branching habit (fa-habit), face-on white daisies (fa-flower), colony mass at streamside (fa-bloom), narrow willow-like lance foliage (fa-foliage/su-summer), and a clean dense pappus seedhead close (fa-seedhead). Fall bloom + seedhead + summer foliage seasonal."
+ },
+ {
+  "slug": "perennials/mountain-bluet",
+  "common": "Mountain bluet",
+  "type": "Forb",
+  "lifecycle": "Perennial",
+  "n_shots": 5,
+  "scores": {
+   "whole_plant": 2,
+   "foliage": 2,
+   "flowers": 2,
+   "front_facing": 2,
+   "bloom_in_context": 2,
+   "seed_pods": "NA",
+   "thumb_framing": 2,
+   "seasonal": 2
+  },
+  "overall": "excellent",
+  "fixable_gaps": [],
+  "capped_axes": [],
+  "cap_note": "",
+  "notes": "Fringed blue cornflowers face-on with reddish-purple center (sp-bloom/su-rebloom), sprawling silvery-stemmed clump (sp-habit2/sp-flower mass) + close, silver-woolly lance foliage clear (sp-foliage). Spring bloom + summer rebloom seasonal. seed_pods NA (knapweed-type seedheads not an ornamental feature and deadheaded to contain spread)."
+ },
+ {
+  "slug": "perennials/acanthus",
+  "common": "Acanthus (bear's breeches)",
+  "type": "Forb",
+  "lifecycle": "Perennial",
+  "n_shots": 5,
+  "scores": {
+   "whole_plant": 2,
+   "foliage": 2,
+   "flowers": 2,
+   "front_facing": 2,
+   "bloom_in_context": 2,
+   "seed_pods": "NA",
+   "thumb_framing": 2,
+   "seasonal": 2
+  },
+  "overall": "excellent",
+  "fixable_gaps": [],
+  "capped_axes": [],
+  "cap_note": "",
+  "notes": "Hooded white-and-mauve flowers shown front-on under spiny bracts (su-flowers), full vertical flower spikes in habitat (su-bloom mass) + close, bold glossy deeply-lobed foliage clear (sp-foliage), architectural clump habit (su-habit). Summer bloom + spring foliage seasonal. seed_pods NA. (Tender ~zone 7 here, noted in blurb.)"
+ },
+ {
+  "slug": "subshrubs/bowles-mauve-wallflower",
+  "common": "Bowles's Mauve wallflower",
+  "type": "Subshrub",
+  "lifecycle": "Perennial",
+  "n_shots": 4,
+  "scores": {
+   "whole_plant": 2,
+   "foliage": 2,
+   "flowers": 2,
+   "front_facing": 2,
+   "bloom_in_context": 2,
+   "seed_pods": "NA",
+   "thumb_framing": 2,
+   "seasonal": 2
+  },
+  "overall": "excellent",
+  "fixable_gaps": [],
+  "capped_axes": [],
+  "cap_note": "",
+  "notes": "Crisp mauve raceme close-up + bee shot + flowering spike + grey-leaved mound in border. Spring bloom and summer habit both covered; foliage readable in habit shot. All-around strong."
+ },
+ {
+  "slug": "perennials/english-wallflower",
+  "common": "English wallflower",
+  "type": "Forb",
+  "lifecycle": "Biennial",
   "n_shots": 4,
   "scores": {
    "whole_plant": 2,
@@ -1784,41 +2061,860 @@
    "thumb_framing": 2,
    "seasonal": 2
   },
-  "overall": "fair",
-  "gaps": [
-   "foliage=0: su-foliage shot shows compound rose leaves — but every leaflet has severe black-spot disease damage (large black blotches covering most of the leaf surface). This is a diseased specimen and does not represent healthy rambling-rose foliage. It must be replaced with a clean, healthy-foliage shot.",
-   "thumb_framing=1: fa-hips-t.jpg shows what was described as 'orange-red hips' but the thumbnail is a busy, dark, telephoto shot of pink flowers and dark foliage — the hips are barely visible small dots against a cluttered background; the supposed seasonal interest is not legible at card scale. Also su-foliage-t.jpg foregrounds diseased leaves which is a negative quality signal.",
-   "seasonal=1: the reel covers summer (flower, habit, foliage) and fall (hips) — two seasons, which is good. However ramblers are notable in winter for their long arching cane framework, and a winter cane shot (especially under snow or frost) would complete the story. The fa-hips shot is also weak (see thumb_framing), so the fall season is under-served."
-  ],
+  "overall": "excellent",
   "fixable_gaps": [],
   "capped_axes": [],
   "cap_note": "",
-  "all_gaps": []
+  "notes": "Yellow + orange-red flower close-ups face-on, flowering clump in rocky habit, and a clear seed-pod (silique) shot. Seedpod image is on graph/grid paper (clinical background) but is not a pressed specimen and shows the pods well; minor cosmetic ding only."
  },
  {
-  "slug": "vines/trumpet-honeysuckle",
-  "common": "Trumpet honeysuckle",
-  "type": "Vine",
+  "slug": "subshrubs/apricot-wallflower",
+  "common": "Apricot wallflower",
+  "type": "Subshrub",
   "lifecycle": "Perennial",
   "n_shots": 5,
   "scores": {
    "whole_plant": 2,
    "foliage": 2,
    "flowers": 2,
-   "front_facing": "NA",
+   "front_facing": 2,
+   "bloom_in_context": 2,
+   "seed_pods": "NA",
+   "thumb_framing": 2,
+   "seasonal": "NA"
+  },
+  "overall": "effectively-excellent",
+  "fixable_gaps": [],
+  "capped_axes": [
+   "cultivar"
+  ],
+  "cap_note": "shots species-representative (limited/no CC cultivar photos); Photos are species-representative Erysimum, not the exact 'Apricot Twist' cultivar (no open-licensed cultivar photo exists per the plant's gaps note). The flowers/front_facing are good but the mass and habit shots are weak (flowers lost in grass, sparse plant in bare dirt). Fixable gaps are all sourceable from generic Erysimum even within the cultivar cap.",
+  "notes": "Only 3 shots. Close-up apricot flower is excellent and face-on; the other two are poor (subject lost in grass / sparse weedy-dirt habit)."
+ },
+ {
+  "slug": "annuals/nasturtium",
+  "common": "Nasturtium",
+  "type": "Vine",
+  "lifecycle": "Annual",
+  "n_shots": 4,
+  "scores": {
+   "whole_plant": 2,
+   "foliage": 2,
+   "flowers": 2,
+   "front_facing": 2,
+   "bloom_in_context": 2,
+   "seed_pods": "NA",
+   "thumb_framing": 2,
+   "seasonal": "NA"
+  },
+  "overall": "excellent",
+  "fixable_gaps": [],
+  "capped_axes": [],
+  "cap_note": "",
+  "notes": "Annual -> seasonal NA. Spurred orange flower face-on, round peltate leaves clear, flowers+foliage trailing mass, scrambling habit. Foliage shot has a metal edging/wall in background but leaves are fully readable; minor only."
+ },
+ {
+  "slug": "subshrubs/zonal-geranium",
+  "common": "Zonal geranium",
+  "type": "Subshrub",
+  "lifecycle": "Tender perennial",
+  "n_shots": 4,
+  "scores": {
+   "whole_plant": 2,
+   "foliage": 2,
+   "flowers": 2,
+   "front_facing": 2,
+   "bloom_in_context": 2,
+   "seed_pods": "NA",
+   "thumb_framing": 2,
+   "seasonal": "NA"
+  },
+  "overall": "excellent",
+  "fixable_gaps": [],
+  "capped_axes": [],
+  "cap_note": "",
+  "notes": "Tender perennial -> seasonal NA. Bold red cluster, white-flowered shot showing scallop-edged zoned leaves clearly, pink form, and container-grown plants in flower (outdoor container display, acceptable habit). Strong all round."
+ },
+ {
+  "slug": "groundcovers/ivy-geranium",
+  "common": "Ivy-leaved geranium",
+  "type": "Groundcover",
+  "lifecycle": "Tender perennial",
+  "n_shots": 4,
+  "scores": {
+   "whole_plant": 2,
+   "foliage": 2,
+   "flowers": 2,
+   "front_facing": 2,
+   "bloom_in_context": 2,
+   "seed_pods": "NA",
+   "thumb_framing": 2,
+   "seasonal": "NA"
+  },
+  "overall": "excellent",
+  "fixable_gaps": [],
+  "capped_axes": [],
+  "cap_note": "",
+  "notes": "Species ID confirmed via full su-habit.jpg (magenta flower + glossy ivy leaves are genuine P. peltatum) BUT the habit shot is staged against a doorway/window wall with a separate potted succulent dominating the foreground, and the thumbnail crops to that succulent. The su-foliage shot is a distant cascade against the sea (foliage unreadable). The su-close flower is gorgeous (face-on, crisp). Two weak shots drag it to fair."
+ },
+ {
+  "slug": "subshrubs/scented-geranium",
+  "common": "Scented-leaf geranium",
+  "type": "Subshrub",
+  "lifecycle": "Tender perennial",
+  "n_shots": 6,
+  "scores": {
+   "whole_plant": 2,
+   "foliage": 2,
+   "flowers": 2,
+   "front_facing": 2,
+   "bloom_in_context": "NA",
+   "seed_pods": "NA",
+   "thumb_framing": 2,
+   "seasonal": "NA"
+  },
+  "overall": "excellent",
+  "fixable_gaps": [],
+  "capped_axes": [],
+  "cap_note": "",
+  "notes": "Tender perennial -> seasonal NA; foliage-grown so flowers genuinely secondary (bloom_in_context NA, not a heavy bloomer). Foliage (the whole point) is readable and good. But several shots have wall/stucco/pavement backgrounds and the habit is a sparse potted seedling. Flowers are tiny/partial. Foliage = 2, everything else soft."
+ },
+ {
+  "slug": "subshrubs/regal-geranium",
+  "common": "Regal geranium (Martha Washington)",
+  "type": "Subshrub",
+  "lifecycle": "Tender perennial",
+  "n_shots": 5,
+  "scores": {
+   "whole_plant": 2,
+   "foliage": 2,
+   "flowers": 2,
+   "front_facing": 2,
+   "bloom_in_context": 2,
+   "seed_pods": "NA",
+   "thumb_framing": 2,
+   "seasonal": "NA"
+  },
+  "overall": "excellent",
+  "fixable_gaps": [],
+  "capped_axes": [],
+  "cap_note": "",
+  "notes": "Tender perennial -> seasonal NA. Ruffled dark-blotched blooms face-on are excellent, pleated serrated leaves clear, mass+close both present. Only weak axis is whole_plant (no clean habit; sp-habit is flowers/foliage over bare soil)."
+ },
+ {
+  "slug": "perennials/snow-crocus",
+  "common": "Snow crocus",
+  "type": "Forb",
+  "lifecycle": "Perennial",
+  "n_shots": 4,
+  "scores": {
+   "whole_plant": 2,
+   "foliage": 2,
+   "flowers": 2,
+   "front_facing": 2,
+   "bloom_in_context": 2,
+   "seed_pods": "NA",
+   "thumb_framing": 2,
+   "seasonal": "NA"
+  },
+  "overall": "excellent",
+  "fixable_gaps": [],
+  "capped_axes": [],
+  "cap_note": "",
+  "notes": "Spring-ephemeral bulb -> seasonal & seed_pods NA. Face-on purple flowers, naturalized mass in grass, clump in litter, silvery-exterior close-up with grassy foliage. Everything covered for a small bulb."
+ },
+ {
+  "slug": "perennials/snowdrops",
+  "common": "Snowdrops",
+  "type": "Forb",
+  "lifecycle": "Perennial",
+  "n_shots": 5,
+  "scores": {
+   "whole_plant": 2,
+   "foliage": 2,
+   "flowers": 2,
+   "front_facing": 1,
+   "bloom_in_context": 2,
+   "seed_pods": "NA",
+   "thumb_framing": 2,
+   "seasonal": "NA"
+  },
+  "overall": "effectively-excellent",
+  "fixable_gaps": [],
+  "capped_axes": [
+   "front_facing"
+  ],
+  "cap_note": "Capped at good: snowdrop flowers are pendant/nodding bells that physically never face-on. The diagnostic inner green U-mark is shown well (sp-flower2), which is the best achievable. Structural cap, not an oversight.",
+  "notes": "Spring-ephemeral bulb -> seasonal & seed_pods NA. Backlit flower, pendant-bell + green-mark close-up, grassy clump habit, and a naturalized drift. Effectively excellent given the pendant-flower structural cap on front_facing."
+ },
+ {
+  "slug": "perennials/winter-aconite",
+  "common": "Winter aconite",
+  "type": "Forb",
+  "lifecycle": "Perennial",
+  "n_shots": 5,
+  "scores": {
+   "whole_plant": 2,
+   "foliage": 2,
+   "flowers": 2,
+   "front_facing": 2,
+   "bloom_in_context": 2,
+   "seed_pods": "NA",
+   "thumb_framing": 2,
+   "seasonal": "NA"
+  },
+  "overall": "excellent",
+  "fixable_gaps": [],
+  "capped_axes": [],
+  "cap_note": "",
+  "notes": "Spring-ephemeral bulb/tuber -> seasonal & seed_pods NA. Face-on yellow cups on the green bract ruff, mass/colony, and a clear leafy-ruff habit shot. Upward-facing cups give a genuine face-on. Strong throughout."
+ },
+ {
+  "slug": "perennials/dwarf-iris",
+  "common": "Dwarf iris",
+  "type": "Forb",
+  "lifecycle": "Perennial",
+  "n_shots": 5,
+  "scores": {
+   "whole_plant": 2,
+   "foliage": 2,
+   "flowers": 2,
+   "front_facing": 2,
+   "bloom_in_context": 2,
+   "seed_pods": "NA",
+   "thumb_framing": 2,
+   "seasonal": "NA"
+  },
+  "overall": "excellent",
+  "fixable_gaps": [],
+  "capped_axes": [],
+  "cap_note": "",
+  "notes": "Spring-ephemeral bulb -> seasonal & seed_pods NA. Cobalt-blue falls with yellow signal face-on and crisp, clump habit in litter, a mass, and grassy foliage. All axes covered."
+ },
+ {
+  "slug": "perennials/christmas-rose",
+  "common": "Christmas rose",
+  "type": "Forb",
+  "lifecycle": "Perennial",
+  "n_shots": 4,
+  "scores": {
+   "whole_plant": 2,
+   "foliage": 2,
+   "flowers": 2,
+   "front_facing": 2,
+   "bloom_in_context": 2,
+   "seed_pods": "NA",
+   "thumb_framing": 2,
+   "seasonal": 2
+  },
+  "overall": "excellent",
+  "fixable_gaps": [],
+  "capped_axes": [],
+  "cap_note": "",
+  "notes": "Winter bloomer, evergreen. Face-on white flower with golden stamen boss, alpine/woodland flowering clumps (mass), and a clear leathery palmate evergreen foliage shot. Winter bloom + foliage = seasonal interest covered. Strong."
+ },
+ {
+  "slug": "subshrubs/winter-heath",
+  "common": "Winter heath",
+  "type": "Subshrub",
+  "lifecycle": "Perennial",
+  "n_shots": 5,
+  "scores": {
+   "whole_plant": 2,
+   "foliage": 2,
+   "flowers": 2,
+   "front_facing": 1,
+   "bloom_in_context": 2,
+   "seed_pods": "NA",
+   "thumb_framing": 2,
+   "seasonal": 2
+  },
+  "overall": "effectively-excellent",
+  "fixable_gaps": [],
+  "capped_axes": [
+   "front_facing"
+  ],
+  "cap_note": "Capped at good: Erica carnea flowers are pendant urn/bell shapes that don't present face-on; the urn form + dark anthers are shown well in the close-up, which is the best achievable. Structural cap.",
+  "notes": "Winter bloomer. Mat habit, dense flowering mass, crisp urn-flower close-up, needle-whorl foliage. Winter bloom + foliage covered. Effectively excellent aside from the structural pendant-urn cap on front_facing. (Note: a couple of shots have some dead-twig/leaf-litter clutter mixed in, but mass + close are clean.)"
+ },
+ {
+  "slug": "subshrubs/rosemary",
+  "common": "Rosemary",
+  "type": "Subshrub",
+  "lifecycle": "Tender perennial",
+  "n_shots": 5,
+  "scores": {
+   "whole_plant": 2,
+   "foliage": 2,
+   "flowers": 2,
+   "front_facing": 2,
+   "bloom_in_context": 2,
+   "seed_pods": "NA",
+   "thumb_framing": 2,
+   "seasonal": "NA"
+  },
+  "overall": "excellent",
+  "fixable_gaps": [],
+  "capped_axes": [],
+  "cap_note": "",
+  "notes": "Tender perennial -> seasonal NA. Mounded plant in bloom, flowering mass, clear needle foliage, and a face-on two-lipped blue flower with exserted stamens. All axes covered."
+ },
+ {
+  "slug": "annuals/sweet-alyssum",
+  "common": "Sweet alyssum",
+  "type": "Forb",
+  "lifecycle": "Annual",
+  "n_shots": 4,
+  "scores": {
+   "whole_plant": 2,
+   "foliage": 2,
+   "flowers": 2,
+   "front_facing": 2,
+   "bloom_in_context": 2,
+   "seed_pods": "NA",
+   "thumb_framing": 2,
+   "seasonal": "NA"
+  },
+  "overall": "excellent",
+  "fixable_gaps": [],
+  "capped_axes": [],
+  "cap_note": "",
+  "notes": "Annual -> seasonal & seed_pods NA. White mounding mat, dense carpet mass, face-on 4-petal flower-cluster close-up, and a spreading mound showing the narrow grey-green foliage. Strong."
+ },
+ {
+  "slug": "annuals/pansy",
+  "common": "Pansy",
+  "type": "Forb",
+  "lifecycle": "Annual",
+  "n_shots": 4,
+  "scores": {
+   "whole_plant": 2,
+   "foliage": 2,
+   "flowers": 2,
+   "front_facing": 2,
+   "bloom_in_context": 2,
+   "seed_pods": "NA",
+   "thumb_framing": 2,
+   "seasonal": "NA"
+  },
+  "overall": "excellent",
+  "fixable_gaps": [],
+  "capped_axes": [],
+  "cap_note": "",
+  "notes": "Annual -> seasonal & seed_pods NA. Bold purple and white face-on blotched flowers (crisp), a yellow flowering mass, and a planter/clump showing leaves & habit. All axes covered."
+ },
+ {
+  "slug": "shrubs/witch-hazel",
+  "common": "Witch hazel",
+  "type": "Shrub",
+  "lifecycle": "Perennial",
+  "n_shots": 5,
+  "scores": {
+   "whole_plant": 2,
+   "foliage": 2,
+   "flowers": 2,
+   "front_facing": 2,
    "bloom_in_context": 2,
    "seed_pods": 2,
    "thumb_framing": 2,
    "seasonal": 2
   },
-  "overall": "good",
-  "gaps": [
-   "whole_plant=1: su-habit-t.jpg shows the vine covering a roofline from below/side — the coverage/mass reads well but the base, support structure, and characteristic twining form are not shown clearly; more of a context shot than a habit shot",
-   "thumb_framing=1: su-foliage-t.jpg shows a single juvenile leaf whorl close to the ground with dead leaf litter background — feature is clear but the shot reads as a seedling rather than a mature vine; su-bloom-t.jpg has the flower cluster pushed into the left edge half-hidden by a large leaf"
-  ],
+  "overall": "excellent",
   "fixable_gaps": [],
   "capped_axes": [],
   "cap_note": "",
-  "all_gaps": []
+  "notes": "PICK-QC FLAG: the wi-flower full image is cut branches staged against a grey car-seat/leather interior (indoor staged background) - trips the wall/indoor reject, though the flowers ARE the right species, abundant and crisp. Only 3 shots, no dedicated foliage, no seed capsules, no fall colour. Weakest plant in this group; recommend re-sourcing the flower shot in situ plus adding foliage/fall/capsule shots."
+ },
+ {
+  "slug": "shrubs/cornelian-cherry",
+  "common": "Cornelian cherry",
+  "type": "Shrub",
+  "lifecycle": "Perennial",
+  "n_shots": 7,
+  "scores": {
+   "whole_plant": 2,
+   "foliage": 2,
+   "flowers": 2,
+   "front_facing": 2,
+   "bloom_in_context": 2,
+   "seed_pods": 2,
+   "thumb_framing": 2,
+   "seasonal": 2
+  },
+  "overall": "excellent",
+  "fixable_gaps": [],
+  "capped_axes": [],
+  "cap_note": "",
+  "notes": "Excellent yellow flower cluster on bare twigs (mass + close), clear opposite oval foliage, and clean red-drupe fruit (su-fruit2). su-fruit is hand-held (fingers in frame) but su-fruit2 covers it. Main weaknesses: distant cluttered woodland habit and its poor thumb framing; fall colour missing."
+ },
+ {
+  "slug": "shrubs/pussy-willow",
+  "common": "Pussy willow",
+  "type": "Shrub",
+  "lifecycle": "Perennial",
+  "n_shots": 5,
+  "scores": {
+   "whole_plant": 1,
+   "foliage": 2,
+   "flowers": 2,
+   "front_facing": "NA",
+   "bloom_in_context": 2,
+   "seed_pods": "NA",
+   "thumb_framing": 2,
+   "seasonal": 2
+  },
+  "overall": "effectively-excellent",
+  "fixable_gaps": [],
+  "capped_axes": [
+   "whole_plant"
+  ],
+  "cap_note": "whole_plant: whole-shrub form scarce; smart-crop thumb leans to foliage",
+  "notes": "front_facing NA - willow catkins have no flower face. Catkins (the feature) shown both close (wi-catkins) and as a branch mass (sp-mass); foliage shot shows lanceolate leaves with silvery undersides clearly; seasonal covered (winter catkins + summer/fall leaf). Only weak axis is whole_plant (cluttered thicket habit). Seed not a notable feature -> seed_pods NA."
+ },
+ {
+  "slug": "annuals/sunflower",
+  "common": "Sunflower",
+  "type": "Forb",
+  "lifecycle": "Annual",
+  "n_shots": 5,
+  "scores": {
+   "whole_plant": 2,
+   "foliage": 2,
+   "flowers": 2,
+   "front_facing": 2,
+   "bloom_in_context": 2,
+   "seed_pods": 2,
+   "thumb_framing": 2,
+   "seasonal": 2
+  },
+  "overall": "excellent",
+  "fixable_gaps": [],
+  "capped_axes": [],
+  "cap_note": "",
+  "notes": "CO-native Helianthus annuus. Face-on flower close-up, whole plant (broad leaves readable, in a dry/weedy setting but form clear), a second flower close-up, a plant-in-bloom habit, and dried fall seedheads. Seedhead covers seed_pods and fall season. Strong throughout."
+ },
+ {
+  "slug": "perennials/rocky-mountain-iris",
+  "common": "Rocky Mountain iris",
+  "type": "Forb",
+  "lifecycle": "Perennial",
+  "n_shots": 6,
+  "scores": {
+   "whole_plant": 2,
+   "foliage": 2,
+   "flowers": 2,
+   "front_facing": 2,
+   "bloom_in_context": 2,
+   "seed_pods": 2,
+   "thumb_framing": 2,
+   "seasonal": 2
+  },
+  "overall": "excellent",
+  "fixable_gaps": [],
+  "capped_axes": [],
+  "cap_note": "",
+  "notes": "CO-native Iris missouriensis. Face-on flower with yellow signal (crisp, ladybug bonus), a second flower, a meadow mass, a flowering clump habit, and grassy foliage fans. Verified full su-foliagepod.jpg: shows the foliage well plus immature seed capsules among the leaves (hence seed_pods=1 partial, not 0). One fixable axis."
+ },
+ {
+  "slug": "perennials/nodding-onion",
+  "common": "Nodding onion",
+  "type": "Forb",
+  "lifecycle": "Perennial",
+  "n_shots": 7,
+  "scores": {
+   "whole_plant": 2,
+   "foliage": 2,
+   "flowers": 2,
+   "front_facing": 2,
+   "bloom_in_context": 1,
+   "seed_pods": 2,
+   "thumb_framing": 2,
+   "seasonal": 2
+  },
+  "overall": "effectively-excellent",
+  "fixable_gaps": [],
+  "capped_axes": [
+   "bloom_in_context"
+  ],
+  "cap_note": "bloom_in_context: no true multi-plant flowering drift under open license",
+  "notes": "All three 'flower' shots are close-ups of the nodding umbel; the file captioned su-mass is a single umbel, not a mass. Fall dried seedhead is good (seasonal=2). CO native so all gaps are easily sourceable via iNat place_id=34."
+ },
+ {
+  "slug": "perennials/desert-marigold",
+  "common": "Desert marigold",
+  "type": "Forb",
+  "lifecycle": "Perennial",
+  "n_shots": 3,
+  "scores": {
+   "whole_plant": 2,
+   "foliage": 2,
+   "flowers": 2,
+   "front_facing": 2,
+   "bloom_in_context": 2,
+   "seed_pods": "NA",
+   "thumb_framing": 2,
+   "seasonal": "NA"
+  },
+  "overall": "excellent",
+  "fixable_gaps": [],
+  "capped_axes": [],
+  "cap_note": "",
+  "notes": "sp-foliagehabit (full) is a textbook whole-plant: woolly silver basal rosette readable, flowers on bare stalks; sp-flower face-on crisp; sp-clump shows the flowering drift. seed_pods NA (spent heads not a notable display feature); seasonal NA (one season of interest — long bloom, no distinct fall/winter form)."
+ },
+ {
+  "slug": "perennials/black-eyed-susan",
+  "common": "Black-eyed Susan",
+  "type": "Forb",
+  "lifecycle": "Perennial",
+  "n_shots": 7,
+  "scores": {
+   "whole_plant": 2,
+   "foliage": 2,
+   "flowers": 2,
+   "front_facing": 2,
+   "bloom_in_context": 2,
+   "seed_pods": 2,
+   "thumb_framing": 2,
+   "seasonal": 2
+  },
+  "overall": "excellent",
+  "fixable_gaps": [],
+  "capped_axes": [],
+  "cap_note": "",
+  "notes": "Two crisp face-on flower close-ups, a good mass drift, and a clean fall dried seedhead (seasonal=2). su-habit full IS a clear whole-plant (whole_plant=2) but the thumbnail crop leaves it small and lost in tan grass — thumb_framing dinged. Foliage only secondary in the habit shot."
+ },
+ {
+  "slug": "annuals/marigold",
+  "common": "Marigold",
+  "type": "Forb",
+  "lifecycle": "Annual",
+  "n_shots": 5,
+  "scores": {
+   "whole_plant": 2,
+   "foliage": 2,
+   "flowers": 2,
+   "front_facing": 2,
+   "bloom_in_context": 2,
+   "seed_pods": "NA",
+   "thumb_framing": 2,
+   "seasonal": "NA"
+  },
+  "overall": "excellent",
+  "fixable_gaps": [],
+  "capped_axes": [],
+  "cap_note": "",
+  "notes": "Two excellent face-on flower close-ups (single + double), foliage clearly readable, su-mass a good drift. Only the clean single-plant habit is lacking. Annual -> seasonal NA; seed_pods NA."
+ },
+ {
+  "slug": "annuals/nigella",
+  "common": "Nigella",
+  "type": "Forb",
+  "lifecycle": "Annual",
+  "n_shots": 7,
+  "scores": {
+   "whole_plant": 2,
+   "foliage": 2,
+   "flowers": 2,
+   "front_facing": 2,
+   "bloom_in_context": 2,
+   "seed_pods": 2,
+   "thumb_framing": 2,
+   "seasonal": "NA"
+  },
+  "overall": "excellent",
+  "fixable_gaps": [],
+  "capped_axes": [],
+  "cap_note": "",
+  "notes": "Two crisp face-on flowers (blue, pink) and a standout inflated horned 'balloon' seedpod (seed_pods=2). But no habit, no clean foliage, and no bloom mass — the captioned su-foliage is a white flower, not foliage. Annual -> seasonal NA."
+ },
+ {
+  "slug": "annuals/bachelors-button",
+  "common": "Bachelor's button",
+  "type": "Forb",
+  "lifecycle": "Annual",
+  "n_shots": 5,
+  "scores": {
+   "whole_plant": 2,
+   "foliage": 2,
+   "flowers": 2,
+   "front_facing": 2,
+   "bloom_in_context": 2,
+   "seed_pods": "NA",
+   "thumb_framing": 2,
+   "seasonal": "NA"
+  },
+  "overall": "excellent",
+  "fixable_gaps": [],
+  "capped_axes": [],
+  "cap_note": "",
+  "notes": "Two crisp face-on blue flowers and a good mass drift (bloom_in_context=2). Missing a clean single-plant habit and a dedicated foliage read. Annual -> seasonal NA; seedheads not notable -> seed_pods NA."
+ },
+ {
+  "slug": "annuals/sweet-pea",
+  "common": "Sweet pea",
+  "type": "Vine",
+  "lifecycle": "Annual",
+  "n_shots": 4,
+  "scores": {
+   "whole_plant": 2,
+   "foliage": 2,
+   "flowers": 2,
+   "front_facing": 2,
+   "bloom_in_context": 2,
+   "seed_pods": "NA",
+   "thumb_framing": 2,
+   "seasonal": "NA"
+  },
+  "overall": "excellent",
+  "fixable_gaps": [],
+  "capped_axes": [],
+  "cap_note": "",
+  "notes": "Full coverage: flower close-up, flowers+foliage+tendrils (clean foliage read), a climbing-habit shot showing the vine form, and a mass drift. Pea pods are toxic/not an ornamental feature -> seed_pods NA; annual -> seasonal NA."
+ },
+ {
+  "slug": "annuals/amaranth",
+  "common": "Amaranth",
+  "type": "Forb",
+  "lifecycle": "Annual",
+  "n_shots": 4,
+  "scores": {
+   "whole_plant": 2,
+   "foliage": 2,
+   "flowers": 2,
+   "front_facing": 1,
+   "bloom_in_context": 2,
+   "seed_pods": "NA",
+   "thumb_framing": 2,
+   "seasonal": "NA"
+  },
+  "overall": "effectively-excellent",
+  "fixable_gaps": [],
+  "capped_axes": [
+   "front_facing"
+  ],
+  "cap_note": "STRUCTURAL CAP: amaranth's drooping rope-like tassels (love-lies-bleeding type) have no flower 'face' to photograph head-on — front_facing cannot reach 2. The tassels are shown crisply and in context, which is the best possible.",
+  "notes": "whole_plant habit (minor building/AC background but form clear), good foliage read, crisp tassel close-up, and a bloom mass. The flowering tassels are also the seedheads, so seed_pods NA (already shown). Annual -> seasonal NA. Capped at good by the no-face tassel."
+ },
+ {
+  "slug": "annuals/celosia",
+  "common": "Celosia",
+  "type": "Forb",
+  "lifecycle": "Annual",
+  "n_shots": 4,
+  "scores": {
+   "whole_plant": 2,
+   "foliage": 2,
+   "flowers": 2,
+   "front_facing": 2,
+   "bloom_in_context": 2,
+   "seed_pods": "NA",
+   "thumb_framing": 2,
+   "seasonal": "NA"
+  },
+  "overall": "excellent",
+  "fixable_gaps": [],
+  "capped_axes": [],
+  "cap_note": "",
+  "notes": "Genus mix of cockscomb (cristata) + plume (spicata) forms, which is fine. Bloom mass cockscomb is crisp, su-habit + plume shot show whole-plant form, foliage clearly readable. Plumes/combs have no 'face' so front_facing reads fine (form fully shown). Minor: the su-flowerplume single-plant shot has a gravel background and an early/small plume, but the cockscomb mass carries the flowers axis. Plumes are the seedheads -> seed_pods NA; annual -> seasonal NA."
+ },
+ {
+  "slug": "annuals/strawflower",
+  "common": "Strawflower",
+  "type": "Forb",
+  "lifecycle": "Annual",
+  "n_shots": 3,
+  "scores": {
+   "whole_plant": 2,
+   "foliage": 2,
+   "flowers": 2,
+   "front_facing": 2,
+   "bloom_in_context": 2,
+   "seed_pods": "NA",
+   "thumb_framing": 2,
+   "seasonal": "NA"
+  },
+  "overall": "effectively-excellent",
+  "fixable_gaps": [],
+  "capped_axes": [
+   "color_range"
+  ],
+  "cap_note": "COLOR CAP (cosmetic, not an axis gap): only the yellow species form is available under open license — no CC shots of the warm-toned cultivar color range exist. All eight rubric axes are met by the yellow form.",
+  "notes": "Face-on yellow flower close-up, clump-with-foliage (clean foliage read), and a bloom mass drift. Papery flowers are the persistent display, so no separate seedhead -> seed_pods NA; annual -> seasonal NA. Excellent; only the cultivar color range is unavailable."
+ },
+ {
+  "slug": "annuals/calendula",
+  "common": "Calendula",
+  "type": "Forb",
+  "lifecycle": "Annual",
+  "n_shots": 4,
+  "scores": {
+   "whole_plant": 2,
+   "foliage": 2,
+   "flowers": 2,
+   "front_facing": 2,
+   "bloom_in_context": 2,
+   "seed_pods": "NA",
+   "thumb_framing": 2,
+   "seasonal": "NA"
+  },
+  "overall": "excellent",
+  "fixable_gaps": [],
+  "capped_axes": [],
+  "cap_note": "",
+  "notes": "Face-on flower close-up, bloom mass drift, a clear whole-plant habit with basal leaves, and a dedicated foliage shot. Seedheads not a notable display -> seed_pods NA; annual -> seasonal NA. Full coverage."
+ },
+ {
+  "slug": "perennials/tulip",
+  "common": "Tulip",
+  "type": "Forb",
+  "lifecycle": "Perennial",
+  "n_shots": 4,
+  "scores": {
+   "whole_plant": 2,
+   "foliage": 2,
+   "flowers": 2,
+   "front_facing": 2,
+   "bloom_in_context": 2,
+   "seed_pods": "NA",
+   "thumb_framing": 2,
+   "seasonal": "NA"
+  },
+  "overall": "excellent",
+  "fixable_gaps": [],
+  "capped_axes": [],
+  "cap_note": "",
+  "notes": "sp-flower (full) is a good open-cup view into the interior (stamens/markings) = face-on; sp-flower2 open red cup; sp-habit a yellow clump with strappy foliage readable; sp-mass a red drift. Tulips deadheaded -> seed_pods NA; spring-only bulb -> seasonal NA. Full coverage."
+ },
+ {
+  "slug": "perennials/species-tulip",
+  "common": "Species tulip",
+  "type": "Forb",
+  "lifecycle": "Perennial",
+  "n_shots": 4,
+  "scores": {
+   "whole_plant": 2,
+   "foliage": 2,
+   "flowers": 2,
+   "front_facing": 2,
+   "bloom_in_context": 2,
+   "seed_pods": "NA",
+   "thumb_framing": 2,
+   "seasonal": "NA"
+  },
+  "overall": "excellent",
+  "fixable_gaps": [],
+  "capped_axes": [],
+  "cap_note": "",
+  "notes": "Tulipa tarda-type open stars: two crisp face-on star close-ups, a clump habit (open stars + foliage), and a clean foliage shot. Spring-only bulb -> seasonal NA; seed_pods NA. Full coverage."
+ },
+ {
+  "slug": "perennials/daffodil",
+  "common": "Daffodil",
+  "type": "Forb",
+  "lifecycle": "Perennial",
+  "n_shots": 5,
+  "scores": {
+   "whole_plant": 2,
+   "foliage": 2,
+   "flowers": 2,
+   "front_facing": 2,
+   "bloom_in_context": 2,
+   "seed_pods": "NA",
+   "thumb_framing": 2,
+   "seasonal": "NA"
+  },
+  "overall": "excellent",
+  "fixable_gaps": [],
+  "capped_axes": [],
+  "cap_note": "",
+  "notes": "sp-flower is crisp and face-on (minor: fingers steadying it in one corner). Mass + close-up give bloom_in_context=2. Weak on whole-plant form and foliage (both lost in leaf litter), and thumbs crop loosely. Spring-only bulb -> seasonal NA; seed_pods NA."
+ },
+ {
+  "slug": "perennials/dutch-crocus",
+  "common": "Dutch crocus",
+  "type": "Forb",
+  "lifecycle": "Perennial",
+  "n_shots": 5,
+  "scores": {
+   "whole_plant": 2,
+   "foliage": 2,
+   "flowers": 2,
+   "front_facing": 2,
+   "bloom_in_context": 2,
+   "seed_pods": "NA",
+   "thumb_framing": 2,
+   "seasonal": "NA"
+  },
+  "overall": "excellent",
+  "fixable_gaps": [],
+  "capped_axes": [],
+  "cap_note": "",
+  "notes": "Two crisp face-on open cups, an atmospheric sunset drift (mass), and a clustered habit/cup shot. The thin grassy leaves never get a clean read (foliage=1) but are diagnostic and sourceable. Spring-only bulb -> seasonal NA; seed_pods NA."
+ },
+ {
+  "slug": "perennials/bearded-iris",
+  "common": "Bearded iris",
+  "type": "Forb",
+  "lifecycle": "Perennial",
+  "n_shots": 4,
+  "scores": {
+   "whole_plant": 2,
+   "foliage": 2,
+   "flowers": 2,
+   "front_facing": 2,
+   "bloom_in_context": 2,
+   "seed_pods": "NA",
+   "thumb_framing": 2,
+   "seasonal": "NA"
+  },
+  "overall": "excellent",
+  "fixable_gaps": [],
+  "capped_axes": [],
+  "cap_note": "",
+  "notes": "sp-flower a crisp face-on purple bloom; sp-habit + sp-mass show the clumps with the diagnostic sword fans (foliage clearly readable). The file captioned sp-foliage is actually a distant flowering clump, not a leaf close-up, but foliage is well covered elsewhere -> foliage=2. Spring bloom; seedpods not a notable display -> seed_pods NA; seasonal NA."
+ },
+ {
+  "slug": "perennials/ornamental-allium",
+  "common": "Ornamental allium",
+  "type": "Forb",
+  "lifecycle": "Perennial",
+  "n_shots": 5,
+  "scores": {
+   "whole_plant": 2,
+   "foliage": 2,
+   "flowers": 2,
+   "front_facing": 2,
+   "bloom_in_context": 2,
+   "seed_pods": 2,
+   "thumb_framing": 2,
+   "seasonal": 2
+  },
+  "overall": "excellent",
+  "fixable_gaps": [],
+  "capped_axes": [],
+  "cap_note": "",
+  "notes": "Crisp purple globe close-up, two mass-planting drifts, and a clean foliage shot (whole_plant/foliage/flowers/front_facing/bloom_in_context all 2 — the spherical umbel reads from any angle). One add — a dried seedhead globe — lifts both seed_pods and seasonal to 2."
+ },
+ {
+  "slug": "perennials/gladiolus",
+  "common": "Gladiolus",
+  "type": "Forb",
+  "lifecycle": "Tender perennial",
+  "n_shots": 4,
+  "scores": {
+   "whole_plant": 2,
+   "foliage": 2,
+   "flowers": 2,
+   "front_facing": 2,
+   "bloom_in_context": 2,
+   "seed_pods": "NA",
+   "thumb_framing": 2,
+   "seasonal": "NA"
+  },
+  "overall": "excellent",
+  "fixable_gaps": [],
+  "capped_axes": [],
+  "cap_note": "",
+  "notes": "Individual glad florets ARE face-on (su-flower, su-flowermass) so no spike cap needed; su-habit shows the spike + sword foliage form. Two close-ups + spike-in-context cover bloom_in_context. Minor: su-flower2 is shot against a plain wall background (still outdoors, subject crisp) — not enough to dock thumb_framing. Corms lifted, no notable pod -> seed_pods NA; summer-only display -> seasonal NA."
  }
 ]

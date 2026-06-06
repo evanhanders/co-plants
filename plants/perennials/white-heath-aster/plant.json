@@ -32,14 +32,36 @@
     "companions": "Little bluestem, blue grama, prairie dropseed, purple prairie clover, blanketflower, goldenrod — any full-sun, lean-soil prairie companion that blooms earlier in the season, leaving the aster to close the season.[1]"
   },
   "fact_src": {
-    "size": [1, 2],
-    "sun": [1, 2],
-    "water": [1, 2],
-    "spread": [2, 3],
-    "seasons": [1, 2],
-    "wildlife": [1, 2],
-    "deer": [2],
-    "toxic": [3]
+    "size": [
+      1,
+      2
+    ],
+    "sun": [
+      1,
+      2
+    ],
+    "water": [
+      1,
+      2
+    ],
+    "spread": [
+      2,
+      3
+    ],
+    "seasons": [
+      1,
+      2
+    ],
+    "wildlife": [
+      1,
+      2
+    ],
+    "deer": [
+      2
+    ],
+    "toxic": [
+      3
+    ]
   },
   "edible": {
     "level": "inedible",
@@ -112,16 +134,6 @@
       "link": "https://www.inaturalist.org/observations/187562356"
     },
     {
-      "local": "images/wi-seeds-t.jpg",
-      "full": "images/wi-seeds.jpg",
-      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/608212615/large.jpg",
-      "s": "winter",
-      "cap": "Winter — a crisp close-up of the feathery white pappus seedheads with their dark achenes, the classic winter display · © Sam Kieschnick (CC-BY) / iNaturalist",
-      "by": "Sam Kieschnick",
-      "lic": "CC-BY",
-      "link": "https://www.inaturalist.org/photos/608212615"
-    },
-    {
       "local": "images/su-foliage-t.jpg",
       "full": "images/su-foliage.jpg",
       "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/404792854/large.jpeg",
@@ -130,6 +142,16 @@
       "by": "Donna J. Parry",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/228140119"
+    },
+    {
+      "local": "images/wi-seedhead-t.jpg",
+      "full": "images/wi-seedhead.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/324587081/large.jpg",
+      "s": "winter",
+      "cap": "Late season — feathery white pappus seedheads · © Dani Lafleur (CC-BY-NC) / iNaturalist",
+      "by": "Dani Lafleur",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/185815035"
     }
   ]
 }

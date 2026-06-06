@@ -33,16 +33,42 @@
     "troubles": "No serious pests or diseases. Crown rot in wet, poorly drained soil is the main failure mode — fix drainage, not chemistry. Occasional aphids and mealybugs; strong airflow and lean conditions keep populations low.[1][2]"
   },
   "fact_src": {
-    "size": [1, 2],
-    "sun": [1, 2],
-    "water": [1, 2],
-    "spread": [1, 2],
-    "seasons": [1, 2],
-    "wildlife": [1, 2],
-    "deer": [1],
-    "toxic": [2],
-    "origin": [1],
-    "habitat": [1]
+    "size": [
+      1,
+      2
+    ],
+    "sun": [
+      1,
+      2
+    ],
+    "water": [
+      1,
+      2
+    ],
+    "spread": [
+      1,
+      2
+    ],
+    "seasons": [
+      1,
+      2
+    ],
+    "wildlife": [
+      1,
+      2
+    ],
+    "deer": [
+      1
+    ],
+    "toxic": [
+      2
+    ],
+    "origin": [
+      1
+    ],
+    "habitat": [
+      1
+    ]
   },
   "edible": {
     "level": "edible",
@@ -113,6 +139,16 @@
       "by": "Sara Fonseca",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/69050703"
+    },
+    {
+      "local": "images/su-foliage2-t.jpg",
+      "full": "images/su-foliage2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/343579661/large.jpg",
+      "s": "summer",
+      "cap": "Summer — basal rosette of fleshy blue-green lance leaves · © Joss Carr (CC-BY) / iNaturalist",
+      "by": "Joss Carr",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/photos/343579661"
     }
   ]
 }

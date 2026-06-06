@@ -29,14 +29,35 @@
     "troubles": "Aphids, scales, and serpentine leaf miners occasionally appear; these are cosmetic and rarely need treatment — encourage natural predators. Powdery mildew can develop in crowded, low-airflow spots; thin the shrub and improve circulation. Drought stress is the main cultural problem on the Front Range: wilting, leaf scorch, and early leaf drop all signal insufficient water.[1][2]"
   },
   "fact_src": {
-    "size": [1],
-    "sun": [1, 2],
-    "water": [1, 2],
-    "spread": [1],
-    "seasons": [1, 2],
-    "wildlife": [1, 2],
-    "deer": [1],
-    "toxic": [2, 3]
+    "size": [
+      1
+    ],
+    "sun": [
+      1,
+      2
+    ],
+    "water": [
+      1,
+      2
+    ],
+    "spread": [
+      1
+    ],
+    "seasons": [
+      1,
+      2
+    ],
+    "wildlife": [
+      1,
+      2
+    ],
+    "deer": [
+      1
+    ],
+    "toxic": [
+      2,
+      3
+    ]
   },
   "edible": {
     "level": "caution",
@@ -129,6 +150,16 @@
       "by": "juliegrene",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/124778157"
+    },
+    {
+      "local": "images/su-faceflower-t.jpg",
+      "full": "images/su-faceflower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/143022454/large.jpg",
+      "s": "summer",
+      "cap": "Summer — paired tubular flowers face-on in dark bracts · © cwellssalerno (CC-BY-NC) / iNaturalist",
+      "by": "cwellssalerno",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/86779848"
     }
   ]
 }

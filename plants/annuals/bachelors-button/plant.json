@@ -126,6 +126,26 @@
       "by": "macres78",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/257941932"
+    },
+    {
+      "local": "images/sp-rosette-t.jpg",
+      "full": "images/sp-rosette.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/358376794/large.jpeg",
+      "s": "spring",
+      "cap": "Spring — young whole plant rosette · © Thomas Gyselinck (CC-BY) / iNaturalist",
+      "by": "Thomas Gyselinck",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/202888380"
+    },
+    {
+      "local": "images/su-greyfoliage-t.jpg",
+      "full": "images/su-greyfoliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/468215962/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — silvery grey-green foliage · © Michal Svit (CC-BY-NC) / iNaturalist",
+      "by": "Michal Svit",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/260695645"
     }
   ]
 }

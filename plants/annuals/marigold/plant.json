@@ -129,6 +129,16 @@
       "by": "Robin",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/335688825"
+    },
+    {
+      "local": "images/su-plant-t.jpg",
+      "full": "images/su-plant.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/609877001/original.jpg",
+      "s": "summer",
+      "cap": "Summer — tidy mounded plant smothered in red-orange blooms · © Robin (CC-BY-NC) / iNaturalist",
+      "by": "Robin",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/photos/609877001"
     }
   ]
 }

@@ -134,6 +134,36 @@
       "by": "Jacques HALLOT",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/311706896"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/613115742/large.jpg",
+      "s": "summer",
+      "cap": "Summer — airy branching plants · © zebedeugalinha (CC-BY) / iNaturalist",
+      "by": "zebedeugalinha",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/337291068"
+    },
+    {
+      "local": "images/su-foliage2-t.jpg",
+      "full": "images/su-foliage2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/547641865/large.jpg",
+      "s": "summer",
+      "cap": "Summer — threadlike love-in-a-mist foliage · © Patrick Hacker (CC-BY) / iNaturalist",
+      "by": "Patrick Hacker",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/303821630"
+    },
+    {
+      "local": "images/su-bloommass-t.jpg",
+      "full": "images/su-bloommass.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/201238841/large.jpg",
+      "s": "summer",
+      "cap": "Summer — drift of blue flowers in feathery foliage · © banizz (CC-BY-NC) / iNaturalist",
+      "by": "banizz",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/119066068"
     }
   ]
 }

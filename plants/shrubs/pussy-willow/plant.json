@@ -124,6 +124,16 @@
       "by": "Arthur Whiting",
       "lic": "CC-BY",
       "link": "https://www.inaturalist.org/photos/521136629"
+    },
+    {
+      "local": "images/su-shrubform-t.jpg",
+      "full": "images/su-shrubform.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/451448914/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — whole shrub form · © Jaime McGuigan (CC-BY) / iNaturalist",
+      "by": "Jaime McGuigan",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/252218358"
     }
   ]
 }

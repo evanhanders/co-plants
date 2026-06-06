@@ -136,6 +136,36 @@
       "by": "sklange",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/221636576"
+    },
+    {
+      "local": "images/sp-flower2-t.jpg",
+      "full": "images/sp-flower2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/484627449/large.jpg",
+      "s": "spring",
+      "cap": "Spring — face-on greenish-yellow saucer flowers in drooping racemes · © Jared Belsky (CC-BY-NC) / iNaturalist",
+      "by": "Jared Belsky",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/photos/484627449"
+    },
+    {
+      "local": "images/sp-bloommass-t.jpg",
+      "full": "images/sp-bloommass.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/642397164/large.jpg",
+      "s": "spring",
+      "cap": "Spring — flowering racemes hanging across the leafy shrub · © Laurel J. Ramseyer (CC-BY-NC) / iNaturalist",
+      "by": "Laurel J. Ramseyer",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/photos/642397164"
+    },
+    {
+      "local": "images/su-habit2-t.jpg",
+      "full": "images/su-habit2.jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ribes%20rubrum%20139259234.jpg",
+      "s": "summer",
+      "cap": "Summer — whole bush form, fruiting · © Анна Митрошенкова (CC-BY 4.0) / Wikimedia Commons",
+      "by": "Анна Митрошенкова",
+      "lic": "CC-BY 4.0",
+      "link": "https://commons.wikimedia.org/wiki/File:Ribes_rubrum_139259234.jpg"
     }
   ]
 }

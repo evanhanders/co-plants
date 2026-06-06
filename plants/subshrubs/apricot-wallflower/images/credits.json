@@ -49,5 +49,19 @@
       300,
       400
     ]
+  },
+  {
+    "file": "images/sp-plant.jpg",
+    "by": "pluto512",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/154278373",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/sp-mass.jpg",
+    "by": "rudymichael",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/52014687",
+    "via": "iNaturalist"
   }
 ]

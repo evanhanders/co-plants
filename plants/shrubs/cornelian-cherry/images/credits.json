@@ -83,5 +83,19 @@
       400,
       300
     ]
+  },
+  {
+    "file": "images/sp-habit.jpg",
+    "by": "Daniel Cahen",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/observations/108185535",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/fa-fallcolor.jpg",
+    "by": "Nikita Tiunov",
+    "license": "CC-BY-NC-SA",
+    "source": "https://www.inaturalist.org/observations/313024640",
+    "via": "iNaturalist"
   }
 ]

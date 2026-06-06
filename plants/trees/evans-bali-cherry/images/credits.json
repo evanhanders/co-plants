@@ -77,5 +77,26 @@
       300,
       400
     ]
+  },
+  {
+    "file": "images/su-foliage.jpg",
+    "by": "Scott Corbett",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/262076922",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/sp-blossom.jpg",
+    "by": "Angus Mossman",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/252592075",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/sp-bloommass.jpg",
+    "by": "Céline",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/observations/156240567",
+    "via": "iNaturalist"
   }
 ]

@@ -66,5 +66,19 @@
       300,
       400
     ]
+  },
+  {
+    "file": "images/su-plant.jpg",
+    "by": "zebedeugalinha",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/observations/364750073",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/su-flower.jpg",
+    "by": "obbycar",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/345643519",
+    "via": "iNaturalist"
   }
 ]

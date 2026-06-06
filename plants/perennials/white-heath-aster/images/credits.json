@@ -75,17 +75,17 @@
     "via": "iNaturalist"
   },
   {
-    "file": "images/wi-seeds.jpg",
-    "by": "Sam Kieschnick",
-    "license": "CC-BY",
-    "source": "https://www.inaturalist.org/photos/608212615",
-    "via": "iNaturalist"
-  },
-  {
     "file": "images/su-foliage.jpg",
     "by": "Donna J. Parry",
     "license": "CC-BY-NC",
     "source": "https://www.inaturalist.org/observations/228140119",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/wi-seedhead.jpg",
+    "by": "Dani Lafleur",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/185815035",
     "via": "iNaturalist"
   }
 ]

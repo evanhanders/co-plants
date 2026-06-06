@@ -78,5 +78,19 @@
       300,
       400
     ]
+  },
+  {
+    "file": "images/sp-blossom.jpg",
+    "by": "Gwendy",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/204998519",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/su-foliage.jpg",
+    "by": "Michal Svit",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/291519091",
+    "via": "iNaturalist"
   }
 ]

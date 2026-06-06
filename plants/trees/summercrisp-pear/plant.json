@@ -47,6 +47,26 @@
       "by": "Michal Svit",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/209555654"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/522817195/large.jpg",
+      "s": "summer",
+      "cap": "Whole leafy pear tree in summer (species-representative) · © Hanna Hauzer (CC-BY-NC) / iNaturalist",
+      "by": "Hanna Hauzer",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/290614460"
+    },
+    {
+      "local": "images/sp-bloommass-t.jpg",
+      "full": "images/sp-bloommass.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/66944724/large.jpeg",
+      "s": "spring",
+      "cap": "Spring — whole pear tree in white bloom (species-representative) · © Felix Riegel (CC-BY-NC) / iNaturalist",
+      "by": "Felix Riegel",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/42172373"
     }
   ],
   "care": {
@@ -93,8 +113,12 @@
     "toxic": [
       3
     ],
-    "origin": [3],
-    "habitat": [3]
+    "origin": [
+      3
+    ],
+    "habitat": [
+      3
+    ]
   },
   "edible": {
     "level": "edible",

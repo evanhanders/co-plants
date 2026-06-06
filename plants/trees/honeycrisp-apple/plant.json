@@ -57,6 +57,26 @@
       "by": "Evan-Amos",
       "lic": "CC0",
       "link": "https://commons.wikimedia.org/wiki/File:Honeycrisp-Apple.jpg"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/12627306/large.jpg",
+      "s": "summer",
+      "cap": "Summer foliage — glossy serrated apple leaves (species-representative) · © Melinda Creech (CC-BY-NC) / iNaturalist",
+      "by": "Melinda Creech",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/9317907"
+    },
+    {
+      "local": "images/sp-bloommass-t.jpg",
+      "full": "images/sp-bloommass.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/496712048/large.jpeg",
+      "s": "spring",
+      "cap": "Spring — tree smothered in white-pink apple blossom (species-representative) · © zaap (CC-BY-NC) / iNaturalist",
+      "by": "zaap",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/276604958"
     }
   ],
   "references": [
@@ -128,8 +148,12 @@
       4,
       5
     ],
-    "origin": [4],
-    "habitat": [4]
+    "origin": [
+      4
+    ],
+    "habitat": [
+      4
+    ]
   },
   "edible": {
     "level": "edible",

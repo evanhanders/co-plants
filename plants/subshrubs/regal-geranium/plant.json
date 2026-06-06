@@ -124,6 +124,16 @@
       "by": "Val Marsh",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/61006761"
+    },
+    {
+      "local": "images/sp-plant-t.jpg",
+      "full": "images/sp-plant.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/122031525/large.jpeg",
+      "s": "spring",
+      "cap": "Spring — full bushy plant of ruffled pink-and-white blotched blooms in a pot · © Arian (CC-BY-NC) / iNaturalist",
+      "by": "Arian",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/74649797"
     }
   ]
 }

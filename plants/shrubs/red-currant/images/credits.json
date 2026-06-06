@@ -66,5 +66,26 @@
       300,
       400
     ]
+  },
+  {
+    "file": "images/sp-flower2.jpg",
+    "by": "Jared Belsky",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/photos/484627449",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/sp-bloommass.jpg",
+    "by": "Laurel J. Ramseyer",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/photos/642397164",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/su-habit2.jpg",
+    "by": "Анна Митрошенкова",
+    "license": "CC-BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Ribes_rubrum_139259234.jpg",
+    "via": "Wikimedia Commons"
   }
 ]

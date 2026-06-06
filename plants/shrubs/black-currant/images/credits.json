@@ -66,5 +66,33 @@
       300,
       400
     ]
+  },
+  {
+    "file": "images/sp-flower.jpg",
+    "by": "Peter Oehler",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/photos/639987883",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/sp-bloommass.jpg",
+    "by": "alexfamilyteam",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/photos/658192506",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/su-habit2.jpg",
+    "by": "Rept0n1x",
+    "license": "CC-BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Ribes_nigrum_-_Blackcurrant_shrub,_Birkenhead_-_DSC00066.jpg",
+    "via": "Wikimedia Commons"
+  },
+  {
+    "file": "images/fa-fallcolor.jpg",
+    "by": "valdeur",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/photos/570927922",
+    "via": "iNaturalist"
   }
 ]

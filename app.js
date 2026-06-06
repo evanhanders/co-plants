@@ -185,7 +185,9 @@ let lead=mem.map(slugTail).indexOf(col.lead); if(lead<0) lead=0;
 let idx=lead+1, W=vp.clientWidth; // idx is into the cloned track; real member r is slide r+1
 function real(){ return (idx-1+N)%N; }
 function ui(){ const r=real(); if(counter) counter.textContent=(r+1)+' / '+N; dots.forEach(function(d,j){ d.classList.toggle('on', j===r); }); }
-function place(anim){ track.style.transition=anim?'transform .3s ease':'none'; track.style.transform='translateX('+(-idx*W)+'px)'; ui(); }
+const nb0=fam.querySelector('.fc-next'), pb0=fam.querySelector('.fc-prev');
+function placeArrows(){ const plate=vp.querySelector('.fc-slide .plate'); if(!plate) return; const t=Math.round(plate.clientHeight/2)+'px'; if(nb0) nb0.style.top=t; if(pb0) pb0.style.top=t; }
+function place(anim){ track.style.transition=anim?'transform .3s ease':'none'; track.style.transform='translateX('+(-idx*W)+'px)'; placeArrows(); ui(); }
 function go(d){ idx+=d; place(true); }
 track.addEventListener('transitionend', function(){ if(idx===0){ idx=N; place(false); } else if(idx===N+1){ idx=1; place(false); } });
 const nb=fam.querySelector('.fc-next'), pb=fam.querySelector('.fc-prev');

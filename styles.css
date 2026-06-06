@@ -140,19 +140,21 @@ h1.display{font-size:clamp(34px,7vw,58px);font-weight:600;line-height:.98;margin
 .fam-head{display:flex;align-items:center;gap:10px;padding:12px 14px 4px}
 .fam-head .name{font-size:18px;margin:0;color:var(--green)}
 .fam-head .fc-count{margin-left:auto;font-size:11.5px;color:var(--ink-soft);letter-spacing:.1em}
-.fam-hide{flex:none;border:1px solid var(--line);background:#f2ead6;color:var(--green);font-family:'Fraunces',Georgia,serif;font-size:12px;padding:5px 11px;border-radius:3px;cursor:pointer;display:inline-flex;align-items:center;gap:6px}
+/* compact text button — must override .fam-toggle's width:100% (the Hide btn shares that class) */
+.fam-hide{flex:none;width:auto;margin:0;border:1px solid var(--line);background:#f2ead6;color:var(--green);font-family:'Fraunces',Georgia,serif;font-size:11.5px;padding:4px 10px;border-radius:3px;cursor:pointer;display:inline-flex;align-items:center;gap:5px}
 .fam-hide:hover{background:#ece1c7}
-.fam-hide .fchev{font-size:10px;transition:transform .2s}
+.fam-hide .fchev{font-size:9px;transition:transform .2s}
 /* the looping carousel */
 .fc-viewport{position:relative;overflow:hidden;touch-action:pan-y}
 .fc-track{display:flex;will-change:transform}
 .fc-slide{flex:0 0 100%;min-width:0}
 .fc-slide .card{border:none;border-radius:0;box-shadow:none;border-top:1px solid var(--line)}
 .fc-slide .card:hover{transform:none;box-shadow:none}
-.fc-arr{position:absolute;top:28%;transform:translateY(-50%);width:34px;height:34px;border-radius:50%;border:1px solid var(--line);background:#fbf7ecd9;color:var(--green);font-size:21px;line-height:1;display:grid;place-items:center;cursor:pointer;z-index:4;-webkit-backdrop-filter:blur(2px);backdrop-filter:blur(2px)}
-.fc-arr:hover{background:var(--green);color:#fff;border-color:var(--green)}
-.fc-prev{left:8px}
-.fc-next{right:8px}
+/* small, see-through arrows centred on the PHOTO (top set by JS to the plate's mid-line) */
+.fc-arr{position:absolute;top:33%;transform:translateY(-50%);width:29px;height:29px;border-radius:50%;border:none;background:rgba(22,17,10,.32);color:#fff;font-size:17px;line-height:1;display:grid;place-items:center;cursor:pointer;z-index:4;-webkit-backdrop-filter:blur(2px);backdrop-filter:blur(2px);opacity:.8;transition:opacity .15s,background .15s}
+.fc-arr:hover{opacity:1;background:rgba(22,17,10,.55)}
+.fc-prev{left:7px}
+.fc-next{right:7px}
 .fc-dots{display:flex;gap:7px;justify-content:center;padding:11px 0 13px}
 .fc-dot{width:8px;height:8px;border-radius:50%;border:1px solid var(--green-soft);background:transparent;padding:0;cursor:pointer}
 .fc-dot.on{background:var(--green);border-color:var(--green)}

@@ -5,6 +5,13 @@
   "lifecycle": "Perennial",
   "native": "Non-native",
   "bloom_season": "Spring",
+  "flower_color": [
+    "white"
+  ],
+  "bloom": [
+    "winter",
+    "spring"
+  ],
   "blurb": "Nodding white bells that push up through late-winter snow — among the first nectar and pollen of the year.",
   "size": "4–6 in × 3–4 in",
   "sun": "Part shade to full sun (spring)",

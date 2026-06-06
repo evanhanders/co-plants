@@ -5,6 +5,14 @@
   "lifecycle": "Perennial",
   "native": "Non-native",
   "bloom_season": "Summer",
+  "flower_color": [
+    "white",
+    "blue",
+    "pink"
+  ],
+  "bloom": [
+    "summer"
+  ],
   "blurb": "Upright candlestick spikes of starry flowers (lead form: crisp white 'Icicle', though blue and pink cultivars abound) rise above a neat, clumping base in summer — a tidy, heat-tolerant pollinator favorite that rebloms freely with deadheading.",
   "size": "12–24 in × 12–18 in",
   "sun": "Full sun",
@@ -33,16 +41,37 @@
     "propagation": "Division is the easiest and most reliable method: divide clumps every 3–4 years in early spring (before growth begins) or in late summer after bloom, splitting the crown into sections each with shoots and roots, and replanting immediately at 12–18 in. spacing. Spring division is preferred on the Front Range. Basal stem cuttings taken in spring (3–4 in. non-flowering shoots with a heel, stuck in moist perlite) root in 2–3 weeks and are useful for scaling up a named cultivar. Seed germinates readily at 65–70°F without stratification — sow indoors 6–8 weeks before last frost or direct-sow in spring; seedlings typically bloom in their second year. Named cultivars may not come true from seed and are best divided or cutting-propagated.[1]"
   },
   "fact_src": {
-    "size": [1],
-    "sun": [1],
-    "water": [1],
-    "spread": [1],
-    "seasons": [1],
-    "wildlife": [1],
-    "deer": [1, 2],
-    "toxic": [2],
-    "origin": [1],
-    "habitat": [1]
+    "size": [
+      1
+    ],
+    "sun": [
+      1
+    ],
+    "water": [
+      1
+    ],
+    "spread": [
+      1
+    ],
+    "seasons": [
+      1
+    ],
+    "wildlife": [
+      1
+    ],
+    "deer": [
+      1,
+      2
+    ],
+    "toxic": [
+      2
+    ],
+    "origin": [
+      1
+    ],
+    "habitat": [
+      1
+    ]
   },
   "edible": {
     "level": "inedible",

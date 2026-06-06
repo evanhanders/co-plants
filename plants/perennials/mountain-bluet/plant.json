@@ -5,6 +5,14 @@
   "lifecycle": "Perennial",
   "native": "Non-native",
   "bloom_season": "Spring",
+  "flower_color": [
+    "blue",
+    "purple"
+  ],
+  "bloom": [
+    "spring",
+    "summer"
+  ],
   "blurb": "Fringed, almost spidery blue cornflowers on silver-felted stems in late spring — beautiful and vigorous, but it spreads by stolons and seeds so manage it with deadheading and dividing.",
   "size": "12–24 in × 12–18 in",
   "sun": "Full sun to part shade",
@@ -34,16 +42,36 @@
     "companions": "Pairs well with other late-spring and early-summer perennials that can hold their own against a spreader: salvia, geranium 'Rozanne', catmint, and ornamental grasses. Avoid planting beside small or slow-growing plants that could be overwhelmed.[1]"
   },
   "fact_src": {
-    "size": [1],
-    "sun": [1],
-    "water": [1],
-    "spread": [1],
-    "seasons": [1],
-    "wildlife": [1],
-    "deer": [1],
-    "toxic": [2],
-    "origin": [1],
-    "habitat": [1]
+    "size": [
+      1
+    ],
+    "sun": [
+      1
+    ],
+    "water": [
+      1
+    ],
+    "spread": [
+      1
+    ],
+    "seasons": [
+      1
+    ],
+    "wildlife": [
+      1
+    ],
+    "deer": [
+      1
+    ],
+    "toxic": [
+      2
+    ],
+    "origin": [
+      1
+    ],
+    "habitat": [
+      1
+    ]
   },
   "edible": {
     "level": "inedible",

@@ -5,6 +5,13 @@
   "lifecycle": "Annual",
   "native": "CO native",
   "bloom_season": "Summer",
+  "flower_color": [
+    "pink",
+    "purple"
+  ],
+  "bloom": [
+    "summer"
+  ],
   "blurb": "Colorado-native prairie annual — airy wands of pink-purple 'spider' flowers, alive with bees all summer, that reseed into drifting colonies. Still widely sold as Cleome serrulata.",
   "size": "2–4 ft × 1–2 ft",
   "sun": "Full sun",
@@ -36,14 +43,31 @@
     "propagation": "Seed is the only method — this annual taproots immediately and cannot be divided, layered, or rooted from cuttings. Collect seed in fall once pods turn tan and dry on the plant (before they split and shatter); dry indoors and store cool. For best germination, seeds benefit from cold-moist stratification (2–6 weeks in the refrigerator in damp sand) before spring sowing, or simply fall-sow and let winter provide the chill naturally. The plant self-sows freely on the Front Range if a few pods are left to ripen, so an established patch largely perpetuates itself each year.[1]"
   },
   "fact_src": {
-    "size": [1],
-    "sun": [1],
-    "water": [1],
-    "spread": [1],
-    "seasons": [1],
-    "wildlife": [1],
-    "deer": [1],
-    "toxic": [3, 4]
+    "size": [
+      1
+    ],
+    "sun": [
+      1
+    ],
+    "water": [
+      1
+    ],
+    "spread": [
+      1
+    ],
+    "seasons": [
+      1
+    ],
+    "wildlife": [
+      1
+    ],
+    "deer": [
+      1
+    ],
+    "toxic": [
+      3,
+      4
+    ]
   },
   "edible": {
     "level": "edible",

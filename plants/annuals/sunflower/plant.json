@@ -5,6 +5,13 @@
   "lifecycle": "Annual",
   "native": "CO native",
   "bloom_season": "Summer",
+  "flower_color": [
+    "yellow"
+  ],
+  "bloom": [
+    "summer",
+    "fall"
+  ],
   "blurb": "Colorado's own wild sunflower — branching stems carry a parade of golden, dark-eyed heads that bees mob all summer and goldfinches strip for seed in fall.",
   "size": "3–8 ft × 1–3 ft",
   "sun": "Full sun",

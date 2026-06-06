@@ -179,6 +179,17 @@ is **NOT** the grouping. A file can live in `plants/perennials/` yet be a `Groun
   grouping — forbs are split into "Spring/Summer/Fall forbs" sections (most things are forbs,
   so one flat "forbs" list would be huge; bloom season breaks it up and is garden-useful).
   Pick the plant's *primary/peak* bloom. Non-forbs omit it.
+- **`flower_color`** *(array, all plants)* — the plant's genuine **bloom colour(s)** from a fixed
+  palette: `white, yellow, orange, red, pink, purple, blue, green`. **Multiple** are expected for
+  bicolors, mixes, and cultivar ranges (garden tulip → `["white","yellow","orange","red","pink","purple"]`).
+  Map shades to the palette (lavender/violet→`purple`, magenta/rose→`pink`/`red`, gold/cream→`yellow`,
+  greenish/insignificant→`green`). Grown-for-foliage plants (ornamental grasses) use `[]`. Drives the
+  **Flower colour** filter group; not shown on the card.
+- **`bloom`** *(array, all flowering plants)* — the **season(s) it blooms** on the Front Range from
+  `spring, summer, fall, winter` (multiple for long bloomers; winter/early bloomers include `winter`).
+  This is the **filter** field and spans *all* growth forms — distinct from `bloom_season` (a single
+  primary value that only `Forb`s carry, used for grid grouping). Foliage/grasses with no bloom use `[]`.
+  Drives the **Bloom** filter group.
 - `commons:'File.jpg'` — legacy primary photo (a Commons filename). May be `""`. Once a
   plant has repo-hosted `shots`, this is just dead fallback metadata; new plants don't
   need it.
@@ -293,21 +304,31 @@ hides for single-photo plants and at the ends).
 **Photos must be real CC-licensed photographs — no illustrations.** (See "Image
 requirements & sourcing" below for the per-plant photo spec.)
 
-**Filtering & state.** Four filter axes compose: **Origin** (Both/Native/Introduced),
-**Form** chips (the morphology groups, with counts), **Lifecycle** chips
-(`Perennial`/`Tender perennial`/`Biennial`/`Annual`, from each plant's `lifecycle` tag), and
-**Trait** chips (`Winter`/`Pollinator`/`Spreads`/`Edible`/`Toxic`), plus the free-text search. The
-trait predicates live in one place — the `TRAITS` map in `reel.js` — shared by *both* the card
-badges and the trait filter (and auto-built chips with counts) so they never drift; add a new trait
-by extending that map (`flagsHTML` also pushes the badge). The **`Edible`** trait flags plants with
-a genuine edible part — its predicate is the explicit `edible.food === true` marker (NOT the
+**Filtering & state.** Filters are a **data-driven set of groups** — the `GROUPS` array in
+`app.js`. Each group is `{ key, label, mode, opts:[{v,label,test(p)}] }`; current groups are
+**Form** (morphology), **Flower colour** (from `flower_color`), **Bloom** (from `bloom`),
+**Lifecycle** (`lifecycle` tag), **Sun** (derived from the `sun` field by `sunOf()`), **Water**
+(derived from the `water` directive by `waterOf()`), **Origin** (`isNative`), and **Traits**
+(the `TRAITS` map) — plus the free-text search. **`mode:'or'`** = a plant matches *any* selected
+chip in the group; **`mode:'and'`** = it must match *all* (only Traits is `and`, so Winter AND
+Edible composes). Two UX behaviours fall out of one renderer (`renderFilters()`), recomputed on
+every `render()`:
+- **Selected chips jump to the front of their group** (active-first sort), the rest keep natural order.
+- **Faceted counts:** each chip shows how many plants remain given the **other** groups' active
+  filters **and** the search (its own group is excluded from its base via `passesFilters(p, exceptKey)`).
+  A chip whose count drops to 0 (and isn't active) is dimmed + disabled (`.chip.off`).
+
+Add a filter dimension by adding one entry to `GROUPS` (and, if it reads new data, populating that
+field on the plants); the delegated click handler, faceted counts, selected-first ordering, URL-hash
+round-trip and Clear-all all work off the group automatically. The **`Edible`** trait flags plants
+with a genuine edible part — its predicate is the explicit `edible.food === true` marker (NOT the
 `edible.level`), so a "partly edible" plant like chokecherry (fruit edible, rest toxic) carries
 *both* the Edible and Toxic badges, while a `caution`/`inedible` plant that's really "don't eat"
 (california poppy, peony, red-twig dogwood) is left untagged. Set `edible.food:true` on a plant when
 it has a part people actually eat. The legend always reads "Showing N of M plants" and shows a **Clear
-all** button when anything is active. Filter/search/view state is mirrored into the **URL hash**
-(`#view=…&nat=…&type=…&life=…&trait=…&q=…`) via `syncHash()`/`applyHash()`, so filtered views are
-shareable and survive a reload.
+all** button when anything is active. Each group's selection is mirrored into the **URL hash** under
+its `key` (`#view=…&type=…&color=…&bloom=…&life=…&sun=…&water=…&nat=…&trait=…&q=…`) via
+`syncHash()`/`applyHash()`, so filtered views are shareable and survive a reload.
 
 ### Adding a trait
 
@@ -324,11 +345,10 @@ predicate so they can't drift. To add one (e.g. `Fragrant`):
    `if(TRAITS.key.test(p)) flags.push('<span class="flag CLASS">ICON Label</span>');` (the map's
    `test` is the gate; the badge text/icon lives here).
 3. **Add a `.flag.CLASS` colour rule in `styles.css`** next to the other `.flag.*` rules.
-4. **That's it for wiring.** `app.js` never hard-codes trait names: `buildTraitChips()` iterates
-   `Object.keys(TRAITS)` (auto-creating the chip + live count), `passesFilters()` tests
-   `TRAITS[t].test(p)`, and the `trait=` URL-hash round-trip + Clear-all already cover any key in
-   the map. The one-line comment listing trait values at the top of `app.js` is the only manual
-   touch (cosmetic).
+4. **That's it for wiring.** `app.js` never hard-codes trait names: the `trait` group in `GROUPS`
+   iterates `Object.keys(TRAITS)` (auto-building the chips with faceted counts), `passesFilters()`
+   tests `TRAITS[t].test(p)`, and the `trait=` URL-hash round-trip + Clear-all already cover any key
+   in the map.
 5. **If the predicate reads a new data field, populate it** on the qualifying `plant.json`s (and
    document the field in the "`plant.json` schema" list). Then sanity-check the count.
 

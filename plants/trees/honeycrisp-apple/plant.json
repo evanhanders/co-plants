@@ -4,6 +4,13 @@
   "type": "Tree",
   "lifecycle": "Perennial",
   "native": "Introduced",
+  "flower_color": [
+    "white",
+    "pink"
+  ],
+  "bloom": [
+    "spring"
+  ],
   "blurb": "Explosively crisp, honey-sweet apple — the Front Range's most dependable tree fruit, hardy and late-blooming.",
   "size": "~12–15 ft × 12–15 ft (smaller on semi-dwarf rootstock)",
   "sun": "Full sun (6+ hrs)",

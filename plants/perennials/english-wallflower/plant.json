@@ -5,6 +5,14 @@
   "lifecycle": "Biennial",
   "native": "Introduced",
   "bloom_season": "Spring",
+  "flower_color": [
+    "yellow",
+    "orange",
+    "red"
+  ],
+  "bloom": [
+    "spring"
+  ],
   "blurb": "The classic fragrant cottage-garden wallflower — jewel-toned spring spires of clove-scented bloom. Grown as a biennial on the Front Range.",
   "size": "~1–2 ft × 1–1.5 ft",
   "sun": "Full sun",

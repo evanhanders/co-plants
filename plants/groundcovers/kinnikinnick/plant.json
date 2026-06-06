@@ -4,6 +4,13 @@
   "type": "Groundcover",
   "lifecycle": "Perennial",
   "native": "CO native",
+  "flower_color": [
+    "pink",
+    "white"
+  ],
+  "bloom": [
+    "spring"
+  ],
   "blurb": "A tough native evergreen mat-former — glossy dark-green leaves, small pink urn-shaped flowers in spring, bright-red berries in fall and winter — that hugs the ground in sun to part shade on well-drained, lean soil; slow to establish but virtually indestructible once settled.",
   "size": "4–8 in. × 2–6 ft (trailing stems spread wide over time)",
   "sun": "Full sun to part shade",
@@ -30,14 +37,37 @@
     "companions": "Ponderosa pine, Rocky Mountain juniper, blue grama grass, prairie sage (*Artemisia* spp.), and other xeric natives adapted to open, dry, well-drained Front Range and foothills sites. Works well at the edge of a rock garden or on a sunny, well-drained bank.[1][3]"
   },
   "fact_src": {
-    "size": [1, 2],
-    "sun": [1, 2],
-    "water": [1, 2],
-    "spread": [1, 2],
-    "seasons": [1, 3],
-    "wildlife": [1, 3],
-    "deer": [2],
-    "toxic": [1, 4]
+    "size": [
+      1,
+      2
+    ],
+    "sun": [
+      1,
+      2
+    ],
+    "water": [
+      1,
+      2
+    ],
+    "spread": [
+      1,
+      2
+    ],
+    "seasons": [
+      1,
+      3
+    ],
+    "wildlife": [
+      1,
+      3
+    ],
+    "deer": [
+      2
+    ],
+    "toxic": [
+      1,
+      4
+    ]
   },
   "edible": {
     "level": "caution",

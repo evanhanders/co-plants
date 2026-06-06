@@ -4,6 +4,13 @@
   "type": "Subshrub",
   "lifecycle": "Perennial",
   "native": "Introduced",
+  "flower_color": [
+    "purple"
+  ],
+  "bloom": [
+    "spring",
+    "summer"
+  ],
   "blurb": "The famous all-summer wallflower: a grey-leaved mound smothered in fragrant mauve racemes that feed early bees. Short-lived and borderline-hardy (~zone 6b).",
   "size": "~2–2.5 ft × 2–3 ft",
   "sun": "Full sun",
@@ -103,8 +110,12 @@
     "toxic": [
       3
     ],
-    "origin": [2],
-    "habitat": [2]
+    "origin": [
+      2
+    ],
+    "habitat": [
+      2
+    ]
   },
   "edible": {
     "level": "inedible",

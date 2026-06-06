@@ -5,6 +5,13 @@
   "lifecycle": "Perennial",
   "native": "Non-native",
   "bloom_season": "Spring",
+  "flower_color": [
+    "yellow"
+  ],
+  "bloom": [
+    "winter",
+    "spring"
+  ],
   "blurb": "Bright yellow buttercup cups on green ruffs in late winter — one of the earliest pollen sources, lovely beside snowdrops.",
   "size": "3–6 in × 4–6 in",
   "sun": "Full sun to part shade",

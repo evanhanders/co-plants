@@ -4,6 +4,15 @@
   "type": "Vine",
   "lifecycle": "Annual",
   "native": "Introduced",
+  "flower_color": [
+    "orange",
+    "red",
+    "yellow"
+  ],
+  "bloom": [
+    "summer",
+    "fall"
+  ],
   "blurb": "Easy peppery-edible annual — round lily-pad leaves and spurred jewel-toned flowers that trail or climb, blooming nonstop till frost.",
   "size": "Trailing/climbing 6–10 ft (bush types ~1 ft)",
   "sun": "Full sun (part shade in extreme heat)",
@@ -91,8 +100,12 @@
       1,
       3
     ],
-    "origin": [3],
-    "habitat": [3]
+    "origin": [
+      3
+    ],
+    "habitat": [
+      3
+    ]
   },
   "shots": [
     {

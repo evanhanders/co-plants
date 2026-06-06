@@ -5,6 +5,15 @@
   "lifecycle": "Annual",
   "native": "Non-native",
   "bloom_season": "Summer",
+  "flower_color": [
+    "pink",
+    "white",
+    "purple"
+  ],
+  "bloom": [
+    "summer",
+    "fall"
+  ],
   "blurb": "Airy, daisy-like blooms on ferny stems — an effortless cottage-garden annual.",
   "size": "2–4 ft × 1–2 ft",
   "sun": "Full sun",
@@ -37,16 +46,39 @@
     "propagation": "Seed is the only practical method — cosmos does not divide (no persistent crown or rhizome) and vegetative propagation is rarely attempted. Direct sow or start indoors as described above. For saving and sowing: allow selected seed heads to ripen and dry fully on the plant (they turn tan and narrow, like a needle), then strip and dry further indoors before storage. Saved open-pollinated seed comes true to color. The plant's most efficient 'propagation' is self-sowing: allow some seed heads to shatter in place from late August onward and cosmos will return in drifts the following year with no effort. Thin or transplant volunteers early while the taproot is still small.[1]"
   },
   "fact_src": {
-    "size": [1, 2],
-    "sun": [1, 2],
-    "water": [1],
-    "spread": [1],
-    "seasons": [1, 2],
-    "wildlife": [2],
-    "deer": [1],
-    "toxic": [3],
-    "origin": [2],
-    "habitat": [2]
+    "size": [
+      1,
+      2
+    ],
+    "sun": [
+      1,
+      2
+    ],
+    "water": [
+      1
+    ],
+    "spread": [
+      1
+    ],
+    "seasons": [
+      1,
+      2
+    ],
+    "wildlife": [
+      2
+    ],
+    "deer": [
+      1
+    ],
+    "toxic": [
+      3
+    ],
+    "origin": [
+      2
+    ],
+    "habitat": [
+      2
+    ]
   },
   "edible": {
     "level": "inedible",

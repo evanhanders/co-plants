@@ -4,6 +4,12 @@
   "type": "Subshrub",
   "lifecycle": "Perennial",
   "native": "Non-native",
+  "flower_color": [
+    "white"
+  ],
+  "bloom": [
+    "spring"
+  ],
   "blurb": "A woody-based evergreen mat smothered in crisp white flower clusters each spring, then holding its glossy dark foliage through the whole Front Range winter.",
   "size": "6–12 in × 12–24 in",
   "sun": "Full sun to part shade",
@@ -31,16 +37,40 @@
     "troubles": "Root rot in poorly drained or overwatered soil is the main killer — ensure sharp drainage. Clubroot (a soilborne pathogen of the Brassica family) can occur in heavy, wet soils; rotate planting sites if it appears. Occasional attack by imported cabbageworm caterpillars (also a Brassica relative); hand-pick or treat with Bt if needed. Generally trouble-free in Front Range conditions with good drainage.[1]"
   },
   "fact_src": {
-    "size": [1, 2],
-    "sun": [1, 2],
-    "water": [1, 2],
-    "spread": [1],
-    "seasons": [1, 2],
-    "wildlife": [1],
-    "deer": [1],
-    "toxic": [1],
-    "origin": [1],
-    "habitat": [1]
+    "size": [
+      1,
+      2
+    ],
+    "sun": [
+      1,
+      2
+    ],
+    "water": [
+      1,
+      2
+    ],
+    "spread": [
+      1
+    ],
+    "seasons": [
+      1,
+      2
+    ],
+    "wildlife": [
+      1
+    ],
+    "deer": [
+      1
+    ],
+    "toxic": [
+      1
+    ],
+    "origin": [
+      1
+    ],
+    "habitat": [
+      1
+    ]
   },
   "edible": {
     "level": "inedible",

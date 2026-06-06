@@ -4,6 +4,13 @@
   "type": "Subshrub",
   "lifecycle": "Perennial",
   "native": "Non-native",
+  "flower_color": [
+    "yellow",
+    "green"
+  ],
+  "bloom": [
+    "spring"
+  ],
   "blurb": "A tidy chartreuse dome that blazes red-orange in autumn.",
   "size": "12–18 in × 12–18 in (to ~28 in)",
   "sun": "Full sun–part shade",
@@ -33,16 +40,37 @@
     "propagation": "Division in early spring — just as new growth emerges from the crown — is the easiest and most reliable method; dig the clump, split it into sections each with several crowns and roots, and replant immediately at the same depth. Divide every 4–5 years if the center becomes open or unproductive. Basal cuttings taken in spring through early summer (new shoots 3–4 in. long) also root well: sever close to the base, immediately dip the cut end in lukewarm water or powdered charcoal to stop sap bleed, then insert in a gritty rooting mix. Wear gloves throughout — the milky latex is a skin and eye irritant. Seed is possible but slow: surface-sow on gritty compost in autumn and leave outside for winter cold stratification; germination is erratic. For most gardeners, spring division is the go-to approach.[1][2]"
   },
   "fact_src": {
-    "size": [1],
-    "sun": [1],
-    "water": [1],
-    "spread": [1],
-    "seasons": [1],
-    "wildlife": [1],
-    "deer": [1],
-    "toxic": [3, 4],
-    "origin": [3],
-    "habitat": [3]
+    "size": [
+      1
+    ],
+    "sun": [
+      1
+    ],
+    "water": [
+      1
+    ],
+    "spread": [
+      1
+    ],
+    "seasons": [
+      1
+    ],
+    "wildlife": [
+      1
+    ],
+    "deer": [
+      1
+    ],
+    "toxic": [
+      3,
+      4
+    ],
+    "origin": [
+      3
+    ],
+    "habitat": [
+      3
+    ]
   },
   "edible": {
     "level": "toxic",

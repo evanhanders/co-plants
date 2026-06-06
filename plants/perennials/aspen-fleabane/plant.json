@@ -5,6 +5,14 @@
   "lifecycle": "Perennial",
   "native": "CO native",
   "bloom_season": "Summer",
+  "flower_color": [
+    "purple",
+    "yellow"
+  ],
+  "bloom": [
+    "summer",
+    "fall"
+  ],
   "blurb": "A native daisy — lavender-blue rays around a gold eye, blooming for months.",
   "size": "1–2.5 ft × 1–1.5 ft",
   "sun": "Full sun",

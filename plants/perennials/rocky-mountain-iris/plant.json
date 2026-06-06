@@ -5,6 +5,13 @@
   "lifecycle": "Perennial",
   "native": "CO native",
   "bloom_season": "Spring",
+  "flower_color": [
+    "blue",
+    "purple"
+  ],
+  "bloom": [
+    "spring"
+  ],
   "blurb": "Colorado's wild blue flag — pale lavender-blue, purple-veined irises rise from grassy fans across wet mountain meadows in late spring.",
   "size": "1–2 ft × 1–2 ft",
   "sun": "Full sun to part shade",

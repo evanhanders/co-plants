@@ -5,6 +5,13 @@
   "lifecycle": "Perennial",
   "native": "CO native",
   "bloom_season": "Summer",
+  "flower_color": [
+    "pink",
+    "white"
+  ],
+  "bloom": [
+    "summer"
+  ],
   "blurb": "A dainty native onion whose flower stalk crooks at the tip so its loose umbel of pink bells nods toward the ground, alive with bees in midsummer.",
   "size": "1–2 ft × 4–12 in",
   "sun": "Full sun to part shade",

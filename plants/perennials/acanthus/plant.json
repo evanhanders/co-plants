@@ -5,6 +5,13 @@
   "lifecycle": "Perennial",
   "native": "Introduced",
   "bloom_season": "Summer",
+  "flower_color": [
+    "white",
+    "purple"
+  ],
+  "bloom": [
+    "summer"
+  ],
   "blurb": "Architectural 'bear's breeches' — huge glossy leaves and dramatic hooded white-and-purple flower spikes. Tender here (~zone 7); needs a sheltered spot and a hard mulch.",
   "size": "~3–4 ft × 2–3 ft (flower spikes to 5 ft)",
   "sun": "Part shade–full sun (afternoon shade in hot sites)",

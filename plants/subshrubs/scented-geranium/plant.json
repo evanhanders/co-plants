@@ -4,6 +4,13 @@
   "type": "Subshrub",
   "lifecycle": "Tender perennial",
   "native": "Introduced",
+  "flower_color": [
+    "pink",
+    "purple"
+  ],
+  "bloom": [
+    "summer"
+  ],
   "blurb": "Grown for fragrance — brush the deeply cut leaves for rose, lemon, or mint scent (lovely in baking). Frost-tender; an easy windowsill keeper.",
   "size": "~2–3 ft × 2 ft",
   "sun": "Full sun–part shade",

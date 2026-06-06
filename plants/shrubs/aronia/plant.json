@@ -4,6 +4,12 @@
   "type": "Shrub",
   "lifecycle": "Perennial",
   "native": "Non-native",
+  "flower_color": [
+    "white"
+  ],
+  "bloom": [
+    "spring"
+  ],
   "blurb": "An ultra-hardy berry shrub that pairs spring corymbs of pink-anthered white flowers with brilliant red fall foliage and glossy black antioxidant-packed fruit.",
   "size": "3–8 ft × 3–6 ft",
   "sun": "Full sun to part shade",

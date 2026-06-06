@@ -5,6 +5,12 @@
   "lifecycle": "Perennial",
   "native": "CO native",
   "bloom_season": "Spring",
+  "flower_color": [
+    "purple"
+  ],
+  "bloom": [
+    "spring"
+  ],
   "blurb": "One of the very first wildflowers of spring — silky lavender cups push up through the snow on fuzzy stems, then transform into shimmering plumed seedheads that persist for weeks.",
   "size": "6–12 in × 8–12 in",
   "sun": "Full sun",
@@ -34,14 +40,32 @@
     "troubles": "Root rot from poor drainage or overwatering is the primary killer. Slugs may nibble new growth in wet springs; use iron phosphate bait if needed. Crown rot in heavy, wet soil — improve drainage rather than treat. Rabbits occasionally browse young growth; protect with a wire cage in the first season. Fresh sap causes skin irritation — wear gloves when weeding or dividing.[1][2]"
   },
   "fact_src": {
-    "size": [1],
-    "sun": [1, 2],
-    "water": [1],
-    "spread": [1],
-    "seasons": [1],
-    "wildlife": [1],
-    "deer": [1, 2],
-    "toxic": [2]
+    "size": [
+      1
+    ],
+    "sun": [
+      1,
+      2
+    ],
+    "water": [
+      1
+    ],
+    "spread": [
+      1
+    ],
+    "seasons": [
+      1
+    ],
+    "wildlife": [
+      1
+    ],
+    "deer": [
+      1,
+      2
+    ],
+    "toxic": [
+      2
+    ]
   },
   "edible": {
     "level": "toxic",

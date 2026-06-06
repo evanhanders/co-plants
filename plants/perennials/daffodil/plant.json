@@ -5,6 +5,15 @@
   "lifecycle": "Perennial",
   "native": "Non-native",
   "bloom_season": "Spring",
+  "flower_color": [
+    "yellow",
+    "white",
+    "orange"
+  ],
+  "bloom": [
+    "winter",
+    "spring"
+  ],
   "blurb": "The bulletproof spring bulb — golden trumpets that come back and multiply for decades, and that deer, rabbits, and voles won't touch because every part is poisonous.",
   "size": "8 in–2.5 ft × 6 in–1 ft",
   "sun": "Full sun to part shade",

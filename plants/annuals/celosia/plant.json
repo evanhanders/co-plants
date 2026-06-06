@@ -5,6 +5,15 @@
   "lifecycle": "Annual",
   "native": "Non-native",
   "bloom_season": "Summer",
+  "flower_color": [
+    "red",
+    "orange",
+    "yellow"
+  ],
+  "bloom": [
+    "summer",
+    "fall"
+  ],
   "blurb": "Heat-loving celosia throws up velvety flame-like plumes or brain-folded crested combs in electric reds, oranges, and golds that shrug off the hottest Front Range summer.",
   "size": "9 in–3 ft × 9 in–1 ft (by cultivar)",
   "sun": "Full sun",

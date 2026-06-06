@@ -5,6 +5,13 @@
   "lifecycle": "Annual",
   "native": "Non-native",
   "bloom_season": "Summer",
+  "flower_color": [
+    "red"
+  ],
+  "bloom": [
+    "summer",
+    "fall"
+  ],
   "blurb": "Love-lies-bleeding drapes tall stems in long, drooping ropes of crimson tassels — a dramatic ancient grain crop that doubles as an edible leafy green.",
   "size": "3–5 ft × 1–2 ft",
   "sun": "Full sun (tolerates part shade)",

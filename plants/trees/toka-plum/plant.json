@@ -4,6 +4,12 @@
   "type": "Tree",
   "lifecycle": "Perennial",
   "native": "Introduced",
+  "flower_color": [
+    "white"
+  ],
+  "bloom": [
+    "spring"
+  ],
   "blurb": "The 'bubblegum plum' — spicy-sweet, bombproof to -40°F, and the orchard's best pollinator.",
   "size": "~15–20 ft × 12–15 ft",
   "sun": "Full sun (6+ hrs)",
@@ -98,8 +104,12 @@
       5,
       6
     ],
-    "origin": [1],
-    "habitat": [1]
+    "origin": [
+      1
+    ],
+    "habitat": [
+      1
+    ]
   },
   "shots": [
     {

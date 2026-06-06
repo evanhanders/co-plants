@@ -5,6 +5,15 @@
   "lifecycle": "Annual",
   "native": "Non-native",
   "bloom_season": "Summer",
+  "flower_color": [
+    "yellow",
+    "orange",
+    "red"
+  ],
+  "bloom": [
+    "summer",
+    "fall"
+  ],
   "blurb": "The bulletproof bedding annual — ferny aromatic foliage topped all summer by yellow-to-mahogany ruffled blooms that shrug off heat and feed late-season pollinators.",
   "size": "6–12 in × 6–18 in",
   "sun": "Full sun",

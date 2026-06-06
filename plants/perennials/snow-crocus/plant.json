@@ -5,6 +5,13 @@
   "lifecycle": "Perennial",
   "native": "Non-native",
   "bloom_season": "Spring",
+  "flower_color": [
+    "purple"
+  ],
+  "bloom": [
+    "winter",
+    "spring"
+  ],
   "blurb": "The earliest, most reliable crocus — slender lilac cups that naturalize into spring drifts and feed the very first bees.",
   "size": "4–6 in × 4–6 in",
   "sun": "Full sun to part shade",

@@ -4,6 +4,13 @@
   "type": "Shrub",
   "lifecycle": "Perennial",
   "native": "Non-native",
+  "flower_color": [
+    "green",
+    "red"
+  ],
+  "bloom": [
+    "spring"
+  ],
   "blurb": "A Finnish-bred dessert gooseberry: spiny arching canes hung with large dark-red berries that have tart skin over surprisingly sweet flesh, good enough to eat off the bush.",
   "size": "3–5 ft × 3–5 ft",
   "sun": "Full sun to part shade",

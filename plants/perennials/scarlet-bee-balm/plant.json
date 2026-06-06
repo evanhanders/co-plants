@@ -5,6 +5,12 @@
   "lifecycle": "Perennial",
   "native": "Non-native",
   "bloom_season": "Summer",
+  "flower_color": [
+    "red"
+  ],
+  "bloom": [
+    "summer"
+  ],
   "blurb": "The classic fire-engine-red bee balm (eastern-US native) — a hummingbird magnet, though thirstier and more mildew-prone than Colorado's wild bergamot.",
   "size": "2–4 ft × 1.5–3 ft",
   "sun": "Full sun–part shade",
@@ -65,8 +71,12 @@
       2,
       3
     ],
-    "origin": [1],
-    "habitat": [1]
+    "origin": [
+      1
+    ],
+    "habitat": [
+      1
+    ]
   },
   "edible": {
     "level": "edible",

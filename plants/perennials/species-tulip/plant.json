@@ -5,6 +5,13 @@
   "lifecycle": "Perennial",
   "native": "Non-native",
   "bloom_season": "Spring",
+  "flower_color": [
+    "yellow",
+    "white"
+  ],
+  "bloom": [
+    "spring"
+  ],
   "blurb": "A low, tough wild tulip whose starry yellow-and-white flowers open flat in the sun — and, unlike the big hybrids, it actually comes back and naturalizes in our dry-summer climate.",
   "size": "4–6 in × 4–6 in",
   "sun": "Full sun",

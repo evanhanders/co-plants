@@ -5,6 +5,13 @@
   "lifecycle": "Perennial",
   "native": "Non-native",
   "bloom_season": "Summer",
+  "flower_color": [
+    "purple"
+  ],
+  "bloom": [
+    "spring",
+    "summer"
+  ],
   "blurb": "Perfect violet-purple drumstick globes float on tall bare stems in early summer, humming with bees, then dry to architectural seed heads that hold for weeks.",
   "size": "2–3 ft × 6–9 in",
   "sun": "Full sun",

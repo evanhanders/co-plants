@@ -5,6 +5,13 @@
   "lifecycle": "Perennial",
   "native": "CO native",
   "bloom_season": "Summer",
+  "flower_color": [
+    "blue"
+  ],
+  "bloom": [
+    "spring",
+    "summer"
+  ],
   "blurb": "Sky-blue, tissue-paper flowers open at sunrise and drop by noon — a long-season, drought-tough Colorado native that reseeds into airy, naturalistic drifts.",
   "size": "1.5–2.5 ft × 1–2 ft",
   "sun": "Full sun",

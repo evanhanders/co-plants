@@ -4,6 +4,13 @@
   "type": "Shrub",
   "lifecycle": "Perennial",
   "native": "Non-native",
+  "flower_color": [
+    "white",
+    "pink"
+  ],
+  "bloom": [
+    "spring"
+  ],
   "origin": "Northern China, Korea, and the Himalayas",
   "habitat": "Mountain slopes and forest margins of cold, semi-arid interior Asia",
   "blurb": "An iron-hardy Asian bush cherry that froths pink-budded white over its downy branches in earliest spring, then loads them with sweet-tart scarlet cherries — tough to -40°F, drought-tolerant, and right at home in alkaline Front Range clay.",
@@ -33,16 +40,44 @@
     "companions": "Works as a fruiting hedge, windbreak, or wildlife shrub alongside other tough plants — serviceberry, golden currant, chokecherry — and pairs well with low-water perennials and grasses at its base. Plant several together both for pollination and for a denser screen.[2]"
   },
   "fact_src": {
-    "origin": [1, 4],
-    "habitat": [2, 4],
-    "size": [1, 2],
-    "sun": [2, 3],
-    "water": [2, 3],
-    "spread": [4],
-    "seasons": [1, 2],
-    "wildlife": [2, 3],
-    "deer": [3],
-    "toxic": [1, 5]
+    "origin": [
+      1,
+      4
+    ],
+    "habitat": [
+      2,
+      4
+    ],
+    "size": [
+      1,
+      2
+    ],
+    "sun": [
+      2,
+      3
+    ],
+    "water": [
+      2,
+      3
+    ],
+    "spread": [
+      4
+    ],
+    "seasons": [
+      1,
+      2
+    ],
+    "wildlife": [
+      2,
+      3
+    ],
+    "deer": [
+      3
+    ],
+    "toxic": [
+      1,
+      5
+    ]
   },
   "edible": {
     "level": "caution",

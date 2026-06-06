@@ -5,6 +5,15 @@
   "lifecycle": "Annual",
   "native": "Non-native",
   "bloom_season": "Summer",
+  "flower_color": [
+    "blue",
+    "white",
+    "pink",
+    "purple"
+  ],
+  "bloom": [
+    "summer"
+  ],
   "blurb": "Love-in-a-mist — sky-blue flowers nestled in a haze of thread-fine foliage, followed by extraordinary inflated, horned 'balloon' seedpods prized for drying.",
   "size": "1.5–2 ft × 1–1.5 ft",
   "sun": "Full sun",

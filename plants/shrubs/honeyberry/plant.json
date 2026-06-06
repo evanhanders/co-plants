@@ -4,6 +4,12 @@
   "type": "Shrub",
   "lifecycle": "Perennial",
   "native": "Non-native",
+  "flower_color": [
+    "yellow"
+  ],
+  "bloom": [
+    "spring"
+  ],
   "blurb": "The Front Range's true blueberry alternative — an edible honeysuckle that shrugs off alkaline clay and −40°F cold and ripens elongated blue, blueberry-meets-raspberry berries before anything else in the garden.",
   "size": "4–6 ft × 4–6 ft",
   "sun": "Full sun to part shade (afternoon shade helps in the hottest sites)",

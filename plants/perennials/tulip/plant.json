@@ -5,6 +5,17 @@
   "lifecycle": "Perennial",
   "native": "Non-native",
   "bloom_season": "Spring",
+  "flower_color": [
+    "white",
+    "yellow",
+    "orange",
+    "red",
+    "pink",
+    "purple"
+  ],
+  "bloom": [
+    "spring"
+  ],
   "blurb": "The big, bold garden tulip — goblet flowers in every saturated color that headline the mid-spring border, though here they often blaze brightest the first year and fade after.",
   "size": "10–28 in × 6–9 in",
   "sun": "Full sun",

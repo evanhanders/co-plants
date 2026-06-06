@@ -5,6 +5,14 @@
   "lifecycle": "Perennial",
   "native": "CO native",
   "bloom_season": "Spring",
+  "flower_color": [
+    "blue",
+    "white"
+  ],
+  "bloom": [
+    "spring",
+    "summer"
+  ],
   "blurb": "Colorado's state flower — sky-blue-and-white spurred blooms nodding over ferny foliage.",
   "size": "1–2.5 ft × 1–1.5 ft",
   "sun": "Part shade–sun",
@@ -35,14 +43,31 @@
     "propagation": "Seed is the easiest and most reliable method, and it is how the species perpetuates itself naturally in the garden (see the `sow`, `stratify`, and `depth` entries for the full seed protocol). Sow in early fall for natural stratification, or cold-stratify in the refrigerator for 60 days before a spring sow; seedlings reach bloom size in year two or three. Division is possible but not ideal: columbine develops a taproot and resents disturbance, so divided plants often sulk or fail. If you need to divide, do it in very early spring before growth begins or in early fall, keeping as much root as possible and replanting immediately. The most sustainable long-term strategy is to let established plants self-seed freely — seedlings appear near the parent each spring and replace aging crowns naturally. Note that garden columbines cross-pollinate freely, so offspring of named cultivars will vary in color.[1]"
   },
   "fact_src": {
-    "size": [1],
-    "sun": [1],
-    "water": [1],
-    "spread": [1],
-    "seasons": [1],
-    "wildlife": [1],
-    "deer": [1],
-    "toxic": [2, 3]
+    "size": [
+      1
+    ],
+    "sun": [
+      1
+    ],
+    "water": [
+      1
+    ],
+    "spread": [
+      1
+    ],
+    "seasons": [
+      1
+    ],
+    "wildlife": [
+      1
+    ],
+    "deer": [
+      1
+    ],
+    "toxic": [
+      2,
+      3
+    ]
   },
   "edible": {
     "level": "caution",

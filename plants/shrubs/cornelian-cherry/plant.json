@@ -4,6 +4,12 @@
   "type": "Shrub",
   "lifecycle": "Perennial",
   "native": "Non-native",
+  "flower_color": [
+    "yellow"
+  ],
+  "bloom": [
+    "spring"
+  ],
   "blurb": "Clouds of tiny yellow flowers on bare branches in earliest spring, then edible red fruit — a tough, early-feeding dogwood.",
   "size": "15–25 ft × 15–20 ft",
   "sun": "Full sun to part shade; best bloom in full sun",

@@ -4,6 +4,17 @@
   "type": "Vine",
   "lifecycle": "Annual",
   "native": "Non-native",
+  "flower_color": [
+    "white",
+    "red",
+    "pink",
+    "purple",
+    "blue"
+  ],
+  "bloom": [
+    "spring",
+    "summer"
+  ],
   "blurb": "The most fragrant of climbing annuals — ruffled, jewel-toned blooms scrambling up a trellis on cool spring air, perfuming the garden until summer heat shuts them down.",
   "size": "6–8 ft × 2–3 ft",
   "sun": "Full sun",

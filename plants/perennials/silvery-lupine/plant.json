@@ -5,6 +5,13 @@
   "lifecycle": "Perennial",
   "native": "CO native",
   "bloom_season": "Summer",
+  "flower_color": [
+    "blue",
+    "purple"
+  ],
+  "bloom": [
+    "summer"
+  ],
   "blurb": "Colorado's most common native lupine — silvery leaves, blue-violet spires.",
   "size": "1–2 ft × ~1 ft",
   "sun": "Full sun",

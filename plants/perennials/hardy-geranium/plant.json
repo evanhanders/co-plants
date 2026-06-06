@@ -4,6 +4,14 @@
   "type": "Groundcover",
   "lifecycle": "Perennial",
   "native": "Non-native",
+  "flower_color": [
+    "purple",
+    "blue"
+  ],
+  "bloom": [
+    "summer",
+    "fall"
+  ],
   "blurb": "The famous long-blooming hardy cranesbill — large violet-blue saucer flowers with white eyes appear from early summer and keep going right up to frost with almost no deadheading needed.",
   "size": "12–18 in × 18–24 in",
   "sun": "Full sun to part shade",
@@ -32,16 +40,41 @@
     "companions": "Outstanding paired with roses, salvias, Russian sage, catmint, and ornamental grasses — its sprawling habit and continuous blue-violet flowers weave them together. Also excellent as ground cover under open shrubs or along path edges where it can spill.[1]"
   },
   "fact_src": {
-    "size": [1, 2],
-    "sun": [1, 2],
-    "water": [1],
-    "spread": [1, 2],
-    "seasons": [1, 2],
-    "wildlife": [1],
-    "deer": [1],
-    "toxic": [1, 3],
-    "origin": [5],
-    "habitat": [5]
+    "size": [
+      1,
+      2
+    ],
+    "sun": [
+      1,
+      2
+    ],
+    "water": [
+      1
+    ],
+    "spread": [
+      1,
+      2
+    ],
+    "seasons": [
+      1,
+      2
+    ],
+    "wildlife": [
+      1
+    ],
+    "deer": [
+      1
+    ],
+    "toxic": [
+      1,
+      3
+    ],
+    "origin": [
+      5
+    ],
+    "habitat": [
+      5
+    ]
   },
   "edible": {
     "level": "inedible",

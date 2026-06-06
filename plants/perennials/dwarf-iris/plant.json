@@ -5,6 +5,14 @@
   "lifecycle": "Perennial",
   "native": "Non-native",
   "bloom_season": "Spring",
+  "flower_color": [
+    "blue",
+    "purple"
+  ],
+  "bloom": [
+    "winter",
+    "spring"
+  ],
   "blurb": "Jewel-blue dwarf bulb iris that flowers at snowmelt, weeks before anything else — tiny but brilliant.",
   "size": "4–6 in × 4 in",
   "sun": "Full sun",

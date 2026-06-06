@@ -4,6 +4,14 @@
   "type": "Shrub",
   "lifecycle": "Perennial",
   "native": "Non-native",
+  "flower_color": [
+    "yellow",
+    "orange"
+  ],
+  "bloom": [
+    "winter",
+    "spring"
+  ],
   "blurb": "Ozark native shrub that unfurls spidery yellow-orange ribbons on bare branches in late winter — fragrant, and the rare woody winter bloomer.",
   "size": "6–16 ft × 10–15 ft",
   "sun": "Full sun to part shade; flowers best in full sun",

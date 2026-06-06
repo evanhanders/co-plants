@@ -5,6 +5,13 @@
   "lifecycle": "Perennial",
   "native": "CO native",
   "bloom_season": "Summer",
+  "flower_color": [
+    "purple",
+    "pink"
+  ],
+  "bloom": [
+    "summer"
+  ],
   "blurb": "Colorado-native bee balm — whimsical lavender 'jester's-hat' heads that hum with pollinators all summer.",
   "size": "2–4 ft × 2–3 ft",
   "sun": "Full sun–light shade",

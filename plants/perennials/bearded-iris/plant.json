@@ -5,6 +5,19 @@
   "lifecycle": "Perennial",
   "native": "Non-native",
   "bloom_season": "Spring",
+  "flower_color": [
+    "white",
+    "yellow",
+    "orange",
+    "red",
+    "pink",
+    "purple",
+    "blue"
+  ],
+  "bloom": [
+    "spring",
+    "fall"
+  ],
   "blurb": "Sword-leaved fans send up ruffled, fragrant late-spring flags in nearly every color, their fuzzy 'beards' glowing against silky falls — and they revel in our sun, alkaline clay, and dry summers.",
   "size": "1–4 ft × 1–2 ft",
   "sun": "Full sun",

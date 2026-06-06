@@ -4,6 +4,12 @@
   "type": "Tree",
   "lifecycle": "Perennial",
   "native": "Introduced",
+  "flower_color": [
+    "white"
+  ],
+  "bloom": [
+    "spring"
+  ],
   "blurb": "The classic bright-red pie cherry — the Front Range's bulletproof, time-tested tart cherry.",
   "size": "~15–18 ft × 15 ft (semi-dwarf ~10 ft)",
   "sun": "Full sun (6+ hrs)",

@@ -4,6 +4,13 @@
   "type": "Shrub",
   "lifecycle": "Perennial",
   "native": "Non-native",
+  "flower_color": [
+    "pink",
+    "white"
+  ],
+  "bloom": [
+    "spring"
+  ],
   "blurb": "A thornless black-currant-by-gooseberry hybrid — a vigorous, trouble-free bush hung with big tart-sweet near-black berries that ripen to currant-and-gooseberry flavor.",
   "size": "5–6 ft × 5–6 ft",
   "sun": "Full sun to part shade (best fruit in full sun; afternoon shade helps in heat)",

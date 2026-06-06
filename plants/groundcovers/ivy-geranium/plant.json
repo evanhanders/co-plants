@@ -4,6 +4,17 @@
   "type": "Groundcover",
   "lifecycle": "Tender perennial",
   "native": "Introduced",
+  "flower_color": [
+    "pink",
+    "red",
+    "purple",
+    "white"
+  ],
+  "bloom": [
+    "spring",
+    "summer",
+    "fall"
+  ],
   "blurb": "The window-box spiller — glossy ivy-shaped leaves and dangling flower clusters that cascade all summer. Frost-tender; overwinter indoors.",
   "size": "Trailing 2–3 ft+",
   "sun": "Full sun–part shade",

@@ -4,6 +4,13 @@
   "type": "Shrub",
   "lifecycle": "Perennial",
   "native": "Non-native",
+  "flower_color": [
+    "yellow"
+  ],
+  "bloom": [
+    "winter",
+    "spring"
+  ],
   "blurb": "Silvery furry catkins on bare stems in late winter — one of the single most important early pollen sources for native and honey bees.",
   "size": "10–20 ft × 8–12 ft",
   "sun": "Full sun to part shade; best catkins in full sun",

@@ -4,6 +4,17 @@
   "type": "Subshrub",
   "lifecycle": "Tender perennial",
   "native": "Introduced",
+  "flower_color": [
+    "red",
+    "pink",
+    "white",
+    "orange"
+  ],
+  "bloom": [
+    "spring",
+    "summer",
+    "fall"
+  ],
   "blurb": "The classic bedding 'geranium' — bold flower balls over scallop-edged zoned leaves all summer. Frost-tender; overwinter indoors or from cuttings.",
   "size": "~1–2 ft × 1–1.5 ft in a season",
   "sun": "Full sun (part shade in extreme heat)",

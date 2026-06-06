@@ -4,6 +4,12 @@
   "type": "Shrub",
   "lifecycle": "Perennial",
   "native": "Non-native",
+  "flower_color": [
+    "white"
+  ],
+  "bloom": [
+    "summer"
+  ],
   "blurb": "A fall-bearing red raspberry that fruits on first-year canes — mow the whole patch to the ground each spring and still harvest a heavy crop of sweet berries from late summer to frost.",
   "size": "4–6 ft × spreading thicket (canes 3–9 ft)",
   "sun": "Full sun (6+ hrs); tolerates light afternoon shade",

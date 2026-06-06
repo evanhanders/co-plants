@@ -5,6 +5,14 @@
   "lifecycle": "Annual",
   "native": "CO native",
   "bloom_season": "Summer",
+  "flower_color": [
+    "white",
+    "green"
+  ],
+  "bloom": [
+    "summer",
+    "fall"
+  ],
   "blurb": "Upright annual frosted with white-margined leaves and bracts late season.",
   "size": "1–3 ft tall",
   "sun": "Full sun–part shade",

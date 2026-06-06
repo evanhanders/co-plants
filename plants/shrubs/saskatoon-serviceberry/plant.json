@@ -4,6 +4,12 @@
   "type": "Shrub",
   "lifecycle": "Perennial",
   "native": "CO native",
+  "flower_color": [
+    "white"
+  ],
+  "bloom": [
+    "spring"
+  ],
   "blurb": "A bulletproof native fruiting shrub — clouds of white spring stars give way to sweet, blueberry-like blue-purple pomes that bake into the best pies on the High Plains, on a tough thicket-former that shrugs off cold, drought, and alkaline clay.",
   "size": "6–15 ft × 6–8 ft",
   "sun": "Full sun to part shade; fruits best in full sun",

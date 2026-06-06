@@ -1,0 +1,53 @@
+{
+  "common": "Gambel oak",
+  "botanical": "Quercus gambelii",
+  "type": "Tree",
+  "lifecycle": "Perennial",
+  "native": "CO native",
+  "flower_color": [],
+  "bloom": [],
+  "blurb": "The iconic scrub oak of the Front Range foothills — deeply lobed leaves turning gold and russet in fall, acorns that feed everything, and a tough, thicket-forming nature that thrives on dry slopes.",
+  "size": "~15–30 ft tall × 15–25 ft wide (often a multi-stem thicket)",
+  "sun": "Full sun to part shade",
+  "water": "Low; xeric",
+  "spread": "Suckers into clonal thickets",
+  "seasons": "Deeply lobed green leaves turning gold-russet in fall; acorns late summer–fall; bare gray branches in winter",
+  "wildlife": "Acorns and cover are a wildlife powerhouse — deer, turkeys, jays, squirrels; larval host for many butterflies and moths",
+  "deer": "Browsed, and acorns eaten — a key wildlife plant",
+  "toxic": "",
+  "winter": false,
+  "verified": "2026-06-06",
+  "gaps": "No clean open-licensed acorn close-up found; acorns are described but the reel shows foliage, habit, and fall color.",
+  "shots": [
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/31289513/large.jpg",
+      "s": "summer",
+      "cap": "Summer — deeply lobed oak leaves · © Steven Mlodinow (CC-BY-NC) / iNaturalist · © Steven Mlodinow (CC-BY-NC) / iNaturalist",
+      "by": "Steven Mlodinow",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/20270343"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/408650825/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — young tree & habit · © youngjedi_mrh (CC-BY-NC) / iNaturalist · © youngjedi_mrh (CC-BY-NC) / iNaturalist",
+      "by": "youngjedi_mrh",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/230167005"
+    },
+    {
+      "local": "images/fa-fallcolor-t.jpg",
+      "full": "images/fa-fallcolor.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/453205868/large.jpeg",
+      "s": "fall",
+      "cap": "Fall — golden-russet fall color · © quercus_havardii (CC-BY-NC) / iNaturalist · © quercus_havardii (CC-BY-NC) / iNaturalist",
+      "by": "quercus_havardii",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/253138155"
+    }
+  ]
+}

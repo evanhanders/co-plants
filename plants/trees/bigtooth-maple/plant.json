@@ -1,0 +1,62 @@
+{
+  "common": "Bigtooth maple",
+  "botanical": "Acer grandidentatum",
+  "type": "Tree",
+  "lifecycle": "Perennial",
+  "native": "CO native",
+  "flower_color": [],
+  "bloom": [],
+  "blurb": "A small, well-behaved Western maple that ignites into brilliant scarlet and orange every fall — the Rocky Mountains' answer to the sugar maple, tough and drought-adapted for Front Range yards.",
+  "size": "~20–30 ft tall × 20–25 ft wide (often multi-stem)",
+  "sun": "Full sun to part shade",
+  "water": "Low to moderate; xeric once established",
+  "spread": "Single or multi-stem; non-suckering",
+  "seasons": "Green maple leaves in summer turning brilliant red-orange in fall; winged samaras; gray bark in winter",
+  "wildlife": "Early pollen and seeds for wildlife; larval host; cover for birds",
+  "deer": "Browsed when young",
+  "toxic": "",
+  "winter": false,
+  "verified": "2026-06-06",
+  "shots": [
+    {
+      "local": "images/fa-fallcolor-t.jpg",
+      "full": "images/fa-fallcolor.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/11159613/large.jpg",
+      "s": "fall",
+      "cap": "Fall — brilliant red fall foliage · © Judy Bush (CC-BY-NC) / iNaturalist · © Judy Bush (CC-BY-NC) / iNaturalist",
+      "by": "Judy Bush",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/8389880"
+    },
+    {
+      "local": "images/fa-falltree-t.jpg",
+      "full": "images/fa-falltree.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/176532280/large.jpeg",
+      "s": "fall",
+      "cap": "Fall — whole tree in fall color · © brandonbest (CC-BY-NC) / iNaturalist · © brandonbest (CC-BY-NC) / iNaturalist",
+      "by": "brandonbest",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/105239565"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/23005567/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — green summer foliage · © Diego Tamayo (CC-BY-NC) / iNaturalist · © Diego Tamayo (CC-BY-NC) / iNaturalist",
+      "by": "Diego Tamayo",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/15358677"
+    },
+    {
+      "local": "images/su-samaras-t.jpg",
+      "full": "images/su-samaras.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/402182/large.jpg",
+      "s": "summer",
+      "cap": "Summer — winged samaras · © CARLOS VELAZCO (CC-BY-NC) / iNaturalist · © CARLOS VELAZCO (CC-BY-NC) / iNaturalist",
+      "by": "CARLOS VELAZCO",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/323210"
+    }
+  ]
+}

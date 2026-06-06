@@ -145,6 +145,10 @@
     "shrubs/shrubby-cinquefoil",
     "shrubs/rabbitbrush",
     "shrubs/leadplant",
-    "shrubs/waxflower"
+    "shrubs/waxflower",
+    "trees/bigtooth-maple",
+    "trees/gambel-oak",
+    "trees/pinon-pine",
+    "trees/rocky-mountain-maple"
   ]
 }

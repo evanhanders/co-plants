@@ -392,13 +392,27 @@ filtered `list` is folded into **items** bucketed by section: standalone plants 
 a collection with **≥2 visible members** becomes one `familyCardHTML` item placed in its home
 `group`; a collection with **exactly 1 visible member** falls back to a plain card in that member's
 own section (so a lone match — or a filter that narrows a family to one — never hides behind a
-pointless wrapper). The family cover reuses the lead's `plateHTML` reel; member cards are verbatim
-`cardHTML`. Collapsed, the family is a normal grid cell; **open**, it sets `grid-column:1/-1` to
-break out to a full-width band whose nested `.grid` lays the members out multi-column (CSS in the
-"collection (family) cards" block). The expander toggles `.open` **in place** (no full re-render →
-keeps scroll); `famOpen` remembers which are open. A search or any active filter **force-opens**
-every family so matches are visible; the section header tally and the "Showing N of M plants"
-legend count **plants**, not cards.
+pointless wrapper). Collapsed, the family is a normal grid cell whose cover reuses the lead's
+`plateHTML` reel. **Open**, it stays in its cell and reveals a **looping carousel** of the member
+cards (verbatim `cardHTML`): a `.fc-track` of `[clone(last), …members…, clone(first)]` translated
+one card per view, with ‹ › arrows, a dot per member, and an `n / m` counter. The carousel is
+**built lazily** on first expand (`buildCarousel` → `carouselHTML` + `wireReels` + `wireCarousel`),
+so nothing renders until asked; it opens on the **lead** member for continuity with the cover, and
+loops seamlessly (on `transitionend` past a clone it jumps to the matching real slide with the
+transition off). The expander toggles `.open` **in place** (no full re-render → keeps scroll);
+`famOpen` remembers which are open. A search or any active filter **force-opens** every family
+(carousels built at render); the section header tally and the "Showing N of M plants" legend count
+**plants**, not cards.
+
+**Two horizontal swipes, routed by where you grab.** Inside an open carousel both gestures work and
+never fight, because `wireCarousel` decides at `pointerdown`: a swipe that **starts on the photo**
+(`.reel`) is left to the reel's own season-swipe (change the season), while a swipe that **starts
+anywhere else** on the card (facts body, flags, gaps) drives the **carousel** (change the variety).
+A vertical drag does neither — the page scrolls (`.fc-viewport` carries `touch-action:pan-y`, like
+the reels). The carousel swallows the click that follows a real drag so a link/photo under the
+finger doesn't fire. `reel.js` is untouched by this. **Test swipe routing with real touch (CDP), not
+mouse drags — the reel swipe only responds to touch input** (mouse drags silently no-op, which once
+looked like a routing bug but wasn't).
 
 **Mixed-morphology collections** (penstemons span Subshrub + Forb; pelargoniums, wallflowers also
 mix) keep each member's honest `type` — the family is simply *placed* in its declared home `group`.

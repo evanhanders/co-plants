@@ -9,6 +9,7 @@ let SEED = []; // populated at load by loadSeed() from plants/<cat>/<slug>/plant
    family card; a lone visible member renders as a normal card in its own section. */
 let COLLECTIONS = {};
 const famOpen = new Set(); // collection ids the user has expanded (type view; default collapsed)
+const FAM = {}; // collection id -> its visible members[], stashed each render for lazy carousel build
 /* Plants are grouped by MORPHOLOGY (growth form); herbaceous "forbs" are split by their
    primary bloom season. Lifecycle (perennial/annual/biennial/tender) is a TAG, not a group. */
 const GROUP_ORDER = ["Trees","Shrubs","Subshrubs","Ornamental grasses","Groundcovers","Vines","Spring forbs","Summer forbs","Fall forbs","Other"];
@@ -122,26 +123,95 @@ return '<article class="card"><div class="plate">'+plate+'<span class="corner">'
 '</div></article>';
 }
 function gridOf(list){ return '<div class="grid">'+list.map(cardHTML).join('')+'</div>'; }
-/* one collapsed/expandable family card standing in for a whole collection. The lead member's
-   photo reel is reused as the cover; the member cards (verbatim cardHTML) nest under it and
-   keep their own detail-page links. Open state spans the full grid width (see styles.css). */
+/* One collapsed/expandable family card standing in for a whole collection. Collapsed it shows
+   the lead member's photo reel as a cover; expanded it reveals a swipeable, looping CAROUSEL of
+   the member cards (verbatim cardHTML, each keeping its own detail-page link), built lazily on
+   first open. The carousel stays within the card's grid cell. */
 function familyCardHTML(id, members, open){
 const col = COLLECTIONS[id];
 const lead = members.filter(function(m){ return slugTail(m)===col.lead; })[0] || members[0];
-const plate = plateHTML(lead);
 const n = members.length;
 const names = members.map(function(m){ return m.common; }).join(' · ');
 /* a single native badge only when every member agrees; mixed collections show none */
 const nat = members.every(isNative) ? natBadge(lead,'nat') : '';
-const inner = '<div class="grid">'+members.map(cardHTML).join('')+'</div>';
-return '<article class="card family'+(open?' open':'')+'" data-col="'+id+'">'+
-'<div class="plate">'+plate+'<span class="famcount">'+n+' varieties</span>'+nat+'</div>'+
+FAM[id] = members; // stash for the lazy carousel build on expand
+return '<article class="card family'+(open?' open':'')+'" data-col="'+id+'" data-n="'+n+'">'+
+'<div class="plate">'+plateHTML(lead)+'<span class="famcount">'+n+' varieties</span>'+nat+'</div>'+
 '<div class="body"><h3 class="name">'+col.name+'</h3>'+
 '<p class="latin">'+(col.blurb||'')+'</p>'+
 '<p class="fammembers">'+names+'</p>'+
-'<button type="button" class="fam-toggle" data-col="'+id+'" data-n="'+n+'" aria-expanded="'+(open?'true':'false')+'">'+
-(open?'Hide':'Show')+' '+n+' varieties <span class="fchev">▾</span></button>'+
-'</div><div class="members">'+inner+'</div></article>';
+'<button type="button" class="fam-toggle" data-col="'+id+'" aria-expanded="false">Show '+n+' varieties <span class="fchev">▾</span></button>'+
+'</div>'+
+'<div class="fam-open"><div class="fam-head"><h3 class="name">'+col.name+'</h3>'+
+'<span class="fc-count" aria-live="polite"></span>'+
+'<button type="button" class="fam-toggle fam-hide" data-col="'+id+'" aria-expanded="true">Hide <span class="fchev">▾</span></button>'+
+'</div><div class="fam-carousel"></div></div></article>';
+}
+/* the carousel markup: a track of [clone(last), …members…, clone(first)] for seamless looping,
+   one card per view, with ‹ › arrows and a dot per member. */
+function carouselHTML(members){
+const cards = members.map(cardHTML);
+const slide = function(h){ return '<div class="fc-slide">'+h+'</div>'; };
+let track = slide(cards[cards.length-1]); // lead-in clone of the last
+cards.forEach(function(h){ track += slide(h); });
+track += slide(cards[0]);                 // lead-out clone of the first
+let dots=''; for(var i=0;i<members.length;i++){ dots += '<button type="button" class="fc-dot'+(i===0?' on':'')+'" data-i="'+i+'" aria-label="Variety '+(i+1)+'"></button>'; }
+return '<div class="fc-viewport"><div class="fc-track">'+track+'</div>'+
+'<button type="button" class="fc-arr fc-prev" aria-label="Previous variety">‹</button>'+
+'<button type="button" class="fc-arr fc-next" aria-label="Next variety">›</button></div>'+
+'<div class="fc-dots">'+dots+'</div>';
+}
+/* build + wire a family's carousel on first expand (lazy: nothing renders until you ask) */
+function buildCarousel(fam){
+if(fam.dataset.built) return;
+const id=fam.dataset.col, members=FAM[id]||[];
+if(members.length<2) return;
+const host=fam.querySelector('.fam-carousel');
+host.innerHTML=carouselHTML(members);
+wireReels(host);    // season dots + per-photo swipe (lightbox is delegated on #content)
+wireCarousel(fam);
+fam.dataset.built='1';
+}
+/* the looping carousel engine. Horizontal swipe drives it ONLY when the gesture starts off the
+   photo — a swipe that begins on a .reel is left to the reel's own season-swipe, so both work
+   depending on where you grab (image → change season; rest of the card → change variety). */
+function wireCarousel(fam){
+const vp=fam.querySelector('.fc-viewport'), track=fam.querySelector('.fc-track');
+const N=+fam.dataset.n, counter=fam.querySelector('.fc-count');
+const dots=Array.prototype.slice.call(fam.querySelectorAll('.fc-dot'));
+/* start on the lead member (the one whose photo is the cover) for continuity */
+const col=COLLECTIONS[fam.dataset.col]||{}, mem=FAM[fam.dataset.col]||[];
+let lead=mem.map(slugTail).indexOf(col.lead); if(lead<0) lead=0;
+let idx=lead+1, W=vp.clientWidth; // idx is into the cloned track; real member r is slide r+1
+function real(){ return (idx-1+N)%N; }
+function ui(){ const r=real(); if(counter) counter.textContent=(r+1)+' / '+N; dots.forEach(function(d,j){ d.classList.toggle('on', j===r); }); }
+function place(anim){ track.style.transition=anim?'transform .3s ease':'none'; track.style.transform='translateX('+(-idx*W)+'px)'; ui(); }
+function go(d){ idx+=d; place(true); }
+track.addEventListener('transitionend', function(){ if(idx===0){ idx=N; place(false); } else if(idx===N+1){ idx=1; place(false); } });
+const nb=fam.querySelector('.fc-next'), pb=fam.querySelector('.fc-prev');
+if(nb) nb.onclick=function(){ go(1); }; if(pb) pb.onclick=function(){ go(-1); };
+dots.forEach(function(d){ d.onclick=function(){ idx=(+d.dataset.i)+1; place(true); }; });
+let sx=0, sy=0, drag=false, decided=false, horiz=false, base=0, moved=false, suppress=false;
+vp.addEventListener('pointerdown', function(e){
+suppress=false;
+if(e.target.closest('.reel')||e.target.closest('button')||e.target.closest('a')) return; /* leave photos/controls/links alone */
+sx=e.clientX; sy=e.clientY; drag=true; decided=false; horiz=false; moved=false; base=-idx*W; track.style.transition='none';
+}, {passive:true});
+vp.addEventListener('pointermove', function(e){
+if(!drag) return; const dx=e.clientX-sx, dy=e.clientY-sy;
+if(!decided && (Math.abs(dx)>8||Math.abs(dy)>8)){ decided=true; horiz=Math.abs(dx)>Math.abs(dy); }
+if(decided && horiz){ moved=true; track.style.transform='translateX('+(base+dx)+'px)'; }
+}, {passive:true});
+function end(e){ if(!drag) return; drag=false; if(!horiz) return;
+const dx=e.clientX-sx, th=Math.min(80, W*0.2);
+if(dx<=-th) go(1); else if(dx>=th) go(-1); else place(true);
+if(moved) suppress=true; /* swallow the click that follows a real drag */ }
+vp.addEventListener('pointerup', end, {passive:true});
+vp.addEventListener('pointercancel', end, {passive:true});
+vp.addEventListener('click', function(e){ if(suppress){ e.preventDefault(); e.stopPropagation(); suppress=false; } }, true);
+/* reposition on resize; a re-render discards this carousel, so bail if it's detached */
+window.addEventListener('resize', function(){ if(!document.body.contains(vp)) return; W=vp.clientWidth; place(false); });
+place(false);
 }
 /* ---------- the filter bar: faceted counts + selected-first ordering ---------- */
 function renderFilters(all, q){
@@ -219,16 +289,17 @@ content.innerHTML = html;
 Array.prototype.forEach.call(content.querySelectorAll('.group-head'), function(h){
 h.onclick=function(){ if(q) return; /* during search everything is force-expanded */ const g=h.dataset.g; const nowC = !collapsed.has(g); if(nowC) collapsed.add(g); else collapsed.delete(g); h.parentElement.classList.toggle('collapsed', nowC); const chev=h.querySelector('.chev'); if(chev){ chev.setAttribute('aria-expanded', nowC?'false':'true'); chev.setAttribute('aria-label', (nowC?'Expand ':'Collapse ')+g); } };
 });
-/* family expand/collapse: toggle in place (no full re-render → keeps scroll & sibling state) */
+/* family expand/collapse: toggle in place (no full re-render → keeps scroll & sibling state);
+   build the carousel lazily the first time a family is opened */
 Array.prototype.forEach.call(content.querySelectorAll('.fam-toggle'), function(btn){
 btn.onclick=function(e){ e.preventDefault();
-const id=btn.dataset.col, n=btn.dataset.n, art=btn.closest('.family');
-const willOpen=!art.classList.contains('open');
-art.classList.toggle('open', willOpen);
-btn.setAttribute('aria-expanded', willOpen?'true':'false');
-btn.innerHTML=(willOpen?'Hide':'Show')+' '+n+' varieties <span class="fchev">▾</span>';
-if(willOpen) famOpen.add(id); else famOpen.delete(id); };
+const id=btn.dataset.col, fam=content.querySelector('.family[data-col="'+id+'"]'); if(!fam) return;
+const willOpen=!fam.classList.contains('open');
+fam.classList.toggle('open', willOpen);
+if(willOpen){ buildCarousel(fam); famOpen.add(id); } else famOpen.delete(id); };
 });
+/* force-open families (active search/filter) render with .open — build their carousels now */
+Array.prototype.forEach.call(content.querySelectorAll('.family.open'), buildCarousel);
 }
 wireReels(content);
 }

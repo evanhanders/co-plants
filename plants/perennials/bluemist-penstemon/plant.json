@@ -1,0 +1,131 @@
+{
+  "collection": "penstemons",
+  "common": "Bluemist penstemon",
+  "botanical": "Penstemon virens",
+  "type": "Forb",
+  "lifecycle": "Perennial",
+  "native": "CO native",
+  "flower_color": [
+    "blue",
+    "purple"
+  ],
+  "bloom": [
+    "spring",
+    "summer"
+  ],
+  "bloom_season": "Summer",
+  "blurb": "A low Front Range foothills native forming neat glossy evergreen rosettes that throw up clouds of small blue-violet flowers in late spring; happy in dry shade and lean granitic soil.",
+  "size": "~8–15 in tall × 12 in wide",
+  "sun": "Full sun to part shade (takes dry shade)",
+  "water": "Low; xeric",
+  "spread": "Clumping evergreen rosettes; self-sows",
+  "seasons": "Clouds of blue-violet flowers late spring–early summer; glossy evergreen basal rosette year-round",
+  "wildlife": "Native bees, bumblebees, and hummingbirds",
+  "deer": "Deer resistant",
+  "toxic": "",
+  "winter": true,
+  "verified": "2026-06-06",
+  "shots": [
+    {
+      "local": "images/su-flower-t.jpg",
+      "full": "images/su-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/458747075/large.jpg",
+      "s": "summer",
+      "cap": "Late spring — flower close-up · © Jared Shorma (CC-BY) / iNaturalist · © Jared Shorma (CC-BY) / iNaturalist",
+      "by": "Jared Shorma",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/255931416"
+    },
+    {
+      "local": "images/su-bloom-t.jpg",
+      "full": "images/su-bloom.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/41500753/large.jpg",
+      "s": "summer",
+      "cap": "Late spring — flowering mass · © dlehle (CC-BY-NC) / iNaturalist · © dlehle (CC-BY-NC) / iNaturalist",
+      "by": "dlehle",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/26717055"
+    },
+    {
+      "local": "images/sp-foliage-t.jpg",
+      "full": "images/sp-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/505444158/large.jpg",
+      "s": "spring",
+      "cap": "Evergreen basal foliage · © curt_nimz (CC-BY-NC) / iNaturalist · © curt_nimz (CC-BY-NC) / iNaturalist",
+      "by": "curt_nimz",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/281377563"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/601523690/large.jpg",
+      "s": "summer",
+      "cap": "Habit — growing on granite · © Elias (CC-BY) / iNaturalist · © Elias (CC-BY) / iNaturalist",
+      "by": "Elias",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/331567616"
+    }
+  ],
+  "care": {
+    "hardiness": "Very cold-hardy — a Front Range foothills native (Colorado/Wyoming, ~5,250–9,850 ft) good to USDA zone 4 and colder, so it shrugs off Boulder's 5b–6a winters and is perfectly at home in our climate.[2][3]",
+    "planting": "Set out container plants in spring after the mid-May average last frost, or in early fall, into lean gritty soil on a sunny slope. In pots use a fast-draining cactus/grit mix and keep it on the dry side — potted crowns rot far more readily than plants in the ground.[1][3]",
+    "sun": "Full sun to light shade — at least six hours of sun for the best, brightest bloom; it naturally grows in foothills forest openings, so it takes a little afternoon shade.[1][3]",
+    "soil": "Needs sharp drainage; though adaptable, like all penstemons it is healthier in well-drained, lean ground and rots in Boulder's heavy wet clay — plant in gritty soil and do NOT enrich with compost, which shortens its life.[1][3]",
+    "water": "Xeric — low water and drought-tolerant once established; it wants spring moisture to bloom but overwatering (especially after flowering) causes crown rot, so keep summer irrigation minimal.[1]",
+    "spacing": "Space about 8–12 in apart; it stays low — roughly 6–12 in tall — and spreads into a low mat that enlarges each year.[2][3]",
+    "propagation": "Grow from seed with cold-moist stratification (fall-sow outdoors for natural chilling, or chill moist in the fridge before a late-winter start). Penstemons resent division — don't split the crown; propagate from basal/softwood cuttings instead.[1][3]",
+    "stratify": "Cold-moist stratify the seed (fall sowing supplies natural winter chilling) to break dormancy.[1][3]",
+    "bloom": "Low spikes of pale sky-blue to lavender-purple tubular flowers (with a lavender throat) in late spring to early summer, about May–July on the Front Range; deadhead to tidy and prolong.[1][2][3]",
+    "feeding": "None needed — penstemons take no fertilizer in ordinary soil, and feeding only makes weak growth and shortens lifespan.[1]",
+    "maintenance": "Low: deadhead after bloom, ease off summer water to avoid crown rot, and leave the low evergreen mat over winter; clean up spent stems in late fall or early spring.[1]",
+    "troubles": "Few problems beyond crown/root rot in wet, poorly drained or amended soil; occasional grasshoppers, flea beetles and rust.[1]",
+    "companions": "A premier low xeric native for the front of dry sunny beds and rock gardens, valued for native bees — pair with other foothills natives and grasses.[2]"
+  },
+  "references": [
+    {
+      "name": "CSU Extension — Growing Penstemons",
+      "url": "https://extension.colostate.edu/resource/growing-penstemons/"
+    },
+    {
+      "name": "Lady Bird Johnson Wildflower Center — Penstemon virens",
+      "url": "https://www.wildflower.org/plants/result.php?id_plant=PEVI3"
+    },
+    {
+      "name": "Penstemon virens — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Penstemon_virens"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      2,
+      3
+    ],
+    "sun": [
+      1,
+      3
+    ],
+    "water": [
+      1
+    ],
+    "spread": [
+      3
+    ],
+    "seasons": [
+      2,
+      3
+    ],
+    "wildlife": [
+      2
+    ],
+    "deer": [
+      1
+    ]
+  },
+  "edible": {
+    "level": "inedible",
+    "food": false,
+    "summary": "Grown ornamentally as a native pollinator plant — no documented edible use.[2]",
+    "caution": "No known culinary use; not documented as poisonous, but it is not a food plant — don't eat it.[2]"
+  }
+}

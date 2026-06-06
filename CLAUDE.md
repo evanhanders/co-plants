@@ -501,12 +501,11 @@ hosted herbarium. The order matters:
    winter, wildlife, deer, toxicity).
 3. **Source repo-hosted photos** meeting the per-plant spec in "Image requirements &
    sourcing" below (close-up + structure, right species, open-licensed, upright).
-4. **Show the user the image(s) and the blurb in chat for sign-off first.** Don't
-   create the plant file until the visual + blurb are approved. Build a **picks-only preview** for
-   the sign-off — download just the *chosen* photos (by iNat photo id; probe S3 for the ext) and
-   tile them captioned, then send with `SendUserFile`. It's far clearer than handing over the full
-   montage, and the act of building + `Read`ing it is where bad picks get caught (see Pick QC below).
-5. **After approval,** create `plants/<category>/<slug>/plant.json` (with a `shots`
+4. **Build a picks-only preview as your own QC gate.** Download just the *chosen* photos (by iNat
+   photo id; probe S3 for the ext), tile them captioned, and **`Read` it yourself** — this is where
+   bad picks get caught (see Pick QC below). It's far clearer than the full montage. (User sign-off
+   is **not** required before creating the file; just make sure the picks are right.)
+5. **Create** `plants/<category>/<slug>/plant.json` (with a `shots`
    array if you have multiple seasonal photos), add its `"<category>/<slug>"` path to
    `plants/manifest.json`, then commit and push. The `<category>` folder is just a storage
    path (`trees, shrubs, subshrubs, grasses, groundcovers, vines, perennials, annuals` all
@@ -1109,8 +1108,8 @@ The current backlog. Move items out of this section as they ship.
   look-alike, or ambiguous before committing (see "iNat API path" step 5).
 - **`Read` the *picks*, not just the montage** — auto-reject pressed/herbarium specimens,
   hand-dominated twig shots, wall/indoor backgrounds, pavement/litter settings, and subjects lost in
-  grass; trust the pixels over a sub-agent's caption (see "Pick QC"). Sign off via a picks-only
-  preview sheet (`SendUserFile`).
+  grass; trust the pixels over a sub-agent's caption (see "Pick QC"). QC via a picks-only preview
+  sheet you `Read` yourself.
 - The card `water` field is a short practical **directive** (xeric → "no supplemental water once
   established"; water-hog → "not for dry zones"), with detail in `care.water`. Treat water demand as
   a Boulder happiness check, not an afterthought.
@@ -1120,7 +1119,8 @@ The current backlog. Move items out of this section as they ship.
   care facts"). No uncited hard numbers; no dead/blog citations. **Run
   `python3 tools/check_citations.py` after any `care_src` change** — it catches dead links and
   URLs that resolve to the wrong plant, and fails if a plant has no reachable source.
-- Show image + blurb for sign-off **before** creating the plant file.
+- Build + `Read` a picks-only preview to QC the photos before creating the plant file (catches
+  bad picks); user sign-off is not required.
 - A new plant = one `plant.json` + one `manifest.json` line (not a big array edit).
 - After any `finalize.py`/`commons_finalize.py`, run `rethumb.py` so the card thumbs are
   720×480 smart-crops, not the provisional 400px ones.

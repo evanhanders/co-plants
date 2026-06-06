@@ -1,152 +1,142 @@
 # Image-quality audit — The Front Range Herbarium
 
-Scored against the 8-axis rubric in `CLAUDE.md` (`whole_plant, foliage, flowers, front_facing, bloom_in_context, seed_pods, thumb_framing, seasonal`; ●=2 / ◐=1 / ○=0 / –=NA). **excellent** = every applicable (non-NA) axis = 2. Annuals' `seasonal` is NA. Spike/whorl flowers that can't present face-on carry a structural `front_facing` cap. Scores reflect per-thumbnail QC of every sourced shot.
+Scored against the 8-axis rubric in `CLAUDE.md` (`whole_plant, foliage, flowers, front_facing, bloom_in_context, seed_pods, thumb_framing, seasonal`; ●=2 / ◐=1 / ○=0 / –=NA). **excellent** = every applicable (non-NA) axis = 2; **effectively excellent** = only an unfillable/structural cap remains. `IMAGE_AUDIT.json` is the per-plant scorecard.
 
-**Tally of 68:** **54 excellent** · 14 effectively excellent (only an unfillable/structural cap) · 0 fixable gaps. → **all 68 at best-possible.**
+**Tally of 128:** **65 excellent** · 10 effectively excellent (only a structural/unfillable cap) · **53 with fixable gaps** (121 axes to lift).
 
 ## ⭐ Excellent — every applicable axis = 2
 
-- **California poppy** (6 shots)
-- **German chamomile** (5 shots)
-- **Cosmos** (4 shots)
-- **Larkspur** (7 shots)
-- **Rocky Mountain bee plant** (4 shots)
-- **Snapdragon** (4 shots)
-- **Snow-on-the-mountain** (5 shots)
-- **Little bluestem** (5 shots)
-- **Turkish speedwell** (5 shots)
-- **Hardy ice plant** (3 shots)
-- **Kinnikinnick** (6 shots)
-- **Snow-in-summer** (4 shots)
-- **Aspen fleabane** (4 shots)
-- **Blanket flower** (5 shots)
-- **Bloody cranesbill** (4 shots)
-- **Blue flax** (5 shots)
-- **Brunnera** (5 shots)
-- **Candytuft** (3 shots)
-- **Colorado blue columbine** (5 shots)
-- **Cushion spurge** (5 shots)
-- **Dahlia** (3 shots)
-- **Cheddar pinks** (5 shots)
-- **Evening primrose** (5 shots)
-- **Garden peony** (5 shots)
-- **Garden phlox** (6 shots)
-- **Grecian windflower** (5 shots)
-- **Horned spurge** (6 shots)
-- **Japanese anemone** (5 shots)
-- **Knautia** (5 shots)
-- **Mountain bluet** (5 shots)
-- **Oriental poppy** (6 shots)
-- **Panicled aster** (4 shots)
-- **Pasque flower** (4 shots)
-- **Red valerian** (5 shots)
-- **Salvia (meadow sage)** (3 shots)
-- **Scarlet bee balm** (6 shots)
-- **Shasta daisy** (4 shots)
-- **Garden verbena** (4 shots)
-- **Western wallflower** (6 shots)
-- **White heath aster** (6 shots)
-- **Wild bergamot** (5 shots)
-- **Yellow yarrow** (3 shots)
-- **Common lilac** (4 shots)
-- **Creeping Oregon grape** (4 shots)
-- **Mock orange** (3 shots)
-- **Red-twig dogwood** (7 shots)
-- **Smoke tree** (5 shots)
-- **Wood's rose** (6 shots)
-- **Mojave sage** (4 shots)
-- **Chokecherry** (7 shots)
-- **Mountain alder** (5 shots)
-- **Climbing rose** (3 shots)
-- **Rambling rose** (4 shots)
-- **Trumpet honeysuckle** (5 shots)
+- **Chokecherry** (8 shots) `● ● ● ● ● ● ● ●`
+- **Common lilac** (4 shots) `● ● ● ● ● – ● ●`
+- **Red-twig dogwood** (7 shots) `● ● ● ● ● ● ● ●`
+- **Wood's rose** (6 shots) `● ● ● ● ● ● ● ●`
+- **Mojave sage** (6 shots) `● ● ● ● ● – ● ●`
+- **Little bluestem** (5 shots) `● ● – – – ● ● ●`
+- **Colorado blue columbine** (7 shots) `● ● ● ● ● ● ● ●`
+- **Cushion spurge** (5 shots) `● ● ● ● ● – ● ●`
+- **Garden peony** (5 shots) `● ● ● ● ● – ● ●`
+- **Oriental poppy** (8 shots) `● ● ● ● ● ● ● ●`
+- **Scarlet bee balm** (6 shots) `● ● ● ● ● ● ● ●`
+- **Shasta daisy** (4 shots) `● ● ● ● ● – ● ●`
+- **Wild bergamot** (5 shots) `● ● ● ● ● ● ● ●`
+- **Cosmos** (5 shots) `● ● ● ● ● – ● –`
+- **Rocky Mountain bee plant** (6 shots) `● ● ● ● ● ● ● –`
+- **Snow-on-the-mountain** (5 shots) `● ● ● ● ● – ● –`
+- **Garden clematis** (4 shots) `● ● ● ● ● ● ● ●`
+- **Cheddar pinks** (6 shots) `● ● ● ● ● – ● ●`
+- **Blue flax** (7 shots) `● ● ● ● ● ● ● ●`
+- **Garden phlox** (8 shots) `● ● ● ● ● – ● ●`
+- **Brunnera** (5 shots) `● ● ● ● ● – ● –`
+- **Pincushion flower** (5 shots) `● ● ● ● ● ● ● ●`
+- **Mock orange** (6 shots) `● ● ● ● ● – ● ●`
+- **Smoke tree** (6 shots) `● ● ● – ● – ● ●`
+- **Nanking cherry** (5 shots) `● ● ● ● ● ● ● ●`
+- **Black chokeberry** (6 shots) `● ● ● ● ● ● ● ●`
+- **Sea buckthorn** (6 shots) `● ● – – – ● ● ●`
+- **Hardy ice plant** (4 shots) `● ● ● ● ● – ● –`
+- **Trumpet honeysuckle** (6 shots) `● ● ● ● ● ● ● ●`
+- **Larkspur** (7 shots) `● ● ● ● ● ● ● –`
+- **Candytuft** (6 shots) `● ● ● ● ● – ● ●`
+- **Evening primrose** (8 shots) `● ● ● ● ● ● ● ●`
+- **Coreopsis** (5 shots) `● ● ● ● ● – ● –`
+- **Blanket flower** (7 shots) `● ● ● ● ● ● ● ●`
+- **Yellow yarrow** (5 shots) `● ● ● ● ● – ● ●`
+- **Kinnikinnick** (6 shots) `● ● ● ● – ● ● ●`
+- **Creeping Oregon grape** (4 shots) `● ● ● ● – ● ● ●`
+- **Hardy cranesbill** (4 shots) `● ● ● ● ● – ● –`
+- **Pasque flower** (6 shots) `● ● ● ● ● ● ● ●`
+- **Japanese anemone** (7 shots) `● ● ● ● ● ● ● ●`
+- **Grecian windflower** (5 shots) `● ● ● ● ● – ● –`
+- **Bloody cranesbill** (6 shots) `● ● ● ● ● ● ● ●`
+- **Panicled aster** (6 shots) `● ● ● ● ● ● ● ●`
+- **Mountain bluet** (5 shots) `● ● ● ● ● – ● ●`
+- **Acanthus (bear's breeches)** (5 shots) `● ● ● ● ● – ● ●`
+- **Bowles's Mauve wallflower** (4 shots) `● ● ● ● ● – ● ●`
+- **English wallflower** (4 shots) `● ● ● ● ● ● ● ●`
+- **Nasturtium** (4 shots) `● ● ● ● ● – ● –`
+- **Zonal geranium** (4 shots) `● ● ● ● ● – ● –`
+- **Snow crocus** (4 shots) `● ● ● ● ● – ● –`
+- **Winter aconite** (5 shots) `● ● ● ● ● – ● –`
+- **Dwarf iris** (5 shots) `● ● ● ● ● – ● –`
+- **Christmas rose** (4 shots) `● ● ● ● ● – ● ●`
+- **Rosemary** (5 shots) `● ● ● ● ● – ● –`
+- **Sweet alyssum** (4 shots) `● ● ● ● ● – ● –`
+- **Pansy** (4 shots) `● ● ● ● ● – ● –`
+- **Sunflower** (5 shots) `● ● ● ● ● ● ● ●`
+- **Desert marigold** (3 shots) `● ● ● ● ● – ● –`
+- **Sweet pea** (4 shots) `● ● ● ● ● – ● –`
+- **Celosia** (4 shots) `● ● ● ● ● – ● –`
+- **Calendula** (4 shots) `● ● ● ● ● – ● –`
+- **Tulip** (4 shots) `● ● ● ● ● – ● –`
+- **Species tulip** (4 shots) `● ● ● ● ● – ● –`
+- **Bearded iris** (4 shots) `● ● ● ● ● – ● –`
+- **Gladiolus** (4 shots) `● ● ● ● ● – ● –`
 
-## ◎ Effectively excellent — only an unfillable/structural cap remains
+## ◑ Effectively excellent — best-possible (structural/unfillable cap only)
 
-- **'Dropmore Scarlet' honeysuckle** — capped `seasonal`: capped: no CC fall shot exists (cultivar; GBIF only herbarium sheets, Commons all summer bloom)
-- **Blue oat grass** — capped `seasonal`: capped: no CC winter photo of the evergreen fountain exists (iNat has none; GBIF only herbarium sheets)
-- **Coreopsis** — capped `seasonal`: no CC fall seedhead exists
-- **Garden clematis** — capped `seed_pods`: capped: no CC fall seedhead-display shot; existing fa-seeds close-up covers the seed axis
-- **Garden lupine** — capped `front_facing`: flower form can't present face-on
-- **Hardy cranesbill** — capped `seasonal`: no CC fall-colour shot for the sterile hybrid
-- **Lavender** — capped `front_facing`: flower form can't present face-on
-- **Pincushion flower** — capped `seasonal`: summer+fall covered; no distinct CC spring-onset shot
-- **Pineleaf penstemon** — capped `flowers, whole_plant`: no open-licensed YELLOW 'Mersea Yellow' cultivar habit/flower macro
-- **Russian sage** — capped `seasonal, front_facing`: no CC bare-winter silver-stems shot
-- **Silvery lupine** — capped `seed_pods`: no CC fat pre-split seed-pod shot
-- **Spike speedwell** — capped `seasonal`: six summer shots cover; no stronger CC spring/fall shot
-- **Twinberry honeysuckle** — capped `seasonal`: riparian deciduous; no notable CC fall-colour/winter shot
-- **White prairie aster** — capped `thumb_framing, seed_pods`: no tighter CC pappus close-up than the existing shot
+- **Russian sage** (5 shots) `● ● ● ◐ ● – ● ●` — *cap: Russian sage flowers are tiny lavender-blue lipped florets borne in an airy panicle on spikes; an individual floret cannot meaningfully be shown 'face-on' the way a daisy or rose can. su-flowers2 gets the closest achievable (florets in detail). Structural cap, not a fixable gap.*
+- **Salvia (meadow sage)** (5 shots) `● ● ● ◐ ● – ● ●` — *cap: Capped at good: Salvia nemorosa flowers are densely packed upright spikes of small two-lipped florets; a true face-on single-bloom shot is not how this plant presents. su-floret macro shows one floret angled/profile (the natural view). No seed-pod feature (the spent calyx spikes are foliage-grade, covered by fa-foliage).*
+- **Lavender** (4 shots) `● ● ● ◐ ● – ● ●` — *cap: Lavender flowers are whorled florets on a spike — there is no true face-on bloom; front_facing is a structural cap, not a fixable gap (consistent with IMAGE_AUDIT.md note on spike/whorl flowers).*
+- **Spike speedwell** (7 shots) `● ● ● – ● – ● –` — *cap: Veronica spicata is a spike/raceme inflorescence (florets open bottom-up) that cannot be photographed truly face-on; su-flower/su-spike show the spike front-on, which is best-possible. front_facing structurally capped.*
+- **Pineleaf penstemon** (5 shots) `● ● ● – ● – ● ●` — *cap: Penstemon flowers are tubular and borne on one-sided wands; they cannot be shown true face-on. front_facing structurally capped (also a documented cap in CLAUDE.md/IMAGE_AUDIT for this 'Mersea Yellow' yellow form).*
+- **Blue oat grass** (4 shots) `● ● ● – – ● ● ◐` — *cap: Effectively-excellent: seasonal capped at 1 — no open-licensed winter shot of the semi-evergreen steel-blue clump exists (documented in CLAUDE.md/IMAGE_AUDIT.md). Summer + fall are covered.*
+- **Snowdrops** (5 shots) `● ● ● ◐ ● – ● –` — *cap: Capped at good: snowdrop flowers are pendant/nodding bells that physically never face-on. The diagnostic inner green U-mark is shown well (sp-flower2), which is the best achievable. Structural cap, not an oversight.*
+- **Winter heath** (5 shots) `● ● ● ◐ ● – ● ●` — *cap: Capped at good: Erica carnea flowers are pendant urn/bell shapes that don't present face-on; the urn form + dark anthers are shown well in the close-up, which is the best achievable. Structural cap.*
+- **Amaranth** (4 shots) `● ● ● ◐ ● – ● –` — *cap: STRUCTURAL CAP: amaranth's drooping rope-like tassels (love-lies-bleeding type) have no flower 'face' to photograph head-on — front_facing cannot reach 2. The tassels are shown crisply and in context, which is the best possible.*
+- **Strawflower** (3 shots) `● ● ● ● ● – ● –` — *cap: COLOR CAP (cosmetic, not an axis gap): only the yellow species form is available under open license — no CC shots of the warm-toned cultivar color range exist. All eight rubric axes are met by the yellow form.*
 
-## Full scorecard
+## ⚠ Fixable gaps — axes to lift to 2
 
-| plant | whole | folia | flowe | front | bloom | seed_ | thumb | seaso | tier |
-|---|---|---|---|---|---|---|---|---|---|
-| 'Dropmore Scarlet' honeysuckle | ● | ● | ● | ● | ● | – | ● | ◐ | ◎ |
-| Aspen fleabane | ● | ● | ● | ● | ● | ● | ● | ● | ⭐ |
-| Blanket flower | ● | ● | ● | ● | ● | ● | ● | ● | ⭐ |
-| Bloody cranesbill | ● | ● | ● | ● | ● | ● | ● | ● | ⭐ |
-| Blue flax | ● | ● | ● | ● | ● | ● | ● | ● | ⭐ |
-| Blue oat grass | ● | ● | – | – | – | ● | ● | ◐ | ◎ |
-| Brunnera | ● | ● | ● | ● | ● | – | ● | ● | ⭐ |
-| California poppy | ● | ● | ● | ● | ● | ● | ● | – | ⭐ |
-| Candytuft | ● | ● | ● | ● | ● | – | ● | ● | ⭐ |
-| Cheddar pinks | ● | ● | ● | ● | ● | – | ● | ● | ⭐ |
-| Chokecherry | ● | ● | ● | ● | ● | ● | ● | ● | ⭐ |
-| Climbing rose | ● | ● | ● | ● | ● | ● | ● | ● | ⭐ |
-| Colorado blue columbine | ● | ● | ● | ● | ● | – | ● | ● | ⭐ |
-| Common lilac | ● | ● | ● | ● | ● | – | ● | ● | ⭐ |
-| Coreopsis | ● | ● | ● | ● | ● | – | ● | ◐ | ◎ |
-| Cosmos | ● | ● | ● | ● | ● | – | ● | – | ⭐ |
-| Creeping Oregon grape | ● | ● | ● | – | – | ● | ● | ● | ⭐ |
-| Cushion spurge | ● | ● | ● | ● | ● | – | ● | ● | ⭐ |
-| Dahlia | ● | ● | ● | ● | ● | – | ● | ● | ⭐ |
-| Evening primrose | ● | ● | ● | ● | ● | ● | ● | ● | ⭐ |
-| Garden clematis | ● | ● | ● | ● | ● | ◐ | ● | ● | ◎ |
-| Garden lupine | ● | ● | ● | ◐ | ● | – | ● | ● | ◎ |
-| Garden peony | ● | ● | ● | ● | ● | ● | ● | ● | ⭐ |
-| Garden phlox | ● | ● | ● | ● | ● | – | ● | ● | ⭐ |
-| Garden verbena | ● | ● | ● | ● | ● | – | ● | – | ⭐ |
-| German chamomile | ● | ● | ● | ● | ● | – | ● | – | ⭐ |
-| Grecian windflower | ● | ● | ● | ● | ● | – | ● | – | ⭐ |
-| Hardy cranesbill | ● | ● | ● | ● | ● | – | ● | ◐ | ◎ |
-| Hardy ice plant | ● | ● | ● | ● | ● | – | ● | – | ⭐ |
-| Horned spurge | ● | ● | ● | – | ● | ● | ● | ● | ⭐ |
-| Japanese anemone | ● | ● | ● | ● | ● | ● | ● | ● | ⭐ |
-| Kinnikinnick | ● | ● | ● | – | – | ● | ● | ● | ⭐ |
-| Knautia | ● | ● | ● | ● | ● | – | ● | ● | ⭐ |
-| Larkspur | ● | ● | ● | ● | ● | ● | ● | – | ⭐ |
-| Lavender | ● | ● | ● | ◐ | ● | – | ● | ● | ◎ |
-| Little bluestem | ● | ● | – | – | – | ● | ● | ● | ⭐ |
-| Mock orange | ● | ● | ● | ● | ● | – | ● | ● | ⭐ |
-| Mojave sage | ● | ● | ● | ● | ● | – | ● | ● | ⭐ |
-| Mountain alder | ● | ● | ● | – | ● | ● | ● | ● | ⭐ |
-| Mountain bluet | ● | ● | ● | ● | ● | – | ● | ● | ⭐ |
-| Oriental poppy | ● | ● | ● | ● | ● | ● | ● | ● | ⭐ |
-| Panicled aster | ● | ● | ● | ● | ● | ● | ● | ● | ⭐ |
-| Pasque flower | ● | ● | ● | ● | ● | ● | ● | ● | ⭐ |
-| Pincushion flower | ● | ● | ● | ● | ● | ● | ● | ◐ | ◎ |
-| Pineleaf penstemon | ◐ | ● | ◐ | – | ● | – | ● | ● | ◎ |
-| Rambling rose | ● | ● | ● | ● | ● | ● | ● | ● | ⭐ |
-| Red valerian | ● | ● | ● | ● | ● | ● | ● | ● | ⭐ |
-| Red-twig dogwood | ● | ● | ● | ● | ● | ● | ● | ● | ⭐ |
-| Rocky Mountain bee plant | ● | ● | ● | ● | ● | ● | ● | – | ⭐ |
-| Russian sage | ● | ● | ● | ◐ | ● | – | ● | ◐ | ◎ |
-| Salvia (meadow sage) | ● | ● | ● | ● | ● | – | ● | ● | ⭐ |
-| Scarlet bee balm | ● | ● | ● | ● | ● | ● | ● | ● | ⭐ |
-| Shasta daisy | ● | ● | ● | ● | ● | – | ● | ● | ⭐ |
-| Silvery lupine | ● | ● | ● | ● | ● | ◐ | ● | ● | ◎ |
-| Smoke tree | ● | ● | ● | – | ● | – | ● | ● | ⭐ |
-| Snapdragon | ● | ● | ● | ● | ● | ● | ● | – | ⭐ |
-| Snow-in-summer | ● | ● | ● | ● | ● | – | ● | ● | ⭐ |
-| Snow-on-the-mountain | ● | ● | ● | ● | ● | – | ● | ● | ⭐ |
-| Spike speedwell | ● | ● | ● | ● | ● | – | ● | ◐ | ◎ |
-| Trumpet honeysuckle | ● | ● | ● | – | ● | ● | ● | ● | ⭐ |
-| Turkish speedwell | ● | ● | ● | ● | ● | – | ● | ● | ⭐ |
-| Twinberry honeysuckle | ● | ● | ● | ● | ● | ● | ● | ◐ | ◎ |
-| Western wallflower | ● | ● | ● | ● | ● | ● | ● | ● | ⭐ |
-| White heath aster | ● | ● | ● | ● | ● | ● | ● | ● | ⭐ |
-| White prairie aster | ● | ● | ● | ● | ● | ◐ | ◐ | ● | ◎ |
-| Wild bergamot | ● | ● | ● | ● | ● | ● | ● | ● | ⭐ |
-| Wood's rose | ● | ● | ● | ● | ● | ● | ● | ● | ⭐ |
-| Yellow yarrow | ● | ● | ● | – | ● | – | ● | ● | ⭐ |
+- **Reliance peach** (`trees/reliance-peach`, 3 shots) — whole_plant→a habit / whole-tree shot (none; reel is bloom-on-twig + 2 fruit shots); foliage→a leaf-readable foliage shot (long peach leaves only as blurred backdrop); flowers→a crisp face-on pink blossom close-up; sp-flowers is a sparse spray on a bare branch over dry grass; front_facing→a face-on bloom (current blossoms angled/partial); bloom_in_context→a flowering-mass shot + close-up pair; seasonal→a non-fruit-season habit/foliage shot
+- **GoldRush apple** (`trees/goldrush-apple`, 3 shots) — whole_plant→a habit / tree-form shot (no whole-plant shot exists); foliage→a leaf-readable foliage shot; flowers→a clearer bloom shot (sp-flowers is a small partial cluster on a young whip); bloom_in_context→a flowering-mass shot to pair with a close-up; seasonal→habit/foliage from a non-fruit season; reel is two fruit-on-board shots + one bloom whip
+- **Red currant** (`shrubs/red-currant`, 4 shots) — whole_plant→a clear whole-bush form shot; flowers→a crisper flower shot of the greenish-yellow saucer racemes; front_facing→a face-on view of the open saucer flowers; bloom_in_context→a shrub-in-bloom mass shot to pair with the flower close-up; seasonal→a fall/autumn-foliage or late-season shot
+- **Black currant** (`shrubs/black-currant`, 4 shots) — whole_plant→a clean whole-bush form shot; flowers→a flower close-up of the drooping racemes; front_facing→a face-on flower-raceme shot; bloom_in_context→both a flowering-mass and a flower close-up; seasonal→a fall/autumn-foliage or off-season shot
+- **Jostaberry** (`shrubs/jostaberry`, 4 shots) — whole_plant→a clean whole-bush form shot; foliage→a cleaner foliage shot; flowers→a flower shot (none exists); bloom_in_context→any bloom shot (mass and/or close-up); seasonal→a spring/flowering or fall shot
+- **Raspberry** (`shrubs/raspberry`, 4 shots) — whole_plant→a whole-plant / cane-clump habit shot; foliage→a cleaner, closer compound-leaf shot; bloom_in_context→a flowering-mass / canes-in-bloom shot; seasonal→a fall-bearing canes-in-fall or autumn shot
+- **Honeyberry (haskap)** (`shrubs/honeyberry`, 4 shots) — whole_plant→a whole-bush habit shot; foliage→a clean foliage shot; bloom_in_context→a flowering-mass shot to pair with the flower close-up; seasonal→spring bloom + summer fruit both clean (and/or fall)
+- **Apricot wallflower** (`subshrubs/apricot-wallflower`, 3 shots) — whole_plant→clear whole-plant mound form; foliage→readable grey-green strappy foliage; bloom_in_context→a clean flowering-mass shot to pair with the close-up; thumb_framing→subject centered & legible
+- **Scented-leaf geranium** (`subshrubs/scented-geranium`, 4 shots) — whole_plant→a clear bushy mound, not a sparse pot on pavement; flowers→the small pink flowers shown larger/clearer; front_facing→a face-on flower; thumb_framing→subjects off wall/pavement backgrounds
+- **Witch hazel** (`shrubs/witch-hazel`, 3 shots) — whole_plant→a clear whole-shrub form; foliage→a dedicated readable leaf shot; seed_pods→the woody dehiscent seed capsules; seasonal→fall colour
+- **Evans Bali cherry** (`trees/evans-bali-cherry`, 4 shots) — foliage→a leaf-readable foliage shot (leaves are secondary in the fruit/habit shots); flowers→the white blossom shown closer/in a mass (sp-flowers is a few blooms against sky); bloom_in_context→a tree-in-bloom mass + a blossom close-up pair (only a small flowering twig now)
+- **Montmorency cherry** (`trees/montmorency-cherry`, 4 shots) — whole_plant→a habit / whole-tree shot (none present — reel is blossom, blossom, fruit pair, bark); foliage→a leaf-readable foliage shot; bloom_in_context→a flowering-mass / tree-in-bloom shot to pair with the close-ups
+- **Stanley plum** (`trees/stanley-plum`, 4 shots) — foliage→a leaf-readable foliage close-up (leaves secondary in fruit shot); flowers→a face-on blossom close-up; current sp-flowers is a flowering-mass against sky, no detail; front_facing→a face-on individual blossom (only a distant flowering mass now)
+- **Toka plum** (`trees/toka-plum`, 4 shots) — whole_plant→a clean habit shot; sp-habit is a flowering tree but cluttered with a house/fence/trash-bin street background; foliage→a leaf-readable foliage shot (no clean foliage shot); thumb_framing→su-fruit shows tiny immature green fruit small in frame; su-close fruit is partly obscured behind a black metal fence
+- **Summercrisp pear** (`trees/summercrisp-pear`, 3 shots) — whole_plant→a habit / whole-tree shot (none present); bloom_in_context→a tree-in-bloom mass to pair with the crisp blossom close-up; seasonal→a habit/dormant or fall shot for a season beyond spring-bloom + summer-fruit
+- **Ivy-leaved geranium** (`groundcovers/ivy-geranium`, 4 shots) — whole_plant→clean trailing/cascading habit on a wall/box, no doorway clutter; foliage→dedicated readable ivy-shaped glossy leaf shot; thumb_framing→subject centered in the 720x480 thumb
+- **Cornelian cherry** (`shrubs/cornelian-cherry`, 5 shots) — whole_plant→a clear whole-shrub/vase form; thumb_framing→subject legible in the 720x480 thumb; seasonal→fall colour
+- **Nodding onion** (`perennials/nodding-onion`, 4 shots) — whole_plant→a clear whole-plant habit shot — all four shots are close umbel/seedhead views, none show the grassy clump form; foliage→a readable foliage shot — the narrow grassy basal leaves never appear (only blurred grass background); bloom_in_context→a true mass/drift in bloom — the captioned 'su-mass' is actually a single nodding umbel close-up, not a drift
+- **Nigella** (`annuals/nigella`, 4 shots) — whole_plant→a whole-plant habit shot — all four are close-ups (blue flower, pink flower, a 'foliage' shot that is really a white flower, and the seedpod); foliage→a clean read of the threadlike 'love-in-a-mist' foliage — currently only the lacy bracts behind blooms; the su-foliage file is actually another flower; bloom_in_context→a mass/drift in bloom to pair with the close-ups
+- **Daffodil** (`perennials/daffodil`, 3 shots) — whole_plant→a clean single-plant or tidy clump form — sp-habit is naturalized daffodils scattered in leaf litter (cluttered, distant), sp-mass is distant; foliage→a readable foliage shot — the strappy blue-green leaves are only secondary in the mass/habit shots; thumb_framing→tighter thumbs — sp-habit/sp-mass crop to distant/cluttered scenes, and the sp-flower close-up has a steadying hand in the lower-left corner
+- **Honeycrisp apple** (`trees/honeycrisp-apple`, 4 shots) — foliage→a leaf-readable foliage shot (leaves are only secondary behind blossom/fruit); bloom_in_context→a flowering-mass / tree-in-bloom shot to pair with the close-up sp-flowers
+- **Dahlia** (`perennials/dahlia`, 5 shots) — whole_plant→a clean single-plant habit shot; su-habit shows a red bloom amid cluttered foliage and su-habit2 shows a bloom against a wall/vine background, neither reads as the plant's overall form; foliage→a leaf-readable foliage shot (pinnate dahlia leaves are present but secondary/cluttered)
+- **Snapdragon** (`annuals/snapdragon`, 6 shots) — whole_plant→a clean garden whole-plant/habit shot of cultivated snapdragons; foliage→a clear shot of lance leaves on a healthy plant
+- **Climbing rose** (`vines/climbing-rose`, 5 shots) — flowers→a crisp single-bloom close-up of the open rose flower; front_facing→one clear face-on open rose flower
+- **Rambling rose** (`vines/rambling-rose`, 5 shots) — flowers→a crisp single-bloom close-up of the small pink rambler flowers; front_facing→one clear face-on open rambler flower
+- **Red valerian** (`perennials/red-valerian`, 5 shots) — foliage→a clear shot of the fleshy blue-green lance/ovate leaves; seed_pods→a clear shot of the dandelion-like pappus seedheads
+- **Gooseberry** (`shrubs/gooseberry`, 4 shots) — bloom_in_context→a flowering-mass / shrub-in-bloom shot to pair with the flower close-up; seasonal→a fall/autumn-foliage or off-season shot
+- **'Dropmore Scarlet' honeysuckle** (`vines/dropmore-honeysuckle`, 4 shots) — whole_plant→a fuller whole-vine-on-structure habit shot; seasonal→a fall or off-season shot
+- **German chamomile** (`annuals/chamomile`, 5 shots) — whole_plant→a clean single-plant habit shot; foliage→a clear close-up of the ferny finely-divided foliage
+- **Black-eyed Susan** (`perennials/black-eyed-susan`, 5 shots) — foliage→a cleaner foliage read — the bristly basal leaves are visible in the su-habit full but secondary; no dedicated foliage shot; thumb_framing→the su-habit thumbnail loses the plant in dry grass clutter (the full is fine, but the 720x480 crop is distant/off-centre)
+- **Bachelor's button** (`annuals/bachelors-button`, 3 shots) — whole_plant→a clear single-plant form — the mass drift conveys habit but there is no clean whole-plant shot; foliage→a readable foliage shot — the narrow grey-green leaves are only background in the close-ups
+- **Ornamental allium** (`perennials/ornamental-allium`, 4 shots) — seed_pods→the decorative dried beige seedhead globe — a notable allium feature, entirely missing (all four shots are fresh purple globes); seasonal→the persistent dried-globe stage (late summer/fall/winter interest) — currently only the summer bloom is shown
+- **Mountain alder** (`trees/mountain-alder`, 5 shots) — flowers→a crisper close-up of the spring catkins (drooping male + small red female catkins) in detail
+- **Aspen fleabane** (`perennials/aspen-fleabane`, 4 shots) — foliage→a clearer basal/stem leaf shot; su-foliage shows grassy strappy growth that is somewhat lost among other greenery
+- **Horned spurge** (`perennials/horned-spurge`, 6 shots) — seasonal→a non-spring/summer shot — many euphorbias color up in fall; reel is all spring/summer green-yellow
+- **Silvery lupine** (`perennials/silvery-lupine`, 6 shots) — seed_pods→a fat, intact pre-split silvery-lupine pod shown clearly
+- **California poppy** (`annuals/california-poppy`, 6 shots) — seed_pods→a clear shot of the slender erect seed capsule/pod (the notable long curved pod)
+- **Garden lupine** (`perennials/garden-lupine`, 5 shots) — seed_pods→a shot of the hairy lupine seed pods (a notable feature)
+- **Twinberry honeysuckle** (`shrubs/twinberry-honeysuckle`, 7 shots) — front_facing→a face-on view of the paired tubular yellow flowers with their dark bracts
+- **Saskatoon serviceberry** (`shrubs/saskatoon-serviceberry`, 5 shots) — whole_plant→a clear, uncluttered whole-shrub form shot
+- **Golden currant** (`shrubs/golden-currant`, 5 shots) — seed_pods→a clearer cluster of ripe (amber-to-black) berries
+- **Snow-in-summer** (`groundcovers/snow-in-summer`, 4 shots) — front_facing→a face-on white flower close-up against clean background
+- **Garden verbena** (`perennials/verbena`, 4 shots) — foliage→a clean shot reading the deeply-cut leaf shape, not flowers with foliage as secondary backdrop
+- **Knautia** (`perennials/knautia`, 7 shots) — foliage→a clean, non-hand-held pinnate leaf shot; the basal rosette (su-foliage2) is half-lost in surrounding grass
+- **Western wallflower** (`perennials/western-wallflower`, 6 shots) — seed_pods→a crisp shot of the ascending silique seed pods; current su-pods is a dried/scruffy past-bloom plant where pods are thin and small in the 720x480 thumb
+- **Turkish speedwell** (`groundcovers/creeping-speedwell`, 6 shots) — foliage→replace the wrong-species sp-foliage2 with a verified V. liwanensis foliage shot (tiny rounded glossy crenate leaves on a tight mat)
+- **White heath aster** (`perennials/white-heath-aster`, 7 shots) — seed_pods→a clean, non-hand-held shot of the feathery white pappus seedheads
+- **White prairie aster** (`perennials/white-prairie-aster`, 6 shots) — seed_pods→a crisp pappus-seedhead shot; current fa-seedheads is backlit and washed out, the seedheads half-lost among dried grass
+- **Regal geranium (Martha Washington)** (`subshrubs/regal-geranium`, 4 shots) — whole_plant→a clear whole-plant mound
+- **Pussy willow** (`shrubs/pussy-willow`, 4 shots) — whole_plant→a clear single-shrub form
+- **Rocky Mountain iris** (`perennials/rocky-mountain-iris`, 5 shots) — seed_pods→a clear ripe seed-capsule close-up
+- **Marigold** (`annuals/marigold`, 4 shots) — whole_plant→a clear whole-plant form — su-habit and su-mass are flowers-with-foliage / clump views, no single tidy mounded plant
+- **Dutch crocus** (`perennials/dutch-crocus`, 4 shots) — foliage→a clean read of the grassy white-midrib-striped crocus leaves — currently only secondary/blurred grass behind the cups

@@ -47,6 +47,46 @@
       "by": "RevNaomi",
       "lic": "CC BY-NC 2.0",
       "link": "https://www.flickr.com/photos/30500453@N03/4912952578"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/45649034/large.jpg",
+      "s": "summer",
+      "cap": "Summer foliage — long lance-shaped peach leaves (species-representative) · © frahome (CC-BY-NC) / iNaturalist",
+      "by": "frahome",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/29256224"
+    },
+    {
+      "local": "images/sp-blossom-t.jpg",
+      "full": "images/sp-blossom.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/6882160/large.jpeg",
+      "s": "spring",
+      "cap": "Spring — face-on pink peach blossoms (species-representative) · © Evan M. Raskin (CC-BY) / iNaturalist",
+      "by": "Evan M. Raskin",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/5573507"
+    },
+    {
+      "local": "images/sp-bloommass-t.jpg",
+      "full": "images/sp-bloommass.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/480595857/large.jpeg",
+      "s": "spring",
+      "cap": "Spring — canopy massed with pink peach blossom (species-representative) · © herrick83 (CC-BY-NC) / iNaturalist",
+      "by": "herrick83",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/267431549"
+    },
+    {
+      "local": "images/fa-habit-t.jpg",
+      "full": "images/fa-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/450350386/large.jpeg",
+      "s": "fall",
+      "cap": "Whole young peach tree with autumn foliage (species-representative) · © derrickw-franks (CC-BY-NC) / iNaturalist",
+      "by": "derrickw-franks",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/251666141"
     }
   ],
   "care": {
@@ -93,8 +133,12 @@
       2,
       3
     ],
-    "origin": [2],
-    "habitat": [2]
+    "origin": [
+      2
+    ],
+    "habitat": [
+      2
+    ]
   },
   "edible": {
     "level": "caution",

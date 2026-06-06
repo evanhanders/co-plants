@@ -90,16 +90,6 @@
   ],
   "shots": [
     {
-      "local": "images/wi-flower-t.jpg",
-      "full": "images/wi-flower.jpg",
-      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/114421531/large.jpg",
-      "s": "winter",
-      "cap": "Late-winter bloom — strap-shaped yellow-orange petals on bare stems · © Sarah E. King (CC-BY-NC) / iNaturalist",
-      "by": "Sarah E. King",
-      "lic": "CC-BY-NC",
-      "link": "https://www.inaturalist.org/photos/114421531"
-    },
-    {
       "local": "images/wi-flower2-t.jpg",
       "full": "images/wi-flower2.jpg",
       "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/179779490/large.jpg",
@@ -118,6 +108,36 @@
       "by": "Molly Robinson",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/photos/213752080"
+    },
+    {
+      "local": "images/fa-habit2-t.jpg",
+      "full": "images/fa-habit2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/55557817/large.jpg",
+      "s": "fall",
+      "cap": "Autumn — whole multi-stem shrub in yellow fall colour · © C. A. Ivy (CC-BY-NC) / iNaturalist",
+      "by": "C. A. Ivy",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/photos/55557817"
+    },
+    {
+      "local": "images/fa-foliage-t.jpg",
+      "full": "images/fa-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/337682075/large.jpeg",
+      "s": "fall",
+      "cap": "Autumn — broad wavy-margined leaves turning yellow · © Mark Fishbein (CC-BY-NC) / iNaturalist",
+      "by": "Mark Fishbein",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/photos/337682075"
+    },
+    {
+      "local": "images/wi-capsule-t.jpg",
+      "full": "images/wi-capsule.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/107766951/large.jpeg",
+      "s": "winter",
+      "cap": "Woody dehiscent seed capsules on bare twigs · © Jennifer Ogle (CC-BY-NC) / iNaturalist",
+      "by": "Jennifer Ogle",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/photos/107766951"
     }
   ]
 }

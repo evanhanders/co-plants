@@ -126,6 +126,36 @@
       "by": "Ezra",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/269547944"
+    },
+    {
+      "local": "images/sp-flower-t.jpg",
+      "full": "images/sp-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/484660175/large.jpeg",
+      "s": "spring",
+      "cap": "Spring — reddish-purple bell flowers and forming fruit on a leafing cane · © Ezra (CC-BY-NC) / iNaturalist",
+      "by": "Ezra",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/photos/484660175"
+    },
+    {
+      "local": "images/su-habit2-t.jpg",
+      "full": "images/su-habit2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/270585556/large.jpg",
+      "s": "summer",
+      "cap": "Summer — young whole bush form · © msalzano (CC-BY-NC) / iNaturalist",
+      "by": "msalzano",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/photos/270585556"
+    },
+    {
+      "local": "images/su-foliage2-t.jpg",
+      "full": "images/su-foliage2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/91958223/large.jpg",
+      "s": "summer",
+      "cap": "Summer — lobed currant-and-gooseberry-like leaves, texture readable · © Igor (CC-BY-NC) / iNaturalist",
+      "by": "Igor",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/photos/91958223"
     }
   ]
 }

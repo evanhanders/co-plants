@@ -17,23 +17,6 @@
     ]
   },
   {
-    "file": "images/su-foliage.jpg",
-    "photo_id": 521711461,
-    "by": "Elizabeth Buhr",
-    "license": "CC-BY-NC",
-    "source": "https://www.inaturalist.org/observations/290032651",
-    "dataset": "iNaturalist open data",
-    "render": "original",
-    "full_px": [
-      1050,
-      1400
-    ],
-    "thumb_px": [
-      300,
-      400
-    ]
-  },
-  {
     "file": "images/su-bloom.jpg",
     "by": "evergreensdad",
     "license": "CC-BY-NC",
@@ -66,6 +49,13 @@
     "by": "Karsten Mody",
     "license": "CC-BY-NC",
     "source": "https://www.inaturalist.org/observations/184767242",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/su-foliage3.jpg",
+    "by": "maddyv05",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/219954763",
     "via": "iNaturalist"
   }
 ]

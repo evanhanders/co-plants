@@ -138,6 +138,26 @@
       "by": "Ark",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/171437499"
+    },
+    {
+      "local": "images/sp-bloommass-t.jpg",
+      "full": "images/sp-bloommass.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/383617022/large.jpeg",
+      "s": "spring",
+      "cap": "Spring — shrub in bloom, reddish bell flowers along the leafing branches · © alexfamilyteam (CC-BY-NC) / iNaturalist",
+      "by": "alexfamilyteam",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/photos/383617022"
+    },
+    {
+      "local": "images/fa-fallcolor-t.jpg",
+      "full": "images/fa-fallcolor.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/568592443/large.jpg",
+      "s": "fall",
+      "cap": "Autumn — foliage turning red-orange on the spiny stems · © eireog (CC-BY-NC) / iNaturalist",
+      "by": "eireog",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/photos/568592443"
     }
   ]
 }

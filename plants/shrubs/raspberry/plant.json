@@ -112,16 +112,6 @@
       "link": "https://www.inaturalist.org/observations/7310237"
     },
     {
-      "local": "images/su-berry-t.jpg",
-      "full": "images/su-berry.jpg",
-      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/222301770/large.jpg",
-      "s": "summer",
-      "cap": "Summer — a ripe red raspberry close-up, showing the aggregate of drupelets · © Emily L. Stanley (CC-BY-NC) / iNaturalist",
-      "by": "Emily L. Stanley",
-      "lic": "CC-BY-NC",
-      "link": "https://www.inaturalist.org/observations/130696727"
-    },
-    {
       "local": "images/su-flower-t.jpg",
       "full": "images/su-flower.jpg",
       "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/286961624/large.jpeg",
@@ -140,6 +130,46 @@
       "by": "Jeremy Barker",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/291134135"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/291316652/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — upright cane clump in a garden bed · © Kelan Flavel (CC-BY-NC) / iNaturalist",
+      "by": "Kelan Flavel",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/photos/291316652"
+    },
+    {
+      "local": "images/su-foliage2-t.jpg",
+      "full": "images/su-foliage2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/320767652/large.jpg",
+      "s": "summer",
+      "cap": "Summer — clean compound leaves with toothed leaflets · © whitemudwayne (CC-BY-NC) / iNaturalist",
+      "by": "whitemudwayne",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/photos/320767652"
+    },
+    {
+      "local": "images/su-bloommass-t.jpg",
+      "full": "images/su-bloommass.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/408792840/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — white five-petalled flowers and buds along the canes · © Sequoia Janirella Wrens (CC-BY-NC) / iNaturalist",
+      "by": "Sequoia Janirella Wrens",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/photos/408792840"
+    },
+    {
+      "local": "images/fa-fallcolor-t.jpg",
+      "full": "images/fa-fallcolor.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/562670554/large.jpg",
+      "s": "fall",
+      "cap": "Autumn — canes with yellowing late-season foliage · © hsplendens (CC-BY-NC) / iNaturalist",
+      "by": "hsplendens",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/photos/562670554"
     }
   ]
 }

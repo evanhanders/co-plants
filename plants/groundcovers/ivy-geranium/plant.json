@@ -100,16 +100,6 @@
       "link": "https://www.inaturalist.org/observations/100131347"
     },
     {
-      "local": "images/su-foliage-t.jpg",
-      "full": "images/su-foliage.jpg",
-      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/281315838/large.jpg",
-      "s": "summer",
-      "cap": "Summer — the glossy, ivy-shaped leaves · © baezagustin (CC-BY-NC) / iNaturalist",
-      "by": "baezagustin",
-      "lic": "CC-BY-NC",
-      "link": "https://www.inaturalist.org/observations/162685359"
-    },
-    {
       "local": "images/su-close-t.jpg",
       "full": "images/su-close.jpg",
       "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/439169011/large.jpeg",
@@ -120,14 +110,24 @@
       "link": "https://www.inaturalist.org/observations/246047160"
     },
     {
-      "local": "images/su-habit-t.jpg",
-      "full": "images/su-habit.jpg",
-      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/56509920/large.jpeg",
+      "local": "images/su-leaf-t.jpg",
+      "full": "images/su-leaf.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/471226126/large.jpeg",
       "s": "summer",
-      "cap": "Summer — cascading growth in bloom · © jhonatan_casamin (CC-BY-NC) / iNaturalist",
-      "by": "jhonatan_casamin",
+      "cap": "Summer — glossy ivy-shaped leaves with dark zonal markings · © zebedeugalinha (CC-BY) / iNaturalist",
+      "by": "zebedeugalinha",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/262293532"
+    },
+    {
+      "local": "images/su-mass-t.jpg",
+      "full": "images/su-mass.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/628640011/large.jpg",
+      "s": "summer",
+      "cap": "Summer — cascading mass of magenta-pink flowers · © mrsco3124 (CC-BY-NC) / iNaturalist",
+      "by": "mrsco3124",
       "lic": "CC-BY-NC",
-      "link": "https://www.inaturalist.org/observations/35807639"
+      "link": "https://www.inaturalist.org/observations/344985490"
     }
   ]
 }

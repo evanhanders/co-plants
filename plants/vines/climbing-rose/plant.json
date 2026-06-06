@@ -32,16 +32,40 @@
     "propagation": "Hardwood cuttings are the most reliable home method for own-root climbing roses: in late fall or early winter, take 8–12 in pencil-thick cuttings of fully ripened cane, cut just below a bud at the base and at a slant above a bud at the top, dip the base in rooting hormone, and insert two-thirds of the cutting into a pot of gritty compost or into a sheltered nursery bed. Keep just moist and protect from hard freezes; roots form over winter and the cutting leafs out in spring. Semi-ripe cuttings in mid-to-late summer (6–8 in, with leaves retained on the top few nodes) also root well under a cloche or plastic tent. Grafting onto rootstock (the commercial standard, giving more vigorous plants) requires skill and specialized understock — not a practical home method. Own-root roses from cuttings are preferable for Front Range gardeners: if the top is killed by an extreme winter, any regrowth is the named cultivar rather than the rootstock.[1]"
   },
   "fact_src": {
-    "size": [1, 2],
-    "sun": [2],
-    "water": [2],
-    "spread": [1, 3],
-    "seasons": [2],
-    "wildlife": [1, 4],
-    "deer": [1],
-    "toxic": [4, 5],
-    "origin": [5],
-    "habitat": [5]
+    "size": [
+      1,
+      2
+    ],
+    "sun": [
+      2
+    ],
+    "water": [
+      2
+    ],
+    "spread": [
+      1,
+      3
+    ],
+    "seasons": [
+      2
+    ],
+    "wildlife": [
+      1,
+      4
+    ],
+    "deer": [
+      1
+    ],
+    "toxic": [
+      4,
+      5
+    ],
+    "origin": [
+      5
+    ],
+    "habitat": [
+      5
+    ]
   },
   "edible": {
     "level": "edible",
@@ -124,6 +148,16 @@
       "by": "Ddgfoto",
       "lic": "CC BY-SA 4.0",
       "link": "https://commons.wikimedia.org/wiki/File:Rose_garden_in_winter.jpg"
+    },
+    {
+      "local": "images/su-bloom-t.jpg",
+      "full": "images/su-bloom.jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Pink%20rose%20bloom%20of%20a%20climbing%20rose%20at%20Boreham%2C%20Essex%2C%20England%203.jpg",
+      "s": "summer",
+      "cap": "Summer — face-on single pink climbing-rose bloom · © Acabashi (CC-BY-SA-4.0) / Wikimedia Commons",
+      "by": "Acabashi",
+      "lic": "CC-BY-SA-4.0",
+      "link": "https://commons.wikimedia.org/wiki/File:Pink_rose_bloom_of_a_climbing_rose_at_Boreham,_Essex,_England_3.jpg"
     }
   ],
   "commons": "Climbing rose Easton Lodge Gardens walled garden Little Easton Essex England 01.jpg"

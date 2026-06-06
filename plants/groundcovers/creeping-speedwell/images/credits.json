@@ -68,17 +68,17 @@
     ]
   },
   {
-    "file": "images/sp-foliage2.jpg",
-    "by": "Felix Riegel",
-    "license": "CC-BY-NC",
-    "source": "https://www.inaturalist.org/observations/130093494",
-    "via": "iNat"
-  },
-  {
     "file": "images/su-mat.jpg",
     "by": "Vanya Mitin",
     "license": "CC-BY-NC",
     "source": "https://www.inaturalist.org/observations/232762341",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/sp-foliage3.jpg",
+    "by": "Ilya Ukolov",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/photos/527083315",
     "via": "iNaturalist"
   }
 ]

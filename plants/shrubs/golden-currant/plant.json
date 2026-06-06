@@ -136,6 +136,16 @@
       "by": "richwurster",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/1441924"
+    },
+    {
+      "local": "images/su-berries-t.jpg",
+      "full": "images/su-berries.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/304580436/large.jpg",
+      "s": "summer",
+      "cap": "Summer — fuller clusters of amber-ripening berries on the bush · © Ezra Huebner (CC-BY-NC) / iNaturalist",
+      "by": "Ezra Huebner",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/photos/304580436"
     }
   ]
 }

@@ -32,16 +32,37 @@
     "propagation": "Easiest from division or by detaching rooted stem sections in spring or early fall. Lift a section of established mat, tease apart rooted pieces, and replant 12–15 in. apart; they establish quickly. Cuttings are also reliable: take 2–3 in. stem tips in late spring after bloom (before summer heat), strip the lower leaves, and root in moist gritty sand or perlite in 2–3 weeks. Seed is rarely available for this named selection; vegetative propagation from an established plant is the standard and fastest method.[1]"
   },
   "fact_src": {
-    "size": [1],
-    "sun": [1],
-    "water": [1],
-    "spread": [1],
-    "seasons": [1],
-    "wildlife": [1],
-    "deer": [1, 2],
-    "toxic": [2],
-    "origin": [3],
-    "habitat": [3]
+    "size": [
+      1
+    ],
+    "sun": [
+      1
+    ],
+    "water": [
+      1
+    ],
+    "spread": [
+      1
+    ],
+    "seasons": [
+      1
+    ],
+    "wildlife": [
+      1
+    ],
+    "deer": [
+      1,
+      2
+    ],
+    "toxic": [
+      2
+    ],
+    "origin": [
+      3
+    ],
+    "habitat": [
+      3
+    ]
   },
   "edible": {
     "level": "inedible",
@@ -104,16 +125,6 @@
       "link": "https://www.inaturalist.org/observations/25512773"
     },
     {
-      "local": "images/sp-foliage2-t.jpg",
-      "full": "images/sp-foliage2.jpg",
-      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/586910311/large.jpg",
-      "s": "spring",
-      "cap": "Spring — close-up of the small rounded, scalloped leaves of the evergreen mat alongside spent flowers · © Felix Riegel (CC-BY-NC) / iNat",
-      "by": "Felix Riegel",
-      "lic": "CC-BY-NC",
-      "link": "https://www.inaturalist.org/observations/130093494"
-    },
-    {
       "local": "images/su-mat-t.jpg",
       "full": "images/su-mat.jpg",
       "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/413567246/large.jpeg",
@@ -122,6 +133,16 @@
       "by": "Vanya Mitin",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/232762341"
+    },
+    {
+      "local": "images/sp-foliage3-t.jpg",
+      "full": "images/sp-foliage3.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/527083315/large.jpg",
+      "s": "spring",
+      "cap": "Spring — tiny rounded glossy crenate leaves on a creeping mat · © Ilya Ukolov (CC-BY-NC) / iNaturalist",
+      "by": "Ilya Ukolov",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/photos/527083315"
     }
   ]
 }

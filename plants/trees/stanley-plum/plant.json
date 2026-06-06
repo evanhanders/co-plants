@@ -93,8 +93,12 @@
       4,
       5
     ],
-    "origin": [5],
-    "habitat": [5]
+    "origin": [
+      5
+    ],
+    "habitat": [
+      5
+    ]
   },
   "shots": [
     {
@@ -136,6 +140,26 @@
       "by": "Silverije",
       "lic": "CC BY-SA 4.0",
       "link": "https://commons.wikimedia.org/wiki/File:%C5%A0ljiva_Stanley_-_zreli_plodovi_(2022).JPG"
+    },
+    {
+      "local": "images/sp-blossom-t.jpg",
+      "full": "images/sp-blossom.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/362413284/large.jpeg",
+      "s": "spring",
+      "cap": "Spring — crisp face-on white plum blossoms (species-representative) · © Gwendy (CC-BY-NC) / iNaturalist",
+      "by": "Gwendy",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/204998519"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/524509421/large.jpg",
+      "s": "summer",
+      "cap": "Summer foliage — European-plum leaves (species-representative) · © Michal Svit (CC-BY-NC) / iNaturalist",
+      "by": "Michal Svit",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/291519091"
     }
   ]
 }

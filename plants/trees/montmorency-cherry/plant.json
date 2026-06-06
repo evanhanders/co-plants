@@ -57,6 +57,36 @@
       "by": "PumpkinSky",
       "lic": "CC BY-SA 4.0",
       "link": "https://commons.wikimedia.org/wiki/File:Prunus_cerasus_Montmorency_tree_bark_11.jpg"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/313678975/large.jpeg",
+      "s": "summer",
+      "cap": "Whole leafy sour-cherry tree in summer (species-representative) · © menileksisaybeyene (CC-BY-NC) / iNaturalist",
+      "by": "menileksisaybeyene",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/180109782"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/470912184/large.jpeg",
+      "s": "summer",
+      "cap": "Summer foliage — glossy serrated sour-cherry leaves (species-representative) · © Scott Corbett (CC-BY-NC) / iNaturalist",
+      "by": "Scott Corbett",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/262076922"
+    },
+    {
+      "local": "images/sp-bloommass-t.jpg",
+      "full": "images/sp-bloommass.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/270148454/large.jpeg",
+      "s": "spring",
+      "cap": "Spring — branches massed with white cherry blossom (species-representative) · © Céline (CC-BY) / iNaturalist",
+      "by": "Céline",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/156240567"
     }
   ],
   "care": {
@@ -112,8 +142,12 @@
     "toxic": [
       3
     ],
-    "origin": [3],
-    "habitat": [3]
+    "origin": [
+      3
+    ],
+    "habitat": [
+      3
+    ]
   },
   "references": [
     {

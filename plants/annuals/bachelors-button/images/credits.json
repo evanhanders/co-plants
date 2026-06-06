@@ -49,5 +49,19 @@
       400,
       267
     ]
+  },
+  {
+    "file": "images/sp-rosette.jpg",
+    "by": "Thomas Gyselinck",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/observations/202888380",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/su-greyfoliage.jpg",
+    "by": "Michal Svit",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/260695645",
+    "via": "iNaturalist"
   }
 ]

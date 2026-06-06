@@ -30,9 +30,13 @@ def resolve_taxon(name):
     q = name.split("(")[0].replace("'", " ").replace("×", " ").strip()
     q = " ".join(q.split()[:2]) if len(q.split()) > 1 else q
     r = api("taxa", {"q": q, "per_page": 5})
-    for t in r.get("results", []):
-        if t.get("is_active"):
+    results = [t for t in r.get("results", []) if t.get("is_active")]
+    # prefer an exact (case-insensitive) name match so e.g. "Prunus cerasus" doesn't grab "Prunus avium"
+    for t in results:
+        if t.get("name", "").lower() == q.lower():
             return t["id"], t.get("name")
+    if results:
+        return results[0]["id"], results[0].get("name")
     raise SystemExit(f"no active taxon for '{name}' (tried '{q}')")
 
 PHENO = {"flowering": 13, "fruiting": 14, "budding": 15, "no_evidence": 21}  # iNat Plant Phenology annotation (term_id 12)

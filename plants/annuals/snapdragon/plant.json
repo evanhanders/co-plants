@@ -36,16 +36,40 @@
     "propagation": "Seed is the standard method for home gardeners. Start indoors 8–10 weeks before the last frost (early-to-mid March for Boulder); surface-sow on moist seed-starting mix without covering, keep at 65–75°F, and expect germination in 7–14 days. Named cultivar colors will not come true from self-sown seed, so save seed only from open-pollinated varieties if color matters. Stem cuttings are possible for overwintering a particularly good plant: take 3–4 in tip cuttings in late summer, root in moist perlite or seed-starting mix under cover, and overwinter the rooted cuttings in a bright, frost-free spot (windowsill or cold frame) for replanting in spring — this is the easiest non-seed method to carry a favorite form over winter in Colorado's harsh climate.[1]"
   },
   "fact_src": {
-    "size": [1, 2],
-    "sun": [1, 2],
-    "water": [1],
-    "spread": [1],
-    "seasons": [1, 2],
-    "wildlife": [2],
-    "deer": [1],
-    "toxic": [2, 3],
-    "origin": [1],
-    "habitat": [1]
+    "size": [
+      1,
+      2
+    ],
+    "sun": [
+      1,
+      2
+    ],
+    "water": [
+      1
+    ],
+    "spread": [
+      1
+    ],
+    "seasons": [
+      1,
+      2
+    ],
+    "wildlife": [
+      2
+    ],
+    "deer": [
+      1
+    ],
+    "toxic": [
+      2,
+      3
+    ],
+    "origin": [
+      1
+    ],
+    "habitat": [
+      1
+    ]
   },
   "edible": {
     "level": "edible",
@@ -130,6 +154,26 @@
       "by": "K. Chaikovska (Kate Chkv)",
       "lic": "CC-BY",
       "link": "https://commons.wikimedia.org/wiki/File:%D0%9D%D0%B0%D1%81%D1%96%D0%BD%D0%BD%D1%94%D0%B2%D1%96_%D0%BA%D0%BE%D1%80%D0%BE%D0%B1%D0%BE%D1%87%D0%BA%D0%B8_%D1%80%D0%BE%D1%82%D0%B8%D0%BA%D1%96%D0%B2_%D1%81%D0%B0%D0%B4%D0%BE%D0%B2%D0%B8%D1%85_(Antirrhinum_majus_L.)._%D0%9A%D0%B8%D1%97%D0%B2.jpg"
+    },
+    {
+      "local": "images/su-gardenhabit-t.jpg",
+      "full": "images/su-gardenhabit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/616096501/large.jpg",
+      "s": "summer",
+      "cap": "Summer — flowering plant clump · © Jordi Bassols Garcia (CC-BY-NC) / iNaturalist",
+      "by": "Jordi Bassols Garcia",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/338749152"
+    },
+    {
+      "local": "images/su-lanceleaf-t.jpg",
+      "full": "images/su-lanceleaf.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/377263975/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — lance-shaped leaves · © Ghostomelon (CC-BY) / iNaturalist",
+      "by": "Ghostomelon",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/213467214"
     }
   ],
   "commons": "Snapdragon -- Antirrhinum majus.jpg"

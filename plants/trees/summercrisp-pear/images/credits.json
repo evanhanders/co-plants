@@ -55,5 +55,19 @@
       300,
       400
     ]
+  },
+  {
+    "file": "images/su-habit.jpg",
+    "by": "Hanna Hauzer",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/290614460",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/sp-bloommass.jpg",
+    "by": "Felix Riegel",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/42172373",
+    "via": "iNaturalist"
   }
 ]

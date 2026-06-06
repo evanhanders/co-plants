@@ -142,6 +142,46 @@
       "by": "Harry J. Walker",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/293765428"
+    },
+    {
+      "local": "images/sp-flower-t.jpg",
+      "full": "images/sp-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/639987883/large.jpg",
+      "s": "spring",
+      "cap": "Spring — face-on close-up of the drooping flower racemes · © Peter Oehler (CC-BY-NC) / iNaturalist",
+      "by": "Peter Oehler",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/photos/639987883"
+    },
+    {
+      "local": "images/sp-bloommass-t.jpg",
+      "full": "images/sp-bloommass.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/658192506/large.jpg",
+      "s": "spring",
+      "cap": "Spring — flowering racemes drooping along a leafy branch · © alexfamilyteam (CC-BY-NC) / iNaturalist",
+      "by": "alexfamilyteam",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/photos/658192506"
+    },
+    {
+      "local": "images/su-habit2-t.jpg",
+      "full": "images/su-habit2.jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ribes%20nigrum%20-%20Blackcurrant%20shrub%2C%20Birkenhead%20-%20DSC00066.jpg",
+      "s": "summer",
+      "cap": "Summer — whole leafy bush form · © Rept0n1x (CC-BY-SA 3.0) / Wikimedia Commons",
+      "by": "Rept0n1x",
+      "lic": "CC-BY-SA 3.0",
+      "link": "https://commons.wikimedia.org/wiki/File:Ribes_nigrum_-_Blackcurrant_shrub,_Birkenhead_-_DSC00066.jpg"
+    },
+    {
+      "local": "images/fa-fallcolor-t.jpg",
+      "full": "images/fa-fallcolor.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/570927922/large.jpg",
+      "s": "fall",
+      "cap": "Autumn — foliage turning yellow in fall · © valdeur (CC-BY-NC) / iNaturalist",
+      "by": "valdeur",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/photos/570927922"
     }
   ]
 }

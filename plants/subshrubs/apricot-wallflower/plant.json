@@ -48,6 +48,26 @@
       "by": "Leonard Rüdenberg",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/44472173"
+    },
+    {
+      "local": "images/sp-plant-t.jpg",
+      "full": "images/sp-plant.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/266559407/large.jpeg",
+      "s": "spring",
+      "cap": "Spring — leafy wallflower mound with strappy grey-green foliage (species-representative) · © pluto512 (CC-BY-NC) / iNaturalist",
+      "by": "pluto512",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/154278373"
+    },
+    {
+      "local": "images/sp-mass-t.jpg",
+      "full": "images/sp-mass.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/82667525/large.jpg",
+      "s": "spring",
+      "cap": "Spring — apricot-orange flowering raceme over strappy leaves (species-representative) · © rudymichael (CC-BY-NC) / iNaturalist",
+      "by": "rudymichael",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/52014687"
     }
   ],
   "care": {

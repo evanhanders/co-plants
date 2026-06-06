@@ -1,22 +1,5 @@
 [
   {
-    "file": "images/wi-flower.jpg",
-    "photo_id": 114421531,
-    "by": "Sarah E. King",
-    "license": "CC-BY-NC",
-    "source": "https://www.inaturalist.org/photos/114421531",
-    "dataset": "iNaturalist open data",
-    "render": "original",
-    "full_px": [
-      1050,
-      1400
-    ],
-    "thumb_px": [
-      300,
-      400
-    ]
-  },
-  {
     "file": "images/wi-flower2.jpg",
     "photo_id": 179779490,
     "by": "Sandy Wolkenberg",
@@ -49,5 +32,26 @@
       400,
       300
     ]
+  },
+  {
+    "file": "images/fa-habit2.jpg",
+    "by": "C. A. Ivy",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/photos/55557817",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/fa-foliage.jpg",
+    "by": "Mark Fishbein",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/photos/337682075",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/wi-capsule.jpg",
+    "by": "Jennifer Ogle",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/photos/107766951",
+    "via": "iNaturalist"
   }
 ]

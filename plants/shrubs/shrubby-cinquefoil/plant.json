@@ -1,0 +1,101 @@
+{
+  "common": "Shrubby cinquefoil",
+  "botanical": "Dasiphora fruticosa",
+  "type": "Shrub",
+  "lifecycle": "Perennial",
+  "native": "CO native",
+  "flower_color": [
+    "yellow"
+  ],
+  "bloom": [
+    "summer",
+    "fall"
+  ],
+  "blurb": "An indestructible little mounding shrub smothered in buttercup-yellow flowers from June to frost — cold-hardy, drought-tough, and one of the longest-blooming natives for sun.",
+  "size": "~1–3 ft tall × 2–3 ft wide",
+  "sun": "Full sun to part shade",
+  "water": "Low to moderate; xeric once established",
+  "spread": "Clumping mound",
+  "seasons": "Yellow flowers all summer into fall; fine blue-green pinnate foliage; tan seed clusters in winter",
+  "wildlife": "Native bees and butterflies",
+  "deer": "Deer resistant",
+  "toxic": "",
+  "winter": false,
+  "verified": "2026-06-06",
+  "shots": [
+    {
+      "local": "images/su-flower-t.jpg",
+      "full": "images/su-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/534628125/large.jpg",
+      "s": "summer",
+      "cap": "Summer — yellow flower close-up · © Richard Alward (CC-BY-NC) / iNaturalist · © Richard Alward (CC-BY-NC) / iNaturalist",
+      "by": "Richard Alward",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/296887165"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/86834771/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — mounded shrub in bloom · © dlehle (CC-BY-NC) / iNaturalist · © dlehle (CC-BY-NC) / iNaturalist",
+      "by": "dlehle",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/54571833"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/581472244/large.jpg",
+      "s": "summer",
+      "cap": "Summer — flowers & fine foliage · © Werner Tueckmantel (CC-BY-NC) / iNaturalist · © Werner Tueckmantel (CC-BY-NC) / iNaturalist",
+      "by": "Werner Tueckmantel",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/321512500"
+    }
+  ],
+  "care": {
+    "hardiness": "Extremely cold-hardy (USDA zones 3–7), so Boulder's zone 5b–6a winters and high-altitude sun are no challenge for this circumboreal native.[1]",
+    "planting": "Plant in spring after the mid-May last frost or in early fall into well-drained soil; widely sold as container stock and easy to establish. Potted plants are less root-hardy, so water them and shelter over winter.[1]",
+    "sun": "Full sun to part shade; flowering is heaviest and the habit densest in full Front Range sun.[1]",
+    "soil": "Adaptable to average, well-drained soils including lean and alkaline ground; tolerates clay if drainage is decent.[1]",
+    "water": "Prefers evenly moist soil when young but is strongly drought tolerant once established — modest supplemental water keeps it blooming through our hot, dry summers.[1]",
+    "spacing": "A compact mound 2–4 ft tall and 3–5 ft wide; space about 3 ft apart for a low hedge or massing.[1]",
+    "propagation": "Propagates easily from softwood or semi-hardwood cuttings; species plants also grow from seed, and older clumps can be divided.[1]",
+    "bloom": "Buttercup-yellow (sometimes white or orange in cultivars) saucer-shaped flowers about 1.5 in across bloom heavily from June to September — one of the longest bloom seasons of any hardy shrub.[1]",
+    "maintenance": "Low maintenance; prune as needed in late winter and shear or cut back hard every few years to keep it from getting woody and open.[1]",
+    "troubles": "Few problems in our dry climate; mildew, fungal leaf spots, and spider mites can appear in humid or stressed conditions.[1]"
+  },
+  "references": [
+    {
+      "name": "Missouri Botanical Garden Plant Finder — Potentilla fruticosa (Dasiphora fruticosa)",
+      "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=c332"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      1
+    ],
+    "sun": [
+      1
+    ],
+    "water": [
+      1
+    ],
+    "spread": [
+      1
+    ],
+    "seasons": [
+      1
+    ],
+    "wildlife": [
+      1
+    ]
+  },
+  "edible": {
+    "level": "inedible",
+    "food": false,
+    "summary": "Grown as an ornamental shrub, not a food plant; it has a documented traditional leaf tea but no edible food use.[1]",
+    "caution": "Shrubby cinquefoil isn't eaten as food. Its dried leaves were sometimes brewed into a folk 'tea' (it's also called widdy or kuril tea), but that is a traditional infusion, not a documented food, and isn't a safety-vetted edible use here. No part is notably poisonous.[1]"
+  }
+}

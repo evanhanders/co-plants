@@ -1,0 +1,119 @@
+{
+  "common": "Three-leaf sumac",
+  "botanical": "Rhus trilobata",
+  "type": "Shrub",
+  "lifecycle": "Perennial",
+  "native": "CO native",
+  "flower_color": [
+    "yellow"
+  ],
+  "bloom": [
+    "spring"
+  ],
+  "blurb": "A bombproof native shrub — glossy trifoliate leaves that blaze orange-red in fall, tart red 'lemonade' berries, and a deep tolerance for heat, drought, and lean clay.",
+  "size": "~3–6 ft tall × 5–8 ft wide",
+  "sun": "Full sun to part shade",
+  "water": "Low; xeric",
+  "spread": "Clumping; suckers into thickets",
+  "seasons": "Yellow flower clusters in early spring before the leaves; trifoliate leaves turning brilliant orange-red in fall; fuzzy red berries summer–fall",
+  "wildlife": "Early pollinators; berries and cover for birds and small mammals",
+  "deer": "Deer resistant",
+  "toxic": "",
+  "winter": false,
+  "verified": "2026-06-06",
+  "gaps": "No strong open-licensed fall-color photo found; the reel shows spring flowers, summer berries, and green foliage though the species is known for orange-red fall color.",
+  "shots": [
+    {
+      "local": "images/sp-flower-t.jpg",
+      "full": "images/sp-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/368726531/large.jpeg",
+      "s": "spring",
+      "cap": "Spring — spring flower clusters · © Richard Alward (CC-BY-NC) / iNaturalist · © Richard Alward (CC-BY-NC) / iNaturalist",
+      "by": "Richard Alward",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/208402936"
+    },
+    {
+      "local": "images/su-berries-t.jpg",
+      "full": "images/su-berries.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/305412594/large.jpg",
+      "s": "summer",
+      "cap": "Summer — red 'lemonade' berries · © jdausman (CC-BY-NC) / iNaturalist · © jdausman (CC-BY-NC) / iNaturalist",
+      "by": "jdausman",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/175721582"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/664749160/large.jpg",
+      "s": "summer",
+      "cap": "Summer — trifoliate foliage · © bookshelf0513 (CC-BY-NC) / iNaturalist · © bookshelf0513 (CC-BY-NC) / iNaturalist",
+      "by": "bookshelf0513",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/364142905"
+    }
+  ],
+  "care": {
+    "hardiness": "Tough and cold-hardy through Boulder's zone 5b–6a (rated to roughly zone 4), a widespread Western native of the plains and foothills adapted to high-altitude sun.[1][2]",
+    "planting": "Plant in spring after the mid-May last frost or in early fall on a well-drained site; it transplants well and is used widely for windbreaks and erosion control. In pots its roots are less cold-hardy, so water container plants and shelter them over winter.[1][2]",
+    "sun": "Sun or partial shade; densest form and best fall color come in full Front Range sun.[1][2]",
+    "soil": "Grows over a very wide range of soils, from nearly bare rock to sand to heavy alkaline clay; it only dislikes flooding and high water tables.[1]",
+    "water": "Very drought tolerant once established; needs little to no supplemental water here, though water-stressed seedlings establish slowly.[1]",
+    "spacing": "Give it room — it forms rounded, suckering thickets often wider than tall (to ~3–8 ft wide); space 4–6 ft apart for a screen or hedge.[1][2]",
+    "propagation": "Seed has a hard coat and dormancy broken by cold treatment — scarify and cold-stratify, with fall/winter sowing giving best germination. It also roots readily from softwood and root cuttings (taken well before freezing) and from transplanted suckers off the spreading rhizomes.[1]",
+    "bloom": "Small yellowish flowers open on the bare branches in early spring (April), before or with the leaves; clusters of fuzzy red berries follow in summer and persist into winter.[1][2]",
+    "maintenance": "Low care; it suckers into thickets and sprouts vigorously from the root crown, so prune to shape or cut back to renew, and remove suckers to contain spread.[1][2]",
+    "harvest": "Pick the tart red berries when fully colored in late summer; they persist on the shrub into winter if birds don't strip them first.[1][2]"
+  },
+  "references": [
+    {
+      "name": "USDA NRCS Plant Guide — Skunkbush (Rhus trilobata)",
+      "url": "https://plants.sc.egov.usda.gov/DocumentLibrary/plantguide/pdf/pg_rhtr.pdf"
+    },
+    {
+      "name": "NC State Extension Plant Toolbox — Rhus trilobata",
+      "url": "https://plants.ces.ncsu.edu/plants/rhus-trilobata/"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      1,
+      2
+    ],
+    "sun": [
+      1,
+      2
+    ],
+    "water": [
+      1
+    ],
+    "spread": [
+      1,
+      2
+    ],
+    "seasons": [
+      1,
+      2
+    ],
+    "wildlife": [
+      1,
+      2
+    ],
+    "deer": [
+      1
+    ]
+  },
+  "edible": {
+    "level": "edible",
+    "food": true,
+    "kinds": [
+      "fruit"
+    ],
+    "card": "Tart red berries (lemonade-like drink)",
+    "summary": "The tart red berries are edible and were traditionally used in foods and beverages — soaked in water to make a tangy lemonade-like drink ('sumac-ade').[1]",
+    "parts": "The ripe red, sparsely hairy berries (5–7 mm) are the edible part; their tartness comes from a sour surface coating that dissolves in water to flavor a drink.[1]",
+    "preparation": "Steep or rub the whole berries in cool water (don't boil, which can turn it bitter), then strain out the fruit and hairs; sweeten to taste for a pink lemonade-like beverage. The berries were also used in foods by Native peoples.[1]",
+    "caution": "This sumac is completely safe — it is NOT poison sumac (Toxicodendron vernix, a white-berried wetland tree) nor poison ivy/oak. Rhus trilobata bears upright clusters of RED berries and is harmless; only the red-fruited sumacs are used for the drink. The crushed foliage has a skunky odor (hence 'skunkbush') but is not toxic.[1][2]"
+  }
+}

@@ -1,0 +1,53 @@
+[
+  {
+    "file": "images/sp-flower.jpg",
+    "photo_id": 368726531,
+    "by": "Richard Alward",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/208402936",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1036,
+      1400
+    ],
+    "thumb_px": [
+      296,
+      400
+    ]
+  },
+  {
+    "file": "images/su-berries.jpg",
+    "photo_id": 305412594,
+    "by": "jdausman",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/175721582",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  },
+  {
+    "file": "images/su-foliage.jpg",
+    "photo_id": 664749160,
+    "by": "bookshelf0513",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/364142905",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  }
+]

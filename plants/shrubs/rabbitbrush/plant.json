@@ -1,0 +1,121 @@
+{
+  "common": "Rabbitbrush",
+  "botanical": "Ericameria nauseosa",
+  "type": "Shrub",
+  "lifecycle": "Perennial",
+  "native": "CO native",
+  "flower_color": [
+    "yellow"
+  ],
+  "bloom": [
+    "summer",
+    "fall"
+  ],
+  "blurb": "A silver-stemmed native shrub that erupts in clouds of golden flowers in fall when little else blooms — a critical late-season pollinator plant, bone-dry tough and deer-proof.",
+  "size": "~2–5 ft tall × 3–5 ft wide",
+  "sun": "Full sun",
+  "water": "Low; xeric — very drought-tolerant",
+  "spread": "Clumping, rounded",
+  "seasons": "Silvery narrow foliage; masses of golden flowers late summer–fall; fluffy tan seedheads into winter",
+  "wildlife": "Critical late-season nectar for bees and butterflies (incl. migrating monarchs); seeds for birds",
+  "deer": "Deer resistant",
+  "toxic": "",
+  "winter": true,
+  "verified": "2026-06-06",
+  "shots": [
+    {
+      "local": "images/fa-habit-t.jpg",
+      "full": "images/fa-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/29728642/large.jpeg",
+      "s": "fall",
+      "cap": "Fall — golden shrub in bloom · © Karen Scopel (CC-BY-NC) / iNaturalist · © Karen Scopel (CC-BY-NC) / iNaturalist",
+      "by": "Karen Scopel",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/19335032"
+    },
+    {
+      "local": "images/fa-flower-t.jpg",
+      "full": "images/fa-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/57961948/large.jpeg",
+      "s": "fall",
+      "cap": "Fall — golden flower close-up · © Judith Ellen Lopez (CC-BY-NC) / iNaturalist · © Judith Ellen Lopez (CC-BY-NC) / iNaturalist",
+      "by": "Judith Ellen Lopez",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/36649880"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/589370620/large.jpg",
+      "s": "summer",
+      "cap": "Summer — silvery foliage · © Scott F Smith (CC-BY-NC) / iNaturalist · © Scott F Smith (CC-BY-NC) / iNaturalist",
+      "by": "Scott F Smith",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/325510390"
+    },
+    {
+      "local": "images/wi-seedhead-t.jpg",
+      "full": "images/wi-seedhead.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/482162230/large.jpg",
+      "s": "winter",
+      "cap": "Winter — fluffy seedheads · © Suzanne Mrozak (CC-BY-NC) / iNaturalist · © Suzanne Mrozak (CC-BY-NC) / iNaturalist",
+      "by": "Suzanne Mrozak",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/268253163"
+    }
+  ],
+  "care": {
+    "hardiness": "Iron-hardy in cold, dry country — comfortably through Boulder's zone 5b–6a (rated to about zone 4) and native to plains and foothills receiving only 7–18 in of precipitation.[1][2]",
+    "planting": "Plant in spring or fall on a hot, sharply drained, unirrigated site; it establishes fast from container stock. In pots it's less cold-hardy and resents wet feet, so use gritty mix, water sparingly, and shelter over winter.[1][2]",
+    "sun": "Full sun — it demands all-day Front Range sun and open, dry exposure.[1][2]",
+    "soil": "Grows on lean loamy, sandy, gravelly, or even heavy clay soils that may be slightly acidic to strongly alkaline or saline; the essential is sharp drainage.[1]",
+    "water": "Very drought tolerant; once established it needs essentially no supplemental water in our semi-arid climate and rots in over-watered or poorly drained ground.[1][2]",
+    "propagation": "Grows readily from its abundant wind-borne seed (non-dormant, though a short cold-moist stratification speeds and broadens germination); it also resprouts vigorously from basal buds and tolerates heavy pruning in production.[1]",
+    "bloom": "Domed clusters of bright golden-yellow flowers cover the silvery-green foliage in late summer into fall (roughly late July–October), a key late-season nectar source; the seed heads persist for winter interest.[1][2]",
+    "maintenance": "Very low care; shear or cut it back hard after fall flowering to keep a compact rounded shape and limit self-sowing — it resprouts readily from the base.[1]",
+    "troubles": "Largely trouble-free; some plants get harmless stem galls from tephritid flies, and the main risk is root rot in wet, heavy soil.[1]"
+  },
+  "references": [
+    {
+      "name": "USDA NRCS Plant Guide — Rubber Rabbitbrush (Ericameria nauseosa)",
+      "url": "https://plants.sc.egov.usda.gov/DocumentLibrary/plantguide/pdf/pg_erna10.pdf"
+    },
+    {
+      "name": "Plant Select — Baby Blue Rabbitbrush (Ericameria nauseosa)",
+      "url": "https://plantselect.org/plantstories/baby-blue-rabbitbrush/"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      1,
+      2
+    ],
+    "sun": [
+      1,
+      2
+    ],
+    "water": [
+      1,
+      2
+    ],
+    "spread": [
+      1
+    ],
+    "seasons": [
+      1,
+      2
+    ],
+    "wildlife": [
+      1
+    ],
+    "deer": [
+      1
+    ]
+  },
+  "edible": {
+    "level": "inedible",
+    "food": false,
+    "summary": "Not a food plant — a resinous, latex-bearing shrub grown for late-season bloom and wildlife, with no edible food use.[1]",
+    "caution": "Rabbitbrush contains rubbery latex and resins, is unpalatable, and has occasionally been reported toxic to livestock; it is not eaten by people. Native peoples chewed a gum or brewed twig teas from it medicinally, but that is not a documented food use — don't eat it.[1]"
+  }
+}

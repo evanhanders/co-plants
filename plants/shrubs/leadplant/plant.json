@@ -1,0 +1,103 @@
+{
+  "common": "Leadplant",
+  "botanical": "Amorpha canescens",
+  "type": "Shrub",
+  "lifecycle": "Perennial",
+  "native": "CO native",
+  "flower_color": [
+    "purple"
+  ],
+  "bloom": [
+    "summer"
+  ],
+  "blurb": "A refined prairie native with silvery, ferny foliage and spikes of tiny purple flowers lit by orange anthers in early summer — a nitrogen-fixing, deep-rooted legume that thrives on neglect.",
+  "size": "~1.5–3 ft tall × 2–3 ft wide",
+  "sun": "Full sun",
+  "water": "Low; xeric — deep taproot",
+  "spread": "Clumping from a woody taproot",
+  "seasons": "Silvery ferny foliage; purple-and-orange flower spikes early–midsummer; tan seed spikes after",
+  "wildlife": "Native bees and butterflies; larval host for several butterflies and moths",
+  "deer": "Browsed by deer and rabbits (palatable) — may need protection",
+  "toxic": "",
+  "winter": false,
+  "verified": "2026-06-06",
+  "shots": [
+    {
+      "local": "images/su-flower-t.jpg",
+      "full": "images/su-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/394685441/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — purple flower spike · © Tamar (CC-BY-NC) / iNaturalist · © Tamar (CC-BY-NC) / iNaturalist",
+      "by": "Tamar",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/222792167"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/401726530/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — whole plant in bloom · © treehugger92 (CC-BY-NC) / iNaturalist · © treehugger92 (CC-BY-NC) / iNaturalist",
+      "by": "treehugger92",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/226509603"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/198637954/large.jpg",
+      "s": "summer",
+      "cap": "Summer — silvery ferny foliage · © David Martin (CC-BY-NC) / iNaturalist · © David Martin (CC-BY-NC) / iNaturalist",
+      "by": "David Martin",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/117611531"
+    }
+  ],
+  "care": {
+    "hardiness": "A winter-hardy Great Plains native (eastern Colorado included), comfortable through Boulder's zone 5b–6a with good drought and even some shade tolerance.[1]",
+    "planting": "Plant in spring or fall into lean, well-drained soil and a sunny spot. Because it has a deep, branching woody taproot it resents transplanting — set out young plants and disturb the roots as little as possible; established plants are best left in place.[1]",
+    "sun": "Full sun for best flowering and dense form, though it tolerates light shade.[1]",
+    "soil": "Does best in sandy to silt-textured, well-drained soils and tolerates weakly acidic to moderately alkaline and even weakly saline ground — well suited to lean Front Range sites.[1]",
+    "water": "A nitrogen-fixing prairie legume with good drought tolerance; give occasional water to establish, then little supplemental water in our semi-arid climate.[1]",
+    "spacing": "A low subshrub to about 3.3 ft (1 m) tall; space roughly 2–3 ft apart in a planting or meadow.[1]",
+    "propagation": "Seed has a hard coat and needs scarification plus stratification — e.g. soak in 180–200°F water for 12 hours then cold-moist chill at 41°F for ~30 days, or simply fall-sow to stratify over winter; inoculate with nitrogen-fixing bacteria. It can also be grown from greenwood (summer) or hardwood (fall) cuttings or suckers, but its deep taproot makes transplanting and division unreliable.[1]",
+    "bloom": "Dense 2.4–4 in spikes of tiny purple flowers with bright orange anthers open in late June to July over silvery, lead-gray foliage — a magnet for native bees.[1]",
+    "maintenance": "Slow-growing and low-maintenance; it tolerates mowing or a hard cutback (it resprouts from the woody base) but otherwise needs little. Avoid crowding by aggressive grasses while it establishes.[1]",
+    "feeding": "No feeding needed — as a legume it fixes its own nitrogen and actually performs best on lean soil.[1]"
+  },
+  "references": [
+    {
+      "name": "USDA NRCS Plant Guide — Leadplant (Amorpha canescens)",
+      "url": "https://plants.sc.egov.usda.gov/DocumentLibrary/plantguide/pdf/pg_amca6.pdf"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      1
+    ],
+    "sun": [
+      1
+    ],
+    "water": [
+      1
+    ],
+    "spread": [
+      1
+    ],
+    "seasons": [
+      1
+    ],
+    "wildlife": [
+      1
+    ],
+    "deer": [
+      1
+    ]
+  },
+  "edible": {
+    "level": "inedible",
+    "food": false,
+    "summary": "Grown as a native ornamental and pollinator plant, not a food; it has a documented traditional leaf tea but no edible food use.[1]",
+    "caution": "Leadplant isn't eaten as food. Many tribes brewed a medicinal 'tea' from its dried leaves and used it in various remedies, but that is a traditional infusion, not a safety-vetted food. No part is notably poisonous, though it shouldn't be eaten.[1]"
+  }
+}

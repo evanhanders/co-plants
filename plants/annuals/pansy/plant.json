@@ -1,0 +1,132 @@
+{
+  "common": "Pansy",
+  "botanical": "Viola × wittrockiana",
+  "type": "Forb",
+  "lifecycle": "Annual",
+  "native": "Non-native",
+  "bloom_season": "Spring",
+  "blurb": "Cheerful cool-season faces that bloom through frost — easy potted colour bees visit on warm days.",
+  "size": "4–9 in tall × 9–12 in wide",
+  "sun": "Full sun to part shade",
+  "water": "Moderate; keep evenly moist, cool-season",
+  "spread": "Mounding; does not spread or self-sow aggressively",
+  "seasons": "Bold 1–2 in five-petaled flowers in spring and fall; blooms best below 75°F; fades in summer heat; may rebloom in September from fall-planted stock",
+  "wildlife": "Bees visit the flowers on warm days in early spring and fall; an important cool-season pollen and nectar source when little else is blooming",
+  "deer": "Deer-resistant",
+  "toxic": "Non-toxic to dogs, cats, and horses at normal garden exposure",
+  "winter": false,
+  "verified": "2026-06-06",
+  "origin": "Garden hybrid — wild ancestors from European mountain meadows (V. tricolor, V. lutea, V. altaica)",
+  "habitat": "Cultivated; wild ancestors grow in European and Asian mountain meadows and open rocky slopes",
+  "care": {
+    "hardiness": "Pansies are cool-season bedding plants, typically grown as annuals or biennials, and are listed as USDA zones 6a–10b by NC State Extension. They tolerate frost and can survive temperatures in the low 20s°F once hardened off, making them among the few flowering plants you can set outside in Boulder before the last frost date. In mild Front Range microclimates — especially south-facing protected beds against a wall — fall-planted pansies sometimes survive the winter and rebloom in early spring, essentially performing as biennials.[1][2]",
+    "planting": "For spring colour, purchase transplants or start seeds indoors 10–12 weeks before the last frost (late February in Boulder) under grow lights. Transplant into containers or beds from late March through April — pansies are frost-tolerant once established and can go out 4–6 weeks before the last frost date. For the longest cool-season performance, plant in containers and move them to a sheltered spot (a south-facing porch, garage doorway, or into an unheated shed) on nights that will go below 20°F; pots can be set back out once the cold spell passes. For fall colour, plant purchased transplants from mid-August through September; potted plants can be brought inside to a cool bright spot (a garage with a south-facing window) to extend the season well into October and even November.[1][2]",
+    "sun": "Full sun produces the heaviest bloom in cool weather. Part shade (2–4 hours of afternoon shade) is beneficial during the hottest weeks and extends bloom in Boulder's intense high-altitude midsummer heat — though pansies in the peak of summer heat fade regardless of light, and should simply be replaced with warm-season plants until fall.[1]",
+    "soil": "Well-drained soil that stays consistently moist is ideal. Pansies tolerate clay, loam, and sand and are forgiving of Boulder's alkaline soil. In containers, a good-quality potting mix with perlite for drainage works well. Avoid soggy, poorly drained soil, which invites root rot and fungal diseases.[1][2]",
+    "water": "Keep the soil evenly moist — pansies dislike both drought and waterlogging. In containers, this often means watering every 1–2 days in warm spring weather as the pot warms and air dries; reduce frequency as temperatures drop in fall. Water at the base of the plant rather than overhead to reduce risk of botrytis (grey mould) on the dense flowers.[1][2]",
+    "spacing": "Space plants 6–10 in apart in beds and containers; they will fill in to produce a solid mat of bloom. Closer spacing (6 in) gives faster cover; wider spacing (9–10 in) gives better airflow and reduces fungal problems in cool, wet spring weather.[1]",
+    "bloom": "On the Front Range, pansies bloom from early spring (as soon as they go out in March or April) through late May or early June, then stall in the heat of July and August. Fall-planted stock blooms from September through hard frost (October). Deadhead spent flowers regularly to prolong bloom — snap off the whole spent flower stem at the base rather than just pulling the petals.[1][2]",
+    "feeding": "A balanced water-soluble fertilizer (e.g. 20-20-20) applied every 2–3 weeks through the main blooming season keeps plants vigorous and extends flowering. Slow-release granular fertilizer worked into the potting mix at planting time reduces the need for liquid feeding.[2]",
+    "maintenance": "Deadhead spent flowers as they fade — this is the single most effective step to prolong bloom. If plants become leggy, cut them back by about one-third to encourage bushy new growth. Remove plants and compost them once they collapse in summer heat; replant in September with fresh transplants for fall colour.[1][2]",
+    "troubles": "Botrytis (grey mould) is the main disease problem in cool, wet, crowded conditions — give plants good airflow and water at the base. Root rot follows waterlogged soil; ensure drainage. Aphids and spider mites may appear; hose off or treat with insecticidal soap. Slugs can damage leaves and flowers in wet springs; use iron-phosphate slug bait around pots.[2]"
+  },
+  "edible": {
+    "level": "edible",
+    "food": true,
+    "card": "Flowers (edible garnish)",
+    "summary": "Pansy flowers are edible and widely used as a culinary garnish — eaten raw, candied, used on cakes, or floated in drinks; the flavour is mild and grassy.[1][3]",
+    "parts": "The flowers are the edible part. They can be eaten whole — petals and all — or separated into individual petals. The flavour is mild and slightly grassy; some darker-coloured varieties have a mildly stronger taste. The leaves and stems are not typically used as food.[1][3]",
+    "preparation": "Use the fresh flowers whole or in separated petals as a garnish for salads, desserts, cakes, and drinks. They can be candied by brushing with beaten egg white and dusting with superfine sugar, then allowing to dry — the candied flowers keep for several days and are a classic decoration for cakes and cupcakes. Harvest in the morning, rinse gently, and use the same day; pansies do not keep well once picked. A note from NC State Extension: dark-coloured flowers may temporarily colour the tongue.[1][3]",
+    "caution": "Eat only flowers you know are unsprayed — plants purchased from garden centres or nurseries are frequently treated with systemic pesticides that make all parts of the plant unsafe to eat, even after washing. Grow your own from seed or from organic/edible-flower-certified transplants if you intend to eat them. Introduce edible flowers new to your diet in small quantities to check for any personal sensitivity. Pansy flowers are generally non-toxic; no significant toxicity to humans is documented at typical garnish amounts, and the plant is not listed as toxic to dogs, cats, or horses.[1][2]"
+  },
+  "references": [
+    {
+      "name": "NC State Extension Gardener Plant Toolbox — Viola × wittrockiana",
+      "url": "https://plants.ces.ncsu.edu/plants/viola-x-wittrockiana/"
+    },
+    {
+      "name": "Clemson Extension — Pansies",
+      "url": "https://hgic.clemson.edu/factsheet/pansy/"
+    },
+    {
+      "name": "CSU Extension — Edible Flowers for Colorado Gardens",
+      "url": "https://extension.colostate.edu/resource/edible-flowers/"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      1
+    ],
+    "sun": [
+      1
+    ],
+    "water": [
+      1,
+      2
+    ],
+    "spread": [
+      1
+    ],
+    "seasons": [
+      1,
+      2
+    ],
+    "wildlife": [
+      1
+    ],
+    "deer": [
+      1
+    ],
+    "toxic": [
+      1
+    ],
+    "origin": [
+      1
+    ],
+    "habitat": [
+      1
+    ]
+  },
+  "shots": [
+    {
+      "local": "images/sp-close-t.jpg",
+      "full": "images/sp-close.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/34882180/large.jpeg",
+      "s": "spring",
+      "cap": "Spring — a bold purple garden pansy, face-on with a dark blotch · © issy23 (CC-BY-NC) / iNaturalist",
+      "by": "issy23",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/photos/34882180"
+    },
+    {
+      "local": "images/sp-mass-t.jpg",
+      "full": "images/sp-mass.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/155170125/large.jpg",
+      "s": "spring",
+      "cap": "Spring — colorful yellow bedding pansies in full bloom · © 杜家红 (CC-BY-NC) / iNaturalist",
+      "by": "杜家红",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/photos/155170125"
+    },
+    {
+      "local": "images/sp-habit-t.jpg",
+      "full": "images/sp-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/191633636/large.jpeg",
+      "s": "spring",
+      "cap": "Spring — mixed-color pansies in a garden planter · © natalie-sucha (CC-BY-NC) / iNaturalist",
+      "by": "natalie-sucha",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/photos/191633636"
+    },
+    {
+      "local": "images/sp-close2-t.jpg",
+      "full": "images/sp-close2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/185185754/large.jpeg",
+      "s": "spring",
+      "cap": "Spring — a crisp white pansy with a vivid purple-blue blotch · © maccath (CC-BY-NC) / iNaturalist",
+      "by": "maccath",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/photos/185185754"
+    }
+  ]
+}

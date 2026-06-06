@@ -1,0 +1,131 @@
+{
+  "common": "Snow crocus",
+  "botanical": "Crocus tommasinianus",
+  "type": "Forb",
+  "lifecycle": "Perennial",
+  "native": "Non-native",
+  "bloom_season": "Spring",
+  "blurb": "The earliest, most reliable crocus — slender lilac cups that naturalize into spring drifts and feed the very first bees.",
+  "size": "4–6 in × 4–6 in",
+  "sun": "Full sun to part shade",
+  "water": "Low; water in growth, dry summer dormancy",
+  "spread": "Naturalizing; spreads by corm offsets and self-seeding into colonies over time",
+  "seasons": "Slender lilac-to-purple cups Feb–Mar, often pushing through snow; grassy foliage Mar–May; fully dormant May–Sep; corms visible as dried tufts at soil surface in winter",
+  "wildlife": "Premier early-spring pollen and nectar source for queen bumblebees and mining bees; flowers open only in sun, closing at night and in cloud to protect pollen",
+  "deer": "Deer-resistant; avoided by deer and rabbits; less susceptible to squirrel foraging than other crocus, though rodent protection is prudent",
+  "toxic": "Mildly toxic — corms contain colchicine-like alkaloids; ingestion causes nausea, vomiting, and diarrhea in humans and pets. CRITICAL LOOK-ALIKE: Autumn crocus (Colchicum autumnale) is DEADLY, containing colchicine — it looks nearly identical but is highly toxic to humans, pets, and livestock. Spring Crocus has 3 stamens; Colchicum has 6. Autumn crocus blooms in fall with NO foliage present. Never harvest or eat unmarked corms.",
+  "origin": "Balkans — Bulgaria, Serbia, Hungary, Romania",
+  "habitat": "Open deciduous woodland, scrubby hillsides, and shaded banks",
+  "winter": true,
+  "verified": "2026-06-06",
+  "care": {
+    "hardiness": "USDA zones 3a–8b — exceptionally cold-hardy and one of the most reliable crocuses for the Front Range. Established corms in well-drained soil require no mulch or winter protection in Boulder's zone 5b–6a climate.[1]",
+    "planting": "Plant corms in fall, mid-September through late October, before the soil freezes. Set corms 3–4 in. deep and 3–4 in. apart, pointed end up. Boulder's alkaline clay drains poorly — work coarse grit, pea gravel, or sharp sand into the planting pocket and raise beds where drainage is sluggish; wet winter soil rots corms. Choose a spot that will bake dry in summer (south- or west-facing slopes, under deciduous trees, or at the base of a sunny wall) — summer drought is exactly what these corms need. In containers, use a fast-draining mix in a terracotta pot; bring containers to an unheated garage or cold frame over winter to buffer freeze-thaw cycles that can heave pots.[1][2]",
+    "sun": "Full sun to part shade — the more sun, the earlier and more prolific the bloom. Flowers open only in sunshine and close in cloud, protecting the pollen. Under deciduous trees is ideal: full sun in late winter when the corms flower, then summer shade that coincides with dormancy.[1]",
+    "soil": "Well-drained to sharp-draining, neutral to alkaline soil. Tolerates lean, sandy, or gravelly ground well. Amend heavy clay planting pockets with coarse grit before planting — waterlogged soil in winter or spring rots corms quickly. Boulder's alkaline pH is fine for this species; no amendment for pH is needed.[1]",
+    "water": "Low. Water newly planted corms thoroughly at planting, then once more if fall is dry, to help them root in. During the short spring growing season (Feb–May), natural snowmelt and rain are usually sufficient on the Front Range; do not supplementally water unless there is a warm dry spell. After foliage yellows in May, stop all irrigation and allow the soil to dry completely through summer — summer drought is beneficial and mimics the plant's natural Balkan hillside habitat. Overwatering in summer causes corm rot.[1][2]",
+    "spacing": "Plant corms 3–4 in. apart for a natural look; for an immediate drift effect, cluster 10–25 corms per planting pocket and allow them to self-seed and multiply into colonies over several years.[1]",
+    "propagation": "By offsets: lift clumps in summer dormancy (June–August), separate the offset cormlets, and replant immediately at the correct depth. By seed: allow capsules to ripen on the plant (late spring); collect seed and sow fresh in a cold frame or direct in a sheltered garden spot; expect first bloom in 3–4 years. Self-sowing is the main naturalization mechanism — leave spent flowers and capsules in place to build a colony. Ants disperse the elaiosome-coated seeds (myrmecochory), which helps seeds reach new spots naturally.[1]",
+    "depth": "Plant corms 3–4 in. deep; in very light sandy soil, 4 in. is preferable. Seed sown on the surface or pressed lightly into the top ¼ in. of soil in a cold frame germinates the following spring.[1]",
+    "bloom": "Late February through late March on the Front Range — timing varies by microclimate and snowpack but snow crocus is typically the first crocus to open, often blooming through the last snow. A warm south-facing microclimate can bring flowers as early as mid-February.[1][2]",
+    "maintenance": "Essentially hands-off once established. Allow foliage to yellow and die back naturally (by late May) — do not cut it early, as the leaves replenish the corm for next year. Deadhead spent flowers if you want to limit self-seeding; leave them to build a colony. Lift and divide overcrowded clumps every 5–7 years to maintain vigorous flowering. Protect newly planted corms from squirrels and voles with a layer of wire mesh laid flat over the planting area and pegged down; remove in spring once plants emerge.[1][2]",
+    "selfsow": "Self-sows readily when conditions suit — open, well-drained ground near established colonies. Seeds are dispersed by ants; seedlings emerge close to parent plants and take 3–4 years to bloom. Thin or transplant seedlings while very young. In turf, seeds germinate in the lawn and naturalize freely if the grass is not cut until foliage dies back in late May.[1]",
+    "troubles": "Corm rot from poor drainage or summer irrigation is the primary failure. Squirrels and voles dig and eat freshly planted corms — cover the planting area with wire mesh for the first winter. Birds (sparrows, house sparrows) sometimes peck the flowers; a few twiggy branch sticks or bird-repellent thread draped loosely across the bed deters them without harming the bloom. Botrytis (grey mould) affects foliage in cool, wet springs — improve air circulation; usually resolves on its own as the weather warms.[1][2]"
+  },
+  "edible": {
+    "level": "inedible",
+    "food": false,
+    "summary": "Snow crocus is not eaten — the corms contain alkaloids and are mildly toxic to humans and pets. The CRITICAL hazard is confusion with the deadly autumn crocus (Colchicum), which looks nearly identical.[1][3]",
+    "caution": "The corms of Crocus tommasinianus contain colchicine-like alkaloids that cause nausea, vomiting, and diarrhea if ingested; severity is generally low for a small accidental exposure, but the plant is not a food crop and should never be eaten. The far greater danger is mistaking it for Colchicum autumnale (autumn crocus / meadow saffron), which is HIGHLY TOXIC and potentially fatal to humans, pets, and livestock: Colchicum contains colchicine, an alkaloid that causes severe bloody vomiting and diarrhea, multi-organ damage, bone marrow suppression, and respiratory failure. Every part of Colchicum is dangerous — especially the bulb, which is nearly indistinguishable from a Crocus corm without a label. How to tell them apart: true spring Crocus has 3 stamens and flowers in late winter/spring WITH foliage present; Colchicum has 6 stamens, flowers in autumn WITH NO foliage (leaves emerge separately in spring). Never harvest unlabeled corms from the ground. Keep all Crocus/Colchicum corms and foliage away from children, dogs, cats, and livestock. If ingestion is suspected, call Poison Control (1-800-222-1222) or ASPCA Animal Poison Control (888-426-4435) immediately.[1][3]"
+  },
+  "references": [
+    {
+      "name": "NC State Extension Gardener Plant Toolbox — Crocus tommasinianus (Woodland Crocus)",
+      "url": "https://plants.ces.ncsu.edu/plants/crocus-tommasinianus/"
+    },
+    {
+      "name": "PlantTalk Colorado (CSU Extension) — Fall Bulb Planting for Spring Blooms",
+      "url": "https://planttalk.colostate.edu/topics/annuals-perennials/1086-fall-bulb-planting-spring-blooms/"
+    },
+    {
+      "name": "NC State Extension Gardener Plant Toolbox — Colchicum autumnale (autumn crocus / meadow saffron; look-alike toxicity)",
+      "url": "https://plants.ces.ncsu.edu/plants/colchicum-autumnale/"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      1
+    ],
+    "sun": [
+      1
+    ],
+    "water": [
+      1,
+      2
+    ],
+    "spread": [
+      1
+    ],
+    "seasons": [
+      1
+    ],
+    "wildlife": [
+      1
+    ],
+    "deer": [
+      1
+    ],
+    "toxic": [
+      1,
+      3
+    ],
+    "origin": [
+      1
+    ],
+    "habitat": [
+      1
+    ]
+  },
+  "shots": [
+    {
+      "local": "images/sp-flower-t.jpg",
+      "full": "images/sp-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/248709057/large.jpeg",
+      "s": "spring",
+      "cap": "Spring — face-on lilac snow crocus flowers · © Gleb Barmashenko (CC-BY) / iNaturalist",
+      "by": "Gleb Barmashenko",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/photos/248709057"
+    },
+    {
+      "local": "images/sp-mass-t.jpg",
+      "full": "images/sp-mass.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/472770834/large.jpeg",
+      "s": "spring",
+      "cap": "Spring — snow crocuses naturalized in grass · © jonsense (CC-BY) / iNaturalist",
+      "by": "jonsense",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/photos/472770834"
+    },
+    {
+      "local": "images/sp-habit-t.jpg",
+      "full": "images/sp-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/621822098/large.jpg",
+      "s": "spring",
+      "cap": "Spring — a carpet of snow crocuses in leaf litter · © Heiko Weber (CC-BY) / iNaturalist",
+      "by": "Heiko Weber",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/photos/621822098"
+    },
+    {
+      "local": "images/sp-flower2-t.jpg",
+      "full": "images/sp-flower2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/259585602/large.jpg",
+      "s": "spring",
+      "cap": "Spring — close-up of the silvery exterior and lilac tepals · © Sandy Wolkenberg (CC-BY) / iNaturalist",
+      "by": "Sandy Wolkenberg",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/photos/259585602"
+    }
+  ]
+}

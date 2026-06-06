@@ -1,0 +1,134 @@
+{
+  "common": "Winter heath",
+  "botanical": "Erica carnea",
+  "type": "Subshrub",
+  "lifecycle": "Perennial",
+  "native": "Non-native",
+  "blurb": "Low evergreen mat that sheets itself in tiny pink bells from late winter — a genuine cold-season bloomer (needs acid soil, so grow it in a pot here).",
+  "size": "6–12 in × 6–18 in",
+  "sun": "Full sun to part shade",
+  "water": "Moderate; even moisture, never bone-dry or waterlogged",
+  "spread": "Slowly spreading mat; rooting stems spread 1–2 ft over several years; not invasive",
+  "seasons": "Dense evergreen needle-like foliage year-round (deep green, or bronze to gold in some cultivars); tiny urn-shaped pink to crimson flowers Jan–Mar — a genuine winter bloomer; spent flowers cling attractively until sheared",
+  "wildlife": "Excellent late-winter bee forage — honey bees and early-emerging solitary bees work the flowers on warm days, making it one of the most valuable cold-season pollinator plants available",
+  "deer": "Generally deer-resistant; the tough, needle-like foliage is largely avoided",
+  "toxic": "Not considered toxic to people or pets; no significant toxicity concerns reported. Not a food plant.",
+  "winter": true,
+  "verified": "2026-06-06",
+  "origin": "Mountains of central and southern Europe (Alps of Austria, Italy, and Switzerland)",
+  "habitat": "Alpine and subalpine coniferous woodland margins and rocky moors on acidic to neutral soils",
+  "care": {
+    "hardiness": "USDA zones 7a–9b per NC State Extension — this is a critical point for Boulder Front Range gardeners (zone 5b–6a): *Erica carnea* is **not reliably hardy in the open ground** at Front Range elevations and winters. It may survive mild winters in a very sheltered microclimate (warm south-facing wall, rock garden pocket), but most winters it will be killed or severely damaged if planted in the ground. **Grow it in a container** and move it to a protected but frost-free space (unheated garage, cold greenhouse, or sheltered breezeway) when temperatures will drop below approximately 0°F for more than a few nights. Within its stated range, established plants tolerate frost and brief freezes well.[1]",
+    "planting": "Because Front Range winters regularly fall below *E. carnea*'s reliable threshold, grow it in a container — this is not a compromise, it is the honest approach for Boulder gardeners. Use a 10–14 in pot with drainage holes. Fill with **acidic (ericaceous) potting mix** — this is the single most critical requirement: winter heath must have pH below 6.0 and will decline in the alkaline clay-loam that covers most Front Range yards. Do not plant in native soil or standard potting mix without amendment. Set the pot in a sunny to partly shaded spot from April through October; move it into a protected but cool, bright space before hard freezes (typically mid-October in Boulder). The plant can endure light frosts outdoors and benefits from cool conditions even while protected — an unheated garage with a south-facing window is ideal. Bring it back outside as soon as hard freezes pass in spring (often late March or April).[1]",
+    "sun": "Full sun (6+ hours) is ideal for maximum flowering; partial shade (2–4 hours direct sun) is tolerated but reduces bloom density. On the Front Range, avoid exposing the plant to intense reflected afternoon sun when it is in active winter growth — a sheltered spot with morning sun or filtered light through a deciduous tree is excellent.[1]",
+    "soil": "Acidic (ericaceous) soil is non-negotiable — *Erica carnea* is a calcifuge (acid-lover). It is the most lime-tolerant of all heaths and can endure neutral (pH 6.0–7.0) soils for a time, but it will struggle in Boulder's alkaline clay (typically pH 7.5–8.5). NC State Extension confirms it prefers pH below 6.0 and 'overall plant health will be affected' in alkaline conditions. Use a commercial ericaceous potting mix, or make your own with 2 parts peat-free acid potting compost, 1 part coarse perlite, and 1 part fine bark. Do not add lime, dolomite, or limestone gravel. Refresh or repot into fresh ericaceous mix every 2–3 years.[1]",
+    "water": "Moderate; keep the potting mix evenly and consistently moist — never bone-dry (dryness in active growth is rapidly fatal) and never waterlogged (root rot). In a container, check moisture every few days in warm weather; containers dry out faster than in-ground plantings. Use rainwater or reverse-osmosis water if possible, as Boulder's tap water is alkaline (pH 7.5–8.5+) and frequent use will gradually raise the pot's pH. If using tap water, flush the pot thoroughly every 2–3 weeks to prevent salt/lime buildup.[1]",
+    "spacing": "18–24 in apart if planted in multiples in a large container or raised ericaceous bed; single plants in a standard pot need only enough room to spread freely over the pot rim.[1]",
+    "propagation": "By stem cuttings taken immediately after flowering (late spring): remove 2–3 in semi-ripe tip cuttings from non-flowering shoots, strip the lower needles, insert into a 50/50 mix of peat-free compost and perlite, and keep moist and shaded until rooted (6–10 weeks). Do not allow cuttings to dry out. By layering: peg a low stem to the surface of moist ericaceous compost; it will root within the season and can be severed and potted up in fall.[1]",
+    "sow": "Seed-raised plants are inconsistent in flower color and habit; propagation by cuttings is strongly preferred for named cultivars. If sowing, surface-sow on moist, unfertilised ericaceous compost and cover lightly with vermiculite; germination is slow and variable (weeks to months).[1]",
+    "stratify": "Not required for cuttings (the standard method). Seed sown on the surface in fall and kept cool will germinate the following spring without any additional treatment.[1]",
+    "depth": "When transplanting rooted cuttings or pot plants, plant at the same depth as the nursery pot. Do not bury the woody stems below the needle-bearing zone.[1]",
+    "bloom": "January–March (sometimes as early as December in a warm, sheltered microclimate) — this is the core attraction of winter heath, and among the earliest reliable flowering of any ornamental plant. Flowers are tiny (3–4 mm) urn-shaped bells in shades of white, pink, rose, or crimson depending on cultivar, carried densely along arching stems. Popular cultivars for early, reliable bloom include 'Springwood White', 'Springwood Pink', 'Myretoun Ruby', and 'Vivellii'. Move the pot outdoors or to a bright window by late January to encourage timely bloom.[1]",
+    "feeding": "Feed sparingly with an ericaceous (acid) fertilizer (formulated for rhododendrons/azaleas) in early spring after bloom, and once more in midsummer. Do not use standard balanced fertilizers or any product containing lime; these will raise soil pH and cause iron/manganese chlorosis (yellowing between the leaf veins). Symptoms of alkalinity stress: yellowing foliage, poor growth, failure to reflower.[1]",
+    "maintenance": "Shear the plant lightly immediately after flowering ends (usually April on the Front Range) — trim the flowered stems back by one-half to encourage branching and a compact mound; this is the key annual task. Never cut back into old, bare, leafless wood, as heaths do not regenerate from purely woody growth. Remove dead or brown sections promptly. Repot every 2–3 years into fresh ericaceous mix as the medium breaks down and pH drifts.[1]",
+    "selfsow": "Does not self-sow in container culture; propagate by cuttings (see Propagation).",
+    "troubles": "Alkalinity: the most common failure mode on the Front Range — yellowing foliage and decline from alkaline soil or water. Use ericaceous mix and soft water; treat symptoms with a chelated iron drench. Root rot from overwatering or poor drainage in the potting mix; ensure the pot has drainage holes and never sits in a saucer of water. Phytophthora root rot can occur in wet conditions; improve drainage and reduce watering. Aphids and spider mites occasionally attack under indoor protection in winter; improve ventilation and treat with insecticidal soap.[1]",
+    "companions": "In a container grouping or ericaceous raised bed, winter heath pairs naturally with other acid-loving plants: dwarf rhododendrons, *Calluna vulgaris* (heather, for late-summer bloom), *Pieris japonica* (for spring), and *Vaccinium* (blueberry, for fruit). For the winter-interest container garden, place alongside *Galanthus* (snowdrops) and *Eranthis* (winter aconite) in separate pots for a cohesive late-winter flowering display.[1]"
+  },
+  "fact_src": {
+    "size": [
+      1
+    ],
+    "sun": [
+      1
+    ],
+    "water": [
+      1
+    ],
+    "spread": [
+      1
+    ],
+    "seasons": [
+      1
+    ],
+    "wildlife": [
+      1
+    ],
+    "deer": [
+      1
+    ],
+    "toxic": [
+      1
+    ],
+    "origin": [
+      1
+    ],
+    "habitat": [
+      1
+    ]
+  },
+  "edible": {
+    "level": "inedible",
+    "food": false,
+    "summary": "Winter heath is not a food plant and has no known edible use. It is not considered notably toxic.",
+    "caution": "No significant toxicity has been established for *Erica carnea* in the scientific or veterinary literature, and the ASPCA does not list it as a toxic plant. It is simply not a food plant and should not be eaten. If a child or pet eats a significant quantity of the foliage or flowers, contact your local poison control center (1-800-222-1222) or veterinarian as a precaution."
+  },
+  "references": [
+    {
+      "name": "NC State Extension Gardener Plant Toolbox — Erica carnea",
+      "url": "https://plants.ces.ncsu.edu/plants/erica-carnea/"
+    }
+  ],
+  "shots": [
+    {
+      "local": "images/wi-habit-t.jpg",
+      "full": "images/wi-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/612434253/large.jpg",
+      "s": "winter",
+      "cap": "Winter — a dense spreading mat smothered in pink urns · © adtll (CC-BY-NC) / iNaturalist",
+      "by": "adtll",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/photos/612434253"
+    },
+    {
+      "local": "images/wi-mass-t.jpg",
+      "full": "images/wi-mass.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/138550426/large.jpg",
+      "s": "winter",
+      "cap": "Winter — the sprawling ground-hugging mat in full bloom · © bianca_t (CC-BY-NC) / iNaturalist",
+      "by": "bianca_t",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/photos/138550426"
+    },
+    {
+      "local": "images/wi-close-t.jpg",
+      "full": "images/wi-close.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/475196103/large.jpg",
+      "s": "winter",
+      "cap": "Winter — pale pink urn-shaped flowers with dark anthers · © maxing (CC-BY-NC) / iNaturalist",
+      "by": "maxing",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/photos/475196103"
+    },
+    {
+      "local": "images/wi-flower-t.jpg",
+      "full": "images/wi-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/263728716/large.jpg",
+      "s": "winter",
+      "cap": "Winter — a spray of urn flowers with needle foliage in whorls · © bernardwieser (CC-BY-NC) / iNaturalist",
+      "by": "bernardwieser",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/photos/263728716"
+    },
+    {
+      "local": "images/wi-foliage-t.jpg",
+      "full": "images/wi-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/618019894/large.jpg",
+      "s": "winter",
+      "cap": "Twig detail — tiny needle leaves in whorls with pink buds · © lastovka (CC-BY-NC) / iNaturalist",
+      "by": "lastovka",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/photos/618019894"
+    }
+  ]
+}

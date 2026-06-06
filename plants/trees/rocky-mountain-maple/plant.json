@@ -48,5 +48,64 @@
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/283276398"
     }
-  ]
+  ],
+  "care": {
+    "hardiness": "A montane native of the Colorado Rockies, fully cold-hardy through Boulder's 5b–6a winters; in our region it grows from about 5,000 ft up to treeline.[1][2]",
+    "planting": "Set out container or balled-and-burlapped plants in spring or early fall.[2] Unlike the xeric bigtooth maple, oak, and piñon, this is a streamside montane species — site it where it will get steady moisture and some shelter, not a hot dry exposure, and keep new plants watered well through establishment.[1][3]",
+    "sun": "Tolerates partial to fairly deep shade and naturally grows under a canopy, though it is denser in more sun; on the Front Range give it afternoon shade — its leaves scorch in open, hot, dry, windy sites.[1][3][2]",
+    "soil": "Moist, well-drained, rocky soils; a typical understory and ravine plant.[2]",
+    "water": "The honest exception among these four — NOT a xeric tree. It favors moderately damp sites, streambanks, and canyon bottoms, so on the semi-arid Front Range it needs supplemental water and is poorly suited to a dry, unirrigated zone.[1][3]",
+    "spacing": "A small tree or large shrub, roughly 10–30 ft tall with a 10–15 ft spread and slender spreading branches; often multi-stemmed.[2]",
+    "propagation": "Notoriously hard from seed — the samaras need a long warm-then-cold treatment: about 180 days of warm stratification at 68–86°F followed by ~180 days of cold-moist stratification at 37–41°F.[1][2] Collect samaras once they turn yellow-to-reddish-brown and the seeds inside are firm and dark brown; provide shade for seedling establishment.[2][1]",
+    "harvest": "Grown for its foliage, which turns yellow to reddish-orange from late August into fall (timing varies with moisture).[2][1]"
+  },
+  "references": [
+    {
+      "name": "USDA-FS Fire Effects Information System (FEIS) — Acer glabrum",
+      "url": "https://research.fs.usda.gov/feis/species-reviews/acegla"
+    },
+    {
+      "name": "Lady Bird Johnson Wildflower Center — Acer glabrum",
+      "url": "https://www.wildflower.org/plants/result.php?id_plant=ACGL"
+    },
+    {
+      "name": "USU Western Native Plants — Rocky Mountain Maple in the Landscape",
+      "url": "https://cwelwnp.usu.edu/westernnativeplants/plantlist_view.php?id=102&name=acerglabrum"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      2
+    ],
+    "sun": [
+      1,
+      2,
+      3
+    ],
+    "water": [
+      1,
+      3
+    ],
+    "spread": [
+      2
+    ],
+    "seasons": [
+      1,
+      2
+    ],
+    "wildlife": [
+      1,
+      2
+    ],
+    "deer": [
+      1,
+      2
+    ]
+  },
+  "edible": {
+    "level": "inedible",
+    "food": false,
+    "summary": "Not a food plant — grown as a native ornamental and wildlife browse, not for eating.[2]",
+    "caution": "Rocky Mountain maple has no part used as food. Its sap could theoretically be tapped like other maples, but it is not a food crop here; deer, elk, and moose browse the foliage, but it is grown for ornament, not for the table. It is not considered poisonous.[1][2]"
+  }
 }

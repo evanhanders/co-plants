@@ -859,12 +859,12 @@ ground every statement in an authority cited in `references`.
 
 ## Current plant roster (in the live site)
 
-**128 specimens**, all verified non-weed in CO and all carrying a full `care` block (incl.
+**149 specimens**, all verified non-weed in CO and all carrying a full `care` block (incl.
 `planting` + `propagation`) **and a repo-hosted photo reel** (close-up + structure, seasonal
 where good shots exist). Every plant's detail page is now **fully cited** — a numbered
 `references` bibliography with inline `[n]` markers on the facts table (`fact_src`), the care
-prose, and a safety-reviewed **`edible` block** (current split: 43 inedible · 28 caution · 34
-edible · 23 toxic). Every **non-native** plant (100 of the 128) also carries **provenance** —
+prose, and a safety-reviewed **`edible` block** (current split: 59 inedible · 29 caution · 37
+edible · 24 toxic). Every **non-native** plant (100 of the 149) also carries **provenance** —
 `origin` (where it's from) + `habitat` (its wild growing conditions) — shown as blue "Native
 to" / "Wild habitat" rows on its card and detail page, cited via `fact_src`. Grouped by type
 below (the order the site uses). Photos were sourced
@@ -914,6 +914,20 @@ sativa*** (left `caution`/not-food); **nodding onion is edible but has a deadly 
 (eat only if it smells of onion). **Ranunculus was evaluated and ruled out** (too marginal here — see
 "Ruled out"). Strawflower's reel is the yellow species form only (no CC cultivar shots — logged in its
 `gaps`). All photos via `tools/inat_montage.py` (iNat open data); 720×480 smart-crop thumbs.
+Most recently, a **21-plant Colorado-native batch** was added from CSU Extension's native-plant
+recommendations (fact sheets 7.421/7.422/7.242): the **3 native penstemons** (Rocky Mountain, scarlet
+bugler, bluemist — these activated the Penstemons family card alongside pineleaf); **7 xeric prairie
+forbs** (dotted gayfeather, prairie coneflower, prairie smoke, sulphur flower buckwheat, golden banner,
+scarlet globemallow, prairie zinnia); **7 native shrubs** (Apache plume, Boulder raspberry, three-leaf
+sumac, shrubby cinquefoil, rabbitbrush, leadplant, waxflower); and **4 small native trees** (bigtooth
+maple, Gambel oak, piñon pine, Rocky Mountain maple). Honesty calls: **golden banner is toxic**
+(quinolizidine alkaloids); **three-leaf sumac** (tart lemonade berries) and **Boulder raspberry** (dry,
+bland fruit) and **piñon** (pine nuts) are edible, and **Gambel oak acorns** are `caution`/edible-only-
+after-leaching-tannins; **Rocky Mountain maple is the one non-xeric** of the trees (montane streamside —
+wants supplemental water + afternoon shade). Care sourced via parallel agents from CSU/USU Extension,
+Plant Select, USDA NRCS plant guides, USDA-FS FEIS, LBJ Wildflower Center, MBG, and NC State; photos via
+`tools/inat_montage.py`. Two reels carry `gaps` notes (no CC fall-color shot for three-leaf sumac; no CC
+acorn close-up for Gambel oak).
 (N) = CO/regional native, (I) = introduced/vetted.
 
 **Trees**
@@ -927,6 +941,10 @@ sativa*** (left `caution`/not-food); **nodding onion is edible but has a deadly 
 - Toka plum (*Prunus 'Toka'*) (I) — The "bubblegum plum" — spicy-sweet, hardy to -40°F, the orchard's best pollinizer.
 - Reliance peach (*Prunus persica 'Reliance'*) (I) — The hardiest peach and one of the last to bloom — the best shot at homegrown peaches.
 - Summercrisp pear (*Pyrus communis 'Summercrisp'*) (I) — Cold-hardy, fire-blight-resistant pear, picked crisp and sweet in mid-summer. *(photos species-representative — see `gaps`)*
+- Bigtooth maple (*Acer grandidentatum*) (N) — Small Western maple with brilliant scarlet-orange fall color; the Rockies' answer to sugar maple.
+- Gambel oak (*Quercus gambelii*) (N) — Iconic foothills scrub oak; lobed leaves, gold-russet fall, acorns that feed everything. *(Acorns edible once leached of tannins; no CC acorn photo — see `gaps`.)*
+- Piñon pine (*Pinus edulis*) (N) — Slow, drought-proof rounded evergreen; sweet edible pine nuts in good years. *(Edible seeds.)*
+- Rocky Mountain maple (*Acer glabrum*) (N) — Graceful small canyon maple, clear-yellow fall, red samaras. *(The one non-xeric tree — montane streamside; wants moisture + afternoon shade.)*
 
 **Shrubs**
 - Common lilac (*Syringa vulgaris*) (I) — Old-fashioned dooryard shrub prized for plumes of intensely…
@@ -950,6 +968,13 @@ sativa*** (left `caution`/not-food); **nodding onion is edible but has a deadly 
 - Witch hazel (*Hamamelis vernalis*) (I) — Spidery yellow-orange ribbons on bare branches in late winter — the rare woody winter bloomer. *(US (Ozark) native, not CO; wants moisture + acid-ish soil.)*
 - Cornelian cherry (*Cornus mas*) (I) — Earliest-spring clouds of yellow flowers on bare twigs, then edible tart-red fruit; tough in alkaline clay.
 - Pussy willow (*Salix discolor*) (I) — Silvery late-winter catkins — premier early bee pollen. *(US native, not CO; dioecious — buy a male; high-water wetland shrub.)*
+- Apache plume (*Fallugia paradoxa*) (N) — White roses all summer, then feathery pink seedhead plumes; drought-proof and deer-resistant.
+- Boulder raspberry (*Rubus deliciosus*) (N) — Boulder's namesake; thornless arching shrub with big white rose-like flowers over maple leaves. *(Fruit edible but dry/bland.)*
+- Three-leaf sumac (*Rhus trilobata*) (N) — Trifoliate leaves blazing orange-red in fall; tart red "lemonade" berries. *(Edible berries — NOT poison sumac; no CC fall-color photo, see `gaps`.)*
+- Shrubby cinquefoil (*Dasiphora fruticosa*) (N) — Indestructible mound smothered in buttercup-yellow flowers June to frost.
+- Rabbitbrush (*Ericameria nauseosa*) (N) — Silver-stemmed shrub erupting in golden fall bloom; a critical late-season pollinator plant.
+- Leadplant (*Amorpha canescens*) (N) — Silvery ferny foliage and purple-and-orange flower spikes; a nitrogen-fixing prairie legume.
+- Waxflower (*Jamesia americana*) (N) — Foothills cliffbush; fragrant waxy white flowers over veined leaves that redden in fall.
 
 **Subshrubs**
 - Apricot wallflower (*Erysimum 'Apricot Twist'*) (I) — Long-blooming perennial wallflower; flowers open apricot and age to mauve. *(photos species-representative — see `gaps`)*
@@ -965,6 +990,7 @@ sativa*** (left `caution`/not-food); **nodding onion is edible but has a deadly 
 - Zonal geranium (*Pelargonium × hortorum*) (I) · **Tender perennial** — The classic bedding 'geranium' — bold flower balls over zoned leaves.
 - Rosemary (*Salvia rosmarinus*) (I) · **Tender perennial** — Aromatic culinary evergreen; tiny blue winter flowers bees work — pot it and overwinter indoors.
 - Winter heath (*Erica carnea*) (I) — Low evergreen mat sheeted in pink bells from late winter — a true cold-season bloomer. *(Not ground-hardy here; grow in an acid-mix pot.)*
+- Sulphur flower buckwheat (*Eriogonum umbellatum*) (N) — Evergreen mat crowned with sulphur-yellow umbels aging to rust; a Plant Select pollinator favorite for hot, lean ground.
 
 **Ornamental grasses**
 - Blue oat grass (*Helictotrichon sempervirens*) (I) — A tidy steel-blue fountain of fine, arching foliage
@@ -1015,6 +1041,8 @@ sativa*** (left `caution`/not-food); **nodding onion is edible but has a deadly 
 - Species tulip (*Tulipa tarda*) (I) — Little wild tulips that actually come back; starry yellow-and-white flowers that naturalize in our dry-summer climate. *(Toxic bulb.)*
 - Daffodil (*Narcissus*) (I) — The most dependable spring bulb here; sunny trumpets that multiply into drifts and, being toxic, are ignored by deer & voles. *(Toxic, all parts.)*
 - Dutch crocus (*Crocus vernus*) (I) — The big, bold spring crocus; plump purple/white/feathered goblets naturalizing into lawns to feed early bees. *(Inedible — deadly Colchicum look-alike.)*
+- Prairie smoke (*Geum triflorum*) (N) — Nodding dusky-pink bells in spring, then spectacular smoky feathered seedhead plumes over a fern-leaved mat.
+- Golden banner (*Thermopsis divaricarpa*) (N) — Bright lupine-like spikes of golden pea flowers over blue-green trifoliate foliage; spreads into bold drifts. *(Toxic — alkaloids in foliage/seeds.)*
 
 **Summer forbs**
 - Acanthus (*Acanthus mollis*) (I) — Architectural 'bear's breeches': huge glossy leaves and hooded white-&-purple flower spikes. Tender (~zone 7).
@@ -1055,12 +1083,19 @@ sativa*** (left `caution`/not-food); **nodding onion is edible but has a deadly 
 - Calendula / pot marigold (*Calendula officinalis*) (I) · **Annual** — The true edible pot marigold; cheerful daisies blooming hardest in cool spring & fall. *(Edible petals.)*
 - Ornamental allium (*Allium hollandicum*) (I) — Giant lollipop globes of starry purple on bare stems; a bee magnet deer & voles leave alone. *(Caution — oniony; all alliums toxic to pets.)*
 - Gladiolus (*Gladiolus × hortulanus*) (I) · **Tender perennial** — Sword-leaved spikes of ruffled trumpets, grown from corms lifted & stored over winter like dahlias. *(Toxic corms.)*
+- Rocky Mountain penstemon (*Penstemon strictus*) (N) — Colorado's most dependable native penstemon; dense wands of deep blue-violet flowers over glossy strap leaves. *(Penstemons family card.)*
+- Scarlet bugler penstemon (*Penstemon barbatus*) (N) — Tall airy wands of brilliant scarlet tubular flowers; a hummingbird favorite. *(Penstemons family card.)*
+- Bluemist penstemon (*Penstemon virens*) (N) — Low Front Range foothills native; evergreen rosettes throwing clouds of blue-violet flowers. *(Penstemons family card.)*
+- Prairie coneflower (*Ratibida columnifera*) (N) · *Mexican hat* — Drooping yellow (or mahogany-banded) petals around a tall sombrero cone; easy and long-blooming.
+- Scarlet globemallow (*Sphaeralcea coccinea*) (N) — Apricot-scarlet cups on a silvery low mat; bone-dry tough. *(Leaf hairs irritate eyes — 'sore-eye poppy'.)*
+- Prairie zinnia (*Zinnia grandiflora*) (N) — Fine-leaved cushion smothered in golden papery daisies midsummer to frost; a Plant Select-tough groundcover.
 
 **Fall forbs**
 - Japanese anemone (*Anemone × hybrida*) (I) — Tall, wiry-stemmed perennial that lights up the late-summer…
 - Panicled aster (*Symphyotrichum lanceolatum*) (N) — A tall, willow-leaved native aster that erupts in sprays of…
 - White heath aster (*Symphyotrichum ericoides*) (N) — In late summer the wiry stems of this tough prairie native…
 - White prairie aster (*Symphyotrichum falcatum*) (N) — A low, compact native aster that smothers itself in small…
+- Dotted gayfeather (*Liatris punctata*) (N) — Stiff stems crowded with rosy-purple bottlebrush spikes in late summer; a butterfly magnet with a deep drought-proof taproot.
 
 **Dropped from the keep-list (do not re-add):** coyote willow (*Salix exigua*) and
 Turkish cliff sage (*Salvia recognita*). Mojave sage is preferred over Turkish cliff

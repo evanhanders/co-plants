@@ -58,16 +58,90 @@
     }
   ],
   "fact_src": {
-    "size": [2],
-    "sun": [1, 2],
-    "water": [1, 2],
-    "spread": [2],
-    "seasons": [1, 2],
-    "wildlife": [2],
-    "deer": [2],
-    "toxic": [4],
-    "origin": [2],
-    "habitat": [2]
+    "size": [
+      2
+    ],
+    "sun": [
+      1,
+      2
+    ],
+    "water": [
+      1,
+      2
+    ],
+    "spread": [
+      2
+    ],
+    "seasons": [
+      1,
+      2
+    ],
+    "wildlife": [
+      2
+    ],
+    "deer": [
+      2
+    ],
+    "toxic": [
+      4
+    ],
+    "origin": [
+      2
+    ],
+    "habitat": [
+      2
+    ]
   },
-  "shots": []
+  "shots": [
+    {
+      "local": "images/sp-habit-t.jpg",
+      "full": "images/sp-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/70433455/large.jpg",
+      "s": "spring",
+      "cap": "Mounded rosemary in bloom, needle foliage visible · © orla15 (CC-BY-NC) / iNaturalist",
+      "by": "orla15",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/photos/70433455"
+    },
+    {
+      "local": "images/sp-mass-t.jpg",
+      "full": "images/sp-mass.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/114267812/large.jpg",
+      "s": "spring",
+      "cap": "Cascading rosemary in full bloom — a dense blue-violet flower mass · © milou_paris (CC-BY-NC) / iNaturalist",
+      "by": "milou_paris",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/photos/114267812"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/515531372/large.jpg",
+      "s": "summer",
+      "cap": "Dense needle foliage — the dark-green aromatic leaves · © Tania muñoz (CC-BY-NC) / iNaturalist",
+      "by": "Tania muñoz",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/photos/515531372"
+    },
+    {
+      "local": "images/sp-flower-t.jpg",
+      "full": "images/sp-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/267873593/large.jpg",
+      "s": "spring",
+      "cap": "A pale blue two-lipped flower face-on with exserted stamens · © Li Jianong (CC-BY-NC) / iNaturalist",
+      "by": "Li Jianong",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/photos/267873593"
+    },
+    {
+      "local": "images/sp-close-t.jpg",
+      "full": "images/sp-close.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/475218834/large.jpg",
+      "s": "spring",
+      "cap": "Needle foliage and blue flowers in close detail · © MP Zhou (CC-BY-NC) / iNaturalist",
+      "by": "MP Zhou",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/photos/475218834"
+    }
+  ]
 }

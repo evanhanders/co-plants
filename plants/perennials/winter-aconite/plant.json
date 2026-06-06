@@ -49,16 +49,89 @@
     }
   ],
   "fact_src": {
-    "size": [1],
-    "sun": [1],
-    "water": [1, 2],
-    "spread": [1, 2],
-    "seasons": [1],
-    "wildlife": [1],
-    "deer": [1],
-    "toxic": [1],
-    "origin": [1],
-    "habitat": [1]
+    "size": [
+      1
+    ],
+    "sun": [
+      1
+    ],
+    "water": [
+      1,
+      2
+    ],
+    "spread": [
+      1,
+      2
+    ],
+    "seasons": [
+      1
+    ],
+    "wildlife": [
+      1
+    ],
+    "deer": [
+      1
+    ],
+    "toxic": [
+      1
+    ],
+    "origin": [
+      1
+    ],
+    "habitat": [
+      1
+    ]
   },
-  "shots": []
+  "shots": [
+    {
+      "local": "images/wi-flower-t.jpg",
+      "full": "images/wi-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/620709641/large.jpg",
+      "s": "winter",
+      "cap": "Late winter — winter aconite flowers on their green ruff of bracts · © Jiří Danihelka (CC-BY-NC) / iNaturalist",
+      "by": "Jiří Danihelka",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/photos/620709641"
+    },
+    {
+      "local": "images/wi-flower2-t.jpg",
+      "full": "images/wi-flower2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/112918066/large.jpeg",
+      "s": "winter",
+      "cap": "Late winter — a face-on yellow cup on the green bract collar · © zorille (CC-BY-NC) / iNaturalist",
+      "by": "zorille",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/photos/112918066"
+    },
+    {
+      "local": "images/wi-mass-t.jpg",
+      "full": "images/wi-mass.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/33576640/large.jpg",
+      "s": "winter",
+      "cap": "Late winter — a carpet of winter aconite across the woodland floor · © Jordan Broadhead (CC-BY-NC) / iNaturalist",
+      "by": "Jordan Broadhead",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/photos/33576640"
+    },
+    {
+      "local": "images/wi-form-t.jpg",
+      "full": "images/wi-form.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/61854499/large.jpg",
+      "s": "winter",
+      "cap": "Late winter — the buttercup-like flower and leafy ruff · © Sandy Wolkenberg (CC-BY) / iNaturalist",
+      "by": "Sandy Wolkenberg",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/photos/61854499"
+    },
+    {
+      "local": "images/wi-habit-t.jpg",
+      "full": "images/wi-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/613638892/large.jpg",
+      "s": "winter",
+      "cap": "Late winter — a colony naturalizing in woodland · © guywallbanks (CC-BY) / iNaturalist",
+      "by": "guywallbanks",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/photos/613638892"
+    }
+  ]
 }

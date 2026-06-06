@@ -1,0 +1,70 @@
+[
+  {
+    "file": "images/wi-catkins.jpg",
+    "photo_id": 262884623,
+    "by": "Claire O'Neill",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/photos/262884623",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      1054
+    ],
+    "thumb_px": [
+      400,
+      301
+    ]
+  },
+  {
+    "file": "images/sp-mass.jpg",
+    "photo_id": 33682002,
+    "by": "mkkennedy",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/photos/33682002",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      1050
+    ],
+    "thumb_px": [
+      400,
+      300
+    ]
+  },
+  {
+    "file": "images/fa-habit.jpg",
+    "photo_id": 561222212,
+    "by": "Connor Budd",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/photos/561222212",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  },
+  {
+    "file": "images/su-foliage.jpg",
+    "photo_id": 521136629,
+    "by": "Arthur Whiting",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/photos/521136629",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  }
+]

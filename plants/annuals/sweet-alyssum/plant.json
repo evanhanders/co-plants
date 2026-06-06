@@ -50,16 +50,78 @@
     }
   ],
   "fact_src": {
-    "size": [1],
-    "sun": [1],
-    "water": [1],
-    "spread": [1],
-    "seasons": [1, 2],
-    "wildlife": [1],
-    "deer": [1],
-    "toxic": [1],
-    "origin": [1],
-    "habitat": [1]
+    "size": [
+      1
+    ],
+    "sun": [
+      1
+    ],
+    "water": [
+      1
+    ],
+    "spread": [
+      1
+    ],
+    "seasons": [
+      1,
+      2
+    ],
+    "wildlife": [
+      1
+    ],
+    "deer": [
+      1
+    ],
+    "toxic": [
+      1
+    ],
+    "origin": [
+      1
+    ],
+    "habitat": [
+      1
+    ]
   },
-  "shots": []
+  "shots": [
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/139447421/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — white alyssum mounding along a garden border · © topazwolf (CC-BY-NC) / iNaturalist",
+      "by": "topazwolf",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/photos/139447421"
+    },
+    {
+      "local": "images/su-mass-t.jpg",
+      "full": "images/su-mass.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/35744665/large.jpg",
+      "s": "summer",
+      "cap": "Summer — a dense white alyssum carpet in full bloom · © miralin59 (CC-BY-NC) / iNaturalist",
+      "by": "miralin59",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/photos/35744665"
+    },
+    {
+      "local": "images/su-flower-t.jpg",
+      "full": "images/su-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/223276078/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — a face-on close-up of the tiny 4-petal flower clusters · © Yelena (CC-BY-NC) / iNaturalist",
+      "by": "Yelena",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/photos/223276078"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/29914085/large.jpg",
+      "s": "summer",
+      "cap": "Summer — a spreading mound showing the narrow grey-green foliage · © Jon Sullivan (CC-BY) / iNaturalist",
+      "by": "Jon Sullivan",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/photos/29914085"
+    }
+  ]
 }

@@ -37,16 +37,38 @@
     "companions": "Plant among low-growing spring companions that go dormant or fill in neatly: snowdrops (*Galanthus*), winter aconite (*Eranthis*), and small species tulips make natural companions that bloom in sequence. Low sedums or creeping thyme fill the gap after dormancy without competing. Avoid planting where summer-watered annuals will irrigate the dormant bulbs.[1]"
   },
   "fact_src": {
-    "size": [1],
-    "sun": [1],
-    "water": [1],
-    "spread": [1],
-    "seasons": [1],
-    "wildlife": [1],
-    "deer": [1, 2],
-    "toxic": [1, 2],
-    "origin": [1],
-    "habitat": [1]
+    "size": [
+      1
+    ],
+    "sun": [
+      1
+    ],
+    "water": [
+      1
+    ],
+    "spread": [
+      1
+    ],
+    "seasons": [
+      1
+    ],
+    "wildlife": [
+      1
+    ],
+    "deer": [
+      1,
+      2
+    ],
+    "toxic": [
+      1,
+      2
+    ],
+    "origin": [
+      1
+    ],
+    "habitat": [
+      1
+    ]
   },
   "edible": {
     "level": "toxic",
@@ -64,5 +86,56 @@
       "url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/iris"
     }
   ],
-  "shots": []
+  "shots": [
+    {
+      "local": "images/sp-flower-t.jpg",
+      "full": "images/sp-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/353195286/large.jpeg",
+      "s": "spring",
+      "cap": "Early spring — blue-purple falls with the yellow signal ridge · © Arya Aras (CC-BY-NC) / iNaturalist",
+      "by": "Arya Aras",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/photos/353195286"
+    },
+    {
+      "local": "images/sp-habit-t.jpg",
+      "full": "images/sp-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/118004233/large.jpg",
+      "s": "spring",
+      "cap": "Early spring — dwarf iris in rocky soil showing its small scale · © ramazan_murtazaliev (CC-BY-NC) / iNaturalist",
+      "by": "ramazan_murtazaliev",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/photos/118004233"
+    },
+    {
+      "local": "images/sp-flower2-t.jpg",
+      "full": "images/sp-flower2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/256415762/large.jpg",
+      "s": "spring",
+      "cap": "Early spring — falls and the yellow signal in clear detail · © Peter Hollings (CC-BY-NC) / iNaturalist",
+      "by": "Peter Hollings",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/photos/256415762"
+    },
+    {
+      "local": "images/sp-flower3-t.jpg",
+      "full": "images/sp-flower3.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/76598073/large.jpg",
+      "s": "spring",
+      "cap": "Early spring — a crisp face-on cobalt-blue flower · © Andrew Sebastian (CC-BY) / iNaturalist",
+      "by": "Andrew Sebastian",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/photos/76598073"
+    },
+    {
+      "local": "images/sp-mass-t.jpg",
+      "full": "images/sp-mass.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/255658214/large.jpg",
+      "s": "spring",
+      "cap": "Early spring — a cluster showing the grassy foliage and garden habit · © soulfilming (CC-BY-NC) / iNaturalist",
+      "by": "soulfilming",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/photos/255658214"
+    }
+  ]
 }

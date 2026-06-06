@@ -1,0 +1,129 @@
+{
+  "common": "Pussy willow",
+  "botanical": "Salix discolor",
+  "type": "Shrub",
+  "lifecycle": "Perennial",
+  "native": "Non-native",
+  "blurb": "Silvery furry catkins on bare stems in late winter — one of the single most important early pollen sources for native and honey bees.",
+  "size": "10–20 ft × 8–12 ft",
+  "sun": "Full sun to part shade; best catkins in full sun",
+  "water": "High — moist/wet soil; a wetland shrub, not for dry zones",
+  "spread": "Suckering — forms multi-stem clumps; fast-growing, contains well by coppicing",
+  "seasons": "Silvery-gray catkins on bare stems late Feb–Mar; bright yellow pollen phase in March (male plants); fresh green foliage spring through fall; gold fall color; clean bare stems in winter",
+  "wildlife": "Premier early bee forage — male catkins deliver one of the highest-sugar pollens of any late-winter plant; also supports Viceroy butterfly larvae and provides winter bud forage for grouse and songbirds",
+  "deer": "Browsed by deer — not deer-resistant; also browsed by moose and rabbits",
+  "toxic": "Not a food plant; bark contains salicin (the precursor to salicylic acid/aspirin) — medicinal in traditional use but not for casual ingestion",
+  "winter": true,
+  "verified": "2026-06-06",
+  "origin": "Northern & eastern North America (boreal Canada, NE US to the Rockies) — N. American native, not native to the Colorado Front Range",
+  "habitat": "Wet meadows, marsh edges, streambanks & poorly drained thickets",
+  "care": {
+    "hardiness": "USDA zones 2–7 — extraordinary cold hardiness, native across Canada's boreal belt. Completely reliable on the Front Range (zones 5b–6a) and well above; no winter protection is needed.[1][2]",
+    "planting": "Plant in spring (April–May) or early fall (September). Because pussy willow demands moist-to-wet soil, site selection is the critical step: a rain garden, detention swale, pond edge, or low spot that stays moist is ideal; an irrigated border with consistent watering can work but requires commitment. Dig the hole twice as wide as the container and the same depth; no soil amendment is necessary on clay — clay's moisture retention is an advantage here. Water thoroughly at planting and maintain consistent soil moisture through the first growing season. Siting in full sun maximizes catkin production. CRITICAL: Buy a named male clone (ask the nursery specifically for a male plant) — only male plants produce the showy, pollen-laden catkins that make this shrub special for bees and floral arrangements; female plants bear functional catkins but these are far less ornamental.[1][2]",
+    "sun": "Best catkin production in full sun (6+ hours). Tolerates part shade (2–6 hours) and will still bloom, but the catkins are fewer and the plant grows more loosely. In full sun the upright-arching habit stays tighter and more productive.[1]",
+    "soil": "Thrives in moist, nearly neutral pH soils (pH 6–8) — including the silty, alluvial, and heavy clay soils common along Front Range waterways. Unlike most other shrubs in this guide, it actually performs well in waterlogged and seasonally flooded conditions; 'resistant to dry soil' per NC State, meaning drought stress is more of a concern than wet feet. Boulder's alkaline clay is fine as long as consistent moisture is provided.[1][2]",
+    "water": "A genuine wetland shrub requiring consistently moist to wet soil — this is a high-water plant and is not suitable for dry or xeric zones of the Front Range garden. In its natural riparian habitat, soils are moist year-round. If sited in a standard border rather than a wet area, plan to irrigate deeply 2–3 times per week through the growing season or install drip irrigation with a high application rate. Mulch heavily (4+ inches) to retain moisture between waterings.[1][2]",
+    "spacing": "Allow 10–12 ft all around for a mature plant left to its natural size. For cut-stem/floral production, coppice (cut to near ground level) every 1–3 years after bloom — this keeps the plant much smaller and produces an abundance of long, straight, catkin-bearing stems. Multiple coppiced plants can be spaced 6–8 ft apart in a wet hedge or along a drainage channel.[1][2]",
+    "bloom": "Male catkins emerge in late February through March on the Front Range, well before the leaves. The sequence: silky silver buds appear in late winter → scales fall away to reveal the silvery catkin → yellow anthers burst with pollen, transforming each catkin into a fuzzy gold cylinder. This pollen phase is the critical early-forage event: willow is documented as providing the first and most important bee forage in many areas, with catkin nectar having among the highest sugar concentrations measured in any early spring flower.[2] On warm days above 50°F, queen bumblebees, mining bees, and honey bees work the catkins intensively.[1]",
+    "feeding": "Minimal or none — pussy willow is a vigorous riparian plant that needs no fertilizer in average to moist soils. A light spring topdressing of composted manure on a sandy or impoverished site is all that's needed. Avoid high-nitrogen inputs, which push excessive vegetative growth on an already-fast shrub.[1]",
+    "maintenance": "For ornamental catkin display without coppicing, remove dead wood in early spring after bloom and prune lightly to shape. For cut-flower production, coppice the entire plant (or selected stems) to 6–12 inches above ground after the catkin phase each year or every 2–3 years; the resulting vigorous regrowth produces long, straight, catkin-rich stems for the following season. Coppicing also keeps the plant at a manageable scale — uncoppiced pussy willow will reach 20 ft. Manage root suckers to control spread.[1][2]",
+    "propagation": "Extremely easy from cuttings — the fastest and most reliable method. Take 6–12 inch hardwood cuttings of year-old wood in late winter or early spring, push them several inches into moist soil or a bucket of water, and they root in weeks. Willow seeds are viable for only a few days after release and are rarely used in cultivation; cuttings are the standard approach. Division of rooted suckers in early spring is also effective.[2]",
+    "troubles": "Fast-growing willows have shallow, spreading root systems that can clog drains, sewer lines, and irrigation pipes — site at least 20–30 ft from underground infrastructure. Scale insects, willow leaf beetle (Galerucella decora), and various borers can appear; monitor for bark damage and treat borers promptly. In dry years, leaf scorch signals water stress — the most common issue on the Front Range. Pussy willow is browsed by deer, moose, and rabbits; protect young plants with fencing if deer pressure is high.[1][2]",
+    "companions": "Naturally at home beside other riparian or moisture-loving plants: red-twig dogwood (*Cornus sericea*), twinberry honeysuckle (*Lonicera involucrata*), mountain alder (*Alnus incana* ssp. *tenuifolia*), and Wood's rose (*Rosa woodsii*). In a wet garden or rain-garden planting, combine with native sedges, blue flag iris, or Joe-Pye weed. The silvery catkin display pairs beautifully with early bulbs (snowdrops, snow crocus) and cornelian cherry bloom in a late-winter early-forage garden.[1][2]"
+  },
+  "fact_src": {
+    "size": [
+      1
+    ],
+    "sun": [
+      1
+    ],
+    "water": [
+      1,
+      2
+    ],
+    "spread": [
+      1,
+      2
+    ],
+    "seasons": [
+      1,
+      2
+    ],
+    "wildlife": [
+      1,
+      2
+    ],
+    "deer": [
+      2
+    ],
+    "toxic": [
+      1
+    ],
+    "origin": [
+      1,
+      2
+    ],
+    "habitat": [
+      2
+    ]
+  },
+  "edible": {
+    "level": "inedible",
+    "food": false,
+    "summary": "Not a food plant. Willow bark contains salicin and related salicylates — the traditional medicinal compounds behind aspirin — which are pharmacologically active and not for casual consumption.[1][2]",
+    "caution": "No part of Salix discolor is a recognized food. The bark and twigs contain salicin (a salicylate glycoside) that historically was chewed or brewed as a fever-and-pain remedy by Indigenous peoples across North America — this is the compound that led to the development of aspirin (acetylsalicylic acid). While a single catkin petal touched to the lips for flavor is essentially harmless, ingesting willow bark preparations without medical guidance is not safe: salicylates can cause stomach irritation, anti-platelet effects, and in large doses salicylate toxicity, especially in children or people sensitive to aspirin. The catkins themselves (the silky bracts) are not eaten. Do not confuse with edible willows used in foraging contexts — those refer specifically to the young leaves of certain species used in very small quantities; pussy willow is not a culinary plant.[1][2]"
+  },
+  "references": [
+    {
+      "name": "NC State Extension Gardener Plant Toolbox — Salix discolor (Pussy Willow)",
+      "url": "https://plants.ces.ncsu.edu/plants/salix-discolor/"
+    },
+    {
+      "name": "USDA Forest Service FEIS — Salix discolor (pussy willow) species review",
+      "url": "https://research.fs.usda.gov/feis/species-reviews/saldis"
+    }
+  ],
+  "shots": [
+    {
+      "local": "images/wi-catkins-t.jpg",
+      "full": "images/wi-catkins.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/262884623/large.jpg",
+      "s": "winter",
+      "cap": "Late winter — plump silvery 'pussy' catkins emerging on bare stems · © Claire O'Neill (CC-BY-NC) / iNaturalist",
+      "by": "Claire O'Neill",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/photos/262884623"
+    },
+    {
+      "local": "images/sp-mass-t.jpg",
+      "full": "images/sp-mass.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/33682002/large.jpeg",
+      "s": "spring",
+      "cap": "Late winter — branches laden with silvery catkins · © mkkennedy (CC-BY-NC) / iNaturalist",
+      "by": "mkkennedy",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/photos/33682002"
+    },
+    {
+      "local": "images/fa-habit-t.jpg",
+      "full": "images/fa-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/561222212/large.jpg",
+      "s": "fall",
+      "cap": "The whole leafy shrub in a riparian thicket · © Connor Budd (CC-BY-NC) / iNaturalist",
+      "by": "Connor Budd",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/photos/561222212"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/521136629/large.jpg",
+      "s": "summer",
+      "cap": "Summer — lanceolate leaves with silvery-white undersides · © Arthur Whiting (CC-BY) / iNaturalist",
+      "by": "Arthur Whiting",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/photos/521136629"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+[
+  {
+    "file": "images/su-habit.jpg",
+    "photo_id": 139447421,
+    "by": "topazwolf",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/photos/139447421",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      1400
+    ],
+    "thumb_px": [
+      400,
+      400
+    ]
+  },
+  {
+    "file": "images/su-mass.jpg",
+    "photo_id": 35744665,
+    "by": "miralin59",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/photos/35744665",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  },
+  {
+    "file": "images/su-flower.jpg",
+    "photo_id": 223276078,
+    "by": "Yelena",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/photos/223276078",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      837,
+      1400
+    ],
+    "thumb_px": [
+      239,
+      400
+    ]
+  },
+  {
+    "file": "images/su-foliage.jpg",
+    "photo_id": 29914085,
+    "by": "Jon Sullivan",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/photos/29914085",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      1050
+    ],
+    "thumb_px": [
+      400,
+      300
+    ]
+  }
+]

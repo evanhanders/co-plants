@@ -37,16 +37,38 @@
     "companions": "Naturalistic companions for a shaded winter-interest border: snowdrops (*Galanthus nivalis*), winter aconite (*Eranthis hyemalis*), and Lenten rose (*H. × hybridus* — much easier than niger, worth growing alongside) extend the winter-bloom sequence. Hostas, ferns, and bleeding heart (*Lamprocapnos*) fill the shade border from spring through fall, masking the hellebore's tatty summer period. Avoid planting where aggressive spreaders can crowd the slow-establishing clump.[1]"
   },
   "fact_src": {
-    "size": [1],
-    "sun": [1],
-    "water": [1],
-    "spread": [1],
-    "seasons": [1],
-    "wildlife": [1],
-    "deer": [1, 2],
-    "toxic": [1, 2],
-    "origin": [1],
-    "habitat": [1]
+    "size": [
+      1
+    ],
+    "sun": [
+      1
+    ],
+    "water": [
+      1
+    ],
+    "spread": [
+      1
+    ],
+    "seasons": [
+      1
+    ],
+    "wildlife": [
+      1
+    ],
+    "deer": [
+      1,
+      2
+    ],
+    "toxic": [
+      1,
+      2
+    ],
+    "origin": [
+      1
+    ],
+    "habitat": [
+      1
+    ]
   },
   "edible": {
     "level": "toxic",
@@ -64,5 +86,46 @@
       "url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/hellebore"
     }
   ],
-  "shots": []
+  "shots": [
+    {
+      "local": "images/wi-close-t.jpg",
+      "full": "images/wi-close.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/253287591/large.jpeg",
+      "s": "winter",
+      "cap": "Winter bloom — a face-on white flower with a golden boss of stamens · © lastovka (CC-BY-NC) / iNaturalist",
+      "by": "lastovka",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/photos/253287591"
+    },
+    {
+      "local": "images/wi-flower-t.jpg",
+      "full": "images/wi-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/31970091/large.jpg",
+      "s": "winter",
+      "cap": "Winter — pristine upward-facing white flowers · © Riccardo Riva (CC-BY) / iNaturalist",
+      "by": "Riccardo Riva",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/photos/31970091"
+    },
+    {
+      "local": "images/wi-mass-t.jpg",
+      "full": "images/wi-mass.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/484288505/large.jpeg",
+      "s": "winter",
+      "cap": "Winter — a garden drift of white Christmas-rose blooms · © emmajohnsen_ (CC-BY-NC) / iNaturalist",
+      "by": "emmajohnsen_",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/photos/484288505"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/240605456/large.jpg",
+      "s": "summer",
+      "cap": "The bold, leathery dark-green palmate evergreen leaves · © Josef Maynollo (CC-BY-NC) / iNaturalist",
+      "by": "Josef Maynollo",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/photos/240605456"
+    }
+  ]
 }

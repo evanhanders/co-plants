@@ -1,0 +1,123 @@
+{
+  "common": "Witch hazel",
+  "botanical": "Hamamelis vernalis",
+  "type": "Shrub",
+  "lifecycle": "Perennial",
+  "native": "Non-native",
+  "blurb": "Ozark native shrub that unfurls spidery yellow-orange ribbons on bare branches in late winter — fragrant, and the rare woody winter bloomer.",
+  "size": "6–16 ft × 10–15 ft",
+  "sun": "Full sun to part shade; flowers best in full sun",
+  "water": "Moderate; consistent moisture, not for dry zones",
+  "spread": "Suckering — slowly spreads from the base; prune root suckers to control",
+  "seasons": "Fragrant yellow-to-orange spidery flowers Jan–Mar on bare stems; green foliage summer; yellow-orange fall color; bare architectural stems in winter",
+  "wildlife": "Rare late-winter pollen and nectar for queen bumblebees and mining bees active on warm days; songbirds eat the small fruits",
+  "deer": "Deer resistant",
+  "toxic": "Not known to be toxic; the topical witch-hazel astringent (bark/leaf extract) is for external use only — not for ingestion",
+  "winter": true,
+  "verified": "2026-06-06",
+  "origin": "South-central US (Ozark Plateau: MO, AR, OK) — N. American native, not native to CO",
+  "habitat": "Rocky streambanks, gravel bars & moist riparian woodland",
+  "care": {
+    "hardiness": "USDA zones 3–8 — extremely cold-hardy for a late-winter bloomer. On the Front Range (zones 5b–6a) it is fully reliable with no protection needed; the flower buds are frost-tough and the petals reflex in hard freezes and re-expand on warm days — a key ecological adaptation.[1]",
+    "planting": "Plant in early spring (April) or early fall (September) when the soil is workable and temperatures are mild — the same windows CSU recommends for any woody shrub in Colorado. Dig the hole twice as wide as the container and the same depth; amend heavy clay generously with compost to improve water retention and drainage, since witch hazel's riparian origins mean it wants moisture-retentive but not waterlogged soil. Settle the rootball so the root flare is at grade, backfill, water deeply, and mulch 3–4 inches to conserve moisture. Container stock establishes reliably; avoid fall planting if it will be left in a pot above ground — the roots are far less cold-hardy than the crown and a large container set out in winter needs sheltering or sinking.[1][2]",
+    "sun": "Grows well in full sun to part shade; flowers most abundantly in full sun (6+ hours). On the Front Range's intense high-altitude exposures, light afternoon shade on the hottest south-facing sites reduces water stress and leaf scorch in summer, consistent with NC State's recommendation.[1]",
+    "soil": "Tolerates clay soils as long as drainage is reasonable. Unlike many Front Range shrubs, witch hazel prefers slightly acid to neutral pH (ideally <6.0) and high organic matter — a direct reflection of its Ozark streambank origin. Boulder's naturally alkaline clay can cause some iron chlorosis; amending the planting hole and surrounding area with peat, acidifying compost, or sulfur, and mulching heavily, helps maintain the slightly lower pH the plant prefers. It is not at its best in high-pH, lean, dry clay without amendment.[1]",
+    "water": "Needs consistent, reliable moisture — this is not a xeric shrub. In Boulder's semi-arid climate, plan on deep supplemental irrigation every 7–10 days through the growing season, especially in summer, tapering to every 2–3 weeks in fall after dormancy begins. A 3–4 inch mulch ring is essential to hold soil moisture between waterings. Once well established (2–3 years) it develops reasonable drought tolerance, but chronic water stress causes leaf scorch and weakens bloom — the plant flags its displeasure clearly.[1][2]",
+    "spacing": "Allow 10–15 ft in all directions — mature plants reach 6–16 ft tall and 10–15 ft wide and resent crowding. As a specimen shrub in a mixed border or near a water feature, single plants look best; for a screen or naturalistic edge planting, space 8–10 ft apart and let the gradual suckering fill in over time.[1]",
+    "bloom": "Flowers open January through early March on the Front Range — among the very earliest of any woody plant in the region. The four strap-like, crinkled petals in gold to orange-red are surprisingly frost-tolerant: they curl tightly in temperatures well below freezing and unfurl again when temperatures rise above about 40°F. Fragrance is strongest on mild sunny days. The bloom window can span 4–6 weeks, providing a sustained late-winter pollen source for any bumblebee queens or mining bees active on warm days.[1][2]",
+    "feeding": "Light annual feeding only. A spring topdressing of acid-forming compost or a balanced fertilizer formulated for ericaceous plants (e.g., azalea/rhododendron food) applied just as new growth resumes helps maintain the slightly acid soil preference. Avoid heavy nitrogen, which pushes vegetative growth at the expense of bloom. In alkaline clay, iron chelate applied in spring addresses chlorosis (yellowing between leaf veins).[1]",
+    "maintenance": "Low-maintenance once established. Prune only after flowering — witch hazel sets its flower buds on old growth, so pruning in late winter or fall removes the coming bloom; wait until the last flowers fade (March–April) before shaping. Remove root suckers at ground level as they appear to control spread. Renewal-prune by removing the oldest, thickest stems at the base over three years to keep vigorous flowering wood — the standard Colorado approach of eliminating one-third of the oldest, thickest canes annually across three seasons.[2][3]",
+    "propagation": "Most readily propagated by removing and transplanting rooted suckers — sever with a sharp spade in early spring while still dormant, pot or replant immediately, and keep well watered. Seed is the natural route for species plants: collect the capsules when they snap open in fall (they eject seed forcefully), cold-stratify for 3–4 months at 34–40°F, then sow; germination is slow (may take 18+ months). Grafting onto Hamamelis virginiana rootstock is the commercial standard for named cultivars and produces faster, more predictable results, but sucker division is easiest for home gardeners.[1]",
+    "troubles": "Leaf scorch (brown crispy margins in summer) is the most common complaint on the Front Range and signals drought stress or excessive alkalinity — improve irrigation consistency and soil pH. Scale insects, aphids, and leaf miners can appear; treat aphids with a strong water spray or insecticidal soap and scales with horticultural oil in late winter before bud break. The plant's preference for acid soil makes it a candidate for iron chlorosis in Boulder's alkaline clay — yellowing leaves with green veins respond to chelated iron applications.[1]",
+    "companions": "Pair with other moisture-tolerant, part-shade shrubs that appreciate richer soil: red-twig dogwood (*Cornus sericea*), twinberry honeysuckle (*Lonicera involucrata*), Wood's rose (*Rosa woodsii*), and mock orange (*Philadelphus lewisii*). Underplant with early spring bulbs (snowdrops, winter aconite) that share the late-winter bloom window and enjoy similar conditions. Near a rain garden or detention pond is ideal — witch hazel thrives where soil stays reliably moist.[1][2]"
+  },
+  "fact_src": {
+    "size": [
+      1
+    ],
+    "sun": [
+      1
+    ],
+    "water": [
+      1,
+      2
+    ],
+    "spread": [
+      1
+    ],
+    "seasons": [
+      1,
+      2
+    ],
+    "wildlife": [
+      1,
+      2
+    ],
+    "deer": [
+      1
+    ],
+    "toxic": [
+      1
+    ],
+    "origin": [
+      1,
+      2
+    ],
+    "habitat": [
+      1,
+      2
+    ]
+  },
+  "edible": {
+    "level": "inedible",
+    "food": false,
+    "summary": "Not a food plant. Witch hazel bark and leaf are the source of the familiar topical astringent (witch-hazel water), used externally for skin, bruises, and hemorrhoids — not for ingestion.[1]",
+    "caution": "The bark and leaves contain tannins and the mild phenolic hamamelistannin, which are irritants when swallowed. Commercial witch-hazel astringent is a steam distillate intended for external use only; ingesting it — or chewing the bark — causes nausea, vomiting, and gastrointestinal upset. No part of Hamamelis vernalis is a recognized food. The small hard nutlets (seeds) are similarly inedible. Keep products out of reach of children. There is no edible use to confuse with a look-alike; the shaggy winter-blooming habit is distinctive.[1]"
+  },
+  "references": [
+    {
+      "name": "NC State Extension Gardener Plant Toolbox — Hamamelis vernalis (Ozark Witch Hazel)",
+      "url": "https://plants.ces.ncsu.edu/plants/hamamelis-vernalis/"
+    },
+    {
+      "name": "CSU Extension PlantTalk Colorado 1714 — Selecting Shrubs",
+      "url": "http://planttalk.colostate.edu/topics/trees-shrubs-vines/1714-selecting-shrubs/"
+    },
+    {
+      "name": "CSU Extension PlantTalk Colorado 1729 — Renewing Shrubs (pruning timing and method)",
+      "url": "http://planttalk.colostate.edu/topics/trees-shrubs-vines/1729-renewing-shrubs/"
+    }
+  ],
+  "shots": [
+    {
+      "local": "images/wi-flower-t.jpg",
+      "full": "images/wi-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/114421531/large.jpg",
+      "s": "winter",
+      "cap": "Late-winter bloom — strap-shaped yellow-orange petals on bare stems · © Sarah E. King (CC-BY-NC) / iNaturalist",
+      "by": "Sarah E. King",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/photos/114421531"
+    },
+    {
+      "local": "images/wi-flower2-t.jpg",
+      "full": "images/wi-flower2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/179779490/large.jpg",
+      "s": "winter",
+      "cap": "Flower detail — twisted strap petals in orange-red · © Sandy Wolkenberg (CC-BY) / iNaturalist",
+      "by": "Sandy Wolkenberg",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/photos/179779490"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/213752080/large.jpg",
+      "s": "summer",
+      "cap": "Summer — the whole shrub on a rocky Ozark streambank · © Molly Robinson (CC-BY-NC) / iNaturalist",
+      "by": "Molly Robinson",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/photos/213752080"
+    }
+  ]
+}

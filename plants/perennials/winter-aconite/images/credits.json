@@ -1,0 +1,87 @@
+[
+  {
+    "file": "images/wi-flower.jpg",
+    "photo_id": 620709641,
+    "by": "Jiří Danihelka",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/photos/620709641",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      788,
+      1400
+    ],
+    "thumb_px": [
+      225,
+      400
+    ]
+  },
+  {
+    "file": "images/wi-flower2.jpg",
+    "photo_id": 112918066,
+    "by": "zorille",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/photos/112918066",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      1050
+    ],
+    "thumb_px": [
+      400,
+      300
+    ]
+  },
+  {
+    "file": "images/wi-mass.jpg",
+    "photo_id": 33576640,
+    "by": "Jordan Broadhead",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/photos/33576640",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      933
+    ],
+    "thumb_px": [
+      400,
+      267
+    ]
+  },
+  {
+    "file": "images/wi-form.jpg",
+    "photo_id": 61854499,
+    "by": "Sandy Wolkenberg",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/photos/61854499",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  },
+  {
+    "file": "images/wi-habit.jpg",
+    "photo_id": 613638892,
+    "by": "guywallbanks",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/photos/613638892",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1051,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  }
+]

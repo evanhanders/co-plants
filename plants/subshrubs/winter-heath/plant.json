@@ -36,16 +36,36 @@
     "companions": "In a container grouping or ericaceous raised bed, winter heath pairs naturally with other acid-loving plants: dwarf rhododendrons, *Calluna vulgaris* (heather, for late-summer bloom), *Pieris japonica* (for spring), and *Vaccinium* (blueberry, for fruit). For the winter-interest container garden, place alongside *Galanthus* (snowdrops) and *Eranthis* (winter aconite) in separate pots for a cohesive late-winter flowering display.[1]"
   },
   "fact_src": {
-    "size": [1],
-    "sun": [1],
-    "water": [1],
-    "spread": [1],
-    "seasons": [1],
-    "wildlife": [1],
-    "deer": [1],
-    "toxic": [1],
-    "origin": [1],
-    "habitat": [1]
+    "size": [
+      1
+    ],
+    "sun": [
+      1
+    ],
+    "water": [
+      1
+    ],
+    "spread": [
+      1
+    ],
+    "seasons": [
+      1
+    ],
+    "wildlife": [
+      1
+    ],
+    "deer": [
+      1
+    ],
+    "toxic": [
+      1
+    ],
+    "origin": [
+      1
+    ],
+    "habitat": [
+      1
+    ]
   },
   "edible": {
     "level": "inedible",
@@ -59,5 +79,56 @@
       "url": "https://plants.ces.ncsu.edu/plants/erica-carnea/"
     }
   ],
-  "shots": []
+  "shots": [
+    {
+      "local": "images/wi-habit-t.jpg",
+      "full": "images/wi-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/612434253/large.jpg",
+      "s": "winter",
+      "cap": "Winter — a dense spreading mat smothered in pink urns · © adtll (CC-BY-NC) / iNaturalist",
+      "by": "adtll",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/photos/612434253"
+    },
+    {
+      "local": "images/wi-mass-t.jpg",
+      "full": "images/wi-mass.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/138550426/large.jpg",
+      "s": "winter",
+      "cap": "Winter — the sprawling ground-hugging mat in full bloom · © bianca_t (CC-BY-NC) / iNaturalist",
+      "by": "bianca_t",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/photos/138550426"
+    },
+    {
+      "local": "images/wi-close-t.jpg",
+      "full": "images/wi-close.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/475196103/large.jpg",
+      "s": "winter",
+      "cap": "Winter — pale pink urn-shaped flowers with dark anthers · © maxing (CC-BY-NC) / iNaturalist",
+      "by": "maxing",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/photos/475196103"
+    },
+    {
+      "local": "images/wi-flower-t.jpg",
+      "full": "images/wi-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/263728716/large.jpg",
+      "s": "winter",
+      "cap": "Winter — a spray of urn flowers with needle foliage in whorls · © bernardwieser (CC-BY-NC) / iNaturalist",
+      "by": "bernardwieser",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/photos/263728716"
+    },
+    {
+      "local": "images/wi-foliage-t.jpg",
+      "full": "images/wi-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/618019894/large.jpg",
+      "s": "winter",
+      "cap": "Twig detail — tiny needle leaves in whorls with pink buds · © lastovka (CC-BY-NC) / iNaturalist",
+      "by": "lastovka",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/photos/618019894"
+    }
+  ]
 }

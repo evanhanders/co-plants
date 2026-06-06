@@ -741,12 +741,12 @@ ground every statement in an authority cited in `references`.
 
 ## Current plant roster (in the live site)
 
-**96 specimens**, all verified non-weed in CO and all carrying a full `care` block (incl.
+**108 specimens**, all verified non-weed in CO and all carrying a full `care` block (incl.
 `planting` + `propagation`) **and a repo-hosted photo reel** (close-up + structure, seasonal
 where good shots exist). Every plant's detail page is now **fully cited** — a numbered
 `references` bibliography with inline `[n]` markers on the facts table (`fact_src`), the care
-prose, and a safety-reviewed **`edible` block** (current split: 37 inedible · 22 caution · 26
-edible · 11 toxic). Every **non-native** plant (71 of the 96) also carries **provenance** —
+prose, and a safety-reviewed **`edible` block** (current split: 41 inedible · 23 caution · 29
+edible · 15 toxic). Every **non-native** plant (83 of the 108) also carries **provenance** —
 `origin` (where it's from) + `habitat` (its wild growing conditions) — shown as blue "Native
 to" / "Wild habitat" rows on its card and detail page, cited via `fact_src`. Grouped by type
 below (the order the site uses). Photos were sourced
@@ -770,6 +770,18 @@ the 'Bowles's Mauve' wallflower cultivar, and honestly-captioned **species-repre
 Several are **frost-tender** on the Front Range (Acanthus is borderline ~zone 7; the
 pelargoniums are killed by frost and grown as annuals or overwintered indoors) — the `care`
 blocks say so plainly rather than overselling hardiness.
+Most recently, **twelve winter/early-spring pollinator plants** were added to bridge the Feb–March
+forage gap (nothing else on the roster blooms before April): the early bulbs/tubers **snow crocus,
+snowdrops, winter aconite, dwarf iris**; the true winter bloomers **Christmas rose** (*Helleborus
+niger*) and **winter heath** (*Erica carnea*); the late-winter shrubs **witch hazel** (*Hamamelis
+vernalis*), **Cornelian cherry** (*Cornus mas*) and **pussy willow** (*Salix discolor*); and the
+potted/cool-season **rosemary, sweet alyssum, pansy** — things you can keep in bloom in a pot and set
+outside on warm winter days for foraging bees. Honesty calls baked into their `care`: **winter heath
+is NOT ground-hardy here and needs an acid-mix pot** (Boulder's alkaline clay would kill it); **witch
+hazel** and **pussy willow** are North-American natives but **not** Front-Range natives (marked
+`Non-native` with honest `origin`); **pussy willow is dioecious** (buy a named *male* for the
+pollen-bearing catkins) and a **high-water wetland shrub**; **sweet alyssum** is left `caution`/not-
+food (no authority documents it as culinary). Photos via `tools/inat_montage.py` (iNat open data).
 (N) = CO/regional native, (I) = introduced/vetted.
 
 **Trees**
@@ -803,6 +815,9 @@ blocks say so plainly rather than overselling hardiness.
 - Honeyberry / haskap (*Lonicera caerulea*) (I) — The true Front-Range blueberry alternative; alkaline-clay & −40°F tolerant, earliest fruit. (Needs two varieties to fruit.)
 - Black chokeberry / aronia (*Aronia melanocarpa*) (I) — Ultra-hardy; red fall foliage + glossy black antioxidant berries (cooked/juiced). *(Not xeric — wants supplemental water.)*
 - Sea buckthorn (*Hippophae rhamnoides*) (I) — Suckering silver-leaved, thorny shrub; intensely tart vitamin-C orange berries. *(Dioecious — needs male+female; suckering Elaeagnaceae, contain away from waterways.)*
+- Witch hazel (*Hamamelis vernalis*) (I) — Spidery yellow-orange ribbons on bare branches in late winter — the rare woody winter bloomer. *(US (Ozark) native, not CO; wants moisture + acid-ish soil.)*
+- Cornelian cherry (*Cornus mas*) (I) — Earliest-spring clouds of yellow flowers on bare twigs, then edible tart-red fruit; tough in alkaline clay.
+- Pussy willow (*Salix discolor*) (I) — Silvery late-winter catkins — premier early bee pollen. *(US native, not CO; dioecious — buy a male; high-water wetland shrub.)*
 
 **Subshrubs**
 - Apricot wallflower (*Erysimum 'Apricot Twist'*) (I) — Long-blooming perennial wallflower; flowers open apricot and age to mauve. *(photos species-representative — see `gaps`)*
@@ -816,6 +831,8 @@ blocks say so plainly rather than overselling hardiness.
 - Russian sage (*Salvia yangii*) (I) — An airy haze of lavender-blue over silver stems
 - Scented-leaf geranium (*Pelargonium graveolens*) (I) · **Tender perennial** — Grown for rose/lemon/mint-scented foliage (lovely in baking).
 - Zonal geranium (*Pelargonium × hortorum*) (I) · **Tender perennial** — The classic bedding 'geranium' — bold flower balls over zoned leaves.
+- Rosemary (*Salvia rosmarinus*) (I) · **Tender perennial** — Aromatic culinary evergreen; tiny blue winter flowers bees work — pot it and overwinter indoors.
+- Winter heath (*Erica carnea*) (I) — Low evergreen mat sheeted in pink bells from late winter — a true cold-season bloomer. *(Not ground-hardy here; grow in an acid-mix pot.)*
 
 **Ornamental grasses**
 - Blue oat grass (*Helictotrichon sempervirens*) (I) — A tidy steel-blue fountain of fine, arching foliage
@@ -852,6 +869,13 @@ blocks say so plainly rather than overselling hardiness.
 - Oriental poppy (*Papaver orientale*) (I) — Enormous crepe-paper blooms with inky centers
 - Pasque flower (*Pulsatilla patens*) (N) — One of the very first wildflowers of spring
 - Western wallflower (*Erysimum capitatum*) (N) · **Biennial** — A tough native short-lived perennial or biennial that covers…
+- Snow crocus (*Crocus tommasinianus*) (I) — The earliest, most reliable crocus; lilac cups that naturalize and feed the first bees. *(Inedible — autumn-crocus look-alike is deadly.)*
+- Snowdrops (*Galanthus nivalis*) (I) — Nodding white bells through late-winter snow; among the first nectar of the year. *(Toxic.)*
+- Winter aconite (*Eranthis hyemalis*) (I) — Bright yellow buttercup cups on green ruffs in late winter — one of the earliest pollen sources. *(Toxic.)*
+- Dwarf iris (*Iris reticulata*) (I) — Jewel-blue dwarf bulb iris that flowers at snowmelt; thrives on our dry-summer dormancy. *(Toxic.)*
+- Christmas rose (*Helleborus niger*) (I) — Leathery evergreen perennial whose white cups open in the dead of winter — rare midwinter bee forage. *(Toxic; sap irritant.)*
+- Sweet alyssum (*Lobularia maritima*) (I) · **Annual** — Low honey-scented carpet from spring to frost; a magnet for bees, hoverflies & beneficials.
+- Pansy (*Viola × wittrockiana*) (I) · **Annual** — Cheerful cool-season faces that bloom through frost; edible flowers, easy potted colour for warm-day bees.
 
 **Summer forbs**
 - Acanthus (*Acanthus mollis*) (I) — Architectural 'bear's breeches': huge glossy leaves and hooded white-&-purple flower spikes. Tender (~zone 7).

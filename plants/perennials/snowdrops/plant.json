@@ -1,0 +1,68 @@
+{
+  "common": "Snowdrops",
+  "botanical": "Galanthus nivalis",
+  "type": "Forb",
+  "lifecycle": "Perennial",
+  "native": "Non-native",
+  "bloom_season": "Spring",
+  "blurb": "Nodding white bells that push up through late-winter snow — among the first nectar and pollen of the year.",
+  "size": "4–6 in × 3–4 in",
+  "sun": "Part shade to full sun (spring)",
+  "water": "Low–moderate; moist in late winter, drier when dormant",
+  "spread": "Clump-forming; spreads slowly by bulb offsets and seed to build compact colonies; non-invasive",
+  "seasons": "Nodding white and green bells Jan–Mar, often through snow; straplike blue-green foliage Mar–May; fully dormant May–Sep; no above-ground presence in summer or fall",
+  "wildlife": "Vital early-season pollen and nectar for queen bumblebees and solitary bees on the few warm late-winter days when they forage; one of the only flowers open in Feb–Mar on the Front Range",
+  "deer": "Deer-resistant; rarely browsed by deer, rabbits, voles, or other rodents — likely due to alkaloid content",
+  "toxic": "ALL PARTS TOXIC — contains phenanthridine alkaloids including galantamine and lycorine, concentrated especially in the bulbs. Ingestion causes nausea, vomiting, and diarrhea. Keep away from children, pets, and livestock. Do not eat any part.",
+  "origin": "Europe — Spain east to Ukraine and western Turkey",
+  "habitat": "Damp deciduous woodland, shaded meadows, and stream banks",
+  "winter": true,
+  "verified": "2026-06-06",
+  "care": {
+    "hardiness": "USDA zone 3 — one of the hardiest spring bulbs, reliably overwintering throughout the Colorado Front Range without protection. Established colonies in Boulder's zone 5b–6a climate are effectively permanent once settled.[1][2]",
+    "planting": "Plant dry bulbs in early fall (September–October) when nighttime temperatures fall to 40–50°F, before the ground freezes. Set bulbs 3 in. deep and 3 in. apart, pointed end up. Alternatively — and often more successfully — plant 'in the green' immediately after flowering in March while leaves are still attached; dig clumps from an established source, divide gently, and replant at once at the same depth. 'In the green' transplants establish far more readily than dried bulbs on the Front Range. Choose a spot under deciduous trees or on the east or north side of a structure where the soil stays slightly moist in late winter and dries in summer — this matches the plant's woodland origin. Work compost or leaf mould into the planting pocket to enrich clay soils and improve moisture retention (unlike most bulbs, snowdrops appreciate some organic matter, not sharp drainage). In containers, use a humus-rich potting mix; overwinter pots in an unheated but protected spot (garage or cold frame) to prevent excessive freeze-thaw cycling.[1][2][3]",
+    "sun": "Part shade is ideal — the classic setting is under deciduous trees that are leafless when snowdrops flower in Feb–Mar (full sun then), then shaded when dormant in summer. Full sun is tolerated if soil stays reliably moist during the brief growing season. Avoid dry, exposed, full-sun sites where summer drought would stress the bulbs.[1]",
+    "soil": "Well-drained but moisture-retentive soil rich in organic matter — humus-amended loam or leaf-mould-enriched soil is ideal. Unlike most bulbs, snowdrops dislike excessively sandy or dry soil; they want consistent moisture during their brief active season (Jan–May). Boulder's alkaline clay, amended with compost, suits them adequately; avoid waterlogged ground where bulbs would rot in winter. A yearly topdressing of leaf mould or garden compost in fall benefits established colonies.[1]",
+    "water": "Low–moderate during the growing season (Jan–May): snowdrops need the soil to remain lightly moist while foliage is green. On the Front Range, snowmelt and spring rain usually suffice; water only if late winter or early spring is unusually dry and warm. After foliage yellows in May, reduce or stop irrigation and allow the soil to dry; summer moisture is not needed but moderate summer dryness (as under trees) is tolerated without harm.[1][2]",
+    "spacing": "Plant 3 in. apart; they will clump and multiply slowly. For immediate impact, plant bulbs in clusters of 15–25 in a single pocket and allow the colony to fill in over several years.[1]",
+    "propagation": "By division 'in the green' (preferred): dig clumps immediately after flowering while leaves are still green, separate bulbs gently, and replant at once at the original depth — do not let them dry out. Dry-bulb planting in fall succeeds but establishes more slowly. By seed: allow capsules to ripen and fall naturally; seeds are dispersed by ants and germinate nearby, taking 4–5 years to reach flowering size. Self-seeding builds the colony slowly under ideal conditions (moist, humus-rich ground, some shade).[1][2]",
+    "depth": "Plant bulbs 3 in. deep. In the green divisions should be replanted at the same depth at which they were growing. Seed sown on the soil surface in a shaded cold frame will germinate after winter chilling; seedlings are tiny and slow.[1]",
+    "bloom": "Late January through March on the Boulder Front Range, depending on microclimate and snow cover — snowdrops often push through snow and survive hard frosts. A protected south-facing wall or warm microclimate can bring flowers as early as January; exposed or north-facing spots may not bloom until March.[1][2]",
+    "maintenance": "Essentially no maintenance once a colony establishes. Allow foliage to die back naturally — do not cut it before it yellows (typically May); the leaves replenish the bulbs for next season. Topdress with leaf mould or compost each fall to replenish organic matter. Divide overcrowded clumps every 5–7 years immediately after flowering ('in the green') to revigorate and expand the planting. No deadheading needed; allow capsules to set and fall for natural self-seeding.[1][2]",
+    "selfsow": "Self-sows modestly when conditions suit — moist humus-rich ground in dappled shade. Ants disperse the seed short distances (myrmecochory). Seedlings take 4–5 years to flower; they emerge as very fine grass-like blades and are easily overlooked. Once established, colonies slowly expand at the edges by both seed and offset without becoming invasive.[1]",
+    "troubles": "Bulb rot in waterlogged or heavy un-amended clay — improve drainage and add organic matter before planting. 'Snowdrop sickness' (grey mould, Botrytis galanthina) can collapse foliage in cool, wet springs; remove affected material and improve air circulation. Narcissus bulb fly occasionally attacks stored dry bulbs — inspect before planting and discard soft or hollow bulbs. Dried bulbs sourced from garden centres have notoriously poor establishment rates; always prefer 'in the green' transplants or nursery-propagated bulbs over imported dried stock.[1][2]"
+  },
+  "edible": {
+    "level": "toxic",
+    "food": false,
+    "summary": "Snowdrops are poisonous — all parts contain phenanthridine alkaloids (galantamine, lycorine) that cause vomiting and diarrhea; the bulbs are especially dangerous. Do not eat any part.[1]",
+    "caution": "All parts of Galanthus nivalis are toxic: the plant contains phenanthridine alkaloids including lycorine (which causes nausea, vomiting, and diarrhea) and galantamine (an acetylcholinesterase inhibitor used in purified pharmaceutical form for Alzheimer's treatment, but dangerous in raw plant form). The bulbs contain the highest concentration of alkaloids and are the greatest risk; they can be mistaken for edible bulbs (e.g. wild garlic, Allium ursinum) — never harvest unlabeled bulbs. NC State Extension rates the toxicity as low in severity for small exposures, but ingestion of multiple bulbs can cause significant gastrointestinal illness. The plant is also resistant to deer, rabbits, and rodents, which reflects its chemical deterrents. Keep all parts — especially bulbs — away from children, dogs, cats, and livestock. If ingestion is suspected, call Poison Control (1-800-222-1222) or ASPCA Animal Poison Control (888-426-4435) immediately.[1]"
+  },
+  "references": [
+    {
+      "name": "NC State Extension Gardener Plant Toolbox — Galanthus nivalis (Common Snowdrop; toxicity, phenanthridine alkaloids)",
+      "url": "https://plants.ces.ncsu.edu/plants/galanthus-nivalis/"
+    },
+    {
+      "name": "Wisconsin Horticulture Extension — Snowdrops (Galanthus spp.)",
+      "url": "https://hort.extension.wisc.edu/articles/snowdrops-galanthus-spp/"
+    },
+    {
+      "name": "PlantTalk Colorado (CSU Extension) — Fall Bulb Planting for Spring Blooms",
+      "url": "https://planttalk.colostate.edu/topics/annuals-perennials/1086-fall-bulb-planting-spring-blooms/"
+    }
+  ],
+  "fact_src": {
+    "size": [1],
+    "sun": [1, 2],
+    "water": [1, 2, 3],
+    "spread": [1, 2],
+    "seasons": [1],
+    "wildlife": [1],
+    "deer": [1, 2],
+    "toxic": [1],
+    "origin": [1],
+    "habitat": [1]
+  },
+  "shots": []
+}

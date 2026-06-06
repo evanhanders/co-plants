@@ -1,0 +1,64 @@
+{
+  "common": "Winter aconite",
+  "botanical": "Eranthis hyemalis",
+  "type": "Forb",
+  "lifecycle": "Perennial",
+  "native": "Non-native",
+  "bloom_season": "Spring",
+  "blurb": "Bright yellow buttercup cups on green ruffs in late winter — one of the earliest pollen sources, lovely beside snowdrops.",
+  "size": "3–6 in × 4–6 in",
+  "sun": "Full sun to part shade",
+  "water": "Low–moderate; moist late winter, dry summer dormancy fine",
+  "spread": "Slowly naturalizing; spreads by tuber offsets and prolific self-seeding to form loose colonies; non-invasive",
+  "seasons": "Bright yellow cupped flowers on a green leafy ruff Jan–Mar, often through snow; deeply divided basal leaves Mar–May; fully dormant May–Sep; no above-ground presence in summer",
+  "wildlife": "One of the most important early pollen sources for queen bumblebees and solitary bees in late winter; flowers on warm late-winter days when few other pollen sources exist",
+  "deer": "Deer-resistant; rarely browsed — toxicity deters most wildlife grazers",
+  "toxic": "ALL PARTS HIGHLY TOXIC — contains cardiac glycosides of the bufadienolide group; potentially fatal if eaten. Do not eat any part. Keep away from children, pets, and livestock.",
+  "origin": "Southern Europe — France east to the Balkans (Bulgaria, former Yugoslavia, Italy)",
+  "habitat": "Moist deciduous woodland on calcareous (alkaline limestone) soils",
+  "winter": true,
+  "verified": "2026-06-06",
+  "care": {
+    "hardiness": "USDA zones 3a–7b — cold-hardy and reliably perennial throughout the Front Range. Established colonies in Boulder's zone 5b–6a climate require no winter protection.[1][2]",
+    "planting": "Plant dry tubers in late summer to early fall (August–September), before the ground freezes. Eranthis tubers are notoriously shriveled when sold and establish poorly if planted dry — soak them in water for 24–48 hours before planting, or lay them in moist sand or peat moss for a few days to rehydrate.[2] Set tubers 2–3 in. deep and 3 in. apart. Choose a spot under deciduous trees or in a lightly shaded border where soil stays slightly moist in late winter and early spring; this matches the plant's woodland-edge origin on calcareous European hillsides. Boulder's alkaline clay is actually well-suited to this lime-loving plant — amend planting pockets with compost or leaf mould to improve organic content and moisture retention. Avoid waterlogged ground in winter, which rots tubers. In containers, use a humus-rich mix in a deep pot; overwinter in an unheated garage or cold frame and allow the pot to experience winter chill for good bloom.[1][2]",
+    "sun": "Full sun to part shade. Early in the season (Jan–Mar) most deciduous trees are leafless, giving full sun when winter aconite flowers — this is the ideal situation. Part shade under trees is fine through the brief growing season; the plant goes dormant before heavy summer shade affects it. Avoid dense evergreen shade where frost lingers and the soil stays cold.[1]",
+    "soil": "Humus-rich, well-drained but moisture-retentive soil; alkaline or neutral pH preferred — this plant is native to calcareous woodland, so Boulder's alkaline clay, amended with compost, is ideal. Avoid heavy, waterlogged clay without amendment. Work in leaf mould or compost at planting to enrich soil and buffer drought during spring active growth. A fall topdress of leaf mould benefits established colonies.[1][2]",
+    "water": "Low–moderate during the growing season (Jan–May): soil should stay lightly moist while the plant is in growth. On the Front Range, late-winter snowmelt and spring rain generally suffice; water if late winter is unusually dry. After foliage yellows in May, irrigation is not needed — summer drought is tolerated and mimics the plant's natural summer-dormant habitat. Do not irrigate in summer.[1]",
+    "spacing": "Space tubers 3 in. apart. Colonies build gradually through offsets and — especially — self-sowing; plant generously at the start (clusters of 20–30 per pocket) for faster impact, as establishment from dry tubers is often slow in the first year or two.[1][2]",
+    "propagation": "By division: dig tuber clumps after the blooming season ends (April) and before dormancy; gently separate clumps and replant at the correct depth immediately. By seed: seed sets prolifically and is the primary colonization mechanism; allow capsules to ripen and scatter naturally (April–May) and the colony will spread. Sow fresh seed in late spring directly in a cold frame or a prepared garden spot; it requires winter chilling to germinate the following late winter. Seed viability drops with storage — sow fresh or refrigerate over summer for fall sowing. The most successful establishment comes from planting in a spot where the colony can self-seed undisturbed.[1][2]",
+    "depth": "Plant tubers 2–3 in. deep; in lighter soils or very cold sites, 3 in. is safer against freeze-thaw heaving. Seed sown on the soil surface or at 0.1 in. depth in fall (exposed to winter) germinates the following late winter.[1]",
+    "bloom": "Late January through early March on the Boulder Front Range — winter aconite is among the first flowers of the year, often blooming before snowdrops and frequently through snow. Flowers open only in sunshine (closing in cloud), so blooms are most visible on sunny late-winter days. In a protected south-facing microclimate, flowers can appear as early as January.[1][2]",
+    "maintenance": "Minimal once a colony establishes. Allow foliage to die back naturally (by late May) — do not cut early, as leaves replenish the tubers. Topdress with leaf mould or compost in fall. The main task is allowing self-seeding by leaving ripe capsules in place; sweep or rake away any debris that covers the soil surface and would block seedling emergence. Divide established clumps every 5–7 years after bloom if crowding reduces flowering.[1][2]",
+    "selfsow": "Self-sows prolifically — seed dispersal by ants (myrmecochory) is the primary colonization mechanism, and a well-established colony will seed itself across several square feet over a decade. In ideal conditions (moist humus-rich soil, dappled shade, undisturbed ground), winter aconite naturalizes freely. Seedlings germinate in late winter as tiny single-ruffed plantlets and are easily identified. They take 2–3 years to reach blooming size.[1][2]",
+    "troubles": "The biggest challenge is getting dry shriveled tubers to establish — the solution is to always pre-soak before planting and to prefer divisions from established clumps over dried stock. Tuber rot from waterlogged winter soil is the other common failure; amend heavy clay and avoid low spots. Once a colony establishes, problems are rare. Toxicity deters most grazers, so pest pressure is low. Handle all plant parts with care and wash hands after contact.[1]"
+  },
+  "edible": {
+    "level": "toxic",
+    "food": false,
+    "summary": "Winter aconite is highly toxic — all parts contain cardiac glycosides of the bufadienolide group; potentially fatal if eaten. Do not eat any part.[1]",
+    "caution": "All parts of Eranthis hyemalis are highly toxic, with the tubers being especially dangerous. The plant contains cardiac glycosides of the bufadienolide group — the same class of compounds found in bufotoxin (toad venom). NC State Extension rates the toxicity HIGH and notes it 'may be fatal if eaten.' Symptoms of ingestion include stomach pain, nausea, vomiting, diarrhea, disturbed vision, shortness of breath, irregular pulse, bradycardia, coma, and potential cardiac arrest or sudden death. The small tubers can be mistaken for edible tubers by foragers. Because the plant flowers so early (often through snow), curious children may be attracted to it before adults are aware it is in the garden. Keep all parts of the plant strictly away from children, dogs, cats, horses, and livestock. Wear gloves when dividing or replanting. If ingestion is suspected, call Poison Control (1-800-222-1222) or ASPCA Animal Poison Control (888-426-4435) immediately — this is a medical emergency.[1]"
+  },
+  "references": [
+    {
+      "name": "NC State Extension Gardener Plant Toolbox — Eranthis hyemalis (Winter Aconite; cardiac glycosides, HIGH toxicity)",
+      "url": "https://plants.ces.ncsu.edu/plants/eranthis-hyemalis/"
+    },
+    {
+      "name": "Wisconsin Horticulture Extension — Winter Aconite (Eranthis hyemalis)",
+      "url": "https://hort.extension.wisc.edu/articles/winter-aconite-eranthis-hyemalis/"
+    }
+  ],
+  "fact_src": {
+    "size": [1],
+    "sun": [1],
+    "water": [1, 2],
+    "spread": [1, 2],
+    "seasons": [1],
+    "wildlife": [1],
+    "deer": [1],
+    "toxic": [1],
+    "origin": [1],
+    "habitat": [1]
+  },
+  "shots": []
+}

@@ -1,0 +1,68 @@
+{
+  "common": "Dwarf iris",
+  "botanical": "Iris reticulata",
+  "type": "Forb",
+  "lifecycle": "Perennial",
+  "native": "Non-native",
+  "bloom_season": "Spring",
+  "blurb": "Jewel-blue dwarf bulb iris that flowers at snowmelt, weeks before anything else — tiny but brilliant.",
+  "size": "4–6 in × 4 in",
+  "sun": "Full sun",
+  "water": "Low; dry summer baking preferred",
+  "spread": "Clumping; multiplies slowly by bulblets; does not spread aggressively",
+  "seasons": "Jewel-toned violet-blue to purple flowers in early March (sometimes late Feb in a warm spell); grassy strap-like leaves emerge with and after blooms, elongating to 12 in before yellowing; fully dormant and invisible by midsummer; bulbs sit bone-dry underground through Colorado's hot summer — this is what they need",
+  "wildlife": "Very early bee forage — one of the first pollen and nectar sources of the year for queen bumblebees and solitary mining bees emerging on warm late-winter days",
+  "deer": "Deer- and rabbit-resistant; toxic foliage and bulbs are generally avoided",
+  "toxic": "Toxic to people, cats, dogs, and horses — contains pentacyclic terpenoids (zeorin, missourin, missouriensin), irisin, iridin, and irisine; highest concentration in the bulbs (rhizomes); causes nausea, vomiting, drooling, diarrhea, and skin irritation on contact. Do not eat any part.",
+  "winter": true,
+  "verified": "2026-06-06",
+  "origin": "Caucasus, N. & W. Iran, E. Turkey, and N. Iraq",
+  "habitat": "Rocky mountain slopes with hot, dry summers and cold winters",
+  "care": {
+    "hardiness": "USDA zones 5a–9b — reliably hardy on the Front Range (Boulder ~5b–6a) with no special protection once bulbs are well-drained. Cold winters are not the risk; wet, poorly drained soil in winter is.[1]",
+    "planting": "Plant bulbs in fall (Sep–Oct), 4–5 in deep (roughly three times the bulb's diameter) in a sunny, sharply drained spot. Space bulbs 3–4 in apart for a natural-looking drift; planting in groups of 10–20 gives the most visual impact for such a small flower. In containers, use a gritty, fast-draining potting mix in a terracotta pot with drainage holes; overwinter containers in an unheated but frost-protected space if drainage cannot be guaranteed, or sink the pot to its rim in the ground. Boulder's alkaline clay-loam can work if drainage is excellent; on heavy soils, plant in a raised bed or mix coarse grit into the top 6 in.[1]",
+    "sun": "Full sun is essential — 6+ hours of direct sun per day. The Front Range's intense, high-altitude sun and low humidity match this iris's native environment perfectly. Partial shade reduces flowering and encourages the foliage to sprawl.[1]",
+    "soil": "Sharply drained, lean to moderately fertile soil; tolerates alkaline conditions well. Bulbs rot in waterlogged or constantly moist ground. Amend heavy clay with coarse grit or pea gravel before planting. A top-dressing of fine gravel around the emerging foliage helps keep the neck of the bulb dry and reduces splash-borne disease (see ink-spot below). Do not enrich the soil heavily — fertile, moist soil encourages bulbs to split into many tiny, non-flowering 'grass' bulblets rather than maintaining flowering size.[1]",
+    "water": "Low. Water bulbs at planting in fall, then rely on winter snowmelt and early spring rains for the growth period (Mar–May). After the foliage yellows and the plant goes dormant (June), withhold all supplemental water — the hot, dry summer baking Colorado naturally provides is exactly what these bulbs need. Excess summer moisture is the primary cause of rot and failure to reflower.[1]",
+    "spacing": "3–4 in apart within a clump; plant several bulbs close together for a colony effect. Because of their small size, individual bulbs spaced too far apart are lost in the landscape.[1]",
+    "sow": "Iris reticulata is not reliably grown from seed in the garden; division of established bulblet clusters is the standard method of increase. Seed requires several years to reach flowering size and is rarely set in garden conditions.[1]",
+    "stratify": "Not applicable for standard garden propagation by bulb division.",
+    "depth": "Plant bulbs 4–5 in deep (tip of bulb at 4–5 in below soil surface). Shallow planting leads to rapid splitting into non-flowering bulblets; adequate depth encourages bulbs to hold together and reflower.[1]",
+    "propagation": "By division of bulblets: after the foliage has fully yellowed (late May–June), lift clumps carefully, separate the daughter bulblets from the main bulb, allow them to dry in a cool, airy spot for a week, and replant at full depth in fall. Large, plump bulbs reflower well; small bulblets may take 1–2 years to reach flowering size. Replant immediately in fall rather than storing over summer, which risks desiccation. Do not try to divide while the plant is in active growth.[1]",
+    "bloom": "Late February to mid-March on the Front Range, depending on the year and microclimate — this is one of the earliest garden flowers, sometimes pushing up through snow or frozen ground. A warm south-facing wall or raised bed can bring bloom on a week or two earlier. Flowers are fragrant (faintly violet-scented) and fleeting — lasting 1–2 weeks.[1]",
+    "feeding": "Little to none. A light application of a low-nitrogen bulb fertilizer at planting time (incorporated into the bottom of the planting hole) is optional and sufficient for the life of the bulbs. Avoid high-nitrogen fertilizers, which encourage lush foliage at the expense of bloom and flowering-size bulb maintenance.[1]",
+    "maintenance": "Let the foliage die back naturally after blooming — do not cut or braid it; the leaves are recharging the bulb for next year's flower. Once the leaves are fully yellow and collapsed (usually by late May–June), they can be tidied away. Avoid planting where summer irrigation will wet the dormant bulbs. Watch for ink-spot disease (dark blotches on petals and leaves, caused by the fungus *Mycocentrospora acerina*): remove and destroy affected plant parts immediately; in persistently affected spots, lift bulbs, discard diseased ones, and replant in a fresh site with improved drainage. Slugs may damage emerging foliage in wet springs; use iron-phosphate bait if needed.[1]",
+    "selfsow": "Does not self-sow in normal garden conditions. Increase is by bulblet division only (see Propagation).",
+    "troubles": "Ink-spot disease (*Mycocentrospora acerina*): dark necrotic spots on flowers and leaves, spreading in wet conditions; no chemical cure — remove affected material and improve drainage. Bulb rot from summer moisture or waterlogged winter soil is the most common cause of plants failing to re-emerge. Bulbs splitting into many tiny, non-flowering 'grass' bulblets happens in overly rich or moist soil — keep the soil lean and dry in summer. Slugs may eat young foliage in damp springs.[1]",
+    "companions": "Plant among low-growing spring companions that go dormant or fill in neatly: snowdrops (*Galanthus*), winter aconite (*Eranthis*), and small species tulips make natural companions that bloom in sequence. Low sedums or creeping thyme fill the gap after dormancy without competing. Avoid planting where summer-watered annuals will irrigate the dormant bulbs.[1]"
+  },
+  "fact_src": {
+    "size": [1],
+    "sun": [1],
+    "water": [1],
+    "spread": [1],
+    "seasons": [1],
+    "wildlife": [1],
+    "deer": [1, 2],
+    "toxic": [1, 2],
+    "origin": [1],
+    "habitat": [1]
+  },
+  "edible": {
+    "level": "toxic",
+    "food": false,
+    "summary": "Dwarf iris is toxic to people, cats, dogs, and horses — do not eat any part.[1][2]",
+    "caution": "All parts of *Iris reticulata* and iris species generally are toxic. The primary toxic compounds are pentacyclic terpenoids — specifically zeorin, missourin, and missouriensin — along with the glycosides irisin, iridin, and irisine. Highest concentrations occur in the bulbs (rhizomes). Ingestion in people causes nausea, vomiting, abdominal pain, and diarrhea; in dogs and cats it also causes salivation, drooling, and lethargy; horses are similarly affected. Contact with the sap causes skin and eye irritation. NC State Extension rates the toxicity severity as low (meaning toxic only in significant quantities), but the ASPCA lists iris as toxic to dogs, cats, and horses regardless of amount — treat any ingestion as a concern and contact ASPCA Poison Control (888) 426-4435. Wear gloves when handling bulbs.[1][2]"
+  },
+  "references": [
+    {
+      "name": "NC State Extension Gardener Plant Toolbox — Iris reticulata",
+      "url": "https://plants.ces.ncsu.edu/plants/iris-reticulata/"
+    },
+    {
+      "name": "ASPCA Animal Poison Control — Iris (Iris species)",
+      "url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/iris"
+    }
+  ],
+  "shots": []
+}

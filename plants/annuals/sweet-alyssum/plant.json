@@ -1,0 +1,65 @@
+{
+  "common": "Sweet alyssum",
+  "botanical": "Lobularia maritima",
+  "type": "Forb",
+  "lifecycle": "Annual",
+  "native": "Non-native",
+  "bloom_season": "Spring",
+  "blurb": "Low honey-scented carpet of tiny white-to-purple flowers from spring to frost — a magnet for bees and hoverflies.",
+  "size": "3–10 in tall × 6–12 in wide",
+  "sun": "Full sun to part shade",
+  "water": "Low–moderate; water in heat, otherwise tough",
+  "spread": "Mat-forming annual; self-sows readily",
+  "seasons": "Dense mounds of tiny four-petaled flowers spring through frost; white varieties most fragrant; blooms heaviest in cool weather, pauses in peak summer heat",
+  "wildlife": "Exceptional beneficial-insect plant — attracts honey bees, native bees, hoverflies, parasitic wasps, and predatory beetles; a classic companion plant for drawing beneficial insects into the garden",
+  "deer": "Generally ignored by deer; low, mat-forming habit makes it an unappealing target",
+  "toxic": "Non-toxic to dogs, cats, and horses",
+  "winter": false,
+  "verified": "2026-06-06",
+  "origin": "Mediterranean basin and Macaronesia (Canary Islands, Azores)",
+  "habitat": "Coastal sands, sea cliffs, and rocky shores",
+  "care": {
+    "hardiness": "Sweet alyssum is a cool-season annual, technically hardy to USDA zone 5a in the ground but killed by hard frost when young; established plants can tolerate light frost once rooted. On the Front Range it behaves as a warm-season annual planted in mid-spring, blooms best in cool temperatures below about 75°F, slows or stalls in Boulder's intense July–August heat, then reblooms in September–October as temperatures drop again.[1][2]",
+    "planting": "In the ground, start seeds indoors 5–6 weeks before last frost (early April on the Front Range) or direct-sow after danger of heavy frost — the tiny seeds need light to germinate, so press them to the soil surface rather than burying them. Transplant carefully as alyssum resents root disturbance. In containers, it excels as a cascading filler; sow or transplant in mid-April through May. Pot up in well-drained potting mix, place in full sun or light afternoon shade (which extends bloom in Boulder's intense summer heat), and move the pot out of the weather on nights below 28°F in early spring. Containers dry out quickly; check daily in summer heat.[1][2]",
+    "sun": "Full sun produces the heaviest, most fragrant bloom. Part shade (2–4 hours of afternoon shade) extends bloom into the hottest weeks of summer on the Front Range by reducing heat stress — a useful trick in Boulder's intense high-altitude sun. Avoid deep shade, which reduces flowering to almost nothing.[1]",
+    "soil": "Any well-drained soil works; clay, loam, or sand are all acceptable as long as drainage is sharp. Alyssum is tolerant of alkaline soils, which suits Boulder's typical clay-loam. Rich soil is not needed and may reduce flowering; average to lean is fine.[1][2]",
+    "water": "Low to moderate. Keep the soil evenly moist through the first few weeks after planting, then water when the top inch dries. In containers in summer heat, daily watering may be needed. Avoid waterlogging — stem rot and downy mildew are triggered by consistently wet conditions. A brief wilt is recoverable; soggy roots are not.[1]",
+    "spacing": "Space plants 6–9 in apart in beds; they will knit together into a solid carpet of bloom. In containers, alyssum makes an excellent edge filler around taller plants — tuck a few transplants around the rim of the pot.[2]",
+    "sow": "Sow seeds on the soil surface (do not cover — seeds need light to germinate) from early April (indoors) through mid-May (direct outdoors). Germination takes 7–14 days at 55–65°F. Keep the seedbed evenly moist until emergence. Thin to 6–9 in spacing once seedlings are 1 in tall.[1][2]",
+    "bloom": "Blooms from spring into fall on the Front Range — often starting in May from a March indoor start and continuing until hard frost (October). Bloom slows in the hottest weeks of July–August; shear plants back by one-third at that point to remove spent flowers and refresh growth, and they will rebound with the cooler temperatures of September.[1][2]",
+    "feeding": "Little to none. Like most compact annuals, sweet alyssum performs well in lean to average soil and does not need heavy feeding. If plants look pale and growth stalls midseason, a single application of half-strength balanced fertilizer will help.[2]",
+    "maintenance": "The mid-summer shearing is the key maintenance step: cut plants back by about one-third with shears when bloom slows in the heat — this removes old seedheads, tidies the plant, and triggers vigorous new growth that blooms well into fall. Deadheading individual spent clusters is not practical on this small-flowered plant; the mass shear is far more efficient.[1][2]",
+    "selfsow": "Sweet alyssum self-sows readily; dropped seeds overwinter and germinate the following spring. The seedlings are easy to pull or transplant, and the plant is not invasive on the Front Range. Successive generations may revert toward white flowers as coloured cultivars are crosses.[2]",
+    "troubles": "Downy mildew and stem rot can be problems in wet, poorly drained soils or during prolonged cool, wet spring weather. Good drainage and airflow prevent both. Aphids and spider mites occasionally attack plants stressed by drought or heat; hose off with water. The plant's main 'problem' on the Front Range is mid-summer bloom pause from heat — the mid-season shear solves this.[1][2]",
+    "companions": "Classic companion plant in vegetable and flower gardens because its flowers attract hoverflies and parasitic wasps that prey on aphids, whiteflies, and caterpillars. Plant it as an edge around brassicas (broccoli, cabbage), tomatoes, and beans, or let it spill from pots set near vulnerable crops.[2]"
+  },
+  "edible": {
+    "level": "caution",
+    "food": false,
+    "summary": "Sweet alyssum is non-toxic (confirmed by NC State Extension), and as a member of the mustard family (Brassicaceae) its young leaves and flowers have occasionally been noted as edible with a peppery bite — but no university extension edible-flower guide reviewed (CSU, UMN) lists it as a culinary plant, and coverage is too thin to recommend it as food.[1][2]",
+    "caution": "Sweet alyssum is classified as non-toxic to dogs, cats, and horses by NC State Extension, and no known toxicity to humans has been reported. However, no major university extension edible-flower resource — including CSU Extension's Colorado edible-flowers guide and the University of Minnesota's edible-flowers guide — lists it as a culinary plant. The plant is a Brassicaceae member and its peppery character is documented, but authoritative confirmation of safe culinary use is absent from the sources consulted. Do not consume sweet alyssum as a food plant until better-sourced edibility guidance is available. Grow it for its exceptional pollinator value; enjoy its honey-almond fragrance without eating it.[1][2]"
+  },
+  "references": [
+    {
+      "name": "NC State Extension Gardener Plant Toolbox — Lobularia maritima",
+      "url": "https://plants.ces.ncsu.edu/plants/lobularia-maritima/"
+    },
+    {
+      "name": "University of Minnesota Extension — Edible Flowers",
+      "url": "https://extension.umn.edu/flowers/edible-flowers"
+    }
+  ],
+  "fact_src": {
+    "size": [1],
+    "sun": [1],
+    "water": [1],
+    "spread": [1],
+    "seasons": [1, 2],
+    "wildlife": [1],
+    "deer": [1],
+    "toxic": [1],
+    "origin": [1],
+    "habitat": [1]
+  },
+  "shots": []
+}

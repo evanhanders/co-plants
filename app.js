@@ -135,6 +135,7 @@ const names = members.map(function(m){ return m.common; }).join(' · ');
 /* a single native badge only when every member agrees; mixed collections show none */
 const nat = members.every(isNative) ? natBadge(lead,'nat') : '';
 FAM[id] = members; // stash for the lazy carousel build on expand
+let dots=''; for(var d=0;d<n;d++){ dots += '<button type="button" class="fc-dot'+(d===0?' on':'')+'" data-i="'+d+'" aria-label="Variety '+(d+1)+'"></button>'; }
 return '<article class="card family'+(open?' open':'')+'" data-col="'+id+'" data-n="'+n+'">'+
 '<div class="plate">'+plateHTML(lead)+'<span class="famcount">'+n+' varieties</span>'+nat+'</div>'+
 '<div class="body"><h3 class="name">'+col.name+'</h3>'+
@@ -143,23 +144,21 @@ return '<article class="card family'+(open?' open':'')+'" data-col="'+id+'" data
 '<button type="button" class="fam-toggle" data-col="'+id+'" aria-expanded="false">Show '+n+' varieties <span class="fchev">▾</span></button>'+
 '</div>'+
 '<div class="fam-open"><div class="fam-head"><h3 class="name">'+col.name+'</h3>'+
-'<span class="fc-count" aria-live="polite"></span>'+
-'<button type="button" class="fam-toggle fam-hide" data-col="'+id+'" aria-expanded="true">Hide <span class="fchev">▾</span></button>'+
+'<div class="fc-nav"><span class="fc-count" aria-live="polite"></span><div class="fc-dots">'+dots+'</div></div>'+
+'<button type="button" class="fam-toggle fam-hide" data-col="'+id+'" aria-expanded="true" aria-label="Hide varieties">Hide</button>'+
 '</div><div class="fam-carousel"></div></div></article>';
 }
 /* the carousel markup: a track of [clone(last), …members…, clone(first)] for seamless looping,
-   one card per view, with ‹ › arrows and a dot per member. */
+   one card per view, with ‹ › arrows. The dots + counter live in the family header (fam-head). */
 function carouselHTML(members){
 const cards = members.map(cardHTML);
 const slide = function(h){ return '<div class="fc-slide">'+h+'</div>'; };
 let track = slide(cards[cards.length-1]); // lead-in clone of the last
 cards.forEach(function(h){ track += slide(h); });
 track += slide(cards[0]);                 // lead-out clone of the first
-let dots=''; for(var i=0;i<members.length;i++){ dots += '<button type="button" class="fc-dot'+(i===0?' on':'')+'" data-i="'+i+'" aria-label="Variety '+(i+1)+'"></button>'; }
 return '<div class="fc-viewport"><div class="fc-track">'+track+'</div>'+
 '<button type="button" class="fc-arr fc-prev" aria-label="Previous variety">‹</button>'+
-'<button type="button" class="fc-arr fc-next" aria-label="Next variety">›</button></div>'+
-'<div class="fc-dots">'+dots+'</div>';
+'<button type="button" class="fc-arr fc-next" aria-label="Next variety">›</button></div>';
 }
 /* build + wire a family's carousel on first expand (lazy: nothing renders until you ask) */
 function buildCarousel(fam){

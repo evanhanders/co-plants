@@ -81,6 +81,9 @@
   "edible": {
     "level": "edible",
     "food": true,
+    "kinds": [
+      "fruit"
+    ],
     "card": "Black berries, cooked (juice, jelly, syrup)",
     "summary": "The glossy black berries are edible and famously high in antioxidants — but far too astringent to enjoy raw, so they are cooked, juiced, or frozen first.[1][3]",
     "parts": "The ripe blackish-purple berries (technically small pomes) are the edible part.[1] They carry more antioxidants — anthocyanins and flavonoids — than almost any other temperate fruit, roughly three times that of blueberries, which is the whole point of growing them.[3] The leaves, twigs, and bark are not used as food.",

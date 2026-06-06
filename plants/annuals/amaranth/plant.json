@@ -44,6 +44,10 @@
   "edible": {
     "level": "edible",
     "food": true,
+    "kinds": [
+      "seeds",
+      "leaves"
+    ],
     "card": "Grain & young leaves, cooked",
     "summary": "Both the grain (seed) and the young leaves are edible — Amaranthus caudatus (kiwicha) is an ancient Andean pseudocereal — but the leaves should be cooked, not eaten raw in quantity.[2][4]",
     "parts": "The small seeds are a gluten-free pseudocereal high in protein and lysine; they are ground into flour, popped like tiny popcorn, or cooked as a cereal, and in Mexico popped seeds are bound with honey into the sweet alegría.[4] The young, tender leaves are eaten as a cooked leafy green, mild and spinach-like.[2]",

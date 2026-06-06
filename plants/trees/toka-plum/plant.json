@@ -41,6 +41,9 @@
   "edible": {
     "level": "caution",
     "food": true,
+    "kinds": [
+      "fruit"
+    ],
     "card": "Spicy-sweet plums, fresh or preserves",
     "summary": "The ripe reddish-bronze plum flesh is intensely sweet ('bubblegum plum') and excellent fresh or in preserves — but the pits, leaves, and twigs are cyanogenic and must never be eaten.[1][6]",
     "parts": "Only the ripe fruit flesh is food. Toka's reddish-bronze plums have apricot-colored flesh that is famously sweet and spicy — the reason it is nicknamed the 'bubblegum plum.'[1] The seed (pit) inside each plum, along with the leaves and twigs, is not food.[5][6]",

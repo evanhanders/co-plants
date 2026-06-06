@@ -80,6 +80,10 @@
   "edible": {
     "level": "caution",
     "food": true,
+    "kinds": [
+      "leaves",
+      "flowers"
+    ],
     "card": "Leaves & flowers (bitter; use sparingly)",
     "summary": "Yarrow leaves and flowers are a documented bitter culinary/tea herb used in small amounts, but they contain thujone and other compounds — use sparingly, avoid in pregnancy, and keep it away from pets, to whom it is toxic.[1][3]",
     "parts": "The leaves and flowers are the edible parts. They are bitter and are used in small quantities — fresh young leaves in salads, and leaves or flowers brewed as a tea or used to flavor liquors and bitters. This is a flavoring/herbal use, not a bulk vegetable; the bitterness limits the amount used.[1]",

@@ -72,6 +72,9 @@
   "edible": {
     "level": "caution",
     "food": true,
+    "kinds": [
+      "flowers"
+    ],
     "card": "Flowers in tiny amounts (seeds & roots toxic)",
     "summary": "Columbine flowers were historically eaten in tiny amounts as a sweet, nectar-flavored garnish, but the mature seeds and roots contain cyanogenic glycosides and are genuinely poisonous — this is not a casual edible.[2]",
     "parts": "Only the flowers have any food history: several Indigenous North American peoples sucked nectar from columbine blooms or ate small numbers of flowers with spring greens, and the petals were once eaten in small quantities as a sweet, colorful salad garnish. The sweetness comes from the nectar in the spurs. The seeds and roots are not food.[2]",

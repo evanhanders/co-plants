@@ -165,6 +165,9 @@
   "edible": {
     "level": "edible",
     "food": true,
+    "kinds": [
+      "fruit"
+    ],
     "card": "Crisp, sweet fruit — fresh, baked, or pressed",
     "summary": "The fruit is one of the best fresh-eating apples there is — explosively crisp and honey-sweet — and is also baked, sauced, dried, or pressed to cider; only the seeds carry a trace toxin.[3][5]",
     "parts": "The fruit (flesh and skin) is the edible part, eaten fresh or cooked.[4] 'Honeycrisp' is prized above all as a fresh dessert apple for its loud crunch and balanced sweet-tart, honeyed flavor, and it also bakes, sauces, dries, and presses to juice and cider well; it holds its crispness in cold storage for months.[3]",

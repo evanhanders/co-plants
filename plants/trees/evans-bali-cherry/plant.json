@@ -113,6 +113,9 @@
   "edible": {
     "level": "caution",
     "food": true,
+    "kinds": [
+      "fruit"
+    ],
     "card": "Tart cherries — pies, jam, juice, fresh",
     "summary": "The ripe cherry flesh is edible — 'Evans' is sweet enough to eat fresh, and excellent for pies, jam, and juice — but the pit inside each cherry, plus the leaves and twigs, are cyanogenic and must not be eaten.[4][3]",
     "parts": "Only the ripe fruit flesh is food. 'Evans'/'Bali' tart cherries are dark red and milder than most sour cherries, used for pies, preserves, jam, and juice and palatable fresh off the tree.[4] The stone (pit) inside each cherry, the leaves, and the twigs are not food and should never be eaten.[3]",

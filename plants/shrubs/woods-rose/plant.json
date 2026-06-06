@@ -73,6 +73,10 @@
   "edible": {
     "level": "caution",
     "food": true,
+    "kinds": [
+      "fruit",
+      "flowers"
+    ],
     "card": "Hips & petals (clean the hips' seed hairs)",
     "summary": "The bright orange-red hips and the petals are edible and a well-documented native food, but the irritant seed hairs inside the hips must be removed before eating.[2][3]",
     "parts": "Two parts are eaten: the fleshy outer rind of the hips (the ripe fruit) and the fragrant petals. Wood's-rose hips are a traditional Plains and Intermountain food — eaten fresh, dried, or cooked into jelly, syrup, and tea — and are rich in vitamin C; the petals make a fragrant garnish, tea, or flavoring. The seeds and the hairs surrounding them inside the hip are not eaten.[2][3]",

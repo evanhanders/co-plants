@@ -179,6 +179,9 @@
   "edible": {
     "level": "edible",
     "food": true,
+    "kinds": [
+      "fruit"
+    ],
     "card": "Crisp, spicy-tart keeper fruit — fresh, baked, or cider",
     "summary": "The fruit is a top-class eating and cooking apple — spicy-tart off the tree, mellowing sweeter in storage — eaten fresh, baked, sauced, or pressed to cider; only the seeds carry a trace toxin.[5][6]",
     "parts": "The fruit (flesh and skin) is the edible part, fresh or cooked.[4] 'GoldRush' is a complex, spicy-tart dessert and culinary apple with high sugar and acid; it is celebrated as a keeper whose flavor deepens and sweetens through months of cold storage, and it bakes, sauces, dries, and makes excellent cider.[5]",

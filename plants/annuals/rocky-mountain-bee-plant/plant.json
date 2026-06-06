@@ -72,6 +72,11 @@
   "edible": {
     "level": "edible",
     "food": true,
+    "kinds": [
+      "leaves",
+      "stems",
+      "seeds"
+    ],
     "card": "Young greens & seeds, cooked",
     "summary": "The young plants, leaves, and seeds are edible and were a well-documented Native American food, but they need thorough boiling to be palatable.[3][4]",
     "parts": "The young, tender shoots and leaves are eaten as a cooked green (a potherb rich in vitamin A and calcium), and the seeds are edible — traditionally ground into meal for mush, gruel, or bread. This is an extensively documented food plant of Southwestern and Plains tribes: the Hopi boiled the young plants and ate them like spinach, while the Acoma, Isleta, and Jemez cooked the greens or ground the seeds.[3][4]",

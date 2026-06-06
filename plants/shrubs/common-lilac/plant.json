@@ -76,6 +76,9 @@
   "edible": {
     "level": "edible",
     "food": true,
+    "kinds": [
+      "flowers"
+    ],
     "card": "Flowers — a fragrant garnish",
     "summary": "Lilac flowers are edible and used as a fragrant garnish or flavoring, but the rest of the plant is not eaten.[3]",
     "parts": "Only the flowers are used as food. The small lilac florets are edible and can be scattered over salads and desserts as a fragrant garnish, or steeped to flavor syrups, sugars, soft cheeses, ice cream, and pastries. Flavor varies by cultivar from nearly flavorless to a green, slightly bitter note to a true perfumed-lilac taste.[3]",

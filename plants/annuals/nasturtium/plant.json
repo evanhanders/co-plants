@@ -46,6 +46,11 @@
   "edible": {
     "level": "edible",
     "food": true,
+    "kinds": [
+      "leaves",
+      "flowers",
+      "seeds"
+    ],
     "card": "Peppery leaves, flowers & seed pods",
     "summary": "A genuinely edible flower: the leaves, flowers, flower buds, and immature green seed pods are all edible raw, with a peppery, watercress-like bite.[1][2]",
     "parts": "The young leaves, the open flowers, the flower buds, and the immature (green, still-soft) seed pods are all edible. Younger leaves are the most tender and flavorful; older leaves turn bitter, and the flowers are milder than the leaves.[1][2][3]",

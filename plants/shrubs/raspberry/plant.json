@@ -78,6 +78,10 @@
   "edible": {
     "level": "edible",
     "food": true,
+    "kinds": [
+      "fruit",
+      "leaves"
+    ],
     "card": "Ripe berries (fresh, jam, pies)",
     "summary": "The ripe red berries are a classic dessert fruit eaten fresh or cooked, and the leaves make a traditional tea — but the fruit is the part to grow this for.[1][3]",
     "parts": "The ripe red aggregate berries are the food crop — sweet, fragrant, and eaten fresh out of hand or cooked into pies, preserves, jams, syrups, and wine. The dried leaves are also brewed as a mild herbal tea (the classic 'raspberry leaf tea'). No other part is used as food.[3]",

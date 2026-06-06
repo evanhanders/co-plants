@@ -79,6 +79,9 @@
   "edible": {
     "level": "edible",
     "food": true,
+    "kinds": [
+      "fruit"
+    ],
     "card": "Ripe red berries (fresh, jelly, juice)",
     "summary": "The translucent red berries are edible and excellent — tart fresh, superb cooked into jelly, syrup, and sauce; no part of the plant is poisonous.[1][2]",
     "parts": "The fruit is the part eaten: small, glossy, translucent red berries borne in pendant clusters (strigs), ripening in July. They are pleasantly tart fresh and famously good cooked, being naturally high in pectin so they set into bright jelly, jam, syrup, cordial, and sauce with ease. The leaves, stems, and roots are not used as food.[1][2]",

@@ -81,6 +81,9 @@
   "edible": {
     "level": "edible",
     "food": true,
+    "kinds": [
+      "fruit"
+    ],
     "card": "Ripe dessert berries (fresh, pies, jam)",
     "summary": "The large dark-red berries are edible and, in 'Hinnomäki Red', sweet enough to eat fresh off the bush — tart skin over sweet flesh — and equally good in pies and jam; no part is poisonous.[1][2]",
     "parts": "The fruit is the part eaten: large, dark-red, faintly striped berries with tart skin and sweet flesh, ripening in July. Picked dead-ripe they are a true dessert gooseberry for eating out of hand; picked a little firmer and tarter they are classic for pies, crumbles, jam, jelly, and sauce. The leaves and stems (which are thorny) are not used as food.[1][2]",

@@ -72,6 +72,9 @@
   "edible": {
     "level": "edible",
     "food": true,
+    "kinds": [
+      "fruit"
+    ],
     "card": "Ripe berries (fresh, jam, jelly, dried)",
     "summary": "The ripe berries — coloring amber-red to black — are a genuine wild edible, eaten fresh or cooked into jam, jelly, syrup, and pies; sweet, mild, and very unlike a European black currant.[1][2]",
     "parts": "The edible part is the ripe berry, which ripens unevenly through summer from amber-red and orange to a final bluish-black. The flavor is mild, sweet, and pleasant. Golden currant was an important food of Plains peoples, who ate the fruit fresh or dried it and mixed it into pemmican with dried buffalo or venison. The leaves and stems are not used as food.[1][2]",

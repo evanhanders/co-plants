@@ -76,6 +76,9 @@
   "edible": {
     "level": "edible",
     "food": true,
+    "kinds": [
+      "fruit"
+    ],
     "card": "Ripe fruit (tart — jam, syrup, jelly)",
     "summary": "The ripe red fruit is edible and long-used in European and Middle Eastern cuisine — tart and juicy when fully soft, best cooked into jelly, jam, syrup, or juice; the pit is not eaten.[1][2]",
     "parts": "The edible part is the ripe fruit flesh (mesocarp) of the olive-shaped drupe, which turns deep red and softens in mid-summer (August on the Front Range). The flavor is tart and pleasantly acidic — described as having a plum-like quality when fully ripe. Cornelian cherries have a very long history of use in Middle Eastern and European cooking: jams, jellies, syrups, pickles, liqueurs, and dried fruit are all traditional preparations. The large, hard pit (stone) inside each drupe is not eaten.[1][2]",

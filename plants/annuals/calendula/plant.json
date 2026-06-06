@@ -45,6 +45,9 @@
   "edible": {
     "level": "edible",
     "food": true,
+    "kinds": [
+      "flowers"
+    ],
     "card": "Petals (color, garnish)",
     "summary": "Calendula is the true edible 'pot marigold': the petals are a long-standing culinary ingredient, used fresh or dried for golden color and a mildly bitter, peppery flavor.[1][3]",
     "parts": "The flower petals (ray florets) are the edible part, pulled from the bitter central base. They add color and a slightly bitter, tangy, peppery note to salads, soups, custards, rice, cookies, herb butters, and vinegars, and dried petals are used as an inexpensive saffron-style coloring ('poor man's saffron'). The flowers and young leaves are edible but somewhat bitter; calendula is also a traditional herbal-tea and skin-salve plant.[1][3]",

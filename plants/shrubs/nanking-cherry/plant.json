@@ -82,6 +82,9 @@
   "edible": {
     "level": "caution",
     "food": true,
+    "kinds": [
+      "fruit"
+    ],
     "card": "Ripe cherry flesh (fresh, jam, jelly, pie)",
     "summary": "The ripe red cherries are edible and sweet-tart — good fresh and in jam, jelly, and pies — but the pits, leaves, and twigs are cyanogenic and must not be eaten.[1][2][5]",
     "parts": "The edible part is the ripe cherry flesh — bright red, about ½ in across, ranging from sweet to tart, ripening June–July. Use it fresh or cooked in jam, jelly, preserves, pies, and juice. Each fruit holds a single large pit (stone), which is NOT food: like other Prunus stones it is cyanogenic. The leaves, twigs, and bark are likewise not edible.[1][2]",

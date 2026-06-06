@@ -82,6 +82,10 @@
   "edible": {
     "level": "edible",
     "food": true,
+    "kinds": [
+      "fruit",
+      "flowers"
+    ],
     "card": "Hips & petals (only if unsprayed)",
     "summary": "The rose hips and petals are edible and a noted source of vitamin C — but on ornamental garden roses, eat them only if you know the plant has not been treated with systemic pesticides not labeled for food, and clean the irritating hairs from inside the hips.[4][5]",
     "parts": "Two parts are eaten: the **hips** (the red-orange fruit that ripens after the flowers fade) and the fresh **flower petals**. Rose hips are one of the best natural plant sources of vitamin C and are made into jelly, jam, syrup, and tea; the petals are eaten raw in salads or candied and are used to flavor and scent foods. These are well-documented foods across rose species.[1][4]",

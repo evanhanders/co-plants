@@ -46,6 +46,10 @@
   "edible": {
     "level": "edible",
     "food": true,
+    "kinds": [
+      "flowers",
+      "leaves"
+    ],
     "card": "Petals (garnish)",
     "summary": "French marigold petals are edible in small amounts as a colorful, mildly citrusy-to-bitter garnish; use the ray petals only and in moderation, not as a vegetable.[1][3]",
     "parts": "The flower petals (ray florets) are the edible part, used fresh as a confetti-like garnish on salads, rice, soups, and cakes and as a yellow food coloring; the leaves are used sparingly for flavoring. Pull the petals from the bitter green base before use. African/American marigold (Tagetes erecta) petals are edible too but markedly more bitter, and the strongly scented foliage of all marigolds is not a salad green.[1][3]",

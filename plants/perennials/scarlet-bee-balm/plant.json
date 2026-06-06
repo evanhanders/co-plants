@@ -81,6 +81,10 @@
   "edible": {
     "level": "edible",
     "food": true,
+    "kinds": [
+      "leaves",
+      "flowers"
+    ],
     "card": "Leaves & flowers — tea & seasoning",
     "summary": "The fragrant leaves and scarlet flowers are edible — the classic 'Oswego tea' and a citrusy mint-family seasoning and garnish.[2][3]",
     "parts": "The leaves and the red tubular flowers are the edible parts. Scarlet bee balm is the original 'Oswego tea,' brewed by the Oswego people and adopted by colonists; the leaves carry an oregano-to-citrus mint aroma and the flowers are sweet and showy. Native American records document Monarda didyma used as a beverage and food seasoning. Roots and woody stems are not eaten.[2][3]",

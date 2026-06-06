@@ -76,6 +76,9 @@
   "edible": {
     "level": "edible",
     "food": true,
+    "kinds": [
+      "fruit"
+    ],
     "card": "Tart orange berries, juiced/cooked",
     "summary": "The orange berries are edible, safe, and exceptionally high in vitamin C — but intensely acidic, so they are juiced or cooked rather than eaten raw; the real hazard is the shrub's vicious thorns at harvest.[1]",
     "parts": "The orange berries are the edible part — among the most vitamin-C-rich fruits in the temperate world, and loaded with other vitamins and antioxidants.[1] They ripen September–October and persist into winter. No part of the plant is poisonous; the leaves are sometimes brewed as tea, but the berry is the food crop.[1]",

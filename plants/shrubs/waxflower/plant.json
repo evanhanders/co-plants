@@ -54,5 +54,60 @@
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/171308129"
     }
-  ]
+  ],
+  "care": {
+    "hardiness": "A Front Range foothills native, very cold-hardy (USDA zones 3–8, to ~10,000 ft elevation), so Boulder's zone 5b–6a is well within its range.[1][2]",
+    "planting": "Plant in spring after the mid-May last frost or in early fall into rocky, sharply drained soil, ideally where it gets afternoon shade. Container plants dry quickly and are less root-hardy, so water them and shelter over winter.[1][2]",
+    "sun": "Part to dappled shade is best in hot, lower-elevation Front Range gardens (it grows wild in shaded canyons); it takes more sun at higher, cooler elevations.[1][2]",
+    "soil": "Wants rocky, gritty, well-drained soil and tolerates the alkaline clay of the Front Range; the key is excellent drainage.[1][2]",
+    "water": "Moderate to dry once established — a good xeric choice that needs only occasional water in our climate.[1][2]",
+    "spacing": "A rounded shrub 3–6 ft tall and 4–6 ft wide; space about 4–5 ft apart.[1][2]",
+    "propagation": "Propagates from softwood cuttings and from seed; it can be slow to establish but is long-lived once settled.[1]",
+    "bloom": "Clusters of small, waxy, intensely fragrant white flowers open in May and June; the heart-shaped leaves turn brilliant orange and pink in fall, and flaking reddish-brown bark gives winter interest.[1][2]",
+    "maintenance": "Low maintenance; prune lightly after flowering only to shape, and otherwise leave it alone — it needs little intervention.[1]",
+    "troubles": "Few pests or diseases in well-drained sites; the main risk is rot in soggy or poorly drained ground.[1][2]"
+  },
+  "references": [
+    {
+      "name": "Plant Select — Waxflower (Jamesia americana)",
+      "url": "https://plantselect.org/plant/jamesia-americana/"
+    },
+    {
+      "name": "Lady Bird Johnson Wildflower Center — Jamesia americana",
+      "url": "https://www.wildflower.org/plants/result.php?id_plant=JAAM"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      1,
+      2
+    ],
+    "sun": [
+      1,
+      2
+    ],
+    "water": [
+      1,
+      2
+    ],
+    "spread": [
+      1
+    ],
+    "seasons": [
+      1,
+      2
+    ],
+    "wildlife": [
+      1
+    ],
+    "deer": [
+      1
+    ]
+  },
+  "edible": {
+    "level": "inedible",
+    "food": false,
+    "summary": "An ornamental native shrub grown for its fragrant flowers and fall color, with no documented edible use.[1]",
+    "caution": "Waxflower has no known culinary use and isn't eaten; it's valued for its scented blooms, fall foliage, and pollinator value. No part is notably poisonous, but none should be eaten.[1]"
+  }
 }

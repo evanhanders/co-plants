@@ -53,5 +53,49 @@
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/321512500"
     }
-  ]
+  ],
+  "care": {
+    "hardiness": "Extremely cold-hardy (USDA zones 3–7), so Boulder's zone 5b–6a winters and high-altitude sun are no challenge for this circumboreal native.[1]",
+    "planting": "Plant in spring after the mid-May last frost or in early fall into well-drained soil; widely sold as container stock and easy to establish. Potted plants are less root-hardy, so water them and shelter over winter.[1]",
+    "sun": "Full sun to part shade; flowering is heaviest and the habit densest in full Front Range sun.[1]",
+    "soil": "Adaptable to average, well-drained soils including lean and alkaline ground; tolerates clay if drainage is decent.[1]",
+    "water": "Prefers evenly moist soil when young but is strongly drought tolerant once established — modest supplemental water keeps it blooming through our hot, dry summers.[1]",
+    "spacing": "A compact mound 2–4 ft tall and 3–5 ft wide; space about 3 ft apart for a low hedge or massing.[1]",
+    "propagation": "Propagates easily from softwood or semi-hardwood cuttings; species plants also grow from seed, and older clumps can be divided.[1]",
+    "bloom": "Buttercup-yellow (sometimes white or orange in cultivars) saucer-shaped flowers about 1.5 in across bloom heavily from June to September — one of the longest bloom seasons of any hardy shrub.[1]",
+    "maintenance": "Low maintenance; prune as needed in late winter and shear or cut back hard every few years to keep it from getting woody and open.[1]",
+    "troubles": "Few problems in our dry climate; mildew, fungal leaf spots, and spider mites can appear in humid or stressed conditions.[1]"
+  },
+  "references": [
+    {
+      "name": "Missouri Botanical Garden Plant Finder — Potentilla fruticosa (Dasiphora fruticosa)",
+      "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=c332"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      1
+    ],
+    "sun": [
+      1
+    ],
+    "water": [
+      1
+    ],
+    "spread": [
+      1
+    ],
+    "seasons": [
+      1
+    ],
+    "wildlife": [
+      1
+    ]
+  },
+  "edible": {
+    "level": "inedible",
+    "food": false,
+    "summary": "Grown as an ornamental shrub, not a food plant; it has a documented traditional leaf tea but no edible food use.[1]",
+    "caution": "Shrubby cinquefoil isn't eaten as food. Its dried leaves were sometimes brewed into a folk 'tea' (it's also called widdy or kuril tea), but that is a traditional infusion, not a documented food, and isn't a safety-vetted edible use here. No part is notably poisonous.[1]"
+  }
 }

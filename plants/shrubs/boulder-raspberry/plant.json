@@ -53,5 +53,62 @@
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/82766081"
     }
-  ]
+  ],
+  "care": {
+    "hardiness": "A Front Range native of the rocky foothills, fully hardy through Boulder's zone 5b–6a and well adapted to our high-altitude sun and cold.[1][2]",
+    "planting": "Plant in spring after the mid-May last frost or in early fall into well-drained ground; it transplants best as young container stock. Containers dry fast and their roots are less cold-hardy, so keep potted plants watered and shelter them over winter.[1][2]",
+    "sun": "Full sun to part shade; in the wild it grows on open rocky slopes and in light woodland edges of the foothills.[1][2]",
+    "soil": "Needs well-drained soil but tolerates a wide pH range from acid to neutral to the basic, alkaline clay common around Boulder.[2]",
+    "water": "Drought tolerant once established as a foothills native; give occasional deep water the first year, then little supplemental water in our semi-arid climate.[1][2]",
+    "propagation": "Grows from seed (cold-moist stratified) and, being a thornless bramble, also spreads and roots from suckers and tip layers, the easiest way to make new plants.[1][2]",
+    "bloom": "Large, bright-white five-petaled flowers up to ~2.5 in across appear in late spring on the previous year's canes, set off by maple-like lobed leaves on a thornless, arching shrub 4–5 ft tall (occasionally to ~9 ft).[1][2]",
+    "maintenance": "Low maintenance; thin or remove the oldest spent canes after fruiting to keep it open, much as you would any cane fruit.[1][2]",
+    "harvest": "Dark-red raspberry-like fruit ripens in summer, but despite the name 'deliciosus' it is typically dry, seedy, and bland — grow this shrub for its showy flowers and habit rather than a crop.[1][2]"
+  },
+  "references": [
+    {
+      "name": "USDA Forest Service — Delicious Raspberry (Rubus deliciosus), Plant of the Week",
+      "url": "https://www.fs.usda.gov/wildflowers/plant-of-the-week/rubus_deliciosus.shtml"
+    },
+    {
+      "name": "Lady Bird Johnson Wildflower Center — Rubus deliciosus",
+      "url": "https://www.wildflower.org/plants/result.php?id_plant=RUDE"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      1,
+      2
+    ],
+    "sun": [
+      1,
+      2
+    ],
+    "water": [
+      1,
+      2
+    ],
+    "spread": [
+      1,
+      2
+    ],
+    "seasons": [
+      1,
+      2
+    ],
+    "wildlife": [
+      2
+    ]
+  },
+  "edible": {
+    "level": "edible",
+    "food": true,
+    "kinds": [
+      "fruit"
+    ],
+    "card": "Edible fruit, but dry, seedy &amp; bland",
+    "summary": "The dark-red fruit is edible raw or cooked but — despite the name 'deliciosus' — is usually dry, seedy, and insipid with little flesh.[1][2]",
+    "parts": "Only the ripe red aggregate fruit is eaten; it can be taken raw or cooked, though most foragers find it disappointing.[1][2]",
+    "caution": "The fruit is harmless but typically dry and bland with lots of seed and little pulp, so it's not highly valued as food; quality varies plant to plant. Eat only fully ripe fruit.[1][2]"
+  }
 }

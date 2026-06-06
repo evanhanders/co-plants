@@ -55,5 +55,60 @@
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/238283659"
     }
-  ]
+  ],
+  "care": {
+    "hardiness": "A tough, long-lived prairie native of the Great Plains whose range runs north into the cold Canadian prairie, so it sails through Boulder winters (zone 5b–6a) with no protection.[2] The deep taproot makes it the most drought-tolerant of the gayfeathers and well-suited to our semi-arid ~15-inch climate.[1]",
+    "planting": "Set out container-grown plants in spring after the mid-May average last frost, or in early fall, while soil is workable; water in to establish, then taper off. Because of the deep taproot, plant small/young stock rather than large divisions, and site it permanently — it resents being moved. In pots it needs a gritty, fast-draining mix and protection from winter wet, which rots the corm-like rootstock.[1]",
+    "sun": "Full sun — it wants the open, unshaded exposure of its native shortgrass prairie, and our intense high-altitude sun is no problem.[1]",
+    "soil": "Lean, well-drained, sandy or gravelly, often calcareous soils; it is tolerant of the alkaline clay common around Boulder so long as drainage is sharp. Avoid rich, amended, or heavy wet ground, which rots the taproot.[1][2]",
+    "water": "Low; xeric once established. The long taproot makes it exceptionally drought-tolerant — give occasional deep soakings the first season, then little to no supplemental water.[1]",
+    "spacing": "Allow about 2 feet between plants in a border.[1]",
+    "propagation": "Easiest from seed; the deep taproot makes mature plants very hard to move, so divide only with care. Scarified seed can be sown outside in late fall, or cold-stratified ~3 months at ~40°F and sown the following spring. Established clumps can also be increased by dividing the corm-like rootstock in late fall to early spring, but expect transplant resentment from the taproot.[1]",
+    "sow": "Sow scarified seed outdoors in late fall to let winter provide stratification, or stratify ~3 months at 40°F and sow in spring.[1]",
+    "stratify": "Cold-moist stratify about 3 months (roughly 90 days) at ~40°F to break dormancy.[1]",
+    "bloom": "Blooms late summer into fall — roughly August through October — with rose-purple flower wands.[1][2]",
+    "maintenance": "Very low care once established; leave the seedheads for winter structure and birds, and avoid overwatering or fertilizing, which causes floppy growth and rot.[1]",
+    "troubles": "Root rot in wet, poorly drained, or over-irrigated soil is the main risk; otherwise largely pest- and disease-free.[1]"
+  },
+  "references": [
+    {
+      "name": "Lady Bird Johnson Wildflower Center — Liatris punctata",
+      "url": "https://www.wildflower.org/plants/result.php?id_plant=LIPU"
+    },
+    {
+      "name": "USDA NRCS Plant Guide — dotted gayfeather (Liatris punctata)",
+      "url": "https://plants.usda.gov/DocumentLibrary/plantguide/pdf/pg_lipu.pdf"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      1,
+      2
+    ],
+    "sun": [
+      1
+    ],
+    "water": [
+      1
+    ],
+    "spread": [
+      1
+    ],
+    "seasons": [
+      1,
+      2
+    ],
+    "wildlife": [
+      1
+    ],
+    "deer": [
+      2
+    ]
+  },
+  "edible": {
+    "level": "inedible",
+    "food": false,
+    "summary": "No documented culinary use; grown as an ornamental and pollinator plant, not for eating.[1]",
+    "caution": "Liatris punctata has only documented medicinal/traditional uses, not food uses, so it is treated as inedible here — don't eat any part. It is not notably poisonous, but absence of food documentation is not a green light.[1]"
+  }
 }

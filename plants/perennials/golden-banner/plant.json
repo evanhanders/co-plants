@@ -54,5 +54,66 @@
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/56480702"
     }
-  ]
+  ],
+  "care": {
+    "hardiness": "A tough Rocky Mountain native of the foothills, mountains, and plains, fully hardy through Boulder's zone 5b–6a winters; it grows wild at 6,000–9,500 ft in the region.[1][2]",
+    "planting": "Plant in spring after the mid-May last frost or in early fall, in well-drained soil. Site it where it can spread, as it runs underground; in containers use a gritty mix and keep it lean and dry. Once established it needs little attention.[1]",
+    "sun": "Full sun to part sun; it blooms best in open sun but tolerates light shade at woodland edges.[1]",
+    "soil": "Rocky, sandy, well-drained soil; as a legume it fixes its own nitrogen and wants lean, not rich, ground. It adapts to Front-Range conditions but needs sharp drainage.[1]",
+    "water": "Very low to low; drought-tolerant once established, needing little supplemental water in our semi-arid climate.[1]",
+    "spacing": "Give it room — it spreads underground into colonies, so space ~18–24 inches and expect it to fill in.[1]",
+    "propagation": "By seed or division of the spreading rhizomes. As a hard-coated legume seed, scarification (and a cold-moist stratification) improves germination; established colonies can be divided since it spreads by underground stems.[1]",
+    "stratify": "Hard legume seed benefits from scarification plus a cold-moist stratification to break dormancy.[1]",
+    "bloom": "Bright yellow, lupine-like pea flowers in spring to early summer — roughly April through June (sometimes into July at elevation).[1][2]",
+    "maintenance": "Low; let it naturalize, and cut back after bloom if you want to tidy it. It can spread aggressively by rhizome, so site accordingly.[1]",
+    "selfsow": "Spreads by both seed and creeping rhizomes into colonies, so give it space or contain it.[1]",
+    "troubles": "Few pests thanks to its toxic alkaloids, which deter browsing; the main 'problem' is its vigorous underground spread.[1][3]"
+  },
+  "references": [
+    {
+      "name": "City of Fort Collins Plant List — golden banner (Thermopsis rhombifolia var. divaricarpa)",
+      "url": "https://apps.fcgov.com/plant-list/?view=1244-golden-banner"
+    },
+    {
+      "name": "Lady Bird Johnson Wildflower Center — Thermopsis divaricarpa",
+      "url": "https://www.wildflower.org/plants/result.php?id_plant=THDI4"
+    },
+    {
+      "name": "USDA-FS Fire Effects Information System — Thermopsis (goldenbanner)",
+      "url": "https://research.fs.usda.gov/feis/species-reviews/themol"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      1
+    ],
+    "sun": [
+      1
+    ],
+    "water": [
+      1
+    ],
+    "spread": [
+      1
+    ],
+    "seasons": [
+      1,
+      2
+    ],
+    "wildlife": [
+      1
+    ],
+    "deer": [
+      3
+    ],
+    "toxic": [
+      3
+    ]
+  },
+  "edible": {
+    "level": "toxic",
+    "food": false,
+    "summary": "Poisonous — all parts contain lupine-like quinolizidine alkaloids; do not eat any part.[3]",
+    "caution": "Golden banner contains quinolizidine alkaloids (anagyrine, thermopsine, cytisine, N-methylcytisine), the same alkaloid class that makes lupines toxic, with the highest concentration in the seeds and flowers. The pea-like green pods and 'beans' are the real danger: children have been poisoned after eating the immature seeds mistaken for edible peas, developing headache, vomiting, dizziness, and abdominal pain. It is also hazardous to pets and livestock — these alkaloids deter browsing. Keep seeds and foliage away from children and animals; do not eat any part.[3]"
+  }
 }

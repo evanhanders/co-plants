@@ -55,5 +55,63 @@
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/123988283"
     }
-  ]
+  ],
+  "care": {
+    "hardiness": "Very cold-hardy — rated to about USDA zone 4, so Boulder's zone 5b–6a winters pose no problem for this drought-tough prairie native.[2]",
+    "planting": "Plant container stock in spring after the mid-May last frost or in early fall; it establishes fast and often blooms its first or second year. In containers use a gritty, free-draining mix and don't overwater — it sulks in soggy soil. Once sited it self-sows to renew itself.[1][2]",
+    "sun": "Full sun. It thrives in the open, blazing exposure of high-altitude prairie.[1][2]",
+    "soil": "Average, dry to medium, well-drained soil; tolerant of shallow rocky and calcareous ground but intolerant of moist, heavy clay. On Boulder's clay, plant high and amend for drainage rather than richness.[2]",
+    "water": "Low; highly drought-tolerant once established. Little to no supplemental water needed in our semi-arid climate after the first season.[1][2]",
+    "spacing": "Space roughly 12–18 inches apart to allow the clumps room; it reseeds to fill gaps.[2]",
+    "propagation": "Very easy from seed and the practical method — it has a taproot and is best not divided. Sow in spring or fall; seedlings typically won't flower until their second year. Let cones dry to brown on the plant to allow self-seeding or seed collection.[1][2]",
+    "sow": "Direct-sow in spring or fall; germination is easy. Plants flower the second year from seed.[1][2]",
+    "stratify": "A cold-moist period helps — about 9 weeks at ~40°F improves germination of stored seed.[1]",
+    "bloom": "Long bloom from early summer into fall — roughly June into September, and later if moisture allows — in yellow (and mahogany) drooping rays around a tall central cone.[1][2]",
+    "maintenance": "Low to medium; deadhead to prolong bloom or leave cones to dry for self-seeding and birds. No serious pests or diseases.[1][2]",
+    "selfsow": "Reseeds readily where soil is open; let the cones turn dry and brown before cutting back so seed can mature and drop.[1]",
+    "troubles": "Few problems; rots only in wet heavy clay, and is otherwise pest- and disease-free.[2]"
+  },
+  "references": [
+    {
+      "name": "Lady Bird Johnson Wildflower Center — Ratibida columnifera",
+      "url": "https://www.wildflower.org/plants/result.php?id_plant=RACO3"
+    },
+    {
+      "name": "Missouri Botanical Garden Plant Finder — Ratibida columnifera",
+      "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=277224"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      1,
+      2
+    ],
+    "sun": [
+      1,
+      2
+    ],
+    "water": [
+      1,
+      2
+    ],
+    "spread": [
+      2
+    ],
+    "seasons": [
+      1,
+      2
+    ],
+    "wildlife": [
+      1
+    ],
+    "deer": [
+      1
+    ]
+  },
+  "edible": {
+    "level": "inedible",
+    "food": false,
+    "summary": "Grown as an ornamental pollinator plant; documented only for a traditional leaf tea, not as a modern food.[1]",
+    "caution": "Only a traditional beverage tea from the leaves is documented — that ethnobotanical/medicinal use is not the same as established food safety, so this guide treats it as inedible. It is not notably poisonous, but don't rely on it as food.[1]"
+  }
 }

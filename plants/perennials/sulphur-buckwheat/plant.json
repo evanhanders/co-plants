@@ -53,5 +53,63 @@
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/229493300"
     }
-  ]
+  ],
+  "care": {
+    "hardiness": "Very hardy — the 'Kannah Creek' selection is rated USDA zones 3–8 and performs to high elevation, so Boulder's zone 5b–6a winters are well within range.[1]",
+    "planting": "Plant in spring after the mid-May last frost or in early fall, in fast-draining soil. It is grown from seed rather than transplants because the deep taproot resents disturbance, so set out young plants and don't move them; in containers use a gritty mineral mix and avoid winter wet.[1][2]",
+    "sun": "Full sun to part sun; best flowering and the deep purple-red winter foliage color come in full, high-altitude sun.[1][2]",
+    "soil": "Lean, gritty, well-drained soil — clay, loam, or sandy all work as long as drainage is sharp; it tolerates the alkaline, gravelly ground of the Front Range. Avoid rich, wet, or amended soil.[1][2]",
+    "water": "Low; moderate to xeric. 'Kannah Creek' survives on Boulder's ~15-inch annual precipitation once established, so water sparingly and not at all in winter.[1]",
+    "spacing": "Space about 18–24 inches apart to allow the low mat to spread.[1]",
+    "propagation": "Propagate only by seed — it is nearly impossible to transplant or divide the long taproot of a mature plant. A 3-month cold stratification may improve the otherwise-low germination, though pretreatment is not strictly required.[2]",
+    "sow": "Sow seed in fall (to overwinter naturally) or after a cold stratification; expect low germination and sow generously.[2]",
+    "stratify": "An optional cold-moist stratification of about 3 months can improve germination.[2]",
+    "bloom": "Bright yellow umbels from late spring into summer — roughly May to July — aging to orange-rust, over a low evergreen mat that turns purple-red in winter.[1][2]",
+    "maintenance": "Very low; shear spent flower heads if desired, and otherwise leave it alone — it dislikes fussing, fertilizer, and extra water.[1]",
+    "troubles": "Root rot from overwatering or poorly drained soil is the only real risk; pest- and disease-free in lean ground.[2]"
+  },
+  "references": [
+    {
+      "name": "Plant Select — KANNAH CREEK® buckwheat (Eriogonum umbellatum var. aureum)",
+      "url": "https://plantselect.org/plant/eriogonum-umbellatum-var-aureum-psdowns/"
+    },
+    {
+      "name": "Lady Bird Johnson Wildflower Center — Eriogonum umbellatum",
+      "url": "https://www.wildflower.org/plants/result.php?id_plant=ERUM"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      1,
+      2
+    ],
+    "sun": [
+      1,
+      2
+    ],
+    "water": [
+      1,
+      2
+    ],
+    "spread": [
+      1,
+      2
+    ],
+    "seasons": [
+      1,
+      2
+    ],
+    "wildlife": [
+      2
+    ],
+    "deer": [
+      1
+    ]
+  },
+  "edible": {
+    "level": "inedible",
+    "food": false,
+    "summary": "Grown as an ornamental and pollinator plant; no culinary use is documented here, so treat it as inedible.[2]",
+    "caution": "No authoritative food use is documented for this species in this context, so don't eat it. It is not notably poisonous, but absence of documented edibility is not an endorsement to forage it.[2]"
+  }
 }

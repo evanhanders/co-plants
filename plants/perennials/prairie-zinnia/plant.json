@@ -54,5 +54,55 @@
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/124653250"
     }
-  ]
+  ],
+  "care": {
+    "hardiness": "Tough and cold-hardy, rated USDA zones 4–8, so it overwinters reliably in Boulder's zone 5b–6a and thrives in our blazing high-elevation sun.[1]",
+    "planting": "Plant in spring after the mid-May last frost or in early fall, in well-drained soil; it is slow to establish but very long-lived. In containers use a gritty, fast-draining mix and keep it dry — it cannot tolerate wet conditions. Take cuttings or divide in spring.[1]",
+    "sun": "Full sun (6+ hours); it can take part shade but blooms best and stays compact in full, hot sun.[1]",
+    "soil": "Lean, well-drained clay, sand, or shallow rocky soils; highly tolerant of dry, alkaline ground and a poor-soil specialist — avoid rich or soggy sites.[1]",
+    "water": "Low; highly drought-tolerant and cannot tolerate wet conditions, so water sparingly once established and never let it sit wet.[1]",
+    "spacing": "Space about 12 inches up to 3 feet apart; it spreads slowly by rhizomes into colonies and makes a low groundcover.[1]",
+    "propagation": "By seed, division, stem cuttings, or root cuttings. Sow seed in fall or spring (germination can be low; cold-moist stratification may help); divide young plants or take cuttings in spring since it spreads by rhizomes.[1]",
+    "sow": "Sow in fall or spring; germination is often low, and a cold-moist stratification may enhance it.[1]",
+    "stratify": "A cold-moist stratification may improve the otherwise-low germination.[1]",
+    "bloom": "Long bloom from late spring through fall — roughly May to October — in golden-yellow daisy flowers covering a low mound.[1]",
+    "maintenance": "Very low; shear lightly after bloom if desired, and otherwise leave it — it resents overwatering more than neglect.[1]",
+    "selfsow": "Spreads slowly by rhizomes to form colonies, useful for erosion control on dry slopes.[1]",
+    "troubles": "Rots in wet conditions; otherwise essentially pest- and disease-free.[1]"
+  },
+  "references": [
+    {
+      "name": "NC State Extension Gardener Plant Toolbox — Zinnia grandiflora",
+      "url": "https://plants.ces.ncsu.edu/plants/zinnia-grandiflora/"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      1
+    ],
+    "sun": [
+      1
+    ],
+    "water": [
+      1
+    ],
+    "spread": [
+      1
+    ],
+    "seasons": [
+      1
+    ],
+    "wildlife": [
+      1
+    ],
+    "deer": [
+      1
+    ]
+  },
+  "edible": {
+    "level": "inedible",
+    "food": false,
+    "summary": "Grown as an ornamental groundcover; no culinary use is documented, so it is treated as inedible.[1]",
+    "caution": "No authoritative food use is documented for prairie zinnia, so don't eat it. It is reported non-toxic to dogs, cats, and horses and is not notably poisonous, but lack of documented edibility means it is not a forage plant.[1]"
+  }
 }

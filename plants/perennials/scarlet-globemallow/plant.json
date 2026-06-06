@@ -55,5 +55,68 @@
       "lic": "CC-BY",
       "link": "https://www.inaturalist.org/observations/148713369"
     }
-  ]
+  ],
+  "care": {
+    "hardiness": "A widespread shortgrass-prairie native, hardy well below Boulder's zone 5b–6a; it tolerates our cold, heat, alkaline soil, and drought equally.[1][2]",
+    "planting": "Plant in spring after the mid-May last frost or in early fall, in lean, sharply drained soil. It has a deep taproot, so set out young plants and don't disturb established ones; in containers give it a gritty mineral mix and keep it dry.[2][3]",
+    "sun": "Full sun. In shade the leaves turn thinner, less lobed, and bright green and the plant flowers poorly, so give it the open, hot exposure it evolved for.[1][2]",
+    "soil": "Light, gravelly, sandy or limestone/clay soils with sharp drainage; it thrives on lean, alkaline, calcareous ground and dislikes rich or wet soil.[1]",
+    "water": "Very low; xeric. Deeply drought-tolerant thanks to a taproot that can run unbranched ~3 ft before branching — needs essentially no supplemental water once established.[2][3]",
+    "spacing": "Space about 12–18 inches apart; it spreads by rhizomes and self-seeding into colonies, so it knits together over time.[2]",
+    "propagation": "By seed or rhizome cuttings. Seed has a hard coat — scarification helps, especially on dried, stored seed. It also spreads by rhizomes, so rhizome cuttings can be taken in spring, though the deep taproot makes moving mature plants difficult.[1][2]",
+    "sow": "Sow scarified seed; germination is improved by scarification, particularly for stored seed.[1]",
+    "bloom": "Long bloom from mid-spring into fall — roughly April/May through September — in profuse orange to brick-red cupped flowers about 1 inch wide.[1][2]",
+    "maintenance": "Very low; leave it to spread, and avoid overwatering or rich soil. Wear gloves and eye protection when handling or collecting seed (see cautions).[2]",
+    "selfsow": "Spreads by both rhizomes and self-seeding, forming clumps or extensive colonies — give it room or contain it.[2]",
+    "troubles": "Few problems; rots only in wet, rich soil. Its stellate leaf hairs can irritate skin and eyes during handling (see edible/caution).[2][3]"
+  },
+  "references": [
+    {
+      "name": "Lady Bird Johnson Wildflower Center — Sphaeralcea coccinea",
+      "url": "https://www.wildflower.org/plants/result.php?id_plant=SPCO"
+    },
+    {
+      "name": "City of Fort Collins Plant List — scarlet globemallow (Sphaeralcea coccinea)",
+      "url": "https://apps.fcgov.com/plant-list/?view=1170-scarlet-globemallow"
+    },
+    {
+      "name": "USDA NRCS Plant Guide — scarlet globemallow (Sphaeralcea coccinea)",
+      "url": "https://plants.usda.gov/DocumentLibrary/plantguide/pdf/pg_spco.pdf"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      1,
+      2
+    ],
+    "sun": [
+      1,
+      2
+    ],
+    "water": [
+      1,
+      2
+    ],
+    "spread": [
+      2,
+      3
+    ],
+    "seasons": [
+      1,
+      2
+    ],
+    "wildlife": [
+      1,
+      2
+    ],
+    "deer": [
+      1
+    ]
+  },
+  "edible": {
+    "level": "inedible",
+    "food": false,
+    "summary": "No documented culinary use; grown as a xeric ornamental, and the leaf hairs are a skin/eye irritant.[1][3]",
+    "caution": "No authoritative food use is documented, so this guide treats it as inedible — don't eat it. The whole plant is covered in fine star-shaped (stellate) hairs that can irritate skin and especially eyes (its folk names 'sore-eye poppy' / 'mal de ojo' come from this), and handling or collecting seed has caused dermatitis and eye irritation — wear gloves and don't rub your eyes after touching it.[3]"
+  }
 }

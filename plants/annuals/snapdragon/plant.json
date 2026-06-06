@@ -5,6 +5,19 @@
   "lifecycle": "Annual",
   "native": "Non-native",
   "bloom_season": "Summer",
+  "flower_color": [
+    "white",
+    "yellow",
+    "pink",
+    "red",
+    "orange",
+    "purple"
+  ],
+  "bloom": [
+    "spring",
+    "summer",
+    "fall"
+  ],
   "blurb": "Jewel-toned 'snapping' flower spikes kids love — and bumblebees pry open; the real garden snapdragon, not the noxious look-alike 'wild snapdragon' (yellow toadflax) that sneaks into seed mixes.",
   "size": "1–3 ft × 6–12 in",
   "sun": "Full sun–part shade",

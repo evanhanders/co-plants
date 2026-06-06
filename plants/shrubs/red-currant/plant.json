@@ -4,6 +4,13 @@
   "type": "Shrub",
   "lifecycle": "Perennial",
   "native": "Non-native",
+  "flower_color": [
+    "green",
+    "yellow"
+  ],
+  "bloom": [
+    "spring"
+  ],
   "blurb": "CSU's go-to red currant — pendant strigs of glossy, translucent ruby berries that glow on the bush and cook into jewel-bright jelly.",
   "size": "3–5 ft × 3–5 ft",
   "sun": "Full sun to part shade",

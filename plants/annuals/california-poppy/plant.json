@@ -5,6 +5,16 @@
   "lifecycle": "Annual",
   "native": "Non-native",
   "bloom_season": "Summer",
+  "flower_color": [
+    "orange",
+    "yellow",
+    "white",
+    "pink"
+  ],
+  "bloom": [
+    "spring",
+    "summer"
+  ],
   "blurb": "Silky orange cups over blue-green lace — a cheerful, drought-proof self-sower (western US native).",
   "size": "8–15 in × 6–12 in",
   "sun": "Full sun",

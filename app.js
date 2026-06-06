@@ -28,21 +28,60 @@ const GROUP_DESC = {
 /* ---------- state ---------- */
 let view = "type";
 const collapsed = new Set(); // group names collapsed (type view)
-let natFilter = "all";            // all | native | intro
-const typeFilter = new Set();     // empty = all groups shown
-const traitFilter = new Set();    // empty = no trait constraint; values: winter|pollin|spreads|toxic|edible
-const lifeFilter = new Set();     // empty = all lifecycles; values: Perennial|Annual|Biennial|Tender perennial
-/* isNative + the TRAITS predicate map live in reel.js (shared with the detail page) */
-function passesFilters(p){
-if(natFilter==='native' && !isNative(p)) return false;
-if(natFilter==='intro' && isNative(p)) return false;
-if(typeFilter.size && !typeFilter.has(groupOf(p))) return false;
-if(lifeFilter.size && !lifeFilter.has(p.lifecycle)) return false;
-for(const t of traitFilter){ if(!TRAITS[t] || !TRAITS[t].test(p)) return false; }
-return true; /* add more filter dimensions here as the guide grows */
+
+/* ---------- filter dimensions ----------
+   Filters are a data-driven set of GROUPS. Each group has options with a predicate; the
+   selected chips render first within their group, and every chip shows a FACETED count
+   (how many plants remain given the OTHER groups' active filters + the search). Origin,
+   form, lifecycle and traits live here alongside the data-backed colour/bloom/sun/water.
+   `mode:'or'` = a plant matches any selected chip; `mode:'and'` = it must match all
+   (traits compose as AND, e.g. Winter AND Edible). Add a dimension by adding a group. */
+function colorsOf(p){ return p.flower_color || []; }
+function bloomsOf(p){ return p.bloom || []; }
+function sunOf(p){ const s=(p.sun||'').toLowerCase(); const o=[];
+  if(/full sun/.test(s) || /^sun\b/.test(s)) o.push('Full sun');
+  if(/part shade|part sun|light shade|afternoon shade|part to full/.test(s)) o.push('Part shade');
+  if(/full shade/.test(s)) o.push('Shade');
+  if(!o.length) o.push('Full sun');
+  return o;
+}
+function waterOf(p){ const lead=(p.water||'').toLowerCase().split(/[;,(—]| - /)[0]; const o=[];
+  if(/low|xeric/.test(lead)) o.push('Low');
+  if(/moder|medium|average/.test(lead)) o.push('Moderate');
+  if(/high/.test(lead)) o.push('High');
+  if(!o.length) o.push('Moderate');
+  return o;
+}
+const COLOR_HEX={white:'#fbfbf7',yellow:'#f1c40f',orange:'#e8852b',red:'#cf3a2e',pink:'#e87fae',purple:'#8a5cc4',blue:'#4a78c4',green:'#6a9a3b'};
+const cap1=function(s){ return s.charAt(0).toUpperCase()+s.slice(1); };
+const GROUPS=[
+{key:'type', label:'Form',  mode:'or', opts:GROUP_ORDER.map(function(g){ return {v:g,label:g,test:function(p){return groupOf(p)===g;}}; })},
+{key:'color',label:'Flower colour', mode:'or', swatch:true, opts:['white','yellow','orange','red','pink','purple','blue','green'].map(function(c){ return {v:c,label:cap1(c),test:function(p){return colorsOf(p).indexOf(c)>-1;}}; })},
+{key:'bloom',label:'Bloom', mode:'or', opts:['spring','summer','fall','winter'].map(function(s){ return {v:s,label:cap1(s),test:function(p){return bloomsOf(p).indexOf(s)>-1;}}; })},
+{key:'life', label:'Lifecycle', mode:'or', opts:['Perennial','Tender perennial','Biennial','Annual'].map(function(k){ return {v:k,label:k,test:function(p){return p.lifecycle===k;}}; })},
+{key:'sun',  label:'Sun',   mode:'or', opts:['Full sun','Part shade','Shade'].map(function(k){ return {v:k,label:k,test:function(p){return sunOf(p).indexOf(k)>-1;}}; })},
+{key:'water',label:'Water', mode:'or', opts:['Low','Moderate','High'].map(function(k){ return {v:k,label:k,test:function(p){return waterOf(p).indexOf(k)>-1;}}; })},
+{key:'nat',  label:'Origin',mode:'or', opts:[{v:'native',label:'Native',test:function(p){return isNative(p);}},{v:'intro',label:'Introduced',test:function(p){return !isNative(p);}}]},
+{key:'trait',label:'Traits',mode:'and', cls:'trait', opts:Object.keys(TRAITS).map(function(k){ return {v:k,label:TRAITS[k].label,icon:TRAITS[k].icon,test:TRAITS[k].test}; })}
+];
+const GMAP={}; GROUPS.forEach(function(g){ g.sel=new Set(); g.byv={}; g.opts.forEach(function(o){ g.byv[o.v]=o; }); GMAP[g.key]=g; });
+function anyFilter(){ return GROUPS.some(function(g){ return g.sel.size>0; }); }
+/* isNative + the TRAITS predicate map live in reel.js (shared with the detail page).
+   passesFilters: a plant clears every group with a selection (skip `exceptKey` for facet counts). */
+function passesFilters(p, exceptKey){
+for(const g of GROUPS){
+if(g.key===exceptKey || !g.sel.size) continue;
+const sel=Array.from(g.sel).map(function(v){return g.byv[v];}).filter(Boolean);
+const ok = g.mode==='and' ? sel.every(function(o){return o.test(p);}) : sel.some(function(o){return o.test(p);});
+if(!ok) return false;
+}
+return true;
 }
 const content=document.getElementById('content');
 const searchEl=document.getElementById('search');
+function matchesQuery(p,q){ if(!q) return true;
+return [p.common,p.botanical,p.type,p.lifecycle,p.bloom_season,p.native,p.blurb,p.seasons,p.wildlife,p.spread,p.origin,p.habitat,(p.flower_color||[]).join(' '),(p.bloom||[]).join(' ')].join(' ').toLowerCase().indexOf(q)>-1;
+}
 function allPlants(){ const map=new Map(); SEED.forEach(function(p){ map.set(p.botanical.toLowerCase().trim(), p); }); return Array.from(map.values()).sort(function(a,b){ return a.botanical.localeCompare(b.botanical,'en',{sensitivity:'base'}); }); }
 /* a plant's detail page lives at plant.html?p=<category>/<slug>; only seeded plants
    (which carry a repo dir) have one — user-added localStorage plants don't */
@@ -72,16 +111,42 @@ return '<article class="card"><div class="plate">'+plate+'<span class="corner">'
 '</div></article>';
 }
 function gridOf(list){ return '<div class="grid">'+list.map(cardHTML).join('')+'</div>'; }
+/* ---------- the filter bar: faceted counts + selected-first ordering ---------- */
+function renderFilters(all, q){
+const root=document.getElementById('filters'); if(!root) return;
+let html='';
+GROUPS.forEach(function(g){
+/* base = plants passing the search + every OTHER group's filters; counts are within it */
+const base=all.filter(function(p){ return matchesQuery(p,q) && passesFilters(p,g.key); });
+const selOpts=Array.from(g.sel).map(function(v){return g.byv[v];}).filter(Boolean);
+const chips=g.opts.map(function(o){
+let cnt;
+if(g.mode==='and') cnt=base.filter(function(p){ return selOpts.every(function(s){return s.test(p);}) && o.test(p); }).length;
+else cnt=base.filter(function(p){ return o.test(p); }).length;
+return {o:o, cnt:cnt, active:g.sel.has(o.v)};
+});
+/* selected chips jump to the front of their group; the rest keep their natural order */
+chips.sort(function(a,b){ return (a.active===b.active)?0:(a.active?-1:1); });
+const inner=chips.map(function(c){
+const off = !c.active && c.cnt===0;
+const sw = g.swatch ? '<span class="sw" style="background:'+COLOR_HEX[c.o.v]+'"></span>' : '';
+const ic = c.o.icon ? '<span class="ic">'+c.o.icon+'</span>' : '';
+return '<button type="button" class="chip'+(g.cls?(' '+g.cls):'')+(c.active?' active':'')+(off?' off':'')+'"'
++' data-g="'+g.key+'" data-v="'+c.o.v+'" aria-pressed="'+(c.active?'true':'false')+'"'+(off?' disabled':'')+'>'
++sw+ic+c.o.label+' <span class="gc">'+c.cnt+'</span></button>';
+}).join('');
+html+='<div class="fgroup"><span class="fl-label">'+g.label+'</span><div class="chips">'+inner+'</div></div>';
+});
+root.innerHTML=html;
+}
 function render(){
 const q=(searchEl.value||'').toLowerCase().trim();
-const total=allPlants().length;
-const list=allPlants().filter(function(p){
-if(!passesFilters(p)) return false;
-if(!q) return true;
-return [p.common,p.botanical,p.type,p.lifecycle,p.bloom_season,p.native,p.blurb,p.seasons,p.wildlife,p.spread,p.origin,p.habitat].join(' ').toLowerCase().indexOf(q)>-1;
-});
+const all=allPlants();
+const total=all.length;
+const list=all.filter(function(p){ return passesFilters(p) && matchesQuery(p,q); });
 document.getElementById('count').textContent = total;
-const filtering = q || natFilter!=='all' || typeFilter.size>0 || traitFilter.size>0 || lifeFilter.size>0;
+renderFilters(all, q);
+const filtering = q || anyFilter();
 const showingEl=document.getElementById('showing');
 if(showingEl) showingEl.textContent = filtering ? ('Showing '+list.length+' of '+total+' plants') : ('Showing all '+total+' plants');
 const clearEl=document.getElementById('clearFilters'); if(clearEl) clearEl.hidden = !filtering;
@@ -112,82 +177,21 @@ wireReels(content);
 Array.prototype.forEach.call(document.querySelectorAll('#seg button'), function(btn){
 btn.onclick=function(){ view=btn.dataset.view; Array.prototype.forEach.call(document.querySelectorAll('#seg button'), function(b){ b.classList.toggle('active', b===btn); }); render(); };
 });
-/* ---------- filters: origin (native) + type chips ---------- */
-Array.prototype.forEach.call(document.querySelectorAll('#natSeg button'), function(btn){
-btn.onclick=function(){ natFilter=btn.dataset.nat; Array.prototype.forEach.call(document.querySelectorAll('#natSeg button'), function(b){ b.classList.toggle('active', b===btn); }); render(); };
-});
-function syncTypeChips(){
-const wrap=document.getElementById('typeChips'); if(!wrap) return;
-Array.prototype.forEach.call(wrap.querySelectorAll('.chip'), function(c){
-if(c.dataset.all!=null) c.classList.toggle('active', typeFilter.size===0);
-else c.classList.toggle('active', typeFilter.has(c.dataset.group));
-});
-}
-function buildTypeChips(){
-const wrap=document.getElementById('typeChips'); if(!wrap) return;
-const all=allPlants(), counts={};
-all.forEach(function(p){ var g=groupOf(p); counts[g]=(counts[g]||0)+1; });
-let html='<button class="chip" data-all="1">All</button>';
-GROUP_ORDER.forEach(function(g){ if(counts[g]) html+='<button class="chip" data-group="'+g+'">'+g+' <span class="gc">'+counts[g]+'</span></button>'; });
-wrap.innerHTML=html;
-Array.prototype.forEach.call(wrap.querySelectorAll('.chip'), function(c){
-c.onclick=function(){
-if(c.dataset.all!=null){ typeFilter.clear(); }
-else { var g=c.dataset.group; if(typeFilter.has(g)) typeFilter.delete(g); else typeFilter.add(g); }
-syncTypeChips(); render();
-};
-});
-syncTypeChips();
-}
-function syncTraitChips(){
-const wrap=document.getElementById('traitChips'); if(!wrap) return;
-Array.prototype.forEach.call(wrap.querySelectorAll('.chip'), function(c){ c.classList.toggle('active', traitFilter.has(c.dataset.trait)); });
-}
-function buildTraitChips(){
-const wrap=document.getElementById('traitChips'); if(!wrap) return;
-const all=allPlants();
-let html='';
-Object.keys(TRAITS).forEach(function(k){
-var n=all.filter(TRAITS[k].test).length; if(!n) return;
-html+='<button class="chip trait" data-trait="'+k+'"><span class="ic">'+TRAITS[k].icon+'</span>'+TRAITS[k].label+' <span class="gc">'+n+'</span></button>';
-});
-wrap.innerHTML=html;
-Array.prototype.forEach.call(wrap.querySelectorAll('.chip'), function(c){
-c.onclick=function(){ var t=c.dataset.trait; if(traitFilter.has(t)) traitFilter.delete(t); else traitFilter.add(t); syncTraitChips(); render(); };
-});
-syncTraitChips();
-}
-function syncLifeChips(){
-const wrap=document.getElementById('lifeChips'); if(!wrap) return;
-Array.prototype.forEach.call(wrap.querySelectorAll('.chip'), function(c){ c.classList.toggle('active', lifeFilter.has(c.dataset.life)); });
-}
-function buildLifeChips(){
-const wrap=document.getElementById('lifeChips'); if(!wrap) return;
-const all=allPlants(), counts={};
-all.forEach(function(p){ if(p.lifecycle) counts[p.lifecycle]=(counts[p.lifecycle]||0)+1; });
-let html='';
-["Perennial","Tender perennial","Biennial","Annual"].forEach(function(k){ if(counts[k]) html+='<button class="chip" data-life="'+k+'">'+k+' <span class="gc">'+counts[k]+'</span></button>'; });
-wrap.innerHTML=html;
-Array.prototype.forEach.call(wrap.querySelectorAll('.chip'), function(c){
-c.onclick=function(){ var k=c.dataset.life; if(lifeFilter.has(k)) lifeFilter.delete(k); else lifeFilter.add(k); syncLifeChips(); render(); };
-});
-syncLifeChips();
-}
-/* clear everything: search + origin + type + traits + lifecycle */
-function clearAllFilters(){
-searchEl.value=''; natFilter='all'; typeFilter.clear(); traitFilter.clear(); lifeFilter.clear();
-Array.prototype.forEach.call(document.querySelectorAll('#natSeg button'), function(b){ b.classList.toggle('active', b.dataset.nat==='all'); });
-syncTypeChips(); syncTraitChips(); syncLifeChips(); render();
-}
+/* ---------- filters: one delegated handler toggles a chip's group selection ---------- */
+{ const fr=document.getElementById('filters'); if(fr) fr.addEventListener('click', function(e){
+const btn=e.target.closest('.chip'); if(!btn || btn.disabled) return;
+const g=GMAP[btn.dataset.g]; if(!g) return;
+const v=btn.dataset.v; if(g.sel.has(v)) g.sel.delete(v); else g.sel.add(v);
+render();
+}); }
+/* clear everything: search + every filter group */
+function clearAllFilters(){ searchEl.value=''; GROUPS.forEach(function(g){ g.sel.clear(); }); render(); }
 { const cf=document.getElementById('clearFilters'); if(cf) cf.onclick=clearAllFilters; }
 /* ---------- shareable URL state (hash) ---------- */
 function syncHash(){
 const parts=[];
 if(view!=='type') parts.push('view='+view);
-if(natFilter!=='all') parts.push('nat='+natFilter);
-if(typeFilter.size) parts.push('type='+encodeURIComponent(Array.from(typeFilter).join(',')));
-if(traitFilter.size) parts.push('trait='+Array.from(traitFilter).join(','));
-if(lifeFilter.size) parts.push('life='+encodeURIComponent(Array.from(lifeFilter).join(',')));
+GROUPS.forEach(function(g){ if(g.sel.size) parts.push(g.key+'='+encodeURIComponent(Array.from(g.sel).join(','))); });
 const q=(searchEl.value||'').trim(); if(q) parts.push('q='+encodeURIComponent(q));
 const h=parts.length?('#'+parts.join('&')):'';
 if(h!==location.hash){ try{ history.replaceState(null,'',location.pathname+location.search+h); }catch(e){} }
@@ -197,14 +201,10 @@ const h=(location.hash||'').replace(/^#/,''); if(!h) return;
 h.split('&').forEach(function(kv){
 const i=kv.indexOf('='); if(i<0) return; const k=kv.slice(0,i), v=decodeURIComponent(kv.slice(i+1));
 if(k==='view' && (v==='alpha'||v==='type')) view=v;
-else if(k==='nat' && /^(all|native|intro)$/.test(v)) natFilter=v;
-else if(k==='type'){ typeFilter.clear(); v.split(',').forEach(function(g){ if(g) typeFilter.add(g); }); }
-else if(k==='trait'){ traitFilter.clear(); v.split(',').forEach(function(t){ if(TRAITS[t]) traitFilter.add(t); }); }
-else if(k==='life'){ lifeFilter.clear(); v.split(',').forEach(function(x){ if(x) lifeFilter.add(x); }); }
 else if(k==='q'){ searchEl.value=v; }
+else if(GMAP[k]){ GMAP[k].sel.clear(); v.split(',').forEach(function(x){ if(x && GMAP[k].byv[x]) GMAP[k].sel.add(x); }); }
 });
 Array.prototype.forEach.call(document.querySelectorAll('#seg button'), function(b){ b.classList.toggle('active', b.dataset.view===view); });
-Array.prototype.forEach.call(document.querySelectorAll('#natSeg button'), function(b){ b.classList.toggle('active', b.dataset.nat===natFilter); });
 }
 searchEl.addEventListener('input', render);
 /* submitting the search (Enter / on-screen "Search" key) drops the mobile keyboard */
@@ -232,4 +232,4 @@ var card='<div class="skel"><div class="plate"></div><div class="body"><div clas
 content.innerHTML='<div class="grid">'+new Array(8).join(card)+card+'</div>';
 var c=document.getElementById('count'); if(c) c.textContent='…';
 }
-(async function(){ renderSkeleton(); await loadSeed(); applyHash(); buildTypeChips(); buildTraitChips(); buildLifeChips(); render(); })();
+(async function(){ renderSkeleton(); await loadSeed(); applyHash(); render(); })();

@@ -4,6 +4,14 @@
   "type": "Groundcover",
   "lifecycle": "Perennial",
   "native": "Non-native",
+  "flower_color": [
+    "pink",
+    "red"
+  ],
+  "bloom": [
+    "spring",
+    "summer"
+  ],
   "blurb": "Tough, mounding hardy geranium with vivid magenta-to-crimson saucer flowers in early summer, deeply cut leaves that glow red in fall, and a carefree constitution that handles dry shade to full sun on the Front Range.",
   "size": "10–18 in × 18–24 in",
   "sun": "Full sun to part shade",
@@ -33,16 +41,37 @@
     "companions": "Salvia nemorosa (meadow sage), Veronica spicata (spike speedwell), ornamental grasses, cushion spurge, and other drought-tolerant perennials that share its lean-soil, low-water preference.[1]"
   },
   "fact_src": {
-    "size": [1],
-    "sun": [1],
-    "water": [1],
-    "spread": [1],
-    "seasons": [1],
-    "wildlife": [1],
-    "deer": [1],
-    "toxic": [1, 2],
-    "origin": [1],
-    "habitat": [1]
+    "size": [
+      1
+    ],
+    "sun": [
+      1
+    ],
+    "water": [
+      1
+    ],
+    "spread": [
+      1
+    ],
+    "seasons": [
+      1
+    ],
+    "wildlife": [
+      1
+    ],
+    "deer": [
+      1
+    ],
+    "toxic": [
+      1,
+      2
+    ],
+    "origin": [
+      1
+    ],
+    "habitat": [
+      1
+    ]
   },
   "edible": {
     "level": "inedible",

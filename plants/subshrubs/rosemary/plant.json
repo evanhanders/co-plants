@@ -4,6 +4,13 @@
   "type": "Subshrub",
   "lifecycle": "Tender perennial",
   "native": "Non-native",
+  "flower_color": [
+    "blue"
+  ],
+  "bloom": [
+    "winter",
+    "spring"
+  ],
   "blurb": "Aromatic Mediterranean evergreen herb; needle foliage and tiny blue winter flowers bees work — pot it and bring it in over winter.",
   "size": "2–4 ft × 2–4 ft in a large container; wild plants reach 4–5 ft",
   "sun": "Full sun",

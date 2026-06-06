@@ -4,6 +4,12 @@
   "type": "Tree",
   "lifecycle": "Perennial",
   "native": "CO native",
+  "flower_color": [
+    "green"
+  ],
+  "bloom": [
+    "spring"
+  ],
   "blurb": "Multi-stem riparian tree with smooth grey bark and early catkins; fixes nitrogen.",
   "size": "15–30 ft × 12–20 ft",
   "sun": "Sun–part shade",

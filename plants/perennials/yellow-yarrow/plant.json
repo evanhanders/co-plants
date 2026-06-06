@@ -5,6 +5,13 @@
   "lifecycle": "Perennial",
   "native": "Non-native",
   "bloom_season": "Summer",
+  "flower_color": [
+    "yellow"
+  ],
+  "bloom": [
+    "summer",
+    "fall"
+  ],
   "blurb": "A tough, silvery-leaved garden hybrid with flat-topped canary-gold flower heads that bloom relentlessly from early summer into fall — xeric, pollinator-friendly, deer-resistant, and at home in Front Range sun and alkaline soil.",
   "size": "18–24 in × 18–24 in",
   "sun": "Full sun",
@@ -33,16 +40,42 @@
     "companions": "Russian sage, catmint, salvia, coneflower, ornamental grasses (little bluestem, blue grama), ornamental alliums, penstemon, and any other full-sun xeric or drought-tolerant perennials; the silver foliage is a superb foil for blue and purple flowers.[1]"
   },
   "fact_src": {
-    "size": [1, 2],
-    "sun": [1, 2],
-    "water": [1, 2],
-    "spread": [1],
-    "seasons": [1, 2],
-    "wildlife": [1, 2],
-    "deer": [1],
-    "toxic": [1, 3],
-    "origin": [1],
-    "habitat": [1]
+    "size": [
+      1,
+      2
+    ],
+    "sun": [
+      1,
+      2
+    ],
+    "water": [
+      1,
+      2
+    ],
+    "spread": [
+      1
+    ],
+    "seasons": [
+      1,
+      2
+    ],
+    "wildlife": [
+      1,
+      2
+    ],
+    "deer": [
+      1
+    ],
+    "toxic": [
+      1,
+      3
+    ],
+    "origin": [
+      1
+    ],
+    "habitat": [
+      1
+    ]
   },
   "edible": {
     "level": "caution",

@@ -4,6 +4,16 @@
   "type": "Subshrub",
   "lifecycle": "Tender perennial",
   "native": "Introduced",
+  "flower_color": [
+    "pink",
+    "red",
+    "purple",
+    "white"
+  ],
+  "bloom": [
+    "spring",
+    "summer"
+  ],
   "blurb": "The showiest pelargonium — big ruffled, dark-blotched azalea-like blooms in late spring. Loves cool weather, sulks in summer heat; frost-tender.",
   "size": "~1–2 ft × 1–1.5 ft",
   "sun": "Part sun; cool conditions (dislikes extreme heat)",

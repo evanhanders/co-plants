@@ -5,6 +5,14 @@
   "lifecycle": "Perennial",
   "native": "CO native",
   "bloom_season": "Spring",
+  "flower_color": [
+    "yellow",
+    "green"
+  ],
+  "bloom": [
+    "spring",
+    "summer"
+  ],
   "blurb": "A low Rocky Mountain native forming spreading yellow-green mats.",
   "size": "To ~2 ft tall",
   "sun": "Full sun",
@@ -32,14 +40,32 @@
     "propagation": "Division in early spring is the primary and most practical method — dig sections of the rhizomatous mat just as new growth emerges, making sure each division has both roots and at least one shoot. Replant promptly and keep moist until established. Seed is the other viable route: sow outdoors in fall for natural winter cold stratification, or refrigerate seed in damp sand for 4–6 weeks before spring sowing. Like all euphorbias, the sap is a skin and eye irritant — wear gloves when dividing or cutting. Stem cuttings are possible in principle but rarely attempted; the rhizome-division method is far simpler and more reliable for this spreading native.[1][2]"
   },
   "fact_src": {
-    "size": [1],
-    "sun": [1],
-    "water": [1],
-    "spread": [1],
-    "seasons": [1],
-    "wildlife": [1],
-    "deer": [1, 2],
-    "toxic": [2, 3]
+    "size": [
+      1
+    ],
+    "sun": [
+      1
+    ],
+    "water": [
+      1
+    ],
+    "spread": [
+      1
+    ],
+    "seasons": [
+      1
+    ],
+    "wildlife": [
+      1
+    ],
+    "deer": [
+      1,
+      2
+    ],
+    "toxic": [
+      2,
+      3
+    ]
   },
   "edible": {
     "level": "toxic",

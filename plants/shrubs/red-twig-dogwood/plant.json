@@ -4,6 +4,13 @@
   "type": "Shrub",
   "lifecycle": "Perennial",
   "native": "CO native",
+  "flower_color": [
+    "white"
+  ],
+  "bloom": [
+    "spring",
+    "summer"
+  ],
   "blurb": "The classic winter shrub — fiery red (or yellow 'Flaviramea') stems against snow.",
   "size": "6–12 ft × similar (dwarfs 3–5 ft)",
   "sun": "Full sun–part shade",
@@ -31,14 +38,36 @@
     "propagation": "The easiest and most reliable method is hardwood cuttings taken from dormant first-year stems in late fall through early spring: cut 8–12-inch sections of pencil-thick, healthy stems (at least one leaf node), strip lower leaves, and root in moist soil or water in a bright, frost-free location — roots develop in a week or two in water, longer in soil. Division of established clumps (separating rooted suckers with a spade) works well in early spring or fall. French layering — bending a long stem to the ground, pinning it, and covering a section with soil — is effective and produces multiple new plants from one stem. Seed can be sown but requires a cold-moist stratification period and germinates erratically; cuttings and division are far faster. Named cultivars must be propagated vegetatively to come true.[1][2]"
   },
   "fact_src": {
-    "size": [1],
-    "sun": [1],
-    "water": [1, 2],
-    "spread": [1, 2],
-    "seasons": [1, 3],
-    "wildlife": [2, 3],
-    "deer": [1, 2],
-    "toxic": [2, 4]
+    "size": [
+      1
+    ],
+    "sun": [
+      1
+    ],
+    "water": [
+      1,
+      2
+    ],
+    "spread": [
+      1,
+      2
+    ],
+    "seasons": [
+      1,
+      3
+    ],
+    "wildlife": [
+      2,
+      3
+    ],
+    "deer": [
+      1,
+      2
+    ],
+    "toxic": [
+      2,
+      4
+    ]
   },
   "edible": {
     "level": "caution",

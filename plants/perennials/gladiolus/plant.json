@@ -5,6 +5,17 @@
   "lifecycle": "Tender perennial",
   "native": "Non-native",
   "bloom_season": "Summer",
+  "flower_color": [
+    "white",
+    "yellow",
+    "orange",
+    "red",
+    "pink",
+    "purple"
+  ],
+  "bloom": [
+    "summer"
+  ],
   "blurb": "Tall sword-leaved spikes unzip from bottom to top in mid-to-late summer, each carrying a column of big silky funnels in nearly every color — but the corms must be dug and stored frost-free each fall to survive a Front Range winter.",
   "size": "1–6 ft × 1–2 ft",
   "sun": "Full sun",

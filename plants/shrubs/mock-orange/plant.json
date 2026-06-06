@@ -4,6 +4,12 @@
   "type": "Shrub",
   "lifecycle": "Perennial",
   "native": "CO native",
+  "flower_color": [
+    "white"
+  ],
+  "bloom": [
+    "summer"
+  ],
   "blurb": "One of the most powerfully fragrant native shrubs on the Front Range — billowy clusters of pure-white four-petaled flowers with citrus-sweet scent blanket the arching branches in early summer.",
   "size": "6–9 ft × 5–8 ft",
   "sun": "Full sun to part shade",
@@ -29,14 +35,36 @@
     "troubles": "Generally pest- and disease-free. Aphids occasionally cluster on new growth in spring; blast off with water. Scale insects are rare. Powdery mildew can appear in dense, humid spots — improve airflow by thinning. The most common failure is waterlogged soil or fall pruning that removes next year's flower buds.[1]"
   },
   "fact_src": {
-    "size": [1, 2],
-    "sun": [1, 2],
-    "water": [1],
-    "spread": [1, 2],
-    "seasons": [1, 2],
-    "wildlife": [1, 2],
-    "deer": [1, 2],
-    "toxic": [2]
+    "size": [
+      1,
+      2
+    ],
+    "sun": [
+      1,
+      2
+    ],
+    "water": [
+      1
+    ],
+    "spread": [
+      1,
+      2
+    ],
+    "seasons": [
+      1,
+      2
+    ],
+    "wildlife": [
+      1,
+      2
+    ],
+    "deer": [
+      1,
+      2
+    ],
+    "toxic": [
+      2
+    ]
   },
   "edible": {
     "level": "inedible",

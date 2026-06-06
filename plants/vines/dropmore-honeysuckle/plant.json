@@ -4,6 +4,13 @@
   "type": "Vine",
   "lifecycle": "Perennial",
   "native": "Non-native",
+  "flower_color": [
+    "red"
+  ],
+  "bloom": [
+    "summer",
+    "fall"
+  ],
   "blurb": "A Canadian-bred cold-hardy twining vine that puts on a blazing long display of scarlet tubular flowers from early summer into fall — one of the best hummingbird plants for northern gardens.",
   "size": "8–12 ft × 6–10 ft",
   "sun": "Full sun to part shade",
@@ -32,16 +39,40 @@
     "companions": "Plant beneath with drought-tolerant perennials that share the hummingbird theme: Salvia nemorosa, Russian sage, echinacea, or agastache. Pairs well with clematis on the same trellis for multi-season interest.[4]"
   },
   "fact_src": {
-    "size": [1, 3],
-    "sun": [1],
-    "water": [1],
-    "spread": [1, 3],
-    "seasons": [1, 3],
-    "wildlife": [1, 3],
-    "deer": [1],
-    "toxic": [5],
-    "origin": [1],
-    "habitat": [1]
+    "size": [
+      1,
+      3
+    ],
+    "sun": [
+      1
+    ],
+    "water": [
+      1
+    ],
+    "spread": [
+      1,
+      3
+    ],
+    "seasons": [
+      1,
+      3
+    ],
+    "wildlife": [
+      1,
+      3
+    ],
+    "deer": [
+      1
+    ],
+    "toxic": [
+      5
+    ],
+    "origin": [
+      1
+    ],
+    "habitat": [
+      1
+    ]
   },
   "edible": {
     "level": "caution",

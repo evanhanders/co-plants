@@ -45,14 +45,20 @@ h1.display{font-size:clamp(34px,7vw,58px);font-weight:600;line-height:.98;margin
 .clearfilters{border:none;background:none;font-family:'Fraunces',Georgia,serif;font-size:12px;font-style:normal;letter-spacing:.02em;color:var(--rust);cursor:pointer;padding:0;text-decoration:underline;text-underline-offset:2px}
 .clearfilters:hover{color:var(--ink)}
 .clearfilters[hidden]{display:none}
-.filters{display:flex;gap:8px 16px;flex-wrap:wrap;align-items:center;margin:6px 0 2px}
-.filters .fl-label{font-size:11px;letter-spacing:.16em;text-transform:uppercase;color:var(--ink-soft)}
-.chips{display:inline-flex;gap:6px;flex-wrap:wrap}
-.chip{border:1.5px solid var(--line);background:var(--card);color:var(--ink-soft);font-family:'Fraunces',Georgia,serif;font-size:12.5px;padding:6px 12px;border-radius:20px;cursor:pointer;transition:.15s;letter-spacing:.01em}
+.filters{display:flex;flex-direction:column;gap:7px;margin:8px 0 2px}
+.fgroup{display:flex;gap:6px 10px;align-items:baseline;flex-wrap:wrap}
+.fgroup .fl-label{flex:0 0 auto;width:84px;text-align:right;font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:var(--ink-soft);padding-top:2px}
+.fgroup .chips{flex:1 1 0;min-width:0}
+.chips{display:flex;gap:6px;flex-wrap:wrap}
+.chip{display:inline-flex;align-items:center;border:1.5px solid var(--line);background:var(--card);color:var(--ink-soft);font-family:'Fraunces',Georgia,serif;font-size:12.5px;padding:6px 12px;border-radius:20px;cursor:pointer;transition:background .15s,border-color .15s,color .15s,opacity .15s;letter-spacing:.01em}
 .chip:hover{border-color:var(--ink);color:var(--ink)}
 .chip.active{background:var(--green);border-color:var(--green);color:#fff}
-.chip .gc{margin-left:3px;font-size:10px;opacity:.7}
+.chip.off{opacity:.32;cursor:default;pointer-events:none}
+.chip .sw{display:inline-block;width:11px;height:11px;border-radius:50%;margin-right:6px;border:1px solid rgba(0,0,0,.28);flex:0 0 auto}
+.chip.active .sw{border-color:rgba(255,255,255,.6)}
+.chip .gc{margin-left:4px;font-size:10px;opacity:.7;font-variant-numeric:tabular-nums}
 .chip.active .gc{color:#fff;opacity:.85}
+@media(max-width:560px){.fgroup{flex-direction:column;gap:3px}.fgroup .fl-label{width:auto;text-align:left}}
 .seg.mini button{padding:8px 12px;font-size:12.5px}
 .note{font-size:11.5px;color:#8a6a10;background:#fff7df;border:1px solid #e6d28a;border-radius:3px;padding:8px 11px;margin:8px 0 6px}
 .grp{margin-top:8px}

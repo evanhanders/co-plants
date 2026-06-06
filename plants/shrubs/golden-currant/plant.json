@@ -4,6 +4,12 @@
   "type": "Shrub",
   "lifecycle": "Perennial",
   "native": "CO native",
+  "flower_color": [
+    "yellow"
+  ],
+  "bloom": [
+    "spring"
+  ],
   "blurb": "A tough, thornless native currant that wreaths itself in clove-scented golden trumpets each spring, then ripens sweet amber-to-black berries — a hummingbird magnet that thrives in alkaline clay from streambank to dry slope.",
   "size": "3–10 ft × 3–6 ft",
   "sun": "Full sun to part shade; best flowering and fruiting in full sun",

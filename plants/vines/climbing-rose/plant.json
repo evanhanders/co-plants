@@ -4,6 +4,18 @@
   "type": "Vine",
   "lifecycle": "Perennial",
   "native": "Non-native",
+  "flower_color": [
+    "red",
+    "pink",
+    "white",
+    "yellow",
+    "orange"
+  ],
+  "bloom": [
+    "spring",
+    "summer",
+    "fall"
+  ],
   "blurb": "Stiff-caned roses trained upright on a wall or trellis, many reblooming all summer.",
   "size": "Climbs 6–15 ft × 3–6 ft",
   "sun": "Full sun",

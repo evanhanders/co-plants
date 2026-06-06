@@ -5,6 +5,14 @@
   "lifecycle": "Perennial",
   "native": "Non-native",
   "bloom_season": "Summer",
+  "flower_color": [
+    "yellow"
+  ],
+  "bloom": [
+    "spring",
+    "summer",
+    "fall"
+  ],
   "blurb": "A woolly silver-leaved mound that throws up long-stemmed, brilliant lemon-yellow daisies for months on end in the hottest, driest, leanest ground.",
   "size": "1–1.5 ft × 1–1.5 ft",
   "sun": "Full sun",

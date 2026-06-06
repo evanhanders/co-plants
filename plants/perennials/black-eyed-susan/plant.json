@@ -5,6 +5,13 @@
   "lifecycle": "Perennial",
   "native": "Non-native",
   "bloom_season": "Summer",
+  "flower_color": [
+    "yellow"
+  ],
+  "bloom": [
+    "summer",
+    "fall"
+  ],
   "blurb": "The cheerful prairie daisy — golden petals around a dark chocolate cone, blooming for months and seeding itself into easygoing drifts that bees and goldfinches love.",
   "size": "2–3 ft × 1–2 ft",
   "sun": "Full sun to part shade",

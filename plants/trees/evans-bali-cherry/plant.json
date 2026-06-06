@@ -4,6 +4,12 @@
   "type": "Tree",
   "lifecycle": "Perennial",
   "native": "Introduced",
+  "flower_color": [
+    "white"
+  ],
+  "bloom": [
+    "spring"
+  ],
   "blurb": "Zone-3-hardy tart cherry, self-fertile and sweet enough to eat fresh or bake into pie.",
   "size": "~10–14 ft × 10–12 ft",
   "sun": "Full sun (6+ hrs)",

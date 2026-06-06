@@ -5,6 +5,13 @@
   "lifecycle": "Perennial",
   "native": "Non-native",
   "bloom_season": "Summer",
+  "flower_color": [
+    "white",
+    "yellow"
+  ],
+  "bloom": [
+    "summer"
+  ],
   "blurb": "The classic, well-behaved white daisy — the safe garden stand-in for noxious oxeye — with big golden-eyed blooms all summer.",
   "size": "2–4 ft × 1–2 ft",
   "sun": "Full sun",
@@ -33,16 +40,39 @@
     "propagation": "Division is the easiest and most recommended method: every 2–3 years in early spring (before growth begins) or in late summer after bloom fades, dig the clump, split it with a sharp spade or two forks back-to-back, discard the woody center, and replant vigorous outer sections 18–24 in. apart. Spring division gives the best establishment; late-summer division is also reliable on the Front Range if done by early September. Seed is straightforward for species and open-pollinated cultivars — surface-sow or cover lightly (⅛ in.) indoors 6–8 weeks before last frost at 70°F, or direct-sow in spring; seedlings bloom in year one or two. Named cultivars (especially sterile selections like 'Becky') do not come true from seed and must be propagated by division or basal stem cuttings. Basal cuttings taken in spring (3–4 in. shoots with a slight heel cut when stems are 4–6 in. tall) root readily in moist perlite and are useful for scaling up a favorite cultivar.[1][2]"
   },
   "fact_src": {
-    "size": [1, 2],
-    "sun": [1, 2],
-    "water": [1],
-    "spread": [1],
-    "seasons": [1, 2],
-    "wildlife": [1],
-    "deer": [1],
-    "toxic": [1],
-    "origin": [1],
-    "habitat": [1]
+    "size": [
+      1,
+      2
+    ],
+    "sun": [
+      1,
+      2
+    ],
+    "water": [
+      1
+    ],
+    "spread": [
+      1
+    ],
+    "seasons": [
+      1,
+      2
+    ],
+    "wildlife": [
+      1
+    ],
+    "deer": [
+      1
+    ],
+    "toxic": [
+      1
+    ],
+    "origin": [
+      1
+    ],
+    "habitat": [
+      1
+    ]
   },
   "edible": {
     "level": "inedible",

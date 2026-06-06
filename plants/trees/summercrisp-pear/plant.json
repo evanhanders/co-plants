@@ -4,6 +4,12 @@
   "type": "Tree",
   "lifecycle": "Perennial",
   "native": "Introduced",
+  "flower_color": [
+    "white"
+  ],
+  "bloom": [
+    "spring"
+  ],
   "blurb": "Cold-hardy, fire-blight-resistant pear, picked crisp and sweet in mid-summer.",
   "size": "~18–25 ft × 12–15 ft",
   "sun": "Full sun (6+ hrs)",

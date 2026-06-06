@@ -4,6 +4,14 @@
   "type": "Subshrub",
   "lifecycle": "Perennial",
   "native": "Non-native",
+  "flower_color": [
+    "pink",
+    "red"
+  ],
+  "bloom": [
+    "winter",
+    "spring"
+  ],
   "blurb": "Low evergreen mat that sheets itself in tiny pink bells from late winter — a genuine cold-season bloomer (needs acid soil, so grow it in a pot here).",
   "size": "6–12 in × 6–18 in",
   "sun": "Full sun to part shade",

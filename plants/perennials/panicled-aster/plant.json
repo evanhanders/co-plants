@@ -5,6 +5,13 @@
   "lifecycle": "Perennial",
   "native": "CO native",
   "bloom_season": "Fall",
+  "flower_color": [
+    "white",
+    "purple"
+  ],
+  "bloom": [
+    "fall"
+  ],
   "blurb": "A tall, willow-leaved native aster that erupts in sprays of white-to-pale-lilac daisies in fall — a vigorous colonizer for moist, sunny spots that needs room to roam.",
   "size": "2–5 ft × 2–4 ft (spreading)",
   "sun": "Full sun to part shade",
@@ -32,14 +39,35 @@
     "companions": "Wild bergamot, tall goldenrod, Joe-Pye weed, blue wild indigo, red-twig dogwood — plants that tolerate or prefer moister sites and can hold their own against a colonizing aster.[1]"
   },
   "fact_src": {
-    "size": [1, 2],
-    "sun": [1, 2],
-    "water": [1],
-    "spread": [1, 2],
-    "seasons": [1, 2],
-    "wildlife": [1, 2],
-    "deer": [1],
-    "toxic": [3]
+    "size": [
+      1,
+      2
+    ],
+    "sun": [
+      1,
+      2
+    ],
+    "water": [
+      1
+    ],
+    "spread": [
+      1,
+      2
+    ],
+    "seasons": [
+      1,
+      2
+    ],
+    "wildlife": [
+      1,
+      2
+    ],
+    "deer": [
+      1
+    ],
+    "toxic": [
+      3
+    ]
   },
   "edible": {
     "level": "inedible",

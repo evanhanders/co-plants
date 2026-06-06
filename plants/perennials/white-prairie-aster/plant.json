@@ -5,6 +5,13 @@
   "lifecycle": "Perennial",
   "native": "CO native",
   "bloom_season": "Fall",
+  "flower_color": [
+    "white"
+  ],
+  "bloom": [
+    "summer",
+    "fall"
+  ],
   "blurb": "A low, compact native aster that smothers itself in small white daisies from late summer into fall — one of the toughest, most xeric-adapted asters on the High Plains and foothills of Colorado.",
   "size": "8–30 in × 12–18 in",
   "sun": "Full sun",

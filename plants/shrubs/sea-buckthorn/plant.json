@@ -4,6 +4,12 @@
   "type": "Shrub",
   "lifecycle": "Perennial",
   "native": "Non-native",
+  "flower_color": [
+    "green"
+  ],
+  "bloom": [
+    "spring"
+  ],
   "blurb": "A vigorous, suckering silver-leaved shrub armed with vicious thorns and studded in fall with dense clusters of intensely tart, vitamin-C-rich orange berries.",
   "size": "6–16 ft × 6–13 ft",
   "sun": "Full sun",

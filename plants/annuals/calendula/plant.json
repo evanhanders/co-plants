@@ -5,6 +5,14 @@
   "lifecycle": "Annual",
   "native": "Non-native",
   "bloom_season": "Summer",
+  "flower_color": [
+    "yellow",
+    "orange"
+  ],
+  "bloom": [
+    "spring",
+    "fall"
+  ],
   "blurb": "The true edible 'pot marigold' — cheerful yellow-to-orange daisies on aromatic stems that bloom hardest in cool spring and fall, sulking only in midsummer heat.",
   "size": "1–2 ft × 1–2 ft",
   "sun": "Full sun to part afternoon shade",

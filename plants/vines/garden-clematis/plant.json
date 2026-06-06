@@ -4,6 +4,12 @@
   "type": "Vine",
   "lifecycle": "Perennial",
   "native": "Non-native",
+  "flower_color": [
+    "purple"
+  ],
+  "bloom": [
+    "summer"
+  ],
   "blurb": "Classic large-flowered climber — sheets of velvety violet-purple on a sunny trellis.",
   "size": "Climbs 6–12 ft × 2–3 ft",
   "sun": "Full sun–part shade — top in sun, roots shaded",
@@ -33,16 +39,40 @@
     "propagation": "Layering is the easiest reliable method for home gardeners: in spring or early summer, bend a flexible stem to the ground (or into a pot of compost set alongside), nick the underside of a node, peg it down, and cover with soil — roots form at the node within a few weeks to months; sever and transplant the rooted layer the following spring. Semi-ripe cuttings taken in June–July (4–6 in, nodal, with lower leaves removed) root well in a gritty mix under a humid cover at around 65–70°F, though they require a season to grow on before transplanting. Division of an established crown is possible but clematis resent root disturbance and divisions are slow to re-establish — layering or cuttings are preferable. Seed is rarely used for cultivars like 'Jackmanii' since offspring are variable and take 2–3 years to bloom. For home gardens, buying a container-grown plant is often the most practical starting point; propagate by layering once established.[3]"
   },
   "fact_src": {
-    "size": [2, 3],
-    "sun": [2, 3],
-    "water": [3],
-    "spread": [3],
-    "seasons": [1, 2],
-    "wildlife": [3],
-    "deer": [3],
-    "toxic": [3, 4],
-    "origin": [2],
-    "habitat": [2]
+    "size": [
+      2,
+      3
+    ],
+    "sun": [
+      2,
+      3
+    ],
+    "water": [
+      3
+    ],
+    "spread": [
+      3
+    ],
+    "seasons": [
+      1,
+      2
+    ],
+    "wildlife": [
+      3
+    ],
+    "deer": [
+      3
+    ],
+    "toxic": [
+      3,
+      4
+    ],
+    "origin": [
+      2
+    ],
+    "habitat": [
+      2
+    ]
   },
   "edible": {
     "level": "toxic",

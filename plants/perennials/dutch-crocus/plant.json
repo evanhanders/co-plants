@@ -5,6 +5,14 @@
   "lifecycle": "Perennial",
   "native": "Non-native",
   "bloom_season": "Spring",
+  "flower_color": [
+    "purple",
+    "white"
+  ],
+  "bloom": [
+    "winter",
+    "spring"
+  ],
   "blurb": "The big, goblet-flowered spring crocus — larger and a touch later than the snow crocus — that naturalizes through lawns in purple, white, and striped drifts to feed the very first bees.",
   "size": "3–6 in × 3–6 in",
   "sun": "Full sun to part shade",

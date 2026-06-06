@@ -4,6 +4,12 @@
   "type": "Tree",
   "lifecycle": "Perennial",
   "native": "Introduced",
+  "flower_color": [
+    "white"
+  ],
+  "bloom": [
+    "spring"
+  ],
   "blurb": "Self-fertile European prune plum: sweet blue fruit superb fresh, dried, or canned.",
   "size": "~12–18 ft × 12–15 ft",
   "sun": "Full sun (6+ hrs)",

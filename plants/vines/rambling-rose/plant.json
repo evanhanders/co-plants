@@ -4,6 +4,15 @@
   "type": "Vine",
   "lifecycle": "Perennial",
   "native": "Non-native",
+  "flower_color": [
+    "pink",
+    "white",
+    "red",
+    "yellow"
+  ],
+  "bloom": [
+    "summer"
+  ],
   "blurb": "Vigorous, flexible-caned roses that 'wander' over fences & arbors in one big flush — plant named cultivars, not invasive wild multiflora rose.",
   "size": "Sprawls 15–30 ft × 6–15 ft",
   "sun": "Full sun–part shade",

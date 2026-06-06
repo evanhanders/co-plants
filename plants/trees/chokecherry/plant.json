@@ -4,6 +4,12 @@
   "type": "Tree",
   "lifecycle": "Perennial",
   "native": "CO native",
+  "flower_color": [
+    "white"
+  ],
+  "bloom": [
+    "spring"
+  ],
   "blurb": "Wildlife powerhouse: fragrant white flower racemes, dark fruit, golden fall color.",
   "size": "~12 ft × 13.5 ft (to 20–30 ft)",
   "sun": "Full sun–part shade",
@@ -32,14 +38,36 @@
     "propagation": "Seed is the most practical route for large plantings: collect ripe dark fruit in August–September, extract seeds, and cold-moist stratify at 34–40°F for 120–160 days before spring sowing — or sow fresh seed outdoors in fall and let winter do the stratifying. Vegetatively, chokecherry is easiest from its own rhizomes and suckers: sever rooted suckers from the parent with a sharp spade in early spring and replant immediately. Softwood or semi-hardwood stem cuttings taken in early summer, treated with rooting hormone and kept in a humid frame, also succeed. For a single-specimen tree, nursery stock is the fastest path.[1][3]"
   },
   "fact_src": {
-    "size": [1, 2],
-    "sun": [1, 2],
-    "water": [2],
-    "spread": [1, 3],
-    "seasons": [1, 2],
-    "wildlife": [1, 3],
-    "deer": [3],
-    "toxic": [1, 3]
+    "size": [
+      1,
+      2
+    ],
+    "sun": [
+      1,
+      2
+    ],
+    "water": [
+      2
+    ],
+    "spread": [
+      1,
+      3
+    ],
+    "seasons": [
+      1,
+      2
+    ],
+    "wildlife": [
+      1,
+      3
+    ],
+    "deer": [
+      3
+    ],
+    "toxic": [
+      1,
+      3
+    ]
   },
   "edible": {
     "level": "caution",

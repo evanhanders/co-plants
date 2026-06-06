@@ -5,6 +5,16 @@
   "lifecycle": "Perennial",
   "native": "Non-native",
   "bloom_season": "Summer",
+  "flower_color": [
+    "red",
+    "pink",
+    "white"
+  ],
+  "bloom": [
+    "spring",
+    "summer",
+    "fall"
+  ],
   "blurb": "Jupiter's beard — dense rose-red flower clusters bloom relentlessly all summer above glaucous blue-gray foliage, thriving in the lean alkaline soil and rock walls where most plants struggle.",
   "size": "18–36 in × 12–24 in",
   "sun": "Full sun to part shade",

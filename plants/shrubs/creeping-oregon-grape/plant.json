@@ -4,6 +4,12 @@
   "type": "Shrub",
   "lifecycle": "Perennial",
   "native": "CO native",
+  "flower_color": [
+    "yellow"
+  ],
+  "bloom": [
+    "spring"
+  ],
   "blurb": "A low, stoloniferous native evergreen with holly-like leaves that flush bronze-purple in winter, cheerful yellow flowers in spring, and clusters of tart blue berries in fall — one of the most versatile and tough ground-covering shrubs for Front Range shade or sun.",
   "size": "1–2 ft × 2–5 ft (spreads slowly by suckers)",
   "sun": "Full sun to full shade",
@@ -32,14 +38,38 @@
     "companions": "Douglas fir, ponderosa pine, native oaks, red-twig dogwood, wood's rose, and shade-tolerant native perennials like columbine (*Aquilegia coerulea*) and wild ginger. Pairs well with kinnikinnick for a layered native groundcover planting in dry shade.[2]"
   },
   "fact_src": {
-    "size": [1, 2],
-    "sun": [1, 2],
-    "water": [1, 2],
-    "spread": [1, 2],
-    "seasons": [1, 2],
-    "wildlife": [1, 2],
-    "deer": [1, 2],
-    "toxic": [1, 3]
+    "size": [
+      1,
+      2
+    ],
+    "sun": [
+      1,
+      2
+    ],
+    "water": [
+      1,
+      2
+    ],
+    "spread": [
+      1,
+      2
+    ],
+    "seasons": [
+      1,
+      2
+    ],
+    "wildlife": [
+      1,
+      2
+    ],
+    "deer": [
+      1,
+      2
+    ],
+    "toxic": [
+      1,
+      3
+    ]
   },
   "edible": {
     "level": "caution",

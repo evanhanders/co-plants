@@ -5,6 +5,14 @@
   "lifecycle": "Perennial",
   "native": "Non-native",
   "bloom_season": "Spring",
+  "flower_color": [
+    "white",
+    "pink"
+  ],
+  "bloom": [
+    "winter",
+    "spring"
+  ],
   "blurb": "Leathery evergreen perennial whose white cups open in the dead of winter — one of the very few true midwinter flowers for early bees.",
   "size": "9–12 in × 12–18 in",
   "sun": "Part to full shade",

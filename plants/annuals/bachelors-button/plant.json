@@ -5,6 +5,15 @@
   "lifecycle": "Annual",
   "native": "Non-native",
   "bloom_season": "Summer",
+  "flower_color": [
+    "blue",
+    "pink",
+    "white"
+  ],
+  "bloom": [
+    "spring",
+    "summer"
+  ],
   "blurb": "The cottage-garden cornflower — intense true-blue (or pink/white) fringed buttons on wiry grey-green stems, an easy cool-season annual that reseeds and draws bees by the dozen.",
   "size": "1–3 ft × 1–2 ft",
   "sun": "Full sun",

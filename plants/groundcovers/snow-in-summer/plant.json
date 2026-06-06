@@ -4,6 +4,13 @@
   "type": "Groundcover",
   "lifecycle": "Perennial",
   "native": "Non-native",
+  "flower_color": [
+    "white"
+  ],
+  "bloom": [
+    "spring",
+    "summer"
+  ],
   "blurb": "A silver-gray mat of woolly foliage that erupts into a froth of small white star flowers in late spring — stunning in lean, rocky soil where its spreading is kept in check.",
   "size": "4–8 in × 12–18 in",
   "sun": "Full sun",

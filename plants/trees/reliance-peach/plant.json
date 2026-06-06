@@ -4,6 +4,12 @@
   "type": "Tree",
   "lifecycle": "Perennial",
   "native": "Introduced",
+  "flower_color": [
+    "pink"
+  ],
+  "bloom": [
+    "spring"
+  ],
   "blurb": "The hardiest peach and one of the last to bloom — the Front Range's best shot at homegrown peaches.",
   "size": "~10–15 ft × 10–15 ft",
   "sun": "Full sun (6+ hrs), sheltered site",

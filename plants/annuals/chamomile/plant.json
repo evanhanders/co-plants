@@ -5,6 +5,14 @@
   "lifecycle": "Annual",
   "native": "Non-native",
   "bloom_season": "Summer",
+  "flower_color": [
+    "white",
+    "yellow"
+  ],
+  "bloom": [
+    "summer",
+    "fall"
+  ],
   "blurb": "The apple-scented tea chamomile — a froth of little white-and-gold daisies over ferny foliage that pulls in beneficial insects and earns its old name, 'the plant's physician.'",
   "size": "1–2 ft × 6–12 in",
   "sun": "Full sun to part shade",

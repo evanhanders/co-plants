@@ -4,6 +4,13 @@
   "type": "Shrub",
   "lifecycle": "Perennial",
   "native": "CO native",
+  "flower_color": [
+    "yellow"
+  ],
+  "bloom": [
+    "spring",
+    "summer"
+  ],
   "blurb": "A bold native riparian shrub — pairs of yellow tubular flowers give way to glossy black twin berries cradled in showy deep-red bracts, a hummingbird and songbird magnet from flower to fruit.",
   "size": "4–10 ft × 4–8 ft",
   "sun": "Full sun to part shade",

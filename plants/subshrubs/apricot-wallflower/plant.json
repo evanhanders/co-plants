@@ -4,6 +4,14 @@
   "type": "Subshrub",
   "lifecycle": "Perennial",
   "native": "Introduced",
+  "flower_color": [
+    "orange",
+    "pink"
+  ],
+  "bloom": [
+    "spring",
+    "summer"
+  ],
   "blurb": "A long-blooming perennial wallflower whose flowers open apricot and age to mauve-pink — months of warm color. Short-lived; needs sharp drainage.",
   "size": "~1.5–2.5 ft × 2 ft",
   "sun": "Full sun",

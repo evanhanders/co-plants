@@ -5,6 +5,13 @@
   "lifecycle": "Perennial",
   "native": "Non-native",
   "bloom_season": "Summer",
+  "flower_color": [
+    "red"
+  ],
+  "bloom": [
+    "summer",
+    "fall"
+  ],
   "blurb": "Wiry, branching stems carry wine-red pincushion flowers from midsummer through early fall — a pollinator magnet that weaves airy drifts through a border without ever dominating it.",
   "size": "24–32 in × 18–24 in",
   "sun": "Full sun",

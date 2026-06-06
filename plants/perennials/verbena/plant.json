@@ -4,6 +4,14 @@
   "type": "Groundcover",
   "lifecycle": "Tender perennial",
   "native": "Non-native",
+  "flower_color": [
+    "purple"
+  ],
+  "bloom": [
+    "spring",
+    "summer",
+    "fall"
+  ],
   "blurb": "A heat-loving, drought-tolerant trailing mat that carpets itself with vivid purple flower clusters from late spring until hard frost, drawing butterflies all season and rooting wherever its stems touch soil.",
   "size": "6–12 in × 18–36 in",
   "sun": "Full sun",

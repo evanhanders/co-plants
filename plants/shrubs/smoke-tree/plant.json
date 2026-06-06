@@ -4,6 +4,13 @@
   "type": "Shrub",
   "lifecycle": "Perennial",
   "native": "Non-native",
+  "flower_color": [
+    "pink",
+    "purple"
+  ],
+  "bloom": [
+    "summer"
+  ],
   "blurb": "A large, dramatic shrub famed for billowing clouds of feathery pink-to-purple seed plumes in summer and some of the most vivid orange-to-scarlet fall color of any Front Range shrub — especially striking in purple-leaf cultivars like 'Royal Purple'.",
   "size": "10–15 ft × 10–20 ft",
   "sun": "Full sun",
@@ -31,16 +38,41 @@
     "troubles": "Generally low-pest, low-disease. Verticillium wilt is the most serious problem — infected branches wilt and die back; remove affected wood well below the discoloration and do not compost. Leaf spot and rust are occasional cosmetic issues; improve airflow and avoid overhead watering. No serious insect pests. Stem dieback after a severe winter is normal — cut dead tips back to live wood in spring.[1][2]"
   },
   "fact_src": {
-    "size": [1, 2],
-    "sun": [1, 3],
-    "water": [1, 2],
-    "spread": [1, 2],
-    "seasons": [1, 2],
-    "wildlife": [2],
-    "deer": [2],
-    "toxic": [2],
-    "origin": [2],
-    "habitat": [2]
+    "size": [
+      1,
+      2
+    ],
+    "sun": [
+      1,
+      3
+    ],
+    "water": [
+      1,
+      2
+    ],
+    "spread": [
+      1,
+      2
+    ],
+    "seasons": [
+      1,
+      2
+    ],
+    "wildlife": [
+      2
+    ],
+    "deer": [
+      2
+    ],
+    "toxic": [
+      2
+    ],
+    "origin": [
+      2
+    ],
+    "habitat": [
+      2
+    ]
   },
   "edible": {
     "level": "inedible",

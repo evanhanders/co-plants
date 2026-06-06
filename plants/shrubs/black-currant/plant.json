@@ -4,6 +4,13 @@
   "type": "Shrub",
   "lifecycle": "Perennial",
   "native": "Non-native",
+  "flower_color": [
+    "green",
+    "pink"
+  ],
+  "bloom": [
+    "spring"
+  ],
   "blurb": "A compact bush of intensely aromatic, blackcurrant-scented foliage and matte-black berries that cook into a deep, musky, incomparable jam and cordial.",
   "size": "3–4 ft × 3–4 ft",
   "sun": "Full sun to part shade",

@@ -55,5 +55,67 @@
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/229570992"
     }
-  ]
+  ],
+  "care": {
+    "hardiness": "One of the most cold-hardy, easy beardtongues for the Front Range — reliably perennial through Boulder's USDA 5b–6a winters (a semi-evergreen native forb of the southern Rockies, ~5,000–9,000 ft).[2][3]",
+    "planting": "Set out container plants in spring after the mid-May average last frost, or in early fall so roots establish before winter; space into unamended, gritty ground. In pots use a lean, fast-draining cactus/gravel mix — containers stay wetter and rot crowns far more readily than open ground, so never let them sit soggy.[1][2]",
+    "sun": "Full sun — at least six hours — for erect stems and the clearest blue color; tolerates light afternoon shade but flops and pales in too much.[1]",
+    "soil": "Demands sharp drainage and lean soil; it is the most clay-tolerant of the penstemons but still resents Boulder's heavy, wet ground — plant on a slope, in gritty/decomposed-granite soil, and do NOT enrich with compost, which shortens its life and invites crown rot.[1][2]",
+    "water": "Xeric once established — low water, though it wants adequate spring moisture to bloom well; overwatering after flowering causes crown and root rot, so keep summer irrigation minimal.[1]",
+    "spacing": "Space roughly 12–18 in apart; plants reach about 1.5–3 ft tall in bloom and form an evergreen basal mat.[2][3]",
+    "propagation": "Easiest from seed, which needs cold-moist stratification: fall-sow outdoors for natural chilling, or stratify ~4–6 weeks moist at ~40°F before a late-winter indoor start. Some seed waits until the second year, and plants typically first bloom their second season. Penstemons resent division — propagate clones instead from short basal/softwood cuttings rather than splitting the crown.[2][1]",
+    "sow": "Sow 1/8 to no more than 1/4 in deep into a firm, weed-free seedbed with good seed-to-soil contact; fall sowing supplies the needed natural cold stratification.[2]",
+    "stratify": "Cold-moist stratify about 4–6 weeks at ~40°F (or fall-sow for natural winter chilling) to break dormancy.[2]",
+    "bloom": "Spikes of deep blue-purple tubular flowers in late spring to early summer (about May–June on the Front Range); deadhead spent stalks to tidy and lengthen plant life.[1][3]",
+    "feeding": "None needed — in ordinary garden soil penstemons require no fertilizer, and feeding them only makes lanky growth and shortens their lifespan.[1]",
+    "maintenance": "Low: deadhead after bloom (but ease off summer water once it does, to avoid crown rot), and leave the evergreen basal rosette over winter; cut spent flower stems back in late fall or early spring.[1]",
+    "troubles": "Few problems beyond crown/root rot in wet, poorly drained or amended soil; grasshoppers, flea beetles and rust fungi are occasional pests.[1]",
+    "companions": "A workhorse for xeric beds and pollinator borders — pairs with other dryland natives and ornamental grasses in lean, sunny ground.[2]"
+  },
+  "references": [
+    {
+      "name": "CSU Extension — Growing Penstemons",
+      "url": "https://extension.colostate.edu/resource/growing-penstemons/"
+    },
+    {
+      "name": "USDA NRCS Plant Guide — Rocky Mountain penstemon (Penstemon strictus)",
+      "url": "https://www.nrcs.usda.gov/plantmaterials/idpmcpg12070.pdf"
+    },
+    {
+      "name": "Lady Bird Johnson Wildflower Center — Penstemon strictus",
+      "url": "https://www.wildflower.org/plants/result.php?id_plant=pest2"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      2,
+      3
+    ],
+    "sun": [
+      1
+    ],
+    "water": [
+      1,
+      2
+    ],
+    "spread": [
+      2
+    ],
+    "seasons": [
+      1,
+      3
+    ],
+    "wildlife": [
+      3
+    ],
+    "deer": [
+      1
+    ]
+  },
+  "edible": {
+    "level": "inedible",
+    "food": false,
+    "summary": "Grown ornamentally as a native pollinator plant — no documented edible use.[3]",
+    "caution": "No known culinary use; not documented as poisonous, but it is not a food plant — don't eat it.[3]"
+  }
 }

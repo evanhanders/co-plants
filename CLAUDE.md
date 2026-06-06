@@ -131,6 +131,7 @@ plant.js                # detail-page behaviour (fetch one plant, render the "sh
 .nojekyll               # serve everything verbatim on Pages
 plants/
   manifest.json         # { "plants": ["trees/chokecherry", ...] } — the list to load
+  collections.json      # { "collections": { "<id>": {name, group, lead, blurb} } } — family-card metadata
   <category>/<slug>/
     plant.json          # one plant's full record (card fields + photo "shots" + optional care)
     images/             # repo-hosted photos: <shot>.jpg full + <shot>-t.jpg thumb + credits.json
@@ -190,6 +191,11 @@ is **NOT** the grouping. A file can live in `plants/perennials/` yet be a `Groun
   This is the **filter** field and spans *all* growth forms — distinct from `bloom_season` (a single
   primary value that only `Forb`s carry, used for grid grouping). Foliage/grasses with no bloom use `[]`.
   Drives the **Bloom** filter group.
+- **`collection`** *(optional string id)* — folds this plant into a **family card** with its
+  cultivar/genus siblings (e.g. `"collection":"apples"`). The id must exist in
+  `plants/collections.json`. Membership is the *only* thing that lives on the plant; the family's
+  display name, home section, lead photo and blurb live in `collections.json`. See "Collections
+  (family cards)" below. Omit it for standalone plants.
 - `commons:'File.jpg'` — legacy primary photo (a Commons filename). May be `""`. Once a
   plant has repo-hosted `shots`, this is just dead fallback metadata; new plants don't
   need it.
@@ -364,6 +370,46 @@ driven off one predicate so they can't drift. To add one (e.g. `Fragrant`):
    round-trip + faceted counts + Clear-all then cover it automatically.
 5. **If the predicate reads a new data field, populate it** on the qualifying `plant.json`s (and
    document the field in the "`plant.json` schema" list). Then sanity-check the count.
+
+### Collections (family cards)
+
+Cultivar/genus clusters (apples, plums, tart cherries, currants, pelargoniums, wallflowers,
+asters, irises, tulips, climbing/rambling roses, hardy geraniums, crocuses, penstemons) collapse
+into a **single expandable family card** so the grid isn't buried under near-duplicate cards. It's
+an **inline accordion**, not a separate page — each member keeps its own detail page untouched.
+
+**Data model (two parts):**
+- **Membership** is one field on the member's `plant.json`: `"collection":"<id>"`. That's all a
+  plant declares.
+- **Display metadata** lives in **`plants/collections.json`** — `{ "collections": { "<id>":
+  {name, group, lead, blurb} } }`. `name` = the family card title; `group` = which morphology
+  **section** the one family card sits in (a `GROUP_ORDER` value); `lead` = the **slug tail** of the
+  member whose photo reel is the cover; `blurb` = the sub-line. `app.js` fetches it in `loadSeed()`
+  into `COLLECTIONS`.
+
+**How it renders (type view only — A–Z stays a flat list of every plant).** In `render()` the
+filtered `list` is folded into **items** bucketed by section: standalone plants are normal cards;
+a collection with **≥2 visible members** becomes one `familyCardHTML` item placed in its home
+`group`; a collection with **exactly 1 visible member** falls back to a plain card in that member's
+own section (so a lone match — or a filter that narrows a family to one — never hides behind a
+pointless wrapper). The family cover reuses the lead's `plateHTML` reel; member cards are verbatim
+`cardHTML`. Collapsed, the family is a normal grid cell; **open**, it sets `grid-column:1/-1` to
+break out to a full-width band whose nested `.grid` lays the members out multi-column (CSS in the
+"collection (family) cards" block). The expander toggles `.open` **in place** (no full re-render →
+keeps scroll); `famOpen` remembers which are open. A search or any active filter **force-opens**
+every family so matches are visible; the section header tally and the "Showing N of M plants"
+legend count **plants**, not cards.
+
+**Mixed-morphology collections** (penstemons span Subshrub + Forb; pelargoniums, wallflowers also
+mix) keep each member's honest `type` — the family is simply *placed* in its declared home `group`.
+Known minor wart: with a **Form** filter active, a family whose matching member's form differs from
+its home `group` still shows in its home section (e.g. filtering `Subshrubs` can surface the
+`Summer forbs`-homed Penstemons card). Acceptable and rare; don't try to duplicate the card across
+sections to "fix" it.
+
+**To add/extend a collection:** add (or reuse) an id in `collections.json`, then set
+`"collection":"<id>"` on each member `plant.json`. Two members minimum to get a family card. No
+`app.js` change needed.
 
 **Accessibility.** Photos are `role="button" tabindex="0"` with descriptive per-shot `alt`;
 group-collapse chevrons are real `<button>`s with `aria-expanded`; the lightbox is a

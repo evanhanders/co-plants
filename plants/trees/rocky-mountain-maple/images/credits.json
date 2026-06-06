@@ -1,0 +1,53 @@
+[
+  {
+    "file": "images/su-foliage.jpg",
+    "photo_id": 430111874,
+    "by": "OmriB",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/241343913",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      931
+    ],
+    "thumb_px": [
+      400,
+      266
+    ]
+  },
+  {
+    "file": "images/su-habit.jpg",
+    "photo_id": 154660913,
+    "by": "jreithel",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/93324001",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  },
+  {
+    "file": "images/sp-spring.jpg",
+    "photo_id": 508992137,
+    "by": "David Martin",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/283276398",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      933
+    ],
+    "thumb_px": [
+      400,
+      267
+    ]
+  }
+]

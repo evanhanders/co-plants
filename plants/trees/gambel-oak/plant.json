@@ -1,0 +1,122 @@
+{
+  "common": "Gambel oak",
+  "botanical": "Quercus gambelii",
+  "type": "Tree",
+  "lifecycle": "Perennial",
+  "native": "CO native",
+  "flower_color": [],
+  "bloom": [],
+  "blurb": "The iconic scrub oak of the Front Range foothills — deeply lobed leaves turning gold and russet in fall, acorns that feed everything, and a tough, thicket-forming nature that thrives on dry slopes.",
+  "size": "~15–30 ft tall × 15–25 ft wide (often a multi-stem thicket)",
+  "sun": "Full sun to part shade",
+  "water": "Low; xeric",
+  "spread": "Suckers into clonal thickets",
+  "seasons": "Deeply lobed green leaves turning gold-russet in fall; acorns late summer–fall; bare gray branches in winter",
+  "wildlife": "Acorns and cover are a wildlife powerhouse — deer, turkeys, jays, squirrels; larval host for many butterflies and moths",
+  "deer": "Browsed, and acorns eaten — a key wildlife plant",
+  "toxic": "",
+  "winter": false,
+  "verified": "2026-06-06",
+  "gaps": "No clean open-licensed acorn close-up found; acorns are described but the reel shows foliage, habit, and fall color.",
+  "shots": [
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/31289513/large.jpg",
+      "s": "summer",
+      "cap": "Summer — deeply lobed oak leaves · © Steven Mlodinow (CC-BY-NC) / iNaturalist · © Steven Mlodinow (CC-BY-NC) / iNaturalist",
+      "by": "Steven Mlodinow",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/20270343"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/408650825/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — young tree & habit · © youngjedi_mrh (CC-BY-NC) / iNaturalist · © youngjedi_mrh (CC-BY-NC) / iNaturalist",
+      "by": "youngjedi_mrh",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/230167005"
+    },
+    {
+      "local": "images/fa-fallcolor-t.jpg",
+      "full": "images/fa-fallcolor.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/453205868/large.jpeg",
+      "s": "fall",
+      "cap": "Fall — golden-russet fall color · © quercus_havardii (CC-BY-NC) / iNaturalist · © quercus_havardii (CC-BY-NC) / iNaturalist",
+      "by": "quercus_havardii",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/253138155"
+    }
+  ],
+  "care": {
+    "hardiness": "Very cold-hardy — rated USDA zones 3–9 and well-adapted at zone 5, so it is bulletproof through Boulder's 5b–6a winters.[1]",
+    "planting": "Plant container-grown nursery stock in spring or early fall; native trees transplant poorly because of a deep root system, so set out small containerized plants rather than digging wild ones, and disturb the roots as little as possible.[1] Container plants dry fast in our climate and need watering through establishment; in the ground, water during the first season, then taper off.[1]",
+    "sun": "Full sun is best on the Front Range; continuous shade reduces growth and form.[1]",
+    "soil": "Thrives in rocky, lean, alkaline soils — a natural fit for Boulder's high-pH clay — and tolerates everything from sandy loam to clay.[1][2]",
+    "water": "Once established it is drought tolerant and needs no irrigation, matching our ~15 in of annual precipitation.[1] Water new plants to soak the soil 10–15 in deep every 3–4 weeks through establishment and in unusually dry years, then leave it dry.[1]",
+    "spacing": "Forms a large shrub or small tree averaging 20–30 ft tall and ~15 ft wide, often spreading into clonal thickets — give it room and expect it to sucker.[1]",
+    "propagation": "From seed: collect brown acorns in fall and sow immediately (they lose viability fast in storage); a short 2-week cold-moist stratification at ~36°F (2°C) maximizes germination, and acorns can be soaked in hot water ~15 min to kill weevils before sowing.[3][4] Sow into deep containers to accommodate the long initial taproot. Stem cuttings rarely succeed; it spreads naturally by rhizomes/lignotubers, and layering works only ~13–21% of the time.[1][3]",
+    "pruning": "Prune in late fall or early spring — thin stems and remove dead or damaged wood, partly to reduce fire fuel in dense stands.[1]",
+    "maintenance": "Protect the roots from construction damage, which is a leading cause of decline; otherwise low-care.[1]",
+    "troubles": "Dense oak thickets are a wildfire fuel; few serious pest or disease problems otherwise.[1]"
+  },
+  "references": [
+    {
+      "name": "USU Extension — Gambel Oak in the Landscape",
+      "url": "https://extension.usu.edu/yardandgarden/research/gambel-oak-in-the-landscape"
+    },
+    {
+      "name": "Lady Bird Johnson Wildflower Center — Quercus gambelii",
+      "url": "https://www.wildflower.org/plants/result.php?id_plant=quga"
+    },
+    {
+      "name": "USDA-FS Fire Effects Information System (FEIS) — Quercus gambelii",
+      "url": "https://research.fs.usda.gov/feis/species-reviews/quegam"
+    },
+    {
+      "name": "NPIN / Lady Bird Johnson Wildflower Center — How to remove tannins from acorns",
+      "url": "https://www.wildflower.org/expert/show.php?id=2947"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      1,
+      2
+    ],
+    "sun": [
+      1
+    ],
+    "water": [
+      1
+    ],
+    "spread": [
+      1,
+      3
+    ],
+    "seasons": [
+      2
+    ],
+    "wildlife": [
+      1,
+      2
+    ],
+    "deer": [
+      1,
+      2
+    ]
+  },
+  "edible": {
+    "level": "caution",
+    "food": true,
+    "kinds": [
+      "seeds"
+    ],
+    "card": "Acorns (edible once leached of tannins)",
+    "summary": "Acorns are a traditional food — but only after the bitter tannins are leached out; raw acorns are astringent and cause stomach upset.[2][4]",
+    "parts": "The acorn kernels (nutmeats), gathered ripe and brown in fall.[2] They were a staple food of Native American peoples across the oak's range.[2]",
+    "preparation": "Shell the acorns, then leach out the bitter tannic acid: boil the kernels in repeated changes of water (about 15 min per change) until the water no longer turns brown — roughly two hours total — then roast or grind them.[4]",
+    "caution": "Do NOT eat raw acorns. All parts of Gambel oak contain gallotannins (juvenile foliage and acorns highest), which are bitter, astringent, and cause GI upset in quantity; the same tannins poison livestock that eat oak as more than ~50% of their diet.[2][3] Only the leached, cooked kernels are safe to eat.[4]"
+  }
+}

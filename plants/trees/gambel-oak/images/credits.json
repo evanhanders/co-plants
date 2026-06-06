@@ -1,0 +1,53 @@
+[
+  {
+    "file": "images/su-foliage.jpg",
+    "photo_id": 31289513,
+    "by": "Steven Mlodinow",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/20270343",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      1105
+    ],
+    "thumb_px": [
+      400,
+      316
+    ]
+  },
+  {
+    "file": "images/su-habit.jpg",
+    "photo_id": 408650825,
+    "by": "youngjedi_mrh",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/230167005",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  },
+  {
+    "file": "images/fa-fallcolor.jpg",
+    "photo_id": 453205868,
+    "by": "quercus_havardii",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/253138155",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  }
+]

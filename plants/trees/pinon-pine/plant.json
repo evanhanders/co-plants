@@ -1,0 +1,109 @@
+{
+  "common": "Piñon pine",
+  "botanical": "Pinus edulis",
+  "type": "Tree",
+  "lifecycle": "Perennial",
+  "native": "CO native",
+  "flower_color": [],
+  "bloom": [],
+  "blurb": "The iconic nut pine of the Southwest mesas — a slow, drought-proof, rounded evergreen that, in good years, drops the sweet, rich pine nuts of pesto and tradition.",
+  "size": "~10–20 ft tall × 10–15 ft wide (slow-growing)",
+  "sun": "Full sun",
+  "water": "Low; xeric — very drought-tolerant",
+  "spread": "Single, rounded to bushy; slow-growing",
+  "seasons": "Evergreen blue-green paired needles year-round; rounded cones with edible nuts in fall of good years; reddening bark with age",
+  "wildlife": "Pine nuts feed jays, nutcrackers, squirrels, and bears; dense cover for birds",
+  "deer": "Generally not browsed",
+  "toxic": "",
+  "winter": true,
+  "verified": "2026-06-06",
+  "shots": [
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/424343901/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — whole rounded pinyon · © Austin Saunders (CC-BY-NC) / iNaturalist · © Austin Saunders (CC-BY-NC) / iNaturalist",
+      "by": "Austin Saunders",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/238356964"
+    },
+    {
+      "local": "images/fa-cones-t.jpg",
+      "full": "images/fa-cones.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/584944468/large.jpg",
+      "s": "fall",
+      "cap": "Fall — cones bearing pine nuts · © Sequoia Janirella Wrens (CC-BY-NC) / iNaturalist · © Sequoia Janirella Wrens (CC-BY-NC) / iNaturalist",
+      "by": "Sequoia Janirella Wrens",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/323289356"
+    },
+    {
+      "local": "images/sp-needles-t.jpg",
+      "full": "images/sp-needles.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/216119685/large.jpg",
+      "s": "spring",
+      "cap": "Spring — needles & pollen cones · © dnvarga (CC-BY-NC) / iNaturalist · © dnvarga (CC-BY-NC) / iNaturalist",
+      "by": "dnvarga",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/127308681"
+    }
+  ],
+  "care": {
+    "hardiness": "Hardy and at home on the Front Range — a tough high-plains/foothills conifer that handles Boulder's 5b–6a cold and intense high-altitude sun; native across the intermountain region (incl. Colorado) on dry slopes and mesas.[1]",
+    "planting": "Plant balled-and-burlapped or, better, container trees in spring or early fall.[1] Like other deep-rooted dry-country pines it resents root disturbance, so use small containerized stock and keep transplant shock low. Container trees dry out fast here and need watering through establishment; once rooted in it is exceptionally drought-tough.[1]",
+    "sun": "Full sun — it is a sun-loving open-woodland tree.[2]",
+    "soil": "Dry, rocky, well-drained soils of almost any texture from sand to clay loam; well suited to Boulder's lean alkaline ground. Good drainage matters most.[2]",
+    "water": "One of the most drought-resistant pines, needing only 12–18 in of rainfall a year — a true xeric tree that needs no supplemental water once established on the Front Range, though it grows best on slightly wetter sites.[1]",
+    "spacing": "Slow-growing and small — commonly 10–30 ft tall with a rounded, spreading crown — but extremely long-lived (often 400+ years); give it open room and don't crowd it.[1][2]",
+    "propagation": "Grown from seed: sow fresh, untreated seed in late fall, or give stored seed about 6–8 weeks of cold-moist stratification (~40°F).[2] Seedlings establish best in the light shade of a nurse shrub with adequate first-summer moisture; germination of good seed runs above 80%.[1] Collect cones in late summer before they open and dry them to release the seed.[2]",
+    "maintenance": "Very low maintenance; mainly remove dead wood. It is somewhat susceptible to wind damage and the pitchy wood is flammable, so avoid crowding it against structures.[2]",
+    "harvest": "Edible piñon nuts ripen in fall, but good seed crops come only every 4–7 years, and trees don't bear significant quantities of seed until ~75–100 years old.[1]"
+  },
+  "references": [
+    {
+      "name": "USDA NRCS Plant Guide — Two-Needle Pinyon (Pinus edulis)",
+      "url": "https://plants.sc.egov.usda.gov/DocumentLibrary/plantguide/pdf/pg_pied.pdf"
+    },
+    {
+      "name": "Lady Bird Johnson Wildflower Center — Pinus edulis",
+      "url": "https://www.wildflower.org/plants/result.php?id_plant=pied"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      1,
+      2
+    ],
+    "sun": [
+      2
+    ],
+    "water": [
+      1
+    ],
+    "spread": [
+      1
+    ],
+    "seasons": [
+      2
+    ],
+    "wildlife": [
+      1
+    ],
+    "deer": [
+      1
+    ]
+  },
+  "edible": {
+    "level": "edible",
+    "food": true,
+    "kinds": [
+      "seeds"
+    ],
+    "card": "Pine nuts (rich; raw or roasted)",
+    "summary": "The seeds — piñon / pine nuts — are a prized, richly flavored food eaten raw or roasted.[1]",
+    "parts": "The large wingless seeds (10–15 mm) held in the cones; ripe in fall. Piñon ranks first among native North American nut trees and was once a staple food of Southwestern peoples.[1]",
+    "preparation": "Gather cones in late summer/fall before they fully open, dry them to release the seeds, then eat the nuts raw, roasted in the shell, or candied in syrup.[1]",
+    "caution": "The nuts themselves are wholesome with no special toxicity. The main catch is supply: good seed crops occur only every 4–7 years, trees don't bear heavily until decades old, and birds, woodrats, bears, and deer compete hard for the harvest.[1]"
+  }
+}

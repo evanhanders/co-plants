@@ -1,0 +1,57 @@
+{
+  "common": "Curlycup gumweed",
+  "botanical": "Grindelia squarrosa",
+  "type": "Forb",
+  "lifecycle": "Biennial",
+  "bloom_season": "Summer",
+  "native": "CO native",
+  "blurb": "Unglamorous but a pollinator powerhouse — the region's #2 plant for specialist native bees: bright yellow daisies cupped in sticky, curled-back resinous bracts on a tough, drought-proof native of hot, lean, disturbed ground. A self-sowing pioneer; deadhead if you want to keep it in bounds.",
+  "size": "1–3 ft tall × 1–2 ft wide",
+  "sun": "Full sun",
+  "water": "Low; very xeric — a tough pioneer of dry, lean ground",
+  "spread": "Clumping biennial/short-lived perennial that self-sows readily — a pioneer of disturbed ground; deadhead to limit spread",
+  "seasons": "Resinous gray-green foliage; yellow daisies cupped in distinctive sticky, curled-back green bracts from midsummer into fall",
+  "wildlife": "A keystone for specialist native bees (about 68 species — the region's #2 specialist-bee plant) plus many bees, butterflies and beetles; seeds for birds",
+  "deer": "Resistant — the resinous, bitter foliage is left alone",
+  "toxic": "Non-toxic to people (the sticky resin was a traditional medicinal); can accumulate selenium on seleniferous soils, a minor livestock note",
+  "flower_color": [
+    "yellow"
+  ],
+  "bloom": [
+    "summer",
+    "fall"
+  ],
+  "verified": "2026-06-07",
+  "shots": [
+    {
+      "local": "images/su-flowers-t.jpg",
+      "full": "images/su-flowers.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/451170559/large.jpg",
+      "s": "summer",
+      "cap": "Summer — flowers cupped in sticky, curled-back bracts · © curt_nimz (CC-BY-NC) / iNaturalist",
+      "by": "curt_nimz",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/252078942"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/21934997/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — a flower over the resinous foliage · © Matt Webb (CC-BY-NC) / iNaturalist",
+      "by": "Matt Webb",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/14708819"
+    },
+    {
+      "local": "images/fa-habit-t.jpg",
+      "full": "images/fa-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/314064786/large.jpg",
+      "s": "fall",
+      "cap": "Fall — the bushy plant full of sticky buds · © nancycklasky (CC-BY-NC) / iNaturalist",
+      "by": "nancycklasky",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/180313893"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "common": "Tansyaster",
+  "botanical": "Dieteria bigelovii",
+  "type": "Forb",
+  "lifecycle": "Biennial",
+  "bloom_season": "Fall",
+  "native": "CO native",
+  "blurb": "Bigelow's tansyaster throws big lavender-purple, gold-eyed daisies on branching stems from late summer into fall, when pollinators need them most. A short-lived, self-sowing native of dry, sunny ground that drifts politely through a xeric bed.",
+  "size": "1–3 ft tall × 1 ft wide",
+  "sun": "Full sun",
+  "water": "Low; xeric once established",
+  "spread": "Clumping and short-lived (biennial to short-lived perennial); self-sows to persist",
+  "seasons": "Grayish foliage; big lavender-purple, gold-eyed daisies from late summer into fall",
+  "wildlife": "Important late-season nectar for native bees and butterflies; a specialist-bee (tansyaster) host",
+  "deer": "Generally resistant",
+  "toxic": "Non-toxic",
+  "flower_color": [
+    "purple",
+    "blue"
+  ],
+  "bloom": [
+    "summer",
+    "fall"
+  ],
+  "verified": "2026-06-07",
+  "shots": [
+    {
+      "local": "images/fa-flower-t.jpg",
+      "full": "images/fa-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/48906481/large.jpg",
+      "s": "fall",
+      "cap": "Fall — a lavender, gold-eyed daisy · © biologos (CC-BY-NC) / iNaturalist",
+      "by": "biologos",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/31257855"
+    },
+    {
+      "local": "images/fa-mound-t.jpg",
+      "full": "images/fa-mound.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/564256661/large.jpg",
+      "s": "fall",
+      "cap": "Fall — the low mound in bloom · © Krista Frank (CC-BY-NC) / iNaturalist",
+      "by": "Krista Frank",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/312517877"
+    },
+    {
+      "local": "images/fa-habit-t.jpg",
+      "full": "images/fa-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/428815645/large.jpeg",
+      "s": "fall",
+      "cap": "Fall — branching stems among xeric natives · © comeoutside (CC-BY-NC) / iNaturalist",
+      "by": "comeoutside",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/240672428"
+    }
+  ]
+}

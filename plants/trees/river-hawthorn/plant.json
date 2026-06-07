@@ -1,0 +1,55 @@
+{
+  "common": "River hawthorn",
+  "botanical": "Crataegus rivularis",
+  "type": "Tree",
+  "lifecycle": "Perennial",
+  "native": "CO native",
+  "blurb": "A tough native hawthorn of streambanks and foothill draws: clouds of white spring flowers, glossy leaves, and dark wine-black haws that feed the birds, all on a thorny small tree that makes superb wildlife cover. A caterpillar keystone — and it wants a bit more water than the xeric natives.",
+  "size": "10–20 ft tall × 8–15 ft wide (small tree / large shrub)",
+  "sun": "Full sun to part shade",
+  "water": "Moderate — a riparian native that wants more water than the xeric plants; not for dry zones",
+  "spread": "Single- or multi-stemmed thorny small tree; can sucker into a thicket",
+  "seasons": "Clusters of white flowers in spring; glossy toothed leaves in summer; dark purple-black haws in fall that persist; bare thorny structure in winter",
+  "wildlife": "A caterpillar keystone (host to ~90 butterfly and moth species); spring nectar for bees; haws feed many birds and mammals; dense thorny cover and nesting",
+  "deer": "Browsed when young; the thorns deter larger browsers",
+  "toxic": "The ripe haws are edible (see Edible parts); the thorns are sharp and the seeds should not be eaten (cyanogenic, like other Rosaceae)",
+  "flower_color": [
+    "white"
+  ],
+  "bloom": [
+    "spring"
+  ],
+  "verified": "2026-06-07",
+  "shots": [
+    {
+      "local": "images/sp-flowers-t.jpg",
+      "full": "images/sp-flowers.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/18313172/large.jpeg",
+      "s": "spring",
+      "cap": "Spring — clusters of white flowers · © Judith Ellen Lopez (CC-BY-NC) / iNaturalist",
+      "by": "Judith Ellen Lopez",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/12656772"
+    },
+    {
+      "local": "images/fa-fruit-t.jpg",
+      "full": "images/fa-fruit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/153445079/large.jpg",
+      "s": "fall",
+      "cap": "Fall — dark wine-black haws · © Jared Shorma (CC-BY) / iNaturalist",
+      "by": "Jared Shorma",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/92652453"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/288868844/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — glossy toothed leaves · © Harper McGee (CC-BY-NC) / iNaturalist",
+      "by": "Harper McGee",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/166790102"
+    }
+  ]
+}

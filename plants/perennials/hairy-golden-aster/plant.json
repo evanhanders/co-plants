@@ -1,0 +1,57 @@
+{
+  "common": "Hairy golden aster",
+  "botanical": "Heterotheca villosa",
+  "type": "Forb",
+  "lifecycle": "Perennial",
+  "bloom_season": "Summer",
+  "native": "CO native",
+  "blurb": "A tough little keystone: low silvery-hairy mounds smothered in golden daisies from midsummer to frost, feeding fifty kinds of specialist native bee. Thrives on hot, lean, dry ground where fussier plants fail.",
+  "size": "1–1.5 ft tall × 1.5 ft wide",
+  "sun": "Full sun",
+  "water": "Low; very xeric once established",
+  "spread": "Low, clumping and bushy; self-sows modestly",
+  "seasons": "Silvery-hairy gray-green foliage; golden daisies from midsummer well into fall — a very long bloom",
+  "wildlife": "A specialist-bee keystone (some 50 native bee species) plus nectar for many bees and butterflies; seeds for birds",
+  "deer": "Generally resistant",
+  "toxic": "Non-toxic; no documented edible use",
+  "flower_color": [
+    "yellow"
+  ],
+  "bloom": [
+    "summer",
+    "fall"
+  ],
+  "verified": "2026-06-07",
+  "shots": [
+    {
+      "local": "images/su-flowers-t.jpg",
+      "full": "images/su-flowers.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/141689272/large.jpg",
+      "s": "summer",
+      "cap": "Summer — golden daisies on the low mound · © Cody Kimpton (CC-BY-NC) / iNaturalist",
+      "by": "Cody Kimpton",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/86050667"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/420575798/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — a flower over the silvery-hairy foliage · © eeya (CC-BY-NC) / iNaturalist",
+      "by": "eeya",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/236406040"
+    },
+    {
+      "local": "images/fa-habit-t.jpg",
+      "full": "images/fa-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/304228635/large.jpg",
+      "s": "fall",
+      "cap": "Fall — still blooming on dry ground · © landofthelonesome (CC-BY-NC) / iNaturalist",
+      "by": "landofthelonesome",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/175075736"
+    }
+  ]
+}

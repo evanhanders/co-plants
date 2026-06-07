@@ -1,0 +1,56 @@
+{
+  "common": "Butterfly milkweed",
+  "botanical": "Asclepias tuberosa",
+  "type": "Forb",
+  "lifecycle": "Perennial",
+  "bloom_season": "Summer",
+  "native": "CO native",
+  "blurb": "The most garden-mannered milkweed: blazing flat-topped clusters of pure orange that butterflies and bees swarm, on a tidy non-spreading clump from a deep drought-proof taproot. A monarch host that behaves itself — just site it permanently, as the taproot hates being moved.",
+  "size": "1.5–2.5 ft tall × 1.5 ft wide",
+  "sun": "Full sun",
+  "water": "Low; xeric once established (deep taproot)",
+  "spread": "Clumping from a deep taproot — well-behaved, does NOT run like showy milkweed; resents transplanting",
+  "seasons": "Brilliant flat-topped orange flower clusters in mid-to-late summer over narrow leaves; slender pods to silky floss in fall",
+  "wildlife": "Monarch caterpillar host and a nectar magnet for butterflies and native bees; supports milkweed-specialist insects",
+  "deer": "Generally avoided",
+  "toxic": "Contains cardiac glycosides like other milkweeds (with less latex); toxic if eaten raw and not for grazing animals — see Edible parts",
+  "flower_color": [
+    "orange"
+  ],
+  "bloom": [
+    "summer"
+  ],
+  "verified": "2026-06-07",
+  "shots": [
+    {
+      "local": "images/su-flowers-t.jpg",
+      "full": "images/su-flowers.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/8663105/large.jpg",
+      "s": "summer",
+      "cap": "Summer — brilliant orange flower clusters · © Allison Del Gizzi (CC-BY-NC) / iNaturalist",
+      "by": "Allison Del Gizzi",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/6808293"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/544560537/large.jpg",
+      "s": "summer",
+      "cap": "Summer — flowers over the narrow leaves · © curt_nimz (CC-BY-NC) / iNaturalist",
+      "by": "curt_nimz",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/302171992"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/541161492/large.jpg",
+      "s": "summer",
+      "cap": "Summer — the clump in full bloom · © epic2112 (CC-BY-NC) / iNaturalist",
+      "by": "epic2112",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/300347598"
+    }
+  ]
+}

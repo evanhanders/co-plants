@@ -1,0 +1,57 @@
+{
+  "common": "Showy milkweed",
+  "botanical": "Asclepias speciosa",
+  "type": "Forb",
+  "lifecycle": "Perennial",
+  "bloom_season": "Summer",
+  "native": "CO native",
+  "blurb": "The monarch's lifeline: domes of intricate rose-pink stars over bold blue-green leaves, alive with butterflies and bees all summer, then spiky pods that split to silky floss. The single most important plant you can add for monarchs on the Front Range.",
+  "size": "2–4 ft tall × spreading",
+  "sun": "Full sun",
+  "water": "Low to moderate; drought-tolerant once established",
+  "spread": "Spreads by deep rhizomes into colonies — can be aggressive; site where it can roam",
+  "seasons": "Bold blue-green leaves in summer; spheres of rose-pink star flowers early-to-mid summer; spiky pods splitting to silky floss in fall",
+  "wildlife": "THE monarch host (sole caterpillar food) and a rich nectar source for many butterflies and bees; supports a suite of milkweed-specialist insects",
+  "deer": "Generally avoided — the foliage is toxic",
+  "toxic": "All parts contain toxic cardiac glycosides and irritant milky latex; poisonous to livestock, pets and people if eaten raw — see Edible parts",
+  "flower_color": [
+    "pink",
+    "purple"
+  ],
+  "bloom": [
+    "summer"
+  ],
+  "verified": "2026-06-07",
+  "shots": [
+    {
+      "local": "images/su-monarch-t.jpg",
+      "full": "images/su-monarch.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/213218298/large.jpg",
+      "s": "summer",
+      "cap": "Summer — a monarch on the rose-pink flowers · © David Martin (CC-BY-NC) / iNaturalist",
+      "by": "David Martin",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/125714648"
+    },
+    {
+      "local": "images/su-flowers-t.jpg",
+      "full": "images/su-flowers.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/20505588/large.jpg",
+      "s": "summer",
+      "cap": "Summer — star flowers opening from pink buds · © Suzanne Dingwell (CC-BY-NC) / iNaturalist",
+      "by": "Suzanne Dingwell",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/13886220"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/404003190/large.jpg",
+      "s": "summer",
+      "cap": "Summer — flowers over the bold blue-green leaves · © Sequoia Janirella Wrens (CC-BY-NC) / iNaturalist",
+      "by": "Sequoia Janirella Wrens",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/227714397"
+    }
+  ]
+}

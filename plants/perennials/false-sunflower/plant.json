@@ -1,0 +1,58 @@
+{
+  "common": "False sunflower",
+  "botanical": "Heliopsis helianthoides",
+  "type": "Forb",
+  "lifecycle": "Perennial",
+  "bloom_season": "Summer",
+  "native": "CO native",
+  "blurb": "The long-blooming false sunflower: cheerful golden daisies (with golden, not dark, centers) from early summer clear to frost on a sturdy clump. Easier and longer-blooming than a true sunflower, and a magnet for bees and butterflies.",
+  "size": "3–4 ft tall × 2 ft wide",
+  "sun": "Full sun; tolerates part shade",
+  "water": "Low to moderate; drought-tolerant once established",
+  "spread": "Clumping; may self-sow",
+  "seasons": "Golden daisies with golden centers from early summer to frost — very long blooming; toothed foliage",
+  "wildlife": "A specialist-bee host plus nectar for many bees and butterflies; seeds feed birds; a caterpillar host",
+  "deer": "May be browsed",
+  "toxic": "Non-toxic; no notable edible use",
+  "flower_color": [
+    "yellow",
+    "orange"
+  ],
+  "bloom": [
+    "summer",
+    "fall"
+  ],
+  "verified": "2026-06-07",
+  "shots": [
+    {
+      "local": "images/su-flower-t.jpg",
+      "full": "images/su-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/540201741/large.jpg",
+      "s": "summer",
+      "cap": "Summer — a golden daisy with a golden center · © jmarc1 (CC-BY-NC) / iNaturalist",
+      "by": "jmarc1",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/299837166"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/425198282/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — flowers over toothed foliage · © jscaramucci (CC-BY-NC) / iNaturalist",
+      "by": "jscaramucci",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/238799175"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/422657205/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — the long-blooming clump · © C Rella (CC-BY-NC) / iNaturalist",
+      "by": "C Rella",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/237485451"
+    }
+  ]
+}

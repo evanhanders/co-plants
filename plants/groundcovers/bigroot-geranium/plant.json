@@ -1,0 +1,134 @@
+{
+  "common": "Bigroot geranium",
+  "botanical": "Geranium macrorrhizum",
+  "type": "Groundcover",
+  "lifecycle": "Perennial",
+  "native": "Non-native",
+  "origin": "Mountains of southern Europe (Alps to the Balkans)",
+  "habitat": "Rocky woodland and shady limestone slopes of southern Europe",
+  "blurb": "The premier dry-shade groundcover: a weed-proof carpet of aromatic, semi-evergreen lobed leaves that flush red in fall, studded with magenta flowers in late spring. It thrives in the dry shade where little else will — and deer leave it alone.",
+  "size": "12–18 in tall × 24+ in wide, spreading",
+  "sun": "Part shade to full shade (takes sun with steady moisture)",
+  "water": "Low; notably drought-tolerant once established — a top dry-shade groundcover",
+  "spread": "Spreads steadily by thick surface rhizomes into a weed-smothering mat; easy to pull back",
+  "seasons": "Aromatic, semi-evergreen lobed foliage that flushes red in fall; magenta-pink flowers in late spring",
+  "wildlife": "Bees work the spring flowers; the aromatic foliage is deer- and rabbit-resistant",
+  "deer": "Resistant — the aromatic foliage is left alone",
+  "toxic": "Non-toxic; not a food (the foliage yields the aromatic 'zdravetz' essential oil)",
+  "flower_color": [
+    "pink",
+    "purple"
+  ],
+  "bloom": [
+    "spring"
+  ],
+  "verified": "2026-06-07",
+  "care": {
+    "hardiness": "Hardy to USDA zone 4 — fully reliable across the Colorado Front Range (zones 5b–6a) and into the foothills. The aromatic lobed foliage is semi-evergreen, persisting through mild winters and flushing red in fall cold.[1][2]",
+    "planting": "Plant from nursery transplants in spring (Apr–May) or early fall (Sep), so roots settle before summer heat or winter. It establishes easily even in the dry shade under trees and shrubs where little else will grow. In containers the aromatic mat is handsome, but exposed roots are far less cold-hardy than in the ground — sink the pot or move it to an unheated garage over winter, and never let it sit waterlogged.[1][2][3]",
+    "sun": "Part shade to full shade is ideal — this is one of the very best groundcovers for dry shade, including under tree canopies. It will take full sun on the Front Range only with steadier moisture; in our intense high-altitude sun a dry, sunny site scorches it.[1][2][3]",
+    "soil": "Easily grown in average, dry to medium, well-drained soil; tolerates the lean, alkaline clay common around Boulder and poor soil under trees. Sharp drainage matters more than fertility — avoid waterlogged ground.[1][2]",
+    "water": "Low. Notably drought-tolerant once established — among the best dry-shade groundcovers for our semi-arid climate, getting by largely on Boulder's natural precipitation (~15–18 in/yr) once its rhizomes are settled. Water new plantings through the first season, then only deep, occasional soaks in extended summer drought. Keep it on the dry side.[1][2][3]",
+    "spacing": "Space transplants 12–18 in apart; they knit together quickly into a solid weed-smothering mat. Plant at the wider end if you want them to fill slowly.[1][2]",
+    "propagation": "Very easy by division or rhizome cuttings — the thick surface rhizomes root readily, so lift and pull apart clumps (or detach a rooted rhizome piece) in spring or fall and replant immediately. Basal cuttings in spring also root well. Rarely grown from seed; division is faster and keeps the plant true.[2]",
+    "bloom": "Magenta-pink five-petaled flowers in late spring — roughly May into June on the Front Range — held over the foliage. Bloom is modest but the long-season aromatic foliage is the real draw.[1][2]",
+    "feeding": "None needed. Lean soil keeps the mat dense and well-behaved; skip fertilizer.[1]",
+    "maintenance": "Nearly maintenance-free. The species needs no deadheading or cutting back to perform, but you can shear the mat lightly after bloom to tidy it and refresh the foliage. The surface rhizomes spread steadily yet are very easy to pull back where they overstep — lift the unwanted runners by hand.[1][2]",
+    "troubles": "Essentially pest- and disease-free. The aromatic, resinous foliage makes it strongly deer- and rabbit-resistant, a key virtue under trees where browsers patrol. The only real failure mode is rot in soggy, poorly drained ground — give it drainage and it is bulletproof.[1][2]",
+    "companions": "Pairs well with other dry-shade groundcovers and woodland edge plants — hostas, hellebores, lungwort and ferns — filling the bare ground beneath shrubs and trees where it crowds out weeds.[2][3]"
+  },
+  "edible": {
+    "level": "inedible",
+    "summary": "Bigroot geranium is grown as an ornamental dry-shade groundcover, not as a food — don't eat it.[1][2]",
+    "caution": "Geranium macrorrhizum is grown for its aromatic foliage and ground-covering habit, not for eating, and no authoritative source documents an edible use for the plant itself. Its leaves are the source of 'zdravetz' essential oil, which is used in perfumery and as a flavouring/aroma ingredient, but that is a distilled oil — the plant is not a food crop and should not be grazed. It is not listed as notably poisonous by the Missouri Botanical Garden or RHS, so treat it as inedible: not a known poison, but not a tested food.[1][2]"
+  },
+  "references": [
+    {
+      "name": "Missouri Botanical Garden Plant Finder — Geranium macrorrhizum",
+      "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=f278"
+    },
+    {
+      "name": "Royal Horticultural Society — Geranium macrorrhizum (big-root cranesbill)",
+      "url": "https://www.rhs.org.uk/plants/7891/geranium-macrorrhizum/details"
+    },
+    {
+      "name": "PlantTalk Colorado (CSU Extension) — 1080: Drought Tolerant Groundcovers for Shade",
+      "url": "https://planttalk.colostate.edu/topics/annuals-perennials/1080-drought-tolerant-groundcovers-shade/"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      1,
+      2
+    ],
+    "sun": [
+      1,
+      2,
+      3
+    ],
+    "water": [
+      1,
+      2,
+      3
+    ],
+    "spread": [
+      1,
+      2
+    ],
+    "seasons": [
+      1,
+      2
+    ],
+    "wildlife": [
+      1,
+      2
+    ],
+    "deer": [
+      1,
+      2
+    ],
+    "toxic": [
+      1,
+      2
+    ],
+    "origin": [
+      1,
+      2
+    ],
+    "habitat": [
+      1
+    ]
+  },
+  "shots": [
+    {
+      "local": "images/sp-flowers-t.jpg",
+      "full": "images/sp-flowers.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/44853071/large.jpg",
+      "s": "spring",
+      "cap": "Late spring — magenta flowers over the foliage · © Ian Bryson (CC-BY-NC) / iNaturalist",
+      "by": "Ian Bryson",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/28760332"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/139478081/large.jpg",
+      "s": "summer",
+      "cap": "Summer — the aromatic lobed foliage mat · © zebra1193 (CC-BY-NC) / iNaturalist",
+      "by": "zebra1193",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/84831985"
+    },
+    {
+      "local": "images/sp-habit-t.jpg",
+      "full": "images/sp-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/402099705/large.jpg",
+      "s": "spring",
+      "cap": "Spring — spreading over dry, rocky ground · © no rights reserved (CC0) / iNaturalist",
+      "by": "no rights reserved",
+      "lic": "CC0",
+      "link": "https://www.inaturalist.org/observations/226708381"
+    }
+  ]
+}

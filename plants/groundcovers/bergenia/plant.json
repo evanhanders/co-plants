@@ -1,0 +1,126 @@
+{
+  "common": "Bergenia",
+  "botanical": "Bergenia cordifolia",
+  "type": "Groundcover",
+  "lifecycle": "Perennial",
+  "native": "Non-native",
+  "origin": "Siberia & Mongolia (the Altai mountains)",
+  "habitat": "Rocky meadows and open woodland of cold Central Asia",
+  "blurb": "Pigsqueak: bold, glossy, cabbage-like evergreen leaves that turn burnished bronze-red through winter, topped by stout clusters of pink flowers in earliest spring. Iron-tough and one of the very few bold evergreen leaves for dry shade.",
+  "size": "12–18 in tall in bloom × 18–24 in wide",
+  "sun": "Part shade to full shade (tolerates sun with moisture)",
+  "water": "Low to moderate; drought-tolerant once established",
+  "spread": "Spreads slowly by thick rhizomes into evergreen clumps; a good edger and groundcover",
+  "seasons": "Big leathery evergreen leaves that flush bronze-red in winter cold; stout clusters of pink flowers in earliest spring",
+  "wildlife": "Early bees work the spring flowers; year-round evergreen cover",
+  "deer": "Generally resistant — the leathery leaves are left alone",
+  "toxic": "Non-toxic; the tannin-rich leaves have a history of use as tea, but it is grown as an ornamental, not a food",
+  "flower_color": [
+    "pink"
+  ],
+  "bloom": [
+    "spring"
+  ],
+  "verified": "2026-06-07",
+  "care": {
+    "hardiness": "Iron-hardy — reliable to about USDA zone 3, so it sails through Front Range winters (zones 5b–6a) and into the foothills. The big leathery leaves are truly evergreen, flushing burnished bronze-red in winter cold rather than dying back.[1][2]",
+    "planting": "Plant from nursery divisions in spring (Apr–May) or early fall (Sep). It establishes well in the dry shade under trees and along shaded foundations and walls. Site it out of hot, drying afternoon wind and brutal full afternoon sun, which scorch the broad leaves on the Front Range. In a container the bold evergreen rosette is striking, but the crown is exposed to temperature swings — sink the pot or shelter it (unheated garage) over winter and keep drainage sharp.[1][2][3]",
+    "sun": "Part shade to full shade is best, including heavy shade under trees. It will take morning sun, but our intense high-altitude afternoon sun combined with dry wind scorches and bleaches the leaves — give it shade and wind shelter for the cleanest evergreen foliage.[1][2][3]",
+    "soil": "Average, medium, well-drained soil; tolerates a range of soils including the alkaline clay common around Boulder. It prefers moist, humus-rich ground but is genuinely tough once established — amend lean clay with compost at planting and ensure it never sits waterlogged.[1][3]",
+    "water": "Low to moderate — drought-tolerant once established and one of the few bold evergreen leaves that holds up in dry shade here. Water new plantings regularly through the first season to settle the rhizomes; after that, occasional deep soaks during summer drought keep the foliage from scorching, but it does not need constant moisture.[1][3]",
+    "spacing": "Space divisions 12–18 in apart; the thick rhizomes spread slowly into solid evergreen clumps that make a good edger and groundcover.[1]",
+    "propagation": "Easiest by division — lift a clump in spring or early fall, cut the woody rhizome into sections each with a leaf rosette and roots, and replant immediately. Division also rejuvenates old plants whose centers have gone bare (see maintenance). Rooting rhizome sections is reliable; seed is slow and rarely worth it for a named clone.[1][2]",
+    "bloom": "Among the earliest perennials to flower — stout stalks of deep-pink flowers rise over the leaves in earliest spring (roughly April on the Front Range), a valuable early nectar source. A hard late frost can nip the very earliest blooms.[1]",
+    "feeding": "Little needed. A spring compost top-dressing in lean clay is plenty; heavy feeding isn't required.[1]",
+    "maintenance": "Low-maintenance. Remove damaged or scorched foliage in late winter to early spring to tidy the evergreen rosettes before new growth. Divide clumps every few years — the centers tend to go bare and woody as they age, and dividing rejuvenates them.[1][2]",
+    "troubles": "No serious diseases. The main pests are slugs and snails (they chew the leaves) and the black vine weevil, whose adults notch the leaf edges and whose grubs damage roots — watch for notching and treat if it appears. Leaf scorch from hot, dry wind and full afternoon sun is the most common Front Range complaint; site it sheltered to avoid it. Deer and rabbits generally leave the leathery leaves alone.[1][2]",
+    "companions": "Combines well with other shade and dry-shade plants — hostas, ferns, hellebores, lungwort and woodland edge perennials — its bold glossy evergreen leaves contrasting their finer foliage, and it makes a clean evergreen edging.[1][3]"
+  },
+  "edible": {
+    "level": "inedible",
+    "food": false,
+    "summary": "Grown here strictly as an ornamental evergreen groundcover — treat it as inedible.[1][2]",
+    "caution": "Bergenia leaves are very high in tannins. The closely related Bergenia crassifolia (badan / 'Mongolian' or 'Siberian' tea) has a documented history of its old, partly-fermented leaves being brewed as a tannin-rich tea in Siberia, Mongolia and northern China, and B. cordifolia is grown ornamentally as 'pigsqueak' — but it is sold and grown here purely as a landscape plant, not as a food, and is not a casual edible. The high tannin content makes fresh leaves astringent and unpalatable, species/cultivar identity matters, and no Front-Range authority recommends eating it, so it is treated as inedible. It is not a notable poison — the Missouri Botanical Garden lists no toxicity — but it is not a tested food crop; don't graze it.[1][2]"
+  },
+  "references": [
+    {
+      "name": "Missouri Botanical Garden Plant Finder — Bergenia cordifolia",
+      "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=b710"
+    },
+    {
+      "name": "NC State Extension Gardener Plant Toolbox — Bergenia crassifolia (Siberian/Mongolian tea; pests)",
+      "url": "https://plants.ces.ncsu.edu/plants/bergenia-crassifolia/"
+    },
+    {
+      "name": "PlantTalk Colorado (CSU Extension) — 1080: Drought Tolerant Groundcovers for Shade (lists Bergenia cordifolia)",
+      "url": "https://planttalk.colostate.edu/topics/annuals-perennials/1080-drought-tolerant-groundcovers-shade/"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      1
+    ],
+    "sun": [
+      1,
+      3
+    ],
+    "water": [
+      1,
+      3
+    ],
+    "spread": [
+      1
+    ],
+    "seasons": [
+      1
+    ],
+    "wildlife": [
+      1
+    ],
+    "deer": [
+      1
+    ],
+    "toxic": [
+      1,
+      2
+    ],
+    "origin": [
+      1
+    ],
+    "habitat": [
+      1
+    ]
+  },
+  "shots": [
+    {
+      "local": "images/sp-flowers-t.jpg",
+      "full": "images/sp-flowers.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/476753869/large.jpg",
+      "s": "spring",
+      "cap": "Spring — pink flowers over the big leathery leaves · © Cristina Girão Vieira (CC-BY-NC) / iNaturalist",
+      "by": "Cristina Girão Vieira",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/265424472"
+    },
+    {
+      "local": "images/sp-blooms-t.jpg",
+      "full": "images/sp-blooms.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/367903486/large.jpg",
+      "s": "spring",
+      "cap": "Spring — the vivid flower cluster up close · © Dr Rich Boden (CC-BY-NC) / iNaturalist",
+      "by": "Dr Rich Boden",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/207961110"
+    },
+    {
+      "local": "images/wi-winter-t.jpg",
+      "full": "images/wi-winter.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/350337875/large.jpg",
+      "s": "winter",
+      "cap": "Winter — the leaves flush bronze-red in cold · © wild_horticulturalist (CC-BY-NC) / iNaturalist",
+      "by": "wild_horticulturalist",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/198735127"
+    }
+  ]
+}

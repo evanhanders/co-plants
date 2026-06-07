@@ -1,0 +1,131 @@
+{
+  "common": "Coral bells",
+  "botanical": "Heuchera sanguinea",
+  "type": "Forb",
+  "lifecycle": "Perennial",
+  "bloom_season": "Spring",
+  "native": "Non-native",
+  "origin": "Mountains of Arizona, New Mexico & northern Mexico",
+  "habitat": "Shaded rock crevices and canyon walls of the desert Southwest",
+  "blurb": "The original coral bells: a tidy evergreen mound of scalloped leaves sending up airy wands of true coral-red bells that hummingbirds work from late spring into summer. A Southwest native that takes dry shade and rocky ground in stride.",
+  "size": "12–18 in tall in bloom × 12 in wide",
+  "sun": "Part shade to full shade (morning sun with moisture)",
+  "water": "Low to moderate; drought-tolerant in shade once established",
+  "spread": "Clumping evergreen mound of foliage with airy flower wands above",
+  "seasons": "An evergreen mound of scalloped leaves year-round; airy wands of coral-red bell flowers from late spring into summer",
+  "wildlife": "Hummingbirds and bees work the red bells; semi-evergreen winter foliage",
+  "deer": "Generally resistant",
+  "toxic": "Non-toxic; the astringent root was used medicinally (alumroot), not as food",
+  "flower_color": [
+    "red",
+    "pink"
+  ],
+  "bloom": [
+    "spring",
+    "summer"
+  ],
+  "verified": "2026-06-07",
+  "shots": [
+    {
+      "local": "images/sp-flowers-t.jpg",
+      "full": "images/sp-flowers.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/131588504/large.jpeg",
+      "s": "spring",
+      "cap": "Late spring — coral-red bells over scalloped leaves · © Sue Carnahan (CC-BY) / iNaturalist",
+      "by": "Sue Carnahan",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/80293895"
+    },
+    {
+      "local": "images/sp-bells-t.jpg",
+      "full": "images/sp-bells.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/403014467/large.jpg",
+      "s": "spring",
+      "cap": "Spring — airy wands of red bell flowers · © mbarao (CC-BY-NC) / iNaturalist",
+      "by": "mbarao",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/227194349"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/53854274/large.jpg",
+      "s": "summer",
+      "cap": "Summer — the mounded scalloped foliage · © Jared Shorma (CC-BY) / iNaturalist",
+      "by": "Jared Shorma",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/34234837"
+    }
+  ],
+  "care": {
+    "hardiness": "Hardy to USDA zone 3, so fully perennial across the Front Range (Boulder is zone 5b–6a). This is the original true-red species — tougher, longer-lived, and far more drought-tolerant than the fancy foliage Heuchera hybrids bred for leaf color, which often struggle in our dry heat. The scalloped basal mound is evergreen through Front Range winters, though it may look tattered by late winter and refreshes with new growth in spring.[1][2]",
+    "planting": "Plant in spring (April–May) or early fall (late August–mid-September) so roots establish before summer heat or hard freeze. As a rock-crevice native it must have sharp drainage — set the crown slightly high (proud of the soil), never in a low spot that pools water, and work coarse grit into Boulder's heavy alkaline clay or plant on a slope or in a raised bed. In containers it makes a tidy evergreen tuft for a shaded patio pot; container roots are far less cold-hardy than ground roots, so sink the pot or move it to an unheated garage over winter.[1][3]",
+    "sun": "Part shade to full shade is ideal — morning sun with afternoon shade, or all-day dappled/open shade. It tolerates more sun if it has steady moisture, but on the dry Front Range the safe bet is shade: hot afternoon sun on dry soil scorches the foliage. Deep, dense shade reduces bloom but the evergreen mound still holds.[1][3]",
+    "soil": "Lean, gritty, sharply drained soil suits it best — it grows wild in rock crevices and on canyon walls, so wet, heavy ground rots the crown. Boulder's alkaline clay is tolerated only where drainage is excellent; amend the planting pocket with coarse grit or plant in a gravelly raised area. A neutral to slightly alkaline pH is fine. Avoid rich, soggy border soil.[1][2]",
+    "water": "Low to moderate. In shade, established plants are genuinely drought-tolerant — a deep soak every week or two through the hottest, driest stretches is plenty, and overwatering (especially in heavy clay) is the main killer. Wet winter soil rots the crown, so err dry. Water new plantings regularly through their first season to establish.[1][3]",
+    "spacing": "Space plants about 12 in. apart; each forms a clump roughly 12 in. wide. Set in drifts of three or more for the best show of flower wands.[1]",
+    "bloom": "Airy wands of true coral-red, bell-shaped flowers rise above the foliage from late spring into summer (May–July), and rebloom into early fall if spent stems are sheared. Hummingbirds work the red bells, and bees visit too. The slender leafless flower stems read as a haze of red dots floating over the evergreen mound.[1][2]",
+    "feeding": "Light feeders. A thin spring topdressing of compost is ample; rich feeding produces floppy growth and weakens the drought tolerance that makes this species worth growing. Skip synthetic fertilizer.[1]",
+    "maintenance": "Shear off spent flower stems after bloom to tidy the plant and encourage rebloom. The biggest Front Range chore is winter frost-heave: freeze-thaw cycles push the woody crowns up out of the soil, exposing roots — check in late winter and early spring, and firm heaved crowns back down or replant them deeper (a gravel mulch buffers the heaving). Divide every ~3 years to keep clumps vigorous, as the crown rises and goes woody with age.[1][3]",
+    "troubles": "Crown rot in heavy, wet, or poorly drained soil is the dominant failure mode here — drainage is everything. Frost-heave (above) is the other recurring Front Range issue. Few pests bother it; deer and rabbits generally leave it alone. Foliage scorches in hot dry sun, which is a siting problem, not a disease.[1][3]",
+    "companions": "Pair with other dry-shade and woodland-edge plants — barrenwort (Epimedium), hardy geraniums, ferns, lungwort, and spring bulbs that go dormant under its evergreen mound. Its red bells read well against silver or chartreuse shade foliage. Excellent tucked into the crevices of a shaded rock garden or dry-stone wall, echoing its wild habitat.[1][2]",
+    "propagation": "Divide established clumps in spring or early fall: lift the woody crown, cut it into sections each with roots and a growing point, replant at the same depth (or slightly deeper to counter heaving), and water in. Division every ~3 years also rejuvenates aging, woody crowns. It also comes readily from seed — the fine seed needs light to germinate, so surface-sow on a gritty mix in spring and keep barely moist; seedlings vary in flower color but the species comes fairly true to its coral-red.[1][3]"
+  },
+  "edible": {
+    "level": "inedible",
+    "food": false,
+    "summary": "Coral bells is a garden ornamental with no food use — not poisonous, but not eaten.[1][2]",
+    "caution": "Heuchera sanguinea has no culinary use and should not be treated as food. The genus is sometimes called \"alumroot\" for the astringent, tannin-rich root, which had a folk-medicinal use (as a styptic/astringent), not a food use — that is herbal-medicine history, not an invitation to eat the plant. It is not a recognized garden poison, but don't consume it.[1][2]"
+  },
+  "references": [
+    {
+      "name": "Missouri Botanical Garden Plant Finder — Heuchera sanguinea (coral bells)",
+      "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=d250"
+    },
+    {
+      "name": "NC State Extension Plant Toolbox — Heuchera sanguinea",
+      "url": "https://plants.ces.ncsu.edu/plants/heuchera-sanguinea/"
+    },
+    {
+      "name": "USDA NRCS PLANTS Database — Heuchera sanguinea (HESA4)",
+      "url": "https://plants.sc.egov.usda.gov/home/plantProfile?symbol=HESA4"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      1
+    ],
+    "sun": [
+      1,
+      2
+    ],
+    "water": [
+      1
+    ],
+    "spread": [
+      1
+    ],
+    "seasons": [
+      1,
+      2
+    ],
+    "wildlife": [
+      1,
+      2
+    ],
+    "deer": [
+      2
+    ],
+    "toxic": [
+      1,
+      2
+    ],
+    "origin": [
+      1,
+      3
+    ],
+    "habitat": [
+      1
+    ]
+  }
+}

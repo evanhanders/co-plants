@@ -184,17 +184,26 @@ if(it.src && it.src!=='#'){ srcA.href=it.src; srcA.textContent=srcLabel(it.src);
 reset(); updateNav();
 }
 function go(d){ if(gallery.length<2) return; var n=clamp(gIdx+d,0,gallery.length-1); if(n===gIdx){ anim(true); reset(); return; } anim(true); show(n); }
+var lbHistory=false; /* did we push a history entry for the open lightbox? */
 function open(items, index, trigger){
 lbTrigger = trigger || document.activeElement;
 gallery = items || []; img.classList.remove('anim');
+/* push a history entry so the phone's Back gesture/button closes the lightbox
+   rather than leaving the page — the popstate handler below intercepts it */
+if(!lbHistory){ try{ history.pushState({lbox:1}, ''); lbHistory=true; }catch(e){} }
 lbox.classList.add('open'); lbox.setAttribute('aria-hidden','false'); document.body.style.overflow='hidden';
 if(lbHint) lbHint.textContent = gallery.length>1 ? 'Swipe or use ‹ › to change photo · pinch or double-tap to zoom' : 'Pinch, scroll, or double-tap to zoom · drag to pan';
 show(index||0);
 setTimeout(function(){ var c=document.getElementById('lbClose'); if(c) c.focus(); },0);
 }
-function close(){ lbox.classList.remove('open'); lbox.setAttribute('aria-hidden','true'); document.body.style.overflow=''; img.src=''; gallery=[]; pointers.clear(); lastDist=0; lastMid=null; swiping=false; if(lbTrigger && lbTrigger.focus){ try{ lbTrigger.focus(); }catch(e){} } }
+function close(fromPop){ lbox.classList.remove('open'); lbox.setAttribute('aria-hidden','true'); document.body.style.overflow=''; img.src=''; gallery=[]; pointers.clear(); lastDist=0; lastMid=null; swiping=false; if(lbTrigger && lbTrigger.focus){ try{ lbTrigger.focus(); }catch(e){} }
+/* unwind the pushed history entry when closed via ✕/Escape/tap; if popstate (Back)
+   triggered this close, the entry is already gone, so don't navigate back again */
+if(lbHistory){ lbHistory=false; if(!fromPop){ try{ history.back(); }catch(e){} } } }
+/* the phone Back gesture/button fires popstate → just close the lightbox, don't leave the page */
+window.addEventListener('popstate', function(){ if(lbox.classList.contains('open')) close(true); });
 window.__openLightbox=open;
-document.getElementById('lbClose').onclick=close;
+document.getElementById('lbClose').onclick=function(){ close(); };
 if(lbPrev) lbPrev.onclick=function(){ go(-1); };
 if(lbNext) lbNext.onclick=function(){ go(1); };
 document.getElementById('lbIn').onclick=function(){ var c=center(); anim(true); zoomAt(scale*1.5,c.x,c.y); };

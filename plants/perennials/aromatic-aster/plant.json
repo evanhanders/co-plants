@@ -1,0 +1,57 @@
+{
+  "common": "Aromatic aster",
+  "botanical": "Symphyotrichum oblongifolium",
+  "type": "Forb",
+  "lifecycle": "Perennial",
+  "bloom_season": "Fall",
+  "native": "CO native",
+  "blurb": "Among the very last wildflowers to bloom: a tidy mound of aromatic foliage that erupts in October into a haze of lavender-blue, gold-eyed daisies — vital late forage for bees and monarchs when almost nothing else is flowering.",
+  "size": "1.5–3 ft tall × 2–3 ft wide",
+  "sun": "Full sun",
+  "water": "Low; xeric once established",
+  "spread": "Clumping mound, spreading slowly by short rhizomes — well-behaved",
+  "seasons": "A bushy mound of aromatic (when crushed) foliage through summer; a sheet of lavender-blue gold-eyed daisies in fall — one of the last to bloom; seedheads in winter",
+  "wildlife": "Critical late-fall nectar for bees and migrating monarchs and other butterflies; larval host for the Pearl Crescent and others; seeds for birds",
+  "deer": "Generally resistant",
+  "toxic": "Non-toxic; no notable edible use",
+  "flower_color": [
+    "purple",
+    "blue"
+  ],
+  "bloom": [
+    "fall"
+  ],
+  "verified": "2026-06-07",
+  "shots": [
+    {
+      "local": "images/fa-flowers-t.jpg",
+      "full": "images/fa-flowers.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/331706830/large.jpg",
+      "s": "fall",
+      "cap": "Fall — lavender daisies and a honeybee · © Jay Pruett (CC-BY) / iNaturalist",
+      "by": "Jay Pruett",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/189364945"
+    },
+    {
+      "local": "images/fa-mound-t.jpg",
+      "full": "images/fa-mound.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/239781543/large.jpg",
+      "s": "fall",
+      "cap": "Fall — the late-blooming mound in flower · © abdullahraja (CC-BY-NC) / iNaturalist",
+      "by": "abdullahraja",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/140109609"
+    },
+    {
+      "local": "images/fa-habit-t.jpg",
+      "full": "images/fa-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/233036310/large.jpg",
+      "s": "fall",
+      "cap": "Fall — the bushy plant smothered in bloom · © Kat Hentsch (CC-BY-NC) / iNaturalist",
+      "by": "Kat Hentsch",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/136533497"
+    }
+  ]
+}

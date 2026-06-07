@@ -1,0 +1,57 @@
+{
+  "common": "Maximilian sunflower",
+  "botanical": "Helianthus maximiliani",
+  "type": "Forb",
+  "lifecycle": "Perennial",
+  "bloom_season": "Fall",
+  "native": "CO native",
+  "blurb": "A towering native prairie sunflower — 6 to 10 feet of arching stems lined top to bottom with golden, dark-eyed flowers in fall, mobbed by bees and stripped for seed by goldfinches. Give it room at the back of the border.",
+  "size": "4–10 ft tall × 2–4 ft wide",
+  "sun": "Full sun",
+  "water": "Low to moderate; drought-tolerant once established",
+  "spread": "Clumping but spreads by rhizomes into colonies — give it room or divide to contain",
+  "seasons": "Tall leafy stems through summer; golden dark-eyed flowers lining the upper stems in late summer and fall; seedheads feed birds into winter",
+  "wildlife": "Major fall nectar for bees and butterflies; oil-rich seeds heavily used by goldfinches and other birds; larval host",
+  "deer": "Foliage is browsed — not deer-proof",
+  "toxic": "Non-toxic; the seeds and tubers are edible (see Edible parts)",
+  "flower_color": [
+    "yellow"
+  ],
+  "bloom": [
+    "summer",
+    "fall"
+  ],
+  "verified": "2026-06-07",
+  "shots": [
+    {
+      "local": "images/fa-flower-t.jpg",
+      "full": "images/fa-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/425222970/large.jpeg",
+      "s": "fall",
+      "cap": "Fall — a single golden, dark-eyed flower · © Sequoia Janirella Wrens (CC-BY-NC) / iNaturalist",
+      "by": "Sequoia Janirella Wrens",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/238242637"
+    },
+    {
+      "local": "images/fa-habit-t.jpg",
+      "full": "images/fa-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/432042907/large.jpeg",
+      "s": "fall",
+      "cap": "Fall — tall flowering stems against the sky · © nancycklasky (CC-BY-NC) / iNaturalist",
+      "by": "nancycklasky",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/242346079"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/244286291/large.jpg",
+      "s": "summer",
+      "cap": "Summer — the narrow, folded gray-green leaves · © Anders Hastings (CC-BY) / iNaturalist",
+      "by": "Anders Hastings",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/142485204"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "common": "Showy goldeneye",
+  "botanical": "Heliomeris multiflora",
+  "type": "Forb",
+  "lifecycle": "Perennial",
+  "bloom_season": "Fall",
+  "native": "CO native",
+  "blurb": "An airy native daisy that hazes a xeric border with hundreds of small golden suns from midsummer until hard frost — wiry, see-through, and one of the longest-blooming wildflowers for hot, lean ground.",
+  "size": "2–4 ft tall × 1.5–2 ft wide",
+  "sun": "Full sun",
+  "water": "Low; xeric once established",
+  "spread": "Clumping; self-sows modestly where happy",
+  "seasons": "A wiry, airy plant smothered in small yellow daisies from midsummer until hard frost; dies back in winter",
+  "wildlife": "Long-season nectar for bees and butterflies; small seeds for birds",
+  "deer": "Generally resistant",
+  "toxic": "Non-toxic; no documented edible use",
+  "flower_color": [
+    "yellow"
+  ],
+  "bloom": [
+    "summer",
+    "fall"
+  ],
+  "verified": "2026-06-07",
+  "shots": [
+    {
+      "local": "images/su-flower-t.jpg",
+      "full": "images/su-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/409887671/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — a bright golden daisy · © Anders Hastings (CC-BY) / iNaturalist",
+      "by": "Anders Hastings",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/230826901"
+    },
+    {
+      "local": "images/fa-mass-t.jpg",
+      "full": "images/fa-mass.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/422118289/large.jpeg",
+      "s": "fall",
+      "cap": "Fall — the airy cloud of yellow daisies · © skynat303 (CC-BY-NC) / iNaturalist",
+      "by": "skynat303",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/237206979"
+    },
+    {
+      "local": "images/su-stems-t.jpg",
+      "full": "images/su-stems.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/587345837/large.jpg",
+      "s": "summer",
+      "cap": "Summer — daisies on fine wiry stems · © anne-outdoors (CC-BY-NC) / iNaturalist",
+      "by": "anne-outdoors",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/324500616"
+    }
+  ]
+}

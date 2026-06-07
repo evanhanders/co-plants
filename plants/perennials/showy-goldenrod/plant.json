@@ -1,0 +1,57 @@
+{
+  "common": "Showy goldenrod",
+  "botanical": "Solidago speciosa",
+  "type": "Forb",
+  "lifecycle": "Perennial",
+  "bloom_season": "Fall",
+  "native": "CO native",
+  "blurb": "The well-behaved native goldenrod: dense club-shaped plumes of gold light up the fall garden on tidy upright clumps — a keystone late-season nectar source for bees and migrating monarchs, and (despite the myth) not the cause of hay fever.",
+  "size": "2–4 ft tall × 1.5–2 ft wide",
+  "sun": "Full sun",
+  "water": "Low to moderate; xeric once established",
+  "spread": "Clumping and well-behaved — a non-running goldenrod that stays put, unlike the weedy Canada goldenrod",
+  "seasons": "Upright leafy clumps through summer; showy golden pyramidal plumes in late summer and fall; tan seedheads stand into winter",
+  "wildlife": "A keystone late-season nectar plant — bees, wasps, butterflies and migrating monarchs; seeds feed birds; larval host for many moths",
+  "deer": "Generally resistant",
+  "toxic": "Non-toxic — and NOT the cause of hay fever (that's wind-pollinated ragweed, which blooms at the same time)",
+  "flower_color": [
+    "yellow"
+  ],
+  "bloom": [
+    "summer",
+    "fall"
+  ],
+  "verified": "2026-06-07",
+  "shots": [
+    {
+      "local": "images/fa-flowers-t.jpg",
+      "full": "images/fa-flowers.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/187602562/large.jpg",
+      "s": "fall",
+      "cap": "Fall — golden plumes worked by a bumblebee · © Drew Chaney (CC-BY-NC) / iNaturalist",
+      "by": "Drew Chaney",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/111151908"
+    },
+    {
+      "local": "images/fa-spike-t.jpg",
+      "full": "images/fa-spike.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/91532539/large.jpg",
+      "s": "fall",
+      "cap": "Fall — the upright club-shaped flower spike · © Susan Fawcett (CC-BY-NC) / iNaturalist",
+      "by": "Susan Fawcett",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/57389358"
+    },
+    {
+      "local": "images/fa-drift-t.jpg",
+      "full": "images/fa-drift.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/163336281/large.jpg",
+      "s": "fall",
+      "cap": "Fall — golden plumes among autumn grasses · © Link Davis (CC-BY-NC) / iNaturalist",
+      "by": "Link Davis",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/98139513"
+    }
+  ]
+}

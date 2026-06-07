@@ -1,7 +1,7 @@
 :root{
 --paper:#f1e9d8; --paper2:#e8dec8; --card:#fbf7ec; --ink:#2c2820;
 --ink-soft:#6a6051; --line:#d6c9ac; --green:#4f6b3c; --green-soft:#7d9460;
---rust:#a8512b; --gold:#9a7d2e; --blue:#4a539a;
+--rust:#a8512b; --gold:#7d6420; --blue:#4a539a;
 --shadow:0 1px 0 #fff8, 0 8px 24px -12px rgba(60,48,28,.45);
 }
 *{box-sizing:border-box}
@@ -56,7 +56,7 @@ h1.display{font-size:clamp(34px,7vw,58px);font-weight:600;line-height:.98;margin
 .chip.off{opacity:.32;cursor:default;pointer-events:none}
 .chip .sw{display:inline-block;width:11px;height:11px;border-radius:50%;margin-right:6px;border:1px solid rgba(0,0,0,.28);flex:0 0 auto}
 .chip.active .sw{border-color:rgba(255,255,255,.6)}
-.chip .gc{margin-left:4px;font-size:10px;opacity:.7;font-variant-numeric:tabular-nums}
+.chip .gc{margin-left:4px;font-size:10px;font-variant-numeric:tabular-nums}
 .chip.active .gc{color:#fff;opacity:.85}
 /* mobile: a "Filters" toggle collapses the whole filter bar (hidden on desktop) */
 .filter-toggle{display:none;align-items:center;gap:6px;border:1.5px solid var(--line);background:var(--card);color:var(--ink);font-family:'Fraunces',Georgia,serif;font-size:13px;padding:8px 13px;border-radius:8px;cursor:pointer}
@@ -268,8 +268,8 @@ ol.biblio li:target{background:#f6edda;outline:2px solid var(--gold);outline-off
 .creditlist li{padding:7px 0;border-bottom:1px dashed var(--line);line-height:1.5}
 .creditlist li:last-child{border-bottom:none}
 .creditlist .cap{color:#3b342a;font-style:italic}
-.creditlist a{color:var(--green);text-decoration:none}
-.creditlist a:hover{text-decoration:underline}
+.creditlist a{color:var(--green);text-decoration:underline}
+.creditlist a:hover{text-decoration:none}
 @media (max-width:640px){
 .sheet-head{grid-template-columns:1fr}
 .sheet-head .plate{border-right:none;border-bottom:1px solid var(--line)}

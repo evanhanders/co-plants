@@ -53,5 +53,85 @@
       "lic": "CC-BY",
       "link": "https://www.inaturalist.org/observations/132982576"
     }
-  ]
+  ],
+  "care": {
+    "hardiness": "A tough, long-lived prairie legume whose range spans the Great Plains well into the cold Canadian prairie, so it sails through Boulder winters (USDA 5b–6a) with no protection.[1][3] The deep taproot makes it one of the most drought-hardy natives for our semi-arid ~15-inch climate, thriving on dry, exposed prairie ground.[1][2]",
+    "planting": "Set out container plants in spring after the mid-May average last frost, or sow seed in late fall. Because of the deep taproot it transplants poorly — plant young, small stock (plugs) rather than large divisions, and site it permanently where it can put down roots; it resents being moved.[1] In a pot use a gritty, fast-draining mix and protect from winter wet, which rots the crown; it is far happier in the open ground.[1][2]",
+    "sun": "Full sun — it wants the open, unshaded exposure of its native shortgrass and mixed-grass prairie, and our intense high-altitude sun is no problem.[1][2]",
+    "soil": "Lean, well-drained sandy, gravelly, or loamy soils, including the alkaline clay common around Boulder so long as drainage is sharp. It performs best on poor, dry ground; avoid rich, amended, or heavy wet soils, which encourage floppy growth and crown rot.[1][2]",
+    "water": "Low; very xeric once established. The deep taproot makes it exceptionally drought-tolerant — give occasional deep soakings the first season to establish, then little to no supplemental water.[1][2]",
+    "spacing": "Allow about 1–1.5 ft between plants in a border or meadow planting.[1]",
+    "propagation": "Grow from seed — the deep taproot makes mature plants nearly impossible to divide or move, so seed (or young plugs) is the practical route. As a legume the seed benefits from a native Rhizobium inoculant at sowing to support nitrogen fixation; scarifying the hard seed coat and a brief cold-moist period improve and even out germination. Sow in place or start in deep cells to minimize root disturbance.[1][2]",
+    "sow": "Scarify the hard seed and either sow outdoors in late fall (so winter supplies the chilling) or sow in spring after a short cold-moist stratification; inoculate with a native legume Rhizobium at sowing. Establishment is slow — seedlings put energy into the taproot first — so be patient through the first season or two.[1][2]",
+    "stratify": "A brief cold-moist stratification (about 2–4 weeks at ~40°F), combined with scarifying the hard seed coat, improves germination; fall sowing lets winter provide the chilling naturally.[2]",
+    "bloom": "Rose-purple thimble-shaped flower heads open in a rising ring of tiny golden-anthered flowers in early-to-mid summer (roughly June–August on the Front Range), followed by small seedheads.[1][2]",
+    "feeding": "None — and do not fertilize. As a nitrogen-fixing legume it makes its own nitrogen and actually enriches lean soil; extra fertilizer (especially nitrogen) pushes weak, floppy growth and shortens its life.[1][2]",
+    "maintenance": "Very low care once established. It is slow to establish but long-lived, so leave it undisturbed — avoid overwatering, fertilizing, and transplanting. Leave the seedheads for winter structure and seed-eating wildlife.[1][2]",
+    "troubles": "Largely pest- and disease-free; root and crown rot in wet, poorly drained, or over-irrigated soil is the main risk. Deer and rabbits browse the high-protein foliage, which can set back young plants, so protect new plantings until established.[1][2][3]",
+    "companions": "Pair with other xeric shortgrass-prairie natives: little bluestem and blue grama grasses, dotted gayfeather, prairie coneflower, sulphur flower buckwheat, and blanket flower — a low-water meadow where its nitrogen fixing benefits its neighbors.[1]"
+  },
+  "references": [
+    {
+      "name": "USDA NRCS Plant Guide — purple prairie clover (Dalea purpurea)",
+      "url": "https://plants.sc.egov.usda.gov/DocumentLibrary/plantguide/pdf/pg_dapu5.pdf"
+    },
+    {
+      "name": "Lady Bird Johnson Wildflower Center — Dalea purpurea",
+      "url": "https://www.wildflower.org/plants/result.php?id_plant=DAPU5"
+    },
+    {
+      "name": "USDA Forest Service FEIS — Dalea purpurea (species review)",
+      "url": "https://www.fs.usda.gov/database/feis/plants/forb/dalpur/all.html"
+    },
+    {
+      "name": "Native American Ethnobotany Database — Dalea purpurea",
+      "url": "http://naeb.brit.org/uses/species/1226/"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      1,
+      2
+    ],
+    "sun": [
+      1,
+      2
+    ],
+    "water": [
+      1,
+      2
+    ],
+    "spread": [
+      1,
+      2
+    ],
+    "seasons": [
+      1,
+      2
+    ],
+    "wildlife": [
+      1,
+      3
+    ],
+    "deer": [
+      1,
+      3
+    ],
+    "toxic": [
+      1
+    ]
+  },
+  "edible": {
+    "level": "edible",
+    "food": true,
+    "kinds": [
+      "leaves",
+      "roots"
+    ],
+    "card": "Leaves for tea; sweet roots chewed",
+    "summary": "A minor traditional food, not a staple: the leaves were steeped into a pleasant beverage (tea) and the sweet roots were chewed like candy by Plains peoples.[4]",
+    "parts": "The dried leaves were steeped to make a pleasant tea-like beverage, and the long, sweet taproot was chewed as a nibble or candy by the Oglala, Lakota, Comanche, and other Plains peoples — a minor traditional food, not a dietary staple.[4]",
+    "preparation": "Steep the leaves (fresh or dried) in hot water for a mild herbal beverage; the sweet root was simply chewed. Be sure of your identification first — confirm the wiry stems, fine pinnate leaves, and the distinctive rose-purple thimble of flowers opening in a rising golden ring.[1][4]",
+    "caution": "This is a documented but minor traditional tea/nibble, not a well-known food crop — treat it as an occasional novelty, not a staple, and only after confirming the plant's identity. No part is known to be toxic, but as with any wild plant, sample sparingly the first time.[4]"
+  }
 }

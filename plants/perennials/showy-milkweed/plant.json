@@ -53,5 +53,96 @@
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/227714397"
     }
-  ]
+  ],
+  "care": {
+    "hardiness": "A widespread Western native of the plains and foothills, fully hardy through Boulder's zone 5b–6a winters; it dies back to the ground each fall and re-emerges from the rhizomes in spring.[1][2]",
+    "planting": "Plant container plants or rhizome cuttings in spring after the mid-May last frost, or set out in fall; it transplants poorly once established, so site it permanently. Milkweed resents container life — it has high mortality in pots and overwinters poorly in them — so this is a plant to put straight in the ground rather than keep potted.[2]",
+    "sun": "Full sun; it is not shade-tolerant and must have open exposure to bloom and to host monarchs.[3]",
+    "soil": "Adaptable to coarse, medium, or fine soils and tolerant of the alkaline clay common around Boulder; it grows in many sunny, dry habitats. Sharp drainage is best, though it accepts heavier ground than butterfly milkweed.[1][3]",
+    "water": "Low to moderate; drought-tolerant once the deep rhizome system is established. In the wild it favors moist sandy ground along waterways but performs well on a low-water Front-Range regimen with occasional deep soaks in dry summers.[1][3]",
+    "spacing": "Space about 18–24 in apart, but plant in groups — monarch caterpillars need fairly dense clumps of stems to find their way back to food after dropping to escape predators.[2]",
+    "propagation": "By seed and by rhizome cuttings. Take cuttings of the tuberous rhizome while the plant is dormant, each piece carrying at least one bud (buds sit about 2 in apart), and get them in the ground by late fall so roots establish before winter; irrigate the first year. Direct-sowing seed in the ground gives far better results than starting in pots.[2]",
+    "sow": "Sow seed directly into the ground in fall so winter supplies the cold treatment, or stratify and sow in spring; in-ground sowing beats pots, which see high seedling mortality.[2]",
+    "stratify": "About 3 months (roughly 90 days) of cold-moist stratification at ~40°F improves germination for milkweed from colder, higher-elevation climates like the Front Range.[2]",
+    "depth": "Sow shallowly, just below the soil surface (about 1/8–1/4 in); fall-sown seed left near the surface germinates well the following spring.[2]",
+    "bloom": "Rose-pink star flowers in early-to-mid summer (roughly May–July), followed by spiky pods that split to silky floss in fall.[1][3]",
+    "maintenance": "Very low. Leave the dead stalks and split pods standing over winter — they shelter overwintering insects and the floss-borne seed — and cut back in spring as new shoots emerge.[2]",
+    "selfsow": "Spreads aggressively by deep rhizomes into clonal colonies and also self-sows from wind-borne seed; site it where it can roam, or sink a root barrier to contain it.[1]",
+    "troubles": "Largely pest-free; oleander aphids (bright orange) often cluster on stems and buds but are best hosed off or left, since this is a monarch nursery — never spray insecticide on a milkweed, as it kills the caterpillars it is meant to feed.[2][5]",
+    "harvest": "If gathering seed, collect after pods ripen but before they split open and scatter on the wind; bag the pods to avoid losing the floss-borne seed.[2]",
+    "companions": "Pairs well with other sunny prairie natives — blanket flower, prairie coneflower, little bluestem, and asters — building a season-long nectar succession for the monarchs and bees it draws.[5]"
+  },
+  "edible": {
+    "level": "caution",
+    "food": true,
+    "kinds": [
+      "stems",
+      "flowers",
+      "fruit"
+    ],
+    "card": "Young shoots, buds & young pods — boiled in several changes of water (never raw)",
+    "summary": "Young spring shoots, flower buds, and young firm pods are edible ONLY after thorough cooking in several changes of water; all parts are toxic raw.[1][2][4]",
+    "parts": "Various Indigenous groups boiled and ate the young shoots and stems (like asparagus), the immature flower buds (boiled for soup or with meat), and the young firm green pods as a cooked vegetable; this is among the least toxic milkweeds, with documented recipes for preparing it as a potherb.[2][3][4]",
+    "preparation": "Eat young growth ONLY — never the mature plant. Boil thoroughly in several changes of water to leach out the bitter, toxic latex before eating; the changes of water are not optional flavoring but the safety step that removes the cardenolides. Never eat any part raw.[1][2][3]",
+    "caution": "All parts contain toxic cardiac glycosides (cardenolides) and an irritant milky latex; raw, the plant is poisonous — cardenolides cause vomiting at low doses and can be lethal at higher ones, and milkweed is poisonous to cattle, sheep, and other livestock and toxic to dogs, cats, and horses (the ASPCA lists Asclepias as toxic, with cardiotoxic cardenolides and signs from vomiting and weakness to seizures, dilated pupils, and death).[1][2][6] Only the YOUNG shoots, buds, and firm immature pods are eaten, and only after thorough boiling in several changes of water; the mature plant, leaves, and sap are not edible. ID is critical: before it flowers, milkweed can be confused with toxic dogbane (Apocynum), which is poisonous and must not be eaten — confirm the milky sap, opposite leaves, and milkweed flower/pod before harvesting.[1][3]"
+  },
+  "references": [
+    {
+      "name": "USDA-FS Fire Effects Information System — Asclepias speciosa (showy milkweed)",
+      "url": "https://research.fs.usda.gov/feis/species-reviews/ascspe"
+    },
+    {
+      "name": "USDA NRCS Plant Guide — showy milkweed (Asclepias speciosa)",
+      "url": "https://plants.sc.egov.usda.gov/DocumentLibrary/plantguide/pdf/pg_assp.pdf"
+    },
+    {
+      "name": "Lady Bird Johnson Wildflower Center — Asclepias speciosa",
+      "url": "https://www.wildflower.org/plants/result.php?id_plant=ASSP"
+    },
+    {
+      "name": "Native American Ethnobotany Database — Asclepias speciosa",
+      "url": "http://naeb.brit.org/uses/search/?string=Asclepias+speciosa"
+    },
+    {
+      "name": "Xerces Society — Milkweed & monarch conservation",
+      "url": "https://xerces.org/milkweed"
+    },
+    {
+      "name": "ASPCA Animal Poison Control — Milkweed (Asclepias spp.)",
+      "url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/milkweed"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      1,
+      2
+    ],
+    "sun": [
+      3
+    ],
+    "water": [
+      1,
+      3
+    ],
+    "spread": [
+      1,
+      2
+    ],
+    "seasons": [
+      1,
+      3
+    ],
+    "wildlife": [
+      2,
+      5
+    ],
+    "deer": [
+      1
+    ],
+    "toxic": [
+      1,
+      2,
+      6
+    ]
+  }
 }

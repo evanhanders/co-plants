@@ -51,5 +51,73 @@
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/166790102"
     }
-  ]
+  ],
+  "care": {
+    "hardiness": "A cold-hardy native of foothill streambanks and draws across the Interior West (its black-hawthorn complex ranges far north into Canada), fully reliable through Boulder's USDA 5b–6a winters with no protection.[1][2]",
+    "planting": "Plant in spring after the mid-May last frost or in early fall, in a spot with access to moisture. Dig the hole twice as wide as the rootball and the same depth, and water in well. As a riparian native it is not a dry-zone plant — site it where it will get supplemental water (a low spot, near a downspout, or on an irrigation line), not in a baked xeric bed.[1][2]",
+    "sun": "Full sun to part shade. It flowers and fruits most heavily in full sun but tolerates the dappled light of a woodland edge or streambank, its natural setting.[1][2]",
+    "soil": "Adaptable to most soils — clay, loam, or gravel — including Boulder's alkaline clay, provided the site holds some moisture. In the wild it grows on rich, moist, often heavy streambank soils rather than lean dry ground.[1][2]",
+    "water": "Moderate to fairly high — a riparian species that wants more water than the xeric natives; not for a dry zone. Give regular deep watering, especially while establishing and through summer heat; it naturally grows along streams, seeps, and moist draws.[1][2]",
+    "spacing": "Allow 10–15 ft between plants for a specimen tree, or set 5–8 ft apart and let them sucker together for a thorny wildlife hedge or barrier thicket.[2]",
+    "propagation": "Grow from seed or cuttings. Like most hawthorns the seed is deeply, doubly dormant: it needs a warm-then-cold (warm moist followed by cold-moist) double stratification to germinate, and is slow and erratic — sown seed often takes one to two years to come up, so fall-sow outdoors and be patient. It also suckers readily from the roots, so rooted suckers can be severed and moved, and softwood/semi-hardwood cuttings can be attempted.[1][2]",
+    "stratify": "Seed requires a warm-then-cold double stratification (several months warm-moist, then several months cold-moist at ~40°F) to break its dormant, hard endocarp; germination is slow and erratic, frequently spread over one to two years. Fall-sowing outdoors lets the natural seasons supply both phases.[2]",
+    "bloom": "Flat clusters of white five-petaled flowers open in mid-to-late spring (May–June on the Front Range), followed by dark purple-black haws that ripen in late summer to fall and persist into winter.[1][2]",
+    "maintenance": "Prune in late winter or early spring before bud break to shape, remove dead or crossing wood, and lift the canopy — mind the sharp thorns. For a single-trunk tree, cut root suckers at ground level; for a wildlife thicket or barrier hedge, let selected suckers fill in. Slow-growing but long-lived, so prune lightly and let it develop.[2]",
+    "troubles": "Cedar–hawthorn rust is the main disease: it alternates between hawthorns and junipers (Juniperus/red-cedar), so site it well away from junipers to break the cycle; rust causes orange leaf and fruit spotting but is rarely fatal. Like other rose-family plants it can also see fireblight, leaf spot, and aphids; good airflow helps. The thorns are sharp — site it away from paths and play areas.[1][2]",
+    "harvest": "Pick the haws when fully ripe and dark purple-black, typically late summer into fall. They are mealy and seedy — best cooked down into jelly, jam, syrup, or fruit leather (and a traditional Indigenous food); strain out the hard seeds during processing. Mind the thorns when picking.[1][2]",
+    "companions": "Combine with other native riparian and woodland-edge plants that share its taste for moisture: chokecherry, Wood's rose, red-twig dogwood, golden currant, mountain alder, and native serviceberry — a thorny, fruit-rich wildlife hedgerow.[1][2]"
+  },
+  "references": [
+    {
+      "name": "Lady Bird Johnson Wildflower Center — Crataegus rivularis",
+      "url": "https://www.wildflower.org/plants/result.php?id_plant=CRRI"
+    },
+    {
+      "name": "USDA Forest Service FEIS — Crataegus douglasii incl. var. rivularis (river/black hawthorn species review)",
+      "url": "https://www.fs.usda.gov/database/feis/plants/shrub/cradou/all.html"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      1,
+      2
+    ],
+    "sun": [
+      1,
+      2
+    ],
+    "water": [
+      1,
+      2
+    ],
+    "spread": [
+      2
+    ],
+    "seasons": [
+      1,
+      2
+    ],
+    "wildlife": [
+      2
+    ],
+    "deer": [
+      2
+    ],
+    "toxic": [
+      1,
+      2
+    ]
+  },
+  "edible": {
+    "level": "edible",
+    "food": true,
+    "kinds": [
+      "fruit"
+    ],
+    "card": "Ripe haws, cooked (jelly, jam)",
+    "summary": "The ripe dark-purple haws (fruit flesh) are edible — mealy and seedy fresh, so they are best cooked into jelly, jam, or syrup; a traditional Indigenous food.[1][2]",
+    "parts": "Only the flesh of the fully ripe, dark purple-black haw is eaten. Hawthorn fruit was a traditional food across the Interior West, gathered in autumn and eaten fresh or, more often, dried and cooked into jelly, jam, syrup, and fruit leather. The flesh is rather mealy, dry, and full of hard seeds, so it is far better cooked and strained than eaten out of hand.[1][2]",
+    "preparation": "Harvest when the haws are fully ripe and dark; cook the flesh down and strain out the large, hard seeds to make jelly, jam, or syrup. Do not chew or eat the seeds (pips). Watch the sharp thorns while picking.[1][2]",
+    "caution": "Eat only the flesh of ripe (dark) haws. As with other rose-family stone/pip fruits (apple, cherry, chokecherry), the seeds (pips) contain cyanogenic compounds and should not be chewed or eaten — eat the flesh and spit out or strain off the seeds. Be sure the fruit is dark-ripe, and mind the plant's sharp thorns when harvesting.[1][2]"
+  }
 }

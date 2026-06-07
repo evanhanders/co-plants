@@ -52,5 +52,82 @@
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/300347598"
     }
-  ]
+  ],
+  "care": {
+    "hardiness": "A tough prairie native hardy well into the cold Plains, so it sails through Boulder's zone 5b–6a winters; it dies to the ground each fall and resprouts from its deep rootstock.[1][2]",
+    "planting": "Plant young plugs or pot-grown plants in spring after the mid-May last frost; it has a deep taproot, resents being moved, and is slow to settle, so site it permanently and disturb it as little as possible. It is also notoriously LATE to break ground in spring — mark its spot so you don't dig into or overplant the dormant crown.[2][3]",
+    "sun": "Full sun — it needs open, unshaded exposure to bloom well and serve as a monarch host.[2]",
+    "soil": "Lean, well-drained sandy, loamy, or rocky/limestone soils; it tolerates the alkaline clay around Boulder so long as drainage is sharp, and dislikes rich or wet ground.[1][2]",
+    "water": "Low; xeric once established thanks to a deep drought-proof taproot — rated high drought tolerance, low water use. Give occasional deep soaks the first season or two while it establishes, then little supplemental water.[2]",
+    "spacing": "Space about 18 in apart; it stays a tidy clump that simply thickens each year rather than running.[2]",
+    "propagation": "Best from seed or by careful rhizome cuttings taken when dormant — NOT by digging and dividing an established clump, whose deep taproot resents disturbance. Direct-sow or set out small plugs rather than moving mature plants; both seedlings and cuttings usually first bloom in their second year.[1][2]",
+    "sow": "Direct-sow seed into the ground in fall to let winter supply the cold treatment, or stratify and sow in spring; sowing in place suits the taproot better than transplanting.[1][2]",
+    "stratify": "Cold-moist stratify the seed about 3 months (roughly 90 days) at ~40°F to break dormancy.[1]",
+    "depth": "Sow shallowly, about 1/8–1/4 in deep, just below the surface.[1]",
+    "bloom": "Brilliant flat-topped orange clusters in mid-to-late summer (roughly June–August), followed by slender spindle-shaped pods that split to silky floss in fall.[1][2]",
+    "maintenance": "Very low once established; leave the stalks and pods standing over winter for overwintering insects and seed, and cut back in spring as the late shoots appear. Long-lived where left undisturbed.[1][2]",
+    "troubles": "Few problems; oleander aphids may cluster on stems and buds — hose them off or tolerate them, and never spray a milkweed with insecticide, since it kills the monarch caterpillars it is meant to host. Establishment is the real hurdle: it is slow, and transplant shock from disturbing the taproot is the usual cause of loss.[2][4]",
+    "harvest": "If saving seed, collect after the pods ripen but before they split and the wind takes the floss-borne seed.[1]",
+    "companions": "Combines well with other xeric prairie natives — blanket flower, prairie coneflower, little bluestem, asters — for a continuous nectar season alongside its monarch-host duty.[4]"
+  },
+  "edible": {
+    "level": "caution",
+    "food": false,
+    "summary": "Not a food plant — grown as a monarch/pollinator plant; all parts are toxic raw (cardiac glycosides) and the root is a folk medicinal ('pleurisy root'), not a casual edible.[1][2][3]",
+    "caution": "Butterfly milkweed contains cardiac glycosides (cardenolides) plus resinoids and a little alkaloid in all parts, poisonous to humans and to livestock; poisoning signs include weakness, bloating, rapid weak pulse, dilated pupils, difficulty breathing, spasms, and coma, and the ASPCA lists Asclepias as toxic to dogs, cats, and horses.[1][3] The Wildflower Center flags it 'not edible,' with the roots and sap of all parts poisonous.[2] It is grown here strictly as a monarch larval host and pollinator plant, not for eating. Its tuberous root was the historic folk medicinal 'pleurisy root' (listed in the U.S. Pharmacopoeia 1820–1905) — a medicinal preparation, NOT a casual edible; do not eat it. While some sources note young shoots of milkweeds were boiled and eaten by Indigenous peoples, butterfly milkweed is far better documented as toxic and as a medicine than as a food, and we treat it as not-food here; never eat any part raw.[1][5]"
+  },
+  "references": [
+    {
+      "name": "USDA NRCS Plant Guide — butterfly milkweed (Asclepias tuberosa)",
+      "url": "https://plants.sc.egov.usda.gov/DocumentLibrary/plantguide/pdf/pg_astu.pdf"
+    },
+    {
+      "name": "Lady Bird Johnson Wildflower Center — Asclepias tuberosa",
+      "url": "https://www.wildflower.org/plants/result.php?id_plant=ASTU"
+    },
+    {
+      "name": "ASPCA Animal Poison Control — Milkweed (Asclepias spp.)",
+      "url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/milkweed"
+    },
+    {
+      "name": "Xerces Society — Milkweed & monarch conservation",
+      "url": "https://xerces.org/milkweed"
+    },
+    {
+      "name": "Native American Ethnobotany Database — Asclepias tuberosa",
+      "url": "http://naeb.brit.org/uses/search/?string=Asclepias+tuberosa"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      1,
+      2
+    ],
+    "sun": [
+      2
+    ],
+    "water": [
+      2
+    ],
+    "spread": [
+      1,
+      2
+    ],
+    "seasons": [
+      1,
+      2
+    ],
+    "wildlife": [
+      2,
+      4
+    ],
+    "deer": [
+      2
+    ],
+    "toxic": [
+      1,
+      2,
+      3
+    ]
+  }
 }

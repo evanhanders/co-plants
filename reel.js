@@ -61,9 +61,9 @@ const shots = shotsFor(p);
 if(!shots.length){ return '<div class="shot empty">'+window.__camera+'<span>Photograph coming soon</span></div>'; }
 const caps = shots.map(capOf), srcs = shots.map(shotSource), labs = srcs.map(srcLabel);
 const fulls = shots.map(function(sh){ return shotFull(sh, p.dir); });
-let reel = '<div class="reel" data-caps=\''+JSON.stringify(caps).replace(/'/g,"&#39;")+'\' data-srcs=\''+JSON.stringify(srcs).replace(/'/g,"&#39;")+'\' data-labs=\''+JSON.stringify(labs).replace(/'/g,"&#39;")+'\'>';
-shots.forEach(function(sh,i){ var cand=shotCandidates(sh, p.dir); var rest=JSON.stringify(cand.slice(1)).replace(/'/g,"&#39;"); var cp=capPlain(caps[i]); var alt=esc(p.common+(cp?' — '+cp:'')); reel += '<figure class="shot'+(i===0?' show':'')+'"><img src="'+(cand[0]||"")+'" alt="'+alt+'" loading="lazy" tabindex="0" role="button" aria-label="View larger photo: '+alt+'" data-full="'+esc(fulls[i]||"")+'" data-alts=\''+rest+'\' onerror="window.__imgnext(this)"></figure>'; });
-reel += '</div>';
+let reel = '<div class="reel" data-caps=\''+JSON.stringify(caps).replace(/'/g,"&#39;")+'\' data-srcs=\''+JSON.stringify(srcs).replace(/'/g,"&#39;")+'\' data-labs=\''+JSON.stringify(labs).replace(/'/g,"&#39;")+'\'><div class="reel-track">';
+shots.forEach(function(sh,i){ var cand=shotCandidates(sh, p.dir); var rest=JSON.stringify(cand.slice(1)).replace(/'/g,"&#39;"); var cp=capPlain(caps[i]); var alt=esc(p.common+(cp?' — '+cp:'')); reel += '<figure class="shot"><img src="'+(cand[0]||"")+'" alt="'+alt+'" loading="lazy" tabindex="0" role="button" aria-label="View larger photo: '+alt+'" data-full="'+esc(fulls[i]||"")+'" data-alts=\''+rest+'\' onerror="window.__imgnext(this)"></figure>'; });
+reel += '</div></div>';
 let tabs='';
 if(shots.length>1){ shots.forEach(function(sh,i){ var lab=esc(capPlain(caps[i]) || (sh.s||('Photo '+(i+1)))); tabs += '<button class="tab'+(i===0?' on':'')+'" data-i="'+i+'" aria-label="'+lab+'" aria-pressed="'+(i===0?'true':'false')+'" title="'+esc(caps[i]||'')+'">'+seasonIcon(sh.s)+'</button>'; }); }
 return reel + '<div class="sbar"><div class="tabs">'+tabs+'</div><span class="lab">'+(caps[0]||'')+'</span>'
@@ -74,35 +74,35 @@ window.__imgnext = function(img){ var alts=[]; try{ alts=JSON.parse(img.getAttri
 function wireReels(root){
 Array.prototype.forEach.call(root.querySelectorAll('.plate'), function(plate){
 var reel = plate.querySelector('.reel'), bar = plate.querySelector('.sbar'); if(!reel||!bar) return;
+var track = reel.querySelector('.reel-track'); if(!track) return;
 var tabs = Array.prototype.slice.call(bar.querySelectorAll('.tab'));
-var figs = Array.prototype.slice.call(reel.querySelectorAll('.shot'));
+var figs = Array.prototype.slice.call(track.querySelectorAll('.shot'));
 var lab = bar.querySelector('.lab'), src = bar.querySelector('.src');
 var caps=[], srcs=[], labs=[]; try{ caps=JSON.parse(reel.dataset.caps||'[]'); }catch(e){} try{ srcs=JSON.parse(reel.dataset.srcs||'[]'); }catch(e){} try{ labs=JSON.parse(reel.dataset.labs||'[]'); }catch(e){}
-/* the strip is a static stack — only the active season's photo is shown; the dots swap it */
-var cur=0;
-function setActive(i){ cur=i; figs.forEach(function(f,j){ f.classList.toggle('show', j===i); }); tabs.forEach(function(t,j){ t.classList.toggle('on', j===i); t.setAttribute('aria-pressed', j===i?'true':'false'); }); if(lab) lab.textContent=caps[i]||''; if(src&&srcs[i]){ src.href=srcs[i]; src.textContent=labs[i]||'Source ↗'; } }
-tabs.forEach(function(t){ t.onclick=function(){ setActive(+t.dataset.i); }; });
-/* finger-swipe the card strip to change season — pointer-based, NOT a scroll container,
-   so a vertical drag still scrolls the page (no scroll-chaining). Horizontal-dominant
-   swipes past a threshold step the season; taps fall through to the lightbox. */
-if(figs.length>1){
-var sx=0, sy=0, lx=0, ly=0, sw=false;
-function commitSwipe(){
-if(!sw) return; sw=false;
-var dx=lx-sx, dy=ly-sy;
-if(Math.abs(dx)>35 && Math.abs(dx)>Math.abs(dy)*1.3){
-var n = dx<0 ? Math.min(figs.length-1, cur+1) : Math.max(0, cur-1);
-if(n!==cur) setActive(n);
+/* the seasons live side-by-side in a flex track that SLIDES between them (same smooth feel as
+   the family carousel). Resting positions use a percentage transform of the track's own
+   one-slide-wide box, so they're resize-proof — no per-reel resize listener to leak. */
+var n = figs.length, cur = 0;
+function place(anim){ track.style.transition = anim ? 'transform .3s ease' : 'none'; track.style.transform = 'translateX(-'+(cur*100)+'%)'; }
+function ui(){ figs.forEach(function(f,j){ f.classList.toggle('show', j===cur); }); tabs.forEach(function(t,j){ t.classList.toggle('on', j===cur); t.setAttribute('aria-pressed', j===cur?'true':'false'); }); if(lab) lab.textContent=caps[cur]||''; if(src&&srcs[cur]){ src.href=srcs[cur]; src.textContent=labs[cur]||'Source ↗'; } }
+function setActive(i, anim){ cur = Math.max(0, Math.min(n-1, i)); place(anim!==false); ui(); }
+tabs.forEach(function(t){ t.onclick=function(){ setActive(+t.dataset.i, true); }; });
+/* finger-follow slide: the track tracks the drag and snaps to the next/prev season. pan-y keeps
+   a vertical drag scrolling the page (no scroll-chaining); a tap (no real move) falls through to
+   the lightbox (wireLightbox bails when the pointer moved past its tap threshold). */
+if(n>1){
+var sx=0, sy=0, W=0, base=0, drag=false, decided=false, horiz=false;
+reel.addEventListener('pointerdown', function(e){ sx=e.clientX; sy=e.clientY; W=reel.clientWidth; base=-cur*W; drag=true; decided=false; horiz=false; track.style.transition='none'; }, {passive:true});
+reel.addEventListener('pointermove', function(e){ if(!drag) return; var dx=e.clientX-sx, dy=e.clientY-sy;
+if(!decided && (Math.abs(dx)>6||Math.abs(dy)>6)){ decided=true; horiz=Math.abs(dx)>Math.abs(dy); }
+if(decided && horiz){ if((cur===0&&dx>0)||(cur===n-1&&dx<0)) dx*=0.35; /* resistance at the ends */ track.style.transform='translateX('+(base+dx)+'px)'; } }, {passive:true});
+function end(e){ if(!drag) return; drag=false; if(!horiz) return; var dx=e.clientX-sx, th=Math.min(70, W*0.18);
+if(dx<=-th && cur<n-1) setActive(cur+1, true); else if(dx>=th && cur>0) setActive(cur-1, true); else place(true); }
+/* commit on pointerup AND pointercancel — some mobile browsers end a horizontal drag with cancel */
+reel.addEventListener('pointerup', end, {passive:true});
+reel.addEventListener('pointercancel', end, {passive:true});
 }
-}
-reel.addEventListener('pointerdown', function(e){ sx=lx=e.clientX; sy=ly=e.clientY; sw=true; }, {passive:true});
-reel.addEventListener('pointermove', function(e){ if(sw){ lx=e.clientX; ly=e.clientY; } }, {passive:true});
-/* commit on pointerup AND pointercancel — some mobile browsers (incl. Brave/Android)
-   end a horizontal drag with pointercancel rather than pointerup */
-reel.addEventListener('pointerup', commitSwipe, {passive:true});
-reel.addEventListener('pointercancel', commitSwipe, {passive:true});
-}
-setActive(0);
+setActive(0, false);
 });
 }
 

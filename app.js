@@ -69,7 +69,7 @@ const GROUPS=[
 {key:'life', label:'Lifecycle', mode:'or', opts:['Perennial','Tender perennial','Biennial','Annual'].map(function(k){ return {v:k,label:k,test:function(p){return p.lifecycle===k;}}; })},
 {key:'sun',  label:'Sun',   mode:'or', opts:['Full sun','Part shade','Shade'].map(function(k){ return {v:k,label:k,test:function(p){return sunOf(p).indexOf(k)>-1;}}; })},
 {key:'water',label:'Water', mode:'or', opts:['Low','Moderate','High'].map(function(k){ return {v:k,label:k,test:function(p){return waterOf(p).indexOf(k)>-1;}}; })},
-{key:'nat',  label:'Origin',mode:'or', opts:[{v:'native',label:'Native',test:function(p){return isNative(p);}},{v:'intro',label:'Introduced',test:function(p){return !isNative(p);}}]},
+{key:'nat',  label:'Origin',mode:'or', opts:[{v:'native',label:'Native',test:function(p){return isNative(p);}},{v:'intro',label:'Non-native',test:function(p){return !isNative(p);}}]},
 {key:'trait',label:'Traits',mode:'and', cls:'trait', opts:['winter','pollin','spreads'].map(function(k){ return {v:k,label:TRAITS[k].label,icon:TRAITS[k].icon,test:TRAITS[k].test}; })},
 {key:'edible',label:'Edibility',mode:'or', cls:'ed', opts:['fruit','eflower','eleaf','estem','eseed','eroot','toxparts','fulltox'].map(function(k){ return {v:k,label:TRAITS[k].label,icon:TRAITS[k].icon,test:TRAITS[k].test}; })}
 ];

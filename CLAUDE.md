@@ -160,6 +160,12 @@ is **NOT** the grouping. A file can live in `plants/perennials/` yet be a `Groun
 - The card fields: `common, botanical, type, lifecycle, native, blurb, size, sun, water,
   spread, seasons, wildlife, deer, toxic, winter, verified` (+ `bloom_season` for forbs;
   + `origin` and `habitat` on **non-native** plants).
+- **`native`** is a **two-value** field, rendered verbatim as the corner badge: use exactly
+  **`"CO native"`** (green badge, Front-Range native) or **`"Non-native"`** (gold badge,
+  everything introduced — including US/regional natives that aren't local, like witch hazel or
+  black-eyed Susan). Don't write `"Introduced"` or other variants — the term was normalized to
+  `Non-native` so the badge and the Origin filter chip read the same. `isNative(p)` keys off the
+  word `native` not preceded by `non-`, so both values classify correctly.
 - **`origin` + `habitat`** *(non-native plants only)* — the plant's **provenance**: `origin`
   = a short phrase naming where it's **from** (its native region/countries, or for a
   cultivar/garden hybrid the wild ancestor species' range, stated honestly); `habitat` = a

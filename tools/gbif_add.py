@@ -39,8 +39,12 @@ for slug, plist in picks.items():
         full = im.copy(); full.thumbnail((1400, 1400)); full.save(os.path.join(img_dir, base+".jpg"), "JPEG", quality=82, optimize=True)
         thumb = im.copy(); thumb.thumbnail((400, 400)); thumb.save(os.path.join(img_dir, base+"-t.jpg"), "JPEG", quality=82, optimize=True)
         src = p.get("source", "GBIF")
+        # append attribution idempotently so a re-baked cap can't double the tail
+        attr = f"© {p['by']} ({p['lic']}) / {src}"
+        base_cap = p.get("cap", "")
+        cap = base_cap if base_cap.rstrip().endswith(attr) else (f"{base_cap} · {attr}" if base_cap else attr)
         shots.append({"local": f"images/{base}-t.jpg", "full": f"images/{base}.jpg", "url": p["url"],
-                      "s": p.get("s", "summer"), "cap": p.get("cap", "") + f" · © {p['by']} ({p['lic']}) / {src}",
+                      "s": p.get("s", "summer"), "cap": cap,
                       "by": p["by"], "lic": p["lic"], "link": p.get("link", "")})
         credits.append({"file": f"images/{base}.jpg", "by": p["by"], "license": p["lic"],
                         "source": p.get("link", ""), "via": src})

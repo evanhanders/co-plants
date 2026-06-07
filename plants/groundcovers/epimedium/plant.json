@@ -1,0 +1,59 @@
+{
+  "common": "Epimedium",
+  "botanical": "Epimedium grandiflorum",
+  "type": "Groundcover",
+  "lifecycle": "Perennial",
+  "native": "Non-native",
+  "origin": "Woodlands of Japan, Korea & northeast China",
+  "habitat": "Shaded forest floors and woodland slopes of temperate East Asia",
+  "blurb": "Barrenwort, the dry-shade champion: airy sprays of delicate, long-spurred 'bishop's hat' flowers in spring over heart-shaped leaflets that emerge red-bronze. Once established it shrugs off the dry, root-filled shade under trees where almost nothing else will grow.",
+  "size": "8–12 in tall × 12 in wide, slowly spreading",
+  "sun": "Full shade to part shade",
+  "water": "Low; one of the most drought-tolerant perennials for dry shade once established",
+  "spread": "Slowly spreading clump (short rhizomes) into a low groundcover; well-behaved",
+  "seasons": "Heart-shaped leaflets flush red-bronze in spring then green in summer; delicate spurred flowers on wiry stems in spring",
+  "wildlife": "Minor pollinator value; prized mainly as a tough dry-shade groundcover; deer- and rabbit-resistant",
+  "deer": "Resistant",
+  "toxic": "Non-toxic in the garden; the leaves are a traditional East Asian medicinal herb, not a food",
+  "flower_color": [
+    "pink",
+    "purple",
+    "white"
+  ],
+  "bloom": [
+    "spring"
+  ],
+  "verified": "2026-06-07",
+  "shots": [
+    {
+      "local": "images/sp-flowers-t.jpg",
+      "full": "images/sp-flowers.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/203694962/large.jpg",
+      "s": "spring",
+      "cap": "Spring — a single spurred 'bishop's hat' flower · © Timur Kalininsky (CC-BY) / iNaturalist",
+      "by": "Timur Kalininsky",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/120435475"
+    },
+    {
+      "local": "images/sp-blooms-t.jpg",
+      "full": "images/sp-blooms.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/196731623/large.jpg",
+      "s": "spring",
+      "cap": "Spring — the long-spurred flowers up close · © Timur Kalininsky (CC-BY) / iNaturalist",
+      "by": "Timur Kalininsky",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/116540324"
+    },
+    {
+      "local": "images/sp-foliage-t.jpg",
+      "full": "images/sp-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/26340365/large.jpg",
+      "s": "spring",
+      "cap": "Spring — flowers over heart-shaped leaflets · © heybrows (CC-BY-NC) / iNaturalist",
+      "by": "heybrows",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/17348161"
+    }
+  ]
+}

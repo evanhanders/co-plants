@@ -1,0 +1,56 @@
+{
+  "common": "Starry false Solomon's seal",
+  "botanical": "Maianthemum stellatum",
+  "type": "Forb",
+  "lifecycle": "Perennial",
+  "bloom_season": "Spring",
+  "native": "CO native",
+  "blurb": "A graceful native of dappled woodland: arching, unbranched leafy stems tipped with sprays of small white stars in spring, then green berries striped like tiny watermelons that ripen wine-red. A spreading native groundcover for the dry shade under trees.",
+  "size": "1–2 ft tall × spreading",
+  "sun": "Part shade to full shade (woodland)",
+  "water": "Low to moderate; drought-tolerant in shade once established",
+  "spread": "Spreads by rhizomes into open colonies — a native groundcover for dappled and dry shade",
+  "seasons": "Arching unbranched leafy stems; sprays of small white star flowers in spring; striped green berries ripening dark red in late summer; gold foliage in fall",
+  "wildlife": "Spring flowers for small pollinators; berries eaten by birds and small mammals; woodland cover",
+  "deer": "Foliage may be browsed",
+  "toxic": "Edible in part but with cautions — the ripe berries are mildly laxative in quantity (see Edible parts)",
+  "flower_color": [
+    "white"
+  ],
+  "bloom": [
+    "spring"
+  ],
+  "verified": "2026-06-07",
+  "shots": [
+    {
+      "local": "images/sp-flowers-t.jpg",
+      "full": "images/sp-flowers.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/59476363/large.jpeg",
+      "s": "spring",
+      "cap": "Spring — white star flowers on an arching stem · © roomthily (CC-BY-NC) / iNaturalist",
+      "by": "roomthily",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/37510015"
+    },
+    {
+      "local": "images/sp-blooms-t.jpg",
+      "full": "images/sp-blooms.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/74722905/large.jpg",
+      "s": "spring",
+      "cap": "Spring — the starry flowers up close · © Jared Shorma (CC-BY) / iNaturalist",
+      "by": "Jared Shorma",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/47115802"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/380114876/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — the arching, leafy unbranched stems · © Barbra Schuessler Sobhani (CC-BY-NC) / iNaturalist",
+      "by": "Barbra Schuessler Sobhani",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/215020289"
+    }
+  ]
+}

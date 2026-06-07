@@ -1,0 +1,60 @@
+{
+  "common": "Coral bells",
+  "botanical": "Heuchera sanguinea",
+  "type": "Forb",
+  "lifecycle": "Perennial",
+  "bloom_season": "Spring",
+  "native": "Non-native",
+  "origin": "Mountains of Arizona, New Mexico & northern Mexico",
+  "habitat": "Shaded rock crevices and canyon walls of the desert Southwest",
+  "blurb": "The original coral bells: a tidy evergreen mound of scalloped leaves sending up airy wands of true coral-red bells that hummingbirds work from late spring into summer. A Southwest native that takes dry shade and rocky ground in stride.",
+  "size": "12–18 in tall in bloom × 12 in wide",
+  "sun": "Part shade to full shade (morning sun with moisture)",
+  "water": "Low to moderate; drought-tolerant in shade once established",
+  "spread": "Clumping evergreen mound of foliage with airy flower wands above",
+  "seasons": "An evergreen mound of scalloped leaves year-round; airy wands of coral-red bell flowers from late spring into summer",
+  "wildlife": "Hummingbirds and bees work the red bells; semi-evergreen winter foliage",
+  "deer": "Generally resistant",
+  "toxic": "Non-toxic; the astringent root was used medicinally (alumroot), not as food",
+  "flower_color": [
+    "red",
+    "pink"
+  ],
+  "bloom": [
+    "spring",
+    "summer"
+  ],
+  "verified": "2026-06-07",
+  "shots": [
+    {
+      "local": "images/sp-flowers-t.jpg",
+      "full": "images/sp-flowers.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/131588504/large.jpeg",
+      "s": "spring",
+      "cap": "Late spring — coral-red bells over scalloped leaves · © Sue Carnahan (CC-BY) / iNaturalist",
+      "by": "Sue Carnahan",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/80293895"
+    },
+    {
+      "local": "images/sp-bells-t.jpg",
+      "full": "images/sp-bells.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/403014467/large.jpg",
+      "s": "spring",
+      "cap": "Spring — airy wands of red bell flowers · © mbarao (CC-BY-NC) / iNaturalist",
+      "by": "mbarao",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/227194349"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/53854274/large.jpg",
+      "s": "summer",
+      "cap": "Summer — the mounded scalloped foliage · © Jared Shorma (CC-BY) / iNaturalist",
+      "by": "Jared Shorma",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/34234837"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "common": "Bigroot geranium",
+  "botanical": "Geranium macrorrhizum",
+  "type": "Groundcover",
+  "lifecycle": "Perennial",
+  "native": "Non-native",
+  "origin": "Mountains of southern Europe (Alps to the Balkans)",
+  "habitat": "Rocky woodland and shady limestone slopes of southern Europe",
+  "blurb": "The premier dry-shade groundcover: a weed-proof carpet of aromatic, semi-evergreen lobed leaves that flush red in fall, studded with magenta flowers in late spring. It thrives in the dry shade where little else will — and deer leave it alone.",
+  "size": "12–18 in tall × 24+ in wide, spreading",
+  "sun": "Part shade to full shade (takes sun with steady moisture)",
+  "water": "Low; notably drought-tolerant once established — a top dry-shade groundcover",
+  "spread": "Spreads steadily by thick surface rhizomes into a weed-smothering mat; easy to pull back",
+  "seasons": "Aromatic, semi-evergreen lobed foliage that flushes red in fall; magenta-pink flowers in late spring",
+  "wildlife": "Bees work the spring flowers; the aromatic foliage is deer- and rabbit-resistant",
+  "deer": "Resistant — the aromatic foliage is left alone",
+  "toxic": "Non-toxic; not a food (the foliage yields the aromatic 'zdravetz' essential oil)",
+  "flower_color": [
+    "pink",
+    "purple"
+  ],
+  "bloom": [
+    "spring"
+  ],
+  "verified": "2026-06-07",
+  "shots": [
+    {
+      "local": "images/sp-flowers-t.jpg",
+      "full": "images/sp-flowers.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/44853071/large.jpg",
+      "s": "spring",
+      "cap": "Late spring — magenta flowers over the foliage · © Ian Bryson (CC-BY-NC) / iNaturalist",
+      "by": "Ian Bryson",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/28760332"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/139478081/large.jpg",
+      "s": "summer",
+      "cap": "Summer — the aromatic lobed foliage mat · © zebra1193 (CC-BY-NC) / iNaturalist",
+      "by": "zebra1193",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/84831985"
+    },
+    {
+      "local": "images/sp-habit-t.jpg",
+      "full": "images/sp-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/402099705/large.jpg",
+      "s": "spring",
+      "cap": "Spring — spreading over dry, rocky ground · © no rights reserved (CC0) / iNaturalist",
+      "by": "no rights reserved",
+      "lic": "CC0",
+      "link": "https://www.inaturalist.org/observations/226708381"
+    }
+  ]
+}

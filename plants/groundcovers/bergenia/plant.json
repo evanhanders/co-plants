@@ -1,0 +1,57 @@
+{
+  "common": "Bergenia",
+  "botanical": "Bergenia cordifolia",
+  "type": "Groundcover",
+  "lifecycle": "Perennial",
+  "native": "Non-native",
+  "origin": "Siberia & Mongolia (the Altai mountains)",
+  "habitat": "Rocky meadows and open woodland of cold Central Asia",
+  "blurb": "Pigsqueak: bold, glossy, cabbage-like evergreen leaves that turn burnished bronze-red through winter, topped by stout clusters of pink flowers in earliest spring. Iron-tough and one of the very few bold evergreen leaves for dry shade.",
+  "size": "12–18 in tall in bloom × 18–24 in wide",
+  "sun": "Part shade to full shade (tolerates sun with moisture)",
+  "water": "Low to moderate; drought-tolerant once established",
+  "spread": "Spreads slowly by thick rhizomes into evergreen clumps; a good edger and groundcover",
+  "seasons": "Big leathery evergreen leaves that flush bronze-red in winter cold; stout clusters of pink flowers in earliest spring",
+  "wildlife": "Early bees work the spring flowers; year-round evergreen cover",
+  "deer": "Generally resistant — the leathery leaves are left alone",
+  "toxic": "Non-toxic; the tannin-rich leaves have a history of use as tea, but it is grown as an ornamental, not a food",
+  "flower_color": [
+    "pink"
+  ],
+  "bloom": [
+    "spring"
+  ],
+  "verified": "2026-06-07",
+  "shots": [
+    {
+      "local": "images/sp-flowers-t.jpg",
+      "full": "images/sp-flowers.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/476753869/large.jpg",
+      "s": "spring",
+      "cap": "Spring — pink flowers over the big leathery leaves · © Cristina Girão Vieira (CC-BY-NC) / iNaturalist",
+      "by": "Cristina Girão Vieira",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/265424472"
+    },
+    {
+      "local": "images/sp-blooms-t.jpg",
+      "full": "images/sp-blooms.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/367903486/large.jpg",
+      "s": "spring",
+      "cap": "Spring — the vivid flower cluster up close · © Dr Rich Boden (CC-BY-NC) / iNaturalist",
+      "by": "Dr Rich Boden",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/207961110"
+    },
+    {
+      "local": "images/wi-winter-t.jpg",
+      "full": "images/wi-winter.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/350337875/large.jpg",
+      "s": "winter",
+      "cap": "Winter — the leaves flush bronze-red in cold · © wild_horticulturalist (CC-BY-NC) / iNaturalist",
+      "by": "wild_horticulturalist",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/198735127"
+    }
+  ]
+}

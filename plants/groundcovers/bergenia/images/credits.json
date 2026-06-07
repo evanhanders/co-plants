@@ -1,0 +1,53 @@
+[
+  {
+    "file": "images/sp-flowers.jpg",
+    "photo_id": 476753869,
+    "by": "Cristina Girão Vieira",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/265424472",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1000,
+      563
+    ],
+    "thumb_px": [
+      400,
+      225
+    ]
+  },
+  {
+    "file": "images/sp-blooms.jpg",
+    "photo_id": 367903486,
+    "by": "Dr Rich Boden",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/207961110",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      1400
+    ],
+    "thumb_px": [
+      400,
+      400
+    ]
+  },
+  {
+    "file": "images/wi-winter.jpg",
+    "photo_id": 350337875,
+    "by": "wild_horticulturalist",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/198735127",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  }
+]

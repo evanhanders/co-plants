@@ -865,12 +865,12 @@ ground every statement in an authority cited in `references`.
 
 ## Current plant roster (in the live site)
 
-**159 specimens**, all verified non-weed in CO and all carrying a full `care` block (incl.
+**163 specimens**, all verified non-weed in CO and all carrying a full `care` block (incl.
 `planting` + `propagation`) **and a repo-hosted photo reel** (close-up + structure, seasonal
 where good shots exist). Every plant's detail page is now **fully cited** — a numbered
 `references` bibliography with inline `[n]` markers on the facts table (`fact_src`), the care
-prose, and a safety-reviewed **`edible` block** (current split: 63 inedible · 29 caution · 40
-edible · 27 toxic). Every **non-native** plant (101 of the 159) also carries **provenance** —
+prose, and a safety-reviewed **`edible` block** (current split: 66 inedible · 29 caution · 41
+edible · 27 toxic). Every **non-native** plant (101 of the 163) also carries **provenance** —
 `origin` (where it's from) + `habitat` (its wild growing conditions) — shown as blue "Native
 to" / "Wild habitat" rows on its card and detail page, cited via `fact_src`. Grouped by type
 below (the order the site uses). Photos were sourced
@@ -1112,6 +1112,10 @@ acorn close-up for Gambel oak).
 - White heath aster (*Symphyotrichum ericoides*) (N) — In late summer the wiry stems of this tough prairie native…
 - White prairie aster (*Symphyotrichum falcatum*) (N) — A low, compact native aster that smothers itself in small…
 - Dotted gayfeather (*Liatris punctata*) (N) — Stiff stems crowded with rosy-purple bottlebrush spikes in late summer; a butterfly magnet with a deep drought-proof taproot.
+- Showy goldenrod (*Solidago speciosa*) (N) — The well-behaved (clumping, non-running) native goldenrod; golden club-shaped plumes and a keystone fall pollinator. *(Not the cause of hay fever.)*
+- Maximilian sunflower (*Helianthus maximiliani*) (N) — A towering 6–10 ft prairie sunflower lined with golden flowers in fall; bees and goldfinches mob it. *(Edible seeds & cooked tubers.)*
+- Showy goldeneye (*Heliomeris multiflora*) (N) — An airy xeric daisy hazed with small golden suns from midsummer to hard frost; one of the longest bloomers. *(Not deer-resistant.)*
+- Aromatic aster (*Symphyotrichum oblongifolium*) (N) — One of the last to bloom: a tidy aromatic mound sheeted in lavender-blue daisies in October. *(Asters family card.)*
 
 **Dropped from the keep-list (do not re-add):** coyote willow (*Salix exigua*) and
 Turkish cliff sage (*Salvia recognita*). Mojave sage is preferred over Turkish cliff

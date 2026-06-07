@@ -5,6 +5,7 @@
   "lifecycle": "Perennial",
   "bloom_season": "Fall",
   "native": "CO native",
+  "collection": "asters",
   "blurb": "Among the very last wildflowers to bloom: a tidy mound of aromatic foliage that erupts in October into a haze of lavender-blue, gold-eyed daisies — vital late forage for bees and monarchs when almost nothing else is flowering.",
   "size": "1.5–3 ft tall × 2–3 ft wide",
   "sun": "Full sun",
@@ -53,5 +54,66 @@
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/136533497"
     }
-  ]
+  ],
+  "care": {
+    "hardiness": "USDA zones 3a–8b — extremely cold-hardy and well within Boulder's 5b–6a range, so established clumps shrug off hard Front-Range winters without protection.[1]",
+    "planting": "Set out container-grown transplants in spring (Apr–May) or early fall (Sep); fall planting gives roots a head start before dormancy. Plant in groups for the best late-season show. In containers use a lean, gritty mix in a roomy pot — soil dries fast in Front-Range heat and wind, so check moisture often — and sink the pot in the ground or move it to an unheated garage over winter, since potted roots are far less cold-hardy than the zone-3 plant is in the ground.[1]",
+    "sun": "Full sun (6+ hours) gives the sturdiest, most floriferous mound; in too much shade the stems flop and bloom thins. It will take light afternoon shade but wants the open Front-Range sun.[1][2]",
+    "soil": "Tolerates clay, loam, or sand and thrives on the lean, well-drained alkaline soils typical of the Front Range; good drainage is the only firm requirement. Lean ground keeps the mound compact — avoid rich, wet, or constantly irrigated sites.[1]",
+    "water": "Low and drought-tolerant once established — close to Boulder's natural rainfall. Water every 7–10 days the first season to anchor roots, then only during prolonged dry spells. Overwatering makes it flop and run.[1]",
+    "spacing": "Space plants about 18–24 in. apart; each forms a low mound 2–3 ft wide that slowly expands by short stolons.[1][2]",
+    "propagation": "Division is the easiest and best method — divide established clumps in early spring every 2–3 years, replant the vigorous outer sections, and discard the worn center; this also renews the plant and controls spread. Stem cuttings taken in early summer root readily. Seed works too: cold-moist stratify a few weeks, then surface-sow in spring (the wind-borne seed needs light), though seedlings are slow the first year.[1][2]",
+    "bloom": "Very late — September through November, among the last wildflowers of the season — when its mound disappears under lavender-blue, gold-eyed daisies, providing nectar and pollen when almost nothing else is blooming.[2]",
+    "feeding": "None needed; lean, unamended soil produces the sturdiest plants, and fertilizing causes floppy, sparse-blooming growth.[1]",
+    "maintenance": "Pinch or shear the mound back by no more than half in June (the 'Chelsea chop') to keep it compact, bushy, and self-supporting and to multiply the bloom — un-pinched plants can open up and flop. Cut the dead stems back in late winter, leaving them standing over winter for structure and to shelter stem-nesting native bees; divide every 2–3 years to keep it vigorous.[1][2]",
+    "selfsow": "Spreads chiefly by short stolons rather than aggressive self-seeding, forming a slowly widening, well-behaved mound; thin the runners if it creeps beyond its spot.[1][2]",
+    "troubles": "Very trouble-free and resistant to browsing by deer and rabbits. Powdery mildew can appear in crowded, humid, or shaded conditions — full sun and air movement prevent it; no serious pests.[1]",
+    "companions": "Little bluestem, blue grama, prairie dropseed, goldenrod, and earlier-blooming prairie forbs — full-sun, lean-soil companions that flower before the aster, leaving it to close the season for late pollinators.[2]"
+  },
+  "references": [
+    {
+      "name": "NC State Extension Gardener Plant Toolbox — Symphyotrichum oblongifolium",
+      "url": "https://plants.ces.ncsu.edu/plants/symphyotrichum-oblongifolium/"
+    },
+    {
+      "name": "Lady Bird Johnson Wildflower Center — Symphyotrichum oblongifolium",
+      "url": "https://www.wildflower.org/plants/result.php?id_plant=SYOB"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      1,
+      2
+    ],
+    "sun": [
+      1,
+      2
+    ],
+    "water": [
+      1
+    ],
+    "spread": [
+      1,
+      2
+    ],
+    "seasons": [
+      1,
+      2
+    ],
+    "wildlife": [
+      1,
+      2
+    ],
+    "deer": [
+      1
+    ],
+    "toxic": [
+      1
+    ]
+  },
+  "edible": {
+    "level": "inedible",
+    "summary": "Aromatic aster is a pollinator and ornamental plant, not a food — it has no documented edible use and is not notably toxic.[1]",
+    "caution": "There is no recorded use of aromatic aster (Symphyotrichum oblongifolium) as food; it is grown for its very late bloom and aromatic foliage, not for eating, so no part should be consumed. No part is reported as a serious poison to people or pets — deer and rabbits leave it alone for its aromatic, rigid stems rather than toxicity — but absence of food documentation is not a green light. As with any daisy-family (Asteraceae) plant, those with ragweed/aster pollen allergies may react, and a wild plant should never be eaten without certain identification.[1]"
+  }
 }

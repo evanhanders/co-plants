@@ -1,0 +1,139 @@
+{
+  "common": "Maximilian sunflower",
+  "botanical": "Helianthus maximiliani",
+  "type": "Forb",
+  "lifecycle": "Perennial",
+  "bloom_season": "Fall",
+  "native": "CO native",
+  "blurb": "A towering native prairie sunflower — 6 to 10 feet of arching stems lined top to bottom with golden, dark-eyed flowers in fall, mobbed by bees and stripped for seed by goldfinches. Give it room at the back of the border.",
+  "size": "4–10 ft tall × 2–4 ft wide",
+  "sun": "Full sun",
+  "water": "Low to moderate; drought-tolerant once established",
+  "spread": "Clumping but spreads by rhizomes into colonies — give it room or divide to contain",
+  "seasons": "Tall leafy stems through summer; golden dark-eyed flowers lining the upper stems in late summer and fall; seedheads feed birds into winter",
+  "wildlife": "Major fall nectar for bees and butterflies; oil-rich seeds heavily used by goldfinches and other birds; larval host",
+  "deer": "Foliage is browsed — not deer-proof",
+  "toxic": "Non-toxic; the seeds and tubers are edible (see Edible parts)",
+  "flower_color": [
+    "yellow"
+  ],
+  "bloom": [
+    "summer",
+    "fall"
+  ],
+  "verified": "2026-06-07",
+  "shots": [
+    {
+      "local": "images/fa-flower-t.jpg",
+      "full": "images/fa-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/425222970/large.jpeg",
+      "s": "fall",
+      "cap": "Fall — a single golden, dark-eyed flower · © Sequoia Janirella Wrens (CC-BY-NC) / iNaturalist",
+      "by": "Sequoia Janirella Wrens",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/238242637"
+    },
+    {
+      "local": "images/fa-habit-t.jpg",
+      "full": "images/fa-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/432042907/large.jpeg",
+      "s": "fall",
+      "cap": "Fall — tall flowering stems against the sky · © nancycklasky (CC-BY-NC) / iNaturalist",
+      "by": "nancycklasky",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/242346079"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/244286291/large.jpg",
+      "s": "summer",
+      "cap": "Summer — the narrow, folded gray-green leaves · © Anders Hastings (CC-BY) / iNaturalist",
+      "by": "Anders Hastings",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/142485204"
+    }
+  ],
+  "care": {
+    "hardiness": "An exceptionally hardy Great Plains native ranging north into the Canadian prairies, so it is bulletproof through Boulder winters (USDA zone 5b–6a) with no protection.[1][2][3]",
+    "planting": "Plant container stock or divisions in spring after the mid-May last frost, or in early fall. It establishes fast and asks little once rooted. Give it a back-of-border spot with room — at 6–10 ft it will tower over and shade smaller neighbors. Containers are impractical for so tall a plant; if grown in a large pot, expect to stake it and to sink or shelter the pot over winter.[1][3]",
+    "sun": "Full sun. It wants all-day open exposure; in shade the already-tall stems stretch, weaken, and flop.[1][2]",
+    "soil": "Adaptable and unfussy — it grows in Boulder's alkaline clay as well as lean sandy or rocky ground, and needs no pH amendment.[3] Lean soil is better than rich: fertile or over-watered ground produces taller, weaker, floppier stems.[1]",
+    "water": "Low to moderate; drought-tolerant once established. Water through the first season to root it in, then little supplemental water in our semi-arid climate — it thrives on neglect.[1][3]",
+    "spacing": "Space plants about 2–3 ft apart; it bulks up quickly and the colony will knit together.[1]",
+    "propagation": "Easiest by division — lift and split the spreading rhizomatous clumps in spring or fall, which both makes new plants and is the main way to keep the colony in bounds. Also grows readily from seed.[1][2]",
+    "sow": "Sow seed outdoors in late fall for natural winter stratification, or cold-stratify and sow in spring. It germinates and establishes readily.[1][2]",
+    "stratify": "Cold-moist stratify the seed about 30 days at ~40°F (or fall-sow) to improve and even out germination.[2]",
+    "bloom": "Blooms late summer into fall — roughly September into October on the Front Range — with golden, dark-eyed flowers lining the upper 2–3 ft of the arching stems, a major late-season nectar source.[1][3]",
+    "feeding": "None needed, and best avoided — rich feeding makes this already-tall plant taller and floppier. Lean soil keeps the stems sturdier.[1]",
+    "maintenance": "To curb its 6–10 ft height and floppiness, cut the stems back by a third to a half in early summer (a 'Chelsea chop') before bud set for a shorter, sturdier, bushier plant; staking is the alternative for full height. Leave the seedheads standing for goldfinches and winter structure, then cut the old stems to the ground in late winter.[1][3]",
+    "selfsow": "Spreads readily by underground rhizomes into broad colonies and also self-sows, so it can overrun a small bed — site it where it has room, and divide or pull runners each spring to contain it. It is vigorous but not a CO-listed noxious weed.[1][2]",
+    "troubles": "Generally trouble-free here; its main 'problem' is its size and spread rather than pests. Watch for occasional aphids, powdery mildew, or rust on crowded plants, and for flopping in rich or shaded sites.[1]",
+    "harvest": "For seed, let the heads dry on the plant until the backs brown, then cut and finish-dry under cover before rubbing the seeds free — or simply leave the standing heads as a winter bird feeder.[1]",
+    "companions": "Best with other tall, tough, full-sun prairie plants — switchgrass and other native grasses, asters, and goldenrods — that can hold their own beside its height and share its low-water, lean-soil needs.[3]"
+  },
+  "edible": {
+    "level": "edible",
+    "food": true,
+    "kinds": [
+      "seeds",
+      "roots"
+    ],
+    "card": "Seeds (roasted/ground) & tubers, cooked",
+    "summary": "A genuine native food: the oil-rich seeds were eaten and ground, and the thickened roots/tubers were a documented Great Plains food, prepared like a Jerusalem artichoke.[3][4]",
+    "parts": "The two food parts are the seeds and the tuberous roots. The small, oil-rich seeds were eaten and ground for meal; they are smaller than a cultivated sunflower's but the same kind of food. The thickened roots/tubers were dug and eaten by Plains tribes, and can be prepared and eaten like those of its close relative the Jerusalem artichoke (Helianthus tuberosus).[3][4]",
+    "preparation": "Let the heads ripen and dry, then thresh and clean the seeds — roast them, or grind them into meal; the kernels can also be pressed for oil. The tubers are best cooked: dig them in fall or early spring and eat raw, boiled, or roasted, as the Plains tribes did.[3][4]",
+    "caution": "The seeds are safe but small and fiddly to clean compared with a cultivated sunflower, and the hulls are not for eating. The tubers are best cooked and, like Jerusalem artichoke, can cause digestive gas if eaten in quantity. As with any wild harvest, be certain of identification and don't gather seed or roots from roadsides or sprayed ground.[3][4]"
+  },
+  "references": [
+    {
+      "name": "Lady Bird Johnson Wildflower Center — Helianthus maximiliani (Maximilian sunflower)",
+      "url": "https://www.wildflower.org/plants/result.php?id_plant=HEMA2"
+    },
+    {
+      "name": "USDA NRCS Plant Guide — Maximilian sunflower (Helianthus maximiliani)",
+      "url": "https://plants.usda.gov/DocumentLibrary/plantguide/pdf/pg_hema2.pdf"
+    },
+    {
+      "name": "NC State Extension Plant Toolbox — Helianthus maximiliani",
+      "url": "https://plants.ces.ncsu.edu/plants/helianthus-maximiliani/"
+    },
+    {
+      "name": "USDA Forest Service FEIS — Helianthus maximiliani",
+      "url": "https://www.fs.usda.gov/database/feis/plants/forb/helmax/all.html"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      1,
+      3
+    ],
+    "sun": [
+      1,
+      2
+    ],
+    "water": [
+      1,
+      3
+    ],
+    "spread": [
+      1,
+      2
+    ],
+    "seasons": [
+      1,
+      4
+    ],
+    "wildlife": [
+      1,
+      4
+    ],
+    "deer": [
+      1
+    ],
+    "toxic": [
+      3,
+      4
+    ]
+  }
+}

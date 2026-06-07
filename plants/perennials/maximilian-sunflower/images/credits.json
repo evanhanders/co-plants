@@ -1,0 +1,53 @@
+[
+  {
+    "file": "images/fa-flower.jpg",
+    "photo_id": 425222970,
+    "by": "Sequoia Janirella Wrens",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/238242637",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  },
+  {
+    "file": "images/fa-habit.jpg",
+    "photo_id": 432042907,
+    "by": "nancycklasky",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/242346079",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  },
+  {
+    "file": "images/su-foliage.jpg",
+    "photo_id": 244286291,
+    "by": "Anders Hastings",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/observations/142485204",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  }
+]

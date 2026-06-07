@@ -19,11 +19,11 @@ card fields → iNat-sourced reel → cited care + edible + provenance). `(N)` n
   grape** (*Vitis riparia*, edible), and **woodbine** (*Parthenocissus vitacea*, fall color) —
   section now 11, the guide's first native vines. All weed-checked, photo reels QC'd, fully cited
   care/edible blocks (grape carries the toxic-moonseed look-alike warning; woodbine flagged toxic).
-- [ ] **Fall forbs (5).** Fall interest is a stated value but it's 3 asters + gayfeather + Japanese
-  anemone. Add the keystone **goldenrod** (a *clumping* *Solidago* — *S. speciosa* or 'Wichita
-  Mountains', N; avoid running *S. canadensis*), plus **Maximilian sunflower** (*Helianthus
-  maximiliani*, N), **showy goldeneye** (*Heliomeris multiflora*, N), **aromatic aster**
-  (*S. oblongifolium* 'October Skies', N).
+- [x] **Fall forbs (5).** DONE (June 2026): added **showy goldenrod** (*Solidago speciosa*, the
+  clumping keystone-pollinator goldenrod the guide lacked), **Maximilian sunflower** (*Helianthus
+  maximiliani*, edible seeds+tubers), **showy goldeneye** (*Heliomeris multiflora*), and **aromatic
+  aster** (*Symphyotrichum oblongifolium*, folded into the Asters family card) — section now 9. All
+  weed-checked, photo reels QC'd, fully cited care/edible blocks.
 - [ ] **Shade plants (only 3 of 149 tolerate real shade).** A cross-cutting gap for north-side /
   under-tree gardens. Curate to the *drought-tolerant* shade plants so it fits the xeric framing:
   **bigroot geranium** (*G. macrorrhizum*, I), **coral bells** (*Heuchera*, incl. native

@@ -1,0 +1,119 @@
+{
+  "common": "Showy goldeneye",
+  "botanical": "Heliomeris multiflora",
+  "type": "Forb",
+  "lifecycle": "Perennial",
+  "bloom_season": "Fall",
+  "native": "CO native",
+  "blurb": "An airy native daisy that hazes a xeric border with hundreds of small golden suns from midsummer until hard frost — wiry, see-through, and one of the longest-blooming wildflowers for hot, lean ground.",
+  "size": "2–4 ft tall × 1.5–2 ft wide",
+  "sun": "Full sun",
+  "water": "Low; xeric once established",
+  "spread": "Clumping; self-sows modestly where happy",
+  "seasons": "A wiry, airy plant smothered in small yellow daisies from midsummer until hard frost; dies back in winter",
+  "wildlife": "Long-season nectar for bees and butterflies; small seeds for birds",
+  "deer": "Not deer-resistant — deer and elk browse the leaves and flower heads",
+  "toxic": "Non-toxic; no documented edible use",
+  "flower_color": [
+    "yellow"
+  ],
+  "bloom": [
+    "summer",
+    "fall"
+  ],
+  "verified": "2026-06-07",
+  "shots": [
+    {
+      "local": "images/su-flower-t.jpg",
+      "full": "images/su-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/409887671/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — a bright golden daisy · © Anders Hastings (CC-BY) / iNaturalist",
+      "by": "Anders Hastings",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/230826901"
+    },
+    {
+      "local": "images/fa-mass-t.jpg",
+      "full": "images/fa-mass.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/422118289/large.jpeg",
+      "s": "fall",
+      "cap": "Fall — the airy cloud of yellow daisies · © skynat303 (CC-BY-NC) / iNaturalist",
+      "by": "skynat303",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/237206979"
+    },
+    {
+      "local": "images/su-stems-t.jpg",
+      "full": "images/su-stems.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/587345837/large.jpg",
+      "s": "summer",
+      "cap": "Summer — daisies on fine wiry stems · © anne-outdoors (CC-BY-NC) / iNaturalist",
+      "by": "anne-outdoors",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/324500616"
+    }
+  ],
+  "care": {
+    "hardiness": "A tough perennial forb of the western mountains and high plains, recommended for USDA zones 4b–10a, so it is fully hardy in Boulder (zone 5b–6a) and dies back to a woody taproot each winter.[1] Its native range spans 4,430–9,840 ft in sagebrush, juniper, aspen and spruce-fir country, so high-altitude sun and cold are no problem.[1]",
+    "planting": "Set out container-grown plants in spring after the mid-May average last frost, or in early fall while soil is workable; water in to establish, then taper off. It self-sows where happy, so siting it in a lean, open spot keeps it from looking weedy. In pots use a gritty, fast-draining mix, water more often (containers dry fast in our heat and wind), and protect the crown from winter wet, which rots the taproot.[1]",
+    "sun": "Full sun — it wants the open, unshaded exposure of its native sagebrush and meadow habitat, and our intense Front-Range sun suits it well.[1]",
+    "soil": "Well-drained loam to loamy sand; it grows naturally on lean, gravelly mountain soils and tolerates Boulder's alkaline clay so long as drainage is sharp. Avoid rich, heavily amended, or wet ground.[1]",
+    "water": "Low; xeric once established. It is native to sites receiving only ~18–25 in. of annual precipitation, close to Boulder's rainfall, so give occasional deep soakings the first season and little to no supplemental water after.[1]",
+    "spacing": "Give plants room — the wiry, branching stems reach ~3–4 ft and a single plant fills a 1.5–2 ft space; space roughly 18–24 in. apart in a border.[1][2]",
+    "propagation": "Easiest from seed; the woody taproot makes mature plants hard to move, so divide only young clumps with care. Seed is dormant and needs pre-chilling (cold-moist stratification) to germinate, so the simplest route is a dormant fall sowing outdoors that lets winter break dormancy.[1]",
+    "sow": "Dormant-seed in late fall, sowing 1/8–1/4 in. (0.3–0.6 cm) deep into a firm, weed-free bed, and let winter provide the cold pre-chill; seedling vigor is good and it can flower and set seed the first year.[1]",
+    "stratify": "Seed has a pre-chilling (cold-moist stratification) requirement to break dormancy — supply it with a fall outdoor sowing or several weeks cold-moist in the refrigerator before a spring sowing.[1]",
+    "depth": "Sow shallow — 1/8 to 1/4 in. (0.3–0.6 cm) deep.[1]",
+    "bloom": "Long-blooming — small golden daisies from midsummer until hard frost, roughly July through October on the Front Range.[1][2]",
+    "feeding": "None needed, and avoid high-nitrogen feeding: in nitrogen-rich ground (fertilizer or manure) showy goldeneye can accumulate nitrate to levels toxic to grazing livestock. Lean, unfertilized soil keeps it sturdy and safe.[1]",
+    "maintenance": "Very low care: cut the spent wiry stems back in late winter before new growth, and edit out volunteer seedlings if it self-sows more than you want. Leave seedheads for birds.[1]",
+    "selfsow": "Self-sows modestly and will spread by seed into open ground where it is happy; easy to thin, and welcome in a meadow or naturalistic planting.[1]",
+    "troubles": "Largely pest- and disease-free; the main caution is nitrate accumulation when grown in high-nitrogen soil, a hazard to livestock rather than a garden disease.[1]"
+  },
+  "references": [
+    {
+      "name": "USDA NRCS Plant Guide — showy goldeneye (Heliomeris multiflora)",
+      "url": "https://plants.usda.gov/DocumentLibrary/plantguide/pdf/pg_hemu3.pdf"
+    },
+    {
+      "name": "Lady Bird Johnson Wildflower Center — Heliomeris multiflora",
+      "url": "https://www.wildflower.org/plants/result.php?id_plant=HEMU3"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      1,
+      2
+    ],
+    "sun": [
+      1
+    ],
+    "water": [
+      1
+    ],
+    "spread": [
+      1
+    ],
+    "seasons": [
+      1,
+      2
+    ],
+    "wildlife": [
+      1,
+      2
+    ],
+    "deer": [
+      1
+    ],
+    "toxic": [
+      1
+    ]
+  },
+  "edible": {
+    "level": "inedible",
+    "food": false,
+    "summary": "Grown as an ornamental and pollinator/wildlife plant, not for eating; no established culinary use and not known to be poisonous to people.[1]",
+    "caution": "Showy goldeneye is treated as inedible — the only food record is historical, the Goshute using the small seeds, and there is no established modern culinary use, so don't eat any part.[1] One real hazard: when grown in high-nitrogen ground (heavy fertilizer or manure) the plant can accumulate nitrate to levels that poison grazing livestock — a reason to keep it lean and unfertilized.[1] As with any wild daisy-family (Asteraceae) plant, never eat one without certain identification.[1]"
+  }
+}

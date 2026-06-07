@@ -1,0 +1,131 @@
+{
+  "common": "Showy goldenrod",
+  "botanical": "Solidago speciosa",
+  "type": "Forb",
+  "lifecycle": "Perennial",
+  "bloom_season": "Fall",
+  "native": "CO native",
+  "blurb": "The well-behaved native goldenrod: dense club-shaped plumes of gold light up the fall garden on tidy upright clumps — a keystone late-season nectar source for bees and migrating monarchs, and (despite the myth) not the cause of hay fever.",
+  "size": "2–4 ft tall × 1.5–2 ft wide",
+  "sun": "Full sun",
+  "water": "Low to moderate; xeric once established",
+  "spread": "Clumping and well-behaved — a non-running goldenrod that stays put, unlike the weedy Canada goldenrod",
+  "seasons": "Upright leafy clumps through summer; showy golden pyramidal plumes in late summer and fall; tan seedheads stand into winter",
+  "wildlife": "A keystone late-season nectar plant — bees, wasps, butterflies and migrating monarchs; seeds feed birds; larval host for many moths",
+  "deer": "Generally resistant",
+  "toxic": "Non-toxic — and NOT the cause of hay fever (that's wind-pollinated ragweed, which blooms at the same time)",
+  "flower_color": [
+    "yellow"
+  ],
+  "bloom": [
+    "summer",
+    "fall"
+  ],
+  "verified": "2026-06-07",
+  "shots": [
+    {
+      "local": "images/fa-flowers-t.jpg",
+      "full": "images/fa-flowers.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/187602562/large.jpg",
+      "s": "fall",
+      "cap": "Fall — golden plumes worked by a bumblebee · © Drew Chaney (CC-BY-NC) / iNaturalist",
+      "by": "Drew Chaney",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/111151908"
+    },
+    {
+      "local": "images/fa-spike-t.jpg",
+      "full": "images/fa-spike.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/91532539/large.jpg",
+      "s": "fall",
+      "cap": "Fall — the upright club-shaped flower spike · © Susan Fawcett (CC-BY-NC) / iNaturalist",
+      "by": "Susan Fawcett",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/57389358"
+    },
+    {
+      "local": "images/fa-drift-t.jpg",
+      "full": "images/fa-drift.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/163336281/large.jpg",
+      "s": "fall",
+      "cap": "Fall — golden plumes among autumn grasses · © Link Davis (CC-BY-NC) / iNaturalist",
+      "by": "Link Davis",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/98139513"
+    }
+  ],
+  "care": {
+    "hardiness": "A tough, long-lived Great Plains and eastern-prairie native whose range runs well north of Colorado, so it is fully hardy through Boulder winters (USDA zone 5b–6a) with no protection.[1][2]",
+    "planting": "Set out container plants in spring after the mid-May average last frost, or in early fall while the soil is still workable; water in to establish, then taper off. It is drought- and clay-tolerant once rooted. In a pot it needs a gritty, free-draining mix and is best sunk in the ground or moved to a sheltered spot over winter, since confined roots are far less cold-hardy than in-ground plants.[1][3]",
+    "sun": "Full sun. Our intense high-altitude light is ideal; in shade the stems stretch, lean, and flower poorly.[1][3]",
+    "soil": "Lean, well-drained soil — it tolerates Boulder's alkaline clay well and needs no pH amendment.[3] Keep it on the lean side: rich, fertile, or over-watered ground makes the clumps grow tall and floppy and flop open.[1]",
+    "water": "Low to moderate; xeric once established. Water occasionally through the first season to root it in, then little supplemental water — it is drought-tolerant and resents wet feet.[1][3]",
+    "spacing": "Space plants about 18–24 inches apart; the clumps stay tidy and do not run, so they hold their spot in a border.[1]",
+    "propagation": "Increase by seed or by division. Unlike the aggressively running Canada goldenrod, showy goldenrod forms tight, well-behaved clumps that divide cleanly in early spring or fall every few years to rejuvenate and make more plants.[1][2]",
+    "sow": "Surface-sow the tiny seed onto firm soil and press in but do not bury it — the seed needs light to germinate. Sow outdoors in late fall to let winter provide the cold-moist period, or start cold-stratified seed indoors in spring.[1][2]",
+    "stratify": "Cold-moist stratify the seed about 30–60 days at ~40°F (or sow in fall for natural winter stratification) to break dormancy.[1][2]",
+    "bloom": "Blooms late summer into fall — roughly September into October on the Front Range — in dense, club-shaped golden plumes, one of the latest and most valuable nectar sources of the season.[1][3]",
+    "feeding": "None needed. Fertile soil or feeding produces lush, weak, floppy growth; lean ground keeps the clump upright and self-supporting.[1]",
+    "maintenance": "Very low. Leave the seedheads standing for winter structure and birds, then cut the old stems to the ground in late winter before new growth emerges. Cutting clumps back by a third in early summer makes a shorter, sturdier, bushier plant if floppiness is a worry.[1]",
+    "selfsow": "It will self-sow modestly from seed but does not run at the root, so seedlings are easy to pull or move and it never colonizes the way Canada goldenrod does.[1][2]",
+    "troubles": "Largely trouble-free; goldenrods are not the cause of hay fever (their pollen is heavy and insect-carried — the real culprit is wind-pollinated ragweed blooming at the same time). Floppiness from rich soil or too much water is the main complaint; rust or mildew is occasional on crowded plants.[1][3]",
+    "companions": "Pair with little bluestem and other native bunchgrasses, asters, blanketflower, and Rocky Mountain bee plant in a full-sun, lean-soil, low-water planting for a strong fall pollinator display.[3]"
+  },
+  "edible": {
+    "level": "inedible",
+    "food": false,
+    "summary": "Showy goldenrod is grown as an ornamental and keystone pollinator plant; the documented Native American use of this species is medicinal, not culinary, so it is not treated as a food here.[4]",
+    "caution": "The authoritative ethnobotanical record for Solidago speciosa lists only medicinal (root infusion/decoction) uses, with no documented food or beverage use, so don't eat it as food.[4] Goldenrods as a genus are sometimes brewed as an herbal tea, but that is not specifically documented for this species and is best left to those who know the plant — be certain of identification first. One thing it is NOT: a cause of hay fever. Goldenrod pollen is heavy and insect-carried, not airborne; the sneezing blamed on it comes from wind-pollinated ragweed blooming at the same time.[1][4]"
+  },
+  "references": [
+    {
+      "name": "Lady Bird Johnson Wildflower Center — Solidago speciosa (Showy goldenrod)",
+      "url": "https://www.wildflower.org/plants/result.php?id_plant=SOSP2"
+    },
+    {
+      "name": "USDA NRCS Plant Guide — Showy goldenrod (Solidago speciosa)",
+      "url": "https://plants.usda.gov/DocumentLibrary/plantguide/pdf/pg_sosp2.pdf"
+    },
+    {
+      "name": "NC State Extension Plant Toolbox — Solidago speciosa",
+      "url": "https://plants.ces.ncsu.edu/plants/solidago-speciosa/"
+    },
+    {
+      "name": "Native American Ethnobotany Database — Solidago speciosa",
+      "url": "http://naeb.brit.org/uses/search/?string=Solidago+speciosa"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      1,
+      2
+    ],
+    "sun": [
+      1,
+      3
+    ],
+    "water": [
+      1,
+      3
+    ],
+    "spread": [
+      1,
+      2
+    ],
+    "seasons": [
+      1,
+      3
+    ],
+    "wildlife": [
+      1,
+      3
+    ],
+    "deer": [
+      3
+    ],
+    "toxic": [
+      1,
+      4
+    ]
+  }
+}

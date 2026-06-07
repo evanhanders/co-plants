@@ -21,6 +21,83 @@
     "spring"
   ],
   "verified": "2026-06-07",
+  "care": {
+    "hardiness": "A widespread, very cold-hardy North American woodland native whose range runs from Alaska across the cold north, so it sails through Boulder's USDA zone 5b–6a winters as a dependable perennial with no protection.[1][2]",
+    "planting": "Set out container plants or rhizome divisions in spring after the soil thaws, or in fall, into dappled or dry shade beneath trees and shrubs. It naturalizes into colonies, so give it room or use it deliberately as a groundcover. It takes Boulder's alkaline clay, though it appreciates a humus-rich, leafy soil; in pots use a free-draining woodland mix, keep it shaded and evenly moist through the growing season, and let it dry as it goes dormant.[2][3]",
+    "sun": "Part shade to full shade — a true woodland plant happiest in the dappled or dry shade under trees; it scorches in full sun and hot, dry exposures.[2]",
+    "soil": "Moist, humus-rich woodland soil is ideal, but it is adaptable and tolerates lean, gravelly, and dry ground once established; native sites range from neutral to acidic and include calcareous parent material, so Boulder's alkaline clay is workable with leaf-mould enrichment.[1][2]",
+    "water": "Low to moderate. Water new plantings to establish them; once settled and shaded it is notably drought-tolerant, drawing on its spreading rhizome system, though it stays lusher with occasional summer moisture.[1][2]",
+    "spacing": "Space plants about 12–18 in apart and let them knit together — the rhizomes run and fill in, forming open colonies rather than tight clumps.[1][2]",
+    "propagation": "Easiest by division: lift and separate sections of the spreading rhizome in fall or early spring — each piece with a bud re-establishes readily. From seed it is slow: the seed needs a warm period followed by cold (cold–warm–cold / double stratification) to germinate, so sow fresh ripe seed outdoors in fall and expect erratic, multi-season emergence.[1][2]",
+    "bloom": "Sprays of small, six-pointed white star flowers in terminal racemes in spring, roughly late May into June on the Front Range, at the tips of the arching unbranched leafy stems.[1][2]",
+    "maintenance": "Very low care. After flowering the green berries ripen — striped at first, then darkening to wine-red — and the plant goes dormant once they color, with the foliage turning gold before it dies back. Leave it be; just thin or edge the colony if it spreads further than wanted.[1][2]",
+    "selfsow": "Spreads chiefly by its running rhizomes into broad colonies, and birds disperse the berries, so it can travel beyond where it was planted — welcome as a groundcover but worth edging if you want it contained.[1][3]",
+    "troubles": "Essentially trouble-free in the right spot; the main failure is too much sun or hot, dry exposure, which scorches the foliage. No notable pests or diseases here.[1][2]",
+    "harvest": "If gathering the young spring shoots as a cooked green or the ripe red berries, take only from colonies you have positively identified as Maianthemum (see the edibility caution) — pick shoots while young and tender and cook them, and eat only a few fully ripe berries.[1][4]"
+  },
+  "edible": {
+    "level": "caution",
+    "food": true,
+    "kinds": [
+      "leaves",
+      "fruit"
+    ],
+    "card": "Young shoots cooked; a few ripe berries",
+    "summary": "The young spring shoots are eaten as a cooked green and the ripe red berries were eaten as food, but the berries are mildly laxative in quantity — eat only a few, fully ripe, and be certain of your identification.[1][4]",
+    "parts": "Two parts have documented food use: the young shoots, as they emerge in spring, eaten cooked as greens or like an asparagus substitute; and the ripe berries, which Northwest peoples (e.g. the Nuxalk) gathered in mid-to-late summer for food. The shoots are the more reliable food; the berries are a nibble, not a staple.[1][4]",
+    "preparation": "Pick the shoots only while young and tender and cook them — do not eat the mature stems or leaves. Eat the berries only when fully ripe (wine-red) and only a few, because they are laxative raw in quantity; thorough cooking is said to reduce that effect.[4]",
+    "caution": "Three cautions. (1) The ripe berries are mildly cathartic / laxative (purgative) when eaten raw in any quantity, especially if you are not used to them — eat only a few, fully ripe; large amounts cause stomach upset and diarrhea. (2) Take the shoots only when young and tender and cook them — do not eat the older foliage. (3) BE CERTAIN OF YOUR IDENTIFICATION: this plant superficially resembles other lily relatives (true Solomon's seal, twisted-stalk, and the young shoots of toxic species can look similar), so positively identify it as Maianthemum stellatum — the arching unbranched leafy stem ending in a terminal spray of white star flowers, then striped-green berries ripening dark red — before eating any part. If poisoning is suspected, call Poison Control (1-800-222-1222).[1][4]"
+  },
+  "references": [
+    {
+      "name": "USDA-FS Fire Effects Information System (FEIS) — Maianthemum stellatum (Smilacina stellata)",
+      "url": "https://www.fs.usda.gov/database/feis/plants/forb/maiste/all.html"
+    },
+    {
+      "name": "Lady Bird Johnson Wildflower Center — Maianthemum stellatum (starry false Solomon's-seal)",
+      "url": "https://www.wildflower.org/plants/result.php?id_plant=MAST4"
+    },
+    {
+      "name": "USDA NRCS PLANTS Database — Maianthemum stellatum profile",
+      "url": "https://plants.sc.egov.usda.gov/plant-profile/MAST4"
+    },
+    {
+      "name": "Plants For A Future (Useful Temperate Plants) — Maianthemum stellatum (edibility & laxative-berry note)",
+      "url": "https://temperate.theferns.info/plant/Maianthemum+stellatum"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      1,
+      2
+    ],
+    "sun": [
+      2
+    ],
+    "water": [
+      1,
+      2
+    ],
+    "spread": [
+      1,
+      2
+    ],
+    "seasons": [
+      1,
+      2
+    ],
+    "wildlife": [
+      1,
+      2
+    ],
+    "deer": [
+      1
+    ],
+    "toxic": [
+      1,
+      4
+    ]
+  },
   "shots": [
     {
       "local": "images/sp-flowers-t.jpg",

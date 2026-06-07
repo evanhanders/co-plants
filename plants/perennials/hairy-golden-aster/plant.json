@@ -53,5 +53,65 @@
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/175075736"
     }
-  ]
+  ],
+  "care": {
+    "hardiness": "A tough, wide-ranging native of the western plains and foothills, hardy roughly USDA zones 3–8, so it sails through Boulder winters (zone 5b–6a) unprotected and dies back to a woody crown each year.[1] Its natural range runs from the Canadian prairie south into the desert Southwest, so our high-altitude sun, cold, and semi-arid climate suit it perfectly.[1][2]",
+    "planting": "Set out container-grown plants in spring after the mid-May average last frost, or in early fall while soil is workable; water in to establish, then taper off. It wants a hot, lean, open spot and resents rich, wet ground. In pots use a gritty, sharply draining mix and keep it on the dry side — protect the crown from winter wet, which rots it far faster than cold does.[1][2]",
+    "sun": "Full sun — it grows naturally on open, unshaded prairies, slopes, and disturbed ground, and our intense Front-Range sun is exactly what it wants.[1][2]",
+    "soil": "Lean, dry, sharply drained sandy or gravelly soils; it tolerates the alkaline clay common around Boulder so long as drainage is excellent. Avoid rich, amended, or heavy wet ground, which causes floppy growth and rots the crown.[1][2]",
+    "water": "Low; very xeric once established. Give occasional deep soakings the first season, then little to no supplemental water — it actively prefers hot, dry ground and rots if overwatered.[1][2]",
+    "spacing": "Allow roughly 1.5–2 ft between plants so the low, bushy mounds knit together without crowding.[2]",
+    "propagation": "Easiest from seed; mature plants can also be divided in spring. Seed germinates better with a light cold-moist stratification — a fall outdoor sowing lets winter supply it, or chill seed a few weeks in the refrigerator before a spring sowing. Established clumps divide in early spring as new growth begins.[1][2]",
+    "sow": "Sow shallowly — barely cover the small seed — in fall outdoors to take advantage of winter chill, or stratify and sow in spring after frost.[1]",
+    "stratify": "A short cold-moist stratification (a few weeks at ~40°F, or simply a fall sowing) improves and evens out germination.[1]",
+    "bloom": "Very long blooming — golden daisies from midsummer well into fall, roughly June through October on the Front Range.[1][2]",
+    "maintenance": "Very low care: cut the spent stems back in late winter before new growth, and avoid feeding or overwatering, both of which cause it to flop. Leave it lean and dry and it stays tidy.[1][2]",
+    "selfsow": "Self-sows modestly in open, dry ground where it is happy; the volunteers are easy to thin or transplant, and deadheading before seed set curbs it where you don't want spread.[2]",
+    "troubles": "Largely pest- and disease-free; the only real risk is crown or root rot in wet, poorly drained, or over-irrigated soil.[1][2]",
+    "companions": "Pairs naturally with other xeric prairie natives — blue grama, little bluestem, dotted gayfeather, sulphur flower buckwheat, and penstemons — in lean, sunny, low-water plantings.[2]"
+  },
+  "references": [
+    {
+      "name": "USDA NRCS PLANTS Database — hairy false goldenaster (Heterotheca villosa, syn. Chrysopsis villosa)",
+      "url": "https://plants.usda.gov/home/plantProfile?symbol=HEVI4"
+    },
+    {
+      "name": "Lady Bird Johnson Wildflower Center — Heterotheca villosa (Hairy false goldenaster)",
+      "url": "https://www.wildflower.org/plants/result.php?id_plant=HEVIV"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      2
+    ],
+    "sun": [
+      1,
+      2
+    ],
+    "water": [
+      2
+    ],
+    "spread": [
+      2
+    ],
+    "seasons": [
+      1,
+      2
+    ],
+    "wildlife": [
+      2
+    ],
+    "deer": [
+      2
+    ],
+    "toxic": [
+      1
+    ]
+  },
+  "edible": {
+    "level": "inedible",
+    "food": false,
+    "summary": "Grown as a native ornamental and keystone pollinator plant, not for eating; no documented culinary use and not known to be poisonous.[1][2]",
+    "caution": "Hairy golden aster has no documented food use, so it is treated as inedible — don't eat any part. It is not known to be notably poisonous, but absence of food documentation is not a green light, and as with any wild daisy-family (Asteraceae) plant you should never eat one without certain identification.[1][2]"
+  }
 }

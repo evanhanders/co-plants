@@ -47,5 +47,72 @@
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/137460366"
     }
-  ]
+  ],
+  "care": {
+    "hardiness": "A hardy, deep-rooted warm-season perennial of the mid-grass prairie that ranges from southern Canada to Mexico, with cold-selected northern strains; it sails through Boulder winters (zone 5b–6a) and is one of the most widely adapted of all native warm-season grasses.[1][2]",
+    "planting": "Warm-season (C4) grass that starts growth in mid-spring, so plant plugs or container stock in late spring after the soil warms past the mid-May last frost — it greens up late.[2] In containers use a gritty, fast-draining, alkaline-tolerant mix, water more often than in-ground plantings, and protect from winter wet; it is much hardier in the open ground than in an exposed pot.[1]",
+    "sun": "Full sun is best, though it is more shade-tolerant than blue grama and can take light/semi-shade or open woodland — in the garden give it full Front-Range sun for the densest clump.[1][3]",
+    "soil": "Adapted to a broad range of soils from sand to clay, but does best on medium- to fine-textured upland soils; it is better suited to the calcareous, moderately alkaline clay around Boulder than to neutral or acid ground, and is least happy in loose sand or dense clay.[1][3] It tolerates rocky, stony, and shallow sites and even spring flooding.[1]",
+    "water": "Low; xeric once established. Very drought-resistant (though slightly less so than blue grama), with deep roots that reach subsurface moisture — it thrives on 12–20 in of annual rainfall, so it needs little to no supplemental water here after establishment.[1][2]",
+    "spacing": "Space plants about 18 in apart; the crown spreads only very slowly by short, stout rhizomes, so it stays a tidy clump.[1]",
+    "propagation": "Easiest from seed, which germinates and establishes more readily than other grama grasses — most seed sprouts within 7 days under good conditions.[1] Sow unstratified in fall or cold-stratified in spring; established clumps can also be divided in spring.[3] The short rhizomes mean it does not run, so division yields only modest increase.[1]",
+    "sow": "Sow no deeper than ¼ in on fine-textured soils (up to ¾ in on coarser soils) on a firm, weed-free seedbed; mulch helps hold moisture for germination. Most seed germinates within about 7 days.[1] Sow unstratified in fall or after spring stratification.[1][3]",
+    "stratify": "No stratification is required if sown in fall (winter cold does the work); for spring sowing, cold-moist stratify the seed first.[3]",
+    "depth": "Sow ¼ in deep on fine soils, up to ¾ in on coarse soils.[1]",
+    "bloom": "Grown for foliage and seedheads rather than flowers: it sends up its distinctive zigzag stalks of small one-sided spikes — flashing bright orange-red anthers — from roughly June through fall, then the seed spikes dry tan and the clump warms to bronze-purple.[1][3]",
+    "maintenance": "Very low care. Cut the clump back to a few inches in late winter or very early spring before new growth starts; as a warm-season grass it greens up late, so expect bare clumps well into May.[1][2] Leave the seed spikes for winter interest and birds.[3]",
+    "troubles": "Largely trouble-free; grasshoppers can damage seedling stands and some leaf/stem rust and leaf-spot fungi appear in wet years, but none is usually serious in the garden.[1]",
+    "companions": "A natural prairie partner — in the wild it grows in mixed stands with blue grama and little bluestem — and combines well with those grasses and with xeric forbs (blanket flower, dotted gayfeather, prairie coneflower) in a dry native meadow.[1]"
+  },
+  "edible": {
+    "level": "inedible",
+    "summary": "A high-quality native forage grass, not a human food — no part is eaten by people.[1][2]",
+    "caution": "Sideoats grama is a highly palatable, nutritious, non-toxic forage grass relished by all classes of livestock and whose seeds feed birds (including wild turkeys) and small mammals, but there is no documented human food use of any part — so it is treated as inedible here. It is not poisonous; it is simply grown as forage and ornament, not for eating.[1][2]"
+  },
+  "references": [
+    {
+      "name": "USDA NRCS Plant Guide — sideoats grama (Bouteloua curtipendula)",
+      "url": "https://plants.usda.gov/DocumentLibrary/plantguide/pdf/pg_bocu.pdf"
+    },
+    {
+      "name": "USDA Forest Service FEIS — Bouteloua curtipendula",
+      "url": "https://www.fs.usda.gov/database/feis/plants/graminoid/boucur/all.html"
+    },
+    {
+      "name": "Lady Bird Johnson Wildflower Center — Bouteloua curtipendula",
+      "url": "https://www.wildflower.org/plants/result.php?id_plant=BOCU"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      1,
+      3
+    ],
+    "sun": [
+      1,
+      3
+    ],
+    "water": [
+      1,
+      2
+    ],
+    "spread": [
+      1
+    ],
+    "seasons": [
+      1,
+      3
+    ],
+    "wildlife": [
+      1,
+      3
+    ],
+    "deer": [
+      3
+    ],
+    "toxic": [
+      1,
+      2
+    ]
+  }
 }

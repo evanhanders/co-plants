@@ -173,8 +173,9 @@ footer{text-align:center;margin-top:40px;font-size:11.5px;color:var(--ink-soft);
 .rbtn:hover{background:var(--rust);border-color:var(--rust)}
 .lb-close{position:absolute;top:calc(14px + env(safe-area-inset-top,0px));right:calc(14px + env(safe-area-inset-right,0px));z-index:4}
 .lb-zoomctl{position:absolute;left:50%;bottom:calc(22px + env(safe-area-inset-bottom,0px));transform:translateX(-50%);display:flex;gap:14px;z-index:4}
-.lb-cap{position:absolute;left:0;right:0;top:calc(16px + env(safe-area-inset-top,0px));text-align:center;color:#fff;font-size:12px;letter-spacing:.04em;padding:0 66px;pointer-events:none;text-shadow:0 1px 3px #000a}
-.lb-cap a{color:#fff;pointer-events:auto;margin-left:10px;opacity:.85;text-decoration:none;font-size:11px}
+.lb-cap{position:absolute;left:0;right:0;top:calc(16px + env(safe-area-inset-top,0px));display:flex;flex-direction:column;align-items:center;gap:4px;text-align:center;color:#fff;font-size:12px;letter-spacing:.04em;padding:0 66px;pointer-events:none;text-shadow:0 1px 3px #000a}
+.lb-capmain{max-width:100%}
+.lb-cap a{color:#fff;pointer-events:auto;opacity:.85;text-decoration:none;font-size:11px}
 .lb-cap a:hover{opacity:1;text-decoration:underline}
 .lb-count{margin-right:10px;opacity:.7;font-size:11px;letter-spacing:.1em}
 .lb-count:empty{display:none}

@@ -91,7 +91,7 @@ return '<div class="ed-item'+(k==='caution'?' ed-warn':'')+'"><dt>'+f[1]+'</dt><
 return '<section class="edible '+lv.cls+'"><h2>Edible parts</h2>'+
 '<div class="ed-banner"><span class="ed-flag">'+esc(lv.lab)+'</span>'+
 (e.summary?'<span class="ed-summary">'+cite(e.summary)+'</span>':'')+'</div>'+
-(rows?'<div class="ed-grid">'+rows+'</div>':'')+
+(rows?'<dl class="ed-grid">'+rows+'</dl>':'')+
 '</section>';
 }
 /* page-wide numbered bibliography (the `references` array). Falls back to the legacy
@@ -134,7 +134,7 @@ function renderDetail(p){
 const care = p.care || {};
 const panels = carePanels(care);
 const grow = panels
-? '<div class="caregrid">'+panels+'</div>'
+? '<dl class="caregrid">'+panels+'</dl>'
 : '<p class="care-empty">Detailed growing notes for this plant are still being written — see the at-a-glance facts above for the essentials.</p>';
 const credits = creditsHTML(p);
 detail.innerHTML =

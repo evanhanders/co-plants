@@ -9,12 +9,11 @@ A distribution audit (June 2026) found several browse sections under-stocked rel
 the Front Range supports. Add, in priority order, each through the full pipeline (CO weed-check →
 card fields → iNat-sourced reel → cited care + edible + provenance). `(N)` native, `(I)` introduced.
 
-- [ ] **Ornamental grasses — biggest gap (only 2: blue oat grass, little bluestem).** Target set:
-  **blue grama** (*Bouteloua gracilis*, N; 'Blonde Ambition' is a Plant Select form), **prairie
-  dropseed** (*Sporobolus heterolepis*, N), **switchgrass** (*Panicum virgatum*, N), **sideoats
-  grama** (*Bouteloua curtipendula*, N), **feather reed grass** (*Calamagrostis* 'Karl Foerster',
-  I — sterile), **Indian ricegrass** (*Achnatherum hymenoides*, N). *Weed-check note: skip Mexican
-  feather grass (*Nassella tenuissima*) — self-sows invasively in the West; verify any* Miscanthus.
+- [x] **Ornamental grasses — biggest gap (was 2: blue oat grass, little bluestem).** DONE (June
+  2026): added **blue grama**, **prairie dropseed**, **switchgrass**, **sideoats grama**, **Indian
+  ricegrass**, and **feather reed grass 'Karl Foerster'** — section now 8. All weed-checked, photo
+  reels sourced + QC'd, fully cited care/edible blocks. *(Mexican feather grass deliberately skipped
+  — self-sows invasively in the West.)*
 - [ ] **Vines (7) — and zero are native.** Add native climbers: **Rocky Mountain clematis**
   (*Clematis columbiana*, N — NOT the List-B orange-peel *C. orientalis*), **western virgin's
   bower** (*Clematis ligusticifolia*, N), **hardy grape** (*Vitis riparia* riverbank, N, or

@@ -865,12 +865,12 @@ ground every statement in an authority cited in `references`.
 
 ## Current plant roster (in the live site)
 
-**149 specimens**, all verified non-weed in CO and all carrying a full `care` block (incl.
+**155 specimens**, all verified non-weed in CO and all carrying a full `care` block (incl.
 `planting` + `propagation`) **and a repo-hosted photo reel** (close-up + structure, seasonal
 where good shots exist). Every plant's detail page is now **fully cited** — a numbered
 `references` bibliography with inline `[n]` markers on the facts table (`fact_src`), the care
-prose, and a safety-reviewed **`edible` block** (current split: 59 inedible · 29 caution · 37
-edible · 24 toxic). Every **non-native** plant (100 of the 149) also carries **provenance** —
+prose, and a safety-reviewed **`edible` block** (current split: 63 inedible · 29 caution · 39
+edible · 24 toxic). Every **non-native** plant (101 of the 155) also carries **provenance** —
 `origin` (where it's from) + `habitat` (its wild growing conditions) — shown as blue "Native
 to" / "Wild habitat" rows on its card and detail page, cited via `fact_src`. Grouped by type
 below (the order the site uses). Photos were sourced
@@ -1001,6 +1001,12 @@ acorn close-up for Gambel oak).
 **Ornamental grasses**
 - Blue oat grass (*Helictotrichon sempervirens*) (I) — A tidy steel-blue fountain of fine, arching foliage
 - Little bluestem (*Schizachyrium scoparium*) (N) — Prairie bunchgrass turning mahogany-copper with fluffy…
+- Blue grama (*Bouteloua gracilis*) (N) — Iconic shortgrass-prairie native with one-sided 'eyebrow' comb seedheads.
+- Sideoats grama (*Bouteloua curtipendula*) (N) — Oat-like seeds dangling along one side of arching stems; orange anthers at bloom.
+- Switchgrass (*Panicum virgatum*) (N) — Tall upright prairie grass; airy pink panicles, gold-to-burgundy fall, winter structure. *(Livestock photosensitization hazard — not for grazing animals.)*
+- Prairie dropseed (*Sporobolus heterolepis*) (N) — Emerald fountain with coriander-scented seedheads and apricot-gold fall. *(Seeds a minor, historic grain.)*
+- Indian ricegrass (*Eriocoma hymenoides*) (N) — Airy see-through seed cloud on a fine xeric clump; a staple Indigenous grain. *(Edible seeds; cool-season, needs sharp drainage.)*
+- Feather reed grass (*Calamagrostis × acutiflora 'Karl Foerster'*) (I) — The classic vertical accent; sterile (never self-sows), wheat-gold plumes standing all winter.
 
 **Groundcovers**
 - Bloody cranesbill (*Geranium sanguineum*) (I) — Tough, mounding hardy geranium with vivid magenta-to-crimson…

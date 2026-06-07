@@ -865,12 +865,12 @@ ground every statement in an authority cited in `references`.
 
 ## Current plant roster (in the live site)
 
-**155 specimens**, all verified non-weed in CO and all carrying a full `care` block (incl.
+**159 specimens**, all verified non-weed in CO and all carrying a full `care` block (incl.
 `planting` + `propagation`) **and a repo-hosted photo reel** (close-up + structure, seasonal
 where good shots exist). Every plant's detail page is now **fully cited** — a numbered
 `references` bibliography with inline `[n]` markers on the facts table (`fact_src`), the care
-prose, and a safety-reviewed **`edible` block** (current split: 63 inedible · 29 caution · 39
-edible · 24 toxic). Every **non-native** plant (101 of the 155) also carries **provenance** —
+prose, and a safety-reviewed **`edible` block** (current split: 63 inedible · 29 caution · 40
+edible · 27 toxic). Every **non-native** plant (101 of the 159) also carries **provenance** —
 `origin` (where it's from) + `habitat` (its wild growing conditions) — shown as blue "Native
 to" / "Wild habitat" rows on its card and detail page, cited via `fact_src`. Grouped by type
 below (the order the site uses). Photos were sourced
@@ -1028,6 +1028,10 @@ acorn close-up for Gambel oak).
 - Rambling rose (*Rosa (rambling cultivars)*) (I) — Vigorous, flexible-caned roses that 'wander' over fences &…
 - Trumpet honeysuckle (*Lonicera sempervirens*) (I) — A well-behaved twining climber with clusters of long…
 - Sweet pea (*Lathyrus odoratus*) (I) · **Annual** — The most fragrant climbing annual; ruffled jewel-toned blooms on cool spring air. *(Toxic — seeds/pods, lathyrism; not the edible pea.)*
+- Rocky Mountain clematis (*Clematis columbiana*) (N) — Native climbing clematis; nodding lavender-blue bells in spring, then silky seed plumes. *(Toxic — protoanemonin; NOT the List-B orange-peel C. orientalis.)*
+- Western virgin's bower (*Clematis ligusticifolia*) (N) — Vigorous native climber; frothy white late-summer flowers then silvery 'old man's beard' seed plumes. *(Dioecious; toxic — protoanemonin.)*
+- Riverbank grape (*Vitis riparia*) (N) — Tough native wild grape; lobed leaves, tart blue-black fruit for jelly, clear-yellow fall. *(Edible fruit & young leaves — beware the toxic moonseed look-alike.)*
+- Woodbine (*Parthenocissus vitacea*) (N) — Native non-clinging creeper; scarlet fall color over blue berries on coral-red stalks. *(Toxic berries — oxalates; the grape look-alike that isn't edible.)*
 
 **Spring forbs**
 - Brunnera (*Brunnera macrophylla*) (I) — Clouds of tiny forget-me-not-blue flowers drift above…

@@ -1,0 +1,120 @@
+{
+  "common": "Rocky Mountain clematis",
+  "botanical": "Clematis columbiana",
+  "type": "Vine",
+  "lifecycle": "Perennial",
+  "native": "CO native",
+  "blurb": "Colorado's native climbing clematis: nodding lavender-blue bells scramble through foothill shrubs in spring, followed by silky seed plumes. A cold-hardy, well-behaved native alternative to the big garden clematis.",
+  "size": "Climbs/scrambles 6–10 ft × 3–6 ft",
+  "sun": "Part shade to part sun — a foothills woodland-edge plant",
+  "water": "Low to moderate; xeric once established",
+  "spread": "Twining/scrambling climber (clings by its leaf-stalks); clumping root, not running",
+  "seasons": "Nodding lavender-blue bells in spring; divided foliage through summer; silky seed plumes after bloom; deciduous in winter",
+  "wildlife": "Early-season nectar; seed plumes and cover for birds and insects",
+  "deer": "Generally avoided — clematis foliage is acrid",
+  "toxic": "Like all clematis, contains protoanemonin — foliage and sap are irritant and toxic if eaten raw; wash hands after handling. NOT the CO List B orange-peel clematis (Clematis orientalis)",
+  "flower_color": [
+    "purple",
+    "blue"
+  ],
+  "bloom": [
+    "spring"
+  ],
+  "verified": "2026-06-07",
+  "shots": [
+    {
+      "local": "images/sp-flowers-t.jpg",
+      "full": "images/sp-flowers.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/395497075/large.jpg",
+      "s": "spring",
+      "cap": "Spring — nodding lavender bells on the climbing vine · © tmr3 (CC-BY-NC) / iNaturalist",
+      "by": "tmr3",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/223224769"
+    },
+    {
+      "local": "images/sp-bells-t.jpg",
+      "full": "images/sp-bells.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/205676515/large.jpg",
+      "s": "spring",
+      "cap": "Spring — the nodding bell flowers up close · © Kara Carragher (CC-BY-NC) / iNaturalist",
+      "by": "Kara Carragher",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/121538383"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/220438553/large.jpg",
+      "s": "summer",
+      "cap": "Summer — divided blue-green foliage · © patcooper (CC-BY-NC) / iNaturalist",
+      "by": "patcooper",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/129693374"
+    }
+  ],
+  "care": {
+    "hardiness": "A high-elevation Rocky Mountain native (it ranges across Montana, Colorado and the interior West), so it is thoroughly cold-hardy — comfortably through Boulder's USDA zone 5b–6a winters; cold is never the limiting factor.[1][2]",
+    "planting": "Plant in spring after the mid-May last frost, or in early fall, at a woodland edge or the base of a shrub or low trellis it can scramble up. It naturally grows in the dappled light and leaf-litter of foothill thickets, so give it a partly shaded root run; in pots use a gritty, free-draining mix and shade the container, but it is happiest planted out where its roots can range.[1]",
+    "sun": "Part shade to part sun — a foothills woodland-edge plant rather than a full-sun climber. Morning sun with afternoon shade, or high dappled light, suits it best on the Front Range; shading the roots while the top reaches into light is the usual clematis rule.[1]",
+    "soil": "Adaptable, growing in dry to moist, well-drained soils; it tolerates Boulder's lean, alkaline clay-loam as long as it drains and is never waterlogged. Mulch or a leaf-litter layer over the root zone mimics its native woodland-edge habitat.[1]",
+    "water": "Low to moderate; drought-tolerant once established, in keeping with its dry-to-moist mountain habitat. Water new plants through their first season or two to establish, then taper — it does not want a soggy site.[1]",
+    "spacing": "Give it 3–6 ft of lateral room; it climbs and scrambles 6–10 ft by twisting its leaf-stalks around twigs of host shrubs rather than running at the root. A single plant will lace through an open shrub or a small trellis without overwhelming it — unlike its aggressive cousin western virgin's bower.[1]",
+    "propagation": "Grow from seed or from softwood/semi-ripe cuttings; layering also works, since pegged stems root at the nodes. Seed needs a long cold-moist stratification — sow in fall and let it overwinter outdoors, or give roughly 60–180 days of cold-moist chilling at 33–40°F before spring sowing; germination is slow.[1]",
+    "sow": "Sow ripe seed in fall in a protected outdoor bed or pot so it gets natural winter chilling, or sow stratified seed in spring. Be patient — germination is slow and uneven.[1]",
+    "stratify": "Cold-moist stratify the seed for about 60–180 days at 33–40°F (a fall outdoor sowing accomplishes this naturally) to break dormancy before it will germinate.[1]",
+    "bloom": "Nodding, solitary lavender-blue to purple bells in spring, roughly May into July, followed by silky, plumed seedheads that catch the light through summer — it flowers on the previous season's wood.[1]",
+    "maintenance": "Low. Because it blooms in spring on old (previous-season) wood, prune only lightly and only just after flowering — tidy or shorten stems then, never with a hard late-winter cutback, which would remove the wood that carries the spring flowers. Let the ornamental seed plumes stand; its foliage dies back in winter and breaks again from the woody base.[1][3]",
+    "troubles": "Largely trouble-free in our dry air; the main pitfall is a too-wet or too-sunny, hot site. Like other clematis its sap can irritate skin, so wear gloves when cutting it back (see 'Edible parts'). Note this is the well-behaved native clematis — do NOT confuse it with Clematis orientalis, the yellow orange-peel clematis, a CO List B noxious weed.[3]"
+  },
+  "edible": {
+    "level": "toxic",
+    "summary": "Like all clematis, Rocky Mountain clematis is toxic — no part is edible, and the bruised sap irritates skin.[3][4]",
+    "caution": "All parts contain protoanemonin, an acrid irritant glycoside released when the tissue is bruised or chewed. Eating it causes intense burning and pain in the mouth, salivation, vomiting, and diarrhea; the same compound makes the fresh sap a skin and mucous-membrane irritant, so handling cut stems can cause redness and a burning sensation — wear gloves when pruning. It is toxic to dogs, cats, and horses as well as people; keep children and pets from chewing it. (Drying largely destroys protoanemonin, but never rely on that — treat the whole plant as not for consumption.)[3][4]"
+  },
+  "references": [
+    {
+      "name": "Lady Bird Johnson Wildflower Center — Clematis columbiana (Rocky Mountain clematis)",
+      "url": "https://www.wildflower.org/plants/result.php?id_plant=CLCO2"
+    },
+    {
+      "name": "USDA NRCS PLANTS Database — Clematis columbiana",
+      "url": "https://plants.usda.gov/plant-profile/CLCO"
+    },
+    {
+      "name": "NC State Extension Gardener Plant Toolbox — Clematis (care; toxicity: protoanemonin, leaves & sap, dermatitis)",
+      "url": "https://plants.ces.ncsu.edu/plants/clematis/"
+    },
+    {
+      "name": "ASPCA Animal Poison Control — Clematis (toxic to dogs, cats, horses; irritant glycoside protoanemonin)",
+      "url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/clematis"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      1
+    ],
+    "sun": [
+      1
+    ],
+    "water": [
+      1
+    ],
+    "spread": [
+      1
+    ],
+    "seasons": [
+      1
+    ],
+    "wildlife": [
+      1
+    ],
+    "deer": [
+      3
+    ],
+    "toxic": [
+      3,
+      4
+    ]
+  }
+}

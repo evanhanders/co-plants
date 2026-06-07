@@ -49,5 +49,40 @@
       300,
       400
     ]
+  },
+  {
+    "file": "images/sp-shoots.jpg",
+    "by": "Justin Mair",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/164351850",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/su-habit.jpg",
+    "by": "earthdenizen",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/310812932",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/su-drift.jpg",
+    "by": "Nick Moore",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/292267647",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/fa-pods.jpg",
+    "by": "Karro Frost",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/135984373",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/fa-floss.jpg",
+    "by": "hedgie7",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/142797376",
+    "via": "iNaturalist"
   }
 ]

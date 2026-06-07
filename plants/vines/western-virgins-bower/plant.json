@@ -52,5 +52,69 @@
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/313759656"
     }
-  ]
+  ],
+  "care": {
+    "hardiness": "A tough, widely distributed western native (B.C. to Baja, east to the Dakotas, Nebraska and New Mexico, including all of Colorado), thoroughly hardy through Boulder's USDA zone 5b–6a winters — cold is no concern; it is disease-resistant and adaptable.[1][2]",
+    "planting": "Plant in spring after the mid-May last frost, or in early fall, somewhere it has plenty of room — against a sturdy fence, a large pergola, or an old tree or shrub it can clamber over. It is far too vigorous for a small, dainty trellis. In the wild it favors streamsides and moist draws, so a spot that doesn't bake bone-dry suits it, but it tolerates a range of sites once in.[1]",
+    "sun": "Full sun to part shade. It flowers most heavily in sun but is widely adaptable and will grow and bloom in light shade — a common condition where it scrambles up into a host tree.[1]",
+    "soil": "Rich, well-drained soil is ideal, but it is famously tough and adaptable and handles Boulder's alkaline clay-loam; it has low tolerance for high free calcium carbonate but is otherwise undemanding as long as the site drains.[1]",
+    "water": "Low to moderate; drought-tolerant once established, though in the wild it often grows along streams and washes and will be lusher with some moisture. Water to establish, then it largely fends for itself — supplemental water mainly makes it grow faster (and bigger).[1]",
+    "spacing": "Give it serious room: it climbs 10–20 ft and spreads widely, twining by its leaf-stalks to blanket whatever it reaches. Site one plant per large support and keep it well away from small or choice shrubs it could smother.[1]",
+    "propagation": "Grow from seed, softwood/semi-ripe cuttings taken in late spring, or layering. Seed germinates slowly and benefits from a long cold-moist stratification — about 60–180 days at 33–40°F (a fall outdoor sowing does this naturally). Note the plant is DIOECIOUS: male and female flowers are on separate plants, and only female plants produce the showy silvery 'old man's beard' seed plumes — so if you want the autumn plumes, propagate vegetatively (cuttings/layers) from a known female, or plant several seedlings to be sure of getting females.[1]",
+    "sow": "Sow ripe seed in fall in a protected outdoor bed or pot for natural winter chilling, or sow stratified seed in spring; expect slow, uneven germination.[1]",
+    "stratify": "Cold-moist stratify the seed for roughly 60–180 days at 33–40°F to break dormancy before sowing in spring (a fall sowing left outdoors accomplishes this).[1]",
+    "bloom": "Masses of starry, fragrant creamy-white flowers in late summer (roughly July–August on the Front Range, blooming into early fall), followed on female plants by the spectacular silky, plumed seedheads that give it the name 'old man's beard' and persist into winter.[1]",
+    "maintenance": "Vigorous to the point of aggressive — plan to keep it in bounds. Because it flowers in late summer on the current season's new growth, you can cut it back hard in late winter or early spring (February–March) to control its size and renew it without sacrificing bloom — it will regrow and flower the same year. Pull or cut back the wandering stems whenever they reach where you don't want them. Let the seed plumes stand for winter interest. Wear gloves when cutting it (irritant sap — see 'Edible parts').[1][3]",
+    "troubles": "The main 'trouble' is its own vigor — give it room and expect to prune it back. It is disease-resistant and largely pest-free in our dry climate. Its sap irritates skin, so handle with gloves. This is the native Clematis ligusticifolia — not to be confused with the CO List B noxious orange-peel clematis (Clematis orientalis).[1][3]"
+  },
+  "edible": {
+    "level": "toxic",
+    "summary": "Western virgin's bower is toxic — no part is edible, and the bruised sap irritates skin, despite its historical topical folk use.[3][4]",
+    "caution": "All parts contain protoanemonin, an acrid irritant glycoside released when the tissue is bruised or chewed — eating any part causes severe burning and pain in the mouth, salivation, vomiting, and diarrhea, and the fresh sap blisters and irritates skin and mucous membranes (it was historically used topically as a counter-irritant and a wash, never as a food). Treat it as poisonous to eat; it is toxic to dogs, cats, and horses as well as people. Wear gloves when pruning, since handling cut stems can redden and burn the skin. (Drying largely destroys protoanemonin, but never rely on that — it is not food.)[3][4]"
+  },
+  "references": [
+    {
+      "name": "Lady Bird Johnson Wildflower Center — Clematis ligusticifolia (western white clematis)",
+      "url": "https://www.wildflower.org/plants/result.php?id_plant=CLLI2"
+    },
+    {
+      "name": "USDA NRCS PLANTS Database — Clematis ligusticifolia",
+      "url": "https://plants.usda.gov/plant-profile/CLLI2"
+    },
+    {
+      "name": "NC State Extension Gardener Plant Toolbox — Clematis (care; toxicity: protoanemonin, leaves & sap, dermatitis)",
+      "url": "https://plants.ces.ncsu.edu/plants/clematis/"
+    },
+    {
+      "name": "ASPCA Animal Poison Control — Clematis (toxic to dogs, cats, horses; irritant glycoside protoanemonin)",
+      "url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/clematis"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      1
+    ],
+    "sun": [
+      1
+    ],
+    "water": [
+      1
+    ],
+    "spread": [
+      1
+    ],
+    "seasons": [
+      1
+    ],
+    "wildlife": [
+      1
+    ],
+    "deer": [
+      1
+    ],
+    "toxic": [
+      3,
+      4
+    ]
+  }
 }

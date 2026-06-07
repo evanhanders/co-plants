@@ -16,6 +16,75 @@
   "flower_color": [],
   "bloom": [],
   "verified": "2026-06-07",
+  "care": {
+    "hardiness": "A wide-ranging North American native, very cold hardy (roughly USDA zone 3) and fully reliable through Boulder's zone 5b–6a winters; no protection needed.[1][2]",
+    "planting": "Plant in spring or early fall against a fence, trellis, arbor, or large shrub it can clamber over. Because it twines and drapes rather than gluing to surfaces, give it something to weave through. It establishes easily and tolerates a wide range of sites. In a container use a roomy pot and water more often, but it is happiest in the ground.[1]",
+    "sun": "Extremely adaptable — thrives in everything from full sun to fairly deep shade, which makes it useful for shaded fences and north walls where few vines color well.[1][2]",
+    "soil": "Tolerant of most soils, including the region's alkaline clay, from dry to moist; it asks only for reasonable drainage and is otherwise undemanding.[1][2]",
+    "water": "Low to moderate and notably drought-tolerant once established; in our semi-arid climate it gets by on little supplemental water, though occasional summer water keeps foliage lush.[1]",
+    "spacing": "One vine covers a large run of fence, so space plants roughly 6–10 ft apart for a screen; expect 10–30 ft of spreading growth.[1]",
+    "propagation": "Easily propagated by seed and vegetatively. Clean seed from the ripe berries and cold-moist stratify it (about 2 months near 40°F) before spring sowing. Even simpler are softwood or hardwood cuttings and layering — low stems root readily where they touch the soil.[1]",
+    "bloom": "Small, greenish, inconspicuous flowers open in early summer in branched clusters; they are minor for nectar but set the showy berries.[1][2]",
+    "maintenance": "Low-care. Prune in late winter or early spring only to control size and direct growth — cut back wayward canes and thin congested growth. Unlike Virginia creeper it does not cement itself to masonry, so it pulls off supports cleanly when you need to manage it.[1][4]",
+    "troubles": "Largely trouble-free; occasional leafhoppers, beetles, or leaf spot do no lasting harm. Its chief 'fault' is vigor — it can overtop small shrubs, so site it where spreading is welcome.[1]",
+    "companions": "Use it as a fall-color screen on a fence or arbor, or let it ramble through a tough native shrub; underplant with drought-tolerant natives. Keep it off plants you don't want overtopped.[1]"
+  },
+  "fact_src": {
+    "size": [
+      1,
+      4
+    ],
+    "sun": [
+      1,
+      2
+    ],
+    "water": [
+      1
+    ],
+    "spread": [
+      1,
+      4
+    ],
+    "seasons": [
+      1,
+      4
+    ],
+    "wildlife": [
+      1,
+      4
+    ],
+    "deer": [
+      1
+    ],
+    "toxic": [
+      3,
+      4
+    ]
+  },
+  "edible": {
+    "level": "toxic",
+    "food": false,
+    "summary": "Poisonous — the grape-like blue-black berries are toxic to people; do not eat them. Birds eat the fruit safely, but humans must not.[3][4]",
+    "caution": "The blue-black berries are poisonous to people: they contain calcium-oxalate raphides (needle-like crystals) and oxalic acid, which cause burning and irritation of the mouth, throat, and digestive tract, with nausea, abdominal pain, and vomiting; the fruit is rated highly toxic and reported as potentially fatal in quantity. The sap can also irritate sensitive skin, so wear gloves when pruning. The berries dangerously resemble small wild grapes — never confuse this vine with edible riverbank grape (Vitis riparia). Birds consume the fruit without harm, but it is not human food; keep the berries away from children and pets.[3][4]"
+  },
+  "references": [
+    {
+      "name": "USDA NRCS Plant Guide — Parthenocissus vitacea (woodbine / thicket creeper)",
+      "url": "https://plants.sc.egov.usda.gov/DocumentLibrary/plantguide/pdf/pg_pavi5.pdf"
+    },
+    {
+      "name": "Lady Bird Johnson Wildflower Center — Parthenocissus vitacea",
+      "url": "https://www.wildflower.org/plants/result.php?id_plant=PAVI5"
+    },
+    {
+      "name": "NC State Extension Plant Toolbox — Parthenocissus quinquefolia (genus toxicity: oxalic acid, high severity)",
+      "url": "https://plants.ces.ncsu.edu/plants/parthenocissus-quinquefolia/"
+    },
+    {
+      "name": "Minnesota Wildflowers — Parthenocissus vitacea (woodbine; non-clinging tendrils, fruit not edible)",
+      "url": "https://www.minnesotawildflowers.info/shrub/woodbine"
+    }
+  ],
   "shots": [
     {
       "local": "images/fa-fall-t.jpg",

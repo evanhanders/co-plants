@@ -14,11 +14,11 @@ card fields → iNat-sourced reel → cited care + edible + provenance). `(N)` n
   ricegrass**, and **feather reed grass 'Karl Foerster'** — section now 8. All weed-checked, photo
   reels sourced + QC'd, fully cited care/edible blocks. *(Mexican feather grass deliberately skipped
   — self-sows invasively in the West.)*
-- [ ] **Vines (7) — and zero are native.** Add native climbers: **Rocky Mountain clematis**
-  (*Clematis columbiana*, N — NOT the List-B orange-peel *C. orientalis*), **western virgin's
-  bower** (*Clematis ligusticifolia*, N), **hardy grape** (*Vitis riparia* riverbank, N, or
-  'Valiant'/'Concord', I — fits the edible theme). *Weed-check: confirm American (not Oriental)
-  bittersweet if added; grape & Virginia creeper are vigorous.*
+- [x] **Vines (7) — and zero were native.** DONE (June 2026): added **Rocky Mountain clematis**
+  (*Clematis columbiana*), **western virgin's bower** (*Clematis ligusticifolia*), **riverbank
+  grape** (*Vitis riparia*, edible), and **woodbine** (*Parthenocissus vitacea*, fall color) —
+  section now 11, the guide's first native vines. All weed-checked, photo reels QC'd, fully cited
+  care/edible blocks (grape carries the toxic-moonseed look-alike warning; woodbine flagged toxic).
 - [ ] **Fall forbs (5).** Fall interest is a stated value but it's 3 asters + gayfeather + Japanese
   anemone. Add the keystone **goldenrod** (a *clumping* *Solidago* — *S. speciosa* or 'Wichita
   Mountains', N; avoid running *S. canadensis*), plus **Maximilian sunflower** (*Helianthus

@@ -865,12 +865,12 @@ ground every statement in an authority cited in `references`.
 
 ## Current plant roster (in the live site)
 
-**168 specimens**, all verified non-weed in CO and all carrying a full `care` block (incl.
+**176 specimens**, all verified non-weed in CO and all carrying a full `care` block (incl.
 `planting` + `propagation`) **and a repo-hosted photo reel** (close-up + structure, seasonal
 where good shots exist). Every plant's detail page is now **fully cited** — a numbered
 `references` bibliography with inline `[n]` markers on the facts table (`fact_src`), the care
-prose, and a safety-reviewed **`edible` block** (current split: 70 inedible · 30 caution · 41
-edible · 27 toxic). Every **non-native** plant (105 of the 168) also carries **provenance** —
+prose, and a safety-reviewed **`edible` block** (current split: 74 inedible · 32 caution · 43
+edible · 27 toxic). Every **non-native** plant (105 of the 176) also carries **provenance** —
 `origin` (where it's from) + `habitat` (its wild growing conditions) — shown as blue "Native
 to" / "Wild habitat" rows on its card and detail page, cited via `fact_src`. Grouped by type
 below (the order the site uses). Photos were sourced
@@ -937,6 +937,7 @@ acorn close-up for Gambel oak).
 (N) = CO/regional native, (I) = introduced/vetted.
 
 **Trees**
+- River hawthorn (*Crataegus rivularis*) (N) — Thorny native small tree; white spring flowers, dark edible haws, superb wildlife cover. A caterpillar keystone (~90 Lepidoptera). *(Riparian — wants more water; edible haws, spit the cyanogenic seeds.)*
 - Chokecherry (*Prunus virginiana*) (N) — Wildlife powerhouse: fragrant white flower racemes, dark…
 - Mountain alder (*Alnus incana ssp. tenuifolia*) (N) — Multi-stem riparian tree with smooth grey bark and early…
 - Honeycrisp apple (*Malus domestica 'Honeycrisp'*) (I) — Explosively crisp, honey-sweet apple; the Front Range's most dependable tree fruit.
@@ -1066,6 +1067,12 @@ acorn close-up for Gambel oak).
 - Golden banner (*Thermopsis divaricarpa*) (N) — Bright lupine-like spikes of golden pea flowers over blue-green trifoliate foliage; spreads into bold drifts. *(Toxic — alkaloids in foliage/seeds.)*
 
 **Summer forbs**
+- Showy milkweed (*Asclepias speciosa*) (N) — THE monarch host; domes of rose-pink stars, then silky-floss pods. The top plant for monarchs here. *(Spreads by rhizome; toxic raw — young parts edible only cooked.)*
+- Butterfly milkweed (*Asclepias tuberosa*) (N) — Blazing flat orange clusters on a tidy non-spreading taproot clump; monarch host. *(Toxic — grown as a pollinator plant, not food.)*
+- Purple prairie clover (*Dalea purpurea*) (N) — Rose-purple thimbles over ferny foliage; a nitrogen-fixing legume and native-bee keystone. *(Leaves for tea; sweet roots chewed.)*
+- Hairy golden aster (*Heterotheca villosa*) (N) — Low silvery-hairy mound of golden daisies midsummer to frost; a specialist-bee keystone (~50 bee spp).
+- False sunflower (*Heliopsis helianthoides*) (N) — Long-blooming golden daisies (golden centers) early summer to frost; sturdy and bee-friendly.
+- Curlycup gumweed (*Grindelia squarrosa*) (N) · **Biennial** — Yellow daisies in sticky curled-back bracts; the region's #2 specialist-bee plant (~68 bee spp). A self-sowing xeric pioneer. *(Not a food; resin was medicinal.)*
 - Acanthus (*Acanthus mollis*) (I) — Architectural 'bear's breeches': huge glossy leaves and hooded white-&-purple flower spikes. Tender (~zone 7).
 - Aspen fleabane (*Erigeron speciosus*) (N) — A native daisy
 - Blanket flower (*Gaillardia aristata*) (N) — Bold red-and-gold daisies that blaze from early summer…
@@ -1112,6 +1119,7 @@ acorn close-up for Gambel oak).
 - Prairie zinnia (*Zinnia grandiflora*) (N) — Fine-leaved cushion smothered in golden papery daisies midsummer to frost; a Plant Select-tough groundcover.
 
 **Fall forbs**
+- Tansyaster (*Dieteria bigelovii*) (N) · **Biennial** — Big lavender, gold-eyed daisies on branching stems into fall; a self-sowing xeric native and late-season specialist-bee plant.
 - Japanese anemone (*Anemone × hybrida*) (I) — Tall, wiry-stemmed perennial that lights up the late-summer…
 - Panicled aster (*Symphyotrichum lanceolatum*) (N) — A tall, willow-leaved native aster that erupts in sprays of…
 - White heath aster (*Symphyotrichum ericoides*) (N) — In late summer the wiry stems of this tough prairie native…

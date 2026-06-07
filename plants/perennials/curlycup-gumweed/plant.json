@@ -53,5 +53,70 @@
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/180313893"
     }
-  ]
+  ],
+  "care": {
+    "hardiness": "A native of the dry interior West — ranging from the Canadian prairies (Manitoba) south to Texas and across to Idaho and Arizona, and through Colorado from the plains to ~8,500 ft — so it is thoroughly cold-hardy through Boulder's zone 5b–6a winters.[1][2] It is a biennial or short-lived perennial that reproduces by seed.[1]",
+    "planting": "Easiest sown direct onto lean, sunny, disturbed ground; nursery starts also transplant in spring after the mid-May last frost. It wants the open, unimproved soil it colonizes in the wild, so don't amend or pamper the site. In pots use a gritty, fast-draining mix in full sun, but this is really an open-ground pioneer rather than a container plant.[1][2]",
+    "sun": "Full sun — a plant of open dry prairie, roadsides, and waste ground; the leaves even turn edge-on to the sun. It will not perform in shade.[2][3]",
+    "soil": "Lean, dry, well-drained ground — sandy loam to loam, often poor or disturbed; it readily tolerates Boulder's alkaline clay and is most at home on the bare, depleted, or recently disturbed soils other plants avoid.[1][2]",
+    "water": "Very low; genuinely xeric once established. A deep taproot (to ~6 ft) plus resinous foliage make it strongly drought-resistant — it needs essentially no supplemental water in our climate and is a tough pioneer of hot, dry ground.[1]",
+    "spacing": "Allow about 12–18 in. between plants; each makes a bushy, branching clump 1–3 ft tall and wide.[2]",
+    "propagation": "By seed only — it does not divide. The wind-dispersed seed (each with a pappus) germinates readily; surface-sow on bare ground in fall or early spring, as the fine seed needs light. After a brief cold period seed germinates in just a few days. There is no vegetative method; it perpetuates itself by self-sowing.[1]",
+    "sow": "Surface-sow on bare, disturbed soil in fall or early spring — press the seed in but leave it uncovered, since it needs light. Fall sowing lets the natural cold break dormancy; germination is fast (a few days) once conditions warm.[1]",
+    "stratify": "A short cold-moist period breaks dormancy and speeds germination — fall-sown seed chills naturally over winter, after which it germinates within a few days.[1]",
+    "bloom": "Blooms midsummer into fall — roughly July through September/October — with yellow daisies cupped in the distinctive sticky, curled-back resinous green bracts, peaking in August when late-season forage is scarce.[1][2]",
+    "maintenance": "Essentially no care once established. Its one demand on the gardener is restraint of its self-sowing: deadhead spent flower heads before the seed ripens to keep this enthusiastic pioneer in bounds, leaving a few if you want it to persist.[1]",
+    "selfsow": "A prolific, wind-dispersed self-sower and a pioneer of disturbed ground — it readily colonizes bare soil and can spread, so deadhead before seed set to limit it (or let a few heads shatter to keep the patch going). Best sited where its ruderal, pollinator-habitat character is welcome rather than in a tidy formal bed.[1]",
+    "troubles": "Largely trouble-free — the resinous, bitter foliage is unbothered by most pests and is left alone by deer and livestock. On seleniferous soils it is a facultative selenium accumulator, a minor caveat where it might be grazed; in the home garden its main 'fault' is over-enthusiastic self-sowing.[1]",
+    "companions": "Other xeric, sun-loving Front-Range natives of lean ground — blue grama, sulphur flower buckwheat (*Eriogonum umbellatum*), dotted gayfeather (*Liatris punctata*), rabbitbrush, and the prairie asters — in a pollinator or restoration planting where its specialist-bee value shines.[2]"
+  },
+  "edible": {
+    "level": "inedible",
+    "food": false,
+    "summary": "Not a food — bitter and resinous, with only documented medicinal/folk use, not culinary; grow it as a native pollinator plant, not for eating.[1][2]",
+    "caution": "Curlycup gumweed is not eaten as food: the foliage and flower heads are coated in a sticky resin and are intensely bitter (tannins, volatile oils, resins, bitter alkaloids and glucosides), which is why livestock and deer avoid it. Its only documented human uses are medicinal/folk — the resin was traditionally used for respiratory complaints (asthma, bronchitis, cough) and skin irritations such as poison-ivy/poison-oak rash — not as a vegetable or seasoning, and that historical medicinal use is not a basis for casual consumption. It is also a facultative selenium accumulator on seleniferous soils, so plants from such ground can carry elevated selenium. Treat it as inedible.[1][2]"
+  },
+  "references": [
+    {
+      "name": "USDA Forest Service FEIS — Grindelia squarrosa (curlycup gumweed)",
+      "url": "https://www.fs.usda.gov/database/feis/plants/forb/grisqu/all.html"
+    },
+    {
+      "name": "Lady Bird Johnson Wildflower Center — Grindelia squarrosa (curlycup gumweed)",
+      "url": "https://www.wildflower.org/plants/result.php?id_plant=GRSQ"
+    },
+    {
+      "name": "USDA Forest Service — Plant of the Week: Grindelia squarrosa (curlycup gumweed)",
+      "url": "https://www.fs.usda.gov/wildflowers/plant-of-the-week/grindelia_squarrosa.shtml"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      2
+    ],
+    "sun": [
+      2,
+      3
+    ],
+    "water": [
+      1
+    ],
+    "spread": [
+      1
+    ],
+    "seasons": [
+      1,
+      2
+    ],
+    "wildlife": [
+      1,
+      2
+    ],
+    "deer": [
+      1
+    ],
+    "toxic": [
+      1
+    ]
+  }
 }

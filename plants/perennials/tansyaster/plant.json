@@ -54,5 +54,64 @@
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/240672428"
     }
-  ]
+  ],
+  "care": {
+    "hardiness": "A tough Southern-Rocky-Mountain native (W. Colorado south to New Mexico and Arizona) of dry, sunny ground, fully cold-hardy through Boulder's zone 5b–6a winters.[1][2] It behaves as a biennial or short-lived perennial — individual plants are not long-lived, so it persists in the garden by self-sowing.[1]",
+    "planting": "Set out container-grown plants in spring after the mid-May average last frost, or start it from seed (the more natural way for a self-sower). Site it in lean, sharply drained ground in full sun and water in to establish; once rooted it asks for almost nothing. In pots use a gritty, fast-draining mix and protect from winter wet, which rots the crown — but because it is short-lived and seeds itself, it is happiest in the open ground.[2]",
+    "sun": "Full sun — it is a plant of open, dry slopes and disturbed sunny ground, and our intense high-altitude sun suits it.[1][2]",
+    "soil": "Lean, dry, sharply drained sandy or gravelly soils; it tolerates Boulder's alkaline clay so long as drainage is good. Avoid rich, amended, or wet ground, which shortens its life and invites crown rot.[2]",
+    "water": "Low; xeric once established. Give occasional deep soakings the first season to root it in, then little to no supplemental water — it is adapted to a semi-arid climate and resents summer wet.[2]",
+    "spacing": "Allow about 12–18 in. between plants; each forms a branching, open clump 1–3 ft tall.[1][2]",
+    "propagation": "By seed is the natural method — it does not divide. Sow the ripe seed in fall and let winter cold-stratify it, or surface-sow shallowly in spring after a light cold-moist chill; the fine seed wants light to germinate, so barely cover it. There is no reliable vegetative method; keep the planting going by letting it self-sow.[1][2]",
+    "sow": "Sow seed shallowly in fall to overwinter and stratify naturally, or surface-sow in spring; press into the surface and barely cover, as the seed needs light. Seedlings appear as basal rosettes that bloom the following year.[1][2]",
+    "stratify": "A light cold-moist period improves and evens germination — fall-sown seed stratifies naturally over winter, or chill seed moist for a few weeks before a spring sowing.[1][2]",
+    "bloom": "Blooms late summer into fall — roughly August through October — with big lavender-purple, gold-eyed daisies, exactly when most of the garden is finishing and pollinators are short of forage.[1]",
+    "maintenance": "Very low care: leave it alone once established and avoid overwatering or feeding, which makes it floppy and short-lived. Do not deadhead everything — let some seed ripen and scatter so the planting renews itself.[1][2]",
+    "selfsow": "Because plants are short-lived (biennial to short-lived perennial), self-sowing is how it persists — let a portion of the seedheads shatter rather than deadheading them all, and volunteers will fill in. It drifts politely in a xeric bed rather than running, and surplus rosettes are easy to thin.[1]",
+    "troubles": "Few problems in a lean, sunny, well-drained site; crown and root rot in rich, wet, or over-irrigated soil is the main risk, otherwise largely pest- and disease-free.[2]",
+    "companions": "Other xeric Front-Range natives that share its hot, lean, full-sun ground — dotted gayfeather (*Liatris punctata*), sulphur flower buckwheat (*Eriogonum umbellatum*), blue grama, and the asters — for a late-season pollinator drift.[1]"
+  },
+  "edible": {
+    "level": "inedible",
+    "food": false,
+    "summary": "No documented culinary use; grown as a native ornamental and late-season pollinator plant, not for eating.[1]",
+    "caution": "Tansyaster has no documented food use, so it is treated as inedible — don't eat any part. As an aster-family (Asteraceae) native it is not known to be notably poisonous, but absence of documented edibility is not a green light to eat it.[1][2]"
+  },
+  "references": [
+    {
+      "name": "Lady Bird Johnson Wildflower Center — Machaeranthera bigelovii (Bigelow's tansyaster)",
+      "url": "https://www.wildflower.org/plants/result.php?id_plant=MABI"
+    },
+    {
+      "name": "USDA NRCS PLANTS Database — Dieteria bigelovii (Bigelow's tansyaster)",
+      "url": "https://plants.usda.gov/plant-profile/DIBI8"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      1
+    ],
+    "sun": [
+      2
+    ],
+    "water": [
+      2
+    ],
+    "spread": [
+      1,
+      2
+    ],
+    "seasons": [
+      1
+    ],
+    "wildlife": [
+      1
+    ],
+    "deer": [
+      2
+    ],
+    "toxic": [
+      1
+    ]
+  }
 }

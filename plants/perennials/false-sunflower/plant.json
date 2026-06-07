@@ -1,0 +1,130 @@
+{
+  "common": "False sunflower",
+  "botanical": "Heliopsis helianthoides",
+  "type": "Forb",
+  "lifecycle": "Perennial",
+  "bloom_season": "Summer",
+  "native": "CO native",
+  "blurb": "The long-blooming false sunflower: cheerful golden daisies (with golden, not dark, centers) from early summer clear to frost on a sturdy clump. Easier and longer-blooming than a true sunflower, and a magnet for bees and butterflies.",
+  "size": "3–4 ft tall × 2 ft wide",
+  "sun": "Full sun; tolerates part shade",
+  "water": "Low to moderate; drought-tolerant once established",
+  "spread": "Clumping; may self-sow",
+  "seasons": "Golden daisies with golden centers from early summer to frost — very long blooming; toothed foliage",
+  "wildlife": "A specialist-bee host plus nectar for many bees and butterflies; seeds feed birds; a caterpillar host",
+  "deer": "May be browsed",
+  "toxic": "Non-toxic; no notable edible use",
+  "flower_color": [
+    "yellow",
+    "orange"
+  ],
+  "bloom": [
+    "summer",
+    "fall"
+  ],
+  "verified": "2026-06-07",
+  "shots": [
+    {
+      "local": "images/su-flower-t.jpg",
+      "full": "images/su-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/540201741/large.jpg",
+      "s": "summer",
+      "cap": "Summer — a golden daisy with a golden center · © jmarc1 (CC-BY-NC) / iNaturalist",
+      "by": "jmarc1",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/299837166"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/425198282/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — flowers over toothed foliage · © jscaramucci (CC-BY-NC) / iNaturalist",
+      "by": "jscaramucci",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/238799175"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/422657205/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — the long-blooming clump · © C Rella (CC-BY-NC) / iNaturalist",
+      "by": "C Rella",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/237485451"
+    }
+  ],
+  "care": {
+    "hardiness": "A vigorous, long-lived native of central and eastern North America, hardy roughly USDA zones 3–9, so it is fully cold-hardy in Boulder (zone 5b–6a) and dies back to the crown each winter.[1][2] More adaptable to our climate than a true sunflower, it returns reliably from a sturdy clump.[3]",
+    "planting": "Set out container-grown plants in spring after the mid-May average last frost, or in early fall while soil is workable; water in to establish. It is widely adaptable but flowers best in full sun and well-drained ground. In pots use a fast-draining mix and water more often — containers dry fast in our heat and wind — and protect the crown from prolonged winter wet.[1][2]",
+    "sun": "Full sun is best; it tolerates part shade, but plants in shade grow weaker, floppier stems and bloom less.[1][2]",
+    "soil": "Adaptable — grows in clay, loam, or sandy soils across a wide pH range (roughly 6.0–8.0), so Boulder's alkaline clay is no problem; it tolerates poor, dry ground but performs best in average, well-drained soil.[1][2]",
+    "water": "Low to moderate; highly drought-tolerant once established, though less strictly xeric than the prairie golden asters — give occasional deep soakings in a hot, dry spell to keep the long bloom going.[1][2]",
+    "spacing": "Space plants about 18–24 in. apart; the sturdy 3–4 ft clumps rarely need staking in full sun, though tall stems in shade or rich soil may flop.[1][2]",
+    "propagation": "Easiest by division of the clump in spring or fall, and readily grown from seed; it also takes stem cuttings. Seed germinates best after a cold-moist stratification, supplied by a fall outdoor sowing or several weeks chilled in the refrigerator before spring sowing.[1][2]",
+    "sow": "Sow in fall outdoors to let winter break dormancy, or stratify and sow in early spring; it self-sows readily and seedlings can flower their first or second year.[1][2]",
+    "stratify": "Cold-moist stratify the seed (a fall outdoor sowing, or a few weeks at ~40°F before a spring sowing) to improve germination.[1]",
+    "bloom": "Very long blooming — golden daisies with golden centers from early summer into fall, roughly June through September on the Front Range; deadheading prolongs it.[1][2]",
+    "maintenance": "Deadhead spent flowers to extend the bloom and limit self-sowing; an optional cutback by one-third in late spring keeps plants shorter and bushier. Cut stems back in late winter, but leave some seedheads standing for the birds.[1][2]",
+    "selfsow": "Self-sows readily where happy; deadheading curbs it, and unwanted seedlings are easy to pull or move.[1][2]",
+    "troubles": "No serious problems; the minor ones are aphids (which can cluster on the soft new growth) and powdery mildew in crowded, poorly aired plantings — good spacing and full sun keep both in check.[1][2]",
+    "companions": "Combines well with other sun-loving prairie perennials — switchgrass and little bluestem, asters, coneflowers, and bee balm — in a meadow or pollinator border.[2]"
+  },
+  "references": [
+    {
+      "name": "Missouri Botanical Garden Plant Finder — Heliopsis helianthoides",
+      "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=g520"
+    },
+    {
+      "name": "NC State Extension Plant Toolbox — Heliopsis helianthoides (False Sunflower)",
+      "url": "https://plants.ces.ncsu.edu/plants/heliopsis-helianthoides/"
+    },
+    {
+      "name": "USDA NRCS Plant Guide — oxeye / false sunflower (Heliopsis helianthoides)",
+      "url": "https://plants.usda.gov/DocumentLibrary/plantguide/pdf/pg_hehe5.pdf"
+    },
+    {
+      "name": "Lady Bird Johnson Wildflower Center — Heliopsis helianthoides (Smooth oxeye)",
+      "url": "https://www.wildflower.org/plants/result.php?id_plant=HEHE5"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      1,
+      2
+    ],
+    "sun": [
+      1,
+      2
+    ],
+    "water": [
+      1,
+      2
+    ],
+    "spread": [
+      1,
+      2
+    ],
+    "seasons": [
+      1,
+      2
+    ],
+    "wildlife": [
+      2,
+      4
+    ],
+    "deer": [
+      2
+    ],
+    "toxic": [
+      2
+    ]
+  },
+  "edible": {
+    "level": "inedible",
+    "food": false,
+    "summary": "Grown as a native ornamental and pollinator/wildlife plant, not for eating; no established culinary use and not known to be poisonous to people.[1][2]",
+    "caution": "False sunflower has no documented food use, so it is treated as inedible — don't eat any part. It is not known to be notably poisonous, but absence of food documentation is not a green light, and as with any daisy-family (Asteraceae) plant you should never eat one without certain identification.[1][2]"
+  }
+}

@@ -33,6 +33,15 @@ card fields → iNat-sourced reel → cited care + edible + provenance). `(N)` n
 
 **All four thin-section backlog items above are now complete (June 2026).**
 
+- [x] **Keystone-plant audit (June 2026).** Cross-referenced all guide genera against the NWF/Tallamy
+  Great Plains – Ecoregion 9 keystone list (caterpillar hosts + specialist-bee plants). Coverage was
+  already strong; added the genuine gaps (minus *Populus*/aspen — unhappy at Front-Range elevation):
+  **showy & butterfly milkweed** (*Asclepias* — the monarch hosts), **purple prairie clover** (*Dalea*,
+  N-fixer + bee keystone), **hairy golden aster** (*Heterotheca*), **false sunflower** (*Heliopsis*),
+  **tansyaster** (*Dieteria*), **river hawthorn** (*Crataegus* — caterpillar keystone tree), and
+  **curlycup gumweed** (*Grindelia* — #2 specialist-bee plant). All CO native, weed-checked, photo
+  reels QC'd (incl. a monarch on showy milkweed), fully cited care/edible blocks.
+
 _(Not gaps — intentional: high-water plants (6) are deprioritized in a semi-arid guide; winter
 bloom (11) was just topped up with the winter-pollinator batch.)_
 

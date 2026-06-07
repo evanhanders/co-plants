@@ -1,0 +1,51 @@
+{
+  "common": "Switchgrass",
+  "botanical": "Panicum virgatum",
+  "type": "Grass",
+  "lifecycle": "Perennial",
+  "native": "CO native",
+  "blurb": "Tall, upright native prairie grass with clouds of airy pink-tinged seed panicles, fiery gold-to-burgundy fall color, and stiff tan stems that hold structure all winter.",
+  "size": "3–6 ft tall × 2–3 ft wide (cultivars vary)",
+  "sun": "Full sun; tolerates part shade",
+  "water": "Low to moderate; remarkably adaptable from wet to dry",
+  "spread": "Clumping with short rhizomes; can self-sow",
+  "seasons": "Upright blue-green to green in summer; airy pink-tinged panicles late summer; gold-to-burgundy fall; stiff tan winter structure",
+  "wildlife": "Larval host for skippers; seeds feed sparrows and other birds; nesting and winter cover",
+  "deer": "Resistant",
+  "toxic": "Can cause photosensitization (saponin hepatotoxicity) in grazing livestock, especially sheep, goats, and horses on young growth; not a concern for people or as an ornamental",
+  "flower_color": [],
+  "bloom": [],
+  "verified": "2026-06-07",
+  "shots": [
+    {
+      "local": "images/su-seedheads-t.jpg",
+      "full": "images/su-seedheads.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/469591637/large.jpg",
+      "s": "summer",
+      "cap": "Late summer — airy seed panicles on red-tinged stems · © mbourne1 (CC-BY-NC) / iNaturalist",
+      "by": "mbourne1",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/261390477"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/55401210/large.jpg",
+      "s": "summer",
+      "cap": "Summer — upright clump · © jessiefagan (CC-BY-NC) / iNaturalist",
+      "by": "jessiefagan",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/35154304"
+    },
+    {
+      "local": "images/fa-fall-t.jpg",
+      "full": "images/fa-fall.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/240674869/large.jpg",
+      "s": "fall",
+      "cap": "Fall — golden stand below the foothills · © Patrick Morgan (CC-BY-NC) / iNaturalist",
+      "by": "Patrick Morgan",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/140588150"
+    }
+  ]
+}

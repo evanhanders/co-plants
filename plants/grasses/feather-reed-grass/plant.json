@@ -1,0 +1,53 @@
+{
+  "common": "Feather reed grass",
+  "botanical": "Calamagrostis × acutiflora 'Karl Foerster'",
+  "type": "Grass",
+  "lifecycle": "Perennial",
+  "native": "Non-native",
+  "origin": "Sterile garden hybrid of two Eurasian species",
+  "habitat": "Wild parent species grow in damp meadows and open woodland edges across Europe and Asia",
+  "blurb": "The classic vertical accent grass: a dependable cool-season clump sending up feathery plumes that turn wheat-gold and stand stiff and upright from June clear through winter. Sterile — never self-sows.",
+  "size": "4–5 ft tall in plume × 2 ft wide",
+  "sun": "Full sun to part shade",
+  "water": "Moderate; tolerates clay and is not strictly xeric — give occasional deep water",
+  "spread": "Clumping and sterile — sets no viable seed, so it never spreads",
+  "seasons": "Fresh green upright clump in spring; pinkish plumes in early summer turning wheat-gold; stiff golden wands standing through winter",
+  "wildlife": "Sterile, so limited seed value; provides cover and winter structure",
+  "deer": "Resistant",
+  "toxic": "Non-toxic",
+  "flower_color": [],
+  "bloom": [],
+  "verified": "2026-06-07",
+  "shots": [
+    {
+      "local": "images/su-plumes-t.jpg",
+      "full": "images/su-plumes.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/239236566/large.jpg",
+      "s": "summer",
+      "cap": "Summer — wheat-gold feather plumes · © jollyrooster (CC-BY-NC) / iNaturalist",
+      "by": "jollyrooster",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/139828742"
+    },
+    {
+      "local": "images/su-plume-t.jpg",
+      "full": "images/su-plume.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/177581093/large.jpg",
+      "s": "summer",
+      "cap": "Golden plume detail · © Brandt Magic (CC-BY-NC) / iNaturalist",
+      "by": "Brandt Magic",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/105789631"
+    },
+    {
+      "local": "images/sp-green-t.jpg",
+      "full": "images/sp-green.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/405037403/large.jpg",
+      "s": "spring",
+      "cap": "Spring — fresh green upright clump · © sirena80 (CC-BY-NC) / iNaturalist",
+      "by": "sirena80",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/228258363"
+    }
+  ]
+}

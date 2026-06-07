@@ -1,0 +1,41 @@
+{
+  "common": "Indian ricegrass",
+  "botanical": "Eriocoma hymenoides",
+  "type": "Grass",
+  "lifecycle": "Perennial",
+  "native": "CO native",
+  "blurb": "An exquisite xeric native of sandy ground: a fine green clump topped by an airy, see-through cloud of tiny seeds on hair-thin branches — and a historically important Indigenous grain.",
+  "size": "1–2 ft tall × 1 ft wide",
+  "sun": "Full sun",
+  "water": "Low; very xeric — thrives on sandy, dry, lean ground",
+  "spread": "Clumping cool-season grass; self-sows",
+  "seasons": "Fine green clump in spring; delicate airy seed clouds in early summer; bleaches golden and goes summer-dormant in heat",
+  "wildlife": "Seeds are important food for birds and small mammals; larval host; cool-season",
+  "deer": "Resistant",
+  "toxic": "Non-toxic; seeds were a staple Indigenous food grain",
+  "flower_color": [],
+  "bloom": [],
+  "verified": "2026-06-07",
+  "shots": [
+    {
+      "local": "images/su-seedheads-t.jpg",
+      "full": "images/su-seedheads.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/87504184/large.jpeg",
+      "s": "summer",
+      "cap": "Early summer — delicate airy seed cloud · © Phyllis Holst (CC-BY-NC) / iNaturalist",
+      "by": "Phyllis Holst",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/54976121"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/94197982/large.jpg",
+      "s": "summer",
+      "cap": "Summer — fine clump on dry ground · © Ryan Donnelly (CC-BY) / iNaturalist",
+      "by": "Ryan Donnelly",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/58978784"
+    }
+  ]
+}

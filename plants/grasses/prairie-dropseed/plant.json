@@ -1,0 +1,51 @@
+{
+  "common": "Prairie dropseed",
+  "botanical": "Sporobolus heterolepis",
+  "type": "Grass",
+  "lifecycle": "Perennial",
+  "native": "CO native",
+  "blurb": "The most refined native bunchgrass: an emerald fountain of hair-fine leaves, airy seedheads that famously smell of coriander and popcorn, and glowing apricot-gold fall color.",
+  "size": "2–3 ft tall in seed × 2 ft wide (foliage mound ~18 in)",
+  "sun": "Full sun; tolerates light shade",
+  "water": "Low to moderate; xeric once established",
+  "spread": "Tight clumping — non-running, well-behaved",
+  "seasons": "Emerald fine fountain in summer; airy fragrant seedheads late summer; apricot-gold fall fading to light bronze in winter",
+  "wildlife": "Seeds feed birds; larval host; warm-season prairie grass",
+  "deer": "Resistant",
+  "toxic": "Non-toxic",
+  "flower_color": [],
+  "bloom": [],
+  "verified": "2026-06-07",
+  "shots": [
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/208462674/large.jpg",
+      "s": "summer",
+      "cap": "Summer — emerald fountain of fine foliage · © saulih (CC-BY-NC) / iNaturalist",
+      "by": "saulih",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/123077145"
+    },
+    {
+      "local": "images/su-drift-t.jpg",
+      "full": "images/su-drift.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/23163075/large.jpg",
+      "s": "summer",
+      "cap": "Summer — massed in a planting · © ThePrairiePreacher (CC-BY-NC) / iNaturalist",
+      "by": "ThePrairiePreacher",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/15442285"
+    },
+    {
+      "local": "images/fa-seedheads-t.jpg",
+      "full": "images/fa-seedheads.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/52556444/large.jpeg",
+      "s": "fall",
+      "cap": "Airy fragrant seedheads · © Prairie Guy (CC-BY-NC) / iNaturalist",
+      "by": "Prairie Guy",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/33461775"
+    }
+  ]
+}

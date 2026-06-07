@@ -1,0 +1,51 @@
+{
+  "common": "Sideoats grama",
+  "botanical": "Bouteloua curtipendula",
+  "type": "Grass",
+  "lifecycle": "Perennial",
+  "native": "CO native",
+  "blurb": "Tough native prairie grass named for the oat-like seeds dangling along one side of each arching stem; flashes bright orange-red anthers at bloom and warms to bronze in fall.",
+  "size": "1.5–2.5 ft tall in seed × 1.5 ft wide",
+  "sun": "Full sun",
+  "water": "Low; xeric once established",
+  "spread": "Clumping to slowly spreading by short rhizomes",
+  "seasons": "Blue-green in summer with one-sided seed spikes and orange anthers; bronze-purple fall; tan winter",
+  "wildlife": "Larval host for several skippers; seeds feed birds; warm-season prairie cover",
+  "deer": "Resistant",
+  "toxic": "Non-toxic; excellent native forage grass",
+  "flower_color": [],
+  "bloom": [],
+  "verified": "2026-06-07",
+  "shots": [
+    {
+      "local": "images/su-flowering-t.jpg",
+      "full": "images/su-flowering.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/426529007/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — flowering spikes with bright orange anthers · © Anders Hastings (CC-BY) / iNaturalist",
+      "by": "Anders Hastings",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/239494292"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/27792282/large.jpg",
+      "s": "summer",
+      "cap": "Summer — arching clump · © wilsonvannessa (CC-BY-NC) / iNaturalist",
+      "by": "wilsonvannessa",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/18183612"
+    },
+    {
+      "local": "images/fa-seedheads-t.jpg",
+      "full": "images/fa-seedheads.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/234773034/large.jpg",
+      "s": "fall",
+      "cap": "Seed spikes hung along one side of the stem · © gunnarpace (CC-BY-NC) / iNaturalist",
+      "by": "gunnarpace",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/137460366"
+    }
+  ]
+}

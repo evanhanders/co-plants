@@ -1,0 +1,36 @@
+[
+  {
+    "file": "images/su-seedheads.jpg",
+    "photo_id": 87504184,
+    "by": "Phyllis Holst",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/54976121",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  },
+  {
+    "file": "images/su-habit.jpg",
+    "photo_id": 94197982,
+    "by": "Ryan Donnelly",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/observations/58978784",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  }
+]

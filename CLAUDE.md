@@ -865,12 +865,12 @@ ground every statement in an authority cited in `references`.
 
 ## Current plant roster (in the live site)
 
-**163 specimens**, all verified non-weed in CO and all carrying a full `care` block (incl.
+**168 specimens**, all verified non-weed in CO and all carrying a full `care` block (incl.
 `planting` + `propagation`) **and a repo-hosted photo reel** (close-up + structure, seasonal
 where good shots exist). Every plant's detail page is now **fully cited** — a numbered
 `references` bibliography with inline `[n]` markers on the facts table (`fact_src`), the care
-prose, and a safety-reviewed **`edible` block** (current split: 66 inedible · 29 caution · 41
-edible · 27 toxic). Every **non-native** plant (101 of the 163) also carries **provenance** —
+prose, and a safety-reviewed **`edible` block** (current split: 70 inedible · 30 caution · 41
+edible · 27 toxic). Every **non-native** plant (105 of the 168) also carries **provenance** —
 `origin` (where it's from) + `habitat` (its wild growing conditions) — shown as blue "Native
 to" / "Wild habitat" rows on its card and detail page, cited via `fact_src`. Grouped by type
 below (the order the site uses). Photos were sourced
@@ -1009,6 +1009,9 @@ acorn close-up for Gambel oak).
 - Feather reed grass (*Calamagrostis × acutiflora 'Karl Foerster'*) (I) — The classic vertical accent; sterile (never self-sows), wheat-gold plumes standing all winter.
 
 **Groundcovers**
+- Bigroot geranium (*Geranium macrorrhizum*) (I) — Aromatic semi-evergreen dry-shade groundcover; weed-proof mat, magenta spring flowers, red fall foliage. *(Drought-tolerant dry shade.)*
+- Epimedium / barrenwort (*Epimedium grandiflorum*) (I) — The dry-shade champion; spurred spring 'bishop's hat' flowers over heart-shaped leaflets. *(Drought-tolerant once established.)*
+- Bergenia / pigsqueak (*Bergenia cordifolia*) (I) — Bold leathery evergreen leaves bronzing in winter; early-spring pink flowers. *(Dry shade; tannin leaves a historic 'badan' tea, not a food.)*
 - Bloody cranesbill (*Geranium sanguineum*) (I) — Tough, mounding hardy geranium with vivid magenta-to-crimson…
 - Cheddar pinks (*Dianthus gratianopolitanus*) (I) — Intensely clove-scented, fringed pink flowers hover above a…
 - Evening primrose (*Oenothera macrocarpa*) (I) — A sprawling Great Plains xeric perennial (native to…
@@ -1034,6 +1037,8 @@ acorn close-up for Gambel oak).
 - Woodbine (*Parthenocissus vitacea*) (N) — Native non-clinging creeper; scarlet fall color over blue berries on coral-red stalks. *(Toxic berries — oxalates; the grape look-alike that isn't edible.)*
 
 **Spring forbs**
+- Coral bells (*Heuchera sanguinea*) (I) — Evergreen mound of scalloped leaves under airy wands of coral-red bells; a Southwest native for dry/part shade. *(Hummingbird favorite.)*
+- Starry false Solomon's seal (*Maianthemum stellatum*) (N) — Native dappled-shade groundcover; arching leafy stems, white spring stars, striped berries ripening red. *(Edible with caution — shoots cooked & a few ripe berries; berries laxative in quantity.)*
 - Brunnera (*Brunnera macrophylla*) (I) — Clouds of tiny forget-me-not-blue flowers drift above…
 - Colorado blue columbine (*Aquilegia coerulea*) (N) — Colorado's state flower
 - English wallflower (*Erysimum cheiri*) (I) · **Biennial** — The classic fragrant cottage-garden wallflower in jewel-toned spring spires.

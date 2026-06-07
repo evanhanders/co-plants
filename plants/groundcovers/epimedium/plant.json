@@ -55,5 +55,76 @@
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/17348161"
     }
-  ]
+  ],
+  "care": {
+    "hardiness": "Hardy to USDA zone 4–5, so reliably perennial on the Front Range (Boulder is zone 5b–6a). In our climate the heart-shaped foliage is deciduous to semi-evergreen — it dies back or tatters over winter and refreshes from the rhizome each spring. No winter protection is needed once established; a light leaf-mould or bark mulch over the root zone is beneficial.[1][2]",
+    "planting": "Plant in spring (April–May) or early fall (late August–mid-September). It is slow to establish — water through the first two seasons and expect it to settle in before spreading — but once rooted it is one of the toughest dry-shade plants you can grow. It excels under trees in dry, root-filled soil where little else survives. In a shaded container it makes a handsome groundcover tuft, but container roots are less cold-hardy than ground roots, so sink the pot or shelter it in an unheated garage over winter.[1][2]",
+    "sun": "Full shade to part shade — the classic plant for shade where almost nothing else thrives. Morning sun with afternoon shade or open/dappled shade is fine; hot, direct Front Range afternoon sun scorches the foliage, especially in dry soil. It tolerates the deepest dry shade under trees better than most groundcovers.[1][2]",
+    "soil": "Adaptable, but at its best in humus-rich, well-drained soil; it notably tolerates the dry, poor, root-filled soil under trees. A slightly acidic to neutral pH is preferred — in Boulder's alkaline clay, work in leaf mould or compost at planting and topdress with organic mulch, which both lowers pH slightly and conserves moisture. Good drainage matters; it does not want soggy ground.[1][2][3]",
+    "water": "Low once established — one of the most drought-tolerant perennials for dry shade, holding up under the moisture-robbing roots of large trees. It is slow to get there, though: water consistently through the first two seasons while it establishes, then taper off. Mature plants need only occasional deep watering in the driest summer stretches.[1][2]",
+    "spacing": "Space plants 12 in. apart; each clump spreads slowly to about 12 in. wide. Set in drifts for groundcover coverage — it knits together over a few seasons rather than filling in fast.[1]",
+    "propagation": "Divide established clumps in early spring (before growth starts) or early fall: lift the rhizome mass, cut it into sections each with a growing point and roots, and replant at the same depth. Division is the standard method and also rejuvenates older clumps; the short rhizomes make this straightforward. Seed is slow and rarely used in the garden.[1][2]",
+    "bloom": "Delicate, long-spurred 'bishop's hat' flowers — white, pink, purple, or rosy — float on wiry stems above the foliage in spring (April–May). To show the bloom off, the old foliage must be removed first (see maintenance), because the new leaves and flowers emerge together and the flowers are easily lost among tattered winter leaves.[1][2]",
+    "maintenance": "Very low-maintenance. The one key chore: cut or mow off the old foliage in late winter (February–March), before the spring flowers and new leaves push, so the airy bloom isn't hidden behind ragged old leaves. New leaflets emerge an attractive red-bronze and mature to green. Otherwise it asks for almost nothing — no staking, no deadheading.[1][2]",
+    "troubles": "Remarkably trouble-free. No serious pests or diseases on the Front Range. Deer and rabbits leave it alone — a genuinely deer- and rabbit-resistant groundcover. The only real failure modes are hot dry sun (scorch — site it in shade) and impatience, since it is simply slow to establish.[1][2]",
+    "companions": "The premier companion for dry shade: pair with hostas, ferns, lungwort, hardy geraniums, coral bells (Heuchera), and shade-tolerant spring bulbs. Mass it under trees and along shaded paths and woodland-garden edges where it carpets ground that defeats most plants.[1][2]"
+  },
+  "edible": {
+    "level": "inedible",
+    "food": false,
+    "summary": "Epimedium is a garden ornamental with no culinary use — not a garden poison, but not a food.[1][2]",
+    "caution": "Epimedium grandiflorum is grown as a shade ornamental and has no place in cooking. The leaves are a traditional East Asian medicinal herb — \"yin yang huo,\" sold as the supplement \"horny goat weed\" — but that is herbal-medicine use, not a culinary food, and self-medicating with the raw plant or unregulated extracts is inadvisable (it can affect heart rhythm and blood pressure and interacts with medications). It is not a notable garden poison, but don't eat it.[1][2]"
+  },
+  "references": [
+    {
+      "name": "Missouri Botanical Garden Plant Finder — Epimedium grandiflorum (longspur barrenwort, bishop's hat)",
+      "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=277770"
+    },
+    {
+      "name": "Royal Horticultural Society (RHS) — Epimedium grandiflorum (large-flowered barrenwort)",
+      "url": "https://www.rhs.org.uk/plants/6486/epimedium-grandiflorum/details"
+    },
+    {
+      "name": "NC State Extension Plant Toolbox — Epimedium (barrenwort genus)",
+      "url": "https://plants.ces.ncsu.edu/plants/epimedium/"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      1
+    ],
+    "sun": [
+      1,
+      2
+    ],
+    "water": [
+      1,
+      2
+    ],
+    "spread": [
+      1
+    ],
+    "seasons": [
+      1,
+      2
+    ],
+    "wildlife": [
+      1,
+      3
+    ],
+    "deer": [
+      1,
+      3
+    ],
+    "toxic": [
+      1,
+      2
+    ],
+    "origin": [
+      1
+    ],
+    "habitat": [
+      1
+    ]
+  }
 }

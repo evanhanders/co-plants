@@ -24,10 +24,14 @@ card fields → iNat-sourced reel → cited care + edible + provenance). `(N)` n
   maximiliani*, edible seeds+tubers), **showy goldeneye** (*Heliomeris multiflora*), and **aromatic
   aster** (*Symphyotrichum oblongifolium*, folded into the Asters family card) — section now 9. All
   weed-checked, photo reels QC'd, fully cited care/edible blocks.
-- [ ] **Shade plants (only 3 of 149 tolerate real shade).** A cross-cutting gap for north-side /
-  under-tree gardens. Curate to the *drought-tolerant* shade plants so it fits the xeric framing:
-  **bigroot geranium** (*G. macrorrhizum*, I), **coral bells** (*Heuchera*, incl. native
-  *H. richardsonii*), **Epimedium** (dry-shade champion, I), **Solomon's seal** (*Polygonatum*, I).
+- [x] **Shade plants (was only 3 of 163 tolerating real shade).** DONE (June 2026): added the
+  drought-tolerant dry-shade set **bigroot geranium** (*G. macrorrhizum*), **coral bells**
+  (*Heuchera sanguinea*), **epimedium/barrenwort** (*Epimedium grandiflorum*), **bergenia/pigsqueak**
+  (*Bergenia cordifolia*), and the CO-native **starry false Solomon's seal** (*Maianthemum stellatum*) —
+  the Shade filter now reads 8 (Part shade 89). All weed-checked, photo reels QC'd, fully cited
+  care/edible blocks (Solomon's seal flagged edible-with-caution).
+
+**All four thin-section backlog items above are now complete (June 2026).**
 
 _(Not gaps — intentional: high-water plants (6) are deprioritized in a semi-arid guide; winter
 bloom (11) was just topped up with the winter-pollinator batch.)_

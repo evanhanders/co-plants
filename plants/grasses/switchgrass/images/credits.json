@@ -1,0 +1,53 @@
+[
+  {
+    "file": "images/su-seedheads.jpg",
+    "photo_id": 469591637,
+    "by": "mbourne1",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/261390477",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  },
+  {
+    "file": "images/su-habit.jpg",
+    "photo_id": 55401210,
+    "by": "jessiefagan",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/35154304",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  },
+  {
+    "file": "images/fa-fall.jpg",
+    "photo_id": 240674869,
+    "by": "Patrick Morgan",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/140588150",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  }
+]

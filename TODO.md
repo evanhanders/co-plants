@@ -1,6 +1,36 @@
 # TODO
 
-_Nothing outstanding — all 28 plants are self-hosted with crisp, smart-cropped cards._
+_149 plants, all self-hosted with smart-cropped cards, cited care/edible blocks, and
+provenance on non-natives._
+
+## Backlog — expand the thin sections
+
+A distribution audit (June 2026) found several browse sections under-stocked relative to what
+the Front Range supports. Add, in priority order, each through the full pipeline (CO weed-check →
+card fields → iNat-sourced reel → cited care + edible + provenance). `(N)` native, `(I)` introduced.
+
+- [x] **Ornamental grasses — biggest gap (was 2: blue oat grass, little bluestem).** DONE (June
+  2026): added **blue grama**, **prairie dropseed**, **switchgrass**, **sideoats grama**, **Indian
+  ricegrass**, and **feather reed grass 'Karl Foerster'** — section now 8. All weed-checked, photo
+  reels sourced + QC'd, fully cited care/edible blocks. *(Mexican feather grass deliberately skipped
+  — self-sows invasively in the West.)*
+- [ ] **Vines (7) — and zero are native.** Add native climbers: **Rocky Mountain clematis**
+  (*Clematis columbiana*, N — NOT the List-B orange-peel *C. orientalis*), **western virgin's
+  bower** (*Clematis ligusticifolia*, N), **hardy grape** (*Vitis riparia* riverbank, N, or
+  'Valiant'/'Concord', I — fits the edible theme). *Weed-check: confirm American (not Oriental)
+  bittersweet if added; grape & Virginia creeper are vigorous.*
+- [ ] **Fall forbs (5).** Fall interest is a stated value but it's 3 asters + gayfeather + Japanese
+  anemone. Add the keystone **goldenrod** (a *clumping* *Solidago* — *S. speciosa* or 'Wichita
+  Mountains', N; avoid running *S. canadensis*), plus **Maximilian sunflower** (*Helianthus
+  maximiliani*, N), **showy goldeneye** (*Heliomeris multiflora*, N), **aromatic aster**
+  (*S. oblongifolium* 'October Skies', N).
+- [ ] **Shade plants (only 3 of 149 tolerate real shade).** A cross-cutting gap for north-side /
+  under-tree gardens. Curate to the *drought-tolerant* shade plants so it fits the xeric framing:
+  **bigroot geranium** (*G. macrorrhizum*, I), **coral bells** (*Heuchera*, incl. native
+  *H. richardsonii*), **Epimedium** (dry-shade champion, I), **Solomon's seal** (*Polygonatum*, I).
+
+_(Not gaps — intentional: high-water plants (6) are deprioritized in a semi-arid guide; winter
+bloom (11) was just topped up with the winter-pollinator batch.)_
 
 ## Done
 

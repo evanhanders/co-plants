@@ -1,0 +1,122 @@
+{
+  "common": "Prairie dropseed",
+  "botanical": "Sporobolus heterolepis",
+  "type": "Grass",
+  "lifecycle": "Perennial",
+  "native": "CO native",
+  "blurb": "The most refined native bunchgrass: an emerald fountain of hair-fine leaves, airy seedheads that famously smell of coriander and popcorn, and glowing apricot-gold fall color.",
+  "size": "2–3 ft tall in seed × 2 ft wide (foliage mound ~18 in)",
+  "sun": "Full sun; tolerates light shade",
+  "water": "Low to moderate; xeric once established",
+  "spread": "Tight clumping — non-running, well-behaved",
+  "seasons": "Emerald fine fountain in summer; airy fragrant seedheads late summer; apricot-gold fall fading to light bronze in winter",
+  "wildlife": "Seeds feed birds; larval host; warm-season prairie grass",
+  "deer": "Resistant",
+  "toxic": "Non-toxic",
+  "flower_color": [],
+  "bloom": [],
+  "verified": "2026-06-07",
+  "shots": [
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/208462674/large.jpg",
+      "s": "summer",
+      "cap": "Summer — emerald fountain of fine foliage · © saulih (CC-BY-NC) / iNaturalist",
+      "by": "saulih",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/123077145"
+    },
+    {
+      "local": "images/su-drift-t.jpg",
+      "full": "images/su-drift.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/23163075/large.jpg",
+      "s": "summer",
+      "cap": "Summer — massed in a planting · © ThePrairiePreacher (CC-BY-NC) / iNaturalist",
+      "by": "ThePrairiePreacher",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/15442285"
+    },
+    {
+      "local": "images/fa-seedheads-t.jpg",
+      "full": "images/fa-seedheads.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/52556444/large.jpeg",
+      "s": "fall",
+      "cap": "Airy fragrant seedheads · © Prairie Guy (CC-BY-NC) / iNaturalist",
+      "by": "Prairie Guy",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/33461775"
+    }
+  ],
+  "care": {
+    "hardiness": "Extremely cold-hardy (USDA zones 3–8), a native warm-season prairie bunchgrass whose range runs from the cold northern plains south into Colorado, so it sails through Boulder winters (zone 5b–6a) with no protection.[2][3] It is the most refined of the native bunchgrasses and very long-lived once settled in.[1]",
+    "planting": "Set out container plants or plugs in spring after the mid-May average last frost, or in early fall, while soil is workable; because it is a warm-season grass it puts on its main growth in the heat of summer, so don't expect much top growth until soil warms. In pots it wants a gritty, free-draining mix and protection from soggy winter wet, which rots the crown.[1][3]",
+    "sun": "Full sun for the best, densest form and fall color; it tolerates light shade but grows looser there.[1]",
+    "soil": "Adaptable and unfussy — it grows in clay, loam, sand, and shallow rocky soils, including Boulder's alkaline clay, provided drainage is good. It is at home on dry prairies and well-drained sites and dislikes wet feet.[3][1]",
+    "water": "Low to moderate; xeric once established thanks to a deep, fibrous root system. Water occasionally to establish, then little to no supplemental water is needed.[1][3]",
+    "spacing": "Allow about 2–3 ft between plants, matching its mature 2–3 ft width, so each clump can form its full fountain.[3]",
+    "propagation": "Best bought as plugs or container plants. It is slow and difficult from seed (germination is erratic, and a transplant takes about three seasons to reach specimen size), and the tight crown is tough and slow to divide — division is the recommended vegetative route but is hard work and recovers slowly.[1][3]",
+    "sow": "If growing from seed, sow unstratified seed outdoors in fall, or sow dry-stratified seed in spring, at about 1/4 in deep; collect ripe seed in October.[1]",
+    "stratify": "Seed benefits from a dry-stratification (dry chilling) treatment before a spring sowing; a fall sowing lets winter provide the chill naturally.[1]",
+    "bloom": "Airy, fragrant flower/seedheads — famously scented of coriander and buttered popcorn — open in summer (roughly June–August) and persist into fall.[1]",
+    "maintenance": "Very low maintenance: cut the clump back to a few inches in late winter before new spring growth, and otherwise leave it be. The foliage turns apricot-gold in fall, fading to light bronze, and the clump holds its form through winter for structure.[1][3]",
+    "selfsow": "A tight, well-behaved, non-running clumper that does not spread aggressively; it may self-sow modestly but is easily kept in bounds.[3]",
+    "troubles": "No serious pests or diseases; the main risk is crown rot in wet, poorly drained, or over-irrigated soil.[3]"
+  },
+  "edible": {
+    "level": "edible",
+    "food": true,
+    "kinds": [
+      "seeds"
+    ],
+    "card": "Seeds, ground into flour (minor, historic)",
+    "summary": "A minor, historic grain: the seeds were used by some Native peoples to make flour, though it was never a major staple.[3]",
+    "parts": "The small seeds, borne on the fragrant airy seedheads in late summer. Documented food use is limited — primarily noted as a flour source — so treat it as a minor or emergency grain, not a productive food crop.[3]",
+    "preparation": "Where used, the ripe seeds were gathered and ground into flour/meal; the seeds are very small and the per-plant yield is low, so it is labor-intensive for little return.[3]",
+    "caution": "Documented food use for this species is thin (its better-documented Native uses are medicinal), so be conservative — be certain of your identification, harvest only clean ripe seed, and discard any seedheads showing dark, hardened ergot-like fungal bodies that can infect grass florets.[3][2]"
+  },
+  "references": [
+    {
+      "name": "Lady Bird Johnson Wildflower Center — Sporobolus heterolepis",
+      "url": "https://www.wildflower.org/plants/result.php?id_plant=SPHE"
+    },
+    {
+      "name": "USDA Forest Service FEIS — Sporobolus heterolepis",
+      "url": "https://www.fs.usda.gov/database/feis/plants/graminoid/spohet/all.html"
+    },
+    {
+      "name": "NC State Extension Plant Toolbox — Sporobolus heterolepis (prairie dropseed)",
+      "url": "https://plants.ces.ncsu.edu/plants/sporobolus-heterolepis/"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      1,
+      3
+    ],
+    "sun": [
+      1,
+      3
+    ],
+    "water": [
+      1,
+      3
+    ],
+    "spread": [
+      3
+    ],
+    "seasons": [
+      1,
+      3
+    ],
+    "wildlife": [
+      3
+    ],
+    "deer": [
+      3
+    ],
+    "toxic": [
+      3
+    ]
+  }
+}

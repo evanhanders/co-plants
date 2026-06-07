@@ -149,6 +149,12 @@
     "trees/bigtooth-maple",
     "trees/gambel-oak",
     "trees/pinon-pine",
-    "trees/rocky-mountain-maple"
+    "trees/rocky-mountain-maple",
+    "grasses/blue-grama",
+    "grasses/prairie-dropseed",
+    "grasses/switchgrass",
+    "grasses/sideoats-grama",
+    "grasses/indian-ricegrass",
+    "grasses/feather-reed-grass"
   ]
 }

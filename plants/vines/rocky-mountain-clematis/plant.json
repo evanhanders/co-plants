@@ -1,0 +1,56 @@
+{
+  "common": "Rocky Mountain clematis",
+  "botanical": "Clematis columbiana",
+  "type": "Vine",
+  "lifecycle": "Perennial",
+  "native": "CO native",
+  "blurb": "Colorado's native climbing clematis: nodding lavender-blue bells scramble through foothill shrubs in spring, followed by silky seed plumes. A cold-hardy, well-behaved native alternative to the big garden clematis.",
+  "size": "Climbs/scrambles 6–10 ft × 3–6 ft",
+  "sun": "Part shade to part sun — a foothills woodland-edge plant",
+  "water": "Low to moderate; xeric once established",
+  "spread": "Twining/scrambling climber (clings by its leaf-stalks); clumping root, not running",
+  "seasons": "Nodding lavender-blue bells in spring; divided foliage through summer; silky seed plumes after bloom; deciduous in winter",
+  "wildlife": "Early-season nectar; seed plumes and cover for birds and insects",
+  "deer": "Generally avoided — clematis foliage is acrid",
+  "toxic": "Like all clematis, contains protoanemonin — foliage and sap are irritant and toxic if eaten raw; wash hands after handling. NOT the CO List B orange-peel clematis (Clematis orientalis)",
+  "flower_color": [
+    "purple",
+    "blue"
+  ],
+  "bloom": [
+    "spring"
+  ],
+  "verified": "2026-06-07",
+  "shots": [
+    {
+      "local": "images/sp-flowers-t.jpg",
+      "full": "images/sp-flowers.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/395497075/large.jpg",
+      "s": "spring",
+      "cap": "Spring — nodding lavender bells on the climbing vine · © tmr3 (CC-BY-NC) / iNaturalist",
+      "by": "tmr3",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/223224769"
+    },
+    {
+      "local": "images/sp-bells-t.jpg",
+      "full": "images/sp-bells.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/205676515/large.jpg",
+      "s": "spring",
+      "cap": "Spring — the nodding bell flowers up close · © Kara Carragher (CC-BY-NC) / iNaturalist",
+      "by": "Kara Carragher",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/121538383"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/220438553/large.jpg",
+      "s": "summer",
+      "cap": "Summer — divided blue-green foliage · © patcooper (CC-BY-NC) / iNaturalist",
+      "by": "patcooper",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/129693374"
+    }
+  ]
+}

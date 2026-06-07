@@ -1,0 +1,51 @@
+{
+  "common": "Woodbine",
+  "botanical": "Parthenocissus vitacea",
+  "type": "Vine",
+  "lifecycle": "Perennial",
+  "native": "CO native",
+  "blurb": "The native, well-mannered cousin of Virginia creeper: palmate five-leaflet leaves that blaze scarlet in fall over blue berries on coral-red stalks. It twines and drapes rather than gluing itself to walls — a superb fall-color screen for a fence or arbor.",
+  "size": "Climbs 10–30 ft, spreading",
+  "sun": "Full sun to shade — very adaptable",
+  "water": "Low to moderate; drought-tolerant once established",
+  "spread": "Vigorous climber by twining tendrils WITHOUT adhesive disks — it drapes over supports rather than cementing to walls (unlike true Virginia creeper)",
+  "seasons": "Green palmate five-leaflet foliage in summer; inconspicuous flowers; blue-black berries on coral-red stalks and brilliant scarlet foliage in fall; bare in winter",
+  "wildlife": "Berries are an important fall food for birds; larval host for sphinx moths; cover and nesting",
+  "deer": "Foliage is browsed — not deer-proof",
+  "toxic": "Berries are toxic to people (calcium-oxalate raphides and oxalic acid) and the sap can irritate skin — though birds eat the fruit safely. Looks grape-like but is NOT edible",
+  "flower_color": [],
+  "bloom": [],
+  "verified": "2026-06-07",
+  "shots": [
+    {
+      "local": "images/fa-fall-t.jpg",
+      "full": "images/fa-fall.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/76617300/large.jpeg",
+      "s": "fall",
+      "cap": "Fall — brilliant scarlet autumn foliage · © Matthew Moskwik (CC-BY-NC) / iNaturalist",
+      "by": "Matthew Moskwik",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/48292952"
+    },
+    {
+      "local": "images/fa-berries-t.jpg",
+      "full": "images/fa-berries.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/261748668/large.jpeg",
+      "s": "fall",
+      "cap": "Fall — blue berries on coral-red stalks · © FrontRangeWildflowers (CC-BY-NC) / iNaturalist",
+      "by": "FrontRangeWildflowers",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/151680424"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/47014018/large.jpg",
+      "s": "summer",
+      "cap": "Summer — palmate five-leaflet foliage · © kathymroth (CC-BY-NC) / iNaturalist",
+      "by": "kathymroth",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/30104744"
+    }
+  ]
+}

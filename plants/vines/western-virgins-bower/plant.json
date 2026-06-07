@@ -1,0 +1,56 @@
+{
+  "common": "Western virgin's bower",
+  "botanical": "Clematis ligusticifolia",
+  "type": "Vine",
+  "lifecycle": "Perennial",
+  "native": "CO native",
+  "blurb": "A vigorous native climber that smothers fences and foothill thickets in frothy white late-summer flowers, then erupts into silvery 'old man's beard' seed plumes that catch the autumn light. Give it room to roam.",
+  "size": "Climbs 10–20 ft, spreading widely",
+  "sun": "Full sun to part shade",
+  "water": "Low to moderate; drought-tolerant once established (often along streams in the wild)",
+  "spread": "Vigorous twining climber that can spread widely — site it where it has room",
+  "seasons": "Masses of starry white flowers in late summer; spectacular silvery seed plumes through fall into winter; deciduous",
+  "wildlife": "Important late-summer nectar for bees; seed plumes and dense cover for birds",
+  "deer": "Generally avoided — acrid foliage",
+  "toxic": "Like all clematis, contains protoanemonin — sap and foliage are irritant and toxic if eaten raw, despite historical topical folk use",
+  "flower_color": [
+    "white"
+  ],
+  "bloom": [
+    "summer",
+    "fall"
+  ],
+  "verified": "2026-06-07",
+  "shots": [
+    {
+      "local": "images/su-flowers-t.jpg",
+      "full": "images/su-flowers.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/410298981/large.jpeg",
+      "s": "summer",
+      "cap": "Late summer — masses of starry white flowers · © Aaron Clark (CC-BY-NC) / iNaturalist",
+      "by": "Aaron Clark",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/231042683"
+    },
+    {
+      "local": "images/fa-plumes-t.jpg",
+      "full": "images/fa-plumes.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/321209363/large.jpeg",
+      "s": "fall",
+      "cap": "Fall — silky 'old man's beard' seed plumes · © Jim Wilson (CC-BY-NC) / iNaturalist",
+      "by": "Jim Wilson",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/184052310"
+    },
+    {
+      "local": "images/fa-seedheads-t.jpg",
+      "full": "images/fa-seedheads.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/566633706/large.jpg",
+      "s": "fall",
+      "cap": "Fall — the feathery seedheads up close · © Kevin Shuck (CC-BY-NC) / iNaturalist",
+      "by": "Kevin Shuck",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/313759656"
+    }
+  ]
+}

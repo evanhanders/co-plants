@@ -1,0 +1,51 @@
+{
+  "common": "Riverbank grape",
+  "botanical": "Vitis riparia",
+  "type": "Vine",
+  "lifecycle": "Perennial",
+  "native": "CO native",
+  "blurb": "Colorado's tough native wild grape: a vigorous tendril-climber with handsome lobed leaves, clusters of tart blue-black fruit for jelly and the birds, and clear-yellow fall color. Plant it where it can ramble.",
+  "size": "Climbs 15–30+ ft, spreading",
+  "sun": "Full sun to part shade",
+  "water": "Moderate; adaptable but appreciates some moisture (often riparian in the wild)",
+  "spread": "Vigorous woody climber by forked tendrils; can be aggressive — prune to control",
+  "seasons": "Fragrant greenish flowers in spring; bold lobed foliage in summer; tart blue-black fruit clusters in late summer; clear-yellow fall color; bare woody vine in winter",
+  "wildlife": "Fruit feeds many birds and mammals; larval host for sphinx moths; dense nesting cover",
+  "deer": "Foliage is browsed — not deer-proof",
+  "toxic": "Non-toxic; the fruit and young leaves are edible (see Edible parts)",
+  "flower_color": [],
+  "bloom": [],
+  "verified": "2026-06-07",
+  "shots": [
+    {
+      "local": "images/fa-fruit-t.jpg",
+      "full": "images/fa-fruit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/312428054/large.jpg",
+      "s": "fall",
+      "cap": "Late summer — ripe blue-black grapes · © David Martin (CC-BY-NC) / iNaturalist",
+      "by": "David Martin",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/179457105"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/326671071/large.jpg",
+      "s": "summer",
+      "cap": "Summer — the lobed grape leaf · © albaj37 (CC-BY-NC) / iNaturalist",
+      "by": "albaj37",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/186872109"
+    },
+    {
+      "local": "images/fa-fall-t.jpg",
+      "full": "images/fa-fall.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/89953881/large.jpeg",
+      "s": "fall",
+      "cap": "Fall — clear-yellow autumn foliage · © David Martin (CC-BY-NC) / iNaturalist",
+      "by": "David Martin",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/56449413"
+    }
+  ]
+}

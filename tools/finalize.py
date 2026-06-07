@@ -60,7 +60,11 @@ for slug, plist in picks.items():
         fsz = save_variant(im, os.path.join(img_dir, base + ".jpg"), FULL_MAX, FULL_Q)
         tsz = save_variant(im, os.path.join(img_dir, base + "-t.jpg"), THUMB_MAX, 82)
         by, lic = c["by"], c["lic"]
-        cap = p.get("cap", "") + f" · © {by} ({lic}) / iNaturalist"
+        # append the attribution, but idempotently — a pre-baked or re-finalized cap that
+        # already carries this tail must not double it up
+        attr = f"© {by} ({lic}) / iNaturalist"
+        base_cap = p.get("cap", "")
+        cap = base_cap if base_cap.rstrip().endswith(attr) else (f"{base_cap} · {attr}" if base_cap else attr)
         shots.append({
             "local": thumb_rel, "full": full_rel,
             "url": f"{BUCKET}/{c['photo_id']}/large.{c['ext']}",   # remote fallback

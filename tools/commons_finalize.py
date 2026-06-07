@@ -56,7 +56,10 @@ for slug, plist in picks.items():
         fsz = save_variant(im, os.path.join(img_dir, base + ".jpg"), FULL_MAX, FULL_Q)
         tsz = save_variant(im, os.path.join(img_dir, base + "-t.jpg"), THUMB_MAX, 82)
         by, lic = p["by"], p["lic"]
-        cap = p.get("cap", "") + f" · © {by} ({lic}) / Wikimedia Commons"
+        # append attribution idempotently so a re-baked cap can't double the tail
+        attr = f"© {by} ({lic}) / Wikimedia Commons"
+        base_cap = p.get("cap", "")
+        cap = base_cap if base_cap.rstrip().endswith(attr) else (f"{base_cap} · {attr}" if base_cap else attr)
         shots.append({
             "local": thumb_rel, "full": full_rel,
             "commons": p["file"],                 # remote fallback via Special:FilePath

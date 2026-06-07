@@ -49,5 +49,73 @@
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/228258363"
     }
-  ]
+  ],
+  "care": {
+    "hardiness": "Hardy across USDA zones 5-9, so this clump is fully winter-hardy on the Front Range (5b-6a) with no protection.[1][2] Unlike the warm-season natives, it is a COOL-SEASON grass: it greens up and flushes early in spring, blooms in early summer, then holds its tan plumes upright through fall and winter.[1][2]",
+    "planting": "Set out container-grown divisions in spring after the mid-May average last frost, or in early fall, into worked soil; water in well and keep moist while it establishes. Because it greens up so early, an early-spring planting lets it root before the summer flush. In pots it overwinters outdoors in a large, well-insulated container with steady moisture; it dislikes drying out, so containers need more frequent watering than the xeric grasses.[1][2]",
+    "sun": "Full sun to part shade - it is one of the few ornamental grasses that flowers well with some afternoon shade, which is welcome in our intense high-altitude sun and hot summers.[1][2]",
+    "soil": "Adaptable to average soils and, unusually for a grass, tolerates heavy clay well - a real advantage in Boulder's alkaline clay; it accepts a range of pH and is happiest in medium-to-moist, even occasionally wet, ground.[1][2]",
+    "water": "Moderate - this is NOT a xeric grass. It prefers consistent moisture (medium to wet) and will brown out and stall in prolonged drought, so on the dry Front Range give it occasional deep watering through summer rather than leaving it bone-dry.[1][2]",
+    "spacing": "Space plants about 2 ft apart to read as a row or vertical accent; mature clumps stay narrow (1.5-2.5 ft wide).[1][2]",
+    "propagation": "Propagate by DIVISION only. 'Karl Foerster' is a sterile hybrid: its seed is not viable, so it cannot be grown from seed and never comes 'true' any other way - lift and divide an established clump in spring as growth resumes. This sterility is a genuine plus, since the plant puts on its dramatic plume show without ever self-sowing or escaping.[1][2]",
+    "bloom": "Feathery flower spikes emerge green and pink-tinged in early summer - about 2-3 weeks earlier than most grasses - then age through bronze to wheat-gold and stand stiffly upright clear through winter.[1][2]",
+    "feeding": "Light to none; ordinary garden soil is fine. A thin spring topdressing of compost is plenty - heavy nitrogen only invites floppy growth.[1]",
+    "maintenance": "One job a year: because it is cool-season and flushes early, cut the clump back to a few inches in LATE WINTER, before the new spring growth begins - leave it too late and you will be trimming around fresh green blades. Leave the golden plumes standing through fall and early winter for structure.[1][2]",
+    "selfsow": "Does not self-sow at all - the sterile seed never germinates, so unlike the running or seeding grasses it will never spread or volunteer where you don't want it. This makes it one of the best-behaved ornamental grasses for a tidy garden.[1][2]",
+    "troubles": "Nearly trouble-free here; rust can appear after wet, humid spells (uncommon in dry Boulder), and it dislikes hot, dry, drought-stressed sites where it may scorch. Deer and rabbits leave it alone.[1][2]",
+    "companions": "A classic vertical accent among lower, mounding companions - pair with catmint, salvia, coneflower, black-eyed Susan, sedum, and bloody cranesbill for a structured perennial border that holds form into winter.[1]"
+  },
+  "edible": {
+    "level": "inedible",
+    "food": false,
+    "summary": "Not edible - a sterile ornamental grass grown for its plumes, with no culinary use.[1][2]",
+    "caution": "No part of feather reed grass is used as food, and there are no documented edible uses; it is grown solely as an ornamental. It is not reported as toxic to people or pets, but absence of any food documentation means it should simply be treated as inedible - don't eat it.[1][2]"
+  },
+  "references": [
+    {
+      "name": "Missouri Botanical Garden - Plant Finder (Calamagrostis x acutiflora 'Karl Foerster')",
+      "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=b810"
+    },
+    {
+      "name": "NC State Extension Gardener Plant Toolbox - Calamagrostis x acutiflora 'Karl Foerster'",
+      "url": "https://plants.ces.ncsu.edu/plants/calamagrostis-x-acutiflora-karl-foerster/"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      1,
+      2
+    ],
+    "sun": [
+      1,
+      2
+    ],
+    "water": [
+      1,
+      2
+    ],
+    "spread": [
+      1,
+      2
+    ],
+    "seasons": [
+      1,
+      2
+    ],
+    "wildlife": [
+      2
+    ],
+    "deer": [
+      2
+    ],
+    "toxic": [
+      2
+    ],
+    "origin": [
+      1
+    ],
+    "habitat": [
+      1
+    ]
+  }
 }

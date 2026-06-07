@@ -47,5 +47,80 @@
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/140588150"
     }
-  ]
+  ],
+  "care": {
+    "hardiness": "A native warm-season prairie grass hardy across USDA zones 5-9, so it sails through Boulder winters (5b-6a) with no protection; its natural range runs from Canada south through the Plains.[1][2] Being warm-season, it stays dormant and tan until soil warms in late spring, then greens up and grows fast through summer heat.[2]",
+    "planting": "Set out container-grown plants in spring after the mid-May average last frost, once soil has warmed, or in early fall; water in well to establish, then taper off. It is remarkably unfussy about soil and moisture. In pots it will overwinter outdoors only in a large, well-insulated container with sharp drainage; small pots freeze through and the warm-season roots are slow to recover, so a sheltered spot against a south wall helps.[1][3]",
+    "sun": "Full sun for the strongest, most upright stand; it tolerates part shade but tends to flop and color less well out of full sun, and our intense high-altitude exposure is no problem.[1][3]",
+    "soil": "Exceptionally adaptable - grows in average, medium-to-wet or dry soils and across sandy, loam, and heavy clay, tolerating a wide pH range (roughly 4.5-7.6), so Boulder's alkaline clay is well within its tolerance.[1][3] It handles both occasional flooding and drought once established.[1][3]",
+    "water": "Low to moderate and genuinely flexible: it thrives anywhere from wet ground to dry, and once established is quite drought-tolerant, so on the Front Range it needs only occasional deep summer soakings in lean years - no constant irrigation.[1][3]",
+    "spacing": "Space plants about 2-3 ft apart for a mass or screen, matching the clump's mature width.[3]",
+    "propagation": "Grow from seed or by division. Seed germinates best after cold-moist stratification - sow outdoors in late fall to let winter chill it naturally, or stratify and sow in spring; note that named cultivars do not come true from seed. The surest way to keep a selected cultivar (foliage color, habit) is to divide established clumps in spring as growth resumes.[1][3]",
+    "sow": "Sow in fall to use natural winter stratification, or stratify and sow in spring once soil warms; surface-press to barely cover the small seed and keep evenly moist until germination.[1]",
+    "stratify": "Seed benefits from cold-moist stratification to break dormancy - roughly 2-4 weeks of moist chilling at ~40F, or simply sow outdoors in late fall and let the Boulder winter do it.[1]",
+    "depth": "Sow shallow - barely cover the seed (about 1/4 in or less); it needs near-surface placement and good soil contact, not deep burial.[1]",
+    "bloom": "Airy, pink-tinged seed panicles open in mid-to-late summer (around July on the Front Range) and persist, fading to tan, from late summer through winter.[2][3]",
+    "feeding": "None needed - it evolved on lean prairie soils, and excess nitrogen only makes the stems flop. Skip fertilizer in ordinary garden ground.[3]",
+    "maintenance": "Very low care: leave the stiff tan stems standing for winter structure and bird forage, then cut the whole clump back to about 6 in in late winter before new warm-season growth begins. Divide every few years if the clump dies out in the center.[3]",
+    "selfsow": "The straight species can self-sow under favorable conditions and slowly creeps by short rhizomes, so volunteer seedlings may appear; pull unwanted ones in spring, or plant a sterile-seeding selected cultivar if you want zero spread. Cultivars generally do not reseed true.[1][3]",
+    "troubles": "Largely trouble-free; rust can show in hot, humid spells (rarely a problem in dry Boulder), and crown/root rot only in waterlogged, poorly drained sites. Choose a stiff cultivar ('Northwind', 'Shenandoah', 'Heavy Metal', 'Cloud Nine') if you want a reliably upright, non-flopping clump.[3]",
+    "companions": "Pairs naturally with prairie forbs and other natives in a Front Range meadow planting - little bluestem, blanket flower, coneflower, gayfeather, Russian sage, and asters - for a low-water, structure-through-winter border.[3]"
+  },
+  "edible": {
+    "level": "inedible",
+    "food": false,
+    "summary": "Not a human food plant - grown purely as an ornamental and wildlife grass; its seeds feed birds, not people.[1][2]",
+    "caution": "Switchgrass is not eaten by people, but it carries a real LIVESTOCK hazard: it contains steroidal saponins (diosgenin) and has been implicated in hepatogenous (secondary) photosensitization and crystal-associated liver damage in grazing animals - documented in sheep, goats, lambs and horses, especially on lush growth. Horses cannot neutralize the toxins the way cattle largely can, so switchgrass hay or pasture is never recommended for horses; affected animals show sunburned muzzle/skin, jaundice and liver failure. It is NOT a concern to handle or to grow as a garden ornamental, and no part is used as food - treat it as inedible.[4]"
+  },
+  "references": [
+    {
+      "name": "Lady Bird Johnson Wildflower Center - Panicum virgatum (Switchgrass)",
+      "url": "https://www.wildflower.org/plants/result.php?id_plant=PAVI2"
+    },
+    {
+      "name": "NC State Extension Gardener Plant Toolbox - Panicum virgatum",
+      "url": "https://plants.ces.ncsu.edu/plants/panicum-virgatum/"
+    },
+    {
+      "name": "Missouri Botanical Garden - Plant Finder (Panicum virgatum)",
+      "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=l460"
+    },
+    {
+      "name": "University of Wyoming Extension AgNews - Managing for Toxicity Risk in Panicum Grass Species",
+      "url": "https://uwagnews.com/2023/10/30/panic-grass/"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      2,
+      3
+    ],
+    "sun": [
+      1,
+      3
+    ],
+    "water": [
+      1,
+      3
+    ],
+    "spread": [
+      1,
+      3
+    ],
+    "seasons": [
+      2,
+      3
+    ],
+    "wildlife": [
+      1,
+      2
+    ],
+    "deer": [
+      1,
+      2
+    ],
+    "toxic": [
+      4
+    ]
+  }
 }

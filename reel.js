@@ -57,18 +57,25 @@ function capOf(sh){ return sh.cap || (sh.s ? sh.s.charAt(0).toUpperCase()+sh.s.s
 function capPlain(c){ return (c||'').split('·')[0].split('©')[0].trim(); }
 function esc(s){ return String(s==null?'':s).replace(/&/g,'&amp;').replace(/"/g,'&quot;').replace(/</g,'&lt;').replace(/>/g,'&gt;'); }
 function plateHTML(p){
-const shots = shotsFor(p);
-if(!shots.length){ return '<div class="shot empty">'+window.__camera+'<span>Photograph coming soon</span></div>'; }
+const all = shotsFor(p);
+if(!all.length){ return '<div class="shot empty">'+window.__camera+'<span>Photograph coming soon</span></div>'; }
+/* show the photos in seasonal order (spring → summer → fall → winter) so the dots read as a
+   little timeline; keep the curated first shot as the LEAD (the card thumbnail + where the reel
+   opens) wherever it lands in that order. Stable sort preserves within-season curated order. */
+const SORD={spring:0,summer:1,fall:2,winter:3};
+const lead = all[0];
+const shots = all.map(function(sh,i){ return {sh:sh,i:i}; }).sort(function(a,b){ var sa=(SORD[a.sh.s]==null?9:SORD[a.sh.s]), sb=(SORD[b.sh.s]==null?9:SORD[b.sh.s]); return sa-sb || a.i-b.i; }).map(function(x){ return x.sh; });
+const leadIdx = Math.max(0, shots.indexOf(lead));
 const caps = shots.map(capOf), srcs = shots.map(shotSource), labs = srcs.map(srcLabel);
 const fulls = shots.map(function(sh){ return shotFull(sh, p.dir); });
-let reel = '<div class="reel" data-caps=\''+JSON.stringify(caps).replace(/'/g,"&#39;")+'\' data-srcs=\''+JSON.stringify(srcs).replace(/'/g,"&#39;")+'\' data-labs=\''+JSON.stringify(labs).replace(/'/g,"&#39;")+'\'><div class="reel-track">';
+let reel = '<div class="reel" data-lead="'+leadIdx+'" data-caps=\''+JSON.stringify(caps).replace(/'/g,"&#39;")+'\' data-srcs=\''+JSON.stringify(srcs).replace(/'/g,"&#39;")+'\' data-labs=\''+JSON.stringify(labs).replace(/'/g,"&#39;")+'\'><div class="reel-track">';
 shots.forEach(function(sh,i){ var cand=shotCandidates(sh, p.dir); var rest=JSON.stringify(cand.slice(1)).replace(/'/g,"&#39;"); var cp=capPlain(caps[i]); var alt=esc(p.common+(cp?' — '+cp:'')); reel += '<figure class="shot"><img src="'+(cand[0]||"")+'" alt="'+alt+'" loading="lazy" tabindex="0" role="button" aria-label="View larger photo: '+alt+'" data-full="'+esc(fulls[i]||"")+'" data-alts=\''+rest+'\' onerror="window.__imgnext(this)"></figure>'; });
 reel += '</div></div>';
 let dots='', counter='';
-if(shots.length>1){ shots.forEach(function(sh,i){ var lab=esc(capPlain(caps[i]) || (sh.s||('Photo '+(i+1)))); dots += '<button class="rdot'+(i===0?' on':'')+'" data-i="'+i+'" aria-label="View '+lab+'" aria-pressed="'+(i===0?'true':'false')+'" title="'+esc(caps[i]||'')+'"></button>'; });
-counter = '<span class="rcount">1 / '+shots.length+'</span>'; }
-return reel + '<div class="sbar"><div class="dots">'+dots+'</div><span class="lab">'+(caps[0]||'')+'</span>'+counter
-+ '<a class="src" href="'+srcs[0]+'" target="_blank" rel="noopener noreferrer">'+(labs[0]||'Source ↗')+'</a></div>';
+if(shots.length>1){ shots.forEach(function(sh,i){ var lab=esc(capPlain(caps[i]) || (sh.s||('Photo '+(i+1)))); dots += '<button class="rdot'+(i===leadIdx?' on':'')+'" data-i="'+i+'" aria-label="View '+lab+'" aria-pressed="'+(i===leadIdx?'true':'false')+'" title="'+esc(caps[i]||'')+'">'+seasonIcon(sh.s)+'</button>'; });
+counter = '<span class="rcount">'+(leadIdx+1)+' / '+shots.length+'</span>'; }
+return reel + '<div class="sbar"><div class="dots">'+dots+'</div><span class="lab">'+(caps[leadIdx]||'')+'</span>'+counter
++ '<a class="src" href="'+srcs[leadIdx]+'" target="_blank" rel="noopener noreferrer">'+(labs[leadIdx]||'Source ↗')+'</a></div>';
 }
 window.__imggone = function(img){ var fig = img.closest ? img.closest('.shot') : null; if(fig){ fig.classList.add('empty'); fig.innerHTML = window.__camera + '<span>Image unavailable</span>'; } };
 window.__imgnext = function(img){ var alts=[]; try{ alts=JSON.parse(img.getAttribute('data-alts')||'[]'); }catch(e){} if(alts.length){ var next=alts.shift(); img.setAttribute('data-alts', JSON.stringify(alts)); img.src=next; } else { window.__imggone(img); } };
@@ -103,7 +110,7 @@ if(dx<=-th && cur<n-1) setActive(cur+1, true); else if(dx>=th && cur>0) setActiv
 reel.addEventListener('pointerup', end, {passive:true});
 reel.addEventListener('pointercancel', end, {passive:true});
 }
-setActive(0, false);
+setActive(parseInt(reel.dataset.lead||'0',10)||0, false);  /* open on the curated lead, not the season-first shot */
 });
 }
 

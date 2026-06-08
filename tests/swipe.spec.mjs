@@ -29,6 +29,8 @@ const found = await page.evaluate(() => {
   return false;
 });
 if (!found) { console.log('NO multi-shot reel found — cannot test'); await browser.close(); process.exit(2); }
+// reels now open on the curated "lead" (season-sorted order), so normalize to the first photo
+await page.evaluate(() => { const d = document.getElementById('__swipetest').parentElement.querySelector('.rdot'); if (d) d.click(); });
 await page.waitForTimeout(250);
 
 const box = await page.evaluate(() => { const b = document.getElementById('__swipetest').getBoundingClientRect(); return { x: b.x, y: b.y, w: b.width, h: b.height }; });

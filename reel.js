@@ -64,9 +64,10 @@ const fulls = shots.map(function(sh){ return shotFull(sh, p.dir); });
 let reel = '<div class="reel" data-caps=\''+JSON.stringify(caps).replace(/'/g,"&#39;")+'\' data-srcs=\''+JSON.stringify(srcs).replace(/'/g,"&#39;")+'\' data-labs=\''+JSON.stringify(labs).replace(/'/g,"&#39;")+'\'><div class="reel-track">';
 shots.forEach(function(sh,i){ var cand=shotCandidates(sh, p.dir); var rest=JSON.stringify(cand.slice(1)).replace(/'/g,"&#39;"); var cp=capPlain(caps[i]); var alt=esc(p.common+(cp?' — '+cp:'')); reel += '<figure class="shot"><img src="'+(cand[0]||"")+'" alt="'+alt+'" loading="lazy" tabindex="0" role="button" aria-label="View larger photo: '+alt+'" data-full="'+esc(fulls[i]||"")+'" data-alts=\''+rest+'\' onerror="window.__imgnext(this)"></figure>'; });
 reel += '</div></div>';
-let tabs='';
-if(shots.length>1){ shots.forEach(function(sh,i){ var lab=esc(capPlain(caps[i]) || (sh.s||('Photo '+(i+1)))); tabs += '<button class="tab'+(i===0?' on':'')+'" data-i="'+i+'" aria-label="'+lab+'" aria-pressed="'+(i===0?'true':'false')+'" title="'+esc(caps[i]||'')+'">'+seasonIcon(sh.s)+'</button>'; }); }
-return reel + '<div class="sbar"><div class="tabs">'+tabs+'</div><span class="lab">'+(caps[0]||'')+'</span>'
+let dots='', counter='';
+if(shots.length>1){ shots.forEach(function(sh,i){ var lab=esc(capPlain(caps[i]) || (sh.s||('Photo '+(i+1)))); dots += '<button class="rdot'+(i===0?' on':'')+'" data-i="'+i+'" aria-label="View '+lab+'" aria-pressed="'+(i===0?'true':'false')+'" title="'+esc(caps[i]||'')+'"></button>'; });
+counter = '<span class="rcount">1 / '+shots.length+'</span>'; }
+return reel + '<div class="sbar"><div class="dots">'+dots+'</div><span class="lab">'+(caps[0]||'')+'</span>'+counter
 + '<a class="src" href="'+srcs[0]+'" target="_blank" rel="noopener noreferrer">'+(labs[0]||'Source ↗')+'</a></div>';
 }
 window.__imggone = function(img){ var fig = img.closest ? img.closest('.shot') : null; if(fig){ fig.classList.add('empty'); fig.innerHTML = window.__camera + '<span>Image unavailable</span>'; } };
@@ -75,16 +76,16 @@ function wireReels(root){
 Array.prototype.forEach.call(root.querySelectorAll('.plate'), function(plate){
 var reel = plate.querySelector('.reel'), bar = plate.querySelector('.sbar'); if(!reel||!bar) return;
 var track = reel.querySelector('.reel-track'); if(!track) return;
-var tabs = Array.prototype.slice.call(bar.querySelectorAll('.tab'));
+var tabs = Array.prototype.slice.call(bar.querySelectorAll('.rdot'));
 var figs = Array.prototype.slice.call(track.querySelectorAll('.shot'));
-var lab = bar.querySelector('.lab'), src = bar.querySelector('.src');
+var lab = bar.querySelector('.lab'), src = bar.querySelector('.src'), counter = bar.querySelector('.rcount');
 var caps=[], srcs=[], labs=[]; try{ caps=JSON.parse(reel.dataset.caps||'[]'); }catch(e){} try{ srcs=JSON.parse(reel.dataset.srcs||'[]'); }catch(e){} try{ labs=JSON.parse(reel.dataset.labs||'[]'); }catch(e){}
 /* the seasons live side-by-side in a flex track that SLIDES between them (same smooth feel as
    the family carousel). Resting positions use a percentage transform of the track's own
    one-slide-wide box, so they're resize-proof — no per-reel resize listener to leak. */
 var n = figs.length, cur = 0;
 function place(anim){ track.style.transition = anim ? 'transform .3s ease' : 'none'; track.style.transform = 'translateX(-'+(cur*100)+'%)'; }
-function ui(){ figs.forEach(function(f,j){ f.classList.toggle('show', j===cur); }); tabs.forEach(function(t,j){ t.classList.toggle('on', j===cur); t.setAttribute('aria-pressed', j===cur?'true':'false'); }); if(lab) lab.textContent=caps[cur]||''; if(src&&srcs[cur]){ src.href=srcs[cur]; src.textContent=labs[cur]||'Source ↗'; } }
+function ui(){ figs.forEach(function(f,j){ f.classList.toggle('show', j===cur); }); tabs.forEach(function(t,j){ t.classList.toggle('on', j===cur); t.setAttribute('aria-pressed', j===cur?'true':'false'); }); if(counter) counter.textContent=(cur+1)+' / '+n; if(lab) lab.textContent=caps[cur]||''; if(src&&srcs[cur]){ src.href=srcs[cur]; src.textContent=labs[cur]||'Source ↗'; } }
 function setActive(i, anim){ cur = Math.max(0, Math.min(n-1, i)); place(anim!==false); ui(); }
 tabs.forEach(function(t){ t.onclick=function(){ setActive(+t.dataset.i, true); }; });
 /* finger-follow slide: the track tracks the drag and snaps to the next/prev season. pan-y keeps

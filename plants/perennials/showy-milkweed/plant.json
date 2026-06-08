@@ -52,6 +52,56 @@
       "by": "Sequoia Janirella Wrens",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/227714397"
+    },
+    {
+      "local": "images/sp-shoots-t.jpg",
+      "full": "images/sp-shoots.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/284357247/large.jpg",
+      "s": "spring",
+      "cap": "Spring — young shoots emerging · © Justin Mair (CC-BY-NC) / iNaturalist",
+      "by": "Justin Mair",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/164351850"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/560999658/large.jpg",
+      "s": "summer",
+      "cap": "Summer — the whole plant in a garden border · © earthdenizen (CC-BY-NC) / iNaturalist",
+      "by": "earthdenizen",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/310812932"
+    },
+    {
+      "local": "images/su-drift-t.jpg",
+      "full": "images/su-drift.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/525937714/large.jpg",
+      "s": "summer",
+      "cap": "Summer — a flowering stand in a wild meadow · © Nick Moore (CC-BY-NC) / iNaturalist",
+      "by": "Nick Moore",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/292267647"
+    },
+    {
+      "local": "images/fa-pods-t.jpg",
+      "full": "images/fa-pods.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/232016682/large.jpeg",
+      "s": "fall",
+      "cap": "Fall — the spiky green seed pods · © Karro Frost (CC-BY-NC) / iNaturalist",
+      "by": "Karro Frost",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/135984373"
+    },
+    {
+      "local": "images/fa-floss-t.jpg",
+      "full": "images/fa-floss.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/244882856/large.jpg",
+      "s": "fall",
+      "cap": "Fall — pods splitting to silky floss · © hedgie7 (CC-BY-NC) / iNaturalist",
+      "by": "hedgie7",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/142797376"
     }
   ],
   "care": {

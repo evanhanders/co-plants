@@ -91,6 +91,16 @@
       "by": "mwhite416",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/306541507"
+    },
+    {
+      "local": "images/wi-winter-t.jpg",
+      "full": "images/wi-winter.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/343221384/large.jpg",
+      "s": "winter",
+      "cap": "Winter — clusters of dried red 'lemonade' berries persisting on the bare zigzag twigs · © Janice Walden (CC-BY-NC) / iNaturalist",
+      "by": "Janice Walden",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/195141209"
     }
   ],
   "care": {

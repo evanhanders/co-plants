@@ -166,6 +166,16 @@
       "by": "Bob Walker",
       "lic": "CC-BY",
       "link": "https://www.inaturalist.org/observations/131097321"
+    },
+    {
+      "local": "images/wi-winter-t.jpg",
+      "full": "images/wi-winter.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/12766250/large.jpg",
+      "s": "winter",
+      "cap": "Winter — dried standing stems in dormant structure · © Dakota Duff (CC-BY-NC) / iNaturalist",
+      "by": "Dakota Duff",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/9394807"
     }
   ],
   "commons": "Erigeron speciosus Lindl. DC. 'Fleabane' (Asteraceae) flower.JPG"

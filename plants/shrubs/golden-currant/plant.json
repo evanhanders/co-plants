@@ -156,6 +156,16 @@
       "by": "Ezra Huebner",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/photos/304580436"
+    },
+    {
+      "local": "images/wi-structure-t.jpg",
+      "full": "images/wi-structure.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/257378350/large.jpeg",
+      "s": "winter",
+      "cap": "Winter — bare twiggy branches with a few persistent dried leaves under snow · © wynaturalist (CC-BY-NC) / iNaturalist",
+      "by": "wynaturalist",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/149371439"
     }
   ]
 }

@@ -161,6 +161,16 @@
       "by": "Alexander Baransky",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/232219684"
+    },
+    {
+      "local": "images/wi-winter-t.jpg",
+      "full": "images/wi-winter.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/171065173/large.jpg",
+      "s": "winter",
+      "cap": "Winter — semi-evergreen basal rosette among fallen leaves · © Vyacheslav Luzanov (CC-BY-NC) / iNaturalist",
+      "by": "Vyacheslav Luzanov",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/102348827"
     }
   ],
   "commons": "Woodland sage-Salvia nemorosa.jpg"

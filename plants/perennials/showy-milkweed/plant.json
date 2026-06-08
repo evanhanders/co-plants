@@ -102,6 +102,16 @@
       "by": "hedgie7",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/142797376"
+    },
+    {
+      "local": "images/wi-winter-t.jpg",
+      "full": "images/wi-winter.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/250122192/large.jpeg",
+      "s": "winter",
+      "cap": "Winter — split seed pods spilling floss on dried stems above the snow · © reidedo (CC-BY-NC) / iNaturalist",
+      "by": "reidedo",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/145597853"
     }
   ],
   "care": {

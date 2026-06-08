@@ -92,6 +92,16 @@
       "by": "Brian",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/238979969"
+    },
+    {
+      "local": "images/wi-winter-t.jpg",
+      "full": "images/wi-winter.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/255181515/large.jpg",
+      "s": "winter",
+      "cap": "Winter — dried seedheads and curled leaves over snow · © Andrey Zharkikh (CC-BY-NC) / iNaturalist",
+      "by": "Andrey Zharkikh",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/148210362"
     }
   ],
   "care": {

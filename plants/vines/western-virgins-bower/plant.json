@@ -81,6 +81,16 @@
       "by": "Andy Bridges",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/53832937"
+    },
+    {
+      "local": "images/wi-winter-t.jpg",
+      "full": "images/wi-winter.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/257075557/large.jpeg",
+      "s": "winter",
+      "cap": "Winter — silvery 'old man's beard' seed plumes persisting over snow · © Jared Del Rosso (CC-BY-NC) / iNaturalist",
+      "by": "Jared Del Rosso",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/149208305"
     }
   ],
   "care": {

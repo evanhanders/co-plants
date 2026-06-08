@@ -165,6 +165,16 @@
       "by": "give_peace_a_chance",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/150721059"
+    },
+    {
+      "local": "images/wi-winter-t.jpg",
+      "full": "images/wi-winter.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/258307035/large.jpg",
+      "s": "winter",
+      "cap": "Late winter — a cobalt-blue flower pushing up at snowmelt over bare dormant ground · © Linda J Shapiro (CC-BY-NC) / iNaturalist",
+      "by": "Linda J Shapiro",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/149862792"
     }
   ]
 }

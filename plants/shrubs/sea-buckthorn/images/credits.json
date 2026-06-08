@@ -100,5 +100,12 @@
       400,
       300
     ]
+  },
+  {
+    "file": "images/wi-winter.jpg",
+    "by": "emily gorda",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/103350176",
+    "via": "iNaturalist"
   }
 ]

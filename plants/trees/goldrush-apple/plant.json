@@ -95,6 +95,16 @@
       "by": "zaap",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/276604958"
+    },
+    {
+      "local": "images/wi-winter-t.jpg",
+      "full": "images/wi-winter.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/609812965/large.jpg",
+      "s": "winter",
+      "cap": "Winter — bare branch architecture with a single persistent apple against blue sky · © Trinity Wolfe (CC-BY-NC) / iNaturalist",
+      "by": "Trinity Wolfe",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/335658823"
     }
   ],
   "references": [

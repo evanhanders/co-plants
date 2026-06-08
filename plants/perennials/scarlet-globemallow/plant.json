@@ -94,6 +94,16 @@
       "by": "Kate",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/6206007"
+    },
+    {
+      "local": "images/wi-winter-t.jpg",
+      "full": "images/wi-winter.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/470157120/large.jpg",
+      "s": "winter",
+      "cap": "Winter — the silvery semi-evergreen basal mat on bare dormant ground · © Matt (CC-BY-NC) / iNaturalist",
+      "by": "Matt",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/261674024"
     }
   ],
   "care": {

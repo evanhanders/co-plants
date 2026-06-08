@@ -178,6 +178,16 @@
       "by": "Zeke Marshall",
       "lic": "CC-BY",
       "link": "https://www.inaturalist.org/photos/245839982"
+    },
+    {
+      "local": "images/wi-winter-t.jpg",
+      "full": "images/wi-winter.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/471035076/large.jpg",
+      "s": "winter",
+      "cap": "Winter — green overwintering basal leaf rosette in leaf litter · © _left_e (CC-BY-NC) / iNaturalist",
+      "by": "_left_e",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/262153132"
     }
   ],
   "commons": "Papaver orientale - oriental poppy.jpg"

@@ -159,6 +159,16 @@
       "by": "dmitry tretjakov",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/103099902"
+    },
+    {
+      "local": "images/wi-winter-t.jpg",
+      "full": "images/wi-winter.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/172948405/large.jpg",
+      "s": "winter",
+      "cap": "Winter — persistent bright-orange berries crowding the bare silvery thorny stems · © emily gorda (CC-BY-NC) / iNaturalist",
+      "by": "emily gorda",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/103350176"
     }
   ]
 }

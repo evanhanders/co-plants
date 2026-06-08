@@ -165,6 +165,16 @@
       "by": "Heather Humbird",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/281578855"
+    },
+    {
+      "local": "images/wi-winter-t.jpg",
+      "full": "images/wi-winter.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/458663901/large.jpeg",
+      "s": "winter",
+      "cap": "Winter — persistent blue berries on bare coral-red stalks · © Мирослав Харьков (CC-BY-NC) / iNaturalist",
+      "by": "Мирослав Харьков",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/255884469"
     }
   ]
 }

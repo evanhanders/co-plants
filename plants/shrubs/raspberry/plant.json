@@ -180,6 +180,16 @@
       "by": "hsplendens",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/photos/562670554"
+    },
+    {
+      "local": "images/wi-canes-t.jpg",
+      "full": "images/wi-canes.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/473305878/large.jpeg",
+      "s": "winter",
+      "cap": "Winter — bare leafless raspberry canes standing in snow · © Виктория Білоус (CC-BY) / iNaturalist",
+      "by": "Виктория Білоус",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/263460230"
     }
   ]
 }

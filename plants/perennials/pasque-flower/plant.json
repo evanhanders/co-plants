@@ -142,6 +142,16 @@
       "by": "Elena Pushay",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/54855368"
+    },
+    {
+      "local": "images/wi-winter-t.jpg",
+      "full": "images/wi-winter.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/247052583/large.jpeg",
+      "s": "winter",
+      "cap": "Winter — dried feathery seedhead plumes amid late-winter snow · © Сергей (CC-BY-NC) / iNaturalist",
+      "by": "Сергей",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/143995970"
     }
   ]
 }

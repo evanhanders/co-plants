@@ -161,6 +161,16 @@
       "by": "Kurt Nadler",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/189048781"
+    },
+    {
+      "local": "images/wi-winter-t.jpg",
+      "full": "images/wi-winter.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/344838446/large.jpeg",
+      "s": "winter",
+      "cap": "Winter — the silver woolly evergreen mat over dormant leaf litter · © Alexandre Leroy Delande (CC-BY-NC) / iNaturalist",
+      "by": "Alexandre Leroy Delande",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/195938598"
     }
   ]
 }

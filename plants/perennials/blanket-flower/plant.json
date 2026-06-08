@@ -166,6 +166,16 @@
       "by": "omerpearlman",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/87601553"
+    },
+    {
+      "local": "images/wi-winter-t.jpg",
+      "full": "images/wi-winter.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/340039220/large.jpeg",
+      "s": "winter",
+      "cap": "Winter — snow-dusted dried globular seedhead · © Chris Fluit (CC-BY) / iNaturalist",
+      "by": "Chris Fluit",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/193568078"
     }
   ]
 }

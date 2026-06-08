@@ -123,6 +123,45 @@ return '<article class="card"><div class="plate">'+plate+'<span class="corner">'
 '</div></article>';
 }
 function gridOf(list){ return '<div class="grid">'+list.map(cardHTML).join('')+'</div>'; }
+/* ---------- grouping for the non-type sorts ----------
+   The "Sort" control can group the grid by any filter dimension. type/alpha keep their bespoke
+   paths (family cards / flat list); every other dimension routes through genericGroupedHTML,
+   which buckets the flat cards using that GROUPS entry's own predicates — so sort and filter
+   never drift. Multi-valued dims (colour, bloom, traits, edibility) place a plant in EVERY
+   matching section; whatever matches no option falls into a trailing catch-all bucket. */
+const OTHER_LABEL={color:'Grown for foliage',bloom:'No marked bloom',edible:'Not eaten',trait:'No flagged traits',life:'Other',sun:'Other',water:'Other',nat:'Other'};
+const SORT_LABEL={type:'type',color:'flower colour',bloom:'bloom season',life:'lifecycle',sun:'sun',water:'water',nat:'origin',trait:'traits',edible:'edibility'};
+/* a reusable collapsible section (same markup the type view uses) */
+function sectionHTML(name,count,desc,collapsedNow,gridInner){
+return '<section class="grp'+(collapsedNow?' collapsed':'')+'" data-group="'+name+'">'
++'<div class="group-head" data-g="'+name+'"><button class="chev" data-g="'+name+'" aria-expanded="'+(collapsedNow?'false':'true')+'" aria-label="'+(collapsedNow?'Expand ':'Collapse ')+name+'">▾</button><h2>'+name+'</h2><span class="gc">'+count+'</span><span class="rule"></span></div>'
++(desc?'<p class="group-desc">'+desc+'</p>':'')
++'<div class="grid">'+gridInner+'</div></section>';
+}
+function wireGroupHeads(q){
+Array.prototype.forEach.call(content.querySelectorAll('.group-head'), function(h){
+h.onclick=function(){ if(q) return; /* during search everything is force-expanded */ const g=h.dataset.g; const nowC=!collapsed.has(g); if(nowC) collapsed.add(g); else collapsed.delete(g); h.parentElement.classList.toggle('collapsed', nowC); const chev=h.querySelector('.chev'); if(chev){ chev.setAttribute('aria-expanded', nowC?'false':'true'); chev.setAttribute('aria-label', (nowC?'Expand ':'Collapse ')+g); } };
+});
+}
+function genericGroupedHTML(list, key, q){
+const g=GMAP[key]; const buckets={}, counts={};
+g.opts.forEach(function(o){ buckets[o.label]=[]; counts[o.label]=0; });
+const other=OTHER_LABEL[key]||'Other';
+list.forEach(function(p){ var matched=false;
+g.opts.forEach(function(o){ if(o.test(p)){ buckets[o.label].push(p); counts[o.label]++; matched=true; } });
+if(!matched){ (buckets[other]=buckets[other]||[]).push(p); counts[other]=(counts[other]||0)+1; }
+});
+const order=g.opts.map(function(o){ return o.label; });
+if(buckets[other] && buckets[other].length && order.indexOf(other)<0) order.push(other);
+let html='';
+order.forEach(function(name){
+const items=buckets[name]; if(!items||!items.length) return;
+items.sort(function(a,b){ return a.botanical.localeCompare(b.botanical,'en',{sensitivity:'base'}); });
+const isC=!q && collapsed.has(name);
+html+=sectionHTML(name, counts[name], '', isC, items.map(cardHTML).join(''));
+});
+return html;
+}
 /* One collapsed/expandable family card standing in for a whole collection. Collapsed it shows
    the lead member's photo reel as a cover; expanded it reveals a swipeable, looping CAROUSEL of
    the member cards (verbatim cardHTML, each keeping its own detail-page link), built lazily on
@@ -248,6 +287,8 @@ const all=allPlants();
 const total=all.length;
 const list=all.filter(function(p){ return passesFilters(p) && matchesQuery(p,q); });
 document.getElementById('count').textContent = total;
+const gn=document.getElementById('groupNote');
+if(gn) gn.innerHTML = (view==='alpha') ? 'Sorted <b>A–Z</b> by name' : ('Grouped <b>by '+(SORT_LABEL[view]||view)+'</b> · tap to collapse');
 renderFilters(all, q);
 updateFilterToggle();
 const filtering = q || anyFilter();
@@ -258,6 +299,11 @@ syncHash();
 if(!list.length){ const why = q ? 'match “'+searchEl.value+'”' : 'fit the current filters'; content.innerHTML='<div class="grid"><div class="empty">No plants '+why+'.</div></div>'; return; }
 if(view==="alpha"){
 content.innerHTML = gridOf(list);
+} else if(view!=="type" && GMAP[view]){
+/* group the flat list by a filter dimension (colour/bloom/lifecycle/sun/water/origin/traits/
+   edibility) — no family cards here, just sectioned cards the same way the type view collapses */
+content.innerHTML = genericGroupedHTML(list, view, q);
+wireGroupHeads(q);
 } else {
 /* Fold the filtered list into renderable ITEMS bucketed by section. An item is either a
    single plant or a collection family. A collection with ≥2 visible members becomes ONE
@@ -281,15 +327,10 @@ let html="";
 GROUP_ORDER.forEach(function(g){
 if(!buckets[g]) return;
 const isC = !q && collapsed.has(g);
-html += '<section class="grp'+(isC?' collapsed':'')+'" data-group="'+g+'">'
-+ '<div class="group-head" data-g="'+g+'"><button class="chev" data-g="'+g+'" aria-expanded="'+(isC?'false':'true')+'" aria-label="'+(isC?'Expand ':'Collapse ')+g+'">▾</button><h2>'+g+'</h2><span class="gc">'+counts[g]+'</span><span class="rule"></span></div>'
-+ (GROUP_DESC[g]?'<p class="group-desc">'+GROUP_DESC[g]+'</p>':'')
-+ '<div class="grid">'+buckets[g].map(function(it){ return it.html; }).join('')+'</div>' + '</section>';
+html += sectionHTML(g, counts[g], GROUP_DESC[g]||'', isC, buckets[g].map(function(it){ return it.html; }).join(''));
 });
 content.innerHTML = html;
-Array.prototype.forEach.call(content.querySelectorAll('.group-head'), function(h){
-h.onclick=function(){ if(q) return; /* during search everything is force-expanded */ const g=h.dataset.g; const nowC = !collapsed.has(g); if(nowC) collapsed.add(g); else collapsed.delete(g); h.parentElement.classList.toggle('collapsed', nowC); const chev=h.querySelector('.chev'); if(chev){ chev.setAttribute('aria-expanded', nowC?'false':'true'); chev.setAttribute('aria-label', (nowC?'Expand ':'Collapse ')+g); } };
-});
+wireGroupHeads(q);
 /* family expand/collapse: toggle in place (no full re-render → keeps scroll & sibling state);
    build the carousel lazily the first time a family is opened */
 Array.prototype.forEach.call(content.querySelectorAll('.fam-toggle'), function(btn){
@@ -305,9 +346,8 @@ Array.prototype.forEach.call(content.querySelectorAll('.family.open'), buildCaro
 wireReels(content);
 }
 /* ---------- view toggle ---------- */
-Array.prototype.forEach.call(document.querySelectorAll('#seg button'), function(btn){
-btn.onclick=function(){ view=btn.dataset.view; Array.prototype.forEach.call(document.querySelectorAll('#seg button'), function(b){ b.classList.toggle('active', b===btn); }); render(); };
-});
+{ const sortSel=document.getElementById('sortby');
+if(sortSel) sortSel.addEventListener('change', function(){ view=sortSel.value; render(); }); }
 /* ---------- filters: one delegated handler toggles a chip's group selection ---------- */
 { const fr=document.getElementById('filters'); if(fr) fr.addEventListener('click', function(e){
 const btn=e.target.closest('.chip'); if(!btn || btn.disabled) return;
@@ -335,11 +375,11 @@ function applyHash(){
 const h=(location.hash||'').replace(/^#/,''); if(!h) return;
 h.split('&').forEach(function(kv){
 const i=kv.indexOf('='); if(i<0) return; const k=kv.slice(0,i), v=decodeURIComponent(kv.slice(i+1));
-if(k==='view' && (v==='alpha'||v==='type')) view=v;
+if(k==='view' && (v==='alpha'||v==='type'||GMAP[v])) view=v;
 else if(k==='q'){ searchEl.value=v; }
 else if(GMAP[k]){ GMAP[k].sel.clear(); v.split(',').forEach(function(x){ if(x && GMAP[k].byv[x]) GMAP[k].sel.add(x); }); }
 });
-Array.prototype.forEach.call(document.querySelectorAll('#seg button'), function(b){ b.classList.toggle('active', b.dataset.view===view); });
+const sortSel=document.getElementById('sortby'); if(sortSel) sortSel.value=view;
 }
 searchEl.addEventListener('input', render);
 /* submitting the search (Enter / on-screen "Search" key) drops the mobile keyboard */

@@ -168,6 +168,16 @@
       "by": "learyma",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/30107264"
+    },
+    {
+      "local": "images/wi-winter-t.jpg",
+      "full": "images/wi-winter.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/61090533/large.jpg",
+      "s": "winter",
+      "cap": "Winter — persistent black berry clusters on bare branches over snow · © McNichol Valcius (CC-BY-NC) / iNaturalist",
+      "by": "McNichol Valcius",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/38438868"
     }
   ]
 }

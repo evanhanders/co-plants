@@ -175,6 +175,16 @@
       "by": "Sue Janssen",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/354722855"
+    },
+    {
+      "local": "images/wi-winter-t.jpg",
+      "full": "images/wi-winter.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/2928829/large.JPG",
+      "s": "winter",
+      "cap": "Winter — bare twig with persistent dark fruit against a blue winter sky · © bio6vanbryce (CC-BY-NC) / iNaturalist",
+      "by": "bio6vanbryce",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/2617813"
     }
   ],
   "commons": "Chokecherry - Prunus virginiana (51361592456).jpg"

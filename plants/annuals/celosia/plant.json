@@ -149,6 +149,36 @@
       "by": "潘立傑 LICHIEH_PAN",
       "lic": "CC-BY",
       "link": "https://www.inaturalist.org/observations/170590911"
+    },
+    {
+      "local": "images/su-plume2-t.jpg",
+      "full": "images/su-plume2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/108025957/large.jpg",
+      "s": "summer",
+      "cap": "Summer — vivid magenta-pink feathered plumes (plumosa form) · © damalizgs (CC-BY-NC) / iNaturalist",
+      "by": "damalizgs",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/66937879"
+    },
+    {
+      "local": "images/su-cockscomb-t.jpg",
+      "full": "images/su-cockscomb.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/506826962/large.jpg",
+      "s": "summer",
+      "cap": "Summer — the brain-folded red cockscomb comb (cristata form) · © Virginia Tong (CC-BY-NC) / iNaturalist",
+      "by": "Virginia Tong",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/282114781"
+    },
+    {
+      "local": "images/fa-seedhead-t.jpg",
+      "full": "images/fa-seedhead.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/417915171/large.jpeg",
+      "s": "fall",
+      "cap": "Fall — silvery wheat-spike seedhead gone to seed · © onikiri (CC-BY-NC) / iNaturalist",
+      "by": "onikiri",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/235025846"
     }
   ]
 }

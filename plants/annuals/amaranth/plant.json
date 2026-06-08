@@ -146,6 +146,36 @@
       "by": "hl12",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/189968952"
+    },
+    {
+      "local": "images/su-habit2-t.jpg",
+      "full": "images/su-habit2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/549867627/large.jpg",
+      "s": "summer",
+      "cap": "Summer — near whole plant draped in long crimson tassels · © Patrick Hacker (CC-BY) / iNaturalist",
+      "by": "Patrick Hacker",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/304996636"
+    },
+    {
+      "local": "images/su-drift-t.jpg",
+      "full": "images/su-drift.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/238171945/large.jpg",
+      "s": "summer",
+      "cap": "Summer — a row of love-lies-bleeding draping its ropes along a path · © Claude Kolwelter (CC-BY) / iNaturalist",
+      "by": "Claude Kolwelter",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/139269213"
+    },
+    {
+      "local": "images/fa-seedhead-t.jpg",
+      "full": "images/fa-seedhead.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/421278972/large.jpeg",
+      "s": "fall",
+      "cap": "Fall — upright dry seed tassels going over · CC0 / iNaturalist · © no rights reserved (CC0) / iNaturalist",
+      "by": "no rights reserved",
+      "lic": "CC0",
+      "link": "https://www.inaturalist.org/observations/236772612"
     }
   ]
 }

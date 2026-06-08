@@ -152,6 +152,36 @@
       "by": "Robin",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/photos/609877001"
+    },
+    {
+      "local": "images/su-foliage2-t.jpg",
+      "full": "images/su-foliage2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/193588623/large.jpg",
+      "s": "summer",
+      "cap": "Summer — the ferny, pinnately-divided aromatic foliage · © Bodo Nuñez Oberg (CC-BY-NC) / iNaturalist",
+      "by": "Bodo Nuñez Oberg",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/114652913"
+    },
+    {
+      "local": "images/fa-seedhead-t.jpg",
+      "full": "images/fa-seedhead.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/59352177/large.jpg",
+      "s": "fall",
+      "cap": "Fall — late blooms with spent bristly seed heads forming at the stem tips · © Bodo Nuñez Oberg (CC-BY-NC) / iNaturalist",
+      "by": "Bodo Nuñez Oberg",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/37439339"
+    },
+    {
+      "local": "images/su-drift-t.jpg",
+      "full": "images/su-drift.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/338431791/large.jpg",
+      "s": "summer",
+      "cap": "Summer — a drift of orange-gold blooms · © Ibrahim Hirory (CC-BY-NC) / iNaturalist",
+      "by": "Ibrahim Hirory",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/192745524"
     }
   ]
 }

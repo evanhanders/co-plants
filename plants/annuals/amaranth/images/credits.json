@@ -66,5 +66,26 @@
       300,
       400
     ]
+  },
+  {
+    "file": "images/su-habit2.jpg",
+    "by": "Patrick Hacker",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/observations/304996636",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/su-drift.jpg",
+    "by": "Claude Kolwelter",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/observations/139269213",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/fa-seedhead.jpg",
+    "by": "no rights reserved",
+    "license": "CC0",
+    "source": "https://www.inaturalist.org/observations/236772612",
+    "via": "iNaturalist"
   }
 ]

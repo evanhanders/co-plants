@@ -139,6 +139,26 @@
       "by": "Kurt Nadler",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/photos/617792386"
+    },
+    {
+      "local": "images/sp-flower-t.jpg",
+      "full": "images/sp-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/243521614/large.jpeg",
+      "s": "spring",
+      "cap": "Spring — face-on lilac florets, four-lobed tubular flowers in a dense panicle · © Елена (CC-BY-NC) / iNaturalist",
+      "by": "Елена",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/photos/243521614"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/486794214/large.jpg",
+      "s": "summer",
+      "cap": "Summer — heart-shaped (ovate-cordate) leaves on the multi-stem shrub · © Alexander Baransky (CC-BY-NC) / iNaturalist",
+      "by": "Alexander Baransky",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/photos/486794214"
     }
   ],
   "commons": "Common Lilac Syringa vulgaris 'Marechal Foch' Flowers.JPG"

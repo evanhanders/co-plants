@@ -137,6 +137,26 @@
       "by": "legantrailblazers",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/105052857"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/439154481/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — glossy holly-like pinnately compound leaves with spiny-toothed leaflets · © Nicholas Sly (CC-BY-NC) / iNaturalist",
+      "by": "Nicholas Sly",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/photos/439154481"
+    },
+    {
+      "local": "images/fa-fruit-t.jpg",
+      "full": "images/fa-fruit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556141089/large.jpg",
+      "s": "fall",
+      "cap": "Fall — dusty-blue berry clusters amid leaves reddening to scarlet · © maggieeee (CC-BY-NC) / iNaturalist",
+      "by": "maggieeee",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/photos/556141089"
     }
   ]
 }

@@ -83,5 +83,19 @@
       300,
       400
     ]
+  },
+  {
+    "file": "images/su-habit2.jpg",
+    "by": "Khan",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/photos/302148305",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/wi-habit.jpg",
+    "by": "Natalia Ionina",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/photos/250586415",
+    "via": "iNaturalist"
   }
 ]

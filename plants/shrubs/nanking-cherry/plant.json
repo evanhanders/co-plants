@@ -163,6 +163,26 @@
       "by": "Megan",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/222180349"
+    },
+    {
+      "local": "images/su-habit2-t.jpg",
+      "full": "images/su-habit2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/302148305/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — the dense leafy whole shrub, broad and twiggy · © Khan (CC-BY-NC) / iNaturalist",
+      "by": "Khan",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/photos/302148305"
+    },
+    {
+      "local": "images/wi-habit-t.jpg",
+      "full": "images/wi-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/250586415/large.jpg",
+      "s": "winter",
+      "cap": "Winter — bare twiggy framework of the leafless shrub · © Natalia Ionina (CC-BY-NC) / iNaturalist",
+      "by": "Natalia Ionina",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/photos/250586415"
     }
   ]
 }

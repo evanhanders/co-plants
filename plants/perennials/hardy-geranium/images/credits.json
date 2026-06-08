@@ -54,5 +54,19 @@
     "license": "CC BY-SA 3.0",
     "source": "https://commons.wikimedia.org/wiki/File:Geranium_%27Rozanne%27.JPG",
     "via": "Wikimedia Commons"
+  },
+  {
+    "file": "images/su-bloom.jpg",
+    "by": "Marc Riera",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/observations/208447969",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/fa-fall.jpg",
+    "by": "eleggua",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/241114206",
+    "via": "iNaturalist"
   }
 ]

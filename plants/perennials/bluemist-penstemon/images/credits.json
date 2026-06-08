@@ -66,5 +66,26 @@
       400,
       300
     ]
+  },
+  {
+    "file": "images/fa-seedpods.jpg",
+    "by": "Jaime Baxter-Slye",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/124393939",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/su-drift.jpg",
+    "by": "Chuck Sexton",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/127186161",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/wi-rosette.jpg",
+    "by": "calebcam",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/8673448",
+    "via": "iNaturalist"
   }
 ]

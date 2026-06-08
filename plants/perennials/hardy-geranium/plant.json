@@ -144,6 +144,26 @@
       "by": "Falconaumanni",
       "lic": "CC BY-SA 3.0",
       "link": "https://commons.wikimedia.org/wiki/File:Geranium_wallichianum_Jard%C3%ADn_bot%C3%A1nico_de_Valencia.JPG"
+    },
+    {
+      "local": "images/su-bloom-t.jpg",
+      "full": "images/su-bloom.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/368814634/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — violet-blue white-eyed saucers over lobed foliage (Geranium wallichianum, the species seed-parent of 'Rozanne') · © Marc Riera (CC-BY) / iNaturalist",
+      "by": "Marc Riera",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/208447969"
+    },
+    {
+      "local": "images/fa-fall-t.jpg",
+      "full": "images/fa-fall.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/429673754/large.jpg",
+      "s": "fall",
+      "cap": "Fall — late flowers over reddening foliage as the mound winds down (Geranium wallichianum, the species seed-parent of 'Rozanne') · © eleggua (CC-BY-NC) / iNaturalist",
+      "by": "eleggua",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/241114206"
     }
   ]
 }

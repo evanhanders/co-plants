@@ -65,6 +65,36 @@
       "by": "Elias",
       "lic": "CC-BY",
       "link": "https://www.inaturalist.org/observations/331567616"
+    },
+    {
+      "local": "images/fa-seedpods-t.jpg",
+      "full": "images/fa-seedpods.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/210840550/large.jpg",
+      "s": "fall",
+      "cap": "Fall — ripening seed capsules · © Jaime Baxter-Slye (CC-BY-NC) / iNaturalist",
+      "by": "Jaime Baxter-Slye",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/124393939"
+    },
+    {
+      "local": "images/su-drift-t.jpg",
+      "full": "images/su-drift.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/215896640/large.jpg",
+      "s": "summer",
+      "cap": "Late spring — a low clump in bloom on dry ground · © Chuck Sexton (CC-BY-NC) / iNaturalist",
+      "by": "Chuck Sexton",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/127186161"
+    },
+    {
+      "local": "images/wi-rosette-t.jpg",
+      "full": "images/wi-rosette.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/11619771/large.jpeg",
+      "s": "winter",
+      "cap": "Winter — the glossy evergreen basal rosette · © calebcam (CC-BY-NC) / iNaturalist",
+      "by": "calebcam",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/8673448"
     }
   ],
   "care": {

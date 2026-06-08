@@ -293,7 +293,8 @@ renderFilters(all, q);
 updateFilterToggle();
 const filtering = q || anyFilter();
 const showingEl=document.getElementById('showing');
-if(showingEl) showingEl.textContent = filtering ? ('Showing '+list.length+' of '+total+' plants') : ('Showing all '+total+' plants');
+if(showingEl) showingEl.textContent = filtering ? ('Showing '+list.length+' of '+total+' species') : ('Showing all '+total+' species');
+const scEl=document.getElementById('searchClear'); if(scEl) scEl.hidden = !searchEl.value;
 const clearEl=document.getElementById('clearFilters'); if(clearEl) clearEl.hidden = !filtering;
 syncHash();
 if(!list.length){ const why = q ? 'match “'+searchEl.value+'”' : 'fit the current filters'; content.innerHTML='<div class="grid"><div class="empty">No plants '+why+'.</div></div>'; return; }
@@ -358,6 +359,8 @@ render();
 /* clear everything: search + every filter group */
 function clearAllFilters(){ searchEl.value=''; GROUPS.forEach(function(g){ g.sel.clear(); }); render(); }
 { const cf=document.getElementById('clearFilters'); if(cf) cf.onclick=clearAllFilters; }
+/* the ✕ inside the search box clears just the query (not the filters) */
+{ const sc=document.getElementById('searchClear'); if(sc) sc.onclick=function(){ searchEl.value=''; searchEl.focus(); render(); }; }
 /* mobile: a "Filters" toggle collapses/expands the whole filter bar */
 { const ft=document.getElementById('filterToggle'), fb=document.getElementById('filters');
 if(ft && fb) ft.addEventListener('click', function(){ const open=!fb.classList.contains('open'); fb.classList.toggle('open', open); ft.setAttribute('aria-expanded', open?'true':'false'); }); }

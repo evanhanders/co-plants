@@ -90,22 +90,36 @@ var caps=[], srcs=[], labs=[]; try{ caps=JSON.parse(reel.dataset.caps||'[]'); }c
 /* the seasons live side-by-side in a flex track that SLIDES between them (same smooth feel as
    the family carousel). Resting positions use a percentage transform of the track's own
    one-slide-wide box, so they're resize-proof — no per-reel resize listener to leak. */
-var n = figs.length, cur = 0;
-function place(anim){ track.style.transition = anim ? 'transform .3s ease' : 'none'; track.style.transform = 'translateX(-'+(cur*100)+'%)'; }
+var n = figs.length, cur = 0, idx = 0, loop = n>1;
+/* For a seamless wrap-around (swipe past the last photo → first, and vice versa) we clone the
+   first + last shots either side of the track: [clone(last), real0…real(n-1), clone(first)].
+   Clones carry a `clone` class but NOT `.shot`, so the lightbox/index/swipe-test only ever see
+   the n real figures. `idx` walks the cloned track (real slide r sits at track position r+1);
+   `cur` is the real index that drives the dots/caption/`.show`. */
+if(loop){
+var cFirst=figs[0].cloneNode(true), cLast=figs[n-1].cloneNode(true);
+[cFirst,cLast].forEach(function(c){ c.classList.remove('shot','show'); c.classList.add('clone'); var im=c.querySelector('img'); if(im){ im.removeAttribute('tabindex'); im.removeAttribute('role'); im.removeAttribute('aria-label'); im.setAttribute('aria-hidden','true'); } });
+track.insertBefore(cLast, figs[0]); track.appendChild(cFirst);
+}
+function place(anim){ track.style.transition = anim ? 'transform .3s ease' : 'none'; track.style.transform = 'translateX(-'+(idx*100)+'%)'; }
 function ui(){ figs.forEach(function(f,j){ f.classList.toggle('show', j===cur); }); tabs.forEach(function(t,j){ t.classList.toggle('on', j===cur); t.setAttribute('aria-pressed', j===cur?'true':'false'); }); if(counter) counter.textContent=(cur+1)+' / '+n; if(lab) lab.textContent=caps[cur]||''; if(src&&srcs[cur]){ src.href=srcs[cur]; src.textContent=labs[cur]||'Source ↗'; } }
-function setActive(i, anim){ cur = Math.max(0, Math.min(n-1, i)); place(anim!==false); ui(); }
+function sync(){ cur = loop ? (((idx-1)%n)+n)%n : Math.max(0,Math.min(n-1,idx)); ui(); }
+function setActive(i, anim){ idx = loop ? (((i%n)+n)%n)+1 : Math.max(0,Math.min(n-1,i)); place(anim!==false); sync(); }
+function go(d){ idx += d; place(true); sync(); }
+/* after a wrap step lands on a clone, silently jump to the matching real slide (transition off) */
+if(loop) track.addEventListener('transitionend', function(){ if(idx===0){ idx=n; place(false); } else if(idx===n+1){ idx=1; place(false); } });
 tabs.forEach(function(t){ t.onclick=function(){ setActive(+t.dataset.i, true); }; });
-/* finger-follow slide: the track tracks the drag and snaps to the next/prev season. pan-y keeps
-   a vertical drag scrolling the page (no scroll-chaining); a tap (no real move) falls through to
-   the lightbox (wireLightbox bails when the pointer moved past its tap threshold). */
-if(n>1){
+/* finger-follow slide: the track tracks the drag and snaps to the next/prev season (wrapping at
+   the ends). pan-y keeps a vertical drag scrolling the page (no scroll-chaining); a tap (no real
+   move) falls through to the lightbox (wireLightbox bails when the pointer moved past threshold). */
+if(loop){
 var sx=0, sy=0, W=0, base=0, drag=false, decided=false, horiz=false;
-reel.addEventListener('pointerdown', function(e){ sx=e.clientX; sy=e.clientY; W=reel.clientWidth; base=-cur*W; drag=true; decided=false; horiz=false; track.style.transition='none'; }, {passive:true});
+reel.addEventListener('pointerdown', function(e){ sx=e.clientX; sy=e.clientY; W=reel.clientWidth; base=-idx*W; drag=true; decided=false; horiz=false; track.style.transition='none'; }, {passive:true});
 reel.addEventListener('pointermove', function(e){ if(!drag) return; var dx=e.clientX-sx, dy=e.clientY-sy;
 if(!decided && (Math.abs(dx)>6||Math.abs(dy)>6)){ decided=true; horiz=Math.abs(dx)>Math.abs(dy); }
-if(decided && horiz){ if((cur===0&&dx>0)||(cur===n-1&&dx<0)) dx*=0.35; /* resistance at the ends */ track.style.transform='translateX('+(base+dx)+'px)'; } }, {passive:true});
+if(decided && horiz){ track.style.transform='translateX('+(base+dx)+'px)'; } }, {passive:true});
 function end(e){ if(!drag) return; drag=false; if(!horiz) return; var dx=e.clientX-sx, th=Math.min(70, W*0.18);
-if(dx<=-th && cur<n-1) setActive(cur+1, true); else if(dx>=th && cur>0) setActive(cur-1, true); else place(true); }
+if(dx<=-th) go(1); else if(dx>=th) go(-1); else place(true); }
 /* commit on pointerup AND pointercancel — some mobile browsers end a horizontal drag with cancel */
 reel.addEventListener('pointerup', end, {passive:true});
 reel.addEventListener('pointercancel', end, {passive:true});

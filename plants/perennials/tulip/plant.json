@@ -144,6 +144,26 @@
       "by": "nasiou_konstantina",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/75207751"
+    },
+    {
+      "local": "images/sp-colorform-t.jpg",
+      "full": "images/sp-colorform.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/647853383/large.jpg",
+      "s": "spring",
+      "cap": "Spring — yellow colour form, three blooms face-on · © Michal Svit (CC-BY-NC) / iNaturalist",
+      "by": "Michal Svit",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/355190829"
+    },
+    {
+      "local": "images/sp-foliage-t.jpg",
+      "full": "images/sp-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/192967989/large.jpg",
+      "s": "spring",
+      "cap": "Spring — a pair of yellow tulips with strappy basal foliage · © arnoci (CC-BY-NC) / iNaturalist",
+      "by": "arnoci",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/114263076"
     }
   ]
 }

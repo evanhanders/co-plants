@@ -63,5 +63,26 @@
     "license": "CC-BY-NC",
     "source": "https://www.inaturalist.org/photos/640079339",
     "via": "iNaturalist"
+  },
+  {
+    "file": "images/sp-flower3.jpg",
+    "by": "Kostas Zontanos",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/observations/73189038",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/sp-colorform.jpg",
+    "by": "willem9",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/12121956",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/sp-foliage2.jpg",
+    "by": "nycticorax",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/108057230",
+    "via": "iNaturalist"
   }
 ]

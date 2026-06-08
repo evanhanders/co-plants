@@ -66,5 +66,26 @@
       300,
       400
     ]
+  },
+  {
+    "file": "images/sp-drift.jpg",
+    "by": "evanhillw",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/45029333",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/sp-flower3.jpg",
+    "by": "Ondřej Křivan",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/observations/247432220",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/sp-seedpod.jpg",
+    "by": "Aleksandr Naumenko",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/35300409",
+    "via": "iNaturalist"
   }
 ]

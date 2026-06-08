@@ -141,6 +141,36 @@
       "by": "Mariana Jordanova",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/photos/640079339"
+    },
+    {
+      "local": "images/sp-flower3-t.jpg",
+      "full": "images/sp-flower3.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/119461109/large.jpeg",
+      "s": "spring",
+      "cap": "Spring — pale-blue flower face-on over deeply lobed foliage · © Kostas Zontanos (CC-BY) / iNaturalist",
+      "by": "Kostas Zontanos",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/73189038"
+    },
+    {
+      "local": "images/sp-colorform-t.jpg",
+      "full": "images/sp-colorform.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/17387685/large.jpeg",
+      "s": "spring",
+      "cap": "Spring — pale-blue/white colour form in a cluster · © willem9 (CC-BY-NC) / iNaturalist",
+      "by": "willem9",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/12121956"
+    },
+    {
+      "local": "images/sp-foliage2-t.jpg",
+      "full": "images/sp-foliage2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/181857962/large.jpg",
+      "s": "spring",
+      "cap": "Spring — deeply lobed foliage with an emerging bud · © nycticorax (CC-BY-NC) / iNaturalist",
+      "by": "nycticorax",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/108057230"
     }
   ]
 }

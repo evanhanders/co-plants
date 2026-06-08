@@ -141,6 +141,36 @@
       "by": "chillaholic",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/74644011"
+    },
+    {
+      "local": "images/sp-drift-t.jpg",
+      "full": "images/sp-drift.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/71390712/large.jpeg",
+      "s": "spring",
+      "cap": "Spring — a drift of open yellow-and-white star flowers · © evanhillw (CC-BY-NC) / iNaturalist",
+      "by": "evanhillw",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/45029333"
+    },
+    {
+      "local": "images/sp-flower3-t.jpg",
+      "full": "images/sp-flower3.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/441917963/large.jpeg",
+      "s": "spring",
+      "cap": "Spring — a single open star face-on, yellow with white tips · © Ondřej Křivan (CC-BY) / iNaturalist",
+      "by": "Ondřej Křivan",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/247432220"
+    },
+    {
+      "local": "images/sp-seedpod-t.jpg",
+      "full": "images/sp-seedpod.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/55648933/large.jpeg",
+      "s": "spring",
+      "cap": "Spring — drying seed capsules · © Aleksandr Naumenko (CC-BY-NC) / iNaturalist",
+      "by": "Aleksandr Naumenko",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/35300409"
     }
   ]
 }

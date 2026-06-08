@@ -967,6 +967,20 @@ pelargoniums, wallflower/yarrow/Rozanne cultivars, fruit cultivars) use honestly
 **species-representative** shots where no cultivar-specific photo of a needed type exists — matching the
 guide's existing convention. New entries should hit 6–9 the same way.
 
+**Winter-shot pass (June 2026):** went back through the whole roster specifically for **winter
+interest** (snow-laden evergreens, bare-stem/persistent-fruit architecture, dried seedheads & seed
+plumes, semi-evergreen basal rosettes, and snowmelt bloomers like crocus/dwarf-iris) and added a
+genuine Northern-Hemisphere winter photo wherever one exists — **winter coverage 41 → 114 of 176
+(65%)**. The remaining 62 are honest, principled skips, not gaps: **19 annuals** and **7 tender
+perennials** (frost-killed / corms lifted — no winter presence), plus **36** dormant-bulb
+(tulip/daffodil/grecian-windflower), full-dieback (peony, phlox, columbine, nodding onion), or
+genuinely no-open-licensed-winter-shot cases (river-hawthorn, jostaberry, blue-oat-grass,
+russian-sage, the *Veronica liwanensis* look-alike, the vine cultivars). **Watch the Southern-
+Hemisphere-summer trap:** `inat_montage.py --month 12,1,2` returns Dec–Feb *globally*, so it
+surfaces lush SH-summer blooms — every winter pick must be eyeballed for real NH-winter context
+(snow/frost/dormancy) before it's appended. Forcing a misleading growing-season shot onto a plant
+that's bare ground in January is worse than an honest skip.
+
 **Trees**
 - River hawthorn (*Crataegus rivularis*) (N) — Thorny native small tree; white spring flowers, dark edible haws, superb wildlife cover. A caterpillar keystone (~90 Lepidoptera). *(Riparian — wants more water; edible haws, spit the cyanogenic seeds.)*
 - Chokecherry (*Prunus virginiana*) (N) — Wildlife powerhouse: fragrant white flower racemes, dark…

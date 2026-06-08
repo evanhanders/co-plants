@@ -97,6 +97,16 @@
       "by": "Ángel Fernández Cancio",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/68458963"
+    },
+    {
+      "local": "images/wi-winter-t.jpg",
+      "full": "images/wi-winter.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/177241221/large.jpeg",
+      "s": "winter",
+      "cap": "Winter — the near-evergreen grey-green strap-leaf rosette persisting on an old wall (species-representative Erysimum) · © Gerrit Öhm (CC-BY-NC) / iNaturalist",
+      "by": "Gerrit Öhm",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/105614316"
     }
   ],
   "care": {

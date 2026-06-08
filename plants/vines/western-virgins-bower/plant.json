@@ -51,6 +51,36 @@
       "by": "Kevin Shuck",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/313759656"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/342838524/large.jpg",
+      "s": "summer",
+      "cap": "Summer — the toothed compound leaves blanketing a slope · © Z (CC-BY) / iNaturalist",
+      "by": "Z",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/194953584"
+    },
+    {
+      "local": "images/su-bloom-t.jpg",
+      "full": "images/su-bloom.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/424355510/large.jpg",
+      "s": "summer",
+      "cap": "Late summer — the vine smothered in a froth of white flowers · © Kendyl Osborn (CC-BY-NC) / iNaturalist",
+      "by": "Kendyl Osborn",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/238363015"
+    },
+    {
+      "local": "images/su-flowers2-t.jpg",
+      "full": "images/su-flowers2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/85634338/large.jpeg",
+      "s": "summer",
+      "cap": "Late summer — the starry white flowers face-on · © Andy Bridges (CC-BY-NC) / iNaturalist",
+      "by": "Andy Bridges",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/53832937"
     }
   ],
   "care": {

@@ -49,5 +49,26 @@
       300,
       400
     ]
+  },
+  {
+    "file": "images/su-foliage.jpg",
+    "by": "Z",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/observations/194953584",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/su-bloom.jpg",
+    "by": "Kendyl Osborn",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/238363015",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/su-flowers2.jpg",
+    "by": "Andy Bridges",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/53832937",
+    "via": "iNaturalist"
   }
 ]

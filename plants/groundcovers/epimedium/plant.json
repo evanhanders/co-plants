@@ -54,6 +54,36 @@
       "by": "heybrows",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/17348161"
+    },
+    {
+      "local": "images/fa-foliage-t.jpg",
+      "full": "images/fa-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/101042137/large.jpeg",
+      "s": "fall",
+      "cap": "Fall — the spiny heart-shaped leaflets tinged red · © aleksander_skw (CC-BY-NC) / iNaturalist",
+      "by": "aleksander_skw",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/63001718"
+    },
+    {
+      "local": "images/fa-fall-t.jpg",
+      "full": "images/fa-fall.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/165081413/large.jpeg",
+      "s": "fall",
+      "cap": "Fall — the foliage mat turning bronze-red · © dudqeee (CC-BY-NC) / iNaturalist",
+      "by": "dudqeee",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/99071461"
+    },
+    {
+      "local": "images/sp-habit-t.jpg",
+      "full": "images/sp-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/84227680/large.jpeg",
+      "s": "spring",
+      "cap": "Spring — a leafy clump spreading in dry shade · © hb2000 (CC-BY-NC) / iNaturalist",
+      "by": "hb2000",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/52969157"
     }
   ],
   "care": {

@@ -21,7 +21,6 @@
   "toxic": "",
   "winter": false,
   "verified": "2026-06-06",
-  "gaps": "No strong open-licensed fall-color photo found; the reel shows spring flowers, summer berries, and green foliage though the species is known for orange-red fall color.",
   "shots": [
     {
       "local": "images/sp-flower-t.jpg",
@@ -52,6 +51,46 @@
       "by": "bookshelf0513",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/364142905"
+    },
+    {
+      "local": "images/fa-fall-color-t.jpg",
+      "full": "images/fa-fall-color.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/570674583/large.jpg",
+      "s": "fall",
+      "cap": "Fall — orange-red autumn foliage · © ellismaddleman (CC-BY-NC) / iNaturalist",
+      "by": "ellismaddleman",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/570674583"
+    },
+    {
+      "local": "images/fa-fall-habit-t.jpg",
+      "full": "images/fa-fall-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/589616712/large.jpg",
+      "s": "fall",
+      "cap": "Fall — whole shrub in red-purple fall color · © savannajo8 (CC-BY-NC) / iNaturalist",
+      "by": "savannajo8",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/589616712"
+    },
+    {
+      "local": "images/su-berry-foliage-t.jpg",
+      "full": "images/su-berry-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/90390410/large.jpg",
+      "s": "summer",
+      "cap": "Summer — red berries among trifoliate leaves · © cwkenney (CC-BY-NC) / iNaturalist",
+      "by": "cwkenney",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/90390410"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/306541507/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — leafy whole shrub against blue sky · © mwhite416 (CC-BY-NC) / iNaturalist",
+      "by": "mwhite416",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/306541507"
     }
   ],
   "care": {

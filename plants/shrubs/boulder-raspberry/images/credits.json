@@ -49,5 +49,33 @@
       365,
       400
     ]
+  },
+  {
+    "file": "images/su-fruit.jpg",
+    "by": "Lexie",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/48391687",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/su-fruit-cluster.jpg",
+    "by": "Austin R. Kelly",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/85389405",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/fa-fall-foliage.jpg",
+    "by": "brock",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/445690863",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/sp-habit.jpg",
+    "by": "roomthily",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/59123240",
+    "via": "iNaturalist"
   }
 ]

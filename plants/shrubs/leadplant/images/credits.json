@@ -49,5 +49,33 @@
       400,
       300
     ]
+  },
+  {
+    "file": "images/su-bloom.jpg",
+    "by": "jennyjax",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/394782008",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/su-habit-clump.jpg",
+    "by": "Austin R. Kelly",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/85142915",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/su-leaf.jpg",
+    "by": "rzbdevrgrn",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/552588656",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/wi-winter.jpg",
+    "by": "golddaylight",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/579638946",
+    "via": "iNaturalist"
   }
 ]

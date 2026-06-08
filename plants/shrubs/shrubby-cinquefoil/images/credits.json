@@ -49,5 +49,26 @@
       400,
       300
     ]
+  },
+  {
+    "file": "images/su-flower-close.jpg",
+    "by": "comradejon",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/402537312",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/su-habit-mound.jpg",
+    "by": "curt_nimz",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/167432713",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/wi-winter-seedhead.jpg",
+    "by": "no rights reserved",
+    "license": "CC0",
+    "source": "https://www.inaturalist.org/observations/59750605",
+    "via": "iNaturalist"
   }
 ]

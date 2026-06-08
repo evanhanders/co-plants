@@ -57,5 +57,19 @@
     "license": "CC-BY-NC",
     "source": "https://www.inaturalist.org/photos/471431492",
     "via": "GBIF"
+  },
+  {
+    "file": "images/su-habit2.jpg",
+    "by": "Dean Zagorac",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/87897915",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/su-pollinator.jpg",
+    "by": "Xavi",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/237357620",
+    "via": "iNaturalist"
   }
 ]

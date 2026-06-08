@@ -78,5 +78,19 @@
       400,
       300
     ]
+  },
+  {
+    "file": "images/sp-foliage.jpg",
+    "by": "Scott Shanks",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/observations/221901277",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/sp-flower.jpg",
+    "by": "adenis40",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/109242256",
+    "via": "iNaturalist"
   }
 ]

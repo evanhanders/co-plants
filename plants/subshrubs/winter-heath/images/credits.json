@@ -83,5 +83,19 @@
       400,
       300
     ]
+  },
+  {
+    "file": "images/wi-habit2.jpg",
+    "by": "hartmutschnuchel",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/150959861",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/wi-context.jpg",
+    "by": "William Stephens",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/observations/41171392",
+    "via": "iNaturalist"
   }
 ]

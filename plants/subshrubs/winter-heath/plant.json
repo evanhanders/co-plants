@@ -137,6 +137,26 @@
       "by": "lastovka",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/photos/618019894"
+    },
+    {
+      "local": "images/wi-habit2-t.jpg",
+      "full": "images/wi-habit2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/260396664/large.jpeg",
+      "s": "winter",
+      "cap": "Late winter — a near clump showing the spreading habit, pink urns over green needle foliage · © hartmutschnuchel (CC-BY-NC) / iNaturalist",
+      "by": "hartmutschnuchel",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/150959861"
+    },
+    {
+      "local": "images/wi-context-t.jpg",
+      "full": "images/wi-context.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/65289324/large.jpg",
+      "s": "winter",
+      "cap": "Late winter — the evergreen mat threading over alpine rock in its natural setting · © William Stephens (CC-BY) / iNaturalist",
+      "by": "William Stephens",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/41171392"
     }
   ]
 }

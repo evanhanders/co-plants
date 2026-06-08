@@ -77,6 +77,26 @@
       "by": "rudymichael",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/52014687"
+    },
+    {
+      "local": "images/sp-drift-t.jpg",
+      "full": "images/sp-drift.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/188649542/large.jpg",
+      "s": "spring",
+      "cap": "Spring — a warm apricot-orange drift of bushy flowering clumps in context (species-representative Erysimum) · © Dean Lyons (CC-BY-NC) / iNaturalist",
+      "by": "Dean Lyons",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/111730392"
+    },
+    {
+      "local": "images/sp-foliage-t.jpg",
+      "full": "images/sp-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/110851495/large.jpg",
+      "s": "spring",
+      "cap": "Spring — the grey-green strap-shaped wallflower leaves in close-up (species-representative Erysimum) · © Ángel Fernández Cancio (CC-BY-NC) / iNaturalist",
+      "by": "Ángel Fernández Cancio",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/68458963"
     }
   ],
   "care": {

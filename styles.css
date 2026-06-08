@@ -69,7 +69,8 @@ h1.display{font-size:clamp(34px,7vw,58px);font-weight:600;line-height:.98;margin
 /* mobile: a "Filters" toggle collapses the whole filter bar (hidden on desktop) */
 .filter-toggle{display:none;align-items:center;gap:6px;border:1.5px solid var(--line);background:var(--card);color:var(--ink);font-family:'Fraunces',Georgia,serif;font-size:13px;padding:8px 13px;border-radius:8px;cursor:pointer}
 .filter-toggle .ftcount{background:var(--green);color:#fff;font-size:11px;border-radius:20px;padding:1px 7px;font-variant-numeric:tabular-nums}
-.filter-toggle .ftchev{transition:transform .15s;font-size:11px}
+.filter-toggle .ftchev{transition:transform .15s;display:inline-grid;place-items:center}
+.filter-toggle .ftchev svg{width:15px;height:15px;display:block}
 .filter-toggle[aria-expanded="true"] .ftchev{transform:rotate(180deg)}
 @media(max-width:560px){
 .fgroup{flex-direction:column;gap:3px}.fgroup .fl-label{width:auto;text-align:left}
@@ -84,6 +85,7 @@ h1.display{font-size:clamp(34px,7vw,58px);font-weight:600;line-height:.98;margin
    any time without scrolling back up; the opaque paper background hides cards sliding under it */
 .group-head{ display:flex;align-items:center;gap:12px;margin:26px 0 2px;cursor:pointer;user-select:none; position:sticky;top:0;z-index:5;background:var(--paper);padding:8px 0 6px; }
 .group-head .chev{display:inline-grid;place-items:center;width:30px;height:30px;border:1.6px solid var(--green);background:var(--card);padding:0;font:inherit;transition:transform .2s, background .15s, color .15s;color:var(--green);font-size:15px;line-height:1;align-self:center;cursor:pointer;border-radius:50%;flex:0 0 auto}
+.group-head .chev svg{width:17px;height:17px;display:block}
 .group-head .chev:hover{background:var(--green);color:var(--paper)}
 .grp.collapsed .group-head .chev{transform:rotate(-90deg)}
 .group-head h2{font-family:'Fraunces',Georgia,serif;font-weight:600;font-size:22px;margin:0;color:var(--green);letter-spacing:.01em}

@@ -125,6 +125,26 @@
       "by": "Franck Le Driant",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/337012049"
+    },
+    {
+      "local": "images/su-drift-t.jpg",
+      "full": "images/su-drift.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/609688878/large.jpg",
+      "s": "summer",
+      "cap": "Summer — clumps dotting a dry montane slope in their native range, showing the drift habit · © Franck Le Driant (CC-BY-NC) / iNaturalist",
+      "by": "Franck Le Driant",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/335596045"
+    },
+    {
+      "local": "images/su-habit2-t.jpg",
+      "full": "images/su-habit2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/334948970/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — a steel-blue arching clump among wildflowers, blue-green blades catching the light · © jltasset (CC-BY-NC) / iNaturalist",
+      "by": "jltasset",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/190993847"
     }
   ]
 }

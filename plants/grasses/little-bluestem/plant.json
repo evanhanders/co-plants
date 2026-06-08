@@ -133,6 +133,26 @@
       "by": "habitatharry",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/photos/516917677"
+    },
+    {
+      "local": "images/fa-drift-t.jpg",
+      "full": "images/fa-drift.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/602744517/large.jpg",
+      "s": "fall",
+      "cap": "Fall — a coppery drift of clumps reading across the landscape · © charring (CC-BY-NC) / iNaturalist",
+      "by": "charring",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/332161320"
+    },
+    {
+      "local": "images/fa-habit2-t.jpg",
+      "full": "images/fa-habit2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/315907215/large.jpeg",
+      "s": "fall",
+      "cap": "Fall — a single mahogany-copper clump up close in the prairie · © Suzanne Dingwell (CC-BY-NC) / iNaturalist",
+      "by": "Suzanne Dingwell",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/181303425"
     }
   ],
   "commons": "Schizachyrium scoparium kz3.jpg"

@@ -25,7 +25,7 @@
 <p class="sub">A field guide to garden plants for the Colorado Front Range — how each looks through the seasons, how to grow it, what's edible, and the wildlife it feeds. Vetted weed-free before it earns a page.</p>
 <div class="meta-row">
 <span><b id="count">0</b> plants</span>
-<span>Grouped <b>by type</b> · tap to collapse</span>
+<span id="groupNote">Grouped <b>by type</b> · tap to collapse</span>
 </div>
 </header>
 <div class="toolbar">
@@ -33,9 +33,24 @@
 <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="m21 21-4.3-4.3"/></svg>
 <input id="search" type="search" inputmode="search" enterkeyhint="search" placeholder="Search plants &amp; traits…" autocomplete="off" autocorrect="off" autocapitalize="none" spellcheck="false">
 </div>
-<div class="seg" id="seg">
-<button data-view="type" class="active">By type</button>
-<button data-view="alpha">A–Z</button>
+<div class="sortbar">
+<label class="sortlbl" for="sortby">Sort</label>
+<select id="sortby" class="sortsel" aria-label="Sort and group plants by">
+<optgroup label="Grouped by">
+<option value="type">Type (growth form)</option>
+<option value="color">Flower colour</option>
+<option value="bloom">Bloom season</option>
+<option value="life">Lifecycle</option>
+<option value="sun">Sun</option>
+<option value="water">Water</option>
+<option value="nat">Origin</option>
+<option value="trait">Traits</option>
+<option value="edible">Edibility</option>
+</optgroup>
+<optgroup label="Flat list">
+<option value="alpha">A–Z (by name)</option>
+</optgroup>
+</select>
 </div>
 <button type="button" class="filter-toggle" id="filterToggle" aria-expanded="false" aria-controls="filters">Filters<span class="ftcount" id="ftCount" hidden></span><span class="ftchev" aria-hidden="true">▾</span></button>
 </div>

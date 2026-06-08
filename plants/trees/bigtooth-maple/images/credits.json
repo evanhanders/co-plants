@@ -66,5 +66,33 @@
       400,
       300
     ]
+  },
+  {
+    "file": "images/fa-foliage.jpg",
+    "by": "Eric Hough",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/139291885",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/fa-color.jpg",
+    "by": "CK2AZ",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/observations/17009388",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/su-habit.jpg",
+    "by": "scottmo",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/385979",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/su-foliage2.jpg",
+    "by": "Anders Hastings",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/observations/172090229",
+    "via": "iNaturalist"
   }
 ]

@@ -155,6 +155,46 @@
       "by": "winuna4",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/130731159"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/524765189/large.jpg",
+      "s": "summer",
+      "cap": "Summer — glossy oval plum foliage (species-representative American plum) · © buffalobuffalobuffalobuffalobuffalo (CC-BY-NC) / iNaturalist",
+      "by": "buffalobuffalobuffalobuffalobuffalo",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/291655091"
+    },
+    {
+      "local": "images/su-fruit2-t.jpg",
+      "full": "images/su-fruit2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/152349881/large.jpg",
+      "s": "summer",
+      "cap": "Late summer — ripe reddish plums on the branch (species-representative) · © Zack Harris (CC-BY-NC) / iNaturalist",
+      "by": "Zack Harris",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/92049430"
+    },
+    {
+      "local": "images/fa-color-t.jpg",
+      "full": "images/fa-color.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/11572669/large.jpg",
+      "s": "fall",
+      "cap": "Fall — plum leaf turning red-orange in autumn (species-representative) · © Leslie Flint (CC-BY-NC) / iNaturalist",
+      "by": "Leslie Flint",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/8643991"
+    },
+    {
+      "local": "images/wi-bark-t.jpg",
+      "full": "images/wi-bark.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/4774692/large.jpeg",
+      "s": "winter",
+      "cap": "Winter — plum trunk and bark with lenticels (species-representative) · © Shen-hao Yao (CC-BY-NC) / iNaturalist",
+      "by": "Shen-hao Yao",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/4036921"
     }
   ]
 }

@@ -74,5 +74,33 @@
       300,
       400
     ]
+  },
+  {
+    "file": "images/su-foliage.jpg",
+    "by": "buffalobuffalobuffalobuffalobuffalo",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/291655091",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/su-fruit2.jpg",
+    "by": "Zack Harris",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/92049430",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/fa-color.jpg",
+    "by": "Leslie Flint",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/8643991",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/wi-bark.jpg",
+    "by": "Shen-hao Yao",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/4036921",
+    "via": "iNaturalist"
   }
 ]

@@ -143,6 +143,46 @@
       "by": "Matt Lavin from Bozeman, Montana, USA",
       "lic": "CC BY-SA 2.0",
       "link": "https://commons.wikimedia.org/wiki/File:Lonicera_x_brownii_Dropmore_Scarlet_(4991083359).jpg"
+    },
+    {
+      "local": "images/fa-berries-t.jpg",
+      "full": "images/fa-berries.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/162170900/large.jpg",
+      "s": "fall",
+      "cap": "Fall — cluster of red-orange berries on the vine (species-representative Lonicera sempervirens) · © ildikorab (CC-BY-NC) / iNaturalist",
+      "by": "ildikorab",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/97504509"
+    },
+    {
+      "local": "images/su-foliage2-t.jpg",
+      "full": "images/su-foliage2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/370311219/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — blue-green oval leaf pairs along the stem (species-representative) · © aturney (CC-BY-NC) / iNaturalist",
+      "by": "aturney",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/209255080"
+    },
+    {
+      "local": "images/su-habit2-t.jpg",
+      "full": "images/su-habit2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/78128781/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — vine massed in full bloom on a house wall (species-representative) · © libby_mcpherson (CC-BY-NC) / iNaturalist",
+      "by": "libby_mcpherson",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/49219549"
+    },
+    {
+      "local": "images/su-habit3-t.jpg",
+      "full": "images/su-habit3.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/361724586/large.jpg",
+      "s": "summer",
+      "cap": "Summer — vine scrambling in the open, flowers against the sky (species-representative) · © cmiller3916 (CC-BY-NC) / iNaturalist",
+      "by": "cmiller3916",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/204634550"
     }
   ]
 }

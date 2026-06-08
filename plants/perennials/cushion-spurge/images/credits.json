@@ -63,5 +63,26 @@
     "license": "CC-BY-NC",
     "source": "https://www.inaturalist.org/observations/251366043",
     "via": "iNaturalist"
+  },
+  {
+    "file": "images/fa-foliage.jpg",
+    "by": "Martin A. Prinz",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/100477031",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/sp-seedhead.jpg",
+    "by": "Vladimir Tkalčić",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/44896551",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/sp-drift.jpg",
+    "by": "Tina Ellegaard Poulsen",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/observations/162634086",
+    "via": "iNaturalist"
   }
 ]

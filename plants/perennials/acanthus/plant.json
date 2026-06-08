@@ -75,6 +75,26 @@
       "by": "spyrusmt",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/221639561"
+    },
+    {
+      "local": "images/fa-seedhead-t.jpg",
+      "full": "images/fa-seedhead.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/130220155/large.jpg",
+      "s": "fall",
+      "cap": "Fall — dried brown seed spikes after bloom · © Chris Chadwick (CC-BY-NC) / iNaturalist",
+      "by": "Chris Chadwick",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/79500338"
+    },
+    {
+      "local": "images/sp-foliage2-t.jpg",
+      "full": "images/sp-foliage2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/334981251/large.jpg",
+      "s": "spring",
+      "cap": "Spring — a single rosette of the big glossy deeply-lobed leaves · © Peter Chen 2.0 (CC-BY) / iNaturalist",
+      "by": "Peter Chen 2.0",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/191013607"
     }
   ],
   "care": {

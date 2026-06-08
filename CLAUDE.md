@@ -311,8 +311,8 @@ Cards are **sorted by botanical (scientific) name** within each group (`allPlant
 **both** the common and botanical names are searchable (the search string includes both).
 Each section header carries a one-line plain-language gloss of that growth form (the
 `GROUP_DESC` map in `app.js`, rendered as `.group-desc`; it hides when the group is collapsed).
-Cards are grouped by morphology (collapsible) with an A–Z toggle, a search box, and a
-per-season photo strip you flip with the season dots
+Cards are grouped by morphology (collapsible) by default, with a **Sort dropdown** (`#sortby`
+in the toolbar), a search box, and a per-season photo strip you flip with the season dots
 (the strip is deliberately *not* finger-swipeable — see the tap-vs-swipe note). The card
 shows a small thumbnail; clicking (or `Enter`/`Space` on it — the photos are keyboard-focusable)
 opens the full-size image in a pinch/scroll zoom lightbox. The lightbox is a **swipeable
@@ -321,6 +321,20 @@ gallery**: it loads the whole reel, so swipe left/right, arrow keys, or the on-s
 hides for single-photo plants and at the ends).
 **Photos must be real CC-licensed photographs — no illustrations.** (See "Image
 requirements & sourcing" below for the per-plant photo spec.)
+
+**Sort / grouping (`#sortby`).** The toolbar's **Sort** dropdown chooses how the grid is laid
+out. Two bespoke modes: **Type** (the default — morphology sections with `GROUP_DESC` glosses,
+collection family cards, and collapse) and **A–Z** (one flat botanical-sorted list, no sections).
+Every *other* option groups the flat cards into collapsible sections **by a filter dimension** —
+**Flower colour, Bloom season, Lifecycle, Sun, Water, Origin, Traits, Edibility** — routed through
+`genericGroupedHTML(list, key, q)`, which buckets cards using **that same `GROUPS` entry's
+`opts[].test` predicates**, so sort and filter can't drift. Multi-valued dimensions (colour, bloom,
+traits, edibility) place a plant in **every** matching section; whatever matches no option falls
+into a trailing catch-all bucket (`OTHER_LABEL`). Section markup + collapse wiring are shared with
+the Type view via `sectionHTML()` + `wireGroupHeads()`. The non-Type/A–Z modes deliberately **skip
+family cards** (they'd fight a non-morphology grouping). The selection round-trips through the URL
+hash as `view=<key>` (legacy `type`/`alpha` values still parse). To add a sort dimension, just add
+an `<option>` to `#sortby` whose value is a `GROUPS` key (and an `OTHER_LABEL`/`SORT_LABEL` entry).
 
 **Filtering & state.** Filters are a **data-driven set of groups** — the `GROUPS` array in
 `app.js`. Each group is `{ key, label, mode, opts:[{v,label,test(p)}] }`; current groups are

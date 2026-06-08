@@ -94,6 +94,16 @@
       "by": "Céline",
       "lic": "CC-BY",
       "link": "https://www.inaturalist.org/observations/156240567"
+    },
+    {
+      "local": "images/wi-winter-t.jpg",
+      "full": "images/wi-winter.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/247725815/large.jpeg",
+      "s": "winter",
+      "cap": "Winter — bare twig with dormant buds over snow · © Aleksandr_Levon (CC-BY-NC) / iNaturalist",
+      "by": "Aleksandr_Levon",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/144347222"
     }
   ],
   "care": {

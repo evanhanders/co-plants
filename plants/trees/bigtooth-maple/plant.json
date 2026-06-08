@@ -97,6 +97,16 @@
       "by": "Anders Hastings",
       "lic": "CC-BY",
       "link": "https://www.inaturalist.org/observations/172090229"
+    },
+    {
+      "local": "images/wi-winter-t.jpg",
+      "full": "images/wi-winter.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/343600573/large.jpeg",
+      "s": "winter",
+      "cap": "Winter — bare dormant multi-stem maples in their dry foothills gully · © Neil O. Frakes (CC-BY-NC) / iNaturalist",
+      "by": "Neil O. Frakes",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/195329422"
     }
   ],
   "care": {

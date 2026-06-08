@@ -141,6 +141,26 @@
       "by": "Marco",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/70612819"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/114344393/large.jpg",
+      "s": "summer",
+      "cap": "Summer — a rounded leaf showing the dark horseshoe 'zone' band that names the plant · © pkrusell (CC-BY-NC) / iNaturalist",
+      "by": "pkrusell",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/70347501"
+    },
+    {
+      "local": "images/su-mass-t.jpg",
+      "full": "images/su-mass.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/397748750/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — a bold red bedding mass in full flower, the classic summer container/bed display · © Alan Rockefeller (CC-BY) / iNaturalist",
+      "by": "Alan Rockefeller",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/224419685"
     }
   ]
 }

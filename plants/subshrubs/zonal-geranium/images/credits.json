@@ -66,5 +66,19 @@
       400,
       268
     ]
+  },
+  {
+    "file": "images/su-foliage.jpg",
+    "by": "pkrusell",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/70347501",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/su-mass.jpg",
+    "by": "Alan Rockefeller",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/observations/224419685",
+    "via": "iNaturalist"
   }
 ]

@@ -145,6 +145,26 @@
       "by": "Arian",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/74649797"
+    },
+    {
+      "local": "images/sp-mass-t.jpg",
+      "full": "images/sp-mass.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/186550348/large.jpg",
+      "s": "spring",
+      "cap": "Late spring — a mass of deep-purple ruffled, dark-blotched regal blooms · © alemor (CC-BY-NC) / iNaturalist",
+      "by": "alemor",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/110572854"
+    },
+    {
+      "local": "images/sp-container-t.jpg",
+      "full": "images/sp-container.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/122746140/large.jpeg",
+      "s": "spring",
+      "cap": "Spring — a window-box container planting in full bloom, the cool-season way it's grown here · © Beatriz Tapia Calderon (CC-BY-NC) / iNaturalist",
+      "by": "Beatriz Tapia Calderon",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/75056202"
     }
   ]
 }

@@ -92,6 +92,16 @@
       "by": "merickson08",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/221827099"
+    },
+    {
+      "local": "images/wi-winter-t.jpg",
+      "full": "images/wi-winter.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/597218566/large.jpg",
+      "s": "winter",
+      "cap": "Winter — dormant shrub massed in silvery-pink feathery seedhead plumes · © Stephanie Taylor (CC0) / iNaturalist",
+      "by": "Stephanie Taylor",
+      "lic": "CC0",
+      "link": "https://www.inaturalist.org/observations/329463632"
     }
   ],
   "care": {

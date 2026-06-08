@@ -91,6 +91,16 @@
       "by": "Kara Carragher",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/293613254"
+    },
+    {
+      "local": "images/wi-winter-t.jpg",
+      "full": "images/wi-winter.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/250154094/large.jpeg",
+      "s": "winter",
+      "cap": "Winter — open seed pods releasing silky floss on snowy ground · © mahpin (CC-BY-NC) / iNaturalist",
+      "by": "mahpin",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/145615125"
     }
   ],
   "care": {

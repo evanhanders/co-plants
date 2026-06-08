@@ -92,6 +92,16 @@
       "by": "Becky Brenner",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/101177842"
+    },
+    {
+      "local": "images/wi-winter-t.jpg",
+      "full": "images/wi-winter.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/340030829/large.jpg",
+      "s": "winter",
+      "cap": "Winter — tall stems lined with dark dried seedheads · © mjsanc8p (CC-BY-NC) / iNaturalist",
+      "by": "mjsanc8p",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/193559231"
     }
   ],
   "care": {

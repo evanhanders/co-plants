@@ -94,6 +94,16 @@
       "by": "curt_nimz",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/319435160"
+    },
+    {
+      "local": "images/wi-winter-t.jpg",
+      "full": "images/wi-winter.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/111618191/large.jpg",
+      "s": "winter",
+      "cap": "Winter — a fluffy dried seed spike standing above the snow · © Mary Krieger (CC-BY) / iNaturalist",
+      "by": "Mary Krieger",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/68868993"
     }
   ],
   "care": {

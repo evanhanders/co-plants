@@ -161,6 +161,16 @@
       "by": "Richard Reynolds",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/514904"
+    },
+    {
+      "local": "images/wi-winter-t.jpg",
+      "full": "images/wi-winter.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/30940989/large.jpg",
+      "s": "winter",
+      "cap": "Winter — woolly silver semi-evergreen rosette on dry gravelly ground · © Alex Abair (CC-BY) / iNaturalist",
+      "by": "Alex Abair",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/20041771"
     }
   ]
 }

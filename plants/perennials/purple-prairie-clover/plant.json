@@ -92,6 +92,16 @@
       "by": "mcefh",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/137324513"
+    },
+    {
+      "local": "images/wi-winter-t.jpg",
+      "full": "images/wi-winter.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/59177880/large.jpg",
+      "s": "winter",
+      "cap": "Winter — a dried seed spike standing in dormant prairie grass · © Jeff Skrentny (CC-BY-NC) / iNaturalist",
+      "by": "Jeff Skrentny",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/37340831"
     }
   ],
   "care": {

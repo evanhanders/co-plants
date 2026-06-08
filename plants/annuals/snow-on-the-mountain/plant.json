@@ -146,6 +146,16 @@
       "by": "landofthelonesome",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/130819419"
+    },
+    {
+      "local": "images/su-fruit-t.jpg",
+      "full": "images/su-fruit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/430669683/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — a white-bracted flowering cluster with developing fruit · © no rights reserved (CC0) / iNaturalist",
+      "by": "no rights reserved",
+      "lic": "CC0",
+      "link": "https://www.inaturalist.org/observations/241561087"
     }
   ],
   "commons": "Euphorbia marginata 2.JPG"

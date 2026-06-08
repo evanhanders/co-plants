@@ -66,5 +66,19 @@
       300,
       400
     ]
+  },
+  {
+    "file": "images/sp-foliage.jpg",
+    "by": "Simon Tamblyn",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/observations/51894353",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/sp-bed.jpg",
+    "by": "杜家红",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/93609586",
+    "via": "iNaturalist"
   }
 ]

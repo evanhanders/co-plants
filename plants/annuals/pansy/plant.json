@@ -143,6 +143,26 @@
       "by": "maccath",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/photos/185185754"
+    },
+    {
+      "local": "images/sp-foliage-t.jpg",
+      "full": "images/sp-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/82474391/large.jpg",
+      "s": "spring",
+      "cap": "Spring — the scalloped, rounded leaf rosette · © Simon Tamblyn (CC-BY) / iNaturalist",
+      "by": "Simon Tamblyn",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/51894353"
+    },
+    {
+      "local": "images/sp-bed-t.jpg",
+      "full": "images/sp-bed.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/155170087/large.jpg",
+      "s": "spring",
+      "cap": "Spring — a mixed-colour bedding of pansies in full bloom · © 杜家红 (CC-BY-NC) / iNaturalist",
+      "by": "杜家红",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/93609586"
     }
   ]
 }

@@ -47,6 +47,56 @@
       "by": "David Martin",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/283276398"
+    },
+    {
+      "local": "images/fa-fallred-t.jpg",
+      "full": "images/fa-fallred.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/350047601/large.jpg",
+      "s": "fall",
+      "cap": "Fall — leaves turning brilliant scarlet · © patcooper (CC-BY-NC) / iNaturalist",
+      "by": "patcooper",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/198586201"
+    },
+    {
+      "local": "images/fa-fallyellow-t.jpg",
+      "full": "images/fa-fallyellow.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/26049185/large.jpg",
+      "s": "fall",
+      "cap": "Fall — clear-yellow autumn foliage · © Todd Ramsden (CC-BY-NC) / iNaturalist",
+      "by": "Todd Ramsden",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/17187189"
+    },
+    {
+      "local": "images/fa-samaras-t.jpg",
+      "full": "images/fa-samaras.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/323147609/large.jpg",
+      "s": "fall",
+      "cap": "Fall — paired winged samaras · © Donnie Barnett (CC-BY-NC) / iNaturalist",
+      "by": "Donnie Barnett",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/185067326"
+    },
+    {
+      "local": "images/su-bark-t.jpg",
+      "full": "images/su-bark.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/4557186/large.jpg",
+      "s": "summer",
+      "cap": "Summer — multi-stem trunks and bark · © franciscommercon (CC-BY-NC) / iNaturalist",
+      "by": "franciscommercon",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/3883590"
+    },
+    {
+      "local": "images/su-foliage2-t.jpg",
+      "full": "images/su-foliage2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/297258117/large.jpg",
+      "s": "summer",
+      "cap": "Summer — lobed maple leaves · © kavanaghm (CC-BY-NC) / iNaturalist",
+      "by": "kavanaghm",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/171313130"
     }
   ],
   "care": {

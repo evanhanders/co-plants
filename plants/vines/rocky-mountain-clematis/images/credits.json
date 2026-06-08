@@ -49,5 +49,33 @@
       300,
       400
     ]
+  },
+  {
+    "file": "images/su-plumes.jpg",
+    "by": "J.W.Baker",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/152215141",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/su-plume.jpg",
+    "by": "Canaan Sutton",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/244626255",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/su-habit.jpg",
+    "by": "Parker James Lloyd",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/observations/306922027",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/su-climbing.jpg",
+    "by": "Brian Charles",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/242208188",
+    "via": "iNaturalist"
   }
 ]

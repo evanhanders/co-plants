@@ -48,6 +48,66 @@
       "by": "quercus_havardii",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/253138155"
+    },
+    {
+      "local": "images/fa-acorns-t.jpg",
+      "full": "images/fa-acorns.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/309874722/large.jpg",
+      "s": "fall",
+      "cap": "Fall — ripe acorns in lobed foliage · © gggirl (CC-BY-NC) / iNaturalist",
+      "by": "gggirl",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/178112187"
+    },
+    {
+      "local": "images/sp-catkins-t.jpg",
+      "full": "images/sp-catkins.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/382040867/large.jpg",
+      "s": "spring",
+      "cap": "Spring — yellow-green male catkins · © Sheridan Samano (CC0) / iNaturalist",
+      "by": "Sheridan Samano",
+      "lic": "CC0",
+      "link": "https://www.inaturalist.org/observations/216043546"
+    },
+    {
+      "local": "images/su-landscape-t.jpg",
+      "full": "images/su-landscape.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/259917237/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — scrub-oak hillside in the foothills · © garagel-acari (CC-BY-NC) / iNaturalist",
+      "by": "garagel-acari",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/150705584"
+    },
+    {
+      "local": "images/wi-winterstems-t.jpg",
+      "full": "images/wi-winterstems.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/478089290/large.jpg",
+      "s": "winter",
+      "cap": "Winter — bare branching twig structure · © Archer Silverman (CC-BY) / iNaturalist",
+      "by": "Archer Silverman",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/266108163"
+    },
+    {
+      "local": "images/fa-fallhabit-t.jpg",
+      "full": "images/fa-fallhabit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/453205868/large.jpeg",
+      "s": "fall",
+      "cap": "Fall — whole tree in russet-gold color · © quercus_havardii (CC-BY-NC) / iNaturalist",
+      "by": "quercus_havardii",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/253138155"
+    },
+    {
+      "local": "images/fa-fallcolor2-t.jpg",
+      "full": "images/fa-fallcolor2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/160226911/large.jpg",
+      "s": "fall",
+      "cap": "Fall — orange-red autumn foliage close · © Sparrel Wood (CC-BY-NC) / iNaturalist",
+      "by": "Sparrel Wood",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/96443768"
     }
   ],
   "care": {

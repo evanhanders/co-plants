@@ -49,5 +49,47 @@
       300,
       400
     ]
+  },
+  {
+    "file": "images/fa-acorns.jpg",
+    "by": "gggirl",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/178112187",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/sp-catkins.jpg",
+    "by": "Sheridan Samano",
+    "license": "CC0",
+    "source": "https://www.inaturalist.org/observations/216043546",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/su-landscape.jpg",
+    "by": "garagel-acari",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/150705584",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/wi-winterstems.jpg",
+    "by": "Archer Silverman",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/observations/266108163",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/fa-fallhabit.jpg",
+    "by": "quercus_havardii",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/253138155",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/fa-fallcolor2.jpg",
+    "by": "Sparrel Wood",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/96443768",
+    "via": "iNaturalist"
   }
 ]

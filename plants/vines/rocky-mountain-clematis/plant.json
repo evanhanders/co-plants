@@ -51,6 +51,46 @@
       "by": "patcooper",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/129693374"
+    },
+    {
+      "local": "images/su-plumes-t.jpg",
+      "full": "images/su-plumes.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/262740555/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — silky feathery seed plumes · © J.W.Baker (CC-BY-NC) / iNaturalist",
+      "by": "J.W.Baker",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/152215141"
+    },
+    {
+      "local": "images/su-plume-t.jpg",
+      "full": "images/su-plume.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/436384881/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — a backlit silvery seedhead · © Canaan Sutton (CC-BY-NC) / iNaturalist",
+      "by": "Canaan Sutton",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/244626255"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553542092/large.jpg",
+      "s": "summer",
+      "cap": "Summer — vine clambering over a rock outcrop · © Parker James Lloyd (CC-BY) / iNaturalist",
+      "by": "Parker James Lloyd",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/306922027"
+    },
+    {
+      "local": "images/su-climbing-t.jpg",
+      "full": "images/su-climbing.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/431783899/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — divided foliage sprawling over rock · © Brian Charles (CC-BY-NC) / iNaturalist",
+      "by": "Brian Charles",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/242208188"
     }
   ],
   "care": {

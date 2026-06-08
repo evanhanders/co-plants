@@ -115,6 +115,56 @@
       "by": "kathymroth",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/30104744"
+    },
+    {
+      "local": "images/su-flowers-t.jpg",
+      "full": "images/su-flowers.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/78291313/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — greenish flower clusters over palmate leaves · © Mykyta Peregrym (CC-BY-NC) / iNaturalist",
+      "by": "Mykyta Peregrym",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/49319609"
+    },
+    {
+      "local": "images/fa-berries2-t.jpg",
+      "full": "images/fa-berries2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/38690297/large.jpg",
+      "s": "fall",
+      "cap": "Fall — blue berries on coral-red stalks · © michelelholcomb (CC-BY-NC) / iNaturalist",
+      "by": "michelelholcomb",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/25005436"
+    },
+    {
+      "local": "images/fa-fallmass-t.jpg",
+      "full": "images/fa-fallmass.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/237059982/large.jpeg",
+      "s": "fall",
+      "cap": "Fall — scarlet foliage draping with dark berries · © William Bee (CC-BY-NC) / iNaturalist",
+      "by": "William Bee",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/138670608"
+    },
+    {
+      "local": "images/fa-fallcolor-t.jpg",
+      "full": "images/fa-fallcolor.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/607534713/large.jpg",
+      "s": "fall",
+      "cap": "Fall — crimson five-leaflet autumn leaf · © Patrick Hacker (CC-BY) / iNaturalist",
+      "by": "Patrick Hacker",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/334537553"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/505829757/large.jpg",
+      "s": "summer",
+      "cap": "Summer — vine climbing a trellis · © Heather Humbird (CC-BY-NC) / iNaturalist",
+      "by": "Heather Humbird",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/281578855"
     }
   ]
 }

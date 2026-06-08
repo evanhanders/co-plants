@@ -115,35 +115,11 @@
       "lead": "garden-lupine",
       "blurb": "Lupinus — native and garden pea-flower spires (toxic alkaloids)."
     },
-    "speedwells": {
-      "name": "Speedwells",
-      "group": "Summer forbs",
-      "lead": "speedwell",
-      "blurb": "Veronica — upright spikes and creeping mats of starry flowers."
-    },
-    "salvias": {
-      "name": "Salvias & sages",
-      "group": "Subshrubs",
-      "lead": "russian-sage",
-      "blurb": "Salvia — aromatic ornamental sages and culinary rosemary."
-    },
-    "spurges": {
-      "name": "Spurges",
-      "group": "Subshrubs",
-      "lead": "cushion-spurge",
-      "blurb": "Euphorbia — chartreuse bracts and fall colour (milky sap — wear gloves)."
-    },
     "dogwoods": {
       "name": "Dogwoods",
       "group": "Shrubs",
       "lead": "red-twig-dogwood",
       "blurb": "Cornus — winter stems, early flowers, and bird berries."
-    },
-    "honeysuckles": {
-      "name": "Honeysuckles",
-      "group": "Vines",
-      "lead": "trumpet-honeysuckle",
-      "blurb": "Lonicera — twining vines and fruiting/wildlife shrubs."
     },
     "clematis": {
       "name": "Clematis",

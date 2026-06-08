@@ -395,13 +395,18 @@ driven off one predicate so they can't drift. To add one (e.g. `Fragrant`):
 
 Cultivar/genus clusters (apples, plums, tart cherries, currants, pelargoniums, wallflowers,
 asters, irises, tulips, climbing/rambling roses, hardy geraniums, crocuses, penstemons, maples,
-milkweeds, alliums, sunflowers, bee-balms, lupines, speedwells, salvias, spurges, dogwoods,
-honeysuckles, clematis — **25 in all**) collapse into a **single expandable family card** so the
-grid isn't buried under near-duplicate cards. It's an **inline accordion**, not a separate page —
-each member keeps its own detail page untouched. (Genus clusters intentionally left ungrouped:
-*Bouteloua* grama grasses — only 2 of a small section; *Centaurea* cornflower vs perennial bluet
-and *Anemone* windflower vs Japanese anemone — too unlike + different bloom seasons; *Rubus*
-ornamental Boulder raspberry vs the fruit raspberry — different intent.)
+milkweeds, alliums, sunflowers, bee-balms, lupines, dogwoods, clematis — **21 in all**) collapse
+into a **single expandable family card** so the grid isn't buried under near-duplicate cards. It's
+an **inline accordion**, not a separate page — each member keeps its own detail page untouched.
+The bar for a collection is "would a gardener read these as one kind of plant in different
+varieties." Genus clusters intentionally **left ungrouped** because they fail that bar (same genus
+but too unlike in form/role to read as one family — don't re-group them): *Salvia* (culinary
+rosemary + the diverse ornamental sages), *Lonicera* honeysuckles (a fruit bush + a native shrub +
+ornamental vines, spanning shrubs and vines), *Veronica* speedwells (upright spike vs flat creeping
+mat), *Euphorbia* spurges (cushion subshrub + native forb + variegated annual), *Bouteloua* grama
+grasses (only 2 of a small section), *Centaurea* (annual cornflower vs perennial bluet) and
+*Anemone* (spring windflower vs fall Japanese anemone) — unlike + different bloom seasons; and
+*Rubus* (ornamental Boulder raspberry vs the fruit raspberry — different intent).
 
 **Data model (two parts):**
 - **Membership** is one field on the member's `plant.json`: `"collection":"<id>"`. That's all a

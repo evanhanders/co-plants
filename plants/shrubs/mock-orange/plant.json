@@ -141,6 +141,16 @@
       "by": "Elliott Gordon",
       "lic": "CC-BY",
       "link": "https://www.inaturalist.org/observations/322879504"
+    },
+    {
+      "local": "images/wi-structure-t.jpg",
+      "full": "images/wi-structure.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/348011121/large.jpeg",
+      "s": "winter",
+      "cap": "Winter — the bare arching canes of the dormant shrub above snow · © Brian (CC-BY-NC) / iNaturalist",
+      "by": "Brian",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/197570021"
     }
   ]
 }

@@ -49,5 +49,33 @@
       300,
       400
     ]
+  },
+  {
+    "file": "images/fa-fall-color.jpg",
+    "by": "ellismaddleman",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/570674583",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/fa-fall-habit.jpg",
+    "by": "savannajo8",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/589616712",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/su-berry-foliage.jpg",
+    "by": "cwkenney",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/90390410",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/su-habit.jpg",
+    "by": "mwhite416",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/306541507",
+    "via": "iNaturalist"
   }
 ]

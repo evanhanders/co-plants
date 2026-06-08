@@ -49,5 +49,40 @@
       300,
       400
     ]
+  },
+  {
+    "file": "images/su-flowers.jpg",
+    "by": "Mykyta Peregrym",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/49319609",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/fa-berries2.jpg",
+    "by": "michelelholcomb",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/25005436",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/fa-fallmass.jpg",
+    "by": "William Bee",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/138670608",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/fa-fallcolor.jpg",
+    "by": "Patrick Hacker",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/observations/334537553",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/su-habit.jpg",
+    "by": "Heather Humbird",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/281578855",
+    "via": "iNaturalist"
   }
 ]

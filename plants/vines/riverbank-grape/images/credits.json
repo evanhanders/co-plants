@@ -49,5 +49,33 @@
       400,
       266
     ]
+  },
+  {
+    "file": "images/su-leaf.jpg",
+    "by": "Loïc Mathieu",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/observations/332465925",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/sp-flowers.jpg",
+    "by": "csledge",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/222559100",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/fa-grapes.jpg",
+    "by": "Skyler Principe",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/observations/133296477",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/su-habit.jpg",
+    "by": "celestekong",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/134314469",
+    "via": "iNaturalist"
   }
 ]

@@ -49,5 +49,26 @@
       400,
       400
     ]
+  },
+  {
+    "file": "images/fa-foliage.jpg",
+    "by": "aleksander_skw",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/63001718",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/fa-fall.jpg",
+    "by": "dudqeee",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/99071461",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/sp-habit.jpg",
+    "by": "hb2000",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/52969157",
+    "via": "iNaturalist"
   }
 ]

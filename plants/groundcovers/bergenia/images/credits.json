@@ -49,5 +49,26 @@
       300,
       400
     ]
+  },
+  {
+    "file": "images/su-foliage.jpg",
+    "by": "jocrosi",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/239960223",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/fa-redleaf.jpg",
+    "by": "kingaanna",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/320417992",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/sp-clump.jpg",
+    "by": "berrybunny",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/210313211",
+    "via": "iNaturalist"
   }
 ]

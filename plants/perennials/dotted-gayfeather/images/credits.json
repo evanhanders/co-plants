@@ -49,5 +49,33 @@
       300,
       400
     ]
+  },
+  {
+    "file": "images/su-foliage.jpg",
+    "by": "Carla Church",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/29338005",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/sp-foliage.jpg",
+    "by": "Anders Hastings",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/observations/221183318",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/fa-seedhead.jpg",
+    "by": "Jared Lincenberg",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/observations/248166392",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/fa-seedhead2.jpg",
+    "by": "curt_nimz",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/319435160",
+    "via": "iNaturalist"
   }
 ]

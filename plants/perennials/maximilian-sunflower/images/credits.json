@@ -49,5 +49,33 @@
       300,
       400
     ]
+  },
+  {
+    "file": "images/fa-flowering-stem.jpg",
+    "by": "lyndseynd",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/246702683",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/fa-drift.jpg",
+    "by": "Randolph King",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/187506365",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/fa-habit2.jpg",
+    "by": "Ann M Grant",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/141626767",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/fa-seedhead.jpg",
+    "by": "Becky Brenner",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/101177842",
+    "via": "iNaturalist"
   }
 ]

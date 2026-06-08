@@ -54,6 +54,46 @@
       "by": "Nathan Kelbe",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/238283659"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/45781950/large.jpg",
+      "s": "summer",
+      "cap": "Summer — the fine, grass-like dotted leaves · © Carla Church (CC-BY-NC) / iNaturalist",
+      "by": "Carla Church",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/29338005"
+    },
+    {
+      "local": "images/sp-foliage-t.jpg",
+      "full": "images/sp-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/391664355/large.jpeg",
+      "s": "spring",
+      "cap": "Spring — a young clump of needle-fine foliage emerging · © Anders Hastings (CC-BY) / iNaturalist",
+      "by": "Anders Hastings",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/221183318"
+    },
+    {
+      "local": "images/fa-seedhead-t.jpg",
+      "full": "images/fa-seedhead.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/443363123/large.jpeg",
+      "s": "fall",
+      "cap": "Fall — a feathered bottlebrush seed spike standing in the prairie · © Jared Lincenberg (CC-BY) / iNaturalist",
+      "by": "Jared Lincenberg",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/248166392"
+    },
+    {
+      "local": "images/fa-seedhead2-t.jpg",
+      "full": "images/fa-seedhead2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/577424910/large.jpg",
+      "s": "fall",
+      "cap": "Fall — dried bottlebrush seedheads gone to fluffy seed · © curt_nimz (CC-BY-NC) / iNaturalist",
+      "by": "curt_nimz",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/319435160"
     }
   ],
   "care": {

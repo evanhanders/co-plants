@@ -52,6 +52,46 @@
       "by": "curt_nimz",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/82766081"
+    },
+    {
+      "local": "images/su-fruit-t.jpg",
+      "full": "images/su-fruit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/48391687/large.jpg",
+      "s": "summer",
+      "cap": "Summer — ripe dark-red fruit · © Lexie (CC-BY-NC) / iNaturalist",
+      "by": "Lexie",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/48391687"
+    },
+    {
+      "local": "images/su-fruit-cluster-t.jpg",
+      "full": "images/su-fruit-cluster.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/85389405/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — fruit cluster on the cane · © Austin R. Kelly (CC-BY-NC) / iNaturalist",
+      "by": "Austin R. Kelly",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/85389405"
+    },
+    {
+      "local": "images/fa-fall-foliage-t.jpg",
+      "full": "images/fa-fall-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/445690863/large.jpeg",
+      "s": "fall",
+      "cap": "Fall — golden-yellow autumn foliage · © brock (CC-BY-NC) / iNaturalist",
+      "by": "brock",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/445690863"
+    },
+    {
+      "local": "images/sp-habit-t.jpg",
+      "full": "images/sp-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/59123240/large.jpeg",
+      "s": "spring",
+      "cap": "Spring — arching shrub in flower · © roomthily (CC-BY-NC) / iNaturalist",
+      "by": "roomthily",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/59123240"
     }
   ],
   "care": {

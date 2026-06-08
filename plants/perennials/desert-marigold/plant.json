@@ -121,6 +121,46 @@
       "by": "Melanie J. Davis",
       "lic": "CC-BY",
       "link": "https://www.inaturalist.org/observations/163516128"
+    },
+    {
+      "local": "images/sp-foliage-t.jpg",
+      "full": "images/sp-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/30010121/large.jpg",
+      "s": "spring",
+      "cap": "Spring — the woolly silver basal rosette · © Alex Abair (CC-BY) / iNaturalist",
+      "by": "Alex Abair",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/19503005"
+    },
+    {
+      "local": "images/su-seedhead-t.jpg",
+      "full": "images/su-seedhead.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/349785666/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — a spent papery seedhead on lean desert ground · © Francis J. Golden (CC-BY-NC) / iNaturalist",
+      "by": "Francis J. Golden",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/198452580"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/376316155/large.jpg",
+      "s": "summer",
+      "cap": "Summer — a flowering mound over its silver foliage · © HTalag (CC-BY-NC) / iNaturalist",
+      "by": "HTalag",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/212945763"
+    },
+    {
+      "local": "images/sp-drift-t.jpg",
+      "full": "images/sp-drift.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/655606/large.jpg",
+      "s": "spring",
+      "cap": "Spring — a drift of lemon daisies across the open desert · © Richard Reynolds (CC-BY-NC) / iNaturalist",
+      "by": "Richard Reynolds",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/514904"
     }
   ]
 }

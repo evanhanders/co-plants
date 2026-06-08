@@ -46,6 +46,36 @@
       "by": "gunnarpace",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/137460366"
+    },
+    {
+      "local": "images/fa-goldspike-t.jpg",
+      "full": "images/fa-goldspike.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/450939458/large.jpeg",
+      "s": "fall",
+      "cap": "Fall — bleached one-sided seed oats backlit · © Anders Hastings (CC-BY) / iNaturalist",
+      "by": "Anders Hastings",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/251962694"
+    },
+    {
+      "local": "images/fa-seedhead-ctx-t.jpg",
+      "full": "images/fa-seedhead-ctx.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/458758200/large.jpeg",
+      "s": "fall",
+      "cap": "Fall — ripe golden seed spike in the foothills · © Karlos Bellerjeau (CC-BY-NC) / iNaturalist",
+      "by": "Karlos Bellerjeau",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/255936578"
+    },
+    {
+      "local": "images/wi-winter-t.jpg",
+      "full": "images/wi-winter.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/110053991/large.jpg",
+      "s": "winter",
+      "cap": "Winter — tan clumps standing through snow · © Stephen Hauptli (CC-BY-NC) / iNaturalist",
+      "by": "Stephen Hauptli",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/68030779"
     }
   ],
   "care": {

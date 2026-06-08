@@ -49,5 +49,33 @@
       300,
       400
     ]
+  },
+  {
+    "file": "images/su-umbels.jpg",
+    "by": "Brad Winckelmann",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/261035240",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/su-habit.jpg",
+    "by": "Reid Hardin",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/observations/87601036",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/fa-seedheads.jpg",
+    "by": "Jared Lincenberg",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/observations/241993288",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/fa-rust-umbels.jpg",
+    "by": "vbell",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/32007428",
+    "via": "iNaturalist"
   }
 ]

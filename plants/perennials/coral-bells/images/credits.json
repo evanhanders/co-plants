@@ -49,5 +49,33 @@
       300,
       400
     ]
+  },
+  {
+    "file": "images/su-foliage2.jpg",
+    "by": "Eric Hough",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/36313278",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/sp-flower.jpg",
+    "by": "Ethan",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/32304164",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/wi-rosette.jpg",
+    "by": "southwestwanderer",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/36789793",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/wi-winter.jpg",
+    "by": "billburg",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/329410587",
+    "via": "iNaturalist"
   }
 ]

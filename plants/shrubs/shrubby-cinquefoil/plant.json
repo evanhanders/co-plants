@@ -52,6 +52,36 @@
       "by": "Werner Tueckmantel",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/321512500"
+    },
+    {
+      "local": "images/su-flower-close-t.jpg",
+      "full": "images/su-flower-close.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/402537312/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — buttercup-yellow flower close-up · © comradejon (CC-BY-NC) / iNaturalist",
+      "by": "comradejon",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/402537312"
+    },
+    {
+      "local": "images/su-habit-mound-t.jpg",
+      "full": "images/su-habit-mound.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/167432713/large.jpg",
+      "s": "summer",
+      "cap": "Summer — mounded shrub in the landscape · © curt_nimz (CC-BY-NC) / iNaturalist",
+      "by": "curt_nimz",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/167432713"
+    },
+    {
+      "local": "images/wi-winter-seedhead-t.jpg",
+      "full": "images/wi-winter-seedhead.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/59750605/large.jpeg",
+      "s": "winter",
+      "cap": "Winter — dried seedhead mound in snow · CC0 / iNaturalist · © no rights reserved (CC0) / iNaturalist",
+      "by": "no rights reserved",
+      "lic": "CC0",
+      "link": "https://www.inaturalist.org/observations/59750605"
     }
   ],
   "care": {

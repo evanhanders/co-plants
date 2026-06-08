@@ -49,5 +49,40 @@
       400,
       267
     ]
+  },
+  {
+    "file": "images/fa-cones2.jpg",
+    "by": "Sequoia Janirella Wrens",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/323289356",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/su-bark.jpg",
+    "by": "Kyleh",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/62723819",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/su-landscape.jpg",
+    "by": "Anders Hastings",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/observations/338337129",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/sp-needles2.jpg",
+    "by": "dnvarga",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/127308681",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/su-habit2.jpg",
+    "by": "Austin Saunders",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/238356964",
+    "via": "iNaturalist"
   }
 ]

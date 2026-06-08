@@ -124,6 +124,46 @@
       "by": "David Martin",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/56449413"
+    },
+    {
+      "local": "images/su-leaf-t.jpg",
+      "full": "images/su-leaf.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/603368347/large.jpg",
+      "s": "summer",
+      "cap": "Summer — a single lobed grape leaf in detail · © Loïc Mathieu (CC-BY) / iNaturalist",
+      "by": "Loïc Mathieu",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/332465925"
+    },
+    {
+      "local": "images/sp-flowers-t.jpg",
+      "full": "images/sp-flowers.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/394254179/large.jpeg",
+      "s": "spring",
+      "cap": "Late spring — the tiny green grape flowers up close · © csledge (CC-BY-NC) / iNaturalist",
+      "by": "csledge",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/222559100"
+    },
+    {
+      "local": "images/fa-grapes-t.jpg",
+      "full": "images/fa-grapes.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/227031162/large.jpeg",
+      "s": "fall",
+      "cap": "Late summer — a full hanging cluster of ripening grapes · © Skyler Principe (CC-BY) / iNaturalist",
+      "by": "Skyler Principe",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/133296477"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/228921611/large.jpg",
+      "s": "summer",
+      "cap": "Summer — the vigorous vine sprawling over its support · © celestekong (CC-BY-NC) / iNaturalist",
+      "by": "celestekong",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/134314469"
     }
   ]
 }

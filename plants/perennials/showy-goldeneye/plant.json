@@ -52,6 +52,46 @@
       "by": "anne-outdoors",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/324500616"
+    },
+    {
+      "local": "images/su-mass-t.jpg",
+      "full": "images/su-mass.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/226375552/large.jpg",
+      "s": "summer",
+      "cap": "Summer — a sheet of golden daisies in dry meadow · © debm (CC-BY-NC) / iNaturalist",
+      "by": "debm",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/132943796"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/422118289/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — narrow opposite leaves on wiry stems · © skynat303 (CC-BY-NC) / iNaturalist",
+      "by": "skynat303",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/237206979"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/151429009/large.jpg",
+      "s": "summer",
+      "cap": "Summer — airy clump of daisies over rock · © aprilphinney (CC-BY-NC) / iNaturalist",
+      "by": "aprilphinney",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/91535309"
+    },
+    {
+      "local": "images/su-context-t.jpg",
+      "full": "images/su-context.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/425533428/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — blooming at an aspen grove edge · © Brian (CC-BY-NC) / iNaturalist",
+      "by": "Brian",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/238979969"
     }
   ],
   "care": {

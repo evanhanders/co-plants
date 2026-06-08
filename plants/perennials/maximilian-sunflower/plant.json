@@ -52,6 +52,46 @@
       "by": "Anders Hastings",
       "lic": "CC-BY",
       "link": "https://www.inaturalist.org/observations/142485204"
+    },
+    {
+      "local": "images/fa-flowering-stem-t.jpg",
+      "full": "images/fa-flowering-stem.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/440469076/large.jpeg",
+      "s": "fall",
+      "cap": "Fall — a tall stem lined top to bottom with golden flowers · © lyndseynd (CC-BY-NC) / iNaturalist",
+      "by": "lyndseynd",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/246702683"
+    },
+    {
+      "local": "images/fa-drift-t.jpg",
+      "full": "images/fa-drift.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/327926164/large.jpeg",
+      "s": "fall",
+      "cap": "Fall — towering over a prairie meadow · © Randolph King (CC-BY-NC) / iNaturalist",
+      "by": "Randolph King",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/187506365"
+    },
+    {
+      "local": "images/fa-habit2-t.jpg",
+      "full": "images/fa-habit2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/242672902/large.jpeg",
+      "s": "fall",
+      "cap": "Fall — airy flowering stems · © Ann M Grant (CC-BY-NC) / iNaturalist",
+      "by": "Ann M Grant",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/141626767"
+    },
+    {
+      "local": "images/fa-seedhead-t.jpg",
+      "full": "images/fa-seedhead.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/168928451/large.jpeg",
+      "s": "fall",
+      "cap": "Fall — developing seed head · © Becky Brenner (CC-BY-NC) / iNaturalist",
+      "by": "Becky Brenner",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/101177842"
     }
   ],
   "care": {

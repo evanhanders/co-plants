@@ -49,5 +49,33 @@
       300,
       400
     ]
+  },
+  {
+    "file": "images/su-cone.jpg",
+    "by": "Sue Janssen",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/90389333",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/su-foliage.jpg",
+    "by": "Iliana Freiday",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/71333189",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/fa-seedhead.jpg",
+    "by": "Suzanne Dingwell",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/97218685",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/su-drift.jpg",
+    "by": "H R",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/295537606",
+    "via": "iNaturalist"
   }
 ]

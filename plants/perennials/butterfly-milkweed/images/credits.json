@@ -49,5 +49,33 @@
       300,
       400
     ]
+  },
+  {
+    "file": "images/fa-floss.jpg",
+    "by": "Sandy Wolkenberg",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/observations/33161481",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/fa-pods.jpg",
+    "by": "Tim O'Connell",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/228644385",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/su-foliage2.jpg",
+    "by": "Roman Westrich",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/312070917",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/su-habit2.jpg",
+    "by": "Kara Carragher",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/293613254",
+    "via": "iNaturalist"
   }
 ]

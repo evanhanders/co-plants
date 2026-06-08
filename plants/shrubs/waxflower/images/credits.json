@@ -49,5 +49,33 @@
       300,
       400
     ]
+  },
+  {
+    "file": "images/su-foliage.jpg",
+    "by": "Cathy Begej",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/293016507",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/su-leaf.jpg",
+    "by": "jysundman",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/293909471",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/su-cliff-habit.jpg",
+    "by": "Julie Evens",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/542405340",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/fa-fall-color.jpg",
+    "by": "Douglas Harris",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/325028845",
+    "via": "iNaturalist"
   }
 ]

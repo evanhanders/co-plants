@@ -49,5 +49,26 @@
       300,
       400
     ]
+  },
+  {
+    "file": "images/sp-flower.jpg",
+    "by": "Tom Norton",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/observations/285303792",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/su-leaf.jpg",
+    "by": "sarahhowdy",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/42288131",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/fa-fall.jpg",
+    "by": "Sepp Schmid",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/326045322",
+    "via": "iNaturalist"
   }
 ]

@@ -49,5 +49,40 @@
       400,
       267
     ]
+  },
+  {
+    "file": "images/fa-fallred.jpg",
+    "by": "patcooper",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/198586201",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/fa-fallyellow.jpg",
+    "by": "Todd Ramsden",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/17187189",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/fa-samaras.jpg",
+    "by": "Donnie Barnett",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/185067326",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/su-bark.jpg",
+    "by": "franciscommercon",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/3883590",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/su-foliage2.jpg",
+    "by": "kavanaghm",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/171313130",
+    "via": "iNaturalist"
   }
 ]

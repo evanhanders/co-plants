@@ -53,6 +53,56 @@
       "by": "comeoutside",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/240672428"
+    },
+    {
+      "local": "images/fa-flower-closeup-t.jpg",
+      "full": "images/fa-flower-closeup.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/401260845/large.jpeg",
+      "s": "fall",
+      "cap": "Fall — a single lavender, gold-eyed daisy face-on · © comradejon (CC-BY-NC) / iNaturalist",
+      "by": "comradejon",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/226266934"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/424886004/large.jpg",
+      "s": "summer",
+      "cap": "Summer — the narrow gray-green foliage before bloom · © curt_nimz (CC-BY-NC) / iNaturalist",
+      "by": "curt_nimz",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/238641498"
+    },
+    {
+      "local": "images/fa-branched-stems-t.jpg",
+      "full": "images/fa-branched-stems.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/563960339/large.jpg",
+      "s": "fall",
+      "cap": "Fall — branched silvery stems studded with daisies · © Matt Langemeier (CC-BY-NC) / iNaturalist",
+      "by": "Matt Langemeier",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/312364910"
+    },
+    {
+      "local": "images/fa-xeric-drift-t.jpg",
+      "full": "images/fa-xeric-drift.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/589938257/large.jpg",
+      "s": "fall",
+      "cap": "Fall — drifting through dry, open ground · © Jennifer Ackerfield (CC-BY-NC) / iNaturalist",
+      "by": "Jennifer Ackerfield",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/325796213"
+    },
+    {
+      "local": "images/fa-seedhead-t.jpg",
+      "full": "images/fa-seedhead.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/159137123/large.jpeg",
+      "s": "fall",
+      "cap": "Fall — a bristly seedhead beside a fading bloom · © Tamar (CC-BY-NC) / iNaturalist",
+      "by": "Tamar",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/95830490"
     }
   ],
   "care": {

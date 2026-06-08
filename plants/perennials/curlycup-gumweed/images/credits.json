@@ -49,5 +49,33 @@
       400,
       267
     ]
+  },
+  {
+    "file": "images/sp-rosette.jpg",
+    "by": "Z",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/observations/328727831",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/su-bud.jpg",
+    "by": "Jared Shorma",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/observations/55340556",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/fa-seedhead.jpg",
+    "by": "Jason Headley",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/36080261",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/su-drift.jpg",
+    "by": "Randy Floyd",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/29520238",
+    "via": "iNaturalist"
   }
 ]

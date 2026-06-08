@@ -128,6 +128,56 @@
       "by": "Barbra Schuessler Sobhani",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/215020289"
+    },
+    {
+      "local": "images/sp-foliage-t.jpg",
+      "full": "images/sp-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/608184732/large.jpg",
+      "s": "spring",
+      "cap": "Spring — arching leafy stems, reading the leaf shape and parallel veins · © Zac Peterson (CC-BY) / iNaturalist",
+      "by": "Zac Peterson",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/334854080"
+    },
+    {
+      "local": "images/sp-emergence-t.jpg",
+      "full": "images/sp-emergence.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/500631394/large.jpeg",
+      "s": "spring",
+      "cap": "Spring — new shoots emerging in the dappled shade · © Iona (CC-BY) / iNaturalist",
+      "by": "Iona",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/278807841"
+    },
+    {
+      "local": "images/su-berries-t.jpg",
+      "full": "images/su-berries.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/229885942/large.jpeg",
+      "s": "summer",
+      "cap": "Late summer — berries ripening from striped green to wine-red · © sdymersk (CC-BY-NC) / iNaturalist",
+      "by": "sdymersk",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/134829056"
+    },
+    {
+      "local": "images/fa-fall-berries-t.jpg",
+      "full": "images/fa-fall-berries.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/571472472/large.jpg",
+      "s": "fall",
+      "cap": "Fall — gold foliage with the last dark-red berries · © wmscnaturalist (CC-BY-NC) / iNaturalist",
+      "by": "wmscnaturalist",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/316305590"
+    },
+    {
+      "local": "images/fa-fall-color-t.jpg",
+      "full": "images/fa-fall-color.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/427263660/large.jpeg",
+      "s": "fall",
+      "cap": "Fall — the leafy stems turning clear gold before dieback · © Philip Kline (CC-BY-NC) / iNaturalist",
+      "by": "Philip Kline",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/239859124"
     }
   ]
 }

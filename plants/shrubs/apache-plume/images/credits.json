@@ -49,5 +49,33 @@
       225,
       400
     ]
+  },
+  {
+    "file": "images/su-foliage.jpg",
+    "by": "Alex Abair",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/observations/16948151",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/su-context.jpg",
+    "by": "drysm",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/295731328",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/fa-plumes.jpg",
+    "by": "Karen Guin",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/observations/227426617",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/fa-nearhabit.jpg",
+    "by": "merickson08",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/221827099",
+    "via": "iNaturalist"
   }
 ]

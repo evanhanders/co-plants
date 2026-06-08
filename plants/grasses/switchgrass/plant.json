@@ -46,6 +46,46 @@
       "by": "Patrick Morgan",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/140588150"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/672485335/large.jpg",
+      "s": "summer",
+      "cap": "Summer — broad green blades close up · © Linda Jo Conn (CC-BY) / iNaturalist",
+      "by": "Linda Jo Conn",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/368204873"
+    },
+    {
+      "local": "images/fa-fall2-t.jpg",
+      "full": "images/fa-fall2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/235327895/large.jpg",
+      "s": "fall",
+      "cap": "Fall — upright clump flushing red and burgundy · © philiphamilton (CC-BY-NC) / iNaturalist",
+      "by": "philiphamilton",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/137754421"
+    },
+    {
+      "local": "images/fa-drift-t.jpg",
+      "full": "images/fa-drift.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/117307828/large.jpeg",
+      "s": "fall",
+      "cap": "Fall — a golden-burgundy prairie drift · © embrenhar (CC-BY-NC) / iNaturalist",
+      "by": "embrenhar",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/71995299"
+    },
+    {
+      "local": "images/wi-winter-t.jpg",
+      "full": "images/wi-winter.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/455737874/large.jpg",
+      "s": "winter",
+      "cap": "Winter — tan clump holding form against the sky · © robertwayne (CC-BY-NC) / iNaturalist",
+      "by": "robertwayne",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/254433049"
     }
   ],
   "care": {

@@ -50,6 +50,66 @@
       "by": "Harper McGee",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/166790102"
+    },
+    {
+      "local": "images/fa-haws-t.jpg",
+      "full": "images/fa-haws.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/153445079/large.jpg",
+      "s": "fall",
+      "cap": "Fall — glossy dark wine-black haws · © Jared Shorma (CC-BY) / iNaturalist",
+      "by": "Jared Shorma",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/92652453"
+    },
+    {
+      "local": "images/fa-fruitmass-t.jpg",
+      "full": "images/fa-fruitmass.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/329025324/large.jpg",
+      "s": "fall",
+      "cap": "Fall — branches laden with dark haws · © skmohr09 (CC-BY-NC) / iNaturalist",
+      "by": "skmohr09",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/188058434"
+    },
+    {
+      "local": "images/fa-fruitfall-t.jpg",
+      "full": "images/fa-fruitfall.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/454747208/large.jpeg",
+      "s": "fall",
+      "cap": "Fall — dark haws among yellowing leaves · © Trayson Bowers (CC-BY-NC) / iNaturalist",
+      "by": "Trayson Bowers",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/253935603"
+    },
+    {
+      "local": "images/fa-fallcolor-t.jpg",
+      "full": "images/fa-fallcolor.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/436205287/large.jpeg",
+      "s": "fall",
+      "cap": "Fall — yellow-orange autumn foliage · © blockpack (CC-BY-NC) / iNaturalist",
+      "by": "blockpack",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/244535973"
+    },
+    {
+      "local": "images/sp-flowers2-t.jpg",
+      "full": "images/sp-flowers2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/388033386/large.jpg",
+      "s": "spring",
+      "cap": "Spring — white flower cluster and toothed leaves · © colocritters (CC-BY-NC) / iNaturalist",
+      "by": "colocritters",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/219237369"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/510048468/large.jpg",
+      "s": "summer",
+      "cap": "Summer — riparian thicket habit · © kfcasper (CC-BY-NC) / iNaturalist",
+      "by": "kfcasper",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/283699163"
     }
   ],
   "care": {

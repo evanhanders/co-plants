@@ -49,5 +49,40 @@
       300,
       400
     ]
+  },
+  {
+    "file": "images/fa-flower-closeup.jpg",
+    "by": "comradejon",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/226266934",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/su-foliage.jpg",
+    "by": "curt_nimz",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/238641498",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/fa-branched-stems.jpg",
+    "by": "Matt Langemeier",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/312364910",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/fa-xeric-drift.jpg",
+    "by": "Jennifer Ackerfield",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/325796213",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/fa-seedhead.jpg",
+    "by": "Tamar",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/95830490",
+    "via": "iNaturalist"
   }
 ]

@@ -121,6 +121,36 @@
       "by": "wild_horticulturalist",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/198735127"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/427450701/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — the glossy, leathery heart-shaped leaves up close · © jocrosi (CC-BY-NC) / iNaturalist",
+      "by": "jocrosi",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/239960223"
+    },
+    {
+      "local": "images/fa-redleaf-t.jpg",
+      "full": "images/fa-redleaf.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/579324370/large.jpg",
+      "s": "fall",
+      "cap": "Fall — the big leaves flushing deep red in the cold · © kingaanna (CC-BY-NC) / iNaturalist",
+      "by": "kingaanna",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/320417992"
+    },
+    {
+      "local": "images/sp-clump-t.jpg",
+      "full": "images/sp-clump.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/372006373/large.jpg",
+      "s": "spring",
+      "cap": "Spring — a flowering clump in a rock garden · © berrybunny (CC-BY-NC) / iNaturalist",
+      "by": "berrybunny",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/210313211"
     }
   ]
 }

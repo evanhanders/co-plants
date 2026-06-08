@@ -46,6 +46,36 @@
       "by": "Prairie Guy",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/33461775"
+    },
+    {
+      "local": "images/fa-fall-t.jpg",
+      "full": "images/fa-fall.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/332953085/large.jpg",
+      "s": "fall",
+      "cap": "Fall — the clump glowing apricot-gold · © Jonathan Sellman (CC-BY-NC) / iNaturalist",
+      "by": "Jonathan Sellman",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/189988510"
+    },
+    {
+      "local": "images/wi-winter-t.jpg",
+      "full": "images/wi-winter.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/108675042/large.jpeg",
+      "s": "winter",
+      "cap": "Winter — a tan fountain holding its form · © Ruta (CC-BY-NC) / iNaturalist",
+      "by": "Ruta",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/67287608"
+    },
+    {
+      "local": "images/wi-snow-t.jpg",
+      "full": "images/wi-snow.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/12894748/large.jpeg",
+      "s": "winter",
+      "cap": "Winter — golden clump dusted with snow · © Erin Haase (CC-BY-NC) / iNaturalist",
+      "by": "Erin Haase",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/9474525"
     }
   ],
   "care": {

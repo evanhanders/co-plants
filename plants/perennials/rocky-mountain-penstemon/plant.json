@@ -54,6 +54,56 @@
       "by": "Erik Danielsen",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/229570992"
+    },
+    {
+      "local": "images/fa-seedhead-t.jpg",
+      "full": "images/fa-seedhead.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/227808074/large.jpeg",
+      "s": "fall",
+      "cap": "Fall — dried seed capsules along the stalk · © rwr (CC-BY-NC) / iNaturalist",
+      "by": "rwr",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/133724911"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/617861867/large.jpg",
+      "s": "summer",
+      "cap": "Summer — glossy strap-shaped leaves · © no rights reserved (CC0) / iNaturalist",
+      "by": "no rights reserved",
+      "lic": "CC0",
+      "link": "https://www.inaturalist.org/observations/127452438"
+    },
+    {
+      "local": "images/su-context-t.jpg",
+      "full": "images/su-context.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/476409501/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — wands against a rocky foothills slope · © kaymick (CC-BY-NC) / iNaturalist",
+      "by": "kaymick",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/265247142"
+    },
+    {
+      "local": "images/su-habit2-t.jpg",
+      "full": "images/su-habit2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/407224491/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — whole flowering clump · © haileyr16 (CC-BY-NC) / iNaturalist",
+      "by": "haileyr16",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/229415267"
+    },
+    {
+      "local": "images/su-pollinator-t.jpg",
+      "full": "images/su-pollinator.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/223739243/large.jpg",
+      "s": "summer",
+      "cap": "Summer — bumblebee working a flower · © desertlavender (CC-BY-NC) / iNaturalist",
+      "by": "desertlavender",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/131470860"
     }
   ],
   "care": {

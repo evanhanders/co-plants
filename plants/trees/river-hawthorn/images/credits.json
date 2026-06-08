@@ -49,5 +49,47 @@
       300,
       400
     ]
+  },
+  {
+    "file": "images/fa-haws.jpg",
+    "by": "Jared Shorma",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/observations/92652453",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/fa-fruitmass.jpg",
+    "by": "skmohr09",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/188058434",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/fa-fruitfall.jpg",
+    "by": "Trayson Bowers",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/253935603",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/fa-fallcolor.jpg",
+    "by": "blockpack",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/244535973",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/sp-flowers2.jpg",
+    "by": "colocritters",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/219237369",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/su-habit.jpg",
+    "by": "kfcasper",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/283699163",
+    "via": "iNaturalist"
   }
 ]

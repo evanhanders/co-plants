@@ -49,5 +49,33 @@
       400,
       300
     ]
+  },
+  {
+    "file": "images/su-mass.jpg",
+    "by": "Ira Baline",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/22639758",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/su-drift.jpg",
+    "by": "Alissa Iverson",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/observations/211840177",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/su-habit.jpg",
+    "by": "breek0318",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/360938296",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/su-leaves.jpg",
+    "by": "Kate",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/6206007",
+    "via": "iNaturalist"
   }
 ]

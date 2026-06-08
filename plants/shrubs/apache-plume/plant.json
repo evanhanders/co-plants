@@ -52,6 +52,46 @@
       "by": "valeriecowan",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/289362154"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/25613380/large.jpg",
+      "s": "summer",
+      "cap": "Summer — divided grey-green foliage · © Alex Abair (CC-BY) / iNaturalist",
+      "by": "Alex Abair",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/16948151"
+    },
+    {
+      "local": "images/su-context-t.jpg",
+      "full": "images/su-context.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/532414916/large.jpg",
+      "s": "summer",
+      "cap": "Summer — flower and seedhead plume on the shrub · © drysm (CC-BY-NC) / iNaturalist",
+      "by": "drysm",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/295731328"
+    },
+    {
+      "local": "images/fa-plumes-t.jpg",
+      "full": "images/fa-plumes.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/403459018/large.jpg",
+      "s": "fall",
+      "cap": "Fall — drift of feathery pink seedhead plumes · © Karen Guin (CC-BY) / iNaturalist",
+      "by": "Karen Guin",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/227426617"
+    },
+    {
+      "local": "images/fa-nearhabit-t.jpg",
+      "full": "images/fa-nearhabit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/392872728/large.jpg",
+      "s": "fall",
+      "cap": "Fall — shrub massed in feathery pink plumes · © merickson08 (CC-BY-NC) / iNaturalist",
+      "by": "merickson08",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/221827099"
     }
   ],
   "care": {

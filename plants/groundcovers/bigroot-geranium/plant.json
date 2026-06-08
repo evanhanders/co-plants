@@ -129,6 +129,36 @@
       "by": "no rights reserved",
       "lic": "CC0",
       "link": "https://www.inaturalist.org/observations/226708381"
+    },
+    {
+      "local": "images/sp-flower-t.jpg",
+      "full": "images/sp-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/512817911/large.jpg",
+      "s": "spring",
+      "cap": "Late spring — a magenta flower face-on over the leaves · © Tom Norton (CC-BY) / iNaturalist",
+      "by": "Tom Norton",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/285303792"
+    },
+    {
+      "local": "images/su-leaf-t.jpg",
+      "full": "images/su-leaf.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/67136943/large.jpg",
+      "s": "summer",
+      "cap": "Summer — the deeply lobed aromatic leaves up close · © sarahhowdy (CC-BY-NC) / iNaturalist",
+      "by": "sarahhowdy",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/42288131"
+    },
+    {
+      "local": "images/fa-fall-t.jpg",
+      "full": "images/fa-fall.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/590431625/large.jpg",
+      "s": "fall",
+      "cap": "Fall — the foliage flushing red and gold · © Sepp Schmid (CC-BY-NC) / iNaturalist",
+      "by": "Sepp Schmid",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/326045322"
     }
   ]
 }

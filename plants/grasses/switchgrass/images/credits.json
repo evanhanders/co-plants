@@ -49,5 +49,33 @@
       300,
       400
     ]
+  },
+  {
+    "file": "images/su-foliage.jpg",
+    "by": "Linda Jo Conn",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/observations/368204873",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/fa-fall2.jpg",
+    "by": "philiphamilton",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/137754421",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/fa-drift.jpg",
+    "by": "embrenhar",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/71995299",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/wi-winter.jpg",
+    "by": "robertwayne",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/254433049",
+    "via": "iNaturalist"
   }
 ]

@@ -47,6 +47,56 @@
       "by": "dnvarga",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/127308681"
+    },
+    {
+      "local": "images/fa-cones2-t.jpg",
+      "full": "images/fa-cones2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/584944468/large.jpg",
+      "s": "fall",
+      "cap": "Fall — open cones bearing edible pine nuts · © Sequoia Janirella Wrens (CC-BY-NC) / iNaturalist",
+      "by": "Sequoia Janirella Wrens",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/323289356"
+    },
+    {
+      "local": "images/su-bark-t.jpg",
+      "full": "images/su-bark.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/100545848/large.jpg",
+      "s": "summer",
+      "cap": "Summer — furrowed trunk and bark · © Kyleh (CC-BY-NC) / iNaturalist",
+      "by": "Kyleh",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/62723819"
+    },
+    {
+      "local": "images/su-landscape-t.jpg",
+      "full": "images/su-landscape.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/615262215/large.jpg",
+      "s": "summer",
+      "cap": "Summer — piñon-juniper hillside vista · © Anders Hastings (CC-BY) / iNaturalist",
+      "by": "Anders Hastings",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/338337129"
+    },
+    {
+      "local": "images/sp-needles2-t.jpg",
+      "full": "images/sp-needles2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/216119685/large.jpg",
+      "s": "spring",
+      "cap": "Spring — paired needles and red pollen cones · © dnvarga (CC-BY-NC) / iNaturalist",
+      "by": "dnvarga",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/127308681"
+    },
+    {
+      "local": "images/su-habit2-t.jpg",
+      "full": "images/su-habit2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/424343901/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — rounded mounded habit in the open · © Austin Saunders (CC-BY-NC) / iNaturalist",
+      "by": "Austin Saunders",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/238356964"
     }
   ],
   "care": {

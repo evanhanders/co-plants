@@ -93,6 +93,16 @@
       "by": "Douglas Harris",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/325028845"
+    },
+    {
+      "local": "images/wi-winter-t.jpg",
+      "full": "images/wi-winter.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/473237780/large.jpeg",
+      "s": "winter",
+      "cap": "Winter — bare reddish twigs and persistent dried seed capsules on the cliffbush, with snow · © mybrokenxj (CC-BY-NC) / iNaturalist",
+      "by": "mybrokenxj",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/263426427"
     }
   ],
   "care": {

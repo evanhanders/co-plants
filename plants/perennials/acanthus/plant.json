@@ -95,6 +95,16 @@
       "by": "Peter Chen 2.0",
       "lic": "CC-BY",
       "link": "https://www.inaturalist.org/observations/191013607"
+    },
+    {
+      "local": "images/wi-winter-t.jpg",
+      "full": "images/wi-winter.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/348457338/large.jpeg",
+      "s": "winter",
+      "cap": "Winter — the big glossy semi-evergreen leaves holding through a mild winter · © Tiago Santos (CC-BY-NC) / iNaturalist",
+      "by": "Tiago Santos",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/197793803"
     }
   ],
   "care": {

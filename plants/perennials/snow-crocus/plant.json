@@ -134,6 +134,26 @@
       "by": "Sandy Wolkenberg",
       "lic": "CC-BY",
       "link": "https://www.inaturalist.org/photos/259585602"
+    },
+    {
+      "local": "images/sp-clump-t.jpg",
+      "full": "images/sp-clump.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/355568831/large.jpg",
+      "s": "spring",
+      "cap": "Spring — a clump open in sun, orange stigmas over grassy leaves · © Corey Farwell (CC-BY) / iNaturalist",
+      "by": "Corey Farwell",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/201427108"
+    },
+    {
+      "local": "images/sp-habit2-t.jpg",
+      "full": "images/sp-habit2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/631361489/large.jpg",
+      "s": "spring",
+      "cap": "Spring — a near clump in a woodland setting · © wanye8 (CC-BY-NC) / iNaturalist",
+      "by": "wanye8",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/346364133"
     }
   ]
 }

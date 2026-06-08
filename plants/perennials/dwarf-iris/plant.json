@@ -145,6 +145,26 @@
       "by": "soulfilming",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/photos/255658214"
+    },
+    {
+      "local": "images/sp-clump-t.jpg",
+      "full": "images/sp-clump.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/257640554/large.jpg",
+      "s": "spring",
+      "cap": "Early spring — a clump of blooms over grassy foliage · © pulchra (CC-BY-NC) / iNaturalist",
+      "by": "pulchra",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/149508685"
+    },
+    {
+      "local": "images/sp-habit2-t.jpg",
+      "full": "images/sp-habit2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/259946639/large.jpeg",
+      "s": "spring",
+      "cap": "Early spring — in its natural mountain-meadow setting · © give_peace_a_chance (CC-BY-NC) / iNaturalist",
+      "by": "give_peace_a_chance",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/150721059"
     }
   ]
 }

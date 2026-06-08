@@ -134,6 +134,36 @@
       "by": "Josef Maynollo",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/photos/240605456"
+    },
+    {
+      "local": "images/sp-seedhead-t.jpg",
+      "full": "images/sp-seedhead.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/127268840/large.jpeg",
+      "s": "spring",
+      "cap": "Spring — the green star-shaped seed follicles forming in a spent flower · © Mirko Tomasi (CC-BY-NC) / iNaturalist",
+      "by": "Mirko Tomasi",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/77802097"
+    },
+    {
+      "local": "images/wi-habit-t.jpg",
+      "full": "images/wi-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/253287591/large.jpeg",
+      "s": "winter",
+      "cap": "Late winter — a clump of white flowers nestled at the plant base · © lastovka (CC-BY-NC) / iNaturalist",
+      "by": "lastovka",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/147220611"
+    },
+    {
+      "local": "images/sp-foliage-t.jpg",
+      "full": "images/sp-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/275200772/large.jpeg",
+      "s": "spring",
+      "cap": "Spring — a rosette of the leathery dark-green palmate evergreen leaves · © adinie (CC-BY-NC) / iNaturalist",
+      "by": "adinie",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/159293843"
     }
   ]
 }

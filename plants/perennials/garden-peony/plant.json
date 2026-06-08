@@ -152,6 +152,16 @@
       "by": "Святослав Власенко",
       "lic": "CC-BY",
       "link": "https://www.inaturalist.org/photos/565314438"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/528773274/large.jpg",
+      "s": "summer",
+      "cap": "Summer — glossy divided green foliage · © Furious (CC-BY-NC) / iNaturalist",
+      "by": "Furious",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/293800621"
     }
   ],
   "commons": "Paeonia lactiflora 'Gay Paree'.jpg"

@@ -37,5 +37,19 @@
     "license": "CC-BY-NC",
     "source": "https://www.inaturalist.org/photos/516917677",
     "via": "GBIF"
+  },
+  {
+    "file": "images/fa-drift.jpg",
+    "by": "charring",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/332161320",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/fa-habit2.jpg",
+    "by": "Suzanne Dingwell",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/181303425",
+    "via": "iNaturalist"
   }
 ]

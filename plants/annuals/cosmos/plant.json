@@ -149,6 +149,26 @@
       "by": "mikxmanthe",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/266087252"
+    },
+    {
+      "local": "images/su-flowerwhite-t.jpg",
+      "full": "images/su-flowerwhite.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/575637534/large.jpg",
+      "s": "summer",
+      "cap": "Summer — the white colour form, face-on · © David Valdez (CC-BY-NC) / iNaturalist",
+      "by": "David Valdez",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/318499317"
+    },
+    {
+      "local": "images/su-drift-t.jpg",
+      "full": "images/su-drift.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/396175313/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — a field drift of cosmos · © Jaco Barry (CC-BY-NC) / iNaturalist",
+      "by": "Jaco Barry",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/223597278"
     }
   ],
   "commons": "Cosmea (Cosmos bipinnatus) 02.JPG"

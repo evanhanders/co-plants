@@ -141,6 +141,26 @@
       "by": "Doronenko",
       "lic": "CC-BY-2.5",
       "link": "https://commons.wikimedia.org/wiki/File:Perovskia_atriplicifolia_leave.jpg"
+    },
+    {
+      "local": "images/su-habit2-t.jpg",
+      "full": "images/su-habit2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/582325238/large.jpg",
+      "s": "summer",
+      "cap": "Late summer — the whole airy silver-stemmed clump in flower, showing the upright open habit · © katec12 (CC-BY-NC) / iNaturalist",
+      "by": "katec12",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/321951574"
+    },
+    {
+      "local": "images/su-drift-t.jpg",
+      "full": "images/su-drift.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/260543794/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — a lavender-blue drift spilling over a dry-stone wall against blue sky · © Jasmine Star Outdoor Photography (CC-BY-NC) / iNaturalist",
+      "by": "Jasmine Star Outdoor Photography",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/151039132"
     }
   ],
   "commons": "Perovskia atriplicifolia 138-8441.jpg"

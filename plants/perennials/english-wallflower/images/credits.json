@@ -66,5 +66,26 @@
       267,
       400
     ]
+  },
+  {
+    "file": "images/sp-foliage.jpg",
+    "by": "Joss Carr",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/observations/257347461",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/sp-flower.jpg",
+    "by": "babisloyfakis",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/151477882",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/sp-drift.jpg",
+    "by": "Alice Shanks",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/observations/16254346",
+    "via": "iNaturalist"
   }
 ]

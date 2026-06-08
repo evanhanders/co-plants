@@ -66,5 +66,19 @@
       400,
       267
     ]
+  },
+  {
+    "file": "images/su-seed.jpg",
+    "by": "Claire O'Neill",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/63637170",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/su-drift.jpg",
+    "by": "Dave Richardson",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/observations/245388779",
+    "via": "iNaturalist"
   }
 ]

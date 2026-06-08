@@ -73,6 +73,36 @@
       "by": "Felix Riegel",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/42172373"
+    },
+    {
+      "local": "images/su-foliage2-t.jpg",
+      "full": "images/su-foliage2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/374023030/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — glossy green pear foliage close-up (species-representative Pyrus communis) · © Patrick Hacker (CC-BY) / iNaturalist",
+      "by": "Patrick Hacker",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/211579191"
+    },
+    {
+      "local": "images/fa-color-t.jpg",
+      "full": "images/fa-color.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/329495043/large.jpg",
+      "s": "fall",
+      "cap": "Fall — pear foliage turning red in autumn (species-representative) · © konstantin_m (CC-BY-NC) / iNaturalist",
+      "by": "konstantin_m",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/188285992"
+    },
+    {
+      "local": "images/wi-structure-t.jpg",
+      "full": "images/wi-structure.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/108319132/large.jpeg",
+      "s": "winter",
+      "cap": "Winter — bare branching form of a pear tree in snow (species-representative) · © Тетяна Ситник (CC-BY-NC) / iNaturalist",
+      "by": "Тетяна Ситник",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/67096733"
     }
   ],
   "care": {

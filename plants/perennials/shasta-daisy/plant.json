@@ -129,6 +129,36 @@
       "by": "guywallbanks",
       "lic": "CC-BY",
       "link": "https://www.inaturalist.org/observations/347364768"
+    },
+    {
+      "local": "images/su-habit2-t.jpg",
+      "full": "images/su-habit2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/575581356/large.jpg",
+      "s": "summer",
+      "cap": "Summer — big white daisies massed in a border · © Jon Mortin (CC-BY) / iNaturalist",
+      "by": "Jon Mortin",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/318470758"
+    },
+    {
+      "local": "images/su-flower2-t.jpg",
+      "full": "images/su-flower2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/190734735/large.jpg",
+      "s": "summer",
+      "cap": "Summer — crisp face-on broad-rayed shasta bloom · © weaver_liss (CC-BY-NC) / iNaturalist",
+      "by": "weaver_liss",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/112900062"
+    },
+    {
+      "local": "images/su-habit3-t.jpg",
+      "full": "images/su-habit3.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/410644046/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — a free-flowering clump in full bloom · © Jarro Nevsbaru (CC-BY) / iNaturalist",
+      "by": "Jarro Nevsbaru",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/231227204"
     }
   ],
   "commons": "Shasta Daisy Becky NBG LR.jpg"

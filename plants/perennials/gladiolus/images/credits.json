@@ -66,5 +66,26 @@
       300,
       400
     ]
+  },
+  {
+    "file": "images/su-foliage.jpg",
+    "by": "Yoselin Miguel cárcamo",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/71579029",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/su-colorform.jpg",
+    "by": "Jenn Fish",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/298624813",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/su-buds.jpg",
+    "by": "Roman A. Lagazyuk (Роман А. Лагазюк)",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/observations/181290696",
+    "via": "iNaturalist"
   }
 ]

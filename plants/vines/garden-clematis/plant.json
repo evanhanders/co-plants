@@ -137,6 +137,46 @@
       "by": "SteveM4560",
       "lic": "CC-BY",
       "link": "https://www.inaturalist.org/observations/325331151"
+    },
+    {
+      "local": "images/su-flower2-t.jpg",
+      "full": "images/su-flower2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/253775234/large.jpg",
+      "s": "summer",
+      "cap": "Summer — violet-purple bloom face-on with creamy stamens · © Come Walk With Us (CC-BY-NC) / iNaturalist",
+      "by": "Come Walk With Us",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/147476487"
+    },
+    {
+      "local": "images/su-habit2-t.jpg",
+      "full": "images/su-habit2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/649708463/large.jpg",
+      "s": "summer",
+      "cap": "Summer — vine massed in bloom scrambling over a shed · © reameyer (CC-BY-NC) / iNaturalist",
+      "by": "reameyer",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/356275315"
+    },
+    {
+      "local": "images/su-foliage2-t.jpg",
+      "full": "images/su-foliage2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/641885530/large.jpg",
+      "s": "summer",
+      "cap": "Summer — trifoliate green leaves, showing the leaf shape · © Jo Roberts (CC-BY) / iNaturalist",
+      "by": "Jo Roberts",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/351733514"
+    },
+    {
+      "local": "images/fa-seedhead-t.jpg",
+      "full": "images/fa-seedhead.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/537734598/large.jpg",
+      "s": "fall",
+      "cap": "Fall — silky silvery-green feathery seed-plumes on the vine · © Grace Fosselman (CC-BY-NC) / iNaturalist",
+      "by": "Grace Fosselman",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/298527115"
     }
   ],
   "commons": "Clematis 'Jackmanii' IMG 0199.jpg"

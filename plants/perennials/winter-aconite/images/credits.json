@@ -83,5 +83,19 @@
       300,
       400
     ]
+  },
+  {
+    "file": "images/wi-foliage.jpg",
+    "by": "Martin Kalfatovic",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/observations/108985188",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/wi-clump.jpg",
+    "by": "Biserka Hudoletnjak",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/341087052",
+    "via": "iNaturalist"
   }
 ]

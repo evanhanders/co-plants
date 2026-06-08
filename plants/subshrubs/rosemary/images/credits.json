@@ -83,5 +83,19 @@
       301,
       400
     ]
+  },
+  {
+    "file": "images/wi-winter-flower.jpg",
+    "by": "zebedeugalinha",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/observations/335764400",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/fa-habitat.jpg",
+    "by": "Ángel Fernández Cancio",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/36600901",
+    "via": "iNaturalist"
   }
 ]

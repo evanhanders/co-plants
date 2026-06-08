@@ -152,6 +152,26 @@
       "by": "Eduardo Nadal",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/45818707"
+    },
+    {
+      "local": "images/su-seed-t.jpg",
+      "full": "images/su-seed.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/102165115/large.jpg",
+      "s": "summer",
+      "cap": "Summer — the round, ridged seed (schizocarp) ripening on the stem · © Claire O'Neill (CC-BY-NC) / iNaturalist",
+      "by": "Claire O'Neill",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/63637170"
+    },
+    {
+      "local": "images/su-drift-t.jpg",
+      "full": "images/su-drift.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/437878624/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — a drift of orange flowers scrambling over a bank · © Dave Richardson (CC-BY) / iNaturalist",
+      "by": "Dave Richardson",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/245388779"
     }
   ]
 }

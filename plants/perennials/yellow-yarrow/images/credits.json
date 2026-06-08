@@ -59,5 +59,19 @@
     "license": "CC-BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Achillea_%27Moonshine%27_kz1.jpg",
     "via": "Wikimedia Commons"
+  },
+  {
+    "file": "images/fa-seedhead.jpg",
+    "by": "Angel M",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/137433159",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/wi-seedheads.jpg",
+    "by": "Pedro Antonio Lázaro Molinero",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/197125355",
+    "via": "iNaturalist"
   }
 ]

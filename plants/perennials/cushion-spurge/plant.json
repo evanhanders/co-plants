@@ -145,6 +145,36 @@
       "by": "Helmut Schillo",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/251366043"
+    },
+    {
+      "local": "images/fa-foliage-t.jpg",
+      "full": "images/fa-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/167706531/large.jpeg",
+      "s": "fall",
+      "cap": "Fall — the foliage close-up ablaze in signature red-orange autumn colour · © Martin A. Prinz (CC-BY-NC) / iNaturalist",
+      "by": "Martin A. Prinz",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/100477031"
+    },
+    {
+      "local": "images/sp-seedhead-t.jpg",
+      "full": "images/sp-seedhead.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/71173499/large.jpg",
+      "s": "spring",
+      "cap": "Spring — clusters of maturing reddish-orange seed capsules · © Vladimir Tkalčić (CC-BY-NC) / iNaturalist",
+      "by": "Vladimir Tkalčić",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/44896551"
+    },
+    {
+      "local": "images/sp-drift-t.jpg",
+      "full": "images/sp-drift.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/281225543/large.jpeg",
+      "s": "spring",
+      "cap": "Spring — a mass of chartreuse-bracted domes in full spring colour · © Tina Ellegaard Poulsen (CC-BY) / iNaturalist",
+      "by": "Tina Ellegaard Poulsen",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/162634086"
     }
   ],
   "commons": "Euphorbia polychroma, wolfsmelk.JPG"

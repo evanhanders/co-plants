@@ -66,5 +66,19 @@
       300,
       400
     ]
+  },
+  {
+    "file": "images/sp-clump.jpg",
+    "by": "Corey Farwell",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/observations/201427108",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/sp-habit2.jpg",
+    "by": "wanye8",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/346364133",
+    "via": "iNaturalist"
   }
 ]

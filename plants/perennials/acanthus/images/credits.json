@@ -87,5 +87,19 @@
       720,
       480
     ]
+  },
+  {
+    "file": "images/fa-seedhead.jpg",
+    "by": "Chris Chadwick",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/79500338",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/sp-foliage2.jpg",
+    "by": "Peter Chen 2.0",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/observations/191013607",
+    "via": "iNaturalist"
   }
 ]

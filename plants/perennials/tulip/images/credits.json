@@ -66,5 +66,19 @@
       400,
       299
     ]
+  },
+  {
+    "file": "images/sp-colorform.jpg",
+    "by": "Michal Svit",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/355190829",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/sp-foliage.jpg",
+    "by": "arnoci",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/114263076",
+    "via": "iNaturalist"
   }
 ]

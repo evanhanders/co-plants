@@ -143,6 +143,16 @@
       "by": "David J. Stang",
       "lic": "CC-BY-SA",
       "link": "https://commons.wikimedia.org/wiki/File:Scabiosa_columbaria_Butterfly_Blue_26zz.jpg"
+    },
+    {
+      "local": "images/su-seedhead-t.jpg",
+      "full": "images/su-seedhead.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/460171001/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — spherical green pincushion seedhead forming · © Joan Greeff (CC-BY-NC) / iNaturalist",
+      "by": "Joan Greeff",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/256628864"
     }
   ]
 }

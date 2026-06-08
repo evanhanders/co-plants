@@ -66,5 +66,26 @@
       400,
       267
     ]
+  },
+  {
+    "file": "images/su-pod.jpg",
+    "by": "bennofn",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/146188902",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/su-foliage.jpg",
+    "by": "PRSonnen",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/117683537",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/su-drift.jpg",
+    "by": "Franck Le Driant",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/334238549",
+    "via": "iNaturalist"
   }
 ]

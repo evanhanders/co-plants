@@ -154,6 +154,26 @@
       "by": "Krzysztof Ziarnek, Kenraiz",
       "lic": "CC-BY-SA 4.0",
       "link": "https://commons.wikimedia.org/wiki/File:Achillea_%27Moonshine%27_kz1.jpg"
+    },
+    {
+      "local": "images/fa-seedhead-t.jpg",
+      "full": "images/fa-seedhead.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/234722775/large.jpeg",
+      "s": "fall",
+      "cap": "Fall — flat seed heads drying to tan over the ferny foliage (representative yarrow, Achillea filipendulina) · © Angel M (CC-BY-NC) / iNaturalist",
+      "by": "Angel M",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/137433159"
+    },
+    {
+      "local": "images/wi-seedheads-t.jpg",
+      "full": "images/wi-seedheads.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/347110178/large.jpeg",
+      "s": "winter",
+      "cap": "Winter — a clump of tan seed heads standing for winter structure (representative yarrow, Achillea filipendulina) · © Pedro Antonio Lázaro Molinero (CC-BY-NC) / iNaturalist",
+      "by": "Pedro Antonio Lázaro Molinero",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/197125355"
     }
   ]
 }

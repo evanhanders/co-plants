@@ -145,6 +145,26 @@
       "by": "c3766",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/100485120"
+    },
+    {
+      "local": "images/fa-seedhead-t.jpg",
+      "full": "images/fa-seedhead.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/454097155/large.jpeg",
+      "s": "fall",
+      "cap": "Fall — the distinctive curled C-shaped seeds in a spent head above a fresh bloom · © Russell Barrett (CC-BY-NC) / iNaturalist",
+      "by": "Russell Barrett",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/253591042"
+    },
+    {
+      "local": "images/su-drift-t.jpg",
+      "full": "images/su-drift.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/349147208/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — an orange drift in the border · © pedropedra (CC-BY-NC) / iNaturalist",
+      "by": "pedropedra",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/198134588"
     }
   ]
 }

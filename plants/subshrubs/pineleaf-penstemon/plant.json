@@ -139,6 +139,26 @@
       "by": "Zanna Vargas",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/331618500"
+    },
+    {
+      "local": "images/su-leaves-t.jpg",
+      "full": "images/su-leaves.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/396177415/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — macro of the needle-fine evergreen leaves with developing green seed capsules · © Joshua C'deBaca (CC-BY-NC) / iNaturalist (species form) · © Joshua C'deBaca (CC-BY-NC) / iNaturalist",
+      "by": "Joshua C'deBaca",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/223592037"
+    },
+    {
+      "local": "images/su-clump-t.jpg",
+      "full": "images/su-clump.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/543944221/large.jpg",
+      "s": "summer",
+      "cap": "Summer — a whole xeric clump in lean gravel, showing the low needle-leaved mound · © Saunders Drukker (CC-BY-NC) / iNaturalist (species form) · © Saunders Drukker (CC-BY-NC) / iNaturalist",
+      "by": "Saunders Drukker",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/301842536"
     }
   ]
 }

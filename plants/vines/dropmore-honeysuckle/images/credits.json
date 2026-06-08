@@ -85,5 +85,33 @@
     "license": "CC BY-SA 2.0",
     "source": "https://commons.wikimedia.org/wiki/File:Lonicera_x_brownii_Dropmore_Scarlet_(4991083359).jpg",
     "via": "Wikimedia Commons"
+  },
+  {
+    "file": "images/fa-berries.jpg",
+    "by": "ildikorab",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/97504509",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/su-foliage2.jpg",
+    "by": "aturney",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/209255080",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/su-habit2.jpg",
+    "by": "libby_mcpherson",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/49219549",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/su-habit3.jpg",
+    "by": "cmiller3916",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/204634550",
+    "via": "iNaturalist"
   }
 ]

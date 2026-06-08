@@ -143,6 +143,26 @@
       "by": "Kristi Zoebelein",
       "lic": "CC0",
       "link": "https://www.inaturalist.org/photos/616813909"
+    },
+    {
+      "local": "images/su-flower2-t.jpg",
+      "full": "images/su-flower2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/3469219/large.jpg",
+      "s": "summer",
+      "cap": "Summer — a rounded flower cluster face-on · © Erik Attaway (CC-BY-NC) / iNaturalist",
+      "by": "Erik Attaway",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/3015769"
+    },
+    {
+      "local": "images/su-flower3-t.jpg",
+      "full": "images/su-flower3.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/121453490/large.jpg",
+      "s": "summer",
+      "cap": "Summer — vivid rose-purple bloom cluster · © Dan Spaulding (CC-BY-NC) / iNaturalist",
+      "by": "Dan Spaulding",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/74321063"
     }
   ]
 }

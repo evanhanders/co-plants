@@ -83,5 +83,12 @@
       300,
       400
     ]
+  },
+  {
+    "file": "images/su-foliage.jpg",
+    "by": "Mark Nenadov",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/80185180",
+    "via": "iNaturalist"
   }
 ]

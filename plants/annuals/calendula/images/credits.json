@@ -66,5 +66,19 @@
       300,
       400
     ]
+  },
+  {
+    "file": "images/fa-seedhead.jpg",
+    "by": "Russell Barrett",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/253591042",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/su-drift.jpg",
+    "by": "pedropedra",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/198134588",
+    "via": "iNaturalist"
   }
 ]

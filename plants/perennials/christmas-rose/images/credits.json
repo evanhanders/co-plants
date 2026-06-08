@@ -66,5 +66,26 @@
       300,
       400
     ]
+  },
+  {
+    "file": "images/sp-seedhead.jpg",
+    "by": "Mirko Tomasi",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/77802097",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/wi-habit.jpg",
+    "by": "lastovka",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/147220611",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/sp-foliage.jpg",
+    "by": "adinie",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/159293843",
+    "via": "iNaturalist"
   }
 ]

@@ -57,6 +57,46 @@
       "by": "CARLOS VELAZCO",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/323210"
+    },
+    {
+      "local": "images/fa-foliage-t.jpg",
+      "full": "images/fa-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/238220412/large.jpg",
+      "s": "fall",
+      "cap": "Fall — brilliant scarlet-orange fall foliage · © Eric Hough (CC-BY-NC) / iNaturalist",
+      "by": "Eric Hough",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/139291885"
+    },
+    {
+      "local": "images/fa-color-t.jpg",
+      "full": "images/fa-color.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/25721636/large.jpg",
+      "s": "fall",
+      "cap": "Fall — red-orange fall leaves against blue sky · © CK2AZ (CC-BY) / iNaturalist",
+      "by": "CK2AZ",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/17009388"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/482535/large.jpg",
+      "s": "summer",
+      "cap": "Summer — whole tree form in leaf · © scottmo (CC-BY-NC) / iNaturalist",
+      "by": "scottmo",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/385979"
+    },
+    {
+      "local": "images/su-foliage2-t.jpg",
+      "full": "images/su-foliage2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/298684339/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — green palmate leaves close-up · © Anders Hastings (CC-BY) / iNaturalist",
+      "by": "Anders Hastings",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/172090229"
     }
   ],
   "care": {

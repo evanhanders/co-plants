@@ -66,5 +66,26 @@
       225,
       400
     ]
+  },
+  {
+    "file": "images/su-plume2.jpg",
+    "by": "damalizgs",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/66937879",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/su-cockscomb.jpg",
+    "by": "Virginia Tong",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/282114781",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/fa-seedhead.jpg",
+    "by": "onikiri",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/235025846",
+    "via": "iNaturalist"
   }
 ]

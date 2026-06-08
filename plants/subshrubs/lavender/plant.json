@@ -141,6 +141,26 @@
       "by": "Oliver Stöhr",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/photos/471431492"
+    },
+    {
+      "local": "images/su-habit2-t.jpg",
+      "full": "images/su-habit2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/144965591/large.jpg",
+      "s": "summer",
+      "cap": "Summer — the rounded silver-green evergreen mound out of bloom, showing the plant's overall form · © Dean Zagorac (CC-BY-NC) / iNaturalist",
+      "by": "Dean Zagorac",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/87897915"
+    },
+    {
+      "local": "images/su-pollinator-t.jpg",
+      "full": "images/su-pollinator.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/422411290/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — a butterfly working the purple flower spikes · © Xavi (CC-BY-NC) / iNaturalist",
+      "by": "Xavi",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/237357620"
     }
   ]
 }

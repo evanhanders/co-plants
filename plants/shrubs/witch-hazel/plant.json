@@ -146,6 +146,26 @@
       "by": "Jennifer Ogle",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/photos/107766951"
+    },
+    {
+      "local": "images/wi-flower-t.jpg",
+      "full": "images/wi-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/475818594/large.jpeg",
+      "s": "winter",
+      "cap": "Late winter — spidery yellow-orange ribbon flowers strung along the bare branches · © Andrew Ruegsegger (CC-BY-NC) / iNaturalist",
+      "by": "Andrew Ruegsegger",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/photos/475818594"
+    },
+    {
+      "local": "images/wi-flower3-t.jpg",
+      "full": "images/wi-flower3.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/1529016/large.jpg",
+      "s": "winter",
+      "cap": "Late winter — a cluster of crinkled strap-petalled blooms on a bare twig · © mayfly1963 (CC-BY) / iNaturalist",
+      "by": "mayfly1963",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/photos/1529016"
     }
   ]
 }

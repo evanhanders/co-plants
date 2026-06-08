@@ -143,6 +143,26 @@
       "by": "wwwa",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/153124521"
+    },
+    {
+      "local": "images/su-habit2-t.jpg",
+      "full": "images/su-habit2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/349815963/large.jpg",
+      "s": "summer",
+      "cap": "Summer — golden daisies on wiry stems in an open meadow · © Theo Witsell (CC-BY-NC) / iNaturalist",
+      "by": "Theo Witsell",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/198467160"
+    },
+    {
+      "local": "images/su-flower2-t.jpg",
+      "full": "images/su-flower2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/135692740/large.jpg",
+      "s": "summer",
+      "cap": "Summer — flowers on slender stems rising over grassy ground · © scottgillingwater (CC-BY-NC) / iNaturalist",
+      "by": "scottgillingwater",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/82661597"
     }
   ]
 }

@@ -83,5 +83,19 @@
       300,
       400
     ]
+  },
+  {
+    "file": "images/sp-clump.jpg",
+    "by": "pulchra",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/149508685",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/sp-habit2.jpg",
+    "by": "give_peace_a_chance",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/150721059",
+    "via": "iNaturalist"
   }
 ]

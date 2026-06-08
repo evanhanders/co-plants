@@ -62,6 +62,26 @@
       "by": "Suzanne Mrozak",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/268253163"
+    },
+    {
+      "local": "images/fa-habit2-t.jpg",
+      "full": "images/fa-habit2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/106959280/large.jpeg",
+      "s": "fall",
+      "cap": "Fall — golden-blooming shrubs massed across an open landscape · © Suzanne Dingwell (CC-BY-NC) / iNaturalist",
+      "by": "Suzanne Dingwell",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/photos/106959280"
+    },
+    {
+      "local": "images/fa-habit3-t.jpg",
+      "full": "images/fa-habit3.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/100004680/large.jpg",
+      "s": "fall",
+      "cap": "Fall — the rounded silver-stemmed whole shrub crowned in gold bloom · © aljordan (CC-BY-NC) / iNaturalist",
+      "by": "aljordan",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/photos/100004680"
     }
   ],
   "care": {

@@ -943,12 +943,15 @@ Plant Select, USDA NRCS plant guides, USDA-FS FEIS, LBJ Wildflower Center, MBG, 
 `tools/inat_montage.py`.
 (N) = CO/regional native, (I) = introduced/vetted.
 
-**Reel enrichment (June 2026):** every reel with ≤3 photos (the 46 newest entries) was backfilled to
-**6–9 shots** against the shot-type checklist via phenology/month-targeted montages + `gbif_add.py`
+**Reel enrichment (June 2026):** **every plant now carries 6–9 photos** — the whole guide was
+backfilled against the shot-type checklist via phenology/month-targeted montages + `gbif_add.py`
 (foliage, seeds/pods/berries, near + far/in-context habit, fall colour, winter structure). The
 Gambel-oak acorn and three-leaf-sumac fall-colour gaps are now filled. The navigator shows season-icon
-dots and every reel is ordered by season (the curated lead stays the card thumbnail). Guide-wide avg is
-now ~6 photos/plant; the 66 older reels still at 4–5 shots are the next enrichment target.
+dots and every reel is ordered by season (the curated lead stays the card thumbnail). Guide-wide avg
+is **~6.8 photos/plant (1,198 images); 0 plants below 6.** Garden cultivars with thin CC supply (the
+pelargoniums, wallflower/yarrow/Rozanne cultivars, fruit cultivars) use honestly-captioned
+**species-representative** shots where no cultivar-specific photo of a needed type exists — matching the
+guide's existing convention. New entries should hit 6–9 the same way.
 
 **Trees**
 - River hawthorn (*Crataegus rivularis*) (N) — Thorny native small tree; white spring flowers, dark edible haws, superb wildlife cover. A caterpillar keystone (~90 Lepidoptera). *(Riparian — wants more water; edible haws, spit the cyanogenic seeds.)*

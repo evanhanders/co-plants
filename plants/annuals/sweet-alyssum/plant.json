@@ -131,6 +131,26 @@
       "by": "Jon Sullivan",
       "lic": "CC-BY",
       "link": "https://www.inaturalist.org/photos/29914085"
+    },
+    {
+      "local": "images/su-drift-t.jpg",
+      "full": "images/su-drift.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/506034367/large.jpg",
+      "s": "summer",
+      "cap": "Summer — a white drift cascading over greenery · © Taylor (CC-BY-NC) / iNaturalist",
+      "by": "Taylor",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/281694327"
+    },
+    {
+      "local": "images/su-purple-t.jpg",
+      "full": "images/su-purple.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/118596795/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — a purple-flowered colour form · © Eleftherios Katsillis (CC-BY) / iNaturalist",
+      "by": "Eleftherios Katsillis",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/72711701"
     }
   ]
 }

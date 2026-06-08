@@ -147,6 +147,36 @@
       "by": "sddonavan",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/45557364"
+    },
+    {
+      "local": "images/su-pod-t.jpg",
+      "full": "images/su-pod.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/251281801/large.jpg",
+      "s": "summer",
+      "cap": "Summer — a green seed pod ripening on the vine · © bennofn (CC-BY-NC) / iNaturalist",
+      "by": "bennofn",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/146188902"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/198774296/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — leaves and clasping tendrils · © PRSonnen (CC-BY-NC) / iNaturalist",
+      "by": "PRSonnen",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/117683537"
+    },
+    {
+      "local": "images/su-drift-t.jpg",
+      "full": "images/su-drift.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/606930476/large.jpg",
+      "s": "summer",
+      "cap": "Summer — a drift of flowering plants in the open · © Franck Le Driant (CC-BY-NC) / iNaturalist",
+      "by": "Franck Le Driant",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/334238549"
     }
   ]
 }

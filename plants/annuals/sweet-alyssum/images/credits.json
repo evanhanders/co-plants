@@ -66,5 +66,19 @@
       400,
       300
     ]
+  },
+  {
+    "file": "images/su-drift.jpg",
+    "by": "Taylor",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/281694327",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/su-purple.jpg",
+    "by": "Eleftherios Katsillis",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/observations/72711701",
+    "via": "iNaturalist"
   }
 ]

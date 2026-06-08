@@ -141,6 +141,26 @@
       "by": "grinnin",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/221961161"
+    },
+    {
+      "local": "images/sp-bloom2-t.jpg",
+      "full": "images/sp-bloom2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/40805504/large.jpeg",
+      "s": "spring",
+      "cap": "Spring — a dense drift of white star flowers smothering the silver mat · © Andrew Simon (CC-BY-NC) / iNaturalist",
+      "by": "Andrew Simon",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/26288932"
+    },
+    {
+      "local": "images/sp-habit-t.jpg",
+      "full": "images/sp-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/331056184/large.jpeg",
+      "s": "spring",
+      "cap": "Spring — the silver-gray woolly mat spilling over a low stone wall · © Kurt Nadler (CC-BY-NC) / iNaturalist",
+      "by": "Kurt Nadler",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/189048781"
     }
   ]
 }

@@ -66,5 +66,19 @@
       400,
       300
     ]
+  },
+  {
+    "file": "images/fa-habit2.jpg",
+    "by": "Suzanne Dingwell",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/photos/106959280",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/fa-habit3.jpg",
+    "by": "aljordan",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/photos/100004680",
+    "via": "iNaturalist"
   }
 ]

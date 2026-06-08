@@ -150,6 +150,26 @@
       "by": "Sebastian Cato",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/photos/183037788"
+    },
+    {
+      "local": "images/sp-flowers-t.jpg",
+      "full": "images/sp-flowers.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/110826184/large.jpg",
+      "s": "spring",
+      "cap": "Spring — a multi-flowered jonquil-type cluster · © faluke (CC-BY-NC) / iNaturalist",
+      "by": "faluke",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/68443953"
+    },
+    {
+      "local": "images/sp-flower2-t.jpg",
+      "full": "images/sp-flower2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/57095781/large.jpeg",
+      "s": "spring",
+      "cap": "Spring — white-petalled form with an orange cup, face-on · © Katerina Kalogerini (CC-BY) / iNaturalist",
+      "by": "Katerina Kalogerini",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/36142384"
     }
   ]
 }

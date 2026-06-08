@@ -144,6 +144,26 @@
       "by": "charliemcfarlig",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/115300413"
+    },
+    {
+      "local": "images/fa-foliage-t.jpg",
+      "full": "images/fa-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/238855981/large.jpeg",
+      "s": "fall",
+      "cap": "Fall — the silver-frosted heart-shaped leaves among autumn leaf litter · © anneb2233 (CC-BY-NC) / iNaturalist",
+      "by": "anneb2233",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/139628653"
+    },
+    {
+      "local": "images/sp-habit-t.jpg",
+      "full": "images/sp-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/485463208/large.jpg",
+      "s": "spring",
+      "cap": "Spring — a silver-leaved mound studded with blue forget-me-not sprays · © Shuhua Tang (CC-BY-NC) / iNaturalist",
+      "by": "Shuhua Tang",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/269967643"
     }
   ]
 }

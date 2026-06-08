@@ -526,9 +526,17 @@ hosted herbarium. The order matters:
 staying up, so every shot's photo lives in the plant's `images/` folder. Remote
 `url`/`commons` stays only as a thin fallback.
 
-**Per-plant photo goal — the reel should let a viewer *understand the plant*.** Two shots
-is the floor, but cover these **shot types** (3–5 where the plant warrants it), because a
-single flower close-up + one habit shot usually isn't enough to know a plant:
+**Per-plant photo goal — the reel should let a viewer *understand the plant*. AIM FOR 6–9
+SHOTS** (more is good; the navigator scales). Cover these **shot types**, using the close-up
+*and* far/in-context shots together, because a single flower close-up + one habit shot isn't
+enough to know a plant. Hit every type for which an open-licensed shot exists — a clean
+**foliage** close-up, **flower** face-on, **seed/pod/berry/seedhead**, a **near** whole-plant
+and a **far** plant-in-context (different backgrounds), and **each season** the plant actually
+has (spring emergence, fall colour, winter structure). To fill the types that top-voted iNat
+results miss (which skew to flowers), target them: `--phenology no_evidence` for clean foliage,
+`--phenology fruiting` for seeds/pods, `--month 9,10,11`/`12,1,2` for fall/winter, default votes
+for habit — then **`gbif_add.py` APPENDS** the new shots without rebuilding the reel. The shot
+types:
 
 1. **Whole plant / habit** — its overall form, size and how it grows.
 2. **Foliage** — a shot where you can actually read the leaves (shape, texture, colour),
@@ -932,9 +940,15 @@ bland fruit) and **piñon** (pine nuts) are edible, and **Gambel oak acorns** ar
 after-leaching-tannins; **Rocky Mountain maple is the one non-xeric** of the trees (montane streamside —
 wants supplemental water + afternoon shade). Care sourced via parallel agents from CSU/USU Extension,
 Plant Select, USDA NRCS plant guides, USDA-FS FEIS, LBJ Wildflower Center, MBG, and NC State; photos via
-`tools/inat_montage.py`. Two reels carry `gaps` notes (no CC fall-color shot for three-leaf sumac; no CC
-acorn close-up for Gambel oak).
+`tools/inat_montage.py`.
 (N) = CO/regional native, (I) = introduced/vetted.
+
+**Reel enrichment (June 2026):** every reel with ≤3 photos (the 46 newest entries) was backfilled to
+**6–9 shots** against the shot-type checklist via phenology/month-targeted montages + `gbif_add.py`
+(foliage, seeds/pods/berries, near + far/in-context habit, fall colour, winter structure). The
+Gambel-oak acorn and three-leaf-sumac fall-colour gaps are now filled. The navigator shows season-icon
+dots and every reel is ordered by season (the curated lead stays the card thumbnail). Guide-wide avg is
+now ~6 photos/plant; the 66 older reels still at 4–5 shots are the next enrichment target.
 
 **Trees**
 - River hawthorn (*Crataegus rivularis*) (N) — Thorny native small tree; white spring flowers, dark edible haws, superb wildlife cover. A caterpillar keystone (~90 Lepidoptera). *(Riparian — wants more water; edible haws, spit the cyanogenic seeds.)*
@@ -949,7 +963,7 @@ acorn close-up for Gambel oak).
 - Reliance peach (*Prunus persica 'Reliance'*) (I) — The hardiest peach and one of the last to bloom — the best shot at homegrown peaches.
 - Summercrisp pear (*Pyrus communis 'Summercrisp'*) (I) — Cold-hardy, fire-blight-resistant pear, picked crisp and sweet in mid-summer. *(photos species-representative — see `gaps`)*
 - Bigtooth maple (*Acer grandidentatum*) (N) — Small Western maple with brilliant scarlet-orange fall color; the Rockies' answer to sugar maple.
-- Gambel oak (*Quercus gambelii*) (N) — Iconic foothills scrub oak; lobed leaves, gold-russet fall, acorns that feed everything. *(Acorns edible once leached of tannins; no CC acorn photo — see `gaps`.)*
+- Gambel oak (*Quercus gambelii*) (N) — Iconic foothills scrub oak; lobed leaves, gold-russet fall, acorns that feed everything. *(Acorns edible once leached of tannins.)*
 - Piñon pine (*Pinus edulis*) (N) — Slow, drought-proof rounded evergreen; sweet edible pine nuts in good years. *(Edible seeds.)*
 - Rocky Mountain maple (*Acer glabrum*) (N) — Graceful small canyon maple, clear-yellow fall, red samaras. *(The one non-xeric tree — montane streamside; wants moisture + afternoon shade.)*
 
@@ -977,7 +991,7 @@ acorn close-up for Gambel oak).
 - Pussy willow (*Salix discolor*) (I) — Silvery late-winter catkins — premier early bee pollen. *(US native, not CO; dioecious — buy a male; high-water wetland shrub.)*
 - Apache plume (*Fallugia paradoxa*) (N) — White roses all summer, then feathery pink seedhead plumes; drought-proof and deer-resistant.
 - Boulder raspberry (*Rubus deliciosus*) (N) — Boulder's namesake; thornless arching shrub with big white rose-like flowers over maple leaves. *(Fruit edible but dry/bland.)*
-- Three-leaf sumac (*Rhus trilobata*) (N) — Trifoliate leaves blazing orange-red in fall; tart red "lemonade" berries. *(Edible berries — NOT poison sumac; no CC fall-color photo, see `gaps`.)*
+- Three-leaf sumac (*Rhus trilobata*) (N) — Trifoliate leaves blazing orange-red in fall; tart red "lemonade" berries. *(Edible berries — NOT poison sumac.)*
 - Shrubby cinquefoil (*Dasiphora fruticosa*) (N) — Indestructible mound smothered in buttercup-yellow flowers June to frost.
 - Rabbitbrush (*Ericameria nauseosa*) (N) — Silver-stemmed shrub erupting in golden fall bloom; a critical late-season pollinator plant.
 - Leadplant (*Amorpha canescens*) (N) — Silvery ferny foliage and purple-and-orange flower spikes; a nitrogen-fixing prairie legume.

@@ -49,5 +49,26 @@
       396,
       400
     ]
+  },
+  {
+    "file": "images/su-foliage.jpg",
+    "by": "epic2112",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/301474580",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/su-pods2.jpg",
+    "by": "James Bailey",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/143001260",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/fa-podsdry.jpg",
+    "by": "Andy Goerdel - Texas Master Naturalist",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/183038218",
+    "via": "iNaturalist"
   }
 ]

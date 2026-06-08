@@ -49,5 +49,33 @@
       300,
       400
     ]
+  },
+  {
+    "file": "images/su-plumes.jpg",
+    "by": "FrontRangeWildflowers",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/151636579",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/su-plume.jpg",
+    "by": "Sue Janssen",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/89554111",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/su-drift.jpg",
+    "by": "Anna Burack Wilson",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/230662927",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/fa-fall-foliage.jpg",
+    "by": "Lindy Lin",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/191290438",
+    "via": "iNaturalist"
   }
 ]

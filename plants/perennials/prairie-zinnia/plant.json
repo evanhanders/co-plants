@@ -53,6 +53,46 @@
       "by": "David Martin",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/124653250"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/88027071/large.jpg",
+      "s": "summer",
+      "cap": "Summer — fine needle-like silvery foliage · © ellen hildebrandt (CC-BY-NC) / iNaturalist",
+      "by": "ellen hildebrandt",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/55287444"
+    },
+    {
+      "local": "images/fa-seedhead-t.jpg",
+      "full": "images/fa-seedhead.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/95920228/large.jpg",
+      "s": "fall",
+      "cap": "Fall — papery spent flower heads persisting on the mat · © gretzkygarrett (CC-BY-NC) / iNaturalist",
+      "by": "gretzkygarrett",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/60007101"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/428799804/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — a lush flowering cushion · © Ellen (CC-BY-NC) / iNaturalist",
+      "by": "Ellen",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/240665066"
+    },
+    {
+      "local": "images/su-context-t.jpg",
+      "full": "images/su-context.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/437656874/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — flowering on lean rocky ground · © amerchlinsky (CC-BY-NC) / iNaturalist",
+      "by": "amerchlinsky",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/245267933"
     }
   ],
   "care": {

@@ -49,5 +49,33 @@
       300,
       400
     ]
+  },
+  {
+    "file": "images/su-foliage2.jpg",
+    "by": "Jason Headley",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/122514266",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/su-habit.jpg",
+    "by": "campfiredoug",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/94931173",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/su-drift.jpg",
+    "by": "Stephen Hornbeck",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/observations/87733152",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/fa-seedhead.jpg",
+    "by": "Sue Janssen",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/53388262",
+    "via": "iNaturalist"
   }
 ]

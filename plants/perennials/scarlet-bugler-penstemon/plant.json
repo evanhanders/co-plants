@@ -54,6 +54,56 @@
       "by": "curt_nimz",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/228881854"
+    },
+    {
+      "local": "images/fa-seedhead-t.jpg",
+      "full": "images/fa-seedhead.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/561543139/large.jpg",
+      "s": "fall",
+      "cap": "Fall — ripe seed capsules splitting open · © Michael Shoop (CC-BY-NC) / iNaturalist",
+      "by": "Michael Shoop",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/311096338"
+    },
+    {
+      "local": "images/su-context-t.jpg",
+      "full": "images/su-context.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/542485081/large.jpg",
+      "s": "summer",
+      "cap": "Summer — flower spike against open foothills sky · © madelyn_98 (CC-BY-NC) / iNaturalist",
+      "by": "madelyn_98",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/301059434"
+    },
+    {
+      "local": "images/su-habit2-t.jpg",
+      "full": "images/su-habit2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/402673087/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — whole flowering plant · © Anders Hastings (CC-BY) / iNaturalist",
+      "by": "Anders Hastings",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/227014749"
+    },
+    {
+      "local": "images/su-drift-t.jpg",
+      "full": "images/su-drift.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/318314205/large.jpg",
+      "s": "summer",
+      "cap": "Summer — a stand of scarlet wands in dry grassland · © Michael Shoop (CC-BY-NC) / iNaturalist",
+      "by": "Michael Shoop",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/182554506"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/107605881/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — basal strap leaves below the flowering stems · © James Bailey (CC-BY-NC) / iNaturalist",
+      "by": "James Bailey",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/66713545"
     }
   ],
   "care": {

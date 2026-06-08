@@ -128,6 +128,66 @@
       "by": "Max Campbell",
       "lic": "CC-BY",
       "link": "https://www.inaturalist.org/observations/60390962"
+    },
+    {
+      "local": "images/su-bract-macro-t.jpg",
+      "full": "images/su-bract-macro.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/576218148/large.jpg",
+      "s": "summer",
+      "cap": "Summer — the papery 'everlasting' bracts up close · © Brandt Magic (CC-BY-NC) / iNaturalist",
+      "by": "Brandt Magic",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/318802312"
+    },
+    {
+      "local": "images/su-pink-bud-t.jpg",
+      "full": "images/su-pink-bud.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/586605670/large.jpg",
+      "s": "summer",
+      "cap": "Summer — a pink bud unfurling its papery bracts · © Janey Taylor (CC-BY-NC) / iNaturalist",
+      "by": "Janey Taylor",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/262345085"
+    },
+    {
+      "local": "images/su-bud-t.jpg",
+      "full": "images/su-bud.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/94214776/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — a closed papery bud globe · © Ellura Sanctuary (CC-BY-NC) / iNaturalist",
+      "by": "Ellura Sanctuary",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/58988920"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/587639740/large.jpg",
+      "s": "summer",
+      "cap": "Summer — the whole upright plant in flower · © pennnnnnnnn (CC-BY-NC) / iNaturalist",
+      "by": "pennnnnnnnn",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/324646137"
+    },
+    {
+      "local": "images/su-red-form-t.jpg",
+      "full": "images/su-red-form.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/449824930/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — deep-red flowers of a cultivar form · © Ignacio Torres-García (CC-BY-NC) / iNaturalist",
+      "by": "Ignacio Torres-García",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/251399775"
+    },
+    {
+      "local": "images/sp-foliage-t.jpg",
+      "full": "images/sp-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/446431897/large.jpeg",
+      "s": "spring",
+      "cap": "Spring — the gray-green lance-leaved foliage rosette · © light-up-gold (CC-BY-NC) / iNaturalist",
+      "by": "light-up-gold",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/249707329"
     }
   ]
 }

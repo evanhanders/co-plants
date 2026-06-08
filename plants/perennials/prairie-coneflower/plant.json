@@ -54,6 +54,46 @@
       "by": "rachaeltaylor",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/123988283"
+    },
+    {
+      "local": "images/su-cone-t.jpg",
+      "full": "images/su-cone.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/149385524/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — the tall sombrero cone with drooping rays · © Sue Janssen (CC-BY-NC) / iNaturalist",
+      "by": "Sue Janssen",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/90389333"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/116123658/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — finely dissected ferny foliage · © Iliana Freiday (CC-BY-NC) / iNaturalist",
+      "by": "Iliana Freiday",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/71333189"
+    },
+    {
+      "local": "images/fa-seedhead-t.jpg",
+      "full": "images/fa-seedhead.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/161638828/large.jpeg",
+      "s": "fall",
+      "cap": "Fall — bare columnar seed cone after the rays drop · © Suzanne Dingwell (CC-BY-NC) / iNaturalist",
+      "by": "Suzanne Dingwell",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/97218685"
+    },
+    {
+      "local": "images/su-drift-t.jpg",
+      "full": "images/su-drift.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/532045714/large.jpg",
+      "s": "summer",
+      "cap": "Summer — a mahogany-and-gold drift in the meadow · © H R (CC-BY-NC) / iNaturalist",
+      "by": "H R",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/295537606"
     }
   ],
   "care": {

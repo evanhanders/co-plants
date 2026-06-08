@@ -52,6 +52,46 @@
       "by": "Cheryl McCleary-Catalano",
       "lic": "CC-BY",
       "link": "https://www.inaturalist.org/observations/132982576"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/518856991/large.jpg",
+      "s": "summer",
+      "cap": "Summer — fine ferny pinnate foliage · © Jo Roberts (CC-BY) / iNaturalist",
+      "by": "Jo Roberts",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/288503126"
+    },
+    {
+      "local": "images/fa-seedhead-t.jpg",
+      "full": "images/fa-seedhead.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/356609648/large.jpg",
+      "s": "fall",
+      "cap": "Fall — dried thimble seedheads gone to fluff · © Jason Headley (CC-BY-NC) / iNaturalist",
+      "by": "Jason Headley",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/201977961"
+    },
+    {
+      "local": "images/su-habit2-t.jpg",
+      "full": "images/su-habit2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/529284493/large.jpg",
+      "s": "summer",
+      "cap": "Summer — whole plant in bloom over silvery foliage · © Cathy Begej (CC-BY-NC) / iNaturalist",
+      "by": "Cathy Begej",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/294064936"
+    },
+    {
+      "local": "images/su-context-t.jpg",
+      "full": "images/su-context.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/234513335/large.jpg",
+      "s": "summer",
+      "cap": "Summer — scattered through the shortgrass prairie · © mcefh (CC-BY-NC) / iNaturalist",
+      "by": "mcefh",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/137324513"
     }
   ],
   "care": {

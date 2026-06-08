@@ -52,6 +52,46 @@
       "by": "tythebeeguy",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/229493300"
+    },
+    {
+      "local": "images/su-umbels-t.jpg",
+      "full": "images/su-umbels.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/468883568/large.jpg",
+      "s": "summer",
+      "cap": "Summer — sulphur-yellow umbel close-up · © Brad Winckelmann (CC-BY-NC) / iNaturalist",
+      "by": "Brad Winckelmann",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/261035240"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/144450960/large.jpg",
+      "s": "summer",
+      "cap": "Summer — the whole evergreen mat in bloom on lean ground · © Reid Hardin (CC-BY) / iNaturalist",
+      "by": "Reid Hardin",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/87601036"
+    },
+    {
+      "local": "images/fa-seedheads-t.jpg",
+      "full": "images/fa-seedheads.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/431363844/large.jpeg",
+      "s": "fall",
+      "cap": "Fall — umbels aging to rust-orange · © Jared Lincenberg (CC-BY) / iNaturalist",
+      "by": "Jared Lincenberg",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/241993288"
+    },
+    {
+      "local": "images/fa-rust-umbels-t.jpg",
+      "full": "images/fa-rust-umbels.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/50156586/large.jpg",
+      "s": "fall",
+      "cap": "Fall — a mass of umbels aging rust and red · © vbell (CC-BY-NC) / iNaturalist",
+      "by": "vbell",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/32007428"
     }
   ],
   "care": {

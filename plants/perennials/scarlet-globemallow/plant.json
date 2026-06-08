@@ -54,6 +54,46 @@
       "by": "Loren Cassin Sackett",
       "lic": "CC-BY",
       "link": "https://www.inaturalist.org/observations/148713369"
+    },
+    {
+      "local": "images/su-mass-t.jpg",
+      "full": "images/su-mass.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/35078688/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — a flowering mound over silvery foliage · © Ira Baline (CC-BY-NC) / iNaturalist",
+      "by": "Ira Baline",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/22639758"
+    },
+    {
+      "local": "images/su-drift-t.jpg",
+      "full": "images/su-drift.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/374432443/large.jpg",
+      "s": "summer",
+      "cap": "Summer — a scarlet drift across the prairie · © Alissa Iverson (CC-BY) / iNaturalist",
+      "by": "Alissa Iverson",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/211840177"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/658664017/large.jpg",
+      "s": "summer",
+      "cap": "Summer — low whole-plant mat in gravelly ground · © breek0318 (CC-BY-NC) / iNaturalist",
+      "by": "breek0318",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/360938296"
+    },
+    {
+      "local": "images/su-leaves-t.jpg",
+      "full": "images/su-leaves.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/7793204/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — deeply lobed grey-green leaves · © Kate (CC-BY-NC) / iNaturalist",
+      "by": "Kate",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/6206007"
     }
   ],
   "care": {

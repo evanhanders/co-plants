@@ -52,6 +52,46 @@
       "by": "nancycklasky",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/180313893"
+    },
+    {
+      "local": "images/sp-rosette-t.jpg",
+      "full": "images/sp-rosette.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/595742867/large.jpg",
+      "s": "spring",
+      "cap": "Spring — the toothed basal rosette of the first-year plant · © Z (CC-BY) / iNaturalist",
+      "by": "Z",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/328727831"
+    },
+    {
+      "local": "images/su-bud-t.jpg",
+      "full": "images/su-bud.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/88114065/large.jpg",
+      "s": "summer",
+      "cap": "Summer — a resinous flower bud cupped in the curled-back gummy bracts · © Jared Shorma (CC-BY) / iNaturalist",
+      "by": "Jared Shorma",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/55340556"
+    },
+    {
+      "local": "images/fa-seedhead-t.jpg",
+      "full": "images/fa-seedhead.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/56987785/large.jpg",
+      "s": "fall",
+      "cap": "Fall — a dried seedhead, the bracts opened to release seed · © Jason Headley (CC-BY-NC) / iNaturalist",
+      "by": "Jason Headley",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/36080261"
+    },
+    {
+      "local": "images/su-drift-t.jpg",
+      "full": "images/su-drift.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/46075688/large.jpg",
+      "s": "summer",
+      "cap": "Summer — a flowering clump massed on open ground · © Randy Floyd (CC-BY-NC) / iNaturalist",
+      "by": "Randy Floyd",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/29520238"
     }
   ],
   "care": {

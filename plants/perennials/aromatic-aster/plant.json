@@ -53,6 +53,46 @@
       "by": "Kat Hentsch",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/136533497"
+    },
+    {
+      "local": "images/fa-foliage-t.jpg",
+      "full": "images/fa-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/417482059/large.jpeg",
+      "s": "fall",
+      "cap": "Fall — narrow aromatic leaves on an upright stem · © Claire Ciafré (CC-BY-NC) / iNaturalist",
+      "by": "Claire Ciafré",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/234801482"
+    },
+    {
+      "local": "images/fa-seedhead-t.jpg",
+      "full": "images/fa-seedhead.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/105034770/large.jpg",
+      "s": "fall",
+      "cap": "Fall — fluffy brown seedheads after bloom · © jasonfosterwi (CC-BY-NC) / iNaturalist",
+      "by": "jasonfosterwi",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/65276889"
+    },
+    {
+      "local": "images/fa-habit2-t.jpg",
+      "full": "images/fa-habit2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/101527649/large.jpg",
+      "s": "fall",
+      "cap": "Fall — a bushy plant in full bloom among prairie grass · © Rick Travis (CC-BY-NC) / iNaturalist",
+      "by": "Rick Travis",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/63278199"
+    },
+    {
+      "local": "images/fa-context-t.jpg",
+      "full": "images/fa-context.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/101833605/large.jpg",
+      "s": "fall",
+      "cap": "Fall — wiry stems flowering among foothills rocks · © Matt Tomlinson (CC-BY-NC) / iNaturalist",
+      "by": "Matt Tomlinson",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/63453106"
     }
   ],
   "care": {

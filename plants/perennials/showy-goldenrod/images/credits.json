@@ -49,5 +49,40 @@
       300,
       400
     ]
+  },
+  {
+    "file": "images/su-foliage.jpg",
+    "by": "Robert Levy",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/284175290",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/fa-seedhead.jpg",
+    "by": "Janet Novak",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/99049233",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/fa-habit.jpg",
+    "by": "Link Davis",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/98139513",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/fa-context.jpg",
+    "by": "Connor Johanson",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/129499192",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/fa-pollinator.jpg",
+    "by": "Drew Chaney",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/111151908",
+    "via": "iNaturalist"
   }
 ]

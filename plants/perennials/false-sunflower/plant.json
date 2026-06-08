@@ -53,6 +53,46 @@
       "by": "C Rella",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/237485451"
+    },
+    {
+      "local": "images/su-foliage2-t.jpg",
+      "full": "images/su-foliage2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/294101340/large.jpg",
+      "s": "summer",
+      "cap": "Summer — coarsely toothed, opposite leaves · © millpondrj (CC-BY-NC) / iNaturalist",
+      "by": "millpondrj",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/169624566"
+    },
+    {
+      "local": "images/fa-seedhead-t.jpg",
+      "full": "images/fa-seedhead.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/67147595/large.jpg",
+      "s": "fall",
+      "cap": "Fall — dark conical seed discs as the petals drop · © Ashley M Bradford (CC-BY-NC) / iNaturalist",
+      "by": "Ashley M Bradford",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/42293770"
+    },
+    {
+      "local": "images/su-habit2-t.jpg",
+      "full": "images/su-habit2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/420939373/large.jpg",
+      "s": "summer",
+      "cap": "Summer — the upright, leafy whole plant · © curt_nimz (CC-BY-NC) / iNaturalist",
+      "by": "curt_nimz",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/236601361"
+    },
+    {
+      "local": "images/fa-drift-t.jpg",
+      "full": "images/fa-drift.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/233785065/large.jpeg",
+      "s": "fall",
+      "cap": "Fall — golden daisies massed in a late-season meadow · © cjtweet (CC-BY-NC) / iNaturalist",
+      "by": "cjtweet",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/136937429"
     }
   ],
   "care": {

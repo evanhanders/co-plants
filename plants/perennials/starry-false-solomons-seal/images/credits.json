@@ -49,5 +49,40 @@
       300,
       400
     ]
+  },
+  {
+    "file": "images/sp-foliage.jpg",
+    "by": "Zac Peterson",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/observations/334854080",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/sp-emergence.jpg",
+    "by": "Iona",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/observations/278807841",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/su-berries.jpg",
+    "by": "sdymersk",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/134829056",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/fa-fall-berries.jpg",
+    "by": "wmscnaturalist",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/316305590",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/fa-fall-color.jpg",
+    "by": "Philip Kline",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/239859124",
+    "via": "iNaturalist"
   }
 ]

@@ -52,6 +52,56 @@
       "by": "Link Davis",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/98139513"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/510688498/large.jpg",
+      "s": "summer",
+      "cap": "Summer — lance-shaped leaves before bloom · © Robert Levy (CC-BY-NC) / iNaturalist",
+      "by": "Robert Levy",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/284175290"
+    },
+    {
+      "local": "images/fa-seedhead-t.jpg",
+      "full": "images/fa-seedhead.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/165039203/large.jpg",
+      "s": "fall",
+      "cap": "Fall — tawny seed plumes after bloom · © Janet Novak (CC-BY-NC) / iNaturalist",
+      "by": "Janet Novak",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/99049233"
+    },
+    {
+      "local": "images/fa-habit-t.jpg",
+      "full": "images/fa-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/163336281/large.jpg",
+      "s": "fall",
+      "cap": "Fall — whole flowering plant in tall grass · © Link Davis (CC-BY-NC) / iNaturalist",
+      "by": "Link Davis",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/98139513"
+    },
+    {
+      "local": "images/fa-context-t.jpg",
+      "full": "images/fa-context.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/220078778/large.jpeg",
+      "s": "fall",
+      "cap": "Fall — a golden spike against open grassland · © Connor Johanson (CC-BY-NC) / iNaturalist",
+      "by": "Connor Johanson",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/129499192"
+    },
+    {
+      "local": "images/fa-pollinator-t.jpg",
+      "full": "images/fa-pollinator.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/187602562/large.jpg",
+      "s": "fall",
+      "cap": "Fall — a bumblebee deep in the golden plume · © Drew Chaney (CC-BY-NC) / iNaturalist",
+      "by": "Drew Chaney",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/111151908"
     }
   ],
   "care": {

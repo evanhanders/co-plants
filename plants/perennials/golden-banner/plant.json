@@ -53,6 +53,36 @@
       "by": "Suzanne Dingwell",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/56480702"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/543258728/large.jpg",
+      "s": "summer",
+      "cap": "Summer — blue-green trifoliate foliage · © epic2112 (CC-BY-NC) / iNaturalist",
+      "by": "epic2112",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/301474580"
+    },
+    {
+      "local": "images/su-pods2-t.jpg",
+      "full": "images/su-pods2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/245223782/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — cluster of curved green seed pods · © James Bailey (CC-BY-NC) / iNaturalist",
+      "by": "James Bailey",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/143001260"
+    },
+    {
+      "local": "images/fa-podsdry-t.jpg",
+      "full": "images/fa-podsdry.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/319254333/large.jpeg",
+      "s": "fall",
+      "cap": "Fall — ripe brown seed pods · © Andy Goerdel - Texas Master Naturalist (CC-BY-NC) / iNaturalist",
+      "by": "Andy Goerdel - Texas Master Naturalist",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/183038218"
     }
   ],
   "care": {

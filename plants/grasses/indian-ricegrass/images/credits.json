@@ -32,5 +32,33 @@
       300,
       400
     ]
+  },
+  {
+    "file": "images/su-seedhead.jpg",
+    "by": "Andrew Scott",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/82475220",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/su-drift.jpg",
+    "by": "curt_nimz",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/85557705",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/fa-habit.jpg",
+    "by": "tianamtso",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/96755607",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/fa-dune.jpg",
+    "by": "cdlucas27",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/139034840",
+    "via": "iNaturalist"
   }
 ]

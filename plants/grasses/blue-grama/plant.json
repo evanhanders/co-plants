@@ -46,6 +46,36 @@
       "by": "Helen Ann Wood",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/132183318"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/42639309/large.jpg",
+      "s": "summer",
+      "cap": "Summer — fine blue-green blades close up · © Blake Weis (CC-BY-NC) / iNaturalist",
+      "by": "Blake Weis",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/27407332"
+    },
+    {
+      "local": "images/su-drift-t.jpg",
+      "full": "images/su-drift.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/136578049/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — a green shortgrass-prairie drift · © Matt Webb (CC-BY-NC) / iNaturalist",
+      "by": "Matt Webb",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/83174442"
+    },
+    {
+      "local": "images/wi-winter-t.jpg",
+      "full": "images/wi-winter.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/106688138/large.jpg",
+      "s": "winter",
+      "cap": "Winter — blond combs standing on bare ground · © David Martin (CC-BY-NC) / iNaturalist",
+      "by": "David Martin",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/66214721"
     }
   ],
   "care": {

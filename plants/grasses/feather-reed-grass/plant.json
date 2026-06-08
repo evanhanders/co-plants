@@ -48,6 +48,36 @@
       "by": "sirena80",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/228258363"
+    },
+    {
+      "local": "images/wi-winter-t.jpg",
+      "full": "images/wi-winter.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/110290479/large.jpeg",
+      "s": "winter",
+      "cap": "Winter — wheat-gold plumes standing all season · © Carole Marie (CC-BY-NC) / iNaturalist",
+      "by": "Carole Marie",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/68156579"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/25436709/large.jpg",
+      "s": "summer",
+      "cap": "Summer — fresh blue-green upright foliage · CC0 / iNaturalist",
+      "by": "iNaturalist contributor",
+      "lic": "CC0",
+      "link": "https://www.inaturalist.org/observations/16846101"
+    },
+    {
+      "local": "images/fa-drift-t.jpg",
+      "full": "images/fa-drift.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/535008620/large.jpg",
+      "s": "fall",
+      "cap": "A drift of plumes in a landscape planting · © essaxgal (CC-BY-NC) / iNaturalist",
+      "by": "essaxgal",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/297088438"
     }
   ],
   "care": {

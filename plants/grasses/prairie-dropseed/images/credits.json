@@ -49,5 +49,26 @@
       300,
       400
     ]
+  },
+  {
+    "file": "images/fa-fall.jpg",
+    "by": "Jonathan Sellman",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/189988510",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/wi-winter.jpg",
+    "by": "Ruta",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/67287608",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/wi-snow.jpg",
+    "by": "Erin Haase",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/9474525",
+    "via": "iNaturalist"
   }
 ]

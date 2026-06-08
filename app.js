@@ -134,7 +134,7 @@ const SORT_LABEL={type:'type',color:'flower colour',bloom:'bloom season',life:'l
 /* a reusable collapsible section (same markup the type view uses) */
 function sectionHTML(name,count,desc,collapsedNow,gridInner){
 return '<section class="grp'+(collapsedNow?' collapsed':'')+'" data-group="'+name+'">'
-+'<div class="group-head" data-g="'+name+'"><button class="chev" data-g="'+name+'" aria-expanded="'+(collapsedNow?'false':'true')+'" aria-label="'+(collapsedNow?'Expand ':'Collapse ')+name+'">▾</button><h2>'+name+'</h2><span class="gc">'+count+'</span><span class="rule"></span></div>'
++'<div class="group-head" data-g="'+name+'"><button class="chev" data-g="'+name+'" aria-expanded="'+(collapsedNow?'false':'true')+'" aria-label="'+(collapsedNow?'Expand ':'Collapse ')+name+'"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M6 9l6 6 6-6"/></svg></button><h2>'+name+'</h2><span class="gc">'+count+'</span><span class="rule"></span></div>'
 +(desc?'<p class="group-desc">'+desc+'</p>':'')
 +'<div class="grid">'+gridInner+'</div></section>';
 }

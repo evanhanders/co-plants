@@ -28,7 +28,10 @@ h1.display{font-size:clamp(34px,7vw,58px);font-weight:600;line-height:.98;margin
 .search{flex:1;min-width:200px;position:relative}
 /* selector is [type=search]-qualified so it outranks the generic `input[type=search]` form reset
    below (equal specificity + later source order was overriding the 40px left pad back to 11px) */
-.search input[type=search]{ width:100%;padding:11px 14px 11px 40px;border:1.5px solid var(--line);border-radius:2px; background:var(--card);font-family:inherit;font-size:16px;color:var(--ink);-webkit-appearance:none;appearance:none; }
+.search input[type=search]{ width:100%;padding:11px 38px 11px 40px;border:1.5px solid var(--line);border-radius:2px; background:var(--card);font-family:inherit;font-size:16px;color:var(--ink);-webkit-appearance:none;appearance:none; }
+.search-clear{position:absolute;right:7px;top:50%;transform:translateY(-50%);width:26px;height:26px;display:grid;place-items:center;border:none;background:none;color:var(--ink-soft);font-size:21px;line-height:1;cursor:pointer;border-radius:50%;transition:.15s}
+.search-clear:hover{background:var(--paper2);color:var(--ink)}
+.search-clear[hidden]{display:none} /* a display rule on the class would otherwise beat [hidden]'s UA display:none */
 .search input:focus{outline:none;border-color:var(--green);box-shadow:0 0 0 2px var(--green-soft)}
 /* drop the native search-field chrome so our left padding is honoured (no glyph under the text) */
 .search input::-webkit-search-decoration,.search input::-webkit-search-cancel-button,.search input::-webkit-search-results-button,.search input::-webkit-search-results-decoration{-webkit-appearance:none;appearance:none}
@@ -77,8 +80,11 @@ h1.display{font-size:clamp(34px,7vw,58px);font-weight:600;line-height:.98;margin
 .seg.mini button{padding:8px 12px;font-size:12.5px}
 .note{font-size:11.5px;color:#8a6a10;background:#fff7df;border:1px solid #e6d28a;border-radius:3px;padding:8px 11px;margin:8px 0 6px}
 .grp{margin-top:8px}
-.group-head{ display:flex;align-items:baseline;gap:12px;margin:26px 0 2px;cursor:pointer;user-select:none; }
-.group-head .chev{display:inline-grid;place-items:center;width:24px;height:24px;border:none;background:none;padding:0;font:inherit;transition:transform .2s;color:var(--green);font-size:13px;align-self:center;cursor:pointer}
+/* the header sticks to the top while you're inside its section, so you can collapse the group
+   any time without scrolling back up; the opaque paper background hides cards sliding under it */
+.group-head{ display:flex;align-items:center;gap:12px;margin:26px 0 2px;cursor:pointer;user-select:none; position:sticky;top:0;z-index:5;background:var(--paper);padding:8px 0 6px; }
+.group-head .chev{display:inline-grid;place-items:center;width:30px;height:30px;border:1.6px solid var(--green);background:var(--card);padding:0;font:inherit;transition:transform .2s, background .15s, color .15s;color:var(--green);font-size:15px;line-height:1;align-self:center;cursor:pointer;border-radius:50%;flex:0 0 auto}
+.group-head .chev:hover{background:var(--green);color:var(--paper)}
 .grp.collapsed .group-head .chev{transform:rotate(-90deg)}
 .group-head h2{font-family:'Fraunces',Georgia,serif;font-weight:600;font-size:22px;margin:0;color:var(--green);letter-spacing:.01em}
 .group-head .gc{font-size:11px;letter-spacing:.16em;text-transform:uppercase;color:var(--ink-soft)}
@@ -93,6 +99,10 @@ h1.display{font-size:clamp(34px,7vw,58px);font-weight:600;line-height:.98;margin
 .reel-track{display:flex;height:100%;will-change:transform;touch-action:pan-y}
 .shot{position:relative;width:100%;height:100%;margin:0}
 .reel-track .shot{flex:0 0 100%;min-width:0}
+/* wrap-around clones (first/last duplicated either side for a seamless loop) — sized like a
+   .shot but invisible to the .shot queries the lightbox/test use */
+.reel-track .clone{flex:0 0 100%;min-width:0;position:relative;width:100%;height:100%;margin:0}
+.reel-track .clone img{width:100%;height:100%;object-fit:cover;display:block}
 .shot img{width:100%;height:100%;object-fit:cover;display:block;touch-action:pan-y}
 .shot.empty{display:flex;flex-direction:column;align-items:center;justify-content:center;gap:8px;color:var(--ink-soft);font-style:italic;font-size:12px;letter-spacing:.03em;text-align:center;padding:14px;background:radial-gradient(120% 90% at 50% 30%, #fdfaf1, #ece2cc)}
 .shot.empty svg{opacity:.5}

@@ -394,9 +394,14 @@ driven off one predicate so they can't drift. To add one (e.g. `Fragrant`):
 ### Collections (family cards)
 
 Cultivar/genus clusters (apples, plums, tart cherries, currants, pelargoniums, wallflowers,
-asters, irises, tulips, climbing/rambling roses, hardy geraniums, crocuses, penstemons) collapse
-into a **single expandable family card** so the grid isn't buried under near-duplicate cards. It's
-an **inline accordion**, not a separate page — each member keeps its own detail page untouched.
+asters, irises, tulips, climbing/rambling roses, hardy geraniums, crocuses, penstemons, maples,
+milkweeds, alliums, sunflowers, bee-balms, lupines, speedwells, salvias, spurges, dogwoods,
+honeysuckles, clematis — **25 in all**) collapse into a **single expandable family card** so the
+grid isn't buried under near-duplicate cards. It's an **inline accordion**, not a separate page —
+each member keeps its own detail page untouched. (Genus clusters intentionally left ungrouped:
+*Bouteloua* grama grasses — only 2 of a small section; *Centaurea* cornflower vs perennial bluet
+and *Anemone* windflower vs Japanese anemone — too unlike + different bloom seasons; *Rubus*
+ornamental Boulder raspberry vs the fruit raspberry — different intent.)
 
 **Data model (two parts):**
 - **Membership** is one field on the member's `plant.json`: `"collection":"<id>"`. That's all a

@@ -78,6 +78,78 @@
       "group": "Summer forbs",
       "lead": "pineleaf-penstemon",
       "blurb": "Beardtongues — Western native and garden penstemons."
+    },
+    "maples": {
+      "name": "Maples",
+      "group": "Trees",
+      "lead": "bigtooth-maple",
+      "blurb": "Small Western maples (Acer) grown for fiery fall colour."
+    },
+    "milkweeds": {
+      "name": "Milkweeds",
+      "group": "Summer forbs",
+      "lead": "showy-milkweed",
+      "blurb": "Asclepias — the essential monarch host plants."
+    },
+    "alliums": {
+      "name": "Alliums",
+      "group": "Summer forbs",
+      "lead": "ornamental-allium",
+      "blurb": "Ornamental and wild onions (Allium) — globe and nodding flowerheads bees mob."
+    },
+    "sunflowers": {
+      "name": "Sunflowers",
+      "group": "Summer forbs",
+      "lead": "sunflower",
+      "blurb": "True sunflowers (Helianthus) — golden heads bees and goldfinches mob."
+    },
+    "bee-balms": {
+      "name": "Bee balms",
+      "group": "Summer forbs",
+      "lead": "scarlet-bee-balm",
+      "blurb": "Monarda — fragrant bergamots that draw bees & hummingbirds."
+    },
+    "lupines": {
+      "name": "Lupines",
+      "group": "Summer forbs",
+      "lead": "garden-lupine",
+      "blurb": "Lupinus — native and garden pea-flower spires (toxic alkaloids)."
+    },
+    "speedwells": {
+      "name": "Speedwells",
+      "group": "Summer forbs",
+      "lead": "speedwell",
+      "blurb": "Veronica — upright spikes and creeping mats of starry flowers."
+    },
+    "salvias": {
+      "name": "Salvias & sages",
+      "group": "Subshrubs",
+      "lead": "russian-sage",
+      "blurb": "Salvia — aromatic ornamental sages and culinary rosemary."
+    },
+    "spurges": {
+      "name": "Spurges",
+      "group": "Subshrubs",
+      "lead": "cushion-spurge",
+      "blurb": "Euphorbia — chartreuse bracts and fall colour (milky sap — wear gloves)."
+    },
+    "dogwoods": {
+      "name": "Dogwoods",
+      "group": "Shrubs",
+      "lead": "red-twig-dogwood",
+      "blurb": "Cornus — winter stems, early flowers, and bird berries."
+    },
+    "honeysuckles": {
+      "name": "Honeysuckles",
+      "group": "Vines",
+      "lead": "trumpet-honeysuckle",
+      "blurb": "Lonicera — twining vines and fruiting/wildlife shrubs."
+    },
+    "clematis": {
+      "name": "Clematis",
+      "group": "Vines",
+      "lead": "garden-clematis",
+      "blurb": "Large-flowered garden climbers and native virgin's-bowers (Clematis)."
     }
   }
 }

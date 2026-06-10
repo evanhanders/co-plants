@@ -897,12 +897,12 @@ ground every statement in an authority cited in `references`.
 
 ## Current plant roster (in the live site)
 
-**176 specimens**, all verified non-weed in CO and all carrying a full `care` block (incl.
+**183 specimens**, all verified non-weed in CO and all carrying a full `care` block (incl.
 `planting` + `propagation`) **and a repo-hosted photo reel** (close-up + structure, seasonal
 where good shots exist). Every plant's detail page is now **fully cited** — a numbered
 `references` bibliography with inline `[n]` markers on the facts table (`fact_src`), the care
-prose, and a safety-reviewed **`edible` block** (current split: 74 inedible · 32 caution · 43
-edible · 27 toxic). Every **non-native** plant (105 of the 176) also carries **provenance** —
+prose, and a safety-reviewed **`edible` block** (current split: 77 inedible · 32 caution · 47
+edible · 27 toxic). Every **non-native** plant (112 of the 183) also carries **provenance** —
 `origin` (where it's from) + `habitat` (its wild growing conditions) — shown as blue "Native
 to" / "Wild habitat" rows on its card and detail page, cited via `fact_src`. Grouped by type
 below (the order the site uses). Photos were sourced
@@ -991,6 +991,23 @@ surfaces lush SH-summer blooms — every winter pick must be eyeballed for real 
 (snow/frost/dormancy) before it's appended. Forcing a misleading growing-season shot onto a plant
 that's bare ground in January is worse than an honest skip.
 
+**Cottage/kitchen-garden batch (June 2026):** added **seven** plants from a user request — the
+cottage-spire **hollyhock** (*Alcea rosea*, a Forb biennial, mallow-family edible flowers/young
+leaves; hollyhock rust is its signature care issue); the **littleleaf linden** (*Tilia cordata*, a
+large non-native shade/street tree and a major bee-nectar tree — flowers are the classic *tilleul*
+tea, young spring leaves edible); two **edible cool-season crops**, **arugula** (*Eruca vesicaria*,
+peppery salad green; flea beetles the #1 pest) and **garden pea** (*Pisum sativum*, a climbing Vine
+— shelled peas, edible pods & shoots, flagged distinct from the **toxic** sweet pea *Lathyrus* already
+in the guide); the South-African **red hot poker** (*Kniphofia uvaria*, a hummingbird/bee nectar Forb,
+borderline-hardy — sharp drainage + tie foliage over the crown for winter); the silver-foliage
+groundcover **lamb's ear** (*Stachys byzantina*, xeric — overhead water rots the wool); and the
+**foxglove beardtongue** (*Penstemon digitalis*, an eastern/central-US prairie native — marked
+`Non-native` per the witch-hazel convention — which **joins the penstemons family card**, and is far
+more clay/moisture-tolerant than the xeric Western penstemons). Honesty calls baked in: linden is
+**NOT xeric** (leaf-scorch/aphid-honeydew tree); red hot poker is **zone-borderline**; arugula & peas
+are **frost-killed annuals** (no winter presence). All seven are **Non-native** with honest
+`origin`/`habitat`. Photos via `tools/inat_montage.py` (iNat open data), 720×480 smart-crop thumbs.
+
 **Trees**
 - River hawthorn (*Crataegus rivularis*) (N) — Thorny native small tree; white spring flowers, dark edible haws, superb wildlife cover. A caterpillar keystone (~90 Lepidoptera). *(Riparian — wants more water; edible haws, spit the cyanogenic seeds.)*
 - Chokecherry (*Prunus virginiana*) (N) — Wildlife powerhouse: fragrant white flower racemes, dark…
@@ -1007,6 +1024,7 @@ that's bare ground in January is worse than an honest skip.
 - Gambel oak (*Quercus gambelii*) (N) — Iconic foothills scrub oak; lobed leaves, gold-russet fall, acorns that feed everything. *(Acorns edible once leached of tannins.)*
 - Piñon pine (*Pinus edulis*) (N) — Slow, drought-proof rounded evergreen; sweet edible pine nuts in good years. *(Edible seeds.)*
 - Rocky Mountain maple (*Acer glabrum*) (N) — Graceful small canyon maple, clear-yellow fall, red samaras. *(The one non-xeric tree — montane streamside; wants moisture + afternoon shade.)*
+- Littleleaf linden (*Tilia cordata*) (I) — Large pyramidal shade/street tree; heart-shaped leaves, fragrant pale-yellow summer flowers bees mob, clear-yellow fall. *(NOT xeric — wants moisture; flowers make tilleul tea, young leaves edible.)*
 
 **Shrubs**
 - Common lilac (*Syringa vulgaris*) (I) — Old-fashioned dooryard shrub prized for plumes of intensely…
@@ -1077,6 +1095,7 @@ that's bare ground in January is worse than an honest skip.
 - Ivy-leaved geranium (*Pelargonium peltatum*) (I) · **Tender perennial** — The window-box spiller: glossy ivy leaves and cascading flower clusters.
 - Kinnikinnick (*Arctostaphylos uva-ursi*) (N) — A tough native evergreen mat-former
 - Snow-in-summer (*Cerastium tomentosum*) (I) — A silver-gray mat of woolly foliage that erupts into a froth…
+- Lamb's ear (*Stachys byzantina*) (I) — Soft silver-woolly mat grown for its fuzzy tongue-shaped leaves; woolly summer spikes of pink-purple flowers. *(Xeric — overhead water/humidity rots the wool; wool carder bees harvest the fuzz.)*
 - Turkish speedwell (*Veronica liwanensis*) (I) — A Plant Select standout
 
 **Vines**
@@ -1091,6 +1110,7 @@ that's bare ground in January is worse than an honest skip.
 - Western virgin's bower (*Clematis ligusticifolia*) (N) — Vigorous native climber; frothy white late-summer flowers then silvery 'old man's beard' seed plumes. *(Dioecious; toxic — protoanemonin.)*
 - Riverbank grape (*Vitis riparia*) (N) — Tough native wild grape; lobed leaves, tart blue-black fruit for jelly, clear-yellow fall. *(Edible fruit & young leaves — beware the toxic moonseed look-alike.)*
 - Woodbine (*Parthenocissus vitacea*) (N) — Native non-clinging creeper; scarlet fall color over blue berries on coral-red stalks. *(Toxic berries — oxalates; the grape look-alike that isn't edible.)*
+- Garden pea (*Pisum sativum*) (I) · **Annual** — Cool-season climbing vine with white/purple flowers and fat green pods; a nitrogen-fixing kitchen-garden staple. *(Edible — shelled peas, pods & shoots; NOT the toxic sweet pea, Lathyrus.)*
 
 **Spring forbs**
 - Coral bells (*Heuchera sanguinea*) (I) — Evergreen mound of scalloped leaves under airy wands of coral-red bells; a Southwest native for dry/part shade. *(Hummingbird favorite.)*
@@ -1122,6 +1142,10 @@ that's bare ground in January is worse than an honest skip.
 - Golden banner (*Thermopsis divaricarpa*) (N) — Bright lupine-like spikes of golden pea flowers over blue-green trifoliate foliage; spreads into bold drifts. *(Toxic — alkaloids in foliage/seeds.)*
 
 **Summer forbs**
+- Hollyhock (*Alcea rosea*) (I) · **Biennial** — Towering cottage spires of saucer flowers in white through deep maroon; a classic dooryard plant bees and hummingbirds work. *(Mallow-family edible flowers & young leaves; hollyhock rust is the signature pest.)*
+- Arugula (*Eruca vesicaria*) (I) · **Annual** — Cool-season salad green with lobed leaves and creamy purple-veined flowers; bolts in heat, self-sows. *(Edible peppery leaves, flowers & pods; flea beetles the #1 pest.)*
+- Red hot poker (*Kniphofia uvaria*) (I) — South-African torch lily: grassy clumps throwing bicolor red-to-yellow flower spikes hummingbirds and bees mob. *(Zone-borderline — needs sharp drainage; tie foliage over the crown for winter.)*
+- Foxglove beardtongue (*Penstemon digitalis*) (I) — Eastern-prairie native (cultivars 'Husker Red'/'Dark Towers'); tall white tubular wands over dark-flushed foliage, a native-bee magnet. *(Penstemons family card; far more clay/moisture-tolerant than the xeric Western penstemons.)*
 - Showy milkweed (*Asclepias speciosa*) (N) — THE monarch host; domes of rose-pink stars, then silky-floss pods. The top plant for monarchs here. *(Spreads by rhizome; toxic raw — young parts edible only cooked.)*
 - Butterfly milkweed (*Asclepias tuberosa*) (N) — Blazing flat orange clusters on a tidy non-spreading taproot clump; monarch host. *(Toxic — grown as a pollinator plant, not food.)*
 - Purple prairie clover (*Dalea purpurea*) (N) — Rose-purple thimbles over ferny foliage; a nitrogen-fixing legume and native-bee keystone. *(Leaves for tea; sweet roots chewed.)*

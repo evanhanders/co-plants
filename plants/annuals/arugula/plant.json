@@ -1,0 +1,190 @@
+{
+  "common": "Arugula",
+  "botanical": "Eruca vesicaria",
+  "type": "Forb",
+  "lifecycle": "Annual",
+  "bloom_season": "Summer",
+  "native": "Non-native",
+  "origin": "Mediterranean basin to western Asia",
+  "habitat": "Disturbed ground, roadsides, and dry stony hillsides of the Mediterranean region",
+  "blurb": "The peppery salad rocket — sow early, harvest baby leaves cut-and-come-again, and pull it before summer heat turns it bitter and sends it bolting into its lacy cream flowers. Two short seasons (spring and fall) are better than one long one here.",
+  "size": "6–18 in tall × 6–12 in wide (rosette stage); to 3 ft when bolted",
+  "sun": "Full sun in spring and fall; part shade or afternoon shade helpful in summer to slow bolting",
+  "water": "Moderate; keep soil evenly moist — drought stresses plants and hastens bolting",
+  "spread": "Self-sows readily once it bolts; thin seedlings and pull unwanted volunteers",
+  "seasons": "A leafy rosette in cool weather (spring/fall); bolts to knee-high branching stems covered in cream 4-petaled flowers with distinctive dark veining in the heat; frost-killed, no winter presence",
+  "wildlife": "Flowers draw bees, hoverflies, and small butterflies once the plant bolts",
+  "deer": "Seldom browsed — the pungent leaves are unappealing to deer",
+  "toxic": "Not toxic; a brassica — contains glucosinolates (the source of its peppery bite), which are benign in food quantities",
+  "winter": false,
+  "verified": "2026-06-10",
+  "flower_color": [
+    "white"
+  ],
+  "bloom": [
+    "spring",
+    "summer"
+  ],
+  "care": {
+    "hardiness": "Grown as a cool-season annual on the Front Range — it germinates happily in chilly soil (40–50°F / 4–10°C), tolerates light frosts down to about 28°F (−2°C), and runs through its life cycle quickly. It has no winter presence here: established plants are frost-killed by hard freeze, and even a mild fall season ends with the first sharp cold snap. USDA hardiness is reported across zones 2–11 when grown as an annual cool-season crop.[1]",
+    "planting": "The Front Range gives arugula two ideal windows. **Spring:** direct-sow from mid-March through April (4–6 weeks before the average last frost of mid-May in Boulder), as soon as the soil can be worked; arugula germinates in cold soil and welcomes the chill. Make succession sowings every 2–3 weeks through early May for continuous picking. Stop sowing when daytime highs reliably clear 75°F — summer heat causes bolting within days of emerging. **Fall:** resume sowing in late July through mid-August (8–10 weeks before the first hard fall frost) for a second harvest that extends into October under a frost cloth. In containers, use a pot at least 6 in deep; containers warm faster in spring so they're ideal for the earliest sowings, but dry out quickly in heat — move pots to shade when temperatures climb. There is no overwintering in the ground or in an unprotected container on the Front Range.[1][2]",
+    "sun": "Full sun (6+ hours) in spring and fall, when temperatures are cool and the risk of bolting is low. In early summer, moving pots to a spot with afternoon shade — or sowing directly under taller plants or a shade cloth — meaningfully slows bolting and extends the harvest window by a week or two. Deep shade reduces yield and flavor; the goal is cool-season sun with summer mitigation.[1][2]",
+    "soil": "Prefers fertile, well-drained soil with a neutral to slightly alkaline pH of 6.0–8.0 — tolerant of Boulder's alkaline clay when it's been loosened and amended with compost. Work in a few inches of aged compost before sowing; arugula is a quick crop that rewards a good seedbed. It also grows well in lean, stony ground (its native habitat), but leaf flavor and yield are better with reasonable fertility. Good drainage is important: waterlogged soil promotes rot in cool spring conditions.[1][2]",
+    "water": "Keep the soil evenly moist throughout the season — arugula's leaves are mostly water, and dry soil stresses plants, makes leaves tough and bitter, and triggers bolting ahead of schedule. On the dry Front Range, a deep soak every few days is the rule during warm spells; more frequent watering in containers, which dry fast in spring wind. Avoid puddling or constantly wet crowns, especially in cool weather when fungal damping-off can kill seedlings. Mulching the seedbed with straw helps hold moisture and moderate the soil temperature.[1][2]",
+    "spacing": "Sow seed about ¼ in deep in short rows or broadcast in a patch; thin seedlings to 6 in apart once they have a few true leaves (use the thinnings as microgreens in a salad). For a dense cut-and-come-again baby-leaf bed, you can sow more thickly — about 1 in apart — and harvest the whole bed once without thinning, then re-sow. Rows can be as close as 6–12 in apart.[1][2]",
+    "sow": "Direct-sow ¼ in deep; cover lightly and tamp. Germination is rapid — 5–7 days at 50–65°F, up to 14 days in cold spring soil. Soil temperature of 40–75°F supports germination; the sweet spot is 50–65°F. Successive small sowings every 2–3 weeks in spring (mid-March through early May) and again in late summer (late July–mid-August) provide continuous harvest without a glut.[1][2]",
+    "bloom": "Bolts and flowers from late spring into summer (May–August on the Front Range), forming tall branching stems to 2–3 ft covered in creamy-white 4-petaled flowers whose petals show distinctive dark purple-maroon veining — the trademark Eruca flower. Bees and hoverflies work the blooms. Once the main stem flowers, leaf flavor is usually too pungent for salad; harvesting the flowers prolongs the bloom somewhat. Allow a few plants to set seed for self-sowing and seed collection.[1][2]",
+    "harvest": "Begin cutting outer leaves when plants have 5–8 leaves and leaves are 2–4 in long — roughly 40–50 days from sowing. Use the **cut-and-come-again** method: cut stems about 1 in above the crown; the plant regrows for 2–3 more cuttings. Baby leaves (1–2 in) are mildest; larger leaves are more pungent. Harvest regularly to delay bolting. Once the plant bolts, leaves turn very hot and bitter — shift to harvesting the immature flower buds and open flowers, which are milder and edible raw in salads or as a garnish. Young green seed pods are also edible cooked. Arugula wilts quickly after cutting; refrigerate in damp towels or eat the same day.[1][2]",
+    "maintenance": "Arugula is essentially a grow-and-go crop: little attention beyond watering and harvesting. Pull plants once they have fully bolted and seed pods are ripening, unless you want them to self-sow. Remove any that bolt prematurely (a sign of drought or heat stress) to prevent their seed from dominating the patch. Rotate arugula with non-brassica crops to reduce club root and flea beetle soil pressure.[1][2]",
+    "propagation": "Grown entirely from seed; no vegetative propagation is used for this annual. Direct sow in place — arugula has a taproot and resents transplanting once more than a few inches tall, though very young seedlings (1–2 true leaves) can be moved if carefully handled. For seed saving, allow a few plants to fully bolt, flower, and set pods; the slender silique pods split when dry, flinging seeds. Cut and hang the whole stem over a paper bag to catch them. Store dry in a cool place; germination remains good for 3–5 years.[1][2]",
+    "troubles": "**Flea beetles** are the #1 pest — tiny, jumping black beetles that riddle the leaves with small holes ('shothole' damage). Young seedlings can be severely damaged; established plants tolerate significant leaf damage before yield is affected. The most effective protection is **floating row cover (fabric) over the seedbed from germination**, which physically excludes the beetles. Uncover briefly to weed or harvest. If infestation is severe, spinosad, pyrethrin, or kaolin clay applications are options, but row cover is more effective and avoids spraying edible leaves. Leaf miners tunnel pale winding galleries in the leaves — minor and cosmetic; pick off affected leaves. Aphids cluster on new growth and beneath leaves — a strong water spray knocks them off. Powdery mildew and bacterial leaf spot appear in crowded, warm, wet conditions; improve air circulation and avoid overhead watering. Damping-off kills seedlings in cold waterlogged soil — sow in well-drained soil and don't overwater.[1][3]",
+    "selfsow": "A reliable self-sower once plants bolt and set seed — pull bolted plants before seed pods dry and split if you don't want volunteers the following year. Volunteers in spring and fall are generally welcome; summer volunteers will bolt immediately in the heat. Arugula is not a listed weed in Colorado.[1]",
+    "companions": "As a brassica family crop, arugula benefits from aromatic companion plants — dill, chamomile, rosemary, sage, thyme, and other aromatics are classic brassica companions that can confuse or repel pest insects. Nasturtiums are a classic brassica companion and flea-beetle trap crop. It grows well interplanted with lettuce, spinach, and radish in a spring salad bed (all share the same cool-season window and similar spacing). Keep arugula away from strawberries and tomatoes per the standard brassica companion rule. Radish sown thickly nearby can act as a flea-beetle trap crop, drawing them away from the arugula.[3]"
+  },
+  "edible": {
+    "level": "edible",
+    "food": true,
+    "kinds": [
+      "leaves",
+      "flowers",
+      "seeds"
+    ],
+    "card": "Peppery leaves (salad, raw or wilted); edible flowers; young seed pods and seeds",
+    "summary": "Arugula is a long-cultivated salad and potherb: the young leaves are the primary food, eaten raw or wilted, with a peppery-nutty bite; the flowers, young seed pods, and seeds are also edible.[1][2]",
+    "parts": "The **young leaves** are the main crop, harvested cut-and-come-again for salads, sandwiches, pizza, or lightly sautéed as a wilted green. The **flowers** (cream, 4-petaled, purple-veined) are edible raw as a garnish or salad ingredient. **Immature seed pods** can be eaten raw or cooked when still green and tender. The **seeds** have a history of use as a condiment and oil source (taramira oil in South Asian cooking).[1][2]",
+    "preparation": "Young leaves need no preparation — rinse and eat raw. Larger, more mature leaves are pungent; blanching or sautéing briefly in olive oil mellows the bitterness. Flowers are eaten as-is. Immature pods can be pickled or stir-fried. Seeds are pressed for taramira oil or ground as a condiment in traditional use.[1][2]",
+    "caution": "Arugula is a brassica and contains **glucosinolates** — the compounds responsible for its peppery flavor. In ordinary salad quantities these are harmless and have no adverse effect on healthy adults. In very large raw quantities (unusual diet amounts), the goitrogenic breakdown products of glucosinolates could theoretically affect thyroid function in sensitive individuals, though arugula is considered low-risk in this regard compared to raw kale or broccoli. **ID caution:** Arugula is sometimes confused with other wild Brassicaceae, particularly *Diplotaxis* species ('wild rocket') — *Diplotaxis tenuifolia* has yellow flowers, not the cream-and-purple-veined flowers of true arugula (*Eruca vesicaria*); both are edible, but verify your ID before eating any unconfirmed wild mustard. The seeds, leaves, and oil are safe; no parts are toxic.[1][2]"
+  },
+  "references": [
+    {
+      "name": "NC State Extension Plant Toolbox — Eruca vesicaria (Arugula)",
+      "url": "https://plants.ces.ncsu.edu/plants/eruca-vesicaria/"
+    },
+    {
+      "name": "RHS — Growing rocket/arugula",
+      "url": "https://www.rhs.org.uk/vegetables/rocket/grow-your-own"
+    },
+    {
+      "name": "CSU Extension — Flea beetles (5.592)",
+      "url": "https://extension.colostate.edu/topic-areas/insects/flea-beetles-5-592/"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      1
+    ],
+    "sun": [
+      1,
+      2
+    ],
+    "water": [
+      1,
+      2
+    ],
+    "spread": [
+      1
+    ],
+    "seasons": [
+      1,
+      2
+    ],
+    "wildlife": [
+      1,
+      2
+    ],
+    "deer": [
+      1
+    ],
+    "toxic": [
+      1
+    ],
+    "origin": [
+      1
+    ],
+    "habitat": [
+      1
+    ]
+  },
+  "shots": [
+    {
+      "local": "images/sp-flower-t.jpg",
+      "full": "images/sp-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/71386696/large.jpeg",
+      "s": "spring",
+      "cap": "Spring — face-on flower showing cream petals with distinctive dark purple veining · © Patrick Hacker (CC-BY) / iNaturalist",
+      "by": "Patrick Hacker",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/45027278"
+    },
+    {
+      "local": "images/sp-flower2-t.jpg",
+      "full": "images/sp-flower2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/337987571/large.jpg",
+      "s": "spring",
+      "cap": "Spring — cluster of flowers showing the purple-veined petal pattern · © frxya (CC-BY-NC) / iNaturalist",
+      "by": "frxya",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/192522430"
+    },
+    {
+      "local": "images/sp-foliage-t.jpg",
+      "full": "images/sp-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/14845681/large.jpg",
+      "s": "spring",
+      "cap": "Spring — lobed lyrate leaves on the hairy bolting stem · © Laura Clark (CC-BY) / iNaturalist",
+      "by": "Laura Clark",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/10640690"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/121477780/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — the whole plant bolted and in full bloom, showing the branching flowering habit · © Jordan Cochran (CC-BY-NC) / iNaturalist",
+      "by": "Jordan Cochran",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/74336048"
+    },
+    {
+      "local": "images/sp-leaf-t.jpg",
+      "full": "images/sp-leaf.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/112602539/large.jpeg",
+      "s": "spring",
+      "cap": "Spring — a flowering plant showing the characteristic lyrate-lobed leaves · © elenasuslova (CC-BY-NC) / iNaturalist",
+      "by": "elenasuslova",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/69405376"
+    },
+    {
+      "local": "images/su-seed-t.jpg",
+      "full": "images/su-seed.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/53577170/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — bolted stems with slender silique seed pods and flowers · © Guillermo Debandi (CC-BY) / iNaturalist",
+      "by": "Guillermo Debandi",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/34071793"
+    },
+    {
+      "local": "images/sp-bloom-t.jpg",
+      "full": "images/sp-bloom.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/143970376/large.jpg",
+      "s": "spring",
+      "cap": "Spring — flowering stem close-up with lobed basal leaves visible below · © Bruno Alzugaray (CC-BY-NC) / iNaturalist",
+      "by": "Bruno Alzugaray",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/87332608"
+    },
+    {
+      "local": "images/su-habit2-t.jpg",
+      "full": "images/su-habit2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/473613167/large.jpg",
+      "s": "summer",
+      "cap": "Summer — arugula growing wild in rocky ground, the whole plant spreading low · © Tony KM (CC-BY) / iNaturalist",
+      "by": "Tony KM",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/263615668"
+    }
+  ]
+}

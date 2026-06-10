@@ -1,0 +1,151 @@
+{
+  "common": "Lamb's ear",
+  "botanical": "Stachys byzantina",
+  "type": "Groundcover",
+  "lifecycle": "Perennial",
+  "native": "Non-native",
+  "origin": "Rocky hills of Turkey, the Caucasus, and northern Iran",
+  "habitat": "Dry rocky hillsides and stony slopes in full sun",
+  "blurb": "The ultimate silver-foliage groundcover: a spreading mat of impossibly soft, thick, woolly leaves that beg to be touched. Front Range sun and lean, dry soil are exactly what it wants — it thrives where many plants struggle, smothering weeds in a river of silver and sending up tall woolly flower spikes studded with pink-purple whorls in summer. The catch: overhead irrigation and high humidity rot the wool, so it fits xeric and well-drained plantings, not thirsty borders.",
+  "size": "6–12 in foliage mat × 18–24 in flowering spikes; spreads to 1–2+ ft wide",
+  "sun": "Full sun (best); tolerates part shade",
+  "water": "Low; xeric once established — overhead watering and wet conditions rot the woolly leaves",
+  "spread": "Spreads by rooting at stem nodes to form a dense mat; moderate self-sowing",
+  "seasons": "Silver-woolly mat year-round (semi-evergreen); tall woolly flower spikes with pink-purple whorls in summer; foliage may brown and tatter in wet winters but persists",
+  "wildlife": "Bees and butterflies visit the flowers; wool carder bees (Anthidium spp.) harvest the leaf fibers to line their nests — this plant is their primary fiber source",
+  "deer": "Deer and rabbit resistant — both avoid the fuzzy, aromatic foliage",
+  "toxic": "Non-toxic to people and pets; not a culinary food — leaves have folk-medicinal wound-dressing history but are not eaten",
+  "flower_color": [
+    "purple",
+    "pink"
+  ],
+  "bloom": [
+    "summer"
+  ],
+  "verified": "2026-06-10",
+  "shots": [
+    {
+      "local": "images/su-mat-t.jpg",
+      "full": "images/su-mat.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/405553124/large.jpg",
+      "s": "summer",
+      "cap": "Summer — the dense silver-woolly mat; tongue-shaped leaves up close · © clarissakelly (CC-BY-NC) / iNaturalist",
+      "by": "clarissakelly",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/228534759"
+    },
+    {
+      "local": "images/su-flower-t.jpg",
+      "full": "images/su-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/293438610/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — face-on: whorled purple-pink flowers on the woolly spike · © Jordi Bassols Garcia (CC-BY-NC) / iNaturalist",
+      "by": "Jordi Bassols Garcia",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/167729394"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/216215237/large.jpg",
+      "s": "summer",
+      "cap": "Summer — whole plant in full bloom: multiple woolly flower spikes over the silver mat · © hulene (CC-BY-NC) / iNaturalist",
+      "by": "hulene",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/127434946"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/48270989/large.jpg",
+      "s": "summer",
+      "cap": "Summer — the silver-woolly foliage mat with a rising flower spike · © ingridmeandre (CC-BY-NC) / iNaturalist",
+      "by": "ingridmeandre",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/29671499"
+    },
+    {
+      "local": "images/su-spike-t.jpg",
+      "full": "images/su-spike.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/667844025/large.jpg",
+      "s": "summer",
+      "cap": "Summer — a woolly flower spike just opening above the silver foliage · © artemisia85 (CC-BY-NC) / iNaturalist",
+      "by": "artemisia85",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/365161503"
+    },
+    {
+      "local": "images/su-spikes-t.jpg",
+      "full": "images/su-spikes.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/388562127/large.jpg",
+      "s": "summer",
+      "cap": "Summer — flower spike with pink-purple whorled flowers · © Joan Casanelles-Abella (CC-BY-NC) / iNaturalist",
+      "by": "Joan Casanelles-Abella",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/219397394"
+    },
+    {
+      "local": "images/fa-near-t.jpg",
+      "full": "images/fa-near.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/223967079/large.jpg",
+      "s": "fall",
+      "cap": "Late season — foliage rosette showing the plant's spreading mat habit · © sylviawilson (CC-BY-NC) / iNaturalist",
+      "by": "sylviawilson",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/131594580"
+    },
+    {
+      "local": "images/wi-winter-t.jpg",
+      "full": "images/wi-winter.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/340185380/large.jpeg",
+      "s": "winter",
+      "cap": "Winter — tattered semi-evergreen rosettes resting on dry leaf litter · © Indio Brown (CC-BY) / iNaturalist",
+      "by": "Indio Brown",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/193638561"
+    }
+  ],
+  "care": {
+    "hardiness": "Hardy to USDA zones 4–9, fully reliable across the Colorado Front Range (zones 5b–6a). The foliage is semi-evergreen — it persists through most Front Range winters but may brown and mat down in wet or snowy conditions, refreshing with new growth in spring. The dense woolly coat is the plant's main survival strategy: it reflects intense high-altitude sun and sheds moisture, exactly suited to Boulder's dry, sunny climate.[1][2]",
+    "planting": "Plant in spring (April–May) or early fall (August–September) from nursery transplants. Set in a spot with sharp drainage and at least 6 hours of sun; avoid low spots that pool water or beds with overhead irrigation, which rots the woolly foliage. Space 12–18 in. apart. Work coarse gravel into Boulder's heavy clay soil if drainage is poor, or site on a slope or in a raised bed. In containers, lamb's ear makes a striking silver trailer for a sunny pot; use a well-draining mix and water at the base, never overhead. Container roots are less cold-hardy than in-ground ones — overwinter pots in a sheltered or frost-protected location.[1][2]",
+    "sun": "Full sun (6+ hours) is ideal and produces the densest, most compact silver mats. It tolerates part shade (afternoon shade in particular) but stretch and loose growth result. Colorado's intense high-altitude sun suits it perfectly — this is a plant that wants the hottest, brightest spot in the garden.[1][2]",
+    "soil": "Average to lean, very well-drained soil is essential. Lamb's ear grows wild on dry rocky hillsides and is at home in poor, gravelly, or sandy ground. It tolerates alkaline pH (common on the Front Range) and actually benefits from lean soil — rich, heavily amended ground produces rank, floppy growth and increases the risk of rot. If planting in Boulder's clay, amend liberally with coarse grit or decomposed granite and avoid depressions where water stands. Sharp drainage is the single non-negotiable requirement.[1][2]",
+    "water": "Low; xeric once established. After the first season, established plants in Colorado's semi-arid climate need little or no supplemental water — natural precipitation (15–18 in/yr) is often sufficient, with perhaps a deep soak every 2–3 weeks during the hottest dry stretches. The critical rule: water at the base, never overhead. Wet foliage in warm, still weather triggers leaf rot that melts entire sections of the mat. Drip or soaker-hose irrigation is ideal; overhead sprinklers are the enemy. Overwatering is far more likely to kill lamb's ear than drought.[1][2]",
+    "spacing": "Space transplants 12–18 in. apart; each plant spreads 12–24 in. or more by rooting at stem nodes. For a dense mat, set at 12 in.; for a looser, more naturalistic planting, 18 in. Plan for spread and edge the bed if needed — the running stems can travel.[1][2]",
+    "propagation": "Easiest by division in spring or early fall: lift an established mat, pull apart rooted sections (each with a crown and some roots), and replant immediately at the same depth. Division every 2–4 years also rejuvenates clumps that have developed dead patches at the center, which is a normal aging pattern. Stem cuttings taken in early summer root easily in sandy or gritty medium. Seeds germinate readily: surface-sow on a gritty mix (the fine seed needs light) indoors 6–8 weeks before last frost (mid-May around Boulder) at about 65–70°F; seedlings vary somewhat but come reasonably true.[1][2]",
+    "bloom": "Tall, densely woolly flower spikes rise to 18–24 in. in early to midsummer (typically June–July on the Front Range). The spikes carry small whorls of pink-purple flowers that attract bees and butterflies; wool carder bees (Anthidium spp.) are especially drawn to the plant, collecting the leaf fibers to line their nests. Many gardeners grow lamb's ear purely as a foliage groundcover and shear the flower spikes off as they emerge — removing them keeps the mat compact and prevents some self-seeding. If you want the wildlife value and the vertical texture, leave the spikes; if you want a low, dense silver carpet, cut them. The cultivars 'Helene von Stein' ('Big Ears') and 'Silver Carpet' rarely flower, making them the go-to choices for a spike-free mat.[1][2]",
+    "feeding": "None needed — lean soil is part of the prescription. Fertilizing produces floppy, lush growth that is more susceptible to rot and flops open at the center. Skip compost top-dressing as well. If growth looks unusually weak after the plant has been in poor rocky soil for years, a light spring dose of balanced slow-release fertilizer is the most you should do.[1][2]",
+    "maintenance": "The main annual task is spring cleanup: rake out any dead, matted, or rotted foliage from winter and cut back any browned stems to make room for fresh growth. In a wet Front Range winter, entire sections of the mat may melt — this is normal; remove the mush in early spring and the plant will regrow from the crowns. If you prefer a flowering-free silver mat, shear the flower spikes off at the base as they emerge. Divide when the center dies out, which is common after 3–5 years; this also controls spread. Edge the bed annually if the running stems are creeping beyond their allotted space.[1][2]",
+    "selfsow": "Self-sows moderately; seedlings are easy to pull while small. Shearing off flower spikes before seed set (or growing a low-flowering cultivar like 'Silver Carpet' or 'Helene von Stein') keeps self-sowing in check. In lean, dry Boulder soil the spread is manageable; in richer or irrigated beds it can become aggressive.[1][2]",
+    "troubles": "Leaf rot and crown rot in humid or overwatered conditions are by far the most common failures on the Front Range — if you water overhead or site the plant in a low wet spot, sections will melt in summer. Southern bacterial wilt is possible but rare. Powdery mildew can appear if airflow is poor. Otherwise pest-free: deer, rabbits, and most insects leave it alone. Stretchy, floppy growth indicates too much shade or too rich a soil.[1][2]",
+    "companions": "Pair with other dry, sun-loving plants that share its preference for lean, well-drained soil: lavender, Russian sage, candytuft, cheddar pinks, cushion spurge, and ornamental alliums all look striking alongside the silver mat. The bold foliage provides excellent contrast to fine-textured grasses (blue fescue, blue oat grass) or dark-leaved sedums. Plant along a sunny path edge or at the front of a xeric border where the soft leaves can be touched. Avoid pairing with high-water plants: the irrigation they need will rot the lamb's ear.[1][2]"
+  },
+  "edible": {
+    "level": "inedible",
+    "food": false,
+    "summary": "Lamb's ear is a garden ornamental with a folk-medicinal wound-dressing history but no culinary use — not a food plant.[1][2]",
+    "caution": "Stachys byzantina is not eaten as food. Its leaves have a long folk-medicinal history as an emergency wound dressing — the soft, absorbent, naturally antiseptic wool was pressed against cuts and scrapes in the field, giving rise to the old common name 'woundwort' (shared with other Stachys species). This is a wound-dressing tradition, not a culinary one. Neither the NC State Plant Toolbox nor other authoritative horticultural references lists any edible use or records it as toxic — it is simply a non-food ornamental plant. Do not eat it; there is no preparation that makes the leaves palatable or useful as a food, and the aromatic foliage has an unpleasant taste when chewed.[1][2]"
+  },
+  "references": [
+    {
+      "name": "NC State Extension Plant Toolbox — Stachys byzantina (lamb's ear)",
+      "url": "https://plants.ces.ncsu.edu/plants/stachys-byzantina/"
+    },
+    {
+      "name": "University of Wisconsin Extension — Lamb's Ear (Stachys byzantina 'Cotton Boll')",
+      "url": "https://hort.extension.wisc.edu/articles/lambs-ear-stachys-byzantina-cotton-boll/"
+    }
+  ],
+  "fact_src": {
+    "size": [1, 2],
+    "sun": [1, 2],
+    "water": [1, 2],
+    "spread": [1, 2],
+    "seasons": [1, 2],
+    "wildlife": [1],
+    "deer": [1, 2],
+    "toxic": [1, 2],
+    "origin": [1],
+    "habitat": [1]
+  }
+}

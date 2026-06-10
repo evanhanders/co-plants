@@ -1,0 +1,201 @@
+{
+  "common": "Littleleaf linden",
+  "botanical": "Tilia cordata",
+  "type": "Tree",
+  "lifecycle": "Perennial",
+  "native": "Non-native",
+  "origin": "Europe and western Asia, from Britain east to the Urals and into Siberia",
+  "habitat": "Moist mixed deciduous woodland, forest margins, and sheltered ravines on fertile, well-drained soils",
+  "blurb": "The classic European street and shade tree — and one of the finest bee trees in the temperate world. Heart-shaped leaves cast a dense umbrella of shade; in midsummer every hive within range descends on the intensely fragrant pale-yellow flowers. Tolerates Boulder's alkaline clay soils and harsh winter cold, though it wants reliable moisture and shows leaf scorch when stressed by heat and drought.",
+  "size": "50–70 ft tall × 35–50 ft wide at maturity; pyramidal when young, broadly oval with age; slow- to medium-growing",
+  "sun": "Full sun to part shade; at least 6 hours direct sun for best form and flowering",
+  "water": "Moderate — not xeric; needs regular deep watering in summer, especially in heat or wind; drought stress causes leaf scorch",
+  "spread": "Non-suckering; upright pyramidal crown rounding with age; casts dense shade under the canopy",
+  "seasons": "Fragrant pale-yellow flowers midsummer draw bees for days; clear yellow fall color; smooth silvery-gray bark and upright branching create winter presence; persistent fruit bracts hang on bare twigs into winter",
+  "wildlife": "A premier bee tree — linden nectar and pollen are a major midsummer bee resource for honeybees and native bees alike; aphid colonies on the foliage feed ladybirds, hoverflies, and other beneficial insects; foliage hosts caterpillars of many moths",
+  "deer": "Browsed when young; larger established trees are largely resistant to deer browse",
+  "toxic": "Non-toxic to people, dogs, and cats; linden flowers and young leaves are edible",
+  "flower_color": [
+    "yellow"
+  ],
+  "bloom": [
+    "summer"
+  ],
+  "verified": "2026-06-09",
+  "care": {
+    "hardiness": "USDA zones 3b–7b — one of the hardiest large deciduous shade trees available for the Front Range. It handles Boulder's sub-zero winter temperatures without issue and is fully reliable through zones 5b–6a. Its tolerance of alkaline soils is a real asset here: it handles pH up to 8.0+ with no mineral-deficiency yellowing, unlike many shade trees that struggle in our calcareous clay.[1][2]",
+    "planting": "Plant in spring (April–May) after the ground thaws, or in early fall (September) once summer heat breaks — both windows allow roots to settle before freeze or heat stress. Balled-and-burlapped trees should go in the ground promptly; remove all burlap, twine, and wire basket from the top third of the root ball before backfilling. Dig the hole two to three times as wide as the root ball but no deeper than the root ball's height — the root flare should sit at or just above final grade (planting too deep is the single most common tree-establishment failure on the Front Range). Water in thoroughly after planting to settle air pockets. In containers, linden grows fine seasonally but eventually needs ground; a container left above ground over a Boulder winter is survivable (the tree is cold-hardy enough) but the roots desiccate in a dry, heated garage or freeze hard in an unheated space — sink the pot, heel it in, or plan to plant out by the second spring.[1][2]",
+    "sun": "Full sun is ideal for the most vigorous growth, best flowering, and tightest form. Part shade (3–5 hours direct sun) is tolerated but growth slows and flowering is reduced. Avoid heavy shade. On the Front Range, the bigger risk is too much wind and reflected heat from pavement or south-facing walls — these intensify drought stress and cause the leaf scorch that gives lindens a bad reputation as street trees.[1][2]",
+    "soil": "Adaptable to a wide range of soils, including Boulder's heavy alkaline clay-loam — one reason it has been so widely planted here. It prefers moist, well-drained loam but adjusts to our neutral-to-alkaline conditions (pH 6.0–8.0+). The main requirement is reasonable drainage; chronically waterlogged soil is not tolerated. Work organic matter into planting holes to improve water retention and drainage in clay, but don't create a 'bathtub' hole that holds water. A 3–4 in layer of organic mulch over the root zone (kept away from the trunk) moderates soil temperature and holds moisture — very worthwhile on the Front Range.[1][2]",
+    "water": "Moderate water need — this is not a xeric tree. Young trees need deep watering once or twice a week during summer dry spells for their first two to three seasons. Established trees are more drought-tolerant but still benefit from a deep soak every two to three weeks through the hottest, driest periods (late June–August); without it, the leaf margins scorch and the tree looks stressed. Overwatering in clay soils is also a hazard — soggy roots cause dieback. The PlantTalk linden guide specifically cautions that both too much and too little water produce limp, distorted, or scorched foliage.[1][2]",
+    "spacing": "Allow 30–40 ft of open space for a single specimen — this is a large tree at maturity. In tight urban sites, the 'Greenspire' cultivar stays more compact (~40 ft), but even so it needs room. Avoid planting under power lines or within 15 ft of pavement edges where roots will be restricted and heat radiates off the surface. Set at least 15–20 ft from buildings to allow the full crown to develop and to prevent root intrusion.[1][2]",
+    "propagation": "Seed propagation requires prolonged stratification and is rarely used in practice. Fresh seed sown immediately in a cold frame may germinate within one to two years; stored seed requires alternating warm (10–30 °C) and cold (4 °C) stratification cycles of around five months each to break dormancy — total time to germination can be two or more years. In practice, nursery-grown grafted trees or layered plants are the standard route. For home gardeners, simple layering (pinning a low branch to the ground in spring, severing once rooted) works reliably and takes one to three years. Root suckers can also be separated and transplanted during dormancy.[3]",
+    "bloom": "Fragrant pale-yellow to cream-colored flowers open in July on the Front Range — typically the second to third week of July, when most trees are past peak bloom. The flowers hang in pendulous clusters of five to seven from a distinctive strap-like pale-green bract; this bract persists as the fruit ripens and hangs on the bare twigs into winter as a soft tan pennant. The fragrance is intense and sweet, carrying a long distance on warm evenings — every beehive within range will find the tree. The bloom lasts about two weeks.[1][2]",
+    "feeding": "Light to moderate feeder. Established trees in good soil need no routine fertilization — excess nitrogen promotes lush soft growth prone to aphid attack and does not improve the tree's long-term structure. Apply a balanced slow-release fertilizer (e.g., 10-10-10) in early spring only if the tree shows stunted growth or pale yellow foliage suggesting nutrient deficiency. Mulching is more beneficial than fertilizing for soil health and moisture retention.[1]",
+    "maintenance": "Young trees need structural pruning in late winter (before bud break) to establish a single central leader — remove co-dominant stems and any crossing or inward-growing branches. Once established, lindens need minimal pruning; remove dead or damaged wood as needed and maintain clearance below the canopy. Prune only in late winter or early spring: fall pruning leaves wounds exposed to fungi and insects through the wet season. Do not top or heavily cut back a linden — the tree recovers poorly from severe heading and the resulting watersprouts are unsightly and structurally weak.[1][2]",
+    "troubles": "**Aphids** are the most consistent Front Range nuisance. Basswood aphids (lime aphids) colonize the underside of leaves and excrete sticky honeydew that rains down on anything parked below, then blackens with sooty mold fungus. The aphid colonies are a nuisance but rarely harm a healthy established tree; natural predators (ladybirds, hoverflies, parasitic wasps) usually bring populations down by August. In a bad year, a single targeted spray of insecticidal soap or horticultural oil knocks them back. Planting where the drip zone falls on turf rather than a patio or car reduces the nuisance. **Japanese beetles** can skeletonize foliage in areas where they are established — mature trees tolerate a moderate infestation; avoid planting linden where beetle pressure is already heavy. **Leaf scorch** — brown, papery leaf margins from mid-summer onward — is the signature stress response to heat, wind, and dry soil on the Front Range; correct by improving irrigation, adding mulch, and avoiding exposed sites. **Herbicide sensitivity** is a documented issue: never apply weed-and-feed or broadcast liquid herbicide near linden root zones — the tree absorbs 2,4-D and other phenoxy herbicides through its roots and may show distorted, cupped foliage for a full season afterward. Keep a chemical-free buffer around the drip line.[1][2]",
+    "companions": "Pairs well with other moderate-water ornamental trees in a mixed planting: service-berry, cornelian cherry (which blooms months earlier), and mountain alder in moister spots. Under the linden canopy, try epimedium, bigroot geranium, or coral bells for dry shade once the tree establishes its umbrella. The linden is the crown jewel of a Front Range bee garden planted alongside goldenrods, rabbitbrush, and other later-season pollinators — its midsummer bloom bridges between the spring flush and fall asters.[2]",
+    "selfsow": "Does not self-sow aggressively in cultivation — seed set in cool continental climates is often low-viability. Not a weed concern.",
+    "harvest": "Harvest linden flowers for tea when clusters are freshly opened and fully fragrant, typically mid-July. Collect the whole pendulous cluster, bract included, on a dry morning after dew has evaporated. Dry gently in a single layer in a warm, well-ventilated spot (not in direct sun) for one to two weeks, then store in an airtight container away from light. Use dried flowers within one year for best flavor. Young spring leaves (before they fully harden) can be added to salads — harvest them as the buds unfurl in early May when the leaves are soft and mild. Use the flowers promptly once dried; old, degraded flowers lose flavor and have been reported to cause headache if brewed very strong — use fresh or well-dried stock only.[3]"
+  },
+  "edible": {
+    "level": "edible",
+    "food": true,
+    "kinds": [
+      "flowers",
+      "leaves"
+    ],
+    "card": "Flowers (tilleul tea); young spring leaves (salad)",
+    "summary": "Linden flowers are the classical tilleul herbal tea of European tradition — fragrant, sweet, and mild. Young spring leaves are also edible as a salad green. Both are used with ordinary care; very old or improperly dried flowers should be avoided.[3][4]",
+    "parts": "The fragrant pale-yellow flowers (collected with their bract) are dried and brewed as tilleul (linden blossom) tea — one of Europe's best-known herbal teas, with a sweet, honey-like fragrance. They can also be candied, added to cordials, or used to infuse honey or cream. Young leaves gathered in spring, before they fully harden, are mild, slightly mucilaginous, and edible raw in salads or added to sandwiches. The sweet sap can be tapped in spring. The ground flowers and immature fruit have been used as a sort of chocolate substitute, though this preparation is prone to decomposition and is rarely used today.[3][4]",
+    "preparation": "For tea: harvest freshly opened flower clusters with the bract, dry in a single layer at room temperature out of direct light for one to two weeks, then steep two to three teaspoons of dried flowers in hot (not boiling) water for 5–10 minutes. Use within one year of drying for best flavor and fragrance. For salad leaves: harvest only the freshest, most tender spring leaves (before the leaf hardens) — they are mild and pleasant raw and need no cooking. Do not eat the hard mature leaf or seeds.[3]",
+    "caution": "Only harvest fresh, properly dried flowers — very old or improperly stored dried flowers have been reported in some historical sources to cause headache or mild narcotic-like symptoms if brewed very strong; the risk is low with properly cured stock, but it is reason to use freshly dried flowers and avoid flowers that have been stored for more than a year. Do not confuse linden (Tilia) with the unrelated lime tree (Citrus aurantifolia) or with any species of Toxicodendron. Linden is non-toxic to people, dogs, and cats. The seeds and mature foliage are not culinary.[3][4]"
+  },
+  "references": [
+    {
+      "name": "CSU PlantTalk Colorado — Linden Trees (1734)",
+      "url": "https://planttalk.colostate.edu/topics/trees-shrubs-vines/1734-linden-trees/"
+    },
+    {
+      "name": "NC State Extension Plant Toolbox — Tilia cordata",
+      "url": "https://plants.ces.ncsu.edu/plants/tilia-cordata/"
+    },
+    {
+      "name": "Plants For A Future (PFAF) — Tilia cordata",
+      "url": "https://pfaf.org/user/Plant.aspx?LatinName=Tilia+cordata"
+    },
+    {
+      "name": "European Medicines Agency — Tiliae flos (lime/linden flower), EU herbal monograph",
+      "url": "https://www.ema.europa.eu/en/medicines/herbal/tiliae-flos"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      1,
+      2
+    ],
+    "sun": [
+      1,
+      2
+    ],
+    "water": [
+      1,
+      2
+    ],
+    "spread": [
+      2
+    ],
+    "seasons": [
+      1,
+      2
+    ],
+    "wildlife": [
+      2
+    ],
+    "deer": [
+      2
+    ],
+    "toxic": [
+      1,
+      3
+    ],
+    "origin": [
+      2
+    ],
+    "habitat": [
+      2
+    ]
+  },
+  "shots": [
+    {
+      "local": "images/su-flower-t.jpg",
+      "full": "images/su-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/400057447/large.jpeg",
+      "s": "summer",
+      "cap": "Midsummer — pale-yellow fragrant flowers with the characteristic strap-like bract · © Igor' R. (CC-BY) / iNaturalist",
+      "by": "Igor' R.",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/225630245"
+    },
+    {
+      "local": "images/su-flower2-t.jpg",
+      "full": "images/su-flower2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/83071096/large.jpg",
+      "s": "summer",
+      "cap": "Midsummer — close-up of the cream-yellow flower clusters with their distinctive bract · © Богданович Светлана (CC-BY-NC) / iNaturalist",
+      "by": "Богданович Светлана",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/52263612"
+    },
+    {
+      "local": "images/su-habit2-t.jpg",
+      "full": "images/su-habit2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/321125910/large.jpg",
+      "s": "summer",
+      "cap": "Midsummer — the canopy in full flowering glory; the whole crown draws bees for days · © Иван Мазаев (CC-BY-NC) / iNaturalist",
+      "by": "Иван Мазаев",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/184007631"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/226671408/large.jpg",
+      "s": "summer",
+      "cap": "Summer — the small, neat, asymmetric heart-shaped leaves that give littleleaf linden its name · © Georgy Vinogradov (CC-BY) / iNaturalist",
+      "by": "Georgy Vinogradov",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/133104513"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/288257308/large.jpg",
+      "s": "summer",
+      "cap": "Summer — heart-shaped serrated leaves showing the dense linden canopy · © Ryan Grow (CC-BY-NC) / iNaturalist",
+      "by": "Ryan Grow",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/166457808"
+    },
+    {
+      "local": "images/su-fruit-t.jpg",
+      "full": "images/su-fruit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/114713802/large.jpg",
+      "s": "summer",
+      "cap": "Late summer — the diagnostic nutlets hanging from their strap-like pale bract · © Georgy Vinogradov (CC-BY) / iNaturalist",
+      "by": "Georgy Vinogradov",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/70549314"
+    },
+    {
+      "local": "images/fa-color-t.jpg",
+      "full": "images/fa-color.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/54082257/large.jpeg",
+      "s": "fall",
+      "cap": "Fall — clear golden-yellow foliage in October · © iNaturalist contributor (CC0) / iNaturalist",
+      "by": "iNaturalist contributor",
+      "lic": "CC0",
+      "link": "https://www.inaturalist.org/observations/34369240"
+    },
+    {
+      "local": "images/wi-stems-t.jpg",
+      "full": "images/wi-stems.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/610753547/large.jpg",
+      "s": "winter",
+      "cap": "Winter — bare silhouette with smooth gray bark and upright branching in the dormant season · © David Paloch (CC-BY-NC) / iNaturalist",
+      "by": "David Paloch",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/336127388"
+    },
+    {
+      "local": "images/wi-stems2-t.jpg",
+      "full": "images/wi-stems2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/600517890/large.jpg",
+      "s": "winter",
+      "cap": "Winter — persistent fruit bracts hanging from bare twigs in snow · © Miroslav Stamenov (CC-BY-NC) / iNaturalist",
+      "by": "Miroslav Stamenov",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/331077104"
+    }
+  ]
+}

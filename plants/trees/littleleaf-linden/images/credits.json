@@ -1,0 +1,155 @@
+[
+  {
+    "file": "images/su-flower.jpg",
+    "photo_id": 400057447,
+    "by": "Igor' R.",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/observations/225630245",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  },
+  {
+    "file": "images/su-flower2.jpg",
+    "photo_id": 83071096,
+    "by": "Богданович Светлана",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/52263612",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      785,
+      1400
+    ],
+    "thumb_px": [
+      224,
+      400
+    ]
+  },
+  {
+    "file": "images/su-habit.jpg",
+    "photo_id": 288257308,
+    "by": "Ryan Grow",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/166457808",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      1050
+    ],
+    "thumb_px": [
+      400,
+      300
+    ]
+  },
+  {
+    "file": "images/su-foliage.jpg",
+    "photo_id": 226671408,
+    "by": "Георгий Виноградов (Georgy Vinogradov)",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/observations/133104513",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      930,
+      616
+    ],
+    "thumb_px": [
+      400,
+      265
+    ]
+  },
+  {
+    "file": "images/su-fruit.jpg",
+    "photo_id": 114713802,
+    "by": "Георгий Виноградов (Georgy Vinogradov)",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/observations/70549314",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      929,
+      615
+    ],
+    "thumb_px": [
+      400,
+      265
+    ]
+  },
+  {
+    "file": "images/fa-color.jpg",
+    "photo_id": 54082257,
+    "by": "no rights reserved",
+    "license": "CC0",
+    "source": "https://www.inaturalist.org/observations/34369240",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      1050
+    ],
+    "thumb_px": [
+      400,
+      300
+    ]
+  },
+  {
+    "file": "images/wi-stems.jpg",
+    "photo_id": 610753547,
+    "by": "David Paloch",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/336127388",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1049,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  },
+  {
+    "file": "images/wi-stems2.jpg",
+    "photo_id": 600517890,
+    "by": "Miroslav Stamenov",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/331077104",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      788
+    ],
+    "thumb_px": [
+      400,
+      225
+    ]
+  },
+  {
+    "file": "images/su-habit2.jpg",
+    "photo_id": 321125910,
+    "by": "Иван Мазаев",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/184007631",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      933
+    ],
+    "thumb_px": [
+      400,
+      267
+    ]
+  }
+]

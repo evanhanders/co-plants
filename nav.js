@@ -1,10 +1,10 @@
 /* nav.js — the shared hamburger side-drawer navigation, loaded on every page after auth.js.
 
    It's gated on accounts being configured: with placeholder config there's no drawer at all, so
-   the guide is unchanged until accounts are switched on. The drawer holds the site nav (Home ·
-   Favourites · Privacy) plus an account block — a `#account` container that auth.js renders into
-   (Sign in link, or the signed-in email + Sign out). Sign-in and Favourites are full pages
-   (signin.html / favorites.html); this is just how you get to them. */
+   the guide is unchanged until accounts are switched on. A floating button (bottom-right) opens an
+   off-canvas drawer (from the right) holding the site nav (Home · Favourites · Privacy) plus an
+   account block — a `#account` container that auth.js renders into (Sign in link, or the signed-in
+   email + Sign out). Sign-in and Favourites are full pages (signin.html / favorites.html). */
 (function(){
 'use strict';
 if(!(window.Account && window.Account.configured)) return; // accounts off → no drawer

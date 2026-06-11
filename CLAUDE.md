@@ -509,9 +509,11 @@ Visitors can **create an account and favourite plants**; favourites sync to any 
 in on. It's the one feature that reaches beyond static files — but it's built to **degrade to
 nothing** when unconfigured, so the guide is byte-for-byte unchanged until it's switched on.
 
-Navigation lives in a **hamburger side-drawer** (top-left); **Sign in** and **Favourites** are
-**their own pages** (not a modal / not a grid toggle). The per-plant ♥ on cards + detail sheets is
-how you save; the Favourites page just lists what you saved.
+Navigation lives in a **floating menu button** (bottom-right) that opens a **side-drawer** (from
+the right); **Sign in** and **Favourites** are **their own pages** (not a modal / not a grid
+toggle). The per-plant ♥ on cards + detail sheets is how you save; the Favourites page just lists
+what you saved. (The button is a bottom-right FAB rather than a top corner so it never overlaps the
+back-links / kicker / sticky section headers.)
 
 **The pieces:**
 - **`config.js`** — just two globals, `window.SUPABASE_URL` + `window.SUPABASE_ANON_KEY`. **Both
@@ -527,10 +529,11 @@ how you save; the Favourites page just lists what you saved.
   the Supabase client (`import('https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/+esm')`)
   **only when configured** — unconfigured, it installs a no-op `Account` stub, renders no UI, and
   never even fetches the library.
-- **`nav.js`** — the shared **hamburger drawer**, loaded on every page after `auth.js`. **Gated on
-  `Account.configured`** (no drawer at all when accounts are off). Builds the fixed hamburger +
-  off-canvas `<nav>` with links **Home · Favourites · Privacy** and a `<div id="account">` that
-  `auth.js` renders into. Esc / backdrop / link-tap close it; basic Tab focus-trap.
+- **`nav.js`** — the shared nav **drawer**, loaded on every page after `auth.js`. **Gated on
+  `Account.configured`** (nothing injected at all when accounts are off). Builds a floating
+  bottom-right menu button + an off-canvas `<nav>` (slides in from the right) with links **Home ·
+  Favourites · Privacy** and a `<div id="account">` that `auth.js` renders into. Esc / backdrop /
+  link-tap close it; basic Tab focus-trap.
 - **`signin.html` + `signin.js`** — the standalone **Sign-in page** (replaces the old modal):
   magic-link form → `Account.signIn(email)`; shows a "signed in as …" panel with Sign out when
   already signed in.

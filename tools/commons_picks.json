@@ -1,4 +1,76 @@
 {
+  "perennials/garden-mullein": [
+    {
+      "file": "Verbascum 'Southern Charm', Longwood Gardens 2024 01.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Verbascum_%27Southern_Charm%27%2C_Longwood_Gardens_2024_01.jpg",
+      "kind": "flower",
+      "s": "summer",
+      "cap": "Summer — pastel pink-purple saucer blooms of 'Southern Charm' with fuzzy stamens",
+      "by": "Shuvaev",
+      "lic": "CC BY 4.0",
+      "link": "https://commons.wikimedia.org/wiki/File:Verbascum_%27Southern_Charm%27,_Longwood_Gardens_2024_01.jpg"
+    },
+    {
+      "file": "Verbascum 'Southern Charm', Longwood Gardens 2024 02.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Verbascum_%27Southern_Charm%27%2C_Longwood_Gardens_2024_02.jpg",
+      "kind": "habit",
+      "s": "summer",
+      "cap": "Summer — branching flower spike of 'Southern Charm' in bloom",
+      "by": "Shuvaev",
+      "lic": "CC BY 4.0",
+      "link": "https://commons.wikimedia.org/wiki/File:Verbascum_%27Southern_Charm%27,_Longwood_Gardens_2024_02.jpg"
+    },
+    {
+      "file": "Verbascum Southern Charm 2zz.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Verbascum_Southern_Charm_2zz.jpg",
+      "kind": "bloom",
+      "s": "summer",
+      "cap": "Summer — soft apricot-cream flowers of 'Southern Charm', face-on",
+      "by": "Photo by David J. Stang",
+      "lic": "CC BY-SA 4.0",
+      "link": "https://commons.wikimedia.org/wiki/File:Verbascum_Southern_Charm_2zz.jpg"
+    },
+    {
+      "file": "Verbascum Southern Charm 3zz.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Verbascum_Southern_Charm_3zz.jpg",
+      "kind": "habit2",
+      "s": "summer",
+      "cap": "Summer — tall branching flower spike of 'Southern Charm' in the garden",
+      "by": "Photo by David J. Stang",
+      "lic": "CC BY-SA 4.0",
+      "link": "https://commons.wikimedia.org/wiki/File:Verbascum_Southern_Charm_3zz.jpg"
+    },
+    {
+      "file": "Verbascum Pink Petticoat 1zz.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Verbascum_Pink_Petticoat_1zz.jpg",
+      "kind": "foliage",
+      "s": "summer",
+      "cap": "Summer — woolly grey-green basal leaves of garden mullein ('Pink Petticoat')",
+      "by": "Photo by David J. Stang",
+      "lic": "CC BY-SA 4.0",
+      "link": "https://commons.wikimedia.org/wiki/File:Verbascum_Pink_Petticoat_1zz.jpg"
+    },
+    {
+      "file": "Verbascum Sugar Plum 1zz.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Verbascum_Sugar_Plum_1zz.jpg",
+      "kind": "flower2",
+      "s": "summer",
+      "cap": "Summer — soft lilac-pink blooms of 'Sugar Plum', each with woolly purple stamens",
+      "by": "Photo by David J. Stang",
+      "lic": "CC BY-SA 4.0",
+      "link": "https://commons.wikimedia.org/wiki/File:Verbascum_Sugar_Plum_1zz.jpg"
+    },
+    {
+      "file": "Verbascum Summer Sorbet 1zz.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Verbascum_Summer_Sorbet_1zz.jpg",
+      "kind": "pollinator",
+      "s": "summer",
+      "cap": "Summer — pale pink flowers of 'Summer Sorbet' with a visiting bee",
+      "by": "Photo by David J. Stang",
+      "lic": "CC BY-SA 4.0",
+      "link": "https://commons.wikimedia.org/wiki/File:Verbascum_Summer_Sorbet_1zz.jpg"
+    }
+  ],
   "vines/garden-clematis": [
     {
       "file": "Clematis 'Jackmannii' 0193.JPG",

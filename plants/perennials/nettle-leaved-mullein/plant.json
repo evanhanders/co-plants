@@ -1,0 +1,206 @@
+{
+  "collection": "mulleins",
+  "common": "Nettle-leaved mullein",
+  "botanical": "Verbascum chaixii",
+  "type": "Forb",
+  "lifecycle": "Perennial",
+  "bloom_season": "Summer",
+  "native": "Non-native",
+  "origin": "Central and southern Europe (Italy to the Balkans)",
+  "habitat": "Open rocky slopes, dry meadows, roadsides, and disturbed ground on well-drained calcareous soils",
+  "blurb": "A refined, long-lived perennial mullein bearing slender spires of small yellow (or white in 'Album') flowers, each with a tuft of distinctive purple-woolly stamens. More floriferous and persistent than the biennial common mullein, it forms a basal rosette of dark, nettle-textured leaves and self-sows gently without becoming weedy — a polished mid-summer vertical for dry, lean ground.",
+  "size": "2.5–3.5 ft tall in bloom × 1.5–2 ft wide (rosette)",
+  "sun": "Full sun to part shade (best in full sun)",
+  "water": "Low; drought-tolerant once established — sharp drainage essential",
+  "spread": "Clumping; self-sows modestly in open ground",
+  "seasons": "Semi-evergreen dark-green basal rosette year-round; slender yellow flower spires midsummer; persistent dry seed spikes through fall and winter",
+  "wildlife": "Bees work the flowers; the purple woolly stamens are a tactile draw for pollen-foraging bees",
+  "deer": "Generally deer-resistant",
+  "toxic": "Not significantly toxic; contact with the foliage may cause mild skin irritation in sensitive individuals",
+  "flower_color": [
+    "yellow",
+    "white"
+  ],
+  "bloom": [
+    "summer"
+  ],
+  "verified": "2026-06-11",
+  "shots": [
+    {
+      "local": "images/su-flower-t.jpg",
+      "full": "images/su-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/427584965/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — flower close-up showing purple woolly stamens · © Mario Klesczewski (CC-BY-NC) / iNaturalist",
+      "by": "Mario Klesczewski",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/240033445"
+    },
+    {
+      "local": "images/su-bloom-t.jpg",
+      "full": "images/su-bloom.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/521296750/large.jpg",
+      "s": "summer",
+      "cap": "Summer — spire of yellow flowers with purple-wool stamen centers · © Víctor Huete Pelaez (CC-BY-NC) / iNaturalist",
+      "by": "Víctor Huete Pelaez",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/289814865"
+    },
+    {
+      "local": "images/su-context-t.jpg",
+      "full": "images/su-context.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/322062322/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — whole plant in bloom on a rocky dry slope, showing the branching spike habit · © Галина Винюсева (CC-BY-NC) / iNaturalist",
+      "by": "Галина Винюсева",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/184496605"
+    },
+    {
+      "local": "images/su-spike-t.jpg",
+      "full": "images/su-spike.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/87819453/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — slender branching spike of yellow flowers with purple stamens in a wildflower meadow · © Tommaso Sitzia (CC-BY-NC) / iNaturalist",
+      "by": "Tommaso Sitzia",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/55163640"
+    },
+    {
+      "local": "images/su-near-t.jpg",
+      "full": "images/su-near.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/93243308/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — slender spike with open yellow flowers and seed capsules below · © bully1984 (CC-BY-NC) / iNaturalist",
+      "by": "bully1984",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/58403834"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/279313055/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — nettle-like dark-green basal leaves · © Patrick Hacker (CC-BY) / iNaturalist",
+      "by": "Patrick Hacker",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/161586052"
+    },
+    {
+      "local": "images/su-foliage2-t.jpg",
+      "full": "images/su-foliage2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/135733972/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — basal rosette of crinkled nettle-textured leaves · © Michael Glanznig (CC-BY) / iNaturalist",
+      "by": "Michael Glanznig",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/82686622"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/392757371/large.jpg",
+      "s": "summer",
+      "cap": "Summer — upright stem with nettle-textured leaves · © Martin A. Prinz (CC-BY-NC) / iNaturalist",
+      "by": "Martin A. Prinz",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/221765098"
+    },
+    {
+      "local": "images/fa-seed-t.jpg",
+      "full": "images/fa-seed.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/170441893/large.jpeg",
+      "s": "fall",
+      "cap": "Fall — elongated seed capsules along the dried spike · © Patrick Hacker (CC-BY) / iNaturalist",
+      "by": "Patrick Hacker",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/102010393"
+    },
+    {
+      "local": "images/fa-seed2-t.jpg",
+      "full": "images/fa-seed2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/328618051/large.jpeg",
+      "s": "fall",
+      "cap": "Fall — whole plant in late season with aging basal leaves and seed stalks · © Vasily Moryashkin (CC-BY) / iNaturalist",
+      "by": "Vasily Moryashkin",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/187856392"
+    }
+  ],
+  "care": {
+    "hardiness": "Hardy to USDA zone 4 (some sources list zone 5), making it reliably perennial across the entire Front Range (Boulder is USDA zone 5b–6a). Unlike the common mullein (*Verbascum thapsus*), which is a tap-rooted biennial, nettle-leaved mullein is a true perennial that persists for many years from a fibrous crown, reblooming each summer and occasionally producing basal offsets. It is one of the hardiest and most long-lived ornamental mulleins in cultivation.[1][2]",
+    "planting": "Plant in spring (April–May) or early fall (late August–mid-September) so roots establish before summer heat or hard freeze. The most critical requirement is sharp drainage: in Boulder's heavy alkaline clay, plant on a slope, at the top of a raised bed, or work coarse grit into the planting pocket to prevent crown rot. The crown must never sit in waterlogged soil over winter. Set the crown at soil level — neither buried nor raised. In containers use a lean, well-drained mix; container crowns are more vulnerable to wet winter cold, so protect from prolonged hard frost or move under cover.[1][2][3]",
+    "sun": "Full sun produces the most compact habit and the heaviest bloom. It tolerates part shade (3–4 hours direct sun) but may become more open and floppy. On the dry Front Range, full sun with no supplemental water suits it well — it handles Colorado's high-altitude UV without bleaching or wilting.[1][2]",
+    "soil": "Lean, gritty, sharply drained soil is essential; it is native to rocky slopes and dry calcareous grasslands. Rich, moist, or heavy soil produces lax growth and shortens its life. Boulder's alkaline clay is tolerated only with excellent drainage; no soil amendment other than coarse grit is needed or desirable. Neutral to moderately alkaline pH (6.5–8.0) is fine.[1][2]",
+    "water": "Low once established — thoroughly drought-tolerant in a lean, well-drained site. Water new transplants regularly through the first season to establish, then reduce to minimal supplemental irrigation (occasional deep soak in the hottest stretches). Overwatering or standing water at the crown is the primary cause of failure; err on the side of too dry.[1][3]",
+    "spacing": "Space plants about 18–24 in. apart; each rosette reaches roughly 18–24 in. wide. Allow room for the upright spires — they are slender but 3+ ft tall and look best in small drifts of three or more for the full column effect.[1][2]",
+    "propagation": "Propagates readily from seed and also from root cuttings. Seed: sow outdoors in fall or early spring (it benefits from brief cold exposure for consistent germination — 2–4 weeks cold-moist stratification indoors or fall sowing for natural chilling); surface-sow or sow shallowly at 1/16–1/8 in. on a lean, gritty mix and keep lightly moist; germination in 10–20 days at 60–70°F. Seedlings may not bloom until the second year. Root cuttings taken in late fall or early winter (2–3 in. sections of fleshy lateral roots, potted horizontally in sand, kept barely moist in a cold frame) produce flowering plants the following year — a useful way to propagate a named form like 'Album'. Division is possible but not ideal — the plant resents root disturbance and is better left undivided.[1][2]",
+    "sow": "Sow shallowly — at most 1/8 in. deep — on a firm, well-drained seedbed; the seed requires light or near-surface conditions to germinate. Fall outdoor sowing provides the natural cold exposure that promotes even germination in spring.[1]",
+    "bloom": "Slender spires of small yellow flowers (or white in 'Album'), each with a conspicuous tuft of purple-woolly stamens, bloom from midsummer through late summer (July–August on the Front Range). A mature clump sends up multiple spires. Deadheading the main spike after bloom encourages lateral branching and extends the flowering period; leave a few spikes to self-sow and to provide the persistent architectural seed columns through fall and winter.[1][2]",
+    "feeding": "No fertilizer needed — in lean ground it is long-lived and free-flowering. Rich feeding produces floppy, weak growth and shortens the plant's life. A very light spring topdressing of compost is the maximum; skip it in already-decent soil.[1][2]",
+    "maintenance": "Low-maintenance in the right site. After bloom, cut back spent spikes or leave them for the seed columns (attractive through fall; the dried spikes have minor wildlife value). In late winter or early spring cut back the previous year's flower stalks and tidy any tattered outer leaves. In a well-chosen site it largely self-maintains; a gravel or crushed-granite mulch helps maintain the sharp drainage it needs at the crown.[2][3]",
+    "troubles": "Crown rot in wet, heavy, or amended soil is the most common failure — drainage is everything. Powdery mildew can affect foliage in humid, shaded, or crowded conditions (thin plants and improve airflow). The mullein moth (*Cucullia verbasci*) caterpillar — yellow and black spotted — is an occasionally dramatic but rarely fatal defoliator; handpick if cosmetically objectionable. Root rot and slugs can attack young plants in cool, wet springs. Rabbits and deer generally avoid it.[1][2][3]",
+    "companions": "A natural companion to other dry, sunny xeric plants: pair with ornamental grasses (little bluestem, blue oat grass), xeric salvias (Russian sage, Mojave sage), lavender, catmint, blanket flower, and prairie coneflower. The vertical spires contrast well with low mounding plants and groundcovers; the purple-stamened flowers echo the tones of blue-violet salvias and veronica. A beautiful back-of-border plant where its height is an asset rather than a problem. Works equally well in informal cottage plantings and in formal, structured perennial borders.[2][3]"
+  },
+  "references": [
+    {
+      "name": "Royal Horticultural Society — Verbascum chaixii (nettle-leaved mullein)",
+      "url": "https://www.rhs.org.uk/plants/18700/verbascum-chaixii/details"
+    },
+    {
+      "name": "Missouri Botanical Garden Plant Finder — Verbascum chaixii",
+      "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=287008&isprofile=1&gen=Verbascum"
+    },
+    {
+      "name": "USDA NRCS PLANTS Database — Verbascum chaixii (VECH2)",
+      "url": "https://plants.usda.gov/home/plantProfile?symbol=VECH2"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      1,
+      2
+    ],
+    "sun": [
+      1,
+      2
+    ],
+    "water": [
+      1,
+      3
+    ],
+    "spread": [
+      1,
+      2
+    ],
+    "seasons": [
+      1,
+      2
+    ],
+    "wildlife": [
+      2
+    ],
+    "deer": [
+      2,
+      3
+    ],
+    "toxic": [
+      1,
+      2
+    ],
+    "origin": [
+      1,
+      2
+    ],
+    "habitat": [
+      1,
+      2
+    ]
+  },
+  "edible": {
+    "level": "inedible",
+    "food": false,
+    "summary": "Nettle-leaved mullein is a garden ornamental with no documented culinary use.[1][2]",
+    "caution": "Verbascum chaixii has no recognized food use and should not be eaten. Like all mulleins, the foliage bears fine hairs that can cause mechanical skin and mucous-membrane irritation on contact. Some Verbascum species have historical folk-medicinal applications (dried flowers for herbal teas in closely related species), but V. chaixii is not a documented culinary or tea plant, and the hairy foliage and seeds should not be consumed.[1][2]"
+  }
+}

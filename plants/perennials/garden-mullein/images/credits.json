@@ -1,0 +1,142 @@
+[
+  {
+    "file": "images/su-flower.jpg",
+    "commons_file": "Verbascum 'Southern Charm', Longwood Gardens 2024 01.jpg",
+    "by": "Shuvaev",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Verbascum_%27Southern_Charm%27,_Longwood_Gardens_2024_01.jpg",
+    "dataset": "Wikimedia Commons",
+    "orig_px": [
+      3456,
+      4608
+    ],
+    "full_px": [
+      1125,
+      1500
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  },
+  {
+    "file": "images/su-habit.jpg",
+    "commons_file": "Verbascum 'Southern Charm', Longwood Gardens 2024 02.jpg",
+    "by": "Shuvaev",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Verbascum_%27Southern_Charm%27,_Longwood_Gardens_2024_02.jpg",
+    "dataset": "Wikimedia Commons",
+    "orig_px": [
+      3456,
+      4608
+    ],
+    "full_px": [
+      1125,
+      1500
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  },
+  {
+    "file": "images/su-bloom.jpg",
+    "commons_file": "Verbascum Southern Charm 2zz.jpg",
+    "by": "Photo by David J. Stang",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Verbascum_Southern_Charm_2zz.jpg",
+    "dataset": "Wikimedia Commons",
+    "orig_px": [
+      3504,
+      2336
+    ],
+    "full_px": [
+      1500,
+      1000
+    ],
+    "thumb_px": [
+      400,
+      267
+    ]
+  },
+  {
+    "file": "images/su-habit2.jpg",
+    "commons_file": "Verbascum Southern Charm 3zz.jpg",
+    "by": "Photo by David J. Stang",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Verbascum_Southern_Charm_3zz.jpg",
+    "dataset": "Wikimedia Commons",
+    "orig_px": [
+      2336,
+      3504
+    ],
+    "full_px": [
+      1000,
+      1500
+    ],
+    "thumb_px": [
+      267,
+      400
+    ]
+  },
+  {
+    "file": "images/su-foliage.jpg",
+    "commons_file": "Verbascum Pink Petticoat 1zz.jpg",
+    "by": "Photo by David J. Stang",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Verbascum_Pink_Petticoat_1zz.jpg",
+    "dataset": "Wikimedia Commons",
+    "orig_px": [
+      1000,
+      1500
+    ],
+    "full_px": [
+      1000,
+      1500
+    ],
+    "thumb_px": [
+      267,
+      400
+    ]
+  },
+  {
+    "file": "images/su-flower2.jpg",
+    "commons_file": "Verbascum Sugar Plum 1zz.jpg",
+    "by": "Photo by David J. Stang",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Verbascum_Sugar_Plum_1zz.jpg",
+    "dataset": "Wikimedia Commons",
+    "orig_px": [
+      1000,
+      1500
+    ],
+    "full_px": [
+      1000,
+      1500
+    ],
+    "thumb_px": [
+      267,
+      400
+    ]
+  },
+  {
+    "file": "images/su-pollinator.jpg",
+    "commons_file": "Verbascum Summer Sorbet 1zz.jpg",
+    "by": "Photo by David J. Stang",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Verbascum_Summer_Sorbet_1zz.jpg",
+    "dataset": "Wikimedia Commons",
+    "orig_px": [
+      1000,
+      1500
+    ],
+    "full_px": [
+      1000,
+      1500
+    ],
+    "thumb_px": [
+      267,
+      400
+    ]
+  }
+]

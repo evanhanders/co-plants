@@ -1,6 +1,12 @@
 {
   "note": "Display metadata for plant collections (cultivar/genus clusters). MEMBERSHIP lives on each plant.json as `collection:\"<id>\"`; this file only names the group, places it in a home section, picks the lead photo, and gives the blurb. See CLAUDE.md › Collections.",
   "collections": {
+    "mulleins": {
+      "name": "Mulleins",
+      "group": "Summer forbs",
+      "lead": "purple-mullein",
+      "blurb": "Verbascum — architectural flower-spire mulleins, the garden ornamentals (NOT the weedy common/moth mulleins)."
+    },
     "apples": {
       "name": "Apples",
       "group": "Trees",

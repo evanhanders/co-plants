@@ -395,7 +395,7 @@ driven off one predicate so they can't drift. To add one (e.g. `Fragrant`):
 
 Cultivar/genus clusters (apples, plums, tart cherries, currants, pelargoniums, wallflowers,
 asters, irises, tulips, climbing/rambling roses, hardy geraniums, crocuses, penstemons, maples,
-milkweeds, alliums, sunflowers, bee-balms, lupines, dogwoods, clematis — **21 in all**) collapse
+milkweeds, alliums, sunflowers, bee-balms, lupines, dogwoods, clematis, mulleins — **22 in all**) collapse
 into a **single expandable family card** so the grid isn't buried under near-duplicate cards. It's
 an **inline accordion**, not a separate page — each member keeps its own detail page untouched.
 The bar for a collection is "would a gardener read these as one kind of plant in different
@@ -897,12 +897,12 @@ ground every statement in an authority cited in `references`.
 
 ## Current plant roster (in the live site)
 
-**183 specimens**, all verified non-weed in CO and all carrying a full `care` block (incl.
+**187 specimens**, all verified non-weed in CO and all carrying a full `care` block (incl.
 `planting` + `propagation`) **and a repo-hosted photo reel** (close-up + structure, seasonal
 where good shots exist). Every plant's detail page is now **fully cited** — a numbered
 `references` bibliography with inline `[n]` markers on the facts table (`fact_src`), the care
-prose, and a safety-reviewed **`edible` block** (current split: 77 inedible · 32 caution · 47
-edible · 27 toxic). Every **non-native** plant (112 of the 183) also carries **provenance** —
+prose, and a safety-reviewed **`edible` block** (current split: 81 inedible · 32 caution · 47
+edible · 27 toxic). Every **non-native** plant (116 of the 187) also carries **provenance** —
 `origin` (where it's from) + `habitat` (its wild growing conditions) — shown as blue "Native
 to" / "Wild habitat" rows on its card and detail page, cited via `fact_src`. Grouped by type
 below (the order the site uses). Photos were sourced
@@ -1007,6 +1007,19 @@ more clay/moisture-tolerant than the xeric Western penstemons). Honesty calls ba
 **NOT xeric** (leaf-scorch/aphid-honeydew tree); red hot poker is **zone-borderline**; arugula & peas
 are **frost-killed annuals** (no winter presence). All seven are **Non-native** with honest
 `origin`/`habitat`. Photos via `tools/inat_montage.py` (iNat open data), 720×480 smart-crop thumbs.
+
+**Mulleins family (June 2026):** added **four** ornamental *Verbascum* on a user request, folded into a
+new **Mulleins** family card (id `mulleins`, homed in Summer forbs, lead = purple mullein) — the
+**purple mullein** (*V. phoeniceum*, hardy xeric perennial, purple/rose/white saucer spires),
+**nettle-leaved mullein** (*V. chaixii*, the sturdiest/longest-lived, yellow-or-white flowers with
+purple-wool stamens), **giant silver mullein** (*V. bombyciferum*, an architectural monocarpic biennial:
+a white-felted silver rosette → a 5–6 ft yellow candelabra) and the pastel **garden hybrid mullein**
+(*V.* 'Southern Charm' & kin, Commons-sourced — no clean iNat taxon). **Weed-check call:** the two
+familiar mulleins — **common mullein (*V. thapsus*, CO List C)** and **moth mullein (*V. blattaria*, CO
+List B)** — are Colorado noxious weeds and were **deliberately excluded**; only the non-listed garden
+species/hybrids were added (verified 2026-06-11). All four are **Non-native**, xeric, sharp-drainage-
+demanding (crown rot in wet clay is the #1 killer), with honest self-sowing-management notes (deadhead
+spikes at the base). Photos via `tools/inat_montage.py`; the hybrid via the Wikimedia Commons pipeline.
 
 **Trees**
 - River hawthorn (*Crataegus rivularis*) (N) — Thorny native small tree; white spring flowers, dark edible haws, superb wildlife cover. A caterpillar keystone (~90 Lepidoptera). *(Riparian — wants more water; edible haws, spit the cyanogenic seeds.)*
@@ -1142,6 +1155,10 @@ are **frost-killed annuals** (no winter presence). All seven are **Non-native** 
 - Golden banner (*Thermopsis divaricarpa*) (N) — Bright lupine-like spikes of golden pea flowers over blue-green trifoliate foliage; spreads into bold drifts. *(Toxic — alkaloids in foliage/seeds.)*
 
 **Summer forbs**
+- Purple mullein (*Verbascum phoeniceum*) (I) — Hardy xeric mullein; slender spires of flat purple/rose/white saucer flowers with fuzzy stamens over dark crinkled rosettes. *(Mulleins family card; NOT the weedy V. thapsus/blattaria.)*
+- Nettle-leaved mullein (*Verbascum chaixii*) (I) — The sturdiest, longest-lived mullein; spikes of small yellow (or white 'Album') flowers with woolly purple-stamen eyes over nettle-like foliage. *(Mulleins family card.)*
+- Giant silver mullein (*Verbascum bombyciferum*) (I) · **Biennial** — Architectural: a white-felted silver rosette year one, then a towering 5–6 ft yellow candelabra spire. *(Mulleins family card; self-sows — deadhead to manage.)*
+- Garden hybrid mullein (*Verbascum* 'Southern Charm' & kin) (I) — Showy pastel saucer flowers (apricot/buff/pink/lilac/cream) with purple-stamen eyes on branching spikes; short-lived. *(Mulleins family card; root cuttings to keep named hybrids true.)*
 - Hollyhock (*Alcea rosea*) (I) · **Biennial** — Towering cottage spires of saucer flowers in white through deep maroon; a classic dooryard plant bees and hummingbirds work. *(Mallow-family edible flowers & young leaves; hollyhock rust is the signature pest.)*
 - Arugula (*Eruca vesicaria*) (I) · **Annual** — Cool-season salad green with lobed leaves and creamy purple-veined flowers; bolts in heat, self-sows. *(Edible peppery leaves, flowers & pods; flea beetles the #1 pest.)*
 - Red hot poker (*Kniphofia uvaria*) (I) — South-African torch lily: grassy clumps throwing bicolor red-to-yellow flower spikes hummingbirds and bees mob. *(Zone-borderline — needs sharp drainage; tie foliage over the crown for winter.)*

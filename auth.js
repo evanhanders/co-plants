@@ -33,7 +33,8 @@ if(!configured){
     configured:false,
     ready:function(){ return Promise.resolve(); },
     isSignedIn:no, user:function(){ return null; }, isFavorite:no, count:function(){ return 0; },
-    toggleFavorite:noop, signOut:noop, openLogin:noop, onChange:function(){ return noop; },
+    toggleFavorite:noop, signIn:function(){ return Promise.resolve({ error:{ message:'Accounts are not configured.' } }); },
+    signOut:noop, openLogin:noop, onChange:function(){ return noop; },
     favButtonHTML:function(){ return ''; }, syncButtons:noop, deleteAllData:function(){ return Promise.resolve(); }
   };
   if(window.console && console.info){
@@ -92,60 +93,22 @@ async function signInWithEmail(email){
 }
 async function signOut(){ try{ await supa.auth.signOut(); }catch(e){} user=null; favSet=new Set(); emit(); }
 
-/* ---------- masthead account control (#account) ---------- */
+/* ---------- account block (rendered into #account, which lives inside the nav drawer) ---------- */
 function renderMenu(){
   var host=document.getElementById('account'); if(!host) return;
   if(user){
-    host.innerHTML='<div class="acct-info"><span class="acct-email" title="'+E(user.email)+'">'+E(user.email)+'</span>'+
+    host.innerHTML='<div class="acct-info"><span class="acct-who">Signed in as</span>'+
+      '<span class="acct-email" title="'+E(user.email)+'">'+E(user.email)+'</span>'+
       '<button type="button" class="acct-btn ghost" id="acctSignout">Sign out</button></div>';
     var so=document.getElementById('acctSignout'); if(so) so.onclick=function(){ signOut(); };
   } else {
-    host.innerHTML='<button type="button" class="acct-btn" id="acctSignin">Sign in</button>';
-    var si=document.getElementById('acctSignin'); if(si) si.onclick=function(){ openLogin(); };
+    host.innerHTML='<a class="acct-btn" id="acctSignin" href="signin.html">Sign in</a>';
   }
 }
 
-/* ---------- magic-link sign-in modal ---------- */
-var box=null, lastFocus=null;
-function buildModal(){
-  if(box) return box;
-  box=document.createElement('div'); box.className='authbox'; box.id='authbox';
-  box.setAttribute('role','dialog'); box.setAttribute('aria-modal','true');
-  box.setAttribute('aria-hidden','true'); box.setAttribute('aria-label','Sign in');
-  box.innerHTML='<div class="auth-panel">'+
-    '<button type="button" class="auth-close" aria-label="Close">×</button>'+
-    '<h2>Sign in or create an account</h2>'+
-    '<p>Save your favourite plants so they follow you to any device. Enter your email and we’ll send a one-time sign-in link — no password to remember. New here? The same link creates your account.</p>'+
-    '<form id="authForm" novalidate><label for="authEmail">Email address</label>'+
-    '<input id="authEmail" type="email" required autocomplete="email" inputmode="email" placeholder="you@example.com">'+
-    '<button type="submit" class="btn" id="authSend">Send me a sign-in link</button></form>'+
-    '<p class="auth-msg" id="authMsg" hidden></p>'+
-    '<p class="auth-fine">We only use your email to sign you in and to save your favourites. See our <a href="privacy.html">privacy policy</a>.</p>'+
-    '</div>';
-  document.body.appendChild(box);
-  box.addEventListener('click', function(e){ if(e.target===box) closeLogin(); });
-  box.querySelector('.auth-close').onclick=closeLogin;
-  box.querySelector('#authForm').addEventListener('submit', onSubmit);
-  document.addEventListener('keydown', function(e){ if(e.key==='Escape' && box.classList.contains('open')) closeLogin(); });
-  return box;
-}
-function authMsg(text, ok){ var m=box&&box.querySelector('#authMsg'); if(!m) return; m.hidden=false; m.textContent=text; m.className='auth-msg '+(ok?'ok':'err'); }
-async function onSubmit(e){
-  e.preventDefault();
-  var input=box.querySelector('#authEmail'), btn=box.querySelector('#authSend');
-  var email=(input.value||'').trim();
-  if(!email || email.indexOf('@')<1){ authMsg('Please enter a valid email address.', false); input.focus(); return; }
-  btn.disabled=true; btn.textContent='Sending…';
-  try{
-    var r=await signInWithEmail(email);
-    if(r.error) throw r.error;
-    authMsg('Check your inbox — we sent a sign-in link to '+email+'. Open it on this device to finish signing in. (It may land in spam.)', true);
-  }catch(err){
-    authMsg(err.message||'Something went wrong sending the link. Please try again in a moment.', false);
-  }finally{ btn.disabled=false; btn.textContent='Send me a sign-in link'; }
-}
-function openLogin(){ buildModal(); lastFocus=document.activeElement; box.classList.add('open'); box.setAttribute('aria-hidden','false'); var m=box.querySelector('#authMsg'); if(m) m.hidden=true; setTimeout(function(){ var i=box.querySelector('#authEmail'); if(i) i.focus(); },30); }
-function closeLogin(){ if(!box) return; box.classList.remove('open'); box.setAttribute('aria-hidden','true'); if(lastFocus&&lastFocus.focus){ try{ lastFocus.focus(); }catch(e){} } }
+/* Sign-in is its own page (signin.html / signin.js, which calls Account.signIn). openLogin() just
+   routes there — used when a signed-out visitor taps a heart. */
+function openLogin(){ location.href='signin.html'; }
 
 /* ---------- heart buttons (rendered into cards by app.js and the sheet by plant.js) ---------- */
 function favButtonHTML(slug, labeled){
@@ -180,6 +143,7 @@ window.Account = {
   isFavorite:isFav,
   count:function(){ return favSet.size; },
   toggleFavorite:toggleFavorite,
+  signIn:function(email){ return readyP.then(function(){ return signInWithEmail(email); }); },
   signOut:signOut,
   openLogin:openLogin,
   onChange:function(cb){ listeners.push(cb); return function(){ var i=listeners.indexOf(cb); if(i>-1) listeners.splice(i,1); }; },

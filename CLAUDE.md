@@ -126,14 +126,17 @@ python3 tools/check_refs.py plants/trees/chokecherry   # one or a few dirs
 The site is a few plain files plus a tree of per-plant data:
 
 ```
-index.html              # encyclopedia grid shell: markup only; links styles.css + reel.js + config.js + auth.js + app.js
-plant.html              # standalone per-plant detail page shell; links styles.css + reel.js + config.js + auth.js + plant.js
+index.html              # encyclopedia grid shell: markup only; links styles.css + reel.js + config.js + auth.js + nav.js + app.js
+plant.html              # standalone per-plant detail page shell; links the same chain + plant.js
 privacy.html            # standalone privacy page (what accounts collect + a "delete my data" button)
-styles.css              # all styling (grid + detail page + accounts UI)
-reel.js                 # SHARED engine: shot resolution, the seasonal reel, the zoom/swipe
-                        #   lightbox, and the TRAITS predicates/badges. Loaded first on both pages.
-config.js               # the TWO Supabase values (URL + anon key) for accounts; placeholders by default
+signin.html / signin.js # standalone Sign-in page (magic-link form via window.Account.signIn)
+favorites.html / favorites.js # standalone Favourites page (renders the user's saved plants as cards)
+styles.css              # all styling (grid + detail page + accounts: drawer, hearts, auth pages)
+reel.js                 # SHARED engine: shot resolution, the seasonal reel, the zoom/swipe lightbox,
+                        #   the TRAITS predicates/badges, AND the shared cardHTML renderer. Loaded first everywhere.
+config.js               # the TWO Supabase values (URL + publishable key); holds the live values (placeholders = off)
 auth.js                 # accounts + favourites: the ONLY file that talks to Supabase; exposes window.Account
+nav.js                  # shared hamburger side-drawer (Home/Favourites/Privacy + account); gated on Account.configured
 app.js                  # grid behaviour (render cards, filters, search, loader)
 plant.js                # detail-page behaviour (fetch one plant, render the "sheet", set meta)
 .nojekyll               # serve everything verbatim on Pages
@@ -506,58 +509,71 @@ Visitors can **create an account and favourite plants**; favourites sync to any 
 in on. It's the one feature that reaches beyond static files — but it's built to **degrade to
 nothing** when unconfigured, so the guide is byte-for-byte unchanged until it's switched on.
 
-**The four pieces:**
+Navigation lives in a **hamburger side-drawer** (top-left); **Sign in** and **Favourites** are
+**their own pages** (not a modal / not a grid toggle). The per-plant ♥ on cards + detail sheets is
+how you save; the Favourites page just lists what you saved.
+
+**The pieces:**
 - **`config.js`** — just two globals, `window.SUPABASE_URL` + `window.SUPABASE_ANON_KEY`. **Both
-  are safe to commit** (the anon key is a *public/publishable* key; security comes from the
-  database's Row-Level Security rules, not from hiding it — **never** put the `service_role`
-  secret here). Ships with `YOUR_...` placeholders.
+  are safe to commit** (the publishable/anon key is *public*; security comes from the database's
+  Row-Level Security rules, not from hiding it — **never** put the `service_role`/`sb_secret_…`
+  key here). Currently holds the live project's values; with `YOUR_...` placeholders the whole
+  feature stays off. (New Supabase projects issue `sb_publishable_…` keys — the successor to the
+  old `anon` `eyJ…` JWT; either works in the `SUPABASE_ANON_KEY` slot.)
 - **`auth.js`** — the **only** file that talks to Supabase. Loaded after `config.js` + `reel.js`,
-  before `app.js`/`plant.js`. Exposes a small, backend-agnostic **`window.Account`** API and keeps
-  Supabase entirely out of the page code (so the backend can be swapped/extended without touching
-  app/plant). Sign-in is **passwordless magic-link email** (`signInWithOtp`). It **lazy-imports**
+  before `nav.js`/`app.js`/`plant.js`. Exposes a small, backend-agnostic **`window.Account`** API
+  and keeps Supabase out of the page code (so the backend can be swapped/extended without touching
+  the pages). Sign-in is **passwordless magic-link email** (`signInWithOtp`). It **lazy-imports**
   the Supabase client (`import('https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/+esm')`)
   **only when configured** — unconfigured, it installs a no-op `Account` stub, renders no UI, and
   never even fetches the library.
+- **`nav.js`** — the shared **hamburger drawer**, loaded on every page after `auth.js`. **Gated on
+  `Account.configured`** (no drawer at all when accounts are off). Builds the fixed hamburger +
+  off-canvas `<nav>` with links **Home · Favourites · Privacy** and a `<div id="account">` that
+  `auth.js` renders into. Esc / backdrop / link-tap close it; basic Tab focus-trap.
+- **`signin.html` + `signin.js`** — the standalone **Sign-in page** (replaces the old modal):
+  magic-link form → `Account.signIn(email)`; shows a "signed in as …" panel with Sign out when
+  already signed in.
+- **`favorites.html` + `favorites.js`** — the standalone **Favourites page**: loads the plant data
+  and renders the user's saved plants with the **same shared `cardHTML`/reel** as the grid (both
+  live in `reel.js`). Signed out → a sign-in prompt; unfavouriting (tap a ♥) drops the card live.
 - **`privacy.html`** — plain-language privacy page (collects only email + favourites), linked from
-  the index footer and the sign-in modal; has a self-serve **"delete my favourites & sign out"**
-  button wired to `Account.deleteAllData()`.
-- **Supabase** — a free hosted Postgres + Auth project the owner sets up once. The data model is
-  one table, `favorites (user_id, plant_slug, created_at)`, with RLS so each user reads/writes only
-  their own rows. **Full setup (SQL + click-by-click) lives in `SETUP_ACCOUNTS.md`** — follow it
-  when wiring a new project.
+  footers; self-serve **"delete my favourites & sign out"** button → `Account.deleteAllData()`.
+- **Supabase** — a free hosted Postgres + Auth project. One table, `favorites (user_id, plant_slug,
+  created_at)`, with RLS so each user reads/writes only their own rows. **Full setup (SQL +
+  click-by-click) lives in `SETUP_ACCOUNTS.md`.**
 
-**`window.Account` API** (what `app.js`/`plant.js` call — never Supabase directly): `configured`,
-`ready()` (resolves once the session + favourites have loaded — **await it before first paint**),
-`isSignedIn()`, `user()`, `isFavorite(slug)`, `count()`, `toggleFavorite(slug)` (opens the login
-modal if signed out; optimistic, rolls back on error), `signOut()`, `openLogin()`,
-`onChange(cb)→unsub` (fires on any auth/favourite change), `favButtonHTML(slug, labeled?)`,
-`syncButtons()`, `deleteAllData()`. A **`slug`** is the plant's `dir` minus the `plants/` prefix
-(e.g. `trees/chokecherry`) — same value `slugOf(p)` returns in `app.js`.
+**`window.Account` API** (what the pages call — never Supabase directly): `configured`, `ready()`
+(resolves once the session + favourites have loaded — **await it before first paint**),
+`isSignedIn()`, `user()`, `isFavorite(slug)`, `count()`, `toggleFavorite(slug)` (routes to the
+sign-in page if signed out; optimistic, rolls back on error), `signIn(email)`, `signOut()`,
+`openLogin()` (just navigates to `signin.html`), `onChange(cb)→unsub` (fires on any auth/favourite
+change), `favButtonHTML(slug, labeled?)`, `syncButtons()`, `deleteAllData()`. A **`slug`** is the
+plant's `dir` minus the `plants/` prefix (e.g. `trees/chokecherry`).
 
-**How it's wired into the pages:**
-- **Hearts.** `app.js`'s `cardHTML` puts an icon heart in a `.namerow` beside the card title via
-  `Account.favButtonHTML(slug)`; `plant.js` puts a labelled `♥ Save/Saved` heart on the detail
-  sheet (`favButtonHTML(slug, true)`). A single **delegated** click handler in `auth.js` catches
-  every `.fav-btn` anywhere (grid, family carousels, detail sheet), so neither page wires clicks.
-- **Favourites view.** A **`#favToggle`** in the toolbar (shown only when signed in) flips a
-  `favOnly` flag in `app.js` that filters the grid to saved plants; it's intentionally **not** in
-  the shareable URL hash (favourites are private). Tapping it while signed out opens the login modal.
-- **Re-render on change.** `app.js` subscribes `render` to `Account.onChange`, and its boot
-  `await`s `Promise.all([loadSeed(), Account.ready()])` — this both gives the first paint correct
-  heart states **and** prevents app.js's hash-writing from clobbering a magic-link's auth tokens in
-  the URL while Supabase (`detectSessionInUrl`) is consuming them.
-- **Masthead.** Both pages mount `<div id="account">`; `auth.js` renders "Sign in" / the email +
-  "Sign out" into it.
+**Shared card renderer.** `cardHTML` + `slugOf`/`slugTail`/`detailHref`/`favBtnFor` live in
+**`reel.js`** (moved out of `app.js`) so the grid, the family carousels, and the favourites page
+render identical cards. The ♥ comes from `favBtnFor(p)` → `Account.favButtonHTML` (''. when accounts
+are off). A single **delegated** `.fav-btn` click handler in `auth.js` covers every heart anywhere;
+on toggle, `Account.syncButtons()` updates all hearts in place (so the grid needs no re-render).
+
+**Boot ordering gotcha.** `app.js` (and `favorites.js`) `await Account.ready()` before first
+paint — both for correct initial heart state **and** so `app.js` doesn't write its filter-state URL
+hash until Supabase (`detectSessionInUrl`) has consumed any magic-link tokens from the URL. The
+magic-link `emailRedirectTo` is `index.html`; the session is shared across all pages on the origin.
 
 **Gotchas / conventions:**
-- **Don't import Supabase or read `config.js` from `app.js`/`plant.js`** — go through `window.Account`.
-- Account UI must stay **gated on `Account.configured`** so the un-set-up site is unchanged.
+- **Don't import Supabase or read `config.js` from the pages** — go through `window.Account`.
+- All account UI stays **gated on `Account.configured`** so the un-set-up site is unchanged.
 - The magic-link redirect (`emailRedirectTo`) must be in Supabase's **allowed Redirect URLs**, and
   users should open the link in the **same browser** they requested it from.
 - **Test:** `tests/accounts.spec.mjs` (Playwright + Chromium) **stubs Supabase** by intercepting
   `config.js` + the CDN module with an in-memory fake, so it runs **fully offline** and exercises
-  `auth.js`'s real paths (unconfigured-hidden, sign-in flow, heart toggle, favourites filter, sign
-  out). Run it after any `auth.js`/account-wiring change:
+  the real paths (unconfigured-hidden, the drawer, the sign-in page, the favourites page, heart
+  toggling, sign out). Note it routes `config.js` to placeholders for the unconfigured case (since
+  the shipped `config.js` now holds live values). The drawer slides off-screen via `transform`, so
+  assert open/closed via the `nav-open` body class / `aria-hidden`, not `isHidden()`. Run after any
+  `auth.js`/`nav.js`/account-wiring change:
   ```
   python3 -m http.server 8077 &
   node tests/accounts.spec.mjs

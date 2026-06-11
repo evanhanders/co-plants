@@ -3,15 +3,11 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Plant · The Front Range Herbarium</title>
-<meta name="description" content="Grow-and-care detail for a garden plant of the Colorado Front Range.">
+<title>My favourites · The Front Range Herbarium</title>
+<meta name="description" content="Your saved plants in the Front Range Herbarium.">
 <meta name="theme-color" content="#f1e9d8">
+<meta name="robots" content="noindex">
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Crect width='24' height='24' rx='4' fill='%23f1e9d8'/%3E%3Cpath d='M12 20V9' stroke='%234f6b3c' stroke-width='1.6' fill='none' stroke-linecap='round'/%3E%3Cpath d='M12 12c-1.4-4-5-6-9-6 0 5 4.4 7.4 9 6.4z' fill='%234f6b3c'/%3E%3Cpath d='M12 9c1.2-3.4 4.6-5.4 8-5.4 0 4.6-4 6.6-8 5.8z' fill='%237d9460'/%3E%3C/svg%3E">
-<meta property="og:type" content="article">
-<meta property="og:title" content="The Front Range Herbarium">
-<meta property="og:description" content="Grow-and-care detail for a garden plant of the Colorado Front Range.">
-<meta property="og:image" content="https://evanhanders.github.io/co-plants/plants/perennials/colorado-blue-columbine/images/su-flower.jpg">
-<meta name="twitter:card" content="summary_large_image">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,600;1,9..144,400&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="styles.css">
@@ -21,12 +17,16 @@
 <header class="masthead detail-masthead">
 <a class="homelink" href="index.html"><span class="kicker">The Front Range Herbarium</span></a>
 </header>
-<div id="detail" class="detail">
+<div class="detail">
 <a class="backlink" href="index.html">‹ Back to the herbarium</a>
-<article class="sheet"><div class="sheet-head"><div class="plate skel-plate"></div><div class="sheet-intro">
-<div class="skel"><div class="ln t"></div><div class="ln s"></div><div class="ln w"></div><div class="ln w"></div></div>
-</div></div></article>
+<h1 class="display favtitle">My favourites</h1>
+<p class="legend" id="favState"></p>
+<div id="favGrid"></div>
 </div>
+<footer>
+Tap the ♥ on any plant to add or remove it here. Favourites are saved to your account.<br>
+<a class="footlink" href="privacy.html">Privacy</a>
+</footer>
 </div>
 <div class="lbox" id="lbox" role="dialog" aria-modal="true" aria-label="Photo viewer" aria-hidden="true">
 <div class="lb-cap"><div class="lb-capmain"><span id="lbCount" class="lb-count"></span><span id="lbCapText"></span></div><a id="lbSrc" href="#" target="_blank" rel="noopener noreferrer">Source ↗</a></div>
@@ -45,6 +45,6 @@
 <script src="config.js"></script>
 <script src="auth.js"></script>
 <script src="nav.js"></script>
-<script src="plant.js"></script>
+<script src="favorites.js"></script>
 </body>
 </html>

@@ -163,6 +163,38 @@ FLAG_ORDER.forEach(function(k){ if(TRAITS[k].test(p)) flags.push('<span class="f
 return flags.join('');
 }
 
+/* ---------- shared plant-card renderer (used by the grid in app.js AND the favourites page) ----------
+   A plant's detail page lives at plant.html?p=<category>/<slug>; slugOf/slugTail derive that path from
+   the repo `dir` (only seeded plants have one). favBtnFor pulls the heart from the accounts layer
+   (auth.js / window.Account) when present, '' otherwise — so cards render identically everywhere. */
+function slugOf(p){ return p.dir ? p.dir.replace(/^plants\//,'') : null; }
+function slugTail(p){ return p.dir ? p.dir.split('/').pop() : null; } /* "honeycrisp-apple" */
+function detailHref(p){ var s=slugOf(p); return s ? 'plant.html?p='+encodeURIComponent(s).replace(/%2F/g,'/') : null; }
+function favBtnFor(p){ return (window.Account && window.Account.favButtonHTML) ? window.Account.favButtonHTML(slugOf(p)) : ''; }
+function cardHTML(p){
+const plate = plateHTML(p);
+const nat = natBadge(p, 'nat');
+const href = detailHref(p);
+const name = href ? '<a class="namelink" href="'+href+'">'+p.common+'</a>' : p.common;
+return '<article class="card"><div class="plate">'+plate+'<span class="corner">'+(p.type||'')+'</span>'+nat+'</div>'+
+'<div class="body"><div class="namerow"><h3 class="name">'+name+'</h3>'+favBtnFor(p)+'</div><p class="latin">'+p.botanical+'</p>'+
+'<p class="blurb">'+(p.blurb||'')+'</p><dl class="facts">'+
+'<dt>Size</dt><dd>'+(p.size||'—')+'</dd><dt>Sun</dt><dd>'+(p.sun||'—')+'</dd>'+
+'<dt>Water</dt><dd>'+(p.water||'—')+'</dd><dt>Habit</dt><dd>'+(p.spread||'—')+'</dd>'+
+'<dt>Seasons</dt><dd>'+(p.seasons||'—')+'</dd><dt>Wildlife</dt><dd>'+(p.wildlife||'—')+'</dd>'+
+'<dt>Deer</dt><dd>'+(p.deer||'—')+'</dd>'+
+(p.edible&&p.edible.food&&p.edible.card?'<dt class="ed">Edible</dt><dd>'+p.edible.card+'</dd>':'')+
+(p.toxic?'<dt>Caution</dt><dd>'+p.toxic+'</dd>':'')+
+/* provenance — non-native plants only: where it's from + its wild growing conditions */
+(isNative(p)?'':
+ (p.origin?'<dt class="prov">Native to</dt><dd>'+p.origin+'</dd>':'')+
+ (p.habitat?'<dt class="prov">Wild habitat</dt><dd>'+p.habitat+'</dd>':''))+
+'</dl><div class="flags">'+flagsHTML(p)+'</div>'+
+'<div class="verified">Verified non-weed in CO · '+(p.verified||'date n/a')+'</div>'+
+(href?'<a class="detaillink" href="'+href+'">Grow &amp; care details →</a>':'')+
+'</div></article>';
+}
+
 /* ---------- image lightbox with pinch / scroll / double-tap zoom ---------- */
 (function(){
 var lbox=document.getElementById('lbox'), stage=document.getElementById('lbStage'), img=document.getElementById('lbImg');

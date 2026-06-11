@@ -11,5 +11,5 @@
    Until you replace the placeholders below, every account feature stays hidden and
    the guide behaves exactly as it did before — nothing else on the site changes. */
 
-window.SUPABASE_URL      = "YOUR_SUPABASE_URL";       // e.g. https://abcd1234.supabase.co
-window.SUPABASE_ANON_KEY = "YOUR_SUPABASE_ANON_KEY";  // the "anon" / "publishable" key
+window.SUPABASE_URL      = "https://eofapcxuiabrzisbjpxh.supabase.co";
+window.SUPABASE_ANON_KEY = "sb_publishable_HiwhzcVwTq1wOBYwvGU1Xw_icKGLjhr";  // publishable (public) key

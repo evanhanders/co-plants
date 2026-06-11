@@ -298,16 +298,16 @@ ol.biblio li:target{background:#f6edda;outline:2px solid var(--gold);outline-off
 .sheet-intro{padding:20px}
 }
 /* ---------- accounts: hamburger drawer, hearts, sign-in & favourites pages ---------- */
-/* hamburger button — injected by nav.js only when accounts are configured (fixed, top-left) */
-.navburger{position:fixed;top:13px;left:13px;z-index:90;width:44px;height:38px;display:flex;flex-direction:column;justify-content:center;gap:5px;padding:0 11px;border:1.5px solid var(--line);background:var(--card);border-radius:8px;cursor:pointer;box-shadow:var(--shadow);transition:border-color .15s}
-.navburger span{display:block;height:2px;background:var(--ink);border-radius:2px;transition:background .15s}
-.navburger:hover{border-color:var(--rust)}
-.navburger:hover span{background:var(--rust)}
-/* backdrop + slide-out drawer */
+/* floating menu button — injected by nav.js only when accounts are configured (bottom-right FAB,
+   kept clear of the headings / back-links at the top of every page) */
+.navburger{position:fixed;bottom:calc(20px + env(safe-area-inset-bottom,0px));right:calc(20px + env(safe-area-inset-right,0px));z-index:90;width:54px;height:54px;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:5px;padding:0;border:1.5px solid var(--green);background:var(--green);border-radius:50%;cursor:pointer;box-shadow:0 4px 14px -2px rgba(60,48,28,.5);transition:background .15s,transform .15s,border-color .15s}
+.navburger span{display:block;width:22px;height:2.5px;background:#fff;border-radius:2px;transition:background .15s}
+.navburger:hover{background:var(--rust);border-color:var(--rust);transform:translateY(-1px)}
+/* backdrop + slide-out drawer (slides in from the right, toward the button) */
 .navback{position:fixed;inset:0;background:rgba(18,14,8,.45);opacity:0;visibility:hidden;transition:opacity .2s;z-index:95}
 body.nav-open .navback{opacity:1;visibility:visible}
 body.nav-open{overflow:hidden}
-.navdrawer{position:fixed;top:0;left:0;bottom:0;width:288px;max-width:85vw;background:var(--paper);border-right:2px solid var(--ink);box-shadow:0 0 44px rgba(0,0,0,.32);z-index:96;transform:translateX(-100%);transition:transform .25s ease;display:flex;flex-direction:column}
+.navdrawer{position:fixed;top:0;right:0;bottom:0;width:288px;max-width:85vw;background:var(--paper);border-left:2px solid var(--ink);box-shadow:0 0 44px rgba(0,0,0,.32);z-index:96;transform:translateX(100%);transition:transform .25s ease;display:flex;flex-direction:column}
 body.nav-open .navdrawer{transform:translateX(0)}
 .navhead{display:flex;align-items:center;justify-content:space-between;gap:10px;padding:17px 16px 13px;border-bottom:2.5px double var(--ink)}
 .navtitle{font-family:'Fraunces',Georgia,serif;font-weight:600;font-size:16px;color:var(--green);line-height:1.15}

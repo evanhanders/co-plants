@@ -132,6 +132,8 @@ return '<ul class="creditlist">'+rows.join('')+'</ul>';
 const BACK = '<a class="backlink" href="index.html">‹ Back to the herbarium</a>';
 function renderDetail(p){
 const care = p.care || {};
+const slug = p.dir ? p.dir.replace(/^plants\//,'') : null;
+const favBtn = (window.Account && window.Account.favButtonHTML) ? window.Account.favButtonHTML(slug, true) : '';
 const panels = carePanels(care);
 const grow = panels
 ? '<dl class="caregrid">'+panels+'</dl>'
@@ -147,6 +149,7 @@ BACK+
 '<h1 class="display sheet-name">'+esc(p.common)+'</h1>'+
 '<p class="latin">'+esc(p.botanical)+'</p>'+
 '<p class="lead">'+esc(p.blurb||'')+'</p>'+
+(favBtn?'<div class="sheet-fav">'+favBtn+'</div>':'')+
 '<div class="flags">'+flagsHTML(p)+'</div>'+
 '<div class="verified">Verified non-weed in CO · '+esc(p.verified||'date n/a')+'</div>'+
 '</div>'+
@@ -160,6 +163,9 @@ bibHTML(p)+
 BACK.replace('backlink','backlink foot');
 wireReels(detail);
 wireLightbox(detail);
+/* the heart renders before the account session resolves; reflect saved state once it's ready
+   (auth.js also re-syncs every heart on any later sign-in / favourite change) */
+if(window.Account && window.Account.ready){ window.Account.ready().then(function(){ if(window.Account.syncButtons) window.Account.syncButtons(); }); }
 }
 /* keep the document head in step so the title + link previews name the plant */
 function setMeta(p){

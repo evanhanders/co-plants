@@ -35,6 +35,7 @@ const GROUP_DESC = {
 };
 /* ---------- state ---------- */
 let view = "type";
+let favOnly = false; // "Favourites" toolbar toggle: show only the signed-in user's saved plants
 const collapsed = new Set(); // group names collapsed (type view)
 
 /* ---------- filter dimensions ----------
@@ -99,13 +100,14 @@ function slugTail(p){ return p.dir ? p.dir.split('/').pop() : null; } /* "honeyc
 function detailHref(p){ var s=slugOf(p); return s ? 'plant.html?p='+encodeURIComponent(s).replace(/%2F/g,'/') : null; }
 /* the plant's collection id, but only if that collection is defined in COLLECTIONS */
 function colOf(p){ var c=p&&p.collection; return (c && COLLECTIONS[c]) ? c : null; }
+function favBtnFor(p){ return (window.Account && window.Account.favButtonHTML) ? window.Account.favButtonHTML(slugOf(p)) : ''; }
 function cardHTML(p){
 const plate = plateHTML(p);
 const nat = natBadge(p, 'nat');
 const href = detailHref(p);
 const name = href ? '<a class="namelink" href="'+href+'">'+p.common+'</a>' : p.common;
 return '<article class="card"><div class="plate">'+plate+'<span class="corner">'+(p.type||'')+'</span>'+nat+'</div>'+
-'<div class="body"><h3 class="name">'+name+'</h3><p class="latin">'+p.botanical+'</p>'+
+'<div class="body"><div class="namerow"><h3 class="name">'+name+'</h3>'+favBtnFor(p)+'</div><p class="latin">'+p.botanical+'</p>'+
 '<p class="blurb">'+(p.blurb||'')+'</p><dl class="facts">'+
 '<dt>Size</dt><dd>'+(p.size||'—')+'</dd><dt>Sun</dt><dd>'+(p.sun||'—')+'</dd>'+
 '<dt>Water</dt><dd>'+(p.water||'—')+'</dd><dt>Habit</dt><dd>'+(p.spread||'—')+'</dd>'+
@@ -281,23 +283,39 @@ html+='<div class="fgroup"><span class="fl-label">'+g.label+'</span><div class="
 });
 root.innerHTML=html;
 }
+/* the signed-in user's saved plants drive the "Favourites" toggle; both come from the
+   shared Account API (auth.js), which is a no-op stub when accounts aren't configured */
+function accountReady(){ return !!(window.Account && window.Account.configured); }
+function signedIn(){ return !!(window.Account && window.Account.isSignedIn && window.Account.isSignedIn()); }
+function isFavP(p){ return !!(window.Account && window.Account.isFavorite && window.Account.isFavorite(slugOf(p))); }
+function updateFavToggle(){
+const ft=document.getElementById('favToggle'); if(!ft) return;
+ft.hidden = !(accountReady() && signedIn());
+ft.classList.toggle('active', favOnly);
+ft.setAttribute('aria-pressed', favOnly?'true':'false');
+const fn=ft.querySelector('.favn'); if(fn) fn.textContent = (window.Account&&window.Account.count) ? window.Account.count() : '';
+}
 function render(){
 const q=(searchEl.value||'').toLowerCase().trim();
 const all=allPlants();
 const total=all.length;
-const list=all.filter(function(p){ return passesFilters(p) && matchesQuery(p,q); });
+if(favOnly && !signedIn()) favOnly=false; // can't show favourites once signed out
+const list=all.filter(function(p){ return passesFilters(p) && matchesQuery(p,q) && (!favOnly || isFavP(p)); });
 document.getElementById('count').textContent = total;
+updateFavToggle();
 const gn=document.getElementById('groupNote');
 if(gn) gn.innerHTML = (view==='alpha') ? 'Sorted <b>A–Z</b> by name' : ('Grouped <b>by '+(SORT_LABEL[view]||view)+'</b> · tap to collapse');
 renderFilters(all, q);
 updateFilterToggle();
-const filtering = q || anyFilter();
+const filtering = q || anyFilter() || favOnly;
 const showingEl=document.getElementById('showing');
 if(showingEl) showingEl.textContent = filtering ? ('Showing '+list.length+' of '+total+' species') : ('Showing all '+total+' species');
 const scEl=document.getElementById('searchClear'); if(scEl) scEl.hidden = !searchEl.value;
 const clearEl=document.getElementById('clearFilters'); if(clearEl) clearEl.hidden = !filtering;
 syncHash();
-if(!list.length){ const why = q ? 'match “'+searchEl.value+'”' : 'fit the current filters'; content.innerHTML='<div class="grid"><div class="empty">No plants '+why+'.</div></div>'; return; }
+if(!list.length){
+if(favOnly){ content.innerHTML='<div class="grid"><div class="empty">No saved plants yet — tap the ♥ on any plant to add it to your favourites.</div></div>'; return; }
+const why = q ? 'match “'+searchEl.value+'”' : 'fit the current filters'; content.innerHTML='<div class="grid"><div class="empty">No plants '+why+'.</div></div>'; return; }
 if(view==="alpha"){
 content.innerHTML = gridOf(list);
 } else if(view!=="type" && GMAP[view]){
@@ -356,8 +374,13 @@ const g=GMAP[btn.dataset.g]; if(!g) return;
 const v=btn.dataset.v; if(g.sel.has(v)) g.sel.delete(v); else g.sel.add(v);
 render();
 }); }
-/* clear everything: search + every filter group */
-function clearAllFilters(){ searchEl.value=''; GROUPS.forEach(function(g){ g.sel.clear(); }); render(); }
+/* "Favourites" toolbar toggle: only the signed-in user's saved plants. Tapping it while
+   signed out opens the sign-in modal instead (you need an account to have favourites). */
+{ const ft=document.getElementById('favToggle'); if(ft) ft.addEventListener('click', function(){
+if(!signedIn()){ if(window.Account && window.Account.openLogin) window.Account.openLogin(); return; }
+favOnly=!favOnly; render(); }); }
+/* clear everything: search + every filter group + the favourites view */
+function clearAllFilters(){ searchEl.value=''; favOnly=false; GROUPS.forEach(function(g){ g.sel.clear(); }); render(); }
 { const cf=document.getElementById('clearFilters'); if(cf) cf.onclick=clearAllFilters; }
 /* the ✕ inside the search box clears just the query (not the filters) */
 { const sc=document.getElementById('searchClear'); if(sc) sc.onclick=function(){ searchEl.value=''; searchEl.focus(); render(); }; }
@@ -412,4 +435,13 @@ var card='<div class="skel"><div class="plate"></div><div class="body"><div clas
 content.innerHTML='<div class="grid">'+new Array(8).join(card)+card+'</div>';
 var c=document.getElementById('count'); if(c) c.textContent='…';
 }
-(async function(){ renderSkeleton(); await loadSeed(); applyHash(); render(); })();
+/* Wait on the account session alongside the plant data so the first paint has correct heart
+   states and so app.js doesn't write its filter-state URL hash until auth.js has consumed any
+   magic-link tokens from the URL. Re-render whenever sign-in state or favourites change. */
+(async function(){
+renderSkeleton();
+const acct = (window.Account && window.Account.ready) ? window.Account.ready() : Promise.resolve();
+await Promise.all([loadSeed(), acct]);
+applyHash(); render();
+if(window.Account && window.Account.onChange) window.Account.onChange(render);
+})();

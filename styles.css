@@ -297,6 +297,72 @@ ol.biblio li:target{background:#f6edda;outline:2px solid var(--gold);outline-off
 .sheet-head .plate{border-right:none;border-bottom:1px solid var(--line)}
 .sheet-intro{padding:20px}
 }
+/* ---------- accounts & favourites ---------- */
+/* masthead account control (top-right of the masthead; both pages mount #account) */
+header.masthead{position:relative}
+.acct{position:absolute;top:2px;right:0;display:flex;align-items:center;gap:9px;z-index:6}
+.acct-btn{border:1.5px solid var(--line);background:var(--card);color:var(--ink);font-family:'Fraunces',Georgia,serif;font-size:12.5px;letter-spacing:.02em;padding:6px 13px;border-radius:20px;cursor:pointer;transition:.15s}
+.acct-btn:hover{border-color:var(--rust);color:var(--rust)}
+.acct-btn.ghost{background:transparent}
+.acct-info{display:flex;align-items:center;gap:9px}
+.acct-email{font-size:12px;color:var(--ink-soft);font-style:italic;max-width:170px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+/* on narrow screens the absolute control would cover the title — sit it above the masthead text */
+@media(max-width:640px){
+.acct{position:static;justify-content:flex-end;margin-bottom:10px}
+.acct-email{max-width:130px}
+}
+/* "Favourites" toolbar toggle (shown only when signed in) */
+.fav-toggle{display:inline-flex;align-items:center;gap:6px;border:1.5px solid var(--ink);background:var(--card);color:var(--rust);font-family:'Fraunces',Georgia,serif;font-size:13.5px;letter-spacing:.02em;padding:10px 14px;border-radius:2px;cursor:pointer;transition:.15s}
+.fav-toggle[hidden]{display:none}
+.fav-toggle:hover{border-color:var(--rust)}
+.fav-toggle.active{background:var(--rust);border-color:var(--rust);color:#fff}
+.fav-toggle .favheart{font-size:13px;line-height:1}
+.fav-toggle .favn{font-size:11px;font-variant-numeric:tabular-nums;opacity:.8}
+.fav-toggle .favn:empty{display:none}
+/* the per-plant heart: icon-only in card name rows, labelled on the detail sheet */
+.namerow{display:flex;align-items:flex-start;justify-content:space-between;gap:10px}
+.namerow .name{min-width:0}
+.fav-btn{flex:0 0 auto;display:inline-flex;align-items:center;gap:6px;border:1.5px solid var(--line);background:var(--card);color:var(--ink-soft);border-radius:20px;padding:5px 8px;cursor:pointer;transition:background .15s,border-color .15s,color .15s;line-height:0}
+.fav-btn svg{width:17px;height:17px;display:block;fill:none;stroke:currentColor;stroke-width:1.7}
+.fav-btn:hover{border-color:var(--rust);color:var(--rust)}
+.fav-btn.on{color:var(--rust);border-color:var(--rust)}
+.fav-btn.on svg{fill:var(--rust);stroke:var(--rust)}
+.fav-btn.labeled{padding:7px 14px}
+.fav-btn .favlbl{font-family:'Fraunces',Georgia,serif;font-size:12.5px;letter-spacing:.02em;line-height:1}
+.sheet-fav{margin-top:16px}
+/* magic-link sign-in modal */
+.authbox{position:fixed;inset:0;background:rgba(18,14,8,.6);display:none;z-index:120;align-items:center;justify-content:center;padding:20px;-webkit-backdrop-filter:blur(2px);backdrop-filter:blur(2px)}
+.authbox.open{display:flex}
+.auth-panel{position:relative;background:var(--card);border:1px solid var(--line);border-radius:5px;box-shadow:0 16px 56px rgba(0,0,0,.4);max-width:430px;width:100%;padding:26px 26px 22px;font-family:Georgia,serif}
+.auth-panel h2{font-family:'Fraunces',Georgia,serif;font-weight:600;color:var(--green);margin:0 0 10px;font-size:22px}
+.auth-panel p{font-size:13.5px;color:#473f31;margin:0 0 14px;line-height:1.5}
+.auth-close{position:absolute;top:9px;right:9px;border:none;background:none;font-size:25px;line-height:1;color:var(--ink-soft);cursor:pointer;width:36px;height:36px;border-radius:50%;transition:.15s}
+.auth-close:hover{background:var(--paper2);color:var(--ink)}
+.auth-panel label{display:block;font-size:11px;letter-spacing:.12em;text-transform:uppercase;color:var(--ink-soft);margin-bottom:6px}
+.auth-panel input[type=email]{width:100%;padding:11px 12px;border:1.5px solid var(--line);border-radius:2px;background:#fff;font-family:inherit;font-size:16px;color:var(--ink);margin-bottom:13px}
+.auth-panel input[type=email]:focus{outline:none;border-color:var(--green);box-shadow:0 0 0 2px var(--green-soft)}
+.auth-panel .btn{width:100%}
+.auth-msg{margin:14px 0 0;font-size:13px;padding:10px 12px;border-radius:3px;line-height:1.5}
+.auth-msg[hidden]{display:none}
+.auth-msg.ok{background:#eef5e6;color:#3b5a28;border:1px solid #b9d29c}
+.auth-msg.err{background:#fbeeee;color:#9a2b2b;border:1px solid #e0b3b3}
+.auth-fine{font-size:11.5px;color:var(--ink-soft);margin-top:15px}
+.auth-fine a{color:var(--green)}
+/* ---------- prose pages (privacy) ---------- */
+.footlink{color:var(--green);text-decoration:none}
+.footlink:hover{color:var(--rust);text-decoration:underline}
+.sheet.prose{padding:0}
+.prose-body{padding:26px 30px 30px;max-width:760px}
+.prose-body h1.display{font-size:clamp(30px,5vw,44px);color:var(--ink);margin:0 0 10px}
+.prose-body h2{font-family:'Fraunces',Georgia,serif;font-weight:600;font-size:19px;color:var(--green);margin:26px 0 8px}
+.prose-body p,.prose-body li{font-size:14.5px;color:#3b342a;line-height:1.6}
+.prose-body ul{margin:0 0 12px;padding-left:22px}
+.prose-body li{margin:0 0 5px}
+.prose-body a{color:var(--green)}
+.prose-body a:hover{color:var(--rust)}
+.prose-action{margin:14px 0 4px;display:flex;align-items:center;gap:12px;flex-wrap:wrap}
+.prose-note{font-size:13px;font-style:italic;color:var(--ink-soft)}
+.prose-fine{font-size:12px;color:var(--ink-soft);font-style:italic;margin-top:26px}
 /* ---------- reduced motion ---------- */
 @media (prefers-reduced-motion: reduce){
 *{transition:none!important;animation-duration:.001ms!important;animation-iteration-count:1!important;scroll-behavior:auto!important}

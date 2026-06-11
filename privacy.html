@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Privacy · The Front Range Herbarium</title>
+<meta name="description" content="What the Front Range Herbarium collects when you create an account, why, and how to remove it.">
+<meta name="theme-color" content="#f1e9d8">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Crect width='24' height='24' rx='4' fill='%23f1e9d8'/%3E%3Cpath d='M12 20V9' stroke='%234f6b3c' stroke-width='1.6' fill='none' stroke-linecap='round'/%3E%3Cpath d='M12 12c-1.4-4-5-6-9-6 0 5 4.4 7.4 9 6.4z' fill='%234f6b3c'/%3E%3Cpath d='M12 9c1.2-3.4 4.6-5.4 8-5.4 0 4.6-4 6.6-8 5.8z' fill='%237d9460'/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,600;1,9..144,400&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div class="wrap">
+<header class="masthead detail-masthead">
+<div class="acct" id="account"></div>
+<a class="homelink" href="index.html"><span class="kicker">The Front Range Herbarium</span></a>
+</header>
+<div class="detail">
+<a class="backlink" href="index.html">‹ Back to the herbarium</a>
+<article class="sheet prose">
+<div class="prose-body">
+<h1 class="display">Privacy</h1>
+<p class="lead">This guide is a personal, non-commercial field guide. Accounts exist for one
+reason: so you can save favourite plants and have them follow you between your phone, tablet, and
+computer. Here’s exactly what that involves.</p>
+
+<h2>What we collect</h2>
+<ul>
+<li><b>Your email address</b> — used only to sign you in (we email you a one-time link) and to
+attach your saved plants to you. There are no passwords.</li>
+<li><b>Your favourites</b> — the list of plants you’ve tapped the ♥ on.</li>
+</ul>
+<p>That’s the whole list. No name, no location, no payment details, no browsing history, no ads,
+no third-party trackers, no analytics profiles.</p>
+
+<h2>Where it’s stored</h2>
+<p>Sign-in and the favourites list are handled by <a href="https://supabase.com/privacy" target="_blank" rel="noopener noreferrer">Supabase</a>,
+a hosting service acting as our data processor. Your favourites are protected by per-user
+security rules so that only you (when signed in) can read or change your own list. The plant
+pages, photos, and care notes themselves are public and need no account.</p>
+
+<h2>What we don’t do</h2>
+<p>We don’t sell, rent, or share your information. We don’t use it for advertising or send
+marketing email. The only email you’ll ever get is the sign-in link you asked for.</p>
+
+<h2>Your choices</h2>
+<p>You can <b>sign out</b> at any time from the link in the top corner. You can <b>delete your saved
+data</b> below — that removes every favourite tied to your account and signs you out. To have the
+account itself (your email record) erased entirely, email the address below and we’ll remove it.</p>
+<div class="prose-action">
+<button type="button" class="btn ghost" id="deleteData" hidden>Delete my favourites &amp; sign out</button>
+<span class="prose-note" id="deleteNote" hidden>You’re signed out — there’s no saved data on this device.</span>
+</div>
+
+<h2>Cookies &amp; local storage</h2>
+<p>When you sign in, your browser keeps a sign-in token in its local storage so you stay signed
+in between visits. That’s the only thing stored on your device, and signing out clears it. We set
+no advertising or tracking cookies.</p>
+
+<h2>Children</h2>
+<p>This guide isn’t directed at children under 13, and accounts aren’t intended for them.</p>
+
+<h2>Changes</h2>
+<p>If this policy changes, the updated version will appear on this page.</p>
+
+<h2>Contact</h2>
+<p>Questions, or want your account deleted? Email <a href="mailto:evanhanders@gmail.com">evanhanders@gmail.com</a>.</p>
+
+<p class="prose-fine">This is a plain-language summary for a small hobby project, not formal legal
+advice. Last updated June 2026.</p>
+</div>
+</article>
+<a class="backlink foot" href="index.html">‹ Back to the herbarium</a>
+</div>
+</div>
+<script src="reel.js"></script>
+<script src="config.js"></script>
+<script src="auth.js"></script>
+<script>
+/* wire the "delete my data" button to the shared Account API once it's ready */
+(function(){
+  var btn=document.getElementById('deleteData'), note=document.getElementById('deleteNote');
+  if(!window.Account || !window.Account.configured) return;
+  function refresh(){
+    var inn=window.Account.isSignedIn();
+    if(btn) btn.hidden=!inn;
+    if(note) note.hidden=inn;
+  }
+  window.Account.ready().then(refresh);
+  window.Account.onChange(refresh);
+  if(btn) btn.onclick=function(){
+    if(!confirm('Delete all your saved favourites and sign out? This can’t be undone.')) return;
+    btn.disabled=true; btn.textContent='Deleting…';
+    window.Account.deleteAllData().then(function(){ btn.disabled=false; btn.textContent='Delete my favourites & sign out'; });
+  };
+})();
+</script>
+</body>
+</html>

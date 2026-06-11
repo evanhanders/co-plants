@@ -1,0 +1,36 @@
+[
+  {
+    "file": "images/su-context.jpg",
+    "photo_id": 322062322,
+    "by": "Галина Винюсева",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/184496605",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  },
+  {
+    "file": "images/su-spike.jpg",
+    "photo_id": 87819453,
+    "by": "Tommaso Sitzia",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/55163640",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      933,
+      1400
+    ],
+    "thumb_px": [
+      267,
+      400
+    ]
+  }
+]

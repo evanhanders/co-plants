@@ -1,0 +1,174 @@
+{
+  "collection": "mulleins",
+  "common": "Giant silver mullein",
+  "botanical": "Verbascum bombyciferum",
+  "type": "Forb",
+  "lifecycle": "Biennial",
+  "bloom_season": "Summer",
+  "native": "Non-native",
+  "origin": "Western Turkey (Anatolia)",
+  "habitat": "Dry rocky hillsides and disturbed ground at low to mid elevations",
+  "blurb": "The most dramatic of the ornamental mulleins: a first-year silver-white woolly rosette the size of a dinner platter, then a towering 5–6 ft candelabra of sulphur-yellow flowers on silver-felted stems. The silver wool that gives 'Arctic Summer' its name glows in winter light. Self-sows to persist; the whole biennial cycle is the show.",
+  "size": "5–6 ft tall in bloom × rosette 2–3 ft wide",
+  "sun": "Full sun",
+  "water": "Low; xeric once established — sharp drainage essential, tolerates lean dry soil",
+  "spread": "Self-sows freely; deadhead spent spikes before seed set to control; thin seedlings to 18–24 in",
+  "seasons": "Year 1: a spectacular flat silver-woolly rosette, striking through summer and winter; Year 2: towering candelabra spire of yellow flowers all summer, then silvery dried stems persist through fall",
+  "wildlife": "Bees (especially bumble bees) work the yellow flowers; hummingbirds occasionally visit",
+  "deer": "Resistant — the dense white wool deters browsing",
+  "toxic": "Leaf hairs irritate skin and mucous membranes on contact; no documented culinary or poisoning risk",
+  "flower_color": [
+    "yellow"
+  ],
+  "bloom": [
+    "summer"
+  ],
+  "winter": true,
+  "verified": "2026-06-11",
+  "shots": [
+    {
+      "local": "images/su-rosette-t.jpg",
+      "full": "images/su-rosette.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/203469153/large.jpg",
+      "s": "summer",
+      "cap": "Summer — silver-woolly first-year rosette with emerging flower spike · © John Kenrick Gibson (CC0) / iNaturalist",
+      "by": "John Kenrick Gibson",
+      "lic": "CC0",
+      "link": "https://www.inaturalist.org/observations/120308901"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/202640621/large.jpg",
+      "s": "summer",
+      "cap": "Summer — dense silver-felted rosette leaves · © John Kenrick Gibson (CC0) / iNaturalist",
+      "by": "John Kenrick Gibson",
+      "lic": "CC0",
+      "link": "https://www.inaturalist.org/observations/370526626"
+    },
+    {
+      "local": "images/su-rosette2-t.jpg",
+      "full": "images/su-rosette2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/240148885/large.jpg",
+      "s": "summer",
+      "cap": "Summer — compact first-year silver rosette · © John Kenrick Gibson (CC0) / iNaturalist",
+      "by": "John Kenrick Gibson",
+      "lic": "CC0",
+      "link": "https://www.inaturalist.org/observations/370526635"
+    },
+    {
+      "local": "images/su-flower-t.jpg",
+      "full": "images/su-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/80742045/large.jpg",
+      "s": "summer",
+      "cap": "Summer — face-on yellow flowers with bee on the woolly spike · © Alia Warden (CC-BY-NC) / iNaturalist",
+      "by": "Alia Warden",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/50835969"
+    },
+    {
+      "local": "images/su-flower2-t.jpg",
+      "full": "images/su-flower2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/240149077/large.jpg",
+      "s": "summer",
+      "cap": "Summer — yellow flowers face-on on the silver-woolly spike · © John Kenrick Gibson (CC0) / iNaturalist",
+      "by": "John Kenrick Gibson",
+      "lic": "CC0",
+      "link": "https://www.inaturalist.org/observations/370526643"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/393768759/large.jpg",
+      "s": "summer",
+      "cap": "Summer — the candelabra silver spire in bloom · © Stephan Pflume (CC-BY-NC) / iNaturalist",
+      "by": "Stephan Pflume",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/222302719"
+    },
+    {
+      "local": "images/su-context-t.jpg",
+      "full": "images/su-context.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/154112629/large.jpg",
+      "s": "summer",
+      "cap": "Summer — towering plant in a garden border showing full scale · © Leo Vaughan (CC-BY-NC) / iNaturalist",
+      "by": "Leo Vaughan",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/92986602"
+    },
+    {
+      "local": "images/su-seed-t.jpg",
+      "full": "images/su-seed.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/203469191/large.jpg",
+      "s": "summer",
+      "cap": "Summer — seed capsules developing along the spent spike · © John Kenrick Gibson (CC0) / iNaturalist",
+      "by": "John Kenrick Gibson",
+      "lic": "CC0",
+      "link": "https://www.inaturalist.org/observations/370526637"
+    }
+  ],
+  "care": {
+    "hardiness": "Hardy to USDA zone 4, with some sources noting zone 3 tolerance — well within the Front Range's zone 5b–6a. As a biennial, the first-year rosette persists outdoors through Boulder winters without mulching; the woolly leaf coating insulates against desiccation as well as cold. Plants grown in wet or poorly drained soil over winter are far more at risk from crown rot than from the cold itself.[1][2]",
+    "planting": "Start seeds indoors 8–10 weeks before last frost (mid-March for Boulder's mid-May date) for first-year rosettes transplanted out in late May–early June; or sow direct outdoors in late spring after last frost. Alternatively, sow in summer (July–August) directly where plants are to grow — they establish a rosette by fall and overwinter, blooming the following year. Set into any lean, well-drained spot; amend heavy Boulder clay with coarse grit to ensure drainage, as crown rot in wet soil is the primary failure mode. In containers, use a lean, gritty mix; container roots are less cold-hardy, so sink pots or move to a frost-free but cold space over winter.[1][2]",
+    "sun": "Full sun — at least 6 hours of direct sun daily. Insufficient sun produces weak, leaning stems that cannot support the full 5–6 ft spike. No shade tolerance to speak of; this is a plant of open, sun-baked, rocky ground in the wild.[1]",
+    "soil": "Thrives in lean, gritty, sharply drained soil — poor soil is not a problem, it is the preference. Rich amended soil produces rank, floppy growth and shortens plant life. Boulder's alkaline clay needs grit worked in, or plant on a slope, in a raised bed, or in a gravelly spot; pH 6.0–8.0 is well tolerated, including our alkaline range. The one non-negotiable is drainage: standing water at the crown over winter causes rot.[1][2]",
+    "water": "Low; genuinely drought-tolerant once established — no supplemental water needed in average Front Range years after the first season. Water new transplants regularly until established (first 4–6 weeks), then ease off. Overwatering, especially in summer, is the fastest route to root and crown rot. In its native Turkish habitat it grows on dry rocky hillsides; treat it accordingly.[1][2]",
+    "spacing": "Allow 18–24 in between plants; the first-year rosette reaches 2–3 ft wide, and they need air circulation to stay healthy. In a naturalistic or 'wild' planting, allow self-sown seedlings to colonize gaps — just thin to prevent overcrowding.[1]",
+    "propagation": "Grown from seed. Surface-sow or barely cover (no more than 1/8 in deep) on a gritty seed-starting mix — seeds need light to germinate. No cold stratification is required. Germination is fast at warmth: typically 2–3 weeks at ~65–70°F. Self-sown seedlings appear freely around spent plants; transplant them while small (before the taproot is deep) to desired positions, or thin in place. Division is not practical — V. bombyciferum has a taproot and does not divide well; seed is the only propagation method.[1][2]",
+    "sow": "Surface-sow or just barely cover seed (no deeper than 1/8 in); seeds need light to germinate. Indoors: sow in March–April, keep at ~65–70°F, germination in 2–3 weeks. Outdoors: sow after last frost in late spring, or in summer (July–August) for rosettes that overwinter and bloom the next year. Do not cover deeply.[1][2]",
+    "bloom": "In its second year, the flowering candelabra spike rises from late spring (May) to midsummer, opening a succession of 5-petaled sulphur-yellow flowers ~1 in across that bees mob. The show lasts 6–8 weeks on the main spike, with lateral branches following. To prolong blooming, cut side branches after the main spike fades. To limit self-sowing — and V. bombyciferum self-sows prolifically — cut the entire spike to the base before seeds ripen, typically in late summer. Leave a few seed heads if you want to perpetuate the colony.[1][2]",
+    "feeding": "None needed. This is a plant of lean, nutrient-poor soil; feeding promotes rank, floppy growth. Skip fertilizer entirely.[1]",
+    "maintenance": "The main chore is managing self-sowing: inspect the rosette-ring around spent plants in late summer and early fall, and thin or transplant seedlings to your desired spacing. The spent second-year plant dies after setting seed — pull it once it looks done, or leave the silver skeleton for winter structure before removing in spring. The rosette does not come back after blooming; replace it from self-sown seedlings or new seed.[1][2]",
+    "troubles": "Crown and root rot in wet, poorly drained soil is the primary failure mode on the Front Range — drainage is everything. Mullein moth caterpillars (Cucullia verbasci) occasionally eat the foliage; handpick if found. Spider mites can appear in hot dry conditions; powdery mildew is possible in humid summers. The leaf hairs irritate skin and mucous membranes — wear gloves when handling large quantities of foliage. Deer avoid it.[1][2]",
+    "companions": "The silver rosette in year 1 and the tall spire in year 2 pair well with dark-leaved or fine-textured xeric plants: ornamental grasses (little bluestem, blue oat grass), purple sage, lavender, or a dark-stemmed Russian sage. The spire reads well as a vertical accent behind cushion spurge, cheddar pinks, or evening primrose. In a cottage or gravel garden, let it self-sow into crevices and gravel paths; it looks especially striking planted where the year-1 rosette is highlighted against dark mulch or rock in winter.[1]"
+  },
+  "edible": {
+    "level": "inedible",
+    "food": false,
+    "summary": "Giant silver mullein is a garden ornamental with no documented food use; not a culinary plant.[1][2]",
+    "caution": "Verbascum bombyciferum has no established edible use and should be treated as an ornamental only — do not eat any part. Like other mulleins it is grown for its foliage and flower spires, not as food, and the dense white woolly hairs that cover the leaves are a mechanical irritant to skin and mucous membranes, so handle the foliage with gloves. (The unrelated common mullein, V. thapsus, has a folk-medicinal cough-tea history, but that is a different, weedy species and is not an endorsement to consume this ornamental.)[1][2]"
+  },
+  "references": [
+    {
+      "name": "NC State Extension Plant Toolbox — Verbascum genus",
+      "url": "https://plants.ces.ncsu.edu/plants/verbascum/"
+    },
+    {
+      "name": "Plants for a Future (PFAF) — Verbascum thapsus (genus reference for compounds and irritants)",
+      "url": "https://pfaf.org/user/Plant.aspx?LatinName=Verbascum+thapsus"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      1
+    ],
+    "sun": [
+      1
+    ],
+    "water": [
+      1
+    ],
+    "spread": [
+      1
+    ],
+    "seasons": [
+      1
+    ],
+    "wildlife": [
+      1
+    ],
+    "deer": [
+      1
+    ],
+    "toxic": [
+      1,
+      2
+    ],
+    "origin": [
+      1
+    ],
+    "habitat": [
+      1
+    ]
+  }
+}

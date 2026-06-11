@@ -38,35 +38,5 @@
       400,
       300
     ]
-  },
-  {
-    "file": "images/su-foliage.jpg",
-    "commons_file": "Rosa canina leaves 001.jpg",
-    "by": "Iurie",
-    "license": "CC0",
-    "source": "https://commons.wikimedia.org/wiki/File:Rosa_canina_leaves_001.jpg",
-    "via": "Wikimedia Commons"
-  },
-  {
-    "file": "images/fa-hips.jpg",
-    "commons_file": "Rosehips in Eppstein, Hessen 01.jpg",
-    "by": "Kritzolina",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Rosehips_in_Eppstein,_Hessen_01.jpg",
-    "via": "Wikimedia Commons"
-  },
-  {
-    "file": "images/wi-structure.jpg",
-    "by": "Ddgfoto",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Rose_garden_in_winter.jpg",
-    "via": "Wikimedia Commons"
-  },
-  {
-    "file": "images/su-bloom.jpg",
-    "by": "Paul Smith",
-    "license": "CC-BY-SA-3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Rambling_rose2009.jpg",
-    "via": "Wikimedia Commons"
   }
 ]

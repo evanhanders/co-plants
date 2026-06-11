@@ -1,0 +1,159 @@
+{
+  "collection": "mulleins",
+  "common": "Purple mullein",
+  "botanical": "Verbascum phoeniceum",
+  "type": "Forb",
+  "lifecycle": "Perennial",
+  "bloom_season": "Summer",
+  "native": "Non-native",
+  "origin": "SE Europe to central Asia (Balkans, Ukraine, steppe belt to Iran)",
+  "habitat": "Dry stony grasslands, open steppe, and rocky hillsides on lean alkaline soils",
+  "blurb": "The elegant mullein: slender wispy spires of flat saucer-shaped flowers in shades of purple, rose, and white rise from a bold basal rosette of crinkled leaves — far more refined than the roadside yellow club of common mullein. Short-lived but self-sows reliably on lean, sharply drained ground; a xeric Front Range perennial that bees and pollinators work steadily through early summer.",
+  "size": "2–3 ft tall in bloom × 12–18 in wide",
+  "sun": "Full sun (tolerates light afternoon shade)",
+  "water": "Low; xeric once established — sharp drainage is essential, wet soil kills",
+  "spread": "Clumping rosette; self-sows modestly on bare or lean ground",
+  "seasons": "Basal rosette of crinkled, often purple-flushed leaves through spring; slender spires of purple, rose, or white saucer flowers from late spring into summer; spent seed spikes persist into fall",
+  "wildlife": "Bees, hoverflies, and butterflies work the open saucer flowers; an RHS Plants for Pollinators selection",
+  "deer": "Resistant — fuzzy, slightly bitter leaves deter browsing",
+  "toxic": "Not toxic to people or pets; leaf hairs can mildly irritate skin on contact",
+  "flower_color": ["purple", "pink", "white"],
+  "bloom": ["spring", "summer"],
+  "verified": "2026-06-11",
+  "shots": [
+    {
+      "local": "images/su-flower-t.jpg",
+      "full": "images/su-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/209226861/large.jpg",
+      "s": "summer",
+      "cap": "Summer — flowering spike with rose-pink saucer flowers and basal rosette · © Aleksandr V. Lebedev (CC-BY-NC) / iNaturalist",
+      "by": "Aleksandr V. Lebedev",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/123501117"
+    },
+    {
+      "local": "images/su-bloom-t.jpg",
+      "full": "images/su-bloom.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/392860058/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — slender purple spike in dry meadow · © no rights reserved (CC0) / iNaturalist",
+      "by": "no rights reserved",
+      "lic": "CC0",
+      "link": "https://www.inaturalist.org/observations/221819912"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/220136439/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — deep purple saucer flowers with fuzzy stamens, face-on · © Christian Berg (CC-BY) / iNaturalist",
+      "by": "Christian Berg",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/129530266"
+    },
+    {
+      "local": "images/su-spires-t.jpg",
+      "full": "images/su-spires.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/378990469/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — twin architectural spires: open purple flowers below, forming seed capsules above · © Axel Gosseries (CC-BY-NC) / iNaturalist",
+      "by": "Axel Gosseries",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/214416519"
+    },
+    {
+      "local": "images/su-flower2-t.jpg",
+      "full": "images/su-flower2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/75531824/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — cluster of brilliant purple saucer flowers face-on, white fuzzy stamens · © Patrick Hacker (CC-BY) / iNaturalist",
+      "by": "Patrick Hacker",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/47630210"
+    },
+    {
+      "local": "images/sp-foliage-t.jpg",
+      "full": "images/sp-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/466201152/large.jpeg",
+      "s": "spring",
+      "cap": "Early spring — basal rosette of deeply crinkled purple-red leaves on stony ground · © Patrick Hacker (CC-BY) / iNaturalist",
+      "by": "Patrick Hacker",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/259680548"
+    },
+    {
+      "local": "images/sp-rosette-t.jpg",
+      "full": "images/sp-rosette.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/630950421/large.jpg",
+      "s": "spring",
+      "cap": "Spring — basal leaf rosette, dark crinkled texture before the spire emerges · © Dominik Simakowski (CC-BY-NC) / iNaturalist",
+      "by": "Dominik Simakowski",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/346158451"
+    },
+    {
+      "local": "images/su-seed-t.jpg",
+      "full": "images/su-seed.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/514613578/large.jpg",
+      "s": "summer",
+      "cap": "Late summer — upper spike with open rose-pink flowers and darkening buds · © Jono (CC-BY) / iNaturalist",
+      "by": "Jono",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/286263339"
+    },
+    {
+      "local": "images/fa-seedhead-t.jpg",
+      "full": "images/fa-seedhead.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/454186472/large.jpeg",
+      "s": "fall",
+      "cap": "Fall — whole plant with basal rosette and dried seed spike under pine · © Dominik Simakowski (CC-BY-NC) / iNaturalist",
+      "by": "Dominik Simakowski",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/253634293"
+    }
+  ],
+  "care": {
+    "hardiness": "Hardy to USDA zones 4–8, making it fully perennial across the Front Range (Boulder is 5b–6a). Individual plants are short-lived — typically flowering strongly for 2–3 seasons — but they self-sow reliably on lean bare ground, so the colony persists. Once a patch is established, allow a few spent spikes to release seed before cutting them; the seedlings are small first-year rosettes that flower the second year.[1][2]",
+    "planting": "Plant container stock in spring (mid-May after last frost) or early fall (late August–mid-September) into sharply drained, lean soil — on a slope, in a raised bed, or in gravel/decomposed-granite ground. Boulder's heavy alkaline clay is workable only where drainage is excellent; amend with coarse grit or plant on a well-drained berm. In containers, use a lean cactus mix in a terracotta pot; container roots are less cold-hardy than in-ground roots, so move into an unheated garage or shelter over winter. Never site in a low spot that pools water — crown rot is the main killer on the Front Range.[1][2]",
+    "sun": "Full sun — at least six hours of direct sun — for erect, well-branched spires. It tolerates light afternoon shade but does best with morning and midday sun; too much shade produces floppy stems.[1][2]",
+    "soil": "Demands sharply drained, lean soil. Rich or heavy clay soil causes weak, sprawling growth and crown rot. It thrives in chalk, loam, sandy or gravelly ground at pH 5.5–8.0 — our Front Range alkaline conditions are a good fit as long as drainage is adequate. Never enrich the planting pocket with compost; lean and sharp is the rule.[1][2]",
+    "water": "Low; drought-tolerant once established. In lean well-drained ground it rarely needs supplemental water beyond the first season. Overwatering — especially in clay — is the primary failure mode. Water new transplants weekly through their first summer to establish, then back off to only the driest stretches.[1][2]",
+    "spacing": "Space plants 12–18 in apart; the basal rosette typically reaches 12–18 in across and the flower spike rises 2–3 ft. Thin self-sown seedlings to this spacing in spring.[1]",
+    "propagation": "Seed is the easiest method — no cold stratification is required; surface-sow on a lean, gritty mix in spring or fall, pressing lightly to good contact (tiny seed needs light to germinate). Seedlings bloom their second year. Allow a few spent spikes to shed seed in place so the colony renews itself. Root cuttings taken in winter (pencil-thick root sections, 2–3 in long, set barely under a gritty medium) are the way to propagate a specific named cultivar or color form true-to-type; spring division works but disturbs the taproot-like crown and is less reliable. Do not divide mature flowering plants.[1][2]",
+    "sow": "Surface-sow on bare, lean soil or a gritty seed mix — press to make soil contact but do not cover, as the fine seed needs light. Sow in spring or late summer; self-sown seed falls naturally in summer and germinates with fall rains.[1]",
+    "bloom": "Late spring into summer, roughly May–July on the Front Range — the slender spires open from the base upward over several weeks. Deadhead spent spikes by cutting them to the base to prolong the bloom season and limit self-sowing to a manageable level. Leave a spike or two to mature and shed seed for colony renewal.[1][2]",
+    "feeding": "None needed; fertilizer produces weak, floppy growth and shortens the plant's life. Leave the soil lean.[1]",
+    "maintenance": "Low. Cut spent spikes to the base after bloom. The evergreen-to-semi-evergreen basal rosette is attractive through winter and can be left in place; tidy any frost-tattered outer leaves in early spring. Watch drainage: if the crown sits wet through winter, it will rot.[1][2]",
+    "selfsow": "Self-sows modestly on bare, lean ground — enough to renew the colony from year to year, not so aggressively as to be weedy. Deadhead consistently to control seeding; mulching bare soil near the plants also suppresses seedlings. Not invasive in Colorado, but self-sowing keeps it present without replanting.[1]",
+    "troubles": "Crown rot in wet, poorly drained, or clay soil is the leading problem — drainage is everything. Powdery mildew can appear in humid or crowded conditions; improve air circulation and avoid overhead watering. Caterpillars (the mullein moth, Cucullia verbasci, and figwort weevil larvae) occasionally skeletonize the foliage; pick by hand or remove affected leaves. Spider mites are possible in hot, dry conditions. Few other pests bother it.[1][2]",
+    "companions": "Pairs naturally with other xeric sun-lovers in a dry garden or pollinator border: bearded iris, salvia (meadow sage), prairie coneflower, knautia, and ornamental grasses. Its vertical spike reads well next to mounding low plants like dianthus, cushion spurge, or prairie zinnia. For a cottage-garden effect, combine with pasque flower (early season), then salvia and knautia as it blooms. Plant toward the back of a bed where the basal rosette can anchor the planting without the spent spike becoming conspicuous."
+  },
+  "edible": {
+    "level": "inedible",
+    "food": false,
+    "summary": "Purple mullein is a garden ornamental with no documented culinary use — grown for its flowers, not as food.[1][2]",
+    "caution": "Verbascum phoeniceum has no recognized food use and should not be eaten. The genus Verbascum has a long folk-medicinal history (the common mullein V. thapsus was used as an expectorant herb), but that is V. thapsus, not this species, and it was a medicinal application under specific preparation, never a food. The leaf and stem hairs of V. phoeniceum can cause mild skin irritation on contact in sensitive individuals. It is not classified as a significant poison, but it is not food — treat it as an ornamental only.[1][2]"
+  },
+  "references": [
+    {
+      "name": "NC State Extension Plant Toolbox — Verbascum (purple mullein genus page)",
+      "url": "https://plants.ces.ncsu.edu/plants/verbascum/"
+    },
+    {
+      "name": "RHS — Verbascum phoeniceum 'Violetta' (cultivation data applies to the species)",
+      "url": "https://www.rhs.org.uk/plants/153459/verbascum-phoeniceum-violetta/details"
+    }
+  ],
+  "fact_src": {
+    "size": [1, 2],
+    "sun": [1, 2],
+    "water": [1, 2],
+    "spread": [1],
+    "seasons": [1, 2],
+    "wildlife": [2],
+    "deer": [1, 2],
+    "toxic": [1, 2],
+    "origin": [2],
+    "habitat": [2]
+  }
+}

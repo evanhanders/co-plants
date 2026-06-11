@@ -1,0 +1,173 @@
+{
+  "collection": "mulleins",
+  "common": "Garden mullein",
+  "botanical": "Verbascum (garden hybrids)",
+  "type": "Forb",
+  "lifecycle": "Perennial",
+  "native": "Non-native",
+  "origin": "Garden hybrids of European and Eurasian Verbascum species",
+  "habitat": "Ancestors native to dry rocky slopes, disturbed ground, and thin soils of Europe and W. Asia",
+  "flower_color": [
+    "yellow",
+    "orange",
+    "pink",
+    "purple",
+    "white"
+  ],
+  "bloom": [
+    "summer"
+  ],
+  "bloom_season": "Summer",
+  "blurb": "Pastel-flowered hybrid mulleins — soft saucer blooms in peach, apricot, pink, lilac, and cream on branching spikes over woolly grey-green rosettes. Short-lived but stunning, and a magnet for bees.",
+  "size": "~2–3 ft tall (in bloom) × ~1–1.5 ft wide",
+  "sun": "Full sun",
+  "water": "Low; xeric — sharp drainage essential, resents wet soil",
+  "spread": "Clumping; hybrids self-sow little to none",
+  "seasons": "Woolly grey-green basal rosette spring–fall; branching flower spikes midsummer; plants often short-lived (1–3 years); may not persist through winter in clay/wet soil",
+  "wildlife": "Bees, including native bees and bumblebees",
+  "deer": "Generally deer-resistant",
+  "toxic": "",
+  "winter": false,
+  "verified": "2026-06-11",
+  "commons": "",
+  "care": {
+    "hardiness": "Garden hybrid mulleins are typically hardy to USDA zones 5–8, but they behave as short-lived perennials or biennials on the Front Range — expect 1–3 years in the garden rather than a long-lived clump. The main enemy is wet crown over winter: Boulder's clay soil that stays damp in late fall and spring is more likely to kill plants than cold alone. The RHS notes they dislike wet soil particularly in winter; NC State lists hardiness as zones 6–8 for most cultivars, though some tolerate zone 5 with excellent drainage.[1][2]",
+    "planting": "Set out transplants in spring (April–May) after the last hard frost (~mid-May in Boulder) into full sun and sharply drained soil; raised beds, slopes, or gravelly amended soil are ideal. Avoid planting in low spots or heavy unamended clay where water pools. For container growing, use a lean, fast-draining mix (cactus/gravel-blend); pot plants are vulnerable to crown rot if left outside over a Colorado winter — overwinter containers in an unheated garage and water minimally, or treat as an annual.[1][2]",
+    "sun": "Full sun, at least 6 hours daily — the more the better. Rich soil plus shade leads to floppy stems; lean soil in full sun keeps plants compact and well-branched.[1][2]",
+    "soil": "Excellent drainage is the single non-negotiable requirement. These plants evolved on thin, rocky, or gravelly ground and actively thrive in poor soil — avoid enriching the planting site with compost, as rich soil produces weak, sprawling stems and shortens plant life. Boulder's alkaline clay can work if amended with coarse grit or planted on a slope; pH 6.0–8.0 is acceptable, and they actually excel in neutral to slightly alkaline conditions.[1][2]",
+    "water": "Low once established — xeric. Deep taproots allow them to pull moisture from dry soil; overwatering (or any standing water around the crown) is the fastest way to kill them. Water new transplants regularly until established, then taper to minimal supplemental irrigation in all but the driest summers. Do not water overhead — wet foliage promotes mildew.[1][2]",
+    "spacing": "Plant 12–18 in apart; individual rosettes are compact (12–18 in across) but the branching flower spike reaches 2–3 ft at bloom. Leave space for airflow to reduce mildew pressure.[1][2]",
+    "propagation": "Named hybrid cultivars do not come true from seed and many are sterile — root cuttings are the reliable vegetative method. In mid-to-late autumn (October–November), dig and expose pencil-thick young roots, cut into 2–4 in sections (horizontal top cut, angled bottom cut to tell orientation), and insert vertically — top just below the surface — in a pot of gritty compost, covered with a thin layer of grit. Overwinter in a cold frame; pot up individually in spring when shoots emerge, plant out the following spring. Seed propagation (for species and open-pollinated hybrids): surface-sow or barely cover seed in spring at ~65–70°F; seed germinates within 1–2 weeks; plants typically bloom their second year.[1][3]",
+    "bloom": "Branching spikes of soft saucer-shaped 5-petaled flowers with woolly stamens open from midsummer, continuing into late summer if deadheaded. Cut spent spikes back to a lower side-branch (rather than all the way to the base) to encourage the side branches to extend bloom; remove whole stalks once no side buds remain. Deadheading also prevents the hybrid from scattering seed (hybrids' seedlings do not come true).[1][2]",
+    "feeding": "None needed — fertilizing pushes lush, floppy growth and shortens plant life. Lean, unamended soil is the correct growing medium. No supplemental feeding.[1][2]",
+    "maintenance": "Low: deadhead spent spikes for repeat bloom (see above); tidy dead leaves from the basal rosette. These plants resent disturbance once established, so avoid dividing or moving them. Replace every 2–3 years as plants decline; take root cuttings first if you want to carry the cultivar forward.[1][2]",
+    "troubles": "Crown rot in wet or poorly drained soil is the #1 killer — site on a slope or in amended gritty ground. Mullein moth caterpillars (Cucullia verbasci, a European species rarely seen in CO) can skeletonize leaves, but this pest is far less common in Colorado than in the UK. Powdery mildew can appear in crowded spots or with overhead watering; improve airflow and water at the base. Spider mites in hot, dry conditions; fungal leaf spot in wet years.[1][2]",
+    "companions": "Plant with other drought-tolerant, sharp-drainage perennials: catmint, lavender, Russian sage, salvia, prairie smoke, Rocky Mountain penstemon, or ornamental grasses. The tall vertical spike contrasts beautifully with mounded or mat-forming companions. Avoid pairing with moisture-loving plants whose watering requirements will rot the mullein crown.[2]"
+  },
+  "references": [
+    {
+      "name": "NC State Extension Gardener Plant Toolbox — Verbascum",
+      "url": "https://plants.ces.ncsu.edu/plants/verbascum/"
+    },
+    {
+      "name": "RHS — Verbascum (growing guide and care)",
+      "url": "https://www.rhs.org.uk/plants/verbascum"
+    },
+    {
+      "name": "RHS — Root Cuttings: How to propagate plants from root cuttings",
+      "url": "https://www.rhs.org.uk/propagation/root-cuttings"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      1,
+      2
+    ],
+    "sun": [
+      1,
+      2
+    ],
+    "water": [
+      1,
+      2
+    ],
+    "spread": [
+      1,
+      2
+    ],
+    "seasons": [
+      1,
+      2
+    ],
+    "wildlife": [
+      1
+    ],
+    "deer": [
+      2
+    ],
+    "origin": [
+      2
+    ],
+    "habitat": [
+      2
+    ]
+  },
+  "edible": {
+    "level": "inedible",
+    "food": false,
+    "summary": "Grown ornamentally — no documented culinary use for these garden hybrid mulleins.[1]",
+    "caution": "Garden hybrid Verbascum are not documented as food plants. The foliage and stems have fine hairs that are a mechanical irritant to skin and mucous membranes — handle with gloves if sensitive, and keep children from rubbing their eyes after touching the woolly leaves. No part is eaten; not documented as systemically poisonous, but do not consume.[1][2]"
+  },
+  "shots": [
+    {
+      "local": "images/su-flower-t.jpg",
+      "full": "images/su-flower.jpg",
+      "commons": "Verbascum 'Southern Charm', Longwood Gardens 2024 01.jpg",
+      "s": "summer",
+      "cap": "Summer — pastel pink-purple saucer blooms of 'Southern Charm' with fuzzy stamens · © Shuvaev (CC BY 4.0) / Wikimedia Commons",
+      "by": "Shuvaev",
+      "lic": "CC BY 4.0",
+      "link": "https://commons.wikimedia.org/wiki/File:Verbascum_%27Southern_Charm%27,_Longwood_Gardens_2024_01.jpg"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "commons": "Verbascum 'Southern Charm', Longwood Gardens 2024 02.jpg",
+      "s": "summer",
+      "cap": "Summer — branching flower spike of 'Southern Charm' in bloom · © Shuvaev (CC BY 4.0) / Wikimedia Commons",
+      "by": "Shuvaev",
+      "lic": "CC BY 4.0",
+      "link": "https://commons.wikimedia.org/wiki/File:Verbascum_%27Southern_Charm%27,_Longwood_Gardens_2024_02.jpg"
+    },
+    {
+      "local": "images/su-bloom-t.jpg",
+      "full": "images/su-bloom.jpg",
+      "commons": "Verbascum Southern Charm 2zz.jpg",
+      "s": "summer",
+      "cap": "Summer — soft apricot-cream flowers of 'Southern Charm', face-on · © Photo by David J. Stang (CC BY-SA 4.0) / Wikimedia Commons",
+      "by": "Photo by David J. Stang",
+      "lic": "CC BY-SA 4.0",
+      "link": "https://commons.wikimedia.org/wiki/File:Verbascum_Southern_Charm_2zz.jpg"
+    },
+    {
+      "local": "images/su-habit2-t.jpg",
+      "full": "images/su-habit2.jpg",
+      "commons": "Verbascum Southern Charm 3zz.jpg",
+      "s": "summer",
+      "cap": "Summer — tall branching flower spike of 'Southern Charm' in the garden · © Photo by David J. Stang (CC BY-SA 4.0) / Wikimedia Commons",
+      "by": "Photo by David J. Stang",
+      "lic": "CC BY-SA 4.0",
+      "link": "https://commons.wikimedia.org/wiki/File:Verbascum_Southern_Charm_3zz.jpg"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "commons": "Verbascum Pink Petticoat 1zz.jpg",
+      "s": "summer",
+      "cap": "Summer — branching flowering stems and cream-pale flowers of the 'Pink Petticoat' cultivar, with woolly grey foliage · © Photo by David J. Stang (CC BY-SA 4.0) / Wikimedia Commons",
+      "by": "Photo by David J. Stang",
+      "lic": "CC BY-SA 4.0",
+      "link": "https://commons.wikimedia.org/wiki/File:Verbascum_Pink_Petticoat_1zz.jpg"
+    },
+    {
+      "local": "images/su-flower2-t.jpg",
+      "full": "images/su-flower2.jpg",
+      "commons": "Verbascum Sugar Plum 1zz.jpg",
+      "s": "summer",
+      "cap": "Summer — soft lilac-pink blooms of 'Sugar Plum', each with woolly purple stamens · © Photo by David J. Stang (CC BY-SA 4.0) / Wikimedia Commons",
+      "by": "Photo by David J. Stang",
+      "lic": "CC BY-SA 4.0",
+      "link": "https://commons.wikimedia.org/wiki/File:Verbascum_Sugar_Plum_1zz.jpg"
+    },
+    {
+      "local": "images/su-pollinator-t.jpg",
+      "full": "images/su-pollinator.jpg",
+      "commons": "Verbascum Summer Sorbet 1zz.jpg",
+      "s": "summer",
+      "cap": "Summer — pale pink flowers of 'Summer Sorbet' with a visiting bee · © Photo by David J. Stang (CC BY-SA 4.0) / Wikimedia Commons",
+      "by": "Photo by David J. Stang",
+      "lic": "CC BY-SA 4.0",
+      "link": "https://commons.wikimedia.org/wiki/File:Verbascum_Summer_Sorbet_1zz.jpg"
+    }
+  ]
+}

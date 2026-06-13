@@ -1,0 +1,168 @@
+{
+  "common": "Plains prickly pear",
+  "botanical": "Opuntia polyacantha",
+  "type": "Subshrub",
+  "lifecycle": "Perennial",
+  "native": "CO native",
+  "flower_color": [
+    "yellow",
+    "pink"
+  ],
+  "bloom": [
+    "spring",
+    "summer"
+  ],
+  "blurb": "Colorado's toughest native cactus — a low, mat-forming clump of flat jointed pads armored with spines and tiny barbed glochids, erupting in silky 3-inch blooms of yellow, pink, or magenta in late spring, then lying dormant and shriveled-purple in the cold before plumping back up in spring.",
+  "size": "4–12 in × 1–4 ft",
+  "sun": "Full sun",
+  "water": "Very low; xeric once established — no supplemental water needed",
+  "spread": "Slow-spreading mat by pad rooting; non-invasive in garden settings with sharp drainage",
+  "seasons": "Evergreen pad mat year-round; silky yellow or pink flowers May–Jun; dry spiny fruit fall; pads shrivel and purple-tinge in cold, re-plump in spring",
+  "wildlife": "Flowers attract native bees, especially specialist cactus bees (Diadasia); pads and fruit provide shelter and food for birds, small mammals, and lizards",
+  "deer": "Highly deer- and rabbit-resistant — the spines and glochids deter all browsers",
+  "toxic": "Not chemically toxic; the real hazard is glochids — tiny, barbed, easily-detached bristles that lodge painfully in skin, eyes, and mouth; handle only with thick gloves or tongs",
+  "winter": true,
+  "verified": "2026-06-13",
+  "care": {
+    "hardiness": "Exceptionally cold hardy — tolerant of temperatures below −40°F (−40°C), surviving Canadian winters from Alberta to Saskatchewan. USDA hardiness zones 3–7 on the Front Range (zones 5b–6a), this plant thrives without any winter protection at all. Unlike most cacti, it tolerates seasonal freeze-thaw cycles in the soil because it naturally desiccates in fall — pads flatten, turn purple-tinged, and become leathery as moisture moves out of the tissue to prevent ice-crystal cell damage.[1][2]",
+    "planting": "Plant in spring or early summer once the soil is workable (late Apr–Jun) so roots establish through the warm season before winter. The absolute requirement is sharp drainage — raised beds, gravelly slopes, rocky outcroppings, and xeric rock gardens are ideal sites. In heavy clay, amend deeply with at least 50% coarse sand or pea gravel, or build a raised berm. Planting pads directly works well: use tongs, let the cut end callus in a dry spot for 7–10 days, then press the basal end a few inches into gritty soil. Container culture is possible but pots must be kept completely dry in winter (move to a cold, dry garage or shed; a wet pot will rot the roots). Do NOT plant near a path, patio, or play area — glochids detach on contact and are almost impossible to see or remove.[1][2]",
+    "sun": "Full sun — minimum 6 hours of direct sun per day, and more is better. Colorado's intense high-altitude sun is exactly what this plant evolved for. Partial shade weakens the pads and drastically reduces flowering.[1][2]",
+    "soil": "The only real soil requirement is excellent drainage — this is non-negotiable. Sandy, gravelly, rocky, or lean soil is ideal; pH tolerance is wide, including the alkaline soils (pH 7–8) typical on the Front Range. Unamended clay retains moisture that rots the root system. A top-dressing of pea gravel or crushed granite around the clump helps shed water and keeps the pad bases dry.[1][2]",
+    "water": "Very low — established clumps in the ground need no supplemental irrigation at all on the Front Range; rainfall alone sustains them. Occasional deep summer watering (once or twice in a drought summer) keeps the pads plump and flowering more heavily, but is not required. Taper off completely by late August; zero water from October through snowmelt. Overwatering is the primary cause of garden failure — soggy roots rot quickly.[1][2]",
+    "spacing": "Space transplants or rooted pads 2–3 ft apart; the clump spreads slowly to 2–4 ft wide over several years. For a mass groundcover on a dry slope, 18–24 in spacing fills in within 3–4 seasons.[1][2]",
+    "propagation": "Easiest by pad division: use tongs or thick leather gloves to detach a pad where it joins the parent plant, allow the wound to dry and callus for 7–10 days in a shaded dry spot, then press the basal inch into barely moist gritty sand; roots form within 2–4 weeks. Division is best in late spring or early summer. Seed is viable: scarify lightly, sow in barely moist gritty mix at room temperature, and expect germination in 1–4 weeks. Seedlings grow slowly (reaching mature size in 5–7 years) — pad division is strongly preferred for speed. Both methods are best started in spring or early summer.[1][2]",
+    "bloom": "Late May through June on the Front Range, with large (2–3 in across) satiny flowers that open only in bright sun and last a few days each. The species produces yellow flowers as the base form; pink, magenta, and peach forms are common and equally cold hardy. A well-established clump can cover itself in dozens of blooms simultaneously. No deadheading needed — spent flowers drop cleanly and may be followed by dry, brownish, spiny fruit in late summer and fall.[1][2]",
+    "feeding": "None required — this plant thrives in lean, infertile soil. Adding fertilizer encourages lush, soft growth that is more susceptible to cold damage and rot. Do not fertilize.[2]",
+    "maintenance": "Among the lowest-maintenance plants in the Front Range garden. Remove dead or rotten pads in spring once new growth is visible — use tongs and dispose carefully (glochids remain dangerous even on dead pads). If the clump encroaches on a path or planting area, detach outer pads with tongs and replant or compost (double-bag). A gravel mulch top-dressing around the base helps shed water. **Glochid safety:** always wear thick leather gloves (NOT cloth — glochids penetrate fabric); use tongs for handling; remove glochids from skin by dabbing firmly with duct tape or rubber cement (tweezers alone leave buried tips). Keep children away from established clumps and label the plant if it's near a walking area.[1][2]",
+    "troubles": "Root and crown rot from excess moisture is the overwhelming cause of failure — guarantee sharp drainage and do not overwater. Glochids are a physical hazard, not a disease, but remain the #1 source of handling injuries. Scale insects occasionally infest the pads (the white powdery mealy bump type); treat with isopropyl alcohol on a swab or a dilute horticultural oil spray in spring. No serious fungal or bacterial diseases in dry climates. Deer, rabbits, and most mammals avoid it entirely.[1][2]"
+  },
+  "edible": {
+    "level": "caution",
+    "food": true,
+    "kinds": [
+      "fruit",
+      "stems"
+    ],
+    "card": "Fruit (tunas) peeled; young pads (nopales) despined and cooked",
+    "summary": "Edible with careful preparation: ripe fruit (tunas) and young pads (nopales) are traditional foods once spines and glochids are thoroughly removed — glochids are a serious hazard if any remain.[1][2]",
+    "parts": "The ripe fruit (tunas) is edible raw or cooked into jelly, syrup, or candy once peeled. Young pads harvested in spring are edible as nopales — a traditional food of Great Plains Indigenous peoples and a staple vegetable across the American Southwest. Seeds can be dried, parched, and ground into meal. The flowers are edible as well, though seldom used.[1][2]",
+    "preparation": "**Fruit:** harvest ripe tunas with tongs when brownish-tan and soft (late summer–fall). Hold with tongs over an open flame (camp stove, torch) to burn off glochids, or roll vigorously in coarse sand; then slice off both ends and peel back the skin. Do not rinse until glochids are fully removed — wet glochids adhere to skin even more stubbornly. **Pads (nopales):** use tongs to cut a young spring pad where it joins the parent; carry with tongs to a work surface. Burn or scrape off glochid clusters (areoles) with a stiff brush, then peel the outer skin or cube the pad and boil until tender (10–15 min), discarding the cooking water to remove some mucilaginous texture. Grill, sauté, or add to eggs, tacos, or salads. **Note on O. polyacantha:** the fruit is drier and spinier than the commercial Mexican prickly pear (*O. ficus-indica*) and requires more glochid-removal effort.[1][2]",
+    "caution": "The primary hazard is glochids — the tiny, barbed, hair-like bristles clustered at each areole. They detach on the lightest touch, lodge deep in skin and soft tissue (including lips and tongue), are almost invisible, and cause persistent stinging pain. Even on fully ripe, peeled fruit, embedded glochids can remain — inspect carefully and use the flame or tape methods above. Never bite raw fruit directly from the plant. Raw young pads also contain oxalic acid; cook and discard the cooking water to reduce this. The plant itself is not chemically toxic to people or domestic animals (the ASPCA and NC State Plant Toolbox list no systemic toxicity for prickly pear), but glochid contact with eyes requires medical attention. Keep children away from unprocessed pads and fruit.[1][2]"
+  },
+  "fact_src": {
+    "size": [
+      1,
+      2
+    ],
+    "sun": [
+      1,
+      2
+    ],
+    "water": [
+      1,
+      2
+    ],
+    "spread": [
+      1,
+      2
+    ],
+    "seasons": [
+      1,
+      2
+    ],
+    "wildlife": [
+      1,
+      2
+    ],
+    "deer": [
+      1,
+      2
+    ],
+    "toxic": [
+      1,
+      2
+    ]
+  },
+  "references": [
+    {
+      "name": "Lady Bird Johnson Wildflower Center — Opuntia polyacantha (Plains prickly pear)",
+      "url": "https://www.wildflower.org/plants/result.php?id_plant=OPPO"
+    },
+    {
+      "name": "NC State Extension Gardener Plant Toolbox — Opuntia (prickly pear)",
+      "url": "https://plants.ces.ncsu.edu/plants/opuntia/"
+    }
+  ],
+  "shots": [
+    {
+      "local": "images/sp-flower-t.jpg",
+      "full": "images/sp-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/42373395/large.jpg",
+      "s": "spring",
+      "cap": "Spring — silky yellow face-on flower close-up · © JD McCoy (CC-BY-NC) / iNaturalist",
+      "by": "JD McCoy",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/27246977"
+    },
+    {
+      "local": "images/sp-flower2-t.jpg",
+      "full": "images/sp-flower2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/468915395/large.jpeg",
+      "s": "spring",
+      "cap": "Spring — vivid magenta-pink flowers on spiny pads · © Steve Ansell (CC-BY-NC) / iNaturalist",
+      "by": "Steve Ansell",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/261050696"
+    },
+    {
+      "local": "images/sp-bloom-t.jpg",
+      "full": "images/sp-bloom.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/345372734/large.jpeg",
+      "s": "spring",
+      "cap": "Spring — the clump in full bloom, smothered in magenta flowers · © Karen Scopel (CC-BY-NC) / iNaturalist",
+      "by": "Karen Scopel",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/196206009"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/388453767/large.jpg",
+      "s": "summer",
+      "cap": "Summer — near view of the mat-forming clump with flat jointed pads · © Judith Ellen Lopez (CC-BY-NC) / iNaturalist",
+      "by": "Judith Ellen Lopez",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/219461344"
+    },
+    {
+      "local": "images/su-pad-t.jpg",
+      "full": "images/su-pad.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/449090539/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — flat pad detail showing dense spines and glochid clusters at each areole · © iNaturalist observer (CC0) / iNaturalist",
+      "by": "no rights reserved",
+      "lic": "CC0",
+      "link": "https://www.inaturalist.org/observations/251032836"
+    },
+    {
+      "local": "images/fa-context-t.jpg",
+      "full": "images/fa-context.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/100788592/large.jpeg",
+      "s": "fall",
+      "cap": "Fall — the clump in a native-prairie context among grasses · © Suzanne Dingwell (CC-BY-NC) / iNaturalist",
+      "by": "Suzanne Dingwell",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/62862180"
+    },
+    {
+      "local": "images/wi-winter-t.jpg",
+      "full": "images/wi-winter.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/460549492/large.jpeg",
+      "s": "winter",
+      "cap": "Winter — pads shriveled, purpling, and flattened to the ground in cold · © David Perry (CC-BY) / iNaturalist",
+      "by": "David Perry",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/256817455"
+    }
+  ]
+}

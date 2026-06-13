@@ -1,0 +1,164 @@
+{
+  "common": "Spearleaf stonecrop",
+  "botanical": "Sedum lanceolatum",
+  "type": "Groundcover",
+  "lifecycle": "Perennial",
+  "native": "CO native",
+  "flower_color": [
+    "yellow"
+  ],
+  "bloom": [
+    "summer"
+  ],
+  "blurb": "Colorado's own native succulent groundcover — a tight mat of fleshy, lance-shaped leaves that turns fire-red in drought and cold, then explodes into bright yellow star-flowers in early summer, thriving in the very hottest, rockiest, leanest spots where almost nothing else will grow.",
+  "size": "2–8 in × 6–18 in",
+  "sun": "Full sun",
+  "water": "Very low; xeric once established — thrives on neglect in dry, rocky sites",
+  "spread": "Slowly creeps and self-layers into a tidy low mat; non-invasive, never weedy",
+  "seasons": "Evergreen succulent mat year-round; foliage flushes red-bronze in heat, drought, and winter cold; star-shaped bright yellow flowers Jun–Jul; wispy seed capsules late summer; red-flushed mat persists through winter",
+  "wildlife": "Flowers attract native bees, bumblebees, and butterflies; primary larval host of the Rocky Mountain apollo butterfly (Parnassius smintheus)",
+  "deer": "Deer-resistant",
+  "toxic": "",
+  "winter": true,
+  "verified": "2026-06-13",
+  "care": {
+    "hardiness": "Hardy to USDA zone 3–4 — one of the cold-hardiest succulents in the Rocky Mountain flora. Overwinters outdoors throughout Colorado with no protection. The plant is native to high-elevation sites, where it endures temperatures well below -20°F under snow. In containers, roots are more exposed; in severe cold (-20°F or colder) a pot against a south-facing wall or brought into an unheated garage is prudent.[2][3]",
+    "planting": "Plant in spring (late Apr–May) once the soil has thawed, or in early fall (Aug–Sep) to give roots time to settle before freeze-up. The non-negotiable requirement is sharp drainage — choose a rock garden, gravelly slope, dry stone wall crevice, or raised bed top-dressed with pea gravel or crushed granite. Avoid clay flats where water pools. Space transplants 6–12 in apart; they will slowly knit together into a dense mat. In containers, use a cactus/succulent mix and a pot with drainage holes; water rarely and reduce watering entirely from October through April.[2][3]",
+    "sun": "Full sun — 6+ hours of direct sun daily. Colorado's intense high-altitude sun is ideal: in partial shade the mat etiolates, turns dark green, and blooms poorly. South- or west-facing exposures on rocky slopes are the natural home.[1][3]",
+    "soil": "Lean, sharply drained rocky or gravelly soil is ideal; loam is acceptable if drainage is excellent. The plant grows in nature on granite, sandstone, limestone, basalt, and scree — poor, thin soils where most plants fail. A gravel mulch (pea gravel or crushed granite) around the crown prevents moisture-related crown rot and mimics the natural scree environment. Soil pH 6.0–7.5 is suitable. Heavy clay soils must be heavily amended with coarse grit and raised above grade.[2][3]",
+    "water": "Very low. Established plants are xeric — on the Front Range a dry, rocky site needs no supplemental irrigation at all once roots are in. During the first growing season, water lightly every 2–3 weeks to help establishment; thereafter, occasional deep watering in extended drought is all that's needed. The single threat is overwatering or poor drainage causing crown/root rot. Do not irrigate from October onward; winter moisture is more dangerous than cold.[2][3]",
+    "spacing": "Space transplants 6–12 in apart for a groundcover mat; a single start will creep to fill 12–18 in over several years. Closer spacing (6 in) gives faster coverage on a slope; wider spacing (12 in) is fine if you're in no hurry.[3]",
+    "propagation": "Extremely easy vegetatively — this is the best approach for keeping named forms true. **Cuttings:** snip 2–3 in stem tips in spring or early summer, allow cut ends to callous for 1–2 days, then press into barely moist gritty sand or perlite; roots form in 2–4 weeks with no rooting hormone needed. **Division:** dig clumps in early spring before bloom, gently tease apart rosette clusters, and replant immediately; recovery is fast. **Stem layering:** stems in contact with moist soil often root spontaneously — peg a stem down with a stone and lift a rooted cutting in 4–6 weeks. **Seed:** tiny surface-sown seeds germinate in 2–3 weeks at 65–70°F in a gritty mix; start indoors 8–10 weeks before last frost (mid-May on the Front Range); seeds need light, so do not cover. Seedlings are slow to establish but the plant self-sows lightly in favorable rocky sites.[1][3]",
+    "bloom": "June through early August on the Front Range (sometimes as late as mid-August at higher elevations). Star-shaped, five-petaled canary-to-golden-yellow flowers are held in flat-topped cymes on stems that rise 3–8 in above the mat; each flower is 0.5–1 in across. The mats can be nearly hidden by flowers at peak. No deadheading needed — spent flower stems dry to wispy seed capsules that add off-season texture.[1][2]",
+    "feeding": "None required — this plant is adapted to lean, infertile soils and actually performs better without fertilizer. Excess nitrogen produces lush, floppy growth that is more prone to rot and less cold-hardy. Amending the planting hole with compost is counterproductive; use grit instead.[3]",
+    "maintenance": "Nearly zero. Trim back any dead or blackened stems in mid-spring once new growth resumes. Remove spent flower stalks if tidiness is desired, though they are harmless. Divide every 4–6 years if the center of the mat becomes woody or bare. A gravel mulch top-dressing applied in fall helps insulate crowns and repel moisture during freeze-thaw cycles.[3]",
+    "selfsow": "Light self-seeder in adjacent gravel or rocky soil — seedlings are tiny and easily managed. Not aggressive; does not spread into lawn or dense groundcover. Pull unwanted seedlings when small, or transplant them to fill gaps.[3]",
+    "troubles": "Crown rot and root rot from excess moisture or clay soil is the primary and almost only killer. Site selection and drainage are everything. No significant pest or disease problems in dry climates — the sarmentosin glycoside in the leaves deters most mammalian herbivores. Occasionally snails or slugs will graze it in irrigated gardens; reduce overhead watering and apply diatomaceous earth if needed. Not attractive to deer or rabbits in xeric settings.[3]"
+  },
+  "edible": {
+    "level": "caution",
+    "summary": "Leaves have been eaten raw or cooked by Indigenous peoples, but the plant contains alkaloids and a cyanogenic compound (sarmentosin) that can cause GI upset or act as a laxative — eat only small amounts if at all, and never substitute it for confirmed edibles without expert ID.[2][3]",
+    "caution": "Sedum lanceolatum leaves have documented traditional food use — the Okanagan-Colville used the plant and foragers describe the leaves as mildly mucilaginous with a crisp texture, edible raw or pickled in small quantities. However, several important cautions apply: (1) The plant contains alkaloids (sedine, sedamine) and the cyanogenic compound sarmentosin, the same toxin that makes it a defended host plant for Parnassius smintheus butterfly larvae; eating large quantities can cause gastric upset, and the plant has been used specifically as a laxative by Indigenous groups. (2) ID risk is significant — Sedum lanceolatum closely resembles related yellow-flowered stonecrops (S. stenopetalum, S. debile) in the Rocky Mountains; a misidentification is easily made by non-botanists. (3) No authority we have reviewed comprehensively documents it as a reliably safe culinary plant for regular use. Treat as a curiosity edible only: in a very small tasting quantity by a confident identifier, not as a food crop. Keep children and pets from grazing. The PFAF database rates edibility 1/5 and flags the stomach-upset risk explicitly.[2][3]"
+  },
+  "fact_src": {
+    "size": [
+      1
+    ],
+    "sun": [
+      1
+    ],
+    "water": [
+      2,
+      3
+    ],
+    "spread": [
+      3
+    ],
+    "seasons": [
+      1,
+      2
+    ],
+    "wildlife": [
+      2
+    ],
+    "deer": [
+      3
+    ]
+  },
+  "references": [
+    {
+      "name": "Lady Bird Johnson Wildflower Center — Sedum lanceolatum (Spearleaf stonecrop): native range, size, light, flower colour",
+      "url": "https://www.wildflower.org/plants/result.php?id_plant=SELA"
+    },
+    {
+      "name": "Wikipedia — Sedum lanceolatum (botanical description, range, habitat, ecology incl. Parnassius smintheus host & sarmentosin)",
+      "url": "https://en.wikipedia.org/wiki/Sedum_lanceolatum"
+    },
+    {
+      "name": "PFAF (Plants For A Future) — Sedum lanceolatum (cultivation, hardiness, propagation, edibility & toxicity)",
+      "url": "https://pfaf.org/user/Plant.aspx?LatinName=Sedum+lanceolatum"
+    }
+  ],
+  "shots": [
+    {
+      "local": "images/su-flower-t.jpg",
+      "full": "images/su-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/20813937/large.jpg",
+      "s": "summer",
+      "cap": "Summer — bright yellow star-flowers on a low mat of fleshy rosettes in red sandstone scree · © no rights reserved (CC0) / iNaturalist",
+      "by": "no rights reserved",
+      "lic": "CC0",
+      "link": "https://www.inaturalist.org/observations/14063519"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/88772570/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — the classic habitat: mat tucked into a granite rock crevice, in bloom · © no rights reserved (CC0) / iNaturalist",
+      "by": "no rights reserved",
+      "lic": "CC0",
+      "link": "https://www.inaturalist.org/observations/55737523"
+    },
+    {
+      "local": "images/su-bloom-t.jpg",
+      "full": "images/su-bloom.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/112001480/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — clusters of canary-yellow star-flowers on branching stems, mat in full bloom · © Julia (CC-BY-NC) / iNaturalist",
+      "by": "Julia",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/69074538"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/299550544/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — close-up of the fleshy, lance-shaped terete leaves flushed orange-green in sun · © djweyer (CC-BY-NC) / iNaturalist",
+      "by": "djweyer",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/172546871"
+    },
+    {
+      "local": "images/sp-structure-t.jpg",
+      "full": "images/sp-structure.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/73976653/large.jpg",
+      "s": "spring",
+      "cap": "Spring — dense cushion of plump fleshy rosettes in gravel scree, the characteristic mat form · © cierrakoellner (CC-BY-NC) / iNaturalist",
+      "by": "cierrakoellner",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/46642498"
+    },
+    {
+      "local": "images/fa-fall-t.jpg",
+      "full": "images/fa-fall.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/85287185/large.jpeg",
+      "s": "fall",
+      "cap": "Fall/winter — foliage flushed deep red-purple in drought and cold, showing the striking winter mat · © John Powers (CC-BY) / iNaturalist",
+      "by": "John Powers",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/53620466"
+    },
+    {
+      "local": "images/su-context-t.jpg",
+      "full": "images/su-context.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/316208653/large.jpg",
+      "s": "summer",
+      "cap": "Summer — plant in context on a sandy rocky slope, red-tipped flower stalks rising from a compact mat · © Andrey Zharkikh (CC-BY-NC) / iNaturalist",
+      "by": "Andrey Zharkikh",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/181459188"
+    },
+    {
+      "local": "images/su-stress-t.jpg",
+      "full": "images/su-stress.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/112034611/large.jpg",
+      "s": "summer",
+      "cap": "Summer — rosettes flushed red-orange under intense sun, showing the characteristic heat-and-drought stress color · © Jennifer Ackerfield (CC-BY-NC) / iNaturalist",
+      "by": "Jennifer Ackerfield",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/69091648"
+    }
+  ]
+}

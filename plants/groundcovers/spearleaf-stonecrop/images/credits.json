@@ -1,0 +1,138 @@
+[
+  {
+    "file": "images/su-flower.jpg",
+    "photo_id": 20813937,
+    "by": "no rights reserved",
+    "license": "CC0",
+    "source": "https://www.inaturalist.org/observations/14063519",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      1050
+    ],
+    "thumb_px": [
+      400,
+      300
+    ]
+  },
+  {
+    "file": "images/su-habit.jpg",
+    "photo_id": 88772570,
+    "by": "no rights reserved",
+    "license": "CC0",
+    "source": "https://www.inaturalist.org/observations/55737523",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  },
+  {
+    "file": "images/su-bloom.jpg",
+    "photo_id": 112001480,
+    "by": "Julia",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/69074538",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      1050
+    ],
+    "thumb_px": [
+      400,
+      300
+    ]
+  },
+  {
+    "file": "images/su-foliage.jpg",
+    "photo_id": 299550544,
+    "by": "djweyer",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/172546871",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      1140
+    ],
+    "thumb_px": [
+      400,
+      326
+    ]
+  },
+  {
+    "file": "images/sp-structure.jpg",
+    "photo_id": 73976653,
+    "by": "cierrakoellner",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/46642498",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  },
+  {
+    "file": "images/fa-fall.jpg",
+    "photo_id": 85287185,
+    "by": "John Powers",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/observations/53620466",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      933
+    ],
+    "thumb_px": [
+      400,
+      267
+    ]
+  },
+  {
+    "file": "images/su-context.jpg",
+    "photo_id": 316208653,
+    "by": "Andrey Zharkikh",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/181459188",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      933
+    ],
+    "thumb_px": [
+      400,
+      267
+    ]
+  },
+  {
+    "file": "images/su-stress.jpg",
+    "photo_id": 112034611,
+    "by": "Jennifer Ackerfield",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/69091648",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      1050
+    ],
+    "thumb_px": [
+      400,
+      300
+    ]
+  }
+]

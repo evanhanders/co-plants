@@ -122,7 +122,10 @@ return '<section class="grp'+(collapsedNow?' collapsed':'')+'" data-group="'+nam
 }
 function wireGroupHeads(q){
 Array.prototype.forEach.call(content.querySelectorAll('.group-head'), function(h){
-h.onclick=function(){ if(q) return; /* during search everything is force-expanded */ const g=h.dataset.g; const nowC=!collapsed.has(g); if(nowC) collapsed.add(g); else collapsed.delete(g); h.parentElement.classList.toggle('collapsed', nowC); const chev=h.querySelector('.chev'); if(chev){ chev.setAttribute('aria-expanded', nowC?'false':'true'); chev.setAttribute('aria-label', (nowC?'Expand ':'Collapse ')+g); } };
+h.onclick=function(){ if(q) return; /* during search everything is force-expanded */ const g=h.dataset.g; const nowC=!collapsed.has(g); if(nowC) collapsed.add(g); else collapsed.delete(g); const sec=h.parentElement; sec.classList.toggle('collapsed', nowC); const chev=h.querySelector('.chev'); if(chev){ chev.setAttribute('aria-expanded', nowC?'false':'true'); chev.setAttribute('aria-label', (nowC?'Expand ':'Collapse ')+g); }
+/* On collapse, if we've scrolled past this (sticky) header, the vanished cards would otherwise
+   drop us at an arbitrary spot — snap the header to the top so the next section sits right below it. */
+if(nowC){ const secTop=window.pageYOffset+sec.getBoundingClientRect().top; if(secTop<window.pageYOffset) window.scrollTo(0, secTop); } };
 });
 }
 function genericGroupedHTML(list, key, q){

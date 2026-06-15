@@ -1,0 +1,195 @@
+{
+  "common": "Soapweed yucca",
+  "botanical": "Yucca glauca",
+  "type": "Shrub",
+  "lifecycle": "Perennial",
+  "native": "CO native",
+  "flower_color": [
+    "white",
+    "green"
+  ],
+  "bloom": [
+    "spring",
+    "summer"
+  ],
+  "blurb": "Colorado's iconic Great Plains native — a clump of stiff, blue-green sword leaves year-round and a towering spike of creamy bell flowers in early summer, pollinated exclusively by the yucca moth in one of nature's most celebrated obligate mutualisms.",
+  "size": "2–3 ft clump × 3–4 ft wide; flower stalk to 2–5 ft tall",
+  "sun": "Full sun",
+  "water": "Very low; xeric once established — no supplemental water needed on the Front Range",
+  "spread": "Spreads slowly by rhizomatous offsets into a colony; non-invasive in the garden",
+  "seasons": "Evergreen blue-green sword-leaf clump year-round; creamy white bell flowers June–July on tall stalks; brown oval seed capsules persist through fall and winter",
+  "wildlife": "Obligate mutualist with the yucca moth (Tegeticula yuccasella) — its sole pollinator; provides food and nesting for small mammals, birds, and reptiles; aphids on flowers attract ladybugs",
+  "deer": "Highly deer-resistant — sharp spines tip every leaf",
+  "toxic": "Roots contain saponins — toxic to dogs, cats, and horses (vomiting, liver effects); mildly irritating to people; flowers and fruit are edible when prepared",
+  "winter": true,
+  "verified": "2026-06-13",
+  "care": {
+    "hardiness": "Hardy to USDA zone 4a (to approximately −30°F) — one of the most cold-tolerant xeric shrubs on the Front Range. Yucca glauca is native to the Great Plains and foothills, and the Front Range (zones 5b–6a) is squarely in its comfort zone. Unlike most ornamentals, it actually thrives in the cold-dry winters typical of Colorado.[1][2]",
+    "planting": "Plant in spring or early fall in a site with full sun and sharply drained soil — Yucca glauca establishes readily once placed correctly. Choose a permanent location away from pathways and play areas (the leaf tips are genuinely spine-sharp and can draw blood). In containers, the evergreen form is striking, but the exposed roots are vulnerable to freeze-thaw; overwinter containers in a cold but dry, frost-protected space (an unheated garage) or mulch heavily. Amend heavy clay sites with coarse grit to improve drainage before planting, or plant on a slope or raised bed.[2]",
+    "sun": "Full sun — 6 or more hours of direct sun is essential. In shade the rosette opens loosely and flowering is poor or absent. Colorado's high-altitude sun suits it perfectly.[1][2]",
+    "soil": "Well-drained, sandy, loamy, or rocky soil — the single critical requirement. Yucca glauca tolerates a broad pH range (acid through alkaline) and thrives in poor, lean soils; it adapts to the Front Range's alkaline clay only if drainage is guaranteed. Do not plant in areas where water pools after rain.[1][2]",
+    "water": "Xeric once established — on the Front Range it needs no supplemental irrigation once roots are in (typically after the first growing season). During the establishment year, water occasionally (every 2–3 weeks) during summer heat; once established, rainfall is sufficient. Overwatering causes crown rot: the single greatest risk on irrigated lawns or in clay soils.[2]",
+    "spacing": "Space at least 4–5 ft from pathways, play areas, and other plants to account for the sharp leaf tips and eventual rhizome spread. For a specimen planting allow a 4 ft radius. Offsets can be removed with a spade to contain spread.[2]",
+    "propagation": "By seed or by division of rooted offsets. **Offsets (easiest):** in spring, cut a basal offset from the parent clump with a sharp spade, keeping roots attached, and transplant to a well-drained site; water in and leave to establish. **Seed:** soak seeds in warm water for 24 hours, then sow 1/4–1/2 in deep in gritty, well-drained mix at 60–70°F; germination takes 1–3 months. Note that in temperate gardens outside the native range, the yucca moth is absent, so seeds form only if hand-pollinated — in Colorado the moth is present and pollination is reliable.[1][2][4]",
+    "bloom": "June through July on the Front Range — mature clumps (typically 3–5 years old from seed, sooner from divisions) send up a stout stalk rising 2–5 ft above the rosette, densely set with large, nodding, creamy-white to greenish-white bell-shaped flowers that are fragrant at night. The flowers are exclusively pollinated by the yucca moth; each bloom produces a large oval capsule (~2–3 in) packed with flat black seeds. Cut the stalk at the base after seed capsules brown if tidiness is desired, or leave standing for winter structure and wildlife interest.[1][2][3]",
+    "feeding": "None needed — Yucca glauca is adapted to poor, lean soils and fertilizing actually weakens it. Feeding with high-nitrogen products produces lush, floppy growth that is more susceptible to disease. Leave the soil lean.[2]",
+    "maintenance": "Minimal. In early spring, peel or cut away the dry brown lower leaves that accumulate along the base of the rosette (wear gloves and long sleeves — the leaf tips are sharp). Cut old flower stalks to the base once seeds have been dispersed or after they've provided winter interest. Remove unwanted offsets with a spade in spring. No division of the main crown is needed or recommended.[2]",
+    "troubles": "Crown rot from overwatering or poorly drained clay is the main threat — guarantee drainage. Scale insects and aphids occasionally colonize the flower stalks; the aphids attract beneficial ladybugs, so tolerance is often the best response. No serious disease or pest problems in the native range or in Front Range gardens with dry conditions.[2]"
+  },
+  "edible": {
+    "level": "caution",
+    "food": true,
+    "kinds": [
+      "flowers",
+      "fruit",
+      "seeds"
+    ],
+    "card": "Flowers, young fruit, and seeds — cooked",
+    "summary": "Flowers, young fruit, and seeds of Yucca glauca are edible when cooked — a genuine traditional food of Great Plains peoples. Raw fruit is bitter; roots are NOT edible (saponins).[1][4]",
+    "parts": "The **flowers and buds** can be eaten raw in small amounts but are better lightly cooked (stir-fried, blanched, or added to soups); the petals are mildly sweet. The **immature green fruit** (before the capsule hardens) can be peeled and boiled or roasted as a vegetable. Mature fruit has been dried and formed into cakes for storage. The **seeds** are edible roasted. The young **flower stalk** (before the buds open) can be harvested and cooked like asparagus — peel and boil or roast the white inner core.[1][4]",
+    "preparation": "Flowers and buds: blanch or lightly sauté to remove bitterness. Young fruit: peel the green capsule and boil with a change of water to reduce bitterness, then season; or roast directly in coals. Flower stalk: harvest the emerging stalk before buds break, peel to the white interior, and boil or roast. Seeds: harvest from ripe capsules, dry, and roast. Do not eat roots in any form.[1][4]",
+    "caution": "The **roots are NOT edible** — they contain high concentrations of steroidal saponins, which are toxic to people (gastrointestinal irritation), highly toxic to dogs, cats, and horses (vomiting, potential liver effects), and acutely toxic to fish. Do not prepare or ingest roots. Saponins in roots are not destroyed by brief cooking. The edible parts (flowers, young fruit, seeds, flower stalk) also contain milder saponins and should not be eaten raw in large quantities — cook them to reduce bitterness and irritants. Note: the yucca moth larvae consume the developing seeds; heavily infested capsules should not be collected for food. Harvest the flower stalk only from your own plants — in wild populations removal of the stalk destroys that year's seed set and disrupts the yucca-moth mutualism.[1][2][4]"
+  },
+  "references": [
+    {
+      "name": "Lady Bird Johnson Wildflower Center — Yucca glauca",
+      "url": "https://www.wildflower.org/plants/result.php?id_plant=YUGL"
+    },
+    {
+      "name": "NC State Extension Gardener Plant Toolbox — Yucca glauca (Soapweed Yucca)",
+      "url": "https://plants.ces.ncsu.edu/plants/yucca-glauca/"
+    },
+    {
+      "name": "USDA Forest Service FEIS (Fire Effects Information System) — Yucca glauca: botanical & ecological characteristics, seasonal development, rhizomatous spread, wildlife/livestock use",
+      "url": "https://www.fs.usda.gov/database/feis/plants/shrub/yucgla/all.html"
+    },
+    {
+      "name": "Plants for a Future — Yucca glauca (edible uses, root toxicity)",
+      "url": "https://pfaf.org/user/plant.aspx?latinname=Yucca+glauca"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      1,
+      2
+    ],
+    "sun": [
+      1,
+      2
+    ],
+    "water": [
+      2
+    ],
+    "spread": [
+      3
+    ],
+    "seasons": [
+      1,
+      2
+    ],
+    "wildlife": [
+      1,
+      2
+    ],
+    "deer": [
+      2,
+      3
+    ],
+    "toxic": [
+      2,
+      4
+    ]
+  },
+  "shots": [
+    {
+      "local": "images/su-flower-t.jpg",
+      "full": "images/su-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/219765700/large.jpg",
+      "s": "summer",
+      "cap": "Summer — yucca clump with flowering stalk in bloom, North Boulder CO · © kerosundae (CC-BY-NC) / iNaturalist",
+      "by": "kerosundae",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/122914214"
+    },
+    {
+      "local": "images/su-bloom-t.jpg",
+      "full": "images/su-bloom.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/141947590/large.jpg",
+      "s": "summer",
+      "cap": "Summer — tall creamy-white flowering stalk rising above the sword-leaf rosette, Jefferson County CO · © curt_nimz (CC-BY-NC) / iNaturalist",
+      "by": "curt_nimz",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/86193020"
+    },
+    {
+      "local": "images/sp-close-t.jpg",
+      "full": "images/sp-close.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/130724162/large.jpg",
+      "s": "spring",
+      "cap": "Spring — a dense rosette of stiff, spine-tipped blue-green sword leaves · © samanthamc (CC-BY-NC) / iNaturalist",
+      "by": "samanthamc",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/79795108"
+    },
+    {
+      "local": "images/sp-foliage-t.jpg",
+      "full": "images/sp-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/497739950/large.jpg",
+      "s": "spring",
+      "cap": "Spring — the stiff, spine-tipped blue-green sword leaves of the dense basal rosette · © Jared Lincenberg (CC-BY) / iNaturalist",
+      "by": "Jared Lincenberg",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/277193949"
+    },
+    {
+      "local": "images/su-structure-t.jpg",
+      "full": "images/su-structure.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/580762882/large.jpg",
+      "s": "summer",
+      "cap": "Summer — whole clump showing the radial rosette of spine-tipped sword leaves · © Gabriel Campbell-Martinez (CC-BY) / iNaturalist",
+      "by": "Gabriel Campbell-Martinez",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/321151010"
+    },
+    {
+      "local": "images/wi-habit-t.jpg",
+      "full": "images/wi-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/62374589/large.jpg",
+      "s": "winter",
+      "cap": "Winter/early spring — soapweed yucca clumps dotting native shortgrass prairie, Front Range Colorado · © thecaiman1 (CC-BY-NC) / iNaturalist",
+      "by": "thecaiman1",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/39325848"
+    },
+    {
+      "local": "images/fa-pod-t.jpg",
+      "full": "images/fa-pod.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/530289141/large.jpg",
+      "s": "fall",
+      "cap": "Fall — ripe oval seed capsules on the dried flowering stalk · © Jo Roberts (CC-BY) / iNaturalist",
+      "by": "Jo Roberts",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/294608126"
+    },
+    {
+      "local": "images/fa-pod2-t.jpg",
+      "full": "images/fa-pod2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/581458692/large.jpg",
+      "s": "fall",
+      "cap": "Fall — the large green seed capsules of soapweed yucca at Garden of the Gods, Colorado Springs · © Werner Tueckmantel (CC-BY-NC) / iNaturalist",
+      "by": "Werner Tueckmantel",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/321505394"
+    },
+    {
+      "local": "images/wi-winter-t.jpg",
+      "full": "images/wi-winter.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/254155551/large.jpeg",
+      "s": "winter",
+      "cap": "Winter — evergreen sword-leaf clumps on a dry rocky hillside, January in South Dakota · © Eric Schmidt (CC-BY) / iNaturalist",
+      "by": "Eric Schmidt",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/147675983"
+    }
+  ]
+}

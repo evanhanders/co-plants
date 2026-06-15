@@ -987,12 +987,12 @@ ground every statement in an authority cited in `references`.
 
 ## Current plant roster (in the live site)
 
-**187 specimens**, all verified non-weed in CO and all carrying a full `care` block (incl.
+**192 specimens**, all verified non-weed in CO and all carrying a full `care` block (incl.
 `planting` + `propagation`) **and a repo-hosted photo reel** (close-up + structure, seasonal
 where good shots exist). Every plant's detail page is now **fully cited** — a numbered
 `references` bibliography with inline `[n]` markers on the facts table (`fact_src`), the care
-prose, and a safety-reviewed **`edible` block** (current split: 81 inedible · 32 caution · 47
-edible · 27 toxic). Every **non-native** plant (116 of the 187) also carries **provenance** —
+prose, and a safety-reviewed **`edible` block** (current split: 81 inedible · 37 caution · 47
+edible · 27 toxic). Every **non-native** plant (117 of the 192) also carries **provenance** —
 `origin` (where it's from) + `habitat` (its wild growing conditions) — shown as blue "Native
 to" / "Wild habitat" rows on its card and detail page, cited via `fact_src`. Grouped by type
 below (the order the site uses). Photos were sourced
@@ -1111,6 +1111,22 @@ species/hybrids were added (verified 2026-06-11). All four are **Non-native**, x
 demanding (crown rot in wet clay is the #1 killer), with honest self-sowing-management notes (deadhead
 spikes at the base). Photos via `tools/inat_montage.py`; the hybrid via the Wikimedia Commons pipeline.
 
+**Succulents & cacti batch (June 2026):** added **five** drought-proof succulents/cacti on a user request —
+the CO-native **soapweed yucca** (*Yucca glauca*, a Shrub: evergreen sword-leaf clump, creamy flower spikes,
+obligate yucca-moth mutualism; flowers/young fruit/seeds edible cooked, roots saponin-toxic), the two
+CO-native cacti **plains prickly pear** (*Opuntia polyacantha*, a Subshrub: low spiny pad mat, yellow/pink
+blooms; tunas & nopales edible once de-glochided) and **claret cup cactus** (*Echinocereus triglochidiatus*,
+a Subshrub and **Colorado's official state cactus** since 2014: scarlet hummingbird cups on ribbed mounds),
+plus two mat-forming groundcovers — the non-native **hens and chicks** (*Sempervivum tectorum*, monocarpic
+rosettes that pup "chicks") and the CO-native **spearleaf stonecrop** (*Sedum lanceolatum*, yellow-flowered
+mat, *Parnassius smintheus* larval host). All five are `caution`-level edibility (yucca/prickly-pear/claret-
+cup are genuine foods with careful prep; hens-and-chicks & stonecrop are non-toxic but not documented foods).
+Honesty calls: yucca **roots are saponin-toxic** (soap, not food); prickly-pear **glochids** are the real
+hazard (not chemical toxicity); claret cup demands **sharp drainage** (cold+wet = rot); hens-and-chicks is the
+one **Non-native** (origin: European Alps/Pyrenees). Photos via `tools/inat_montage.py` (iNat open data),
+720×480 smart-crop thumbs; care/edibility sourced from LBJ Wildflower Center, USDA-FS FEIS, NC State, ASPCA,
+Wikipedia & PFAF.
+
 **Trees**
 - River hawthorn (*Crataegus rivularis*) (N) — Thorny native small tree; white spring flowers, dark edible haws, superb wildlife cover. A caterpillar keystone (~90 Lepidoptera). *(Riparian — wants more water; edible haws, spit the cyanogenic seeds.)*
 - Chokecherry (*Prunus virginiana*) (N) — Wildlife powerhouse: fragrant white flower racemes, dark…
@@ -1158,6 +1174,7 @@ spikes at the base). Photos via `tools/inat_montage.py`; the hybrid via the Wiki
 - Rabbitbrush (*Ericameria nauseosa*) (N) — Silver-stemmed shrub erupting in golden fall bloom; a critical late-season pollinator plant.
 - Leadplant (*Amorpha canescens*) (N) — Silvery ferny foliage and purple-and-orange flower spikes; a nitrogen-fixing prairie legume.
 - Waxflower (*Jamesia americana*) (N) — Foothills cliffbush; fragrant waxy white flowers over veined leaves that redden in fall.
+- Soapweed yucca (*Yucca glauca*) (N) — Evergreen blue-green sword-leaf clump throwing tall spikes of creamy bell flowers; pollinated solely by the yucca moth. *(Flowers, young fruit & seeds edible cooked; roots saponin-toxic.)*
 
 **Subshrubs**
 - Apricot wallflower (*Erysimum 'Apricot Twist'*) (I) — Long-blooming perennial wallflower; flowers open apricot and age to mauve. *(photos species-representative — see `gaps`)*
@@ -1174,6 +1191,8 @@ spikes at the base). Photos via `tools/inat_montage.py`; the hybrid via the Wiki
 - Rosemary (*Salvia rosmarinus*) (I) · **Tender perennial** — Aromatic culinary evergreen; tiny blue winter flowers bees work — pot it and overwinter indoors.
 - Winter heath (*Erica carnea*) (I) — Low evergreen mat sheeted in pink bells from late winter — a true cold-season bloomer. *(Not ground-hardy here; grow in an acid-mix pot.)*
 - Sulphur flower buckwheat (*Eriogonum umbellatum*) (N) — Evergreen mat crowned with sulphur-yellow umbels aging to rust; a Plant Select pollinator favorite for hot, lean ground.
+- Plains prickly pear (*Opuntia polyacantha*) (N) — Colorado's toughest native cactus; a low mat of flat spiny pads with silky yellow/pink blooms, shriveling purple in winter cold. *(Tunas & young pads edible once de-glochided; glochids the real hazard.)*
+- Claret cup cactus (*Echinocereus triglochidiatus*) (N) — Colorado's official state cactus; a ribbed hedgehog mound erupting in scarlet hummingbird cups. *(Ripe fruit edible, despine first; demands sharp drainage — cold+wet rots it.)*
 
 **Ornamental grasses**
 - Blue oat grass (*Helictotrichon sempervirens*) (I) — A tidy steel-blue fountain of fine, arching foliage
@@ -1200,6 +1219,8 @@ spikes at the base). Photos via `tools/inat_montage.py`; the hybrid via the Wiki
 - Snow-in-summer (*Cerastium tomentosum*) (I) — A silver-gray mat of woolly foliage that erupts into a froth…
 - Lamb's ear (*Stachys byzantina*) (I) — Soft silver-woolly mat grown for its fuzzy tongue-shaped leaves; woolly summer spikes of pink-purple flowers. *(Xeric — overhead water/humidity rots the wool; wool carder bees harvest the fuzz.)*
 - Turkish speedwell (*Veronica liwanensis*) (I) — A Plant Select standout
+- Hens and chicks (*Sempervivum tectorum*) (I) — Bulletproof evergreen succulent; tight rosette "hens" pup rings of "chicks" into a mat, with a monocarpic summer flower stalk. *(Non-toxic but not a documented food; European native.)*
+- Spearleaf stonecrop (*Sedum lanceolatum*) (N) — CO-native succulent mat of fleshy lance leaves that flush fire-red in drought/cold, then bright yellow star-flowers; *Parnassius smintheus* larval host. *(Caution — alkaloids/sarmentosin; not a tested food.)*
 
 **Vines**
 - 'Dropmore Scarlet' honeysuckle (*Lonicera × brownii 'Dropmore Scarlet'*) (I) — A Canadian-bred cold-hardy twining vine that puts on a…

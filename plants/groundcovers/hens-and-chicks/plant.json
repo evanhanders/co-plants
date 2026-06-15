@@ -1,0 +1,178 @@
+{
+  "common": "Hens and chicks",
+  "botanical": "Sempervivum tectorum",
+  "type": "Groundcover",
+  "lifecycle": "Perennial",
+  "native": "Non-native",
+  "flower_color": [
+    "pink",
+    "red",
+    "purple"
+  ],
+  "bloom": [
+    "summer"
+  ],
+  "blurb": "The indestructible alpine succulent — tight geometric rosettes (the 'hens') surrounded by a ring of miniature offsets ('chicks') that spread into a dense, weed-proof mat. Thrives in blazing sun, bone-dry rocky soil, and hard cold, with a monocarpic flowering show each summer and foliage that bronzes beautifully in winter.",
+  "size": "Rosettes 1–4 in across; mat spreads to 12–24 in; flower stalks 8–12 in tall",
+  "sun": "Full sun; tolerates part shade",
+  "water": "Very low; xeric once established — excess moisture causes rot",
+  "spread": "Spreads steadily by offsets to form a dense, weed-smothering mat; non-invasive",
+  "seasons": "Evergreen succulent mat year-round; rosettes bronze and redden in winter cold; thick flower stalks with star-shaped pink-red flowers Jun–Aug; spent monocarpic rosette dies after bloom and is replaced by chicks",
+  "wildlife": "Summer flowers attract native bees and butterflies",
+  "deer": "Deer-resistant",
+  "toxic": "Non-toxic to pets (ASPCA); not established as a culinary food",
+  "winter": true,
+  "verified": "2026-06-13",
+  "origin": "Mountains of southern & central Europe (Alps, Pyrenees, Apennines, Dinarides)",
+  "habitat": "Rocky alpine slopes, screes, grassland crevices, and stony siliceous soils",
+  "care": {
+    "hardiness": "Extremely cold-hardy — USDA zones 3a–8b. Sempervivum tectorum tolerates temperatures as low as -30 °C and is one of the few succulents that thrives through a Front-Range winter without any protection.[1][2] The critical caveat is drainage: cold and dry = fine; cold and wet = fatal. Our semi-arid winters are nearly ideal, but never plant where snow-melt or irrigation pools around the crown.[1]",
+    "planting": "Plant in spring (late April through May) once the soil has warmed, or by mid-summer so roots establish before cold. The one non-negotiable requirement is sharp drainage: raised beds, rock gardens, scree mixes, gravel slopes, and wall crevices are ideal on the Front Range. Amend heavy clay heavily with coarse grit (50% by volume) or plant above grade in a raised berm. In containers — very striking in hypertufa pots or alpine troughs — the roots are fully exposed; keep the container dry through the winter and bring it into a cold, frost-free space (unheated garage) if a wet freeze threatens.[1][2]",
+    "sun": "Full sun is best — 6 or more hours of direct sun produces the tightest, most colourful rosettes and the most prolific offsets. Tolerates partial shade (3–5 hours), but in shade rosettes loosen and etiolate. Colorado's intense high-altitude sun is ideal; afternoon shade is only warranted in the hottest low-elevation exposures.[1][2]",
+    "soil": "Sandy, gravelly, rocky, or extremely lean soil with outstanding drainage is essential. Tolerates pH 6.0–8.0, so Front-Range alkaline clay is workable if well amended. In poor, dry, even thin soils the mat stays tight and the colours intensify — fertility is not an asset. Never add organic matter to the planting pocket; it retains moisture and promotes rot.[1][2]",
+    "water": "Extremely drought-tolerant once established — in well-drained ground, established mats in Boulder need little or no supplemental irrigation. Water newly planted rosettes weekly for the first month, then taper off. In summer heat, an occasional deep soak improves flowering, but never allow the crown to sit wet. Cut irrigation entirely by October and keep the crown dry through winter.[1][2]",
+    "spacing": "Space individual rosettes 6–12 in apart; they spread by offsets and close in within one to two seasons. For instant coverage, plant at 6 in; for a looser, natural-looking colony, plant at 12 in and let the chicks fill the gaps.[1]",
+    "propagation": "Effortlessly propagated by separating offsets (chicks): in spring or early summer, gently pull or snip a chick from the stolon connecting it to the mother rosette, allow the cut to callus for a day, then press it onto dry, gritty soil with the roots just in contact — no watering for a few days. They root readily with no extra care. Plants also set seed, but vegetative propagation is far simpler and preserves the selected form. Do not propagate from a rosette that is actively sending up a flower stalk — it will die regardless.[1][2]",
+    "bloom": "Summer (June through August on the Front Range). Each individual rosette blooms only once in its life — it elongates into a thick, hairy stalk 8–12 in tall bearing a cluster of star-shaped, 12–16-petalled flowers in shades of pink, rose, red, or purple. After the flowers fade the monocarpic rosette withers and dies. This is normal and expected; the surrounding chicks it produced take its place. Remove the dead stalk and spent rosette cleanly at the base to tidy the mat.[1][2]",
+    "feeding": "None needed. Hens and chicks thrive on neglect in lean soil; fertilizer produces loose, soft rosettes that are more prone to rot and less attractively coloured. If grown in a container for many seasons, a light, dilute low-nitrogen feed once in spring is acceptable, but even this is optional.[1]",
+    "maintenance": "Minimal. Tidy the mat by removing spent monocarpic rosettes after they bloom — grip the dead stalk and pull or cut it cleanly; the space will quickly fill with surrounding chicks. If the centre of an old mat becomes woody or bare, lift in spring, replant the outer offsets with fresh gritty mix, and discard the woody core. A thin gravel mulch around the crowns helps shed moisture and keeps the succulent leaves off wet soil.[1][2]",
+    "troubles": "Crown and root rot from excess moisture — especially winter wet or clay soil — is the primary killer on the Front Range. Symptoms: mushy, darkened centres. Prevention is correct siting (sharp drainage, raised grade) rather than treatment. Vine weevil grubs occasionally eat the roots in containers; tip the pot, inspect, and treat with beneficial nematodes. Mealybugs can shelter in the tight leaf axils in warm, humid conditions; remove by swabbing with rubbing alcohol. Rust fungus is occasionally reported — remove affected rosettes. No serious pest or disease issues in hot, dry, well-drained settings.[1][2]"
+  },
+  "edible": {
+    "level": "caution",
+    "summary": "Hens and chicks has folk topical uses but is not an established culinary food — the ASPCA lists it as non-toxic to pets, and no authoritative source documents it as safe or tested to eat.[1][3]",
+    "caution": "Sempervivum tectorum is not a culinary food. Historically, the leaf juice was applied externally — by Galen and Dioscorides — as an astringent for skin ulcerations, burns, and insect stings, much like aloe gel. This is a topical folk-medicinal use, not documented edibility: no authoritative food or horticultural source (USDA, NC State, MBG, RHS) lists it as a food plant, and no preparation has been established as culinary-safe for internal use.[1][2] The ASPCA classifies the closely related Sempervivum/Echeveria group as non-toxic to dogs, cats, and horses, and Sempervivum tectorum is not known to cause acute poisoning.[3] However, 'non-toxic' in the pet-safety sense does not mean 'food' — the plant contains organic acids and astringent tannins, and no safety data exist for regular human consumption. Treat it as non-toxic but inedible: it is a garden ornamental, not a herb or vegetable. Keep out of reach of small children who might graze on the rosettes."
+  },
+  "references": [
+    {
+      "name": "NC State Extension Gardener Plant Toolbox — Sempervivum tectorum",
+      "url": "https://plants.ces.ncsu.edu/plants/sempervivum-tectorum/"
+    },
+    {
+      "name": "Monaco Nature Encyclopedia — Sempervivum tectorum",
+      "url": "https://www.monaconatureencyclopedia.com/sempervivum-tectorum/?lang=en"
+    },
+    {
+      "name": "ASPCA Animal Poison Control — Toxic and Non-Toxic Plants: Hens and Chickens",
+      "url": "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/hens-and-chickens"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      1
+    ],
+    "sun": [
+      1,
+      2
+    ],
+    "water": [
+      1,
+      2
+    ],
+    "spread": [
+      1
+    ],
+    "seasons": [
+      1,
+      2
+    ],
+    "wildlife": [
+      1
+    ],
+    "deer": [
+      1
+    ],
+    "toxic": [
+      1,
+      3
+    ],
+    "origin": [
+      2
+    ],
+    "habitat": [
+      2
+    ]
+  },
+  "shots": [
+    {
+      "local": "images/su-rosette-t.jpg",
+      "full": "images/su-rosette.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/291228419/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — a single hen rosette of green, red-tipped leaves · © erythro07 (CC-BY-NC) / iNaturalist",
+      "by": "erythro07",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/168069200"
+    },
+    {
+      "local": "images/su-mat-t.jpg",
+      "full": "images/su-mat.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/194633367/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — hen-and-chicks mat spreading across a rocky surface · © Felicia Seichter (CC-BY) / iNaturalist",
+      "by": "Felicia Seichter",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/115305408"
+    },
+    {
+      "local": "images/su-flower-t.jpg",
+      "full": "images/su-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/150419176/large.jpg",
+      "s": "summer",
+      "cap": "Summer — face-on star-shaped pink flowers on the monocarpic flower stalk · © Ben Costamagna (CC-BY) / iNaturalist",
+      "by": "Ben Costamagna",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/90977323"
+    },
+    {
+      "local": "images/su-bloom-t.jpg",
+      "full": "images/su-bloom.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550545131/large.jpg",
+      "s": "summer",
+      "cap": "Summer — flowering stalk with star-shaped pink blooms in a rocky garden setting · © Marcello Manara (CC-BY) / iNaturalist",
+      "by": "Marcello Manara",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/305349988"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/166048488/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — close-up of a single rosette showing the succulent leaf arrangement · © Eleftherios Katsillis (CC-BY) / iNaturalist",
+      "by": "Eleftherios Katsillis",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/99590818"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/513305323/large.jpg",
+      "s": "summer",
+      "cap": "Summer — mat colony of rosettes in a rocky garden setting · © Marcello Manara (CC-BY) / iNaturalist",
+      "by": "Marcello Manara",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/285568318"
+    },
+    {
+      "local": "images/wi-winter-t.jpg",
+      "full": "images/wi-winter.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/177245867/large.jpeg",
+      "s": "winter",
+      "cap": "Winter — rosettes bronzed and reddened by cold on a rocky hillside · © Gerrit Öhm (CC-BY-NC) / iNaturalist",
+      "by": "Gerrit Öhm",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/105617519"
+    },
+    {
+      "local": "images/wi-winter2-t.jpg",
+      "full": "images/wi-winter2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/454929179/large.jpeg",
+      "s": "winter",
+      "cap": "Winter — reddened hens-and-chicks mat on rocky alpine substrate in cold · © Marek Hrušovský (CC-BY) / iNaturalist",
+      "by": "Marek Hrušovský",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/254027989"
+    }
+  ]
+}

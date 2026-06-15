@@ -1,0 +1,70 @@
+[
+  {
+    "file": "images/sp-flower.jpg",
+    "photo_id": 179338187,
+    "by": "mossmaeven",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/106720511",
+    "dataset": "iNaturalist open data",
+    "full_px": [
+      1050,
+      1400
+    ]
+  },
+  {
+    "file": "images/sp-bloom.jpg",
+    "photo_id": 132437106,
+    "by": "dataecologist",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/80786462",
+    "dataset": "iNaturalist open data"
+  },
+  {
+    "file": "images/sp-habit.jpg",
+    "photo_id": 207102316,
+    "by": "Judith Ellen Lopez",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/122330457",
+    "dataset": "iNaturalist open data"
+  },
+  {
+    "file": "images/su-stem.jpg",
+    "photo_id": 328762236,
+    "by": "no rights reserved",
+    "license": "CC0",
+    "source": "https://www.inaturalist.org/observations/187928726",
+    "dataset": "iNaturalist open data"
+  },
+  {
+    "file": "images/sp-near.jpg",
+    "photo_id": 513852822,
+    "by": "Christopher David Benda",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/285862521",
+    "dataset": "iNaturalist open data"
+  },
+  {
+    "file": "images/su-fruit.jpg",
+    "photo_id": 418307702,
+    "by": "Alison Anastasio",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/235234218",
+    "dataset": "iNaturalist open data"
+  },
+  {
+    "file": "images/sp-far.jpg",
+    "photo_id": 383768005,
+    "by": "Rea Orthner",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/216965895",
+    "dataset": "iNaturalist open data"
+  },
+  {
+    "file": "images/wi-winter.jpg",
+    "photo_id": 247597546,
+    "by": "Trevor Harding",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/observations/144279729",
+    "dataset": "iNaturalist open data"
+  }
+]

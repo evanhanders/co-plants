@@ -22,6 +22,11 @@
   "toxic": "Not toxic; berries technically edible but mealy and astringent — more wildlife food than human food",
   "winter": true,
   "verified": "2026-06-03",
+  "ph": {
+    "min": 5.5,
+    "ideal": 6.0,
+    "max": 7.0
+  },
   "care": {
     "hardiness": "USDA zones 3a–7b — extremely cold-hardy, native to alpine and subalpine zones throughout Colorado. Handles Boulder's 5b–6a winters with no protection. The evergreen foliage persists under snow and emerges unscathed in spring.[1][2]",
     "planting": "Plant container-grown transplants in spring (April–May) or early fall (September) — spring is preferred so plants have a full season to root before their first winter. Kinnikinnick is notoriously slow to establish and strongly dislikes transplanting: set plants in their permanent spot, disturb the root ball as little as possible, and water in well. Mulch with coarse grit or wood chips to retain moisture during the establishment year. In containers, use a lean, acidic, well-draining potting mix (add 20–30% perlite); pots dry much faster than in-ground plantings in Colorado's arid climate, so check moisture every day in summer heat. Kinnikinnick rarely thrives long-term in pots and is best treated as a permanent in-ground plant. If you must overwinter a container plant, move it to a sheltered, unheated space — roots in small pots are far more vulnerable to freezing than in-ground roots.[2]",
@@ -67,6 +72,10 @@
     "toxic": [
       1,
       4
+    ],
+    "ph": [
+      1,
+      2
     ]
   },
   "edible": {

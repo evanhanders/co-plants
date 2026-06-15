@@ -16,6 +16,11 @@
   "flower_color": [],
   "bloom": [],
   "verified": "2026-06-07",
+  "ph": {
+    "min": 6.0,
+    "ideal": 7.0,
+    "max": 8.0
+  },
   "shots": [
     {
       "local": "images/su-habit-t.jpg",
@@ -146,6 +151,10 @@
       3
     ],
     "toxic": [
+      3
+    ],
+    "ph": [
+      1,
       3
     ]
   }

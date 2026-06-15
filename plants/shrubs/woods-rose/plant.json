@@ -22,6 +22,11 @@
   "toxic": "",
   "winter": true,
   "verified": "2026-05-31",
+  "ph": {
+    "min": 5.6,
+    "ideal": 6.5,
+    "max": 7.5
+  },
   "care": {
     "hardiness": "USDA zones 3–8 — among the hardiest wild roses in North America. Native from the plains to above 11,000 ft elevation, it shrugs off Front Range winters with no protection. Canes may die back to the snowline in a brutal winter but the root system is indestructible and regrows vigorously.[1][2]",
     "sun": "Full sun for best flowering and densest growth. It tolerates light to moderate shade — woodland-edge plants bloom adequately — but open, sunny exposures give the most flowers and hips.[1][2]",
@@ -68,6 +73,10 @@
     "toxic": [
       2,
       3
+    ],
+    "ph": [
+      1,
+      2
     ]
   },
   "edible": {

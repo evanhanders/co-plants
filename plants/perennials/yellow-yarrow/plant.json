@@ -25,6 +25,11 @@
   "verified": "2026-06-03",
   "origin": "Garden hybrid; parent species (A. clypeolata, A. taygetea) from SE Europe and W Asia",
   "habitat": "Rocky, dry slopes and open grassland in the eastern Mediterranean and Aegean",
+  "ph": {
+    "min": 6.0,
+    "ideal": 6.8,
+    "max": 8.0
+  },
   "care": {
     "hardiness": "USDA zones 3–8; extremely cold-hardy and reliable on the Front Range (zones 5b–6a). The silvery foliage often remains semi-evergreen through mild Boulder winters, greening up reliably in early spring.[1][2]",
     "planting": "Plant in-ground in spring (April–May) or early fall (September). Well-drained soil is essential — yarrow planted in wet, compacted clay will rot over winter. Amend heavy clay with coarse grit or pea gravel, or site on a raised bed. In containers, use a well-drained mix; containers dry out quickly in Front Range heat and wind, so check moisture every few days in summer. Overwinter containers in a sheltered spot or sink the pot into the ground with a light mulch over the rim — roots in pots are less cold-hardy than in-ground crowns.[1][2]",
@@ -74,6 +79,9 @@
       1
     ],
     "habitat": [
+      1
+    ],
+    "ph": [
       1
     ]
   },

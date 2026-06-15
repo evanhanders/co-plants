@@ -23,6 +23,11 @@
   "verified": "2026-06-04",
   "origin": "Europe to N Iraq (W Asia); cultivar bred at Univ. of Minnesota",
   "habitat": "Forest margins and scrubby hillsides across Europe and W Asia",
+  "ph": {
+    "min": 6.0,
+    "ideal": 6.8,
+    "max": 8.0
+  },
   "shots": [
     {
       "local": "images/sp-flowers-t.jpg",
@@ -153,6 +158,9 @@
       3
     ],
     "habitat": [
+      3
+    ],
+    "ph": [
       3
     ]
   },

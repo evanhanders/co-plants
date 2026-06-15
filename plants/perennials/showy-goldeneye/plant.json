@@ -22,6 +22,11 @@
     "fall"
   ],
   "verified": "2026-06-07",
+  "ph": {
+    "min": 6.5,
+    "ideal": 7.4,
+    "max": 8.0
+  },
   "shots": [
     {
       "local": "images/su-flower-t.jpg",
@@ -157,6 +162,9 @@
       1
     ],
     "toxic": [
+      1
+    ],
+    "ph": [
       1
     ]
   },

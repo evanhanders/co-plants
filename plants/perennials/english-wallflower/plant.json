@@ -27,6 +27,11 @@
   "verified": "2026-06-04",
   "origin": "Southern Europe — Mediterranean coasts and rocky hillsides",
   "habitat": "Rocky coastal cliffs, old walls, and dry Mediterranean scrub",
+  "ph": {
+    "min": 6.5,
+    "ideal": 7.0,
+    "max": 7.8
+  },
   "shots": [
     {
       "local": "images/sp-flowers-t.jpg",
@@ -158,6 +163,10 @@
       2
     ],
     "habitat": [
+      2
+    ],
+    "ph": [
+      1,
       2
     ]
   },

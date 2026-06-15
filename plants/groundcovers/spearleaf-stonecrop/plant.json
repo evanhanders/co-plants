@@ -21,6 +21,11 @@
   "toxic": "",
   "winter": true,
   "verified": "2026-06-13",
+  "ph": {
+    "min": 6.0,
+    "ideal": 6.8,
+    "max": 7.5
+  },
   "care": {
     "hardiness": "Hardy to USDA zone 3–4 — one of the cold-hardiest succulents in the Rocky Mountain flora. Overwinters outdoors throughout Colorado with no protection. The plant is native to high-elevation sites, where it endures temperatures well below -20°F under snow. In containers, roots are more exposed; in severe cold (-20°F or colder) a pot against a south-facing wall or brought into an unheated garage is prudent.[2][3]",
     "planting": "Plant in spring (late Apr–May) once the soil has thawed, or in early fall (Aug–Sep) to give roots time to settle before freeze-up. The non-negotiable requirement is sharp drainage — choose a rock garden, gravelly slope, dry stone wall crevice, or raised bed top-dressed with pea gravel or crushed granite. Avoid clay flats where water pools. Space transplants 6–12 in apart; they will slowly knit together into a dense mat. In containers, use a cactus/succulent mix and a pot with drainage holes; water rarely and reduce watering entirely from October through April.[2][3]",
@@ -62,6 +67,10 @@
       2
     ],
     "deer": [
+      3
+    ],
+    "ph": [
+      2,
       3
     ]
   },

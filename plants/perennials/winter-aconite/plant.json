@@ -25,6 +25,11 @@
   "habitat": "Moist deciduous woodland on calcareous (alkaline limestone) soils",
   "winter": true,
   "verified": "2026-06-06",
+  "ph": {
+    "min": 6.0,
+    "ideal": 7.2,
+    "max": 8.0
+  },
   "care": {
     "hardiness": "USDA zones 3a–7b — cold-hardy and reliably perennial throughout the Front Range. Established colonies in Boulder's zone 5b–6a climate require no winter protection.[1][2]",
     "planting": "Plant dry tubers in late summer to early fall (August–September), before the ground freezes. Eranthis tubers are notoriously shriveled when sold and establish poorly if planted dry — soak them in water for 24–48 hours before planting, or lay them in moist sand or peat moss for a few days to rehydrate.[2] Set tubers 2–3 in. deep and 3 in. apart. Choose a spot under deciduous trees or in a lightly shaded border where soil stays slightly moist in late winter and early spring; this matches the plant's woodland-edge origin on calcareous European hillsides. Boulder's alkaline clay is actually well-suited to this lime-loving plant — amend planting pockets with compost or leaf mould to improve organic content and moisture retention. Avoid waterlogged ground in winter, which rots tubers. In containers, use a humus-rich mix in a deep pot; overwinter in an unheated garage or cold frame and allow the pot to experience winter chill for good bloom.[1][2]",
@@ -86,6 +91,9 @@
       1
     ],
     "habitat": [
+      1
+    ],
+    "ph": [
       1
     ]
   },

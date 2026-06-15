@@ -23,6 +23,11 @@
   "toxic": "",
   "winter": true,
   "verified": "2026-05-31",
+  "ph": {
+    "min": 5.5,
+    "ideal": 7.0,
+    "max": 7.8
+  },
   "care": {
     "hardiness": "USDA zones 3–7 — exceptionally cold-hardy and one of the most reliable natives for the Front Range. The species handles both hard winters and late spring frosts without damage; named cultivars (e.g., 'Cardinal', 'Arctic Fire', 'Flaviramea') share this hardiness.[1][2]",
     "sun": "Full sun to part shade. Stem color is most vivid — true fire-engine red — when the shrub gets 6+ hours of direct sun. It grows and blooms fine in part shade but the winter stem display is somewhat duller. Avoid deep shade, which also increases disease.[1]",
@@ -68,6 +73,9 @@
     "toxic": [
       2,
       4
+    ],
+    "ph": [
+      1
     ]
   },
   "edible": {

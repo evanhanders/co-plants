@@ -25,6 +25,11 @@
   "verified": "2026-06-06",
   "origin": "South-central US (Ozark Plateau: MO, AR, OK) — N. American native, not native to CO",
   "habitat": "Rocky streambanks, gravel bars & moist riparian woodland",
+  "ph": {
+    "min": 4.5,
+    "ideal": 5.5,
+    "max": 6.5
+  },
   "care": {
     "hardiness": "USDA zones 3–8 — extremely cold-hardy for a late-winter bloomer. On the Front Range (zones 5b–6a) it is fully reliable with no protection needed; the flower buds are frost-tough and the petals reflex in hard freezes and re-expand on warm days — a key ecological adaptation.[1]",
     "planting": "Plant in early spring (April) or early fall (September) when the soil is workable and temperatures are mild — the same windows CSU recommends for any woody shrub in Colorado. Dig the hole twice as wide as the container and the same depth; amend heavy clay generously with compost to improve water retention and drainage, since witch hazel's riparian origins mean it wants moisture-retentive but not waterlogged soil. Settle the rootball so the root flare is at grade, backfill, water deeply, and mulch 3–4 inches to conserve moisture. Container stock establishes reliably; avoid fall planting if it will be left in a pot above ground — the roots are far less cold-hardy than the crown and a large container set out in winter needs sheltering or sinking.[1][2]",
@@ -74,6 +79,9 @@
     "habitat": [
       1,
       2
+    ],
+    "ph": [
+      1
     ]
   },
   "edible": {

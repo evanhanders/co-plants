@@ -27,6 +27,11 @@
   "verified": "2026-06-03",
   "origin": "Mediterranean Europe, W. Asia, and Africa (widespread Old World)",
   "habitat": "Dry grasslands, scrub, and rocky ground on calcareous soils",
+  "ph": {
+    "min": 6.0,
+    "ideal": 7.0,
+    "max": 7.8
+  },
   "care": {
     "hardiness": "Hardy to USDA zone 5 — reliable across the Front Range (zones 5b–6a). Excellent cold tolerance combined with heat tolerance makes it unusually well-suited to Colorado's wide temperature swings. The compact cultivar 'Butterfly Blue' (Perennial Plant of the Year 2000) and 'Pink Mist' are the best-proven Front Range selections. Intolerant of wet winter soil; sharp drainage is critical for winter survival.[1][2]",
     "planting": "Plant in spring (Apr–May) or early fall (Sep) from nursery transplants. Spring is the most common approach; early fall planting works well in Boulder and lets roots establish before cold. Average, well-drained soil is all it needs — no special soil prep required. In containers, pincushion flower performs well as a seasonal display plant; overwinter pots in a protected spot or move them to an unheated garage, as exposed roots in a pot are far less cold-hardy than in-ground plants.[1][2]",
@@ -76,6 +81,9 @@
     ],
     "habitat": [
       1
+    ],
+    "ph": [
+      2
     ]
   },
   "edible": {

@@ -26,6 +26,11 @@
   "verified": "2026-06-06",
   "origin": "European Alps and N. Apennines (Austria, Switzerland, Italy, Slovenia)",
   "habitat": "Mountain woodland and scrub on limestone, in part to full shade",
+  "ph": {
+    "min": 6.0,
+    "ideal": 7.2,
+    "max": 8.0
+  },
   "care": {
     "hardiness": "USDA zones 3a–8b — reliably winter-hardy through the harshest Front Range winters; the crown is deep and cold-tolerant. However, *H. niger* is more cold-sensitive than the hybrid Lenten roses (*H. × hybridus*) and benefits from a sheltered spot (north or east side of a wall or fence, or under a deciduous tree) that shields it from the desiccating winds and intense reflected sun of a Boulder winter.[1]",
     "planting": "Plant in spring (Apr–May) or early fall (Sep) from container-grown stock. Choose the permanent site carefully — Christmas rose has a fleshy root system and strongly resents being moved once established; transplanting a settled clump often sets it back by 2 or more years. Site it in part to full shade with consistently moist, organically enriched soil. A north- or east-facing bed, or a spot under high-canopy deciduous trees, provides the ideal combination of winter protection and reliable shade. In a container, use a rich, well-draining potting mix in a large pot (at least 12 in diameter); place the pot in a sheltered, partly shaded spot year-round and water regularly — containers dry out faster than the ground and the plant will not tolerate dry-out. Move to a protected but unheated spot if temperatures will drop below −10°F for extended periods.[1]",
@@ -75,6 +80,9 @@
       1
     ],
     "habitat": [
+      1
+    ],
+    "ph": [
       1
     ]
   },

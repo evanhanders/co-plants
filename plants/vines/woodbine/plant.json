@@ -16,6 +16,11 @@
   "flower_color": [],
   "bloom": [],
   "verified": "2026-06-07",
+  "ph": {
+    "min": 5.5,
+    "ideal": 7.0,
+    "max": 8.0
+  },
   "care": {
     "hardiness": "A wide-ranging North American native, very cold hardy (roughly USDA zone 3) and fully reliable through Boulder's zone 5b–6a winters; no protection needed.[1][2]",
     "planting": "Plant in spring or early fall against a fence, trellis, arbor, or large shrub it can clamber over. Because it twines and drapes rather than gluing to surfaces, give it something to weave through. It establishes easily and tolerates a wide range of sites. In a container use a roomy pot and water more often, but it is happiest in the ground.[1]",
@@ -59,6 +64,10 @@
     "toxic": [
       3,
       4
+    ],
+    "ph": [
+      1,
+      2
     ]
   },
   "edible": {

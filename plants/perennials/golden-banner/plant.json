@@ -23,6 +23,11 @@
   "toxic": "Foliage and seeds contain quinolizidine alkaloids — toxic if eaten; keep from children, pets, and livestock.",
   "winter": false,
   "verified": "2026-06-06",
+  "ph": {
+    "min": 6.0,
+    "ideal": 7.0,
+    "max": 8.0
+  },
   "shots": [
     {
       "local": "images/sp-flower-t.jpg",
@@ -148,6 +153,10 @@
     ],
     "toxic": [
       3
+    ],
+    "ph": [
+      1,
+      2
     ]
   },
   "edible": {

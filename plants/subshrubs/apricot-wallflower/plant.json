@@ -27,6 +27,11 @@
   "origin": "Southern Europe and the Mediterranean — garden hybrid of Erysimum cheiri parentage",
   "habitat": "Rocky coastal cliffs, old walls, and dry Mediterranean scrub",
   "gaps": "Photos are species-representative Erysimum (apricot-flowered forms) — no open-licensed photograph of the exact 'Apricot Twist'/'Sunset' cultivar exists on Commons/iNaturalist/GBIF/Openverse as of 2026-06; swap in a cultivar shot if one appears.",
+  "ph": {
+    "min": 6.0,
+    "ideal": 7.0,
+    "max": 7.8
+  },
   "shots": [
     {
       "local": "images/sp-flowers-t.jpg",
@@ -157,6 +162,10 @@
       2
     ],
     "habitat": [
+      2
+    ],
+    "ph": [
+      1,
       2
     ]
   },

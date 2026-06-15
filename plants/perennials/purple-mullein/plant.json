@@ -17,9 +17,21 @@
   "wildlife": "Bees, hoverflies, and butterflies work the open saucer flowers; an RHS Plants for Pollinators selection",
   "deer": "Resistant — fuzzy, slightly bitter leaves deter browsing",
   "toxic": "Not toxic to people or pets; leaf hairs can mildly irritate skin on contact",
-  "flower_color": ["purple", "pink", "white"],
-  "bloom": ["spring", "summer"],
+  "flower_color": [
+    "purple",
+    "pink",
+    "white"
+  ],
+  "bloom": [
+    "spring",
+    "summer"
+  ],
   "verified": "2026-06-11",
+  "ph": {
+    "min": 5.5,
+    "ideal": 7.0,
+    "max": 8.0
+  },
   "shots": [
     {
       "local": "images/su-flower-t.jpg",
@@ -145,15 +157,45 @@
     }
   ],
   "fact_src": {
-    "size": [1, 2],
-    "sun": [1, 2],
-    "water": [1, 2],
-    "spread": [1],
-    "seasons": [1, 2],
-    "wildlife": [2],
-    "deer": [1, 2],
-    "toxic": [1, 2],
-    "origin": [2],
-    "habitat": [2]
+    "size": [
+      1,
+      2
+    ],
+    "sun": [
+      1,
+      2
+    ],
+    "water": [
+      1,
+      2
+    ],
+    "spread": [
+      1
+    ],
+    "seasons": [
+      1,
+      2
+    ],
+    "wildlife": [
+      2
+    ],
+    "deer": [
+      1,
+      2
+    ],
+    "toxic": [
+      1,
+      2
+    ],
+    "origin": [
+      2
+    ],
+    "habitat": [
+      2
+    ],
+    "ph": [
+      1,
+      2
+    ]
   }
 }

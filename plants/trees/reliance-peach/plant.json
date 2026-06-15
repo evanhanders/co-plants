@@ -23,6 +23,11 @@
   "verified": "2026-06-04",
   "origin": "NW China (despite the species name); cultivated since antiquity",
   "habitat": "Mountain slopes and forest margins of N and NW China",
+  "ph": {
+    "min": 6.0,
+    "ideal": 6.5,
+    "max": 7.5
+  },
   "shots": [
     {
       "local": "images/sp-flowers-t.jpg",
@@ -144,6 +149,9 @@
     ],
     "habitat": [
       2
+    ],
+    "ph": [
+      1
     ]
   },
   "edible": {

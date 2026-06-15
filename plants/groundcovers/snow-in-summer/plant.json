@@ -24,6 +24,11 @@
   "verified": "2026-06-03",
   "origin": "Mountains of Italy and Sicily (C/S Europe)",
   "habitat": "Rocky alpine slopes, screes, and mountain meadows",
+  "ph": {
+    "min": 6.0,
+    "ideal": 7.0,
+    "max": 7.8
+  },
   "care": {
     "hardiness": "Hardy to USDA zone 3 — fully reliable across the entire Colorado Front Range (zones 5b–6a) and into the foothills. Evergreen foliage persists under snow and looks presentable into winter, though it's not grown primarily for winter interest.[1][2]",
     "planting": "Plant in spring (Apr–May) or early fall (Sep) from nursery transplants. Fall planting lets roots establish before summer heat — especially valuable in lean, gravelly beds where soil dries fast. In containers, the silver mat looks lovely in a pot but roots are exposed to temperature swings; overwinter containers in a cold but frost-protected spot (unheated garage) or sink the pot in the ground. Ensure sharp drainage in any container — standing water rots the crown.[1][2]",
@@ -73,6 +78,10 @@
       2
     ],
     "habitat": [
+      2
+    ],
+    "ph": [
+      1,
       2
     ]
   },

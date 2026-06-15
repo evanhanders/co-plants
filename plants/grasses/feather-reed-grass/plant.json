@@ -18,6 +18,11 @@
   "flower_color": [],
   "bloom": [],
   "verified": "2026-06-07",
+  "ph": {
+    "min": 5.5,
+    "ideal": 6.5,
+    "max": 7.5
+  },
   "shots": [
     {
       "local": "images/su-plumes-t.jpg",
@@ -146,6 +151,10 @@
     ],
     "habitat": [
       1
+    ],
+    "ph": [
+      1,
+      2
     ]
   }
 }

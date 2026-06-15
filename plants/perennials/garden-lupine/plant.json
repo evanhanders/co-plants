@@ -31,6 +31,11 @@
   "verified": "2026-06-03",
   "origin": "Western North America — Pacific coast from British Columbia to California (parent L. polyphyllus)",
   "habitat": "Moist meadows, stream banks, and open forest edges in Pacific mountain ranges",
+  "ph": {
+    "min": 5.5,
+    "ideal": 6.3,
+    "max": 7.0
+  },
   "care": {
     "hardiness": "USDA zones 4–8. The root crown survives Front Range winters reliably, but plants are often short-lived perennials (2–5 years even in ideal conditions) and tend to decline faster in hot, dry summers. Treat as a short-lived perennial or every-other-year replanting project rather than a permanent fixture. In zone 6a, mulch the crown lightly after hard frost in the first season.[1][2]",
     "planting": "Plant in spring (April–May) or early fall (September). Spring planting is preferred: set transplants outdoors after mid-April when soil is above 45°F, spacing 18–24 in. apart. Lupines have a deep taproot and resent disturbance once established, so plant where they will stay. For containers, use a deep (12+ in.) pot with well-drained, slightly acidic mix; pots dry out quickly and roots are less cold-hardy than in-ground plantings — shelter containers in a garage or cold frame over winter. Be realistic: lupines are at the hot/dry/alkaline edge of their comfort zone on the Front Range, and performance is more reliable in a favorable microclimate (east-facing, amended soil, reliable moisture) than in full south-facing heat and wind.[1][2]",
@@ -82,6 +87,10 @@
     ],
     "habitat": [
       1
+    ],
+    "ph": [
+      1,
+      2
     ]
   },
   "edible": {

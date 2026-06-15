@@ -26,6 +26,11 @@
   "verified": "2026-06-04",
   "origin": "South America — Andes of Peru and Colombia",
   "habitat": "Moist disturbed slopes and stream margins in Andean foothills",
+  "ph": {
+    "min": 6.0,
+    "ideal": 6.5,
+    "max": 7.5
+  },
   "care": {
     "hardiness": "A frost-tender warm-season annual (grown as an annual everywhere; USDA 2a–11b as a summer crop) — it is killed by the first hard frost, so on the Front Range treat it as a one-season plant sown after the mid-May last-frost date and pulled when fall frost blackens it.[3][1]",
     "planting": "Direct-sow in the ground after the danger of frost has passed — early to mid-May on the Front Range — because nasturtium resents transplanting and does poorly when its roots are disturbed.[2][1] In containers it grows beautifully (the trailing types spill from pots and window boxes); sow the seed straight into the pot at the same May timing in any well-drained potting mix, and remember pots dry out and overheat faster than ground beds in Boulder's intense summer sun, so site them where they get a little afternoon relief in a heat wave.[3][1]",
@@ -109,6 +114,9 @@
       3
     ],
     "habitat": [
+      3
+    ],
+    "ph": [
       3
     ]
   },

@@ -24,6 +24,11 @@
   "toxic": "",
   "winter": false,
   "verified": "2026-06-03",
+  "ph": {
+    "min": 6.5,
+    "ideal": 7.5,
+    "max": 8.2
+  },
   "care": {
     "hardiness": "Native across the Rocky Mountain states and High Plains from 700 to 8,500 ft elevation — easily hardy through USDA zone 3 and perfectly at home in Boulder's 5b–6a winters. No protection needed.[1][2]",
     "planting": "Set out transplants in spring (Apr–May) once the soil has warmed, or in early fall (Sep) to allow roots to establish before winter. This plant naturally grows in dry, exposed sites — avoid over-amending the soil or over-watering at planting. In containers, use a very lean, gritty mix and a deep pot; containers dry out quickly on the sunny Front Range and need checking every day or two. Container roots are much less cold-hardy than in-ground roots — sink the pot or move it to a sheltered, unheated space by late October.[1]",
@@ -64,6 +69,9 @@
     ],
     "toxic": [
       3
+    ],
+    "ph": [
+      1
     ]
   },
   "edible": {

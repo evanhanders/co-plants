@@ -26,6 +26,11 @@
   "habitat": "Disturbed, cultivated, and waste ground",
   "winter": false,
   "verified": "2026-06-06",
+  "ph": {
+    "min": 6.0,
+    "ideal": 6.8,
+    "max": 7.5
+  },
   "care": {
     "hardiness": "Grown as a cool-season annual — it tolerates light frost and even mild freezes far better than tender marigolds, but is not reliably perennial here; it completes its season in one year. It blooms best in the cool of spring and fall and slows or stops in the heat of midsummer.[1][3]",
     "planting": "Plant it early — calendula loves cool weather. Direct-sow in the garden a few weeks before the mid-May last frost (it tolerates light frost), or set out transplants in mid-spring; you can also sow a second crop in late summer for fall bloom. In Boulder's hot, dry midsummer, site it where it gets some afternoon shade to push it through the heat. In containers, use a free-draining mix in a pot with drainage holes; pots dry quickly in Front Range heat and wind, so water daily and consider an afternoon-shaded spot. It finishes at hard frost with no overwintering.[1][2][3]",
@@ -102,6 +107,9 @@
       3
     ],
     "habitat": [
+      1
+    ],
+    "ph": [
       1
     ]
   },

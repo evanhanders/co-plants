@@ -24,6 +24,11 @@
   "verified": "2026-06-03",
   "origin": "Garden hybrid of eastern-US and Great-Lakes native honeysuckles",
   "habitat": "Derived from woodland-edge and thicket parents of eastern North America",
+  "ph": {
+    "min": 6.0,
+    "ideal": 6.8,
+    "max": 8.0
+  },
   "care": {
     "hardiness": "USDA zones 4–9, and notably rated to zone 3 in its Canadian prairie origins — among the hardiest climbing honeysuckles available. Fully reliable on the Front Range (zone 5b–6a) with no die-back in normal winters. Mulch roots the first winter on exposed or windy sites.[1][3]",
     "planting": "Plant in spring (April–May) or early fall (September). Spring planting gives the vine a full season to root before its first Colorado winter. Dig the hole twice as wide as the root ball, set at the same depth, water in thoroughly, and attach stems to their support immediately. For containers, use a large pot (15+ gallons) with fast-draining mix; potted roots are less cold-tolerant than in-ground, so move the container to a sheltered, unheated garage or sink it against a foundation wall over winter.[4]",
@@ -71,6 +76,9 @@
       1
     ],
     "habitat": [
+      1
+    ],
+    "ph": [
       1
     ]
   },

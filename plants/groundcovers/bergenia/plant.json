@@ -22,6 +22,11 @@
     "spring"
   ],
   "verified": "2026-06-07",
+  "ph": {
+    "min": 5.5,
+    "ideal": 6.5,
+    "max": 7.5
+  },
   "care": {
     "hardiness": "Iron-hardy — reliable to about USDA zone 3, so it sails through Front Range winters (zones 5b–6a) and into the foothills. The big leathery leaves are truly evergreen, flushing burnished bronze-red in winter cold rather than dying back.[1][2]",
     "planting": "Plant from nursery divisions in spring (Apr–May) or early fall (Sep). It establishes well in the dry shade under trees and along shaded foundations and walls. Site it out of hot, drying afternoon wind and brutal full afternoon sun, which scorch the broad leaves on the Front Range. In a container the bold evergreen rosette is striking, but the crown is exposed to temperature swings — sink the pot or shelter it (unheated garage) over winter and keep drainage sharp.[1][2][3]",
@@ -89,6 +94,10 @@
     ],
     "habitat": [
       1
+    ],
+    "ph": [
+      1,
+      3
     ]
   },
   "shots": [

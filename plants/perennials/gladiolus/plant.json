@@ -29,6 +29,11 @@
   "habitat": "Summer-rainfall grassland and rocky slopes",
   "winter": false,
   "verified": "2026-06-06",
+  "ph": {
+    "min": 5.5,
+    "ideal": 6.5,
+    "max": 7.5
+  },
   "care": {
     "hardiness": "The large florist gladiolus is NOT winter-hardy on the Front Range — it is reliable only to about USDA zone 7–8, so in Boulder's zone 5b–6a the corms freeze and die if left in the ground. Grow it as a tender bulb: plant in spring, lift in fall, and store the corms frost-free over winter (see Planting). The exception is the hardy dwarf types (e.g. Gladiolus nanus / 'Nanus' hybrids), which can sometimes overwinter in the ground in zones 5–6 with a deep, dry mulch in a well-drained, sheltered spot.[1][2][3]",
     "planting": "Plant corms in spring AFTER the danger of frost has passed — roughly mid-May around Boulder — once the soil has warmed; set them 3–6 in. deep and about 6 in. apart in full sun and well-drained soil. To LIFT for winter: when frost blackens the tops in fall (or about six weeks after flowering), dig the corms, cut the foliage to a short stub, let them cure/dry in a warm airy place for a couple of weeks, then twist off and discard the old shriveled corm beneath the new plump one.[5] Store the cleaned corms dry and frost-free in a ventilated box of peat, vermiculite, or sawdust at about 35–50°F (a cool basement or unheated-but-frost-free space) over winter, checking for rot; replant after the next spring's last frost.[1][4][5] For containers, treat them the same — plant after frost, then lift and store the corms or simply bring the pot somewhere frost-free, as the corms can't survive a Front Range winter outdoors.[1][2][3]",
@@ -104,6 +109,9 @@
       3
     ],
     "habitat": [
+      3
+    ],
+    "ph": [
       3
     ]
   },

@@ -26,6 +26,11 @@
   "habitat": "Desert flats, washes, gravelly slopes & roadsides",
   "winter": false,
   "verified": "2026-06-06",
+  "ph": {
+    "min": 6.5,
+    "ideal": 7.5,
+    "max": 8.5
+  },
   "care": {
     "hardiness": "A Southwestern-desert native (a short-lived perennial or biennial that often behaves as an annual) hardy to roughly USDA zone 5–6; in Boulder it survives mild winters but is most reliable treated as a self-sowing short-lived perennial that renews itself from seed. Sharp drainage is the key to overwintering it here — wet winter clay is far more likely to kill it than cold.[1][2]",
     "planting": "Plant in spring after the last frost (mid-May in Boulder) into hot, lean, sharply drained ground — a gravel bed, rock garden, hot slope, or south wall is ideal. Work grit into Boulder's clay or plant on a raised, gritty mound; it rots in heavy wet soil. In containers use a fast-draining cactus/gritty mix in a terracotta pot, water sparingly, and expect to treat it as an annual or reseed it, since pot roots are far less cold-hardy.[1][2]",
@@ -89,6 +94,9 @@
     "habitat": [
       1,
       2
+    ],
+    "ph": [
+      1
     ]
   },
   "shots": [

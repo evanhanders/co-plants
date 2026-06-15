@@ -23,6 +23,11 @@
   "toxic": "Roots contain saponins — toxic to dogs, cats, and horses (vomiting, liver effects); mildly irritating to people; flowers and fruit are edible when prepared",
   "winter": true,
   "verified": "2026-06-13",
+  "ph": {
+    "min": 5.5,
+    "ideal": 7.0,
+    "max": 8.0
+  },
   "care": {
     "hardiness": "Hardy to USDA zone 4a (to approximately −30°F) — one of the most cold-tolerant xeric shrubs on the Front Range. Yucca glauca is native to the Great Plains and foothills, and the Front Range (zones 5b–6a) is squarely in its comfort zone. Unlike most ornamentals, it actually thrives in the cold-dry winters typical of Colorado.[1][2]",
     "planting": "Plant in spring or early fall in a site with full sun and sharply drained soil — Yucca glauca establishes readily once placed correctly. Choose a permanent location away from pathways and play areas (the leaf tips are genuinely spine-sharp and can draw blood). In containers, the evergreen form is striking, but the exposed roots are vulnerable to freeze-thaw; overwinter containers in a cold but dry, frost-protected space (an unheated garage) or mulch heavily. Amend heavy clay sites with coarse grit to improve drainage before planting, or plant on a slope or raised bed.[2]",
@@ -98,6 +103,10 @@
     "toxic": [
       2,
       4
+    ],
+    "ph": [
+      1,
+      2
     ]
   },
   "shots": [

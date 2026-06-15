@@ -22,6 +22,11 @@
   "toxic": "Berries mildly toxic to humans if eaten in quantity; not known to harm birds or wildlife",
   "winter": false,
   "verified": "2026-06-03",
+  "ph": {
+    "min": 5.5,
+    "ideal": 6.8,
+    "max": 8.0
+  },
   "care": {
     "hardiness": "Hardy to USDA zone 4 — native across Colorado's mountains and foothills including the Front Range, thriving from plains level to ~9,500 ft. No winter protection needed.[1][2]",
     "planting": "Plant container-grown shrubs in spring (Apr–May) or early fall (Sep) to allow root establishment before heat or hard frost. This shrub is most at home along streambanks, pond edges, and irrigated borders; give it the most reliably moist spot in the yard. In pots it dries out quickly and performs poorly — plant it in the ground where you can keep its roots consistently moist. Mulch 3–4 in deep to retain soil moisture.[1]",
@@ -64,6 +69,10 @@
     "toxic": [
       2,
       3
+    ],
+    "ph": [
+      1,
+      2
     ]
   },
   "edible": {

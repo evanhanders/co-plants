@@ -25,6 +25,11 @@
   "verified": "2026-06-04",
   "origin": "Central & northern Europe and northern Asia",
   "habitat": "Damp, fertile woods and stream sides on moist ground",
+  "ph": {
+    "min": 5.5,
+    "ideal": 6.5,
+    "max": 7.0
+  },
   "care": {
     "hardiness": "USDA zones 3–7 — fully hardy on the Front Range (5b–6a) and croppable in Colorado to high elevation. 'Ben Sarek' is a compact, densely branched selection (a 'Goliath' × 'Ojebyn' cross) that stays around 3–4 ft, handy for small gardens.[1][2]",
     "planting": "Plant dormant bare-root or container bushes in early spring, setting the crown about 2 in below the soil line to encourage strong new canes from the base; container stock can also go in during early fall. Black currant is the thirstiest of the Ribes and resents drying out, so give it your most reliably moist spot. It can spend a season in a large pot, but containers dry fast in Boulder's sun and wind and their roots freeze far harder than the zone-3 wood does in the ground — sink or insulate the pot and water diligently, then move it into open ground for best cropping.[1][4][2]",
@@ -77,6 +82,11 @@
     ],
     "habitat": [
       5
+    ],
+    "ph": [
+      1,
+      4,
+      2
     ]
   },
   "edible": {

@@ -23,6 +23,11 @@
   "verified": "2026-06-03",
   "origin": "South-central US Great Plains (Nebraska to Texas, east to Tennessee)",
   "habitat": "Limestone glades, bluffs, rocky prairies, and hillsides",
+  "ph": {
+    "min": 6.0,
+    "ideal": 7.2,
+    "max": 8.0
+  },
   "care": {
     "hardiness": "USDA zones 4–8; fully cold-hardy on the Front Range (zones 5b–6a). Dies to the ground each winter and reliably re-emerges in spring. The key to longevity here is sharp drainage — wet winter soil is more dangerous than cold.[1][2]",
     "planting": "Plant in-ground in spring (April–May, after last frost) or early fall (September). Good drainage is the single most critical factor — amend heavy clay generously with coarse grit or pea gravel, or site it on a slope, raised bed, or berm. Avoid low spots where water collects. In containers, use a gritty cactus or alpine mix; containers dry fast in Boulder's wind and sun, so check moisture regularly in summer heat. Overwintering in pots is tricky — roots are less cold-hardy than in-ground; sink the pot into the ground or store in an unheated but frost-free space, keeping the mix just barely dry.[1][2]",
@@ -72,6 +77,9 @@
       1
     ],
     "habitat": [
+      1
+    ],
+    "ph": [
       1
     ]
   },

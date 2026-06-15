@@ -27,6 +27,11 @@
   "verified": "2026-06-06",
   "origin": "Mediterranean basin and Macaronesia (Canary Islands, Azores)",
   "habitat": "Coastal sands, sea cliffs, and rocky shores",
+  "ph": {
+    "min": 6.0,
+    "ideal": 6.8,
+    "max": 7.5
+  },
   "care": {
     "hardiness": "Sweet alyssum is a cool-season annual, technically hardy to USDA zone 5a in the ground but killed by hard frost when young; established plants can tolerate light frost once rooted. On the Front Range it behaves as a warm-season annual planted in mid-spring, blooms best in cool temperatures below about 75°F, slows or stalls in Boulder's intense July–August heat, then reblooms in September–October as temperatures drop again.[1][2]",
     "planting": "In the ground, start seeds indoors 5–6 weeks before last frost (early April on the Front Range) or direct-sow after danger of heavy frost — the tiny seeds need light to germinate, so press them to the soil surface rather than burying them. Transplant carefully as alyssum resents root disturbance. In containers, it excels as a cascading filler; sow or transplant in mid-April through May. Pot up in well-drained potting mix, place in full sun or light afternoon shade (which extends bloom in Boulder's intense summer heat), and move the pot out of the weather on nights below 28°F in early spring. Containers dry out quickly; check daily in summer heat.[1][2]",
@@ -88,6 +93,9 @@
       1
     ],
     "habitat": [
+      1
+    ],
+    "ph": [
       1
     ]
   },

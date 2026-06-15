@@ -18,6 +18,11 @@
   "winter": false,
   "verified": "2026-06-06",
   "gaps": "No clean open-licensed acorn close-up found; acorns are described but the reel shows foliage, habit, and fall color.",
+  "ph": {
+    "min": 6.0,
+    "ideal": 7.2,
+    "max": 8.2
+  },
   "shots": [
     {
       "local": "images/su-foliage-t.jpg",
@@ -163,6 +168,10 @@
       2
     ],
     "deer": [
+      1,
+      2
+    ],
+    "ph": [
       1,
       2
     ]

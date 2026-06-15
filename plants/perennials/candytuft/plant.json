@@ -23,6 +23,11 @@
   "verified": "2026-06-03",
   "origin": "S. Europe — Iberian Peninsula east to Turkey and NW Africa",
   "habitat": "Sunny rocky slopes, walls, and dry Mediterranean scrubland",
+  "ph": {
+    "min": 6.5,
+    "ideal": 7.0,
+    "max": 7.5
+  },
   "care": {
     "hardiness": "USDA zones 3–8; fully cold-hardy on the Front Range (5b–6a) and holds its evergreen foliage through Boulder winters without protection. The woody base is more cold-hardy than the soft tips — a late hard frost after bud break can brown shoot tips, but the plant recovers.[1][2]",
     "planting": "Plant in-ground in spring (late April–May, after the last hard frost) or in early fall (September) so roots establish before freeze-up. Fall planting is ideal for Front Range clay soils — cooler temps and autumn moisture let roots settle without summer heat stress. In containers, plant in spring; candytuft in pots dries out faster than in-ground and the roots are less cold-hardy — water more frequently in summer heat and overwinter pots in an unheated garage or sink them into the ground to protect the root zone from freeze-thaw cycles.[1]",
@@ -70,6 +75,10 @@
     ],
     "habitat": [
       1
+    ],
+    "ph": [
+      1,
+      2
     ]
   },
   "edible": {

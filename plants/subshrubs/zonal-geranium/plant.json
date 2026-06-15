@@ -29,6 +29,11 @@
   "verified": "2026-06-04",
   "origin": "South Africa (Cape region) — garden hybrid of P. zonale and P. inquinans",
   "habitat": "Rocky hillsides and scrubby coastal slopes of the South African Cape",
+  "ph": {
+    "min": 6.0,
+    "ideal": 6.5,
+    "max": 7.8
+  },
   "care": {
     "hardiness": "A tender South African hybrid hardy only to about USDA zones 10–11, so on the Front Range (Boulder, ~5b–6a) it is grown as a warm-season annual or kept alive over winter indoors — any frost kills it.[1][2]",
     "planting": "Wait until danger of frost is past — after mid-May on the Front Range — and night temperatures stay above ~50°F before setting plants out in the ground or in containers. In beds, give it the hottest, sunniest spot; in pots, window boxes, and hanging baskets it excels and is easiest to bring through winter. To overwinter, before the first fall frost either take stem cuttings and root them on a bright cool windowsill, lift whole plants into pots and keep them in a bright, cool (50–60°F) room, cut back and barely watered, or store dormant plants nearly bare-root in a cool, dark basement and replant in spring.[1][3]",
@@ -75,6 +80,9 @@
       1
     ],
     "habitat": [
+      1
+    ],
+    "ph": [
       1
     ]
   },

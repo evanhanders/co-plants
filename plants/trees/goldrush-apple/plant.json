@@ -25,6 +25,11 @@
   "verified": "2026-06-04",
   "origin": "Central Asia and Afghanistan; cultivar bred in North America",
   "habitat": "Wild fruit-tree forests and mountain slopes of Central Asia",
+  "ph": {
+    "min": 5.5,
+    "ideal": 6.5,
+    "max": 8.0
+  },
   "shots": [
     {
       "local": "images/sp-flowers-t.jpg",
@@ -184,6 +189,9 @@
       4
     ],
     "habitat": [
+      4
+    ],
+    "ph": [
       4
     ]
   },

@@ -24,6 +24,11 @@
   "toxic": "Mature seeds and roots contain cyanogenic glycosides and are poisonous if eaten in quantity; the flowers were historically nibbled for their sweet nectar in tiny amounts but are not a safe food",
   "winter": false,
   "verified": "2026-06-01",
+  "ph": {
+    "min": 6.0,
+    "ideal": 6.8,
+    "max": 7.5
+  },
   "care": {
     "hardiness": "Hardy to at least USDA Zone 3 — fully winter-hardy across the Front Range (Zone 5b–6a). It is native to Colorado's mountains from about 6,000 to 11,500 ft, so cold winters are no problem. The foliage dies back to the ground after frost and re-emerges in early spring. Mulch roots lightly in exposed, wind-swept spots on the open plains.[1]",
     "sun": "Part shade to full sun, with afternoon protection preferred at lower Front Range elevations. Below about 6,500 ft the intense afternoon sun can scorch the lacy foliage and hasten dormancy — plant on the east side of a structure, under high-branched trees, or with a taller perennial to the west. In cooler mountain gardens or north-facing slopes, full sun is fine. The rule of thumb: the hotter and drier the site, the more afternoon shade it needs.[1]",
@@ -67,6 +72,9 @@
     "toxic": [
       2,
       3
+    ],
+    "ph": [
+      1
     ]
   },
   "edible": {

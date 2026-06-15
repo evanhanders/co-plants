@@ -24,6 +24,11 @@
   "toxic": "Milky sap irritates skin/eyes — wear gloves; caution with kids/pets",
   "winter": false,
   "verified": "2026-05-28",
+  "ph": {
+    "min": 6.5,
+    "ideal": 7.3,
+    "max": 8.0
+  },
   "care": {
     "hardiness": "Hardy to at least USDA Zone 4 (possibly Zone 3), so entirely winter-hardy across Boulder and the Front Range (Zone 5b–6a). The top growth dies back fully in fall; the rhizomatous root system overwinters without any protection and re-sprouts reliably each spring.[1]",
     "sun": "Full sun is ideal — 6+ hours of direct light keeps growth compact and blooming freely. It will tolerate part shade but tends to get a bit leggier in lower light. At high altitude or on hot, south-facing slopes it shines; on the plains full sun is fine as long as drainage is good.[1]",
@@ -65,6 +70,9 @@
     "toxic": [
       2,
       3
+    ],
+    "ph": [
+      1
     ]
   },
   "edible": {

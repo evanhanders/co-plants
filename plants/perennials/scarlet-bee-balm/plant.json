@@ -25,6 +25,11 @@
   "verified": "2026-06-01",
   "origin": "Eastern North America — Appalachians south to Georgia, north to New York",
   "habitat": "Moist streambanks, rich woodland edges, and wet meadows",
+  "ph": {
+    "min": 5.5,
+    "ideal": 6.5,
+    "max": 7.5
+  },
   "care": {
     "hardiness": "USDA zones 4–9 — fully winter-hardy on the Front Range (5b–6a). The rhizomes go fully dormant after frost and re-sprout reliably in spring. No special winter mulching is needed in Boulder.[1]",
     "sun": "Full sun to part shade. In the dry, high-altitude Front Range climate, afternoon shade (3–4 hours) can actually help reduce moisture stress and moderate mildew-promoting heat, though full sun with consistent irrigation is the classic recommendation. Avoid deep shade — it reduces bloom and worsens mildew.[1][2]",
@@ -76,6 +81,9 @@
       1
     ],
     "habitat": [
+      1
+    ],
+    "ph": [
       1
     ]
   },

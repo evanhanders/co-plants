@@ -15,9 +15,20 @@
   "wildlife": "Self-pollinating but bumblebees visit; a nitrogen-fixing legume that enriches the soil for follow-on crops",
   "deer": "Not reliably deer-resistant — tender new growth and pods may be browsed; bird netting also protects seedlings from pigeons",
   "toxic": "Edible and non-toxic; do not confuse with ornamental sweet pea (Lathyrus odoratus), a separate plant in this guide that is toxic",
-  "flower_color": ["white", "purple"],
-  "bloom": ["spring", "summer"],
+  "flower_color": [
+    "white",
+    "purple"
+  ],
+  "bloom": [
+    "spring",
+    "summer"
+  ],
   "verified": "2026-06-09",
+  "ph": {
+    "min": 6.0,
+    "ideal": 6.5,
+    "max": 8.0
+  },
   "care": {
     "hardiness": "Grown as a cool-season annual — seedlings tolerate light frost and germinate in soil as cold as 40°F, but the plant completes its life in one season and declines abruptly once temperatures push past about 85°F.[1][2] On the Front Range (USDA zones 5b–6a), this means a spring window of roughly March–June before the summer heat ends the show.[1]",
     "planting": "Direct-sow as early as late February to March on the Front Range — peas are among the first things into the garden, as soon as the soil is workable (not frozen solid or waterlogged). Seedlings tolerate light frosts, and cool soil actually suits them; trying to time them after the last frost date means missing their best growing window. Sow at the base of a trellis, netting, or teepee — they must have something to grip. A second sowing in mid-July can yield a small fall crop before killing frost in October. In containers, use a pot at least 12 inches deep and a free-draining mix, water consistently (containers dry fast in Front Range wind and heat), and keep roots shaded; potted peas finish even sooner when summer heat arrives.[1][2]",
@@ -37,7 +48,11 @@
   "edible": {
     "level": "edible",
     "food": true,
-    "kinds": ["seeds", "fruit", "leaves"],
+    "kinds": [
+      "seeds",
+      "fruit",
+      "leaves"
+    ],
     "card": "Seeds (shelled peas), edible pods (snap/snow), and pea shoots",
     "summary": "One of the most important food plants in the world — the ripe or immature seeds (shelled peas), the whole tender pod (snap and snow peas), and the young shoot tips and leaves are all edible raw or cooked.[1][2]",
     "parts": "Three distinct edible products: (1) **Shelled peas** — the seeds inside mature pods; sweet and eaten raw or cooked, fresh or frozen. (2) **Edible pods** — in snap-pea and snow-pea varieties the whole pod is eaten; snap pods are harvested rounded and full, snow peas when flat. (3) **Pea shoots** — the young tendrils and growing tips of any variety; delicate and sweet, eaten raw in salads or briefly stir-fried. The pea flower is also edible as a garnish.[1][2]",
@@ -59,16 +74,46 @@
     }
   ],
   "fact_src": {
-    "size": [1, 2],
-    "sun": [1, 2],
-    "water": [1, 2],
-    "spread": [1, 2],
-    "seasons": [1, 2],
-    "wildlife": [1],
-    "deer": [1],
-    "toxic": [1, 2],
-    "origin": [1],
-    "habitat": [1]
+    "size": [
+      1,
+      2
+    ],
+    "sun": [
+      1,
+      2
+    ],
+    "water": [
+      1,
+      2
+    ],
+    "spread": [
+      1,
+      2
+    ],
+    "seasons": [
+      1,
+      2
+    ],
+    "wildlife": [
+      1
+    ],
+    "deer": [
+      1
+    ],
+    "toxic": [
+      1,
+      2
+    ],
+    "origin": [
+      1
+    ],
+    "habitat": [
+      1
+    ],
+    "ph": [
+      1,
+      2
+    ]
   },
   "shots": [
     {

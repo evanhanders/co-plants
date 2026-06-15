@@ -24,6 +24,11 @@
   "verified": "2026-06-04",
   "origin": "Europe to SW Asia (Black Sea and Caspian region)",
   "habitat": "Forest margins and woodland edges in Europe and SW Asia",
+  "ph": {
+    "min": 6.0,
+    "ideal": 6.8,
+    "max": 7.5
+  },
   "shots": [
     {
       "local": "images/sp-flowers-t.jpg",
@@ -156,6 +161,9 @@
       3
     ],
     "habitat": [
+      3
+    ],
+    "ph": [
       3
     ]
   },

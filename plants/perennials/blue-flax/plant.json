@@ -23,6 +23,11 @@
   "toxic": "",
   "winter": false,
   "verified": "2026-06-03",
+  "ph": {
+    "min": 6.0,
+    "ideal": 7.2,
+    "max": 8.0
+  },
   "care": {
     "hardiness": "Hardy to USDA zone 3 and native up to ~9,500 ft in Colorado — it shrugs off Front Range winters without protection. Choose Linum lewisii (the native species) over the look-alike Linum perenne, which is a non-native introduced European species.[1][2]",
     "planting": "Easiest planted by direct seeding in fall (Oct–Nov) so winter cold stratifies the seed naturally and it germinates with snowmelt in spring. Container-grown transplants can go in the ground in spring (Apr–early May) once frost danger is past, or in early fall (Sep); water in well but little supplemental water is needed after the first season. Pots dry out fast and need more frequent watering than in-ground plants; blue flax is not a typical container subject.[1]",
@@ -68,6 +73,10 @@
     "toxic": [
       4,
       5
+    ],
+    "ph": [
+      1,
+      2
     ]
   },
   "edible": {

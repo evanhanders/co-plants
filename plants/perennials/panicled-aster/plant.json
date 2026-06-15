@@ -24,6 +24,11 @@
   "toxic": "",
   "winter": false,
   "verified": "2026-06-03",
+  "ph": {
+    "min": 6.0,
+    "ideal": 6.8,
+    "max": 8.0
+  },
   "care": {
     "hardiness": "Native to Colorado and broadly hardy through USDA zone 3 — no issue on the Front Range. Established colonies are tough and long-lived.[2]",
     "planting": "Set out transplants in spring (Apr–May) or early fall (Sep) in a site with reliable moisture — a rain garden, a low spot, a ditch edge, or a border that gets regular irrigation. Amend heavy clay with compost to improve root establishment, but this plant tolerates clay and even gravel once rooted. In containers, use a moisture-retentive potting mix and water frequently — the Front Range's dry air desiccates containers fast. Pot-grown panicled aster is much less winter-hardy in a raised container; sink pots into the ground or store in an unheated garage from November through March.[1][2]",
@@ -68,6 +73,10 @@
     ],
     "toxic": [
       3
+    ],
+    "ph": [
+      1,
+      2
     ]
   },
   "edible": {

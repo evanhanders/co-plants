@@ -27,6 +27,11 @@
   ],
   "winter": true,
   "verified": "2026-06-09",
+  "ph": {
+    "min": 5.5,
+    "ideal": 6.5,
+    "max": 7.8
+  },
   "shots": [
     {
       "local": "images/su-flower-t.jpg",
@@ -165,6 +170,9 @@
       2
     ],
     "habitat": [
+      2
+    ],
+    "ph": [
       2
     ]
   },

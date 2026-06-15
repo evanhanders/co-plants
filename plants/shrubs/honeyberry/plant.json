@@ -23,6 +23,11 @@
   "verified": "2026-06-04",
   "origin": "Cultivated forms bred from circumboreal wild stock — Russian, Japanese, and Canadian germplasm",
   "habitat": "Moist boreal forests, peaty soils, and stream edges across the cool northern hemisphere — Asia, Europe, and North America",
+  "ph": {
+    "min": 5.0,
+    "ideal": 6.5,
+    "max": 7.8
+  },
   "care": {
     "hardiness": "Extraordinarily cold-hardy — a long-lived boreal shrub rated to USDA zone 2 and tolerant of roughly −40°F, so it is utterly unfazed by a Boulder zone 5b–6a winter; it needs cold and is unhappy in warm climates (south of about zone 7 it doesn't get enough winter chill to fruit well). Its early bloom is itself frost-tough — the flowers withstand hard spring frosts down to about 19°F, a real asset in Boulder's variable spring.[1][2]",
     "planting": "Plant container shrubs in early spring (April) or early fall (September) so the roots settle in cool soil. The key step on the Front Range: plant TWO different, compatible cultivars that bloom at the same time — honeyberry is self-incompatible and a lone plant sets little or no fruit, so always plant at least a pair of different varieties for cross-pollination. It grows in a large container for a few years (water often, as pots dry fast here, and protect the pot over winter even though the plant is bone-hardy, since a potted root ball freezes harder than ground roots), but does best long-term in the ground in evenly moist soil.[1][2]",
@@ -73,6 +78,10 @@
     ],
     "habitat": [
       1
+    ],
+    "ph": [
+      1,
+      2
     ]
   },
   "edible": {

@@ -23,6 +23,11 @@
   "verified": "2026-06-03",
   "origin": "W. Mediterranean — S. France, Spain, and N. Italy",
   "habitat": "Sunny rocky hillsides and dry limestone scrub, low to mid elevations",
+  "ph": {
+    "min": 6.5,
+    "ideal": 7.0,
+    "max": 8.0
+  },
   "care": {
     "hardiness": "English lavender (*L. angustifolia*) is the hardiest type for Colorado, rated USDA zone 5 and often performing in zone 4 with good drainage. Cultivars 'Munstead' and 'Hidcote' are the most reliably winter-hardy on the Front Range (zones 5b–6a). Plants may die back to the woody base in harsh winters but resprout from the crown if drainage was sharp and the crown stayed dry — wet, frozen soil is far more lethal than cold alone.[1][3]",
     "planting": "Plant in spring (Apr–May) or early fall (Sep) from nursery-grown, vegetatively propagated stock — English lavender does not come reliably true from seed. Fall planting has been shown to produce better survival and faster establishment in Colorado. Set the crown slightly above the surrounding soil level to promote drainage, and surround with gravel mulch to keep the crown dry. In containers, lavender looks beautiful but roots are exposed to lethal freeze-thaw cycles; use a large pot with drainage holes, a gritty mix, and overwinter in a cold but frost-free space (unheated shed or garage) — or sink the pot to the rim in the ground from October through April.[1][2]",
@@ -68,6 +73,10 @@
       3
     ],
     "habitat": [
+      3
+    ],
+    "ph": [
+      1,
       3
     ]
   },

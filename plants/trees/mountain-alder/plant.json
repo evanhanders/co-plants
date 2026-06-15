@@ -21,6 +21,11 @@
   "toxic": "",
   "winter": false,
   "verified": "2026-05-31",
+  "ph": {
+    "min": 5.5,
+    "ideal": 6.5,
+    "max": 7.5
+  },
   "care": {
     "hardiness": "USDA zones 3–7 (rated hardy to zone 5 by most horticultural sources, but the thinleaf subspecies grows natively up to nearly 10,000 ft in Colorado and survives Front Range winters without any protection). A fast-growing but relatively short-lived tree — expect 30–50 years rather than centuries.[1][2]",
     "sun": "Full sun to light part shade. In its native riparian canyon habitat it often grows in morning sun with afternoon dappled shade; in a garden setting it does fine in full sun as long as soil moisture is maintained.[2]",
@@ -60,6 +65,9 @@
       2
     ],
     "toxic": [
+      2
+    ],
+    "ph": [
       2
     ]
   },

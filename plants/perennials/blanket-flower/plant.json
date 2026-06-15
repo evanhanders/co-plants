@@ -25,6 +25,11 @@
   "toxic": "Hairy foliage may cause contact dermatitis in sensitive individuals; not systemically toxic",
   "winter": false,
   "verified": "2026-06-03",
+  "ph": {
+    "min": 6.0,
+    "ideal": 6.8,
+    "max": 8.0
+  },
   "care": {
     "hardiness": "USDA zones 3a–8b — well within Boulder's 5b–6a range and one of the most cold-hardy Front Range perennials available. It handles late-spring freezes with ease and reliably re-sprouts from the crown.[1][2]",
     "planting": "Plant bare-root or container plants in spring (late April–May) or early fall (September) in Boulder. Spring is preferred: plants establish quickly in warming soil and bloom their first summer. Avoid midsummer planting in open, hot sites — the combination of transplant stress and intense Front Range sun is hard on new plants. In containers, use a gritty, free-draining mix (no heavy peat); pots dry out much faster than in-ground beds in Colorado's arid climate, so check moisture daily in summer. Container plants can overwinter outdoors if the pot is large (≥5 gal), insulated, or set in a sheltered spot — the crown is cold-hardy but the roots in a small pot are far more exposed than in the ground.[2]",
@@ -75,6 +80,9 @@
     "toxic": [
       2,
       3
+    ],
+    "ph": [
+      2
     ]
   },
   "edible": {

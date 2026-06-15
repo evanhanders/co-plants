@@ -30,6 +30,11 @@
   "winter": false,
   "verified": "2026-06-11",
   "commons": "",
+  "ph": {
+    "min": 6.0,
+    "ideal": 7.0,
+    "max": 8.0
+  },
   "care": {
     "hardiness": "Garden hybrid mulleins are typically hardy to USDA zones 5–8, but they behave as short-lived perennials or biennials on the Front Range — expect 1–3 years in the garden rather than a long-lived clump. The main enemy is wet crown over winter: Boulder's clay soil that stays damp in late fall and spring is more likely to kill plants than cold alone. The RHS notes they dislike wet soil particularly in winter; NC State lists hardiness as zones 6–8 for most cultivars, though some tolerate zone 5 with excellent drainage.[1][2]",
     "planting": "Set out transplants in spring (April–May) after the last hard frost (~mid-May in Boulder) into full sun and sharply drained soil; raised beds, slopes, or gravelly amended soil are ideal. Avoid planting in low spots or heavy unamended clay where water pools. For container growing, use a lean, fast-draining mix (cactus/gravel-blend); pot plants are vulnerable to crown rot if left outside over a Colorado winter — overwinter containers in an unheated garage and water minimally, or treat as an annual.[1][2]",
@@ -89,6 +94,10 @@
       2
     ],
     "habitat": [
+      2
+    ],
+    "ph": [
+      1,
       2
     ]
   },

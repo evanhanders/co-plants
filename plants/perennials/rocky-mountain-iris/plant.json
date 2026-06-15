@@ -24,6 +24,11 @@
   "toxic": "Toxic — rhizomes and rootstock contain irritant compounds causing GI upset (nausea, vomiting, diarrhea) and skin irritation in people, pets, and livestock",
   "winter": false,
   "verified": "2026-06-06",
+  "ph": {
+    "min": 6.0,
+    "ideal": 7.0,
+    "max": 8.0
+  },
   "care": {
     "hardiness": "Reliably hardy on the Front Range — a high-country native of the western mountains to roughly USDA zone 3, so Boulder's zone 5b–6a winters are no concern for established clumps.[1][2]",
     "planting": "Plant rhizomes or divisions in early fall or in spring after the soil thaws, in a spot that stays moist through spring and early summer — a low swale, near a downspout, beside a pond, or in irrigated meadow. Set the rhizome shallow, just at or barely below the soil surface, fan side up. In containers it must never dry out during growth; use a large pot kept consistently watered spring through bloom, then ease off as foliage dies back. It can take dry late-summer soil once dormant.[1][2]",
@@ -76,6 +81,9 @@
       1
     ],
     "toxic": [
+      1
+    ],
+    "ph": [
       1
     ]
   },

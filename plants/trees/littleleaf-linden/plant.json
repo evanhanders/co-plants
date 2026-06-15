@@ -22,6 +22,11 @@
     "summer"
   ],
   "verified": "2026-06-09",
+  "ph": {
+    "min": 6.0,
+    "ideal": 6.8,
+    "max": 8.2
+  },
   "care": {
     "hardiness": "USDA zones 3b–7b — one of the hardiest large deciduous shade trees available for the Front Range. It handles Boulder's sub-zero winter temperatures without issue and is fully reliable through zones 5b–6a. Its tolerance of alkaline soils is a real asset here: it handles pH up to 8.0+ with no mineral-deficiency yellowing, unlike many shade trees that struggle in our calcareous clay.[1][2]",
     "planting": "Plant in spring (April–May) after the ground thaws, or in early fall (September) once summer heat breaks — both windows allow roots to settle before freeze or heat stress. Balled-and-burlapped trees should go in the ground promptly; remove all burlap, twine, and wire basket from the top third of the root ball before backfilling. Dig the hole two to three times as wide as the root ball but no deeper than the root ball's height — the root flare should sit at or just above final grade (planting too deep is the single most common tree-establishment failure on the Front Range). Water in thoroughly after planting to settle air pockets. In containers, linden grows fine seasonally but eventually needs ground; a container left above ground over a Boulder winter is survivable (the tree is cold-hardy enough) but the roots desiccate in a dry, heated garage or freeze hard in an unheated space — sink the pot, heel it in, or plan to plant out by the second spring.[1][2]",
@@ -103,6 +108,10 @@
       2
     ],
     "habitat": [
+      2
+    ],
+    "ph": [
+      1,
       2
     ]
   },

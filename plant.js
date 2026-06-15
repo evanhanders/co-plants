@@ -62,9 +62,11 @@ function row(label, key, val){ return '<dt>'+label+'</dt><dd>'+esc(val)+factMark
 var prov = isNative(p) ? '' :
 (p.origin?row('Native to','origin',p.origin):'')+
 (p.habitat?row('Wild habitat','habitat',p.habitat):'');
+/* soil-pH bar is HTML (not escaped text), so it gets its own row rather than row() */
+var ph = p.ph ? '<dt class="ph-lbl">Soil pH'+factMark(p,'ph')+'</dt><dd class="ph-cell">'+phBarHTML(p,true)+'</dd>' : '';
 return '<dl class="facts big">'+
 row('Mature size','size',p.size||'—')+row('Sun','sun',p.sun||'—')+
-row('Water','water',p.water||'—')+row('Spread / habit','spread',p.spread||'—')+
+row('Water','water',p.water||'—')+row('Spread / habit','spread',p.spread||'—')+ph+
 row('Seasonal interest','seasons',p.seasons||'—')+row('Wildlife','wildlife',p.wildlife||'—')+
 row('Deer','deer',p.deer||'—')+row('Toxicity','toxic',p.toxic||'None of concern')+
 prov+

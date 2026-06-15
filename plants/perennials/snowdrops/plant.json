@@ -25,6 +25,11 @@
   "habitat": "Damp deciduous woodland, shaded meadows, and stream banks",
   "winter": true,
   "verified": "2026-06-06",
+  "ph": {
+    "min": 6.0,
+    "ideal": 6.8,
+    "max": 7.5
+  },
   "care": {
     "hardiness": "USDA zone 3 — one of the hardiest spring bulbs, reliably overwintering throughout the Colorado Front Range without protection. Established colonies in Boulder's zone 5b–6a climate are effectively permanent once settled.[1][2]",
     "planting": "Plant dry bulbs in early fall (September–October) when nighttime temperatures fall to 40–50°F, before the ground freezes. Set bulbs 3 in. deep and 3 in. apart, pointed end up. Alternatively — and often more successfully — plant 'in the green' immediately after flowering in March while leaves are still attached; dig clumps from an established source, divide gently, and replant at once at the same depth. 'In the green' transplants establish far more readily than dried bulbs on the Front Range. Choose a spot under deciduous trees or on the east or north side of a structure where the soil stays slightly moist in late winter and dries in summer — this matches the plant's woodland origin. Work compost or leaf mould into the planting pocket to enrich clay soils and improve moisture retention (unlike most bulbs, snowdrops appreciate some organic matter, not sharp drainage). In containers, use a humus-rich potting mix; overwinter pots in an unheated but protected spot (garage or cold frame) to prevent excessive freeze-thaw cycling.[1][2][3]",
@@ -93,6 +98,9 @@
       1
     ],
     "habitat": [
+      1
+    ],
+    "ph": [
       1
     ]
   },

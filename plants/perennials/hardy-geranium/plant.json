@@ -26,6 +26,11 @@
   "verified": "2026-06-03",
   "origin": "Garden hybrid — parent species G. wallichianum and G. himalayense from the Himalayas",
   "habitat": "Himalayan mountain meadows, woodland edges, and rocky subalpine slopes",
+  "ph": {
+    "min": 6.5,
+    "ideal": 7.0,
+    "max": 7.5
+  },
   "care": {
     "hardiness": "USDA zones 5–8; reliably hardy on the Front Range (5b–6a). 'Rozanne' is a sterile triploid hybrid (Geranium himalayense × G. wallichianum 'Buxton's Variety') and one of the most cold-tolerant of the large-flowered geraniums. Plants die back fully in winter and resprout from the crown. No winter protection needed in Boulder.[1][2]",
     "planting": "Plant in-ground in spring (late April–May) or early fall (September). Spring planting lets the plant establish before the summer bloom surge begins. Fall planting is fine if done 6 weeks before hard freeze. In containers, plant in spring in a 12–14 in or larger pot — 'Rozanne' makes a large, trailing plant that fills and overflows a container beautifully. Pot roots are less cold-hardy and the plant dries out more quickly in Front Range heat and wind; water more frequently (check every day or two in July–August) and overwinter pots in an unheated garage or sink them into the ground to protect the crown.[1][2]",
@@ -75,6 +80,10 @@
     ],
     "habitat": [
       5
+    ],
+    "ph": [
+      1,
+      2
     ]
   },
   "edible": {

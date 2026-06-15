@@ -24,6 +24,11 @@
   "toxic": "Ripe fruit is edible and sweet-tart; the pits, leaves, and twigs contain cyanogenic glycosides and are toxic to people, dogs, cats, and horses — eat the flesh only",
   "winter": false,
   "verified": "2026-06-04",
+  "ph": {
+    "min": 6.0,
+    "ideal": 6.8,
+    "max": 8.0
+  },
   "care": {
     "hardiness": "Exceptionally cold hardy — rated USDA zone 2–3 and able to take temperature swings from -40°F to 90°F in a single season, so Front Range winters are no concern. Its cold, dry interior-Asian origin makes it well adapted to nearly every Colorado condition: extreme cold, heat, aridity, high elevation, and most soils.[1][2]",
     "planting": "Fall is the best time to transplant, when the plant is going dormant; early spring also works. It needs cross-pollination, so plant two or more Nanking cherries within bee range to set a good crop. In a container it dries out fast and its roots are far less cold-hardy than the top; use a large pot, water frequently, and overwinter the pot in an unheated garage or sink it in the ground — it is far happier and hardier planted out.[2][3]",
@@ -77,6 +82,10 @@
     "toxic": [
       1,
       5
+    ],
+    "ph": [
+      2,
+      3
     ]
   },
   "edible": {

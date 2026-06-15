@@ -24,6 +24,11 @@
   "toxic": "Edible in normal food amounts; like all onions, large quantities are toxic to dogs, cats and livestock",
   "winter": false,
   "verified": "2026-06-06",
+  "ph": {
+    "min": 6.0,
+    "ideal": 7.0,
+    "max": 8.0
+  },
   "care": {
     "hardiness": "Very cold-hardy — a widespread North American native good to about USDA zone 3, so it sails through Boulder's zone 5b–6a winters as a dependable perennial bulb.[1][2]",
     "planting": "Plant bulbs in fall or set out divisions/pot-grown plants in spring after the soil thaws. It is unfussy and takes Boulder's alkaline clay well; just give it decent drainage. In containers use a free-draining mix and a pot deep enough for the bulbs to clump; water through the growing season and let it go drier as foliage dies back. Bulbs left in the ground need no winter protection here.[1][2]",
@@ -100,6 +105,9 @@
     "toxic": [
       1,
       4
+    ],
+    "ph": [
+      1
     ]
   },
   "shots": [

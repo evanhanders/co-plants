@@ -23,6 +23,11 @@
   "toxic": "None of concern — foliage was historically cooked as a potherb ('Navajo spinach')",
   "winter": false,
   "verified": "2026-06-02",
+  "ph": {
+    "min": 6.0,
+    "ideal": 6.8,
+    "max": 7.6
+  },
   "care": {
     "hardiness": "Grown as a warm-season annual — it completes its whole life in one season and dies at the first hard frost, so winter hardiness isn't a concern. Reliable anywhere with a frost-free summer.[1]",
     "sun": "Full sun is best — 6+ hours gives sturdy, free-flowering plants. It will grow in part shade, but stretches and blooms less.[1]",
@@ -67,6 +72,9 @@
     "toxic": [
       3,
       4
+    ],
+    "ph": [
+      1
     ]
   },
   "edible": {

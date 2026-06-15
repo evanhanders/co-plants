@@ -1,0 +1,203 @@
+{
+  "common": "Red yucca",
+  "botanical": "Hesperaloe parviflora",
+  "type": "Shrub",
+  "lifecycle": "Perennial",
+  "native": "Non-native",
+  "flower_color": [
+    "red",
+    "pink"
+  ],
+  "bloom": [
+    "summer",
+    "fall"
+  ],
+  "blurb": "Not a true yucca but a tough Chihuahuan-Desert succulent perennial — an evergreen clump of arching, grassy blue-green sword leaves that throws tall, airy spikes of coral-red tubular flowers all summer. Bone-dry tough, heat-proof, and one of the best hummingbird plants for a hot, lean Front Range bed.",
+  "size": "Foliage clump 2–3 ft tall × 4–6 ft wide; flower spikes rise to 4–6 ft",
+  "sun": "Full sun",
+  "water": "Very low; xeric once established — no supplemental water once rooted, drought- and heat-proof",
+  "spread": "Slow-growing solitary clump; clumps up gradually and does not run or self-sow aggressively here",
+  "seasons": "Evergreen grassy blue-green sword leaves year-round; coral-red to pink tubular flowers on tall branching spikes June through frost; green three-lobed seed capsules ripen brown by fall; spent stalks and rosettes give winter structure",
+  "wildlife": "A premier hummingbird plant — the long coral tubes are built for hummingbird beaks; also draws butterflies and native bees; deer browse the flower stalks and soft foliage",
+  "deer": "Not deer-resistant — deer browse the unarmed soft foliage and flower spikes",
+  "toxic": "Mildly toxic — leaves and fruit contain saponins, mildly irritating to people; ASPCA lists it as toxic to dogs and cats (saponins; stomach upset, vomiting)",
+  "winter": true,
+  "verified": "2026-06-15",
+  "origin": "Chihuahuan Desert of central/west Texas south to Coahuila and northeastern Mexico",
+  "habitat": "Hot rocky desert slopes, prairies, and mesquite groves on sharply drained sandy, caliche, or limestone soils",
+  "ph": {
+    "min": 6.0,
+    "ideal": 7.0,
+    "max": 8.0
+  },
+  "care": {
+    "hardiness": "Reliably hardy to USDA zone 5 (roughly −20°F) despite its desert origin — surprisingly cold-tough, which is what makes it viable on the Front Range (zones 5b–6a). It is at its borderline northern limit here: in zone 5 it survives cold winters well **provided drainage is perfect**, but a cold, wet, poorly drained winter site is far more likely to kill it than the cold itself. Site it where snowmelt and rain drain away fast.[1][2][3]",
+    "planting": "Plant in late spring once the soil has warmed, in full sun and sharply drained soil — superior drainage is the single most important factor for survival here. On the Front Range's heavy alkaline clay, plant on a slope, berm, or raised gravelly bed, or amend the planting hole generously with coarse grit/expanded shale; never plant in a spot where water pools. In containers it makes a striking evergreen specimen, but potted roots are far less cold-hardy than the ~zone-5 ground rating — overwinter pots in an unheated but frost-protected, **dry** space (garage), keeping the mix nearly dry through winter.[1][3]",
+    "sun": "Full sun — 6 or more hours of direct sun. It thrives in hot, reflected-heat positions (south or west walls, parking strips) where little else will bloom. In shade it flowers poorly and the clump opens loosely.[1][2]",
+    "soil": "Dry, sandy, loamy, or rocky soil with sharp drainage — the critical requirement. It tolerates a wide pH range and is comfortable in alkaline, limestone, caliche, and clay-loam soils, so the Front Range's alkaline clay is fine **as long as it drains freely**. It thrives in poor, lean ground; rich, moisture-retentive soil shortens its life through root rot.[1][2][4]",
+    "water": "Xeric once established — after the first season it needs no supplemental irrigation and is fully drought- and heat-proof. Water occasionally during the establishment summer (every 2–3 weeks in heat), then taper off. The chief killer is overwatering in heavy or poorly drained soil: fungal root and crown rot in damp clay. Keep it dry, especially over winter.[1][2]",
+    "spacing": "Space 3–4 ft apart (or about a 3 ft radius for a specimen) to allow for the 4–6 ft mature spread of the arching foliage and the tall flower spikes. It stays a tidy solitary clump and does not need room to run.[1][2]",
+    "propagation": "By seed or by division. **Division:** lift and split an established clump in spring, separating rooted offsets/crowns with a sharp spade, and replant in well-drained soil; water in to establish, then leave dry. **Seed:** sow ripe seed (from the brown capsules) in spring in a gritty, well-drained mix at warm temperatures (~70°F); germination is generally easy but plants are slow, taking several years to reach blooming size. Division is the faster route and keeps a desirable flower color true.[1][2]",
+    "bloom": "Long summer season — tall, wiry, branching flower spikes rise 4–6 ft above the foliage from roughly June (peaking July–August) and continue intermittently into fall. The 1-inch nodding tubular flowers are coral-red to pink (a yellow form exists) and are heavily worked by hummingbirds. Mature clumps bloom most freely; the spikes are self-cleaning. After bloom, green three-lobed capsules form and ripen to brown — leave them for seed/winter structure or cut the spent stalk at the base for tidiness.[1][2][3]",
+    "maintenance": "Very low. No regular pruning is needed; simply cut spent flower stalks to the base after they brown if you want a neat look, and pull or trim the occasional dead lower leaf. Do not shear the evergreen foliage. No fertilizer is required — feeding produces soft, rot-prone growth. The main 'task' is restraint: resist watering it.[1][2]",
+    "troubles": "Fungal root and crown rot in damp, heavy, or poorly drained soil is by far the main threat — guarantee drainage and keep it dry, especially in winter. Aphids and occasionally scale colonize the flower stalks at bloom but rarely cause real harm. Deer will browse the soft foliage and flower spikes, so it is not a deer-proof choice. No serious disease problems in a dry, well-sited planting.[1][2]",
+    "companions": "Pair with other xeric, sharp-drainage natives and Plant Select staples that share its hot, lean, dry conditions — agastache, penstemons, blue grama and little bluestem, hardy ice plant, sulphur flower buckwheat, and prairie zinnia — for a low-water hummingbird and pollinator bed. Set it against gravel mulch and dark rock to show off the coral spikes.[2][3]"
+  },
+  "edible": {
+    "level": "caution",
+    "summary": "Not a recommended food. The nectar-rich flowers are reported edible and some foragers cook the petals, but the use is poorly documented; the leaves and fruit contain mildly toxic saponins, and the plant is listed as toxic to pets.[2][4][5]",
+    "caution": "The **leaves and fruit/seed capsules are mildly toxic** to people — they contain saponins (gastrointestinal irritation) — and the plant is **listed by the ASPCA as toxic to dogs and cats** (saponins; vomiting and stomach upset). Only the **flowers** are reported as edible (eaten as a cooked or salad flower in the desert Southwest), but this use is thinly documented and there is no well-established food tradition, so this guide does **not** treat it as a food plant. Do not eat the leaves, fruit, or seeds. Keep pets from grazing the foliage.[2][4][5]"
+  },
+  "references": [
+    {
+      "name": "Missouri Botanical Garden Plant Finder — Hesperaloe parviflora (red yucca)",
+      "url": "http://www.missouribotanicalgarden.org/plantfinder/PlantFinderDetails.aspx?taxonid=281957"
+    },
+    {
+      "name": "NC State Extension Gardener Plant Toolbox — Hesperaloe parviflora (Red Yucca / Redflower False Yucca)",
+      "url": "https://plants.ces.ncsu.edu/plants/hesperaloe-parviflora/"
+    },
+    {
+      "name": "Lady Bird Johnson Wildflower Center — Hesperaloe parviflora (red yucca): native range, habitat, soil pH, bloom",
+      "url": "https://www.wildflower.org/plants/result.php?id_plant=hepa8"
+    },
+    {
+      "name": "ASPCA — toxic plants: saponin-containing yucca/Hesperaloe toxicity to dogs and cats",
+      "url": "https://www.aspca.org/pet-care/animal-poison-control/dogs-plant-list"
+    },
+    {
+      "name": "Wikipedia — Hesperaloe parviflora (edibility of flowers, saponins in leaves/fruit)",
+      "url": "https://en.wikipedia.org/wiki/Hesperaloe_parviflora"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      1,
+      2,
+      3
+    ],
+    "sun": [
+      1,
+      2
+    ],
+    "water": [
+      1,
+      2
+    ],
+    "spread": [
+      1,
+      2
+    ],
+    "seasons": [
+      1,
+      2,
+      3
+    ],
+    "wildlife": [
+      1,
+      2
+    ],
+    "deer": [
+      1,
+      2
+    ],
+    "toxic": [
+      4,
+      5
+    ],
+    "origin": [
+      1,
+      3
+    ],
+    "habitat": [
+      1,
+      3
+    ],
+    "ph": [
+      2,
+      3
+    ]
+  },
+  "shots": [
+    {
+      "local": "images/su-bloom-t.jpg",
+      "full": "images/su-bloom.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/659331009/large.jpg",
+      "s": "summer",
+      "cap": "Summer — whole clump with coral-red flower spikes rising above blue-green grassy foliage · © fleatx (CC-BY-NC) / iNaturalist",
+      "by": "fleatx",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/361285478"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/648330509/large.jpg",
+      "s": "summer",
+      "cap": "Summer — tall branching flower stalk rising well above the evergreen foliage clump · © sa_joe (CC-BY-NC) / iNaturalist",
+      "by": "sa_joe",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/355500901"
+    },
+    {
+      "local": "images/su-flower-t.jpg",
+      "full": "images/su-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/168111779/large.jpg",
+      "s": "summer",
+      "cap": "Summer — coral-red to pink tubular flowers along a branching spike, built for hummingbirds · © Rich Kostecke (CC-BY-NC) / iNaturalist",
+      "by": "Rich Kostecke",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/100709674"
+    },
+    {
+      "local": "images/su-spike-t.jpg",
+      "full": "images/su-spike.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/64215626/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — a slender flower spike emerging from the grassy rosette in rocky desert terrain · © Eric Knight (CC-BY) / iNaturalist",
+      "by": "Eric Knight",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/40521872"
+    },
+    {
+      "local": "images/su-pod-t.jpg",
+      "full": "images/su-pod.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/1890618/large.jpg",
+      "s": "summer",
+      "cap": "Summer — a green three-lobed seed capsule forming among the coral flowers · © Diana-Terry Hibbitts (CC-BY-NC) / iNaturalist",
+      "by": "Diana-Terry Hibbitts",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/1525523"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/491763653/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — the arching, grassy blue-green sword leaves of the basal clump · © Patricia Poore (CC-BY-NC) / iNaturalist",
+      "by": "Patricia Poore",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/273421672"
+    },
+    {
+      "local": "images/su-context-t.jpg",
+      "full": "images/su-context.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/117798275/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — a flowering clump on dry rocky ground, showing its lean xeric habitat · © Curren Frasch (CC-BY-NC) / iNaturalist",
+      "by": "Curren Frasch",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/72242803"
+    },
+    {
+      "local": "images/su-habitat-t.jpg",
+      "full": "images/su-habitat.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/238406590/large.jpg",
+      "s": "summer",
+      "cap": "Summer — a clump in flower in open dry desert grassland, its native setting · © Rich Kostecke (CC-BY-NC) / iNaturalist",
+      "by": "Rich Kostecke",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/139394034"
+    }
+  ]
+}

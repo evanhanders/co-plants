@@ -1,0 +1,199 @@
+{
+  "common": "Cane cholla",
+  "botanical": "Cylindropuntia imbricata",
+  "type": "Shrub",
+  "lifecycle": "Perennial",
+  "native": "CO native",
+  "flower_color": [
+    "purple",
+    "pink",
+    "red"
+  ],
+  "bloom": [
+    "summer"
+  ],
+  "blurb": "Colorado's tallest, most tree-like native cactus — an upright, shrubby candelabra of stout cylindrical, knobby-tuberculate green joints armored with barbed spines and glochids, erupting in vivid magenta-purple bowls in early summer, then hung with yellow knobby fruits that cling through the winter on a bare, sculptural spiny skeleton.",
+  "size": "3–5 ft × 3–5 ft (occasionally taller in the wild)",
+  "sun": "Full sun",
+  "water": "Very low; xeric, no supplemental water once established",
+  "spread": "Slow-growing upright clump; broken joints root where they fall, so it can colonize a dry slope over years — non-invasive in a tended garden",
+  "seasons": "Cylindrical green-jointed candelabra year-round; magenta-purple flowers Jun–Jul; knobby yellow fruits ripen late summer and persist on the bare spiny stems through fall and winter; joints purple-tinge and shrivel slightly in hard cold, plumping back in spring",
+  "wildlife": "Flowers draw native bees (a Xerces-listed special-value-to-native-bees plant), bumblebees and butterflies; the spiny clump gives nesting cover and the persistent fruit feeds birds and small mammals through winter",
+  "deer": "Highly deer- and rabbit-resistant — the dense barbed spines and glochids deter all browsers",
+  "toxic": "Not chemically toxic, but heavily armed: stiff barbed spines plus tiny detachable glochids at every areole lodge painfully in skin, eyes, lips and mouth and are nearly impossible to see or remove — handle only with thick leather gloves and long tongs",
+  "winter": true,
+  "verified": "2026-06-15",
+  "ph": {
+    "min": 6.5,
+    "ideal": 7.5,
+    "max": 8.2
+  },
+  "care": {
+    "hardiness": "Among the most cold-hardy of all chollas — proven to roughly −20°F and rated for USDA zone 5, which makes it well within range for the Front Range (zones 5b–6a). It is native into southern Colorado and the Rocky Mountain foothills at elevations above 6,000 ft, so our winters pose no threat to a well-sited plant.[2] As with all our hardy cacti, the hardiness holds only when the soil is dry through winter — cold plus wet rots the roots; the joints naturally desiccate, purple-tinge and shrivel in hard cold, then plump back up in spring.[1][3][4]",
+    "planting": "Plant in late spring to early summer (late Apr–Jun) once the soil has warmed, so roots establish through the warm season before winter. Sharp drainage is the absolute requirement — a sunny, gravelly slope, a raised berm, or a rocky xeric bed is ideal; in heavy Front Range clay, amend deeply with at least 50% coarse grit or build a raised mound. Joints root very easily: detach one with tongs, let the cut end callus in a dry shaded spot for about a week, then press the base an inch or two into gritty soil and water sparingly until rooted. Container culture works in a deep gritty-mix pot, but it must be kept bone-dry in winter (a wet, frozen pot rots). Never site it near a path, patio, doorway, or play area — detached joints and glochids are a serious hazard underfoot.[3][4]",
+    "sun": "Full sun — a minimum of 6 hours of direct sun, and the more the better. Colorado's intense high-altitude sun is exactly what this desert-and-foothills cactus evolved for; in shade it grows weakly, flowers poorly, and becomes far more prone to rot.[1][3]",
+    "soil": "Lean, sandy, gravelly, or rocky soil with excellent drainage is the only real requirement — it grows wild on dry gravelly, sandy, and rocky ground from the Chihuahuan Desert to the southern Rockies. It tolerates a wide pH band and is well adapted to the alkaline (pH ~7–8) clay-derived soils typical on the Front Range, provided drainage is sharp. Add no compost or rich organic matter, which holds moisture and invites crown rot; a gravel top-dressing keeps the base dry.[3][4]",
+    "water": "Very low — an established plant in the ground needs no supplemental irrigation on the Front Range; natural precipitation sustains it. An occasional deep soak during a severe drought summer keeps the joints plump and flowering heavier, but is optional. Taper off by late summer and give zero water from fall through snowmelt. Overwatering and poor drainage are the overwhelming cause of failure — soggy roots rot fast.[3][4]",
+    "spacing": "Space plants 3–4 ft apart; an upright clump slowly widens to 3–5 ft across (and as tall) over many years. Give it room — the reach of those spiny joints is the planning constraint, not the rooting footprint.[1][3]",
+    "propagation": "Easiest by joint (\"pad\") cuttings: with tongs or thick leather gloves, detach a cylindrical joint where it meets the parent, set it in a dry shaded spot 5–10 days until the wound calluses, then press the basal inch into barely moist gritty sand; roots form within a few weeks. Late spring through early summer is the best window. Seed also works — sow in spring in a gritty, well-drained mix, keep warm and barely moist, and expect slow, irregular germination; seedlings grow slowly and take years to reach size, so joint cuttings are strongly preferred for speed.[3][4]",
+    "maintenance": "About as low-maintenance as a plant gets once established. Remove dead, broken, or rot-damaged joints in spring using tongs, and dispose of them carefully — glochids stay dangerous even on dead joints, and a dropped joint will root where it lands. If the clump crowds a walkway, detach outer joints with tongs and replant or double-bag for disposal. **Glochid safety:** wear thick leather gloves (not cloth — glochids pierce fabric) and use long tongs; remove glochids from skin by pressing firmly with duct tape or a thin layer of rubber cement (tweezers alone leave the barbed tips buried). Keep children and pets clear of the clump and of any fallen joints.[1][3]",
+    "troubles": "Crown and root rot from excess moisture or poor drainage is by far the main cause of failure — guarantee sharp drainage and do not overwater, especially in winter. The barbed spines and glochids are a physical hazard, not a disease, but remain the number-one source of handling injuries. Scale and mealybugs occasionally colonize the joints (white waxy bumps at the areoles); treat with isopropyl alcohol on a swab or a dilute horticultural-oil spray. No serious fungal or bacterial disease in our dry climate, and deer, rabbits, and most mammals leave it strictly alone.[3][4]",
+    "companions": "Pair it with other sharp-drainage natives and xerics that share its lean, dry, full-sun regime and won't demand summer water at its feet — plains prickly pear, claret cup cactus, soapweed yucca, sulphur flower buckwheat, blue grama and little bluestem, rabbitbrush, and prairie zinnia all make a coherent dry-prairie or rock-garden planting around the cholla's vertical spiny structure.[1][3]"
+  },
+  "edible": {
+    "level": "caution",
+    "food": true,
+    "kinds": [
+      "flowers"
+    ],
+    "card": "Flower buds, despined & cooked (cholla buds — high in calcium)",
+    "summary": "Edible only with careful preparation: the unopened flower buds (\"cholla buds\") are a traditional, calcium-rich Indigenous food once every spine and glochid is removed — the spines and glochids are a serious hazard if any remain, and a few unrelated look-alike risks apply.[5][6]",
+    "parts": "The unopened flower buds are the prized edible part — harvested just before the flowers open, despined, and cooked. Cholla buds (from this and related Cylindropuntia) are an important traditional food of Southwestern Indigenous peoples, notably the Tohono O'odham, and are exceptionally high in calcium (cooked buds run on the order of thousands of milligrams of calcium per 100 g) — long valued for nursing mothers and as a guard against bone loss. The knobby yellow fruit is also edible — eaten raw, cooked, or dried, and added unripe to soups for an okra-like thickening — though on this species it is comparatively dry and lean; the seeds can be parched and ground into a meal or thickener.[4][5][6]",
+    "preparation": "**Buds:** with long tongs, pick the plump unopened buds in late spring/early summer; the universal first step is to remove the spines and glochids — singe them off over an open flame and/or roll the buds in coarse sand or scrub them in a wire basket, then boil or steam until tender. De-glochided buds are eaten cooked — added to stews, beans, eggs, or salads — and traditionally dried for winter storage. **Fruit:** harvest ripe yellow fruit with tongs, burn or scrub off any glochids the same way, then peel and eat raw, cook into a sauce, or dry. Never handle buds or fruit bare-handed, and do not eat anything from this plant until the spines and glochids are completely gone.[5][6]",
+    "caution": "The barbed spines and — worse — the tiny detachable glochids at every areole are the real danger: they dislodge on the lightest touch, lodge deep and nearly invisibly in skin, lips, tongue, and throat, and cause persistent stinging pain; glochids in the eye need medical attention. Even on harvested buds and fruit, residual glochids can remain, so the singe/scrub step is mandatory and must be thorough before anything reaches the mouth. The plant flesh itself is not chemically toxic to people or pets, but raw, unprocessed material should never be eaten. Harvest only confidently-identified Cylindropuntia (not a spurge or other spiny desert plant), and keep children well away from raw buds, fruit, and dropped joints.[5][6]"
+  },
+  "fact_src": {
+    "size": [
+      1,
+      3
+    ],
+    "sun": [
+      1,
+      3
+    ],
+    "water": [
+      3,
+      4
+    ],
+    "spread": [
+      1,
+      3
+    ],
+    "seasons": [
+      1,
+      3
+    ],
+    "wildlife": [
+      1
+    ],
+    "deer": [
+      3
+    ],
+    "toxic": [
+      3,
+      4
+    ],
+    "ph": [
+      3,
+      4
+    ]
+  },
+  "references": [
+    {
+      "name": "Lady Bird Johnson Wildflower Center — Cylindropuntia imbricata (Tree cholla)",
+      "url": "https://www.wildflower.org/plants/result.php?id_plant=cyim2"
+    },
+    {
+      "name": "USDA NRCS PLANTS Database — Cylindropuntia imbricata (CYIM2)",
+      "url": "https://plants.usda.gov/plant-profile/CYIM2"
+    },
+    {
+      "name": "Native Plant Society of Texas — Cylindropuntia imbricata (cane/tree cholla)",
+      "url": "https://www.npsot.org/posts/native-plant/cylindropuntia-imbricata/"
+    },
+    {
+      "name": "Useful Temperate Plants (PFAF) — Cylindropuntia imbricata",
+      "url": "https://temperate.theferns.info/plant/Cylindropuntia+imbricata"
+    },
+    {
+      "name": "Native American Ethnobotany Database — Cylindropuntia / Opuntia imbricata food uses",
+      "url": "http://naeb.brit.org/uses/search/?string=Opuntia+imbricata"
+    },
+    {
+      "name": "Slow Food Foundation, Ark of Taste — Cholla Cactus Flower Buds",
+      "url": "https://www.fondazioneslowfood.com/en/ark-of-taste-slow-food/cholla-cactus-flower-buds/"
+    }
+  ],
+  "shots": [
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/41388567/large.jpg",
+      "s": "summer",
+      "cap": "Summer — the upright shrubby candelabra form in dry prairie · © Katie Meis (CC-BY-NC) / iNaturalist",
+      "by": "Katie Meis",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/26646692"
+    },
+    {
+      "local": "images/su-context-t.jpg",
+      "full": "images/su-context.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/469479140/large.jpg",
+      "s": "summer",
+      "cap": "Summer — tall tree-like cholla on a dry foothills slope, showing scale · © symayers (CC-BY-NC) / iNaturalist",
+      "by": "symayers",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/249192351"
+    },
+    {
+      "local": "images/su-flower-t.jpg",
+      "full": "images/su-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/24762432/large.jpg",
+      "s": "summer",
+      "cap": "Summer — magenta-purple bowl flower face-on with a boss of yellow stamens, on a knobby joint · © no rights reserved (CC0) / iNaturalist",
+      "by": "no rights reserved",
+      "lic": "CC0",
+      "link": "https://www.inaturalist.org/observations/16454538"
+    },
+    {
+      "local": "images/su-bloom-t.jpg",
+      "full": "images/su-bloom.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/296765673/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — a cluster of magenta-purple blooms open at once · © FrontRangeWildflowers (CC-BY-NC) / iNaturalist",
+      "by": "FrontRangeWildflowers",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/171048778"
+    },
+    {
+      "local": "images/su-stems-t.jpg",
+      "full": "images/su-stems.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/524192895/large.jpg",
+      "s": "summer",
+      "cap": "Summer — flowers and buds against the cylindrical, tuberculate, barbed-spined green joints · © utah_klaus (CC-BY-NC) / iNaturalist",
+      "by": "utah_klaus",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/291347475"
+    },
+    {
+      "local": "images/fa-fruit-t.jpg",
+      "full": "images/fa-fruit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/392159183/large.jpeg",
+      "s": "fall",
+      "cap": "Fall — knobby spineless yellow fruits clustered at a joint tip · © John Waidner (CC-BY-NC) / iNaturalist",
+      "by": "John Waidner",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/221444219"
+    },
+    {
+      "local": "images/fa-fruit2-t.jpg",
+      "full": "images/fa-fruit2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/169757300/large.jpeg",
+      "s": "fall",
+      "cap": "Fall — the plant hung with persistent yellow knobby fruits · © rowz (CC-BY-NC) / iNaturalist",
+      "by": "rowz",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/101639451"
+    },
+    {
+      "local": "images/wi-winter-t.jpg",
+      "full": "images/wi-winter.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/114323243/large.jpg",
+      "s": "winter",
+      "cap": "Winter — the bare spiny candelabra skeleton with snow at its base · © Prairie Guy (CC-BY-NC) / iNaturalist",
+      "by": "Prairie Guy",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/70325864"
+    }
+  ]
+}

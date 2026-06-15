@@ -1,0 +1,188 @@
+{
+  "common": "Cupid's dart",
+  "botanical": "Catananche caerulea",
+  "type": "Forb",
+  "lifecycle": "Perennial",
+  "native": "Non-native",
+  "bloom_season": "Summer",
+  "flower_color": [
+    "blue",
+    "purple"
+  ],
+  "bloom": [
+    "summer"
+  ],
+  "blurb": "A tidy clump of narrow grey-green leaves throws wiry, near-leafless stems topped with lavender-blue cornflower-like flowers — fringed, toothed ray tips around a darker eye — over a long summer. The papery, silvery, strawy bracts give the buds an everlasting look prized for drying. Xeric, lean-soil-loving, and short-lived but easy to renew.",
+  "size": "18–24 in × 9–12 in",
+  "sun": "Full sun",
+  "water": "Low; xeric and drought-tolerant once established",
+  "spread": "Clumping; not aggressive, but self-sows where happy",
+  "seasons": "Low tuft of grassy grey-green basal leaves spring through fall; lavender-blue flowers on wiry stems July–Sep amid papery silvery buds; dies back to the ground in winter",
+  "wildlife": "Butterfly and bee plant; the nectar-rich blue flowers draw butterflies and pollinators all summer",
+  "deer": "Generally deer-resistant",
+  "toxic": "",
+  "winter": false,
+  "verified": "2026-06-15",
+  "origin": "Mediterranean — southwestern Europe and northwestern Africa",
+  "habitat": "Dry meadows, garrigue, and rocky slopes on lean, well-drained calcareous ground",
+  "ph": {
+    "min": 6.0,
+    "ideal": 7.0,
+    "max": 7.8
+  },
+  "care": {
+    "hardiness": "Hardy to about USDA zone 4 — reliable across the Front Range (zones 5b–6a), where cold is no obstacle but wet winter soil is. Naturally a short-lived perennial (often 2–3 good years), it persists best on sharply drained, lean ground; soggy winter crowns are the usual cause of loss. Renew it by division, root cuttings, or letting it self-sow.[1][2][3]",
+    "planting": "Set out nursery transplants in spring (Apr–May) once the soil warms, or sow seed in spring; it establishes fast in lean, well-drained soil with no amendment needed — rich or heavy clay shortens its life. In containers it makes a fine summer display, but pot roots are far less cold-hardy than in-ground crowns and the mix must drain sharply, so overwinter pots dry in an unheated garage rather than leaving them wet and exposed.[1][2]",
+    "sun": "Full sun — 6+ hours — for the strongest stems and heaviest bloom. It will limp along in part shade with floppy stems and fewer flowers, so give it the open, hot, bright spot it evolved for in the Mediterranean.[1][2]",
+    "soil": "Loose, lean, sharply drained soil is the whole secret — sandy or gritty loam suits it perfectly, and it tolerates the alkaline, calcareous ground common around Boulder. Avoid heavy, wet clay and any rich, moisture-retentive bed: good drainage, especially in winter, is far more important than fertility, and overly rich soil grows lush foliage at the expense of flowers and shortens the plant's life.[1][2][3]",
+    "water": "Low. Water through the first season to root it in, then back off — it is genuinely drought-tolerant and xeric once established, asking for little to no supplemental water in an ordinary Front Range summer. Never let water stand around the crown, particularly over winter, which rots it.[1][2]",
+    "spacing": "Space plants about 9–12 in apart; they form slim, upright clumps that read well massed at the front of a sunny, well-drained border or in a rock or gravel garden.[1][2]",
+    "propagation": "Easiest by **seed** — sow in spring (indoors 6–8 weeks before the mid-May last frost, or direct-sow once soil warms); it germinates readily and will self-sow where it's happy. Because individual plants are short-lived, keep a colony going by **division in spring** every couple of years, or by taking **root cuttings in winter** (a 2–3 in section of pencil-thick root laid in gritty mix) — both reliably renew named selections like 'Major' that don't come true from seed.[2][3]",
+    "bloom": "Long summer bloom — roughly July into September on the Front Range, the 1–2 in lavender-blue heads opening over weeks atop the wiry stems. Deadheading spent flowers tidies the plant and nudges further bloom; leave a few late heads if you want the papery silvery seed bracts for drying, as the buds and bracts are everlasting.[1][2]",
+    "maintenance": "Low. Deadhead through summer to prolong flowering and limit self-sowing, then cut the flowering stems back after bloom; clear the dead foliage in early spring before new growth. To keep the clump vigorous and the colony alive, divide every 2–3 years in spring or renew from root cuttings — don't expect a single plant to be long-lived.[1][2]",
+    "troubles": "No serious pests. Powdery mildew is the main blemish, favored by crowding, shade, or damp — sharp drainage, full sun, and airflow prevent it. The real failure mode here is crown and root rot from wet, heavy, or poorly drained soil, especially in winter; a short life in rich or soggy ground is normal for this plant, so plant it lean and dry.[1][2]",
+    "companions": "Pair with other sun-loving, lean-soil, drought-tolerant perennials and grasses — pincushion flower, blanket flower, yarrow, lavender, catmint, and fine prairie grasses — that share its xeric, well-drained needs and complement the airy blue flowers and silvery buds.[1][2]"
+  },
+  "fact_src": {
+    "size": [
+      1,
+      2
+    ],
+    "sun": [
+      1,
+      2
+    ],
+    "water": [
+      1,
+      2
+    ],
+    "spread": [
+      1,
+      2
+    ],
+    "seasons": [
+      1,
+      2
+    ],
+    "wildlife": [
+      1,
+      2
+    ],
+    "deer": [
+      1
+    ],
+    "origin": [
+      1,
+      3
+    ],
+    "habitat": [
+      1,
+      3
+    ],
+    "ph": [
+      2,
+      1
+    ]
+  },
+  "edible": {
+    "level": "inedible",
+    "summary": "Cupid's dart is an ornamental aster relative grown for its flowers and everlasting buds — there is no documented edible use, so don't eat it; it is not notably poisonous, but it is not a food plant either.[1][2]",
+    "caution": "Catananche caerulea is grown strictly as an ornamental and dried-flower plant. Authoritative horticultural sources record no culinary use and no established food record for any part — flowers, foliage, or roots — and likewise flag no notable toxicity. With no positive edible record, treat it as a non-food plant and do not eat it. (It belongs to the daisy/aster family; people with composite-family sensitivities should also avoid handling it freely.)[1][2]"
+  },
+  "references": [
+    {
+      "name": "Missouri Botanical Garden Plant Finder — Catananche caerulea",
+      "url": "https://www.missouribotanicalgarden.org/plantfinder/PlantFinderDetails.aspx?taxonid=277287"
+    },
+    {
+      "name": "Royal Horticultural Society — Catananche caerulea 'Major' (Cupid's dart)",
+      "url": "https://www.rhs.org.uk/plants/82052/catananche-caerulea-major/details"
+    },
+    {
+      "name": "Wikipedia — Catananche caerulea",
+      "url": "https://en.wikipedia.org/wiki/Catananche_caerulea"
+    }
+  ],
+  "shots": [
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/264045090/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — tidy grassy clump of grey-green basal leaves throwing wiry near-leafless stems topped with papery silvery buds, the whole-plant habit · © hadjira-benmebarek (CC-BY-NC) / iNaturalist",
+      "by": "hadjira-benmebarek",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/152978864"
+    },
+    {
+      "local": "images/su-flower-t.jpg",
+      "full": "images/su-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/206106712/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — flower face-on: fringed, toothed lavender-blue rays around a darker eye · © lkrauel (CC-BY-NC) / iNaturalist",
+      "by": "lkrauel",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/121775422"
+    },
+    {
+      "local": "images/su-flower2-t.jpg",
+      "full": "images/su-flower2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/204359981/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — a crisp blue cornflower-like head, fringed ray tips and a dark central eye · © chrems (CC-BY-NC) / iNaturalist",
+      "by": "chrems",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/120802864"
+    },
+    {
+      "local": "images/su-buds-t.jpg",
+      "full": "images/su-buds.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/204159421/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — the distinctive papery, silvery, strawy involucral bracts that make the buds everlasting · © Mehdi Chetibi (CC-BY) / iNaturalist",
+      "by": "Mehdi Chetibi",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/120693060"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/384501777/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — narrow grey-green basal foliage beside an open flower and spent papery bract · © no rights reserved (CC0) / iNaturalist",
+      "by": "no rights reserved",
+      "lic": "CC0",
+      "link": "https://www.inaturalist.org/observations/217352227"
+    },
+    {
+      "local": "images/su-mass-t.jpg",
+      "full": "images/su-mass.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/566411866/large.jpg",
+      "s": "summer",
+      "cap": "Summer — a flowering drift of lavender-blue Cupids dart in the open, showing how it reads massed · © Nicolas HELITAS (CC-BY-NC) / iNaturalist",
+      "by": "Nicolas HELITAS",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/313642267"
+    },
+    {
+      "local": "images/su-bloom-t.jpg",
+      "full": "images/su-bloom.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/608697713/large.jpg",
+      "s": "summer",
+      "cap": "Summer — a cluster of blooms and buds on the wiry branching stems · © matthias2t (CC-BY-NC) / iNaturalist",
+      "by": "matthias2t",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/335103076"
+    },
+    {
+      "local": "images/su-seedhead-t.jpg",
+      "full": "images/su-seedhead.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/89787317/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — silvery papery seedhead, the dried everlasting bract · © Gaël (CC-BY-NC) / iNaturalist",
+      "by": "Gaël",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/56346122"
+    }
+  ]
+}

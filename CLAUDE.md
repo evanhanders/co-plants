@@ -490,6 +490,13 @@ sections to "fix" it.
 `"collection":"<id>"` on each member `plant.json`. Two members minimum to get a family card. No
 `app.js` change needed.
 
+**Section collapse + scroll (`wireGroupHeads`).** Group headers are `position:sticky;top:0`, so
+they collapse in place (no re-render → scroll/sibling state kept). When you collapse a section
+you've **scrolled past** (its sticky header is stuck at the top), the vanished cards would otherwise
+drop you at an arbitrary spot, so the handler snaps that header to the viewport top
+(`window.scrollTo(0, sectionDocTop)` when `sectionTop < pageYOffset`) — the next section then sits
+right below it. Collapsing a header that's still in view doesn't scroll.
+
 **Accessibility.** Photos are `role="button" tabindex="0"` with descriptive per-shot `alt`;
 group-collapse chevrons are real `<button>`s with `aria-expanded`; the lightbox is a
 `role="dialog" aria-modal` with focus move-in, a Tab focus-trap, focus-return to

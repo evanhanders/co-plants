@@ -24,6 +24,11 @@
   "toxic": "Not toxic to people; seeds are eaten — note hulls/foliage can be a mild digestive irritant to pets in quantity",
   "winter": false,
   "verified": "2026-06-06",
+  "ph": {
+    "min": 6.0,
+    "ideal": 6.8,
+    "max": 7.5
+  },
   "care": {
     "hardiness": "Grown as a warm-season annual — the wild common sunflower completes its whole life cycle in one season and is killed by the first hard frost, so winter hardiness is not a concern on the Front Range.[1][3]",
     "planting": "Direct-sow outdoors where it is to grow after the danger of frost has passed and the soil has warmed — roughly mid-to-late May in Boulder. It taproots and resents transplanting, so sow in place. In containers use a deep, wide pot (at least 12 in) for the giant single-stem types and water daily in summer heat and wind; branching wild types are lankier and better in the ground. As an annual, pot plants finish at the first hard frost with no overwintering.[1][2]",
@@ -99,6 +104,9 @@
     "toxic": [
       1,
       4
+    ],
+    "ph": [
+      1
     ]
   },
   "shots": [

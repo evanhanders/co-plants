@@ -24,6 +24,11 @@
   "verified": "2026-06-03",
   "origin": "Southwestern US — Arizona and New Mexico; also N. Mexico (Sierra Madre)",
   "habitat": "Dry, rocky open slopes and canyon walls in pine-oak woodlands",
+  "ph": {
+    "min": 6.5,
+    "ideal": 7.2,
+    "max": 8.0
+  },
   "care": {
     "hardiness": "USDA zones 4–9, fully winter-hardy on the Front Range (zones 5b–6a) with excellent drainage. The evergreen foliage remains attractive through Boulder winters, occasionally browning at tips in hard cold but rebounding in spring.[1][2]",
     "planting": "Plant in-ground in spring (mid-April to May) or early fall (September) when soils are workable and temperatures are moderate. Excellent drainage is non-negotiable: avoid heavy, wet clay without significant amendment — raised beds or a gravel-mulched slope suit it best. In containers, use a well-drained cactus/alpine mix; container roots are far less cold-hardy than in-ground roots, so overwinter pots in an unheated garage or sink them into the ground with mulch over the rim. Container plants also dry out quickly in Front Range wind and sun — check moisture more frequently than in-ground plants.[2]",
@@ -72,6 +77,10 @@
     ],
     "habitat": [
       1
+    ],
+    "ph": [
+      1,
+      2
     ]
   },
   "edible": {

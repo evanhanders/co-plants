@@ -1,0 +1,71 @@
+[
+  {
+    "file": "images/sp-flower-orange.jpg",
+    "by": "David J. Stang",
+    "license": "CC-BY-SA",
+    "source": "https://commons.wikimedia.org/wiki/File:Rhododendron_Northern_Lights_0zz.jpg",
+    "dataset": "Wikimedia Commons",
+    "note": "Cultivar Rhododendron 'Northern Lights' (orange) — Lights series, U. of Minnesota"
+  },
+  {
+    "file": "images/sp-flower-yellow.jpg",
+    "by": "wlcutler",
+    "license": "CC-BY-SA",
+    "source": "https://commons.wikimedia.org/wiki/File:20120515_EntranceToGranvilleIs_NorthernHi-LightsAzalea_Cutler_P1230724.jpg",
+    "dataset": "Wikimedia Commons",
+    "note": "Cultivar Rhododendron 'Northern Hi-Lights' (yellow) — Lights series"
+  },
+  {
+    "file": "images/sp-flower-yellow2.jpg",
+    "by": "Elsa Blaine",
+    "license": "CC-BY",
+    "source": "https://commons.wikimedia.org/wiki/File:Rhododendron_'Northern_Hi-Lights'.jpg",
+    "dataset": "Wikimedia Commons",
+    "note": "Cultivar Rhododendron 'Northern Hi-Lights' (yellow) — Lights series"
+  },
+  {
+    "file": "images/sp-flower-pink.jpg",
+    "photo_id": 638517795,
+    "by": "Matt Tomlinson",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/photos/638517795",
+    "dataset": "iNaturalist open data",
+    "note": "Species-representative parent Rhododendron prinophyllum (roseshell azalea)"
+  },
+  {
+    "file": "images/sp-habit.jpg",
+    "photo_id": 201682626,
+    "by": "Ruth Brooks",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/photos/201682626",
+    "dataset": "iNaturalist open data",
+    "note": "Species-representative parent Rhododendron prinophyllum — habit in bloom"
+  },
+  {
+    "file": "images/su-foliage.jpg",
+    "photo_id": 99735202,
+    "by": "Bonnie Semmling",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/photos/99735202",
+    "dataset": "iNaturalist open data",
+    "note": "Species-representative parent Rhododendron prinophyllum — foliage"
+  },
+  {
+    "file": "images/fa-foliage.jpg",
+    "photo_id": 582321828,
+    "by": "abelkinser",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/photos/582321828",
+    "dataset": "iNaturalist open data",
+    "note": "Species-representative parent Rhododendron prinophyllum — autumn foliage"
+  },
+  {
+    "file": "images/wi-bare.jpg",
+    "photo_id": 178629504,
+    "by": "Matt Nusstein",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/photos/178629504",
+    "dataset": "iNaturalist open data",
+    "note": "Species-representative parent Rhododendron prinophyllum — bare winter twigs with buds"
+  }
+]

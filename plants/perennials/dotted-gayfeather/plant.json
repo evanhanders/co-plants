@@ -24,6 +24,11 @@
   "toxic": "",
   "winter": false,
   "verified": "2026-06-06",
+  "ph": {
+    "min": 6.5,
+    "ideal": 7.3,
+    "max": 8.2
+  },
   "shots": [
     {
       "local": "images/fa-flower-t.jpg",
@@ -152,6 +157,10 @@
       1
     ],
     "deer": [
+      2
+    ],
+    "ph": [
+      1,
       2
     ]
   },

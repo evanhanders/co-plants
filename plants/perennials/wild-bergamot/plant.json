@@ -24,6 +24,11 @@
   "toxic": "",
   "winter": false,
   "verified": "2026-06-01",
+  "ph": {
+    "min": 5.5,
+    "ideal": 6.8,
+    "max": 8.0
+  },
   "care": {
     "hardiness": "Hardy to USDA Zone 3 (Zone 3–9 across its full range), and fully winter-hardy on the Front Range (Zone 5b–6a). The Colorado Native Plant Society notes it grows to 9,000 ft in Colorado — Boulder winters are no challenge at all. Stems die back to the ground after frost; the spreading rhizome overwinters without protection and re-sprouts vigorously in spring.[1][2]",
     "sun": "Full sun is best — 6+ hours produces the tallest, showiest plants and the most pollinator activity. It tolerates light (morning) shade, especially at lower elevations where afternoon heat is intense, but too much shade leads to leggier plants and more powdery mildew. On the Front Range, an open, sunny spot with good airflow is ideal.[2][3]",
@@ -71,6 +76,9 @@
     "toxic": [
       4,
       5
+    ],
+    "ph": [
+      2
     ]
   },
   "edible": {

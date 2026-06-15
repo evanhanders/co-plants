@@ -22,6 +22,11 @@
   "toxic": "",
   "winter": false,
   "verified": "2026-06-06",
+  "ph": {
+    "min": 5.5,
+    "ideal": 6.5,
+    "max": 7.8
+  },
   "shots": [
     {
       "local": "images/su-flower-t.jpg",
@@ -119,6 +124,9 @@
       1
     ],
     "wildlife": [
+      1
+    ],
+    "ph": [
       1
     ]
   },

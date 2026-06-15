@@ -23,6 +23,11 @@
   "verified": "2026-06-04",
   "origin": "Cultivated red raspberry — Eurasian Rubus idaeus crossed with the North American native subspecies",
   "habitat": "Wild raspberries grow in clearings, woodland edges, burns, and rocky slopes across the cool northern hemisphere",
+  "ph": {
+    "min": 5.5,
+    "ideal": 6.2,
+    "max": 6.8
+  },
   "care": {
     "hardiness": "Red raspberries are the hardiest of the brambles and the most dependable along the Front Range; some varieties withstand around -35°F, so a Boulder zone 5b–6a winter is no obstacle. 'Caroline' is a vigorous fall-bearing (primocane) red raspberry well suited to the region.[1][2]",
     "planting": "Plant dormant bare-root or container canes in early spring (April) before they leaf out, setting the crown at the depth it grew in the nursery; spring planting lets the roots establish before summer heat. Choose a permanent, full-sun bed with good drainage — raspberries resent wet feet and root-rot in soggy ground. Raspberries are poor long-term container plants (they sucker and want a deep, cool, moist root run), but in a large tub they survive a season; remember a potted root ball freezes far harder than ground-planted roots, so sink or heavily insulate the pot over winter and water often, as containers dry fast in the semi-arid climate. Best practice on the Front Range is to plant them in the ground in a dedicated row.[1][2]",
@@ -72,6 +77,10 @@
       3
     ],
     "habitat": [
+      3
+    ],
+    "ph": [
+      1,
       3
     ]
   },

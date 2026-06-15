@@ -25,6 +25,11 @@
   "verified": "2026-06-13",
   "origin": "Mountains of southern & central Europe (Alps, Pyrenees, Apennines, Dinarides)",
   "habitat": "Rocky alpine slopes, screes, grassland crevices, and stony siliceous soils",
+  "ph": {
+    "min": 6.0,
+    "ideal": 7.0,
+    "max": 8.0
+  },
   "care": {
     "hardiness": "Extremely cold-hardy — USDA zones 3a–8b. Sempervivum tectorum tolerates temperatures as low as -30 °C and is one of the few succulents that thrives through a Front-Range winter without any protection.[1][2] The critical caveat is drainage: cold and dry = fine; cold and wet = fatal. Our semi-arid winters are nearly ideal, but never plant where snow-melt or irrigation pools around the crown.[1]",
     "planting": "Plant in spring (late April through May) once the soil has warmed, or by mid-summer so roots establish before cold. The one non-negotiable requirement is sharp drainage: raised beds, rock gardens, scree mixes, gravel slopes, and wall crevices are ideal on the Front Range. Amend heavy clay heavily with coarse grit (50% by volume) or plant above grade in a raised berm. In containers — very striking in hypertufa pots or alpine troughs — the roots are fully exposed; keep the container dry through the winter and bring it into a cold, frost-free space (unheated garage) if a wet freeze threatens.[1][2]",
@@ -90,6 +95,10 @@
       2
     ],
     "habitat": [
+      2
+    ],
+    "ph": [
+      1,
       2
     ]
   },

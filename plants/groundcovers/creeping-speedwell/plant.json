@@ -23,6 +23,11 @@
   "verified": "2026-06-03",
   "origin": "NE Turkey to the Caucasus (W. Asia)",
   "habitat": "Rocky hillsides and dry stony ground in the temperate zone",
+  "ph": {
+    "min": 6.0,
+    "ideal": 7.0,
+    "max": 8.0
+  },
   "care": {
     "hardiness": "Hardy to USDA zone 3 — among the most cold-tolerant groundcovers available and well-proven on the Front Range (zones 5b–6a). A Plant Select introduction tested specifically for Colorado conditions; it is fully perennial here. The mat is reliably evergreen, retaining dark green foliage through winter; it may take on attractive purplish tints when exposed to intense summer sun. No winter protection is needed.[1]",
     "planting": "Plant in spring (April–May) or early fall (August–mid-September) on the Front Range. Spring planting is easiest: nursery plugs or divisions establish quickly in warming soil before summer. Fall planting by early September gives plants time to root before the ground freezes. Space plants 12–15 in. apart; the mat fills in completely within one to two seasons. Turkish speedwell thrives between stepping stones and pavers — set it at the same time you lay the stone, tucking plugs into gaps, or plant along edges and let it creep in. In containers, it forms a neat low carpet but does not trail dramatically; container roots tolerate Front Range winters better than most tender perennials since the plant is fully zone 3 hardy, though sinking pots to the rim or sheltering in an unheated garage over winter is still prudent on exposed patios.[1]",
@@ -68,6 +73,9 @@
     ],
     "habitat": [
       3
+    ],
+    "ph": [
+      1
     ]
   },
   "edible": {

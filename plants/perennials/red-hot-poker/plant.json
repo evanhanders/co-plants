@@ -26,6 +26,11 @@
     "fall"
   ],
   "verified": "2026-06-10",
+  "ph": {
+    "min": 6.0,
+    "ideal": 6.8,
+    "max": 7.5
+  },
   "shots": [
     {
       "local": "images/su-flower-t.jpg",
@@ -170,6 +175,9 @@
     ],
     "habitat": [
       1
+    ],
+    "ph": [
+      2
     ]
   }
 }

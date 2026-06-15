@@ -26,6 +26,11 @@
   "verified": "2026-06-01",
   "origin": "Europe to west-central Asia",
   "habitat": "Dry meadows, steppes, and open rocky slopes",
+  "ph": {
+    "min": 6.0,
+    "ideal": 7.2,
+    "max": 7.8
+  },
   "care": {
     "hardiness": "USDA zones 4a–8b — thoroughly cold-hardy on the Front Range (5b–6a) with no special winter protection needed. The low rosette of aromatic foliage often stays semi-evergreen under snow and leafs out reliably each spring.[1][2]",
     "sun": "Full sun is essential — 6+ hours of direct sun daily. It will grow in part shade but blooms sparsely, flops, and becomes more susceptible to crown rot. The intense high-altitude Front Range sun is exactly what this plant loves.[1][2]",
@@ -73,6 +78,9 @@
       2
     ],
     "habitat": [
+      2
+    ],
+    "ph": [
       2
     ]
   },

@@ -23,6 +23,11 @@
     "fall"
   ],
   "verified": "2026-06-07",
+  "ph": {
+    "min": 6.0,
+    "ideal": 7.0,
+    "max": 8.0
+  },
   "shots": [
     {
       "local": "images/fa-flower-t.jpg",
@@ -185,6 +190,9 @@
     "toxic": [
       3,
       4
+    ],
+    "ph": [
+      3
     ]
   }
 }

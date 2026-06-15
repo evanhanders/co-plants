@@ -28,6 +28,11 @@
   "verified": "2026-06-04",
   "origin": "South Africa (Cape region) — garden hybrid of P. grandiflorum and P. cucullatum",
   "habitat": "Rocky mountain slopes and coastal scrub of the South African Cape",
+  "ph": {
+    "min": 6.0,
+    "ideal": 6.5,
+    "max": 7.5
+  },
   "care": {
     "hardiness": "A tender hybrid hardy only to about USDA zones 10–11, so on the Front Range (Boulder, ~5b–6a) it is grown as an annual or overwintered indoors — any frost kills it.[1][2]",
     "planting": "Set out only after the last frost — after mid-May on the Front Range — but note that the regal type is fundamentally a cool-season bloomer: it flowers best in the cooler weather of late spring and early summer and needs consistently cool nights to set buds. Give it a cooler, part-shade spot rather than a baking bed. It is most rewarding grown in pots so it can be moved to shelter; before the first fall frost overwinter it as a bright, cool (50–60°F) indoor houseplant — where it often reblooms in winter — or store the dormant, cut-back plant in a cool, dark basement.[1][2]",
@@ -73,6 +78,9 @@
       1
     ],
     "habitat": [
+      1
+    ],
+    "ph": [
       1
     ]
   },

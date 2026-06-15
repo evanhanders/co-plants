@@ -1,0 +1,183 @@
+{
+  "common": "Rhododendron 'PJM'",
+  "botanical": "Rhododendron 'PJM' (PJM Group)",
+  "type": "Shrub",
+  "lifecycle": "Perennial",
+  "native": "Non-native",
+  "flower_color": [
+    "pink",
+    "purple"
+  ],
+  "bloom": [
+    "spring"
+  ],
+  "blurb": "The most Front-Range-hardy evergreen rhododendron — small leathery leaves that bronze deep purple in winter, smothered in lavender-pink flowers in early-mid spring. One of the very few rhodies that survives here, but ONLY with serious acid-soil work.",
+  "size": "3–6 ft × 3–7 ft",
+  "sun": "Part shade — 2–6 hours direct sun; afternoon shade and wind shelter on the Front Range",
+  "water": "Moderate — even, steady moisture; never bone-dry and never waterlogged",
+  "spread": "Clumping — a dense rounded evergreen mound; no suckering or self-sowing",
+  "seasons": "Lavender-pink flower clusters early-mid spring; small leathery evergreen leaves all year; foliage flushes mahogany-purple through winter cold",
+  "wildlife": "Early-spring nectar for queen bumblebees and other bees emerging on warm days; deer tend to leave the toxic foliage alone",
+  "deer": "Usually deer-resistant — the grayanotoxin foliage deters browsing",
+  "toxic": "Toxic to people, dogs, cats, horses and livestock — all parts contain grayanotoxins; even the flower nectar yields poisonous 'mad honey'",
+  "winter": true,
+  "verified": "2026-06-15",
+  "origin": "Garden hybrid (R. carolinianum × R. dauricum); parent species from the SE-US Appalachian mountains & NE Asia",
+  "habitat": "Wild parents grow in acidic, humus-rich montane woodland — rocky Appalachian slopes and cool NE-Asian uplands",
+  "ph": {
+    "min": 4.5,
+    "ideal": 5.2,
+    "max": 6.0
+  },
+  "care": {
+    "hardiness": "USDA zones 4–8 — the toughest, most cold-hardy of the evergreen rhododendrons and the realistic choice for the Front Range (zones 5b–6a). Bred at Weston Nurseries from R. carolinianum × R. dauricum specifically for hardiness, the flower buds and evergreen foliage shrug off our winter lows; the leaves curl and flush mahogany-purple in the cold and re-green in spring. Hardiness is rarely the limiting factor here — soil is.[1][2]",
+    "planting": "Plant in early spring (April) or early fall (September) so roots establish in mild soil — but the bigger decision is *where* and in *what*. Do NOT drop it into native Boulder clay: build a raised bed or amended pocket 18–24 in deep of an acidic, organic, sharply-drained mix (≈50% peat or composted pine bark/fines, with elemental sulfur worked in months ahead to push pH toward 5). Set the rootball slightly high — the shallow fibrous roots rot if buried or waterlogged — and mulch. In a container use a true ericaceous/acid mix and remember container roots are far less cold-hardy than the crown: sink the pot or shelter it over winter.[1][2]",
+    "sun": "Give it part shade — about 2–6 hours of direct sun, ideally morning sun with afternoon shade. On the Front Range's intense high-altitude exposure, a spot sheltered from hot afternoon sun and from drying winter wind is essential; full all-day sun scorches the evergreen leaves and a windy winter site desiccates them (broadleaf evergreens lose water on sunny cold days when the frozen roots can't replace it).[1]",
+    "soil": "This is the whole game. Rhododendron is an acid-loving plant that CSU Extension names among those 'highly susceptible to iron chlorosis and not suited to Colorado's soil conditions' — Boulder's naturally alkaline clay (pH often 7.5+) is effectively fatal to it untreated. It needs a strongly acidic (pH ~4.5–6.0, ideal ~5.0–5.5), high-organic, sharply-drained root run: an amended raised bed or pocket of peat plus pine bark fines, acidified with elemental sulfur applied well ahead of planting. Where our soils carry free lime, sulfur alone is slow and only partly effective, so chelated iron (EDDHA, which still works above pH 7.5) treats the inevitable interveinal yellowing, and an acidic mulch (pine needles, pine-bark fines) helps hold the pH down — but conifer needles alone will NOT acidify clay; the bed has to be built acidic from the start. Honest bottom line: this plant is only happy here as a deliberately engineered, maintained acid pocket.[1][2]",
+    "water": "Keep the soil evenly, steadily moist — never bone-dry, never waterlogged. The shallow fibrous roots have no drought reserve, so in Boulder's semi-arid summers plan on a deep soak roughly every 5–7 days in heat, tapering in fall, plus a thick acidic mulch to buffer moisture. Crucially, water it well going into winter and on warm dry winter days: an evergreen rhodo transpires through sunny cold spells and winter drought-scorches the leaves if the root zone went into freeze-up dry. Sharp drainage in the bed prevents the root rot that the same constant moisture would otherwise invite.[1]",
+    "spacing": "Allow 4–6 ft between plants — mature size is roughly 3–6 ft tall and 3–7 ft wide and the rounded form looks best uncrowded. As a specimen or in a small acid-bed grouping, give each plant room for air circulation, which also reduces foliar disease.[1]",
+    "propagation": "By seed it does not come true (it's a named hybrid), so propagate vegetatively: semi-hardwood stem cuttings taken in mid-late summer, wounded at the base, dipped in rooting hormone and held under high humidity in an acidic, sharply-drained rooting mix root over several weeks to months. Simple layering also works — pin a low flexible branch into amended acidic soil, wound it, and let it root before severing the following season. Commercial growers also use tissue culture. All routes demand the same acidic, well-drained medium the mature plant needs.[1]",
+    "bloom": "Flowers open in early to mid spring — among the earlier rhododendrons — in showy rounded clusters (trusses) of lavender-pink to rosy-purple. Bloom is heaviest with adequate sun (the part-shade minimum of a few hours) and is set on the previous season's wood, so anything that damages last year's growth or buds costs you flowers. A single strong flush lasts a couple of weeks; deadheading spent trusses tidies the plant but isn't required.[1]",
+    "feeding": "Feed lightly with a fertilizer formulated for acid-loving / ericaceous plants (azalea–rhododendron food) once in early spring as growth resumes; these blends also help nudge the soil acidic. Avoid heavy or high-nitrogen feeding, which forces soft growth at the expense of bloom and winter hardiness. In our alkaline ground, a spring application of chelated iron (EDDHA) is effectively part of the feeding program — it corrects the interveinal chlorosis the high pH causes.[1][2]",
+    "maintenance": "Low pruning needs: shape or reduce *right after flowering*, since the buds for next spring form on this year's new growth and late-season or winter pruning removes the coming bloom. Pinching spent trusses encourages branching. The real annual work here is soil maintenance, not pruning — refresh acidic mulch, watch for and treat chlorosis with chelated iron, monitor soil pH, and keep winter and dry-spell watering up.[1][2]",
+    "troubles": "On the Front Range the #1 problem is iron chlorosis (yellow leaves with green veins) driven by our high soil pH — treat with chelated iron and keep the bed acidified. Root and crown rot (Phytophthora) follow poor drainage or overwatering, so the sharply-drained acidic bed is preventive, not optional. Leaf scorch comes from too much sun, drying wind, or winter desiccation. Lace bugs, aphids, scale, spider mites and borers can appear; treat with insecticidal soap or horticultural oil as needed. Powdery mildew and stem canker are occasional. Most failures here trace back to soil pH, drainage, or winter exposure rather than cold.[1]",
+    "companions": "Group it with other acid-loving, part-shade plants that share the engineered acid bed and pine-needle/pine-bark mulch — the companion-planting payoff of building one acidic pocket and filling it with plants that all want the same conditions. Pair with other ericaceous and woodland acid-lovers and underplant with early spring bulbs that bloom alongside it; site the whole bed in dappled shade sheltered from hot afternoon sun and winter wind. Do NOT mix it into a conventional xeric, alkaline-clay border, where it will languish.[1][2]"
+  },
+  "fact_src": {
+    "size": [
+      1
+    ],
+    "sun": [
+      1
+    ],
+    "water": [
+      1
+    ],
+    "spread": [
+      1
+    ],
+    "seasons": [
+      1
+    ],
+    "wildlife": [
+      1,
+      3
+    ],
+    "deer": [
+      1,
+      3
+    ],
+    "toxic": [
+      1,
+      3
+    ],
+    "origin": [
+      1,
+      4
+    ],
+    "habitat": [
+      1,
+      4
+    ],
+    "ph": [
+      1,
+      2
+    ]
+  },
+  "edible": {
+    "level": "toxic",
+    "food": false,
+    "summary": "Do not eat — every part of any rhododendron or azalea is poisonous, and even honey made from the nectar is toxic.[1][3]",
+    "caution": "All parts of Rhododendron 'PJM' — leaves, flowers, stems, and nectar/pollen — contain grayanotoxins, which disrupt nerve, skeletal-muscle and cardiac-muscle function. Ingestion causes drooling, vomiting, diarrhea, weakness, loss of coordination, dangerously low heart rate and blood pressure, and in serious cases collapse, coma, or death; it is toxic to people, dogs, cats, horses, and grazing livestock (sheep and goats will browse it). Honey made by bees from rhododendron/azalea nectar — the classic 'mad honey' — carries the toxin and has poisoned people. There is no preparation that makes any part safe to eat. Plant where pets, children, and livestock cannot browse it, and call poison control or a veterinarian (ASPCA Animal Poison Control, 888-426-4435) if ingestion is suspected.[1][3]"
+  },
+  "references": [
+    {
+      "name": "NC State Extension Gardener Plant Toolbox — Rhododendron PJM Group",
+      "url": "https://plants.ces.ncsu.edu/plants/rhododendron-pjm-group/"
+    },
+    {
+      "name": "CSU Extension — Iron Chlorosis of Woody Plants (acid-loving plants in Colorado's alkaline soils)",
+      "url": "https://extension.colostate.edu/resource/iron-chlorosis-of-woody-plants/"
+    },
+    {
+      "name": "ASPCA Animal Poison Control — Rhododendron / Azalea (grayanotoxins; toxic to dogs, cats, horses)",
+      "url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/rhododendron"
+    },
+    {
+      "name": "Wikipedia — Rhododendron minus (R. carolinianum; SE-US Appalachian native range of the PJM parent)",
+      "url": "https://en.wikipedia.org/wiki/Rhododendron_minus"
+    }
+  ],
+  "shots": [
+    {
+      "local": "images/sp-habit-t.jpg",
+      "full": "images/sp-habit.jpg",
+      "commons": "Rhododendron 'PJM' 001.JPG",
+      "s": "spring",
+      "cap": "Spring — the whole rounded shrub smothered in lavender-pink bloom · © SB Johnny (CC-BY-SA) / Wikimedia Commons",
+      "by": "SB Johnny",
+      "lic": "CC-BY-SA",
+      "link": "https://commons.wikimedia.org/wiki/File:Rhododendron_%27PJM%27_001.JPG"
+    },
+    {
+      "local": "images/wi-habit-t.jpg",
+      "full": "images/wi-habit.jpg",
+      "commons": "Rhododendron PJM 21 4 2017 Kaisaniemi 0002.jpg",
+      "s": "winter",
+      "cap": "Late winter — evergreen mound holding its leathery leaves through the cold · © Nucatum amygdalarum (CC-BY-SA) / Wikimedia Commons",
+      "by": "Nucatum amygdalarum",
+      "lic": "CC-BY-SA",
+      "link": "https://commons.wikimedia.org/wiki/File:Rhododendron_PJM_21_4_2017_Kaisaniemi_0002.jpg"
+    },
+    {
+      "local": "images/sp-flower-t.jpg",
+      "full": "images/sp-flower.jpg",
+      "commons": "Rhododendron Pjm 1zz.jpg",
+      "s": "spring",
+      "cap": "Spring — a truss of ruffled lavender-pink flowers face-on · © David J. Stang (CC-BY-SA) / Wikimedia Commons",
+      "by": "David J. Stang",
+      "lic": "CC-BY-SA",
+      "link": "https://commons.wikimedia.org/wiki/File:Rhododendron_Pjm_1zz.jpg"
+    },
+    {
+      "local": "images/sp-flower2-t.jpg",
+      "full": "images/sp-flower2.jpg",
+      "commons": "Rhododendron Pjm 3zz.jpg",
+      "s": "spring",
+      "cap": "Spring — single flower in crisp detail, long curved stamens · © David J. Stang (CC-BY-SA) / Wikimedia Commons",
+      "by": "David J. Stang",
+      "lic": "CC-BY-SA",
+      "link": "https://commons.wikimedia.org/wiki/File:Rhododendron_Pjm_3zz.jpg"
+    },
+    {
+      "local": "images/sp-bloom-t.jpg",
+      "full": "images/sp-bloom.jpg",
+      "commons": "Rhododendron PJM Thunder 0zz.jpg",
+      "s": "spring",
+      "cap": "Spring — magenta-pink bloom over the dark mahogany-purple winter-flushed foliage · © David J. Stang (CC-BY-SA) / Wikimedia Commons",
+      "by": "David J. Stang",
+      "lic": "CC-BY-SA",
+      "link": "https://commons.wikimedia.org/wiki/File:Rhododendron_PJM_Thunder_0zz.jpg"
+    },
+    {
+      "local": "images/fa-foliage-t.jpg",
+      "full": "images/fa-foliage.jpg",
+      "commons": "Rhododendron PJM 21 4 2017 Kaisaniemi 0004.jpg",
+      "s": "fall",
+      "cap": "Small leathery evergreen leaves flushing red-bronze in the cold · © Nucatum amygdalarum (CC-BY-SA) / Wikimedia Commons",
+      "by": "Nucatum amygdalarum",
+      "lic": "CC-BY-SA",
+      "link": "https://commons.wikimedia.org/wiki/File:Rhododendron_PJM_21_4_2017_Kaisaniemi_0004.jpg"
+    },
+    {
+      "local": "images/sp-flower3-t.jpg",
+      "full": "images/sp-flower3.jpg",
+      "commons": "Rhododendron Pjm 9zz.jpg",
+      "s": "spring",
+      "cap": "Spring — flower clusters set against the purple-tinged evergreen leaves · © David J. Stang (CC-BY-SA) / Wikimedia Commons",
+      "by": "David J. Stang",
+      "lic": "CC-BY-SA",
+      "link": "https://commons.wikimedia.org/wiki/File:Rhododendron_Pjm_9zz.jpg"
+    }
+  ]
+}

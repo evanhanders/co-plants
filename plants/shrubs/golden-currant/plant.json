@@ -22,6 +22,11 @@
   "toxic": "",
   "winter": false,
   "verified": "2026-06-04",
+  "ph": {
+    "min": 6.0,
+    "ideal": 6.5,
+    "max": 8.0
+  },
   "care": {
     "hardiness": "Very cold hardy (USDA zone 2–3) and native across Colorado from the plains to about 8,000 ft, so the Front Range is squarely within range — no winter protection needed. CSU notes currants succeed at elevations up to 10,000 ft, thriving where most other fruit crops fail.[1][2][3]",
     "planting": "Plant dormant or container stock in early spring as soon as the soil can be worked; this is the standard planting window CSU gives for currants. Golden currant transplants and establishes easily. In a container it dries out fast and its roots are far less cold-hardy, so use a large pot, water often, and overwinter the pot in an unheated garage or sink it in the ground — it performs far better planted out.[2][3]",
@@ -68,6 +73,10 @@
     "toxic": [
       1,
       2
+    ],
+    "ph": [
+      1,
+      3
     ]
   },
   "edible": {

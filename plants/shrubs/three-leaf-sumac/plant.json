@@ -21,6 +21,11 @@
   "toxic": "",
   "winter": false,
   "verified": "2026-06-06",
+  "ph": {
+    "min": 6.0,
+    "ideal": 7.0,
+    "max": 8.0
+  },
   "shots": [
     {
       "local": "images/sp-flower-t.jpg",
@@ -150,6 +155,9 @@
       2
     ],
     "deer": [
+      1
+    ],
+    "ph": [
       1
     ]
   },

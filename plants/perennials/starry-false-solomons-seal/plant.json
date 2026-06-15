@@ -21,6 +21,11 @@
     "spring"
   ],
   "verified": "2026-06-07",
+  "ph": {
+    "min": 5.0,
+    "ideal": 6.3,
+    "max": 7.5
+  },
   "care": {
     "hardiness": "A widespread, very cold-hardy North American woodland native whose range runs from Alaska across the cold north, so it sails through Boulder's USDA zone 5b–6a winters as a dependable perennial with no protection.[1][2]",
     "planting": "Set out container plants or rhizome divisions in spring after the soil thaws, or in fall, into dappled or dry shade beneath trees and shrubs. It naturalizes into colonies, so give it room or use it deliberately as a groundcover. It takes Boulder's alkaline clay, though it appreciates a humus-rich, leafy soil; in pots use a free-draining woodland mix, keep it shaded and evenly moist through the growing season, and let it dry as it goes dormant.[2][3]",
@@ -96,6 +101,9 @@
     "toxic": [
       1,
       4
+    ],
+    "ph": [
+      1
     ]
   },
   "shots": [

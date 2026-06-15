@@ -25,6 +25,11 @@
     "summer"
   ],
   "verified": "2026-06-11",
+  "ph": {
+    "min": 6.5,
+    "ideal": 7.2,
+    "max": 8.0
+  },
   "shots": [
     {
       "local": "images/su-flower-t.jpg",
@@ -193,6 +198,10 @@
       2
     ],
     "habitat": [
+      1,
+      2
+    ],
+    "ph": [
       1,
       2
     ]

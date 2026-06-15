@@ -25,6 +25,11 @@
   "habitat": "Cultivated fields and disturbed ground; the only amaranth grown above ~2,500 m in the Andes",
   "winter": false,
   "verified": "2026-06-06",
+  "ph": {
+    "min": 6.0,
+    "ideal": 6.5,
+    "max": 7.5
+  },
   "care": {
     "hardiness": "Grown as a warm-season annual across USDA zones 2–11 — it completes its life in a single season and is killed by the first hard frost, so winter hardiness is not a concern on the Front Range.[1]",
     "planting": "A frost-tender warm-season annual: do not set plants or sow seed outside until after Boulder's average last frost, roughly May 10–15, and the soil has warmed.[3] You can start seed indoors 4–6 weeks before that and harden off, but amaranth grows so fast from direct seed that sowing in place is simplest. In containers use a deep, well-drained pot in full sun; potted plants dry out far faster in Front Range heat and wind, so check moisture daily. There is no overwintering — the plant dies at the first hard freeze.[1][3]",
@@ -104,6 +109,9 @@
     ],
     "habitat": [
       4
+    ],
+    "ph": [
+      1
     ]
   },
   "shots": [

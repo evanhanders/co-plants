@@ -22,6 +22,11 @@
   "toxic": "ALL PARTS TOXIC — contains protoanemonin; causes digestive distress and mouth irritation if ingested; fresh sap causes skin inflammation and blistering. Handle with gloves. Keep away from children, pets, and livestock.",
   "winter": true,
   "verified": "2026-06-03",
+  "ph": {
+    "min": 6.5,
+    "ideal": 7.2,
+    "max": 7.8
+  },
   "care": {
     "hardiness": "USDA zones 3a–8b — native to the Colorado Rockies and High Plains and among the hardiest Front Range perennials. Established taproot clumps are reliably winter-hardy in Boulder's 5b–6a climate with no mulch or protection needed.[1][2]",
     "planting": "Plant container-grown transplants in spring (Apr–May) or early fall (Sep). Choose the permanent site carefully — pasque flower has a deep taproot and resents being moved once established. Well-drained to dry, south- or east-facing slopes mimic its native prairie and open-woods habitat. Work some coarse grit or gravel into heavy clay at planting to improve drainage. In containers, use a fast-draining alpine or cactus mix in an unglazed terra-cotta pot; the Front Range's intense sun and wind dry containers rapidly — check moisture every day or two in summer. Container roots are more vulnerable to freeze-thaw than in-ground roots; sink the pot or move it to an unheated but protected spot (garage, cold frame) through winter.[1]",
@@ -64,6 +69,10 @@
       2
     ],
     "toxic": [
+      2
+    ],
+    "ph": [
+      1,
       2
     ]
   },

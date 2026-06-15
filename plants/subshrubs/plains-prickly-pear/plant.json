@@ -23,6 +23,11 @@
   "toxic": "Not chemically toxic; the real hazard is glochids — tiny, barbed, easily-detached bristles that lodge painfully in skin, eyes, and mouth; handle only with thick gloves or tongs",
   "winter": true,
   "verified": "2026-06-13",
+  "ph": {
+    "min": 6.5,
+    "ideal": 7.5,
+    "max": 8.2
+  },
   "care": {
     "hardiness": "Exceptionally cold hardy — tolerant of temperatures below −40°F (−40°C), surviving Canadian winters from Alberta to Saskatchewan. USDA hardiness zones 3–7 on the Front Range (zones 5b–6a), this plant thrives without any winter protection at all. Unlike most cacti, it tolerates seasonal freeze-thaw cycles in the soil because it naturally desiccates in fall — pads flatten, turn purple-tinged, and become leathery as moisture moves out of the tissue to prevent ice-crystal cell damage.[1][2]",
     "planting": "Plant in spring or early summer once the soil is workable (late Apr–Jun) so roots establish through the warm season before winter. The absolute requirement is sharp drainage — raised beds, gravelly slopes, rocky outcroppings, and xeric rock gardens are ideal sites. In heavy clay, amend deeply with at least 50% coarse sand or pea gravel, or build a raised berm. Planting pads directly works well: use tongs, let the cut end callus in a dry spot for 7–10 days, then press the basal end a few inches into gritty soil. Container culture is possible but pots must be kept completely dry in winter (move to a cold, dry garage or shed; a wet pot will rot the roots). Do NOT plant near a path, patio, or play area — glochids detach on contact and are almost impossible to see or remove.[1][2]",
@@ -79,6 +84,10 @@
       2
     ],
     "toxic": [
+      1,
+      2
+    ],
+    "ph": [
       1,
       2
     ]

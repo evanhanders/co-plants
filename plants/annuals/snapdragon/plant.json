@@ -31,6 +31,11 @@
   "verified": "2026-06-01",
   "origin": "Mediterranean — SW Europe (Spain) and NW Africa (Morocco)",
   "habitat": "Rocky cliffs, walls, and dry stony ground",
+  "ph": {
+    "min": 6.2,
+    "ideal": 6.5,
+    "max": 7.0
+  },
   "care": {
     "hardiness": "Tender perennial (USDA zones 7–10) grown as a cool-season annual on the Front Range (zones 5b–6a). Tolerates light frost, so plants can go in earlier than heat-lovers — transplant to the garden 2–3 weeks before the last average frost (late April in Boulder). They perform best in spring and early fall; summer heat causes them to pause or go dormant, and a hard freeze kills them.[1][2]",
     "sun": "Full sun to part shade — 6+ hours for strongest flowering. In Boulder's intense high-altitude sun, afternoon shade helps snapdragons stay in bloom through the hottest weeks and prevents premature bolting.[1][2]",
@@ -81,6 +86,9 @@
       1
     ],
     "habitat": [
+      1
+    ],
+    "ph": [
       1
     ]
   },

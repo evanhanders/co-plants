@@ -26,6 +26,11 @@
   "habitat": "Stony alpine slopes & steppe with hot, dry summers",
   "winter": false,
   "verified": "2026-06-06",
+  "ph": {
+    "min": 6.0,
+    "ideal": 7.0,
+    "max": 7.8
+  },
   "care": {
     "hardiness": "USDA zones 3a–8b — fully cold-hardy in Boulder and arguably better suited to the Front Range than hybrid tulips, because it actually persists.[1][3] Species (botanical) tulips like T. tarda naturalize and multiply over years in gardens, where large border hybrids decline after the first season; our hot, dry summers mimic its native steppe and let it perennialize.[3]",
     "planting": "Plant the small bulbs in fall, mid-September through late October, before the ground freezes, so they root over winter.[2] Set them pointed-end up about 2–3 times the bulb's height deep — roughly 3–5 in. for these small bulbs — and 3–4 in. apart in a hot, sharply drained spot (a rock garden, gravel bed, the edge of a path, a sunny slope).[2][3] Boulder's clay holds winter and summer moisture; amend the planting pocket with coarse grit and raise the bed if water lingers, since wet soil rots the bulbs. In containers, use a gritty fast-draining mix in a terracotta pot and overwinter it in an unheated garage or cold frame to buffer freeze-thaw; pot bulbs are less cold-protected than in-ground ones.[2]",
@@ -98,6 +103,9 @@
       3
     ],
     "habitat": [
+      3
+    ],
+    "ph": [
       3
     ]
   },

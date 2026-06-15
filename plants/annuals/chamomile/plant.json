@@ -26,6 +26,11 @@
   "verified": "2026-06-03",
   "origin": "Europe and western Asia",
   "habitat": "Disturbed ground, roadsides, and waste places",
+  "ph": {
+    "min": 5.6,
+    "ideal": 6.5,
+    "max": 7.5
+  },
   "care": {
     "hardiness": "Grown as a warm-season annual — it lives a single season and dies at the first hard frost, so winter hardiness isn't a concern; it's reliable wherever summers are frost-free. It is notably cool-tolerant, shrugging off chilly spring and fall weather.[1]",
     "planting": "Direct-sow in the ground around the last frost (mid-May in Boulder) — being cool-tolerant it's fine sown in early-to-mid spring, and you can also fall-sow for an earlier start the next year. It resents transplanting, so sow in place or use deep cells and set out carefully after mid-May. It grows easily in pots (sunny patio or windowsill), but as an annual it simply finishes at the first hard frost — there's nothing to overwinter.[1]",
@@ -74,6 +79,9 @@
       1
     ],
     "habitat": [
+      1
+    ],
+    "ph": [
       1
     ]
   },

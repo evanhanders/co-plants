@@ -27,6 +27,11 @@
   "habitat": "Meadows, woods & rocky ground",
   "winter": false,
   "verified": "2026-06-06",
+  "ph": {
+    "min": 6.0,
+    "ideal": 6.5,
+    "max": 7.5
+  },
   "care": {
     "hardiness": "USDA zones 4a–8b — fully hardy in Boulder's zone 5b–6a and one of the most reliable, longest-lived spring bulbs for the Front Range; established clumps need no winter protection and return for decades, multiplying as they go.[1]",
     "planting": "Plant bulbs in fall, mid-September through late October (early autumn, ideally September), before the soil freezes, so they root over winter.[2][3] Set them pointed-end up about 3 times the bulb's height deep — roughly 6–8 in. for standard bulbs — and 3–6 in. apart.[1][2] Boulder's clay drains slowly; work grit into the planting pocket and avoid spots where water sits, since waterlogged soil rots the bulbs.[1] Choose a site that bakes dry in summer. In containers, use a deep, fast-draining pot and overwinter it in an unheated garage or cold frame to buffer freeze-thaw; potted bulbs are far less cold-protected than in-ground ones.[2]",
@@ -97,6 +102,9 @@
       1
     ],
     "habitat": [
+      1
+    ],
+    "ph": [
       1
     ]
   },

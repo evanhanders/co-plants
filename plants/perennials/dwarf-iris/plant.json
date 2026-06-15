@@ -27,6 +27,11 @@
   "verified": "2026-06-06",
   "origin": "Caucasus, N. & W. Iran, E. Turkey, and N. Iraq",
   "habitat": "Rocky mountain slopes with hot, dry summers and cold winters",
+  "ph": {
+    "min": 6.0,
+    "ideal": 7.0,
+    "max": 7.8
+  },
   "care": {
     "hardiness": "USDA zones 5a–9b — reliably hardy on the Front Range (Boulder ~5b–6a) with no special protection once bulbs are well-drained. Cold winters are not the risk; wet, poorly drained soil in winter is.[1]",
     "planting": "Plant bulbs in fall (Sep–Oct), 4–5 in deep (roughly three times the bulb's diameter) in a sunny, sharply drained spot. Space bulbs 3–4 in apart for a natural-looking drift; planting in groups of 10–20 gives the most visual impact for such a small flower. In containers, use a gritty, fast-draining potting mix in a terracotta pot with drainage holes; overwinter containers in an unheated but frost-protected space if drainage cannot be guaranteed, or sink the pot to its rim in the ground. Boulder's alkaline clay-loam can work if drainage is excellent; on heavy soils, plant in a raised bed or mix coarse grit into the top 6 in.[1]",
@@ -76,6 +81,9 @@
       1
     ],
     "habitat": [
+      1
+    ],
+    "ph": [
       1
     ]
   },

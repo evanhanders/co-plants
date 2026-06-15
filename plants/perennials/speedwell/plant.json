@@ -26,6 +26,11 @@
   "verified": "2026-06-03",
   "origin": "Europe to northern and central Asia (widespread)",
   "habitat": "Dry grasslands, rocky slopes, and open woodland margins",
+  "ph": {
+    "min": 6.0,
+    "ideal": 6.8,
+    "max": 7.8
+  },
   "care": {
     "hardiness": "USDA zones 3–8 — extremely cold-hardy and fully reliable across the Front Range (zones 5b–6a). Emerges early in spring and withstands late frosts without damage. No special winter protection needed; the clump dies to the ground and re-emerges strongly each spring.[1]",
     "planting": "Plant in spring (April–May) after the last frost date or in early fall (August–mid-September) on the Front Range. Spring planting is most common — transplants establish quickly in warming soil before summer heat. Fall planting works if done six or more weeks before a hard freeze so roots can anchor. Set the crown at soil level; do not bury it deeply. In containers (minimum 10–12 in. diameter), spike speedwell makes a tidy, upright accent. Container roots are more exposed to freezing than in-ground crowns — move pots to an unheated but frost-protected space (garage, shed) by late October, or sink the pot to its rim in a sheltered garden bed with mulch over it; do not leave a planted container on an open patio through a Boulder winter.[1]",
@@ -70,6 +75,9 @@
       1
     ],
     "habitat": [
+      1
+    ],
+    "ph": [
       1
     ]
   },

@@ -25,6 +25,11 @@
     "spring",
     "summer"
   ],
+  "ph": {
+    "min": 6.0,
+    "ideal": 6.8,
+    "max": 8.0
+  },
   "care": {
     "hardiness": "Grown as a cool-season annual on the Front Range — it germinates happily in chilly soil (40–50°F / 4–10°C), tolerates light frosts down to about 28°F (−2°C), and runs through its life cycle quickly. It has no winter presence here: established plants are frost-killed by hard freeze, and even a mild fall season ends with the first sharp cold snap. USDA hardiness is reported across zones 2–11 when grown as an annual cool-season crop.[1]",
     "planting": "The Front Range gives arugula two ideal windows. **Spring:** direct-sow from mid-March through April (4–6 weeks before the average last frost of mid-May in Boulder), as soon as the soil can be worked; arugula germinates in cold soil and welcomes the chill. Make succession sowings every 2–3 weeks through early May for continuous picking. Stop sowing when daytime highs reliably clear 75°F — summer heat causes bolting within days of emerging. **Fall:** resume sowing in late July through mid-August (8–10 weeks before the first hard fall frost) for a second harvest that extends into October under a frost cloth. In containers, use a pot at least 6 in deep; containers warm faster in spring so they're ideal for the earliest sowings, but dry out quickly in heat — move pots to shade when temperatures climb. There is no overwintering in the ground or in an unprotected container on the Front Range.[1][2]",
@@ -103,6 +108,10 @@
     ],
     "habitat": [
       1
+    ],
+    "ph": [
+      1,
+      2
     ]
   },
   "shots": [

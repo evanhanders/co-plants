@@ -163,6 +163,28 @@ FLAG_ORDER.forEach(function(k){ if(TRAITS[k].test(p)) flags.push('<span class="f
 return flags.join('');
 }
 
+/* ---------- soil pH preference bar (shared by grid cards + the detail sheet) ----------
+   Reads a plant's optional `ph` object { min, ideal?, max } (the tolerated soil-pH range,
+   plus an optional sweet-spot) and draws a horizontal acidic→alkaline scale (4.0–9.0) with
+   the tolerated range bracketed and a rust diamond at the ideal. Returns '' when absent. */
+const PH_LO=4.0, PH_HI=9.0;
+function phPct(v){ return Math.max(0, Math.min(100, (v-PH_LO)/(PH_HI-PH_LO)*100)); }
+function phNum(v){ return (Math.round(v*10)/10).toFixed(1).replace(/\.0$/,''); }
+function phBarHTML(p, big){
+const ph=p.ph; if(!ph || ph.min==null || ph.max==null) return '';
+const lo=phPct(ph.min), hi=phPct(ph.max), bandL=Math.min(lo,hi), bandW=Math.abs(hi-lo);
+const hasIdeal = ph.ideal!=null;
+const rng = phNum(ph.min)+'–'+phNum(ph.max), idealTxt = hasIdeal ? ' · ideal '+phNum(ph.ideal) : '';
+const label = 'Prefers soil pH '+rng+(hasIdeal?' (ideal '+phNum(ph.ideal)+')':'');
+return '<div class="ph'+(big?' big':'')+'" role="img" aria-label="'+label+'" title="'+label+'">'+
+'<div class="ph-track">'+
+'<div class="ph-band" style="left:'+bandL.toFixed(1)+'%;width:'+bandW.toFixed(1)+'%"></div>'+
+(hasIdeal?'<div class="ph-ideal" style="left:'+phPct(ph.ideal).toFixed(1)+'%"></div>':'')+
+'</div>'+
+'<div class="ph-meta"><span class="ph-end">4 acidic</span><span class="ph-val">pH '+rng+idealTxt+'</span><span class="ph-end">alkaline 9</span></div>'+
+'</div>';
+}
+
 /* ---------- shared plant-card renderer (used by the grid in app.js AND the favourites page) ----------
    A plant's detail page lives at plant.html?p=<category>/<slug>; slugOf/slugTail derive that path from
    the repo `dir` (only seeded plants have one). favBtnFor pulls the heart from the accounts layer
@@ -181,6 +203,7 @@ return '<article class="card"><div class="plate">'+plate+'<span class="corner">'
 '<p class="blurb">'+(p.blurb||'')+'</p><dl class="facts">'+
 '<dt>Size</dt><dd>'+(p.size||'—')+'</dd><dt>Sun</dt><dd>'+(p.sun||'—')+'</dd>'+
 '<dt>Water</dt><dd>'+(p.water||'—')+'</dd><dt>Habit</dt><dd>'+(p.spread||'—')+'</dd>'+
+(p.ph?'<dt class="ph-lbl">Soil pH</dt><dd class="ph-cell">'+phBarHTML(p)+'</dd>':'')+
 '<dt>Seasons</dt><dd>'+(p.seasons||'—')+'</dd><dt>Wildlife</dt><dd>'+(p.wildlife||'—')+'</dd>'+
 '<dt>Deer</dt><dd>'+(p.deer||'—')+'</dd>'+
 (p.edible&&p.edible.food&&p.edible.card?'<dt class="ed">Edible</dt><dd>'+p.edible.card+'</dd>':'')+

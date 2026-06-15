@@ -27,6 +27,11 @@
   "habitat": "Open, seasonally-moist disturbed ground and roadsides",
   "winter": false,
   "verified": "2026-06-06",
+  "ph": {
+    "min": 6.0,
+    "ideal": 6.8,
+    "max": 8.0
+  },
   "care": {
     "hardiness": "Grown as a frost-tender warm-season annual — it completes its life in a single season and is killed by the first hard frost, so winter hardiness is not a factor on the Front Range.[1]",
     "planting": "A heat-lover: do not rush it out. Set out transplants or direct-sow only after the mid-May last frost in Boulder, once soil and nights have warmed — cold soil stalls it and frost kills it. Plant into a sunny, well-drained bed. In containers it thrives (a classic patio annual): use a free-draining potting mix in a pot with drainage holes, site in full sun, and expect to water daily in summer heat and wind, as pots dry far faster than ground beds. Pot plants finish at the first fall frost with no overwintering possible.[1][2]",
@@ -99,6 +104,9 @@
       1
     ],
     "habitat": [
+      1
+    ],
+    "ph": [
       1
     ]
   },

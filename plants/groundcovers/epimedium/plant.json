@@ -24,6 +24,11 @@
     "spring"
   ],
   "verified": "2026-06-07",
+  "ph": {
+    "min": 5.5,
+    "ideal": 6.5,
+    "max": 7.2
+  },
   "shots": [
     {
       "local": "images/sp-flowers-t.jpg",
@@ -165,6 +170,10 @@
     ],
     "habitat": [
       1
+    ],
+    "ph": [
+      1,
+      2
     ]
   }
 }

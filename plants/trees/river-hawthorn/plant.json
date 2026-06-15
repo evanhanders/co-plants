@@ -20,6 +20,11 @@
     "spring"
   ],
   "verified": "2026-06-07",
+  "ph": {
+    "min": 6.0,
+    "ideal": 7.0,
+    "max": 8.0
+  },
   "shots": [
     {
       "local": "images/sp-flowers-t.jpg",
@@ -164,6 +169,10 @@
       2
     ],
     "toxic": [
+      1,
+      2
+    ],
+    "ph": [
       1,
       2
     ]

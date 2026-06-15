@@ -25,6 +25,11 @@
   "verified": "2026-06-01",
   "origin": "Garden hybrid; parent species from Europe (Leucanthemum spp.)",
   "habitat": "Meadows, roadsides, and grasslands (parent species from W. & C. Europe)",
+  "ph": {
+    "min": 6.0,
+    "ideal": 6.8,
+    "max": 8.0
+  },
   "care": {
     "hardiness": "USDA zones 4–9 — reliably winter-hardy on the Boulder Front Range (zone 5b–6a) and at elevations to about 9,000 ft. The clump goes dormant after frost and re-emerges in spring. Good winter drainage is more important than cold tolerance; a wet crown through freeze-thaw cycles is the main killer.[1][2]",
     "sun": "Full sun — 6+ hours daily for the best, stiffest stems and most prolific bloom. Tolerates light afternoon shade, but shaded plants stretch, flop, and flower less. On the high-altitude Front Range, full sun is the norm and plants perform excellently.[1][2]",
@@ -71,6 +76,9 @@
       1
     ],
     "habitat": [
+      1
+    ],
+    "ph": [
       1
     ]
   },

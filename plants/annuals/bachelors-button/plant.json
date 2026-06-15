@@ -27,6 +27,11 @@
   "habitat": "Cornfields, disturbed grassland, roadsides, and waste ground",
   "winter": false,
   "verified": "2026-06-06",
+  "ph": {
+    "min": 6.0,
+    "ideal": 6.8,
+    "max": 8.0
+  },
   "care": {
     "hardiness": "Grown as a cool-season hardy annual — seedlings tolerate light frost and fall-sown plants overwinter in milder spots; it completes its life in one season and is finished by hard frost. It blooms best in the cool of late spring and early summer and declines in midsummer heat.[1][3]",
     "planting": "Direct-sow early — bachelor's button likes cool soil and resents transplanting. Sow in the garden as soon as the ground can be worked in spring (a few weeks before the mid-May last frost; it tolerates light frost), or sow in fall to overwinter for an early, stronger bloom. In containers, sow into a deep, free-draining pot to allow root run; pots dry quickly in Front Range heat and wind, so water consistently. It finishes at frost with no overwintering.[1][2][3]",
@@ -104,6 +109,10 @@
       3
     ],
     "habitat": [
+      1,
+      3
+    ],
+    "ph": [
       1,
       3
     ]

@@ -1,0 +1,193 @@
+{
+  "common": "Colorado blue spruce",
+  "botanical": "Picea pungens",
+  "type": "Tree",
+  "lifecycle": "Perennial",
+  "native": "CO native",
+  "flower_color": [],
+  "bloom": [],
+  "blurb": "Colorado's state tree: a stiff, steel-blue evergreen that holds a near-perfect pyramid for decades — bone-cold-hardy, drought-tough once rooted, and unmistakable on the Front Range skyline.",
+  "size": "~30–60 ft tall × 10–20 ft wide (slow- to medium-growing; far taller in the wild)",
+  "sun": "Full sun",
+  "water": "Low–moderate; drought-tough once established, but deep-water in dry spells — drought stress invites cytospora canker",
+  "spread": "Single trunk, dense pyramidal crown; non-suckering, slow-growing",
+  "seasons": "Year-round steel-blue to blue-green four-sided needles on a tidy pyramid; pendant papery chestnut-brown cones; snow-holding evergreen winter structure",
+  "wildlife": "Dense cover for deer, elk, small mammals and birds; many birds eat the seeds and red squirrels cache the cones",
+  "deer": "Browsed only infrequently — among the least-preferred conifers for deer and elk",
+  "toxic": "Foliage and bark are not toxic; the sharp, stiff needles can prick",
+  "winter": true,
+  "verified": "2026-06-15",
+  "ph": {
+    "min": 6.0,
+    "ideal": 6.8,
+    "max": 7.5
+  },
+  "care": {
+    "hardiness": "Exceptionally cold-hardy — rated USDA zones 2–7, so Boulder's 5b–6a winters are no challenge; it is native across the central and southern Rockies including Colorado (roughly 6,700–11,500 ft here) and thrives in the high-altitude sun.[1][3][4]",
+    "planting": "Plant balled-and-burlapped or container stock in spring or early fall while the soil is workable; site it where its eventual 30–60 ft height and 10–20 ft spread have full room, well away from buildings and power lines. It has shallow roots, so set it at grade (never deep), keep the rootball consistently moist through the first few seasons, and mulch to hold soil moisture and moderate temperature. Container-grown trees are fine but dry out fast — water them in well.[2][3]",
+    "sun": "Full sun (6+ hours) for the densest, bluest, most symmetrical crown; it tolerates light shade but grows thinner and loses color.[3]",
+    "soil": "Adapts to loam, clay, or organic Front-Range soils as long as drainage is good; it prefers a slightly acidic soil (ideal near pH 6.8) but tolerates the region's neutral-to-mildly-alkaline ground and has high tolerance for free calcium carbonate (lime).[1][3] Note: the common belief that a blue spruce's fallen needles will strongly acidify the soil beneath it is overstated — conifer-litter acidification is a minor, slow effect and won't meaningfully drop the pH of Boulder's buffered clay.[1]",
+    "water": "More drought-tolerant than other spruces and fairly xeric once its roots are established, but it is not a true dryland tree — in the wild it favors moist montane streambanks and subirrigated sites, and its shallow roots make it sensitive to extended drought.[1][2] On the Front Range, give it a deep soak every couple of weeks in hot, dry stretches and water through dry winters; chronic drought stress is the single biggest trigger for cytospora canker.[5]",
+    "spacing": "Slow- to medium-growing but ultimately large and very long-lived (commonly 70–115 ft and several centuries old in the wild; 30–60 ft in cultivation) — give each tree a 15–20 ft radius of open ground and don't crowd it against other trees or structures.[2][3][4]",
+    "propagation": "Grown from seed: collect the pendant cones in fall as they ripen to light chestnut-brown, dry them to release the seed, and sow.[4] Cold-moist stratification at ~40°F helps but is not always required.[1] Named blue cultivars do not come true from seed and are propagated vegetatively by grafting or cuttings rather than seed.[3]",
+    "maintenance": "Very low maintenance — it needs no routine pruning and naturally holds its pyramidal form; simply remove dead, broken, or cankered branches, cutting cleanly back to the branch collar and leaving the wound to dry (no wound dressing).[5] Keep it well-watered to fend off stress diseases.",
+    "troubles": "The Front Range's chronic problem is cytospora canker, a stress fungus that kills lower branches from the bottom up on drought-stressed or wounded trees — prevent it by keeping the tree well-watered and unwounded.[5] Also watch for needlecast diseases, spruce spider mites (and rust mites), Cooley spruce gall adelgids, and aphids; most are manageable and worse on stressed trees.[3][4]",
+    "companions": "Pair it with other acid-tolerant, well-drained-soil companions and let its dense evergreen mass anchor a mixed border or windbreak; its shallow roots and dense shade discourage thirsty underplantings, so keep the root zone mulched rather than crowded.[2][3]"
+  },
+  "references": [
+    {
+      "name": "Lady Bird Johnson Wildflower Center — Picea pungens",
+      "url": "https://www.wildflower.org/plants/result.php?id_plant=pipu"
+    },
+    {
+      "name": "USDA Forest Service FEIS — Picea pungens",
+      "url": "https://www.fs.usda.gov/database/feis/plants/tree/picpun/all.html"
+    },
+    {
+      "name": "NC State Extension Plant Toolbox — Picea pungens",
+      "url": "https://plants.ces.ncsu.edu/plants/picea-pungens/"
+    },
+    {
+      "name": "Utah State University Forestry — Blue Spruce (Picea pungens)",
+      "url": "https://extension.usu.edu/forestry/tree-identification/spruces/blue-spruce"
+    },
+    {
+      "name": "CSU Extension — Cytospora Canker",
+      "url": "https://extension.colostate.edu/resource/cytospora-canker/"
+    },
+    {
+      "name": "Edible New Mexico — Foraged Spruce Tips",
+      "url": "https://www.ediblenm.com/foraged-spruce-tips/"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      2,
+      3,
+      4
+    ],
+    "sun": [
+      3
+    ],
+    "water": [
+      1,
+      2,
+      5
+    ],
+    "spread": [
+      2,
+      3
+    ],
+    "seasons": [
+      4
+    ],
+    "wildlife": [
+      2
+    ],
+    "deer": [
+      2,
+      3
+    ],
+    "toxic": [
+      4
+    ],
+    "ph": [
+      1,
+      3
+    ]
+  },
+  "edible": {
+    "level": "caution",
+    "food": true,
+    "kinds": [
+      "leaves"
+    ],
+    "card": "Young spring tips (tea, syrup, seasoning)",
+    "summary": "The soft new spring growth — \"spruce tips\" — is a recognized edible across the spruce genus, including Colorado blue spruce: tart, citrusy, and very high in vitamin C.[6]",
+    "parts": "Only the tender, light-green new needle growth at the branch ends in spring, while it is still soft; the mature stiff needles, bark, and cones are not eaten. All spruce (Picea) produce edible tips so long as the tree has not been sprayed.[6]",
+    "preparation": "Pinch off the soft tips and use them fresh, dried, or frozen — steeped (not boiled) for tea to keep the vitamin C, or made into syrup, jelly, salt, or sugar, or chopped finely into sauces, soups, and baked goods.[6]",
+    "caution": "Eat only after positive identification — true spruce (Picea) have sharp, four-sided needles set singly all around the twig; do NOT confuse evergreens, and never eat yew (Taxus), a common landscape conifer whose foliage and seeds are deadly poisonous. Harvest sparingly (a small share of one tree, never the leading terminal shoot) and only from unsprayed trees away from roads. As with any new wild food, try a little first; some sources advise caution during pregnancy.[6]"
+  },
+  "shots": [
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/456361747/large.jpg",
+      "s": "summer",
+      "cap": "Summer — steel-blue four-sided needles close-up · © FrontRangeWildflowers (CC-BY-NC) / iNaturalist",
+      "by": "FrontRangeWildflowers",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/254742597"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/244759194/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — a blue spruce standing out in an open meadow · © James Bailey (CC-BY-NC) / iNaturalist",
+      "by": "James Bailey",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/142732907"
+    },
+    {
+      "local": "images/sp-needles-t.jpg",
+      "full": "images/sp-needles.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/175209251/large.jpg",
+      "s": "spring",
+      "cap": "Spring — fresh blue-white needle growth · © sblumen (CC-BY) / iNaturalist",
+      "by": "sblumen",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/104550246"
+    },
+    {
+      "local": "images/fa-cones-t.jpg",
+      "full": "images/fa-cones.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/167612886/large.jpeg",
+      "s": "fall",
+      "cap": "Fall — pendant papery chestnut-brown cones · © jeffbisbee (CC-BY-NC) / iNaturalist",
+      "by": "jeffbisbee",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/100427790"
+    },
+    {
+      "local": "images/su-bark-t.jpg",
+      "full": "images/su-bark.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/53607620/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — gray, thin-scaled trunk bark · © seraphinpoudrier (CC-BY-NC) / iNaturalist",
+      "by": "seraphinpoudrier",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/34090030"
+    },
+    {
+      "local": "images/wi-conetree-t.jpg",
+      "full": "images/wi-conetree.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/255313313/large.jpeg",
+      "s": "winter",
+      "cap": "Winter — a young tree laden with pendant cones in the snow · © jared-tailedhawk (CC-BY-NC) / iNaturalist",
+      "by": "jared-tailedhawk",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/148278982"
+    },
+    {
+      "local": "images/wi-snowbranch-t.jpg",
+      "full": "images/wi-snowbranch.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/177094272/large.jpg",
+      "s": "winter",
+      "cap": "Winter — snow capping a steel-blue branch · © Chris Sichko (CC-BY-NC) / iNaturalist",
+      "by": "Chris Sichko",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/105534660"
+    },
+    {
+      "local": "images/wi-young-t.jpg",
+      "full": "images/wi-young.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/614011713/large.jpg",
+      "s": "winter",
+      "cap": "Winter — a young pyramidal blue spruce rising from snow · © bdayton (CC-BY-NC) / iNaturalist",
+      "by": "bdayton",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/337727855"
+    }
+  ]
+}

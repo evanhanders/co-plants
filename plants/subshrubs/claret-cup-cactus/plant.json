@@ -22,6 +22,11 @@
   "toxic": "",
   "winter": true,
   "verified": "2026-06-13",
+  "ph": {
+    "min": 6.5,
+    "ideal": 7.2,
+    "max": 8.0
+  },
   "care": {
     "hardiness": "Exceptionally cold-hardy for a cactus — the Front Range form of *Echinocereus triglochidiatus* tolerates USDA zone 5 and lower, withstanding temperatures to at least −10°F and arguably to −20°F for short periods in proven Colorado populations. It is Colorado's official state cactus, native to the foothills and mesas at 4,000–8,000 ft elevation, and is perfectly adapted to the Front Range climate (zones 5b–6a). The critical caveat: it is cold-hardy only when dormant and dry. Wet soil in winter dramatically increases winter-kill risk — cold plus wet = rot. A dry, cold winter poses no threat to a well-sited plant.[1][2]",
     "planting": "Plant in spring (late Apr–May) once soil has warmed, or very early fall (Aug–early Sep) to allow root establishment before cold. Choose the sunniest, sharpest-draining spot available — a south- or west-facing rocky slope, a raised bed, or a crevice between boulders is ideal. Set the crown level with the surrounding grade or slightly above it; never bury the base. A thick gravel mulch (pea gravel or crushed granite) around the stems keeps the crown dry and mimics its natural scree habitat. In containers, use a deep clay pot with multiple drainage holes and a gritty cactus mix (50% perlite or crushed granite); position pots under a roof overhang or house eave in winter so rain and snowmelt can't saturate the mix — a wet frozen pot will kill it.[1][2]",
@@ -73,6 +78,10 @@
       2
     ],
     "deer": [
+      2
+    ],
+    "ph": [
+      1,
       2
     ]
   },

@@ -25,6 +25,11 @@
   "verified": "2026-06-04",
   "origin": "Western and central Mediterranean — southern Europe and northwestern Africa",
   "habitat": "Rocky, scrubby hillsides, open woodland, and dry stream banks",
+  "ph": {
+    "min": 6.0,
+    "ideal": 7.0,
+    "max": 7.8
+  },
   "shots": [
     {
       "local": "images/su-flowers-t.jpg",
@@ -156,6 +161,10 @@
       2
     ],
     "habitat": [
+      2
+    ],
+    "ph": [
+      1,
       2
     ]
   },

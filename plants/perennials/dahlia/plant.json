@@ -30,6 +30,11 @@
   "verified": "2026-06-01",
   "origin": "Mountains of Mexico and Central America (parent Dahlia spp.)",
   "habitat": "Moist mountain meadows and woodland edges, 5,000–12,000 ft elevation",
+  "ph": {
+    "min": 6.0,
+    "ideal": 6.5,
+    "max": 7.5
+  },
   "care": {
     "hardiness": "Tender — hardy only to USDA zones 7–10; not winter-hardy on the Boulder Front Range (zone 5b–6a). Tubers will freeze and rot if left in the ground through a Colorado winter. Treat dahlias as summer performers: plant in spring after the last frost, enjoy them through fall, then dig and store tubers before hard freeze. Done correctly, a single set of tubers can provide years of blooms.[1][2]",
     "sun": "Full sun — at least 6–8 hours of direct sun daily. On the Front Range, the intense high-altitude sun is an asset; dahlias bloom heavily and color is vivid. Some light afternoon shade is tolerated in extreme heat but generally reduces flower count.[1][2]",
@@ -77,6 +82,9 @@
       2
     ],
     "habitat": [
+      2
+    ],
+    "ph": [
       2
     ]
   },

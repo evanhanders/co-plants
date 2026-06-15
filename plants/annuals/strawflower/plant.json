@@ -28,6 +28,11 @@
   "habitat": "Open grassland and open woodland across much of Australia",
   "winter": false,
   "verified": "2026-06-06",
+  "ph": {
+    "min": 6.0,
+    "ideal": 6.8,
+    "max": 7.5
+  },
   "care": {
     "hardiness": "Hardy only in USDA zones 8–10, where it can persist as a short-lived tender perennial; on the Front Range it is grown as a warm-season annual and is killed by the first hard frost.[1]",
     "planting": "A frost-tender annual: plant out or sow only after Boulder's average last frost (about May 10–15) and once the soil has warmed.[2] Start seed indoors 4–6 weeks earlier and harden off for the earliest bloom, or direct-sow once it's warm. It is heat- and drought-tolerant and well suited to hot, sunny Front Range beds. In containers use a sunny, sharply drained pot; potted plants dry faster in our heat and wind, so water more often. No overwintering outdoors — it dies at frost.[1][2]",
@@ -96,6 +101,9 @@
     "habitat": [
       1,
       3
+    ],
+    "ph": [
+      1
     ]
   },
   "shots": [

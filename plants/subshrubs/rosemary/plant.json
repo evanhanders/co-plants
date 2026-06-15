@@ -24,6 +24,11 @@
   "verified": "2026-06-06",
   "origin": "Mediterranean basin — S. Europe, N. Africa, and the Middle East",
   "habitat": "Dry rocky coastal scrub and garrigue on thin limestone soils",
+  "ph": {
+    "min": 6.0,
+    "ideal": 7.0,
+    "max": 8.0
+  },
   "care": {
     "hardiness": "Rosemary (*Salvia rosmarinus*) is rated USDA zones 8–10 outdoors, meaning it is killed by hard Front-Range winters — Boulder sits firmly in zone 5b–6a. Treat it as a tender perennial: grow it in a container year-round and bring it inside before the first hard frost (usually early-to-mid October). The hardiest cultivar readily available in Colorado is 'Arp', which can occasionally survive zone 7 winters in a very protected spot, but even 'Arp' cannot be relied upon to overwinter in the ground on the Front Range.[1][2]",
     "planting": "Grow rosemary entirely in a container — terracotta or a large plastic pot at least 12 inches wide and deep, with one or more drainage holes. Use a fast-draining potting mix (cactus/herb mix or regular potting soil cut 1:1 with coarse perlite). Set the pot outside after the danger of hard frost has passed, typically mid-May on the Front Range, in a spot that gets full sun all day. Bring it back inside before the first frost in early to mid October. Indoors, rosemary prefers a bright, cool spot — a south-facing window at 50–65°F is ideal; it will often bloom through winter and early spring in these conditions, providing nectar for any bees active on warm days. Do not let it sit in a saucer of water — root rot from waterlogged soil is the most common cause of death.[1][2]",
@@ -100,6 +105,10 @@
       2
     ],
     "habitat": [
+      2
+    ],
+    "ph": [
+      1,
       2
     ]
   },

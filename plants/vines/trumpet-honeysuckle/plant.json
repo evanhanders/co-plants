@@ -25,6 +25,11 @@
   "verified": "2026-06-03",
   "origin": "Eastern and southern United States",
   "habitat": "Woodland edges, thickets, and forest margins",
+  "ph": {
+    "min": 6.0,
+    "ideal": 6.8,
+    "max": 8.0
+  },
   "care": {
     "hardiness": "USDA zones 4–9 — fully winter-hardy on the Front Range (zone 5b–6a). Tops may die back in severe cold or exposed sites but the root system survives and pushes fresh growth in spring. A thick winter mulch over the root zone helps in the first season.[1][2]",
     "planting": "Plant in spring once soil is workable (April–May) or in early fall (September) so roots can establish before freeze. Container-grown plants transplant easily — dig the hole twice as wide as the root ball, set at the same depth, water in well, and tie the first stems loosely to their support. Spring planting is slightly preferred around Boulder since the vine can spend a full season anchoring before facing a cold winter. If growing in a pot, use a large container (15+ gallons) with excellent drainage; potted roots are more vulnerable to cold than in-ground roots, so move containers to a sheltered spot or sink them into a protected corner over winter.[3]",
@@ -72,6 +77,9 @@
       1
     ],
     "habitat": [
+      1
+    ],
+    "ph": [
       1
     ]
   },

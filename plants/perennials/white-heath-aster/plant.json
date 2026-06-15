@@ -24,6 +24,11 @@
   "toxic": "",
   "winter": true,
   "verified": "2026-06-03",
+  "ph": {
+    "min": 6.0,
+    "ideal": 7.2,
+    "max": 8.2
+  },
   "care": {
     "hardiness": "USDA zones 3a–9b — extremely cold-hardy and well within Boulder's 5b–6a range. Established clumps shrug off hard winters without protection.[2]",
     "planting": "Set out container-grown transplants in spring (Apr–May) or early fall (Sep) on the Front Range; fall planting gives roots a head start before winter dormancy. Plant in groups of three or more for the best colony effect. In containers, use a lean, gritty mix in a large pot — these plants want room to spread; container soil dries much faster than in-ground in Front Range heat and wind, so check moisture every day or two. Pot-grown plants are cold-hardy to zone 3 in the ground but their roots are far more vulnerable in a pot exposed to air; sink containers into the ground or move to an unheated garage in November.[2]",
@@ -69,6 +74,9 @@
     ],
     "toxic": [
       3
+    ],
+    "ph": [
+      2
     ]
   },
   "edible": {

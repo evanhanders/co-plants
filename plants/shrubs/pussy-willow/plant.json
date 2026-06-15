@@ -24,6 +24,11 @@
   "verified": "2026-06-06",
   "origin": "Northern & eastern North America (boreal Canada, NE US to the Rockies) — N. American native, not native to the Colorado Front Range",
   "habitat": "Wet meadows, marsh edges, streambanks & poorly drained thickets",
+  "ph": {
+    "min": 6.0,
+    "ideal": 7.0,
+    "max": 8.0
+  },
   "care": {
     "hardiness": "USDA zones 2–7 — extraordinary cold hardiness, native across Canada's boreal belt. Completely reliable on the Front Range (zones 5b–6a) and well above; no winter protection is needed.[1][2]",
     "planting": "Plant in spring (April–May) or early fall (September). Because pussy willow demands moist-to-wet soil, site selection is the critical step: a rain garden, detention swale, pond edge, or low spot that stays moist is ideal; an irrigated border with consistent watering can work but requires commitment. Dig the hole twice as wide as the container and the same depth; no soil amendment is necessary on clay — clay's moisture retention is an advantage here. Water thoroughly at planting and maintain consistent soil moisture through the first growing season. Siting in full sun maximizes catkin production. CRITICAL: Buy a named male clone (ask the nursery specifically for a male plant) — only male plants produce the showy, pollen-laden catkins that make this shrub special for bees and floral arrangements; female plants bear functional catkins but these are far less ornamental.[1][2]",
@@ -72,6 +77,10 @@
       2
     ],
     "habitat": [
+      2
+    ],
+    "ph": [
+      1,
       2
     ]
   },

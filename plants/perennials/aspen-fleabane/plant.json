@@ -24,6 +24,11 @@
   "toxic": "",
   "winter": false,
   "verified": "2026-06-01",
+  "ph": {
+    "min": 6.6,
+    "ideal": 7.0,
+    "max": 7.8
+  },
   "care": {
     "hardiness": "Hardy to USDA Zone 2 — exceptionally cold-tolerant and fully at home on the Front Range (Zone 5b–6a). It grows natively from 2,000 to over 11,000 ft in the Rockies and is completely unbothered by Boulder winters. No winter protection needed; the plant dies to the ground after frost and re-emerges reliably in spring.[1][2]",
     "sun": "Full sun on the plains and at lower Front Range elevations; part shade is also fine, especially where afternoon heat is intense. At high altitude it prefers open, sunny sites. In Boulder-area gardens, an east- or north-facing exposure with a few hours of afternoon shade keeps the foliage from scorching and prolongs bloom.[1][2]",
@@ -71,6 +76,9 @@
     "toxic": [
       3,
       4
+    ],
+    "ph": [
+      1
     ]
   },
   "edible": {

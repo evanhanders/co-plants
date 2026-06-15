@@ -25,6 +25,11 @@
   "habitat": "Prairies, meadows, open woods and roadsides",
   "winter": true,
   "verified": "2026-06-06",
+  "ph": {
+    "min": 5.5,
+    "ideal": 6.5,
+    "max": 7.5
+  },
   "care": {
     "hardiness": "Hardy to about USDA zone 3, so Boulder's zone 5b–6a is easy; it behaves as a short-lived perennial, biennial, or annual depending on conditions, persisting in the garden mainly by self-sowing.[1][2][3]",
     "planting": "Plant out in spring after the last frost (mid-May in Boulder), or sow seed in spring or fall. It takes Boulder's clay readily as long as drainage is reasonable. In containers use a quality mix in a pot at least 10 in across, water more often than in-ground plants in summer heat, and treat it as an annual or move it to the ground, since it's short-lived in pots.[1][2]",
@@ -95,6 +100,10 @@
     ],
     "habitat": [
       1
+    ],
+    "ph": [
+      1,
+      2
     ]
   },
   "shots": [

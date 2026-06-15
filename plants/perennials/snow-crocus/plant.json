@@ -26,6 +26,11 @@
   "habitat": "Open deciduous woodland, scrubby hillsides, and shaded banks",
   "winter": true,
   "verified": "2026-06-06",
+  "ph": {
+    "min": 6.0,
+    "ideal": 7.0,
+    "max": 8.0
+  },
   "care": {
     "hardiness": "USDA zones 3a–8b — exceptionally cold-hardy and one of the most reliable crocuses for the Front Range. Established corms in well-drained soil require no mulch or winter protection in Boulder's zone 5b–6a climate.[1]",
     "planting": "Plant corms in fall, mid-September through late October, before the soil freezes. Set corms 3–4 in. deep and 3–4 in. apart, pointed end up. Boulder's alkaline clay drains poorly — work coarse grit, pea gravel, or sharp sand into the planting pocket and raise beds where drainage is sluggish; wet winter soil rots corms. Choose a spot that will bake dry in summer (south- or west-facing slopes, under deciduous trees, or at the base of a sunny wall) — summer drought is exactly what these corms need. In containers, use a fast-draining mix in a terracotta pot; bring containers to an unheated garage or cold frame over winter to buffer freeze-thaw cycles that can heave pots.[1][2]",
@@ -91,6 +96,9 @@
       1
     ],
     "habitat": [
+      1
+    ],
+    "ph": [
       1
     ]
   },

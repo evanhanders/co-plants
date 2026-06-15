@@ -25,6 +25,11 @@
   "verified": "2026-06-03",
   "origin": "Balkans and SE Europe (Macedonia and surrounding region)",
   "habitat": "Rocky meadows, open grassy slopes, and scrubby hillsides",
+  "ph": {
+    "min": 6.5,
+    "ideal": 7.0,
+    "max": 7.5
+  },
   "care": {
     "hardiness": "USDA zones 5–9; reliably hardy on the Front Range (5b–6a). Plants die back to a basal rosette in winter and resprout from the crown in spring. Cold-hardiness is improved by excellent drainage — wet clay in winter is more damaging than cold itself. No winter protection needed in Boulder.[1][2]",
     "planting": "Plant in-ground in spring (late April–May) or early fall (mid-September). Spring is the safer bet on the Front Range — plants establish before summer heat. Fall planting works if done at least 6 weeks before hard freeze so roots can anchor. In containers, plant in spring; knautia in pots dries out significantly faster than in-ground and the thin-necked crown is more vulnerable to freeze-thaw heave — water more often through summer and either sink the pot into the ground or move it to an unheated garage over winter.[1][2]",
@@ -74,6 +79,10 @@
       2
     ],
     "habitat": [
+      2
+    ],
+    "ph": [
+      1,
       2
     ]
   },

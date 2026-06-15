@@ -25,6 +25,11 @@
   "verified": "2026-06-04",
   "origin": "Europe, northwest Africa & southwest Asia",
   "habitat": "Rocky forests, copses and hedgerows",
+  "ph": {
+    "min": 6.0,
+    "ideal": 6.5,
+    "max": 7.5
+  },
   "care": {
     "hardiness": "USDA zones 4–6 (hardy 3–7 in practice) — well within the Front Range range (5b–6a) and grown in Colorado to high elevation. Like the currants it prefers cool summers, so it earns a spot with some afternoon shade over a baking exposure.[2][1]",
     "planting": "Plant dormant bare-root or container bushes in early spring, setting the crown 1–2 in below the soil line; container stock can also go in during early fall. A large pot suits it for a season, but pots dry fast and freeze hard in Boulder — its roots are far less cold-tolerant than the zone-4 top growth, so sink or insulate the pot, water faithfully, and plan to move it into open ground for the best, plumpest fruit. Wear gloves: the canes are thorny.[1][2]",
@@ -77,6 +82,10 @@
     ],
     "habitat": [
       4
+    ],
+    "ph": [
+      1,
+      2
     ]
   },
   "edible": {

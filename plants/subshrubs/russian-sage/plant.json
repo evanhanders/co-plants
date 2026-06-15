@@ -25,6 +25,11 @@
   "verified": "2026-06-01",
   "origin": "Central to Southwest Asia — Afghanistan, Pakistan, Tibet, W. Himalayas",
   "habitat": "Dry hills, steppes, and gravelly slopes in semi-arid montane zones",
+  "ph": {
+    "min": 6.5,
+    "ideal": 7.3,
+    "max": 8.2
+  },
   "care": {
     "hardiness": "USDA zones 5–9 — reliably hardy on the Front Range (5b–6a). It dies to the ground (or close to it) in a typical Boulder winter and regrows from the woody base each spring. The silver stems that persist through winter provide genuine structural interest and also mark where the plant lives so you don't accidentally dig it up in spring.[1][2]",
     "sun": "Full sun is non-negotiable — 6–8 hours minimum. In part shade the plant flops badly and blooms poorly. The Front Range's 300+ days of intense high-altitude sun is exactly the condition this plant evolved for in the steppes of Central Asia.[1][2]",
@@ -73,6 +78,10 @@
       2
     ],
     "habitat": [
+      2
+    ],
+    "ph": [
+      1,
       2
     ]
   },

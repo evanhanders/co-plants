@@ -31,6 +31,11 @@
   "verified": "2026-06-06",
   "origin": "Garden hybrid — wild ancestors from European mountain meadows (V. tricolor, V. lutea, V. altaica)",
   "habitat": "Cultivated; wild ancestors grow in European and Asian mountain meadows and open rocky slopes",
+  "ph": {
+    "min": 5.5,
+    "ideal": 6.0,
+    "max": 7.0
+  },
   "care": {
     "hardiness": "Pansies are cool-season bedding plants, typically grown as annuals or biennials, and are listed as USDA zones 6a–10b by NC State Extension. They tolerate frost and can survive temperatures in the low 20s°F once hardened off, making them among the few flowering plants you can set outside in Boulder before the last frost date. In mild Front Range microclimates — especially south-facing protected beds against a wall — fall-planted pansies sometimes survive the winter and rebloom in early spring, essentially performing as biennials.[1][2]",
     "planting": "For spring colour, purchase transplants or start seeds indoors 10–12 weeks before the last frost (late February in Boulder) under grow lights. Transplant into containers or beds from late March through April — pansies are frost-tolerant once established and can go out 4–6 weeks before the last frost date. For the longest cool-season performance, plant in containers and move them to a sheltered spot (a south-facing porch, garage doorway, or into an unheated shed) on nights that will go below 20°F; pots can be set back out once the cold spell passes. For fall colour, plant purchased transplants from mid-August through September; potted plants can be brought inside to a cool bright spot (a garage with a south-facing window) to extend the season well into October and even November.[1][2]",
@@ -100,6 +105,9 @@
       1
     ],
     "habitat": [
+      1
+    ],
+    "ph": [
       1
     ]
   },

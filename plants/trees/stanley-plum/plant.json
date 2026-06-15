@@ -24,6 +24,11 @@
   "verified": "2026-06-04",
   "origin": "SE Europe to W Asia (Turkey, Caucasus region)",
   "habitat": "Forest margins and scrubby hillsides of SE Europe and W Asia",
+  "ph": {
+    "min": 6.0,
+    "ideal": 6.8,
+    "max": 7.5
+  },
   "care": {
     "hardiness": "A European plum hardy to about USDA zone 4–8, so it is fully reliable through Boulder's 5b–6a winters.[5] Plums are among the most dependable fruit producers on the Front Range, cropping nearly every year; the main risk here is not winter cold but a hard frost on early bloom — site the tree at the high point of the yard (frost pools in low spots) and away from south- or west-facing walls that push it into bloom too early.[1][2]",
     "planting": "Plant a dormant bare-root or container tree in spring (April–May) once the soil is workable, or set container stock in early fall (September) so roots establish before hard frost; choose a high, open spot in full sun with sharp drainage — avoid hot south/west wall microclimates that trigger frost-vulnerable early bloom.[1] Dig the hole as deep as the root ball and twice as wide, and backfill mostly with the native soil rather than heavily amended mix so roots grow out into the clay instead of circling.[3] Standard plums are too large and too cold-needy in the roots to keep long-term in a pot; if you grow a dwarf in a container, use a large (≥20 gal) pot, water far more often (pots dry fast in dry Front-Range air), and sink or heel the pot in or move it to an unheated shed over winter, since potted roots are far less cold-hardy than the zone-4 top.[1][3]",
@@ -107,6 +112,9 @@
       5
     ],
     "habitat": [
+      5
+    ],
+    "ph": [
       5
     ]
   },

@@ -24,6 +24,11 @@
   "toxic": "Milky sap irritates skin/eyes — wear gloves; caution with kids/pets",
   "winter": false,
   "verified": "2026-05-28",
+  "ph": {
+    "min": 6.0,
+    "ideal": 7.0,
+    "max": 8.0
+  },
   "care": {
     "hardiness": "A warm-season annual — it germinates, grows, blooms, and sets seed in one season and is killed outright by the first hard frost. There is no overwintering (unless it reseeds). Its native range spans the central and southern plains of North America including Colorado, so it is perfectly adapted to Front Range summers. USDA hardiness zones are not applicable for annuals.[1][2]",
     "sun": "Full sun is best — 6+ hours of direct light produces the most robust, upright plants with the brightest white-variegated foliage. It tolerates some afternoon shade but can become floppy and less showy with too little sun. On the dry, high-altitude Front Range, full sun suits it well.[1][3]",
@@ -71,6 +76,9 @@
     "toxic": [
       3,
       4
+    ],
+    "ph": [
+      1
     ]
   },
   "edible": {

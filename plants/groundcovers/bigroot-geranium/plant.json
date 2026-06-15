@@ -24,6 +24,11 @@
     "spring"
   ],
   "verified": "2026-06-07",
+  "ph": {
+    "min": 6.0,
+    "ideal": 7.0,
+    "max": 7.8
+  },
   "care": {
     "hardiness": "Hardy to USDA zone 4 — fully reliable across the Colorado Front Range (zones 5b–6a) and into the foothills. The aromatic lobed foliage is semi-evergreen, persisting through mild winters and flushing red in fall cold.[1][2]",
     "planting": "Plant from nursery transplants in spring (Apr–May) or early fall (Sep), so roots settle before summer heat or winter. It establishes easily even in the dry shade under trees and shrubs where little else will grow. In containers the aromatic mat is handsome, but exposed roots are far less cold-hardy than in the ground — sink the pot or move it to an unheated garage over winter, and never let it sit waterlogged.[1][2][3]",
@@ -98,6 +103,10 @@
     ],
     "habitat": [
       1
+    ],
+    "ph": [
+      1,
+      2
     ]
   },
   "shots": [

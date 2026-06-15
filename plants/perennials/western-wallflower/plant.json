@@ -24,6 +24,11 @@
   "toxic": "Despite being in the mustard family, Erysimum accumulates cardiac glycosides (cardenolides) and is bitter and toxic — do NOT treat it as an edible brassica",
   "winter": false,
   "verified": "2026-06-03",
+  "ph": {
+    "min": 6.0,
+    "ideal": 7.0,
+    "max": 8.0
+  },
   "care": {
     "hardiness": "USDA zones 4–8 — fully cold-hardy through Boulder's 5b–6a winters. The basal rosette often persists semi-green under snow. In Colorado it grows naturally from the plains to alpine zones, so it is highly adapted to the region's freeze-thaw cycles.[1][2]",
     "planting": "Treat as a biennial or short-lived perennial: sow seed in summer (June–August) for bloom the following spring, or transplant small rosettes in early fall (September). Young plants establish most reliably when roots can develop before hard ground freezes. For spring planting of nursery starts, plant in April–early May before the heat peaks. Western wallflower forms a taproot quickly and dislikes having its roots disturbed — set plants in their permanent spot early and water in well. In containers, use a lean, fast-draining mix and site pots where they get full sun; pots dry out rapidly in Front Range conditions, so water more frequently than in-ground. Container plants overwintered outdoors should be large (≥3 gal) or moved to a sheltered, unheated garage — the roots in a small pot have far less cold buffering than in the ground.[1][2]",
@@ -71,6 +76,9 @@
     ],
     "toxic": [
       3
+    ],
+    "ph": [
+      2
     ]
   },
   "edible": {

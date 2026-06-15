@@ -121,6 +121,16 @@ python3 tools/check_refs.py                       # all plants
 python3 tools/check_refs.py plants/trees/chokecherry   # one or a few dirs
 ```
 
+**Soil-pH setter (`tools/set_ph.py`).** Applies sourced soil-pH ranges to plant.json files from a
+JSON map (`{ "<cat/slug>": {"min","ideal","max","src":[refs]} }`): it inserts the `ph` object before
+`care` and writes `fact_src.ph`, re-dumping JSON byte-stably so diffs show only the added keys. Use it
+to add/update a plant's `ph` field; `src` must reference numbers that already exist in that plant's
+`references`, then run `check_refs.py`. See the `ph` schema field above.
+
+```
+python3 tools/set_ph.py ph_map.json               # apply pH to the listed plants
+```
+
 ## Architecture
 
 The site is a few plain files plus a tree of per-plant data:
@@ -208,6 +218,18 @@ is **NOT** the grouping. A file can live in `plants/perennials/` yet be a `Groun
   This is the **filter** field and spans *all* growth forms — distinct from `bloom_season` (a single
   primary value that only `Forb`s carry, used for grid grouping). Foliage/grasses with no bloom use `[]`.
   Drives the **Bloom** filter group.
+- **`ph`** *(object, all plants)* — the plant's **preferred soil-acidity range**:
+  `{ "min": <num>, "ideal": <num>, "max": <num> }` on the standard pH scale (garden range ~4.0–9.0;
+  acid-lovers like witch hazel / winter heath ~4.5–6.0, most Front-Range plants ~6.0–7.5, xeric
+  alkaline-clay natives up to ~8.0–8.5). `min`/`max` are the tolerated range; `ideal` (optional but
+  set on essentially every plant) is the sweet-spot marker. `phBarHTML(p)` in `reel.js` renders it as
+  a horizontal acidic→alkaline gradient bar — the tolerated band bracketed, a rust diamond at the
+  ideal — shown both as a **Soil pH** row in the grid card's facts list **and** in the detail page's
+  "At a glance" table. Like every fact, the pH claim is **sourced + cited via `fact_src.ph`** (NOT a
+  marker baked into the field — the grid renders it raw). Source it like any care fact: prefer the pH
+  already stated in the plant's cited `care.soil`/`care.hardiness` text (cite the same `[n]`), else
+  assign the species' established range and cite an existing authority in `references`. **Apply with
+  `tools/set_ph.py`** (see below), then run `check_refs.py`.
 - **`collection`** *(optional string id)* — folds this plant into a **family card** with its
   cultivar/genus siblings (e.g. `"collection":"apples"`). The id must exist in
   `plants/collections.json`. Membership is the *only* thing that lives on the plant; the family's
@@ -241,7 +263,7 @@ is **NOT** the grouping. A file can live in `plants/perennials/` yet be a `Groun
   (URL reachability) after editing.
 - `fact_src:{…}` *(optional but expected with `references`)* — **detail-page-only** citations for
   the "At a glance" facts table: a map of card-field → array of reference numbers, e.g.
-  `{"size":[1,2],"toxic":[1,3]}`. Keys: `size, sun, water, spread, seasons, wildlife, deer, toxic`
+  `{"size":[1,2],"toxic":[1,3]}`. Keys: `size, sun, water, spread, seasons, wildlife, deer, toxic, ph`
   (+ `origin, habitat` on non-native plants).
   `factsDL` in `plant.js` appends the superscript cites. **Do NOT bake `[n]` into the shared card
   fields themselves** (`size`, `sun`, …) — `app.js`'s grid renders those raw, so markers would leak

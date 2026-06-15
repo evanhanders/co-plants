@@ -16,6 +16,11 @@
   "flower_color": [],
   "bloom": [],
   "verified": "2026-06-07",
+  "ph": {
+    "min": 6.5,
+    "ideal": 7.5,
+    "max": 8.5
+  },
   "shots": [
     {
       "local": "images/su-flowering-t.jpg",
@@ -143,6 +148,10 @@
     "toxic": [
       1,
       2
+    ],
+    "ph": [
+      1,
+      3
     ]
   }
 }

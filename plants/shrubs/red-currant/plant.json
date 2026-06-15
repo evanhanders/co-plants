@@ -25,6 +25,11 @@
   "verified": "2026-06-04",
   "origin": "Western Europe",
   "habitat": "Damp woods and stream margins on fertile soils",
+  "ph": {
+    "min": 6.0,
+    "ideal": 6.5,
+    "max": 7.5
+  },
   "care": {
     "hardiness": "USDA zones 3–7 — fully hardy across the Front Range (5b–6a) and grown in Colorado up to ~10,000 ft elevation. Red currants actually prefer cool summers, so they reward an east-facing or lightly shaded site over a hot, baking exposure.[1][2]",
     "planting": "Set out bare-root or container plants in early spring while still dormant, placing the crown 1–2 in below the soil line so new canes form from the base. Early fall (September) also works for container stock, giving roots time to settle before hard freeze. Currants can be grown a season or two in a large container, but pots dry out fast in Boulder's wind and sun and the roots freeze far harder than zone-3 wood does in open ground — sink the pot, heap mulch around it, or move it to an unheated garage over winter; plan to move it into the ground for best cropping.[1][2]",
@@ -75,6 +80,10 @@
     ],
     "habitat": [
       4
+    ],
+    "ph": [
+      1,
+      2
     ]
   },
   "edible": {

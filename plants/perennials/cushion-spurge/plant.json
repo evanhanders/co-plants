@@ -24,6 +24,11 @@
   "verified": "2026-05-28",
   "origin": "Central and SE Europe to NW Turkey",
   "habitat": "Rocky open hillsides, dry woodland edges, and scrub on limestone",
+  "ph": {
+    "min": 6.0,
+    "ideal": 7.0,
+    "max": 7.8
+  },
   "care": {
     "hardiness": "USDA zones 4–8 — fully winter-hardy on the Boulder Front Range (zone 5b–6a). The mound dies back to the crown in winter and re-emerges reliably each spring. No protection needed beyond good drainage; sitting in wet soil through freeze-thaw cycles is the one thing that kills it.[1][3]",
     "sun": "Full sun is ideal — 6+ hours gives the tightest, brightest dome. It tolerates light afternoon shade, but too much shade causes the plant to lose its characteristic cushion shape and become open and floppy.[1]",
@@ -70,6 +75,9 @@
     ],
     "habitat": [
       3
+    ],
+    "ph": [
+      1
     ]
   },
   "edible": {

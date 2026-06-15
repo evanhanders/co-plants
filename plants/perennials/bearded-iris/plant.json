@@ -32,6 +32,11 @@
   "habitat": "Dry, sunny rocky slopes and hillsides",
   "winter": false,
   "verified": "2026-06-06",
+  "ph": {
+    "min": 6.0,
+    "ideal": 6.8,
+    "max": 7.8
+  },
   "care": {
     "hardiness": "Reliably hardy on the Front Range — tall bearded iris tolerates roughly USDA zones 3–9, well within Boulder's zone 5b–6a, and needs no winter protection once established. It is one of the easiest, most drought-adapted perennials for our region, thriving in full sun, alkaline clay, and dry summers.[1][3]",
     "planting": "Plant rhizomes in late summer (late July through September on the Front Range), which gives them six-plus weeks to root before the ground freezes. THE CRITICAL RULE: set the rhizome horizontally with its top at or just barely above the soil surface — on our heavy clay leave the crown exposed so the summer sun can bake it; only on very light sandy soil cover it lightly. Do NOT bury it deep and do NOT mulch over the rhizome — buried or smothered rhizomes rot and won't bloom. Spread the roots downward in a shallow trench and firm the soil around them. In containers, use a fast-draining gritty mix in a wide pot, keep the rhizome surface-exposed, and shelter pots from saturating winter wet; in-ground planting is far more dependable here.[1][3]",
@@ -101,6 +106,9 @@
       1
     ],
     "habitat": [
+      1
+    ],
+    "ph": [
       1
     ]
   },

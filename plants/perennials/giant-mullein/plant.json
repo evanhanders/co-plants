@@ -25,6 +25,11 @@
   ],
   "winter": true,
   "verified": "2026-06-11",
+  "ph": {
+    "min": 6.0,
+    "ideal": 7.0,
+    "max": 8.0
+  },
   "shots": [
     {
       "local": "images/su-rosette-t.jpg",
@@ -169,6 +174,10 @@
     ],
     "habitat": [
       1
+    ],
+    "ph": [
+      1,
+      2
     ]
   }
 }

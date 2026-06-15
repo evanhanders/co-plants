@@ -25,6 +25,11 @@
   "verified": "2026-05-31",
   "origin": "Southwestern US — California, Nevada, and Arizona mountains",
   "habitat": "Dry rocky slopes and chaparral, 5,000–10,000 ft elevation",
+  "ph": {
+    "min": 6.5,
+    "ideal": 7.2,
+    "max": 8.0
+  },
   "care": {
     "hardiness": "USDA zones 5–10 — reliably hardy at Boulder's 5b–6a with one critical caveat: it must stay dry through winter. Wet, poorly drained soil in winter (especially under heavy snow) causes crown rot and is the primary cause of failure in Colorado. Planted in a raised bed, a south-facing berm, or any sharply drained site, it overwinters without issue and is semi-evergreen, holding its silvery foliage through mild stretches.[1][2]",
     "sun": "Full sun, no compromise — at least 6–8 hours of direct sun daily. This native of California's high desert hills was built for intense, dry sunlight. Shade causes weak, floppy growth and reduces bloom.[1]",
@@ -72,6 +77,10 @@
     ],
     "habitat": [
       3
+    ],
+    "ph": [
+      1,
+      2
     ]
   },
   "edible": {

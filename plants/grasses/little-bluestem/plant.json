@@ -17,6 +17,11 @@
   "toxic": "",
   "winter": true,
   "verified": "2026-05-31",
+  "ph": {
+    "min": 5.5,
+    "ideal": 6.8,
+    "max": 7.8
+  },
   "care": {
     "hardiness": "USDA zones 3–9 — perfectly hardy across the entire Front Range (5b–6a) and native to Colorado shortgrass and mixed-grass prairies. No winter protection needed; the copper-tan clumps and fluffy seedheads stand through the coldest months and look good doing it.[1][2]",
     "sun": "Full sun — 6+ hours of direct light gives the best color, stiffest stems, and densest clumps. It tolerates light part shade but the characteristic blue-green-to-copper color is muted, and lodging (flopping) increases on shadier sites.[1][2]",
@@ -62,6 +67,10 @@
     ],
     "toxic": [
       3
+    ],
+    "ph": [
+      1,
+      2
     ]
   },
   "edible": {

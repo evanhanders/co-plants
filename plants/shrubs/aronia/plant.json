@@ -23,6 +23,11 @@
   "verified": "2026-06-04",
   "origin": "Eastern North America (NE US & Canada — not a Colorado native)",
   "habitat": "Bogs, swamp edges, moist woods and dry uplands — wide moisture range on acid to neutral soils",
+  "ph": {
+    "min": 5.0,
+    "ideal": 6.0,
+    "max": 7.5
+  },
   "care": {
     "hardiness": "Exceptionally cold-hardy — rated USDA zones 3–8, so it shrugs off the Front Range's 5b–6a winters with no protection needed.[1][2] It is one of the toughest small-fruit shrubs you can grow in Boulder: hardy to zone 3 and broadly tolerant of soil and exposure, though it is not a true xeric plant (see Water).[4]",
     "planting": "Plant container-grown shrubs in early spring (April) or early fall (September) so roots establish before summer heat or hard freeze. Set the crown at the depth it grew in the pot, water in well, and mulch 2–3 in to hold moisture. Aronia also grows well in a large container (15+ gal) for a few seasons, but pots dry out fast in the semi-arid Front Range and the roots — though the plant is zone-3 hardy in the ground — sit at full ambient freezing in a pot, so sink, wrap, or shelter the container over winter and plan to move it into the ground for best long-term cropping.[1][2]",
@@ -76,6 +81,9 @@
     "habitat": [
       1,
       2
+    ],
+    "ph": [
+      1
     ]
   },
   "edible": {

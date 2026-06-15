@@ -21,6 +21,11 @@
   "toxic": "",
   "winter": false,
   "verified": "2026-06-03",
+  "ph": {
+    "min": 6.0,
+    "ideal": 7.0,
+    "max": 8.0
+  },
   "care": {
     "hardiness": "Hardy to USDA zone 3, surviving to at least 8,000 ft elevation in Colorado. The Plant Select 'Cheyenne' selection was chosen from a specimen that survived decades of neglect and drought at the Cheyenne Research Station — one of the toughest cultivars available for the Front Range. No winter protection needed.[1][2]",
     "planting": "Plant container-grown shrubs in spring (Apr–May) or early fall (Sep). Spring planting before summer heat gives roots the longest establishment window; fall planting works well too if watered through October. Water deeply every 7–10 days the first season to establish, then taper off. Container plants dry out fast and root-bound specimens are prone to stress; best planted in-ground promptly. Needs no special soil preparation beyond improving drainage in heavy clay.[1]",
@@ -63,6 +68,10 @@
       2
     ],
     "toxic": [
+      2
+    ],
+    "ph": [
+      1,
       2
     ]
   },

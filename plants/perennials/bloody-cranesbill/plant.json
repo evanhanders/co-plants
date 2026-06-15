@@ -26,6 +26,11 @@
   "verified": "2026-06-03",
   "origin": "Europe to the Caucasus and temperate Asia",
   "habitat": "Dry grassland, rocky limestone slopes, and open woodland margins",
+  "ph": {
+    "min": 5.5,
+    "ideal": 6.8,
+    "max": 7.8
+  },
   "care": {
     "hardiness": "USDA zones 3–9; fully hardy across the Front Range (5b–6a) with no special winter protection needed. Dies to the ground after frost and re-emerges reliably each spring.[1]",
     "planting": "Plant in-ground in spring (late April–May, after last frost) or early fall (September). Spring planting is preferred on the Front Range: the long growing season before frost lets roots establish fully. Fall planting works well if done six or more weeks before freeze-up so roots can anchor before dormancy. In containers, plant spring through early summer; pots dry out faster than garden beds in Colorado's wind and sun, so check moisture every day or two in peak summer heat. Container-grown bloody cranesbill is less cold-hardy in its roots than in-ground plants — bring pots to an unheated garage or shed, or sink them to the rim in the ground, to survive a Front Range winter.[1]",
@@ -71,6 +76,9 @@
       1
     ],
     "habitat": [
+      1
+    ],
+    "ph": [
       1
     ]
   },

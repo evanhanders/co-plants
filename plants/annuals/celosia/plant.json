@@ -27,6 +27,11 @@
   "habitat": "Warm disturbed ground, fields, and roadsides in the tropics (weedy in parts of its range)",
   "winter": false,
   "verified": "2026-06-06",
+  "ph": {
+    "min": 6.0,
+    "ideal": 6.8,
+    "max": 8.0
+  },
   "care": {
     "hardiness": "Reliably perennial only in USDA zones 10–11, so on the Front Range it is grown as a warm-season annual and is killed by the first hard frost.[1]",
     "planting": "A frost-tender heat-lover: do not plant out or sow until well after Boulder's average last frost (about May 10–15) and the soil and nights have truly warmed — cold soil stalls and yellows young celosia.[3] Start seed indoors 4–6 weeks before that and harden off, or direct-sow once warm. It thrives in Front Range heat once established. In containers use a sunny, well-drained pot; potted plants dry faster in our heat and wind, so water more often. There is no overwintering outdoors — it dies at frost.[1][3]",
@@ -107,6 +112,9 @@
     ],
     "habitat": [
       4
+    ],
+    "ph": [
+      1
     ]
   },
   "shots": [

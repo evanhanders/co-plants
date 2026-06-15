@@ -26,6 +26,11 @@
   "habitat": "Open mountain slopes and meadows",
   "winter": false,
   "verified": "2026-06-06",
+  "ph": {
+    "min": 6.0,
+    "ideal": 7.0,
+    "max": 8.0
+  },
   "care": {
     "hardiness": "Hardy across roughly USDA zones 4–9, comfortably within Boulder's zone 5b–6a — established bulbs overwinter in the ground with no protection and are one of the most carefree bulbs for the Front Range, relishing our full sun, alkaline soil, and dry summers.[1]",
     "planting": "Plant the dormant bulbs in fall — mid-September to late October on the Front Range — so they root before the soil freezes.[3] Set them at a depth of about three times the bulb's height (roughly 4–6 in. for these large bulbs) in well-drained ground; on heavy clay, add coarse grit to the planting hole.[3] Choose a spot that bakes dry in summer, since the bulbs go dormant and dislike summer wet. Containers work but need a deep, fast-draining pot and winter protection from hard freeze-thaw (move pots to an unheated garage or cold frame); in-ground is far more reliable.[1][2]",
@@ -91,6 +96,9 @@
       1
     ],
     "habitat": [
+      1
+    ],
+    "ph": [
       1
     ]
   },

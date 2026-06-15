@@ -28,6 +28,11 @@
   "habitat": "Mediterranean scrub, rocky slopes, and disturbed ground",
   "winter": false,
   "verified": "2026-06-06",
+  "ph": {
+    "min": 6.5,
+    "ideal": 7.0,
+    "max": 7.5
+  },
   "care": {
     "hardiness": "Grown as a cool-weather annual — seedlings tolerate light frost and even prefer to start in cold soil, but the plant completes its life in one season and is killed by hard frost. It thrives in the cool of spring and declines rapidly once summer heat sets in.[1][3]",
     "planting": "Plant very early — sweet pea wants cool roots and resents heat. Direct-sow as soon as the ground can be worked in spring (it tolerates light frost), or for an earlier start sow indoors 6–8 weeks before the last frost in deep pots/root-trainers (it forms a long taproot) and transplant out while still cool. A fall sowing in a sheltered spot can overwinter for the earliest, strongest bloom. Set it at the base of a trellis, fence, netting, or teepee — it must have support to climb. In containers, use a deep pot and a free-draining mix, keep roots cool and shaded, and water consistently (pots dry fast in Front Range heat and wind); even potted plants finish when summer heat arrives.[1][2][3]",
@@ -104,6 +109,10 @@
       3
     ],
     "habitat": [
+      3
+    ],
+    "ph": [
+      1,
       3
     ]
   },

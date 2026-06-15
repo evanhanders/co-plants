@@ -26,6 +26,11 @@
   "verified": "2026-06-03",
   "origin": "Garden hybrid; parent species from China and the Himalaya",
   "habitat": "Woodland margins, scrub, and streamside thickets (parent species habitat)",
+  "ph": {
+    "min": 5.5,
+    "ideal": 6.3,
+    "max": 7.0
+  },
   "care": {
     "hardiness": "USDA zones 4–8, so it is winter-hardy in Boulder (zones 5b–6a). However, newly planted specimens can winterkill in their first year before the rhizomes are well-established — mulch heavily (3–4 inches) after the ground freezes in November. Established plants are reliably hardy.[1][2]",
     "planting": "Plant in spring (late April through May) or early fall (August–early September, 6–8 weeks before frost) when temperatures are mild. Japanese anemone is slow to settle in and often does little its first season — do not expect bloom the first year after spring planting. Choose a sheltered spot with good organic-rich soil before you put the plant in the ground; once established it resents being moved. In Boulder's alkaline clay-loam, enrich the planting hole generously with compost (2–3 inches worked in) and a handful of sulfur to soften pH slightly. In containers, use a rich, moisture-retentive potting mix and situate the pot where it gets afternoon shade; containers dry out quickly in Front Range heat and wind, so check daily and water before the mix fully dries. Container roots are not cold-hardy — bring pots indoors to a cool (above-freezing) garage or basement over winter; do not leave them outside.[1][2]",
@@ -77,6 +82,10 @@
     ],
     "habitat": [
       4
+    ],
+    "ph": [
+      1,
+      2
     ]
   },
   "edible": {

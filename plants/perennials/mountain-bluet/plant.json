@@ -26,6 +26,11 @@
   "verified": "2026-06-03",
   "origin": "Mountains of central and southern Europe",
   "habitat": "Mountain meadows, open rocky slopes, and forest edges",
+  "ph": {
+    "min": 6.0,
+    "ideal": 6.8,
+    "max": 7.5
+  },
   "care": {
     "hardiness": "USDA zones 3–8; fully cold-hardy on the Front Range (5b–6a). Dies back to the ground in winter with no protection needed. The crown and surface stolons are very cold-tolerant. Note: this is Centaurea montana, a European garden perennial — do NOT confuse with the noxious knapweeds (C. diffusa, C. stoebe, C. solstitialis) that are CO-listed weeds. Mountain bluet is not on any Colorado noxious weed list, but it is aggressive in some settings and should be managed.[1]",
     "planting": "Plant in-ground in spring (late April–May) or fall (September). Spring is preferred on the Front Range — early establishment lets the root system get anchored before the plant's natural tendency to spread kicks in. In containers, plant in spring; mountain bluet is vigorous and will fill and potentially crowd a pot within a season or two — use a substantial container (12 in+ diameter) and expect to repot or divide annually. Container roots are less cold-hardy; move pots to an unheated garage or sink them into the ground over winter rather than leaving them on an exposed surface.[1]",
@@ -70,6 +75,9 @@
       1
     ],
     "habitat": [
+      1
+    ],
+    "ph": [
       1
     ]
   },

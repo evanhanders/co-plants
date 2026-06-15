@@ -25,6 +25,11 @@
   "verified": "2026-06-03",
   "origin": "South Africa (Drakensberg highlands and high Karoo)",
   "habitat": "High-elevation rocky slopes and arid scrubland",
+  "ph": {
+    "min": 6.0,
+    "ideal": 7.0,
+    "max": 7.8
+  },
   "care": {
     "hardiness": "Hardy to approximately USDA zone 5 in dry conditions — the Front Range (zones 5b–6a) sits right at its cold limit, and the plants perform reliably here precisely because our winters are cold but dry. The original *Delosperma cooperi* introduction was pioneered in Colorado by Panayoti Kelaidis of Denver Botanic Garden in the early 1990s and became the founding Plant Select groundcover. Note: cold hardiness drops by 1–2 zones in wet-winter climates — it's wetness, not cold, that kills them.[1][2]",
     "planting": "Plant in spring once soil has warmed (late Apr–May) or by mid-summer so plants can root in before cold arrives — fall planting is risky at zone 5. Choose a site with sharply drained soil and full sun; raised beds, gravelly slopes, and rock gardens are ideal. In containers, the succulent mat is striking but roots are fully exposed to freeze-thaw; containers must be kept completely dry in winter and ideally moved to a cold, frost-free space (unheated garage or shed) — a wet, frozen pot will kill it.[1][2]",
@@ -71,6 +76,10 @@
       2
     ],
     "habitat": [
+      2
+    ],
+    "ph": [
+      1,
       2
     ]
   },

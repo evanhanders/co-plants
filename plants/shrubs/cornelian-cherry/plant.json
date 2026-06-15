@@ -24,6 +24,11 @@
   "verified": "2026-06-06",
   "origin": "Central & southern Europe to western Asia (Turkey, Caucasus)",
   "habitat": "Woodland edges & scrub on limestone soils",
+  "ph": {
+    "min": 5.5,
+    "ideal": 6.8,
+    "max": 8.2
+  },
   "care": {
     "hardiness": "USDA zones 4–8 — reliably hardy well below Front Range winters (zones 5b–6a). It endures temperatures to about −25°C (−13°F) without protection, so even our coldest years pose no threat.[1][2]",
     "planting": "Plant in spring (April–May) or early fall (September) — the standard windows for woody shrubs on the Front Range. Dig the hole twice as wide as the container and equal depth; backfill with the native soil (cornelian cherry is exceptionally adaptable and does not need rich amendment, though compost addition on heavy clay speeds establishment). Water deeply at planting and again every 7–10 days for the first growing season. Bare-root specimens transplant well in early spring while dormant. Container stock can also be planted, though cornelian cherry grows large — site it where it has room (15+ ft clearance) from the start. In a large container (≥20 gal) it grows well through the season, but its roots are far less cold-hardy than the crown; overwinter the pot in an unheated garage or sink it in the ground, then plant out the following spring.[1][3]",
@@ -72,6 +77,10 @@
     ],
     "habitat": [
       1
+    ],
+    "ph": [
+      1,
+      2
     ]
   },
   "edible": {

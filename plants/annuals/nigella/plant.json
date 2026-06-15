@@ -27,6 +27,11 @@
   "habitat": "Disturbed fields, rocky slopes, and cultivated ground",
   "winter": false,
   "verified": "2026-06-06",
+  "ph": {
+    "min": 6.0,
+    "ideal": 7.0,
+    "max": 7.5
+  },
   "care": {
     "hardiness": "Grown as a cool-season hardy annual — seedlings tolerate light frost, and the plant completes its life in one season. It thrives in the cool of late spring and fades as summer heat arrives, so it is treated as a spring-into-early-summer annual on the Front Range.[1][3]",
     "planting": "Direct-sow where it is to grow — it taproots and resents transplanting. Sow in early spring as soon as the ground can be worked (it likes cool soil and even tolerates a light frost), or sow in fall to overwinter and bloom early. A second sowing every few weeks into early summer extends the show. In containers, sow into a deep, free-draining pot to allow the taproot; pots dry fast in Front Range heat and wind, so water consistently. It finishes at frost with no overwintering.[1][2][3]",
@@ -101,6 +106,10 @@
     ],
     "habitat": [
       1
+    ],
+    "ph": [
+      1,
+      3
     ]
   },
   "shots": [

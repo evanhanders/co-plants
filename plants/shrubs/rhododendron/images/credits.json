@@ -1,0 +1,142 @@
+[
+  {
+    "file": "images/sp-habit.jpg",
+    "commons_file": "Rhododendron 'PJM' 001.JPG",
+    "by": "SB Johnny",
+    "license": "CC-BY-SA",
+    "source": "https://commons.wikimedia.org/wiki/File:Rhododendron_%27PJM%27_001.JPG",
+    "dataset": "Wikimedia Commons",
+    "orig_px": [
+      3072,
+      2048
+    ],
+    "full_px": [
+      1500,
+      1000
+    ],
+    "thumb_px": [
+      400,
+      267
+    ]
+  },
+  {
+    "file": "images/wi-habit.jpg",
+    "commons_file": "Rhododendron PJM 21 4 2017 Kaisaniemi 0002.jpg",
+    "by": "Nucatum amygdalarum",
+    "license": "CC-BY-SA",
+    "source": "https://commons.wikimedia.org/wiki/File:Rhododendron_PJM_21_4_2017_Kaisaniemi_0002.jpg",
+    "dataset": "Wikimedia Commons",
+    "orig_px": [
+      6000,
+      4000
+    ],
+    "full_px": [
+      1500,
+      1000
+    ],
+    "thumb_px": [
+      400,
+      267
+    ]
+  },
+  {
+    "file": "images/sp-flower.jpg",
+    "commons_file": "Rhododendron Pjm 1zz.jpg",
+    "by": "David J. Stang",
+    "license": "CC-BY-SA",
+    "source": "https://commons.wikimedia.org/wiki/File:Rhododendron_Pjm_1zz.jpg",
+    "dataset": "Wikimedia Commons",
+    "orig_px": [
+      3504,
+      2336
+    ],
+    "full_px": [
+      1500,
+      1000
+    ],
+    "thumb_px": [
+      400,
+      267
+    ]
+  },
+  {
+    "file": "images/sp-flower2.jpg",
+    "commons_file": "Rhododendron Pjm 3zz.jpg",
+    "by": "David J. Stang",
+    "license": "CC-BY-SA",
+    "source": "https://commons.wikimedia.org/wiki/File:Rhododendron_Pjm_3zz.jpg",
+    "dataset": "Wikimedia Commons",
+    "orig_px": [
+      3504,
+      2336
+    ],
+    "full_px": [
+      1500,
+      1000
+    ],
+    "thumb_px": [
+      400,
+      267
+    ]
+  },
+  {
+    "file": "images/sp-bloom.jpg",
+    "commons_file": "Rhododendron PJM Thunder 0zz.jpg",
+    "by": "David J. Stang",
+    "license": "CC-BY-SA",
+    "source": "https://commons.wikimedia.org/wiki/File:Rhododendron_PJM_Thunder_0zz.jpg",
+    "dataset": "Wikimedia Commons",
+    "orig_px": [
+      3504,
+      2336
+    ],
+    "full_px": [
+      1500,
+      1000
+    ],
+    "thumb_px": [
+      400,
+      267
+    ]
+  },
+  {
+    "file": "images/fa-foliage.jpg",
+    "commons_file": "Rhododendron PJM 21 4 2017 Kaisaniemi 0004.jpg",
+    "by": "Nucatum amygdalarum",
+    "license": "CC-BY-SA",
+    "source": "https://commons.wikimedia.org/wiki/File:Rhododendron_PJM_21_4_2017_Kaisaniemi_0004.jpg",
+    "dataset": "Wikimedia Commons",
+    "orig_px": [
+      6000,
+      4000
+    ],
+    "full_px": [
+      1500,
+      1000
+    ],
+    "thumb_px": [
+      400,
+      267
+    ]
+  },
+  {
+    "file": "images/sp-flower3.jpg",
+    "commons_file": "Rhododendron Pjm 9zz.jpg",
+    "by": "David J. Stang",
+    "license": "CC-BY-SA",
+    "source": "https://commons.wikimedia.org/wiki/File:Rhododendron_Pjm_9zz.jpg",
+    "dataset": "Wikimedia Commons",
+    "orig_px": [
+      3504,
+      2336
+    ],
+    "full_px": [
+      1500,
+      1000
+    ],
+    "thumb_px": [
+      400,
+      267
+    ]
+  }
+]

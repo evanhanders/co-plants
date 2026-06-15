@@ -60,6 +60,13 @@ function waterOf(p){ const lead=(p.water||'').toLowerCase().split(/[;,(—]| - /
   if(!o.length) o.push('Moderate');
   return o;
 }
+/* soil-acidity class from the plant's preferred pH (the `ph.ideal` sweet spot — where the
+   bar's rust diamond sits): Acidic <6.5, Neutral 6.5–7.5, Alkaline ≥7.5. One bucket each. */
+function phClassOf(p){ const ph=p.ph; if(!ph) return [];
+  let v=ph.ideal; if(v==null) v=(ph.min!=null&&ph.max!=null)?(ph.min+ph.max)/2:null;
+  if(v==null) return [];
+  return [v<6.5?'Acidic':(v<7.5?'Neutral':'Alkaline')];
+}
 const COLOR_HEX={white:'#fbfbf7',yellow:'#f1c40f',orange:'#e8852b',red:'#cf3a2e',pink:'#e87fae',purple:'#8a5cc4',blue:'#4a78c4',green:'#6a9a3b'};
 const cap1=function(s){ return s.charAt(0).toUpperCase()+s.slice(1); };
 const GROUPS=[
@@ -69,6 +76,7 @@ const GROUPS=[
 {key:'life', label:'Lifecycle', mode:'or', opts:['Perennial','Tender perennial','Biennial','Annual'].map(function(k){ return {v:k,label:k,test:function(p){return p.lifecycle===k;}}; })},
 {key:'sun',  label:'Sun',   mode:'or', opts:['Full sun','Part shade','Shade'].map(function(k){ return {v:k,label:k,test:function(p){return sunOf(p).indexOf(k)>-1;}}; })},
 {key:'water',label:'Water', mode:'or', opts:['Low','Moderate','High'].map(function(k){ return {v:k,label:k,test:function(p){return waterOf(p).indexOf(k)>-1;}}; })},
+{key:'ph',   label:'Soil pH',mode:'or', opts:['Acidic','Neutral','Alkaline'].map(function(k){ return {v:k,label:k,test:function(p){return phClassOf(p).indexOf(k)>-1;}}; })},
 {key:'nat',  label:'Origin',mode:'or', opts:[{v:'native',label:'Native',test:function(p){return isNative(p);}},{v:'intro',label:'Non-native',test:function(p){return !isNative(p);}}]},
 {key:'trait',label:'Traits',mode:'and', cls:'trait', opts:['winter','pollin','spreads'].map(function(k){ return {v:k,label:TRAITS[k].label,icon:TRAITS[k].icon,test:TRAITS[k].test}; })},
 {key:'edible',label:'Edibility',mode:'or', cls:'ed', opts:['fruit','eflower','eleaf','estem','eseed','eroot','toxparts','fulltox'].map(function(k){ return {v:k,label:TRAITS[k].label,icon:TRAITS[k].icon,test:TRAITS[k].test}; })}
@@ -103,8 +111,8 @@ function gridOf(list){ return '<div class="grid">'+list.map(cardHTML).join('')+'
    which buckets the flat cards using that GROUPS entry's own predicates — so sort and filter
    never drift. Multi-valued dims (colour, bloom, traits, edibility) place a plant in EVERY
    matching section; whatever matches no option falls into a trailing catch-all bucket. */
-const OTHER_LABEL={color:'Grown for foliage',bloom:'No marked bloom',edible:'Not eaten',trait:'No flagged traits',life:'Other',sun:'Other',water:'Other',nat:'Other'};
-const SORT_LABEL={type:'type',color:'flower colour',bloom:'bloom season',life:'lifecycle',sun:'sun',water:'water',nat:'origin',trait:'traits',edible:'edibility'};
+const OTHER_LABEL={color:'Grown for foliage',bloom:'No marked bloom',edible:'Not eaten',trait:'No flagged traits',life:'Other',sun:'Other',water:'Other',nat:'Other',ph:'pH not recorded'};
+const SORT_LABEL={type:'type',color:'flower colour',bloom:'bloom season',life:'lifecycle',sun:'sun',water:'water',nat:'origin',trait:'traits',edible:'edibility',ph:'soil pH'};
 /* a reusable collapsible section (same markup the type view uses) */
 function sectionHTML(name,count,desc,collapsedNow,gridInner){
 return '<section class="grp'+(collapsedNow?' collapsed':'')+'" data-group="'+name+'">'

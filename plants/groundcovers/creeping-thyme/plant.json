@@ -1,0 +1,203 @@
+{
+  "common": "Creeping thyme",
+  "botanical": "Thymus serpyllum",
+  "type": "Groundcover",
+  "lifecycle": "Perennial",
+  "native": "Non-native",
+  "origin": "Europe, the Mediterranean, and western Asia",
+  "habitat": "Dry rocky hills, heath, and lean grassland in full sun",
+  "blurb": "The classic stepable groundcover: a low, woody-based aromatic mat just a few inches tall, clad in tiny fragrant blue-green leaves and smothered in pale pink-to-lavender flowers that bees mob in early-to-midsummer. It's tailor-made for the Front Range — bone-dry tough once established, happy in lean alkaline ground, and able to take light foot traffic, so it's the go-to plant to tuck between paving stones, soften a path edge, or carpet a hot, gravelly slope where little else will grow. A milder relative of kitchen thyme, its leaves and flowers are edible and aromatic too.",
+  "size": "2–3 in tall foliage mat (flowering stems to ~4 in); spreads 12–18+ in wide",
+  "sun": "Full sun (6+ hours); tolerates light part shade",
+  "water": "Low; xeric once established — needs sharp drainage, rots in wet soil",
+  "spread": "Spreads by rooting prostrate woody stems into a dense weed-smothering mat; not aggressively invasive",
+  "seasons": "Low blue-green semi-evergreen mat much of the year; sheeted in pink-lavender bloom early-to-midsummer; foliage persists or bronzes through Front Range winters under snow",
+  "wildlife": "A superb pollinator plant — bees (honeybees and natives) and butterflies cover the nectar-rich summer flowers",
+  "deer": "Deer and rabbit resistant — both avoid the aromatic foliage",
+  "toxic": "Non-toxic to people and pets; the leaves and flowers are edible culinary herbs (a milder wild thyme)",
+  "flower_color": [
+    "pink",
+    "purple"
+  ],
+  "bloom": [
+    "summer"
+  ],
+  "verified": "2026-06-15",
+  "ph": {
+    "min": 6.0,
+    "ideal": 7.0,
+    "max": 8.0
+  },
+  "care": {
+    "hardiness": "Hardy to USDA zones 4–9, so it is fully reliable across the Colorado Front Range (zones 5b–6a) — unlike common cooking thyme (Thymus vulgaris), which is only marginally winter-hardy here, creeping thyme is dependably perennial and makes an excellent permanent groundcover.[1][2][3] The low mat is semi-evergreen and rides out Boulder winters under snow; an after-New-Year mulch helps prevent frost-heaving in exposed, snow-free sites.[3]",
+    "planting": "Plant in spring after the mid-May last frost (or in early fall) from nursery transplants or rooted divisions, setting plants 8–12 in. apart in a hot, sharply drained spot.[1][3] Boulder's heavy clay must be opened up with coarse grit or decomposed granite, or the plant sited on a slope, raised bed, or between paving stones where water never stands. In containers it makes a fine drought-tolerant spiller; use a gritty, fast-draining mix and water only at the base — container roots are far less cold-hardy than in-ground ones, so sink or shelter pots over winter.[1]",
+    "sun": "Full sun — at least 6 hours of direct light — gives the densest mat and the heaviest bloom; it tolerates light afternoon shade but grows looser and flowers less.[1][3] Colorado's intense high-altitude sun is exactly what it wants.",
+    "soil": "Lean, gritty, well-drained soil is essential; creeping thyme grows wild on dry rocky hills and resents rich or soggy ground.[1][2] It tolerates the alkaline soils common on the Front Range. Amend heavy clay heavily with coarse grit, or plant in rock gardens, gravel, and the gaps between flagstones — sharp drainage is the single non-negotiable requirement.[1][2]",
+    "water": "Low and xeric once established. After the first season, established plants need little or no supplemental water beyond Boulder's natural precipitation — perhaps a deep soak every few weeks in the hottest, driest stretches.[1][2] Water at the base and avoid keeping the crown wet; overwatering and poor drainage cause root and crown rot, the most common way to kill it.[1][3] In a dry, snowless winter, a single watering once a month during warm dry spells prevents desiccation.[3]",
+    "spacing": "Space transplants 8–12 in. apart; each plant roots outward as it creeps and knits into a continuous mat within a season or two.[1] Closer spacing fills in faster between pavers; wider spacing suits a naturalistic gravel planting.",
+    "propagation": "Easiest by division or cuttings — seed is slow and variable.[4] Divide an established mat in spring or early fall by lifting and pulling apart rooted sections, each with crown and roots, and replanting at the same depth.[1][3] Stem cuttings or simple layering (pin a prostrate stem to the soil until it roots, then sever) take readily in early summer in a gritty rooting mix; take cuttings any time the soil is above ~70°F.[4] Seed can be surface-sown (it needs light) indoors 6–10 weeks before the mid-May last frost at ~70°F.[4]",
+    "bloom": "Dense heads of tiny tubular pink-to-purple flowers cover the mat in early-to-midsummer (roughly June–August on the Front Range), rising just a couple of inches above the foliage and drawing constant bees and butterflies.[1][2] A light shear right after the main flush tidies the mat, encourages rebloom, and curbs the woody, bare-centered look that develops with age.[1]",
+    "maintenance": "Very low maintenance. Shear the mat back lightly after the first bloom to keep it dense, promote fresh growth, and reduce the buildup of woody, bare stems; clip back any winter-tattered edges in early spring.[1] Divide every few years if the center thins out. It needs no feeding — lean soil is part of the prescription, and rich ground produces floppy, rot-prone growth.",
+    "troubles": "Root and crown rot in wet or poorly drained soil is by far the most common failure on the Front Range — site it for sharp drainage and water only at the base.[1][3] Spider mites can appear in hot, dry summers but are rarely serious.[1] Otherwise essentially pest-free; deer and rabbits leave the aromatic foliage alone.[1] An aging mat can go woody and bare in the middle — shear or divide to renew it.[1]",
+    "companions": "Pair with other lean, sun-loving, sharply drained plants that share its xeric tastes: lavender, cheddar pinks, candytuft, hens and chicks, ice plant, sulphur flower buckwheat, and ornamental alliums all look at home alongside the flowering mat.[2] Use it as a living mortar between flagstones, a soft path edge that takes light footsteps, or a groundcover under taller xeric perennials. Avoid pairing with thirsty, frequently irrigated plants — the water they need will rot the thyme.[1][3]"
+  },
+  "edible": {
+    "level": "edible",
+    "food": true,
+    "kinds": [
+      "leaves",
+      "flowers"
+    ],
+    "card": "Aromatic leaves & flowers (tea, seasoning)",
+    "summary": "A milder culinary thyme: the aromatic leaves and edible flowers season food and steep into tea, though the flavor is gentler and less prized than common cooking thyme.[1][2][3]",
+    "parts": "The tiny aromatic leaves and the small pink-lavender flowers are both edible.[3] Creeping (wild) thyme is a true culinary thyme — used as a seasoning herb and steeped into an herbal tea — but its scent and flavor are milder and more variable than common cooking thyme (Thymus vulgaris), which is the standard kitchen thyme, so it is used less often in the kitchen.[1][2] The edible lavender flowers make a pretty garnish and a fine tea.[3]",
+    "preparation": "Snip 2–3 in. of leafy stem tips and use the leaves fresh or dried; strip the tiny leaves from the woody stems before adding to food.[3][4] The flowers can be scattered fresh over salads or steeped along with the leaves for tea.[3] Flavor is strongest in summer, but the foliage can be harvested into late fall on the Front Range.[3]",
+    "caution": "Harvest only from plants you know are unsprayed (no pesticides or herbicides), and be sure of your identification — this is a low creeping Thymus, not a look-alike. As a culinary herb it is safe in ordinary food amounts; medicinal-strength preparations or thyme essential oil are concentrated and are a separate matter (avoid in pregnancy and for very young children). No part of the plant is toxic.[1][2][3]"
+  },
+  "references": [
+    {
+      "name": "NC State Extension Plant Toolbox — Thymus serpyllum (creeping thyme)",
+      "url": "https://plants.ces.ncsu.edu/plants/thymus-serpyllum/"
+    },
+    {
+      "name": "Missouri Botanical Garden Plant Finder — Thymus serpyllum (mother of thyme / wild thyme)",
+      "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=a294"
+    },
+    {
+      "name": "PlantTalk Colorado (CSU Extension) #1063 — Thyme",
+      "url": "https://planttalk.colostate.edu/topics/annuals-perennials/1063-thyme/"
+    },
+    {
+      "name": "The Old Farmer's Almanac — Thyme: Planting, Growing, and Harvesting",
+      "url": "https://www.almanac.com/plant/thyme"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      1,
+      2
+    ],
+    "sun": [
+      1,
+      3
+    ],
+    "water": [
+      1,
+      2
+    ],
+    "spread": [
+      1,
+      2
+    ],
+    "seasons": [
+      1,
+      2,
+      3
+    ],
+    "wildlife": [
+      1,
+      2
+    ],
+    "deer": [
+      1
+    ],
+    "toxic": [
+      1,
+      3
+    ],
+    "origin": [
+      1,
+      2
+    ],
+    "habitat": [
+      1,
+      2
+    ],
+    "ph": [
+      1,
+      2
+    ]
+  },
+  "shots": [
+    {
+      "local": "images/su-structure-t.jpg",
+      "full": "images/su-structure.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/216193983/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — a dense carpet of pink-lavender bloom: the flowering mat in full flush · © myxograzina (CC-BY-NC) / iNaturalist",
+      "by": "myxograzina",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/127349333"
+    },
+    {
+      "local": "images/su-structure2-t.jpg",
+      "full": "images/su-structure2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/87794727/large.jpg",
+      "s": "summer",
+      "cap": "Summer — creeping thyme spilling from a gap between paving stones — the classic stepable groundcover · © Gergely Nigg (CC-BY) / iNaturalist",
+      "by": "Gergely Nigg",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/55150258"
+    },
+    {
+      "local": "images/su-close-t.jpg",
+      "full": "images/su-close.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556579704/large.jpg",
+      "s": "summer",
+      "cap": "Summer — face-on: heads of tiny pink-purple two-lipped flowers over the tiny leaves · © Mattia (CC-BY-NC) / iNaturalist",
+      "by": "Mattia",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/308501116"
+    },
+    {
+      "local": "images/su-close2-t.jpg",
+      "full": "images/su-close2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/80028546/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — close on a flower cluster, leaves visible · © buginen (CC-BY-NC) / iNaturalist",
+      "by": "buginen",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/50400999"
+    },
+    {
+      "local": "images/su-close3-t.jpg",
+      "full": "images/su-close3.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/147682040/large.jpg",
+      "s": "summer",
+      "cap": "Summer — flowers and the tiny blue-green foliage of the creeping mat · © Viktoria (CC-BY-NC) / iNaturalist",
+      "by": "Viktoria",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/89430922"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/591174309/large.jpg",
+      "s": "summer",
+      "cap": "Summer — the low foliage mat: tiny opposite leaves on prostrate woody stems · © alicjaz (CC-BY-NC) / iNaturalist",
+      "by": "alicjaz",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/326416166"
+    },
+    {
+      "local": "images/su-structure3-t.jpg",
+      "full": "images/su-structure3.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/545464233/large.jpg",
+      "s": "summer",
+      "cap": "Summer — flowering mat woven between flagstones, rooting as it creeps · © Bruce Bennett (CC-BY-NC) / iNaturalist",
+      "by": "Bruce Bennett",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/302658382"
+    },
+    {
+      "local": "images/su-structure4-t.jpg",
+      "full": "images/su-structure4.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/13307019/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — a wild pink drift of creeping thyme over a lean rocky slope · © carnifex (CC-BY) / iNaturalist",
+      "by": "carnifex",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/9726827"
+    }
+  ]
+}

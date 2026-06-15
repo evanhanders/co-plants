@@ -1,0 +1,138 @@
+[
+  {
+    "file": "images/su-habit.jpg",
+    "photo_id": 41388567,
+    "by": "Katie Meis",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/26646692",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1332,
+      1400
+    ],
+    "thumb_px": [
+      381,
+      400
+    ]
+  },
+  {
+    "file": "images/su-context.jpg",
+    "photo_id": 469479140,
+    "by": "symayers",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/249192351",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  },
+  {
+    "file": "images/su-flower.jpg",
+    "photo_id": 24762432,
+    "by": "no rights reserved",
+    "license": "CC0",
+    "source": "https://www.inaturalist.org/observations/16454538",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  },
+  {
+    "file": "images/su-bloom.jpg",
+    "photo_id": 296765673,
+    "by": "FrontRangeWildflowers",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/171048778",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      933
+    ],
+    "thumb_px": [
+      400,
+      267
+    ]
+  },
+  {
+    "file": "images/su-stems.jpg",
+    "photo_id": 524192895,
+    "by": "utah_klaus",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/291347475",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      933
+    ],
+    "thumb_px": [
+      400,
+      267
+    ]
+  },
+  {
+    "file": "images/fa-fruit.jpg",
+    "photo_id": 392159183,
+    "by": "John Waidner",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/221444219",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1305,
+      1400
+    ],
+    "thumb_px": [
+      373,
+      400
+    ]
+  },
+  {
+    "file": "images/fa-fruit2.jpg",
+    "photo_id": 169757300,
+    "by": "rowz",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/101639451",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      640,
+      480
+    ],
+    "thumb_px": [
+      400,
+      300
+    ]
+  },
+  {
+    "file": "images/wi-winter.jpg",
+    "photo_id": 114323243,
+    "by": "Prairie Guy",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/70325864",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  }
+]

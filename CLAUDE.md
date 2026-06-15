@@ -359,7 +359,7 @@ requirements & sourcing" below for the per-plant photo spec.)
 out. Two bespoke modes: **Type** (the default — morphology sections with `GROUP_DESC` glosses,
 collection family cards, and collapse) and **A–Z** (one flat botanical-sorted list, no sections).
 Every *other* option groups the flat cards into collapsible sections **by a filter dimension** —
-**Flower colour, Bloom season, Lifecycle, Sun, Water, Origin, Traits, Edibility** — routed through
+**Flower colour, Bloom season, Lifecycle, Sun, Water, Soil pH, Origin, Traits, Edibility** — routed through
 `genericGroupedHTML(list, key, q)`, which buckets cards using **that same `GROUPS` entry's
 `opts[].test` predicates**, so sort and filter can't drift. Multi-valued dimensions (colour, bloom,
 traits, edibility) place a plant in **every** matching section; whatever matches no option falls
@@ -373,7 +373,9 @@ an `<option>` to `#sortby` whose value is a `GROUPS` key (and an `OTHER_LABEL`/`
 `app.js`. Each group is `{ key, label, mode, opts:[{v,label,test(p)}] }`; current groups are
 **Form** (morphology), **Flower colour** (from `flower_color`), **Bloom** (from `bloom`),
 **Lifecycle** (`lifecycle` tag), **Sun** (derived from the `sun` field by `sunOf()`), **Water**
-(derived from the `water` directive by `waterOf()`), **Origin** (`isNative`), **Traits** (Winter/
+(derived from the `water` directive by `waterOf()`), **Soil pH** (Acidic/Neutral/Alkaline, derived
+from `ph.ideal` by `phClassOf()` — Acidic <6.5, Neutral 6.5–7.5, Alkaline ≥7.5, one bucket per plant
+matching where the bar's diamond sits), **Origin** (`isNative`), **Traits** (Winter/
 Pollinator/Spreads) and **Edibility** — plus the free-text search. **`mode:'or'`** = a plant matches
 *any* selected chip in the group; **`mode:'and'`** = it must match *all* (only Traits is `and`, so
 Winter AND Pollinator composes; Edibility is `or`). Two UX behaviours fall out of one renderer
@@ -399,7 +401,7 @@ field on the plants); the delegated click handler, faceted counts, selected-firs
 round-trip and Clear-all all work off the group automatically. The legend always reads "Showing N of M
 plants" and shows a **Clear all** button when anything is active. Each group's selection is mirrored
 into the **URL hash** under its `key`
-(`#view=…&type=…&color=…&bloom=…&life=…&sun=…&water=…&nat=…&trait=…&edible=…&q=…`) via
+(`#view=…&type=…&color=…&bloom=…&life=…&sun=…&water=…&ph=…&nat=…&trait=…&edible=…&q=…`) via
 `syncHash()`/`applyHash()`, so filtered views are shareable and survive a reload.
 
 ### Adding a trait

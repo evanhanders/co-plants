@@ -1,0 +1,138 @@
+[
+  {
+    "file": "images/su-habit.jpg",
+    "photo_id": 459673223,
+    "by": "Ricardo Jaimes-López",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/observations/256386066",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      1050
+    ],
+    "thumb_px": [
+      400,
+      300
+    ]
+  },
+  {
+    "file": "images/su-context.jpg",
+    "photo_id": 83155389,
+    "by": "Carlos G Velazco-Macias",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/52316163",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      1050
+    ],
+    "thumb_px": [
+      400,
+      300
+    ]
+  },
+  {
+    "file": "images/su-flower.jpg",
+    "photo_id": 121728487,
+    "by": "Carlos G Velazco-Macias",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/74478569",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      1050
+    ],
+    "thumb_px": [
+      400,
+      300
+    ]
+  },
+  {
+    "file": "images/su-bloom.jpg",
+    "photo_id": 336205135,
+    "by": "Luis F. Ramírez",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/observations/191622355",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      933
+    ],
+    "thumb_px": [
+      400,
+      267
+    ]
+  },
+  {
+    "file": "images/fa-flowerclose.jpg",
+    "photo_id": 318293032,
+    "by": "José G. Flores Ventura",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/182544523",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      933
+    ],
+    "thumb_px": [
+      400,
+      267
+    ]
+  },
+  {
+    "file": "images/su-bloommass.jpg",
+    "photo_id": 234748723,
+    "by": "Jacob Martin",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/137448192",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  },
+  {
+    "file": "images/su-foliage.jpg",
+    "photo_id": 165524536,
+    "by": "lotusmcelfish",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/99309851",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  },
+  {
+    "file": "images/fa-flowerspike.jpg",
+    "photo_id": 121785263,
+    "by": "Missy McAllister-Kerr",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/74597216",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1095,
+      1183
+    ],
+    "thumb_px": [
+      370,
+      400
+    ]
+  }
+]

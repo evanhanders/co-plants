@@ -1,0 +1,138 @@
+[
+  {
+    "file": "images/sp-flowers.jpg",
+    "photo_id": 465729242,
+    "by": "Rodamu",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/259443919",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      1330
+    ],
+    "thumb_px": [
+      400,
+      380
+    ]
+  },
+  {
+    "file": "images/sp-bloom-mass.jpg",
+    "photo_id": 377444506,
+    "by": "Jo Roberts",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/observations/213570194",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  },
+  {
+    "file": "images/su-habit.jpg",
+    "photo_id": 57877155,
+    "by": "Callan",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/36600755",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  },
+  {
+    "file": "images/su-foliage.jpg",
+    "photo_id": 521065187,
+    "by": "machaut2",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/observations/289701395",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      787,
+      1400
+    ],
+    "thumb_px": [
+      225,
+      400
+    ]
+  },
+  {
+    "file": "images/fa-berries.jpg",
+    "photo_id": 11102844,
+    "by": "no rights reserved",
+    "license": "CC0",
+    "source": "https://www.inaturalist.org/observations/8354585",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  },
+  {
+    "file": "images/fa-fruit.jpg",
+    "photo_id": 64896548,
+    "by": "Eric van den Berghe",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/40938694",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  },
+  {
+    "file": "images/wi-foliage.jpg",
+    "photo_id": 12949074,
+    "by": "Howard Bruner",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/9503726",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      933
+    ],
+    "thumb_px": [
+      400,
+      267
+    ]
+  },
+  {
+    "file": "images/wi-snow.jpg",
+    "photo_id": 13690624,
+    "by": "ecoexplore_wnc",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/9967478",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      1050
+    ],
+    "thumb_px": [
+      400,
+      300
+    ]
+  }
+]

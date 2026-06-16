@@ -1,0 +1,189 @@
+{
+  "common": "Sea lavender",
+  "botanical": "Limonium platyphyllum",
+  "type": "Forb",
+  "lifecycle": "Perennial",
+  "native": "Non-native",
+  "bloom_season": "Summer",
+  "flower_color": [
+    "purple",
+    "blue",
+    "white"
+  ],
+  "bloom": [
+    "summer"
+  ],
+  "blurb": "Also called perennial statice — a tough, drought- and salt-proof steppe perennial that throws a huge airy 'baby's-breath' cloud of tiny papery lavender-blue flowers in midsummer over a basal rosette of broad leathery leaves; one of the best fresh-or-dried everlasting cut flowers for the dry Front Range.",
+  "size": "2–2.5 ft × 2–2.5 ft",
+  "sun": "Full sun",
+  "water": "Low; xeric once established, tolerates drought and dry soil",
+  "spread": "Clumping; a single non-running rosette from a deep taproot, may self-seed",
+  "seasons": "Basal rosette of dark spoon-shaped leaves spring through fall; airy lavender-blue flower cloud July–Aug; the branched flower stems dry to a buff 'everlasting' skeleton that persists into winter",
+  "wildlife": "Bees, butterflies and other pollinators work the tiny flowers; the airy bloom is a favorite of small native bees",
+  "deer": "Generally deer-resistant",
+  "toxic": "No toxicity reported; grown as an ornamental and cut/dried flower, not a food plant",
+  "winter": true,
+  "verified": "2026-06-16",
+  "origin": "Steppes of SE & central Europe to the Caucasus (Black Sea region)",
+  "habitat": "Dry saline steppe and rocky calcareous slopes",
+  "ph": {
+    "min": 6.0,
+    "ideal": 7.0,
+    "max": 8.0
+  },
+  "care": {
+    "hardiness": "Very cold-hardy — rated USDA zones 3–9, so it is bulletproof across the Front Range (zones 5b–6a) and shrugs off Boulder's winter lows.[1][3] A steppe plant from the same dry-continental climate as the high plains, it is one of the best-adapted perennials for our hot, dry summers and cold winters; Denver Botanic Gardens grows it in its Steppe collection as a Zone-3 xeric perennial.[3] The one non-negotiable is sharp winter drainage — wet, heavy soil in winter causes crown rot.[1][2]",
+    "planting": "Plant in spring (Apr–May) from a young nursery pot, while the deep taproot is still small enough to settle in. Set the crown at soil level in a sunny, sharply drained spot and water it through the first season to establish; after that it largely fends for itself. It resents being moved, so site it permanently the first time. Sea lavender is a poor container subject long-term — the deep taproot wants open ground — but a young plant can be held a season in a deep, gritty, free-draining pot before going in the ground.[1][2]",
+    "sun": "Full sun — 6+ hours of direct sun for the strongest bloom cloud and a sturdy, self-supporting plant; it will flop and bloom thinly in shade.[1][2]",
+    "soil": "Average, medium, well-drained soil; it does best in light, sandy, well-drained loam and tolerates lean, shallow-rocky ground.[1] Drainage matters far more than fertility — overly rich soil grows lush leaves at the expense of the flower cloud, and waterlogged or heavy clay invites crown rot, so amend tight Boulder clay with grit/coarse sand. Native to saline steppe, it is notably salt-tolerant, useful near walks and drives that get winter de-icing.[1][2]",
+    "water": "Low. Water regularly the first season to establish the deep taproot; after that it is genuinely xeric and tolerates drought and dry soil with little or no supplemental water.[1] Avoid keeping the crown wet — especially over winter — which is the main thing that kills it.[1][2]",
+    "spacing": "Space plants 18–24 in apart — this open spacing gives each rosette room and, just as importantly, the good air circulation that prevents crown and root rot.[1]",
+    "propagation": "Best from seed or root cuttings; division is difficult and resented because of the long taproot, so do not dig up and split an established clump.[1][2] Sow seed in spring on the soil surface (it needs light to germinate), keeping it evenly moist but not wet — germination runs roughly two to four weeks at about 68–77°F.[1][2] Root cuttings taken from the thick taproot are the reliable vegetative route. Seed-grown plants take a few years to reach full flowering size, and established plants may also self-seed gently.[1]",
+    "bloom": "The signature airy, cloud-like mass of tiny lavender-blue flowers opens in midsummer — roughly July into August on the Front Range — held on long, wiry, much-branched stems above the foliage.[1][3] The papery flowers (technically long-lasting colored calyces) hold their color for weeks and are superb cut, fresh or dried.[1]",
+    "maintenance": "Very low-maintenance.[1] Leave the dried flower stems standing for winter structure, or cut them for everlasting arrangements; tidy the spent stems back to the basal rosette in late winter or early spring before new growth pushes. Tall plants in heavy, rich soil can flop and may need a light stake, but in lean, sunny ground they stand on their own.[1] No routine feeding is needed.",
+    "troubles": "Few problems in a sunny, well-drained site.[1] Crown and root rot are the main risk — almost always a symptom of poor drainage or a wet winter crown — and botrytis and other fungal diseases can appear in damp, crowded conditions; good air circulation and sharp drainage are the whole prescription.[1][2] Otherwise it is largely pest- and disease-free and deer tend to leave it alone.",
+    "companions": "Pairs naturally with other sun-loving, drought-tolerant steppe and prairie plants on lean, well-drained ground — ornamental grasses, yarrow, Russian sage, lavender, catmint, and globe thistle — where its lavender-blue haze softens bolder neighbors. Use it the way you'd use baby's breath, as an airy filler in a xeric border or cutting bed.[3]",
+    "harvest": "For drying, cut the flower stems just as most of the tiny flowers in the cloud have opened and show full color, in the cool of the morning.[1] Strip the lower foliage, bundle loosely, and hang the bunches upside down in a dark, dry, airy place; the papery calyces hold their lavender-blue color for months, making sea lavender a premier everlasting for winter arrangements.[1]"
+  },
+  "fact_src": {
+    "size": [
+      1
+    ],
+    "sun": [
+      1,
+      2
+    ],
+    "water": [
+      1
+    ],
+    "spread": [
+      1,
+      2
+    ],
+    "seasons": [
+      1,
+      3
+    ],
+    "wildlife": [
+      2
+    ],
+    "deer": [
+      1
+    ],
+    "toxic": [
+      2
+    ],
+    "origin": [
+      3
+    ],
+    "habitat": [
+      1,
+      3
+    ],
+    "ph": [
+      1,
+      2
+    ]
+  },
+  "edible": {
+    "level": "inedible",
+    "summary": "Sea lavender is grown as an ornamental and cut/dried flower — there is no documented edible part, so don't eat it; it is not notably poisonous, just not a food.[1][2]",
+    "caution": "Limonium platyphyllum is cultivated strictly as an ornamental and an everlasting cut flower. Authoritative horticultural sources record no culinary use and no toxicity rating — it is neither a recognized edible nor a known poison.[1][2] With no positive food record from a reliable source, treat it as a non-food plant and do not eat the flowers, foliage, or roots. (Note the look-alike trap: the dried flower clouds sold as florist 'statice' come from this genus and its relatives and are decorative material, not food.)"
+  },
+  "references": [
+    {
+      "name": "Missouri Botanical Garden Plant Finder — Limonium platyphyllum",
+      "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=p830"
+    },
+    {
+      "name": "NC State Extension Gardener Plant Toolbox — Limonium (Sea Lavender / Statice)",
+      "url": "https://plants.ces.ncsu.edu/plants/limonium/"
+    },
+    {
+      "name": "Denver Botanic Gardens — Gardens Navigator: Limonium platyphyllum",
+      "url": "https://navigate.botanicgardens.org/weboi/oecgi2.exe/INET_ECM_DispPl?NAMENUM=30068"
+    }
+  ],
+  "shots": [
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/348670994/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — the airy lavender-blue flower cloud on wiry branched stems, the plant's signature 'baby's-breath' habit · © Vadym Maniuk (CC-BY-NC) / iNaturalist",
+      "by": "Vadym Maniuk",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/197902185"
+    },
+    {
+      "local": "images/su-bloom-t.jpg",
+      "full": "images/su-bloom.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/260322332/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — flowering mound showing the dark basal rosette below the lavender bloom cloud · © Dima Vladimirov (CC-BY-NC) / iNaturalist",
+      "by": "Dima Vladimirov",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/150919481"
+    },
+    {
+      "local": "images/su-flower-t.jpg",
+      "full": "images/su-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/637272075/large.jpg",
+      "s": "summer",
+      "cap": "Summer — face-on close-up of the tiny papery lavender-blue flowers on branched sprays · © Victoria Gritsenko (CC-BY-NC) / iNaturalist",
+      "by": "Victoria Gritsenko",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/349348409"
+    },
+    {
+      "local": "images/su-flower-spray-t.jpg",
+      "full": "images/su-flower-spray.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/90120697/large.jpg",
+      "s": "summer",
+      "cap": "Summer — flower spray detail, the long-lasting colored calyces that dry as everlastings · © Fyodor Khomenko (CC-BY-NC) / iNaturalist",
+      "by": "Fyodor Khomenko",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/56546219"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/84663299/large.jpg",
+      "s": "summer",
+      "cap": "Summer — broad leathery dark spoon-shaped basal leaves · © eugene_fruslov (CC-BY) / iNaturalist",
+      "by": "eugene_fruslov",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/53237085"
+    },
+    {
+      "local": "images/su-context-t.jpg",
+      "full": "images/su-context.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/219232122/large.jpg",
+      "s": "summer",
+      "cap": "Summer — the lavender flower cloud reading as a haze in open steppe/meadow · © Oleksandr Shynder (CC-BY-NC) / iNaturalist",
+      "by": "Oleksandr Shynder",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/129039519"
+    },
+    {
+      "local": "images/fa-dried-t.jpg",
+      "full": "images/fa-dried.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/237096367/large.jpeg",
+      "s": "fall",
+      "cap": "Fall — the branched flower stems dried to a buff 'everlasting' seedhead cloud · © Vadym (CC-BY-NC) / iNaturalist",
+      "by": "Vadym",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/138697491"
+    },
+    {
+      "local": "images/wi-winter-t.jpg",
+      "full": "images/wi-winter.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/219211172/large.jpeg",
+      "s": "winter",
+      "cap": "Winter — dried persistent flower skeleton over fresh green basal regrowth · © Kateryna (CC-BY-NC) / iNaturalist",
+      "by": "Kateryna",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/129023281"
+    }
+  ]
+}

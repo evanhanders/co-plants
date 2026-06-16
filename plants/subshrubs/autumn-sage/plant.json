@@ -1,0 +1,205 @@
+{
+  "common": "Autumn sage",
+  "botanical": "Salvia greggii",
+  "type": "Subshrub",
+  "lifecycle": "Perennial",
+  "native": "Non-native",
+  "flower_color": [
+    "red",
+    "pink",
+    "purple",
+    "white"
+  ],
+  "bloom": [
+    "summer",
+    "fall"
+  ],
+  "blurb": "Compact woody xeric sage with small aromatic leaves and months of tubular flowers hummingbirds and bees mob.",
+  "size": "1.5–2.5 ft × 2 ft",
+  "sun": "Full sun",
+  "water": "Low; xeric once established, sharp drainage essential",
+  "spread": "Clumping woody mound — stays put",
+  "seasons": "Mint-green aromatic foliage; tubular red-to-pink flowers summer into fall; bare/twiggy in winter",
+  "wildlife": "Hummingbird & bee magnet",
+  "deer": "Deer-resistant",
+  "toxic": "Non-toxic to people, dogs & cats",
+  "winter": false,
+  "verified": "2026-06-16",
+  "origin": "Chihuahuan Desert — SW/central Texas to northern Mexico (San Luis Potosí)",
+  "habitat": "Rocky limestone slopes & desert scrub, ~5,000–9,000 ft elevation",
+  "ph": {
+    "min": 6.5,
+    "ideal": 7.2,
+    "max": 8.0
+  },
+  "care": {
+    "hardiness": "USDA zones 6–10 — borderline on the Front Range, where Boulder sits at the cold edge (5b–6a). Treat it as a zone-push: it survives most winters on a sharply drained, south-facing or raised site but can be lost in a hard winter or wet, poorly drained soil. Mulch the crown for its first few winters, site it against warm stone or a south wall, and keep it bone-dry through the cold months — winter wet, not winter cold, is what kills it here.[1][2]",
+    "planting": "Plant in spring, mid-May onward once the soil has warmed and hard frost has passed, so the roots establish through a full growing season before facing winter. Fall planting is risky on the Front Range — the crown needs months to root before freeze-thaw cycles. In containers it makes an excellent patio plant but is a poor outdoor overwinterer: pot roots are far less cold-hardy than an in-ground crown. Use a fast-draining gritty/cactus mix, and before hard freezes move the pot into an unheated garage or shed and keep it nearly dry through winter, or simply grow it as an annual.[1][3]",
+    "sun": "Full sun — at least 6–8 hours of direct sun for the strongest, most continuous bloom and a dense, self-supporting habit. In the hottest, leanest sites it tolerates a little afternoon shade, but real shade makes it leggy and sparse-flowering.[1][2]",
+    "soil": "Lean, gritty, sharply drained soil is essential — sandy, rocky, or gravelly ground suits it best, and it tolerates alkaline limestone soils well (it grows wild among limestone outcrops). It cannot handle heavy, wet shrink-swell clay; on Front Range clay, plant it on a berm, raised bed, or slope amended with coarse grit. Skip rich soil and heavy feeding, which produce floppy growth at the expense of flowers.[2][3]",
+    "water": "Xeric once established. Water regularly the first season to settle the roots, then taper off — mature plants thrive on lean water with only an occasional deep soak in the hottest, driest summer stretches. Keep emitters away from the crown and never let the soil stay soggy; overwatering, especially in fall and winter, is the most common way to lose it.[1][2]",
+    "spacing": "Space plants about 2 ft apart (mature spread roughly 18–30 in) to let each woody mound fill in while keeping good airflow around the crown.[1]",
+    "bloom": "A very long warm-season show — flowers open from early summer well into fall, with peak flushes in late spring and again in autumn and scattered bloom through the heat of summer until hard frost. The two-lipped tubular flowers are usually red in the wild species but cultivars range through coral, pink, magenta, purple and white.[1][2]",
+    "propagation": "Easiest from softwood or semi-ripe stem cuttings, which root readily — take 3–4 in tip cuttings in late spring to summer, strip the lower leaves, and root in a gritty, free-draining mix kept lightly moist (cuttings are the only way to keep a named cultivar's flower color true). Seed also works for the wild species: sow in spring in a warm, well-drained mix, though seed-grown plants vary in flower color.[1][2]",
+    "maintenance": "Shear the plant back lightly by a third after the first big bloom flush to remove spent flowers and trigger a fresh wave of bloom into fall. Do the main hard cutback in early spring, not fall — wait until you can see which stems leafed out, then cut the whole plant back by about half to keep it compact and prevent a bare, woody base. Leaving the top growth on through winter also helps protect the crown in this zone-push climate. Avoid cutting deep into old leafless wood, which is slow to resprout.[1][2]",
+    "troubles": "Largely trouble-free — 'no serious insect or disease problems' under good drainage. Watch for whiteflies and aphids on stressed or sheltered plants, and root/crown rot in wet, poorly drained or overwatered soil, which is the main risk here. Deer and rabbits generally leave the aromatic foliage alone.[1]",
+    "companions": "Pairs naturally with other xeric, sun-loving plants for a hot, dry bed: penstemon, blanket flower, hardy ice plant, prairie zinnia, rabbitbrush, sulphur flower buckwheat, and ornamental grasses like blue grama. Its red-to-pink flowers and fine foliage read well alongside silver-leaved sages and yellow-flowered companions in a hummingbird/pollinator border.[2]"
+  },
+  "fact_src": {
+    "size": [
+      1,
+      2
+    ],
+    "sun": [
+      1,
+      2
+    ],
+    "water": [
+      1,
+      2
+    ],
+    "spread": [
+      1
+    ],
+    "seasons": [
+      1,
+      2
+    ],
+    "wildlife": [
+      1,
+      2
+    ],
+    "deer": [
+      1,
+      2
+    ],
+    "toxic": [
+      2
+    ],
+    "origin": [
+      1,
+      4
+    ],
+    "habitat": [
+      2,
+      4
+    ],
+    "ph": [
+      2,
+      3
+    ]
+  },
+  "edible": {
+    "level": "caution",
+    "food": true,
+    "kinds": [
+      "leaves",
+      "flowers"
+    ],
+    "card": "Aromatic leaves (tea/seasoning), edible flowers",
+    "summary": "The aromatic leaves are used fresh or dried as a mild seasoning and tea, and the small flowers are edible — but use this ornamental sparingly and only when you've confirmed the plant is true Salvia greggii.[2]",
+    "parts": "The small aromatic leaves can be used fresh or dried to flavor seasonings and teas, and the tubular flowers are edible — a sweet-nectared garnish often pulled straight off the plant.[2]",
+    "preparation": "Use the leaves sparingly as a mild aromatic flavoring, fresh or dried, rather than as a bulk culinary herb; rinse flowers and use as an edible garnish. This is a fragrant ornamental sage, not a heavy-use kitchen herb like culinary sage (*Salvia officinalis*).[2]",
+    "caution": "Salvia greggii is grown as an ornamental, and its food use — aromatic leaves for tea/seasoning and edible flowers — is only lightly documented, so use it modestly and never in medicinal quantity. Be certain of the plant's identity before eating any part: many ornamental and red-flowered salvias look similar, and only true *S. greggii* is documented this way. It is listed as non-toxic to dogs, cats and people, so it poses no poisoning hazard, but treat it as a minor flavoring/garnish, not a staple green.[2]"
+  },
+  "references": [
+    {
+      "name": "Missouri Botanical Garden — Plant Finder: Salvia greggii (autumn sage)",
+      "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=263488"
+    },
+    {
+      "name": "NC State Extension — Salvia greggii (Autumn Sage), Plant Toolbox",
+      "url": "https://plants.ces.ncsu.edu/plants/salvia-greggii/"
+    },
+    {
+      "name": "Lady Bird Johnson Wildflower Center — Salvia greggii (Autumn sage)",
+      "url": "https://www.wildflower.org/plants/result.php?id_plant=SAGR4"
+    },
+    {
+      "name": "Wikipedia — Salvia greggii (native range & elevation)",
+      "url": "https://en.wikipedia.org/wiki/Salvia_greggii"
+    }
+  ],
+  "shots": [
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/459673223/large.jpg",
+      "s": "summer",
+      "cap": "Summer — whole woody-based shrub mound with mint-green aromatic foliage and red flowers · © Ricardo Jaimes-López (CC-BY) / iNaturalist",
+      "by": "Ricardo Jaimes-López",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/256386066"
+    },
+    {
+      "local": "images/su-context-t.jpg",
+      "full": "images/su-context.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/83155389/large.jpg",
+      "s": "summer",
+      "cap": "Summer — autumn sage growing in its native rocky desert-scrub habitat, showing overall size and form · © Carlos G Velazco-Macias (CC-BY-NC) / iNaturalist",
+      "by": "Carlos G Velazco-Macias",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/52316163"
+    },
+    {
+      "local": "images/su-flower-t.jpg",
+      "full": "images/su-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/121728487/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — face-on close-up of the deep-red two-lipped tubular flowers · © Carlos G Velazco-Macias (CC-BY-NC) / iNaturalist",
+      "by": "Carlos G Velazco-Macias",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/74478569"
+    },
+    {
+      "local": "images/su-bloom-t.jpg",
+      "full": "images/su-bloom.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/336205135/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — flowering stems lined with vivid red tubular blooms over fine foliage · © Luis F. Ramírez (CC-BY) / iNaturalist",
+      "by": "Luis F. Ramírez",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/191622355"
+    },
+    {
+      "local": "images/fa-flowerclose-t.jpg",
+      "full": "images/fa-flowerclose.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/318293032/large.jpeg",
+      "s": "fall",
+      "cap": "Fall — close-up of red two-lipped flowers showing the hummingbird-pollinated form · © José G. Flores Ventura (CC-BY-NC) / iNaturalist",
+      "by": "José G. Flores Ventura",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/182544523"
+    },
+    {
+      "local": "images/su-bloommass-t.jpg",
+      "full": "images/su-bloommass.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/234748723/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — a flowering spray showing the magenta-pink cultivar end of the colour range · © Jacob Martin (CC-BY-NC) / iNaturalist",
+      "by": "Jacob Martin",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/137448192"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/165524536/large.jpg",
+      "s": "summer",
+      "cap": "Summer — the small, rounded, aromatic mint-green leaves and slender flowering stems · © lotusmcelfish (CC-BY-NC) / iNaturalist",
+      "by": "lotusmcelfish",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/99309851"
+    },
+    {
+      "local": "images/fa-flowerspike-t.jpg",
+      "full": "images/fa-flowerspike.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/121785263/large.jpeg",
+      "s": "fall",
+      "cap": "Fall — whorls of red flowers held above the foliage on the woody stems · © Missy McAllister-Kerr (CC-BY-NC) / iNaturalist",
+      "by": "Missy McAllister-Kerr",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/74597216"
+    }
+  ]
+}

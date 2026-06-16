@@ -1,0 +1,195 @@
+{
+  "common": "Plains cottonwood",
+  "botanical": "Populus deltoides",
+  "type": "Tree",
+  "lifecycle": "Perennial",
+  "native": "CO native",
+  "flower_color": [
+    "green"
+  ],
+  "bloom": [
+    "spring"
+  ],
+  "blurb": "One of the largest trees on the Front Range — a fast, broad-crowned native cottonwood of streambanks and bottomlands; triangular fluttering leaves, brilliant clear-yellow fall, and massive winter architecture. Females release the famous early-summer cotton.",
+  "size": "~60–100 ft tall × 35–60 ft wide (a true shade-giant)",
+  "sun": "Full sun",
+  "water": "High — moist bottomland; not for dry zones, thirsty + brittle",
+  "spread": "Single broad-crowned trunk; suckers and seeds into stands near water",
+  "seasons": "Yellow-green catkins on bare twigs early spring; cottony seed in early summer; brilliant clear-yellow fall; deeply furrowed gray bark and bold bare architecture in winter",
+  "wildlife": "Keystone riparian tree — cavity-nest and roost sites, a larval host for mourning cloak, viceroy and tiger swallowtail, and cover/browse for deer, beaver and birds",
+  "deer": "Seedlings and young trees browsed by deer, rabbits and beaver — not deer-proof",
+  "toxic": "No serious toxicity; brittle wood drops limbs and the greedy roots heave pavement, lift sewer lines and crowd foundations",
+  "winter": true,
+  "verified": "2026-06-16",
+  "ph": {
+    "min": 6.0,
+    "ideal": 7.0,
+    "max": 8.0
+  },
+  "care": {
+    "hardiness": "Bulletproof here — rated USDA zones 3a–9b, so it sails through Boulder's 5b–6a winters with no protection.[1]",
+    "planting": "Plant dormant in spring or early fall while the tree can knit roots before heat or hard frost; it transplants easily and grows fast. Site it deliberately at least 30–50 ft from any house foundation, sidewalk, septic field or sewer line — the brittle limbs and aggressive surface roots make it a poor near-structure tree.[1][2] It is too large and thirsty for long-term container culture; grow it only in the open ground near a water source.[2]",
+    "sun": "Full sun — six or more hours of direct light a day; it is shade-intolerant and grows fast and straight in the open.[1][2]",
+    "soil": "Adaptable to almost any soil from coarse sand to clay, and tolerant of acid through alkaline ground (about pH 4.5–8.0), so Boulder's high-pH clay is no obstacle; it grows best on deep, moist fine sandy loams.[1][2]",
+    "water": "This is a thirsty riparian tree — in the wild it grows on floodplains and ditchbanks where moisture, not soil type, governs it.[2] On the Front Range give it a moist, deep-watered site or a spot near a stream, pond or irrigation ditch; it is NOT a tree for a dry, xeric yard and will decline without ample water.[1][2]",
+    "spacing": "Give it enormous room — a mature plains cottonwood reaches 60–100 ft tall and 35–60 ft wide with a broad open crown, so allow 40+ ft from buildings, drives and other large trees.[1]",
+    "propagation": "Easiest of any tree from hardwood cuttings: take 8–20 in dormant cuttings of pencil-thick first-year wood in late winter and stick them in moist ground — they root readily, the basis of riparian-restoration plantings.[2][3] From seed, the cottony seed is viable only 1–2 weeks and needs no stratification: sow fresh onto bare, constantly moist mineral soil in full sun; collect catkins just before they open and dry, then rub out the seed and refrigerate (~41°F) briefly if not sowing at once.[2][3]",
+    "maintenance": "Prune structurally while young to build strong scaffold limbs — its brittle wood sheds branches in wind and ice storms, so remove weak, narrow-angled and crossing limbs early and keep deadwood cleared.[3] Prune in dormancy or late summer (avoid the heavy spring sap flow); rake the abundant leaf and twig litter.[1][3]",
+    "troubles": "Brittle, fast-grown wood means storm and ice breakage is the chief problem — the trade-off for its speed.[3] Cytospora canker, dieback and leaf-spot/rust diseases occur, and borers, aphids, scale and caterpillars feed on it; aphid honeydew can drip from the canopy.[1] The shallow, greedy roots lift sidewalks, invade sewer and drain lines and compete hard with lawn and garden — keep it well away from structures and paving.[1][2]",
+    "companions": "Pair it with other native riparian/bottomland plants that share its love of moisture: mountain alder, red-twig dogwood, Wood's rose, golden currant (*Ribes aureum*), chokecherry, and a sedge/native-grass understory — a streamside community rather than a dry-garden bed.[2]"
+  },
+  "fact_src": {
+    "size": [
+      1
+    ],
+    "sun": [
+      1,
+      2
+    ],
+    "water": [
+      1,
+      2
+    ],
+    "spread": [
+      1,
+      2
+    ],
+    "seasons": [
+      1,
+      2
+    ],
+    "wildlife": [
+      1,
+      2
+    ],
+    "deer": [
+      1,
+      2
+    ],
+    "toxic": [
+      1,
+      2
+    ],
+    "ph": [
+      1
+    ]
+  },
+  "edible": {
+    "level": "caution",
+    "food": true,
+    "kinds": [
+      "leaves"
+    ],
+    "card": "Inner bark & spring catkins (survival food, cooked)",
+    "summary": "A documented Indigenous and survival food in its parts: the spring inner bark/cambium and the young catkins were eaten — but it is a salicin-bearing tree, so people sensitive to aspirin should avoid it, and it is a famine food, not a salad green.[1][3]",
+    "parts": "The sweet inner bark (cambium layer) was scraped and eaten in spring — the Teton Dakota and other Plains peoples used cottonwood inner bark as food — and the immature male catkins were eaten or, with the sticky sap, chewed like gum.[1][3] These are lean survival/famine foods, not a regular vegetable.[3]",
+    "preparation": "Harvest the inner bark only in spring when the sap is running and it peels cleanly; eat it raw in strips or dry and grind it as a flour extender, and cook the young catkins before eating.[3] Take bark sparingly and never girdle a tree — stripping the cambium all the way around kills it.[1]",
+    "caution": "Cottonwood bark, buds and leaves contain salicin (a salicylate, the aspirin precursor), so anyone allergic or sensitive to aspirin, pregnant, or on blood-thinners should NOT eat it.[1][3] This is a survival food eaten in small amounts, not a culinary green — the leaves and resinous buds are bitter and not eaten as food. Be certain of identification (the deltoid leaves and flattened petioles), since this is foraged from large wild trees.[3]"
+  },
+  "references": [
+    {
+      "name": "NC State Extension Plant Toolbox — Populus deltoides",
+      "url": "https://plants.ces.ncsu.edu/plants/populus-deltoides/"
+    },
+    {
+      "name": "USDA-FS Fire Effects Information System (FEIS) — Populus deltoides",
+      "url": "https://www.fs.usda.gov/database/feis/plants/tree/popdel/all.html"
+    },
+    {
+      "name": "Lady Bird Johnson Wildflower Center — Populus deltoides",
+      "url": "https://www.wildflower.org/plants/result.php?id_plant=PODE3"
+    }
+  ],
+  "shots": [
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/563706147/large.jpg",
+      "s": "summer",
+      "cap": "Summer — a broad-crowned cottonwood in full leaf, one of the largest trees on the Front Range · © asanc145 (CC-BY-NC) / iNaturalist",
+      "by": "asanc145",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/312232333"
+    },
+    {
+      "local": "images/su-trunk-t.jpg",
+      "full": "images/su-trunk.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/615129971/large.jpg",
+      "s": "summer",
+      "cap": "Summer — massive trunk and deeply furrowed gray bark · © Jennifer Ackerfield (CC-BY-NC) / iNaturalist",
+      "by": "Jennifer Ackerfield",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/338272201"
+    },
+    {
+      "local": "images/wi-bark-t.jpg",
+      "full": "images/wi-bark.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/458738381/large.jpg",
+      "s": "winter",
+      "cap": "Winter — close-up of the thick, deeply ridged gray bark · © millepon (CC-BY-NC) / iNaturalist",
+      "by": "millepon",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/255927464"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/210837190/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — triangular (deltoid), coarsely toothed leaves on long flattened petioles that make them flutter · © rodneyv56 (CC-BY-NC) / iNaturalist",
+      "by": "rodneyv56",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/124391975"
+    },
+    {
+      "local": "images/su-leaves-t.jpg",
+      "full": "images/su-leaves.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/158224891/large.jpg",
+      "s": "summer",
+      "cap": "Summer — deltoid leaves and coarse twigs in the canopy · © srknott (CC-BY-NC) / iNaturalist",
+      "by": "srknott",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/95318409"
+    },
+    {
+      "local": "images/sp-catkins-t.jpg",
+      "full": "images/sp-catkins.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/490868061/large.jpg",
+      "s": "spring",
+      "cap": "Spring — dangling red-green catkins open on bare twigs before the leaves (dioecious) · © Sandy Wolkenberg (CC-BY) / iNaturalist",
+      "by": "Sandy Wolkenberg",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/272841061"
+    },
+    {
+      "local": "images/su-cotton-t.jpg",
+      "full": "images/su-cotton.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/41487487/large.jpg",
+      "s": "summer",
+      "cap": "Early summer — seed capsules split to release the famous white cottony seed · © Sandy Wolkenberg (CC-BY) / iNaturalist",
+      "by": "Sandy Wolkenberg",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/26708913"
+    },
+    {
+      "local": "images/fa-fallcolor-t.jpg",
+      "full": "images/fa-fallcolor.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/98033314/large.jpeg",
+      "s": "fall",
+      "cap": "Fall — the whole tree turning brilliant clear-yellow · © Suzanne Dingwell (CC-BY-NC) / iNaturalist",
+      "by": "Suzanne Dingwell",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/61275392"
+    },
+    {
+      "local": "images/wi-winter-t.jpg",
+      "full": "images/wi-winter.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/601854028/large.jpg",
+      "s": "winter",
+      "cap": "Winter — bold bare architecture against a snowy bottomland · © evie94278 (CC-BY-NC) / iNaturalist",
+      "by": "evie94278",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/331729800"
+    }
+  ]
+}

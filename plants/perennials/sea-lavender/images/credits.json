@@ -1,0 +1,138 @@
+[
+  {
+    "file": "images/su-habit.jpg",
+    "photo_id": 348670994,
+    "by": "Vadym Maniuk",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/197902185",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      1050
+    ],
+    "thumb_px": [
+      400,
+      300
+    ]
+  },
+  {
+    "file": "images/su-bloom.jpg",
+    "photo_id": 260322332,
+    "by": "Dima Vladimirov",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/150919481",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      933
+    ],
+    "thumb_px": [
+      400,
+      267
+    ]
+  },
+  {
+    "file": "images/su-flower.jpg",
+    "photo_id": 637272075,
+    "by": "Victoria Gritsenko",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/349348409",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1012,
+      1400
+    ],
+    "thumb_px": [
+      289,
+      400
+    ]
+  },
+  {
+    "file": "images/su-flower-spray.jpg",
+    "photo_id": 90120697,
+    "by": "Fyodor Khomenko",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/56546219",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  },
+  {
+    "file": "images/su-foliage.jpg",
+    "photo_id": 84663299,
+    "by": "eugene_fruslov",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/observations/53237085",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  },
+  {
+    "file": "images/su-context.jpg",
+    "photo_id": 219232122,
+    "by": "Oleksandr Shynder",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/129039519",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      1050
+    ],
+    "thumb_px": [
+      400,
+      300
+    ]
+  },
+  {
+    "file": "images/fa-dried.jpg",
+    "photo_id": 237096367,
+    "by": "Vadym",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/138697491",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      986
+    ],
+    "thumb_px": [
+      400,
+      282
+    ]
+  },
+  {
+    "file": "images/wi-winter.jpg",
+    "photo_id": 219211172,
+    "by": "Kateryna",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/129023281",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      1047
+    ],
+    "thumb_px": [
+      400,
+      299
+    ]
+  }
+]

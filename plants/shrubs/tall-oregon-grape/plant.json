@@ -1,0 +1,207 @@
+{
+  "common": "Tall Oregon grape",
+  "botanical": "Berberis aquifolium",
+  "type": "Shrub",
+  "lifecycle": "Perennial",
+  "native": "Non-native",
+  "origin": "Pacific Northwest — BC to N California & the Rockies' western edge",
+  "habitat": "Open conifer forest, woodland edges, rocky slopes",
+  "flower_color": [
+    "yellow"
+  ],
+  "bloom": [
+    "spring"
+  ],
+  "blurb": "An upright evergreen shrub (3–6 ft) with glossy, spiny, holly-like pinnate leaves that bronze in winter, fragrant bright-yellow flower clusters in early spring, then powdery blue edible berries — the taller, glossier counterpart to the low CO-native creeping Oregon grape, and Oregon's state flower.",
+  "size": "3–6 ft × 2–5 ft (upright, suckering clump)",
+  "sun": "Full sun to part/full shade; best with part shade here",
+  "water": "Low to moderate; drought-tolerant once established (shelter from drying winter sun/wind)",
+  "spread": "Forms an upright clump that widens slowly by suckers into a thicket; far taller and more upright than the low creeping Oregon grape (Berberis repens), which mats along the ground by stolons",
+  "seasons": "Bright yellow flower clusters Apr; powdery blue-black berries ripen late summer–early fall; glossy evergreen leaves flush purplish-bronze/burgundy in winter cold",
+  "wildlife": "Berries eaten by birds (robins, waxwings, thrushes) and small mammals; early yellow flowers a valued nectar/pollen source for native bees; dense spiny evergreen stems give bird cover",
+  "deer": "Deer-resistant (spiny holly-like foliage and bitter berberine compounds)",
+  "toxic": "Ripe blue berries tart/edible (used for jelly); bark and roots contain berberine, which is bitter and toxic in quantity — caution with children",
+  "winter": true,
+  "verified": "2026-06-16",
+  "ph": {
+    "min": 5.5,
+    "ideal": 6.3,
+    "max": 7.2
+  },
+  "care": {
+    "hardiness": "USDA zones 5a–8b — reliably cold-hardy through Boulder's 5b–6a winters. The evergreen foliage scorches in exposed, windy winter sun (winter desiccation), so site it where it is sheltered from drying winter wind and intense reflected sun; it re-greens in spring. A north- or east-facing aspect, or light shade from a building or conifer, greatly reduces winter burn at our altitude.[1][2][3]",
+    "planting": "Plant container-grown shrubs in spring (April–May) or early fall (September), when roots establish before freeze-up. Dig the hole no deeper than the root ball and about twice as wide; in heavy clay, loosen the native soil with a fork rather than heavily amending the backfill (a sharp soil interface traps water). Water in well and mulch. In containers, use a well-drained, organic, slightly acidic mix and a large pot (≥7 gal) for the upright suckering habit; potted roots are far less cold-hardy than in-ground roots, so sink the pot or move it to a sheltered spot for winter. Tall Oregon grape is best as a permanent in-ground shrub.[1][2]",
+    "sun": "Adaptable from full sun to full shade, but at Boulder's high-altitude, intense sun it performs best in part shade — a few hours of sun is enough to flower and fruit, while afternoon shade and shelter prevent leaf scorch. In deep shade it grows more open and flowers less; in full sun give it consistent soil moisture and wind protection.[1][2][3]",
+    "soil": "Wants a moist, organically rich, well-drained, slightly acidic to neutral soil (ideally ~pH 5.5–7.0); it is more acid-leaning than the guide's alkaline-clay xerics. In Boulder's native clay, which often runs pH 7.5–8.0+, leaves can develop iron chlorosis (yellow with green veins) — amend with compost, mulch deeply with wood chips, and acidify the root zone with elemental sulfur (or apply chelated iron) if chlorosis appears. Sharp drainage matters; it dislikes soggy clay.[1][3]",
+    "water": "Low to moderate. Through establishment (first 1–2 seasons) water deeply every 5–7 days. Established plants are drought-tolerant but look and fruit best with a deep soak every 2–3 weeks in summer heat — far more forgiving of dry shade than most shrubs once rooted in. Water the root zone in dry fall and during winter thaws to limit foliage desiccation; avoid keeping the soil constantly wet.[1][2][3]",
+    "spacing": "Space plants 3–4 ft apart (center to center) for a continuous upright screen or informal hedge, or set singly as a specimen. Individual clumps reach 2–5 ft wide and widen slowly by suckers; closer spacing fills in faster. Allow a couple of feet from paths so the suckering clump can be edged back rather than dug.[1][2]",
+    "propagation": "By seed: clean the pulp from ripe fall berries (do not let the seed dry out after collection), then sow outdoors in fall or cold-moist stratify ~60–90 days (34–40°F) before spring sowing — germination is slow and variable. By cuttings: take semi-hardwood/leaf-bud cuttings in late fall or winter after some cold exposure, wound the base, treat with rooting hormone, and root in a gritty, moist mix with bottom heat. By suckers/division: lift rooted suckers from the clump's edge in early spring or early fall and replant immediately — the easiest method for the home gardener.[1][2][3]",
+    "bloom": "Early spring (April on the Front Range) — dense, upright 2–3 in. racemes of bright yellow, mildly fragrant flowers among the earliest shrubs to bloom, an important early bee nectar/pollen source. Powdery, grape-like blue-black berries follow and ripen late summer into early fall; tart but edible and excellent cooked into jelly or syrup.[1][2]",
+    "maintenance": "Low. Remove dead or winter-scorched stems and tidy the clump in early spring; old, leggy canes can be cut to the ground to renew dense growth (it resprouts readily). Remove unwanted suckers at ground level to contain the upright clump. Mulch to keep the shallow roots cool and conserve moisture; refresh chelated iron / sulfur if chlorosis recurs in alkaline soil. No formal shaping is needed — the upright informal habit is the appeal.[1][3]",
+    "troubles": "Few serious problems. Leaf scorch (brown, dry leaf margins) from cold, dry winter sun and wind is the most common issue here — site it sheltered and accept some cosmetic burn that re-greens in spring. Iron chlorosis in alkaline clay; acidify the root zone. Rust (orange-brown pustules, an alternate host for some Puccinia rusts) and leaf-spot fungi occur in damp, crowded sites — remove affected leaves and give good air flow. Aphids, scale, and whitefly appear occasionally; rinse off or treat with insecticidal soap if heavy.[1][3]",
+    "companions": "Pairs with the shade-tolerant native palette — red-twig dogwood, Wood's rose, kinnikinnick, and the low creeping Oregon grape (Berberis repens) at its feet for a layered evergreen planting — under ponderosa pine, native oak, or Douglas fir. Underplant with columbine (Aquilegia coerulea) and other dry-shade perennials.[1][2]"
+  },
+  "fact_src": {
+    "origin": [
+      1,
+      2,
+      3
+    ],
+    "habitat": [
+      2,
+      3
+    ],
+    "size": [
+      1,
+      2,
+      3
+    ],
+    "sun": [
+      1,
+      2,
+      3
+    ],
+    "water": [
+      1,
+      2,
+      3
+    ],
+    "spread": [
+      1,
+      2
+    ],
+    "seasons": [
+      1,
+      2
+    ],
+    "wildlife": [
+      1,
+      2
+    ],
+    "deer": [
+      1,
+      2
+    ],
+    "toxic": [
+      1,
+      2,
+      4
+    ],
+    "ph": [
+      1,
+      2
+    ]
+  },
+  "edible": {
+    "level": "caution",
+    "food": true,
+    "kinds": [
+      "fruit"
+    ],
+    "card": "Tart blue berries, cooked (jelly)",
+    "summary": "The ripe powdery-blue berries are edible — a well-documented Pacific Northwest food, usually cooked into jelly, syrup, or wine — but they are very tart and seedy raw, and the bark/roots contain berberine and are not food.[1][2][4]",
+    "parts": "Only the ripe blue-black berries are eaten. They are a documented food of Pacific Northwest peoples and make excellent jelly, syrup, and wine; high in pectin but tart and seedy. The bright-yellow inner bark and roots are loaded with berberine and were used as a traditional 'barberry' medicine and dye — not as food.[2][4][1]",
+    "preparation": "Pick the berries fully ripe in late summer to fall; they are intensely sour and seedy raw, so they are almost always cooked and sweetened into jelly, syrup, juice, or wine. Use the berries only — never the bark or roots. Wear gloves when harvesting around the spiny holly-like leaves.[1][4]",
+    "caution": "The berries are edible, but the bark and roots contain berberine, a bitter alkaloid that can cause gastrointestinal upset in quantity and is not recommended in pregnancy — these are a folk medicine, not food, so eat only the ripe berries and keep children from chewing the stems or roots. The spiny leaf margins are a physical hazard. Be certain of identification before eating, and never eat berries from a plant you cannot positively identify.[1][2][4]"
+  },
+  "references": [
+    {
+      "name": "Missouri Botanical Garden Plant Finder — Berberis aquifolium (Oregon grape)",
+      "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=277780"
+    },
+    {
+      "name": "NC State Extension Plant Toolbox — Mahonia aquifolium (Oregon Grape Holly)",
+      "url": "https://plants.ces.ncsu.edu/plants/mahonia-aquifolium/"
+    },
+    {
+      "name": "Lady Bird Johnson Wildflower Center — Mahonia aquifolium (Berberis aquifolium)",
+      "url": "https://www.wildflower.org/plants/result.php?id_plant=maaq2"
+    },
+    {
+      "name": "Native American Ethnobotany Database (BRIT) — Mahonia aquifolium food & medicinal use records",
+      "url": "http://naeb.brit.org/uses/search/?string=Mahonia+aquifolium"
+    }
+  ],
+  "shots": [
+    {
+      "local": "images/sp-flowers-t.jpg",
+      "full": "images/sp-flowers.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/465729242/large.jpg",
+      "s": "spring",
+      "cap": "Spring — bright yellow flower racemes face-on over glossy holly-like leaves · © Rodamu (CC-BY-NC) / iNaturalist",
+      "by": "Rodamu",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/259443919"
+    },
+    {
+      "local": "images/sp-bloom-mass-t.jpg",
+      "full": "images/sp-bloom-mass.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/377444506/large.jpeg",
+      "s": "spring",
+      "cap": "Spring — an upright shrub flushed with yellow flower clusters in full bloom · © Jo Roberts (CC-BY) / iNaturalist",
+      "by": "Jo Roberts",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/213570194"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/57877155/large.jpg",
+      "s": "summer",
+      "cap": "The upright evergreen shrub — taller and more upright than the low creeping Oregon grape · © Callan (CC-BY-NC) / iNaturalist",
+      "by": "Callan",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/36600755"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/521065187/large.jpg",
+      "s": "summer",
+      "cap": "Glossy, spiny, pinnately compound holly-like leaves (several leaflets per leaf) · © machaut2 (CC-BY) / iNaturalist",
+      "by": "machaut2",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/289701395"
+    },
+    {
+      "local": "images/fa-berries-t.jpg",
+      "full": "images/fa-berries.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/11102844/large.jpg",
+      "s": "fall",
+      "cap": "Fall — powdery blue-black grape-like berry clusters · © (CC0) / iNaturalist · © no rights reserved (CC0) / iNaturalist",
+      "by": "no rights reserved",
+      "lic": "CC0",
+      "link": "https://www.inaturalist.org/observations/8354585"
+    },
+    {
+      "local": "images/fa-fruit-t.jpg",
+      "full": "images/fa-fruit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/64896548/large.jpeg",
+      "s": "fall",
+      "cap": "Fall — blue berries amid foliage reddening in cool weather · © Eric van den Berghe (CC-BY-NC) / iNaturalist",
+      "by": "Eric van den Berghe",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/40938694"
+    },
+    {
+      "local": "images/wi-foliage-t.jpg",
+      "full": "images/wi-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/12949074/large.jpeg",
+      "s": "winter",
+      "cap": "Winter — evergreen leaves flushing rich purplish-bronze in the cold · © Howard Bruner (CC-BY-NC) / iNaturalist",
+      "by": "Howard Bruner",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/9503726"
+    },
+    {
+      "local": "images/wi-snow-t.jpg",
+      "full": "images/wi-snow.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/13690624/large.jpg",
+      "s": "winter",
+      "cap": "Winter — snow-dusted bronze evergreen foliage holding structure through the cold · © ecoexplore_wnc (CC-BY-NC) / iNaturalist",
+      "by": "ecoexplore_wnc",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/9967478"
+    }
+  ]
+}

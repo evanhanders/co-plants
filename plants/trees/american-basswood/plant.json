@@ -1,0 +1,214 @@
+{
+  "common": "American basswood",
+  "botanical": "Tilia americana",
+  "type": "Tree",
+  "lifecycle": "Perennial",
+  "native": "Non-native",
+  "origin": "Eastern and central North America — Quebec and Maine west to southeastern Manitoba and the eastern Great Plains (eastern Nebraska/Kansas, the Dakotas), south to North Carolina, Tennessee, and eastern Texas",
+  "habitat": "Rich, moist deciduous forests, mesic mid-slopes, and bottomlands on deep, fertile, well-drained loams and silt loams",
+  "blurb": "The big native American linden — a 60–80 ft shade tree with a broad, dense crown and huge, broadly heart-shaped leaves up to 8 in across, coarsely toothed with the lopsided base that tells it apart from the small, fine-toothed European littleleaf linden also in this guide. In midsummer the fragrant pale-yellow flowers hang from a distinctive strap-like pale bract and draw bees in humming numbers, yielding the prized 'basswood honey'; hard pea-sized nutlets then dangle from that same bract into winter. Clear-yellow fall and smooth gray bark aging to ridged. It is NOT a Front-Range native — on the Boulder Front Range it's a planted ornamental that wants deep, moist, fertile soil and resents our hot, dry, alkaline-clay sites.",
+  "size": "60–80 ft tall × 30–50 ft wide at maturity (occasionally to 100 ft); broadly oval to rounded crown; medium growth rate",
+  "sun": "Full sun to part shade; at least 6 hours direct sun for the best form and flowering",
+  "water": "Moderate to high — NOT xeric; wants deep, moist, fertile soil and regular deep summer watering, especially in heat and wind; leaf margins scorch when it dries out",
+  "spread": "Suckers freely from the base and roots, often forming a multi-stemmed clump or a ring of sprouts; casts dense shade under the broad crown",
+  "seasons": "Fragrant pale-yellow flowers in early-to-midsummer draw bees for days; hard nutlets hang from the persistent strap bract through fall into winter; clear pale-yellow fall color; smooth gray bark aging to long ridged furrows, with a broad bare-branched silhouette in winter",
+  "wildlife": "A premier bee tree — the midsummer nectar and pollen are a major resource for honeybees and native bees alike (the source of prized 'basswood honey'), and the flowers hum with insects in full bloom; foliage is a larval host for many moths and the eastern tiger swallowtail; nutlets and buds feed birds and small mammals",
+  "deer": "Foliage and young sprouts are browsed by deer and rabbits; larger established trees are largely beyond reach, but protect young trunks from buck rub and rodent girdling",
+  "toxic": "Non-toxic to people, dogs, cats, and horses; the flowers and young leaves are edible (see Edible parts)",
+  "flower_color": [
+    "yellow"
+  ],
+  "bloom": [
+    "summer"
+  ],
+  "verified": "2026-06-16",
+  "ph": {
+    "min": 6.0,
+    "ideal": 6.8,
+    "max": 7.5
+  },
+  "care": {
+    "hardiness": "USDA zones 2–8 — abundantly cold-hardy for the Front Range, with no winter-temperature concern in Boulder's zone 5b–6a.[1][3] The real Front-Range limitation is soil, not cold: American basswood does best on less-acidic to slightly basic soils around pH 4.5–7.5 and has low tolerance for free calcium carbonate, so it sits uneasily on Boulder's high-pH calcareous clay and is more prone to iron chlorosis (interveinal yellowing) here than the alkaline-tolerant European littleleaf linden (Tilia cordata) also in this guide. Site it on the deepest, most-amended, best-watered ground you have.[2][3]",
+    "planting": "Plant in spring (April–May) after the ground thaws, or in early fall (September) once summer heat breaks, so roots settle before heat or freeze. Set balled-and-burlapped or container stock with the root flare at or just above final grade — planting too deep is the commonest Front-Range tree-establishment failure — in a hole two to three times as wide as the root ball but no deeper. Amend the backfill generously with organic matter to hold moisture and buffer the alkaline clay, remove burlap/wire from the top of the ball, and water in thoroughly to settle air pockets. In a container the tree grows fine for a season or two but eventually needs the open ground; a potted basswood is cold-hardy enough to survive a Boulder winter above ground, but its roots desiccate in a dry heated space and the pot dries fast in summer — sink or heel in the pot and plan to plant out by the second spring.[1][3]",
+    "sun": "Full sun gives the most vigorous growth, best form, and heaviest flowering; it also tolerates part shade (and is shade-tolerant when young), but growth and bloom drop in deep shade.[3][4] On the Front Range the bigger hazard is too much reflected heat and wind off pavement or south walls, which intensifies the drought stress that scorches basswood foliage.[2]",
+    "soil": "Wants deep, moist, fertile, well-drained loam or silt loam — its native habitat is rich mesic woods and bottomlands, and it makes its best growth on finer-textured soils.[2][4] It tolerates an acidic-to-slightly-basic range (roughly pH 4.5–7.5) but has low tolerance for the free calcium carbonate of Boulder's calcareous clay, so on the alkaline Front Range it is chlorosis-prone unless the soil is heavily amended and kept evenly moist; work in organic matter at planting and maintain a 3–4 in organic mulch over the root zone (kept off the trunk) to hold moisture and buffer pH.[1][2][3]",
+    "water": "Moderate to high — this is not a drought-tolerant tree on the Front Range. It naturally grows in moist, rich woodland soils, and while established trees gain some drought tolerance, here they need a deep soak through the hot, dry stretches of summer (late June–August) to avoid the brown, papery leaf-margin scorch that signals heat-and-drought stress.[2][3][4] Young trees need deep watering once or twice a week through their first two to three seasons. Avoid both extremes — chronically waterlogged clay also causes dieback.[1][2]",
+    "spacing": "A large shade tree — allow 30–50 ft of open space for a single specimen and set it at least 20 ft from buildings and well clear of power lines and pavement edges, where restricted roots and radiated heat worsen the scorch.[3][4] Because it suckers, give it room for the base to broaden into a clump if you don't intend to remove the sprouts.[2]",
+    "propagation": "Seed is slow and difficult: the nutlets carry a complex double dormancy (an impermeable seed coat plus a dormant embryo and tough pericarp) and can sit dormant for up to three years — germination typically needs acid scarification of the coat followed by a long warm-then-cold stratification, and even then few seeds germinate, so seed propagation is rarely used in practice.[2] Far easier is vegetative: American basswood sprouts vigorously from the stump and roots (most trees re-sprout when cut), so suckers can be severed and transplanted during dormancy, and low branches can be simple-layered (pinned to the ground in spring and severed once rooted, usually within one to three years). Named cultivars are nursery-grafted.[2][3]",
+    "bloom": "Fragrant, showy, pale-yellow to cream flowers open in early-to-midsummer (roughly June–July on the Front Range), hanging in drooping cymes of several flowers from a distinctive strap-shaped, papery, pale-green bract up to 5 in long; that bract persists as the nutlets ripen and carries them on the wind, hanging on the bare twigs into winter.[3][4] The fragrance is sweet and carries on warm air — in full bloom the whole crown hums with bees, and the nectar makes the prized 'basswood honey.'[3][4]",
+    "maintenance": "Young trees benefit from structural pruning in late winter (before bud break) to establish a single dominant leader and remove crossing, co-dominant, or inward branches; established trees need little beyond removing dead or damaged wood. Prune in late winter or early spring rather than fall, so wounds aren't exposed through the wet season, and never top or heavily head a basswood — it recovers poorly and throws weak watersprouts. If you want a single-trunk tree rather than a clump, rub off or cut the basal root suckers as they appear each year.[2][3]",
+    "troubles": "**Aphids** are the signature nuisance: linden (basswood) aphids colonize the leaf undersides and rain sticky honeydew onto anything below, which then blackens with sooty-mold fungus — unsightly but rarely harmful to a healthy tree, and natural predators (ladybirds, hoverflies, parasitic wasps) usually catch up by late summer; a single targeted insecticidal-soap or horticultural-oil spray knocks back a bad year, and siting the drip zone over turf rather than a patio or car limits the mess. **Japanese beetles** can skeletonize the foliage where they're established, and **basswood leafminers**, lace bugs, scale, borers, and caterpillars are occasional; spider mites do real damage in hot, dry spells. **Verticillium wilt** is infrequent but can be fatal; powdery mildew, leaf spots, and cankers are minor. **Leaf scorch** — brown papery leaf margins from midsummer on — is the dominant Front-Range stress symptom, corrected by deeper irrigation, mulch, and avoiding exposed, reflected-heat sites; **iron chlorosis** (interveinal yellowing) is the other Front-Range risk on alkaline clay. **Basal suckering** is constant and needs annual removal if a clean single trunk is wanted.[1][2][3]",
+    "companions": "Give it the moist, rich end of the garden and pair it with other moderate-to-high-water trees and shrubs — mountain alder and red-twig dogwood in damp spots, serviceberry and cornelian cherry for earlier bloom. Once the canopy establishes its umbrella, underplant the dry-to-moist shade beneath with epimedium, bigroot geranium, brunnera, or coral bells. As a bee tree it anchors a pollinator planting, bridging from the spring flush to the fall asters, goldenrods, and rabbitbrush.[2][3]"
+  },
+  "edible": {
+    "level": "caution",
+    "food": true,
+    "kinds": [
+      "leaves",
+      "flowers"
+    ],
+    "card": "Young spring leaves (salad); flowers (linden-blossom tea)",
+    "summary": "The tender young spring leaves are a documented mild salad green, and the fragrant flowers are dried for linden-blossom tea (like the European tilleul). Use young leaves and freshly-dried flowers only, in moderation — old or improperly stored flowers and the hard mature leaves/nutlets are not for eating.[1][3][4]",
+    "parts": "The young, soft leaves gathered in spring as the buds unfurl are mild and slightly mucilaginous and are eaten raw in salads or sandwiches; once the leaf hardens it is no longer a salad green.[1][4] The fragrant pale-yellow flowers (collected with their bract) are dried and brewed as linden-blossom tea — the same traditional tea as the European lindens — with a sweet, honey-like fragrance, and the spring sap can be tapped for a sweet drink or syrup. The flowers and immature fruit have historically been ground as a chocolate-like paste, though it spoils readily and is little used today.[1][3][4]",
+    "preparation": "For tea: harvest freshly opened flower clusters with their bract on a dry morning, dry them in a single layer at room temperature out of direct light for one to two weeks, then steep the dried flowers in hot (not boiling) water for 5–10 minutes; use within a year of drying. For salad: pick only the freshest, most tender spring leaves before the leaf hardens — they are pleasant raw and need no cooking. Do not eat the hard mature leaves, the nutlets, or the bark.[1][4]",
+    "caution": "Use only fresh, properly dried flowers — old or poorly stored linden flowers have been reported in some sources to cause headache or mild ill effects when brewed very strong, and several authorities caution that over-frequent or excessive use of the tea is best avoided, so keep it occasional and use well-cured, recently dried stock. Eat only the soft young leaves; the mature leaves and the hard nutlets are not culinary. Don't confuse the linden/basswood (Tilia) with the unrelated 'lime' citrus or with any Toxicodendron. The plant is non-toxic to people, dogs, cats, and horses.[1][3][4]"
+  },
+  "references": [
+    {
+      "name": "NC State Extension Plant Toolbox — Tilia americana (American Basswood/Linden)",
+      "url": "https://plants.ces.ncsu.edu/plants/tilia-americana/"
+    },
+    {
+      "name": "USDA Forest Service FEIS — Tilia americana (fire-ecology / botanical monograph)",
+      "url": "https://www.fs.usda.gov/database/feis/plants/tree/tilame/all.html"
+    },
+    {
+      "name": "Missouri Botanical Garden Plant Finder — Tilia americana (American linden)",
+      "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=287365"
+    },
+    {
+      "name": "Lady Bird Johnson Wildflower Center — Tilia americana (American basswood)",
+      "url": "https://www.wildflower.org/plants/result.php?id_plant=TIAM"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      1,
+      3,
+      4
+    ],
+    "sun": [
+      3,
+      4
+    ],
+    "water": [
+      2,
+      3,
+      4
+    ],
+    "spread": [
+      2
+    ],
+    "seasons": [
+      1,
+      3,
+      4
+    ],
+    "wildlife": [
+      1,
+      3,
+      4
+    ],
+    "deer": [
+      1
+    ],
+    "toxic": [
+      1,
+      4
+    ],
+    "origin": [
+      2,
+      3
+    ],
+    "habitat": [
+      2,
+      4
+    ],
+    "ph": [
+      2,
+      3
+    ]
+  },
+  "shots": [
+    {
+      "local": "images/su-flower-t.jpg",
+      "full": "images/su-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/44754683/large.jpg",
+      "s": "summer",
+      "cap": "Summer — pale-yellow fragrant flowers on the strap-like pale bract, over a large coarsely-toothed leaf · © Zack Harris (CC-BY-NC) / iNaturalist",
+      "by": "Zack Harris",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/28699173"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/294855576/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — the big, broadly heart-shaped, coarsely-serrate leaves with an oblique base (the tell vs the small fine-toothed littleleaf linden), with nutlets dangling from the bract · © Jim Walker (CC-BY-NC) / iNaturalist",
+      "by": "Jim Walker",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/170041261"
+    },
+    {
+      "local": "images/su-fruit-t.jpg",
+      "full": "images/su-fruit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/411190540/large.jpeg",
+      "s": "summer",
+      "cap": "Late summer — hard pea-like nutlets hanging from the diagnostic strap-shaped pale bract · © dtwilliams (CC-BY-NC) / iNaturalist",
+      "by": "dtwilliams",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/231509453"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/308487521/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — the tall, broadly oval shade-tree habit in rich woods · © blankell (CC-BY-NC) / iNaturalist",
+      "by": "blankell",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/177375361"
+    },
+    {
+      "local": "images/su-canopy-t.jpg",
+      "full": "images/su-canopy.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/137925682/large.jpg",
+      "s": "summer",
+      "cap": "Summer — looking up the straight trunk into the dense umbrella of shade · © Erik Danielsen (CC-BY-NC) / iNaturalist",
+      "by": "Erik Danielsen",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/83955385"
+    },
+    {
+      "local": "images/su-bark-t.jpg",
+      "full": "images/su-bark.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/382004115/large.jpg",
+      "s": "summer",
+      "cap": "Bark — smooth gray on young trunks, aging to long flat-topped furrowed ridges · © Daniel Sembroski (CC-BY-NC) / iNaturalist",
+      "by": "Daniel Sembroski",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/216026427"
+    },
+    {
+      "local": "images/fa-color-t.jpg",
+      "full": "images/fa-color.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/235201705/large.jpg",
+      "s": "fall",
+      "cap": "Fall — the canopy turning clear pale-yellow · © Keith Bradley (CC-BY-NC) / iNaturalist",
+      "by": "Keith Bradley",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/137688474"
+    },
+    {
+      "local": "images/wi-fruit-t.jpg",
+      "full": "images/wi-fruit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/175566337/large.jpeg",
+      "s": "winter",
+      "cap": "Winter — a tan persistent winged nutlet-bract hanging from a bare twig over snow · © Nick LeBlanc (CC-BY-NC) / iNaturalist",
+      "by": "Nick LeBlanc",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/104737564"
+    },
+    {
+      "local": "images/wi-form-t.jpg",
+      "full": "images/wi-form.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/348528185/large.jpeg",
+      "s": "winter",
+      "cap": "Winter — the bare broad-crowned silhouette in a snowy landscape · © simmar01 (CC-BY-NC) / iNaturalist",
+      "by": "simmar01",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/197829596"
+    }
+  ]
+}

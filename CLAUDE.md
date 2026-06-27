@@ -1252,6 +1252,7 @@ Wikipedia & PFAF.
 - Turkish speedwell (*Veronica liwanensis*) (I) — A Plant Select standout
 - Hens and chicks (*Sempervivum tectorum*) (I) — Bulletproof evergreen succulent; tight rosette "hens" pup rings of "chicks" into a mat, with a monocarpic summer flower stalk. *(Non-toxic but not a documented food; European native.)*
 - Spearleaf stonecrop (*Sedum lanceolatum*) (N) — CO-native succulent mat of fleshy lance leaves that flush fire-red in drought/cold, then bright yellow star-flowers; *Parnassius smintheus* larval host. *(Caution — alkaloids/sarmentosin; not a tested food.)*
+- Mexican fleabane (*Erigeron karvinskianus*) (I) — The marathon-blooming "wall daisy"; a wiry sprawling mat frothing with tiny daisies that open white and age pink-to-purple, early summer to frost. *(Borderline-hardy ~zone 6 — frost-tender here, carries on by self-sowing; xeric/sharp drainage; self-seeds prolifically and is invasive in mild climates, so deadhead & site away from wild areas.)*
 
 **Vines**
 - 'Dropmore Scarlet' honeysuckle (*Lonicera × brownii 'Dropmore Scarlet'*) (I) — A Canadian-bred cold-hardy twining vine that puts on a…

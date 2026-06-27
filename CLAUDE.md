@@ -1355,6 +1355,7 @@ Wikipedia & PFAF.
 - Prairie coneflower (*Ratibida columnifera*) (N) · *Mexican hat* — Drooping yellow (or mahogany-banded) petals around a tall sombrero cone; easy and long-blooming.
 - Scarlet globemallow (*Sphaeralcea coccinea*) (N) — Apricot-scarlet cups on a silvery low mat; bone-dry tough. *(Leaf hairs irritate eyes — 'sore-eye poppy'.)*
 - Prairie zinnia (*Zinnia grandiflora*) (N) — Fine-leaved cushion smothered in golden papery daisies midsummer to frost; a Plant Select-tough groundcover.
+- Martagon lily (*Lilium martagon*) (I) — Tall woodland-edge true lily; a single stem hung with up to 30 nodding, fully recurved 'Turk's cap' flowers, rosy-pink freckled maroon, over whorled leaves. *(Part-shade, moist humus-rich soil — not xeric; tolerates alkaline clay, so one of the better lilies here; DEADLY to cats like all true lilies.)*
 
 **Fall forbs**
 - Tansyaster (*Dieteria bigelovii*) (N) · **Biennial** — Big lavender, gold-eyed daisies on branching stems into fall; a self-sowing xeric native and late-season specialist-bee plant.

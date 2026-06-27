@@ -1,0 +1,175 @@
+{
+  "common": "Mexican fleabane",
+  "botanical": "Erigeron karvinskianus",
+  "type": "Groundcover",
+  "lifecycle": "Perennial",
+  "native": "Non-native",
+  "origin": "Mexico, Central America & northern South America",
+  "habitat": "Rocky banks, cliffs, walls, and open slopes in upland Mexico and Central America",
+  "blurb": "A dainty, ferociously long-blooming little daisy that froths over walls, steps, and the front of a border in a haze of tiny flowers from early summer to frost. Each bloom opens pure white with a gold eye, then ages through pink to purplish, so a single wiry, narrow-leaved mound carries all three shades at once for a charming two-tone effect. Native to upland Mexico and Central America, it is the classic self-seeding 'wall daisy' that tucks itself into paving cracks and stone crevices. It is borderline-hardy on the Front Range — only reliably hardy to about zone 6 — so here it behaves as a frost-tender perennial that mostly carries on by self-sowing. A cheerful, drought-tolerant filler; just site it away from natural areas and deadhead or pull strays, since it self-seeds prolifically and is a known invasive in mild, wet-winter climates.",
+  "size": "6–18 in tall × 1.5–3 ft wide",
+  "sun": "Full sun for the heaviest, longest bloom; tolerates light/part shade",
+  "water": "Low — drought-tolerant once established, though it mounds up fuller with occasional summer water; needs sharp drainage, not wet ground",
+  "spread": "Spreading, carpet-forming mat from wiry stems and woody rhizomes; self-sows freely into cracks and gravel (can run where winters are mild)",
+  "seasons": "A low, semi-evergreen mound of grey-green leaves; smothered in white-to-pink daisies from early summer until hard frost; killed back or knocked down by cold here, returning from the crown or from self-sown seedlings in spring — little winter presence in our climate",
+  "wildlife": "The long succession of small open daisies is excellent for pollinators — butterflies, bees, and hoverflies work the flowers all season",
+  "deer": "Generally not browsed — fleabanes are little troubled by deer and rabbits",
+  "toxic": "Not known to be toxic to people, dogs, cats, or horses; it is an ornamental daisy, not a food plant",
+  "flower_color": [
+    "white",
+    "pink",
+    "purple"
+  ],
+  "bloom": [
+    "summer",
+    "fall"
+  ],
+  "verified": "2026-06-27",
+  "ph": {
+    "min": 6.0,
+    "ideal": 7.0,
+    "max": 8.0
+  },
+  "care": {
+    "hardiness": "Borderline on the Front Range. Most sources rate it hardy to roughly USDA zone 6 (RHS hardiness H5, about −15 to −10 °C), with hardened plants tolerating only short dips to the mid-20s °F.[1][3] Boulder is zone 5b–6a, so it is at or below its cold limit here and is best treated as a frost-tender, short-lived perennial that persists mainly by self-sowing — give it a sheltered, sharply drained spot and a winter mulch, and expect seedlings to carry it forward even if a parent plant winterkills.[1][3]",
+    "planting": "Set plants out after the last hard frost (mid-May on the Front Range) into well-drained soil; it is superb in the cracks of a wall, the gaps of a flagstone path, a gravel garden, or tumbling over the edge of a raised bed or container.[1] In pots it makes an excellent long-blooming spiller, but the roots are far less cold-hardy than in the ground — overwinter a potted plant somewhere sheltered (an unheated garage) rather than leaving it exposed, since it is only marginally hardy here to begin with.[1][3]",
+    "sun": "Full sun gives the heaviest and longest bloom; it will take light or part shade but flowers less freely and grows looser.[1] In our intense high-altitude sun it is untroubled by heat as long as it has a little moisture and good drainage.[1]",
+    "soil": "Unfussy about soil — it grows in chalk, loam, sand, or clay and across acid, neutral, or alkaline pH, so Boulder's lean alkaline soils suit it well.[1] The one firm requirement is sharp drainage: it thrives in poor, gritty, fast-draining ground (hence its love of wall crevices) and rots in heavy, wet, poorly drained soil.[1]",
+    "water": "Drought-tolerant once established and a good low-water plant for a hot, dry spot, but it builds a fuller mound and blooms harder if the soil does not stay bone-dry for long stretches in midsummer — an occasional deep soak in the hottest weeks keeps it lush.[1][3] Avoid constantly wet soil.[1]",
+    "propagation": "Easiest from seed — sow in pots in a cold frame in spring, or simply let the plant self-sow, which it does enthusiastically (often too enthusiastically in mild climates).[1][3] It can also be increased by division or from basal softwood cuttings in spring to bulk up or move a particular plant.[1]",
+    "bloom": "The headline feature: a marathon of small (about 15 mm) daisies from early summer right through to hard frost.[1] Each head opens white around a yellow disc and ages to pink and then purplish, so the mound always shows a mix of white and pink at once.[1][2] No deadheading is needed for rebloom — it simply keeps flowering — though shearing spent flushes tidies it and curbs self-seeding.[1]",
+    "maintenance": "Very low. Cut the whole plant back to near ground level in early spring as new shoots appear to refresh it; deadheading is not required for continued bloom.[1] On the Front Range, leave the old top-growth over winter as a little extra crown protection and cut back in spring. The main 'maintenance' is editing seedlings — pull or hoe out unwanted self-sown plants to keep it in bounds.[1]",
+    "troubles": "Largely trouble-free, with few serious pests or diseases.[1][2] Its one real fault is vigor: it self-seeds prolifically and has naturalized and become invasive in mild, wet-winter regions (coastal California, the UK, Australia, New Zealand). Colorado's cold winters and dry climate strongly check it, but site it away from natural areas, deadhead or shear before heavy seed set, and remove strays so it does not wander.[3]",
+    "companions": "A classic edging and crevice filler that knits other plantings together: pair it with other sun-loving, sharp-drainage plants — lavender, catmint, dianthus, sedums and other low succulents, ornamental grasses, and spring bulbs whose fading foliage its haze of flowers helps disguise. It is at its best softening hard edges — spilling from walls, steps, gravel, raised beds, and container rims.[1]"
+  },
+  "edible": {
+    "level": "inedible",
+    "food": false,
+    "summary": "Mexican fleabane is an ornamental daisy grown for its flowers, not a food plant. It is not known to be toxic, but it has no established edible use and should not be eaten.[1][2]",
+    "caution": "There is no documented culinary use of Erigeron karvinskianus, and it is not a recognized edible plant — treat it as ornamental only and do not eat any part. It is not reported as poisonous to people or to dogs, cats, or horses, so an accidental nibble is not a known hazard, but as with any daisy-family (Asteraceae) plant, people with sensitivities to that family could react. Enjoy it in the garden rather than the kitchen.[1][2]"
+  },
+  "references": [
+    {
+      "name": "Royal Horticultural Society (RHS) — Erigeron karvinskianus (Mexican fleabane)",
+      "url": "https://www.rhs.org.uk/plants/32487/erigeron-karvinskianus/details"
+    },
+    {
+      "name": "NC State Extension Plant Toolbox — Erigeron (Fleabane)",
+      "url": "https://plants.ces.ncsu.edu/plants/erigeron/"
+    },
+    {
+      "name": "Wikipedia — Erigeron karvinskianus (native range, naturalization & invasiveness)",
+      "url": "https://en.wikipedia.org/wiki/Erigeron_karvinskianus"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      1
+    ],
+    "sun": [
+      1
+    ],
+    "water": [
+      1
+    ],
+    "spread": [
+      1,
+      3
+    ],
+    "seasons": [
+      1
+    ],
+    "wildlife": [
+      1,
+      2
+    ],
+    "deer": [
+      2
+    ],
+    "toxic": [
+      1,
+      2
+    ],
+    "origin": [
+      3
+    ],
+    "habitat": [
+      3
+    ],
+    "ph": [
+      1
+    ]
+  },
+  "shots": [
+    {
+      "local": "images/su-flower-t.jpg",
+      "full": "images/su-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/683009618/large.jpg",
+      "s": "summer",
+      "cap": "Summer — a fresh white flower head face-on, golden disc ringed by fine white rays · © zebedeugalinha (CC-BY) / iNaturalist",
+      "by": "zebedeugalinha",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/373719368"
+    },
+    {
+      "local": "images/su-flower-pink-t.jpg",
+      "full": "images/su-flower-pink.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/400332112/large.jpg",
+      "s": "summer",
+      "cap": "Summer — an older flower aged to pink, showing how the white rays flush pink then purplish with age · © Saryu Mae 前 朝琉 (CC-BY) / iNaturalist",
+      "by": "Saryu Mae 前 朝琉",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/225780310"
+    },
+    {
+      "local": "images/su-bloom-t.jpg",
+      "full": "images/su-bloom.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/677762983/large.jpg",
+      "s": "summer",
+      "cap": "Summer — a froth of daisies in white and aged pink together, the plant's signature two-tone effect · © zebedeugalinha (CC-BY) / iNaturalist",
+      "by": "zebedeugalinha",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/370971271"
+    },
+    {
+      "local": "images/su-mat-t.jpg",
+      "full": "images/su-mat.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/102796104/large.jpg",
+      "s": "summer",
+      "cap": "Summer — a flowering mat over the wiry, narrow grey-green leaves · © rainerburkard (CC-BY) / iNaturalist",
+      "by": "rainerburkard",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/63991186"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/617049098/large.jpg",
+      "s": "summer",
+      "cap": "Summer — a long-blooming mound spilling along a path, showing its scale and habit · © zebedeugalinha (CC-BY) / iNaturalist",
+      "by": "zebedeugalinha",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/339225688"
+    },
+    {
+      "local": "images/su-habit2-t.jpg",
+      "full": "images/su-habit2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/62902427/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — a clump cascading from a rock ledge, the classic wall-and-crevice habit · © Jinyan Yang (CC-BY-NC) / iNaturalist",
+      "by": "Jinyan Yang",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/39636044"
+    },
+    {
+      "local": "images/sp-foliage-t.jpg",
+      "full": "images/sp-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/475168683/large.jpeg",
+      "s": "spring",
+      "cap": "Spring — the low rosette of narrow, few-toothed grey-green leaves · © zebedeugalinha (CC-BY) / iNaturalist",
+      "by": "zebedeugalinha",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/264613511"
+    }
+  ]
+}

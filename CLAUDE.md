@@ -1252,6 +1252,7 @@ Wikipedia & PFAF.
 - Turkish speedwell (*Veronica liwanensis*) (I) — A Plant Select standout
 - Hens and chicks (*Sempervivum tectorum*) (I) — Bulletproof evergreen succulent; tight rosette "hens" pup rings of "chicks" into a mat, with a monocarpic summer flower stalk. *(Non-toxic but not a documented food; European native.)*
 - Spearleaf stonecrop (*Sedum lanceolatum*) (N) — CO-native succulent mat of fleshy lance leaves that flush fire-red in drought/cold, then bright yellow star-flowers; *Parnassius smintheus* larval host. *(Caution — alkaloids/sarmentosin; not a tested food.)*
+- Mexican fleabane (*Erigeron karvinskianus*) (I) — The marathon-blooming "wall daisy"; a wiry sprawling mat frothing with tiny daisies that open white and age pink-to-purple, early summer to frost. *(Borderline-hardy ~zone 6 — frost-tender here, carries on by self-sowing; xeric/sharp drainage; self-seeds prolifically and is invasive in mild climates, so deadhead & site away from wild areas.)*
 
 **Vines**
 - 'Dropmore Scarlet' honeysuckle (*Lonicera × brownii 'Dropmore Scarlet'*) (I) — A Canadian-bred cold-hardy twining vine that puts on a…
@@ -1355,6 +1356,7 @@ Wikipedia & PFAF.
 - Prairie coneflower (*Ratibida columnifera*) (N) · *Mexican hat* — Drooping yellow (or mahogany-banded) petals around a tall sombrero cone; easy and long-blooming.
 - Scarlet globemallow (*Sphaeralcea coccinea*) (N) — Apricot-scarlet cups on a silvery low mat; bone-dry tough. *(Leaf hairs irritate eyes — 'sore-eye poppy'.)*
 - Prairie zinnia (*Zinnia grandiflora*) (N) — Fine-leaved cushion smothered in golden papery daisies midsummer to frost; a Plant Select-tough groundcover.
+- Martagon lily (*Lilium martagon*) (I) — Tall woodland-edge true lily; a single stem hung with up to 30 nodding, fully recurved 'Turk's cap' flowers, rosy-pink freckled maroon, over whorled leaves. *(Part-shade, moist humus-rich soil — not xeric; tolerates alkaline clay, so one of the better lilies here; DEADLY to cats like all true lilies.)*
 
 **Fall forbs**
 - Tansyaster (*Dieteria bigelovii*) (N) · **Biennial** — Big lavender, gold-eyed daisies on branching stems into fall; a self-sowing xeric native and late-season specialist-bee plant.

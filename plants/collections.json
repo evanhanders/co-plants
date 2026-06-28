@@ -132,6 +132,36 @@
       "group": "Vines",
       "lead": "garden-clematis",
       "blurb": "Large-flowered garden climbers and native virgin's-bowers (Clematis)."
+    },
+    "columbines": {
+      "name": "Columbines",
+      "group": "Spring forbs",
+      "lead": "colorado-blue-columbine",
+      "blurb": "Aquilegia — spurred woodland-edge flowers, the wild blue and golden garden selections."
+    },
+    "sweet-scabious": {
+      "name": "Scabious",
+      "group": "Summer forbs",
+      "lead": "sweet-scabious",
+      "blurb": "Scabiosa — pincushion flowers: the compact perennial and the tall annual cut-flower forms."
+    },
+    "prairie-coneflowers": {
+      "name": "Prairie coneflowers",
+      "group": "Summer forbs",
+      "lead": "prairie-coneflower",
+      "blurb": "Ratibida columnifera — the yellow Mexican hat and its mahogany-red form."
+    },
+    "pinks": {
+      "name": "Pinks",
+      "group": "Groundcovers",
+      "lead": "dianthus",
+      "blurb": "Dianthus — fragrant, fringed, mat-forming garden pinks."
+    },
+    "coreopsis": {
+      "name": "Coreopsis",
+      "group": "Summer forbs",
+      "lead": "coreopsis",
+      "blurb": "Coreopsis — easy golden tickseed daisies, large-flowered and threadleaf."
     }
   }
 }

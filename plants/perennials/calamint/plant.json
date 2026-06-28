@@ -1,0 +1,187 @@
+{
+  "common": "Lesser calamint",
+  "botanical": "Calamintha nepeta subsp. nepeta",
+  "aka": [
+    "Calamint",
+    "Calamintha nepeta 'Beautiful'",
+    "Lesser calamint"
+  ],
+  "type": "Forb",
+  "lifecycle": "Perennial",
+  "native": "Non-native",
+  "bloom_season": "Summer",
+  "flower_color": [
+    "white",
+    "blue"
+  ],
+  "bloom": [
+    "summer",
+    "fall"
+  ],
+  "blurb": "An airy, subshrubby xeric mint that fizzes with a cloud of tiny pale lavender-to-white flowers from midsummer to frost over small aromatic leaves — one of the longest-blooming, most bee-beloved plants for hot, lean ground.",
+  "size": "12–18 in tall × 18–24 in wide",
+  "sun": "Full sun",
+  "water": "Low to moderate; drought-tolerant once established",
+  "spread": "Clumping mound; self-sows modestly",
+  "seasons": "Fine mounded aromatic foliage spring; haze of tiny lavender-white flowers midsummer to frost; dies back over winter",
+  "wildlife": "Outstanding late-season bee and butterfly nectar plant; alive with pollinators in bloom",
+  "deer": "Deer-resistant (aromatic foliage)",
+  "toxic": "",
+  "winter": false,
+  "verified": "2026-06-28",
+  "origin": "Mediterranean S Europe, N Africa & SW Asia",
+  "habitat": "Dry sunny banks, scrub & rocky ground",
+  "ph": {
+    "min": 6.0,
+    "ideal": 7.0,
+    "max": 8.0
+  },
+  "care": {
+    "hardiness": "Hardy roughly USDA zones 5a–7b, so reliable across the Front Range (Boulder ~5b–6a) in well-drained ground. It can be a short-lived perennial, but it carries on by gentle self-sowing where happy.[1][2]",
+    "planting": "Plant in spring (after the mid-May last frost) or early fall from nursery transplants into a sunny, sharply drained spot; lean, gritty soil is ideal. In containers use a free-draining gritty mix — it makes a fine aromatic patio plant — but in a pot the crown is far less cold-hardy, so overwinter pots in a sheltered spot or unheated garage and keep them on the dry side in winter.[1][2]",
+    "sun": "Full sun — six-plus hours — for a dense, free-flowering mound; it gets floppy and shy-blooming in shade.[1][2]",
+    "soil": "Well-drained loamy, sandy, or rocky soil; tolerant of a wide pH from about 6.0 to 8.0, so Boulder's alkaline clay is fine as long as drainage is sharp. Wet, heavy winter soil is the main killer — amend clay with grit if needed.[1]",
+    "water": "Low to moderate. Water through the first season to establish; afterward it is notably drought-tolerant and needs only occasional deep watering in summer heat. Avoid overwatering and standing winter moisture.[1][2]",
+    "spacing": "Space about 18–24 in apart — plants form wide, airy mounds that knit together into a haze of bloom.[1]",
+    "propagation": "Easiest from spring division of established clumps, or from softwood cuttings in early summer; it also comes from seed and self-sows modestly. Lift and divide every few years to keep the clump vigorous.[1]",
+    "bloom": "A long season of tiny tubular white-to-lavender flowers from mid/late summer through frost — one of the latest and longest bloomers in the dry garden. Light shearing after the first flush can renew the display.[1][2]",
+    "feeding": "Little to none — it flowers best in lean soil; rich feeding produces lax, floppy growth at the expense of the airy habit.[1]",
+    "maintenance": "Cut the dead stems back to the basal mound in late fall or early spring. Shear lightly midseason if it sprawls; deadhead or shear after bloom to limit self-sowing if you want to contain it.[1][2]",
+    "selfsow": "Self-sows modestly where conditions suit it — usually welcome, but shear spent flowers before seed set if you'd rather keep it in bounds.[1]",
+    "troubles": "No serious pests or diseases; its aromatic foliage is generally pest-free and deer-resistant. Root and crown rot are the only real risk, in wet or poorly drained soil.[1][2]",
+    "harvest": "Snip aromatic leaves anytime in the growing season for a fresh or dried minty-oregano tea or as a culinary seasoning; flavor is strongest just before bloom.[1]"
+  },
+  "fact_src": {
+    "size": [
+      1,
+      2
+    ],
+    "sun": [
+      1,
+      2
+    ],
+    "water": [
+      1,
+      2
+    ],
+    "spread": [
+      1
+    ],
+    "seasons": [
+      1,
+      2
+    ],
+    "wildlife": [
+      1,
+      2
+    ],
+    "deer": [
+      1
+    ],
+    "origin": [
+      1,
+      2
+    ],
+    "habitat": [
+      2
+    ],
+    "ph": [
+      1
+    ]
+  },
+  "edible": {
+    "level": "edible",
+    "food": true,
+    "kinds": [
+      "leaves",
+      "flowers"
+    ],
+    "card": "Leaves — minty/oregano tea & seasoning",
+    "summary": "An aromatic culinary mint — the leaves (and edible flowers) make a pleasant minty-oregano herbal tea and seasoning.[1]",
+    "parts": "The small aromatic leaves are the part used; the tiny flowers are also edible and can garnish or flavor dishes.[1]",
+    "preparation": "Use the leaves fresh or dried, steeped as a mint-lemon/oregano-scented herbal tea or chopped as a culinary seasoning much like a milder oregano/savory; harvest just before flowering for the strongest scent.[1]",
+    "caution": "A long-used culinary herb of the mint family with no notable toxicity, but as with any aromatic mint use it as a flavoring herb in ordinary culinary amounts, not as a bulk food. Be sure of your identification — confirm the strong minty-oregano aroma — before using any wild-foraged mint, and as always introduce a new herbal tea in moderation.[1]"
+  },
+  "references": [
+    {
+      "name": "NC State Extension Gardener Plant Toolbox — Clinopodium nepeta (Calamintha nepeta)",
+      "url": "https://plants.ces.ncsu.edu/plants/clinopodium-nepeta/"
+    },
+    {
+      "name": "Missouri Botanical Garden Plant Finder — Calamintha nepeta",
+      "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=281538"
+    }
+  ],
+  "shots": [
+    {
+      "local": "images/su-flower-t.jpg",
+      "full": "images/su-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/164397554/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — airy spray of tiny pale lavender calamint flowers face-on · © Thomas Dreux (CC-BY) / iNaturalist",
+      "by": "Thomas Dreux",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/photos/164397554"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/51159971/large.jpg",
+      "s": "summer",
+      "cap": "Summer — mounding plant frothing with tiny flowers · © chimonanthus (CC-BY-NC) / iNaturalist",
+      "by": "chimonanthus",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/photos/51159971"
+    },
+    {
+      "local": "images/su-bloom-t.jpg",
+      "full": "images/su-bloom.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/167464329/large.jpg",
+      "s": "summer",
+      "cap": "Summer — flowering wands of lavender-white tubular flowers · © Sergey Eliseev (CC-BY-NC) / iNaturalist",
+      "by": "Sergey Eliseev",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/photos/167464329"
+    },
+    {
+      "local": "images/su-mass-t.jpg",
+      "full": "images/su-mass.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/159335535/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — a haze of bloom over fine aromatic foliage · © aspro (CC-BY-NC) / iNaturalist",
+      "by": "aspro",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/photos/159335535"
+    },
+    {
+      "local": "images/su-white-t.jpg",
+      "full": "images/su-white.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/165994987/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — near-white flowers in detail · © Gianni Del Bufalo (CC-BY) / iNaturalist",
+      "by": "Gianni Del Bufalo",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/photos/165994987"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/317651412/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — small aromatic ovate leaves with flower buds · © joaquinguinea (CC-BY-NC) / iNaturalist",
+      "by": "joaquinguinea",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/photos/317651412"
+    },
+    {
+      "local": "images/fa-context-t.jpg",
+      "full": "images/fa-context.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/583256310/large.jpg",
+      "s": "fall",
+      "cap": "Fall — flowering stems on dry rocky ground · © biokovo78 (CC-BY-NC) / iNaturalist",
+      "by": "biokovo78",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/photos/583256310"
+    }
+  ]
+}

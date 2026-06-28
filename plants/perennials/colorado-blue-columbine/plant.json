@@ -1,6 +1,10 @@
 {
   "common": "Colorado blue columbine",
+  "collection": "columbines",
   "botanical": "Aquilegia coerulea",
+  "aka": [
+    "Rocky Mountain columbine"
+  ],
   "type": "Forb",
   "lifecycle": "Perennial",
   "native": "CO native",

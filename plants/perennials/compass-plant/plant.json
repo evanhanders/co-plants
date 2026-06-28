@@ -1,0 +1,201 @@
+{
+  "common": "Compass plant",
+  "botanical": "Silphium laciniatum",
+  "aka": [
+    "Silphium laciniatum",
+    "Cut-leaf silphium"
+  ],
+  "type": "Forb",
+  "lifecycle": "Perennial",
+  "native": "Non-native",
+  "bloom_season": "Summer",
+  "flower_color": [
+    "yellow"
+  ],
+  "bloom": [
+    "summer"
+  ],
+  "blurb": "A statuesque 5–9 ft tallgrass-prairie forb: enormous deeply-cut basal leaves that famously orient north–south (the \"compass\"), tall stems hung with yellow sunflower-like heads in summer, and a taproot that sinks many feet down — bone-tough and drought-proof once established, but slow to settle in.",
+  "size": "5–9 ft tall × 2–3 ft wide",
+  "sun": "Full sun",
+  "water": "Low; deep taproot makes it very drought-tolerant once established",
+  "spread": "Clumping; non-spreading deep-taproot clump that does not run",
+  "seasons": "Big deeply-lobed basal leaves spring–fall; yellow daisy heads on tall stems mid-to-late summer; dried seed stalks and seedheads standing through winter",
+  "wildlife": "Strong pollinator plant — bumble bees and native bees on the flowers; goldfinches and other birds strip the large seeds; a larval host and nectar source",
+  "deer": "Browsed by deer and livestock — not deer-resistant",
+  "toxic": "",
+  "winter": true,
+  "verified": "2026-06-28",
+  "origin": "Tallgrass prairie of the central US (east of the Rockies)",
+  "habitat": "Mesic-to-moist tallgrass prairies & roadside remnants",
+  "ph": {
+    "min": 6.0,
+    "ideal": 6.8,
+    "max": 7.5
+  },
+  "care": {
+    "hardiness": "Very cold-hardy — USDA zones 3–9, well within the Front Range's 5b–6a, and unbothered by Boulder's winters. A long-lived tallgrass-prairie perennial that, once its deep taproot is down, is one of the toughest, most drought- and clay-tolerant forbs you can plant.[1][2][3]",
+    "planting": "Set out container plants in spring after the mid-May average last frost, or in early fall, in a deep, sunny, well-drained spot with room for a big plant. It is happiest in deep soil where its taproot can plunge — so plant it where it will stay, since the taproot makes established plants nearly impossible to move. Container culture is poor and short-term: the taproot quickly outgrows any pot and resents being root-bound, so grow it in the ground rather than long-term in a planter.[1][2][3]",
+    "sun": "Full sun — six-plus hours. In its prairie home it stands above the grasses in open sun; in shade it grows weak, leans, and flowers poorly.[1][2]",
+    "soil": "Adaptable to a wide range of soils from clay loam to silt loam, but does best in deep, fertile, well-drained ground with moisture in the subsoil for the taproot to reach. Tolerates Boulder's heavy clay well once established; the one thing it dislikes is shallow, droughty soil with no depth for the root.[2][3]",
+    "water": "Low once established, thanks to a taproot that reaches many feet down for moisture. Water through the first two to three seasons while the root system develops; after that it is very drought-tolerant and needs little to no supplemental water in an average Front Range summer.[1][2][3]",
+    "spacing": "Space plants about 2–3 ft apart. It forms a single non-running clump that slowly bulks up but does not spread by rhizome, so it stays where you put it.[2][3]",
+    "propagation": "Grown almost entirely from seed — the taproot makes division impractical and transplanting older plants very difficult. Surface-sow or barely cover the seed (it needs light to germinate) after cold-moist stratification; the easiest method is to fall-sow outdoors and let winter do the chilling. Be patient: it is slow to establish and typically takes two to three years from seed to first bloom while it builds its root.[1][2][3]",
+    "stratify": "Seed needs cold-moist stratification to break dormancy — fall-sow outdoors for natural winter chilling, or chill moist in the refrigerator for about 30–60 days before a late-winter sowing.[1][2]",
+    "sow": "Surface-sow or barely press in the seed and do not bury it — it requires light to germinate. Fall sowing onto a prepared bed is simplest; spring sowing works after stratified seed is barely covered and kept moist until germination.[1][2]",
+    "bloom": "Yellow sunflower-like heads, several inches across, open up the tall stems in mid-to-late summer (roughly July into September). The basal leaves are the show before bloom; flowering only begins once the plant is two to three years established.[1][2][3]",
+    "feeding": "No feeding needed — a lean-soil prairie native that grows strong and self-supporting in unamended ground. Rich soil or fertilizer pushes floppy growth.[2][3]",
+    "maintenance": "Very low. Leave the sturdy stems and seedheads standing through winter for structure and bird food, then cut them back in late winter or early spring before new basal leaves push. No staking needed in full sun and lean soil; it can flop in rich, shaded, or over-watered conditions.[2][3]",
+    "selfsow": "Will self-sow modestly from dropped seed if it is not collected by birds first, but it is a clumping, non-aggressive plant — seedlings are few and easy to manage, and it does not run or take over.[2][3]",
+    "companions": "A prairie anchor for the back of a sunny native or pollinator border — pair it with other tallgrass-prairie plants such as little bluestem, switchgrass, asters, goldenrods, and milkweeds in deep, sunny, well-drained ground.[2][3]"
+  },
+  "fact_src": {
+    "size": [
+      1,
+      2,
+      4
+    ],
+    "sun": [
+      1,
+      2
+    ],
+    "water": [
+      1,
+      2,
+      3
+    ],
+    "spread": [
+      2,
+      3
+    ],
+    "seasons": [
+      1,
+      2,
+      4
+    ],
+    "wildlife": [
+      1,
+      2,
+      4
+    ],
+    "deer": [
+      4
+    ],
+    "origin": [
+      1,
+      4
+    ],
+    "habitat": [
+      1,
+      3
+    ],
+    "ph": [
+      2
+    ]
+  },
+  "edible": {
+    "level": "caution",
+    "summary": "Not a food plant. Historically the dried resin from the upper stems was chewed as a gum, but compass plant has no real edible part — don't treat it as food.[1][4]",
+    "caution": "Compass plant is grown as an ornamental and prairie pollinator plant, not as food. There is no established edible part. Plains tribes (Pawnee, Omaha, Ponca, Dakota) did chew the hardened amber resin that beads from the upper stalks as a natural chewing gum to clean the teeth and freshen the breath — the source of its nickname \"gum weed\" — and made the root into a medicinal tea, but those are traditional non-food uses, not a recommendation to eat the plant. The chewing resin is not a documented food, and no part of the plant has a safe, established culinary preparation. The foliage is palatable to grazing livestock but is not a human food.[1][4]"
+  },
+  "references": [
+    {
+      "name": "USDA NRCS Plant Guide — Compass Plant (Silphium laciniatum)",
+      "url": "https://plants.usda.gov/DocumentLibrary/plantguide/pdf/pg_sila3.pdf"
+    },
+    {
+      "name": "Lady Bird Johnson Wildflower Center — Silphium laciniatum",
+      "url": "https://www.wildflower.org/plants/result.php?id_plant=SILA3"
+    },
+    {
+      "name": "Tallgrass Prairie Center — Compass Plant species production guide",
+      "url": "https://tallgrassprairiecenter.org/native-seed-production-manual/species-production-guides/forbs/compass-plant"
+    },
+    {
+      "name": "Wikipedia — Silphium laciniatum",
+      "url": "https://en.wikipedia.org/wiki/Silphium_laciniatum"
+    }
+  ],
+  "shots": [
+    {
+      "local": "images/su-flower-t.jpg",
+      "full": "images/su-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/47251257/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — crisp yellow daisy head with strappy ray florets · © Jeanette Smith (CC-BY-NC) / iNaturalist",
+      "by": "Jeanette Smith",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/30250812"
+    },
+    {
+      "local": "images/su-bloom-t.jpg",
+      "full": "images/su-bloom.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/140999928/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — flower head face-on with the plant standing in tallgrass prairie · © Thomas Koffel (CC-BY) / iNaturalist",
+      "by": "Thomas Koffel",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/85681689"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/210913778/large.jpg",
+      "s": "summer",
+      "cap": "Summer — a single flowering plant rising above the prairie against open sky · © Payton Lott (CC-BY-NC) / iNaturalist",
+      "by": "Payton Lott",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/124436742"
+    },
+    {
+      "local": "images/su-context-t.jpg",
+      "full": "images/su-context.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/591461390/large.jpg",
+      "s": "summer",
+      "cap": "Summer — tall flowering stems silhouetted against blue sky, showing the statuesque prairie habit · © kirbyadams (CC-BY-NC) / iNaturalist",
+      "by": "kirbyadams",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/326559791"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/527127122/large.jpg",
+      "s": "summer",
+      "cap": "Summer — the big, deeply-cut basal leaves that give the plant its form · © stanmild (CC-BY-NC) / iNaturalist",
+      "by": "stanmild",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/292894371"
+    },
+    {
+      "local": "images/su-leaf-t.jpg",
+      "full": "images/su-leaf.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/326492209/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — a deeply-lobed \"compass\" leaf held vertically, oriented north–south · © Aracely Newton (CC-BY-NC) / iNaturalist",
+      "by": "Aracely Newton",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/186783444"
+    },
+    {
+      "local": "images/fa-seedhead-t.jpg",
+      "full": "images/fa-seedhead.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/50370027/large.jpg",
+      "s": "fall",
+      "cap": "Fall — dried seedheads and large flat seeds at the stem tips · © moontree (CC-BY-NC) / iNaturalist",
+      "by": "moontree",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/32107294"
+    },
+    {
+      "local": "images/wi-winter-t.jpg",
+      "full": "images/wi-winter.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/59992083/large.jpeg",
+      "s": "winter",
+      "cap": "Winter — dried stems and spent seedheads standing in snow · © Sheri (CC-BY-NC) / iNaturalist",
+      "by": "Sheri",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/37796866"
+    }
+  ]
+}

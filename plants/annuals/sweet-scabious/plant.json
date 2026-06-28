@@ -1,0 +1,187 @@
+{
+  "collection": "sweet-scabious",
+  "common": "Sweet scabious",
+  "botanical": "Scabiosa atropurpurea",
+  "type": "Forb",
+  "lifecycle": "Annual",
+  "native": "Non-native",
+  "flower_color": [
+    "purple",
+    "pink",
+    "red",
+    "white"
+  ],
+  "bloom": [
+    "summer",
+    "fall"
+  ],
+  "bloom_season": "Summer",
+  "aka": [
+    "Mournful widow",
+    "Mourning bride",
+    "Pincushion flower (annual)"
+  ],
+  "blurb": "The classic cut-flower pincushion — domed, honey-scented blooms in purple, wine-red, pink, and white float on tall wiry stems from summer to frost, drawing bees and butterflies and rebounding harder the more you cut.",
+  "size": "2–3 ft tall × 9–12 in wide",
+  "sun": "Full sun",
+  "water": "Moderate; even moisture, never waterlogged",
+  "spread": "Clumping; self-sows lightly",
+  "seasons": "Basal foliage rosette spring; domed pincushion flowers summer into fall; spiny green-to-tan seedheads late season; killed by hard frost",
+  "wildlife": "Excellent bee, butterfly, and hoverfly nectar plant; goldfinches take the seed",
+  "deer": "Generally deer-resistant",
+  "toxic": "",
+  "winter": false,
+  "verified": "2026-06-28",
+  "origin": "Mediterranean S Europe (naturalized widely)",
+  "habitat": "Dry grassy slopes & disturbed ground",
+  "ph": {
+    "min": 6.0,
+    "ideal": 7.2,
+    "max": 8.2
+  },
+  "care": {
+    "hardiness": "Grown as a half-hardy annual across the Front Range — it is not winter-hardy and is killed by hard frost, though in a mild winter or sheltered spot it can behave as a short-lived biennial. Treat it as a one-season cut-flower annual (USDA zones 4–11 as a warm-season annual; perennial only in zones 9+).[1][2]",
+    "planting": "Start seed indoors 4–6 weeks before Boulder's mid-May average last frost, or direct-sow once frost danger has passed; transplant or thin out after hardening off. In containers it makes a fine seasonal display in a deep, free-draining pot, but the roots are frost-tender — there is no overwintering it outdoors here, so compost spent pots at season's end and resow.[2][3]",
+    "sun": "Full sun — six or more hours — gives the most flowers and the sturdiest stems; a little afternoon shade is welcome through Boulder's hottest July afternoons, which can otherwise stall bloom.[1][2]",
+    "soil": "Average, well-drained loamy or sandy soil; it tolerates neutral to alkaline ground (it actually likes it), so Colorado's lime-rich clay is fine as long as drainage is sharp. It will not tolerate wet feet — soggy soil brings on root rot.[1]",
+    "water": "Moderate and even through the growing season — consistent moisture keeps the long bloom going — but let the surface dry between waterings and never leave it waterlogged. Avoid overhead watering, which spots the flowers and invites mildew.[1][2]",
+    "spacing": "Space plants 9–12 in apart; close spacing helps the wiry stems support each other, but provide grow-through netting or brushwood support or the tall stems flop into a tangle.[2][3]",
+    "propagation": "Grown from seed — there is no practical vegetative propagation for this annual. Barely cover the seed (light aids germination); it sprouts in 10–12 days at 65–70°F. Make successive sowings every 2–3 weeks into late spring for a continuous cut-flower supply, and it will self-sow modestly if a few heads are left to ripen.[3]",
+    "sow": "Sow indoors 4–6 weeks before last frost or direct-sow after frost; barely cover the seed since light aids germination. Germinates in about 10–12 days at 65–70°F.[3]",
+    "depth": "Sow shallowly — barely cover the seed, as light improves germination.[3]",
+    "bloom": "Blooms from early summer to mid-summer and on to frost when deadheaded; the domed pincushion heads come in deep maroon-purple, wine-red, rose-pink, lilac, and white. Frequent cutting is the single best way to extend and increase bloom.[1][2]",
+    "feeding": "Light feeder — a balanced general fertilizer at planting and again midseason is plenty. Overly rich, high-nitrogen soil grows leaf at the expense of flowers.[2]",
+    "maintenance": "Deadhead relentlessly — this is the most important (and the most laborious) task; spent heads left on the plant cut bloom short. Cut or deadhead deeply, down between two sets of leaves, to push longer, multi-budded stems. Stake or net early before the plant flops.[2][3]",
+    "selfsow": "Self-sows lightly if some heads are left to mature; volunteers are easy to pull or transplant and it is not aggressive. To collect seed, let the spiny heads dry to tan on the plant.[1][2]",
+    "harvest": "As a cut flower, harvest when the blooms are nearly fully open, cutting long stems (18 in or more) deep into the plant between two sets of leaves — the deep cut signals the plant to throw more flowers. Vase life runs about 5–7 days.[2][3]",
+    "companions": "A cutting-garden and pollinator-border staple — pair with other sun-loving annuals and cut flowers (cosmos, zinnia, snapdragon, ammi) in lean, well-drained beds.[2]"
+  },
+  "references": [
+    {
+      "name": "NC State Extension Gardener Plant Toolbox — Scabiosa atropurpurea",
+      "url": "https://plants.ces.ncsu.edu/plants/scabiosa-atropurpurea/"
+    },
+    {
+      "name": "Almanac — Pincushion Flowers (Scabiosa)",
+      "url": "https://www.almanac.com/plant/pincushion-flowers-scabiosa"
+    },
+    {
+      "name": "Johnny's Selected Seeds — Scabiosa Key Growing Information",
+      "url": "https://www.johnnyseeds.com/growers-library/flowers/scabiosa-pincushion-flower/scabiosa-spp-key-growing-information.html"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      1
+    ],
+    "sun": [
+      1,
+      2
+    ],
+    "water": [
+      1,
+      2
+    ],
+    "spread": [
+      1,
+      2
+    ],
+    "seasons": [
+      1,
+      2
+    ],
+    "wildlife": [
+      1,
+      2
+    ],
+    "deer": [
+      1
+    ],
+    "origin": [
+      1
+    ],
+    "habitat": [
+      1
+    ],
+    "ph": [
+      1
+    ]
+  },
+  "edible": {
+    "level": "inedible",
+    "summary": "Sweet scabious is an ornamental cut flower with no established food use — not notably poisonous, but there is no documented edible part, so don't eat it.[1]",
+    "caution": "Scabiosa atropurpurea is grown strictly as a cut flower and pollinator plant. Authoritative horticultural sources record no culinary use and no edible part — it is not a recognized edible herb and has no documented safe edible preparation. With no positive food record, treat it as a non-food ornamental and do not eat the flowers, foliage, or roots. (The old common names \"mournful widow\"/\"mourning bride\" and the genus name \"scabious\" come from historic external folk use against skin complaints, not from any food use.)[1]"
+  },
+  "shots": [
+    {
+      "local": "images/su-flower-t.jpg",
+      "full": "images/su-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/461726795/large.jpg",
+      "s": "summer",
+      "cap": "Summer — lilac pincushion flower face-on, showing the domed pincushion of protruding florets · © Ronan A. (CC-BY-NC) / iNaturalist",
+      "by": "Ronan A.",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/257399249"
+    },
+    {
+      "local": "images/su-flower-purple-t.jpg",
+      "full": "images/su-flower-purple.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/128893340/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — the deep maroon-purple colour form, the one that gives the plant its 'mournful widow' name · © lamprisdimitris (CC-BY-NC) / iNaturalist",
+      "by": "lamprisdimitris",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/78739668"
+    },
+    {
+      "local": "images/su-flower-red-t.jpg",
+      "full": "images/su-flower-red.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/680814503/large.jpg",
+      "s": "summer",
+      "cap": "Summer — a wine-red bloom held on its wiry stem · © mtsmendes (CC-BY-NC) / iNaturalist",
+      "by": "mtsmendes",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/372565225"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/27995012/large.jpg",
+      "s": "summer",
+      "cap": "Summer — whole flowering stem against the sky, showing the tall airy cut-flower habit · © cameralenswrangler (CC-BY-NC) / iNaturalist",
+      "by": "cameralenswrangler",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/18321446"
+    },
+    {
+      "local": "images/su-context-t.jpg",
+      "full": "images/su-context.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/256590303/large.jpg",
+      "s": "summer",
+      "cap": "Summer — plants in bloom on a dry rocky bank, how it reads massed in the open · © jackiemiles (CC-BY-NC) / iNaturalist",
+      "by": "jackiemiles",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/148949045"
+    },
+    {
+      "local": "images/sp-foliage-t.jpg",
+      "full": "images/sp-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/358291011/large.jpeg",
+      "s": "spring",
+      "cap": "Spring — lobed basal foliage rosette before bloom · © missour (CC-BY-NC) / iNaturalist",
+      "by": "missour",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/202844563"
+    },
+    {
+      "local": "images/fa-seedhead-t.jpg",
+      "full": "images/fa-seedhead.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/321917418/large.jpeg",
+      "s": "fall",
+      "cap": "Fall — spiny green seedhead forming after the flower drops · © Daniel Cahen (CC-BY) / iNaturalist",
+      "by": "Daniel Cahen",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/184422144"
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "collection": "penstemons",
+  "common": "Pikes Peak Purple penstemon",
+  "botanical": "Penstemon ×mexicali 'Pikes Peak Purple'",
+  "aka": [
+    "'Pikes Peak Purple' penstemon"
+  ],
+  "type": "Forb",
+  "lifecycle": "Perennial",
+  "native": "Non-native",
+  "flower_color": [
+    "purple"
+  ],
+  "bloom": [
+    "summer"
+  ],
+  "bloom_season": "Summer",
+  "blurb": "A Plant Select workhorse — one of Bruce Meyers' Mexicali crosses of showy Mexican penstemons with hardy American kinds, throwing dense wands of violet-purple flowers all summer over a tidy mound of narrow dark-green leaves.",
+  "size": "~14–18 in tall × 12–14 in wide",
+  "sun": "Full sun to part sun",
+  "water": "Low to moderate; xeric once established",
+  "spread": "Clumping; reseeds modestly",
+  "seasons": "Violet-purple flower wands June–August; tidy mound of narrow dark-green leaves; tan seed stalks into fall",
+  "wildlife": "Bees and other pollinators; long summer bloom feeds native bees",
+  "deer": "Deer resistant",
+  "toxic": "",
+  "winter": false,
+  "verified": "2026-06-28",
+  "origin": "Garden hybrid (Penstemon ×mexicali — Mexican-species parentage)",
+  "habitat": "n/a — garden hybrid",
+  "ph": {
+    "min": 6.0,
+    "ideal": 7.0,
+    "max": 8.0
+  },
+  "gaps": "Photos are species-representative of the Mexicali parent species Penstemon campanulatus (violet-purple tubular flowers, narrow dark-green leaves — the same look as 'Pikes Peak Purple'), honestly captioned: this named ×mexicali hybrid has no clean iNaturalist taxon and no open-licensed cultivar-specific photo set exists. No clean (non-hand-held) open-licensed seed-capsule shot of the parent species was available, so the reel covers flower/bloom-mass/habit/foliage/context instead of a dedicated seedhead.",
+  "shots": [
+    {
+      "local": "images/su-flower-t.jpg",
+      "full": "images/su-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/390610964/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — violet-purple flowers face-on over narrow leaves (Mexicali parent species P. campanulatus) · © Joey Santore (CC-BY-NC) / iNaturalist",
+      "by": "Joey Santore",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/220610890"
+    },
+    {
+      "local": "images/su-bloom-t.jpg",
+      "full": "images/su-bloom.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/408661239/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — a clump in full violet-purple bloom, garden mass (P. campanulatus) · © Bob (CC-BY) / iNaturalist",
+      "by": "Bob",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/230172837"
+    },
+    {
+      "local": "images/su-macro-t.jpg",
+      "full": "images/su-macro.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/444126232/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — single violet-purple tubular flower face-on (P. campanulatus) · © José Arturo Morales Tirado (CC-BY-NC) / iNaturalist",
+      "by": "José Arturo Morales Tirado",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/248548435"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/439614774/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — flowering mound and habit (P. campanulatus) · © karenhxp (CC-BY-NC) / iNaturalist",
+      "by": "karenhxp",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/246271552"
+    },
+    {
+      "local": "images/su-context-t.jpg",
+      "full": "images/su-context.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/458574822/large.jpg",
+      "s": "summer",
+      "cap": "Summer — plant flowering among rocks, in context (P. campanulatus) · © Danny Tipton (CC-BY-NC) / iNaturalist",
+      "by": "Danny Tipton",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/255839715"
+    },
+    {
+      "local": "images/su-cluster-t.jpg",
+      "full": "images/su-cluster.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/20679167/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — violet flower spike close detail (P. campanulatus) · © cristinagarciapena (CC-BY-NC) / iNaturalist",
+      "by": "cristinagarciapena",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/13984504"
+    },
+    {
+      "local": "images/su-stem-t.jpg",
+      "full": "images/su-stem.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/237371237/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — clean violet-purple flowering stem with narrow leaves (P. campanulatus) · © Pablo González Maldonado (CC-BY-NC) / iNaturalist",
+      "by": "Pablo González Maldonado",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/138847652"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/494369913/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — narrow dark-green leaves below the bloom (P. campanulatus) · © Gabriela Zapata Rodriguez (CC-BY-NC) / iNaturalist",
+      "by": "Gabriela Zapata Rodriguez",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/275075401"
+    }
+  ],
+  "care": {
+    "hardiness": "Cold-hardy across the Front Range — rated USDA zones 4b–8 (hardy to about −20°F), comfortably within Boulder's 5b–6a and good to roughly 6,200 ft; longer-lived than many border penstemons but still appreciates the lean, dry conditions that keep it going.[1]",
+    "planting": "Plant out in spring after the mid-May average last frost, or in early fall, into lean fast-draining ground in full sun; don't amend with compost. In containers use a gritty, sharply draining mix and keep the crown dry — potted penstemon crowns rot far more easily than plants in open ground.[1][2]",
+    "sun": "Full sun to part sun — at least six hours — for upright, well-colored violet spikes; too much shade makes it floppy and shy-flowering.[1][2]",
+    "soil": "Adaptable to clay, loam or sandy soil and even disturbed ground, but it must drain sharply; it resents soggy, rich soil. Plant in a rock garden, on a slope, or in a gritty bed rather than amending heavy clay.[1][2]",
+    "water": "Low to moderate, xeric once established; give it spring moisture to bloom, then back off — overwatering, especially after flowering, brings on crown rot.[1][2]",
+    "spacing": "Space about 12–15 in apart; the mound reaches roughly 14–18 in tall in bloom and 12–14 in wide.[1]",
+    "propagation": "Being a sterile-ish named hybrid it's usually increased vegetatively: take basal or softwood cuttings (penstemons resent division, so don't split the crown). Any seed it sets will not come true to the named clone but can be cold-moist stratified and grown on for new plants.[1][2]",
+    "stratify": "Cold-moist stratify any saved seed (fall sowing supplies the natural winter chilling) to break dormancy; the named hybrid itself is best cloned by cuttings.[2]",
+    "bloom": "Dense wands of violet-purple tubular flowers from June into August, often blooming sporadically on through late summer; deadhead spent spikes to neaten and prolong the display.[1]",
+    "feeding": "No fertilizer needed in normal soil — feeding makes floppy growth and shortens its life.[2]",
+    "maintenance": "Low: deadhead spent spikes, then ease off summer water to prevent crown rot; tidy old flower stems in late fall or early spring.[1][2]",
+    "troubles": "No serious pests or diseases; root and crown rot strike in wet, poorly drained or over-amended soil, and rust, grasshoppers and flea beetles are occasional.[2]",
+    "companions": "A dependable mid-border and rock-garden plant for hot, dry sites — pairs with other xeric penstemons, salvias, agastache, blanketflower and grasses.[1]"
+  },
+  "references": [
+    {
+      "name": "Plant Select — Pikes Peak Purple® penstemon (Penstemon ×mexicali 'P007S')",
+      "url": "https://plantselect.org/plant/penstemon-p007s-mexicali-hybrid/"
+    },
+    {
+      "name": "CSU Extension — Growing Penstemons",
+      "url": "https://extension.colostate.edu/resource/growing-penstemons/"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      1
+    ],
+    "sun": [
+      1,
+      2
+    ],
+    "water": [
+      1,
+      2
+    ],
+    "spread": [
+      1
+    ],
+    "seasons": [
+      1
+    ],
+    "wildlife": [
+      1
+    ],
+    "deer": [
+      1
+    ],
+    "ph": [
+      2
+    ],
+    "origin": [
+      1
+    ],
+    "habitat": [
+      1
+    ]
+  },
+  "edible": {
+    "level": "inedible",
+    "food": false,
+    "summary": "Grown ornamentally for its long violet-purple bloom — no documented edible use.[2]",
+    "caution": "No known culinary use; not documented as poisonous, but it is not a food plant — don't eat it.[2]"
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "common": "Smooth aster",
+  "collection": "asters",
+  "botanical": "Symphyotrichum laeve",
+  "aka": [
+    "Smooth blue aster"
+  ],
+  "type": "Forb",
+  "lifecycle": "Perennial",
+  "native": "CO native",
+  "bloom_season": "Fall",
+  "flower_color": [
+    "purple",
+    "blue"
+  ],
+  "bloom": [
+    "fall"
+  ],
+  "blurb": "A tough, glaucous-leaved prairie native that holds its smooth blue-green foliage clean all season, then erupts in clouds of lavender-blue, yellow-eyed daisies in fall — one of the last great pollinator plants of the year.",
+  "size": "2–4 ft tall × 1–2 ft wide",
+  "sun": "Full sun",
+  "water": "Low to moderate; xeric once established",
+  "spread": "Clumping; short rhizomes spread it slowly, also reseeds",
+  "seasons": "Smooth blue-green clasping foliage spring–summer; lavender-blue daisies Aug–Oct; tan seed plumes into winter",
+  "wildlife": "Major late-season nectar for native bees and butterflies; seeds for birds",
+  "deer": "Browsed by deer — not deer-resistant",
+  "toxic": "No documented toxicity; grown as an ornamental native, not a food plant",
+  "winter": false,
+  "verified": "2026-06-28",
+  "ph": {
+    "min": 6.0,
+    "ideal": 7.0,
+    "max": 8.0
+  },
+  "care": {
+    "hardiness": "Very cold-hardy — rated USDA zones 3–8, so Boulder's zone 5b–6a winters are no concern for this wide-ranging prairie native. The stems die to the ground after hard frost and re-sprout from the root crown and short rhizomes in spring.[1][2]",
+    "planting": "Plant container stock in spring after the mid-May average last frost, or in early fall, into lean, well-drained ground; it establishes quickly and is easy. In containers use a gritty, free-draining mix, site in full sun, and don't let it sit wet — it sulks in soggy soil and over-rich mixes make it flop. Once sited it persists for years and reseeds.[1][2]",
+    "sun": "Full sun for the sturdiest, most upright stems and heaviest fall bloom. In too much shade or rich soil the stems stretch and lean and may need staking.[1]",
+    "soil": "Average, dry to medium, well-drained soil; it tolerates shallow rocky and calcareous ground and is at home on Boulder's lean alkaline clay so long as drainage is decent. Avoid wet, heavy clay. Don't over-amend — rich soil produces floppy growth.[1][2]",
+    "water": "Low to moderate; drought-tolerant once established. Water through the first season to settle the roots, then little supplemental water is needed in our semi-arid climate except in prolonged drought.[1][2]",
+    "spacing": "Space about 18–24 in. apart; mature clumps reach 1–2 ft wide and 2–4 ft tall. Short rhizomes let it widen slowly into a colony over time.[1]",
+    "propagation": "Easy from seed and by division. Cold-moist stratify the seed (or fall-sow outdoors for natural winter chilling) and surface-sow — aster seed needs light and barely any cover. Divide established clumps in early spring every few years to rejuvenate and to make more plants; it spreads by short rhizomes, so divisions take readily.[1][2]",
+    "sow": "Surface-sow onto firmed soil and press in — the fine seed needs light to germinate. Fall-sow outdoors for natural stratification, or chill moist seed before a late-winter start. Seedlings reach blooming size their second year.[1]",
+    "stratify": "A cold-moist period improves and evens out germination; about 30–60 days at refrigerator temperature works, and fall sowing supplies it naturally outdoors.[1]",
+    "bloom": "Blooms late summer into fall — roughly August through October on the Front Range — in sprays of lavender-blue, yellow-centered daisies that age to reddish-purple discs. It is one of the latest forbs to flower here, a crucial bridge for pollinators before frost.[1][2]",
+    "maintenance": "Low. Pinch or cut the stems back by about half in early June to make a bushier, self-supporting plant and reduce the need to stake. Leave the seed heads standing for birds and winter structure, then cut to the ground in late winter before new growth.[1]",
+    "selfsow": "Reseeds modestly where soil is open, and creeps slowly outward by short rhizomes; neither is aggressive. Deadhead before seed set if you want to limit volunteers, or leave heads up to feed birds and self-sow.[1][2]",
+    "troubles": "No serious insect or disease problems. Powdery mildew and rust can appear in crowded, humid, or shaded plantings — full sun and good airflow prevent it. Tall plants in rich soil or shade may flop; the early-June cutback fixes that.[1]",
+    "companions": "A classic prairie partner for goldenrods (Solidago) and perennial sunflowers (Helianthus), whose gold contrasts with its blue, plus little bluestem and other warm-season grasses. Excellent in native, pollinator, and cottage borders for late-season color.[1]"
+  },
+  "fact_src": {
+    "size": [
+      1
+    ],
+    "sun": [
+      1
+    ],
+    "water": [
+      1,
+      2
+    ],
+    "spread": [
+      1,
+      2
+    ],
+    "seasons": [
+      1,
+      2
+    ],
+    "wildlife": [
+      1,
+      3
+    ],
+    "deer": [
+      2
+    ],
+    "toxic": [
+      1
+    ],
+    "ph": [
+      1
+    ]
+  },
+  "edible": {
+    "level": "inedible",
+    "food": false,
+    "summary": "Grown as an ornamental native pollinator plant; no documented use as a food.[1]",
+    "caution": "Smooth aster is not documented as a food plant and is not eaten. It is not notably poisonous to people or pets, but there is no established edible use — treat it as ornamental and don't eat it.[1]"
+  },
+  "references": [
+    {
+      "name": "Missouri Botanical Garden Plant Finder — Symphyotrichum laeve",
+      "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=g420"
+    },
+    {
+      "name": "USDA-FS Fire Effects Information System (FEIS) — Symphyotrichum laeve",
+      "url": "https://research.fs.usda.gov/feis/species-reviews/symlae"
+    },
+    {
+      "name": "Lady Bird Johnson Wildflower Center — Symphyotrichum laeve (smooth blue aster)",
+      "url": "https://www.wildflower.org/plants/result.php?id_plant=syla3"
+    }
+  ],
+  "shots": [
+    {
+      "local": "images/fa-flower-t.jpg",
+      "full": "images/fa-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/426530032/large.jpeg",
+      "s": "fall",
+      "cap": "Fall — lavender-blue, yellow-eyed daisy face-on · © Anders Hastings (CC-BY) / iNaturalist",
+      "by": "Anders Hastings",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/photos/426530032"
+    },
+    {
+      "local": "images/fa-habit-t.jpg",
+      "full": "images/fa-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/435564030/large.jpeg",
+      "s": "fall",
+      "cap": "Whole plant — upright stems over a smooth blue-green basal clump · © Tony KM (CC-BY) / iNaturalist",
+      "by": "Tony KM",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/photos/435564030"
+    },
+    {
+      "local": "images/fa-foliage-t.jpg",
+      "full": "images/fa-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/417503363/large.jpeg",
+      "s": "fall",
+      "cap": "The smooth, glaucous, clasping blue-green leaves that name the plant · © Joe Newlin (CC-BY-NC) / iNaturalist",
+      "by": "Joe Newlin",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/photos/417503363"
+    },
+    {
+      "local": "images/fa-flower2-t.jpg",
+      "full": "images/fa-flower2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/160355458/large.jpeg",
+      "s": "fall",
+      "cap": "Fall — flowers and buds above smooth clasping foliage · © Suzanne Dingwell (CC-BY-NC) / iNaturalist",
+      "by": "Suzanne Dingwell",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/photos/160355458"
+    },
+    {
+      "local": "images/fa-mass-t.jpg",
+      "full": "images/fa-mass.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/92994596/large.jpeg",
+      "s": "fall",
+      "cap": "Fall — a spray in full bloom, discs aging to reddish-purple · © Phyllis Holst (CC-BY-NC) / iNaturalist",
+      "by": "Phyllis Holst",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/photos/92994596"
+    },
+    {
+      "local": "images/fa-context-t.jpg",
+      "full": "images/fa-context.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/312429757/large.jpg",
+      "s": "fall",
+      "cap": "Fall — flowering plant on dry rocky ground · © gaillardia28 (CC-BY-NC) / iNaturalist",
+      "by": "gaillardia28",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/photos/312429757"
+    },
+    {
+      "local": "images/fa-spire-t.jpg",
+      "full": "images/fa-spire.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/566106221/large.jpg",
+      "s": "fall",
+      "cap": "Fall — a whole flowering stem of blue daisies · © bbredrocks25 (CC-BY-NC) / iNaturalist",
+      "by": "bbredrocks25",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/photos/566106221"
+    },
+    {
+      "local": "images/fa-buds-t.jpg",
+      "full": "images/fa-buds.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/149736092/large.jpg",
+      "s": "fall",
+      "cap": "Fall — open flowers and tight buds with foliage · © Thomas Aubier (CC-BY-NC) / iNaturalist",
+      "by": "Thomas Aubier",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/photos/149736092"
+    }
+  ],
+  "commons": ""
+}

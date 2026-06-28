@@ -235,6 +235,15 @@ is **NOT** the grouping. A file can live in `plants/perennials/` yet be a `Groun
   `plants/collections.json`. Membership is the *only* thing that lives on the plant; the family's
   display name, home section, lead photo and blurb live in `collections.json`. See "Collections
   (family cards)" below. Omit it for standalone plants.
+- **`aka`** *(optional string array)* — **alternate names that route to this entry in search**: alt
+  common names, synonyms, or named **cultivars** the user owns whose care is identical to this species
+  (e.g. Lavender carries `["'Munstead' lavender"]`; Blue flax carries `["Prairie flax","Lewis flax"]`).
+  It's the lightweight alternative to a near-duplicate page: each string is folded into the grid's
+  search string (`matchesQuery` in `app.js`), so searching the cultivar/synonym surfaces the parent
+  card, and it renders as a subtle **"Also: …"** line under the botanical name on both the card
+  (`cardHTML` in `reel.js`) and the detail page (`plant.js`), styled by `.aka` in `styles.css`. Use it
+  when a requested cultivar is genuinely covered by an existing species entry rather than spinning up a
+  duplicate; omit it otherwise.
 - `commons:'File.jpg'` — legacy primary photo (a Commons filename). May be `""`. Once a
   plant has repo-hosted `shots`, this is just dead fallback metadata; new plants don't
   need it.
@@ -430,7 +439,8 @@ driven off one predicate so they can't drift. To add one (e.g. `Fragrant`):
 
 Cultivar/genus clusters (apples, plums, tart cherries, currants, pelargoniums, wallflowers,
 asters, irises, tulips, climbing/rambling roses, hardy geraniums, crocuses, penstemons, maples,
-milkweeds, alliums, sunflowers, bee-balms, lupines, dogwoods, clematis, mulleins — **22 in all**) collapse
+milkweeds, alliums, sunflowers, bee-balms, lupines, dogwoods, clematis, mulleins, columbines,
+scabious, prairie-coneflowers, pinks, coreopsis — **27 in all**) collapse
 into a **single expandable family card** so the grid isn't buried under near-duplicate cards. It's
 an **inline accordion**, not a separate page — each member keeps its own detail page untouched.
 The bar for a collection is "would a gardener read these as one kind of plant in different
@@ -438,7 +448,8 @@ varieties." Genus clusters intentionally **left ungrouped** because they fail th
 but too unlike in form/role to read as one family — don't re-group them): *Salvia* (culinary
 rosemary + the diverse ornamental sages), *Lonicera* honeysuckles (a fruit bush + a native shrub +
 ornamental vines, spanning shrubs and vines), *Veronica* speedwells (upright spike vs flat creeping
-mat), *Euphorbia* spurges (cushion subshrub + native forb + variegated annual), *Bouteloua* grama
+mat), *Amaranthus* (draping love-lies-bleeding vs upright grain amaranth — too unlike in form),
+*Euphorbia* spurges (cushion subshrub + native forb + variegated annual), *Bouteloua* grama
 grasses (only 2 of a small section), *Centaurea* (annual cornflower vs perennial bluet) and
 *Anemone* (spring windflower vs fall Japanese anemone) — unlike + different bloom seasons; and
 *Rubus* (ornamental Boulder raspberry vs the fruit raspberry — different intent).
@@ -1018,15 +1029,18 @@ ground every statement in an authority cited in `references`.
 
 ## Current plant roster (in the live site)
 
-**192 specimens**, all verified non-weed in CO and all carrying a full `care` block (incl.
+**227 specimens** (`plants/manifest.json` is the source of truth for the exact count), all verified
+non-weed in CO and all carrying a full `care` block (incl.
 `planting` + `propagation`) **and a repo-hosted photo reel** (close-up + structure, seasonal
-where good shots exist). Every plant's detail page is now **fully cited** — a numbered
+where good shots exist). Every plant's detail page is **fully cited** — a numbered
 `references` bibliography with inline `[n]` markers on the facts table (`fact_src`), the care
-prose, and a safety-reviewed **`edible` block** (current split: 81 inedible · 37 caution · 47
-edible · 27 toxic). Every **non-native** plant (117 of the 192) also carries **provenance** —
+prose, and a safety-reviewed **`edible` block** (split roughly inedible · caution · edible · toxic;
+the exact per-category tallies predate the most recent batches). Every **non-native** plant (the
+majority) also carries **provenance** —
 `origin` (where it's from) + `habitat` (its wild growing conditions) — shown as blue "Native
 to" / "Wild habitat" rows on its card and detail page, cited via `fact_src`. Grouped by type
-below (the order the site uses). Photos were sourced
+below (the order the site uses); the per-section bullet lists below are illustrative, not exhaustive —
+the manifest is authoritative. Photos were sourced
 mostly from the iNaturalist open dataset via `tools/inat_montage.py` (note: the yellow
 'Mersea Yellow' pineleaf penstemon came from *cultivated* iNat observations — pass through the
 research-grade filter only by querying without `quality_grade=research`, since garden
@@ -1157,6 +1171,36 @@ hazard (not chemical toxicity); claret cup demands **sharp drainage** (cold+wet 
 one **Non-native** (origin: European Alps/Pyrenees). Photos via `tools/inat_montage.py` (iNat open data),
 720×480 smart-crop thumbs; care/edibility sourced from LBJ Wildflower Center, USDA-FS FEIS, NC State, ASPCA,
 Wikipedia & PFAF.
+
+**Nursery-haul batch (June 2026):** added **20** plants from a user's nursery trip. Three penstemons joined
+the **Penstemons** family card — the garden hybrids **Prairie Jewel** and **Pikes Peak Purple** (*P. ×mexicali*,
+Plant Select) plus the real Sonoran-desert **Desert beardtongue** (*P. pseudospectabilis*). Two monardas joined
+**Bee balms** — the CO-native **Mintleaf bee balm** (*M. fistulosa* var. *menthifolia*, the gray drought-tolerant
+western form) and the annual **Lemon bee balm** (*M. citriodora*). New family cards: **Sweet scabious** (*Scabiosa
+atropurpurea* + its deep-red **'Firecracker'**) and **Columbines** (folding the existing Colorado blue columbine
+together with the new golden **Denver Gold columbine**, *Aquilegia chrysantha*, Plant Select). New standalones:
+**Hummingbird mint** (*Agastache cana*), **Redbirds in a tree** (*Scrophularia macrantha*, NM Plant Select figwort),
+CO-native **Desert four o'clock** (*Mirabilis multiflora*), **Sunny Border Blue speedwell** (upright *Veronica*
+hybrid), **Jasmine pink** (*Dianthus* hybrid), **Moonbeam threadleaf coreopsis** (*C. verticillata*), CO-native
+**Smooth aster** (*Symphyotrichum laeve*, → Asters card), CO-native **Red prairie coneflower** (*Ratibida
+columnifera* f. *pulcherrima*, the mahogany-red Mexican hat — distinct from the existing yellow one), **Copperhead
+amaranth** (*A. cruentus* grain cultivar), **Mexican ageratum** (*Ageratum houstonianum*), **Lesser calamint**
+(*Calamintha/Clinopodium nepeta*) and the statuesque tallgrass-prairie **Compass plant** (*Silphium laciniatum*).
+Honesty calls baked in: **Ageratum is toxic** (hepatotoxic pyrrolizidine alkaloids — not food); **Mirabilis** roots
+are bioactive/not-food; **Desert beardtongue, Denver Gold columbine, Agastache, Mexican ageratum, Compass plant,
+Lemon bee balm, Smooth-aster's** garden kin are all honestly classed `Non-native` where they aren't Front-Range
+natives (per the witch-hazel convention); the garden hybrids (the two hybrid penstemons, Sunny Border Blue, Jasmine
+pink, 'Moonbeam', 'Firecracker', 'Denver Gold') use honestly-captioned **species-representative** photos with a
+`gaps` note where no open-licensed cultivar shot exists. Edible calls: mintleaf & lemon bee balm and calamint are
+culinary mints (`food:true`, leaf/flower tea); copperhead amaranth is a grain+greens crop; the rest range
+inedible→caution→toxic. Photos via `tools/inat_montage.py` (+ GBIF/Commons for the thin-supply cultivars).
+
+This batch also introduced the **`aka` cultivar-alias field** (see the schema list): six plants the user bought
+were cultivars/synonyms of species already in the guide — **Munstead lavender**, **Black Prince snapdragon**,
+**Rustic Colors** (Rudbeckia hirta), **Prairie/Lewis flax** (Linum lewisii), **Rocky Mountain columbine** (Aquilegia
+coerulea = the existing blue columbine), and the already-present *Sphaeralcea coccinea*. Rather than spin up
+near-duplicate pages with identical care, their alternate names were folded into the parent entry's `aka` array so
+searching the cultivar surfaces the parent (with a subtle "Also: …" line on the card/sheet).
 
 **Trees**
 - River hawthorn (*Crataegus rivularis*) (N) — Thorny native small tree; white spring flowers, dark edible haws, superb wildlife cover. A caterpillar keystone (~90 Lepidoptera). *(Riparian — wants more water; edible haws, spit the cyanogenic seeds.)*

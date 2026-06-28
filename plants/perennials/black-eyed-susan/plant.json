@@ -1,6 +1,9 @@
 {
   "common": "Black-eyed Susan",
   "botanical": "Rudbeckia hirta",
+  "aka": [
+    "'Rustic Colors' coneflower"
+  ],
   "type": "Forb",
   "lifecycle": "Perennial",
   "native": "Non-native",

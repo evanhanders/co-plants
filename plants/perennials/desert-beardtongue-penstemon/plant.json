@@ -1,0 +1,191 @@
+{
+  "collection": "penstemons",
+  "common": "Desert beardtongue",
+  "botanical": "Penstemon pseudospectabilis",
+  "aka": [
+    "Desert penstemon",
+    "Canyon penstemon"
+  ],
+  "type": "Forb",
+  "lifecycle": "Perennial",
+  "native": "Non-native",
+  "flower_color": [
+    "pink",
+    "purple"
+  ],
+  "bloom": [
+    "spring",
+    "summer"
+  ],
+  "bloom_season": "Spring",
+  "blurb": "A bushy Sonoran-Desert penstemon hung with airy whorls of rose-pink to magenta trumpets over blue-green clasping leaves — a hummingbird magnet that blooms early and shrugs off heat, drought and lean ground.",
+  "size": "~2–3 ft tall × 1–2 ft wide",
+  "sun": "Full sun (light afternoon shade tolerated)",
+  "water": "Low; xeric once established — water monthly at most",
+  "spread": "Clumping; reseeds",
+  "seasons": "Rose-pink trumpets spring into early summer; blue-green clasping foliage; tan seed stalks afterward",
+  "wildlife": "Premier hummingbird plant; special value to native bees (Xerces)",
+  "deer": "Deer resistant",
+  "toxic": "",
+  "winter": false,
+  "verified": "2026-06-28",
+  "origin": "Sonoran Desert of the SW US (AZ, NM, CA) & NW Mexico",
+  "habitat": "Desert washes, gravelly slopes & roadsides, 2,000–7,000 ft",
+  "ph": {
+    "min": 6.1,
+    "ideal": 7.0,
+    "max": 8.5
+  },
+  "shots": [
+    {
+      "local": "images/sp-flower-t.jpg",
+      "full": "images/sp-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/1722645/large.jpg",
+      "s": "spring",
+      "cap": "Spring — rose-pink trumpets face-on over blue-green clasping leaves · © Maura Thoenes (CC-BY-NC) / iNaturalist",
+      "by": "Maura Thoenes",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/1393213"
+    },
+    {
+      "local": "images/sp-macro-t.jpg",
+      "full": "images/sp-macro.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/634040229/large.jpg",
+      "s": "spring",
+      "cap": "Spring — single magenta flower face-on, throat and stamens · © ojalaquellueva (CC-BY-NC) / iNaturalist",
+      "by": "ojalaquellueva",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/347716167"
+    },
+    {
+      "local": "images/sp-bloom-t.jpg",
+      "full": "images/sp-bloom.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/373225608/large.jpeg",
+      "s": "spring",
+      "cap": "Spring — bushy plant in full rose-pink bloom · © Cg (CC-BY-NC) / iNaturalist",
+      "by": "Cg",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/211072216"
+    },
+    {
+      "local": "images/sp-context-t.jpg",
+      "full": "images/sp-context.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/284130571/large.jpg",
+      "s": "spring",
+      "cap": "Spring — flowering clump among desert rocks · © Stephen Schilling (CC-BY-NC) / iNaturalist",
+      "by": "Stephen Schilling",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/164229455"
+    },
+    {
+      "local": "images/sp-habit-t.jpg",
+      "full": "images/sp-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/649196326/large.jpg",
+      "s": "spring",
+      "cap": "Spring — whole flowering stem and habit · © GregB (CC-BY-NC) / iNaturalist",
+      "by": "GregB",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/355992787"
+    },
+    {
+      "local": "images/su-seedhead-t.jpg",
+      "full": "images/su-seedhead.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/59365956/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — ripe tan-orange seed capsules · © Curren Frasch (CC-BY-NC) / iNaturalist",
+      "by": "Curren Frasch",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/37447629"
+    },
+    {
+      "local": "images/sp-foliage-t.jpg",
+      "full": "images/sp-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/324901898/large.jpg",
+      "s": "spring",
+      "cap": "Spring — blue-green clasping foliage rosette · © Matt Reala (CC-BY-NC) / iNaturalist",
+      "by": "Matt Reala",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/185973224"
+    },
+    {
+      "local": "images/sp-wash-t.jpg",
+      "full": "images/sp-wash.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/40657869/large.jpeg",
+      "s": "spring",
+      "cap": "Spring — plant in a gravelly desert wash, in context · © Kenneth Bader (CC-BY-NC) / iNaturalist",
+      "by": "Kenneth Bader",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/26197723"
+    }
+  ],
+  "care": {
+    "hardiness": "Reliably hardy to about USDA zone 5 (sources give zones 5–9/10), so it overwinters on the Front Range (Boulder ~5b–6a) in sharply drained ground; a Sonoran-Desert native, it is most at home in heat and lean soil and most at risk from wet winter feet.[2][3]",
+    "planting": "Plant out in spring after the mid-May average last frost, or in early fall, into lean, gritty, fast-draining ground in full sun; do not amend with compost and skip mulch over the crown. In containers use a sharply draining cactus/gravel mix and keep the crown dry — potted desert penstemons rot far more easily than plants in open ground.[1][2]",
+    "sun": "Full sun for best form and flower; it tolerates light afternoon shade in the hottest spots but gets leggy and shy-flowering in real shade.[2][3]",
+    "soil": "Wants dry, well-drained, low-organic soil — gravelly or sandy is ideal — across a wide pH (about 6.1–8.5), so Boulder's alkaline ground suits it; it resents heavy, wet clay.[3]",
+    "water": "Very low once established — it built deep taproots to ride out desert drought. Give spring moisture to bloom, then water monthly at most (accounting for rain); frequent or post-bloom overwatering causes crown rot.[2][3]",
+    "spacing": "Space about 18–24 in apart; the bushy clump reaches roughly 2–3 ft tall in bloom and 1–2 ft wide.[1][2]",
+    "propagation": "Grow from seed, which germinates best after cold-moist stratification (fall-sow outdoors, or chill the moist seed in the fridge before a late-winter start). Penstemons resent division — don't split the crown — so to clone a plant take basal or softwood cuttings instead; it also self-sows where happy.[1][3]",
+    "stratify": "Cold-moist stratify the seed (fall sowing supplies the natural winter chilling) to break dormancy and germinate well.[1]",
+    "bloom": "Airy whorls of rose-pink to magenta tubular flowers from early spring into early summer (March–June in its native range; later here), beloved of hummingbirds; deadhead spent spikes to neaten the plant and prolong bloom.[2][3]",
+    "feeding": "No fertilizer needed in lean soil — feeding produces floppy growth and shortens its life.[1]",
+    "maintenance": "Low: deadhead spent spikes, then back off water to prevent crown rot; tidy old flower stems in late fall or early spring and leave some seed to self-sow.[1][3]",
+    "troubles": "No serious pests or diseases; root and crown rot strike in wet, poorly drained or over-amended soil, and rust, grasshoppers and flea beetles are occasional.[1]",
+    "companions": "A hummingbird and native-bee plant for hot, dry borders, rock gardens and xeriscapes — combine with other desert penstemons, agastache, salvias and grasses in lean sunny ground.[2]"
+  },
+  "references": [
+    {
+      "name": "CSU Extension — Growing Penstemons",
+      "url": "https://extension.colostate.edu/resource/growing-penstemons/"
+    },
+    {
+      "name": "Lady Bird Johnson Wildflower Center — Penstemon pseudospectabilis",
+      "url": "https://www.wildflower.org/plants/result.php?id_plant=PEPS"
+    },
+    {
+      "name": "Wikipedia — Penstemon pseudospectabilis (description, range & bloom)",
+      "url": "https://en.wikipedia.org/wiki/Penstemon_pseudospectabilis"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      1,
+      2
+    ],
+    "sun": [
+      2,
+      3
+    ],
+    "water": [
+      2,
+      3
+    ],
+    "spread": [
+      1
+    ],
+    "seasons": [
+      2
+    ],
+    "wildlife": [
+      2
+    ],
+    "deer": [
+      3
+    ],
+    "ph": [
+      3
+    ],
+    "origin": [
+      2
+    ],
+    "habitat": [
+      2
+    ]
+  },
+  "edible": {
+    "level": "inedible",
+    "food": false,
+    "summary": "Grown ornamentally for its hummingbird flowers — no documented edible use.[2]",
+    "caution": "No known culinary use; not documented as poisonous, but it is not a food plant — don't eat it.[2]"
+  }
+}

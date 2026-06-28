@@ -1,0 +1,184 @@
+{
+  "collection": "pinks",
+  "common": "Jasmine pink",
+  "botanical": "Dianthus 'Scent First Jasmine'",
+  "type": "Forb",
+  "lifecycle": "Perennial",
+  "native": "Non-native",
+  "bloom_season": "Summer",
+  "flower_color": [
+    "white",
+    "pink"
+  ],
+  "bloom": [
+    "spring",
+    "summer"
+  ],
+  "aka": [
+    "'Scent First Jasmine' pink",
+    "Jasmine dianthus"
+  ],
+  "blurb": "An intensely clove-and-jasmine-scented garden pink: fringed white flowers each centered on a raspberry-pink eye, hovering over a tight blue-green grassy mat. Cool-spring bloom on a tough, deer-proof, drought-tolerant edging plant for the Front Range.",
+  "size": "6–10 in × 10–14 in",
+  "sun": "Full sun to light afternoon shade",
+  "water": "Low to moderate; drought-tolerant once established, needs sharp drainage",
+  "spread": "Clumping; forms a slowly spreading evergreen mat",
+  "seasons": "Evergreen blue-green grassy foliage year-round; fragrant white-and-pink flowers late spring into summer; semi-evergreen mat in winter",
+  "wildlife": "Fragrant flowers draw butterflies, bees, and other pollinators",
+  "deer": "Deer resistant (rabbits may browse)",
+  "toxic": "Mildly toxic to cats, dogs, and horses (foliage can cause mild stomach upset; sap may irritate skin)",
+  "winter": false,
+  "verified": "2026-06-28",
+  "origin": "Garden hybrid (Eurasian Dianthus parentage)",
+  "habitat": "n/a — garden hybrid",
+  "ph": {
+    "min": 6.0,
+    "ideal": 7.0,
+    "max": 7.8
+  },
+  "care": {
+    "hardiness": "Hardy across the Front Range — garden pinks of this type are reliable in USDA zones 4–9, so it overwinters easily here (Boulder is ~5b–6a). The 'Scent First' (Whetman) hybrid pinks were bred for strong fragrance, repeat bloom, and good vigor; the limiting factor in our climate is drainage, not cold — the evergreen mat sulks and rots in soggy winter soil.[1][2]",
+    "planting": "Set out nursery plants in spring after the mid-May average last frost, or in early fall, into gritty, sharply drained soil — a raised edge, rock garden, or wall top is ideal. Plant the crown at or just above soil level; burying it invites rot. In containers use a fast-draining mix and don't let the pot stay wet; potted crowns are far less cold-hardy than in-ground ones, so overwinter pots in a sheltered, dry spot.[1][2]",
+    "sun": "Full sun — six-plus hours — for the tightest mat and the most flowers; light afternoon shade is tolerated and can help in Boulder's hottest stretches. Too much shade makes it loose, floppy, and shy to bloom.[1][2]",
+    "soil": "Lean, gritty, well-drained, near-neutral to slightly alkaline soil suits it perfectly — Colorado's alkaline ground is a natural fit. Sharp drainage is essential; heavy, wet clay rots the crown. Amend heavy soil with grit rather than rich compost, which softens the mat.[1][2]",
+    "water": "Low to moderate. Water to establish the first season, then water deeply but infrequently — it is drought-tolerant once settled and resents soggy ground. Avoid overhead watering, which can spot the foliage and rot the dense mat; keep water off the crown in winter.[1][2]",
+    "spacing": "Space plants about 8–12 in apart to knit into a continuous edging mat; each clump stays low (6–10 in in bloom) and spreads slowly to 10–14 in wide.[1][2]",
+    "propagation": "A named hybrid, so propagate vegetatively to keep it true: take 2–3 in non-flowering tip cuttings ('pipings') in early summer, or layer/divide established mats in spring or early fall. Seed of a hybrid won't come true.[2]",
+    "bloom": "Fragrant fringed white flowers with a raspberry-pink eye, mostly late spring into early summer, with scattered repeat bloom if deadheaded — shear spent flowers off to encourage another flush and keep the mat tidy.[1][2]",
+    "feeding": "Light. A little balanced slow-release fertilizer in spring is enough; lean soil and modest feeding keep the mat compact and free-flowering. Avoid heavy nitrogen, which produces lush foliage and few flowers.[1]",
+    "maintenance": "Deadhead/shear spent flower stems to prolong bloom and neaten the plant. The evergreen mat needs little else; tidy any winter-burned foliage in early spring. Divide or re-layer every few years when the center thins to keep the clump vigorous.[1][2]",
+    "troubles": "Generally trouble-free in a sunny, sharply drained spot. The main risks are crown and root rot in wet or poorly drained soil and fungal leaf spot/rust in crowded, humid, overhead-watered plantings — good airflow, lean soil, and water at the base prevent both.[1][2]",
+    "harvest": "If you grow it for the kitchen, snip fully open, unsprayed flowers in the cool of the morning when the scent is strongest, and use the petals fresh — pull each petal from the calyx and trim away the bitter pale heel at its base before using.[3]"
+  },
+  "fact_src": {
+    "size": [
+      1,
+      2
+    ],
+    "sun": [
+      1,
+      2
+    ],
+    "water": [
+      1,
+      2
+    ],
+    "spread": [
+      1,
+      2
+    ],
+    "seasons": [
+      1,
+      2
+    ],
+    "wildlife": [
+      2
+    ],
+    "deer": [
+      1,
+      2
+    ],
+    "toxic": [
+      2
+    ],
+    "origin": [
+      1,
+      2
+    ],
+    "habitat": [
+      1
+    ],
+    "ph": [
+      2
+    ]
+  },
+  "edible": {
+    "level": "caution",
+    "food": true,
+    "kinds": [
+      "flowers"
+    ],
+    "card": "Petals — bitter white base removed",
+    "summary": "The flower petals are edible with a sweet, spicy clove flavor — but only the colored petal, with the bitter white heel removed, and only from unsprayed plants.[2][3]",
+    "parts": "Only the flower petals are used. Garden pinks (Dianthus) have long been a culinary edible flower — the petals carry a sweet, clove-to-jasmine spice that flavors sugars, syrups, vinegars, cordials, and desserts, or garnishes salads, cakes, and drinks. The rest of the plant (leaves, stems, roots) is not eaten.[2][3]",
+    "preparation": "Pull the colored petals from the calyx and snip or pinch off the narrow pale 'heel' at the base of each petal — it is bitter and should be discarded. Use the trimmed petals fresh: scatter on dishes, crystallize with sugar, or steep to flavor syrups and drinks. Only ever eat petals from plants you know are unsprayed (no pesticide/herbicide residues); never use florist's carnations.[2][3]",
+    "caution": "Eat only the petal, with the bitter white base removed, and only from your own unsprayed garden plants — commercially grown Dianthus may carry pesticide residues and is not for eating. The foliage and sap are a separate matter: the leaves and stems are rated mildly toxic to cats, dogs, and horses (ingestion can cause mild gastrointestinal upset) and the sap can irritate sensitive skin, so the leaves/stems are not a food. Keep the edible use to clearly identified, unsprayed flower petals.[2]"
+  },
+  "references": [
+    {
+      "name": "Royal Horticultural Society — Dianthus plumarius (clove pink) & edible flowers",
+      "url": "https://www.rhs.org.uk/plants/5734/dianthus-plumarius/details"
+    },
+    {
+      "name": "NC State Extension Gardener Plant Toolbox — Dianthus",
+      "url": "https://plants.ces.ncsu.edu/plants/dianthus/"
+    },
+    {
+      "name": "Royal Horticultural Society — Edible flowers: growing and using",
+      "url": "https://www.rhs.org.uk/herbs/edible-flowers"
+    }
+  ],
+  "gaps": "Photos are species-representative garden/cottage pinks (Dianthus plumarius and kin — fringed, fragrant, blue-green grassy mats) — no open-licensed photo of the named 'Scent First Jasmine' cultivar exists. That cultivar is a fragrant white flower with a raspberry-pink eye; the shown pinks match its mat, fringed petals, and habit, with some variation in petal color.",
+  "shots": [
+    {
+      "local": "images/su-flower-t.jpg",
+      "full": "images/su-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/101931290/large.jpg",
+      "s": "summer",
+      "cap": "Summer — a fringed pink flower with a raspberry eye, face-on · © Jeff Skrentny (CC-BY-NC) / iNaturalist",
+      "by": "Jeff Skrentny",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/63507593"
+    },
+    {
+      "local": "images/su-flower2-t.jpg",
+      "full": "images/su-flower2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/72960552/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — white fringed pinks face-on, showing the deeply cut petals · © Attila Steiner (CC-BY-NC) / iNaturalist",
+      "by": "Attila Steiner",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/46002872"
+    },
+    {
+      "local": "images/su-mass-t.jpg",
+      "full": "images/su-mass.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/394901008/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — a blue-green mat in full bloom, showing how it reads as an edging plant · © sarobinson (CC-BY-NC) / iNaturalist",
+      "by": "sarobinson",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/222907311"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/384474627/large.jpg",
+      "s": "summer",
+      "cap": "Summer — a clump cascading over a rock wall over its grassy mat · © Oliver Stöhr (CC-BY-NC) / iNaturalist",
+      "by": "Oliver Stöhr",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/217338452"
+    },
+    {
+      "local": "images/su-bloom-t.jpg",
+      "full": "images/su-bloom.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/656466453/large.jpg",
+      "s": "summer",
+      "cap": "Summer — pale lilac-pink fringed flowers in close detail · © karl_xy (CC-BY-NC) / iNaturalist",
+      "by": "karl_xy",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/359783276"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/464175386/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — a crisp white fringed flower over blue-green grassy foliage · © Ivan Jarolímek (CC-BY-NC) / iNaturalist",
+      "by": "Ivan Jarolímek",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/258679963"
+    }
+  ]
+}

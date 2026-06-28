@@ -1,6 +1,10 @@
 {
   "common": "Blue flax",
   "botanical": "Linum lewisii",
+  "aka": [
+    "Prairie flax",
+    "Lewis flax"
+  ],
   "type": "Forb",
   "lifecycle": "Perennial",
   "native": "CO native",

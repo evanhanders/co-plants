@@ -1,0 +1,138 @@
+[
+  {
+    "file": "images/sp-flower.jpg",
+    "photo_id": 122144043,
+    "by": "Eric Hough",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/photos/122144043",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      1050
+    ],
+    "thumb_px": [
+      400,
+      300
+    ]
+  },
+  {
+    "file": "images/sp-habit.jpg",
+    "photo_id": 485232189,
+    "by": "Sue Carnahan",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/photos/485232189",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      1050
+    ],
+    "thumb_px": [
+      400,
+      300
+    ]
+  },
+  {
+    "file": "images/sp-spurs.jpg",
+    "photo_id": 529070715,
+    "by": "Daniel Z",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/photos/529070715",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1054,
+      1400
+    ],
+    "thumb_px": [
+      301,
+      400
+    ]
+  },
+  {
+    "file": "images/sp-spurs2.jpg",
+    "photo_id": 467851690,
+    "by": "z7nikon",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/photos/467851690",
+    "dataset": "iNaturalist open data",
+    "render": "large",
+    "full_px": [
+      1024,
+      792
+    ],
+    "thumb_px": [
+      400,
+      309
+    ]
+  },
+  {
+    "file": "images/sp-context.jpg",
+    "photo_id": 133926887,
+    "by": "juliasienna",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/photos/133926887",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  },
+  {
+    "file": "images/su-flower.jpg",
+    "photo_id": 624347099,
+    "by": "slvrsprngwanderer",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/photos/624347099",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      930
+    ],
+    "thumb_px": [
+      400,
+      266
+    ]
+  },
+  {
+    "file": "images/sp-foliage.jpg",
+    "photo_id": 539653353,
+    "by": "Lia Clark",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/photos/539653353",
+    "dataset": "iNaturalist open data",
+    "render": "large",
+    "full_px": [
+      768,
+      1024
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  },
+  {
+    "file": "images/sp-closeup.jpg",
+    "photo_id": 4972626,
+    "by": "Jack",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/photos/4972626",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      933,
+      1400
+    ],
+    "thumb_px": [
+      267,
+      400
+    ]
+  }
+]

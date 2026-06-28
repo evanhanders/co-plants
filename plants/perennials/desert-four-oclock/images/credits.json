@@ -1,0 +1,121 @@
+[
+  {
+    "file": "images/su-flower.jpg",
+    "photo_id": 401407974,
+    "by": "Jim Bromberg",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/226342111",
+    "dataset": "iNaturalist open data",
+    "render": "large",
+    "full_px": [
+      768,
+      1024
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  },
+  {
+    "file": "images/su-habit.jpg",
+    "photo_id": 158078365,
+    "by": "Adriano Tsinigine",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/95234778",
+    "dataset": "iNaturalist open data",
+    "render": "large",
+    "full_px": [
+      768,
+      1024
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  },
+  {
+    "file": "images/su-bloom.jpg",
+    "photo_id": 225228281,
+    "by": "astrodude",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/128721732",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  },
+  {
+    "file": "images/su-flowerfoliage.jpg",
+    "photo_id": 150186317,
+    "by": "d_smels",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/90847652",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      1050
+    ],
+    "thumb_px": [
+      400,
+      300
+    ]
+  },
+  {
+    "file": "images/su-context.jpg",
+    "photo_id": 129786131,
+    "by": "Erik Hendrickson",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/79247253",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      1050
+    ],
+    "thumb_px": [
+      400,
+      300
+    ]
+  },
+  {
+    "file": "images/sp-foliage.jpg",
+    "photo_id": 203511789,
+    "by": "David Martin",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/120332726",
+    "dataset": "iNaturalist open data",
+    "render": "large",
+    "full_px": [
+      1024,
+      845
+    ],
+    "thumb_px": [
+      400,
+      330
+    ]
+  },
+  {
+    "file": "images/su-foliage2.jpg",
+    "photo_id": 294572372,
+    "by": "louisey-anna",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/169884732",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  }
+]

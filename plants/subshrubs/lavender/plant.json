@@ -1,6 +1,9 @@
 {
   "common": "Lavender",
   "botanical": "Lavandula angustifolia",
+  "aka": [
+    "'Munstead' lavender"
+  ],
   "type": "Subshrub",
   "lifecycle": "Perennial",
   "native": "Non-native",

@@ -1,0 +1,192 @@
+{
+  "common": "Copperhead amaranth",
+  "botanical": "Amaranthus cruentus 'Copperhead'",
+  "aka": [
+    "Copperhead grain amaranth"
+  ],
+  "type": "Forb",
+  "lifecycle": "Annual",
+  "native": "Non-native",
+  "bloom_season": "Summer",
+  "flower_color": [
+    "red"
+  ],
+  "bloom": [
+    "summer",
+    "fall"
+  ],
+  "blurb": "An upright grain amaranth crowned with bold copper-red flower plumes over dark-flushed leaves — a dramatic, drought-shrugging dual-purpose annual grown for both its edible grain and cooked young greens.",
+  "size": "4–6 ft tall × 1.5–2.5 ft wide",
+  "sun": "Full sun",
+  "water": "Low to moderate; drought-tolerant once established",
+  "spread": "Single upright clump; self-sows if seedheads are left",
+  "seasons": "Dark-flushed leafy stems through summer; deep copper-red plumes midsummer to frost; dry russet seedheads in fall",
+  "wildlife": "Pollen and abundant seed draw bees and seed-eating birds (goldfinches, juncos)",
+  "deer": "Not deer-proof; foliage can be browsed",
+  "toxic": "Leaves accumulate oxalates and (in rich soil) nitrates — eat young leaves cooked and in moderation",
+  "winter": false,
+  "verified": "2026-06-28",
+  "origin": "Cultivated grain amaranth (Mesoamerican origin)",
+  "habitat": "n/a — cultigen (warm tropical America)",
+  "ph": {
+    "min": 6.0,
+    "ideal": 6.5,
+    "max": 7.5
+  },
+  "care": {
+    "hardiness": "A frost-tender warm-season annual grown for one season — it completes its whole life cycle in a single Front Range summer and is killed by the first hard fall frost, so USDA hardiness zone is moot. It thrives in our heat and is widely adapted across latitudes and soils, making it an easy, dependable annual here.[1][2]",
+    "planting": "Direct-sow outdoors only after the mid-May average last frost, once soil has warmed to about 65°F — amaranth germinates and grows fast in warm soil and sulks in cold. You can start seed indoors 3–4 weeks before last frost and transplant after frost danger passes. In containers use a deep pot (the plant is tall and gets top-heavy) and a free-draining mix; potted plants dry out fast and need steady summer water, but the plant itself is one-season so there is no overwintering.[1][2]",
+    "sun": "Full sun — at least six hours — for sturdy, well-colored plumes and good grain set; in shade it stretches, flops, and yields poorly.[2]",
+    "soil": "Loose, fertile, well-drained soil is ideal but it is undemanding and tolerates lean, dry ground; pH 6.0–7.5 suits it and Boulder's near-neutral soils are fine. Overly rich, heavily fertilized soil pushes lush foliage (and raises leaf nitrate) at the expense of clean grain.[1][2]",
+    "water": "Low to moderate. Keep the seedbed evenly moist for germination and water young plants through establishment; once rooted it is notably drought-tolerant and gets by on occasional deep soaks through summer heat. Avoid waterlogging.[2]",
+    "spacing": "Thin or space plants to about 18 in apart for full-sized grain plants; closer spacing (a few inches) suits a cut-and-come-again leaf crop.[1][2]",
+    "propagation": "Grown from seed only — sow the tiny seed shallowly in warm soil (it self-sows readily from dropped seed if heads are left standing). No cold stratification is needed; seed germinates quickly in warm soil.[1][2]",
+    "sow": "Sow seed about 1/8–1/4 in deep (barely covered) into warm soil after frost; seedlings emerge in roughly 1–2 weeks. Thin to 18 in for grain.[1][2]",
+    "depth": "Plant seed only 1/8–1/4 in deep — the tiny seed needs light and warmth and fails if buried too deeply.[1]",
+    "bloom": "Tall copper-red plumes from midsummer to frost (roughly July–September here), maturing to dry russet seedheads. The plant reaches harvestable grain in about 90–120 days from sowing.[1][2]",
+    "feeding": "Little to no fertilizer needed; it performs well in lean soil. Skip high-nitrogen feeds, which produce floppy growth and elevate leaf nitrate.[2]",
+    "maintenance": "Stake or site out of strong wind, as tall seed-laden plants can topple. Deadhead or harvest seedheads to limit self-sowing; pull volunteers in spring if you don't want a patch.[1][2]",
+    "selfsow": "Self-sows freely from dropped seed if seedheads are left to shatter — welcome in a grain patch, but cut and bag heads before they shatter if you want to contain it.[1]",
+    "harvest": "For greens, cut young leaves and tips when plants are 10–12 in tall and eat them cooked. For grain, watch for the first flowers to brown and begin shedding, then cut whole heads, dry them in paper bags, thresh by rubbing/beating, and winnow the chaff with wind or a fan.[1]"
+  },
+  "fact_src": {
+    "size": [
+      1,
+      3
+    ],
+    "sun": [
+      2
+    ],
+    "water": [
+      2
+    ],
+    "spread": [
+      1
+    ],
+    "seasons": [
+      1,
+      3
+    ],
+    "wildlife": [
+      3
+    ],
+    "deer": [
+      3
+    ],
+    "toxic": [
+      4
+    ],
+    "origin": [
+      3
+    ],
+    "habitat": [
+      3
+    ],
+    "ph": [
+      1
+    ]
+  },
+  "edible": {
+    "level": "edible",
+    "food": true,
+    "kinds": [
+      "seeds",
+      "leaves"
+    ],
+    "card": "Grain & cooked young leaves",
+    "summary": "A dual-purpose grain amaranth: the tiny seeds are a nutritious gluten-free grain and the young leaves are eaten as a cooked green.[1][3]",
+    "parts": "The ripe seed (grain) is the main food — ground to flour, popped like tiny popcorn, or cooked as porridge. The tender young leaves and growing tips are eaten as a potherb (cooked like spinach).[1][3]",
+    "preparation": "Harvest, dry, thresh and winnow the grain, then cook it as porridge, pop it dry, or mill it to flour. Eat the young leaves cooked (boiled or sautéed), not raw — cooking and discarding the water cuts their oxalate and nitrate load.[1][4]",
+    "caution": "The grain itself is a safe staple. The leaves, like spinach and chard, accumulate oxalates and — especially from heavily fertilized soil — nitrates, which is why they are eaten young, cooked (boiling reduces both), and in moderation; people with kidney-stone history or kidney disease should limit oxalate-rich greens. This is the cultivated grain species Amaranthus cruentus, not the herbicide-resistant weed Palmer amaranth (A. palmeri); buy named seed so you know what you are growing.[1][4]"
+  },
+  "references": [
+    {
+      "name": "Purdue University NewCROP — Amaranth (grain-amaranth crop profile: culture, grain & leaf use)",
+      "url": "https://hort.purdue.edu/newcrop/afcm/amaranth.html"
+    },
+    {
+      "name": "CSU Extension — Garden & Landscape (Front Range frost dates & vegetable timing)",
+      "url": "https://extension.colostate.edu/topic/garden-landscape/"
+    },
+    {
+      "name": "Wikipedia — Amaranthus cruentus",
+      "url": "https://en.wikipedia.org/wiki/Amaranthus_cruentus"
+    },
+    {
+      "name": "ASPCA Animal Poison Control — Pigweed (Amaranthus spp.): oxalate/nitrate toxicity",
+      "url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/pigweed"
+    }
+  ],
+  "shots": [
+    {
+      "local": "images/su-flower-t.jpg",
+      "full": "images/su-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/489643875/large.jpg",
+      "s": "summer",
+      "cap": "Summer — upright copper-red flower plume face-on · © TeamTzibim (CC-BY-NC) / iNaturalist",
+      "by": "TeamTzibim",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/photos/489643875"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/24264144/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — whole plant: bold red plumes against sky · © Valerio Lazzeri (CC-BY-NC) / iNaturalist",
+      "by": "Valerio Lazzeri",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/photos/24264144"
+    },
+    {
+      "local": "images/su-mass-t.jpg",
+      "full": "images/su-mass.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/148671414/large.jpg",
+      "s": "summer",
+      "cap": "Summer — a planting of red-plumed grain amaranth in a field · © Mariu Avila (CC-BY-NC) / iNaturalist",
+      "by": "Mariu Avila",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/photos/148671414"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/148284438/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — clean rosette of dark copper-red leaves, shape & texture readable · © Alexandr Stanislavschi (CC-BY) / iNaturalist",
+      "by": "Alexandr Stanislavschi",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/89772885"
+    },
+    {
+      "local": "images/fa-seedhead-t.jpg",
+      "full": "images/fa-seedhead.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/479877142/large.jpeg",
+      "s": "fall",
+      "cap": "Fall — drooping ripening seedhead plumes laden with grain · © smokeyjo19 (CC-BY-NC) / iNaturalist",
+      "by": "smokeyjo19",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/photos/479877142"
+    },
+    {
+      "local": "images/su-habit2-t.jpg",
+      "full": "images/su-habit2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/341019147/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — whole flowering plant, dark foliage and plume · © Steven Kurniawidjaja (CC-BY-NC) / iNaturalist",
+      "by": "Steven Kurniawidjaja",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/photos/341019147"
+    },
+    {
+      "local": "images/su-foliage2-t.jpg",
+      "full": "images/su-foliage2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/152552249/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — dark-flushed upper foliage and emerging spike · © Olesya Deineko (CC-BY-NC) / iNaturalist",
+      "by": "Olesya Deineko",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/photos/152552249"
+    }
+  ]
+}

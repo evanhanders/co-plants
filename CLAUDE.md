@@ -235,6 +235,15 @@ is **NOT** the grouping. A file can live in `plants/perennials/` yet be a `Groun
   `plants/collections.json`. Membership is the *only* thing that lives on the plant; the family's
   display name, home section, lead photo and blurb live in `collections.json`. See "Collections
   (family cards)" below. Omit it for standalone plants.
+- **`aka`** *(optional string array)* — **alternate names that route to this entry in search**: alt
+  common names, synonyms, or named **cultivars** the user owns whose care is identical to this species
+  (e.g. Lavender carries `["'Munstead' lavender"]`; Blue flax carries `["Prairie flax","Lewis flax"]`).
+  It's the lightweight alternative to a near-duplicate page: each string is folded into the grid's
+  search string (`matchesQuery` in `app.js`), so searching the cultivar/synonym surfaces the parent
+  card, and it renders as a subtle **"Also: …"** line under the botanical name on both the card
+  (`cardHTML` in `reel.js`) and the detail page (`plant.js`), styled by `.aka` in `styles.css`. Use it
+  when a requested cultivar is genuinely covered by an existing species entry rather than spinning up a
+  duplicate; omit it otherwise.
 - `commons:'File.jpg'` — legacy primary photo (a Commons filename). May be `""`. Once a
   plant has repo-hosted `shots`, this is just dead fallback metadata; new plants don't
   need it.

@@ -97,7 +97,7 @@ return true;
 const content=document.getElementById('content');
 const searchEl=document.getElementById('search');
 function matchesQuery(p,q){ if(!q) return true;
-return [p.common,p.botanical,p.type,p.lifecycle,p.bloom_season,p.native,p.blurb,p.seasons,p.wildlife,p.spread,p.origin,p.habitat,(p.flower_color||[]).join(' '),(p.bloom||[]).join(' ')].join(' ').toLowerCase().indexOf(q)>-1;
+return [p.common,p.botanical,p.type,p.lifecycle,p.bloom_season,p.native,p.blurb,p.seasons,p.wildlife,p.spread,p.origin,p.habitat,(p.flower_color||[]).join(' '),(p.bloom||[]).join(' '),(p.aka||[]).join(' ')].join(' ').toLowerCase().indexOf(q)>-1;
 }
 function allPlants(){ const map=new Map(); SEED.forEach(function(p){ map.set(p.botanical.toLowerCase().trim(), p); }); return Array.from(map.values()).sort(function(a,b){ return a.botanical.localeCompare(b.botanical,'en',{sensitivity:'base'}); }); }
 /* slugOf / slugTail / detailHref / favBtnFor / cardHTML now live in reel.js (shared with the

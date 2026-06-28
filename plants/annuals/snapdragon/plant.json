@@ -1,6 +1,9 @@
 {
   "common": "Snapdragon",
   "botanical": "Antirrhinum majus",
+  "aka": [
+    "'Black Prince' snapdragon"
+  ],
   "type": "Forb",
   "lifecycle": "Annual",
   "native": "Non-native",

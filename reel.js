@@ -200,6 +200,7 @@ const href = detailHref(p);
 const name = href ? '<a class="namelink" href="'+href+'">'+p.common+'</a>' : p.common;
 return '<article class="card"><div class="plate">'+plate+'<span class="corner">'+(p.type||'')+'</span>'+nat+'</div>'+
 '<div class="body"><div class="namerow"><h3 class="name">'+name+'</h3>'+favBtnFor(p)+'</div><p class="latin">'+p.botanical+'</p>'+
+(p.aka&&p.aka.length?'<p class="aka">Also: '+p.aka.join(' · ')+'</p>':'')+
 '<p class="blurb">'+(p.blurb||'')+'</p><dl class="facts">'+
 '<dt>Size</dt><dd>'+(p.size||'—')+'</dd><dt>Sun</dt><dd>'+(p.sun||'—')+'</dd>'+
 '<dt>Water</dt><dd>'+(p.water||'—')+'</dd><dt>Habit</dt><dd>'+(p.spread||'—')+'</dd>'+

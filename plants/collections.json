@@ -132,6 +132,18 @@
       "group": "Vines",
       "lead": "garden-clematis",
       "blurb": "Large-flowered garden climbers and native virgin's-bowers (Clematis)."
+    },
+    "columbines": {
+      "name": "Columbines",
+      "group": "Spring forbs",
+      "lead": "colorado-blue-columbine",
+      "blurb": "Aquilegia — spurred woodland-edge flowers, the wild blue and golden garden selections."
+    },
+    "sweet-scabious": {
+      "name": "Sweet scabious",
+      "group": "Summer forbs",
+      "lead": "sweet-scabious",
+      "blurb": "Scabiosa atropurpurea — tall cut-flower pincushions, the deep-maroon mourning-bride forms."
     }
   }
 }

@@ -150,6 +150,7 @@ BACK+
 '<div class="sheet-badges"><span class="badge-type">'+esc((p.type||'')+(p.type==='Forb'&&p.bloom_season?(' · '+p.bloom_season.toLowerCase()+'-blooming'):''))+'</span>'+natBadge(p,'badge-nat')+'</div>'+
 '<h1 class="display sheet-name">'+esc(p.common)+'</h1>'+
 '<p class="latin">'+esc(p.botanical)+'</p>'+
+((p.aka&&p.aka.length)?'<p class="aka">Also: '+esc(p.aka.join(' · '))+'</p>':'')+
 '<p class="lead">'+esc(p.blurb||'')+'</p>'+
 (favBtn?'<div class="sheet-fav">'+favBtn+'</div>':'')+
 '<div class="flags">'+flagsHTML(p)+'</div>'+

@@ -1,0 +1,181 @@
+{
+  "common": "Sunny Border Blue speedwell",
+  "botanical": "Veronica 'Sunny Border Blue'",
+  "type": "Forb",
+  "lifecycle": "Perennial",
+  "native": "Non-native",
+  "bloom_season": "Summer",
+  "flower_color": [
+    "blue",
+    "purple"
+  ],
+  "bloom": [
+    "summer",
+    "fall"
+  ],
+  "aka": [
+    "'Sunny Border Blue' veronica"
+  ],
+  "blurb": "Dense upright spikes of dark violet-blue flower beads rise over crinkled deep-green foliage from late spring to frost — a tidy, long-blooming clump (1993 Perennial Plant of the Year) that bees and butterflies work all summer on the Front Range.",
+  "size": "18–24 in × 12–18 in",
+  "sun": "Full sun",
+  "water": "Moderate; even moisture with sharp drainage, especially in winter",
+  "spread": "Clumping; slowly expands, not aggressive",
+  "seasons": "Crinkled dark-green basal foliage spring–fall; violet-blue spikes late May–Oct; cut to the ground for winter",
+  "wildlife": "Strong bee and butterfly nectar plant through the long bloom season",
+  "deer": "Deer and rabbit resistant",
+  "toxic": "No significant toxicity reported",
+  "winter": false,
+  "verified": "2026-06-28",
+  "origin": "Garden hybrid (Eurasian Veronica longifolia/spicata parentage)",
+  "habitat": "n/a — garden hybrid (wild parents of damp meadows & grassland)",
+  "ph": {
+    "min": 6.0,
+    "ideal": 6.8,
+    "max": 7.5
+  },
+  "care": {
+    "hardiness": "Hardy across the Front Range — USDA zones 4–9, so it overwinters reliably here (Boulder is ~5b–6a). A vigorous sterile hybrid speedwell named the 1993 Perennial Plant of the Year for its toughness and long bloom; the one weakness is wet winter soil, which rots the crown, so sharp drainage matters more than cold for survival here.[1][2]",
+    "planting": "Set out nursery plants in spring after the mid-May average last frost, or in early fall to let roots establish before cold. Average, well-drained soil is all it needs — no special prep. In containers it makes a fine seasonal display in a fast-draining mix; potted crowns are far less cold-hardy than in-ground ones, so overwinter pots in an unheated garage or sink them in a protected bed.[1][2]",
+    "sun": "Full sun — six-plus hours — for the densest, most upright spikes and the heaviest bloom. It tolerates light afternoon shade, which can ease Boulder's hottest July stretches, but deep shade makes it flop and flower poorly.[1][2]",
+    "soil": "Average, medium-moisture, well-drained soil; Colorado's near-neutral to slightly alkaline loam suits it. Sharp drainage is the key requirement — it will not tolerate waterlogged or consistently wet ground, especially over winter, which causes crown and root rot.[1][2]",
+    "water": "Moderate. Water regularly through the first season to establish; afterward give it consistent, even moisture in summer heat — it is not a true xeric plant and the bloom suffers if it dries out badly. Avoid standing water around the crown in winter.[1][2]",
+    "spacing": "Space plants 12–18 in apart; they form compact upright clumps about 18–24 in tall in bloom and roughly 12–18 in wide. Good at the front to middle of a sunny border.[1][2]",
+    "propagation": "A sterile hybrid, so it is propagated vegetatively, not from seed. Divide the clump in spring every few years to keep it vigorous, or take basal/stem cuttings in late spring — both come true to the named plant, which seed would not.[1][2]",
+    "bloom": "Dense terminal spikes of dark violet-blue flowers from late May into October on the Front Range, with the heaviest flush in early summer. Removing spent spikes promptly is the single best way to keep new ones coming all season.[1][2]",
+    "feeding": "Light. A single spring application of balanced slow-release fertilizer is plenty; plants in average soil often need none. Avoid heavy nitrogen, which pushes floppy foliage at the expense of flowers.[1]",
+    "maintenance": "Deadhead spent spikes back to the next bud or the basal foliage to prolong bloom; this is the main task. After the main flush you can shear the whole clump back to basal growth to spur a fresh late-summer round. Cut remaining stems to the ground after frost and tidy in early spring. Divide every 3–4 years in spring to renew vigor.[1][2]",
+    "troubles": "No serious pests or diseases. Powdery mildew can appear in crowded, humid, or poorly aired plantings, and root/crown rot strikes in wet, poorly drained, or wet-winter soil — good airflow and sharp drainage prevent both.[1][2]"
+  },
+  "fact_src": {
+    "size": [
+      1,
+      2
+    ],
+    "sun": [
+      1,
+      2
+    ],
+    "water": [
+      1,
+      2
+    ],
+    "spread": [
+      1,
+      2
+    ],
+    "seasons": [
+      1,
+      2
+    ],
+    "wildlife": [
+      2
+    ],
+    "deer": [
+      1,
+      2
+    ],
+    "toxic": [
+      2
+    ],
+    "origin": [
+      1,
+      2
+    ],
+    "habitat": [
+      2
+    ],
+    "ph": [
+      2
+    ]
+  },
+  "edible": {
+    "level": "inedible",
+    "food": false,
+    "summary": "An ornamental speedwell with no documented edible use — not notably poisonous, but not a food plant, so don't eat it.[2]",
+    "caution": "Veronica 'Sunny Border Blue' is grown strictly as an ornamental and pollinator plant. Authoritative horticultural sources record no culinary use and no established edible part for this hybrid; it is not a recognized food. With no positive food record, treat it as a non-food plant and do not eat the flowers, foliage, or roots.[2]"
+  },
+  "references": [
+    {
+      "name": "Missouri Botanical Garden Plant Finder — Veronica 'Sunny Border Blue'",
+      "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=255662&isprofile=0"
+    },
+    {
+      "name": "NC State Extension Gardener Plant Toolbox — Veronica spicata",
+      "url": "https://plants.ces.ncsu.edu/plants/veronica-spicata/"
+    }
+  ],
+  "gaps": "Photos are species-representative spike speedwell (Veronica spicata, an upright violet-blue spike type and a parent of the 'Sunny Border Blue' hybrid) — no clean open-licensed photo of the named cultivar exists. The hybrid's denser, darker-blue spikes read essentially the same; foliage, habit, and winter seed-spikes are equivalent.",
+  "shots": [
+    {
+      "local": "images/su-flower-t.jpg",
+      "full": "images/su-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/59848303/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — a single crisp violet-blue flower spike face-on · © eugenezakharov (CC-BY-NC) / iNaturalist",
+      "by": "eugenezakharov",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/37716130"
+    },
+    {
+      "local": "images/su-flower2-t.jpg",
+      "full": "images/su-flower2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/102535208/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — a vivid violet-blue spike in close detail · © Wilhelm Richard BAIER (CC-BY-NC) / iNaturalist",
+      "by": "Wilhelm Richard BAIER",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/63843975"
+    },
+    {
+      "local": "images/su-mass-t.jpg",
+      "full": "images/su-mass.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/313497891/large.jpg",
+      "s": "summer",
+      "cap": "Summer — a stand of upright violet-blue spikes massing in dry grassland · © Terry Instone (CC-BY) / iNaturalist",
+      "by": "Terry Instone",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/180015956"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/100535533/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — a flowering clump of spikes amid grasses, showing its upright habit · © Joey Bom (CC-BY-NC) / iNaturalist",
+      "by": "Joey Bom",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/62718339"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/604198251/large.jpg",
+      "s": "summer",
+      "cap": "Summer — flower spike opening over the crinkled deep-green foliage · © agrostis (CC-BY-NC) / iNaturalist",
+      "by": "agrostis",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/332871988"
+    },
+    {
+      "local": "images/su-bloom-t.jpg",
+      "full": "images/su-bloom.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/317732103/large.jpg",
+      "s": "summer",
+      "cap": "Summer — lilac-blue spikes in full bloom · © Елена Ионина (CC-BY-NC) / iNaturalist",
+      "by": "Елена Ионина",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/182252165"
+    },
+    {
+      "local": "images/wi-winter-t.jpg",
+      "full": "images/wi-winter.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/607204924/large.jpg",
+      "s": "winter",
+      "cap": "Winter — dried, narrow seed-spikes standing as winter structure · © Yelena (CC-BY-NC) / iNaturalist",
+      "by": "Yelena",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/334373136"
+    }
+  ]
+}

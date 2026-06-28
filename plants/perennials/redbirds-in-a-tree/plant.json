@@ -1,0 +1,173 @@
+{
+  "common": "Redbirds in a tree",
+  "botanical": "Scrophularia macrantha",
+  "type": "Forb",
+  "lifecycle": "Perennial",
+  "native": "Non-native",
+  "flower_color": [
+    "red"
+  ],
+  "bloom": [
+    "summer",
+    "fall"
+  ],
+  "bloom_season": "Summer",
+  "aka": [
+    "New Mexico figwort",
+    "Mountain figwort"
+  ],
+  "blurb": "A rare penstemon cousin whose airy sprays of crimson tubular flowers look like tiny red birds perched in the branches — and pull in hummingbirds from June to frost. A long-lived, drought-tough New Mexico native for sun to part shade.",
+  "size": "~2.5–3 ft tall × ~1.5–2 ft wide",
+  "sun": "Full sun to part shade",
+  "water": "Low to moderate; xeric once established",
+  "spread": "Clumping; long-lived, not aggressive",
+  "seasons": "Mound of green foliage spring–fall; crimson flower sprays June into fall; tan seed stalks after bloom",
+  "wildlife": "Premier hummingbird plant; also bees and other pollinators",
+  "deer": "Not deer resistant",
+  "toxic": "",
+  "winter": false,
+  "verified": "2026-06-28",
+  "origin": "Mountains of west-central New Mexico",
+  "habitat": "Rocky canyon slopes & cliffs, ~5,000–8,000 ft",
+  "ph": {
+    "min": 6.0,
+    "ideal": 7.0,
+    "max": 8.0
+  },
+  "care": {
+    "hardiness": "Cold-hardy across the Front Range — USDA zones 4–9, hardy to roughly 8,000 ft, so Boulder's ~5b–6a winters are no obstacle in well-drained ground.[1]",
+    "planting": "Plant out in spring after the mid-May average last frost into average, well-drained soil; it accepts clay, loam, or sand. In containers use a fast-draining mix and avoid soggy winter pots, since potted crowns are far more prone to rot than plants in open ground.[1]",
+    "sun": "Full sun gives the most flowers, but it tolerates part shade — and a little afternoon shade is welcome through Boulder's hottest July stretches.[1]",
+    "soil": "Adaptable to clay, loam, or sandy soils of average fertility; the one firm requirement is good drainage, especially in winter, when wet soil rots the crown.[1]",
+    "water": "Low to moderate. Water regularly the first season to build a deep root system; once established it is drought-tolerant, needing only occasional deep soakings in prolonged dry spells.[1]",
+    "spacing": "Space about 18–24 in apart; mature plants form a clump roughly 2.5–3 ft tall and 1.5–2 ft wide.[1]",
+    "propagation": "Grow from its fine seed, or divide established clumps; deadheading early keeps the plant vigorous and curbs self-sowing.[1]",
+    "bloom": "Generous sprays of showy crimson, tubular hummingbird flowers from June through frost — one of the longest bloom seasons of any xeric perennial here. Deadhead early to boost vigor and prolong the show.[1]",
+    "feeding": "Light feeding only — a single balanced, slow-release application in spring is plenty. Over-fertilizing pushes leafy growth at the expense of flowers.[1]",
+    "maintenance": "Low. Cut the stems back to about 4–6 in in mid-spring as new growth emerges, and mulch with gravel or coarse mulch to keep the roots cool and conserve moisture; avoid wet winter conditions.[1]",
+    "troubles": "No serious pests or diseases reported; crown and root rot are the main risk in poorly drained or wet winter soil. It is not deer resistant, so protect it where deer browse.[1]",
+    "companions": "A standout hummingbird plant for water-wise borders and rock gardens — combine with penstemons, salvias, agastaches, and ornamental grasses in lean, sunny ground.[1]"
+  },
+  "references": [
+    {
+      "name": "Plant Select — Scrophularia macrantha (Redbirds in a Tree)",
+      "url": "https://plantselect.org/plant/scrophularia-macrantha/"
+    },
+    {
+      "name": "New Mexico Rare Plants — Scrophularia macrantha",
+      "url": "https://nmrareplants.unm.edu/node/165"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      1
+    ],
+    "sun": [
+      1
+    ],
+    "water": [
+      1
+    ],
+    "spread": [
+      1
+    ],
+    "seasons": [
+      1
+    ],
+    "wildlife": [
+      1
+    ],
+    "deer": [
+      1
+    ],
+    "origin": [
+      1,
+      2
+    ],
+    "habitat": [
+      1,
+      2
+    ],
+    "ph": [
+      1
+    ]
+  },
+  "edible": {
+    "level": "inedible",
+    "food": false,
+    "summary": "A figwort grown strictly as an ornamental hummingbird plant — no documented edible use, so don't eat it.[1]",
+    "caution": "Scrophularia macrantha is grown only as an ornamental and pollinator plant; authoritative sources record no culinary use and no safe edible preparation for any part. Figworts (genus Scrophularia) have a history of external/topical folk-medicine use, not food use — treat this as a non-food plant and do not eat the flowers, foliage, or roots.[1]"
+  },
+  "shots": [
+    {
+      "local": "images/su-flower-t.jpg",
+      "full": "images/su-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/224580348/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — cluster of crimson tubular 'redbird' flowers face-on · © Andrew Tree (CC-BY) / iNaturalist",
+      "by": "Andrew Tree",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/131926098"
+    },
+    {
+      "local": "images/su-flower2-t.jpg",
+      "full": "images/su-flower2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553930578/large.jpg",
+      "s": "summer",
+      "cap": "Summer — crimson flower spike against a dark background · © Matt Becker (CC-BY-NC) / iNaturalist",
+      "by": "Matt Becker",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/307133951"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/137151275/large.jpg",
+      "s": "summer",
+      "cap": "Summer — whole flowering plant in the garden · © honeysis (CC-BY-NC) / iNaturalist",
+      "by": "honeysis",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/83503825"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/414413301/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — flowers over readable green foliage · © Michael Shoop (CC-BY-NC) / iNaturalist",
+      "by": "Michael Shoop",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/233202173"
+    },
+    {
+      "local": "images/su-bloom-t.jpg",
+      "full": "images/su-bloom.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/430428832/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — airy spray of crimson flowers, how it reads in the border · © Andrew Tree (CC-BY) / iNaturalist",
+      "by": "Andrew Tree",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/241508096"
+    },
+    {
+      "local": "images/fa-seedhead-t.jpg",
+      "full": "images/fa-seedhead.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/418370349/large.jpg",
+      "s": "fall",
+      "cap": "Late season — branched spray going to seed after bloom · © willem9 (CC-BY-NC) / iNaturalist",
+      "by": "willem9",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/235263290"
+    },
+    {
+      "local": "images/su-context-t.jpg",
+      "full": "images/su-context.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/76949452/large.jpg",
+      "s": "summer",
+      "cap": "Summer — flowering spikes in rocky habitat · © iNaturalist (CC0) · © no rights reserved (CC0) / iNaturalist",
+      "by": "no rights reserved",
+      "lic": "CC0",
+      "link": "https://www.inaturalist.org/observations/9296003"
+    }
+  ]
+}

@@ -1,0 +1,203 @@
+{
+  "collection": "bee-balms",
+  "common": "Lemon bee balm",
+  "botanical": "Monarda citriodora",
+  "aka": [
+    "Lemon mint",
+    "Lemon beebalm",
+    "Purple horsemint"
+  ],
+  "type": "Forb",
+  "lifecycle": "Annual",
+  "native": "Non-native",
+  "flower_color": [
+    "purple",
+    "pink",
+    "white"
+  ],
+  "bloom": [
+    "summer"
+  ],
+  "bloom_season": "Summer",
+  "blurb": "A lemon-scented annual bee balm whose stems stack tier upon tier of tubular pink-to-lavender flowers between showy bracts, like a pagoda. Easy from seed, it self-sows into colonies and draws clouds of bees, butterflies and hummingbirds.",
+  "size": "1–3 ft tall × 8–12 in wide",
+  "sun": "Full sun to part shade",
+  "water": "Low to moderate; drought-tolerant once established",
+  "spread": "Upright annual; self-sows freely into colonies",
+  "seasons": "Lemon-scented foliage rosette through spring; tiered pink-lavender-white flower whorls early–midsummer; tan tiered seed spikes after",
+  "wildlife": "Magnet for bees, butterflies and hummingbirds; a top nectar annual",
+  "deer": "Deer and rabbit resistant",
+  "toxic": "",
+  "winter": false,
+  "verified": "2026-06-28",
+  "origin": "South-central US (TX, OK, KS, NM) & N Mexico",
+  "habitat": "Prairies, glades & open ground on limestone",
+  "ph": {
+    "min": 6.0,
+    "ideal": 6.8,
+    "max": 7.8
+  },
+  "care": {
+    "hardiness": "Grown as a warm-season annual here — it completes its cycle in one season and is killed by frost, so winter-hardiness is moot; it reliably self-sows where it's happy, returning from dropped seed each spring.[1][2]",
+    "planting": "Direct-sow or transplant out in spring after the mid-May average last frost into average, well-drained ground; it also takes a fall sowing that germinates the next spring. In containers use a free-draining mix and full sun — it makes an easy, airy pot annual; no overwintering is needed since the plant dies at frost (just let a few seedheads ripen to reseed).[1][2]",
+    "sun": "Full sun (6+ hours) for the fullest, most colorful tiered spikes; it tolerates light afternoon shade but blooms thinner in deeper shade.[1][2]",
+    "soil": "Easy and unfussy — prefers rocky limestone or sandy-loam soil but adapts to most well-drained ground, including Boulder's leaner alkaline soils (about pH 6.0–7.8). Good drainage matters more than fertility; it dislikes soggy ground.[1][2]",
+    "water": "Low to moderate and drought-tolerant once up — water to establish seedlings, then only in extended heat; tolerant of occasionally dry soil, which suits our semi-arid summers.[1][2]",
+    "spacing": "Thin or space plants about 10–12 in apart — slender uprights that don't need much room — keeping the stand open for airflow against mildew.[1][2]",
+    "propagation": "Almost always grown from seed: surface-sow (the seed wants light) in fall or early spring, and it germinates readily; once established it self-seeds freely into colonies. Let a few spent spikes ripen and scatter to keep it coming back.[1][2]",
+    "bloom": "Tiers of tubular two-lipped lavender-to-pink (sometimes white) flowers stacked between purple-tinged bracts, spring into midsummer — roughly June–July here; deadheading prolongs it, but leave some heads to self-sow.[1][2]",
+    "feeding": "Little to none — average soil is plenty; rich feeding makes soft, lanky, mildew-prone growth.[2]",
+    "maintenance": "Very low: an annual that needs only thinning for airflow and optional deadheading. Pull or thin volunteer seedlings in spring to keep the colony in bounds; clear frost-killed stems in fall, leaving a few seedheads to reseed.[1][2]",
+    "selfsow": "Self-sows freely and forms colonies where happy; deadhead before seed-set or thin the spring volunteers to control its spread, and site it where a drift is welcome.[1][2]",
+    "troubles": "Powdery mildew is the genus's signature problem, worst in shade, crowding or still air — give it full sun, lean well-drained soil and open spacing to prevent it; otherwise nearly trouble-free and deer/rabbit resistant.[1][2]",
+    "companions": "A long-blooming nectar annual for sunny pollinator borders, meadows and cottage plantings — pair with other prairie annuals, salvias and grasses.[1][2]"
+  },
+  "references": [
+    {
+      "name": "NC State Extension Gardener Plant Toolbox — Monarda citriodora",
+      "url": "https://plants.ces.ncsu.edu/plants/monarda-citriodora/"
+    },
+    {
+      "name": "Lady Bird Johnson Wildflower Center — Monarda citriodora (Lemon beebalm)",
+      "url": "https://www.wildflower.org/plants/result.php?id_plant=moci"
+    },
+    {
+      "name": "USDA NRCS PLANTS Database — Monarda citriodora",
+      "url": "https://plants.usda.gov/plant-profile/MOCI"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      1,
+      2
+    ],
+    "sun": [
+      1,
+      2
+    ],
+    "water": [
+      1,
+      2
+    ],
+    "spread": [
+      1,
+      2
+    ],
+    "seasons": [
+      1,
+      2
+    ],
+    "wildlife": [
+      1,
+      2
+    ],
+    "deer": [
+      1
+    ],
+    "origin": [
+      2,
+      3
+    ],
+    "habitat": [
+      2
+    ],
+    "ph": [
+      1
+    ]
+  },
+  "edible": {
+    "level": "edible",
+    "food": true,
+    "kinds": [
+      "leaves",
+      "flowers"
+    ],
+    "card": "Leaves & flowers — lemon-mint tea",
+    "summary": "A lemon-scented mint-family herb — the citrusy leaves and flowers make a refreshing tea and a flavoring for salads and cooked dishes.[1][2]",
+    "parts": "The aromatic leaves and flowers are the edible parts, prized for a distinct lemon-mint scent and flavor.[1][2]",
+    "preparation": "Use leaves and flowers raw or cooked — steep them fresh or dried for a lemony tea, scatter the flowers over salads as an edible garnish, or chop the leaves to season cooked foods. Harvest at peak bloom when the oils are strongest.[1][2]",
+    "caution": "A recognized culinary aromatic with no notable toxicity, but it is strongly flavored — use as a seasoning/tea rather than a bulk food, and confirm the lemon-scented identity before eating. Those sensitive to mint-family herbs should sample cautiously.[1][2]"
+  },
+  "shots": [
+    {
+      "local": "images/su-flower-t.jpg",
+      "full": "images/su-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/71561370/large.jpg",
+      "s": "summer",
+      "cap": "Summer — face-on tiered pink-lavender flower whorl · © Alex Abair (CC-BY) / iNaturalist",
+      "by": "Alex Abair",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/45136325"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/41697248/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — whole plant, stacked pagoda tiers of bloom · © Davyd Walker (CC-BY-NC) / iNaturalist",
+      "by": "Davyd Walker",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/26837600"
+    },
+    {
+      "local": "images/su-bloom-t.jpg",
+      "full": "images/su-bloom.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/199148349/large.jpg",
+      "s": "summer",
+      "cap": "Summer — a colony of lemon bee balm in full bloom · © dirtwoman (CC-BY-NC) / iNaturalist",
+      "by": "dirtwoman",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/117898831"
+    },
+    {
+      "local": "images/su-flower2-t.jpg",
+      "full": "images/su-flower2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/273019080/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — pale, white-bracted flower tier close-up · © Carlos G Velazco-Macias (CC-BY-NC) / iNaturalist",
+      "by": "Carlos G Velazco-Macias",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/157938548"
+    },
+    {
+      "local": "images/su-context-t.jpg",
+      "full": "images/su-context.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/286650119/large.jpg",
+      "s": "summer",
+      "cap": "Summer — tiered flower spires in open prairie habitat · © Annabelle Corboy (CC-BY-NC) / iNaturalist",
+      "by": "Annabelle Corboy",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/165587567"
+    },
+    {
+      "local": "images/sp-foliage-t.jpg",
+      "full": "images/sp-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/492625142/large.jpg",
+      "s": "spring",
+      "cap": "Spring — young plant showing the lance-shaped lemon-scented leaves · © Owen D. (CC-BY-NC) / iNaturalist",
+      "by": "Owen D.",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/273975037"
+    },
+    {
+      "local": "images/fa-seedhead-t.jpg",
+      "full": "images/fa-seedhead.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/274491227/large.jpeg",
+      "s": "fall",
+      "cap": "Fall — dried tiered seed spike after bloom · © Alejandra Peña Estrada (CC-BY-NC) / iNaturalist",
+      "by": "Alejandra Peña Estrada",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/158863897"
+    },
+    {
+      "local": "images/su-whorl-t.jpg",
+      "full": "images/su-whorl.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/196778005/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — detail of a flower whorl between leafy bracts · © saltyhiker (CC-BY) / iNaturalist",
+      "by": "saltyhiker",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/116567064"
+    }
+  ]
+}

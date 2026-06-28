@@ -1,0 +1,121 @@
+[
+  {
+    "file": "images/su-flower.jpg",
+    "photo_id": 164397554,
+    "by": "Thomas Dreux",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/photos/164397554",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  },
+  {
+    "file": "images/su-habit.jpg",
+    "photo_id": 51159971,
+    "by": "chimonanthus",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/photos/51159971",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  },
+  {
+    "file": "images/su-bloom.jpg",
+    "photo_id": 167464329,
+    "by": "Sergey Eliseev",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/photos/167464329",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      1400
+    ],
+    "thumb_px": [
+      400,
+      400
+    ]
+  },
+  {
+    "file": "images/su-mass.jpg",
+    "photo_id": 159335535,
+    "by": "aspro",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/photos/159335535",
+    "dataset": "iNaturalist open data",
+    "render": "large",
+    "full_px": [
+      768,
+      1024
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  },
+  {
+    "file": "images/su-white.jpg",
+    "photo_id": 165994987,
+    "by": "Gianni Del Bufalo",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/photos/165994987",
+    "dataset": "iNaturalist open data",
+    "render": "large",
+    "full_px": [
+      1023,
+      1024
+    ],
+    "thumb_px": [
+      400,
+      400
+    ]
+  },
+  {
+    "file": "images/su-foliage.jpg",
+    "photo_id": 317651412,
+    "by": "joaquinguinea",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/photos/317651412",
+    "dataset": "iNaturalist open data",
+    "render": "large",
+    "full_px": [
+      843,
+      1024
+    ],
+    "thumb_px": [
+      329,
+      400
+    ]
+  },
+  {
+    "file": "images/fa-context.jpg",
+    "photo_id": 583256310,
+    "by": "biokovo78",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/photos/583256310",
+    "dataset": "iNaturalist open data",
+    "render": "large",
+    "full_px": [
+      767,
+      1024
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  }
+]

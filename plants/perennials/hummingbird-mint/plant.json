@@ -1,0 +1,192 @@
+{
+  "common": "Hummingbird mint",
+  "botanical": "Agastache cana",
+  "type": "Forb",
+  "lifecycle": "Perennial",
+  "native": "Non-native",
+  "flower_color": [
+    "pink",
+    "purple"
+  ],
+  "bloom": [
+    "summer",
+    "fall"
+  ],
+  "bloom_season": "Summer",
+  "aka": [
+    "Texas hummingbird mint",
+    "Mosquito plant",
+    "Bubblegum mint"
+  ],
+  "blurb": "An upright, aromatic mint topped from late summer into fall with spikes of tubular raspberry-pink flowers that hummingbirds and bees mob; crush a leaf and it smells of bubblegum. Xeric, deer-proof, and built for lean, sun-baked Front Range ground.",
+  "size": "~2–3 ft tall × ~1.5–2 ft wide",
+  "sun": "Full sun",
+  "water": "Low; xeric once established — avoid wet feet",
+  "spread": "Clumping; self-sows modestly",
+  "seasons": "Aromatic gray-green foliage spring–fall; raspberry-pink flower spikes late summer into fall; tan seed spikes stand into winter",
+  "wildlife": "Premier hummingbird plant; also bumblebees and other native bees",
+  "deer": "Deer and rabbit resistant",
+  "toxic": "",
+  "winter": false,
+  "verified": "2026-06-28",
+  "origin": "S New Mexico, W Texas & N Mexico (Chihuahua)",
+  "habitat": "Rocky desert-mountain slopes, granite-cliff crevices & canyons, ~5,000–6,000 ft",
+  "ph": {
+    "min": 6.0,
+    "ideal": 7.0,
+    "max": 7.8
+  },
+  "care": {
+    "hardiness": "Reliably cold-hardy across the Front Range — USDA zones 5–9 (Boulder is ~5b–6a), enduring temperatures to about −20°F where it has the sharp drainage it demands.[1][2]",
+    "planting": "Plant out in spring after the mid-May average last frost into lean, fast-draining ground; give it the hottest, best-drained spot you have and do not amend with rich compost. It grows well in containers when garden soil is too heavy — use a gritty, fast-draining mix, never let the pot stay wet, and overwinter potted crowns in a protected spot, since roots in a pot are far less cold-hardy than in open ground.[1][2]",
+    "sun": "Full sun — six-plus hours — for dense, upright, well-colored flower spikes; it flops and blooms shyly in shade.[1][2]",
+    "soil": "Wants lean, sharply drained soil with a near-neutral pH; thrives on dry, rocky, low-fertility ground and resents Boulder's heavy wet clay, where the crown rots. Do not over-amend.[1][2]",
+    "water": "Low and xeric once established — water new transplants regularly the first season, then taper to deep, infrequent soakings. Overwatering, especially in poorly drained soil, is the main way to kill it.[1][2]",
+    "spacing": "Space about 18 in apart; clumps reach roughly 2–3 ft tall and 1.5–2 ft wide.[2]",
+    "propagation": "Grow from seed started indoors 6–8 weeks before the last frost at about 55–65°F, or direct-sow after frost; it also self-sows modestly. To clone a plant, take softwood cuttings from non-flowering shoots in late spring/early summer, or divide an established clump in early spring.[1][3]",
+    "bloom": "Spikes of tubular, sweetly bubblegum-scented raspberry-pink to lavender-pink flowers from late summer into fall (about July–September here) — peak nectar just as many summer perennials fade. Deadhead spent spikes to neaten and prolong bloom.[1][2]",
+    "feeding": "No regular feeding needed in normal soil; if anything, a single light application in fall. Rich feeding produces floppy, short-lived growth.[2]",
+    "maintenance": "Low. Leave the stems standing over winter — they shelter the crown and improve hardiness — then cut old growth back to about 4–5 in above the ground in mid-spring as new shoots emerge.[2]",
+    "troubles": "Few pests or diseases; the real risk is root and crown rot in wet, poorly drained, or over-amended soil. Sharp drainage and restraint with water prevent it.[1][2]",
+    "companions": "A hummingbird magnet for hot, dry borders and rock gardens — pair with other xeric, lean-soil plants such as penstemons, salvias, and ornamental grasses.[2]"
+  },
+  "references": [
+    {
+      "name": "North Carolina Extension Gardener Plant Toolbox — Agastache (Hummingbird Mint)",
+      "url": "https://plants.ces.ncsu.edu/plants/agastache/"
+    },
+    {
+      "name": "Lady Bird Johnson Wildflower Center — Agastache cana",
+      "url": "https://www.wildflower.org/plants/result.php?id_plant=agca8"
+    },
+    {
+      "name": "Wikipedia — Agastache cana",
+      "url": "https://en.wikipedia.org/wiki/Agastache_cana"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      1,
+      2
+    ],
+    "sun": [
+      1,
+      2
+    ],
+    "water": [
+      1,
+      2
+    ],
+    "spread": [
+      1,
+      3
+    ],
+    "seasons": [
+      1,
+      2
+    ],
+    "wildlife": [
+      1,
+      2,
+      3
+    ],
+    "deer": [
+      1
+    ],
+    "origin": [
+      2,
+      3
+    ],
+    "habitat": [
+      2,
+      3
+    ],
+    "ph": [
+      1
+    ]
+  },
+  "edible": {
+    "level": "caution",
+    "food": true,
+    "kinds": [
+      "leaves"
+    ],
+    "card": "Leaves — minty/bubblegum tea",
+    "summary": "Grown mainly as an ornamental hummingbird plant; the aromatic leaves (and dried flowers) are used to brew a minty herbal tea and flavor dishes.[3]",
+    "parts": "The aromatic leaves and dried flower petals are the parts used — steeped fresh or dried for a mint-and-bubblegum-scented herbal tea, or used in small amounts to add a minty note to cooking.[3]",
+    "preparation": "Use the leaves and dried flowers as a flavoring or tea, not as a vegetable — steep a few clean leaves in hot water. This is a culinary/herbal-tea use of a fragrant mint, not a bulk food.[3]",
+    "caution": "Agastache cana is grown chiefly as an ornamental, and its food use is limited to leaves and dried flowers as a mint-like tea/flavoring — there is no documented edible use for any other part, so don't eat the roots, stems, or seeds. As with any aromatic mint-family herb, use it in modest culinary amounts and be confident of the identification before brewing.[3]"
+  },
+  "shots": [
+    {
+      "local": "images/su-flower-t.jpg",
+      "full": "images/su-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/172501784/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — raspberry-pink tubular flower spike face-on · © Joey Santore (CC-BY-NC) / iNaturalist",
+      "by": "Joey Santore",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/103109413"
+    },
+    {
+      "local": "images/su-flower2-t.jpg",
+      "full": "images/su-flower2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/172494125/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — flower spike against a dark background · © Joey Santore (CC-BY-NC) / iNaturalist",
+      "by": "Joey Santore",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/103105590"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/172494070/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — aromatic gray-green mint foliage (rounded, toothed leaves) · © Joey Santore (CC-BY-NC) / iNaturalist",
+      "by": "Joey Santore",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/103105590"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/162823422/large.jpg",
+      "s": "summer",
+      "cap": "Summer — whole xeric plant on a rocky desert-mountain slope · © Kevin Floyd (CC-BY) / iNaturalist",
+      "by": "Kevin Floyd",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/97861136"
+    },
+    {
+      "local": "images/su-context-t.jpg",
+      "full": "images/su-context.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/240416146/large.jpg",
+      "s": "summer",
+      "cap": "Summer — plant rooted in a rock crevice in its native habitat · © Kevin Floyd (CC-BY) / iNaturalist",
+      "by": "Kevin Floyd",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/140449114"
+    },
+    {
+      "local": "images/su-bloom-t.jpg",
+      "full": "images/su-bloom.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/232395938/large.jpg",
+      "s": "summer",
+      "cap": "Summer — whole flowering plant against rock, showing pink spikes over foliage · © nikkiro (CC-BY-NC) / iNaturalist",
+      "by": "nikkiro",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/136190354"
+    },
+    {
+      "local": "images/su-flowercluster-t.jpg",
+      "full": "images/su-flowercluster.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/232395869/large.jpg",
+      "s": "summer",
+      "cap": "Summer — close cluster of pink flowers and buds with foliage · © nikkiro (CC-BY-NC) / iNaturalist",
+      "by": "nikkiro",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/136190354"
+    }
+  ]
+}

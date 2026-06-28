@@ -1,0 +1,187 @@
+{
+  "common": "Red prairie coneflower",
+  "botanical": "Ratibida columnifera f. pulcherrima",
+  "aka": [
+    "Mexican hat (red form)",
+    "Ratibida columnifera var. pulcherrima"
+  ],
+  "type": "Forb",
+  "lifecycle": "Perennial",
+  "native": "CO native",
+  "bloom_season": "Summer",
+  "flower_color": [
+    "red",
+    "yellow"
+  ],
+  "bloom": [
+    "summer",
+    "fall"
+  ],
+  "blurb": "The mahogany-red form of our native Mexican hat — drooping velvety crimson rays, often edged or tipped in gold, hung beneath a tall sombrero cone. Just as drought-tough and bee-worked as the yellow species, with deeper color all summer.",
+  "size": "~1–2.5 ft tall × 1 ft wide",
+  "sun": "Full sun",
+  "water": "Low; xeric once established",
+  "spread": "Clumping; self-sows readily",
+  "seasons": "Mahogany-red (gold-tipped) sombrero flowers early summer–fall; ferny gray-green foliage; dark seed cones into winter",
+  "wildlife": "Bees and butterflies; seeds for birds",
+  "deer": "Deer resistant",
+  "toxic": "No documented toxicity to people or pets; a traditional leaf/flower-head tea is recorded but is a folk medicinal use, not an established food",
+  "winter": false,
+  "verified": "2026-06-28",
+  "ph": {
+    "min": 6.0,
+    "ideal": 7.2,
+    "max": 8.2
+  },
+  "care": {
+    "hardiness": "Very cold-hardy — rated to about USDA zone 4, so Boulder's zone 5b–6a winters pose no problem for this drought-tough prairie native. The red form is the same species as the yellow and is grown identically.[1][2]",
+    "planting": "Plant container stock in spring after the mid-May last frost or in early fall; it establishes fast and often blooms its first or second year. In containers use a gritty, free-draining mix and don't overwater — it sulks in soggy soil. Once sited it self-sows to renew itself.[1][2]",
+    "sun": "Full sun. It thrives in open, blazing exposure on lean ground, exactly the prairie and roadside conditions it grows wild in.[1][2]",
+    "soil": "Average, dry to medium, well-drained soil; tolerant of shallow rocky and calcareous ground but intolerant of moist, heavy clay. On Boulder's clay, plant high and amend for drainage rather than richness.[2]",
+    "water": "Low; highly drought-tolerant once established. Little to no supplemental water needed in our semi-arid climate after the first season.[1][2]",
+    "spacing": "Space roughly 12–18 inches apart to allow the clumps room; it reseeds to fill gaps.[2]",
+    "propagation": "Very easy from seed and the practical method — it has a taproot and is best not divided. Sow in spring or fall; seedlings typically won't flower until their second year. Note that the red form does not come fully true from seed: a stand of f. pulcherrima yields mostly red and bicolor seedlings but some revert to yellow, so rogue out or simply enjoy the mix. Let cones dry to brown on the plant for self-seeding or seed collection.[1][2]",
+    "sow": "Direct-sow in spring or fall; germination is easy and needs only light cover. Plants flower the second year from seed.[1][2]",
+    "stratify": "A cold-moist period helps — about 9 weeks at ~40°F improves germination of stored seed; fall sowing supplies it naturally.[1]",
+    "bloom": "Long bloom from early summer into fall — roughly June into September, and later if moisture allows — in drooping mahogany-red (often gold-edged) rays around a tall central cone.[1][2]",
+    "maintenance": "Low to medium; deadhead to prolong bloom or leave cones to dry for self-seeding and birds. No serious pests or diseases.[1][2]",
+    "selfsow": "Reseeds readily where soil is open; let the cones turn dry and brown before cutting back so seed can mature and drop. Seedlings vary in color (see propagation).[1]",
+    "troubles": "Few problems; rots only in wet heavy clay, and is otherwise pest- and disease-free.[2]"
+  },
+  "fact_src": {
+    "size": [
+      1,
+      2
+    ],
+    "sun": [
+      1,
+      2
+    ],
+    "water": [
+      1,
+      2
+    ],
+    "spread": [
+      2
+    ],
+    "seasons": [
+      1,
+      2
+    ],
+    "wildlife": [
+      1
+    ],
+    "deer": [
+      1
+    ],
+    "toxic": [
+      3
+    ],
+    "ph": [
+      2
+    ]
+  },
+  "edible": {
+    "level": "caution",
+    "food": false,
+    "summary": "Not a recommended food. A traditional tea was brewed from the leaves and flower heads, but that is a documented folk-medicinal use, not established food safety.[3]",
+    "caution": "Several Native American peoples brewed a beverage/medicinal tea from the leaves and flower heads of prairie coneflower, and applied leaf-and-stem washes externally. That ethnobotanical use is not the same as proven food safety, so this guide treats the plant as caution rather than a casual edible — don't rely on it as food. It is not documented as notably poisonous to people or pets, but there is no reason to eat it.[3]"
+  },
+  "references": [
+    {
+      "name": "Lady Bird Johnson Wildflower Center — Ratibida columnifera (Mexican hat)",
+      "url": "https://www.wildflower.org/plants/result.php?id_plant=raco3"
+    },
+    {
+      "name": "Missouri Botanical Garden Plant Finder — Ratibida columnifera",
+      "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=277224"
+    },
+    {
+      "name": "Ratibida columnifera — ethnobotanical leaf/flower-head tea & external washes (folk-medicinal use)",
+      "url": "https://en.wikipedia.org/wiki/Ratibida_columnifera"
+    }
+  ],
+  "shots": [
+    {
+      "local": "images/su-flower-t.jpg",
+      "full": "images/su-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/418913306/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — the red-and-gold sombrero flower face-on · © laurasare (CC-BY-NC) / iNaturalist",
+      "by": "laurasare",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/photos/418913306"
+    },
+    {
+      "local": "images/su-mass-t.jpg",
+      "full": "images/su-mass.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/532045714/large.jpg",
+      "s": "summer",
+      "cap": "Summer — a mahogany-and-gold drift of the red form · © H R (CC-BY-NC) / iNaturalist",
+      "by": "H R",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/photos/532045714"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/19903496/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — a red flower nodding on its wiry stem · © Karla Dickman (CC-BY-NC) / iNaturalist",
+      "by": "Karla Dickman",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/photos/19903496"
+    },
+    {
+      "local": "images/su-cone-t.jpg",
+      "full": "images/su-cone.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/316968710/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — the tall columnar sombrero cone with drooping rays · © Anders Hastings (CC-BY) / iNaturalist",
+      "by": "Anders Hastings",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/photos/316968710"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/685267879/large.jpg",
+      "s": "summer",
+      "cap": "Summer — finely dissected ferny gray-green foliage · © Becca Lee (CC-BY-NC) / iNaturalist",
+      "by": "Becca Lee",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/photos/685267879"
+    },
+    {
+      "local": "images/su-clump-t.jpg",
+      "full": "images/su-clump.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/408600589/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — a clump in context, flowers and developing cones together · © Lorraine Lanning (CC-BY-NC) / iNaturalist",
+      "by": "Lorraine Lanning",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/photos/408600589"
+    },
+    {
+      "local": "images/su-bicolor-t.jpg",
+      "full": "images/su-bicolor.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/13559750/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — red rays banded in gold, the classic bicolor · © botanygirl (CC-BY) / iNaturalist",
+      "by": "botanygirl",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/photos/13559750"
+    },
+    {
+      "local": "images/fa-seedhead-t.jpg",
+      "full": "images/fa-seedhead.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/638488607/large.jpg",
+      "s": "fall",
+      "cap": "Fall — dried columnar seed cones standing in dry grass · © evie94278 (CC-BY-NC) / iNaturalist",
+      "by": "evie94278",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/photos/638488607"
+    }
+  ],
+  "commons": ""
+}

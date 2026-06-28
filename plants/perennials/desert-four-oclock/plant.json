@@ -1,0 +1,177 @@
+{
+  "common": "Desert four o'clock",
+  "botanical": "Mirabilis multiflora",
+  "type": "Forb",
+  "lifecycle": "Perennial",
+  "native": "CO native",
+  "flower_color": [
+    "purple",
+    "pink"
+  ],
+  "bloom": [
+    "summer",
+    "fall"
+  ],
+  "bloom_season": "Summer",
+  "aka": [
+    "Colorado four o'clock",
+    "Manyflowered four o'clock"
+  ],
+  "blurb": "A sprawling, fleshy-leaved native mound that erupts each afternoon with dozens of large magenta trumpets — opening at dusk for hawkmoths and closing by midday. Bone-dry tough, fed by a massive woody taproot, it returns bigger every year.",
+  "size": "~1.5–2 ft tall × 3–4+ ft wide (low mound)",
+  "sun": "Full sun to part shade",
+  "water": "Low; xeric — needs no water once established",
+  "spread": "Clumping mound from a deep taproot; not aggressive",
+  "seasons": "Blue-green fleshy foliage emerging purple in spring; magenta evening flowers summer into fall; dies back to the ground in winter",
+  "wildlife": "Night-blooming for hawk/sphinx moths; also dusk-and-dawn bees and hummingbirds",
+  "deer": "Generally left alone (deer/rabbit resistant)",
+  "toxic": "Roots contain bioactive compounds historically used medicinally; not a food",
+  "winter": false,
+  "verified": "2026-06-28",
+  "ph": {
+    "min": 6.5,
+    "ideal": 7.5,
+    "max": 8.2
+  },
+  "care": {
+    "hardiness": "Fully cold-hardy on the Front Range — USDA zones 4–8 and hardy to about 8,000 ft, so it sails through Boulder winters, dying back to its woody taproot and re-emerging each spring.[1][2]",
+    "planting": "Plant out in spring after the mid-May average last frost into lean, well-drained ground; site it where its eventual 3–4 ft spread has room and where it can stay put, as the deep taproot resents being moved once established. It can be started in deep containers but transplants best while young, before the taproot bulks up.[1][2]",
+    "sun": "Full sun to part shade — it blooms heavily in full sun but naturally grows in the partial shade of desert shrubs and trees and takes afternoon shade well.[2][3]",
+    "soil": "Wants dry, gravelly or sandy, well-drained soil; it is adapted to lean, rocky ground and tolerates Boulder's alkaline clay as long as drainage is sharp.[2][3]",
+    "water": "Xeric — needs no supplemental water once established, though it tolerates occasional irrigation. Established plants thrive on natural rainfall; avoid keeping the crown wet.[1][2]",
+    "spacing": "Give it room: space about 3–4 ft apart, as a mature plant forms a low mound up to 3–4 ft across from a single crown.[1][2]",
+    "propagation": "Grow from seed (an overnight soak or light scarification speeds germination); it also forms a large taproot/caudex over time. Transplant or divide only while young — the deep taproot makes established plants very hard to move.[2][3]",
+    "bloom": "A profusion of deep magenta-pink, broadly tubular trumpets, 1–2 in across, from early summer into fall (about June–September here). Flowers open late in the afternoon and wither by the next midday — opening sooner and staying open longer on cloudy days.[1][3]",
+    "feeding": "No feeding needed — a lean-soil native that grows lush and shy-flowering if over-fed or over-watered.[2]",
+    "maintenance": "Very low. Leave it be through the season; cut the frost-killed top growth back to the ground in late fall or early spring. It needs no staking, deadheading, or division.[1][2]",
+    "troubles": "Essentially trouble-free — no significant pests or diseases. Its main failings come from too much water or poor drainage; in rich, wet ground it grows floppy and can rot.[1][2]"
+  },
+  "references": [
+    {
+      "name": "USDA Forest Service — Mirabilis multiflora (Colorado Four O'Clock), Plant of the Week",
+      "url": "https://www.fs.usda.gov/wildflowers/plant-of-the-week/mirabilis_multiflora.shtml"
+    },
+    {
+      "name": "Utah State University Extension — Range Plants: Four O'Clock",
+      "url": "https://extension.usu.edu/rangeplants/forbs-herbaceous/four-oclock"
+    },
+    {
+      "name": "Lady Bird Johnson Wildflower Center — Mirabilis multiflora",
+      "url": "https://www.wildflower.org/plants/result.php?id_plant=mimu"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      1,
+      3
+    ],
+    "sun": [
+      2,
+      3
+    ],
+    "water": [
+      1,
+      2
+    ],
+    "spread": [
+      1,
+      2
+    ],
+    "seasons": [
+      1,
+      3
+    ],
+    "wildlife": [
+      1,
+      3
+    ],
+    "deer": [
+      2
+    ],
+    "toxic": [
+      1,
+      3
+    ],
+    "ph": [
+      2
+    ]
+  },
+  "edible": {
+    "level": "caution",
+    "food": false,
+    "summary": "Not a food plant — its large taproot carries bioactive compounds that Native peoples used medicinally and as a vision-inducing/appetite-suppressing preparation, not as everyday food.[1][3]",
+    "caution": "Desert four o'clock is grown as an ornamental and is not a recognized edible. Its big woody taproot contains bioactive compounds: Indigenous peoples used the root as medicine — Navajo as a tea/poultice for swelling and rheumatism, Hopi to induce visions during diagnosis, and Zuni powdered into bread as an appetite suppressant — i.e. it was used for its physiological (narcotic/medicinal) effects, not as ordinary food. Do not eat the roots or any part of the plant; these are documented medicinal/ritual uses by knowledgeable practitioners, not a safe culinary preparation.[1][3]"
+  },
+  "shots": [
+    {
+      "local": "images/su-flower-t.jpg",
+      "full": "images/su-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/401407974/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — large magenta trumpet flowers face-on with yellow stamens · © Jim Bromberg (CC-BY-NC) / iNaturalist",
+      "by": "Jim Bromberg",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/226342111"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/158078365/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — whole mounded plant in full magenta bloom · © Adriano Tsinigine (CC-BY-NC) / iNaturalist",
+      "by": "Adriano Tsinigine",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/95234778"
+    },
+    {
+      "local": "images/su-bloom-t.jpg",
+      "full": "images/su-bloom.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/225228281/large.jpg",
+      "s": "summer",
+      "cap": "Summer — flowering mound of blue-green foliage and magenta trumpets · © astrodude (CC-BY-NC) / iNaturalist",
+      "by": "astrodude",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/128721732"
+    },
+    {
+      "local": "images/su-flowerfoliage-t.jpg",
+      "full": "images/su-flowerfoliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/150186317/large.jpg",
+      "s": "summer",
+      "cap": "Summer — flowers over the fleshy blue-green ovate leaves · © d_smels (CC-BY-NC) / iNaturalist",
+      "by": "d_smels",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/90847652"
+    },
+    {
+      "local": "images/su-context-t.jpg",
+      "full": "images/su-context.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/129786131/large.jpg",
+      "s": "summer",
+      "cap": "Summer — low flowering mound beneath a desert tree in its native habitat · © Erik Hendrickson (CC-BY-NC) / iNaturalist",
+      "by": "Erik Hendrickson",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/79247253"
+    },
+    {
+      "local": "images/sp-foliage-t.jpg",
+      "full": "images/sp-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/203511789/large.jpg",
+      "s": "spring",
+      "cap": "Spring — fleshy purple-flushed leaf rosettes emerging on rocky ground · © David Martin (CC-BY-NC) / iNaturalist",
+      "by": "David Martin",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/120332726"
+    },
+    {
+      "local": "images/su-foliage2-t.jpg",
+      "full": "images/su-foliage2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/294572372/large.jpg",
+      "s": "summer",
+      "cap": "Summer — close-up of the paired fleshy blue-green leaves · © louisey-anna (CC-BY-NC) / iNaturalist",
+      "by": "louisey-anna",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/169884732"
+    }
+  ]
+}

@@ -1,0 +1,187 @@
+{
+  "collection": "penstemons",
+  "common": "Prairie Jewel penstemon",
+  "botanical": "Penstemon 'Prairie Jewel'",
+  "aka": [
+    "'Prairie Jewel' penstemon"
+  ],
+  "type": "Forb",
+  "lifecycle": "Perennial",
+  "native": "Non-native",
+  "flower_color": [
+    "pink",
+    "purple",
+    "white",
+    "red"
+  ],
+  "bloom": [
+    "spring",
+    "summer"
+  ],
+  "bloom_season": "Summer",
+  "blurb": "A Plant Select garden strain raised from Bruce Meyers' big-flowered penstemon crosses — sturdy spires of giant goblet flowers in a jewel-box mix of white, rose-pink, lavender and deep purple-violet over thick waxy gray-green leaves in early summer.",
+  "size": "~20–36 in tall × 8–12 in wide",
+  "sun": "Full sun",
+  "water": "Low to moderate; xeric once established (overwatering shortens its life)",
+  "spread": "Clumping; short-lived but self-sows",
+  "seasons": "Giant white-to-purple goblet flowers late spring–early summer; thick waxy gray-green basal leaves; tan seed stalks into fall",
+  "wildlife": "Bees and other pollinators; large flowers draw bumblebees",
+  "deer": "Deer resistant",
+  "toxic": "",
+  "winter": false,
+  "verified": "2026-06-28",
+  "origin": "Garden hybrid (Penstemon ×mexicali / grandiflorus parentage)",
+  "habitat": "n/a — garden hybrid (wild parents of dry rocky plains & slopes)",
+  "ph": {
+    "min": 6.0,
+    "ideal": 7.0,
+    "max": 8.0
+  },
+  "gaps": "Photos are species-representative of the parent species Penstemon grandiflorus (large lavender goblet flowers, waxy gray-green clasping leaves), honestly captioned: 'Prairie Jewel' is a garden strain with no clean iNaturalist taxon, and no open-licensed cultivar-specific photo set exists. The cultivar's flowers range across the same white/pink/lavender/purple jewel mix.",
+  "shots": [
+    {
+      "local": "images/su-flower-t.jpg",
+      "full": "images/su-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/19207598/large.jpg",
+      "s": "summer",
+      "cap": "Summer — large lavender goblet flower face-on (parent species P. grandiflorus) · © aarongunnar (CC-BY) / iNaturalist",
+      "by": "aarongunnar",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/13160935"
+    },
+    {
+      "local": "images/su-macro-t.jpg",
+      "full": "images/su-macro.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/396309606/large.jpg",
+      "s": "summer",
+      "cap": "Summer — single big lavender flower, close detail (P. grandiflorus) · © bbuzas (CC-BY-NC) / iNaturalist",
+      "by": "bbuzas",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/223652958"
+    },
+    {
+      "local": "images/su-bloom-t.jpg",
+      "full": "images/su-bloom.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/711126/large.jpg",
+      "s": "summer",
+      "cap": "Summer — a stand in full lavender bloom, showing garden mass (P. grandiflorus) · © Aaron Carlson (CC-BY) / iNaturalist",
+      "by": "Aaron Carlson",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/557884"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/8282936/large.jpg",
+      "s": "summer",
+      "cap": "Summer — whole flowering spire and habit (P. grandiflorus) · © mhrichter (CC-BY-NC) / iNaturalist",
+      "by": "mhrichter",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/6536512"
+    },
+    {
+      "local": "images/su-cluster-t.jpg",
+      "full": "images/su-cluster.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/124295306/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — flower cluster face-on along the spike (P. grandiflorus) · © rddlincoln32 (CC-BY-NC) / iNaturalist",
+      "by": "rddlincoln32",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/75966203"
+    },
+    {
+      "local": "images/sp-foliage-t.jpg",
+      "full": "images/sp-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/508265877/large.jpg",
+      "s": "spring",
+      "cap": "Spring — thick waxy gray-green clasping leaves (P. grandiflorus) · © James Wiedow (CC-BY-NC) / iNaturalist",
+      "by": "James Wiedow",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/282640518"
+    },
+    {
+      "local": "images/su-seedhead-t.jpg",
+      "full": "images/su-seedhead.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/450118479/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — drying seed capsules along the stem (P. grandiflorus) · © sls42 (CC-BY-NC) / iNaturalist",
+      "by": "sls42",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/251549445"
+    },
+    {
+      "local": "images/su-context-t.jpg",
+      "full": "images/su-context.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/393320303/large.jpg",
+      "s": "summer",
+      "cap": "Summer — flowering plant against open prairie sky, in context (P. grandiflorus) · © Payton Lott (CC-BY-NC) / iNaturalist",
+      "by": "Payton Lott",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/222065414"
+    }
+  ],
+  "care": {
+    "hardiness": "Very cold-hardy across the Front Range — rated USDA zones 3–9, well within Boulder's 5b–6a, and good to about 6,200 ft elevation; like most large-flowered border penstemons it is naturally short-lived (often 2–4 years), so let it self-sow to persist.[1]",
+    "planting": "Plant out in spring after the mid-May average last frost, or in early fall, into lean, fast-draining ground in the sunniest spot you have; do not amend with compost. In containers use a gritty, sharply draining mix and keep the crown dry — potted penstemon crowns rot far more readily than plants in open ground.[1][2]",
+    "sun": "Full sun — at least six hours — for upright, well-colored spikes; in shade it gets floppy and shy-flowering.[2]",
+    "soil": "Wants sharp drainage and lean loamy or sandy soil; it resents heavy, wet clay and rich ground. Plant on a slope, in a rock garden, or in a gritty bed rather than amending the soil.[1][2]",
+    "water": "Low to moderate, xeric once established; it needs good spring moisture to bloom, but overwatering — especially after flowering — brings on crown rot and is the main thing that shortens its already short life.[1][2]",
+    "spacing": "Space about 12–15 in apart; clumps reach roughly 20–36 in tall in bloom and 8–12 in wide.[1]",
+    "propagation": "Grow from seed, which germinates best after cold-moist stratification (fall-sow outdoors, or chill the moist seed in the fridge before a late-winter start); the strain comes fairly true from seed. Penstemons resent division — don't split the crown — so to clone a particular plant take basal or softwood cuttings instead.[2]",
+    "stratify": "Cold-moist stratify the seed (fall sowing supplies the natural winter chilling) to break dormancy and germinate well.[2]",
+    "bloom": "Giant goblet flowers in a jewel mix — pure white through lavender and rose-pink to deep purple-violet — in late spring and early summer; deadhead spent spikes to neaten the plant (and skip the first two years of heavy deadheading to let it set seed and self-sow for replacements).[1]",
+    "feeding": "No fertilizer needed in normal soil — feeding makes floppy growth and shortens the plant's life.[2]",
+    "maintenance": "Low: deadhead spent spikes, then back off summer water to prevent crown rot; tidy old flower stems in late fall or early spring, and leave some seed to drop so new seedlings replace the short-lived parents.[1][2]",
+    "troubles": "No serious pests or diseases; root and crown rot strike in wet, poorly drained or over-amended soil, and rust, grasshoppers and flea beetles are occasional.[2]",
+    "companions": "A bold front-of-border and rock-garden plant for hot, dry sites — combine with other xeric penstemons, salvias, grasses and lean-soil perennials.[1]"
+  },
+  "references": [
+    {
+      "name": "Plant Select — Prairie Jewel® penstemon (Penstemon 'P010S')",
+      "url": "https://plantselect.org/plant/penstemon-grandiflorus-p010s/"
+    },
+    {
+      "name": "CSU Extension — Growing Penstemons",
+      "url": "https://extension.colostate.edu/resource/growing-penstemons/"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      1
+    ],
+    "sun": [
+      2
+    ],
+    "water": [
+      1,
+      2
+    ],
+    "spread": [
+      1
+    ],
+    "seasons": [
+      1
+    ],
+    "wildlife": [
+      1
+    ],
+    "deer": [
+      1
+    ],
+    "ph": [
+      2
+    ],
+    "origin": [
+      1
+    ],
+    "habitat": [
+      1
+    ]
+  },
+  "edible": {
+    "level": "inedible",
+    "food": false,
+    "summary": "Grown ornamentally for its big jewel-toned flowers — no documented edible use.[2]",
+    "caution": "No known culinary use; not documented as poisonous, but it is not a food plant — don't eat it.[2]"
+  }
+}

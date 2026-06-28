@@ -1,0 +1,121 @@
+[
+  {
+    "file": "images/su-flower.jpg",
+    "photo_id": 224580348,
+    "by": "Andrew Tree",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/observations/131926098",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      1400
+    ],
+    "thumb_px": [
+      400,
+      400
+    ]
+  },
+  {
+    "file": "images/su-flower2.jpg",
+    "photo_id": 553930578,
+    "by": "Matt Becker",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/307133951",
+    "dataset": "iNaturalist open data",
+    "render": "large",
+    "full_px": [
+      683,
+      1024
+    ],
+    "thumb_px": [
+      267,
+      400
+    ]
+  },
+  {
+    "file": "images/su-habit.jpg",
+    "photo_id": 137151275,
+    "by": "honeysis",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/83503825",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  },
+  {
+    "file": "images/su-foliage.jpg",
+    "photo_id": 414413301,
+    "by": "Michael Shoop",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/233202173",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      1050
+    ],
+    "thumb_px": [
+      400,
+      300
+    ]
+  },
+  {
+    "file": "images/su-bloom.jpg",
+    "photo_id": 430428832,
+    "by": "Andrew Tree",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/observations/241508096",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1120,
+      1400
+    ],
+    "thumb_px": [
+      320,
+      400
+    ]
+  },
+  {
+    "file": "images/fa-seedhead.jpg",
+    "photo_id": 418370349,
+    "by": "willem9",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/235263290",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      935
+    ],
+    "thumb_px": [
+      400,
+      267
+    ]
+  },
+  {
+    "file": "images/su-context.jpg",
+    "photo_id": 76949452,
+    "by": "no rights reserved",
+    "license": "CC0",
+    "source": "https://www.inaturalist.org/observations/9296003",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      933
+    ],
+    "thumb_px": [
+      400,
+      267
+    ]
+  }
+]

@@ -1,0 +1,121 @@
+[
+  {
+    "file": "images/su-flower.jpg",
+    "photo_id": 59848303,
+    "by": "eugenezakharov",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/37716130",
+    "dataset": "iNaturalist open data",
+    "render": "large",
+    "full_px": [
+      768,
+      1024
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  },
+  {
+    "file": "images/su-flower2.jpg",
+    "photo_id": 102535208,
+    "by": "Wilhelm Richard BAIER",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/63843975",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      787,
+      1400
+    ],
+    "thumb_px": [
+      225,
+      400
+    ]
+  },
+  {
+    "file": "images/su-mass.jpg",
+    "photo_id": 313497891,
+    "by": "Terry Instone",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/observations/180015956",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  },
+  {
+    "file": "images/su-habit.jpg",
+    "photo_id": 100535533,
+    "by": "Joey Bom",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/62718339",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      1050
+    ],
+    "thumb_px": [
+      400,
+      300
+    ]
+  },
+  {
+    "file": "images/su-foliage.jpg",
+    "photo_id": 604198251,
+    "by": "agrostis",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/332871988",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  },
+  {
+    "file": "images/su-bloom.jpg",
+    "photo_id": 317732103,
+    "by": "Елена Ионина",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/182252165",
+    "dataset": "iNaturalist open data",
+    "render": "large",
+    "full_px": [
+      768,
+      1024
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  },
+  {
+    "file": "images/wi-winter.jpg",
+    "photo_id": 607204924,
+    "by": "Yelena",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/334373136",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  }
+]

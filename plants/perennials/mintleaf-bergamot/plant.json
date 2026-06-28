@@ -1,0 +1,191 @@
+{
+  "collection": "bee-balms",
+  "common": "Mintleaf bee balm",
+  "botanical": "Monarda fistulosa var. menthifolia",
+  "aka": [
+    "Mintleaf bergamot",
+    "Wild bergamot (mountain form)"
+  ],
+  "type": "Forb",
+  "lifecycle": "Perennial",
+  "native": "CO native",
+  "flower_color": [
+    "purple",
+    "pink"
+  ],
+  "bloom": [
+    "summer"
+  ],
+  "bloom_season": "Summer",
+  "blurb": "The gray-green, mountain form of wild bergamot — the more drought-tolerant Rocky Mountain native. Rounded whorls of ragged lavender-pink mint flowers crown aromatic, felted foliage all summer, mobbed by bees, butterflies and hummingbirds.",
+  "size": "2–4 ft tall × 2–3 ft wide",
+  "sun": "Full sun to part shade",
+  "water": "Low to moderate; drought-tolerant once established",
+  "spread": "Clumping; slowly spreads by rhizome, not aggressive here",
+  "seasons": "Aromatic gray-green foliage spring–fall; lavender-pink whorls midsummer; round dark nutlet seedheads stand into winter",
+  "wildlife": "Outstanding pollinator plant — bumble bees, native bees, butterflies and hummingbirds; songbirds take the seed",
+  "deer": "Deer and rabbit resistant",
+  "toxic": "",
+  "winter": true,
+  "verified": "2026-06-28",
+  "ph": {
+    "min": 6.0,
+    "ideal": 6.8,
+    "max": 7.5
+  },
+  "care": {
+    "hardiness": "Fully cold-hardy across the Front Range — wild bergamot runs USDA zones 3–9, well below Boulder's ~5b–6a, and this gray-leaved mountain variety is itself a Rocky Mountain native that overwinters reliably here.[1][3]",
+    "planting": "Plant out in spring after the mid-May average last frost, or in early fall, into average well-drained ground; give it open, airy spacing so the foliage dries quickly. In containers use a free-draining mix and a roomy pot — it makes a large clump — and site potted plants where air moves to hold powdery mildew at bay; overwinter pots in a sheltered spot since potted crowns are less cold-hardy than plants in open ground.[1][2]",
+    "sun": "Full sun for the densest, best-colored bloom, though it takes light afternoon shade in our high-altitude sun; too much shade makes it floppy and worsens mildew.[1][3]",
+    "soil": "Adapts to most soils including Boulder's clay and lean rocky ground, acid to alkaline (about pH 6.0–7.5); it just needs reasonable drainage. This drought-tolerant mountain form prefers leaner, drier soil than the eastern species and resents soggy ground.[1][3]",
+    "water": "Low to moderate and notably drought-tolerant once established — this western form tolerates dry better than typical wild bergamot. Water through the first season to establish, then only in extended drought; chronically drought-stressed plants, though, get more disease, so a deep soak in a hot dry spell helps.[1][3]",
+    "spacing": "Space about 18–24 in apart — clumps reach 2–3 ft wide — and keep the planting open for airflow, which is the single best defense against powdery mildew.[1][3]",
+    "propagation": "Easy from seed, which needs no pretreatment (a brief cold-moist chill speeds it); direct-sow in fall or start indoors in spring. Divide the rhizomatous clump in spring every 2–3 years to renew vigor and contain its slow spread, or take softwood cuttings of named forms.[1][3]",
+    "bloom": "Rounded whorls of ragged, two-lipped lavender-pink flowers through midsummer — roughly June into August here — over aromatic foliage; deadheading tidies the plant and can coax a lighter rebloom.[1][3]",
+    "feeding": "Needs little or no fertilizer in average Front Range soil; rich feeding pushes soft, mildew-prone growth and floppy stems.[1]",
+    "maintenance": "Low: thin or divide crowded clumps for airflow, deadhead to neaten, and leave the round seedheads standing for winter interest and birds, cutting old stems back in early spring. Cutting a few stems back by a third in early summer staggers bloom and improves air movement.[1][3]",
+    "troubles": "Powdery mildew is the signature issue of the genus; this gray-leaved mountain form is among the more mildew- and drought-tolerant bee balms, but still give it sun, lean soil and open spacing, and divide crowded clumps to prevent it.[1][3]",
+    "companions": "A pollinator anchor for sunny native and xeric borders — pair with prairie grasses, penstemons, asters and goldenrods in lean, well-drained ground.[1][3]"
+  },
+  "references": [
+    {
+      "name": "Lady Bird Johnson Wildflower Center — Monarda fistulosa (Wild bergamot)",
+      "url": "https://www.wildflower.org/plants/result.php?id_plant=MOFI"
+    },
+    {
+      "name": "NC State Extension Gardener Plant Toolbox — Monarda fistulosa",
+      "url": "https://plants.ces.ncsu.edu/plants/monarda-fistulosa/"
+    },
+    {
+      "name": "USDA NRCS PLANTS Database — Monarda fistulosa var. menthifolia",
+      "url": "https://plants.usda.gov/plant-profile/MOFIM"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      1,
+      2
+    ],
+    "sun": [
+      1,
+      2
+    ],
+    "water": [
+      1,
+      3
+    ],
+    "spread": [
+      1,
+      3
+    ],
+    "seasons": [
+      1,
+      2
+    ],
+    "wildlife": [
+      1,
+      2
+    ],
+    "deer": [
+      2
+    ],
+    "ph": [
+      1
+    ]
+  },
+  "edible": {
+    "level": "edible",
+    "food": true,
+    "kinds": [
+      "leaves",
+      "flowers"
+    ],
+    "card": "Leaves & flowers — minty tea/seasoning",
+    "summary": "An aromatic mint-family herb — the fragrant leaves and flowers make a pleasant minty-oregano tea and seasoning, like wild bergamot.[1][2]",
+    "parts": "The aromatic leaves and flowers are the edible parts. Use them fresh or dried to brew a fragrant tea and to season cooked dishes; the flavor is a thyme/oregano-mint blend with the characteristic bergamot scent.[1][2]",
+    "preparation": "Steep fresh or dried leaves and flower whorls as a hot tea, or chop the leaves as a culinary herb. Harvest just before or at full bloom when the aromatic oils peak. The flowers also make an edible garnish.[1][2]",
+    "caution": "A recognized aromatic herb with no notable toxicity, but it is strongly flavored — use in moderation as a seasoning/tea, not a bulk food. As with any wild plant, positively confirm the gray-leaved mint-scented identity before eating, and people sensitive to mint-family herbs should sample cautiously.[1][2]"
+  },
+  "shots": [
+    {
+      "local": "images/su-flower-t.jpg",
+      "full": "images/su-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/528193050/large.jpg",
+      "s": "summer",
+      "cap": "Summer — face-on ragged lavender-pink flower whorl · © Stan Huntting (CC-BY-NC) / iNaturalist",
+      "by": "Stan Huntting",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/293465043"
+    },
+    {
+      "local": "images/su-bloom-t.jpg",
+      "full": "images/su-bloom.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/619032466/large.jpg",
+      "s": "summer",
+      "cap": "Summer — a drift of lavender bee-balm in open meadow · © Halina North (CC-BY-NC) / iNaturalist",
+      "by": "Halina North",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/340193922"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/658339461/large.jpg",
+      "s": "summer",
+      "cap": "Summer — whole flowering plant, gray-green aromatic foliage · © mileschurchill (CC-BY-NC) / iNaturalist",
+      "by": "mileschurchill",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/360769564"
+    },
+    {
+      "local": "images/su-flower2-t.jpg",
+      "full": "images/su-flower2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/407649039/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — close-up of the tubular two-lipped mint flowers · © Mason Holum (CC-BY) / iNaturalist",
+      "by": "Mason Holum",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/229639060"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/21922428/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — leafy stems showing the toothed, felted gray-green foliage · © Matt Webb (CC-BY-NC) / iNaturalist",
+      "by": "Matt Webb",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/14702070"
+    },
+    {
+      "local": "images/fa-seedhead-t.jpg",
+      "full": "images/fa-seedhead.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/51663907/large.jpeg",
+      "s": "fall",
+      "cap": "Fall — round nutlet-cluster seedhead after bloom · © cassi saari (CC-BY-NC) / iNaturalist",
+      "by": "cassi saari",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/32917430"
+    },
+    {
+      "local": "images/wi-winter-t.jpg",
+      "full": "images/wi-winter.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/466407015/large.jpeg",
+      "s": "winter",
+      "cap": "Winter — dark round seedheads on bare stems in snow · CC0 / iNaturalist · © no rights reserved (CC0) / iNaturalist",
+      "by": "no rights reserved",
+      "lic": "CC0",
+      "link": "https://www.inaturalist.org/observations/259781887"
+    },
+    {
+      "local": "images/su-context-t.jpg",
+      "full": "images/su-context.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/414498766/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — flower whorl against open foothills habitat · © Doug Grinbergs (CC-BY-NC) / iNaturalist",
+      "by": "Doug Grinbergs",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/233244217"
+    }
+  ]
+}

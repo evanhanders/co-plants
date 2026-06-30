@@ -1029,7 +1029,7 @@ ground every statement in an authority cited in `references`.
 
 ## Current plant roster (in the live site)
 
-**227 specimens** (`plants/manifest.json` is the source of truth for the exact count), all verified
+**228 specimens** (`plants/manifest.json` is the source of truth for the exact count), all verified
 non-weed in CO and all carrying a full `care` block (incl.
 `planting` + `propagation`) **and a repo-hosted photo reel** (close-up + structure, seasonal
 where good shots exist). Every plant's detail page is **fully cited** — a numbered
@@ -1401,6 +1401,7 @@ searching the cultivar surfaces the parent (with a subtle "Also: …" line on th
 - Scarlet globemallow (*Sphaeralcea coccinea*) (N) — Apricot-scarlet cups on a silvery low mat; bone-dry tough. *(Leaf hairs irritate eyes — 'sore-eye poppy'.)*
 - Prairie zinnia (*Zinnia grandiflora*) (N) — Fine-leaved cushion smothered in golden papery daisies midsummer to frost; a Plant Select-tough groundcover.
 - Martagon lily (*Lilium martagon*) (I) — Tall woodland-edge true lily; a single stem hung with up to 30 nodding, fully recurved 'Turk's cap' flowers, rosy-pink freckled maroon, over whorled leaves. *(Part-shade, moist humus-rich soil — not xeric; tolerates alkaline clay, so one of the better lilies here; DEADLY to cats like all true lilies.)*
+- Himalayan blue poppy (*Meconopsis betonicifolia*) (I) — The legendary sky-blue Himalayan poppy; satiny azure chalices with an orange stamen boss over bristly foliage. *(Kept-but-flagged like winter heath: cold-hardy here but hates our heat/dry air/alkaline clay — grow it potted in acidic mix, cool shade, constantly moist. Inedible — poppy-family alkaloids.)*
 
 **Fall forbs**
 - Tansyaster (*Dieteria bigelovii*) (N) · **Biennial** — Big lavender, gold-eyed daisies on branching stems into fall; a self-sowing xeric native and late-season specialist-bee plant.

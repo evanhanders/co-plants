@@ -1,0 +1,191 @@
+{
+  "common": "Himalayan blue poppy",
+  "botanical": "Meconopsis betonicifolia",
+  "aka": [
+    "Meconopsis baileyi",
+    "Tibetan blue poppy",
+    "'Lingholm' blue poppy"
+  ],
+  "type": "Forb",
+  "lifecycle": "Perennial",
+  "bloom_season": "Summer",
+  "native": "Non-native",
+  "flower_color": [
+    "blue",
+    "purple"
+  ],
+  "bloom": [
+    "summer"
+  ],
+  "blurb": "The legendary sky-blue Himalayan poppy — huge, satiny azure chalices with a boss of orange stamens over bristly foliage. Famously cool-climate and a real challenge on the hot, dry, alkaline Front Range: grow it potted in an acidic mix, in cool shade, kept constantly moist.",
+  "size": "3–4 ft × 1–2 ft",
+  "sun": "Part to full shade; shelter from hot afternoon sun & drying wind",
+  "water": "High — keep constantly moist all summer, never dry; not for hot, dry sites",
+  "spread": "Clumping; established clumps slowly spread by offsets (often short-lived here)",
+  "seasons": "Bristly basal leaf rosette emerges in spring; satiny sky-blue flowers in early summer (June–July); dies back by fall — no winter presence",
+  "wildlife": "Sky-blue flowers offer nectar & pollen to bumblebees",
+  "deer": "Little local browse data; the bristly, alkaloid-bearing poppy foliage is of low interest",
+  "toxic": "Not for eating — a poppy-family plant carrying alkaloids; the bristly sap can irritate skin. No edible use.",
+  "winter": false,
+  "verified": "2026-06-30",
+  "origin": "Himalayas — SE Tibet, NW Yunnan & N Myanmar",
+  "habitat": "Cool, moist alpine meadows & open conifer woodland, ~3,000–4,000 m",
+  "ph": {
+    "min": 5.0,
+    "ideal": 5.5,
+    "max": 6.5
+  },
+  "care": {
+    "hardiness": "USDA zones 5–7 — a key point for Boulder (zone 5b–6a): the plant's *winter cold-hardiness is not the problem here*, its summer is. *Meconopsis* thrives only where summers stay cool, damp and humid (its home is the high Himalaya; it grows best in gardens like coastal Scotland and the Pacific Northwest) and it 'does not thrive in hot summer climates' — the Missouri Botanical Garden flatly does not recommend it for hot-summer St. Louis, and the RHS calls it 'a challenge' anywhere warm and dry, where 'even a few days of bright sun in dry conditions will scorch plants.' On the Front Range, treat it as a high-effort specialty plant for the coolest, shadiest, most consistently moist pocket you have — or, better, a pot you can shift to shade in heat.[1][2]",
+    "planting": "Grow it in a container — the honest approach here, just as for winter heath. A pot lets you give it acidic soil (Boulder's ground is alkaline clay) and move it to the coolest, shadiest spot in a heat wave. Use a roomy pot with good drainage, set it out in spring once hard frosts pass, and site it in dappled or afternoon shade. Container roots are far less cold-hardy than the rated zone, and the plant resents winter wet, so overwinter the pot in a sheltered, unheated spot kept on the dry side (excess winter moisture rots the crown). If planted in the ground instead, choose a cool north/east-facing bed heavily amended with leaf mould, never a hot south wall.[1][2]",
+    "sun": "Part shade to full (dappled) shade — never hot, open sun on the Front Range. It needs shelter from intense high-altitude afternoon sun and from drying winds, both of which scorch the foliage and collapse the flowers; morning sun with afternoon shade, or filtered light beneath a deciduous tree, is ideal.[1][2]",
+    "soil": "Loose, peaty, humus-rich and moisture-retentive but very well-drained, and *slightly acidic* — *Meconopsis* is a calcifuge that resents lime, so Boulder's alkaline clay is unsuitable in the ground. The single most reliable fix is to grow it in a pot of ericaceous (acid) compost bulked generously with leaf mould or garden compost; aim for pH roughly 5.0–6.5. Plenty of organic matter matters even more than the exact pH. Alkaline soil also pushes the blue toward muddy pink/purple.[1][2]",
+    "water": "Keep the soil consistently, evenly moist all through the growing season — it must *never* dry out in summer, and dryness in heat is rapidly fatal. In a pot, that can mean daily watering in warm spells; use rainwater where possible, as repeated alkaline tap water slowly raises the mix's pH. The one exception is winter: keep it on the drier side while dormant to prevent crown and root rot.[1][2]",
+    "spacing": "Set plants about 12–18 in apart in a bed; a single plant needs only a 1–2 gallon pot to start, potting on as the clump fills out.[1]",
+    "propagation": "By seed and, for the clump-forming forms (like 'Lingholm'), by division. Surface-sow fresh seed and barely cover it; late-summer to autumn sowing germinates best (about three weeks), or sow in February for a full season of growth before winter. Store seed cool and dry (a fridge) until sown, and never let the compost dry out. Divide established clumps in early spring at the first signs of growth.[1][2]",
+    "sow": "Surface-sow onto moist, gritty, peat-free or ericaceous compost and barely cover — only a thin layer to anchor the seed. Keep cool, shaded and constantly moist. Fresh seed sown late summer–autumn germinates in roughly three weeks; a February sowing gives young plants a full growing season to bulk up.[2]",
+    "stratify": "No long warm-then-cold treatment is needed: store the seed in cool, dry conditions (the bottom of a fridge) over winter, then surface-sow. Seed left to sow itself in fall and kept cool will come up the following spring.[2]",
+    "depth": "Barely cover the seed — it is surface-sown with only a thin scatter of fine compost to hold it in place; do not bury it.[2]",
+    "bloom": "Early summer, roughly June–July, with satiny sky-blue four-petalled flowers up to about 4 in across centred on a boss of golden stamens. On alkaline soil the blue shifts toward mauve or pink, which is why acidic compost matters for true colour.[1]",
+    "feeding": "Mulch in spring with leaf mould or well-rotted compost to feed the plant and hold moisture. Give young, recently transplanted plants a weak liquid feed about every fortnight through the growing season; for a potted specimen use an ericaceous (acid) feed and avoid anything containing lime, which causes yellowing chlorosis.[2]",
+    "maintenance": "The key technique for a long-lived plant: snip off the flowering stems in the *first* year so the plant pours its energy into building a strong rootstock and becomes a perennial clump rather than blooming once and dying. In later years, deadhead spent flowers (unless saving seed). Keep mulched and never let it dry out.[1]",
+    "troubles": "Heat and drought are the chief enemies here — the plant is bluntly 'difficult to grow' and intolerant of hot, dry summers. Watch for downy/powdery mildew, slugs and snails on the soft foliage, and root or crown rot from waterlogging (especially in winter wet or a poorly drained pot). Bright dry sun scorches the leaves. Good drainage, cool shade, steady summer moisture and a dry winter rest are the levers that keep it alive.[1][2]"
+  },
+  "fact_src": {
+    "size": [
+      1
+    ],
+    "sun": [
+      1,
+      2
+    ],
+    "water": [
+      1,
+      2
+    ],
+    "spread": [
+      1
+    ],
+    "seasons": [
+      1
+    ],
+    "wildlife": [
+      1
+    ],
+    "toxic": [
+      3
+    ],
+    "origin": [
+      2
+    ],
+    "habitat": [
+      2
+    ],
+    "ph": [
+      1
+    ]
+  },
+  "edible": {
+    "level": "inedible",
+    "food": false,
+    "summary": "Ornamental only — the Himalayan blue poppy has no edible use.",
+    "caution": "Grown purely as an ornamental. Like other members of the poppy family (Papaveraceae), *Meconopsis* contains isoquinoline alkaloids, so no part should be eaten, and the bristly sap can irritate skin.[3] If a child or pet eats a quantity of the plant, contact poison control (1-800-222-1222) or a veterinarian as a precaution."
+  },
+  "references": [
+    {
+      "name": "Missouri Botanical Garden Plant Finder — Meconopsis 'Lingholm'",
+      "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=266564"
+    },
+    {
+      "name": "Royal Horticultural Society — Meconopsis growing guide",
+      "url": "https://www.rhs.org.uk/plants/meconopsis/growing-guide"
+    },
+    {
+      "name": "Yang et al. 2024, Molecules (PMC) — chemical components of Meconopsis betonicifolia",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11509530/"
+    }
+  ],
+  "gaps": "One season of interest: spring rosette + early-summer (June–July) bloom — the plant is herbaceous and fully dormant by fall, so there are no honest fall/winter shots (NA on the seasonal axis). Reel skews flower-heavy, as is typical for this taxon; foliage, bristly-stem detail, seed capsules and near + far habit are all covered. Photos are of the species/garden blue poppy.",
+  "shots": [
+    {
+      "local": "images/su-flower-t.jpg",
+      "full": "images/su-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/671493301/large.jpg",
+      "s": "summer",
+      "cap": "Summer — satiny sky-blue flower face-on, with its boss of golden stamens · © J.R. Kuethe (CC-BY-NC) / iNaturalist",
+      "by": "J.R. Kuethe",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/367681695"
+    },
+    {
+      "local": "images/sp-foliage-t.jpg",
+      "full": "images/sp-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/395213406/large.jpeg",
+      "s": "spring",
+      "cap": "Spring — bristly stems and an emerging bud after rain · © luzhuoyu (CC-BY-NC) / iNaturalist",
+      "by": "luzhuoyu",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/223070453"
+    },
+    {
+      "local": "images/su-flowers-t.jpg",
+      "full": "images/su-flowers.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/210585792/large.jpg",
+      "s": "summer",
+      "cap": "Summer — sky-blue blooms and a bud over lobed foliage · © yideng (CC-BY-NC) / iNaturalist",
+      "by": "yideng",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/124253555"
+    },
+    {
+      "local": "images/su-bloom-t.jpg",
+      "full": "images/su-bloom.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/682170360/large.jpg",
+      "s": "summer",
+      "cap": "Summer — a big azure poppy chalice in full bloom · © Simona Prokopovic (CC-BY-NC) / iNaturalist",
+      "by": "Simona Prokopovic",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/373280251"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/525435089/large.jpg",
+      "s": "summer",
+      "cap": "Summer — whole plant: bristly basal rosette and flowering stems · © illiad669s (CC-BY-NC) / iNaturalist",
+      "by": "illiad669s",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/292006251"
+    },
+    {
+      "local": "images/su-drift-t.jpg",
+      "full": "images/su-drift.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/520766198/large.jpg",
+      "s": "summer",
+      "cap": "Summer — blue poppies massed in a cool woodland border · © marghielu (CC-BY-NC) / iNaturalist",
+      "by": "marghielu",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/289532114"
+    },
+    {
+      "local": "images/su-rocks-t.jpg",
+      "full": "images/su-rocks.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/656892140/large.jpg",
+      "s": "summer",
+      "cap": "Summer — clumps in bloom against a rocky outcrop · © Jasmine Angus (CC-BY-NC) / iNaturalist",
+      "by": "Jasmine Angus",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/360010430"
+    },
+    {
+      "local": "images/su-seed-t.jpg",
+      "full": "images/su-seed.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/616390486/large.jpg",
+      "s": "summer",
+      "cap": "Summer — upright seed capsules forming after the flowers fade · © leekelai (CC-BY-NC) / iNaturalist",
+      "by": "leekelai",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/338899883"
+    }
+  ]
+}

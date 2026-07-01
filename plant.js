@@ -20,6 +20,7 @@ const CARE_FIELDS = [
 ['depth','Depth & germination'],
 ['bloom','Bloom time'],
 ['feeding','Feeding'],
+['pruning','Pruning'],
 ['maintenance','Maintenance'],
 ['selfsow','Self-sowing'],
 ['troubles','Pests & problems'],

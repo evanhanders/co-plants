@@ -252,11 +252,18 @@ is **NOT** the grouping. A file can live in `plants/perennials/` yet be a `Groun
   renderer reads a fixed, ordered allow-list of keys (`CARE_FIELDS` in `plant.js`) and skips
   any that are absent, so a plant can fill in as many or as few as apply. Current keys:
   `hardiness, planting, sun, soil, water, spacing, propagation, sow, stratify, depth, bloom,
-  feeding, maintenance, selfsow, troubles, harvest, companions`. Two of these carry specific
-  intent: **`planting`** = *when to plant outside on the Front Range, covering both in the
-  ground and in pots/containers* (containers dry faster and their roots are far less
+  feeding, pruning, maintenance, selfsow, troubles, harvest, companions`. Three of these carry
+  specific intent: **`planting`** = *when to plant outside on the Front Range, covering both in
+  the ground and in pots/containers* (containers dry faster and their roots are far less
   cold-hardy, so they need their own timing/overwintering note); **`propagation`** = *how to
-  propagate by seed **and** by non-seed means* (division, cuttings, layering…). Keep each
+  propagate by seed **and** by non-seed means* (division, cuttings, layering…); **`pruning`** =
+  *when to prune on the Front Range, the technique/what to cut, and what can go wrong* (bloom
+  buds removed by mistimed cuts, sap bleeding, disease-entry timing, fire-blight tool
+  sanitation, over-shearing, cutting an evergreen/lavender into bare old wood that won't
+  resprout). **Every woody plant carries `pruning`** — every `Tree`, `Shrub`, `Subshrub`, and
+  the woody/perennial `Vine`s (roses, clematis, honeysuckles, grape, woodbine); herbaceous
+  forbs/grasses/annual vines don't. Keep pruning guidance in this field, not buried in
+  `maintenance` (which is for the other upkeep — deadheading, mulch, staking, winter cover). Keep each
   value a short paragraph of Front-Range-specific, practical guidance. Add a new aspect by
   extending `CARE_FIELDS` (key + display label) — no other code change needed. **Every care
   value carries inline `[n]` citation markers** (e.g. `…pH 5.0–8.0.[1][2]`) keyed to the
@@ -1029,7 +1036,7 @@ ground every statement in an authority cited in `references`.
 
 ## Current plant roster (in the live site)
 
-**228 specimens** (`plants/manifest.json` is the source of truth for the exact count), all verified
+**229 specimens** (`plants/manifest.json` is the source of truth for the exact count), all verified
 non-weed in CO and all carrying a full `care` block (incl.
 `planting` + `propagation`) **and a repo-hosted photo reel** (close-up + structure, seasonal
 where good shots exist). Every plant's detail page is **fully cited** — a numbered
@@ -1202,6 +1209,23 @@ coerulea = the existing blue columbine), and the already-present *Sphaeralcea co
 near-duplicate pages with identical care, their alternate names were folded into the parent entry's `aka` array so
 searching the cultivar surfaces the parent (with a subtle "Also: …" line on the card/sheet).
 
+**Hedge cotoneaster + guide-wide pruning field (July 2026):** added **hedge cotoneaster** (*Cotoneaster
+lucidus*) from a user request — the dense upright Asian shrub that is *the* classic tall Front-Range privacy hedge
+(glossy leaves, small black cyanogenic berries, scarlet fall color; a `Non-native`, fire-blight-prone rose relative,
+verified non-weed 2026-07-01 — not on CO's A/B/C or Watch lists). Photos via `tools/inat_montage.py` (8-shot reel:
+spring flowers → summer foliage/habit/screen → fall berries + scarlet color → berries-in-snow winter). The same
+request added a **new `pruning` care field** (`CARE_FIELDS` in `plant.js`, rendered between Feeding and Maintenance)
+and **backfilled it across every woody plant in the guide** — all Trees, Shrubs, Subshrubs, and the woody/perennial
+Vines (~80 plants) — each a cited paragraph covering *when to prune here · technique/what to cut · what can go
+wrong*. Sourced via parallel agents (RHS for clematis pruning-groups & rose types, CSU/USU/UMN extension, MBG, NC
+State, USDA/USFS, LBJ), reusing each plant's existing bibliography where possible (a handful of new UMN/CSU/RHS
+pruning refs appended + verified 200). Pruning prose was moved **out** of `maintenance` into `pruning` to de-duplicate.
+Species-specific care baked in: spring bloomers on old wood (lilac, mock orange, witch hazel, rhododendron/azalea)
+prune **after** flowering; maples/grape bleed if cut late-winter (prune in summer / fully-dormant respectively); oaks
+only in dormant winter (borer/disease); conifers won't resprout from bare old wood; lavender/sages never cut into
+leafless old wood; clematis by RHS pruning group (jackmanii = Group 3 hard cut, native *C. columbiana* = Group 1
+minimal); fire-blight-prone Rosaceae (apple, pear, hawthorn, cotoneaster) get dry-weather cuts + tool sterilization.
+
 **Trees**
 - River hawthorn (*Crataegus rivularis*) (N) — Thorny native small tree; white spring flowers, dark edible haws, superb wildlife cover. A caterpillar keystone (~90 Lepidoptera). *(Riparian — wants more water; edible haws, spit the cyanogenic seeds.)*
 - Chokecherry (*Prunus virginiana*) (N) — Wildlife powerhouse: fragrant white flower racemes, dark…
@@ -1250,6 +1274,7 @@ searching the cultivar surfaces the parent (with a subtle "Also: …" line on th
 - Leadplant (*Amorpha canescens*) (N) — Silvery ferny foliage and purple-and-orange flower spikes; a nitrogen-fixing prairie legume.
 - Waxflower (*Jamesia americana*) (N) — Foothills cliffbush; fragrant waxy white flowers over veined leaves that redden in fall.
 - Soapweed yucca (*Yucca glauca*) (N) — Evergreen blue-green sword-leaf clump throwing tall spikes of creamy bell flowers; pollinated solely by the yucca moth. *(Flowers, young fruit & seeds edible cooked; roots saponin-toxic.)*
+- Hedge cotoneaster (*Cotoneaster lucidus*) (I) — The Front Range's classic tall privacy hedge: dense upright Asian shrub, glossy leaves, small black berries, fiery scarlet fall color; shears beautifully. *(Berries mildly poisonous — cyanogenic, bird-spread; fire-blight-prone rose relative.)*
 
 **Subshrubs**
 - Apricot wallflower (*Erysimum 'Apricot Twist'*) (I) — Long-blooming perennial wallflower; flowers open apricot and age to mauve. *(photos species-representative — see `gaps`)*

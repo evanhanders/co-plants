@@ -127,10 +127,10 @@
     "propagation": "Grow from seed or cuttings. Like most hawthorns the seed is deeply, doubly dormant: it needs a warm-then-cold (warm moist followed by cold-moist) double stratification to germinate, and is slow and erratic — sown seed often takes one to two years to come up, so fall-sow outdoors and be patient. It also suckers readily from the roots, so rooted suckers can be severed and moved, and softwood/semi-hardwood cuttings can be attempted.[1][2]",
     "stratify": "Seed requires a warm-then-cold double stratification (several months warm-moist, then several months cold-moist at ~40°F) to break its dormant, hard endocarp; germination is slow and erratic, frequently spread over one to two years. Fall-sowing outdoors lets the natural seasons supply both phases.[2]",
     "bloom": "Flat clusters of white five-petaled flowers open in mid-to-late spring (May–June on the Front Range), followed by dark purple-black haws that ripen in late summer to fall and persist into winter.[1][2]",
-    "maintenance": "Prune in late winter or early spring before bud break to shape, remove dead or crossing wood, and lift the canopy — mind the sharp thorns. For a single-trunk tree, cut root suckers at ground level; for a wildlife thicket or barrier hedge, let selected suckers fill in. Slow-growing but long-lived, so prune lightly and let it develop.[2]",
     "troubles": "Cedar–hawthorn rust is the main disease: it alternates between hawthorns and junipers (Juniperus/red-cedar), so site it well away from junipers to break the cycle; rust causes orange leaf and fruit spotting but is rarely fatal. Like other rose-family plants it can also see fireblight, leaf spot, and aphids; good airflow helps. The thorns are sharp — site it away from paths and play areas.[1][2]",
     "harvest": "Pick the haws when fully ripe and dark purple-black, typically late summer into fall. They are mealy and seedy — best cooked down into jelly, jam, syrup, or fruit leather (and a traditional Indigenous food); strain out the hard seeds during processing. Mind the thorns when picking.[1][2]",
-    "companions": "Combine with other native riparian and woodland-edge plants that share its taste for moisture: chokecherry, Wood's rose, red-twig dogwood, golden currant, mountain alder, and native serviceberry — a thorny, fruit-rich wildlife hedgerow.[1][2]"
+    "companions": "Combine with other native riparian and woodland-edge plants that share its taste for moisture: chokecherry, Wood's rose, red-twig dogwood, golden currant, mountain alder, and native serviceberry — a thorny, fruit-rich wildlife hedgerow.[1][2]",
+    "pruning": "Prune in late winter or early spring, before bud break, while the tree is dormant — thin and shape it, take out dead or crossing wood, and lift the low canopy, all the while minding the sharp thorns.[2] For a single-trunk tree cut root suckers to the ground; for a wildlife hedge or barrier thicket, let selected suckers fill in.[2] Fire blight is the real pruning hazard on this rose-family tree: avoid pruning in wet or actively growing conditions, when the bacterial disease spreads most readily, and if you find a blackened, shepherd's-crook 'strike,' cut it out 8–12 in below the visible damage into healthy wood during dry dormant weather, disinfecting the blade between every cut so you don't inoculate the fresh wounds.[3]"
   },
   "references": [
     {
@@ -140,6 +140,10 @@
     {
       "name": "USDA Forest Service FEIS — Crataegus douglasii incl. var. rivularis (river/black hawthorn species review)",
       "url": "https://www.fs.usda.gov/database/feis/plants/shrub/cradou/all.html"
+    },
+    {
+      "name": "CSU Extension — Fire Blight (fact sheet 2.907)",
+      "url": "https://extension.colostate.edu/topic-areas/yard-garden/fire-blight-2-907/"
     }
   ],
   "fact_src": {

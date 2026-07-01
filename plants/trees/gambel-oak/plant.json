@@ -123,7 +123,7 @@
     "water": "Once established it is drought tolerant and needs no irrigation, matching our ~15 in of annual precipitation.[1] Water new plants to soak the soil 10–15 in deep every 3–4 weeks through establishment and in unusually dry years, then leave it dry.[1]",
     "spacing": "Forms a large shrub or small tree averaging 20–30 ft tall and ~15 ft wide, often spreading into clonal thickets — give it room and expect it to sucker.[1]",
     "propagation": "From seed: collect brown acorns in fall and sow immediately (they lose viability fast in storage); a short 2-week cold-moist stratification at ~36°F (2°C) maximizes germination, and acorns can be soaked in hot water ~15 min to kill weevils before sowing.[3][4] Sow into deep containers to accommodate the long initial taproot. Stem cuttings rarely succeed; it spreads naturally by rhizomes/lignotubers, and layering works only ~13–21% of the time.[1][3]",
-    "pruning": "Prune in late fall or early spring — thin stems and remove dead or damaged wood, partly to reduce fire fuel in dense stands.[1]",
+    "pruning": "Prune in the dormant season — late fall through late winter, before spring growth — thinning stems and removing dead or damaged wood, which in a dense stand also cuts the fire fuel.[1] Do NOT prune oaks from April to October: fresh growing-season wounds draw the beetles and borers that spread oak disease, so hold cuts to the dormant window (and if a limb must come off in summer, seal the wound to mask the cut).[5] Gambel oak suckers into clonal thickets, so remove root sprouts at the base if you want to hold it as a single small tree rather than a spreading motte.[1][3]",
     "maintenance": "Protect the roots from construction damage, which is a leading cause of decline; otherwise low-care.[1]",
     "troubles": "Dense oak thickets are a wildfire fuel; few serious pest or disease problems otherwise.[1]"
   },
@@ -143,6 +143,10 @@
     {
       "name": "NPIN / Lady Bird Johnson Wildflower Center — How to remove tannins from acorns",
       "url": "https://www.wildflower.org/expert/show.php?id=2947"
+    },
+    {
+      "name": "University of Minnesota Extension — Pruning trees and shrubs",
+      "url": "https://extension.umn.edu/planting-and-growing-guides/pruning-trees-and-shrubs"
     }
   ],
   "fact_src": {

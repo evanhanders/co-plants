@@ -1,0 +1,189 @@
+{
+  "common": "Hedge cotoneaster",
+  "botanical": "Cotoneaster lucidus",
+  "type": "Shrub",
+  "lifecycle": "Perennial",
+  "native": "Non-native",
+  "flower_color": [
+    "white",
+    "pink"
+  ],
+  "bloom": [
+    "spring"
+  ],
+  "blurb": "The Front Range's classic tall privacy hedge: a dense, upright Asian shrub with glossy leaves, small black berries, and fiery scarlet fall color.",
+  "size": "~6–10 ft × 5–8 ft",
+  "sun": "Full sun–part shade",
+  "water": "Low–moderate; drought-tolerant once established",
+  "spread": "Upright, multi-stemmed clump; shears into a dense hedge; occasional bird-sown seedlings nearby",
+  "seasons": "Pinkish-white flowers late spring; glossy black berries late summer into winter; scarlet-red fall foliage",
+  "wildlife": "Flowers draw bees; berries feed birds through winter; dense twiggy cover for nesting",
+  "deer": "Not a deer favorite, but not reliably deer-proof",
+  "toxic": "Berries and foliage are mildly poisonous if eaten in quantity (people & pets); birds eat the fruit unharmed",
+  "winter": true,
+  "verified": "2026-07-01",
+  "origin": "Northern Asia — Altai Mts. (Russia, Kazakhstan, Mongolia, China)",
+  "habitat": "Montane forest edges, thickets and rocky slopes",
+  "ph": {
+    "min": 5.5,
+    "ideal": 7.0,
+    "max": 8.0
+  },
+  "care": {
+    "hardiness": "Bulletproof on the Front Range: hardy to about USDA zone 3, so Boulder's 5b–6a winters are no threat and no protection is needed. This cold-hardiness is a big part of why it became the region's default hedge shrub.[1]",
+    "planting": "Plant in spring (April–May) or early fall (September) so roots establish before summer heat or hard frost. For a hedge, set plants in a row and water deeply through the first season or two to knit them in. It also grows fine in a large container for a season, but for a permanent hedge it belongs in the ground; a potted plant left out over a Front Range winter needs a big, sheltered pot as its roots are far less cold-hardy than the top.[2]",
+    "sun": "Full sun gives the densest growth, the most berries, and the best scarlet fall color. It tolerates part shade — useful for a screen on the north or east side of a house — but bloom, fruit, and fall color all thin out in shade.[1][2]",
+    "soil": "Unfussy. It grows well on dry soils and tolerates a wide pH range, including Boulder's alkaline clay-loam, as long as drainage is reasonable. This adaptability is why it thrives here where fussier hedges struggle.[2]",
+    "water": "Low to moderate. Water regularly the first year or two to establish; after that it is genuinely drought-tolerant and gets by on natural precipitation with only an occasional deep soak in extended summer heat.[2]",
+    "spacing": "For a solid hedge, space plants about 2–3 ft apart in the row so they knit into a continuous screen. As a single specimen, give it 5–6 ft to reach its full ~6–10 ft height and 5–8 ft spread.[1][2]",
+    "feeding": "Minimal — it performs well in average, even lean, soil and rarely needs feeding. A light spring mulch is plenty; skip high-nitrogen fertilizer, which pushes soft growth that is more prone to fire blight.[2]",
+    "pruning": "Hedge cotoneaster shears better than almost any other shrub grown here, which is exactly why it became the go-to tall hedge. For a formal look, shear in late spring once the small flowers fade and again in mid-summer to keep the faces tight; do heavier thinning or renewal — cutting the oldest stems back to the base — in early spring before growth starts. Grown as an informal screen it needs little more than removing dead or wayward stems. The real thing to watch is fire blight: cotoneaster is in the rose family alongside apple, pear, and hawthorn, so avoid big cuts in warm, wet weather, and if shoot tips suddenly blacken and hook over like a shepherd's crook, cut them out 8–12 in below the damage in dry weather, sterilizing the blade with 10% bleach or 70% alcohol between every cut so you don't spread it. A badly blighted or overgrown hedge can be renewed by cutting the whole thing back to about 6 in in dormant late winter. Before any summer shearing, check the dense interior for nesting birds.[2][3][4]",
+    "maintenance": "Low-care once established. Its main quirk is that birds eat the berries and drop the seed, so volunteer seedlings can pop up in beds and along fences — pull them while young (this bird-spread habit is why cotoneaster is treated as invasive in milder regions, though not in Colorado). Otherwise just rake up dropped berries near walks and keep an eye out for the pests below.[2][3]",
+    "troubles": "Fire blight is the most serious problem — blackened, wilted shoot tips that look scorched; manage it by pruning as above and avoiding lush, overfed growth. Watch too for pear slug (pear sawfly larvae that skeletonize leaves), cotoneaster webworm (webbed, tied-together foliage), oystershell scale on older stems, and spider mites in hot, dusty, dry sites. None are usually fatal on an established hedge.[3][4]",
+    "bloom": "Small pinkish-white flowers open in late spring (roughly May–June) — modest individually but loved by bees. Glossy black pomes, 8–10 mm across, ripen in late summer and persist on the bare branches well into winter until birds strip them.[1][2]"
+  },
+  "edible": {
+    "level": "toxic",
+    "summary": "Grown as an ornamental hedge, not a food — the berries and leaves are mildly poisonous.[2]",
+    "caution": "Like all cotoneasters, the berries and foliage contain cyanogenic glycosides (which release small amounts of cyanide as they break down); the toxicity is generally low, but eating a quantity can cause nausea, vomiting, and stomach upset in people and pets, and grazing animals such as horses are more susceptible. Keep children and pets from gorging on the fruit. Birds, by contrast, eat the berries safely and are the plant's main seed-dispersers — do not take that as a sign the fruit is edible for humans.[2][5]"
+  },
+  "fact_src": {
+    "size": [
+      1
+    ],
+    "sun": [
+      1,
+      2
+    ],
+    "water": [
+      2
+    ],
+    "spread": [
+      1,
+      2
+    ],
+    "seasons": [
+      1,
+      2
+    ],
+    "wildlife": [
+      2
+    ],
+    "toxic": [
+      2
+    ],
+    "ph": [
+      2
+    ],
+    "origin": [
+      1
+    ],
+    "habitat": [
+      1
+    ]
+  },
+  "references": [
+    {
+      "name": "Oregon State University — Landscape Plants: Cotoneaster lucidus",
+      "url": "https://landscapeplants.oregonstate.edu/plants/cotoneaster-lucidus"
+    },
+    {
+      "name": "Royal Horticultural Society — Cotoneaster (growing guide)",
+      "url": "https://www.rhs.org.uk/plants/cotoneaster/growing-guide"
+    },
+    {
+      "name": "Penn State Extension — Cotoneaster Diseases",
+      "url": "https://extension.psu.edu/cotoneaster-diseases"
+    },
+    {
+      "name": "Colorado State University Extension — Fire Blight (fact sheet 2.907)",
+      "url": "https://extension.colostate.edu/topic-areas/yard-garden/fire-blight-2-907/"
+    },
+    {
+      "name": "NC State Extension Plant Toolbox — Cotoneaster (genus-wide cyanogenic-glycoside toxicity)",
+      "url": "https://plants.ces.ncsu.edu/plants/cotoneaster-apiculatus/"
+    }
+  ],
+  "shots": [
+    {
+      "local": "images/fa-fruit-t.jpg",
+      "full": "images/fa-fruit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/565119217/large.jpg",
+      "s": "fall",
+      "cap": "Ripe glossy-black berry clusters · © ecclectible (CC-BY-NC) / iNaturalist",
+      "by": "ecclectible",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/312964610"
+    },
+    {
+      "local": "images/sp-flower-t.jpg",
+      "full": "images/sp-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/41796076/large.jpeg",
+      "s": "spring",
+      "cap": "Pinkish-white spring flowers · © rboles (CC-BY) / iNaturalist",
+      "by": "rboles",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/26899181"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/84651924/large.jpg",
+      "s": "summer",
+      "cap": "Glossy oval summer foliage · © Yaroslav Magazov (CC-BY-NC) / iNaturalist",
+      "by": "Yaroslav Magazov",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/53230275"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/640095348/large.jpg",
+      "s": "summer",
+      "cap": "Whole-shrub form · © Salamandra (CC-BY-NC) / iNaturalist",
+      "by": "Salamandra",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/350793217"
+    },
+    {
+      "local": "images/su-screen-t.jpg",
+      "full": "images/su-screen.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/292267965/large.jpg",
+      "s": "summer",
+      "cap": "Dense leafy hedge screen · © valeriiiiyyy (CC-BY-NC) / iNaturalist",
+      "by": "valeriiiiyyy",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/168627178"
+    },
+    {
+      "local": "images/fa-color-t.jpg",
+      "full": "images/fa-color.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/99492377/large.jpg",
+      "s": "fall",
+      "cap": "Scarlet autumn foliage · © Maria Khoreva (CC-BY) / iNaturalist",
+      "by": "Maria Khoreva",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/62122032"
+    },
+    {
+      "local": "images/fa-berry-t.jpg",
+      "full": "images/fa-berry.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/572185124/large.jpg",
+      "s": "fall",
+      "cap": "Single black pome, close-up · © Bentleigh W. (CC-BY-NC) / iNaturalist",
+      "by": "Bentleigh W.",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/316679997"
+    },
+    {
+      "local": "images/wi-winter-t.jpg",
+      "full": "images/wi-winter.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/597793683/large.jpg",
+      "s": "winter",
+      "cap": "Persistent black fruit in snow · © centibead (CC-BY-NC) / iNaturalist",
+      "by": "centibead",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/329750291"
+    }
+  ]
+}

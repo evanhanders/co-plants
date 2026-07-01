@@ -30,9 +30,10 @@
     "water": "More drought-tolerant than other spruces and fairly xeric once its roots are established, but it is not a true dryland tree — in the wild it favors moist montane streambanks and subirrigated sites, and its shallow roots make it sensitive to extended drought.[1][2] On the Front Range, give it a deep soak every couple of weeks in hot, dry stretches and water through dry winters; chronic drought stress is the single biggest trigger for cytospora canker.[5]",
     "spacing": "Slow- to medium-growing but ultimately large and very long-lived (commonly 70–115 ft and several centuries old in the wild; 30–60 ft in cultivation) — give each tree a 15–20 ft radius of open ground and don't crowd it against other trees or structures.[2][3][4]",
     "propagation": "Grown from seed: collect the pendant cones in fall as they ripen to light chestnut-brown, dry them to release the seed, and sow.[4] Cold-moist stratification at ~40°F helps but is not always required.[1] Named blue cultivars do not come true from seed and are propagated vegetatively by grafting or cuttings rather than seed.[3]",
-    "maintenance": "Very low maintenance — it needs no routine pruning and naturally holds its pyramidal form; simply remove dead, broken, or cankered branches, cutting cleanly back to the branch collar and leaving the wound to dry (no wound dressing).[5] Keep it well-watered to fend off stress diseases.",
+    "maintenance": "Very low maintenance. Keep it deeply and regularly watered to fend off stress diseases like cytospora canker.[5]",
     "troubles": "The Front Range's chronic problem is cytospora canker, a stress fungus that kills lower branches from the bottom up on drought-stressed or wounded trees — prevent it by keeping the tree well-watered and unwounded.[5] Also watch for needlecast diseases, spruce spider mites (and rust mites), Cooley spruce gall adelgids, and aphids; most are manageable and worse on stressed trees.[3][4]",
-    "companions": "Pair it with other acid-tolerant, well-drained-soil companions and let its dense evergreen mass anchor a mixed border or windbreak; its shallow roots and dense shade discourage thirsty underplantings, so keep the root zone mulched rather than crowded.[2][3]"
+    "companions": "Pair it with other acid-tolerant, well-drained-soil companions and let its dense evergreen mass anchor a mixed border or windbreak; its shallow roots and dense shade discourage thirsty underplantings, so keep the root zone mulched rather than crowded.[2][3]",
+    "pruning": "Blue spruce keeps its own dense pyramid and needs very little pruning — like most conifers.[7] It can be pruned in late winter to early spring; because spruce carry lateral (side) buds, a branch cut back to a live bud or side branch will resprout, so shape it that way rather than shearing or topping it, and cut out any second leader that competes with the top to keep a single central spire.[7] The essential cuts, though, are sanitary: remove dead, broken, or cankered branches back to the branch collar and leave the wound to dry with no dressing, working in dry weather — Front-Range blue spruce is prone to cytospora canker, which spreads on wet, freshly wounded tissue.[5]"
   },
   "references": [
     {
@@ -58,6 +59,10 @@
     {
       "name": "Edible New Mexico — Foraged Spruce Tips",
       "url": "https://www.ediblenm.com/foraged-spruce-tips/"
+    },
+    {
+      "name": "University of Minnesota Extension — Pruning trees and shrubs",
+      "url": "https://extension.umn.edu/planting-and-growing-guides/pruning-trees-and-shrubs"
     }
   ],
   "fact_src": {

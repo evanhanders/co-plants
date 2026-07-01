@@ -122,8 +122,9 @@
     "water": "One of the most drought-resistant pines, needing only 12–18 in of rainfall a year — a true xeric tree that needs no supplemental water once established on the Front Range, though it grows best on slightly wetter sites.[1]",
     "spacing": "Slow-growing and small — commonly 10–30 ft tall with a rounded, spreading crown — but extremely long-lived (often 400+ years); give it open room and don't crowd it.[1][2]",
     "propagation": "Grown from seed: sow fresh, untreated seed in late fall, or give stored seed about 6–8 weeks of cold-moist stratification (~40°F).[2] Seedlings establish best in the light shade of a nurse shrub with adequate first-summer moisture; germination of good seed runs above 80%.[1] Collect cones in late summer before they open and dry them to release the seed.[2]",
-    "maintenance": "Very low maintenance; mainly remove dead wood. It is somewhat susceptible to wind damage and the pitchy wood is flammable, so avoid crowding it against structures.[2]",
-    "harvest": "Edible piñon nuts ripen in fall, but good seed crops come only every 4–7 years, and trees don't bear significant quantities of seed until ~75–100 years old.[1]"
+    "maintenance": "Very low maintenance. The pitchy wood is flammable and the tree is prone to wind damage, so avoid crowding it against structures.[2]",
+    "harvest": "Edible piñon nuts ripen in fall, but good seed crops come only every 4–7 years, and trees don't bear significant quantities of seed until ~75–100 years old.[1]",
+    "pruning": "Piñon needs essentially no pruning — like most conifers it holds its form on its own.[3] Remove dead, broken, or storm-damaged wood back to the trunk or a live branch as it appears.[2] If you want denser growth, pinch or cut the soft new spring 'candles' back by up to two-thirds in late spring while they are still soft — that is the only way to shape a pine.[3] Never cut back into bare, needle-free old wood: pines have no lateral buds on old stems, so such a cut removes the branch's only growing points and leaves a permanent dead stub.[3]"
   },
   "references": [
     {
@@ -133,6 +134,10 @@
     {
       "name": "Lady Bird Johnson Wildflower Center — Pinus edulis",
       "url": "https://www.wildflower.org/plants/result.php?id_plant=pied"
+    },
+    {
+      "name": "University of Minnesota Extension — Pruning trees and shrubs",
+      "url": "https://extension.umn.edu/planting-and-growing-guides/pruning-trees-and-shrubs"
     }
   ],
   "fact_src": {

@@ -110,8 +110,9 @@
     "sow": "Sow ripe seed in fall in a protected outdoor bed or pot so it gets natural winter chilling, or sow stratified seed in spring. Be patient — germination is slow and uneven.[1]",
     "stratify": "Cold-moist stratify the seed for about 60–180 days at 33–40°F (a fall outdoor sowing accomplishes this naturally) to break dormancy before it will germinate.[1]",
     "bloom": "Nodding, solitary lavender-blue to purple bells in spring, roughly May into July, followed by silky, plumed seedheads that catch the light through summer — it flowers on the previous season's wood.[1]",
-    "maintenance": "Low. Because it blooms in spring on old (previous-season) wood, prune only lightly and only just after flowering — tidy or shorten stems then, never with a hard late-winter cutback, which would remove the wood that carries the spring flowers. Let the ornamental seed plumes stand; its foliage dies back in winter and breaks again from the woody base.[1][3]",
-    "troubles": "Largely trouble-free in our dry air; the main pitfall is a too-wet or too-sunny, hot site. Like other clematis its sap can irritate skin, so wear gloves when cutting it back (see 'Edible parts'). Note this is the well-behaved native clematis — do NOT confuse it with Clematis orientalis, the yellow orange-peel clematis, a CO List B noxious weed.[3]"
+    "maintenance": "Very low upkeep beyond its light after-flowering prune (see 'pruning'); let the divided foliage and silky seed plumes do their thing and it largely fends for itself once established.[1]",
+    "troubles": "Largely trouble-free in our dry air; the main pitfall is a too-wet or too-sunny, hot site. Like other clematis its sap can irritate skin, so wear gloves when cutting it back (see 'Edible parts'). Note this is the well-behaved native clematis — do NOT confuse it with Clematis orientalis, the yellow orange-peel clematis, a CO List B noxious weed.[3]",
+    "pruning": "Rocky Mountain clematis needs only Pruning Group 1 (minimal) treatment: it blooms in spring on the previous season's old wood, so the single rule is to prune lightly and only right after flowering.[3][5] Once the spring bells have faded, simply tidy the plant — remove any dead, weak, or outgrown stems and shorten anything that has strayed too far.[3][5] Never give it a hard late-winter cutback the way you would a Group 3 garden clematis; that removes the very wood that carries the spring flowers, and you lose the bloom.[1][3] Let the ornamental silvery seed plumes stand into fall and winter — the top dies back and breaks again from the woody base each spring.[1]"
   },
   "edible": {
     "level": "toxic",
@@ -134,6 +135,10 @@
     {
       "name": "ASPCA Animal Poison Control — Clematis (toxic to dogs, cats, horses; irritant glycoside protoanemonin)",
       "url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/clematis"
+    },
+    {
+      "name": "RHS — Clematis Group 1 Pruning Guide",
+      "url": "https://www.rhs.org.uk/plants/clematis/group-one-pruning-guide"
     }
   ],
   "fact_src": {

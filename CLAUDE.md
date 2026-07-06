@@ -1036,7 +1036,7 @@ ground every statement in an authority cited in `references`.
 
 ## Current plant roster (in the live site)
 
-**229 specimens** (`plants/manifest.json` is the source of truth for the exact count), all verified
+**235 specimens** (`plants/manifest.json` is the source of truth for the exact count), all verified
 non-weed in CO and all carrying a full `care` block (incl.
 `planting` + `propagation`) **and a repo-hosted photo reel** (close-up + structure, seasonal
 where good shots exist). Every plant's detail page is **fully cited** — a numbered
@@ -1225,6 +1225,8 @@ prune **after** flowering; maples/grape bleed if cut late-winter (prune in summe
 only in dormant winter (borer/disease); conifers won't resprout from bare old wood; lavender/sages never cut into
 leafless old wood; clematis by RHS pruning group (jackmanii = Group 3 hard cut, native *C. columbiana* = Group 1
 minimal); fire-blight-prone Rosaceae (apple, pear, hawthorn, cotoneaster) get dry-weather cuts + tool sterilization.
+
+**Walk-sighting batch (July 2026):** identified **eight** plants a user photographed on a walk and added the **six** that weren't already in the guide (coreopsis and blanket flower were already covered → skipped). Verified non-weed vs CO lists A/B/C 2026-07-06; sourced via parallel agents (one per plant): **pink skullcap** (*Scutellaria suffrutescens*, a `Non-native` Subshrub — borderline ~zone 7, honestly framed as a warm-microclimate/overwintered-pot plant, not ground-hardy here); **bluebeard / blue mist spirea** (*Caryopteris × clandonensis*, Subshrub — cut hard each spring, blooms on new wood, a top late-season bee plant); **oriental fountain grass** (*Pennisetum orientale* syn. *Cenchrus orientalis*, a Grass — its `care` explicitly distinguishes this hardy, self-sowing-but-manageable species from the truly invasive tender *P. setaceum*, which is not hardy here); **four o'clock** (*Mirabilis jalapa*, a Forb `Tender perennial` — slug `annuals/four-oclock`, kept distinct from the existing CO-native `desert-four-oclock` = *M. multiflora*; `edible` set **toxic** — poisonous black seeds + tuberous root, trigonelline; dig-and-store the tuber like dahlia); **trumpet vine** (*Campsis radicans*, a woody Vine — `Non-native` per the SE-US-but-not-Front-Range convention, hummingbird magnet, `edible` **toxic** for cow-itch contact dermatitis; aggressive root-suckering/self-seeding + aerial-rootlet structural damage baked into `spread`/`maintenance`); and **hawthorn** (*Crataegus sp.*, a Tree — a deliberate **genus-level** entry: the user's tree was IDed from photos only to genus (glossy unlobed leaves + round red star-calyx haws best match a cockspur-type), so the blurb/care/edible state the species-uncertainty honestly and the reel uses honestly-captioned representative *Crataegus* shots; `edible` caution — haw flesh cooked, spit the cyanogenic seeds). Reels are 7–9 CC shots each via `tools/inat_montage.py` (iNat open data), 720×480 smart-crop thumbs; every entry fully cited (`check_refs` + `check_citations` pass) with provenance.
 
 **Trees**
 - River hawthorn (*Crataegus rivularis*) (N) — Thorny native small tree; white spring flowers, dark edible haws, superb wildlife cover. A caterpillar keystone (~90 Lepidoptera). *(Riparian — wants more water; edible haws, spit the cyanogenic seeds.)*

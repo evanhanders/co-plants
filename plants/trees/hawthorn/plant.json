@@ -1,0 +1,226 @@
+{
+  "common": "Hawthorn",
+  "botanical": "Crataegus sp.",
+  "type": "Tree",
+  "lifecycle": "Perennial",
+  "native": "Non-native",
+  "flower_color": [
+    "white"
+  ],
+  "bloom": [
+    "spring"
+  ],
+  "blurb": "A thorny small tree in flat clusters of white spring flowers, then round red 'haws' — each capped by a persistent five-pointed calyx star — that hang on into winter to feed the birds; glossy, toothed, mostly unlobed leaves color orange-red in fall. This is a planted ornamental hawthorn identified from photos only to genus: the exact species is uncertain, so it is written honestly at genus level (its unlobed leaves and round red haws best match a cockspur-type). Like all its rose-family kin (apple, pear), it is fire-blight-prone.",
+  "size": "~15–30 ft tall × 20–30 ft wide (small, broad, often flat-topped tree)",
+  "sun": "Full sun to part shade",
+  "water": "Moderate; drought-tolerant once established",
+  "spread": "Single- or multi-stemmed thorny small tree with a broad, often flat-topped crown; long, sharp branch thorns",
+  "seasons": "Flat clusters of white flowers in spring; glossy toothed leaves in summer; round red haws in fall persisting into winter; orange-red fall foliage and bare thorny structure",
+  "wildlife": "Excellent bird food (haws) and dense thorny nesting cover; nectar and pollen for bees and other insects; a caterpillar/Lepidoptera host",
+  "deer": "Browsed when young, but the sharp thorns deter larger browsers",
+  "toxic": "The ripe haw flesh is edible cooked (see Edible parts), but the hard seeds should be spat out, not eaten; the long branch thorns are sharp",
+  "winter": true,
+  "verified": "2026-07-06",
+  "origin": "Cultivated ornamental hawthorn; exact species and native range uncertain (genus Crataegus is North-temperate)",
+  "habitat": "(genus) open woodland, hedgerows, forest edges and streamsides",
+  "ph": {
+    "min": 5.5,
+    "ideal": 7.0,
+    "max": 8.0
+  },
+  "care": {
+    "hardiness": "Hawthorns are thoroughly cold-hardy small trees — cockspur-type species run to about USDA zone 3 — so Boulder's 5b–6a winters are no threat and no winter protection is needed. (Because this tree was identified only to genus, treat its exact hardiness as that of a typical hardy Crataegus.)[1][2]",
+    "planting": "Plant a balled or container tree in spring after the mid-May last frost, or in early fall while the soil is still warm, in a well-drained spot with room for a broad, thorny crown. Dig the hole as deep as the rootball and twice as wide, keep the graft/root flare at grade, and water in deeply. Hawthorns are adaptable to most soils but resent constantly wet feet, so avoid low spots that stay soggy. Site it away from paths, patios, and play areas — the thorns are long and sharp.[1][3]",
+    "sun": "Full sun gives the heaviest flowering, the most fruit, and the best fall color; it tolerates part shade (its natural woodland-edge setting) but blooms and fruits more thinly there.[1][2]",
+    "soil": "Unfussy about soil — it grows on clay, loam, or sand and tolerates a wide pH range from acidic through neutral to alkaline, including Boulder's alkaline clay, as long as drainage is reasonable. This adaptability is a big part of why hawthorns are dependable street and yard trees here.[1][2][3]",
+    "water": "Moderate. Water regularly through the first year or two to establish; after that it is genuinely drought-tolerant and gets by on natural precipitation with an occasional deep soak in prolonged summer heat. It dislikes waterlogged ground.[2][3]",
+    "spacing": "Give a specimen tree 20–30 ft of clear space to spread into its broad crown; set closer (roughly 3–5 ft apart in a row) only if you deliberately want a thorny stock-proof hedge.[1][2]",
+    "propagation": "Named hawthorns are grafted, and seed will not come true — especially important here, since this tree's exact species is uncertain, so any seedlings are a genetic gamble. If you do grow from seed, expect deep double dormancy: the hard-coated seed needs a warm-moist period followed by a long cold-moist period and often takes one to two years to germinate, so fall-sow outdoors and be patient. Softwood cuttings are difficult; grafting onto seedling rootstock is the standard way to reproduce a specific tree.[1][3]",
+    "bloom": "Flat corymbs of small white five-petaled flowers open in mid-to-late spring (roughly May here), lasting about a week; the scent is famously musky/fishy, which draws flies and other pollinators. Round red haws follow, ripening in fall and persisting on the bare branches into winter until birds strip them.[1][2]",
+    "feeding": "Little needed — hawthorns perform well in average, even lean soil. A light spring mulch is plenty; skip high-nitrogen fertilizer, which forces soft growth that is far more susceptible to fire blight.[3][6]",
+    "pruning": "Prune in the dormant season — mid-winter to just before bud break — while the tree is leafless: thin out dead, crossing, or congested wood, remove root suckers and watersprouts, and lift the lower canopy to shape a clean small tree, all the while minding the long thorns. Hawthorn also takes shearing well as a hedge, trimmed in late spring and summer to a tapered profile. The real hazard on any rose-family tree is fire blight: avoid big cuts in warm, wet, actively growing weather when the bacterium spreads most freely, and if you see a blackened, wilted 'shepherd's-crook' shoot, cut it out 8–12 in below the visible damage into healthy wood during dry weather, disinfecting the blade with 10% bleach or 70% alcohol between every cut so you don't inoculate fresh wounds.[3][6][2]",
+    "maintenance": "Low-care once established. Rake up dropped haws near walks so they don't stain or sprout, keep an eye out for the diseases and pests below, and remember the thorns when working around or under it. Because it fruits heavily, expect bird traffic (a feature, not a bug).[2][3]",
+    "troubles": "As a rose-family tree it can see fire blight (blackened, scorched-looking shoot tips — manage by pruning as above and avoiding lush overfed growth) and the rust diseases: cedar-hawthorn rust and cedar-quince rust both alternate between hawthorns and junipers, so siting it well away from junipers/red-cedar helps break the cycle; rust causes orange leaf and fruit spotting but is rarely fatal. Fungal leaf spots, powdery mildew, aphids, borers, and scale can also appear; good airflow and a healthy, unstressed tree shrug most of it off.[2][6]",
+    "harvest": "Pick the haws when fully ripe and deep red, typically fall. The flesh is mealy, dry, and full of hard seeds, so the fruit is far better cooked and strained than eaten out of hand — cook it down into jelly, jam, or syrup and strain off the seeds. Do not chew or eat the hard seeds, and mind the thorns while picking. Because the exact species is uncertain, be conservative: confirm the fruit is clearly ripe and cook it.[1][5]"
+  },
+  "edible": {
+    "level": "caution",
+    "food": true,
+    "kinds": [
+      "fruit"
+    ],
+    "card": "Ripe red haws, cooked (jelly/syrup) — spit the seeds",
+    "summary": "The flesh of the ripe red haws is edible, best cooked into jelly, jam, or syrup — but spit out the hard seeds, and note the exact species here is uncertain, so eat conservatively.[1][5]",
+    "parts": "Only the flesh of the fully ripe, deep-red haw is eaten. Hawthorn haws are a traditional foraged fruit, gathered in fall and most often cooked into jellies, jams, syrups, wines, and 'ketchups.' The flesh is rather mealy, dry, and seedy, so it is far better cooked and strained than eaten fresh; each haw holds up to about five hard seeds that cling together and are eaten around, not through.[1][5]",
+    "preparation": "Harvest fully ripe red haws in fall, cook the flesh down, and strain out the hard seeds to make jelly, jam, or syrup. Do not chew or crush the seeds. Mind the sharp thorns while picking.[1][5]",
+    "caution": "Eat only the flesh of clearly ripe (red) haws, and ideally cooked — eaten raw in quantity haws can cause mild stomach upset.[5] The large, hard seeds should be spat out, never chewed or crushed: hawthorns carry cyanogenic glycosides, and like other rose-family pip and stone fruits (apple, cherry, chokecherry) the seeds are best not eaten.[7] Because this tree is identified only to genus — the exact species is uncertain — treat that as one more reason for caution: confirm the plant and eat only well-cooked flesh of ripe red haws, and never the seeds. Also mind the plant's long, sharp thorns.[5][7]"
+  },
+  "fact_src": {
+    "size": [
+      1,
+      2
+    ],
+    "sun": [
+      1,
+      2
+    ],
+    "water": [
+      2,
+      3
+    ],
+    "spread": [
+      1,
+      2
+    ],
+    "seasons": [
+      1,
+      2
+    ],
+    "wildlife": [
+      1,
+      4,
+      5
+    ],
+    "deer": [
+      2
+    ],
+    "toxic": [
+      1,
+      5
+    ],
+    "ph": [
+      1,
+      2,
+      3
+    ],
+    "origin": [
+      1
+    ],
+    "habitat": [
+      3,
+      5
+    ]
+  },
+  "references": [
+    {
+      "name": "NC State Extension Plant Toolbox — Crataegus crus-galli (Cockspur Hawthorn)",
+      "url": "https://plants.ces.ncsu.edu/plants/crataegus-crus-galli/"
+    },
+    {
+      "name": "Missouri Botanical Garden Plant Finder — Crataegus crus-galli",
+      "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=286381"
+    },
+    {
+      "name": "Royal Horticultural Society — Hawthorn (Crataegus) growing guide",
+      "url": "https://www.rhs.org.uk/plants/hawthorn/growing-guide"
+    },
+    {
+      "name": "Lady Bird Johnson Wildflower Center — Crataegus crus-galli",
+      "url": "https://www.wildflower.org/plants/result.php?id_plant=CRCR2"
+    },
+    {
+      "name": "Woodland Trust — Hawthorn (Crataegus monogyna): wildlife value & edibility",
+      "url": "https://www.woodlandtrust.org.uk/trees-woods-and-wildlife/british-trees/a-z-of-british-trees/hawthorn/"
+    },
+    {
+      "name": "Colorado State University Extension — Fire Blight (fact sheet 2.907)",
+      "url": "https://extension.colostate.edu/topic-areas/yard-garden/fire-blight-2-907/"
+    },
+    {
+      "name": "Plants For A Future — Crataegus (cyanogenic glycosides in the genus)",
+      "url": "https://pfaf.org/user/Plant.aspx?LatinName=Crataegus+monogyna"
+    }
+  ],
+  "shots": [
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/158227548/large.jpeg",
+      "s": "summer",
+      "cap": "Whole thorny small tree, glossy unlobed leaves (representative cockspur-type Crataegus crus-galli) · © Erin Haase (CC-BY-NC) / iNaturalist",
+      "by": "Erin Haase",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/95319859"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/529444146/large.jpg",
+      "s": "summer",
+      "cap": "Glossy, toothed, mostly unlobed leaves (representative C. crus-galli) · © Simon Gurvets (CC-BY-NC) / iNaturalist",
+      "by": "Simon Gurvets",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/294157659"
+    },
+    {
+      "local": "images/sp-flower-t.jpg",
+      "full": "images/sp-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/286172814/large.jpg",
+      "s": "spring",
+      "cap": "White five-petaled flowers, face-on (representative Crataegus) · © Mary Landon (CC-BY-NC) / iNaturalist",
+      "by": "Mary Landon",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/165327700"
+    },
+    {
+      "local": "images/sp-bloom-t.jpg",
+      "full": "images/sp-bloom.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/342993113/large.jpeg",
+      "s": "spring",
+      "cap": "Flat clusters of white spring flowers in bloom (representative Crataegus) · © Andrew Braun (CC-BY-NC) / iNaturalist",
+      "by": "Andrew Braun",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/195029527"
+    },
+    {
+      "local": "images/fa-fruit-t.jpg",
+      "full": "images/fa-fruit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/13340244/large.jpeg",
+      "s": "fall",
+      "cap": "Ripe red haws with the persistent five-pointed calyx star (representative Crataegus) · © Maria Rita Gelso (CC-BY-NC) / iNaturalist",
+      "by": "Maria Rita Gelso",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/9745732"
+    },
+    {
+      "local": "images/su-thorn-t.jpg",
+      "full": "images/su-thorn.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/318000358/large.jpg",
+      "s": "summer",
+      "cap": "Long sharp branch thorn with developing haws (representative Crataegus) · © Brian Keener (CC-BY-NC) / iNaturalist",
+      "by": "Brian Keener",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/182391350"
+    },
+    {
+      "local": "images/fa-color-t.jpg",
+      "full": "images/fa-color.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/589112978/large.jpg",
+      "s": "fall",
+      "cap": "Orange-red autumn foliage (representative Crataegus) · © Frank Hassler (CC-BY-NC) / iNaturalist",
+      "by": "Frank Hassler",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/325382156"
+    },
+    {
+      "local": "images/fa-tree-t.jpg",
+      "full": "images/fa-tree.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/100762298/large.jpeg",
+      "s": "fall",
+      "cap": "Mature broad, flat-topped hawthorn in fall, in context (representative Crataegus) · © Philippe Hénault (CC-BY-NC) / iNaturalist",
+      "by": "Philippe Hénault",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/62846108"
+    },
+    {
+      "local": "images/wi-winter-t.jpg",
+      "full": "images/wi-winter.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/365434370/large.jpeg",
+      "s": "winter",
+      "cap": "Red haws persisting on bare branches in winter (representative Crataegus) · © okanipg (CC-BY-NC) / iNaturalist",
+      "by": "okanipg",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/206645694"
+    }
+  ]
+}

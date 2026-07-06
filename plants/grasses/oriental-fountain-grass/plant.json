@@ -1,0 +1,196 @@
+{
+  "common": "Oriental fountain grass",
+  "botanical": "Pennisetum orientale",
+  "aka": [
+    "Fountain grass",
+    "'Karley Rose' fountain grass",
+    "Cenchrus orientalis"
+  ],
+  "type": "Grass",
+  "lifecycle": "Perennial",
+  "native": "Non-native",
+  "flower_color": [],
+  "bloom": [
+    "summer",
+    "fall"
+  ],
+  "blurb": "A tidy clumping ornamental grass topped by long, soft purplish-pink 'bottlebrush' plumes that arch like a fountain from midsummer into fall — hardier and far better-behaved than the tender invasive fountain grasses.",
+  "size": "~2–3 ft tall × 2–4 ft wide",
+  "sun": "Full sun (tolerates part shade)",
+  "water": "Low–moderate; drought-tolerant once established, needs sharp drainage",
+  "spread": "Tidy clumping bunchgrass; can self-sow in the garden — deadhead to manage; not the tender invasive P. setaceum",
+  "seasons": "Gray-green fountain of fine foliage spring–summer; pinkish-white to rose-purple bottlebrush plumes late summer into fall; fades to tan and stands into early winter",
+  "wildlife": "Wind-pollinated grass — minor pollinator value; plumes offer cover, finch seed forage, and winter structure",
+  "deer": "Generally deer-resistant",
+  "toxic": "No reported toxicity to people or pets; grown as an ornamental",
+  "winter": true,
+  "verified": "2026-07-06",
+  "origin": "Central & Southwest Asia (Caucasus & Anatolia to Central Asia and India)",
+  "habitat": "Dry rocky slopes, steppe and open stony ground",
+  "ph": {
+    "min": 6.0,
+    "ideal": 6.8,
+    "max": 7.5
+  },
+  "care": {
+    "hardiness": "A warm-season grass hardy to about USDA zone 6 as the straight species, and down to zone 5a in the tough cultivar 'Karley Rose', so it comes through Boulder's 5b–6a winters — the cultivars most reliably.[1][2] It greens up late in spring and blooms mid-to-late summer into fall; in an exposed, windy site a light winter mulch over the crown is cheap insurance the first year or two.[1]",
+    "planting": "Set out container plants in late spring after the mid-May average last frost, once the soil has warmed — as a warm-season grass it establishes best in warm ground, not cold spring soil.[1][2] Water it in and keep it evenly moist through the first season while roots take hold; after that it needs far less. It grows well in a large, well-drained pot for the season, but a potted plant's roots are much less cold-hardy than the top, so a container left out over winter needs a big, sheltered pot (or a move to an unheated garage) rather than a small exposed one.[1]",
+    "sun": "Full sun for the densest clump, the most plumes, and the best plume color; it takes light or part shade but flowers sparsely and flops in too much shade.[1][2] Our high-altitude sun and summer heat suit it well.[1]",
+    "soil": "Average, well-drained soil is ideal — it does best in sandy or loamy ground and, importantly, dislikes heavy, wet clay, the one soil to avoid.[1] In Boulder's tight alkaline clay, plant it on a slope or a raised bed and work in grit and compost to sharpen drainage, or it can rot over a wet winter.[1][2]",
+    "water": "Low to moderate. Water regularly the first season to establish; once mature it is genuinely drought-tolerant and gets by on occasional deep summer soaks.[1][2] Good drainage matters more than watering — cold, wet winter soil is what kills it, not dryness.[1]",
+    "spacing": "Give each clump about 2–3 ft; mature plants reach roughly 2–3 ft tall and 2–4 ft wide, so a row of three drifts nicely without crowding.[1][2] Do not confuse it with the tender annual fountain grass (Pennisetum setaceum, crimson/African fountain grass), a warm-climate zone-9 plant grown as an annual here that is invasive in parts of California and the southwestern U.S.; this hardy Oriental species is not on Colorado's noxious-weed lists, but keep the two straight when buying.[2][3]",
+    "propagation": "Increase it by DIVISION in spring as growth resumes — dig and split an established clump; named selections like 'Karley Rose' come true only this way.[1][2] It can also be raised from seed, but seedlings are variable and are exactly the volunteers you may want to prevent (see below).[2]",
+    "bloom": "Soft, fluffy 'bottlebrush' plumes, roughly 8–12 in long, arch up above the foliage from mid/late summer into fall; they open pinkish-white with a pink cast and deepen to smoky mauve/rose-purple as they age.[1][2] They dry well and hold into early winter before shattering after hard freezes.[4]",
+    "feeding": "Little to none — it performs well in lean, average soil, and rich feeding or high nitrogen only pushes floppy growth. A thin spring topdressing of compost is plenty.[1]",
+    "maintenance": "One main chore: cut the whole clump to the ground in LATE WINTER, before new shoots push — it flushes late anyway, so cut too late and you'll be trimming around fresh green blades.[1] To keep it from self-sowing, shear the plumes off before the seed shatters in fall; the hardy fountain grasses can drop viable seed and volunteer around the garden, so deadheading is the simple control (a separate matter from the truly invasive tender P. setaceum).[2][4]",
+    "selfsow": "Yes — as a hardy, seed-fertile fountain grass it can self-seed in the garden, and NC State flags it as having the potential to be weedy.[2] It is not a Colorado noxious weed, but pull unwanted volunteers while young and deadhead the plumes before frost if you want to prevent them; siting it away from wild or natural areas is the cautious choice.[2][4]",
+    "troubles": "Largely trouble-free. Its real enemy is cold, wet, poorly drained soil, which rots the crown over winter — the reason to give it sharp drainage here.[1] Foliar rust or leaf spot can appear in wet, humid spells (uncommon in dry Boulder), and deer and rabbits generally leave it alone.[2]",
+    "companions": "A fine-textured, arching accent among stiffer, mounding perennials — pair it with catmint, salvia, coneflower, black-eyed Susan, sedum, and yarrow for a border that reads well from summer into winter.[2]"
+  },
+  "edible": {
+    "level": "inedible",
+    "food": false,
+    "summary": "Not edible — an ornamental grass grown for its foliage and plumes, with no culinary use.[2]",
+    "caution": "No part of Oriental fountain grass is used as food and there are no documented edible uses; it is grown purely as an ornamental. It is not reported as toxic to people or pets, but the barbed, awned seedheads can be a mechanical irritant to grazing animals, and the absence of any food documentation means it should simply be treated as inedible — don't eat it.[2][3]"
+  },
+  "fact_src": {
+    "size": [
+      1,
+      2
+    ],
+    "sun": [
+      1,
+      2
+    ],
+    "water": [
+      1,
+      2
+    ],
+    "spread": [
+      2,
+      4
+    ],
+    "seasons": [
+      1,
+      2
+    ],
+    "wildlife": [
+      2
+    ],
+    "deer": [
+      2
+    ],
+    "toxic": [
+      2
+    ],
+    "ph": [
+      2
+    ],
+    "origin": [
+      2
+    ],
+    "habitat": [
+      2
+    ]
+  },
+  "references": [
+    {
+      "name": "Missouri Botanical Garden — Plant Finder: Pennisetum orientale 'Karley Rose'",
+      "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=250176"
+    },
+    {
+      "name": "NC State Extension Gardener Plant Toolbox — Pennisetum orientale",
+      "url": "https://plants.ces.ncsu.edu/plants/pennisetum-orientale/"
+    },
+    {
+      "name": "NC State Extension Gardener Plant Toolbox — Pennisetum setaceum (Cenchrus setaceus, crimson/African fountain grass)",
+      "url": "https://plants.ces.ncsu.edu/plants/pennisetum-setaceum/"
+    },
+    {
+      "name": "University of Wisconsin–Madison Horticulture (Extension) — Fountain grass, Cenchrus (Pennisetum) alopecuroides",
+      "url": "https://hort.extension.wisc.edu/articles/fountain-grass-pennisetum-alopecuroides/"
+    }
+  ],
+  "shots": [
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/54357107/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — tidy gray-green fountain clump · © bobasil (CC-BY-NC) / iNaturalist",
+      "by": "bobasil",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/34531143"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/549628169/large.jpg",
+      "s": "summer",
+      "cap": "Fine, narrow foliage blades · © m (CC-BY-NC) / iNaturalist",
+      "by": "m",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/304863410"
+    },
+    {
+      "local": "images/su-plume-t.jpg",
+      "full": "images/su-plume.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/110703813/large.jpeg",
+      "s": "summer",
+      "cap": "Soft purplish-pink bottlebrush plume, close-up · © bobasil (CC-BY-NC) / iNaturalist",
+      "by": "bobasil",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/68378192"
+    },
+    {
+      "local": "images/su-plume2-t.jpg",
+      "full": "images/su-plume2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/95208084/large.jpg",
+      "s": "summer",
+      "cap": "Pinkish plumes arching against the sky · © Aleksandr Levon (CC-BY-NC) / iNaturalist",
+      "by": "Aleksandr Levon",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/59580890"
+    },
+    {
+      "local": "images/su-plume3-t.jpg",
+      "full": "images/su-plume3.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553547637/large.jpg",
+      "s": "summer",
+      "cap": "Whole plumed clump — the fountain form in bloom · © Omer Winer (CC-BY-NC) / iNaturalist",
+      "by": "Omer Winer",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/306924813"
+    },
+    {
+      "local": "images/su-habit2-t.jpg",
+      "full": "images/su-habit2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/333118259/large.jpg",
+      "s": "summer",
+      "cap": "In a mixed garden planting · © Oleksandr Shynder (CC-BY-NC) / iNaturalist",
+      "by": "Oleksandr Shynder",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/190072224"
+    },
+    {
+      "local": "images/fa-seed-t.jpg",
+      "full": "images/fa-seed.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/165799554/large.jpeg",
+      "s": "fall",
+      "cap": "Fall — foliage and plumes fading to tan · © Shmuel (CC-BY-NC) / iNaturalist",
+      "by": "Shmuel",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/99458948"
+    },
+    {
+      "local": "images/fa-habit-t.jpg",
+      "full": "images/fa-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/76994329/large.jpeg",
+      "s": "fall",
+      "cap": "Tan clump structure into late fall · © Astra (CC-BY) / iNaturalist",
+      "by": "Astra",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/48518652"
+    }
+  ]
+}

@@ -1,0 +1,202 @@
+{
+  "common": "Four o'clock",
+  "botanical": "Mirabilis jalapa",
+  "type": "Forb",
+  "lifecycle": "Tender perennial",
+  "native": "Non-native",
+  "aka": [
+    "Marvel of Peru"
+  ],
+  "bloom_season": "Summer",
+  "flower_color": [
+    "pink",
+    "yellow",
+    "red",
+    "white"
+  ],
+  "bloom": [
+    "summer",
+    "fall"
+  ],
+  "blurb": "Bushy old-fashioned annual whose fragrant funnel flowers pop open in the late afternoon — hence the name — and often carry several colors on one plant.",
+  "size": "~2–3 ft × 2–3 ft",
+  "sun": "Full sun–part shade",
+  "water": "Moderate; keep evenly moist through summer heat, tolerates short dry spells once established",
+  "spread": "Bushy mound from a fleshy tuber; self-sows readily and builds a large storage root — deadhead to contain",
+  "seasons": "Fragrant funnel flowers open each afternoon, summer into fall; the top is killed by the first hard frost, leaving no winter presence",
+  "wildlife": "Evening-opening flowers draw long-tongued sphinx/hawk moths and hummingbirds",
+  "deer": "The poisonous foliage is usually passed over by deer, but it is not reliably deer-proof",
+  "toxic": "Seeds and the tuberous root are poisonous if eaten (alkaloids including trigonelline — stomach pain, nausea, vomiting, diarrhea); handling the roots can cause skin dermatitis",
+  "winter": false,
+  "verified": "2026-07-06",
+  "origin": "Tropical South America — Andes (Peru region)",
+  "habitat": "Disturbed slopes, thickets and roadsides in warm-temperate to tropical America",
+  "ph": {
+    "min": 6.0,
+    "ideal": 6.8,
+    "max": 7.5
+  },
+  "care": {
+    "hardiness": "A tender perennial hardy only to about USDA zone 9a, so in Boulder's zone 5b–6a it is killed to the ground by the first hard frost and grown as a warm-season annual. It does, however, form a fat potato-like tuber that can be lifted and stored frost-free over winter to regrow the next year (see Planting).[1][2][3]",
+    "planting": "Direct-sow or set out transplants only after all danger of frost has passed and the soil has warmed — mid- to late May on the Front Range — because both seedlings and tubers are frost-tender. It grows readily in a large container too; a potted plant dries faster and its tuber has no winter cold protection, so either treat it as a one-season annual or, like dahlias, dig the tuber after the tops are frosted, let it dry, and store it somewhere cool, dark and frost-free (an unheated garage or basement) to replant after next year's last frost.[1][2][3]",
+    "sun": "Full sun gives the bushiest plants and the heaviest bloom, but it also takes part shade and actually opens its flowers earlier in the day in cloudy weather or dappled light.[1][2]",
+    "soil": "Unfussy — it grows in almost any soil, including Boulder's alkaline clay, but performs best in a humus-rich, well-drained spot. Work some compost into heavy clay to improve drainage.[1][2][3]",
+    "water": "Moderate. It has some drought tolerance once established but looks and blooms best kept evenly moist through the hot part of summer; give it a deep soak in extended dry spells rather than letting it wilt hard.[1][2]",
+    "spacing": "Space plants about 12–24 in apart — they branch into rounded 2–3 ft mounds and fill in fast, so err toward the wider end to keep air moving and leave room for the bushy habit.[1][2]",
+    "propagation": "Grow it from seed or by dividing/replanting the tubers. The large, wrinkled black seeds germinate faster if you nick the hard coat or soak them in water overnight; sown in warm soil (about 68–70°F) they come up in roughly 5–7 days. A stored tuber simply resprouts when replanted after frost, and big clumps can be divided.[1][2]",
+    "sow": "Start seed indoors 4–6 weeks before the last frost, or direct-sow once the soil is warm in mid- to late May. Soak or nick the seed first and sow it about 1/4–1/2 in deep; keep it warm (~68–70°F) and it germinates in about 5–7 days.[1][2]",
+    "bloom": "Blooms from midsummer until frost. The fragrant, trumpet-shaped flowers open in the late afternoon or evening (and on overcast days) and wilt by the next morning; a single plant often carries a mix of magenta, pink, red, yellow, white and even striped or sectored blooms.[1][2]",
+    "feeding": "Light feeders — average garden soil amended with compost is usually plenty. A single balanced feeding early in the season is enough; heavy nitrogen just pushes leafy growth at the expense of flowers.[1][2]",
+    "maintenance": "Very low-care once established. Deadheading spent flowers keeps it tidy and, more importantly, cuts down the heavy self-sowing (see below). Pull or cut the frosted tops in fall; if you want the same plant back, lift and store the tuber before the ground freezes.[1][2]",
+    "selfsow": "Four o'clock self-seeds vigorously and can become weedy — the seeds drop right at the plant's base and sprout in place, and an established tuber returns bigger each year where it survives. To contain it, deadhead before the seeds ripen and drop, and pull volunteer seedlings while they are small; site it where a patch of seedlings is welcome rather than next to fussier plantings.[1][2]",
+    "troubles": "Largely trouble-free. In hot, dry sites watch for spider mites and the occasional aphid or leaf-chewing insect, and give it enough spacing and airflow to avoid leaf spotting in humid, crowded plantings. Its main 'problem' is enthusiasm — self-sown seedlings and an ever-enlarging tuber.[1][2]"
+  },
+  "edible": {
+    "level": "toxic",
+    "summary": "Grown as an ornamental only — the seeds and roots are poisonous; do not eat any part.[1][4]",
+    "caution": "Both the large black seeds and the tuberous storage root are poisonous, and children have been poisoned after eating the seeds or roots. They contain toxic alkaloids — trigonelline is reported from the root — and ingestion causes stomach pain, nausea, vomiting and diarrhea. Handling the roots (and contact with the plant's juice) can also cause skin dermatitis, so wear gloves when digging or dividing tubers and keep the seeds away from curious children and pets. No preparation makes any part of this plant safe to eat.[1][2][4]"
+  },
+  "fact_src": {
+    "size": [
+      1,
+      2
+    ],
+    "sun": [
+      1,
+      2
+    ],
+    "water": [
+      1,
+      2
+    ],
+    "spread": [
+      1,
+      2
+    ],
+    "seasons": [
+      1,
+      2
+    ],
+    "wildlife": [
+      1,
+      2
+    ],
+    "deer": [
+      1
+    ],
+    "toxic": [
+      1,
+      4
+    ],
+    "ph": [
+      1
+    ],
+    "origin": [
+      1,
+      2
+    ],
+    "habitat": [
+      1
+    ]
+  },
+  "references": [
+    {
+      "name": "NC State Extension Gardener Plant Toolbox — Mirabilis jalapa (Four O'Clock)",
+      "url": "https://plants.ces.ncsu.edu/plants/mirabilis-jalapa/"
+    },
+    {
+      "name": "University of Wisconsin–Madison Extension — Four O'Clocks, Mirabilis jalapa",
+      "url": "https://hort.extension.wisc.edu/articles/four-oclocks-mirabilis-jalapa/"
+    },
+    {
+      "name": "Colorado State University Extension — Yard & Garden (Front Range adaptation: frost dates, alkaline clay)",
+      "url": "https://extension.colostate.edu/topic-areas/yard-garden/"
+    },
+    {
+      "name": "Botanical-online — Mirabilis jalapa toxicity (trigonelline alkaloid, dermatitis)",
+      "url": "https://www.botanical-online.com/en/medicinal-plants/mirabilis-toxicity"
+    }
+  ],
+  "shots": [
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/584946147/large.jpg",
+      "s": "summer",
+      "cap": "Bushy summer plant in full bloom · © zebedeugalinha (CC-BY) / iNaturalist",
+      "by": "zebedeugalinha",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/323290095"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/116936426/large.jpg",
+      "s": "summer",
+      "cap": "Ovate, opposite leaves · © Vuyiswa Sithatu (CC-BY-NC) / iNaturalist",
+      "by": "Vuyiswa Sithatu",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/71788923"
+    },
+    {
+      "local": "images/su-flower-t.jpg",
+      "full": "images/su-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/177443996/large.jpg",
+      "s": "summer",
+      "cap": "Magenta funnel flower, face-on · © Don Marsille (CC-BY-NC) / iNaturalist",
+      "by": "Don Marsille",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/105721673"
+    },
+    {
+      "local": "images/su-flower2-t.jpg",
+      "full": "images/su-flower2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/333516211/large.jpeg",
+      "s": "summer",
+      "cap": "Yellow-flowered form · © plantperson7654 (CC-BY-NC) / iNaturalist",
+      "by": "plantperson7654",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/190280333"
+    },
+    {
+      "local": "images/su-flower3-t.jpg",
+      "full": "images/su-flower3.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/588526103/large.jpg",
+      "s": "summer",
+      "cap": "White-flowered form, face-on · © Alba Rovira (CC-BY-NC) / iNaturalist",
+      "by": "Alba Rovira",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/325086905"
+    },
+    {
+      "local": "images/su-bloom-t.jpg",
+      "full": "images/su-bloom.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/539139041/large.jpg",
+      "s": "summer",
+      "cap": "One plant carrying red, orange & yellow blooms · © chernov_mtb (CC-BY-NC) / iNaturalist",
+      "by": "chernov_mtb",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/299261492"
+    },
+    {
+      "local": "images/su-flower4-t.jpg",
+      "full": "images/su-flower4.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/618523121/large.jpg",
+      "s": "summer",
+      "cap": "Red-and-yellow marbled bloom · © Jhonatan Matheus (CC-BY) / iNaturalist",
+      "by": "Jhonatan Matheus",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/339948120"
+    },
+    {
+      "local": "images/fa-seed-t.jpg",
+      "full": "images/fa-seed.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/590938612/large.jpg",
+      "s": "fall",
+      "cap": "Ripe glossy-black seed in its papery calyx · © Ujjal Kishor De (CC-BY-NC) / iNaturalist",
+      "by": "Ujjal Kishor De",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/326297124"
+    }
+  ]
+}

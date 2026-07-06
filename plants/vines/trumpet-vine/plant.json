@@ -1,0 +1,199 @@
+{
+  "common": "Trumpet vine",
+  "botanical": "Campsis radicans",
+  "aka": [
+    "Trumpet creeper",
+    "Cow-itch vine"
+  ],
+  "type": "Vine",
+  "lifecycle": "Perennial",
+  "native": "Non-native",
+  "flower_color": [
+    "orange",
+    "red"
+  ],
+  "bloom": [
+    "summer",
+    "fall"
+  ],
+  "blurb": "A vigorous woody climber that grips by aerial rootlets and drips clusters of big orange-red trumpets all summer — a hummingbird magnet, but aggressive enough to need a firm hand.",
+  "size": "~25–40 ft × 5–10 ft",
+  "sun": "Full sun (part shade tolerated, fewer flowers)",
+  "water": "Low–moderate; drought-tolerant once established, lean is better",
+  "spread": "Aggressive — suckers profusely from underground runners and self-seeds, popping up feet from the plant; clinging aerial rootlets grip anything. Not a CO-listed weed, but behaves invasively — contain it.",
+  "seasons": "Orange-red trumpets July–September; long bean-like seed pods in fall that dry to split brown husks; bare woody stems in winter",
+  "wildlife": "A premier hummingbird plant (its principal pollinator); bees and butterflies also work the flowers; dense twiggy cover for birds",
+  "deer": "Usually passed over by deer, but not reliably deer-proof",
+  "toxic": "Handling the foliage, flowers, or sap can cause skin redness and itching (contact dermatitis) — hence 'cow-itch'; grown ornamentally, not eaten",
+  "winter": false,
+  "verified": "2026-07-06",
+  "origin": "Southeastern United States",
+  "habitat": "Woodland edges, fencerows, riverbanks and thickets of the E/SE US",
+  "ph": {
+    "min": 5.0,
+    "ideal": 6.5,
+    "max": 8.0
+  },
+  "care": {
+    "hardiness": "Bulletproof cold-hardiness here: reliably hardy to about USDA zone 4, so Boulder's zone 5b–6a winters are no threat and the woody stems come back without protection. It dies back to a permanent woody framework and resprouts vigorously each spring.[1][3]",
+    "planting": "Plant in spring (late April–May) once hard frost has passed, or in early fall, and put a big, sturdy support in place first — it takes off fast and transplants easily. It can be grown for a season on a patio trellis in a large container, but as a permanent vine it belongs in the ground with room to run; a potted plant's roots are far less cold-hardy than its top, so sink or heavily insulate the pot over a Front Range winter.[2][3]",
+    "sun": "Full sun gives the heaviest bloom — foliage grows fine in shade, but plants need good sun to flower well. It tolerates part shade at the cost of far fewer flowers, and shy blooming is the classic complaint on vines sited too shady (or fed too rich).[1][2]",
+    "soil": "Unfussy about soil, thriving in a wide range including Boulder's alkaline clay; it tolerates acidic to alkaline pH (roughly 5.0–8.0). Lean to average soil actually curbs its rampage and improves flowering — rich soil pushes leaves at the expense of bloom.[1][2]",
+    "water": "Low to moderate once established. It needs only regular moisture while young and then handles occasional drought; overwatering, like overfeeding, drives leafy overgrowth. In our semi-arid climate an occasional deep summer soak keeps it blooming without egging it on.[1][2]",
+    "spacing": "Give a single plant a lot of room — species vines rush to 25–40 ft tall with a 5–10 ft spread — and set it at least 3–4 ft away from anything you don't want it climbing into or suckering under. One plant fills a large arbor or fence run on its own; there is no reason to plant more.[1][2]",
+    "propagation": "Very easy: sow the freely-set seed, take softwood or root cuttings in summer, layer a low stem, or simply dig and move one of its many root suckers — each sucker is a ready-made plant. Because it roots and suckers so willingly, most gardeners are working to slow it down, not multiply it.[1][2]",
+    "bloom": "Clusters of 3-inch orange-red trumpet flowers open on the current season's growth from July into September, peaking in the heat of summer. Because it flowers on new wood, it keeps blooming past midsummer, and hummingbirds — its principal pollinator — work it all season.[1][2]",
+    "feeding": "Skip the fertilizer. Trumpet vine flowers best in lean soil, and high-nitrogen feeding produces lush foliage with few flowers — one of the top reasons a healthy vine refuses to bloom. At most, a spare plant in truly poor ground appreciates a little compost, no more.[1][2]",
+    "pruning": "Prune hard in late winter or early spring, before growth starts — it tolerates and even wants heavy pruning to stay in bounds and flower well. Because it blooms on new wood, cutting the whole vine back to a permanent woody framework of a few main stems each spring costs you no flowers and yields a tidier, heavier-blooming plant; you can also shorten wayward growth almost any time in summer to open it up. Left unpruned it becomes a top-heavy, tangled mass that can pull down its support. Dig out every root sucker as you prune, and wear gloves — the foliage and sap irritate skin.[1][2][3]",
+    "maintenance": "This is a vine you manage, not one you coax. It suckers profusely from underground runners and self-seeds, so it pops up feet from the plant and along fence lines — dig suckers and pull seedlings while they're young; a smart trick is to site it beside concrete or lawn you can mow, which knocks the suckers back. Its clinging aerial rootlets and sheer weight can pull down gutters and work into siding, wood, shingles, and mortar joints, so keep it off house walls and septic systems and give it a strong freestanding support instead. It is aggressive but NOT a listed noxious weed in Colorado — even so, contain it, as it can smother nearby shrubs and small trees if let go.[1][2][3]",
+    "troubles": "Few pests bother it; the real 'problems' are its vigor and, occasionally, shy blooming. Non-blooming almost always traces to too much shade, too much nitrogen, or a young plant not yet settled — give it lean soil and full sun and be patient. Handling the leaves and sap causes contact skin irritation in many people (see Edible parts).[1][2]"
+  },
+  "edible": {
+    "level": "toxic",
+    "summary": "Not a food — trumpet vine is grown strictly as an ornamental, and handling it can irritate the skin.[1]",
+    "caution": "Its common name 'cow-itch vine' says it plainly: contact with the leaves, flowers, or sap causes redness, itching, and minor skin irritation (contact dermatitis) in many people — wear gloves to prune it or pull its suckers. No part is grown or documented as food; it is planted for its flowers and its value to hummingbirds, not to eat. Keep children from handling or mouthing the foliage and seed pods.[1][2]"
+  },
+  "fact_src": {
+    "size": [
+      1,
+      2
+    ],
+    "sun": [
+      1,
+      2
+    ],
+    "water": [
+      1,
+      2
+    ],
+    "spread": [
+      1,
+      2
+    ],
+    "seasons": [
+      1,
+      2
+    ],
+    "wildlife": [
+      1
+    ],
+    "deer": [
+      1
+    ],
+    "toxic": [
+      1,
+      2
+    ],
+    "ph": [
+      1
+    ],
+    "origin": [
+      1,
+      4
+    ],
+    "habitat": [
+      1,
+      4
+    ]
+  },
+  "references": [
+    {
+      "name": "NC State Extension Plant Toolbox — Campsis radicans",
+      "url": "https://plants.ces.ncsu.edu/plants/campsis-radicans/"
+    },
+    {
+      "name": "Missouri Botanical Garden — Plant Finder: Campsis radicans",
+      "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=b840"
+    },
+    {
+      "name": "University of Illinois Extension — Trumpet Vine",
+      "url": "https://extension.illinois.edu/flowers/trumpet-vine"
+    },
+    {
+      "name": "USDA NRCS PLANTS Database — Campsis radicans (CARA2)",
+      "url": "https://plants.sc.egov.usda.gov/plant-profile/CARA2"
+    }
+  ],
+  "shots": [
+    {
+      "local": "images/su-flowers-t.jpg",
+      "full": "images/su-flowers.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/341838173/large.jpg",
+      "s": "summer",
+      "cap": "Summer — orange-red trumpet flower cluster · © grinnin (CC-BY-NC) / iNaturalist",
+      "by": "grinnin",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/194469547"
+    },
+    {
+      "local": "images/su-bloom-t.jpg",
+      "full": "images/su-bloom.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/222343512/large.jpg",
+      "s": "summer",
+      "cap": "Summer — a flowering vine smothering a tree · CC0 / iNaturalist · © no rights reserved (CC0) / iNaturalist",
+      "by": "no rights reserved",
+      "lic": "CC0",
+      "link": "https://www.inaturalist.org/observations/130718019"
+    },
+    {
+      "local": "images/su-flowerpair-t.jpg",
+      "full": "images/su-flowerpair.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550835590/large.jpg",
+      "s": "summer",
+      "cap": "Summer — trumpet flowers face-on · © rothlebob (CC-BY-NC) / iNaturalist",
+      "by": "rothlebob",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/305501759"
+    },
+    {
+      "local": "images/su-hummingbird-t.jpg",
+      "full": "images/su-hummingbird.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/115945548/large.jpg",
+      "s": "summer",
+      "cap": "Summer — a hummingbird at the flowers, its principal pollinator · © terence zahner (CC-BY-NC) / iNaturalist",
+      "by": "terence zahner",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/195721605"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/128958697/large.jpeg",
+      "s": "summer",
+      "cap": "Odd-pinnate leaves with 7–11 toothed leaflets · © Jo Roberts (CC-BY) / iNaturalist",
+      "by": "Jo Roberts",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/78774631"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/17678718/large.jpg",
+      "s": "summer",
+      "cap": "Woody vine climbing a trunk by aerial rootlets · © Janet Wright (CC-BY-NC) / iNaturalist",
+      "by": "Janet Wright",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/12289731"
+    },
+    {
+      "local": "images/fa-pods-t.jpg",
+      "full": "images/fa-pods.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/233764540/large.jpg",
+      "s": "fall",
+      "cap": "Fall — long bean-like seed pods · © William J. Deml (CC-BY) / iNaturalist",
+      "by": "William J. Deml",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/136925982"
+    },
+    {
+      "local": "images/fa-drypods-t.jpg",
+      "full": "images/fa-drypods.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/470833661/large.jpg",
+      "s": "fall",
+      "cap": "Fall — dried, split seed pods releasing winged seeds · © rauvbbj (CC-BY-NC) / iNaturalist",
+      "by": "rauvbbj",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/262032425"
+    }
+  ]
+}

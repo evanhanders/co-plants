@@ -1,0 +1,194 @@
+{
+  "common": "Bluebeard",
+  "botanical": "Caryopteris × clandonensis",
+  "aka": [
+    "Blue mist spirea",
+    "Blue spirea",
+    "Blue mist shrub"
+  ],
+  "type": "Subshrub",
+  "lifecycle": "Perennial",
+  "native": "Non-native",
+  "flower_color": [
+    "blue",
+    "purple"
+  ],
+  "bloom": [
+    "fall"
+  ],
+  "blurb": "A compact aromatic mound that hazes over with fuzzy blue flower clusters in late summer and fall — one of the best late-season bee and butterfly plants for a hot, dry, well-drained spot.",
+  "size": "~2–3 ft × 2–3 ft",
+  "sun": "Full sun",
+  "water": "Low; xeric once established",
+  "spread": "Compact mounded subshrub; stems often die to the ground in a cold Front-Range winter and regrow in spring; may self-sow lightly",
+  "seasons": "Aromatic gray-green foliage spring–summer; a haze of powder-blue flower clusters in the leaf axils from late summer into fall; foliage yellows and stems are usually cut back or killed to the ground for winter",
+  "wildlife": "A major late-season nectar source — bees, honeybees and butterflies mob it when little else is still blooming",
+  "deer": "Seldom browsed; the aromatic foliage makes it reliably deer-resistant",
+  "toxic": "No documented toxicity to people or pets; the pungent foliage is not eaten",
+  "winter": false,
+  "verified": "2026-07-06",
+  "origin": "Garden hybrid (Caryopteris incana × C. mongholica); parent species native to East Asia (China, Japan, Mongolia)",
+  "habitat": "Parent species grow on dry rocky slopes and open scrub in East Asia",
+  "ph": {
+    "min": 6.0,
+    "ideal": 7.0,
+    "max": 7.8
+  },
+  "care": {
+    "hardiness": "Reliably root-hardy to about USDA zone 5, so it survives Boulder's 5b–6a winters, but the top growth only stays woody in warmer zones — in our cold winters the stems routinely die back partway or all the way to the ground. That is no loss, because it blooms on new wood and is cut back hard each spring anyway; treat it as a perennial-like subshrub that resprouts from the crown.[1][3]",
+    "planting": "Plant in late spring (mid- to late May, after the last hard frost) so the crown settles in through the warm season and roots well before its first winter — a spring-planted crown overwinters far better here than a fall one. It also does well in a large, well-drained container of gritty mix, but a potted crown's roots are much less cold-hardy than the top, so sink the pot or move it to a sheltered spot for winter.[1][2]",
+    "sun": "Full sun — six or more hours of direct sun. It flowers hardest, stays compact, and keeps its silvery foliage best in all-day sun; in shade it grows lanky and blooms sparsely.[1][3]",
+    "soil": "The one non-negotiable is sharp drainage. It grows in most soils, including lean and dry ground, and tolerates our neutral-to-alkaline clay-loam as long as water drains freely — but it is intolerant of wet, heavy, poorly-drained soil, where the crown rots. On tight clay, plant high or amend with grit to keep the crown dry.[1][3]",
+    "water": "Low. Water regularly the first season to establish the crown; after that it is genuinely drought-tolerant and xeric, getting by on natural precipitation with only an occasional deep soak in prolonged summer heat. Overwatering — not cold — is what usually kills it here.[1][3]",
+    "spacing": "Space plants about 2–3 ft apart so each compact mound has room to fill out to its ~2–3 ft width; closer for a low informal drift.[1][3]",
+    "propagation": "Easiest from softwood or semi-ripe cuttings taken in early to midsummer, which root readily. It also comes from seed and self-sows lightly, but named cultivars won't come true from seed — take cuttings to keep a selected form. Established crowns don't divide well; propagate by cuttings rather than splitting.[1][2]",
+    "bloom": "Fuzzy clusters of small blue to bluish-purple flowers open in the leaf axils from late summer into fall (roughly August into September–October here), reading as a cloud of blue 'mist' over the foliage. Because bloom comes on the current season's growth, spring cutback never costs you flowers.[1][3]",
+    "feeding": "Little to none — it performs best in lean soil. Skip rich or high-nitrogen fertilizer, which pushes soft, lanky, floppy growth that flowers less; a thin spring mulch is plenty.[1]",
+    "pruning": "Prune hard in early spring, just as the buds break — cut all the stems back to about 6–12 in from the ground (or to live wood, removing anything winter-killed). Because it blooms on new wood, this hard spring cutback is what drives the vigorous fresh growth that carries the late-summer flowers, so it never sacrifices bloom; skipping it leaves a woody, sparse, floppy plant. Do not cut back in fall — leave the stems over winter for a little crown protection and prune once you can see what survived. A light shear right after flowering is optional and mainly removes the decorative seed capsules.[1][2][3]",
+    "maintenance": "Very low-care once sited in sun with good drainage. Leave the top growth on over winter and cut back in spring (see pruning). Deadheading isn't necessary; it may self-sow lightly, so pull unwanted seedlings while young. Its aromatic foliage keeps deer and rabbits off.[1][3]",
+    "troubles": "No serious pests or diseases. The one real killer is crown/root rot in wet, poorly-drained or overwatered soil — the reason drainage and restraint with the hose matter more than winter cold. Too much fertilizer or shade produces lanky, flop-prone growth.[1][3]"
+  },
+  "edible": {
+    "level": "inedible",
+    "summary": "An aromatic ornamental with no documented food use — grown for its late flowers, not eaten.[1]",
+    "caution": "Bluebeard has no history of culinary or medicinal use; the pungent, sagey foliage is not something people eat. It is not listed as notably poisonous to people or pets, but 'not a documented food' is not the same as 'proven safe to eat' — treat it as a strictly ornamental, non-food plant and don't nibble the foliage or flowers.[1][2]"
+  },
+  "fact_src": {
+    "size": [
+      1,
+      3
+    ],
+    "sun": [
+      1,
+      3
+    ],
+    "water": [
+      1,
+      3
+    ],
+    "spread": [
+      1,
+      3
+    ],
+    "seasons": [
+      1,
+      3
+    ],
+    "wildlife": [
+      1,
+      2
+    ],
+    "deer": [
+      1
+    ],
+    "toxic": [
+      1
+    ],
+    "ph": [
+      1,
+      3
+    ],
+    "origin": [
+      3
+    ],
+    "habitat": [
+      3
+    ]
+  },
+  "references": [
+    {
+      "name": "NC State Extension Gardener Plant Toolbox — Caryopteris × clandonensis (Bluebeard)",
+      "url": "https://plants.ces.ncsu.edu/plants/caryopteris-x-clandonensis/"
+    },
+    {
+      "name": "Royal Horticultural Society — Caryopteris (growing guide)",
+      "url": "https://www.rhs.org.uk/plants/caryopteris/growing-guide"
+    },
+    {
+      "name": "Missouri Botanical Garden Plant Finder — Caryopteris × clandonensis 'Dark Knight'",
+      "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=b890"
+    }
+  ],
+  "shots": [
+    {
+      "local": "images/fa-habit-t.jpg",
+      "full": "images/fa-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/230120152/large.jpeg",
+      "s": "fall",
+      "cap": "Whole flowering mound in bloom · © Martin A. Prinz (CC-BY-NC) / iNaturalist",
+      "by": "Martin A. Prinz",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/134954432"
+    },
+    {
+      "local": "images/fa-habit2-t.jpg",
+      "full": "images/fa-habit2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/59669407/large.jpeg",
+      "s": "fall",
+      "cap": "Compact silvery-leaved plant flowering in the garden · © Brandon Corder (CC-BY) / iNaturalist",
+      "by": "Brandon Corder",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/37618475"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/674115408/large.jpg",
+      "s": "summer",
+      "cap": "Aromatic gray-green, toothed foliage · © Oliver Stöhr (CC-BY-NC) / iNaturalist",
+      "by": "Oliver Stöhr",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/369062381"
+    },
+    {
+      "local": "images/fa-flower-t.jpg",
+      "full": "images/fa-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/445613786/large.jpg",
+      "s": "fall",
+      "cap": "Powder-blue flower cluster, face-on · © Norbert Sauberer (CC-BY-NC) / iNaturalist",
+      "by": "Norbert Sauberer",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/249296061"
+    },
+    {
+      "local": "images/fa-flower2-t.jpg",
+      "full": "images/fa-flower2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/306075588/large.jpeg",
+      "s": "fall",
+      "cap": "Fuzzy blue flower cluster close-up · © Jasmin Rehrmbacher (CC-BY-NC) / iNaturalist",
+      "by": "Jasmin Rehrmbacher",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/176077355"
+    },
+    {
+      "local": "images/fa-bloom-t.jpg",
+      "full": "images/fa-bloom.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/356837253/large.jpeg",
+      "s": "fall",
+      "cap": "Mass of blue bloom hazing over the foliage · © preitler (CC-BY-NC) / iNaturalist",
+      "by": "preitler",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/202082750"
+    },
+    {
+      "local": "images/fa-flower3-t.jpg",
+      "full": "images/fa-flower3.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/160428096/large.jpg",
+      "s": "fall",
+      "cap": "Blue flowers clustered in the leaf axils along a stem · © Michal Ducháček (CC-BY-NC) / iNaturalist",
+      "by": "Michal Ducháček",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/96555511"
+    },
+    {
+      "local": "images/fa-flower4-t.jpg",
+      "full": "images/fa-flower4.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/561455801/large.jpg",
+      "s": "fall",
+      "cap": "Blue flower cluster on the stem · CC0 / iNaturalist · © no rights reserved (CC0) / iNaturalist",
+      "by": "no rights reserved",
+      "lic": "CC0",
+      "link": "https://www.inaturalist.org/observations/311057180"
+    }
+  ]
+}

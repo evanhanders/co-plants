@@ -10,7 +10,7 @@
   "size": "3–5 ft tall × 2–3 ft wide",
   "sun": "Full sun",
   "water": "High — moist to wet soil; not for dry zones",
-  "spread": "Clumping; expands slowly, far less aggressive than showy milkweed",
+  "spread": "Clumping and well-behaved; grows from a single crown and does not run — far less aggressive than showy milkweed",
   "seasons": "Slender willow-like leaves on tall stems; rose-pink flower domes mid-to-late summer; slim seed pods splitting to silky floss in fall",
   "wildlife": "Monarch host (caterpillar food) and a major nectar source for butterflies, bees and other pollinators",
   "deer": "Generally avoided — the foliage is toxic",
@@ -24,6 +24,11 @@
   ],
   "winter": false,
   "verified": "2026-07-13",
+  "ph": {
+    "min": 5.5,
+    "ideal": 6.5,
+    "max": 7.5
+  },
   "shots": [
     {
       "local": "images/su-flower-t.jpg",
@@ -105,5 +110,99 @@
       "lic": "CC-BY",
       "link": "https://www.inaturalist.org/observations/248019560"
     }
-  ]
+  ],
+  "care": {
+    "hardiness": "A widely distributed native of wet meadows, marshes, and prairie swales across the Midwest and Great Plains, fully hardy through Boulder's zone 5b–6a winters (rated to about zone 3); it dies to the ground each fall and is notably slow to re-emerge in spring, so don't give up on it early.[3][4]",
+    "planting": "Set out container plants in spring after Boulder's mid-May last frost, or in fall.[7] It grows from a single crown of fleshy roots and resents disturbance once established, so choose its permanent spot with care rather than moving it later.[1][4] In a pot it must never be allowed to dry out — swamp milkweed's wetland nature makes it thirstier than most container plants — and it overwinters better in the ground than in a pot, whose roots are far less cold-hardy.[3]",
+    "sun": "Full sun for the best bloom and sturdiest stems; it tolerates light shade but flowers less and hosts monarchs far better in open sun.[3][4]",
+    "soil": "Prefers neutral to slightly acidic soil and tolerates the heavy clay common around Boulder; it is adaptable to average garden ground provided it stays moist. Rich, humusy soil that holds water suits it best.[3][4]",
+    "water": "Its defining need is consistently moist to wet ground. In the wild it is a wetland plant of streambanks, marshes, and pond margins,[1][2] so on the semi-arid Front Range it wants regular, deep watering and must never bake dry. It does adapt to average, well-drained garden soil if watered faithfully,[4] but it is NOT a xeric plant — keep it out of dry, unirrigated zones and low-water beds.",
+    "spacing": "Space about 18–24 in apart, and plant in groups of several rather than as singletons — monarch caterpillars fare far better with a cluster of stems to move among.[5]",
+    "propagation": "Grown chiefly from seed. Unlike showy milkweed it does not spread by rhizomes and has no runners to lift,[1] so increase it by seed; an established crown can be divided in early spring, but it dislikes root disturbance and is slow to recover.[4]",
+    "sow": "Sow seed directly into the ground in fall so winter supplies the natural cold-conditioning, or cold-stratify and sow in spring; it germinates readily for a milkweed.[1][5]",
+    "stratify": "Seed needs cold-moist stratification: fall-sown seed left over winter germinates well the following spring (50–88% after natural cold treatment),[1] or refrigerate moist seed for roughly a month (about 4–6 weeks) at ~35–40°F before a spring sowing.[5]",
+    "depth": "Sow shallowly — just below the soil surface, about 1/8–1/4 in deep; seed sown too deep germinates poorly.[5]",
+    "bloom": "Fragrant rose-pink to mauve (rarely white) flower domes in mid-to-late summer (roughly July–September), followed by slim tapering seed pods that split to silky wind-borne floss in fall.[3][4]",
+    "maintenance": "Very low. Leave the dead stems standing over winter — the hollow stalks shelter overwintering stem-nesting bees and the pods feed birds with floss and seed[5] — and cut back in early spring as the late-emerging new shoots appear.[4]",
+    "selfsow": "Well-behaved underground: it does not creep by rhizomes and stays as a tidy clump,[1] but it can be somewhat short-lived and reseeds from floss-borne seed, so let a few pods ripen and scatter to keep the patch going over the years.[1]",
+    "troubles": "Largely trouble-free. Bright-yellow oleander aphids often cluster on stems and flower buds and can slow the plant's growth — hose them off or simply tolerate them, since this is a monarch nursery; never spray insecticide on a milkweed, as it kills the caterpillars it is meant to feed.[4][5]",
+    "harvest": "If gathering seed, collect the pods just as they begin to split — seed disperses within a day of splitting — and slip a paper or mesh bag over ripening pods so the wind-borne floss doesn't carry the seed away first.[5]",
+    "companions": "Pair it with other moisture-tolerant, sun-loving natives — switchgrass, asters, blue vervain, Joe-Pye weed — to build a season-long nectar succession for the monarchs and bees it draws;[7] being tall, it sits well behind shorter companions.[4]"
+  },
+  "edible": {
+    "level": "caution",
+    "food": false,
+    "summary": "All parts are toxic raw; while some Indigenous peoples historically ate the young cooked shoots, swamp milkweed is more bitter and less palatable than other milkweeds and is best treated as a pollinator plant, not a food.[1][3]",
+    "parts": "Historically, the young shoots, immature flower buds, and young leaves were sometimes cooked in several changes of water and eaten, as with other milkweeds;[1] but swamp milkweed is noticeably more bitter, its documented internal use is largely medicinal (an emetic), and this guide does not recommend it as food — it is grown here for monarchs and pollinators, not the table.[3]",
+    "caution": "All parts contain toxic cardiac glycosides (cardenolides) and an irritant milky latex; raw, the plant is poisonous, and the sap causes contact dermatitis on skin.[1][3] Although swamp milkweed's cardenolide content is relatively low, it is still toxic to livestock (it has poisoned sheep) and the ASPCA lists Asclepias as toxic to dogs, cats, and horses, with signs from vomiting and weakness to seizures, dilated pupils, and death.[1][6] Identification is critical: before it flowers, milkweed can be confused with the toxic dogbanes (Apocynum), which must not be eaten — confirm the milky sap, opposite leaves, and the milkweed flower or slim seed pod before ever handling it as food.[1][3]"
+  },
+  "references": [
+    {
+      "name": "USDA-FS Fire Effects Information System — Asclepias incarnata (swamp milkweed)",
+      "url": "https://research.fs.usda.gov/feis/species-reviews/ascinc"
+    },
+    {
+      "name": "Lady Bird Johnson Wildflower Center — Asclepias incarnata",
+      "url": "https://www.wildflower.org/plants/result.php?id_plant=ASIN"
+    },
+    {
+      "name": "NC State Extension Plant Toolbox — Asclepias incarnata",
+      "url": "https://plants.ces.ncsu.edu/plants/asclepias-incarnata/"
+    },
+    {
+      "name": "Missouri Botanical Garden Plant Finder — Asclepias incarnata (swamp milkweed)",
+      "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=g410"
+    },
+    {
+      "name": "Xerces Society — Milkweed & monarch conservation",
+      "url": "https://xerces.org/milkweed"
+    },
+    {
+      "name": "ASPCA Animal Poison Control — Milkweed (Asclepias spp.)",
+      "url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/milkweed"
+    },
+    {
+      "name": "CSU Extension — Attracting Butterflies to the Garden (5.504)",
+      "url": "https://extension.colostate.edu/topic-areas/insects/attracting-butterflies-to-the-garden-5-504-2/"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      3,
+      4
+    ],
+    "sun": [
+      3,
+      4
+    ],
+    "water": [
+      1,
+      2,
+      4
+    ],
+    "spread": [
+      1,
+      4
+    ],
+    "seasons": [
+      3,
+      4
+    ],
+    "wildlife": [
+      2,
+      5
+    ],
+    "deer": [
+      2,
+      3
+    ],
+    "toxic": [
+      1,
+      3,
+      6
+    ],
+    "ph": [
+      3
+    ]
+  }
 }

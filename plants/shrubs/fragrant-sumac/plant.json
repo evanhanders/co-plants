@@ -1,0 +1,107 @@
+{
+  "collection": "sumacs",
+  "common": "Fragrant sumac",
+  "botanical": "Rhus aromatica",
+  "type": "Shrub",
+  "lifecycle": "Perennial",
+  "native": "CO native",
+  "flower_color": [
+    "yellow"
+  ],
+  "bloom": [
+    "spring"
+  ],
+  "blurb": "A low, mounding native shrub with aromatic trifoliate leaves that blaze red-orange in fall; tiny yellow flowers open on the bare twigs before the leaves, followed by fuzzy red berries.",
+  "size": "~2–6 ft tall × 6–10 ft wide",
+  "sun": "Full sun to part shade",
+  "water": "Low; xeric once established",
+  "spread": "Mounding; layers and suckers into colonies",
+  "seasons": "Yellow flower clusters on bare stems in early spring; aromatic trilobed leaves through summer; fuzzy red berries; red-orange-purple fall color",
+  "wildlife": "Early-spring pollinators; berries and cover for birds; butterfly larval host",
+  "deer": "Deer resistant",
+  "toxic": "",
+  "winter": false,
+  "verified": "2026-07-13",
+  "shots": [
+    {
+      "local": "images/sp-flower-t.jpg",
+      "full": "images/sp-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/485332979/large.jpg",
+      "s": "spring",
+      "cap": "Spring — yellow flower clusters on the bare twigs · © elf89 (CC-BY-NC) / iNaturalist",
+      "by": "elf89",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/269898647"
+    },
+    {
+      "local": "images/sp-flower-foliage-t.jpg",
+      "full": "images/sp-flower-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/41843546/large.jpg",
+      "s": "spring",
+      "cap": "Spring — yellow flowers as the leaves emerge · © babylegsbotanist (CC-BY-NC) / iNaturalist",
+      "by": "babylegsbotanist",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/26927724"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/219696799/large.jpg",
+      "s": "summer",
+      "cap": "Summer — aromatic trilobed leaves · © jesisly (CC-BY-NC) / iNaturalist",
+      "by": "jesisly",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/129290741"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/154381854/large.jpg",
+      "s": "summer",
+      "cap": "Summer — the low mounding shrub · © savage_antlers (CC-BY-NC) / iNaturalist",
+      "by": "savage_antlers",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/93171015"
+    },
+    {
+      "local": "images/su-context-t.jpg",
+      "full": "images/su-context.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/156932549/large.jpg",
+      "s": "summer",
+      "cap": "Summer — a whole shrub on an open hillside · © eflannelly (CC-BY-NC) / iNaturalist",
+      "by": "eflannelly",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/94593186"
+    },
+    {
+      "local": "images/su-berries-t.jpg",
+      "full": "images/su-berries.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/151521902/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — fuzzy red berries in clusters · © adriscoll (CC-BY-NC) / iNaturalist",
+      "by": "adriscoll",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/91587308"
+    },
+    {
+      "local": "images/su-berry-foliage-t.jpg",
+      "full": "images/su-berry-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/667322966/large.jpg",
+      "s": "summer",
+      "cap": "Summer — red berries among the trilobed leaves · © Clayton H. Ziemke (CC-BY-NC) / iNaturalist",
+      "by": "Clayton H. Ziemke",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/365510829"
+    },
+    {
+      "local": "images/fa-fall-color-t.jpg",
+      "full": "images/fa-fall-color.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/570674583/large.jpg",
+      "s": "fall",
+      "cap": "Fall — foliage turning fiery red-orange · © ellismaddleman (CC-BY-NC) / iNaturalist",
+      "by": "ellismaddleman",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/315881503"
+    }
+  ]
+}

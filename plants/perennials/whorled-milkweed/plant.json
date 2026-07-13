@@ -1,0 +1,109 @@
+{
+  "collection": "milkweeds",
+  "common": "Whorled milkweed",
+  "botanical": "Asclepias verticillata",
+  "type": "Forb",
+  "lifecycle": "Perennial",
+  "bloom_season": "Summer",
+  "native": "CO native",
+  "blurb": "A fine-textured native milkweed: threadlike leaves in tidy whorls up wiry stems, topped in late summer by small umbels of greenish-white stars. A monarch host that thrives on the lean, dry ground where showier milkweeds won't.",
+  "size": "1–2.5 ft tall × spreading",
+  "sun": "Full sun",
+  "water": "Low; xeric once established",
+  "spread": "Spreads by rhizomes into colonies",
+  "seasons": "Fine whorled needle-like leaves up the stems; greenish-white flower umbels in late summer; slender pods splitting to silky floss in fall",
+  "wildlife": "Monarch host and a late-season nectar source for many bees, wasps and butterflies",
+  "deer": "Generally avoided — the foliage is toxic",
+  "toxic": "All parts contain toxic cardiac glycosides; among the most toxic milkweeds to livestock — poisonous, see Edible parts",
+  "flower_color": [
+    "white",
+    "green"
+  ],
+  "bloom": [
+    "summer"
+  ],
+  "winter": false,
+  "verified": "2026-07-13",
+  "shots": [
+    {
+      "local": "images/su-flower-t.jpg",
+      "full": "images/su-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/217290675/large.jpg",
+      "s": "summer",
+      "cap": "Summer — greenish-white star flowers up close · © Christopher Zacharias (CC-BY) / iNaturalist",
+      "by": "Christopher Zacharias",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/127952283"
+    },
+    {
+      "local": "images/su-flower-foliage-t.jpg",
+      "full": "images/su-flower-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/24078978/large.jpg",
+      "s": "summer",
+      "cap": "Summer — a white umbel on a fine needle-leaved stem · © Jeff Skrentny (CC-BY-NC) / iNaturalist",
+      "by": "Jeff Skrentny",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/16077632"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/218818860/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — threadlike leaves in tidy whorls · © wonderful_world (CC-BY-NC) / iNaturalist",
+      "by": "wonderful_world",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/128805295"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/22156794/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — the wiry upright flowering stem · © smoreno2 (CC-BY-NC) / iNaturalist",
+      "by": "smoreno2",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/14842847"
+    },
+    {
+      "local": "images/su-context-t.jpg",
+      "full": "images/su-context.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/31411543/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — a whole plant with pods in dry habitat · © Eric M Powell (CC-BY-NC) / iNaturalist",
+      "by": "Eric M Powell",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/20343036"
+    },
+    {
+      "local": "images/su-bloom-mass-t.jpg",
+      "full": "images/su-bloom-mass.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/33910990/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — flowering plants scattered through dry grass · © Roger Latham (CC-BY-NC) / iNaturalist",
+      "by": "Roger Latham",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/21887025"
+    },
+    {
+      "local": "images/fa-pods-t.jpg",
+      "full": "images/fa-pods.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/18557722/large.jpg",
+      "s": "fall",
+      "cap": "Fall — a cluster of slender green seed pods · © Linda K (CC-BY-NC) / iNaturalist",
+      "by": "Linda K",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/12799171"
+    },
+    {
+      "local": "images/fa-pods-close-t.jpg",
+      "full": "images/fa-pods-close.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/30493210/large.jpeg",
+      "s": "fall",
+      "cap": "Fall — narrow pods among the fine whorled leaves · © Melinda Thompson (CC-BY-NC) / iNaturalist",
+      "by": "Melinda Thompson",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/19786278"
+    }
+  ]
+}

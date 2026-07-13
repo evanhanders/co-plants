@@ -162,6 +162,12 @@
       "group": "Summer forbs",
       "lead": "coreopsis",
       "blurb": "Coreopsis — easy golden tickseed daisies, large-flowered and threadleaf."
+    },
+    "sumacs": {
+      "name": "Sumacs",
+      "group": "Shrubs",
+      "lead": "three-leaf-sumac",
+      "blurb": "Rhus — tough native shrubs for fiery fall color and tart red 'lemonade' berries."
     }
   }
 }

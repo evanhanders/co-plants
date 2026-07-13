@@ -1,0 +1,155 @@
+[
+  {
+    "file": "images/su-flower.jpg",
+    "photo_id": 298065876,
+    "by": "Douglas Harris",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/171749955",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  },
+  {
+    "file": "images/su-bloom-mass.jpg",
+    "photo_id": 44758684,
+    "by": "bartondray",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/28701571",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  },
+  {
+    "file": "images/su-foliage.jpg",
+    "photo_id": 62969695,
+    "by": "no rights reserved",
+    "license": "CC0",
+    "source": "https://www.inaturalist.org/observations/39676073",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      476,
+      417
+    ],
+    "thumb_px": [
+      400,
+      350
+    ]
+  },
+  {
+    "file": "images/su-habit.jpg",
+    "photo_id": 533973180,
+    "by": "Jim Frisinger",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/296297206",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  },
+  {
+    "file": "images/su-context.jpg",
+    "photo_id": 194380139,
+    "by": "gwills22",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/115152723",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  },
+  {
+    "file": "images/fa-berries.jpg",
+    "photo_id": 144443077,
+    "by": "sarenestx",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/87600012",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  },
+  {
+    "file": "images/fa-fall-color.jpg",
+    "photo_id": 581796609,
+    "by": "hydnellum_peckii",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/312047914",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  },
+  {
+    "file": "images/fa-fall-habit.jpg",
+    "photo_id": 237435234,
+    "by": "Ken Hobson",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/138882142",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      1050
+    ],
+    "thumb_px": [
+      400,
+      300
+    ]
+  },
+  {
+    "file": "images/wi-winter.jpg",
+    "photo_id": 367202885,
+    "by": "Sequoia Janirella Wrens",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/207586106",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  }
+]

@@ -1,0 +1,109 @@
+{
+  "collection": "milkweeds",
+  "common": "Swamp milkweed",
+  "botanical": "Asclepias incarnata",
+  "type": "Forb",
+  "lifecycle": "Perennial",
+  "bloom_season": "Summer",
+  "native": "CO native",
+  "blurb": "The wetland monarch host: flat-topped domes of small rose-pink stars over slender willow-like leaves, humming with butterflies and bees. Unlike its dryland cousins, it wants consistently moist ground.",
+  "size": "3–5 ft tall × 2–3 ft wide",
+  "sun": "Full sun",
+  "water": "High — moist to wet soil; not for dry zones",
+  "spread": "Clumping; expands slowly, far less aggressive than showy milkweed",
+  "seasons": "Slender willow-like leaves on tall stems; rose-pink flower domes mid-to-late summer; slim seed pods splitting to silky floss in fall",
+  "wildlife": "Monarch host (caterpillar food) and a major nectar source for butterflies, bees and other pollinators",
+  "deer": "Generally avoided — the foliage is toxic",
+  "toxic": "All parts contain toxic cardiac glycosides and irritant milky latex; poisonous raw to livestock, pets and people — see Edible parts",
+  "flower_color": [
+    "pink",
+    "purple"
+  ],
+  "bloom": [
+    "summer"
+  ],
+  "winter": false,
+  "verified": "2026-07-13",
+  "shots": [
+    {
+      "local": "images/su-flower-t.jpg",
+      "full": "images/su-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/9531178/large.jpg",
+      "s": "summer",
+      "cap": "Summer — a bright rose-pink flower dome · © Steven Mlodinow (CC-BY-NC) / iNaturalist",
+      "by": "Steven Mlodinow",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/7352806"
+    },
+    {
+      "local": "images/su-flower-macro-t.jpg",
+      "full": "images/su-flower-macro.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/214432782/large.jpg",
+      "s": "summer",
+      "cap": "Summer — the intricate pink star flowers up close · © Steven Mlodinow (CC-BY-NC) / iNaturalist",
+      "by": "Steven Mlodinow",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/126384494"
+    },
+    {
+      "local": "images/su-flower-foliage-t.jpg",
+      "full": "images/su-flower-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/538292574/large.jpg",
+      "s": "summer",
+      "cap": "Summer — flowers over the slender willow-like leaves · © Phyllis Holst (CC-BY-NC) / iNaturalist",
+      "by": "Phyllis Holst",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/298818089"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/308456420/large.jpg",
+      "s": "summer",
+      "cap": "Summer — the leafy flowering plant at the water's edge · © Julia Auckland (CC-BY-NC) / iNaturalist",
+      "by": "Julia Auckland",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/177350328"
+    },
+    {
+      "local": "images/su-context-t.jpg",
+      "full": "images/su-context.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/87142533/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — flowering plants at a lakeshore · © Phyllis Holst (CC-BY-NC) / iNaturalist",
+      "by": "Phyllis Holst",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/54754773"
+    },
+    {
+      "local": "images/su-bloom-mass-t.jpg",
+      "full": "images/su-bloom-mass.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/9216090/large.jpg",
+      "s": "summer",
+      "cap": "Summer — a flowering stand · © alwaysanotherway (CC-BY-NC) / iNaturalist",
+      "by": "alwaysanotherway",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/7155546"
+    },
+    {
+      "local": "images/fa-pods-t.jpg",
+      "full": "images/fa-pods.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552771281/large.jpg",
+      "s": "fall",
+      "cap": "Fall — slim green seed pods · © custer1110 (CC-BY-NC) / iNaturalist",
+      "by": "custer1110",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/306516071"
+    },
+    {
+      "local": "images/fa-floss-t.jpg",
+      "full": "images/fa-floss.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/443076877/large.jpeg",
+      "s": "fall",
+      "cap": "Fall — dried pods split to silky floss · © Chris Sulots (CC-BY) / iNaturalist",
+      "by": "Chris Sulots",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/248019560"
+    }
+  ]
+}

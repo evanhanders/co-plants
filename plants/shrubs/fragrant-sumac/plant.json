@@ -4,14 +4,16 @@
   "botanical": "Rhus aromatica",
   "type": "Shrub",
   "lifecycle": "Perennial",
-  "native": "CO native",
+  "native": "Non-native",
+  "origin": "Eastern & central North America to the Great Plains",
+  "habitat": "Dry open woods, glades, rocky slopes & thickets",
   "flower_color": [
     "yellow"
   ],
   "bloom": [
     "spring"
   ],
-  "blurb": "A low, mounding native shrub with aromatic trifoliate leaves that blaze red-orange in fall; tiny yellow flowers open on the bare twigs before the leaves, followed by fuzzy red berries.",
+  "blurb": "A low, mounding shrub with aromatic trifoliate leaves that blaze red-orange in fall; tiny yellow flowers open on the bare twigs before the leaves, followed by fuzzy red berries.",
   "size": "~2–6 ft tall × 6–10 ft wide",
   "sun": "Full sun to part shade",
   "water": "Low; xeric once established",
@@ -22,6 +24,11 @@
   "toxic": "",
   "winter": false,
   "verified": "2026-07-13",
+  "ph": {
+    "min": 5.5,
+    "ideal": 6.5,
+    "max": 8.0
+  },
   "shots": [
     {
       "local": "images/sp-flower-t.jpg",
@@ -103,5 +110,103 @@
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/315881503"
     }
-  ]
+  ],
+  "care": {
+    "hardiness": "Reliably hardy across USDA zones 3–9, so it sails through Boulder's zone 5b–6a winters; a tough, adaptable shrub at home in high-altitude Front Range sun.[1][2][4]",
+    "planting": "Plant in spring after the mid-May last frost or in early fall on a well-drained site; it establishes easily and transplants well. Containerized roots are far less cold-hardy, so keep pots watered and sheltered over their first winter.[1][2]",
+    "sun": "Full sun to part shade; the densest habit and most brilliant red-orange-purple fall color develop in full sun.[1][2][4]",
+    "soil": "Unfussy about soil — thrives in poor, dry, rocky, sandy or heavy clay ground and tolerates acidic through alkaline conditions; it only resents wet, poorly drained sites.[1][2]",
+    "water": "Drought-tolerant once established, needing little to no supplemental water in our semi-arid climate; give occasional deep soaks only while it is getting going.[1][2][4]",
+    "spacing": "Give it room to ramble — it spreads far wider than tall (to ~6–10 ft) by suckers and layering; space plants 5–8 ft apart for a mass planting or informal groundcover.[1][2]",
+    "propagation": "Grow from seed (hard-coated, with dormancy broken by scarification plus cold-moist stratification), from softwood or root cuttings, or most easily by lifting rooted suckers and soil-layered stem tips off the spreading colony.[1][3]",
+    "bloom": "Tiny yellow catkin-like flowers open on the bare twigs in earliest spring (around April), before the leaves; pollinated female plants then set clusters of fuzzy red berries by late summer that persist into winter.[1][2][5]",
+    "feeding": "Needs no routine feeding in average soil — it evolved on lean, rocky ground, and excess fertility only pushes soft, floppy growth.[2]",
+    "pruning": "Prune right after it flowers in spring: the flower buds form the previous season and open on old wood, so a late-winter cut removes that year's blooms and the berries that follow. It sprouts strongly from the root crown and takes renewal well — thin about a third of the oldest, congested canes to the ground every few years, or cut an overgrown, bare-bottomed thicket low to rejuvenate it, and it resprouts densely. Pull or cut rooted suckers and layered stem tips at the edges to hold its spread.[4][6]",
+    "maintenance": "Very low care beyond containing it — the main annual job is removing suckers and rooting stem tips so the colony doesn't outgrow its space.[2][4]",
+    "troubles": "Largely trouble-free; leaf spots, rust, aphids, scale, mites, and cosmetic leaf/nipple galls can appear but rarely warrant treatment.[2][4]",
+    "harvest": "Pick the tart red berries when fully colored in late summer for a lemonade-like drink; they persist on the shrub into winter unless birds strip them first.[3][5]"
+  },
+  "references": [
+    {
+      "name": "NC State Extension Plant Toolbox — Rhus aromatica",
+      "url": "https://plants.ces.ncsu.edu/plants/rhus-aromatica/"
+    },
+    {
+      "name": "Missouri Botanical Garden Plant Finder — Rhus aromatica",
+      "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=275952"
+    },
+    {
+      "name": "USDA Forest Service FEIS — Rhus aromatica",
+      "url": "https://research.fs.usda.gov/feis/species-reviews/rhuaro"
+    },
+    {
+      "name": "The Morton Arboretum — Fragrant sumac (Rhus aromatica)",
+      "url": "https://mortonarb.org/plant-and-protect/trees-and-plants/fragrant-sumac/"
+    },
+    {
+      "name": "Lady Bird Johnson Wildflower Center — Rhus aromatica",
+      "url": "https://www.wildflower.org/plants/result.php?id_plant=RHAR4"
+    },
+    {
+      "name": "CSU Extension — CMG GardenNotes #616, Pruning Flowering Shrubs",
+      "url": "https://cmg.extension.colostate.edu/Gardennotes/616.pdf"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      1,
+      2
+    ],
+    "sun": [
+      1,
+      2,
+      4
+    ],
+    "water": [
+      1,
+      2,
+      4
+    ],
+    "spread": [
+      1,
+      2
+    ],
+    "seasons": [
+      1,
+      2,
+      4
+    ],
+    "wildlife": [
+      1,
+      5
+    ],
+    "deer": [
+      5
+    ],
+    "ph": [
+      1,
+      2
+    ],
+    "origin": [
+      1,
+      3,
+      5
+    ],
+    "habitat": [
+      2,
+      3
+    ]
+  },
+  "edible": {
+    "level": "edible",
+    "food": true,
+    "kinds": [
+      "fruit"
+    ],
+    "card": "Tart red berries (lemonade-like drink)",
+    "summary": "The fuzzy red berries are edible and tart — traditionally steeped in water to make a tangy pink 'sumac-ade,' like other red-fruited sumacs.[1][3]",
+    "parts": "The ripe red, hairy drupes are the edible part; a sour coating on the fruit dissolves in water to give the drink its lemonade-like tartness.[1][3]",
+    "preparation": "Soak or rub the whole berry clusters in cool water (don't boil, which turns it bitter), strain out the fruit and hairs, and sweeten to taste; Native peoples also used the fruit in foods.[1][3]",
+    "caution": "This is a harmless red-berried sumac, NOT poison sumac (Toxicodendron vernix, a white-berried wetland tree) or poison ivy — only the upright RED-fruited sumacs are used for the drink. The aromatic crushed foliage is citrus-scented and non-toxic.[1][3]"
+  }
 }

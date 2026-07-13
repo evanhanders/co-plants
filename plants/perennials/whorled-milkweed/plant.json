@@ -5,8 +5,8 @@
   "type": "Forb",
   "lifecycle": "Perennial",
   "bloom_season": "Summer",
-  "native": "CO native",
-  "blurb": "A fine-textured native milkweed: threadlike leaves in tidy whorls up wiry stems, topped in late summer by small umbels of greenish-white stars. A monarch host that thrives on the lean, dry ground where showier milkweeds won't.",
+  "native": "Non-native",
+  "blurb": "A fine-textured eastern-US milkweed: threadlike leaves in tidy whorls up wiry stems, topped in late summer by small umbels of greenish-white stars. A monarch host that thrives on the lean, dry ground where showier milkweeds won't.",
   "size": "1–2.5 ft tall × spreading",
   "sun": "Full sun",
   "water": "Low; xeric once established",
@@ -15,6 +15,8 @@
   "wildlife": "Monarch host and a late-season nectar source for many bees, wasps and butterflies",
   "deer": "Generally avoided — the foliage is toxic",
   "toxic": "All parts contain toxic cardiac glycosides; among the most toxic milkweeds to livestock — poisonous, see Edible parts",
+  "origin": "Eastern & central US to the Great Plains",
+  "habitat": "Dry prairies, barrens, glades & roadsides on lean, poor soils",
   "flower_color": [
     "white",
     "green"
@@ -24,6 +26,11 @@
   ],
   "winter": false,
   "verified": "2026-07-13",
+  "ph": {
+    "min": 6.0,
+    "ideal": 6.5,
+    "max": 7.5
+  },
   "shots": [
     {
       "local": "images/su-flower-t.jpg",
@@ -105,5 +112,106 @@
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/19786278"
     }
-  ]
+  ],
+  "care": {
+    "hardiness": "An eastern and central North American prairie native (USDA zones roughly 4–9), reliably hardy through Boulder's zone 5b–6a winters; it dies to the ground each fall and returns from the rhizomes in spring. Note it is NOT Colorado's native whorled milkweed — that is the closely related Asclepias subverticillata — so here it is an introduced garden plant, not a local wildflower.[2][3]",
+    "planting": "Set out container plants in spring after the mid-May last frost, or plant in fall to let the roots settle before summer heat; choose a permanent lean, sunny spot, because once the rhizomes run it resents being moved. It grows poorly and overwinters badly in pots, so put it straight in the open ground rather than keeping it potted.[1][2]",
+    "sun": "Full sun is best; it will take part shade but flowers far more freely — and hosts monarchs better — in open, unshaded ground.[1][2]",
+    "soil": "Thrives on lean, sharply drained sandy, rocky, or clay soils and actually prefers poor ground; heavy, wet soil invites root rot. It tolerates a range of textures but not waterlogging, and favours a slightly acidic to neutral soil.[1][2][8]",
+    "water": "Low; drought-tolerant once the deep rhizomes establish, and happiest kept dry-to-medium, never soggy. An occasional deep soak in a hot Front-Range summer is plenty.[1][2]",
+    "spacing": "Space about 12–18 in apart, but plant several together — monarch caterpillars fare better where stems grow in clumps, and the fine, wispy foliage reads best massed.[2]",
+    "propagation": "By seed or by division of the rhizome. Lift and split dormant rhizome pieces (each with a bud) in early spring or fall, or collect and sow seed; established clumps also expand on their own by rhizome, so division is easy.[1][2]",
+    "sow": "Sow seed outdoors in fall so winter cold-stratifies it; fall-sown seed germinates the following spring, though seedlings often wait until their second year to bloom.[1]",
+    "stratify": "Seed needs cold-moist stratification to germinate well; the simplest route is a fall outdoor sowing that lets winter do it, or give roughly a month (~30 days) of cold-moist chilling before a spring sowing.[1]",
+    "depth": "Sow shallowly — barely cover the seed, about 1/8–1/4 in; it needs only a thin covering to germinate.[2]",
+    "bloom": "Small greenish-white star flowers in flat-topped umbels from mid-to-late summer (roughly July–September) — one of the latest milkweeds to bloom — followed by slender pods that split to silky floss in fall.[1][2]",
+    "feeding": "None needed; it is adapted to poor soils, and rich feeding only makes the wiry stems flop. Skip the fertilizer.[2]",
+    "maintenance": "Very low. Leave the dead stems and split pods standing over winter for insect shelter and seed, then cut back in early spring as new shoots appear; keep an eye on the rhizomes so the colony stays where you want it.[1][2]",
+    "selfsow": "Spreads readily — both by running rhizomes into clonal colonies and by wind-borne seed — so it can wander in a bed; site it where it can roam or sink a root barrier, and deadhead the pods before they split if you want to limit seedlings.[2]",
+    "troubles": "Largely trouble-free. Bright-orange oleander aphids often colonize the stems and buds; hose them off or tolerate them, but never spray insecticide on a milkweed — it is a monarch nursery, and pesticides kill the caterpillars it exists to feed.[2][4]",
+    "harvest": "Not a food plant — do not harvest any part to eat (see Edible parts). If collecting seed, bag the pods as they ripen and gather them before they split and the floss carries the seed off.[1]",
+    "companions": "Pairs with other lean-soil, sun-loving prairie plants — little bluestem, blanket flower, coneflowers, and asters — to build a season-long nectar succession; its late bloom usefully extends forage into fall.[4]"
+  },
+  "edible": {
+    "level": "toxic",
+    "summary": "Do not eat — no part of whorled milkweed is food. All parts are poisonous, and this narrow-leaved milkweed ranks among the most toxic to livestock.[1][5][7]",
+    "caution": "All parts contain toxic cardiac glycosides (cardenolides) and an irritant milky latex, and the narrow-leaved, whorled milkweeds like this one are among the most toxic milkweeds to grazing animals.[1][5][7] Poisoning is not uncommon in sheep and cattle and occurs in horses, goats, and other stock; as little as a fraction of a percent of body weight can sicken or kill an animal, and the plants stay toxic even dried in hay, so contaminated hay is a common cause of loss.[5][7] It is a documented rangeland weed for exactly this reason.[1] The ASPCA lists Asclepias as toxic to dogs, cats, and horses, with cardenolides causing vomiting, weakness, dilated pupils, seizures, and — at higher doses — heart and respiratory failure.[6] Before it flowers, milkweed can be confused with poisonous dogbane (Apocynum); neither is edible, so do not gather this plant, and no preparation makes any part of it safe to eat.[1]"
+  },
+  "references": [
+    {
+      "name": "Lady Bird Johnson Wildflower Center — Asclepias verticillata (whorled milkweed)",
+      "url": "https://www.wildflower.org/plants/result.php?id_plant=ASVE"
+    },
+    {
+      "name": "NC State Extension Plant Toolbox — Asclepias verticillata",
+      "url": "https://plants.ces.ncsu.edu/plants/asclepias-verticillata/"
+    },
+    {
+      "name": "U.S. Fish & Wildlife Service — Whorled milkweed (Asclepias verticillata)",
+      "url": "https://www.fws.gov/species/whorled-milkweed-asclepias-verticillata"
+    },
+    {
+      "name": "Xerces Society — Milkweed & monarch conservation",
+      "url": "https://xerces.org/milkweed"
+    },
+    {
+      "name": "New Mexico State University Extension — Milkweed Poisoning of Horses (Guide B-709)",
+      "url": "https://pubs.nmsu.edu/_b/B709/index.html"
+    },
+    {
+      "name": "ASPCA Animal Poison Control — Milkweed (Asclepias spp.)",
+      "url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/milkweed"
+    },
+    {
+      "name": "CSU Extension — Managing Western Whorled Milkweed",
+      "url": "https://extension.colostate.edu/resource/managing-western-whorled-milkweed/"
+    },
+    {
+      "name": "Tennessee Smart Yards (UT Extension) — Asclepias verticillata",
+      "url": "https://tnyards.utk.edu/asclepias-verticillata/"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      1,
+      2
+    ],
+    "sun": [
+      1,
+      2
+    ],
+    "water": [
+      1,
+      2
+    ],
+    "spread": [
+      2
+    ],
+    "seasons": [
+      1,
+      2
+    ],
+    "wildlife": [
+      4
+    ],
+    "deer": [
+      2
+    ],
+    "toxic": [
+      1,
+      5,
+      7
+    ],
+    "ph": [
+      2,
+      8
+    ],
+    "origin": [
+      3
+    ],
+    "habitat": [
+      1,
+      3
+    ]
+  }
 }

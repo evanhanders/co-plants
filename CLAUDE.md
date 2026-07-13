@@ -447,7 +447,7 @@ driven off one predicate so they can't drift. To add one (e.g. `Fragrant`):
 Cultivar/genus clusters (apples, plums, tart cherries, currants, pelargoniums, wallflowers,
 asters, irises, tulips, climbing/rambling roses, hardy geraniums, crocuses, penstemons, maples,
 milkweeds, alliums, sunflowers, bee-balms, lupines, dogwoods, clematis, mulleins, columbines,
-scabious, prairie-coneflowers, pinks, coreopsis — **27 in all**) collapse
+scabious, prairie-coneflowers, pinks, coreopsis, sumacs — **28 in all**) collapse
 into a **single expandable family card** so the grid isn't buried under near-duplicate cards. It's
 an **inline accordion**, not a separate page — each member keeps its own detail page untouched.
 The bar for a collection is "would a gardener read these as one kind of plant in different
@@ -1036,7 +1036,7 @@ ground every statement in an authority cited in `references`.
 
 ## Current plant roster (in the live site)
 
-**235 specimens** (`plants/manifest.json` is the source of truth for the exact count), all verified
+**239 specimens** (`plants/manifest.json` is the source of truth for the exact count), all verified
 non-weed in CO and all carrying a full `care` block (incl.
 `planting` + `propagation`) **and a repo-hosted photo reel** (close-up + structure, seasonal
 where good shots exist). Every plant's detail page is **fully cited** — a numbered
@@ -1228,6 +1228,26 @@ minimal); fire-blight-prone Rosaceae (apple, pear, hawthorn, cotoneaster) get dr
 
 **Walk-sighting batch (July 2026):** identified **eight** plants a user photographed on a walk and added the **six** that weren't already in the guide (coreopsis and blanket flower were already covered → skipped). Verified non-weed vs CO lists A/B/C 2026-07-06; sourced via parallel agents (one per plant): **pink skullcap** (*Scutellaria suffrutescens*, a `Non-native` Subshrub — borderline ~zone 7, honestly framed as a warm-microclimate/overwintered-pot plant, not ground-hardy here); **bluebeard / blue mist spirea** (*Caryopteris × clandonensis*, Subshrub — cut hard each spring, blooms on new wood, a top late-season bee plant); **oriental fountain grass** (*Pennisetum orientale* syn. *Cenchrus orientalis*, a Grass — its `care` explicitly distinguishes this hardy, self-sowing-but-manageable species from the truly invasive tender *P. setaceum*, which is not hardy here); **four o'clock** (*Mirabilis jalapa*, a Forb `Tender perennial` — slug `annuals/four-oclock`, kept distinct from the existing CO-native `desert-four-oclock` = *M. multiflora*; `edible` set **toxic** — poisonous black seeds + tuberous root, trigonelline; dig-and-store the tuber like dahlia); **trumpet vine** (*Campsis radicans*, a woody Vine — `Non-native` per the SE-US-but-not-Front-Range convention, hummingbird magnet, `edible` **toxic** for cow-itch contact dermatitis; aggressive root-suckering/self-seeding + aerial-rootlet structural damage baked into `spread`/`maintenance`); and **hawthorn** (*Crataegus sp.*, a Tree — a deliberate **genus-level** entry: the user's tree was IDed from photos only to genus (glossy unlobed leaves + round red star-calyx haws best match a cockspur-type), so the blurb/care/edible state the species-uncertainty honestly and the reel uses honestly-captioned representative *Crataegus* shots; `edible` caution — haw flesh cooked, spit the cyanogenic seeds). Reels are 7–9 CC shots each via `tools/inat_montage.py` (iNat open data), 720×480 smart-crop thumbs; every entry fully cited (`check_refs` + `check_citations` pass) with provenance.
 
+**Sumacs & milkweeds batch (July 2026):** on a user request ("do we have sumacs and milkweeds?"),
+added **four** relatives of the existing three-leaf sumac and showy/butterfly milkweeds, and created a
+new **Sumacs** family card (id `sumacs`, homed in Shrubs, lead = three-leaf-sumac) folding in the two
+new sumacs + the existing three-leaf sumac. Verified non-weed vs CO lists A/B/C/Watch 2026-07-13; care
+sourced via four parallel agents (one per plant, distinct files). The sumacs: **smooth sumac**
+(*Rhus glabra*, a Shrub — CO-native, **dioecious** so only female plants bear the crimson berry cones,
+brilliant scarlet fall color, edible red berries for "sumac-ade") and **fragrant sumac** (*Rhus
+aromatica* — marked **Non-native**: three authorities confirm *R. aromatica* sensu stricto does **not**
+reach Colorado, whose Front-Range vicariant is the already-listed *R. trilobata*; low mounding shrub,
+aromatic trilobed leaves, blooms on old wood so prune after flowering; edible red berries). The
+milkweeds: **swamp milkweed** (*Asclepias incarnata*, a Forb — CO-native, the one **moisture-loving**
+milkweed for wet/moist ground (NOT xeric), a well-behaved single-crown clump; `edible` **caution**/
+`food:false` — historical cooked use noted but not advertised, NRCS frames internal use as a medicinal
+emetic) and **whorled milkweed** (*Asclepias verticillata*, a Forb — marked **Non-native**: USFWS
+confirms *A. verticillata* is **absent from Colorado**, whose native whorled milkweed is the distinct
+*A. subverticillata*; fine threadlike whorled foliage, xeric, blooms late; `edible` **toxic** — one of
+the most livestock-toxic milkweeds). Photos via `tools/inat_montage.py` (iNat open data; 8–9 CC shots
+each), 720×480 smart-crop thumbs; every entry fully cited (`check_refs` guide-wide + `check_citations`
+pass).
+
 **Trees**
 - River hawthorn (*Crataegus rivularis*) (N) — Thorny native small tree; white spring flowers, dark edible haws, superb wildlife cover. A caterpillar keystone (~90 Lepidoptera). *(Riparian — wants more water; edible haws, spit the cyanogenic seeds.)*
 - Chokecherry (*Prunus virginiana*) (N) — Wildlife powerhouse: fragrant white flower racemes, dark…
@@ -1270,7 +1290,9 @@ minimal); fire-blight-prone Rosaceae (apple, pear, hawthorn, cotoneaster) get dr
 - Pussy willow (*Salix discolor*) (I) — Silvery late-winter catkins — premier early bee pollen. *(US native, not CO; dioecious — buy a male; high-water wetland shrub.)*
 - Apache plume (*Fallugia paradoxa*) (N) — White roses all summer, then feathery pink seedhead plumes; drought-proof and deer-resistant.
 - Boulder raspberry (*Rubus deliciosus*) (N) — Boulder's namesake; thornless arching shrub with big white rose-like flowers over maple leaves. *(Fruit edible but dry/bland.)*
-- Three-leaf sumac (*Rhus trilobata*) (N) — Trifoliate leaves blazing orange-red in fall; tart red "lemonade" berries. *(Edible berries — NOT poison sumac.)*
+- Three-leaf sumac (*Rhus trilobata*) (N) — Trifoliate leaves blazing orange-red in fall; tart red "lemonade" berries. *(Sumacs family card; Edible berries — NOT poison sumac.)*
+- Smooth sumac (*Rhus glabra*) (N) — The largest, smoothest native sumac; scarlet fall color and erect crimson berry cones standing through winter. *(Sumacs family card; dioecious — only females fruit; edible red berries for sumac-ade.)*
+- Fragrant sumac (*Rhus aromatica*) (I) — Low mounding shrub; aromatic trilobed leaves reddening in fall, yellow twig-flowers before the leaves, fuzzy red berries. *(Sumacs family card; E/central-US native, NOT Front-Range — R. trilobata is our vicariant; edible red berries.)*
 - Shrubby cinquefoil (*Dasiphora fruticosa*) (N) — Indestructible mound smothered in buttercup-yellow flowers June to frost.
 - Rabbitbrush (*Ericameria nauseosa*) (N) — Silver-stemmed shrub erupting in golden fall bloom; a critical late-season pollinator plant.
 - Leadplant (*Amorpha canescens*) (N) — Silvery ferny foliage and purple-and-orange flower spikes; a nitrogen-fixing prairie legume.
@@ -1379,6 +1401,8 @@ minimal); fire-blight-prone Rosaceae (apple, pear, hawthorn, cotoneaster) get dr
 - Foxglove beardtongue (*Penstemon digitalis*) (I) — Eastern-prairie native (cultivars 'Husker Red'/'Dark Towers'); tall white tubular wands over dark-flushed foliage, a native-bee magnet. *(Penstemons family card; far more clay/moisture-tolerant than the xeric Western penstemons.)*
 - Showy milkweed (*Asclepias speciosa*) (N) — THE monarch host; domes of rose-pink stars, then silky-floss pods. The top plant for monarchs here. *(Spreads by rhizome; toxic raw — young parts edible only cooked.)*
 - Butterfly milkweed (*Asclepias tuberosa*) (N) — Blazing flat orange clusters on a tidy non-spreading taproot clump; monarch host. *(Toxic — grown as a pollinator plant, not food.)*
+- Swamp milkweed (*Asclepias incarnata*) (N) — The wetland monarch host; rose-pink flower domes over willow-like leaves, a well-behaved single-crown clump. *(The moisture-lover — wants moist/wet soil, NOT xeric; caution — toxic raw, not advertised as food.)*
+- Whorled milkweed (*Asclepias verticillata*) (I) — Fine threadlike leaves in whorls; greenish-white umbels in late summer, xeric and tough. *(E/central-US native, NOT Colorado — our native is A. subverticillata; toxic — one of the most livestock-toxic milkweeds.)*
 - Purple prairie clover (*Dalea purpurea*) (N) — Rose-purple thimbles over ferny foliage; a nitrogen-fixing legume and native-bee keystone. *(Leaves for tea; sweet roots chewed.)*
 - Hairy golden aster (*Heterotheca villosa*) (N) — Low silvery-hairy mound of golden daisies midsummer to frost; a specialist-bee keystone (~50 bee spp).
 - False sunflower (*Heliopsis helianthoides*) (N) — Long-blooming golden daisies (golden centers) early summer to frost; sturdy and bee-friendly.

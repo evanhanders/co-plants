@@ -1,0 +1,138 @@
+[
+  {
+    "file": "images/sp-flower-red.jpg",
+    "photo_id": 129033030,
+    "by": "Vladimir Yu. Arkhipov",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/78815983",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      1050
+    ],
+    "thumb_px": [
+      400,
+      300
+    ]
+  },
+  {
+    "file": "images/sp-flower-purple.jpg",
+    "photo_id": 188487469,
+    "by": "cr51gtr",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/111434426",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      1050
+    ],
+    "thumb_px": [
+      400,
+      300
+    ]
+  },
+  {
+    "file": "images/sp-flower-pink.jpg",
+    "photo_id": 189605359,
+    "by": "mongo",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/112256023",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      630,
+      1400
+    ],
+    "thumb_px": [
+      180,
+      400
+    ]
+  },
+  {
+    "file": "images/sp-flower-apricot.jpg",
+    "photo_id": 362527264,
+    "by": "Gergely Nigg",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/observations/205058075",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      787,
+      1400
+    ],
+    "thumb_px": [
+      225,
+      400
+    ]
+  },
+  {
+    "file": "images/sp-flower-yellow.jpg",
+    "photo_id": 484294685,
+    "by": "klezsu",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/269357418",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  },
+  {
+    "file": "images/sp-habit.jpg",
+    "photo_id": 67884225,
+    "by": "Denys Davydov",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/42744488",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      1050
+    ],
+    "thumb_px": [
+      400,
+      300
+    ]
+  },
+  {
+    "file": "images/sp-bloom-mass.jpg",
+    "photo_id": 178877020,
+    "by": "Oleksandr Shynder",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/106479166",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      1050
+    ],
+    "thumb_px": [
+      400,
+      300
+    ]
+  },
+  {
+    "file": "images/sp-color.jpg",
+    "photo_id": 626027279,
+    "by": "Marianne Lauerer",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/343644974",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      787,
+      1400
+    ],
+    "thumb_px": [
+      225,
+      400
+    ]
+  }
+]

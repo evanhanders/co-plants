@@ -168,6 +168,12 @@
       "group": "Shrubs",
       "lead": "three-leaf-sumac",
       "blurb": "Rhus — tough native shrubs for fiery fall color and tart red 'lemonade' berries."
+    },
+    "primulas": {
+      "name": "Primulas",
+      "group": "Spring forbs",
+      "lead": "polyanthus",
+      "blurb": "Primula — cool-season primroses: leaf rosettes topped with bright early flowers, from woodland classics to a Colorado alpine native."
     }
   }
 }

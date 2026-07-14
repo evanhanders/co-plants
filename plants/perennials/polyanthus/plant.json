@@ -1,0 +1,211 @@
+{
+  "collection": "primulas",
+  "common": "Polyanthus",
+  "botanical": "Primula × polyantha",
+  "type": "Forb",
+  "lifecycle": "Perennial",
+  "bloom_season": "Spring",
+  "native": "Non-native",
+  "origin": "Garden hybrid (Primula vulgaris × P. veris)",
+  "habitat": "Garden origin; parent species of European woods & meadows",
+  "blurb": "The bright bedding primrose: bold flat flowers with a yellow eye — in nearly every color — clustered on a stout stalk over a crinkled-leaf rosette. Cheery cool-season color for a shady, moist spot.",
+  "size": "6–10 in tall × 8–12 in wide",
+  "sun": "Part shade (morning sun, afternoon shade)",
+  "water": "Moderate to high; keep evenly moist — not for dry zones",
+  "spread": "Clumping; divide every few years",
+  "seasons": "Rosette of crinkled leaves; big multicolored flower clusters in spring",
+  "wildlife": "Early nectar for bees",
+  "deer": "Not notably deer-resistant",
+  "toxic": "Foliage and sap (primin) can irritate skin — see Edible parts",
+  "flower_color": [
+    "yellow",
+    "orange",
+    "red",
+    "pink",
+    "purple",
+    "blue",
+    "white"
+  ],
+  "bloom": [
+    "spring"
+  ],
+  "winter": false,
+  "verified": "2026-07-14",
+  "ph": {
+    "min": 5.5,
+    "ideal": 6.5,
+    "max": 7.0
+  },
+  "shots": [
+    {
+      "local": "images/sp-flower-red-t.jpg",
+      "full": "images/sp-flower-red.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/129033030/large.jpeg",
+      "s": "spring",
+      "cap": "Spring — red-and-gold flowers · © Vladimir Yu. Arkhipov (CC-BY-NC) / iNaturalist",
+      "by": "Vladimir Yu. Arkhipov",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/78815983"
+    },
+    {
+      "local": "images/sp-flower-purple-t.jpg",
+      "full": "images/sp-flower-purple.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/188487469/large.jpg",
+      "s": "spring",
+      "cap": "Spring — a purple flower with a yellow eye · © cr51gtr (CC-BY-NC) / iNaturalist",
+      "by": "cr51gtr",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/111434426"
+    },
+    {
+      "local": "images/sp-flower-pink-t.jpg",
+      "full": "images/sp-flower-pink.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/189605359/large.jpeg",
+      "s": "spring",
+      "cap": "Spring — a pink flower · © mongo (CC-BY-NC) / iNaturalist",
+      "by": "mongo",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/112256023"
+    },
+    {
+      "local": "images/sp-flower-apricot-t.jpg",
+      "full": "images/sp-flower-apricot.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/362527264/large.jpeg",
+      "s": "spring",
+      "cap": "Spring — soft apricot flowers over the rosette · © Gergely Nigg (CC-BY) / iNaturalist",
+      "by": "Gergely Nigg",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/205058075"
+    },
+    {
+      "local": "images/sp-flower-yellow-t.jpg",
+      "full": "images/sp-flower-yellow.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/484294685/large.jpg",
+      "s": "spring",
+      "cap": "Spring — yellow flowers face-on · © klezsu (CC-BY-NC) / iNaturalist",
+      "by": "klezsu",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/269357418"
+    },
+    {
+      "local": "images/sp-habit-t.jpg",
+      "full": "images/sp-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/67884225/large.jpeg",
+      "s": "spring",
+      "cap": "Spring — a yellow-flowered clump · © Denys Davydov (CC-BY-NC) / iNaturalist",
+      "by": "Denys Davydov",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/42744488"
+    },
+    {
+      "local": "images/sp-bloom-mass-t.jpg",
+      "full": "images/sp-bloom-mass.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/178877020/large.jpeg",
+      "s": "spring",
+      "cap": "Spring — a mass of golden bloom · © Oleksandr Shynder (CC-BY-NC) / iNaturalist",
+      "by": "Oleksandr Shynder",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/106479166"
+    },
+    {
+      "local": "images/sp-color-t.jpg",
+      "full": "images/sp-color.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/626027279/large.jpg",
+      "s": "spring",
+      "cap": "Spring — orange-yellow flowers over the leaf rosette · © Marianne Lauerer (CC-BY-NC) / iNaturalist",
+      "by": "Marianne Lauerer",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/343644974"
+    }
+  ],
+  "care": {
+    "hardiness": "A garden hybrid of two European primroses (Primula vulgaris × P. veris), the polyanthus is a cold-hardy perennial roughly through USDA zones 3/4–8, but it is bred for cool springs and is at heart a cool-season plant.[1][2] On the hot, dry, alkaline Front Range it is most reliable as spring bedding: it is cold-tough through a Boulder winter, but summer heat is its undoing — extended spells above 60°F shorten its life, so it often sulks or dies out through a hot dry summer and is frequently grown as a short-lived cool-season perennial or spring annual here.[4]",
+    "planting": "Set out blooming flats in early spring for cool-season color, planting the crown right at soil level; you can also plant in fall for the following spring. Choose a permanently cool, part-shaded spot and amend the bed with plenty of organic matter first. In pots use a free-draining, humus-rich mix and never let it dry out — containers heat up and dry fast, which this thirsty, cool-rooted plant will not forgive.[1][3]",
+    "sun": "Part shade is ideal: it enjoys full sun in the cool of early spring but must have afternoon shade as temperatures climb, so a spot with morning sun and afternoon shade (or dappled light) keeps its roots cool and its bloom going.[1][3]",
+    "soil": "Give it a rich, humus-heavy soil loaded with compost and leaf mold, kept moist but well drained, and slightly acid to neutral (around pH 6.5).[1] It resents both drought and waterlogging and does not like strongly alkaline ground, so heavily amend Boulder's lean alkaline clay with organic matter before planting.[3]",
+    "water": "These are thirsty plants that like to keep cool roots — water regularly to hold the soil evenly moist and mulch to conserve moisture and buffer heat; do not let it dry out, and do not site it in a dry, baked zone.[1][3]",
+    "spacing": "Space plants about 6–12 in apart so the rosettes knit into a low edging or drift without crowding.[1]",
+    "propagation": "Propagate by division and by seed. Lift and divide the crowns either right after flowering or in early autumn — plants divided in early fall re-establish and flower freely the next spring — and named colors are best increased this way since seed-raised hybrids do not come true.[2][3] Where it is raised from seed, sow fresh seed and grow the seedlings on cool.[3]",
+    "sow": "Most gardeners buy polyanthus as budded flats in early spring rather than raising it, but if sowing, start seed in a cool, moist medium and keep the seedlings cool — warmth is the enemy of germination and growth in this cool-season primrose.[3][4]",
+    "bloom": "Clusters of 4–12 flat, yellow-eyed flowers are carried on stout stalks above the foliage in spring — roughly April–May on the Front Range — in nearly every color; deadheading spent trusses keeps it flowering for several weeks.[1][4]",
+    "feeding": "Feed lightly through the cool growing and flowering season, especially for container plants in a peat-free potting mix with added grit or perlite; steady moisture and a rich soil matter more to performance than heavy feeding.[3]",
+    "maintenance": "Low but attentive: keep it evenly moist, mulch to keep the roots cool, and deadhead spent flowers to prolong bloom.[1][3] Divide the clumps every 2–3 years after flowering to keep them vigorous; where summer heat wears plants out, expect to replace them, as flowers in later years tend to be fewer and smaller.[2][3]",
+    "selfsow": "It rarely naturalizes on the dry Front Range and the seed-grown offspring don't come true to their parent's color, so it doesn't self-sow into a nuisance; treat it as planted color rather than a spreader.[3]",
+    "troubles": "Watch for slugs, snails, vine weevil, aphids, mealybugs, mites and whiteflies, plus primula leaf spot, gray mold (botrytis), and root and crown rots (including phytophthora) in soil that stays too wet.[1][2] Handling the foliage can also cause skin irritation — see Edible parts.[2][6]"
+  },
+  "edible": {
+    "level": "caution",
+    "food": true,
+    "kinds": [
+      "flowers"
+    ],
+    "card": "Flowers only, if unsprayed",
+    "summary": "The flowers are generally regarded as edible, like those of its cowslip and primrose parents — but treat with caution: nursery bedding plants are often pesticide-treated, and the foliage and sap can irritate the skin.[5][6]",
+    "parts": "Only the flowers are used as food. The flowers of its parent cowslip (Primula veris) are eaten raw or cooked — added to green and fruit salads, used as a garnish, made into wine, or used to flavor creams and desserts — and polyanthus flowers are used the same way as an ornamental, edible garnish.[5]",
+    "preparation": "Use flowers only from plants you know have not been sprayed; pick them fresh, remove the green calyx, and use them raw as a garnish or in salads, or candied/infused as with cowslip.[5] Do not eat the leaves as a vegetable, and never eat commercial nursery bedding plants, which are commonly treated with pesticides.[5][6]",
+    "caution": "Primula foliage and sap contain primin (a benzoquinone allergen concentrated in the glandular hairs on the leaves and stems) that causes allergic contact dermatitis in sensitive people — wear gloves when handling.[6] The notorious 'poison primrose' Primula obconica is the worst offender, but P. veris and other primulas also carry primin, so skin reactions are possible from polyanthus too.[6] Because these bedding plants are frequently grown with pesticides and are sold as ornamentals, eat only the flowers of plants you are certain are unsprayed, and never the foliage.[5][6]"
+  },
+  "references": [
+    {
+      "name": "Missouri Botanical Garden Plant Finder — Primula (polyanthus type)",
+      "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=b564"
+    },
+    {
+      "name": "NC State Extension Gardener Plant Toolbox — Primula (Primrose)",
+      "url": "https://plants.ces.ncsu.edu/plants/primula/"
+    },
+    {
+      "name": "RHS — Primroses and polyanthus (Primula)",
+      "url": "https://www.rhs.org.uk/plants/primula/primroses-and-polyanthus"
+    },
+    {
+      "name": "PlantTalk Colorado (CSU Extension) — azalea, cineraria, primrose & ranunculus",
+      "url": "https://planttalk.colostate.edu/topics/houseplants/1334-azalea-cineraria-primrose-ranunculus/"
+    },
+    {
+      "name": "Missouri Botanical Garden Plant Finder — Primula veris (cowslip)",
+      "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=285538"
+    },
+    {
+      "name": "DermNet — Primula (primin contact dermatitis)",
+      "url": "https://dermnetnz.org/topics/primula"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      1,
+      2
+    ],
+    "sun": [
+      1,
+      3
+    ],
+    "water": [
+      1,
+      3
+    ],
+    "spread": [
+      2,
+      3
+    ],
+    "seasons": [
+      1
+    ],
+    "wildlife": [
+      3
+    ],
+    "toxic": [
+      2,
+      6
+    ],
+    "ph": [
+      1
+    ],
+    "origin": [
+      1
+    ],
+    "habitat": [
+      1
+    ]
+  }
+}

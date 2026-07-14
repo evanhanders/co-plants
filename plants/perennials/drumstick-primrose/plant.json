@@ -1,0 +1,205 @@
+{
+  "collection": "primulas",
+  "common": "Drumstick primrose",
+  "botanical": "Primula denticulata",
+  "type": "Forb",
+  "lifecycle": "Perennial",
+  "bloom_season": "Spring",
+  "native": "Non-native",
+  "origin": "Himalaya to W China",
+  "habitat": "Moist alpine meadows, streamsides & clearings",
+  "blurb": "Drumstick primrose: perfect spherical globes of lilac, purple, pink or white flowers on stout stalks over paddle-shaped leaves — among the earliest primulas, opening as the snow leaves. Wants cool, humus-rich, constantly moist ground.",
+  "size": "10–12 in tall × 10–12 in wide",
+  "sun": "Part shade to full sun (with moisture)",
+  "water": "High; wants consistently moist, humus-rich soil — not for dry zones",
+  "spread": "Clumping rosettes; self-seeds",
+  "seasons": "Big paddle-leaf rosette; spherical flower globes in very early spring",
+  "wildlife": "Early nectar for bees and butterflies",
+  "deer": "Usually passed over by deer and rabbits",
+  "toxic": "Foliage and sap (primin) can irritate skin — see Edible parts",
+  "flower_color": [
+    "purple",
+    "pink",
+    "white"
+  ],
+  "bloom": [
+    "spring"
+  ],
+  "winter": false,
+  "verified": "2026-07-14",
+  "ph": {
+    "min": 5.0,
+    "ideal": 6.0,
+    "max": 7.0
+  },
+  "shots": [
+    {
+      "local": "images/sp-flower-t.jpg",
+      "full": "images/sp-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/113331516/large.jpg",
+      "s": "spring",
+      "cap": "Spring — a purple flower globe · © Elizabeth Byers (CC-BY-NC) / iNaturalist",
+      "by": "Elizabeth Byers",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/69792270"
+    },
+    {
+      "local": "images/sp-flower-stalk-t.jpg",
+      "full": "images/sp-flower-stalk.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/190050595/large.jpeg",
+      "s": "spring",
+      "cap": "Spring — a lilac globe on its stout stalk · © Name (CC-BY) / iNaturalist",
+      "by": "Name",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/112518426"
+    },
+    {
+      "local": "images/sp-flower-foliage-t.jpg",
+      "full": "images/sp-flower-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/530116880/large.jpg",
+      "s": "spring",
+      "cap": "Spring — a flower globe over the leaf rosette · © Alexander Naumov (CC-BY-NC) / iNaturalist",
+      "by": "Alexander Naumov",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/294514192"
+    },
+    {
+      "local": "images/sp-habit-t.jpg",
+      "full": "images/sp-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/366848331/large.jpg",
+      "s": "spring",
+      "cap": "Spring — a flowering clump · © Markus Lampinen (CC-BY) / iNaturalist",
+      "by": "Markus Lampinen",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/207397139"
+    },
+    {
+      "local": "images/sp-habit-snow-t.jpg",
+      "full": "images/sp-habit-snow.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/113508795/large.jpg",
+      "s": "spring",
+      "cap": "Spring — globes emerging beside lingering snow · © Elizabeth Byers (CC-BY-NC) / iNaturalist",
+      "by": "Elizabeth Byers",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/69887925"
+    },
+    {
+      "local": "images/sp-flower-white-t.jpg",
+      "full": "images/sp-flower-white.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/300837951/large.jpeg",
+      "s": "spring",
+      "cap": "Spring — the white form · © Suresh Ghimire (CC-BY-NC) / iNaturalist",
+      "by": "Suresh Ghimire",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/173245873"
+    },
+    {
+      "local": "images/sp-context-t.jpg",
+      "full": "images/sp-context.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/253568353/large.jpg",
+      "s": "spring",
+      "cap": "Spring — a plant on a mossy streamside rock · © nizzzyt (CC-BY-NC) / iNaturalist",
+      "by": "nizzzyt",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/147367420"
+    },
+    {
+      "local": "images/sp-flower-pink-t.jpg",
+      "full": "images/sp-flower-pink.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/369933739/large.jpg",
+      "s": "spring",
+      "cap": "Spring — bright pink flower globes · © Ramesh Shenai Jr. (CC-BY) / iNaturalist",
+      "by": "Ramesh Shenai Jr.",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/209052926"
+    }
+  ],
+  "care": {
+    "hardiness": "Fully cold-hardy on the Front Range — rated to USDA zones 3–8 (RHS H6, roughly −15 to −20°C), so Boulder's zone 5b–6a winters are no problem; a Himalayan alpine, it prefers cool summers and sulks in heat, which is the real Front-Range limit here rather than cold.[1][3]",
+    "planting": "Set out container plants in early spring as growth resumes, or in early fall so roots settle before winter; site it permanently in a cool, part-shaded, reliably moist bed and it needs no coddling once happy. Because it demands constant moisture and cool roots, it makes a poor long-term container subject in our hot, dry summers — pots dry and heat up fast, so keep it in the ground in a sheltered spot rather than potted.[1][3]",
+    "sun": "Part shade is safest here — give it morning sun with afternoon shade, or dappled light. It will take full sun only where the soil stays constantly moist and cool; in Boulder's high-altitude sun and dry air, exposed full sun dries and scorches it.[1][3]",
+    "soil": "Wants a deep, humus-rich, neutral-to-acid soil kept evenly moist — the opposite of Boulder's lean, alkaline clay, so dig in generous compost or leaf mould before planting and mulch to hold moisture and cool the roots. It tolerates clay and even boggy ground but is intolerant of dry soils.[1][3]",
+    "water": "High and non-negotiable — it must have consistently moist soil and cannot tolerate drought; this is the hard part on the semi-arid Front Range. Plan on regular deep watering through the growing season, never letting it dry out, and site it near a downspout, low spot, or shaded bed that stays damp.[1][3]",
+    "spacing": "Space clumps about 10–12 in apart; a paddle-leaf rosette in flower spans roughly a foot and the seed stalks stretch taller as they ripen.[1][3]",
+    "propagation": "Increase by division, by root cuttings, or by seed. Divide congested clumps immediately after flowering, when the roots regenerate fastest; take root cuttings from the thick roots while the plant is dormant — a classic method for drumstick primulas; and sow fresh seed as below.[1][2]",
+    "sow": "Sow seed from autumn through late winter. Surface-sow onto moist, humus-rich mix and do NOT cover it — the seed needs light to germinate — then keep it cool and evenly damp; germination is best at cool temperatures around 50–60°F.[1][3]",
+    "stratify": "Cold triggers germination: an autumn surface-sowing left outdoors gets its cold-moist period naturally over winter and sprouts in spring; if sowing later, give the seed a cold-moist chill and keep it in the light, since darkness and warmth both suppress it.[1][3]",
+    "depth": "Do not bury the seed — press it onto the surface only, because light is required for germination. Set divisions and transplants at their original depth, crown at soil level.[1][3]",
+    "bloom": "Among the very first primulas to bloom — dense spherical 'drumstick' globes of lilac, purple, pink or white flowers, each with a yellow eye, open on stout stalks over the emerging rosette from early spring, often as the snow retreats, into early summer.[1][3]",
+    "feeding": "Feed the moisture and humus it craves: work compost or leaf mould into the bed at planting and top-dress annually, and an occasional balanced feed through spring growth suits this rich-soil plant. Keep it mulched to hold moisture and cool the roots.[1][3]",
+    "maintenance": "Mulch to conserve moisture and keep roots cool; where winters lack reliable snow cover, apply a winter mulch and pull it back before the foliage pushes up in late winter. Deadhead spent globes to tidy the plant (leave a few if you want self-sown seedlings), and never let it go dry.[1][3]",
+    "selfsow": "It spreads slowly by enlarging clumps rather than running, and in cool, damp ground will self-sow modestly around the parent; lift and divide crowded clumps after flowering to keep them vigorous, and move or weed out volunteer seedlings as wanted.[2][3]",
+    "troubles": "In our climate the chief enemies are heat and drought — hot, dry air brings spider mites and stress, so shade and moisture are the cure. Slugs and snails chew the leaves in damp spots, aphids cluster on flower stalks, and crown/root rot follows soggy, poorly drained winter ground; give it moist but not stagnant soil.[3][4]"
+  },
+  "edible": {
+    "level": "caution",
+    "food": false,
+    "summary": "Not a food plant — grown purely as an ornamental; handling the foliage and sap can irritate skin.[4][5]",
+    "caution": "Primula foliage and sap contain the contact allergen primin and related quinoid compounds, which can trigger allergic contact dermatitis — itching, redness, and rash — in sensitive people, so wear gloves when dividing or handling it. No part is eaten; it has no documented culinary use and is grown as an ornamental only.[4][5]"
+  },
+  "references": [
+    {
+      "name": "RHS — Primula denticulata (drumstick primula)",
+      "url": "https://www.rhs.org.uk/plants/13740/primula-denticulata-(de)/details"
+    },
+    {
+      "name": "RHS — Primula denticulata rose-flowered (drumstick primula; propagation: division after flowering or root cuttings when dormant)",
+      "url": "https://www.rhs.org.uk/plants/96744/primula-denticulata-rose-flowered-(de)/details"
+    },
+    {
+      "name": "Missouri Botanical Garden Plant Finder — Primula denticulata 'Lilac Globe'",
+      "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=366765&isprofile=1&gen=Primula"
+    },
+    {
+      "name": "NC State Extension Gardener Plant Toolbox — Primula (Primrose)",
+      "url": "https://plants.ces.ncsu.edu/plants/primula/"
+    },
+    {
+      "name": "Wikipedia — Primula denticulata",
+      "url": "https://en.wikipedia.org/wiki/Primula_denticulata"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      1,
+      3
+    ],
+    "sun": [
+      1,
+      3
+    ],
+    "water": [
+      1,
+      3
+    ],
+    "spread": [
+      3
+    ],
+    "seasons": [
+      1,
+      3
+    ],
+    "wildlife": [
+      1
+    ],
+    "deer": [
+      3
+    ],
+    "toxic": [
+      4,
+      5
+    ],
+    "ph": [
+      1,
+      3
+    ],
+    "origin": [
+      3,
+      5
+    ],
+    "habitat": [
+      3,
+      5
+    ]
+  }
+}

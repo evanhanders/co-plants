@@ -1,0 +1,176 @@
+{
+  "collection": "primulas",
+  "common": "Parry's primrose",
+  "botanical": "Primula parryi",
+  "type": "Forb",
+  "lifecycle": "Perennial",
+  "bloom_season": "Summer",
+  "native": "CO native",
+  "blurb": "Colorado's showiest alpine primrose: vivid magenta flowers with a golden eye over big fleshy paddle leaves, lining icy snowmelt streams at 10,000–12,000 ft. Gorgeous but famously skunky-scented — and a hard high-alpine specialist to grow down in the garden.",
+  "size": "6–18 in tall × clumping rosette",
+  "sun": "Full sun (alpine)",
+  "water": "High — constant cold moisture; grows in and beside snowmelt streams",
+  "spread": "Clumping from a stout crown",
+  "seasons": "Big fleshy paddle-shaped leaves; clusters of magenta golden-eyed flowers in mid-summer; dry seed capsules by late summer",
+  "wildlife": "Nectar for alpine bumblebees (several Bombus spp.) and other high-country pollinators",
+  "deer": "Rankly skunk-scented foliage is little browsed",
+  "toxic": "Foliage can cause allergic contact dermatitis (the genus allergen primin) in sensitive people — handle with care; see Edible parts",
+  "flower_color": [
+    "pink",
+    "purple"
+  ],
+  "bloom": [
+    "summer"
+  ],
+  "winter": false,
+  "verified": "2026-07-14",
+  "ph": {
+    "min": 5.5,
+    "ideal": 6.5,
+    "max": 7.5
+  },
+  "shots": [
+    {
+      "local": "images/su-flower-t.jpg",
+      "full": "images/su-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/534223017/large.jpg",
+      "s": "summer",
+      "cap": "Summer — magenta flowers with a golden eye · © David Martin (CC-BY-NC) / iNaturalist",
+      "by": "David Martin",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/296674588"
+    },
+    {
+      "local": "images/su-flower-macro-t.jpg",
+      "full": "images/su-flower-macro.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/59593675/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — a single flower up close · © roomthily (CC-BY-NC) / iNaturalist",
+      "by": "roomthily",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/37575828"
+    },
+    {
+      "local": "images/su-flower-foliage-t.jpg",
+      "full": "images/su-flower-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/216318207/large.jpg",
+      "s": "summer",
+      "cap": "Summer — flowers over the big fleshy leaves · © Ann M Grant (CC-BY-NC) / iNaturalist",
+      "by": "Ann M Grant",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/127420011"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/47689690/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — the rosette of paddle-shaped leaves · © carmarti (CC-BY-NC) / iNaturalist",
+      "by": "carmarti",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/30521792"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/148983150/large.jpg",
+      "s": "summer",
+      "cap": "Summer — a flowering plant among alpine rocks · © bhmanning (CC-BY-NC) / iNaturalist",
+      "by": "bhmanning",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/87466155"
+    },
+    {
+      "local": "images/su-context-t.jpg",
+      "full": "images/su-context.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/108524579/large.jpg",
+      "s": "summer",
+      "cap": "Summer — plants lining a cold snowmelt stream · © Bob Walker (CC-BY) / iNaturalist",
+      "by": "Bob Walker",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/67206410"
+    },
+    {
+      "local": "images/su-bloom-mass-t.jpg",
+      "full": "images/su-bloom-mass.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/53216820/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — a magenta drift below the snowfields · © Matt Berger (CC-BY) / iNaturalist",
+      "by": "Matt Berger",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/33855352"
+    },
+    {
+      "local": "images/fa-seedheads-t.jpg",
+      "full": "images/fa-seedheads.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/52910104/large.jpeg",
+      "s": "fall",
+      "cap": "Late summer — dry seed capsules on their stalks · © no rights reserved (CC0) / iNaturalist",
+      "by": "no rights reserved",
+      "lic": "CC0",
+      "link": "https://www.inaturalist.org/observations/33672441"
+    }
+  ],
+  "care": {
+    "hardiness": "A true high-alpine perennial of wet subalpine-to-alpine ground at roughly 8,800–13,800 ft, ranging from Montana south through Colorado (where Charles Parry first collected it, in the alpine east of Middle Park) to Arizona and New Mexico.[1][2] It is cold-hardy far beyond anything a Boulder winter can throw at it, but its real limit down on the plains is heat, not cold — and it is famously difficult in cultivation: even a skilled high-altitude Colorado Springs grower found it 'makes very poor growth,' and one authority concluded it 'will never become a familiar plant in gardens.'[4]",
+    "planting": "Grow it as the alpine bog specialist it is — a cool, constantly moist but sharply drained gritty pocket that stays cold at the root (a streamside, bog edge, or scree/rock-garden crevice), never a hot, dry border.[2][4] In a lowland Boulder garden give it cool afternoon shade and cold roots (a north aspect or the shaded, damp side of a water feature), keep it constantly moist, and expect it to be short-lived; it is far happier at elevation than on the plains.[4] Set out nursery-grown plants in spring after the mid-May frost and never let them dry out.[2]",
+    "sun": "In its native alpine home it grows in full, intense high-altitude sun, but at low elevation that same sun cooks it; here give it filtered light or cool morning sun with afternoon shade, always with the roots kept cold and wet.[1][4]",
+    "soil": "Indifferent to soil chemistry in the wild — it grows on granite, red shale, volcanic ash and even limestone cliffs — but always in cold seepage or permanently saturated, gritty ground; give it a moist, humus-rich but sharply drained gritty mix and avoid heavy, dry clay.[4][2]",
+    "water": "A streamside/wetland obligate: in nature its roots sit in cold snowmelt seeps, waterfall ledges and stream margins, so it demands constant cold moisture and will not tolerate the dry spells an ordinary Front-Range perennial shrugs off.[2][5] Keep the soil permanently damp with cold water — supplying that steady coolness through a hot lowland summer is the whole challenge of growing it here.[2][4]",
+    "propagation": "Propagate mainly from fresh seed; established crowns can be divided in spring but resent the disturbance, so seed is by far the usual route.[4]",
+    "sow": "Like most alpine primulas, surface-sow the fine seed on a moist, gritty mix and keep it cool and constantly damp — sow in fall so winter supplies the chilling, or sow after cold treatment in spring.[4]",
+    "stratify": "The seed germinates best after a spell of cold-moist chilling — leave a fall sowing out through winter, or give roughly 4–6 weeks in the refrigerator on damp grit before spring sowing.[4]",
+    "depth": "Barely cover the tiny seed — press it onto the surface and keep it moist rather than burying it, as it needs light to germinate.[4]",
+    "bloom": "Vivid magenta-crimson flowers, each with a yellow eye, in clusters of 5–25 on a stout leafless stalk in mid-summer (roughly July–August at elevation; later where snowbanks linger, earlier and lower down).[1][2][6]",
+    "maintenance": "Very low where it is happy — the real work is simply keeping it cool and wet. Remove spent flower stalks if you don't want it to self-seed, and protect the crown from warm, stagnant winter wet in a lowland garden. Handle it with care: the whole plant is rankly skunk-scented, an odor released by even a light touch that can persist for years on dried material.[2][4]",
+    "selfsow": "Where content it fills dry capsules with abundant seed and can self-sow into cool, wet pockets, but it is nowhere near weedy — getting it to establish at all off the mountains is the far harder problem.[2]",
+    "troubles": "The overwhelming difficulty is climate, not pests: it is an alpine bog plant that hates lowland summer heat and drought, and even skilled high-altitude Colorado growers report it 'makes very poor growth' away from its native seeps.[4] Crown rot from warm, stagnant water and desiccation from any dry spell are the usual ways it is lost; give it cold running-water conditions, sharp drainage, and afternoon shade to have any chance here.[2][4]",
+    "companions": "In the wild it shares cold snowmelt wetlands with marsh marigold and other alpine bog plants; in the garden pair it with other moisture-loving alpines in a cool bog, scree, or streamside planting.[2]"
+  },
+  "edible": {
+    "level": "inedible",
+    "summary": "Not a food plant — Parry's primrose has no documented edible use, is famously skunk-scented, and, like others in its genus, can cause allergic skin reactions on handling.[2][7]",
+    "caution": "This alpine wildflower is not eaten and has no established edible use, so don't forage it. The whole plant is rankly skunk-scented — even a light touch releases a fetid, skunk-like odor that can persist for years on dried material.[2][4] Handle it with care as well: plants of the genus Primula are a well-known cause of allergic contact dermatitis, driven by the allergen primin concentrated in the glandular hairs on the leaves and stems, so wear gloves if you are sensitive.[7] On principle, high-alpine natives like this should never be dug, picked, or foraged from the wild — they are slow, fragile, and often protected on public land; enjoy them in place and grow only nursery-propagated seed.[1][2]"
+  },
+  "references": [
+    {
+      "name": "USDA Forest Service — Celebrating Wildflowers: Parry's Primrose (Primula parryi)",
+      "url": "https://www.fs.usda.gov/wildflowers/plant-of-the-week/primula_parryi.shtml"
+    },
+    {
+      "name": "Southwest Colorado Wildflowers — Primula parryi (Parry's Primrose)",
+      "url": "https://www.swcoloradowildflowers.com/Pink%20Enlarged%20Photo%20Pages/primula%20parryi.htm"
+    },
+    {
+      "name": "Montana Field Guide — Parry's Primrose (Primula parryi)",
+      "url": "https://fieldguide.mt.gov/speciesDetail.aspx?elcode=PDPRI080F0"
+    },
+    {
+      "name": "American Primrose Society — Primula parryi",
+      "url": "https://americanprimrosesociety.org/primula-101/primula-parryi/"
+    },
+    {
+      "name": "USDA NRCS PLANTS Database — Primula parryi (PRPA)",
+      "url": "https://plants.usda.gov/plant-profile/PRPA"
+    },
+    {
+      "name": "Wikipedia — Primula parryi",
+      "url": "https://en.wikipedia.org/wiki/Primula_parryi"
+    },
+    {
+      "name": "DermNet — Primula allergy (primin / allergic contact dermatitis)",
+      "url": "https://dermnetnz.org/topics/primula"
+    }
+  ],
+  "fact_src": {
+    "size": [1, 2],
+    "sun": [1, 2],
+    "water": [2, 5],
+    "spread": [1, 4],
+    "seasons": [1, 2],
+    "wildlife": [3],
+    "deer": [2, 4],
+    "toxic": [7],
+    "ph": [4]
+  }
+}

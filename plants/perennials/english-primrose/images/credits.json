@@ -1,0 +1,138 @@
+[
+  {
+    "file": "images/sp-flower.jpg",
+    "photo_id": 304867480,
+    "by": "grinnin",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/175424099",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      752
+    ],
+    "thumb_px": [
+      400,
+      215
+    ]
+  },
+  {
+    "file": "images/sp-flower-foliage.jpg",
+    "photo_id": 182187368,
+    "by": "Eleftherios Katsillis",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/observations/108231791",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      934
+    ],
+    "thumb_px": [
+      400,
+      267
+    ]
+  },
+  {
+    "file": "images/sp-bloom.jpg",
+    "photo_id": 619012401,
+    "by": "Tena Sobodić",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/340188595",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      933
+    ],
+    "thumb_px": [
+      400,
+      267
+    ]
+  },
+  {
+    "file": "images/sp-habit.jpg",
+    "photo_id": 609952375,
+    "by": "Nicolas Schwab",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/335725233",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      930
+    ],
+    "thumb_px": [
+      400,
+      266
+    ]
+  },
+  {
+    "file": "images/sp-foliage.jpg",
+    "photo_id": 174928959,
+    "by": "André Oliveira",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/104402798",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      933
+    ],
+    "thumb_px": [
+      400,
+      267
+    ]
+  },
+  {
+    "file": "images/sp-bloom-mass.jpg",
+    "photo_id": 447988704,
+    "by": "Mirko Tomasi",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/250483470",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      1050
+    ],
+    "thumb_px": [
+      400,
+      300
+    ]
+  },
+  {
+    "file": "images/sp-context.jpg",
+    "photo_id": 627443162,
+    "by": "Elena_Sherehora",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/344366798",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      930
+    ],
+    "thumb_px": [
+      400,
+      266
+    ]
+  },
+  {
+    "file": "images/sp-habit2.jpg",
+    "photo_id": 262111775,
+    "by": "adinie",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/151873791",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      1050
+    ],
+    "thumb_px": [
+      400,
+      300
+    ]
+  }
+]

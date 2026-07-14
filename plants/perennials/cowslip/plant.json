@@ -1,0 +1,215 @@
+{
+  "collection": "primulas",
+  "common": "Cowslip",
+  "botanical": "Primula veris",
+  "type": "Forb",
+  "lifecycle": "Perennial",
+  "bloom_season": "Spring",
+  "native": "Non-native",
+  "origin": "Europe & W Asia",
+  "habitat": "Meadows, pastures & grassy slopes, often on lime",
+  "blurb": "The meadow cowslip: nodding clusters of deep-golden, orange-flecked bells on slender stalks over a leaf rosette, sweetly scented. Tougher and more sun- and drought-tolerant than most primroses — the best bet of the group here.",
+  "size": "8–10 in tall × 6–9 in wide",
+  "sun": "Full sun to part shade",
+  "water": "Moderate; more drought-tolerant than other primroses once established",
+  "spread": "Clumping; self-seeds into grass",
+  "seasons": "Leaf rosette; golden nodding flower clusters mid-spring; brown seed capsules by summer",
+  "wildlife": "Early nectar for long-tongued bees and butterflies; larval food plant for the Duke of Burgundy butterfly in its native range",
+  "deer": "Not reliably deer-resistant",
+  "toxic": "Foliage and sap (primin) can irritate skin — see Edible parts",
+  "flower_color": [
+    "yellow"
+  ],
+  "bloom": [
+    "spring"
+  ],
+  "winter": false,
+  "verified": "2026-07-14",
+  "shots": [
+    {
+      "local": "images/sp-flower-t.jpg",
+      "full": "images/sp-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/622917172/large.jpg",
+      "s": "spring",
+      "cap": "Spring — a golden flower with orange throat spots · © no rights reserved (CC0) / iNaturalist",
+      "by": "no rights reserved",
+      "lic": "CC0",
+      "link": "https://www.inaturalist.org/observations/342101795"
+    },
+    {
+      "local": "images/sp-flower-cluster-t.jpg",
+      "full": "images/sp-flower-cluster.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/132873387/large.jpg",
+      "s": "spring",
+      "cap": "Spring — a nodding cluster of golden bells · © siobhanstarrs (CC-BY-NC) / iNaturalist",
+      "by": "siobhanstarrs",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/79790929"
+    },
+    {
+      "local": "images/sp-flower-foliage-t.jpg",
+      "full": "images/sp-flower-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/638699586/large.jpg",
+      "s": "spring",
+      "cap": "Spring — flowers over the crinkled leaves · © black4jack (CC-BY-NC) / iNaturalist",
+      "by": "black4jack",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/350082208"
+    },
+    {
+      "local": "images/sp-habit-t.jpg",
+      "full": "images/sp-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/36525791/large.jpeg",
+      "s": "spring",
+      "cap": "Spring — a flowering clump and its rosette · © Юлия Медведько (CC-BY) / iNaturalist",
+      "by": "Юлия Медведько",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/23590084"
+    },
+    {
+      "local": "images/sp-bloom-mass-t.jpg",
+      "full": "images/sp-bloom-mass.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/73382958/large.jpg",
+      "s": "spring",
+      "cap": "Spring — a meadow full of cowslips · © Николай Каранов (CC-BY-NC) / iNaturalist",
+      "by": "Николай Каранов",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/46270741"
+    },
+    {
+      "local": "images/sp-context-t.jpg",
+      "full": "images/sp-context.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/498157020/large.jpg",
+      "s": "spring",
+      "cap": "Spring — cowslips naturalized in a grassy field · © chrisdt (CC-BY) / iNaturalist",
+      "by": "chrisdt",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/277434439"
+    },
+    {
+      "local": "images/sp-foliage-t.jpg",
+      "full": "images/sp-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/476828118/large.jpeg",
+      "s": "spring",
+      "cap": "Spring — the leaf rosette · © SteveM4560 (CC-BY) / iNaturalist",
+      "by": "SteveM4560",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/265462364"
+    },
+    {
+      "local": "images/fa-seedheads-t.jpg",
+      "full": "images/fa-seedheads.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/93107756/large.jpg",
+      "s": "fall",
+      "cap": "Summer — dry brown seed capsules · © Богданович Светлана (CC-BY-NC) / iNaturalist",
+      "by": "Богданович Светлана",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/58328041"
+    }
+  ],
+  "ph": {
+    "min": 5.5,
+    "ideal": 7.0,
+    "max": 7.8
+  },
+  "care": {
+    "hardiness": "Fully hardy on the Front Range — rated USDA zones 3–8 (RHS H5), so Boulder's zone 5b–6a winters are well within its range. It is a semi-evergreen perennial that may hold a low leaf rosette through mild winters and re-flushes from the crown in spring.[1][2]",
+    "planting": "Set out container-grown plants or divisions in spring after Boulder's mid-May last frost, or in early fall so the roots settle before winter; water new plants through their first season. In a pot it dries out fast and the roots are far less cold-hardy than in open ground, so overwinter containers in a sheltered spot or plant them out in autumn.[2]",
+    "sun": "Full sun to part shade. Cowslip is the most sun-tolerant of the primulas — a plant of open meadows rather than woodland — but in the Front Range's intense high-altitude sun and summer heat it does best with afternoon shade and steady soil moisture; full sun is fine only where the ground stays reliably moist.[1][2][3]",
+    "soil": "Wants a deep, humus-rich, moisture-retentive but well-drained soil; it grows in mucky ground but not standing water. Unusually for a primula it tolerates chalk, clay, loam and sand across the full pH range from acid to alkaline, so it takes Boulder's lime-rich clay better than the acid-loving woodland primroses — work in compost to hold moisture.[1][2]",
+    "water": "Medium. Keep the soil evenly moist, especially during flowering and in summer heat; a cowslip is more drought-tolerant than other primroses once established but is not a true xeric plant, so deep, regular soaks in dry spells keep it healthy.[2][3]",
+    "spacing": "Space plants about 8–10 in apart so the rosettes knit into a colony without crowding.[2]",
+    "propagation": "By seed and by division. Lift and divide congested clumps every three to four years, ideally just after flowering, replanting the divisions immediately and watering them in — this both multiplies plants and keeps old clumps vigorous. It also self-sows readily where happy.[2][3]",
+    "sow": "Sow fresh seed on the surface in summer as it ripens, or in spring; NC State notes seed sown in spring flowers the following spring. Leaving pots or a seedbed outdoors over winter gives the natural chilling that improves germination.[2][3]",
+    "stratify": "Cowslip seed germinates best after a cool-moist period, so fresh seed sown outdoors in summer/fall and left through winter breaks dormancy naturally by spring; stored seed benefits from a few weeks of cold-moist chilling before sowing.[2][3]",
+    "depth": "Surface-sow and barely cover — primula seed germinates in light, so press the seed onto moist mix and leave it exposed to the surface rather than burying it.[3]",
+    "bloom": "Nodding, fragrant, deep-golden funnel flowers with orange throat spots, carried in one-sided umbels of roughly 10–30 blooms atop 6–10 in stalks in April–May (mid-to-late spring here); brown seed capsules ripen by July–August.[1][2][6]",
+    "feeding": "Not a heavy feeder — an annual spring topdressing of compost or leaf mould to enrich the soil and hold moisture is enough; avoid forcing it with high-nitrogen feeds.[2]",
+    "maintenance": "Low. Keep it watered through summer heat, and either deadhead spent stalks to curb self-sowing or leave them to seed into a meadow planting. Divide clumps every few years after flowering to renew them (see propagation).[2][3]",
+    "selfsow": "Self-seeds freely into grass and open beds to form drifting colonies — welcome in a naturalized meadow, but deadhead before the capsules split if you want to contain it.[2]",
+    "troubles": "Generally trouble-free, but slugs and snails graze young growth, and aphids and red spider mites can appear; in wet or humid conditions watch for botrytis (grey mould), rust, powdery mildew, leaf spot and root rot. The foliage and sap contain primin, which causes contact dermatitis in sensitive people, so wear gloves if you react.[2][3]",
+    "companions": "A natural for a spring meadow or grassy verge — combine it with fine meadow grasses, other primulas and early spring bulbs, echoing the open pastures and grassland where it grows wild.[4]"
+  },
+  "edible": {
+    "level": "edible",
+    "food": true,
+    "kinds": [
+      "flowers",
+      "leaves"
+    ],
+    "card": "Flowers & young leaves (salads, cowslip wine)",
+    "summary": "Flowers and young leaves are traditionally edible — the flowers famously flavour cowslip wine, and the young leaves go raw into salads — but eat only in moderation.[6][7]",
+    "parts": "The fragrant yellow flowers are the classic flavouring for English cowslip country wine and are also used in vinegars, syrups and desserts; the young leaves have a mild, slightly citrusy taste and are eaten raw as a salad green (traditional in Spanish cooking) or cooked as a potherb.[6][7]",
+    "preparation": "Use only young, tender leaves and freshly opened flowers — older leaves toughen and can taste soapy. Flowers can be candied, steeped for wine or tea, or scattered fresh over food; young leaves are used raw or lightly cooked. Treat it as an occasional garnish, not a staple.[6][7]",
+    "caution": "This is a traditional edible, not a mainstream food, and should be eaten sparingly. All parts contain triterpene saponins that in quantity can cause nausea or diarrhoea, so keep servings small; the roots are much higher in saponins and are a medicinal, not a food.[6][7] The foliage and sap contain primin and related compounds that cause contact dermatitis — a skin rash — in sensitive people, so wear gloves when handling and be cautious if you are prone to allergies.[3][6] Cowslip has declined seriously in the wild and is legally protected in places (e.g. Northern Ireland), so harvest only from your own garden plants, never from wild colonies.[4]"
+  },
+  "references": [
+    {
+      "name": "RHS — Primula veris (common cowslip)",
+      "url": "https://www.rhs.org.uk/plants/13892/common-cowslip/details"
+    },
+    {
+      "name": "Missouri Botanical Garden Plant Finder — Primula veris",
+      "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=285538"
+    },
+    {
+      "name": "NC State Extension Gardener Plant Toolbox — Primula veris (Cowslip Primrose)",
+      "url": "https://plants.ces.ncsu.edu/plants/primula-veris/"
+    },
+    {
+      "name": "The Wildlife Trusts — Cowslip (Primula veris)",
+      "url": "https://www.wildlifetrusts.org/wildlife-explorer/wildflowers/cowslip"
+    },
+    {
+      "name": "Butterfly Conservation — Duke of Burgundy (larval foodplant: cowslip)",
+      "url": "https://butterfly-conservation.org/butterflies/duke-of-burgundy"
+    },
+    {
+      "name": "Primula veris — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Primula_veris"
+    },
+    {
+      "name": "Plants For A Future — Primula veris (edible & other uses)",
+      "url": "https://pfaf.org/user/Plant.aspx?LatinName=Primula+veris"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      1,
+      2
+    ],
+    "sun": [
+      1,
+      2
+    ],
+    "water": [
+      2,
+      3
+    ],
+    "spread": [
+      2
+    ],
+    "seasons": [
+      2
+    ],
+    "wildlife": [
+      1,
+      5
+    ],
+    "toxic": [
+      3,
+      6
+    ],
+    "ph": [
+      1
+    ],
+    "origin": [
+      2,
+      6
+    ],
+    "habitat": [
+      1,
+      4
+    ]
+  }
+}

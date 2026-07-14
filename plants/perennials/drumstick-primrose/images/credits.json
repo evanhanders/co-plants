@@ -1,0 +1,138 @@
+[
+  {
+    "file": "images/sp-flower.jpg",
+    "photo_id": 113331516,
+    "by": "Elizabeth Byers",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/69792270",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1083,
+      1400
+    ],
+    "thumb_px": [
+      310,
+      400
+    ]
+  },
+  {
+    "file": "images/sp-flower-stalk.jpg",
+    "photo_id": 190050595,
+    "by": "Name",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/observations/112518426",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      1400
+    ],
+    "thumb_px": [
+      400,
+      400
+    ]
+  },
+  {
+    "file": "images/sp-flower-foliage.jpg",
+    "photo_id": 530116880,
+    "by": "Alexander Naumov",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/294514192",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      1331
+    ],
+    "thumb_px": [
+      400,
+      380
+    ]
+  },
+  {
+    "file": "images/sp-habit.jpg",
+    "photo_id": 366848331,
+    "by": "Markus Lampinen",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/observations/207397139",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      1050
+    ],
+    "thumb_px": [
+      400,
+      300
+    ]
+  },
+  {
+    "file": "images/sp-habit-snow.jpg",
+    "photo_id": 113508795,
+    "by": "Elizabeth Byers",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/69887925",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      1355
+    ],
+    "thumb_px": [
+      400,
+      387
+    ]
+  },
+  {
+    "file": "images/sp-flower-white.jpg",
+    "photo_id": 300837951,
+    "by": "Suresh Ghimire",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/173245873",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      933
+    ],
+    "thumb_px": [
+      400,
+      267
+    ]
+  },
+  {
+    "file": "images/sp-context.jpg",
+    "photo_id": 253568353,
+    "by": "nizzzyt",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/147367420",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  },
+  {
+    "file": "images/sp-flower-pink.jpg",
+    "photo_id": 369933739,
+    "by": "Ramesh Shenai Jr.",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/observations/209052926",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  }
+]

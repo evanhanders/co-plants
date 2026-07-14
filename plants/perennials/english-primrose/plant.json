@@ -1,0 +1,220 @@
+{
+  "collection": "primulas",
+  "common": "English primrose",
+  "botanical": "Primula vulgaris",
+  "type": "Forb",
+  "lifecycle": "Perennial",
+  "bloom_season": "Spring",
+  "native": "Non-native",
+  "origin": "W & S Europe to SW Asia",
+  "habitat": "Woodland floors, hedge banks & shady grassy slopes",
+  "blurb": "The classic woodland primrose: soft pale-yellow flowers nestled singly in a rosette of crinkled tongue-shaped leaves, among the very first blooms of spring. Wants cool, moist shade — a real challenge in our dry heat and alkaline clay.",
+  "size": "6–8 in tall × 6–12 in wide",
+  "sun": "Part shade to shade",
+  "water": "Moderate to high; needs consistently moist soil — not for dry zones",
+  "spread": "Clumping rosettes; slowly by self-seeding",
+  "seasons": "Semi-evergreen leaf rosette; pale-yellow flowers in early spring",
+  "wildlife": "Early nectar for bees, bee-flies, butterflies and moths",
+  "deer": "Not notably deer-resistant",
+  "toxic": "Foliage/sap contain primin, which can irritate skin in sensitive people; flowers & young leaves are edible in moderation — see Edible parts",
+  "flower_color": [
+    "yellow"
+  ],
+  "bloom": [
+    "spring"
+  ],
+  "winter": false,
+  "verified": "2026-07-14",
+  "ph": {
+    "min": 6.0,
+    "ideal": 6.5,
+    "max": 7.5
+  },
+  "shots": [
+    {
+      "local": "images/sp-flower-t.jpg",
+      "full": "images/sp-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/304867480/large.jpg",
+      "s": "spring",
+      "cap": "Spring — a pale-yellow flower face-on · © grinnin (CC-BY-NC) / iNaturalist",
+      "by": "grinnin",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/175424099"
+    },
+    {
+      "local": "images/sp-flower-foliage-t.jpg",
+      "full": "images/sp-flower-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/182187368/large.jpeg",
+      "s": "spring",
+      "cap": "Spring — flowers among the crinkled leaves · © Eleftherios Katsillis (CC-BY) / iNaturalist",
+      "by": "Eleftherios Katsillis",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/108231791"
+    },
+    {
+      "local": "images/sp-bloom-t.jpg",
+      "full": "images/sp-bloom.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/619012401/large.jpg",
+      "s": "spring",
+      "cap": "Spring — a cluster of cream flowers over the rosette · © Tena Sobodić (CC-BY-NC) / iNaturalist",
+      "by": "Tena Sobodić",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/340188595"
+    },
+    {
+      "local": "images/sp-habit-t.jpg",
+      "full": "images/sp-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/609952375/large.jpg",
+      "s": "spring",
+      "cap": "Spring — a flowering clump · © Nicolas Schwab (CC-BY-NC) / iNaturalist",
+      "by": "Nicolas Schwab",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/335725233"
+    },
+    {
+      "local": "images/sp-foliage-t.jpg",
+      "full": "images/sp-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/174928959/large.jpeg",
+      "s": "spring",
+      "cap": "Spring — the rosette of tongue-shaped leaves · © André Oliveira (CC-BY-NC) / iNaturalist",
+      "by": "André Oliveira",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/104402798"
+    },
+    {
+      "local": "images/sp-bloom-mass-t.jpg",
+      "full": "images/sp-bloom-mass.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/447988704/large.jpg",
+      "s": "spring",
+      "cap": "Spring — a drift of pale primroses · © Mirko Tomasi (CC-BY-NC) / iNaturalist",
+      "by": "Mirko Tomasi",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/250483470"
+    },
+    {
+      "local": "images/sp-context-t.jpg",
+      "full": "images/sp-context.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/627443162/large.jpg",
+      "s": "spring",
+      "cap": "Spring — primroses naturalized on a woodland floor · © Elena_Sherehora (CC-BY-NC) / iNaturalist",
+      "by": "Elena_Sherehora",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/344366798"
+    },
+    {
+      "local": "images/sp-habit2-t.jpg",
+      "full": "images/sp-habit2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/262111775/large.jpeg",
+      "s": "spring",
+      "cap": "Spring — flowers nestled in the leaf rosette · © adinie (CC-BY-NC) / iNaturalist",
+      "by": "adinie",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/151873791"
+    }
+  ],
+  "care": {
+    "hardiness": "Cold-hardy roughly USDA zones 4–8, so Boulder's zone 5b–6a winters are well within range; the challenge here is not winter cold but our summer heat, dry air, alkaline clay and intense high-altitude sun — the opposite of the cool, moist, humus-rich woodland shade this primrose evolved in. Treat it as a cool-season plant that is often short-lived on the Front Range.[1][2][3]",
+    "planting": "Set out container plants in early spring (or fall) into a cool, shaded, consistently moist, humus-amended bed — a north- or east-facing aspect, or the dappled shade of a tree, shrub or wall — never a hot, dry, sun-baked spot. It also grows well in pots, where it can be easier to give the cool, moist, part-shade conditions it wants: use a rich, moisture-retentive mix, keep it out of afternoon sun, and never let it dry out. Because most Colorado shade is naturally 'dry shade,' plan to water either way.[2][4]",
+    "sun": "Part shade to full shade — dappled light, or morning sun with afternoon shade, is ideal. In our strong sun and heat it must be shaded from hot afternoon light; full Front-Range sun scorches the leaves and bakes the shallow roots.[2][3][4]",
+    "soil": "Wants organically rich, humusy, consistently moist but well-drained soil on the slightly-acidic-to-neutral side (about pH 6.0–7.5); dig in plenty of compost or leaf mould before planting. Boulder's lean, alkaline clay is a poor match, so heavy organic amendment is essential — and even then it may struggle in our climate.[2][3]",
+    "water": "Medium to high — the soil must stay evenly moist; it will not tolerate drying out, and dry soil is the fastest way to lose it here. Since most Colorado shade is naturally dry, plan on regular supplemental water right through the growing season, and mulch to keep the roots cool and moist. Not a plant for a xeric or dry zone.[2][3][4]",
+    "spacing": "Space plants about 8–12 in apart so the rosettes can knit into a cool, low drift without crowding each other.[2]",
+    "propagation": "By division and by seed. The easiest and most reliable method is to lift and divide the crowns every 2–3 years, right after the spring flowers fade — tease each clump into smaller rosetted pieces and replant immediately into moist, amended soil; this also rejuvenates tired, woody clumps. Seed can be sown but germinates best sown fresh (it is short-lived) and given a cool, moist period.[2][5]",
+    "sow": "Sow fresh seed as soon as it is ripe into a cool, shaded, moist seed bed or flat; the seed is short-lived, so fresh seed germinates far better than stored. Seedlings are slow, which is why division is the quicker route to more plants.[5]",
+    "stratify": "Fresh-sown seed benefits from a cool, moist chilling period — either sown outdoors in fall or late winter to catch natural cold, or given a few weeks of cold-moist stratification at about 40°F before spring sowing.[5]",
+    "bloom": "One of the very first flowers of spring: soft, fragrant, pale-yellow (occasionally cream) saucer flowers about 1 in across, each borne singly on its own slender stalk rising straight from the leaf rosette — unlike the cowslip, whose flowers cluster in an umbel atop a single stem. Blooms roughly February–April depending on the season. The species is heterostylous, carrying 'pin' (long-styled) and 'thrum' (short-styled) flowers on different plants, so a mix of plants sets far more seed.[1][2][6]",
+    "feeding": "Not a heavy feeder; an annual spring topdressing of compost or leaf mould keeps the humus-rich, moisture-holding conditions it likes, and a light balanced feed as growth resumes is plenty. Rich but dry soil does more harm than under-feeding.[2]",
+    "maintenance": "Low but attentive: keep it mulched and never let it dry out, deadhead spent flowers to tidy the plant and limit self-seeding if you wish, and watch for slugs and snails, which love the tender leaves. Divide crowded clumps every 2–3 years after flowering to keep them vigorous. In our climate expect it to be short-lived, and replace or divide as needed.[2][3]",
+    "selfsow": "Self-sows gently where it is happy — cool, moist shade — slowly naturalizing into drifts; seedlings are easy to move or thin. In our dry heat self-sowing is modest, so it rarely becomes a nuisance here.[2][6]",
+    "troubles": "Slugs and snails are the main pests, shredding leaves and flowers; aphids, spider mites and vine weevil can also appear, and in damp or crowded conditions botrytis (gray mould), leaf spots, rust, powdery mildew and root rot occur. Give it good airflow and don't overcrowd. On the Front Range, though, the more common failure is simply heat and drought stress rather than pests or disease.[1][2][3]",
+    "companions": "Combines naturally with other cool, moist woodland-shade plants — hostas, ferns, brunnera, epimedium, hellebores and spring bulbs — set under the dappled shade of trees or shrubs in the organic-rich, moisture-retentive soil CSU recommends for a Colorado shade garden.[4]"
+  },
+  "edible": {
+    "level": "caution",
+    "food": true,
+    "kinds": [
+      "flowers",
+      "leaves"
+    ],
+    "card": "Flowers (salads, candied) & young leaves (raw or cooked) — in moderation",
+    "summary": "The flowers and young leaves are edible — flowers raw in salads or candied, young leaves raw or cooked — but eat only in moderation, and skin-sensitive people should take care handling the foliage.[3][5]",
+    "parts": "The cheerful pale-yellow flowers are a classic edible garnish — scattered fresh over salads and desserts, crystallized/candied, or used in conserves and to flavor drinks. The young leaves have a mild flavor and can be eaten raw in salads or cooked in soups; only the tender young growth is used, as older leaves turn tough and more strongly flavored.[3][5]",
+    "preparation": "Pick the flowers and only the youngest leaves; use flowers fresh as a garnish or candy them, and eat young leaves raw in small amounts or cooked like a mild green. Wash well and use in moderation rather than as a bulk vegetable.[5]",
+    "caution": "Eat in moderation only. The leaves and sap of Primula contain primin and related quinones that can cause allergic contact dermatitis (an itchy rash) in sensitive people — wear gloves if you are prone to it — and the foliage contains saponins, so eating large quantities can cause mild stomach upset and vomiting.[1][3][5] Be sure of your identification: do NOT eat the common potted florist primrose Primula obconica (poison primrose), a notorious strong skin irritant, and never eat nursery plants that may have been sprayed. As with all edible flowers, try only a little at first to check for personal sensitivity.[5]"
+  },
+  "references": [
+    {
+      "name": "RHS — Primula vulgaris (primrose)",
+      "url": "https://www.rhs.org.uk/plants/13901/primula-vulgaris-(pr-prim)/details"
+    },
+    {
+      "name": "Missouri Botanical Garden Plant Finder — Primula vulgaris",
+      "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=d616"
+    },
+    {
+      "name": "NC State Extension Plant Toolbox — Primula vulgaris",
+      "url": "https://plants.ces.ncsu.edu/plants/primula-vulgaris/"
+    },
+    {
+      "name": "PlantTalk Colorado (CSU Extension) — Shade Gardening",
+      "url": "https://planttalk.colostate.edu/topics/design/1125-shade-gardening/"
+    },
+    {
+      "name": "Plants For A Future — Primula vulgaris (edible & medicinal uses)",
+      "url": "https://pfaf.org/user/plant.aspx?latinname=Primula+vulgaris"
+    },
+    {
+      "name": "Wikipedia — Primula vulgaris",
+      "url": "https://en.wikipedia.org/wiki/Primula_vulgaris"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      2,
+      1,
+      3
+    ],
+    "sun": [
+      2,
+      3,
+      4
+    ],
+    "water": [
+      2,
+      3,
+      4
+    ],
+    "spread": [
+      2,
+      3
+    ],
+    "seasons": [
+      2,
+      1,
+      6
+    ],
+    "wildlife": [
+      6,
+      3
+    ],
+    "deer": [
+      3
+    ],
+    "toxic": [
+      3,
+      5,
+      1
+    ],
+    "origin": [
+      2,
+      6
+    ],
+    "habitat": [
+      6,
+      3
+    ],
+    "ph": [
+      3
+    ]
+  }
+}

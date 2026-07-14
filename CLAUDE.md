@@ -447,7 +447,7 @@ driven off one predicate so they can't drift. To add one (e.g. `Fragrant`):
 Cultivar/genus clusters (apples, plums, tart cherries, currants, pelargoniums, wallflowers,
 asters, irises, tulips, climbing/rambling roses, hardy geraniums, crocuses, penstemons, maples,
 milkweeds, alliums, sunflowers, bee-balms, lupines, dogwoods, clematis, mulleins, columbines,
-scabious, prairie-coneflowers, pinks, coreopsis, sumacs — **28 in all**) collapse
+scabious, prairie-coneflowers, pinks, coreopsis, sumacs, primulas — **29 in all**) collapse
 into a **single expandable family card** so the grid isn't buried under near-duplicate cards. It's
 an **inline accordion**, not a separate page — each member keeps its own detail page untouched.
 The bar for a collection is "would a gardener read these as one kind of plant in different
@@ -1036,7 +1036,7 @@ ground every statement in an authority cited in `references`.
 
 ## Current plant roster (in the live site)
 
-**239 specimens** (`plants/manifest.json` is the source of truth for the exact count), all verified
+**244 specimens** (`plants/manifest.json` is the source of truth for the exact count), all verified
 non-weed in CO and all carrying a full `care` block (incl.
 `planting` + `propagation`) **and a repo-hosted photo reel** (close-up + structure, seasonal
 where good shots exist). Every plant's detail page is **fully cited** — a numbered
@@ -1248,6 +1248,27 @@ the most livestock-toxic milkweeds). Photos via `tools/inat_montage.py` (iNat op
 each), 720×480 smart-crop thumbs; every entry fully cited (`check_refs` guide-wide + `check_citations`
 pass).
 
+**Primulas batch (July 2026):** on a user request ("add primulas"), added **five** *Primula* as a new
+**Primulas** family card (id `primulas`, homed in Spring forbs, lead = polyanthus): the woodland
+**English primrose** (*P. vulgaris*, pale-yellow single flowers), the multicolor garden **polyanthus**
+(*P. × polyantha*, a *P. vulgaris* × *P. veris* hybrid), the meadow **cowslip** (*P. veris*, golden
+nodding umbels), the Himalayan **drumstick primrose** (*P. denticulata*, spherical flower globes), and
+the CO-native alpine **Parry's primrose** (*P. parryi*). Verified non-weed vs CO lists A/B/C/Watch
+2026-07-14 (no *Primula* is listed); care sourced via five parallel agents (RHS, MBG, NC State,
+Southwest Colorado Wildflowers, USDA-FS/NRCS, American Primrose Society, CSU PlantTalk). Honesty calls
+baked in: **four are Non-native** (English/cowslip = European, drumstick = Himalayan, polyanthus = garden
+hybrid) with cited `origin`/`habitat`; **Parry's is CO-native but a true high-alpine bog specialist**
+(10,000–12,000 ft snowmelt streamsides) that is very hard to grow in Boulder's lowland heat — framed
+honestly like the guide's Himalayan-blue-poppy/winter-heath calls, and **famously skunky-scented**. Most
+primulas want cool, moist, humus-rich shade (the opposite of our hot, dry, alkaline clay) and are often
+short-lived cool-season plants here; **cowslip is the exception** — a lime-tolerant meadow plant, the one
+most likely to thrive. Edibility: **cowslip** `edible` (flowers + young leaves — cowslip wine/salads);
+**English primrose** & **polyanthus** `caution`/`food` (edible flowers, but Primula sap carries **primin**
+contact-dermatitis allergen; polyanthus bedding plants often pesticide-treated); **drumstick** `caution`/
+not-food; **Parry's** `inedible` (+ an ethical note not to forage alpine natives). Photos via
+`tools/inat_montage.py` (iNat open data; English/cowslip/drumstick/polyanthus `--global`, Parry's from
+Colorado records), 8 shots each, 720×480 smart-crop thumbs.
+
 **Trees**
 - River hawthorn (*Crataegus rivularis*) (N) — Thorny native small tree; white spring flowers, dark edible haws, superb wildlife cover. A caterpillar keystone (~90 Lepidoptera). *(Riparian — wants more water; edible haws, spit the cyanogenic seeds.)*
 - Chokecherry (*Prunus virginiana*) (N) — Wildlife powerhouse: fragrant white flower racemes, dark…
@@ -1365,6 +1386,10 @@ pass).
 - Coral bells (*Heuchera sanguinea*) (I) — Evergreen mound of scalloped leaves under airy wands of coral-red bells; a Southwest native for dry/part shade. *(Hummingbird favorite.)*
 - Starry false Solomon's seal (*Maianthemum stellatum*) (N) — Native dappled-shade groundcover; arching leafy stems, white spring stars, striped berries ripening red. *(Edible with caution — shoots cooked & a few ripe berries; berries laxative in quantity.)*
 - Brunnera (*Brunnera macrophylla*) (I) — Clouds of tiny forget-me-not-blue flowers drift above…
+- English primrose (*Primula vulgaris*) (I) — The classic woodland primrose; pale-yellow flowers borne singly in a crinkled-leaf rosette, one of the first blooms of spring. *(Primulas family card; wants cool moist shade — hard in our heat; edible flowers/young leaves, primin skin note.)*
+- Polyanthus (*Primula × polyantha*) (I) — Bright bedding primrose; flat yellow-eyed flowers in every color, clustered on a stout stalk. *(Primulas family card; garden hybrid; cool-season, often short-lived here; edible flowers if unsprayed.)*
+- Cowslip (*Primula veris*) (I) — Nodding clusters of golden, orange-flecked bells on slender stalks; the most sun-, drought- and lime-tolerant primula — the best bet here. *(Primulas family card; edible flowers & young leaves — cowslip wine/salads.)*
+- Drumstick primrose (*Primula denticulata*) (I) — Spherical globes of lilac/purple/pink/white flowers on stout stalks over paddle leaves; among the earliest primulas. *(Primulas family card; Himalayan; wants cool moist humus — hard in dry alkaline clay; caution — not a food.)*
 - Colorado blue columbine (*Aquilegia coerulea*) (N) — Colorado's state flower
 - English wallflower (*Erysimum cheiri*) (I) · **Biennial** — The classic fragrant cottage-garden wallflower in jewel-toned spring spires.
 - Garden peony (*Paeonia lactiflora*) (I) — Lavish, fragrant late-spring blooms on a clump that can…
@@ -1399,6 +1424,7 @@ pass).
 - Arugula (*Eruca vesicaria*) (I) · **Annual** — Cool-season salad green with lobed leaves and creamy purple-veined flowers; bolts in heat, self-sows. *(Edible peppery leaves, flowers & pods; flea beetles the #1 pest.)*
 - Red hot poker (*Kniphofia uvaria*) (I) — South-African torch lily: grassy clumps throwing bicolor red-to-yellow flower spikes hummingbirds and bees mob. *(Zone-borderline — needs sharp drainage; tie foliage over the crown for winter.)*
 - Foxglove beardtongue (*Penstemon digitalis*) (I) — Eastern-prairie native (cultivars 'Husker Red'/'Dark Towers'); tall white tubular wands over dark-flushed foliage, a native-bee magnet. *(Penstemons family card; far more clay/moisture-tolerant than the xeric Western penstemons.)*
+- Parry's primrose (*Primula parryi*) (N) — Colorado's showiest alpine primrose; magenta golden-eyed flowers over big paddle leaves along 10,000–12,000 ft snowmelt streams. *(Primulas family card; a true high-alpine specialist — very hard in lowland heat; famously skunky; inedible.)*
 - Showy milkweed (*Asclepias speciosa*) (N) — THE monarch host; domes of rose-pink stars, then silky-floss pods. The top plant for monarchs here. *(Spreads by rhizome; toxic raw — young parts edible only cooked.)*
 - Butterfly milkweed (*Asclepias tuberosa*) (N) — Blazing flat orange clusters on a tidy non-spreading taproot clump; monarch host. *(Toxic — grown as a pollinator plant, not food.)*
 - Swamp milkweed (*Asclepias incarnata*) (N) — The wetland monarch host; rose-pink flower domes over willow-like leaves, a well-behaved single-crown clump. *(The moisture-lover — wants moist/wet soil, NOT xeric; caution — toxic raw, not advertised as food.)*

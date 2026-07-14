@@ -1,0 +1,196 @@
+{
+  "collection": "sumacs",
+  "common": "Smooth sumac",
+  "botanical": "Rhus glabra",
+  "type": "Shrub",
+  "lifecycle": "Perennial",
+  "native": "CO native",
+  "flower_color": [
+    "yellow",
+    "green"
+  ],
+  "bloom": [
+    "summer"
+  ],
+  "blurb": "The largest and smoothest of our native sumacs: a fast, suckering shrub grown for spectacular scarlet fall color and erect cones of fuzzy crimson berries that stand right through winter.",
+  "size": "~8–15 ft tall × spreading (colony-forming)",
+  "sun": "Full sun to part shade",
+  "water": "Low; xeric once established",
+  "spread": "Suckers aggressively into clonal thickets",
+  "seasons": "Greenish-yellow flower panicles in early-to-mid summer; brilliant scarlet-orange fall foliage; erect cones of crimson fuzzy berries persisting through winter",
+  "wildlife": "Pollinators at bloom; berries feed birds through winter; larval host for several butterflies and moths",
+  "deer": "Somewhat deer-resistant; foliage and fruit are browsed when other forage is scarce",
+  "toxic": "",
+  "winter": true,
+  "verified": "2026-07-13",
+  "ph": {
+    "min": 6.0,
+    "ideal": 6.8,
+    "max": 7.5
+  },
+  "shots": [
+    {
+      "local": "images/su-flower-t.jpg",
+      "full": "images/su-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/298065876/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — a greenish-yellow flower panicle · © Douglas Harris (CC-BY-NC) / iNaturalist",
+      "by": "Douglas Harris",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/171749955"
+    },
+    {
+      "local": "images/su-bloom-mass-t.jpg",
+      "full": "images/su-bloom-mass.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/44758684/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — a stand topped with creamy flower panicles · © bartondray (CC-BY-NC) / iNaturalist",
+      "by": "bartondray",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/28701571"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/62969695/large.jpg",
+      "s": "summer",
+      "cap": "Summer — clean pinnate compound foliage · © no rights reserved (CC0) / iNaturalist",
+      "by": "no rights reserved",
+      "lic": "CC0",
+      "link": "https://www.inaturalist.org/observations/39676073"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/533973180/large.jpg",
+      "s": "summer",
+      "cap": "Summer — a leafy shrub coming into bloom · © Jim Frisinger (CC-BY-NC) / iNaturalist",
+      "by": "Jim Frisinger",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/296297206"
+    },
+    {
+      "local": "images/su-context-t.jpg",
+      "full": "images/su-context.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/194380139/large.jpg",
+      "s": "summer",
+      "cap": "Summer — a colony in open pine woodland · © gwills22 (CC-BY-NC) / iNaturalist",
+      "by": "gwills22",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/115152723"
+    },
+    {
+      "local": "images/fa-berries-t.jpg",
+      "full": "images/fa-berries.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/144443077/large.jpg",
+      "s": "fall",
+      "cap": "Fall — an erect cone of crimson fuzzy berries · © sarenestx (CC-BY-NC) / iNaturalist",
+      "by": "sarenestx",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/87600012"
+    },
+    {
+      "local": "images/fa-fall-color-t.jpg",
+      "full": "images/fa-fall-color.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/581796609/large.jpg",
+      "s": "fall",
+      "cap": "Fall — foliage blazing scarlet-orange · © hydnellum_peckii (CC-BY-NC) / iNaturalist",
+      "by": "hydnellum_peckii",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/312047914"
+    },
+    {
+      "local": "images/fa-fall-habit-t.jpg",
+      "full": "images/fa-fall-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/237435234/large.jpeg",
+      "s": "fall",
+      "cap": "Fall — the whole shrub in red autumn color · © Ken Hobson (CC-BY-NC) / iNaturalist",
+      "by": "Ken Hobson",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/138882142"
+    },
+    {
+      "local": "images/wi-winter-t.jpg",
+      "full": "images/wi-winter.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/367202885/large.jpg",
+      "s": "winter",
+      "cap": "Winter — bare stems and dried berry cones above the snow · © Sequoia Janirella Wrens (CC-BY-NC) / iNaturalist",
+      "by": "Sequoia Janirella Wrens",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/207586106"
+    }
+  ],
+  "care": {
+    "hardiness": "Iron-hardy through Boulder's zone 5b–6a — rated roughly USDA 3a–9b — and the only shrub or small tree native to all 48 contiguous states, so it is thoroughly at home in the Front Range's plains-and-foothills climate and high-altitude sun.[1][3]",
+    "planting": "Plant in spring after the mid-May last frost or in early fall on a well-drained site; it transplants readily and is used widely for erosion control and quick screens. Note it is largely dioecious — only female plants bear the red berry cones — so set out a female (or a suckering colony, which will be one clone) if you want the fruit and winter interest. In pots the roots are far less cold-hardy, so water container plants and shelter them over winter.[1][3]",
+    "sun": "Full sun to part shade; the densest habit and most brilliant scarlet-orange fall color come in full Front Range sun.[1][3]",
+    "soil": "Adapts to most dry soils, from sandy loam to the region's heavy alkaline clay; it only dislikes wet ground, flooding, and high water tables.[1][2]",
+    "water": "Extremely drought tolerant once established — a genuine xeric shrub that needs little to no supplemental water here after the first season.[1][3]",
+    "spacing": "Give it room: it spreads by rhizomes into wide clonal thickets often broader than tall, so site it where a colony is welcome and space plants 4–6 ft apart for a screen, farther if you want a grove.[1][2]",
+    "propagation": "Seed has a hard coat and internal dormancy — scarify (an acid soak aids germination) then cold-moist stratify about 30 days near 40°F, or sow outdoors in fall for natural stratification. Far easier: it roots from softwood and root cuttings and transplants readily from the suckers thrown up along its shallow rhizomes.[2][3]",
+    "bloom": "Dense terminal panicles of small greenish-yellow flowers open in early-to-mid summer (roughly May–July here); on female plants they give way to erect, pyramidal cones of fuzzy crimson drupes that color up in late summer and persist right through winter.[1][3]",
+    "pruning": "Prune while fully dormant in mid-to-late winter. It sprouts vigorously from the root crown and rhizomes, so it takes hard renewal beautifully: cut older, congested, or winter-damaged stems back low, or take an overgrown, bare-bottomed colony right down to the ground to rejuvenate it — it resprouts densely the same season. Light shaping to keep it in bounds can be done any time. The main pitfall is spread rather than mis-timing: every cut stem and severed rhizome tends to resprout, so pair pruning with pulling or cutting the rooted suckers at the colony's edge or it will keep marching outward.[1][2][3]",
+    "maintenance": "Low care once sited. Its defining habit is aggressive suckering — rhizomes can push new shoots many feet from the parent and build dense thickets — so the ongoing job is edge control: mow, pull, or cut the outer suckers each season, or contain it with a mowed strip or root barrier if you need it to stay put.[1][2]",
+    "harvest": "For sumac-ade, clip the whole red berry cones once they are fully colored in late summer to early fall, before heavy rain leaches the tart surface coating; they hang on the shrub into winter if the birds don't strip them first.[1][3]"
+  },
+  "references": [
+    {
+      "name": "NC State Extension Plant Toolbox — Rhus glabra",
+      "url": "https://plants.ces.ncsu.edu/plants/rhus-glabra/"
+    },
+    {
+      "name": "USDA-FS Fire Effects Information System (FEIS) — Rhus glabra",
+      "url": "https://www.fs.usda.gov/database/feis/plants/shrub/rhugla/all.html"
+    },
+    {
+      "name": "Lady Bird Johnson Wildflower Center — Rhus glabra",
+      "url": "https://www.wildflower.org/plants/result.php?id_plant=rhgl"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      1,
+      3
+    ],
+    "sun": [
+      1,
+      3
+    ],
+    "water": [
+      1,
+      3
+    ],
+    "spread": [
+      1,
+      2
+    ],
+    "seasons": [
+      1,
+      3
+    ],
+    "wildlife": [
+      1,
+      3
+    ],
+    "deer": [
+      2,
+      3
+    ],
+    "ph": [
+      1,
+      3
+    ]
+  },
+  "edible": {
+    "level": "edible",
+    "food": true,
+    "kinds": [
+      "fruit"
+    ],
+    "card": "Tart red berries (lemonade-like drink)",
+    "summary": "The tart red berries are edible — the classic use is a tangy, lemonade-like drink ('sumac-ade') the sour fruit was long steeped in water to make.[3]",
+    "parts": "The ripe red, hairy drupes borne in the erect terminal cones are the edible part; their sourness comes from a tart coating (rich in malic acid) on the fuzzy hairs that dissolves in water.[1][3]",
+    "preparation": "Rub or steep the whole berry cones in cool water — do not boil, which draws out bitter tannins — then strain out the fruit and hairs and sweeten to taste for a pink lemonade-like beverage; the sour fruit can also simply be chewed to quench thirst.[3]",
+    "caution": "This sumac is completely safe and is NOT poison sumac (Toxicodendron vernix), which is a white-berried tree of wet swamps; Rhus glabra bears upright cones of RED berries and is harmless. As a rule only the red-fruited sumacs are used for the drink, never any white-berried look-alike.[1][3]"
+  }
+}

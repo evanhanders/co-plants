@@ -1,0 +1,180 @@
+{
+  "common": "Shrubby St. John's wort",
+  "botanical": "Hypericum prolificum",
+  "type": "Shrub",
+  "lifecycle": "Perennial",
+  "native": "Non-native",
+  "flower_color": [
+    "yellow"
+  ],
+  "bloom": [
+    "summer"
+  ],
+  "blurb": "A tough, adaptable little mound of a native shrub smothered in bright golden, powder-puff flowers all summer, followed by rusty seed capsules that hold through winter.",
+  "size": "~2–5 ft × 2–4 ft",
+  "sun": "Full sun–part shade",
+  "water": "Low–moderate; drought-tolerant and adaptable once established",
+  "spread": "Compact, rounded, multi-stemmed mound; spreads slowly by rhizome and occasional self-sown seedlings, but well-behaved",
+  "seasons": "Bright yellow flowers early-to-mid summer; cone-shaped reddish-brown seed capsules ripen late summer and persist into winter; older stems show flaky, pale-orange exfoliating bark",
+  "wildlife": "Pollen-rich flowers are worked heavily by native bees and other pollinators; seeds and cover draw birds",
+  "deer": "Usually left alone by deer and rabbits — the hypericin-laced foliage is unpalatable, though not guaranteed deer-proof",
+  "toxic": "Foliage and sap contain hypericin; skin contact or ingestion can cause photosensitivity (a sunburn-like reaction) in people, pets, and grazing livestock",
+  "winter": true,
+  "verified": "2026-07-16",
+  "origin": "Central & eastern US — New York to Iowa, south to Georgia & Oklahoma",
+  "habitat": "Rocky slopes, dry open woods, meadows and stream gravel bars",
+  "ph": {
+    "min": 5.5,
+    "ideal": 7.0,
+    "max": 8.0
+  },
+  "care": {
+    "hardiness": "Very cold-hardy — rated to roughly USDA zone 3 — so Boulder's 5b–6a winters are no concern and it needs no winter protection. Its wide native range and toughness make it one of the more dependable non-native flowering shrubs for the Front Range.[1][2]",
+    "planting": "Plant in spring (April–May) or early fall (September) so roots settle in before summer heat or hard frost, watering deeply through the first season to establish. It also does fine in a large container for a season, but a potted plant left out over a Front Range winter needs a big, sheltered pot since its roots are far less cold-hardy than the top; in the ground it is bulletproof.[1][2]",
+    "sun": "Full sun gives the densest habit and the heaviest flush of flowers; it tolerates part shade — useful on an east side — but bloom thins in shade. On the high-altitude Front Range it takes full, intense sun without scorching.[1][2]",
+    "soil": "Genuinely unfussy: it grows in average, medium, well-drained soil and tolerates dry rocky, sandy, and clay soils across a wide pH range, doing well even on Boulder's alkaline clay-loam. Sharp-to-average drainage matters more than fertility.[1][2][3]",
+    "water": "Low to moderate. Water regularly the first year to establish; after that it is genuinely drought- and heat-tolerant and gets by on natural precipitation with only an occasional deep soak in prolonged summer heat.[1][2]",
+    "spacing": "Give each plant about 2–3 ft for a massed, knit-together planting, or 3–4 ft as a rounded specimen so it fills its mature ~2–5 ft height and 2–4 ft spread.[1][2]",
+    "propagation": "Grow it from seed (the fine black seed needs no elaborate treatment), or increase named plants by softwood cuttings in early summer or by dividing the rhizomatous clump in spring.[1][2]",
+    "bloom": "Bright yellow, five-petaled flowers about 1 in across — nearly hidden by a dense bushy boss of golden stamens (the source of the name prolificum) — open in terminal clusters from early to mid summer, roughly June into August, on the current season's growth.[1][2]",
+    "pruning": "Because it flowers on new wood, prune in late winter or early spring before growth begins — cut stems back by a third to a half, or hard for rejuvenation, to keep the mound dense and floriferous; spring cutting sacrifices no bloom since the flower buds form on that season's shoots. Avoid fall pruning: it strips the ornamental winter seed capsules and can leave soft cuts to winterkill on the Front Range. Little routine pruning is otherwise needed on this compact shrub.[1][2]",
+    "feeding": "Minimal — it performs well in average, even lean soil and rarely needs feeding. A light spring mulch is plenty; skip high-nitrogen fertilizer, which pushes floppy growth at the expense of flowers.[1]",
+    "maintenance": "Low-care once established. It spreads slowly by rhizome and self-sows modestly, so pull the occasional volunteer seedling or root sprout if it wanders. Leave the reddish-brown seed capsules standing for winter interest and cut back in early spring.[1][2]",
+    "troubles": "Largely trouble-free — no significant pest or disease problems are typical. The main risk here is root rot in heavy, poorly drained ground kept too wet, so give it drainage and don't overwater once established.[1][2]"
+  },
+  "edible": {
+    "level": "toxic",
+    "summary": "Grown as an ornamental — not a food; the foliage and sap are photosensitizing.[2]",
+    "caution": "Like other St. John's worts, the plant contains hypericin: skin contact with the sap, or ingestion of the foliage, can cause photosensitivity — an exaggerated, sunburn-like reaction on sun-exposed skin — in some people, pets, and grazing livestock. It is not a foraging plant; do not confuse it with the herbal-supplement common St. John's wort (Hypericum perforatum, a separate species and a Colorado noxious weed) and do not eat any part.[2]"
+  },
+  "fact_src": {
+    "size": [
+      1,
+      2
+    ],
+    "sun": [
+      1,
+      2
+    ],
+    "water": [
+      1,
+      2
+    ],
+    "spread": [
+      1,
+      2
+    ],
+    "seasons": [
+      1,
+      2
+    ],
+    "wildlife": [
+      1,
+      2
+    ],
+    "deer": [
+      2
+    ],
+    "toxic": [
+      2
+    ],
+    "ph": [
+      2,
+      3
+    ],
+    "origin": [
+      1,
+      3
+    ],
+    "habitat": [
+      1,
+      3
+    ]
+  },
+  "references": [
+    {
+      "name": "Missouri Botanical Garden — Plant Finder: Hypericum prolificum",
+      "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=279208"
+    },
+    {
+      "name": "NC State Extension Plant Toolbox — Hypericum prolificum",
+      "url": "https://plants.ces.ncsu.edu/plants/hypericum-prolificum/"
+    },
+    {
+      "name": "Lady Bird Johnson Wildflower Center — Hypericum prolificum",
+      "url": "https://www.wildflower.org/plants/result.php?id_plant=HYPR"
+    }
+  ],
+  "shots": [
+    {
+      "local": "images/su-flower-t.jpg",
+      "full": "images/su-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/45581881/large.jpeg",
+      "s": "summer",
+      "cap": "Golden flower with a starburst of stamens, face-on · © Mark Kluge (CC-BY-NC) / iNaturalist",
+      "by": "Mark Kluge",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/29213208"
+    },
+    {
+      "local": "images/su-bloom-t.jpg",
+      "full": "images/su-bloom.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/82400389/large.jpeg",
+      "s": "summer",
+      "cap": "Shrub smothered in yellow bloom · © cwgandy (CC-BY-NC) / iNaturalist",
+      "by": "cwgandy",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/51849733"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/145294601/large.jpg",
+      "s": "summer",
+      "cap": "Rounded mounded shrub form · © Doug Hall (CC-BY-NC) / iNaturalist",
+      "by": "Doug Hall",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/88084179"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/288230308/large.jpeg",
+      "s": "summer",
+      "cap": "Narrow blue-green leaves · © Michael J. Papay (CC-BY) / iNaturalist",
+      "by": "Michael J. Papay",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/166442652"
+    },
+    {
+      "local": "images/su-capsule-t.jpg",
+      "full": "images/su-capsule.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/278256579/large.jpeg",
+      "s": "summer",
+      "cap": "Clustered green-to-brown seed capsules · © M. Whitson (CC-BY) / iNaturalist",
+      "by": "M. Whitson",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/161001543"
+    },
+    {
+      "local": "images/fa-capsule-t.jpg",
+      "full": "images/fa-capsule.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/448526797/large.jpeg",
+      "s": "fall",
+      "cap": "Reddish-brown ripe seed capsules · © Scott and Marla (CC-BY-NC) / iNaturalist",
+      "by": "Scott and Marla",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/250748414"
+    },
+    {
+      "local": "images/wi-capsule-t.jpg",
+      "full": "images/wi-capsule.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/466274519/large.jpg",
+      "s": "winter",
+      "cap": "Persistent seed capsules in snow · © Matt Demmon (CC-BY-NC) / iNaturalist",
+      "by": "Matt Demmon",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/259716093"
+    }
+  ]
+}

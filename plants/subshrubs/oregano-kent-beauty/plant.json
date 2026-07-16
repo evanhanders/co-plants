@@ -1,0 +1,177 @@
+{
+  "common": "Ornamental oregano 'Kent Beauty'",
+  "botanical": "Origanum 'Kent Beauty'",
+  "type": "Subshrub",
+  "lifecycle": "Perennial",
+  "native": "Non-native",
+  "collection": "ornamental-oregano",
+  "flower_color": [
+    "pink",
+    "purple"
+  ],
+  "bloom": [
+    "summer",
+    "fall"
+  ],
+  "blurb": "A jewel-box rock-garden oregano grown for show, not the kitchen: wiry trailing stems drip with cone-like, overlapping bracts that shade from soft green to glowing rose-pink, with tiny pink flowers peeking through — like a cascade of ornamental hops.",
+  "size": "~4–10 in tall, trailing 8–12+ in wide",
+  "sun": "Full sun",
+  "water": "Very low; xeric — sharp drainage essential, rots in wet soil",
+  "spread": "Low trailing mat / spiller cascading over rocks, walls and container edges",
+  "seasons": "Cone-like rose-pink hop bracts with pink flowers summer into fall; dries well for arrangements; foliage semi-evergreen but often dies back over a hard winter here",
+  "wildlife": "An RHS 'plants for pollinators' selection — the small flowers draw bees and other pollinating insects",
+  "deer": "Aromatic herbal foliage — deer and rabbits usually leave it alone",
+  "toxic": "Non-toxic; in the culinary oregano genus, but grown as an ornamental — its foliage is milder and less pungent than kitchen oregano",
+  "winter": false,
+  "verified": "2026-07-16",
+  "origin": "Garden hybrid of eastern-Mediterranean species (Turkey, Caucasus, Greece)",
+  "habitat": "Wild parents grow on rocky limestone slopes and screes",
+  "ph": {
+    "min": 6.5,
+    "ideal": 7.5,
+    "max": 8.2
+  },
+  "care": {
+    "hardiness": "Marginal on the Front Range. It is rated about USDA zone 6–9 (RHS H4, hardy to roughly −10 to −5°C), so Boulder's 5b–6a winters sit right at its cold edge — it survives here only in a fast-draining, protected spot, and even then may die back in a severe winter and return in spring. The reliable way to keep it is in a gritty raised rock garden or trough, or grown in a container that is overwintered in a cold frame, unheated garage, or against a warm south wall; cold combined with wet winter clay is what kills it, not cold alone.[1][2][3]",
+    "planting": "Set plants out in spring after the mid-May last-frost date into a gritty, sharply drained bed, raised rock garden, trough, gravel garden, or container — a south-facing, well-drained site is ideal. In the ground it needs excellent drainage to survive winter; grown in a pot (the safer option here), give it a lean, gritty mix and move it under cover for the coldest months, since container roots are far less cold-hardy than the top.[1][2][3]",
+    "sun": "Full sun, preferably a warm south-facing exposure. Good light keeps the trailing stems tight and colors the bracts well; in shade the plant sprawls, blooms poorly, and is far more prone to rot.[1][2]",
+    "soil": "Sharp, gritty drainage is the single most important requirement. It wants poor to moderately fertile, well-drained, preferably alkaline soil — chalk, sand, or gritty sandy loam — and performs best in lean, fast-draining ground. Heavy, wet Front-Range clay is the classic killer, so amend generously with grit or plant in a raised/trough situation.[1][2]",
+    "water": "Very low. Once established it is genuinely xeric and drought-tolerant, wanting dry to at most medium moisture; water sparingly to settle it in, then let it dry between soakings. Overwatering — especially standing moisture in winter — causes crown and root rot.[1][3]",
+    "spacing": "Give each plant about 10–12 in; the low trailing stems spread to roughly a foot wide and look best cascading over a rock, wall edge, or the rim of a pot rather than crowded.[1][3]",
+    "propagation": "'Kent Beauty' is a sterile-ish garden hybrid that will not come true from seed, so propagate it vegetatively — take basal or softwood cuttings in late spring, or lift and divide established clumps in spring.[1][2]",
+    "bloom": "Through summer into early fall (roughly June–September) it carries its signature show: conspicuous, cone-like, overlapping deep rose-pink bracts arranged in drooping, hop-like whorls, with small tubular pink flowers emerging among them. The bracts hold and color up for weeks and dry well for arrangements.[1][2]",
+    "pruning": "Minimal. Cut the old flowered stems back lightly in early spring as new growth begins, and tidy stray trailing stems as needed. Being woody-based, don't shear hard into bare, leafless old wood — like lavender and the sages it resprouts poorly from bald stems, so keep any cut above live foliage.[2]",
+    "feeding": "Keep it lean — it thrives in poor to moderately fertile soil and needs little or no feeding. Rich soil or high-nitrogen fertilizer pushes soft, floppy growth that flops open and rots more easily; skip it.[1][2]",
+    "maintenance": "Low-care apart from managing moisture. The whole job is keeping it dry-footed: ensure winter drainage, don't overwater, and in a container move it to a sheltered, unheated spot for winter. Leave the colored bracts for late-season interest or cut stems for drying.[1][3]",
+    "troubles": "Crown and root rot from winter wet or poorly drained soil is by far the biggest threat — it is what fails most plants here. Otherwise it is largely pest- and disease-free, with only occasional aphids, spider mites, or fungal issues in humid, crowded, or overwatered conditions.[1][2]"
+  },
+  "edible": {
+    "level": "edible",
+    "summary": "Non-toxic and in the culinary oregano genus, but grown as an ornamental — the leaves are only mildly aromatic and it is not really used in cooking.[1]",
+    "parts": "The small aromatic leaves are edible like other Origanum, but this hybrid was bred for its bracts, not flavor: its foliage lacks the pungency and quality expected of a culinary oregano and is usually not used in the kitchen.[1]",
+    "preparation": "If you did use it, treat it like any oregano — a few fresh leaves as a mild seasoning or steeped for tea — but for actual cooking reach for true oregano (Origanum vulgare), which carries far more flavor.[1]",
+    "caution": "This is a garden hybrid grown for looks and is not documented as a culinary herb; there is no serious toxicity concern for people, but it is an ornamental, not a food crop, so enjoy it for the show rather than the plate.[1]"
+  },
+  "fact_src": {
+    "size": [
+      1,
+      3
+    ],
+    "sun": [
+      1,
+      2
+    ],
+    "water": [
+      1,
+      3
+    ],
+    "spread": [
+      1,
+      3
+    ],
+    "seasons": [
+      1,
+      2
+    ],
+    "wildlife": [
+      2,
+      3
+    ],
+    "deer": [
+      1,
+      3
+    ],
+    "toxic": [
+      1
+    ],
+    "ph": [
+      1,
+      2
+    ],
+    "origin": [
+      1,
+      2
+    ],
+    "habitat": [
+      1,
+      2
+    ]
+  },
+  "references": [
+    {
+      "name": "Missouri Botanical Garden — Plant Finder: Origanum 'Kent Beauty'",
+      "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=b161"
+    },
+    {
+      "name": "Royal Horticultural Society — Origanum 'Kent Beauty' (Award of Garden Merit)",
+      "url": "https://www.rhs.org.uk/plants/90151/origanum-kent-beauty/details"
+    },
+    {
+      "name": "High Country Gardens — Kent Beauty Ornamental Oregano",
+      "url": "https://www.highcountrygardens.com/products/perennial-oregano-kent-beauty"
+    }
+  ],
+  "shots": [
+    {
+      "local": "images/su-bracts-t.jpg",
+      "full": "images/su-bracts.jpg",
+      "commons": "Origanum rotundifolium Kent Beauty kz1.jpg",
+      "s": "summer",
+      "cap": "Cascading hop-like bracts shading green to rose-pink · © Krzysztof Ziarnek, Kenraiz (CC-BY-SA) / Wikimedia Commons",
+      "by": "Krzysztof Ziarnek, Kenraiz",
+      "lic": "CC-BY-SA",
+      "link": "https://commons.wikimedia.org/wiki/File:Origanum_rotundifolium_Kent_Beauty_kz1.jpg"
+    },
+    {
+      "local": "images/su-flower-t.jpg",
+      "full": "images/su-flower.jpg",
+      "commons": "Origanum Kent Beauty 0zz.jpg",
+      "s": "summer",
+      "cap": "Tiny pink flowers peeking from the pink bracts · © David J. Stang (CC-BY-SA) / Wikimedia Commons",
+      "by": "David J. Stang",
+      "lic": "CC-BY-SA",
+      "link": "https://commons.wikimedia.org/wiki/File:Origanum_Kent_Beauty_0zz.jpg"
+    },
+    {
+      "local": "images/su-cascade-t.jpg",
+      "full": "images/su-cascade.jpg",
+      "commons": "Origanum Kent Beauty 1zz.jpg",
+      "s": "summer",
+      "cap": "Trailing stems spilling in a curtain of bracts · © David J. Stang (CC-BY-SA) / Wikimedia Commons",
+      "by": "David J. Stang",
+      "lic": "CC-BY-SA",
+      "link": "https://commons.wikimedia.org/wiki/File:Origanum_Kent_Beauty_1zz.jpg"
+    },
+    {
+      "local": "images/su-bractmass-t.jpg",
+      "full": "images/su-bractmass.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/143045822/large.jpeg",
+      "s": "summer",
+      "cap": "Mass of green-and-pink hop-like bracts — shown on the near-identical parent species, Origanum rotundifolium · © mknesal (CC-BY-NC) / iNaturalist",
+      "by": "mknesal",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/86794675"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/178046375/large.jpg",
+      "s": "summer",
+      "cap": "Whole trailing plant — shown on the near-identical parent species, Origanum rotundifolium · © gbailey81 (CC-BY-NC) / iNaturalist",
+      "by": "gbailey81",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/86988049"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "commons": "Origanum rotundifolium Kent Beauty 0zz.jpg",
+      "s": "summer",
+      "cap": "Rounded blue-green leaves · © David J. Stang (CC-BY-SA) / Wikimedia Commons",
+      "by": "David J. Stang",
+      "lic": "CC-BY-SA",
+      "link": "https://commons.wikimedia.org/wiki/File:Origanum_rotundifolium_Kent_Beauty_0zz.jpg"
+    }
+  ],
+  "gaps": "'Kent Beauty' is a hybrid with limited open-licensed imagery: four shots are the true cultivar (Wikimedia Commons); the bract-mass and whole-plant habit shots are the near-identical parent species Origanum rotundifolium, captioned as such."
+}

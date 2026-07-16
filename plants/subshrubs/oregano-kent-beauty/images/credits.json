@@ -1,0 +1,116 @@
+[
+  {
+    "file": "images/su-bracts.jpg",
+    "commons_file": "Origanum rotundifolium Kent Beauty kz1.jpg",
+    "by": "Krzysztof Ziarnek, Kenraiz",
+    "license": "CC-BY-SA",
+    "source": "https://commons.wikimedia.org/wiki/File:Origanum_rotundifolium_Kent_Beauty_kz1.jpg",
+    "dataset": "Wikimedia Commons",
+    "orig_px": [
+      2728,
+      4096
+    ],
+    "full_px": [
+      999,
+      1500
+    ],
+    "thumb_px": [
+      266,
+      400
+    ]
+  },
+  {
+    "file": "images/su-flower.jpg",
+    "commons_file": "Origanum Kent Beauty 0zz.jpg",
+    "by": "David J. Stang",
+    "license": "CC-BY-SA",
+    "source": "https://commons.wikimedia.org/wiki/File:Origanum_Kent_Beauty_0zz.jpg",
+    "dataset": "Wikimedia Commons",
+    "orig_px": [
+      1728,
+      1152
+    ],
+    "full_px": [
+      1500,
+      1000
+    ],
+    "thumb_px": [
+      400,
+      267
+    ]
+  },
+  {
+    "file": "images/su-cascade.jpg",
+    "commons_file": "Origanum Kent Beauty 1zz.jpg",
+    "by": "David J. Stang",
+    "license": "CC-BY-SA",
+    "source": "https://commons.wikimedia.org/wiki/File:Origanum_Kent_Beauty_1zz.jpg",
+    "dataset": "Wikimedia Commons",
+    "orig_px": [
+      1152,
+      1728
+    ],
+    "full_px": [
+      1000,
+      1500
+    ],
+    "thumb_px": [
+      267,
+      400
+    ]
+  },
+  {
+    "file": "images/su-bractmass.jpg",
+    "photo_id": "143045822",
+    "by": "mknesal",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/86794675",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      1050
+    ],
+    "thumb_px": [
+      400,
+      300
+    ]
+  },
+  {
+    "file": "images/su-habit.jpg",
+    "photo_id": "178046375",
+    "by": "gbailey81",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/86988049",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  },
+  {
+    "file": "images/su-foliage.jpg",
+    "commons_file": "Origanum rotundifolium Kent Beauty 0zz.jpg",
+    "by": "David J. Stang",
+    "license": "CC-BY-SA",
+    "source": "https://commons.wikimedia.org/wiki/File:Origanum_rotundifolium_Kent_Beauty_0zz.jpg",
+    "dataset": "Wikimedia Commons",
+    "orig_px": [
+      1000,
+      665
+    ],
+    "full_px": [
+      1000,
+      665
+    ],
+    "thumb_px": [
+      400,
+      266
+    ]
+  }
+]

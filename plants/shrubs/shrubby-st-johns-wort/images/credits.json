@@ -1,0 +1,121 @@
+[
+  {
+    "file": "images/su-flower.jpg",
+    "photo_id": "45581881",
+    "by": "Mark Kluge",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/29213208",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      933
+    ],
+    "thumb_px": [
+      400,
+      267
+    ]
+  },
+  {
+    "file": "images/su-bloom.jpg",
+    "photo_id": "82400389",
+    "by": "cwgandy",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/51849733",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  },
+  {
+    "file": "images/su-habit.jpg",
+    "photo_id": "145294601",
+    "by": "Doug Hall",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/88084179",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      1050
+    ],
+    "thumb_px": [
+      400,
+      300
+    ]
+  },
+  {
+    "file": "images/su-foliage.jpg",
+    "photo_id": "288230308",
+    "by": "Michael J. Papay",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/observations/166442652",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      1050
+    ],
+    "thumb_px": [
+      400,
+      300
+    ]
+  },
+  {
+    "file": "images/su-capsule.jpg",
+    "photo_id": "278256579",
+    "by": "M. Whitson",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/observations/161001543",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      1050
+    ],
+    "thumb_px": [
+      400,
+      300
+    ]
+  },
+  {
+    "file": "images/fa-capsule.jpg",
+    "photo_id": "448526797",
+    "by": "Scott and Marla",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/250748414",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1123,
+      1400
+    ],
+    "thumb_px": [
+      321,
+      400
+    ]
+  },
+  {
+    "file": "images/wi-capsule.jpg",
+    "photo_id": "466274519",
+    "by": "Matt Demmon",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/259716093",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  }
+]

@@ -447,7 +447,7 @@ driven off one predicate so they can't drift. To add one (e.g. `Fragrant`):
 Cultivar/genus clusters (apples, plums, tart cherries, currants, pelargoniums, wallflowers,
 asters, irises, tulips, climbing/rambling roses, hardy geraniums, crocuses, penstemons, maples,
 milkweeds, alliums, sunflowers, bee-balms, lupines, dogwoods, clematis, mulleins, columbines,
-scabious, prairie-coneflowers, pinks, coreopsis, sumacs, primulas — **29 in all**) collapse
+scabious, prairie-coneflowers, pinks, coreopsis, sumacs, primulas, ornamental-oreganos — **30 in all**) collapse
 into a **single expandable family card** so the grid isn't buried under near-duplicate cards. It's
 an **inline accordion**, not a separate page — each member keeps its own detail page untouched.
 The bar for a collection is "would a gardener read these as one kind of plant in different
@@ -1036,7 +1036,7 @@ ground every statement in an authority cited in `references`.
 
 ## Current plant roster (in the live site)
 
-**244 specimens** (`plants/manifest.json` is the source of truth for the exact count), all verified
+**247 specimens** (`plants/manifest.json` is the source of truth for the exact count), all verified
 non-weed in CO and all carrying a full `care` block (incl.
 `planting` + `propagation`) **and a repo-hosted photo reel** (close-up + structure, seasonal
 where good shots exist). Every plant's detail page is **fully cited** — a numbered
@@ -1269,6 +1269,25 @@ not-food; **Parry's** `inedible` (+ an ethical note not to forage alpine natives
 `tools/inat_montage.py` (iNat open data; English/cowslip/drumstick/polyanthus `--global`, Parry's from
 Colorado records), 8 shots each, 720×480 smart-crop thumbs.
 
+**St. John's wort + ornamental oreganos batch (July 2026):** on a user request, added **three** plants.
+The shrub **Shrubby St. John's wort** (*Hypericum prolificum*, a `Non-native` mounded shrub with golden
+powder-puff summer flowers + persistent rusty winter seed capsules; a native-bee magnet). **Weed-check
+call:** *H. prolificum* is not CO-listed, but its relative **common St. Johnswort / Klamath weed (*H.
+perforatum*) is a CO List C noxious weed** and was deliberately kept separate; the edibility is `toxic`
+(hypericin photosensitization). Plus **two flowering ornamental oreganos** folded into a new **Ornamental
+oreganos** family card (id `ornamental-oregano`, homed in Subshrubs, lead = 'Kent Beauty'): the hardy
+xeric **'Herrenhausen'** (*Origanum laevigatum*, rose-purple flowers over dark bracts, a top late-season
+bee plant; `edible` but milder than culinary oregano) and the marginal jewel-box **'Kent Beauty'**
+(*Origanum* hybrid, cascading green→rose-pink hop-like bracts; ~zone 5b–6, sharp-drainage trough/potted —
+`edible` level but not documented as culinary, so no `food`). All three are **Non-native** with honest
+`origin`/`habitat`; both oreganos are aromatic/deer-resistant Subshrubs carrying `pruning`. Photos:
+Hypericum via `tools/inat_montage.py` (iNat open data, 7 shots incl. fall + winter capsules); the two
+oreganos via a mix of iNat + the **Wikimedia Commons** cultivar pipeline (`commons_search.py` →
+`commons_finalize.py`), hand-merged. 'Kent Beauty' uses two honestly-captioned **parent-species**
+(*O. rotundifolium*, near-identical) shots where no CC cultivar shot of that type exists (logged in its
+`gaps`); 'Herrenhausen''s reel is species-level *O. laevigatum* representing the selection. Every entry
+fully cited (`check_refs` guide-wide + `check_citations` pass).
+
 **Trees**
 - River hawthorn (*Crataegus rivularis*) (N) — Thorny native small tree; white spring flowers, dark edible haws, superb wildlife cover. A caterpillar keystone (~90 Lepidoptera). *(Riparian — wants more water; edible haws, spit the cyanogenic seeds.)*
 - Chokecherry (*Prunus virginiana*) (N) — Wildlife powerhouse: fragrant white flower racemes, dark…
@@ -1320,8 +1339,11 @@ Colorado records), 8 shots each, 720×480 smart-crop thumbs.
 - Waxflower (*Jamesia americana*) (N) — Foothills cliffbush; fragrant waxy white flowers over veined leaves that redden in fall.
 - Soapweed yucca (*Yucca glauca*) (N) — Evergreen blue-green sword-leaf clump throwing tall spikes of creamy bell flowers; pollinated solely by the yucca moth. *(Flowers, young fruit & seeds edible cooked; roots saponin-toxic.)*
 - Hedge cotoneaster (*Cotoneaster lucidus*) (I) — The Front Range's classic tall privacy hedge: dense upright Asian shrub, glossy leaves, small black berries, fiery scarlet fall color; shears beautifully. *(Berries mildly poisonous — cyanogenic, bird-spread; fire-blight-prone rose relative.)*
+- Shrubby St. John's wort (*Hypericum prolificum*) (I) — Tough, adaptable little mound smothered in bright golden powder-puff flowers all summer, then rusty seed capsules that persist through winter; a native-bee magnet. *(E/central-US native, NOT Front-Range; blooms on new wood — prune late winter. Toxic — hypericin photosensitization; NOT the weedy H. perforatum.)*
 
 **Subshrubs**
+- Ornamental oregano 'Herrenhausen' (*Origanum laevigatum 'Herrenhausen'*) (I) — Hardy xeric ornamental oregano; rose-purple flowers over dark bracts swarm with bees/butterflies late summer, foliage reddens in fall. *(Ornamental oreganos family card; edible but milder than culinary oregano.)*
+- Ornamental oregano 'Kent Beauty' (*Origanum 'Kent Beauty'*) (I) — Jewel-box rock-garden hybrid grown for cascading hop-like bracts shading green to rose-pink; marginal here (~zone 5b–6, sharp drainage / trough / potted). *(Ornamental oreganos family card; photos partly parent-species-representative — see `gaps`.)*
 - Apricot wallflower (*Erysimum 'Apricot Twist'*) (I) — Long-blooming perennial wallflower; flowers open apricot and age to mauve. *(photos species-representative — see `gaps`)*
 - Bowles's Mauve wallflower (*Erysimum 'Bowles's Mauve'*) (I) — A grey-leaved mound smothered in fragrant mauve racemes; top early-bee plant. Short-lived (~zone 6b).
 - Candytuft (*Iberis sempervirens*) (I) — A woody-based evergreen mat smothered in crisp white flower…

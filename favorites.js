@@ -13,6 +13,16 @@ if(!(window.Account && window.Account.configured)){
 var SEED=[], loaded=false;
 async function loadSeed(){
   try{
+    /* one request from the generated bundle (see tools/build_bundle.py); the
+       per-plant plant.json files stay the source of truth. */
+    var res=await fetch('plants/bundle.json');
+    if(res.ok){ var b=await res.json(); if(b && b.plants){ SEED=b.plants; loaded=true; return; } }
+    throw new Error('no bundle');
+  }catch(e){ await loadSeedFiles(); }
+  loaded=true;
+}
+async function loadSeedFiles(){
+  try{
     var man=await (await fetch('plants/manifest.json',{cache:'no-cache'})).json();
     var paths=(man && man.plants)||[];
     var loadedPlants=await Promise.all(paths.map(function(rel){
@@ -23,7 +33,6 @@ async function loadSeed(){
     }));
     SEED=loadedPlants.filter(Boolean);
   }catch(e){ console.error('Could not load plant data', e); SEED=[]; }
-  loaded=true;
 }
 
 function render(){

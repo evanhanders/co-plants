@@ -376,7 +376,25 @@ searchEl.addEventListener('search', function(){ searchEl.blur(); });
 /* tap a card photo to open the swipeable zoom lightbox (engine in reel.js) */
 wireLightbox(content);
 
+/* Load all plant data in ONE request from the procedurally-generated bundle
+   (tools/build_bundle.py concatenates every per-plant plant.json — still the
+   source of truth — into plants/bundle.json, minus the detail-page-only fields
+   the grid never reads). This replaces fetching 250+ individual plant.json
+   files, so first paint no longer waits on hundreds of round-trips. If the
+   bundle is missing/unreadable, fall back to the per-file loader below. */
 async function loadSeed(){
+try{
+const res = await fetch('plants/bundle.json');
+if(res.ok){
+const b = await res.json();
+if(b && b.plants){ SEED = b.plants; COLLECTIONS = (b.collections)||{}; return; }
+}
+throw new Error('no bundle');
+}catch(e){ await loadSeedFiles(); }
+}
+/* Fallback: fetch each plant.json individually (the pre-bundle path). Runs only
+   if bundle.json is absent — e.g. a checkout where build_bundle.py hasn't run. */
+async function loadSeedFiles(){
 try{
 const res = await fetch('plants/manifest.json', {cache:'no-cache'});
 const man = await res.json();

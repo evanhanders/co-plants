@@ -447,7 +447,7 @@ driven off one predicate so they can't drift. To add one (e.g. `Fragrant`):
 Cultivar/genus clusters (apples, plums, tart cherries, currants, pelargoniums, wallflowers,
 asters, irises, tulips, climbing/rambling roses, hardy geraniums, crocuses, penstemons, maples,
 milkweeds, alliums, sunflowers, bee-balms, lupines, dogwoods, clematis, mulleins, columbines,
-scabious, prairie-coneflowers, pinks, coreopsis, sumacs, primulas, ornamental-oreganos — **30 in all**) collapse
+scabious, prairie-coneflowers, pinks, coreopsis, sumacs, primulas, ornamental-oreganos, marigolds — **31 in all**) collapse
 into a **single expandable family card** so the grid isn't buried under near-duplicate cards. It's
 an **inline accordion**, not a separate page — each member keeps its own detail page untouched.
 The bar for a collection is "would a gardener read these as one kind of plant in different
@@ -1036,7 +1036,7 @@ ground every statement in an authority cited in `references`.
 
 ## Current plant roster (in the live site)
 
-**247 specimens** (`plants/manifest.json` is the source of truth for the exact count), all verified
+**251 specimens** (`plants/manifest.json` is the source of truth for the exact count), all verified
 non-weed in CO and all carrying a full `care` block (incl.
 `planting` + `propagation`) **and a repo-hosted photo reel** (close-up + structure, seasonal
 where good shots exist). Every plant's detail page is **fully cited** — a numbered
@@ -1288,6 +1288,27 @@ oreganos via a mix of iNat + the **Wikimedia Commons** cultivar pipeline (`commo
 `gaps`); 'Herrenhausen''s reel is species-level *O. laevigatum* representing the selection. Every entry
 fully cited (`check_refs` guide-wide + `check_citations` pass).
 
+**Marigolds family + Mongolian Gold clematis batch (July 2026):** on a user request to "expand the tagetes
+family beyond the classic marigold and make it a reel," added **three** more *Tagetes* and folded them
+together with the existing French marigold into a new **Marigolds** family card (id `marigolds`, homed in
+Summer forbs, lead = the existing `marigold`): **African marigold** (*T. erecta*, the tall big-pompom /
+Día-de-los-Muertos flower; edible saffron-substitute petals), **Signet marigold** (*T. tenuifolia*,
+lacy-leaved mound of small single flowers — the best-flavoured culinary marigold; `aka` 'Lemon Gem'/'Tangerine
+Gem'), and **Mexican mint marigold** (*T. lucida*, the anise-scented "Texas/Spanish tarragon" — a `Tender
+perennial` grown as an annual here, blooms Fall; `aka` Texas/Spanish/Mexican tarragon, sweet mace). All three
+are **Non-native** (Mexico/Central America) with cited `origin`/`habitat`; all `edible`/`food:true` with the
+Tagetes phototoxic-thiophene + Asteraceae-allergy cautions. The same request also added **Mongolian Gold
+clematis** (*Clematis fruticosa* 'Mongolian Gold') — a **Subshrub** (not a vine): a xeric, cold-hardy
+Mongolian-steppe **shrub** clematis with nodding yellow lantern flowers + silvery seed plumes. **Weed-check
+call:** verified it is the distinct shrubby species *C. fruticosa*, **NOT** the vining ***C. orientalis***
+(Chinese/orange-peel clematis, a CO **List B** noxious weed whose listing covers all its cultivars) — the
+diagnostic tell is shrub-vs-vine, stated plainly in the blurb; `edible` **toxic** (protoanemonin). It carries
+`pruning` as **Group 3** (hard spring cutback, blooms on new wood); kept standalone (not in the vine `clematis`
+collection) since its growth form differs. Photos: marigolds via `tools/inat_montage.py` (iNat open data,
+6 shots each); the clematis is species-representative *C. fruticosa* iNat shots (5 shots — CC imagery of the
+cultivar/species is scarce; logged in its `gaps`). Every entry fully cited (`check_refs` guide-wide +
+`check_citations` pass).
+
 **Trees**
 - River hawthorn (*Crataegus rivularis*) (N) — Thorny native small tree; white spring flowers, dark edible haws, superb wildlife cover. A caterpillar keystone (~90 Lepidoptera). *(Riparian — wants more water; edible haws, spit the cyanogenic seeds.)*
 - Chokecherry (*Prunus virginiana*) (N) — Wildlife powerhouse: fragrant white flower racemes, dark…
@@ -1342,6 +1363,7 @@ fully cited (`check_refs` guide-wide + `check_citations` pass).
 - Shrubby St. John's wort (*Hypericum prolificum*) (I) — Tough, adaptable little mound smothered in bright golden powder-puff flowers all summer, then rusty seed capsules that persist through winter; a native-bee magnet. *(E/central-US native, NOT Front-Range; blooms on new wood — prune late winter. Toxic — hypericin photosensitization; NOT the weedy H. perforatum.)*
 
 **Subshrubs**
+- Mongolian Gold clematis (*Clematis fruticosa 'Mongolian Gold'*) (I) — A non-vining SHRUB clematis from the Mongolian steppe: nodding bright-yellow lantern flowers in late summer over a tidy woody clump, then silvery seed plumes; bone-dry xeric, iron cold-hardy. *(A true shrub, NOT the vining CO List-B weed C. orientalis; Pruning Group 3 — hard spring cutback; toxic — protoanemonin. Photos species-representative — see `gaps`.)*
 - Ornamental oregano 'Herrenhausen' (*Origanum laevigatum 'Herrenhausen'*) (I) — Hardy xeric ornamental oregano; rose-purple flowers over dark bracts swarm with bees/butterflies late summer, foliage reddens in fall. *(Ornamental oreganos family card; edible but milder than culinary oregano.)*
 - Ornamental oregano 'Kent Beauty' (*Origanum 'Kent Beauty'*) (I) — Jewel-box rock-garden hybrid grown for cascading hop-like bracts shading green to rose-pink; marginal here (~zone 5b–6, sharp drainage / trough / potted). *(Ornamental oreganos family card; photos partly parent-species-representative — see `gaps`.)*
 - Apricot wallflower (*Erysimum 'Apricot Twist'*) (I) — Long-blooming perennial wallflower; flowers open apricot and age to mauve. *(photos species-representative — see `gaps`)*
@@ -1484,7 +1506,10 @@ fully cited (`check_refs` guide-wide + `check_citations` pass).
 - Nodding onion (*Allium cernuum*) (N) — A dainty native onion whose stalk crooks so its umbel of pink bells nods to the ground; bee-covered in midsummer. *(Edible — but deadly death-camas look-alike; smell for onion.)*
 - Desert marigold (*Baileya multiradiata*) (I) — Woolly silver mound throwing long-stemmed lemon daisies for months in the hottest, leanest ground. *(SW-US native, not CO; toxic to livestock.)*
 - Black-eyed Susan (*Rudbeckia hirta*) (I) — Golden petals around a chocolate cone for months, seeding into easy drifts bees & goldfinches love. *(E/central-N.A. native, not Front-Range; mild caution.)*
-- Marigold (*Tagetes patula*) (I) · **Annual** — Bulletproof bedding annual; ferny aromatic foliage under ruffled yellow-to-mahogany blooms all summer. *(Edible petals.)*
+- Marigold (*Tagetes patula*) (I) · **Annual** — Bulletproof bedding annual; ferny aromatic foliage under ruffled yellow-to-mahogany blooms all summer. *(Marigolds family card; edible petals.)*
+- African marigold (*Tagetes erecta*) (I) · **Annual** — Tall marigold with big globular yellow-orange pompoms; the Día-de-los-Muertos flower. *(Marigolds family card; edible petals — saffron-substitute colour/flavour.)*
+- Signet marigold (*Tagetes tenuifolia*) (I) · **Annual** — Compact lacy-leaved mound smothered in small single flowers; the best-flavoured culinary marigold. *(Marigolds family card; citrus-flavoured edible flowers & leaves.)*
+- Mexican mint marigold (*Tagetes lucida*) (I) · **Tender perennial** — Smooth anise-scented leaves used as a heat-proof tarragon substitute; golden flowers in fall. *(Marigolds family card; Texas/Spanish tarragon — edible leaves & flowers; frost-killed here, blooms Fall.)*
 - Nigella / love-in-a-mist (*Nigella damascena*) (I) · **Annual** — Sky-blue flowers in a haze of thread-fine foliage, then inflated horned 'balloon' seedpods for drying. *(Caution — ornamental, not culinary N. sativa.)*
 - Bachelor's button (*Centaurea cyanus*) (I) · **Annual** — True-blue fringed buttons on wiry stems; easy cool-season reseeder that draws bees. *(Edible petals; NOT a knapweed/weed.)*
 - Amaranth / love-lies-bleeding (*Amaranthus caudatus*) (I) · **Annual** — Tall stems draped in drooping crimson ropes; a dramatic ancient grain that's also an edible green. *(Edible grain & cooked leaves.)*

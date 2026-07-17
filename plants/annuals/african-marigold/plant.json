@@ -1,0 +1,190 @@
+{
+  "common": "African marigold",
+  "botanical": "Tagetes erecta",
+  "type": "Forb",
+  "lifecycle": "Annual",
+  "native": "Non-native",
+  "bloom_season": "Summer",
+  "collection": "marigolds",
+  "flower_color": [
+    "yellow",
+    "orange",
+    "white"
+  ],
+  "bloom": [
+    "summer",
+    "fall"
+  ],
+  "blurb": "The tall, big-pompom marigold — dense double globes of gold, orange, and creamy-white over aromatic ferny foliage all summer; this is cempasúchil, the Day-of-the-Dead flower, and the garden source of lutein.",
+  "size": "1–4 ft × 1–2 ft",
+  "sun": "Full sun",
+  "water": "Moderate; keep evenly moist, water at the base",
+  "spread": "Clumping and upright; self-sows lightly, and the tall, heavy-headed stems can flop or snap in wind and rain, so bigger types may need staking",
+  "seasons": "Yellow, orange, and creamy-white pompom flowers from early summer to frost; aromatic ferny foliage spring–fall; killed outright by the first hard frost",
+  "wildlife": "Nectar and pollen for bees, butterflies, and other pollinators; the classic Día de los Muertos (cempasúchil) flower whose petals are strung into Day-of-the-Dead garlands",
+  "deer": "Seldom damaged by deer — the pungent aromatic foliage is generally passed over",
+  "toxic": "Petals are edible and the plant is only low-severity toxic, but the cell sap carries phototoxic thiophenes, so handling the crushed foliage or flowers then going into sun can redden or blister sensitive skin",
+  "origin": "Mexico & Central America",
+  "habitat": "Open, seasonally dry disturbed ground and roadsides",
+  "winter": false,
+  "verified": "2026-07-17",
+  "ph": {
+    "min": 6.0,
+    "ideal": 6.8,
+    "max": 8.0
+  },
+  "care": {
+    "hardiness": "Grown as a frost-tender warm-season annual — it completes its life in one season and is killed by the first hard frost, so winter hardiness is not a factor on the Front Range; it is simply replanted each spring.[2][5]",
+    "planting": "A heat-lover — do not rush it out. Set out transplants or direct-sow only after the mid-May last frost in Boulder, once soil and nights have warmed, since cold soil stalls it and frost kills it. For a head start on the tall, slow-maturing African types, start seed indoors 6–8 weeks before that last-frost date and harden off before planting. It also grows well in a large, free-draining container in full sun (expect to water daily in summer heat and wind, as pots dry far faster than beds); potted plants finish at the first fall frost with no overwintering possible.[2][5]",
+    "sun": "Full sun — 6+ hours gives the sturdiest, most free-flowering plants and the best bloom. In the hottest, driest spells it appreciates a little light afternoon shade, but it dislikes full shade, where it stretches and flowers poorly.[2][4]",
+    "soil": "Adaptable — average, evenly moist, well-drained soil is ideal, and it tolerates clay and a wide pH from acidic to alkaline (about 6.0–8.0), so Boulder's alkaline clay is fine where drainage is decent. Avoid very rich, over-fertilized ground, which drives lush foliage at the expense of flowers.[1][2]",
+    "water": "Moderate — keep the soil evenly moist, especially through establishment and peak summer heat, letting the surface dry slightly between waterings; avoid soggy soil, which invites rots, and water at the base to keep the foliage dry and discourage leaf disease.[2]",
+    "spacing": "Give the tall African types room — roughly 12–18 in apart depending on the strain — and set leggy transplants deep, stripping the lowest leaves and burying the stem to the next set of leaf scars; the buried stem roots and the shorter, sturdier plant needs less staking.[2]",
+    "propagation": "Seed only — this annual cannot be divided or reliably rooted from cuttings. Start seed indoors 6–8 weeks before the mid-May frost for the tall types, or direct-sow into warm soil after frost; it germinates fast in warmth. Seed saved from named F1 hybrid strains will not come true.[2][5]",
+    "sow": "Barely cover the seed and keep it warm and evenly moist for quick, even germination; indoors, sow into cell packs 6–8 weeks ahead so transplants are stocky by mid-May.[1][2]",
+    "depth": "Sow shallowly, about ¼ in deep, and keep warm (~70–75°F) and moist until the seedlings emerge.[1]",
+    "bloom": "Early summer (roughly June) to the first hard frost on the Front Range — bloom is heaviest and most continuous when plants are deadheaded regularly, giving a long, dependable season of color into October.[2]",
+    "feeding": "Little to none. Lean-to-average soil suits it best; heavy or high-nitrogen feeding produces floppy, leafy plants and fewer flowers, so a single light feed at planting is plenty on poor ground.[2]",
+    "maintenance": "Deadhead spent heads promptly to keep bloom coming and the plants tidy, and pinch young plants once to encourage bushy, compact growth. The tall types carry heavy flowerheads that stress the stems, so plants often snap in strong wind or heavy rain — stake or corral the bigger varieties, or choose a shorter strain.[2]",
+    "troubles": "Generally easy, but watch for spider mites and thrips in hot, dry spells and slugs on seedlings; in cool, wet weather it is prone to Botrytis (gray mold), powdery mildew, leaf spot, and root/stem rots. Aster yellows (a phytoplasma spread by leafhoppers) can distort and green the flowers — rogue out and destroy affected plants. Good airflow, full sun, and base watering keep it clean.[1][2]"
+  },
+  "edible": {
+    "level": "edible",
+    "food": true,
+    "kinds": [
+      "flowers"
+    ],
+    "card": "Edible petals (color & flavor, saffron substitute)",
+    "summary": "African marigold ray petals are edible in moderation — used mainly as a golden food coloring and mild flavoring, and as a saffron substitute; snip off the bitter white petal base before use.[2][3]",
+    "parts": "The colorful ray petals are the edible part. They are used to color and flavor foods, brewed as a tea, and used as a substitute for tarragon and (as a yellow dye) for saffron; the flower is also the garden source of the pigment lutein. Pull the petals from the head and remove their bitter white base before use — the flavor is spicy-herbal and can be quite bitter. The pungent leaves and roots are not a food.[2][3]",
+    "preparation": "Use only the ray petals, with the bitter white base snipped off, and use them in small amounts as a garnish or natural coloring rather than as a vegetable. Use only pesticide-free plants you have grown or know the source of — marigolds sold by a florist may be treated and are not for eating — and don't confuse culinary marigold (Tagetes) with pot marigold/calendula (Calendula officinalis), a different, milder genus.[3]",
+    "caution": "All Tagetes carry phototoxic thiophene derivatives in the sap, flowers, foliage, and roots: contact with the cell sap (especially through broken skin) followed by sun can cause skin redness, burning, and blisters in sensitive people, and the flowers' aroma can irritate nose and eyes — wear gloves if you react. The petals are edible only in small amounts and can be harmful eaten in quantity; commercially the flower is grown mainly as a lutein colorant for poultry feed and egg yolks, not as a human vegetable. Anyone with a known Asteraceae (daisy-family) allergy should avoid eating it.[1][3]"
+  },
+  "references": [
+    {
+      "name": "NC State Extension Gardener Plant Toolbox — Tagetes erecta (African/American/Aztec Marigold)",
+      "url": "https://plants.ces.ncsu.edu/plants/tagetes-erecta/"
+    },
+    {
+      "name": "Missouri Botanical Garden Plant Finder — Tagetes erecta (African Marigold)",
+      "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=a609"
+    },
+    {
+      "name": "NC State Extension Gardener Plant Toolbox — Tagetes (Marigold, genus — edible-flower use)",
+      "url": "https://plants.ces.ncsu.edu/plants/tagetes/"
+    },
+    {
+      "name": "Royal Horticultural Society — Tagetes erecta (African marigold)",
+      "url": "https://www.rhs.org.uk/plants/151627/tagetes-erecta/details"
+    },
+    {
+      "name": "CSU Extension — Yard & Garden (Front Range adaptation: frost dates, alkaline clay)",
+      "url": "https://extension.colostate.edu/topic-areas/yard-garden/"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      1,
+      2
+    ],
+    "sun": [
+      1,
+      2,
+      4
+    ],
+    "water": [
+      2
+    ],
+    "spread": [
+      2
+    ],
+    "seasons": [
+      2
+    ],
+    "wildlife": [
+      1,
+      4
+    ],
+    "deer": [
+      1,
+      2
+    ],
+    "toxic": [
+      1,
+      3
+    ],
+    "ph": [
+      1,
+      2
+    ],
+    "origin": [
+      1,
+      2
+    ],
+    "habitat": [
+      1
+    ]
+  },
+  "shots": [
+    {
+      "local": "images/su-flower-t.jpg",
+      "full": "images/su-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/577368148/large.jpg",
+      "s": "summer",
+      "cap": "Big orange double pompom, close-up · © Vincent Fulgieri (CC-BY-NC) / iNaturalist",
+      "by": "Vincent Fulgieri",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/319404949"
+    },
+    {
+      "local": "images/su-mass-t.jpg",
+      "full": "images/su-mass.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553176484/large.jpg",
+      "s": "summer",
+      "cap": "A mass of golden double flowers · © Gabriela Hahn (CC-BY-NC) / iNaturalist",
+      "by": "Gabriela Hahn",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/306730958"
+    },
+    {
+      "local": "images/su-cluster-t.jpg",
+      "full": "images/su-cluster.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/276636659/large.jpeg",
+      "s": "summer",
+      "cap": "Yellow and orange pompoms in the garden · © Jorge (CC-BY-NC) / iNaturalist",
+      "by": "Jorge",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/160097979"
+    },
+    {
+      "local": "images/su-foliageflower-t.jpg",
+      "full": "images/su-foliageflower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/95080048/large.jpeg",
+      "s": "summer",
+      "cap": "Orange pompom above ferny foliage · © José Humberto Castañón González (CC-BY-NC) / iNaturalist",
+      "by": "José Humberto Castañón González",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/59503581"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/559255039/large.jpg",
+      "s": "summer",
+      "cap": "Tall, bushy plant in bloom · © Станислав (CC-BY-NC) / iNaturalist",
+      "by": "Станислав",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/309890727"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/22992752/large.jpeg",
+      "s": "summer",
+      "cap": "Pinnately divided, aromatic leaves · © Armando Mendoza Araniegues (CC-BY-NC) / iNaturalist",
+      "by": "Armando Mendoza Araniegues",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/15348277"
+    }
+  ]
+}

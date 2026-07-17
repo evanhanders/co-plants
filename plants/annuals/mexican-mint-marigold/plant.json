@@ -1,0 +1,192 @@
+{
+  "common": "Mexican mint marigold",
+  "botanical": "Tagetes lucida",
+  "type": "Forb",
+  "lifecycle": "Tender perennial",
+  "native": "Non-native",
+  "collection": "marigolds",
+  "bloom_season": "Fall",
+  "flower_color": [
+    "yellow",
+    "orange"
+  ],
+  "bloom": [
+    "summer",
+    "fall"
+  ],
+  "aka": [
+    "Texas tarragon",
+    "Spanish tarragon",
+    "Mexican tarragon",
+    "sweet mace"
+  ],
+  "blurb": "The heat-proof tarragon: smooth, un-lacy anise-scented leaves that stand in for finicky French tarragon, topped in late summer and fall by single golden daisies that feed migrating pollinators.",
+  "size": "18–30 in × 12–18 in",
+  "sun": "Full sun; tolerates light afternoon shade",
+  "water": "Low–moderate; drought-tolerant once established, but blooms fuller with occasional summer water",
+  "spread": "Clumping and upright; lift and pot it up before frost to overwinter indoors and keep the plant",
+  "seasons": "Golden-yellow single daisies late summer into fall (August–September, later as the days shorten); smooth, glossy anise-scented green foliage spring to frost; killed to the ground by the first hard frost",
+  "wildlife": "Late-season nectar for bees and butterflies — a fall forage plant that draws migrating monarchs; the pungent foliage is also said to repel some insect pests",
+  "deer": "Deer- and rabbit-resistant — the strongly aromatic foliage is generally passed over",
+  "toxic": "Safe and edible — a culinary herb; the only note is that Tagetes foliage carries phototoxic thiophenes that can cause skin redness or dermatitis in sensitive people who handle it, then go into the sun",
+  "origin": "Mexico & Guatemala",
+  "habitat": "Sunny hillsides and open woodland clearings",
+  "winter": false,
+  "verified": "2026-07-17",
+  "ph": {
+    "min": 6.0,
+    "ideal": 6.8,
+    "max": 8.0
+  },
+  "care": {
+    "hardiness": "A tender perennial hardy only to about USDA zone 8 (perennial in zones 8–11), so on the Front Range it is killed to the ground by the first hard frost and grown as a warm-season annual — or lifted and overwintered indoors. Where it can't survive the winter it simply won't come back, so treat it as a one-season herb unless you pot it up.[1][2]",
+    "planting": "A heat-lover: set out transplants (or your own overwintered pot) only after Boulder's mid-May last frost, once soil and nights have warmed. Give it a sunny, well-drained bed. It grows well in a container, which is the practical way to keep it going year to year here — plant it in a free-draining potting mix in a pot with drainage holes, and simply bring the pot indoors to a bright cool window before the first fall frost to overwinter, then set it back out after frost the next spring.[2][4]",
+    "sun": "Full sun — 6+ hours gives the sturdiest, most free-flowering, best-flavored plants. It tolerates a little afternoon shade but stretches, blooms less, and cannot grow in full shade.[1][3]",
+    "soil": "Adaptable to clay, loam, or sand; wants average, well-drained soil and tolerates a wide pH from acidic through alkaline (roughly 6.0–8.0), so Boulder's alkaline clay is fine as long as drainage is decent. Avoid soggy, poorly-drained ground, which rots the roots.[1]",
+    "water": "Low to moderate. Water regularly to establish; once rooted in it is genuinely drought-tolerant, though it grows fuller and blooms more freely with an occasional deep summer soak. Let the surface dry between waterings and avoid constantly wet soil, which invites root rot.[1][2][3]",
+    "spacing": "Space plants about 12–18 in apart so each compact clump has room to fill out; give larger plants toward the wider end of that range.[1]",
+    "propagation": "Propagate by seed, cuttings, or division. Seed is easy — it germinates in about two weeks in warmth; start it indoors 6–8 weeks before the mid-May frost or sow into warm soil after frost. You can also take soft stem cuttings from healthy non-flowering shoots in spring or early summer (they root in a few weeks in sandy mix), or divide an established clump into rooted sections — both are the reliable way to keep a plant you like going.[1][2][3]",
+    "sow": "Sow seed shallowly and keep it moist and warm; expect germination in roughly two weeks. It transplants easily as small starts.[1][2]",
+    "bloom": "A short-day plant: it holds off flowering until the days shorten in late summer, then covers itself in small golden single daisies in August–September and on into fall until frost. Deadheading spent blooms prolongs the show. This late, photoperiod-driven bloom is why it reads as a fall pollinator plant here.[1]",
+    "feeding": "Little to none. Lean soil suits it; heavy feeding produces floppy foliage and fewer, less-flavorful flowers. A single light feed at planting is plenty on poor ground.[1]",
+    "maintenance": "Pinch young plants once or twice to force bushy, compact growth, and harvest leaf sprigs through the season (regular cutting keeps it tidy and productive). The key Front-Range step is to lift the plant and pot it up — or take cuttings — before the first fall frost if you want to keep it, since frost ends it outdoors.[1][2]",
+    "troubles": "Generally trouble-free and largely pest-free thanks to its pungent foliage. The main risk here is root rot in wet or heavy, poorly-drained soil, so err toward drier. Slugs and snails can chew seedlings, and Botrytis (gray mold) shows up occasionally in cool, wet spells; good drainage, full sun, and airflow keep it clean.[1]"
+  },
+  "edible": {
+    "level": "edible",
+    "food": true,
+    "kinds": [
+      "leaves",
+      "flowers"
+    ],
+    "card": "Anise-flavored leaves (tarragon substitute) & flowers",
+    "summary": "A genuine culinary herb — the smooth green leaves are a well-known substitute for French tarragon, with a sweet anise/licorice flavor, and the golden flowers are edible too.[1][2]",
+    "parts": "The leaves are the main edible part: used fresh or dried in place of tarragon to flavor vinegars, sauces, salad dressings, egg, fish, and chicken dishes, and steeped into a mild anise tea. The single golden flowers are also edible, brightening salads as a garnish and brewed for tea. The flavor carries notes of anise with hints of mint and a touch of sweetness.[1][2][3]",
+    "preparation": "Use the leaves fresh or freeze them — drying and excess heat fade the anise flavor, so fresh or frozen keeps it best. Add leaves toward the end of cooking, and use flowers raw as a garnish or for tea. As with any herb, use plants you know are pesticide-free, and use it in ordinary culinary amounts.[2]",
+    "caution": "This is a mild culinary herb in kitchen quantities, but a few honest notes: like all Tagetes it carries phototoxic thiophene compounds in the foliage, so handling the plant (especially with broken skin, then sun exposure) can cause skin redness or dermatitis in sensitive people, and anyone allergic to Asteraceae (daisy-family) plants should avoid eating it. Use culinary amounts, not medicinal doses — it has a long history of ceremonial and medicinal use in Mexico that is distinct from casual cooking. Don't confuse it with the strongly-scented weedy stinking-roger, Tagetes minuta, which is a different species, nor with the far more bitter African/American marigold (T. erecta).[1][2][3]"
+  },
+  "references": [
+    {
+      "name": "NC State Extension Gardener Plant Toolbox — Tagetes lucida (Mexican Tarragon / Mexican Mint Marigold)",
+      "url": "https://plants.ces.ncsu.edu/plants/tagetes-lucida/"
+    },
+    {
+      "name": "UF/IFAS Gardening Solutions — Mexican Tarragon (Tagetes lucida)",
+      "url": "https://gardeningsolutions.ifas.ufl.edu/plants/edibles/vegetables/mexican-tarragon/"
+    },
+    {
+      "name": "University of Illinois Chicago Heritage Garden — Mexican Tarragon (Tagetes lucida)",
+      "url": "http://heritagegarden.uic.edu/mexican-tarragon-tagetes-lucida"
+    },
+    {
+      "name": "CSU Extension — Yard & Garden (Front Range adaptation: frost dates, alkaline clay)",
+      "url": "https://extension.colostate.edu/topic-areas/yard-garden/"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      1,
+      2
+    ],
+    "sun": [
+      1,
+      3
+    ],
+    "water": [
+      1,
+      2,
+      3
+    ],
+    "spread": [
+      1,
+      2
+    ],
+    "seasons": [
+      1,
+      2
+    ],
+    "wildlife": [
+      1,
+      3
+    ],
+    "deer": [
+      1
+    ],
+    "toxic": [
+      1,
+      2
+    ],
+    "ph": [
+      1
+    ],
+    "origin": [
+      1,
+      3
+    ],
+    "habitat": [
+      1
+    ]
+  },
+  "shots": [
+    {
+      "local": "images/fa-flower-t.jpg",
+      "full": "images/fa-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/440207208/large.jpeg",
+      "s": "fall",
+      "cap": "Flat-topped cluster of golden flowers · © Luis Roberto (CC-BY-NC) / iNaturalist",
+      "by": "Luis Roberto",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/246567113"
+    },
+    {
+      "local": "images/fa-cluster-t.jpg",
+      "full": "images/fa-cluster.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/326642333/large.jpg",
+      "s": "fall",
+      "cap": "Golden flower clusters at the stem tips · © Hugo Basurto (CC-BY-NC) / iNaturalist",
+      "by": "Hugo Basurto",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/186857557"
+    },
+    {
+      "local": "images/fa-foliageflower-t.jpg",
+      "full": "images/fa-foliageflower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/449737132/large.jpeg",
+      "s": "fall",
+      "cap": "Flowers over smooth, anise-scented lance leaves · © Biol. Oscar Bernal (CC-BY-NC) / iNaturalist",
+      "by": "Biol. Oscar Bernal",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/251357236"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/67512567/large.jpg",
+      "s": "summer",
+      "cap": "Smooth, entire leaves — unlike other marigolds’ lacy foliage · © Fred Loxsom (CC-BY-NC) / iNaturalist",
+      "by": "Fred Loxsom",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/42518480"
+    },
+    {
+      "local": "images/fa-habit-t.jpg",
+      "full": "images/fa-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/94104025/large.jpeg",
+      "s": "fall",
+      "cap": "Leafy plant flowering in fall · © Jorge Eduardo Torres Suárez (CC-BY-NC) / iNaturalist",
+      "by": "Jorge Eduardo Torres Suárez",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/58921882"
+    },
+    {
+      "local": "images/fa-mound-t.jpg",
+      "full": "images/fa-mound.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/263382985/large.jpg",
+      "s": "fall",
+      "cap": "A mound covered in golden bloom · © Alma Delia Méndez (CC-BY-NC) / iNaturalist",
+      "by": "Alma Delia Méndez",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/152567911"
+    }
+  ]
+}

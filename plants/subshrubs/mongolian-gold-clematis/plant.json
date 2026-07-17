@@ -1,0 +1,183 @@
+{
+  "common": "Mongolian Gold clematis",
+  "botanical": "Clematis fruticosa 'Mongolian Gold'",
+  "type": "Subshrub",
+  "lifecycle": "Perennial",
+  "native": "Non-native",
+  "flower_color": [
+    "yellow"
+  ],
+  "bloom": [
+    "summer",
+    "fall"
+  ],
+  "blurb": "A non-vining SHRUB clematis from the Mongolian steppe: nodding, bright-yellow lantern flowers in late summer over a tidy woody clump, then silvery feathered seed plumes. Bone-dry xeric and iron cold-hardy — and, being a true shrub, NOT the weedy vining Clematis orientalis.",
+  "size": "~2–4 ft × 2–4 ft",
+  "sun": "Full sun (tolerates part shade)",
+  "water": "Low; xeric once established — little to no supplemental water",
+  "spread": "Shrubby, upright, well-behaved clump; does not climb or twine",
+  "seasons": "Nodding yellow lantern flowers late summer (Aug–Sept); silvery feathery seed plumes fall into winter; bare woody clump in deep winter",
+  "wildlife": "Late-summer flowers draw bees and butterflies; silky seed plumes",
+  "deer": "Deer-resistant",
+  "toxic": "All parts toxic if eaten (protoanemonin); fresh sap irritates skin — wear gloves. A true shrub, NOT the noxious vining Clematis orientalis (CO List B weed)",
+  "winter": true,
+  "verified": "2026-07-17",
+  "origin": "Mongolia & northern China",
+  "habitat": "Dry continental steppe and rocky slopes",
+  "ph": {
+    "min": 6.0,
+    "ideal": 7.2,
+    "max": 8.0
+  },
+  "care": {
+    "hardiness": "Iron-hardy: Plant Delights rates it to about USDA zone 4a, MBG lists zones 5–9, and RHS gives H6 (hardy to roughly –20 °C), so Boulder's 5b–6a winters are no threat and no protection is needed — this is a steppe plant built for cold, dry continental winters.[1][2][3]",
+    "planting": "Plant a container-grown clump in spring (April–May) once the soil is workable, or in early fall, giving it a hot, open, well-drained spot; water it through the first season to establish, then back off. Unlike the large-flowered vining clematis, it does not need its roots pampered with deep planting and constant moisture — treat it like the tough xeric subshrub it is. It can be grown in a large well-drained container, but a potted crown is far less cold-hardy than one in the ground, so shelter the pot over a Front Range winter.[1][3]",
+    "sun": "Full sun gives the sturdiest habit and heaviest bloom; it tolerates part shade but flowers thin and stems flop in too much shade. Front Range high-altitude sun is exactly what this steppe plant wants.[1][3]",
+    "soil": "Lean, gritty, sharply drained soil — it adapts to clay, loam, chalk (alkaline), or sand and grows happily in Boulder's alkaline clay-loam as long as drainage is good; sharp drainage matters far more than fertility. It is a mainstay of Denver Botanic Gardens' Steppe collection, which speaks to how at home it is in dry, alkaline, well-drained ground. Avoid rich, wet, or waterlogged sites.[2][3][4]",
+    "water": "Genuinely xeric once established — this is its signature virtue and the main way it departs from ordinary clematis. Plant Select's growers note it \"never needs water once established,\" Plant Delights lists it among drought-tolerant plants (a Great Plants for the Great Plains selection), and MBG credits mature plants with drought tolerance. Water regularly only through the first season to root it in; after that it gets by on natural precipitation with, at most, an occasional deep soak in extended summer heat. It does not need the cool, moist, mulched root zone that vining clematis demand.[3][4][1]",
+    "spacing": "Space plants about 2–3 ft apart so each shrubby clump has room to fill out to its mature 2–4 ft height and 2–4 ft width; no trellis or support is needed since it does not climb.[1][3]",
+    "propagation": "Grow it from seed or from cuttings. Seed germinates best after a period of cold-moist stratification (sow fresh in fall to overwinter outdoors, or chill in the fridge before a spring sowing); as a species selection it comes reasonably true. Semi-ripe cuttings taken in summer root under humidity, though seedlings and cuttings both need a season to grow on before they establish. Division of the woody crown is not recommended — clematis resent root disturbance.[1][2]",
+    "bloom": "Nodding, bell- or lantern-shaped bright golden-yellow flowers open from roughly August into September (RHS notes July–September in the UK), borne on the current season's growth. Spent flowers ripen into silky, feathered silver seed plumes that persist and add texture well into fall and winter.[1][2][3]",
+    "pruning": "Prune it as a Pruning Group 3 clematis: because it blooms on the current season's new growth, cut the whole plant back hard — to about 8–12 in from the ground, to a strong pair of leaf buds — in late winter to early spring (February–March on the Front Range), as the lowest buds begin to swell. This looks drastic but sacrifices no bloom whatsoever; the plant regrows and flowers the same summer from the base, and the hard cutback keeps it dense rather than a woody tangle. (RHS lists it as Group 1, but its late bloom on new wood and MBG's own \"cut back hard to 8–12 in\" guidance are pure Group 3 — follow the hard-prune method here.)[1][2]",
+    "feeding": "Undemanding — it performs well in lean soil, but an adequate supply of nutrients through the growing season supports the long bloom; a light spring top-dressing of compost is plenty. Skip heavy nitrogen, which pushes soft growth at the expense of flowers.[1]",
+    "maintenance": "Very low-care. The one real task is the annual hard spring cutback (see 'pruning'); no tying, no trellis, no fussing over the root zone. Leave the silvery seed plumes standing for fall and winter interest rather than deadheading. Wear gloves whenever you cut it — the fresh sap is a skin irritant.[1][2]",
+    "troubles": "Generally trouble-free, especially in Colorado's dry air. Like other clematis it can theoretically get clematis wilt, powdery mildew, leaf spots, or rust, and aphids or spider mites may visit, but a xeric, well-sited plant in dry climate rarely suffers any of these seriously.[1]"
+  },
+  "edible": {
+    "level": "toxic",
+    "summary": "Poisonous — like all Clematis, every part is toxic if eaten and the sap irritates skin. No part is edible.[2][6]",
+    "caution": "Clematis tissue contains protoanemonin, an acrid irritant released when leaves or stems are bruised or chewed. Eating any part can cause intense burning of the mouth, mouth ulcers, drooling, vomiting, and diarrhea; the bitter, burning taste usually stops anyone from eating enough to be badly poisoned, but treat the whole plant as not for consumption. The same compound makes the fresh sap a skin and mucous-membrane irritant, so wear gloves when pruning — the RHS flags it as a skin irritant and as harmful to rabbits if eaten. It is toxic to dogs, cats, and horses as well as people; keep children and pets from chewing it. Drying largely destroys protoanemonin, but never rely on that.[2][6][7]"
+  },
+  "references": [
+    {
+      "name": "Missouri Botanical Garden Plant Finder — Clematis fruticosa 'Mongolian Gold'",
+      "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=258909&isprofile=0&pt=4"
+    },
+    {
+      "name": "Royal Horticultural Society — Clematis fruticosa 'Mongolian Gold'",
+      "url": "https://www.rhs.org.uk/plants/269520/clematis-fruticosa-mongolian-gold/details"
+    },
+    {
+      "name": "Plant Delights Nursery — Clematis fruticosa 'Mongolian Gold' (Mongolian Gold bush clematis)",
+      "url": "https://www.plantdelights.com/products/clematis-fruticosa-mongolian-gold"
+    },
+    {
+      "name": "Plant Select — Beautiful Bells for the Border (Plant Select growers on the Mongolian Gold bush clematis)",
+      "url": "https://plantselect.org/plantstories/beautiful-bells-for-the-border-clematis/"
+    },
+    {
+      "name": "Wikipedia — Clematis orientalis (Chinese/oriental clematis), a Colorado List B noxious weed; the vining species distinct from shrubby C. fruticosa",
+      "url": "https://en.wikipedia.org/wiki/Clematis_orientalis"
+    },
+    {
+      "name": "NC State Extension Plant Toolbox — Clematis (toxicity: protoanemonin, leaves & sap, dermatitis)",
+      "url": "https://plants.ces.ncsu.edu/plants/clematis/"
+    },
+    {
+      "name": "ASPCA Animal Poison Control — Clematis (toxic to dogs, cats, horses; irritant glycoside protoanemonin)",
+      "url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/clematis"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      1,
+      2,
+      3
+    ],
+    "sun": [
+      1,
+      3
+    ],
+    "water": [
+      3,
+      4,
+      1
+    ],
+    "spread": [
+      1,
+      2,
+      3
+    ],
+    "seasons": [
+      1,
+      2,
+      3
+    ],
+    "wildlife": [
+      3
+    ],
+    "deer": [
+      1
+    ],
+    "toxic": [
+      2,
+      5,
+      6,
+      7
+    ],
+    "ph": [
+      2,
+      3
+    ],
+    "origin": [
+      1,
+      3
+    ],
+    "habitat": [
+      4
+    ]
+  },
+  "shots": [
+    {
+      "local": "images/su-flower-t.jpg",
+      "full": "images/su-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555155345/large.jpg",
+      "s": "summer",
+      "cap": "Open yellow flower with pointed tepals · © kevin_cheng (CC-BY-NC) / iNaturalist",
+      "by": "kevin_cheng",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/307766212"
+    },
+    {
+      "local": "images/su-nodding-t.jpg",
+      "full": "images/su-nodding.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/77031463/large.jpeg",
+      "s": "summer",
+      "cap": "Nodding yellow lantern flowers · © vandandorj (CC-BY-NC) / iNaturalist",
+      "by": "vandandorj",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/48544897"
+    },
+    {
+      "local": "images/su-branches-t.jpg",
+      "full": "images/su-branches.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/407471753/large.jpg",
+      "s": "summer",
+      "cap": "Woody, flowering branches — a shrub, not a vine · © Wang.QG (CC-BY) / iNaturalist",
+      "by": "Wang.QG",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/220826943"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/366502427/large.jpg",
+      "s": "summer",
+      "cap": "Sprawling, shrubby (non-climbing) habit · © jngdcs (CC-BY-NC) / iNaturalist",
+      "by": "jngdcs",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/207214807"
+    },
+    {
+      "local": "images/fa-seedplume-t.jpg",
+      "full": "images/fa-seedplume.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/77163426/large.jpeg",
+      "s": "fall",
+      "cap": "Silvery, feathery seed plumes · © vandandorj (CC-BY-NC) / iNaturalist",
+      "by": "vandandorj",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/48623739"
+    }
+  ],
+  "gaps": "Reel shows the species Clematis fruticosa (open-licensed iNat photos from its native Mongolia/N-China range), representative of the 'Mongolian Gold' selection; no CC cultivar-specific photos exist and CC images of the species are scarce (capped at 5 shots)."
+}

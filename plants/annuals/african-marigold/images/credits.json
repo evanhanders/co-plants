@@ -1,0 +1,104 @@
+[
+  {
+    "file": "images/su-flower.jpg",
+    "photo_id": 577368148,
+    "by": "Vincent Fulgieri",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/319404949",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      787,
+      1400
+    ],
+    "thumb_px": [
+      225,
+      400
+    ]
+  },
+  {
+    "file": "images/su-mass.jpg",
+    "photo_id": 553176484,
+    "by": "Gabriela Hahn",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/306730958",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  },
+  {
+    "file": "images/su-cluster.jpg",
+    "photo_id": 276636659,
+    "by": "Jorge",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/160097979",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      631,
+      1400
+    ],
+    "thumb_px": [
+      180,
+      400
+    ]
+  },
+  {
+    "file": "images/su-foliageflower.jpg",
+    "photo_id": 95080048,
+    "by": "José Humberto Castañón González",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/59503581",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      1050
+    ],
+    "thumb_px": [
+      400,
+      300
+    ]
+  },
+  {
+    "file": "images/su-habit.jpg",
+    "photo_id": 559255039,
+    "by": "Станислав",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/309890727",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      960,
+      1280
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  },
+  {
+    "file": "images/su-foliage.jpg",
+    "photo_id": 22992752,
+    "by": "Armando Mendoza Araniegues",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/15348277",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      1050
+    ],
+    "thumb_px": [
+      400,
+      300
+    ]
+  }
+]

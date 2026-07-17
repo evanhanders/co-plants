@@ -180,6 +180,12 @@
       "group": "Subshrubs",
       "lead": "oregano-kent-beauty",
       "blurb": "Origanum — ornamental oreganos grown for their rosy flowers and cascading hop-like bracts (not the culinary herb)."
+    },
+    "marigolds": {
+      "name": "Marigolds",
+      "group": "Summer forbs",
+      "lead": "marigold",
+      "blurb": "Tagetes — cheerful, aromatic, deer-resistant marigolds, from tiny citrus-edible signets to big African pompoms and the tarragon-scented Mexican mint marigold."
     }
   }
 }

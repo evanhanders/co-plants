@@ -131,6 +131,20 @@ to add/update a plant's `ph` field; `src` must reference numbers that already ex
 python3 tools/set_ph.py ph_map.json               # apply pH to the listed plants
 ```
 
+**Grid data bundle (`tools/build_bundle.py`).** Procedurally concatenates every per-plant `plant.json`
+(the source of truth) named in `manifest.json`, plus `collections.json`, into a single
+**`plants/bundle.json`** that the grid + Favourites page load in **one request** (instead of 250+
+individual fetches — the fix for slow first paint as the roster grew). It strips the detail-page-only
+fields the grid never reads (`care`, `references`, `fact_src`, `care_src`) so the bundle stays lean
+(~1.2 MB / ~280 KB gzipped), and stamps each record's `dir`. **Run it after ANY `plant.json` /
+`manifest.json` / `collections.json` edit and commit the refreshed `bundle.json` in the same commit**
+(the pages fall back to per-file loading if it's absent, but a *stale* bundle shows stale data). No deps.
+
+```
+python3 tools/build_bundle.py            # (re)write plants/bundle.json
+python3 tools/build_bundle.py --check    # guard: nonzero exit if bundle.json is stale vs the plant files
+```
+
 ## Architecture
 
 The site is a few plain files plus a tree of per-plant data:
@@ -153,8 +167,9 @@ plant.js                # detail-page behaviour (fetch one plant, render the "sh
 plants/
   manifest.json         # { "plants": ["trees/chokecherry", ...] } — the list to load
   collections.json      # { "collections": { "<id>": {name, group, lead, blurb} } } — family-card metadata
+  bundle.json           # GENERATED (tools/build_bundle.py) — all plant records in one file for a single-request grid load; NOT hand-edited
   <category>/<slug>/
-    plant.json          # one plant's full record (card fields + photo "shots" + optional care)
+    plant.json          # one plant's full record (card fields + photo "shots" + optional care) — the SOURCE OF TRUTH
     images/             # repo-hosted photos: <shot>.jpg full + <shot>-t.jpg thumb + credits.json
 ```
 
@@ -166,10 +181,19 @@ lightbox + `wireLightbox(root)` delegation) plus the `TRAITS` map, `flagsHTML`, 
 repo root like `index.html`, so all root-relative paths (`plants/…`, `styles.css`,
 `reel.js`) resolve identically — no path-base juggling.
 
-**Load flow (in `app.js`):** on startup `loadSeed()` fetches `plants/manifest.json`,
-then fetches every listed `plant.json` in parallel and assigns them to the in-memory
-`SEED` array (stamping each with `dir = "plants/<category>/<slug>"` so its local
-images resolve), then `render()`. `SEED` order doesn't matter — the app sorts by botanical name and groups by
+**Load flow (in `app.js`):** on startup `loadSeed()` fetches **`plants/bundle.json`** — a single
+generated file holding every plant's record plus the `collections` map — and assigns the records to
+the in-memory `SEED` array (each already carries its `dir = "plants/<category>/<slug>"` so local
+images resolve), then `render()`. This is **one request instead of 250+** (the grid used to fetch
+every `plant.json` individually and block first paint on `Promise.all` of all of them — which got
+slow as the roster grew). If `bundle.json` is missing/unreadable, `loadSeed` **falls back** to the
+old per-file path (`loadSeedFiles()`: manifest → one fetch per plant). `favorites.js` loads the same
+way. **The per-plant `plant.json` files remain the source of truth**; `bundle.json` is *derived* from
+them by `tools/build_bundle.py` (see below) and carries only the fields the grid reads — the heavy
+detail-page-only fields (`care`, `references`, `fact_src`) are stripped, so the bundle stays small
+(~280 KB gzipped). The **detail page** (`plant.js`) still fetches the individual `plant.json` for its
+full record (care prose + bibliography), so it's unaffected by the stripping.
+`SEED` order doesn't matter — the app sorts by botanical name and groups by
 **morphology** via `groupOf(p)` (growth form; forbs split by `bloom_season`). The on-disk
 `plants/<category>/` folder is just a storage path (and the `dir` for image resolution) — it
 is **NOT** the grouping. A file can live in `plants/perennials/` yet be a `Groundcover` or
@@ -1608,7 +1632,13 @@ The current backlog. Move items out of this section as they ship.
 - A new plant = one `plant.json` + one `manifest.json` line (not a big array edit).
 - After any `finalize.py`/`commons_finalize.py`, run `rethumb.py` so the card thumbs are
   720×480 smart-crops, not the provisional 400px ones.
-- Vanilla HTML/CSS/JS, no build, no deps — keep it that way unless the user asks otherwise.
+- **After ANY change to a `plant.json`, `manifest.json`, or `collections.json`, regenerate the grid
+  bundle: `python3 tools/build_bundle.py`, and commit the refreshed `plants/bundle.json` in the same
+  commit.** The grid loads that one file (with a per-file fallback), so a stale bundle would show
+  stale data on the live grid. Guard with `python3 tools/build_bundle.py --check` (nonzero = stale).
+  The per-plant `plant.json` stays the source of truth; never hand-edit `bundle.json`.
+- Vanilla HTML/CSS/JS, no framework/webpack build, no deps — keep it that way. (`build_bundle.py` is a
+  simple committed-data generator like `manifest.json`, not a build toolchain — it stays.)
 - Preview locally over `http.server` (fetch won't work from `file://`).
 - **Ship by merging to `main`.** Finished, validated, pushed work gets a PR squash-merged into
   `main` (Pages deploys from `main`) — that's the default last step, not an optional one. Don't

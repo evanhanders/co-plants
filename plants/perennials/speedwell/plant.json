@@ -1,6 +1,9 @@
 {
   "common": "Spike speedwell",
   "botanical": "Veronica spicata",
+  "aka": [
+    "'Purpleicious' speedwell"
+  ],
   "type": "Forb",
   "lifecycle": "Perennial",
   "native": "Non-native",

@@ -17,7 +17,7 @@
       "name": "Plums",
       "group": "Trees",
       "lead": "toka-plum",
-      "blurb": "Hardy European & hybrid plums (Prunus) for our climate."
+      "blurb": "Hardy European, hybrid & native plums (Prunus) for our climate."
     },
     "tart-cherries": {
       "name": "Tart cherries",
@@ -186,6 +186,30 @@
       "group": "Summer forbs",
       "lead": "marigold",
       "blurb": "Tagetes — cheerful, aromatic, deer-resistant marigolds, from tiny citrus-edible signets to big African pompoms and the tarragon-scented Mexican mint marigold."
+    },
+    "bugleweeds": {
+      "name": "Bugleweeds",
+      "group": "Groundcovers",
+      "lead": "ajuga-black-scallop",
+      "blurb": "Ajuga reptans — dark-leaved carpeting groundcovers with blue spring flower spikes for shade."
+    },
+    "pasqueflowers": {
+      "name": "Pasqueflowers",
+      "group": "Spring forbs",
+      "lead": "pasque-flower",
+      "blurb": "Pulsatilla — furry-budded earliest-spring bells over ferny foliage, then feathery seedheads."
+    },
+    "coral-bells": {
+      "name": "Coral bells",
+      "group": "Spring forbs",
+      "lead": "coral-bells",
+      "blurb": "Heuchera — mounded semi-evergreen foliage under airy flower wands for dry shade."
+    },
+    "elderberries": {
+      "name": "Elderberries",
+      "group": "Shrubs",
+      "lead": "elderberry-mikls",
+      "blurb": "Ornamental cut-leaf Sambucus nigra — dark lacy foliage, flat flower heads, edible cooked flowers & fruit."
     }
   }
 }

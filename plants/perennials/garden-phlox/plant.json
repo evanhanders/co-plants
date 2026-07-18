@@ -1,6 +1,9 @@
 {
   "common": "Garden phlox",
   "botanical": "Phlox paniculata",
+  "aka": [
+    "'Starfire' phlox"
+  ],
   "type": "Forb",
   "lifecycle": "Perennial",
   "native": "Non-native",

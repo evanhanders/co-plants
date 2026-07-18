@@ -26,6 +26,15 @@ A plant field guide for the Colorado Front Range (Boulder area). Vanilla HTML/CS
 **no build step, no dependencies, no frameworks.** Served via GitHub Pages. Plant
 content lives in per-plant data files that the page fetches at runtime.
 
+**Fonts are self-hosted (`fonts/`), NOT loaded from Google Fonts — don't re-add the CDN `<link>`.**
+The page used to pull Fraunces via a render-blocking `<link rel="stylesheet">` to
+`fonts.googleapis.com`; **Brave (and other privacy browsers) block that CDN by default**, so the
+render-blocking request stalled first paint by **~10+ seconds on Brave**. Fixed by self-hosting the
+Fraunces `.woff2` subsets in `fonts/`, declaring them via `@font-face{…font-display:swap}` at the top
+of `styles.css` (same-origin → not blocked; `swap` → paints immediately in the `Georgia,serif`
+fallback, then swaps in). First paint dropped from ~13 s to ~0.2 s even with the Google CDN blocked.
+The CSS keeps `'Fraunces',Georgia,serif` fallbacks throughout, so a missing font never breaks layout.
+
 The **optional accounts layer** (sign in + favourite plants) is the one exception to "no
 dependencies": it lazy-imports the Supabase JS client from a CDN **only when configured**, so
 the core guide stays dependency-free and works untouched without it. See "Accounts & favourites
@@ -155,7 +164,8 @@ plant.html              # standalone per-plant detail page shell; links the same
 privacy.html            # standalone privacy page (what accounts collect + a "delete my data" button)
 signin.html / signin.js # standalone Sign-in page (magic-link form via window.Account.signIn)
 favorites.html / favorites.js # standalone Favourites page (renders the user's saved plants as cards)
-styles.css              # all styling (grid + detail page + accounts: drawer, hearts, auth pages)
+styles.css              # all styling (grid + detail page + accounts) + the self-hosted Fraunces @font-face rules
+fonts/                  # self-hosted Fraunces .woff2 subsets (latin + latin-ext, weights 400/600 + italic)
 reel.js                 # SHARED engine: shot resolution, the seasonal reel, the zoom/swipe lightbox,
                         #   the TRAITS predicates/badges, AND the shared cardHTML renderer. Loaded first everywhere.
 config.js               # the TWO Supabase values (URL + publishable key); holds the live values (placeholders = off)

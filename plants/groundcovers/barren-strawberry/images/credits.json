@@ -1,0 +1,121 @@
+[
+  {
+    "file": "images/sp-flower.jpg",
+    "photo_id": 35455825,
+    "by": "no rights reserved",
+    "license": "CC0",
+    "source": "https://www.inaturalist.org/observations/22873828",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  },
+  {
+    "file": "images/sp-bloom.jpg",
+    "photo_id": 125534849,
+    "by": "Lisa Brundage",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/76764363",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  },
+  {
+    "file": "images/sp-face.jpg",
+    "photo_id": 278391225,
+    "by": "rob1954",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/160282546",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  },
+  {
+    "file": "images/su-foliage.jpg",
+    "photo_id": 388225652,
+    "by": "helenvorster",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/219340749",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  },
+  {
+    "file": "images/su-evergreenmat.jpg",
+    "photo_id": 426815679,
+    "by": "guywallbanks",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/observations/239628472",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1054,
+      1400
+    ],
+    "thumb_px": [
+      301,
+      400
+    ]
+  },
+  {
+    "file": "images/su-context.jpg",
+    "photo_id": 421408834,
+    "by": "Alla Verkhozina",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/236838771",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      787,
+      1400
+    ],
+    "thumb_px": [
+      225,
+      400
+    ]
+  },
+  {
+    "file": "images/sp-habit.jpg",
+    "photo_id": 100876881,
+    "by": "suzandhertribe",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/62908780",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  }
+]

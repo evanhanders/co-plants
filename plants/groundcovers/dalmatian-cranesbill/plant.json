@@ -1,0 +1,175 @@
+{
+  "collection": "hardy-geraniums",
+  "common": "Dalmatian cranesbill",
+  "botanical": "Geranium dalmaticum",
+  "type": "Groundcover",
+  "lifecycle": "Perennial",
+  "native": "Non-native",
+  "origin": "Dalmatian coast of the Balkans (Pelješac peninsula, Croatia and Montenegro)",
+  "habitat": "Rocky limestone screes and crevices of the coastal Dalmatian mountains",
+  "blurb": "A choice, diminutive rock-garden cranesbill: a low mat of glossy scalloped leaves that erupts in clear-pink flowers in late spring, then blazes red-orange in fall. A waterwise Plant Select groundcover for sharp-drained, sunny spots — hardy to over 8,000 ft.",
+  "size": "4–6 in tall × 12–18 in wide, slowly spreading",
+  "sun": "Full sun to light shade",
+  "water": "Low; waterwise/xeric once established",
+  "spread": "Creeps slowly by short rhizomes into a low glossy mat; well-behaved, never aggressive",
+  "seasons": "Low glossy, aromatic mat; clear-pink flowers in late spring to early summer; foliage turns brilliant red-orange in fall and holds color into winter",
+  "wildlife": "Bees and butterflies work the spring flowers; the aromatic foliage is deer-resistant",
+  "deer": "Resistant — the aromatic foliage is left alone by deer",
+  "toxic": "Non-toxic; grown as an ornamental groundcover, not a food",
+  "flower_color": [
+    "pink"
+  ],
+  "bloom": [
+    "spring",
+    "summer"
+  ],
+  "winter": true,
+  "verified": "2026-07-18",
+  "ph": {
+    "min": 6.0,
+    "ideal": 6.8,
+    "max": 7.5
+  },
+  "care": {
+    "hardiness": "Hardy roughly USDA zones 5–7 and proven in Colorado gardens to over 8,150 ft, so it is fully at home across Boulder and the Front Range (zones 5b–6a) and well up into the foothills. A waterwise Plant Select choice for our semi-arid, high-altitude climate.[1][2]",
+    "planting": "Plant nursery transplants in spring after the mid-May last frost or in early fall on a sharply drained site — a rock garden, wall top, gravel bed or the front of a border. In containers give it very gritty, free-draining mix and shelter the pot over winter, since the exposed roots are far less cold-hardy than in the ground.[1][2]",
+    "sun": "Full sun to light shade; it flowers most freely and colors up best in full Front Range sun, and makes a fine finishing groundcover in the light shade beneath shrubs.[1][2]",
+    "soil": "Wants free-draining loam, sand or gritty soil and tolerates lean, alkaline conditions; the one thing it will not take is waterlogged ground. Sharp drainage is the key to longevity here.[1][2]",
+    "water": "Low — a genuine waterwise workhorse that gets by on moderate-to-dry conditions once established, needing little supplemental water beyond occasional deep soaks in extended summer drought.[1][2]",
+    "spacing": "Space transplants 10–14 in apart; the low mat knits together slowly and neatly, ideal for edging a path or tucking into a rock garden.[1][2]",
+    "propagation": "Increase by division in spring, or by basal cuttings taken in early-to-mid spring and rooted with a little bottom heat. It can also be grown from seed, but division keeps a chosen plant true and is faster.[2]",
+    "bloom": "Clear-pink, five-petaled flowers about 1 in wide open in late spring into early summer — roughly May–June on the Front Range — held just above the scalloped foliage.[1][2]",
+    "feeding": "None needed. Lean soil keeps the mat compact and free-flowering; skip fertilizer.[1]",
+    "maintenance": "Nearly maintenance-free. Shear lightly after bloom to tidy the mat if you like; the fall red-orange foliage is a feature, so leave it. Its slow spread rarely needs curbing.[1][2]",
+    "troubles": "Essentially pest- and disease-free. The aromatic foliage is deer-resistant. The only real failure mode is crown or root rot in heavy, wet clay — plant it high and sharp-drained and it thrives.[1][2]",
+    "companions": "A natural in the rock garden and along walls with other xeric alpines and dwarf bulbs; pairs well with dianthus, sedums, and creeping veronicas over gritty ground.[1]"
+  },
+  "edible": {
+    "level": "inedible",
+    "summary": "Dalmatian cranesbill is grown as an ornamental rock-garden groundcover, not as a food — don't eat it.[1][2]",
+    "caution": "Geranium dalmaticum is grown for its glossy aromatic foliage, fall color and pink flowers, not for eating, and no authoritative source documents an edible use for the plant. It is not listed as notably poisonous, so treat it as inedible: not a known poison, but not a tested food.[1][2]"
+  },
+  "references": [
+    {
+      "name": "Plant Select — Geranium dalmaticum (Dalmatian cranesbill)",
+      "url": "https://plantselect.org/plant/geranium-dalmaticum/"
+    },
+    {
+      "name": "Royal Horticultural Society — Geranium dalmaticum (Dalmatian cranesbill)",
+      "url": "https://www.rhs.org.uk/plants/7871/geranium-dalmaticum/details"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      1,
+      2
+    ],
+    "sun": [
+      1,
+      2
+    ],
+    "water": [
+      1
+    ],
+    "spread": [
+      1,
+      2
+    ],
+    "seasons": [
+      1
+    ],
+    "wildlife": [
+      1,
+      2
+    ],
+    "deer": [
+      1
+    ],
+    "toxic": [
+      1,
+      2
+    ],
+    "origin": [
+      1,
+      2
+    ],
+    "habitat": [
+      2
+    ],
+    "ph": [
+      2
+    ]
+  },
+  "shots": [
+    {
+      "local": "images/sp-flower-t.jpg",
+      "full": "images/sp-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/393977141/large.jpg",
+      "s": "spring",
+      "cap": "Late spring — clear-pink flowers over the glossy mat · © mamavomsandro (CC-BY-NC) / iNaturalist",
+      "by": "mamavomsandro",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/222410289"
+    },
+    {
+      "local": "images/sp-face-t.jpg",
+      "full": "images/sp-face.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/25291586/large.jpeg",
+      "s": "spring",
+      "cap": "Late spring — flowers face-on over scalloped leaves · © Kelsey (CC-BY-NC) / iNaturalist",
+      "by": "Kelsey",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/16758331"
+    },
+    {
+      "local": "images/sp-bloom-t.jpg",
+      "full": "images/sp-bloom.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/525808058/large.jpg",
+      "s": "spring",
+      "cap": "Late spring — a sheet of pink spilling over a wall · © kylotan (CC-BY-NC) / iNaturalist",
+      "by": "kylotan",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/292200567"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/82411250/large.jpeg",
+      "s": "summer",
+      "cap": "The glossy, scalloped aromatic foliage with a flower · © lemhegwood (CC-BY-NC) / iNaturalist",
+      "by": "lemhegwood",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/51856747"
+    },
+    {
+      "local": "images/sp-habit-t.jpg",
+      "full": "images/sp-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/674548680/large.jpg",
+      "s": "spring",
+      "cap": "A low mat in bloom in the garden · © Whitney Santora (CC-BY-NC) / iNaturalist",
+      "by": "Whitney Santora",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/369288640"
+    },
+    {
+      "local": "images/su-context-t.jpg",
+      "full": "images/su-context.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/678578239/large.jpg",
+      "s": "summer",
+      "cap": "Tucked into a sandstone crevice — a natural rock-garden plant · © Holly Hodges (CC-BY) / iNaturalist",
+      "by": "Holly Hodges",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/371404063"
+    },
+    {
+      "local": "images/fa-fall-t.jpg",
+      "full": "images/fa-fall.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/69470033/large.jpg",
+      "s": "fall",
+      "cap": "Fall — the foliage turning red-orange · © gsmi (CC-BY-NC) / iNaturalist",
+      "by": "gsmi",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/43803886"
+    }
+  ]
+}

@@ -1,0 +1,181 @@
+{
+  "collection": "hardy-geraniums",
+  "common": "Karmina cranesbill",
+  "botanical": "Geranium × cantabrigiense 'Karmina'",
+  "type": "Groundcover",
+  "lifecycle": "Perennial",
+  "native": "Non-native",
+  "aka": [
+    "Cambridge cranesbill"
+  ],
+  "origin": "Garden hybrid (G. dalmaticum × G. macrorrhizum); parent species from the Balkans and southern Europe",
+  "habitat": "Rocky limestone slopes and open woodland edges of southern Europe (parent species' range)",
+  "blurb": "The deep-pink sister of 'Biokovo': a fast, weed-proof groundcover cranesbill that carpets the ground in glossy, scented evergreen leaves and lights up with masses of carmine-pink flowers in late spring. The foliage reddens richly through fall and winter.",
+  "size": "6–10 in tall × 18–24 in wide, spreading",
+  "sun": "Full sun to part shade (takes full shade)",
+  "water": "Low; drought-tolerant once established, spreads best with occasional summer water",
+  "spread": "Spreads steadily by rhizomes into a dense, weed-smothering mat; a sterile hybrid, so it never self-sows",
+  "seasons": "Glossy, aromatic evergreen-to-semi-evergreen leaves that redden richly through fall and winter; masses of carmine-pink flowers in late spring",
+  "wildlife": "Bees and other pollinators work the spring flowers; the aromatic foliage is deer- and rabbit-resistant",
+  "deer": "Resistant — the aromatic foliage is left alone by deer and rabbits",
+  "toxic": "Non-toxic; grown as an ornamental groundcover, not a food",
+  "flower_color": [
+    "pink",
+    "red"
+  ],
+  "bloom": [
+    "spring"
+  ],
+  "winter": true,
+  "verified": "2026-07-18",
+  "ph": {
+    "min": 6.0,
+    "ideal": 7.0,
+    "max": 7.8
+  },
+  "care": {
+    "hardiness": "Hardy to USDA zone 4 — thoroughly reliable across Boulder and the Front Range (zones 5b–6a) and up into the foothills. The aromatic, glossy foliage is evergreen to semi-evergreen, persisting through winter and reddening in fall and winter cold.[1][2]",
+    "planting": "Plant from nursery transplants in spring (Apr–May) or early fall (Sep) so roots settle before summer heat or winter. It establishes easily and knits quickly into a solid mat. In containers the foliage is handsome but the exposed roots are far less cold-hardy — sink the pot or shelter it in an unheated garage over winter, and never let it sit waterlogged.[1][2]",
+    "sun": "Grows in full sun through full shade; the densest mat and heaviest carmine bloom come in full sun to part shade. In our high-altitude sun a hot, dry site is fine with a little more moisture, and it is one of the better cranesbills for part shade under shrubs.[1][2]",
+    "soil": "Easily grown in average, moderately fertile, well-drained soil; tolerant of chalk, the lean alkaline clay common around Boulder, loam and sand alike. Sharp drainage matters more than fertility — avoid waterlogged ground.[1][2]",
+    "water": "Low. Drought-tolerant once established and content on Boulder's natural precipitation with occasional deep summer soaks; it fills in fastest in moist, humusy soil but does not require it. Water new plantings through the first season.[1][2]",
+    "spacing": "Space transplants 12–18 in apart; they knit together quickly into a solid weed-smothering carpet. Plant at the wider end if you want them to fill in slowly.[1][2]",
+    "propagation": "Because 'Karmina' is a sterile hybrid it sets no viable seed, so propagate only vegetatively — lift and divide clumps or detach rooted rhizome pieces in early autumn to spring, or cut plants back after flowering and divide then; replant immediately and water in.[1][2]",
+    "bloom": "Masses of five-petaled, carmine-pink flowers (about 3/4 in wide) open in late spring — roughly May on the Front Range — over the glossy foliage, deeper and rosier than the near-white 'Biokovo'.[1][2]",
+    "feeding": "None needed. Lean soil keeps the mat dense and well-behaved; skip fertilizer.[2]",
+    "maintenance": "Nearly maintenance-free. Shear the mat lightly after bloom to tidy it and refresh the foliage if you like. The rhizomes spread steadily but are easy to pull back where they overstep — lift the unwanted runners by hand.[1][2]",
+    "troubles": "Essentially pest- and disease-free. The aromatic foliage makes it strongly deer- and rabbit-resistant. The only real failure mode is crown rot in soggy, poorly drained ground — give it drainage and it is bulletproof.[1][2]",
+    "companions": "Pairs with other tough groundcovers and woodland-edge plants — hellebores, hostas, lungwort and ferns — and with spring bulbs, filling bare ground beneath shrubs where it crowds out weeds.[2]"
+  },
+  "edible": {
+    "level": "inedible",
+    "summary": "Karmina cranesbill is grown as an ornamental groundcover, not as a food — don't eat it.[1][2]",
+    "caution": "Geranium × cantabrigiense is grown for its aromatic foliage and weed-smothering habit, not for eating, and no authoritative source documents an edible use for the plant. It is not listed as notably poisonous by the Royal Horticultural Society or the Missouri Botanical Garden, so treat it as inedible: not a known poison, but not a tested food.[1][2]"
+  },
+  "references": [
+    {
+      "name": "Royal Horticultural Society — Geranium × cantabrigiense 'Karmina' (cranesbill)",
+      "url": "https://www.rhs.org.uk/plants/70260/geranium-x-cantabrigiense-karmina/details"
+    },
+    {
+      "name": "Missouri Botanical Garden Plant Finder — Geranium × cantabrigiense 'Karmina'",
+      "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=245613"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      1,
+      2
+    ],
+    "sun": [
+      1,
+      2
+    ],
+    "water": [
+      1,
+      2
+    ],
+    "spread": [
+      1,
+      2
+    ],
+    "seasons": [
+      1,
+      2
+    ],
+    "wildlife": [
+      1,
+      2
+    ],
+    "deer": [
+      2
+    ],
+    "toxic": [
+      1,
+      2
+    ],
+    "origin": [
+      1,
+      2
+    ],
+    "habitat": [
+      1
+    ],
+    "ph": [
+      1,
+      2
+    ]
+  },
+  "shots": [
+    {
+      "local": "images/sp-flower-t.jpg",
+      "full": "images/sp-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/74383226/large.jpg",
+      "s": "spring",
+      "cap": "Late spring — deep carmine-pink flowers with dark stamens · © cderenne (CC-BY-NC) / iNaturalist",
+      "by": "cderenne",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/46902553"
+    },
+    {
+      "local": "images/sp-bud-t.jpg",
+      "full": "images/sp-bud.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/507913109/large.jpg",
+      "s": "spring",
+      "cap": "Late spring — carmine flowers and buds over the foliage · © bunsen1 (CC-BY-NC) / iNaturalist",
+      "by": "bunsen1",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/282697316"
+    },
+    {
+      "local": "images/sp-bloom-t.jpg",
+      "full": "images/sp-bloom.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/278433488/large.jpg",
+      "s": "spring",
+      "cap": "Late spring — the mat coming into bloom · © kaelala2112 (CC-BY-NC) / iNaturalist",
+      "by": "kaelala2112",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/160939970"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/583038311/large.jpg",
+      "s": "summer",
+      "cap": "Summer — the glossy, aromatic lobed foliage · © casto1 (CC-BY-NC) / iNaturalist",
+      "by": "casto1",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/322309020"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/348804689/large.jpeg",
+      "s": "summer",
+      "cap": "A dense, weed-smothering groundcover mat · © Вадим Рыбаков (CC-BY-NC) / iNaturalist",
+      "by": "Вадим Рыбаков",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/197963070"
+    },
+    {
+      "local": "images/su-context-t.jpg",
+      "full": "images/su-context.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/397859198/large.jpeg",
+      "s": "summer",
+      "cap": "Spreading as a groundcover over open ground · © Вадим Рыбаков (CC-BY-NC) / iNaturalist",
+      "by": "Вадим Рыбаков",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/224478942"
+    },
+    {
+      "local": "images/fa-fall-t.jpg",
+      "full": "images/fa-fall.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/237754806/large.jpeg",
+      "s": "fall",
+      "cap": "Fall — the semi-evergreen foliage reddening · © lesinski12 (CC-BY-NC) / iNaturalist",
+      "by": "lesinski12",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/139050735"
+    }
+  ]
+}

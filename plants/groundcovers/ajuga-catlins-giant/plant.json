@@ -1,0 +1,179 @@
+{
+  "collection": "bugleweeds",
+  "common": "Bugleweed 'Catlin's Giant'",
+  "botanical": "Ajuga reptans 'Catlin's Giant'",
+  "type": "Groundcover",
+  "lifecycle": "Perennial",
+  "native": "Non-native",
+  "flower_color": [
+    "blue",
+    "purple"
+  ],
+  "bloom": [
+    "spring"
+  ],
+  "blurb": "The biggest bugle: large bronze-tinged leaves and unusually tall, deep-blue flower spikes to 8 inches — a bold, oversized take on the classic groundcover.",
+  "size": "~6–8 in tall (spikes to 8 in) × 18–24 in spreading",
+  "sun": "Full sun to full shade (best color in part shade)",
+  "water": "Moderate; regular water, not xeric — but needs sharp drainage",
+  "spread": "Creeps by stolons into a dense mat; can invade lawn — contain it",
+  "seasons": "Large bronze-green leaves (semi-evergreen); tall deep-blue flower spikes to ~8 in in May–June",
+  "wildlife": "Blue spring flowers feed bumblebees and other early bees",
+  "deer": "Deer- and rabbit-resistant",
+  "toxic": "No significant toxicity reported",
+  "winter": false,
+  "verified": "2026-07-18",
+  "origin": "Europe, W Asia & N Africa",
+  "habitat": "Damp woodland edges, clearings & grassy meadows",
+  "ph": {
+    "min": 5.5,
+    "ideal": 6.5,
+    "max": 7.5
+  },
+  "care": {
+    "hardiness": "Fully winter-hardy on the Front Range — rated USDA zones 3–9 — so it sails through Boulder's zone 5b–6a as a low, semi-evergreen mat.[1][2]",
+    "planting": "Set plants out in spring after the mid-May last frost, or in early fall, spacing them 6–9 inches apart for quick cover — they knit together within a season. As edging or in a pot it establishes readily, but the shallow mat dries out fast in our low humidity, so keep containers watered and give them afternoon shade.[1][2]",
+    "sun": "Grows in almost any light from full sun to full shade, but the richest leaf color and densest mat come in part shade with 3–4 hours of sun; in full high-altitude Front-Range sun it needs steadier moisture to keep from scorching.[1][2]",
+    "soil": "Adapts to clay, loam or sand and tolerates our alkaline soils, but the one thing it will not forgive is wet, heavy ground — good drainage and air circulation are essential to head off crown rot.[1][2]",
+    "water": "Not a xeric plant: give it regular, moderate water through the semi-arid growing season, especially in sun, but let the surface drain between soakings — soggy soil invites rot.[1][2]",
+    "spacing": "Space plants 6–9 inches apart; the creeping stolons close the gaps within a single season.[2]",
+    "propagation": "Easiest by division — lift and separate rooted rosettes or pot up the plantlets that form at the tips of the stolons, in spring or fall. Named cultivars will not come true from seed, so divide rather than sow.[1][2]",
+    "bloom": "Short spikes of two-lipped blue-violet flowers on unusually tall spikes (to ~8 in) stand above the foliage in May–June, drawing bumblebees and other early bees; shear off the spent spikes afterward to tidy the mat.[1][2]",
+    "maintenance": "Very low care once established: shear off spent flower spikes and, every few years, divide crowded clumps to keep them vigorous and stave off crown rot. The real maintenance job is containment — the stolons creep readily into adjacent lawn and beds, so edge the mat each season or set a barrier where you need it to stop.[1][2]",
+    "troubles": "Crown and root rot (Southern blight, Phytophthora) is the main problem, worst in heavy, wet soil and stagnant air — the reason for sharp drainage, spacing and periodic division. Otherwise it is essentially pest-free and both deer- and rabbit-resistant.[1][2]"
+  },
+  "references": [
+    {
+      "name": "NC State Extension Plant Toolbox — Ajuga reptans",
+      "url": "https://plants.ces.ncsu.edu/plants/ajuga-reptans/"
+    },
+    {
+      "name": "Missouri Botanical Garden — Ajuga reptans",
+      "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=281384"
+    },
+    {
+      "name": "Royal Horticultural Society — Ajuga reptans",
+      "url": "https://www.rhs.org.uk/plants/742/ajuga-reptans/details"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      1,
+      2,
+      3
+    ],
+    "sun": [
+      1,
+      2
+    ],
+    "water": [
+      1,
+      2
+    ],
+    "spread": [
+      2
+    ],
+    "seasons": [
+      1,
+      2
+    ],
+    "wildlife": [
+      1
+    ],
+    "deer": [
+      1,
+      2
+    ],
+    "toxic": [
+      1
+    ],
+    "ph": [
+      1,
+      2
+    ],
+    "origin": [
+      2
+    ],
+    "habitat": [
+      2
+    ]
+  },
+  "edible": {
+    "level": "inedible",
+    "summary": "Not a food plant — bugleweed is grown as an ornamental groundcover and has no established culinary use; its bitter, astringent leaves featured only in old folk medicine.[1]",
+    "caution": "Grown for foliage and flowers, not for eating; no part is recommended as food and there is no preparation that makes it a vegetable. It is not considered dangerously poisonous, but keep it purely ornamental.[1]"
+  },
+  "gaps": "Photos are species-representative Ajuga reptans, chosen to show this cultivar's leaf colour and habit where possible; no dedicated CC photo library of the named cultivar exists, so some shots are of the type species (identical but for the exact foliage tone).",
+  "shots": [
+    {
+      "local": "images/sp-bloom-mass-t.jpg",
+      "full": "images/sp-bloom-mass.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/651543692/large.jpg",
+      "s": "spring",
+      "cap": "Spring — tall deep-blue flower spikes en masse · © Brigitte Treiber (CC-BY-NC) / iNaturalist",
+      "by": "Brigitte Treiber",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/357239164"
+    },
+    {
+      "local": "images/sp-flower-t.jpg",
+      "full": "images/sp-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/378735727/large.jpeg",
+      "s": "spring",
+      "cap": "Spring — a tall blue spike over green foliage · © Callicladium (CC-BY-NC) / iNaturalist",
+      "by": "Callicladium",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/214279373"
+    },
+    {
+      "local": "images/sp-foliage-t.jpg",
+      "full": "images/sp-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/122755481/large.jpg",
+      "s": "spring",
+      "cap": "Spring — blue spikes above large bronze-green leaves · © pstaley (CC-BY-NC) / iNaturalist",
+      "by": "pstaley",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/75061714"
+    },
+    {
+      "local": "images/sp-context-t.jpg",
+      "full": "images/sp-context.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/636992482/large.jpg",
+      "s": "spring",
+      "cap": "Spring — rows of tall spikes along a path · © jolanda_bih (CC-BY-NC) / iNaturalist",
+      "by": "jolanda_bih",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/349208060"
+    },
+    {
+      "local": "images/sp-bloom-mass2-t.jpg",
+      "full": "images/sp-bloom-mass2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/258410984/large.jpeg",
+      "s": "spring",
+      "cap": "Spring — a broad drift of blue spikes · © Stephen Moores (CC-BY-NC) / iNaturalist",
+      "by": "Stephen Moores",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/149920995"
+    },
+    {
+      "local": "images/sp-bloom-mass3-t.jpg",
+      "full": "images/sp-bloom-mass3.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/192421752/large.jpeg",
+      "s": "spring",
+      "cap": "Spring — tall spikes in bloom · © rober025 (CC-BY) / iNaturalist",
+      "by": "rober025",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/113923854"
+    },
+    {
+      "local": "images/sp-foliage2-t.jpg",
+      "full": "images/sp-foliage2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/506668721/large.jpg",
+      "s": "spring",
+      "cap": "Spring — spikes above the leafy mat · © Paolo Zucca (CC-BY) / iNaturalist",
+      "by": "Paolo Zucca",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/282027370"
+    }
+  ]
+}

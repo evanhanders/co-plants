@@ -1,0 +1,121 @@
+[
+  {
+    "file": "images/sp-bloom-mass.jpg",
+    "photo_id": 651543692,
+    "by": "Brigitte Treiber",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/357239164",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  },
+  {
+    "file": "images/sp-flower.jpg",
+    "photo_id": 378735727,
+    "by": "Callicladium",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/214279373",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  },
+  {
+    "file": "images/sp-foliage.jpg",
+    "photo_id": 122755481,
+    "by": "pstaley",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/75061714",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  },
+  {
+    "file": "images/sp-context.jpg",
+    "photo_id": 636992482,
+    "by": "jolanda_bih",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/349208060",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      1400
+    ],
+    "thumb_px": [
+      400,
+      400
+    ]
+  },
+  {
+    "file": "images/sp-bloom-mass2.jpg",
+    "photo_id": 258410984,
+    "by": "Stephen Moores",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/149920995",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      1050
+    ],
+    "thumb_px": [
+      400,
+      300
+    ]
+  },
+  {
+    "file": "images/sp-bloom-mass3.jpg",
+    "photo_id": 192421752,
+    "by": "rober025",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/observations/113923854",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      1050
+    ],
+    "thumb_px": [
+      400,
+      300
+    ]
+  },
+  {
+    "file": "images/sp-foliage2.jpg",
+    "photo_id": 506668721,
+    "by": "Paolo Zucca",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/observations/282027370",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  }
+]

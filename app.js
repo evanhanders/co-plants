@@ -415,13 +415,20 @@ var card='<div class="skel"><div class="plate"></div><div class="body"><div clas
 content.innerHTML='<div class="grid">'+new Array(8).join(card)+card+'</div>';
 var c=document.getElementById('count'); if(c) c.textContent='…';
 }
-/* Wait on the account session alongside the plant data so the first paint has correct heart
-   states and so app.js doesn't write its filter-state URL hash until auth.js has consumed any
-   magic-link tokens from the URL. (Heart toggles after load are reflected in place by
-   Account.syncButtons, so no live re-render of the grid is needed.) */
+/* Render the grid as soon as the plant data loads — do NOT block first paint on the accounts
+   session. auth.js pulls the Supabase client from a CDN; if that request stalls (Brave and other
+   privacy browsers can hold/slow it) the promise neither resolves nor rejects, so gating render()
+   on Account.ready() would freeze the whole page on the skeleton forever. Heart state is filled in
+   the moment accounts resolve, via Account.syncButtons.
+   The one exception is a magic-link redirect, which lands here with auth tokens in the URL: Supabase's
+   detectSessionInUrl must consume+clean them before render()'s syncHash rewrites the hash. Only in
+   that (rare) case do we wait on Account.ready() first — and auth.js caps that wait so it can't hang. */
 (async function(){
 renderSkeleton();
-const acct = (window.Account && window.Account.ready) ? window.Account.ready() : Promise.resolve();
-await Promise.all([loadSeed(), acct]);
+var A = (window.Account && window.Account.ready) ? window.Account : null;
+var hasAuthTokens = /[#&](access_token|refresh_token|code)=/.test(location.hash) || /[?&]code=/.test(location.search);
+if(hasAuthTokens && A){ await Promise.all([loadSeed(), A.ready()]); }
+else { await loadSeed(); }
 applyHash(); render();
+if(A){ A.ready().then(function(){ if(A.syncButtons) A.syncButtons(); }); }   // fill hearts when accounts settle (non-blocking)
 })();

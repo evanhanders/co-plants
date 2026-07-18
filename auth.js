@@ -46,6 +46,12 @@ if(!configured){
 /* ---------- configured: live state ---------- */
 var supa=null, user=null, favSet=new Set(), listeners=[];
 var readyResolve, readyP=new Promise(function(r){ readyResolve=r; });
+/* Safety net: never let a stalled CDN import or auth request hang anything awaiting ready().
+   The Supabase client is imported from a CDN (below); if that request is held/blocked (Brave
+   privacy shields, flaky network) the import can stay pending forever — the .then/.catch never
+   fire, so readyResolve() would never run. Resolve after a few seconds no matter what; calling
+   readyResolve again once the real init finishes is a harmless no-op. */
+setTimeout(function(){ readyResolve(); }, 5000);
 
 /* one notification = refresh the masthead menu + every heart on the page + tell subscribers */
 function emit(){ renderMenu(); syncButtons(); listeners.forEach(function(cb){ try{ cb(); }catch(e){} }); }

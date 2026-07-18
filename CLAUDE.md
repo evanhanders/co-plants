@@ -1070,7 +1070,7 @@ ground every statement in an authority cited in `references`.
 
 ## Current plant roster (in the live site)
 
-**251 specimens** (`plants/manifest.json` is the source of truth for the exact count), all verified
+**252 specimens** (`plants/manifest.json` is the source of truth for the exact count), all verified
 non-weed in CO and all carrying a full `care` block (incl.
 `planting` + `propagation`) **and a repo-hosted photo reel** (close-up + structure, seasonal
 where good shots exist). Every plant's detail page is **fully cited** — a numbered
@@ -1343,6 +1343,18 @@ collection) since its growth form differs. Photos: marigolds via `tools/inat_mon
 cultivar/species is scarce; logged in its `gaps`). Every entry fully cited (`check_refs` guide-wide +
 `check_citations` pass).
 
+**California fuchsia (July 2026):** added **California fuchsia / hummingbird trumpet** (*Epilobium canum*,
+syn. *Zauschneria*) after a user photographed one a hummingbird was working — a low xeric `Groundcover`
+mat that erupts in scarlet-orange tubular trumpets late summer into fall; a premier hummingbird plant,
+grown on the Front Range as the cold-hardy Rocky Mountain **'Orange Carpet'** (*garrettii*) Plant Select
+form. **Non-native** per the witch-hazel convention (a SW/interior-western-US native — UT/ID/WY/AZ — that
+isn't Front-Range-local; cited `origin`/`habitat`); `edible` **inedible** (no documented food use, not a
+true *Fuchsia*); `spread` honestly notes it runs by rhizome (the SPREADS trait is correct here, unlike a
+false match). Weed-checked vs CO A/B/C/Watch 2026-07-18. `aka` carries the *Zauschneria* synonyms +
+"Hummingbird trumpet" / "'Orange Carpet' hummingbird trumpet" for search. 8-shot iNat reel (flower, bloom
+mass, low mat + grey foliage, cluster, wild habit, silvery seed plumes). Care sourced from Plant Select,
+MBG, LBJ Wildflower Center, USDA NRCS plant guide, RHS; `check_refs` guide-wide + `check_citations` pass.
+
 **Trees**
 - River hawthorn (*Crataegus rivularis*) (N) — Thorny native small tree; white spring flowers, dark edible haws, superb wildlife cover. A caterpillar keystone (~90 Lepidoptera). *(Riparian — wants more water; edible haws, spit the cyanogenic seeds.)*
 - Chokecherry (*Prunus virginiana*) (N) — Wildlife powerhouse: fragrant white flower racemes, dark…
@@ -1445,6 +1457,7 @@ cultivar/species is scarce; logged in its `gaps`). Every entry fully cited (`che
 - Hens and chicks (*Sempervivum tectorum*) (I) — Bulletproof evergreen succulent; tight rosette "hens" pup rings of "chicks" into a mat, with a monocarpic summer flower stalk. *(Non-toxic but not a documented food; European native.)*
 - Spearleaf stonecrop (*Sedum lanceolatum*) (N) — CO-native succulent mat of fleshy lance leaves that flush fire-red in drought/cold, then bright yellow star-flowers; *Parnassius smintheus* larval host. *(Caution — alkaloids/sarmentosin; not a tested food.)*
 - Mexican fleabane (*Erigeron karvinskianus*) (I) — The marathon-blooming "wall daisy"; a wiry sprawling mat frothing with tiny daisies that open white and age pink-to-purple, early summer to frost. *(Borderline-hardy ~zone 6 — frost-tender here, carries on by self-sowing; xeric/sharp drainage; self-seeds prolifically and is invasive in mild climates, so deadhead & site away from wild areas.)*
+- California fuchsia (*Epilobium canum*) (I) — Low grey-green xeric mat that erupts in scarlet-orange tubular trumpets late summer into fall; a premier hummingbird plant. Grown here as the cold-hardy Rocky Mountain 'Orange Carpet' form. *(SW/interior-western-US native, not Front-Range — marked Non-native; syn. Zauschneria; spreads by rhizome. Not a Fuchsia, not a food.)*
 
 **Vines**
 - 'Dropmore Scarlet' honeysuckle (*Lonicera × brownii 'Dropmore Scarlet'*) (I) — A Canadian-bred cold-hardy twining vine that puts on a…

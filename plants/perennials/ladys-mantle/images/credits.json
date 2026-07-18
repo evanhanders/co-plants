@@ -1,0 +1,121 @@
+[
+  {
+    "file": "images/su-foliage.jpg",
+    "photo_id": 332177309,
+    "by": "Konrad and Roland Greinwald",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/189596594",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      1050
+    ],
+    "thumb_px": [
+      400,
+      300
+    ]
+  },
+  {
+    "file": "images/su-dew.jpg",
+    "photo_id": 77016447,
+    "by": "steph_g",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/48532963",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  },
+  {
+    "file": "images/su-habit.jpg",
+    "photo_id": 77781261,
+    "by": "sjurdur",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/49003739",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  },
+  {
+    "file": "images/su-context.jpg",
+    "photo_id": 683922226,
+    "by": "Nick Parker",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/374191231",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  },
+  {
+    "file": "images/su-bloom.jpg",
+    "photo_id": 561143817,
+    "by": "bglenn",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/310889180",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      787,
+      1400
+    ],
+    "thumb_px": [
+      225,
+      400
+    ]
+  },
+  {
+    "file": "images/su-flower.jpg",
+    "photo_id": 79814458,
+    "by": "maria_i",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/50262420",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  },
+  {
+    "file": "images/su-bloom-mass.jpg",
+    "photo_id": 641115578,
+    "by": "Miska Rauma",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/351330334",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      787,
+      1400
+    ],
+    "thumb_px": [
+      225,
+      400
+    ]
+  }
+]

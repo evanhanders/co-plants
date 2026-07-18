@@ -1,0 +1,177 @@
+{
+  "common": "Lady's mantle",
+  "botanical": "Alchemilla mollis",
+  "type": "Forb",
+  "lifecycle": "Perennial",
+  "bloom_season": "Summer",
+  "native": "Non-native",
+  "origin": "Mountains of eastern Europe & western Asia (Carpathians, Caucasus, Turkey)",
+  "habitat": "Moist mountain meadows, grassy slopes and streambanks",
+  "blurb": "A billowing froth of tiny chartreuse flowers held over a mound of round, velvety, scalloped leaves that famously catch beads of dew and rain like liquid silver. Weed-proof, unfussy and tolerant of sun or shade, clay or gravel.",
+  "size": "12–18 in tall in bloom × 18–24 in wide",
+  "sun": "Full sun to full shade (afternoon shade best in our heat)",
+  "water": "Low to moderate; wants some moisture but takes dry clay once established",
+  "spread": "Clumping mound; self-sows freely — deadhead to keep it in bounds",
+  "seasons": "A soft mound of pleated round leaves spring through fall; sprays of chartreuse flowers in early-to-mid summer; dies back to the ground in winter",
+  "wildlife": "Small flowers draw hoverflies, small bees and other beneficial insects; foliage is a weed-suppressing groundcover",
+  "deer": "Deer- and rabbit-resistant",
+  "toxic": "No serious toxicity; a historic astringent herb, not a food plant",
+  "flower_color": [
+    "yellow",
+    "green"
+  ],
+  "bloom": [
+    "spring",
+    "summer"
+  ],
+  "winter": false,
+  "verified": "2026-07-18",
+  "ph": {
+    "min": 5.5,
+    "ideal": 6.5,
+    "max": 7.5
+  },
+  "shots": [
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/332177309/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — a round, velvety, pleated leaf · © Konrad and Roland Greinwald (CC-BY-NC) / iNaturalist",
+      "by": "Konrad and Roland Greinwald",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/189596594"
+    },
+    {
+      "local": "images/su-dew-t.jpg",
+      "full": "images/su-dew.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/77016447/large.jpg",
+      "s": "summer",
+      "cap": "Summer — raindrops beading on the scalloped foliage · © steph_g (CC-BY-NC) / iNaturalist",
+      "by": "steph_g",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/48532963"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/77781261/large.jpg",
+      "s": "summer",
+      "cap": "Summer — the soft, mounded clump of leaves · © sjurdur (CC-BY-NC) / iNaturalist",
+      "by": "sjurdur",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/49003739"
+    },
+    {
+      "local": "images/su-context-t.jpg",
+      "full": "images/su-context.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/683922226/large.jpg",
+      "s": "summer",
+      "cap": "Summer — a clump softening a path edge · © Nick Parker (CC-BY-NC) / iNaturalist",
+      "by": "Nick Parker",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/374191231"
+    },
+    {
+      "local": "images/su-bloom-t.jpg",
+      "full": "images/su-bloom.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/561143817/large.jpg",
+      "s": "summer",
+      "cap": "Summer — a froth of chartreuse flowers over the leaves · © bglenn (CC-BY-NC) / iNaturalist",
+      "by": "bglenn",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/310889180"
+    },
+    {
+      "local": "images/su-flower-t.jpg",
+      "full": "images/su-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/79814458/large.jpg",
+      "s": "summer",
+      "cap": "Summer — the tiny, petal-less chartreuse flowers up close · © maria_i (CC-BY-NC) / iNaturalist",
+      "by": "maria_i",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/50262420"
+    },
+    {
+      "local": "images/su-bloom-mass-t.jpg",
+      "full": "images/su-bloom-mass.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/641115578/large.jpg",
+      "s": "summer",
+      "cap": "Summer — sprays of chartreuse bloom above the foliage · © Miska Rauma (CC-BY-NC) / iNaturalist",
+      "by": "Miska Rauma",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/351330334"
+    }
+  ],
+  "care": {
+    "hardiness": "Very cold-hardy — rated roughly USDA 3a–8b — so it is thoroughly winter-hardy across Boulder's zone 5b–6a and dies back cleanly to the ground each winter, returning from the crown in spring. Our semi-arid heat and intense high-altitude sun are the real challenge, not the cold: it holds up best with afternoon shade and a little moisture here.[1][2]",
+    "planting": "Plant out in spring after the mid-May last frost, or in early fall, so the crown settles before summer heat or hard freeze; it transplants easily and establishes fast. It also grows well in a container as a soft mounding filler, but pots dry out quickly and their roots are far less cold-hardy, so water them often in summer and sink or shelter the pot over winter.[1][2]",
+    "sun": "Grows in anything from full sun to nearly full shade, but in the Front Range's hot, bright climate it looks best in part shade — morning sun with afternoon shade, or dappled light. In full, dry sun the leaf margins can scorch and brown by midsummer unless the soil stays moist.[1][2]",
+    "soil": "Adaptable to almost any soil — average loam, gritty ground, even Boulder's heavy alkaline clay — as long as drainage is reasonable. It prefers a soil that holds some moisture and is not strongly fussy about pH. Rich, constantly wet ground is the only thing it dislikes.[1][2]",
+    "water": "Prefers evenly moist soil but is fairly forgiving once established, tolerating short dry spells; in a shaded spot it gets by on modest water here. In full Front-Range sun it needs steadier moisture to keep the foliage from crisping. Water new plants regularly through their first season.[1][2]",
+    "spacing": "Space plants about 18 in. apart; each mound spreads 18–24 in. wide and knits into a solid weed-smothering groundcover when massed along a path edge or border front.[1][2]",
+    "bloom": "Airy, branching sprays of tiny, petal-less chartreuse (yellow-green) flowers rise just above the foliage in early-to-mid summer (roughly June–July here), lasting for weeks and prized as a filler in fresh and dried arrangements. Shearing the spent sprays can prompt a lighter late-summer rebloom.[1][2]",
+    "feeding": "Undemanding. A thin spring topdressing of compost is plenty; it does not need or want heavy feeding, which only produces floppy growth.[1]",
+    "maintenance": "Its one real chore is managing self-sowing: in good conditions it seeds around freely, to the point of being weedy, so shear off the flowering sprays as they fade to prevent seed set (this also tidies the plant and may spark rebloom). Cut the whole clump back hard if the foliage tatters in midsummer heat and it will flush fresh new leaves. Cut spent foliage to the ground in late fall or early spring.[1][2]",
+    "selfsow": "Self-seeds abundantly where happy — seedlings pop up in gravel, path cracks and bed edges — so it can naturalize into a broad patch if left alone. It is not a listed noxious weed in Colorado, but deadhead before seed ripens if you want to keep it contained; unwanted seedlings pull easily when young.[1][2]",
+    "propagation": "Easiest by division in spring or early fall — lift the crown and split it into rooted sections, replanting at the same depth. It also comes readily from seed: sow ripe seed (a cool-moist period aids germination) or simply transplant the volunteer seedlings it throws around the garden.[1][2]",
+    "companions": "A classic softening edger and filler — pair the chartreuse flowers and pleated leaves with blue and purple companions (catmint, salvia, geraniums, bearded iris) or with roses in a cottage border, and use it to knit the front of a bed or line a shaded path.[2]"
+  },
+  "references": [
+    {
+      "name": "NC State Extension Plant Toolbox — Alchemilla mollis",
+      "url": "https://plants.ces.ncsu.edu/plants/alchemilla-mollis/"
+    },
+    {
+      "name": "Missouri Botanical Garden Plant Finder — Alchemilla mollis (lady's mantle)",
+      "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=b210"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      1,
+      2
+    ],
+    "sun": [
+      1,
+      2
+    ],
+    "water": [
+      1,
+      2
+    ],
+    "spread": [
+      1,
+      2
+    ],
+    "seasons": [
+      1,
+      2
+    ],
+    "wildlife": [
+      1
+    ],
+    "deer": [
+      1
+    ],
+    "toxic": [
+      1
+    ],
+    "origin": [
+      2
+    ],
+    "habitat": [
+      2
+    ],
+    "ph": [
+      1
+    ]
+  },
+  "edible": {
+    "level": "caution",
+    "food": false,
+    "summary": "Lady's mantle is a historic astringent herb, not really a food — the leaves were used in folk herbal teas and remedies, so treat it as a medicinal plant to leave off the plate.[1]",
+    "parts": "The tannin-rich leaves are the part with any documented use, historically steeped as an astringent herbal tea; the plant has no culinary role as a vegetable or fruit.[1]",
+    "caution": "This is herbal-medicine history, not an invitation to eat it as food. The leaves are astringent and tannin-rich; there is no established culinary use and no authority documents it as a food plant, so it is kept as 'caution' rather than advertised as edible. Do not consume garden plants that may have been treated with pesticides.[1]"
+  }
+}

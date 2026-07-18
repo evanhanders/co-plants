@@ -1,0 +1,192 @@
+{
+  "common": "Woodland phlox",
+  "botanical": "Phlox divaricata",
+  "type": "Forb",
+  "lifecycle": "Perennial",
+  "native": "Non-native",
+  "bloom_season": "Spring",
+  "flower_color": [
+    "blue",
+    "purple",
+    "pink"
+  ],
+  "bloom": [
+    "spring"
+  ],
+  "aka": [
+    "Wild blue phlox",
+    "Wild sweet William"
+  ],
+  "blurb": "A low, spreading woodland native that floats a haze of sweetly fragrant lavender-blue flowers over the leaf litter each spring — one of the loveliest carpets for dappled shade and a magnet for early butterflies.",
+  "size": "9–15 in × 10–20 in",
+  "sun": "Part shade to full shade",
+  "water": "Moderate; keep the humusy soil evenly moist — not for hot dry sites",
+  "spread": "Spreads slowly by decumbent rooting stems into loose mats; well-behaved",
+  "seasons": "Fragrant lavender-blue flowers April–May; low leafy mats through summer in shade; semi-evergreen where mild, dying back in cold",
+  "wildlife": "Nectar for early butterflies (swallowtails, skippers), long-tongued bees and hummingbirds; a valued spring nectar source",
+  "deer": "Somewhat deer-tolerant; rabbits may browse the foliage",
+  "toxic": "No known toxicity; grown as an ornamental, not a food plant",
+  "winter": false,
+  "verified": "2026-07-18",
+  "origin": "Eastern and central North America (southern Ontario to Minnesota, south to Georgia and Louisiana)",
+  "habitat": "Moist, humus-rich deciduous woodland, wooded slopes and shaded stream banks",
+  "ph": {
+    "min": 5.5,
+    "ideal": 6.5,
+    "max": 7.0
+  },
+  "shots": [
+    {
+      "local": "images/sp-flower-t.jpg",
+      "full": "images/sp-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/38277903/large.jpeg",
+      "s": "spring",
+      "cap": "Spring — a single lavender-blue flower face-on, showing the five notched petals · © kglueck (CC-BY-NC) / iNaturalist",
+      "by": "kglueck",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/24754169"
+    },
+    {
+      "local": "images/sp-flower2-t.jpg",
+      "full": "images/sp-flower2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/268586320/large.jpg",
+      "s": "spring",
+      "cap": "Spring — fragrant pale-violet flowers over the low leafy stems · © Theo Witsell (CC-BY-NC) / iNaturalist",
+      "by": "Theo Witsell",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/155382859"
+    },
+    {
+      "local": "images/sp-wildlife-t.jpg",
+      "full": "images/sp-wildlife.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/118998643/large.jpeg",
+      "s": "spring",
+      "cap": "Spring — an eastern tiger swallowtail nectaring on woodland phlox, a favourite of early butterflies · © Mel Kelley (CC-BY-NC) / iNaturalist",
+      "by": "Mel Kelley",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/72933678"
+    },
+    {
+      "local": "images/sp-bloom-mass-t.jpg",
+      "full": "images/sp-bloom-mass.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/12957202/large.jpg",
+      "s": "spring",
+      "cap": "Spring — a drift of pale lavender-blue phlox carpeting the woodland floor · © Rich Stevenson (CC-BY-NC) / iNaturalist",
+      "by": "Rich Stevenson",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/9507732"
+    },
+    {
+      "local": "images/sp-flower3-t.jpg",
+      "full": "images/sp-flower3.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/123797624/large.jpg",
+      "s": "spring",
+      "cap": "Spring — a cluster of pale-blue flowers and unopened buds on the flowering stem · © Patrick Hanly (CC-BY) / iNaturalist",
+      "by": "Patrick Hanly",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/75653333"
+    },
+    {
+      "local": "images/sp-habit-t.jpg",
+      "full": "images/sp-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/361956190/large.jpg",
+      "s": "spring",
+      "cap": "Spring — a spreading clump in bloom over leaf litter, showing the low mounding habit · © Milo Pyne (CC-BY-NC) / iNaturalist",
+      "by": "Milo Pyne",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/204757043"
+    },
+    {
+      "local": "images/sp-foliage-t.jpg",
+      "full": "images/sp-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/273334381/large.jpeg",
+      "s": "spring",
+      "cap": "Spring — the soft, hairy lance-shaped leaves of the trailing stems · © Larry Glatt (CC-BY-NC) / iNaturalist",
+      "by": "Larry Glatt",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/158152217"
+    },
+    {
+      "local": "images/sp-context-t.jpg",
+      "full": "images/sp-context.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/368045976/large.jpg",
+      "s": "spring",
+      "cap": "Spring — phlox flowering on a dappled wooded slope, its native part-shade setting · © williamwanders (CC-BY-NC) / iNaturalist",
+      "by": "williamwanders",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/208037442"
+    }
+  ],
+  "care": {
+    "hardiness": "Hardy in USDA zones 3–8, so it winters easily in Boulder's 5b–6a climate; the real Front-Range challenge is not cold but our heat, sun and alkaline clay.[1][2]",
+    "planting": "Plant in spring after the mid-May frost or in early fall, in dappled to full shade with moist, humus-rich soil. This is a woodland plant, so give it the shadiest, most sheltered spot you have — the north or east side of the house, under deciduous trees, or among shrubs. In pots, use a rich, moisture-retentive mix and keep it out of afternoon sun.[1][2]",
+    "sun": "Part shade to full shade — it takes dappled sunlight through a canopy but scorches and fades in hot, direct Front-Range sun; morning sun with afternoon shade is the sunniest it should get here.[2][1]",
+    "soil": "Wants a humusy, organically rich, evenly moist but well-drained soil on the acidic-to-neutral side. Boulder's lean, alkaline clay is the opposite of its native leaf-mold woodland floor, so amend generously with compost and leaf mold and mulch to hold moisture and gently lower pH.[2][1]",
+    "water": "Moderate and steady — keep the humusy soil evenly moist, especially through spring bloom and summer heat; it tolerates some drought and dry shade once established but is emphatically not a xeric plant for a dry, sunny bed.[1][2]",
+    "spacing": "Space plants about 12–18 in. apart; the rooting stems knit into a loose groundcover mat over time.[2]",
+    "propagation": "Easiest by division in early spring or right after bloom, or by layering — the trailing stems root where they touch moist soil, so rooted pieces lift and move readily. Stem cuttings taken after flowering root well, and it also grows from seed.[1][2]",
+    "bloom": "April to May on the Front Range: loose clusters of five-petaled, slightly notched, sweetly fragrant flowers in lavender-blue, rose and violet over the low foliage.[1]",
+    "feeding": "Topdress with compost or leaf mold in spring; it is not a heavy feeder and appreciates organic matter more than fertilizer.[2]",
+    "maintenance": "Shear or cut the flowering stems back by about half right after bloom — this tidies the sprawling stems, encourages fresh basal foliage, and is the main defense against powdery mildew. Mulch to keep roots cool and moist through summer.[1][2]",
+    "selfsow": "Spreads gently on its own by the decumbent stems rooting as they run, and self-sows modestly in congenial moist shade; it forms a loose colony rather than an aggressive one.[1]",
+    "troubles": "Powdery mildew is the serious problem — it disfigures the foliage in warm, still, humid or drought-stressed conditions; improve air circulation, keep the soil evenly moist, and cut plants back after flowering. Spider mites appear in hot, dry spells and rabbits may nibble the foliage.[1][2]"
+  },
+  "fact_src": {
+    "size": [
+      1,
+      2
+    ],
+    "sun": [
+      2,
+      1
+    ],
+    "water": [
+      1,
+      2
+    ],
+    "spread": [
+      1
+    ],
+    "seasons": [
+      1,
+      2
+    ],
+    "wildlife": [
+      1,
+      2
+    ],
+    "deer": [
+      1,
+      2
+    ],
+    "toxic": [
+      2
+    ],
+    "ph": [
+      2
+    ],
+    "origin": [
+      2,
+      1
+    ],
+    "habitat": [
+      1,
+      2
+    ]
+  },
+  "edible": {
+    "level": "inedible",
+    "summary": "Woodland phlox is grown as an ornamental, not a food — there is no documented, reliably-safe edible use, so keep it off the plate.[2]",
+    "caution": "No horticultural authority documents woodland phlox as a food plant; while phlox flowers are occasionally listed as an edible garnish, that use is not confirmed by a reliable safety source, so treat the plant as inedible. It is not noted as notably poisonous, but do not eat any part.[2]"
+  },
+  "references": [
+    {
+      "name": "Missouri Botanical Garden Plant Finder — Phlox divaricata",
+      "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=285428"
+    },
+    {
+      "name": "NC State Extension Gardener Plant Toolbox — Phlox divaricata",
+      "url": "https://plants.ces.ncsu.edu/plants/phlox-divaricata/"
+    }
+  ]
+}

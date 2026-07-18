@@ -1,0 +1,189 @@
+{
+  "collection": "pasqueflowers",
+  "common": "European pasqueflower",
+  "botanical": "Pulsatilla vulgaris",
+  "type": "Forb",
+  "lifecycle": "Perennial",
+  "native": "Non-native",
+  "bloom_season": "Spring",
+  "flower_color": [
+    "purple"
+  ],
+  "bloom": [
+    "spring"
+  ],
+  "aka": [
+    "Common pasque flower",
+    "Anemone pulsatilla"
+  ],
+  "blurb": "The Old-World pasqueflower: silky, silver-furred buds unfurl into lilac-violet bells with a golden boss of stamens at the very start of spring, then ripen into shimmering feathery seedheads that catch the light for weeks.",
+  "size": "8–12 in × 8–12 in",
+  "sun": "Full sun",
+  "water": "Low; xeric once established — needs sharp drainage",
+  "spread": "Clump-forming; non-spreading; woody taprooted crown — resents being moved",
+  "seasons": "Silky furred buds and lilac-violet cup flowers very early spring (Mar–Apr, ahead of most perennials); silvery feathery seedheads Apr–Jun; ferny hairy foliage through summer; foliage dies back in heat",
+  "wildlife": "Very early nectar and pollen for queen bumblebees and other emerging bees; silky seedheads used by birds",
+  "deer": "NOT deer-resistant — deer browse it; protect where deer are a problem",
+  "toxic": "ALL PARTS TOXIC — contains protoanemonin; fresh sap blisters skin and the plant causes severe mouth pain, vomiting and diarrhea if eaten. Handle with gloves; keep from children, pets and livestock.",
+  "winter": true,
+  "verified": "2026-07-18",
+  "origin": "Central and northern continental Europe, the British Isles and southwestern Asia",
+  "habitat": "Dry, lean chalk and limestone grassland and open meadows",
+  "ph": {
+    "min": 6.5,
+    "ideal": 7.2,
+    "max": 7.8
+  },
+  "shots": [
+    {
+      "local": "images/sp-flower-t.jpg",
+      "full": "images/sp-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/33742209/large.jpg",
+      "s": "spring",
+      "cap": "Early spring — a violet bell opened face-on to a golden stamen boss · © Marianne Hoffmann (CC-BY) / iNaturalist",
+      "by": "Marianne Hoffmann",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/21784372"
+    },
+    {
+      "local": "images/sp-flower2-t.jpg",
+      "full": "images/sp-flower2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/35181378/large.jpeg",
+      "s": "spring",
+      "cap": "Early spring — upright lilac-violet cups with orange stamens over emerging leaves · © artois (CC-BY-NC) / iNaturalist",
+      "by": "artois",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/22703756"
+    },
+    {
+      "local": "images/sp-bloom-mass-t.jpg",
+      "full": "images/sp-bloom-mass.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/637135898/large.jpg",
+      "s": "spring",
+      "cap": "Early spring — a dense clump of nodding violet bells, the classic pasqueflower display · © bazco9 (CC-BY-NC) / iNaturalist",
+      "by": "bazco9",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/349284953"
+    },
+    {
+      "local": "images/sp-buds-t.jpg",
+      "full": "images/sp-buds.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/627241787/large.jpg",
+      "s": "spring",
+      "cap": "Early spring — a silky silver-haired bud pushing up on a furry stem before it opens · © Axel Gosseries (CC-BY-NC) / iNaturalist",
+      "by": "Axel Gosseries",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/344263969"
+    },
+    {
+      "local": "images/sp-seedhead-t.jpg",
+      "full": "images/sp-seedhead.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/660710598/large.jpg",
+      "s": "spring",
+      "cap": "Late spring — the feathery silver plumed seedheads that follow the flowers and persist for weeks · © raeubertochter (CC-BY-NC) / iNaturalist",
+      "by": "raeubertochter",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/362015465"
+    },
+    {
+      "local": "images/sp-context-t.jpg",
+      "full": "images/sp-context.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/470966100/large.jpeg",
+      "s": "spring",
+      "cap": "Early spring — pasqueflower in a gritty gravel-garden planting with grape hyacinth, a good use of its sharp-drainage needs · © Alexander Schiermeier (CC-BY-NC) / iNaturalist",
+      "by": "Alexander Schiermeier",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/262112872"
+    },
+    {
+      "local": "images/sp-foliage-t.jpg",
+      "full": "images/sp-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/188325648/large.jpeg",
+      "s": "spring",
+      "cap": "Spring — a flower above the finely dissected, silky-hairy ferny foliage · © Alexander Rumpel (CC-BY-NC) / iNaturalist",
+      "by": "Alexander Rumpel",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/111552452"
+    },
+    {
+      "local": "images/sp-habit-t.jpg",
+      "full": "images/sp-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/357698701/large.jpg",
+      "s": "spring",
+      "cap": "Early spring — a low clump in bloom in open meadow turf, showing the compact ground-hugging habit · © rob_lissy (CC-BY-NC) / iNaturalist",
+      "by": "rob_lissy",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/202526815"
+    }
+  ],
+  "care": {
+    "hardiness": "Hardy in USDA zones 4a–8b, so it is thoroughly at home in Boulder's 5b–6a climate and, like our native pasqueflower, among the earliest and toughest perennials to open in spring.[1][2]",
+    "planting": "Plant container-grown transplants in spring or early fall in a sunny, sharply drained spot, and choose the site carefully — pasqueflower forms a woody, taprooted crown and strongly resents being moved once established. Work coarse grit or gravel into heavy clay so water drains freely. In containers use a fast-draining alpine or cactus mix in an unglazed pot, water when the top dries, and shelter the pot over winter, since container roots take freeze-thaw harder than in-ground ones.[1][2]",
+    "sun": "Full sun gives the best flowering and the compact, tidy habit; light afternoon shade is tolerated at hot sites but reduces bloom.[1][2]",
+    "soil": "Fast-draining, gritty soil with some organic matter; it evolved on lean chalk and limestone grassland, so it tolerates neutral-to-alkaline ground well — a real asset in Boulder's alkaline clay as long as drainage is sharp. Never plant in wet or waterlogged soil.[1][2]",
+    "water": "Low once established and genuinely drought-tolerant; water new plants through their first summer to anchor the root, then rely mostly on rainfall. It goes semi-dormant in midsummer heat — do not over-water in response, as a wet crown is the quickest way to lose it.[2][1]",
+    "spacing": "Space plants 10–12 in. apart; each forms a slowly enlarging clump that does not run.[1]",
+    "sow": "Sow fresh seed as soon as it ripens, directly in the garden or in deep containers left outdoors, so natural freeze-thaw over winter breaks dormancy and seedlings appear the following spring. Viability drops quickly, so use fresh seed.[1]",
+    "stratify": "If sowing stored seed indoors, give it a cold-moist stratification (mix with damp sand and refrigerate for several weeks); fall-sowing outdoors for natural chilling is easier and generally more reliable.[1]",
+    "propagation": "Easiest and most reliable from fresh seed. A mature plant can be divided into 4–6 pieces in early spring, but it resents disturbance and is slow to recover — it can be nursed back if cut hard after dividing. Because of the deep taproot, seed is preferred over division.[1]",
+    "bloom": "Very early spring — often March into April here, ahead of nearly everything else — the 1½-in. deep-to-pale violet bells opening on furry stems above golden stamens; the silvery, feathery seedheads that follow are nearly as ornamental and persist for weeks.[1][2]",
+    "feeding": "None needed; lean soil produces the longest-lived, most floriferous plants. Avoid rich feeding, which favors soft growth.[1]",
+    "maintenance": "Nearly hands-off. Leave the feathery seedheads — they are a key ornamental feature and let it self-sow. Remove old dead leaves in early spring before new growth. Handle all parts with gloves (the sap is a skin irritant) and net or cage plants where deer browse.[1][2]",
+    "selfsow": "Self-sows gently near happy plants when the ground is open and well-drained; move or thin the ferny, hairy seedlings while very young, before the taproot anchors them.[1]",
+    "troubles": "Root and crown rot from poor drainage or over-watering is the primary killer — give it grit and never let it sit wet. Deer will browse it, so protect plants where they are a problem, and wear gloves when weeding or dividing to avoid the irritant sap.[1][2]"
+  },
+  "fact_src": {
+    "size": [
+      1
+    ],
+    "sun": [
+      1,
+      2
+    ],
+    "water": [
+      1,
+      2
+    ],
+    "spread": [
+      1
+    ],
+    "seasons": [
+      1
+    ],
+    "wildlife": [
+      1
+    ],
+    "deer": [
+      1
+    ],
+    "toxic": [
+      2
+    ],
+    "ph": [
+      1,
+      2
+    ],
+    "origin": [
+      1,
+      2
+    ],
+    "habitat": [
+      1
+    ]
+  },
+  "edible": {
+    "level": "toxic",
+    "summary": "European pasqueflower is poisonous — the fresh plant and its sap are irritant and blistering, and it must never be eaten.[2]",
+    "caution": "All parts of the fresh plant are toxic: Pulsatilla contains protoanemonin (released when tissue is damaged), and NC State rates the poison severity HIGH. Fresh sap causes inflammation and blistering on skin contact (contact dermatitis), and ingestion causes severe pain in the mouth, vomiting and diarrhea; it is also toxic to livestock. Drying reduces the volatile toxin, but never rely on this — wear gloves when handling, weeding or dividing, and keep the plant away from children, pets and grazing animals. Do not eat any part.[2]"
+  },
+  "references": [
+    {
+      "name": "Wisconsin Horticulture Extension — Pasque Flower (Pulsatilla vulgaris)",
+      "url": "https://hort.extension.wisc.edu/articles/pasque-flower-pulsatilla-vulgaris/"
+    },
+    {
+      "name": "NC State Extension Gardener Plant Toolbox — Pulsatilla vulgaris (poison severity HIGH; protoanemonin)",
+      "url": "https://plants.ces.ncsu.edu/plants/pulsatilla-vulgaris/"
+    }
+  ]
+}

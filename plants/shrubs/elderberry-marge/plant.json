@@ -1,0 +1,196 @@
+{
+  "collection": "elderberries",
+  "common": "'Marge' elderberry",
+  "botanical": "Sambucus nigra 'Marge'",
+  "type": "Shrub",
+  "lifecycle": "Perennial",
+  "native": "Non-native",
+  "flower_color": [
+    "white"
+  ],
+  "bloom": [
+    "summer"
+  ],
+  "blurb": "A productive European fruiting elder: big flat creamy-white flower umbels over fresh green foliage, then heavy trusses of large glossy-black berries — self-fertile, disease-resistant, and grown mainly for fruit.",
+  "size": "8–10 ft × 6–8 ft",
+  "sun": "Full sun to part shade; full sun for the heaviest fruit",
+  "water": "Moderate to high; a moisture-lover — keep evenly moist, not for dry zones",
+  "spread": "Bushy multi-stem shrub; suckers and self-seeds — remove unwanted suckers",
+  "seasons": "Fresh green pinnate foliage spring–fall; large flat creamy-white flower umbels in June; heavy trusses of glossy-black berries in late summer; bare stems in winter",
+  "wildlife": "A major bee- and hoverfly-nectar shrub in bloom; birds devour the berries",
+  "deer": "Not a preferred browse; the bitter, toxic foliage is usually left alone",
+  "toxic": "Raw berries, leaves, stems, roots and seeds are toxic (cyanogenic glycosides); only the flowers and cooked ripe berries are edible",
+  "winter": false,
+  "verified": "2026-07-18",
+  "origin": "Europe, north Africa & southwest Asia (garden selection)",
+  "habitat": "Woodland edges, hedgerows and damp ground",
+  "ph": {
+    "min": 5.5,
+    "ideal": 6.5,
+    "max": 7.5
+  },
+  "gaps": "Photos are species-representative European elder (Sambucus nigra); no open-licensed 'Marge' cultivar photo exists. Cultivar-specific traits (self-fertile, extra-large berries, bushy disease-resistant habit) follow the raising nursery's description.",
+  "care": {
+    "hardiness": "Hardy in roughly USDA zones 5–8, so it is fully at home on the Front Range (5b–6a); 'Marge' is grown as a productive, disease-resistant European fruiting elder and comes through our winters reliably.[1][2][3]",
+    "planting": "Plant dormant bare-root or container stock in early spring, or container plants through the season if kept watered, setting the crown at soil level in ground that stays moist. A large pot suits it for a season or two, but pots dry and freeze hard in Boulder's wind — sink or insulate the pot and water faithfully, and move it to open, damp ground for real cropping. A second European elder nearby lifts the yield, though 'Marge' is self-fertile.[1][3]",
+    "sun": "Full sun to part shade. Full sun gives the heaviest flower and berry crop; a little afternoon shade eases moisture stress in the hottest sites, but too much shade thins the bloom and fruit.[1][2]",
+    "soil": "Adaptable to clay, loam or sand as long as it holds moisture; it does best in moist, humus-rich, well-drained ground and tolerates Boulder's alkaline clay at a pH from about 5.5 to 7.5 — amend clay with compost to feed it and hold water. It is not a xeric plant.[1][2]",
+    "water": "A moisture-lover: water young plants regularly to establish and keep established plants evenly moist through our dry summers, as drought stress drops flowers and shrivels fruit. Give a deep soak in late fall before the ground freezes.[1][2]",
+    "spacing": "Allow about 6–10 ft per plant; 'Marge' makes a bushy shrub roughly 8–10 ft tall and 6–8 ft wide, a touch stouter than the typical wild elder.[1][3]",
+    "propagation": "Very easy from hardwood cuttings of dormant one-year wood in late fall to winter, or softwood cuttings in early summer; it also layers and suckers freely. Seed won't come true, so use cuttings to keep 'Marge' identical.[2][1]",
+    "bloom": "Large flat creamy-white, musky-scented umbels open in June and swarm with bees and hoverflies; being self-fertile, a lone bush still sets fruit, but a compatible European elder nearby boosts the crop. The flowers are edible and give way to the berries.[3][1]",
+    "feeding": "A light spring mulch of compost or well-rotted manure is plenty; avoid heavy nitrogen, which pushes soft growth at the expense of fruit.[2][1]",
+    "pruning": "Prune when fully dormant, in late winter to early spring. 'Marge' fruits on second-year wood and new growth, so keep an open, renewed framework rather than coppicing it hard: each late winter cut the oldest, weakest, dead and crossing canes to the base and thin the center so light and air reach the fruit, removing suckers as they appear. Cutting the whole bush to the ground would sacrifice that season's flowers and berries. Wear gloves — the pithy stems are toxic.[1][2][3]",
+    "maintenance": "Pull root suckers and stray seedlings to keep it in bounds, mulch to hold moisture, and head back or thin leggy stems, since the brittle wood can split under wet spring snow. Net the ripening trusses if birds beat you to them.[1][2]",
+    "troubles": "'Marge' was selected for disease resistance and is generally trouble-free here; still watch for aphids and spider mites in hot, dry spells and for powdery mildew or leaf spot on crowded plants. Its main vice is vigor — it suckers and self-seeds, so remove seedlings and site it away from wild areas.[1][2]",
+    "harvest": "Cut whole berry trusses when the fruit is uniformly dark and soft, usually in late summer, and cook the berries for syrup, jelly, wine or pies — never eat them raw. Gather flower umbels at full bloom earlier in the season if you want elderflower cordial instead of fruit.[1][3]",
+    "companions": "Give it a moist border back or a damp corner where its water needs are met; a second European elder makes a good near neighbor for cross-pollination, and it underplants well with moisture-tolerant perennials.[1][3]"
+  },
+  "fact_src": {
+    "size": [
+      1,
+      3
+    ],
+    "sun": [
+      1,
+      2
+    ],
+    "water": [
+      1,
+      2
+    ],
+    "spread": [
+      1,
+      2
+    ],
+    "seasons": [
+      1,
+      3
+    ],
+    "wildlife": [
+      1,
+      2
+    ],
+    "deer": [
+      2
+    ],
+    "toxic": [
+      1,
+      4
+    ],
+    "origin": [
+      4,
+      1
+    ],
+    "habitat": [
+      4
+    ],
+    "ph": [
+      1,
+      2
+    ]
+  },
+  "edible": {
+    "level": "caution",
+    "food": true,
+    "kinds": [
+      "flowers",
+      "fruit"
+    ],
+    "card": "Flowers & cooked ripe berries (cordial, syrup, jelly, wine)",
+    "summary": "Caution — the fragrant flowers and fully-ripe berries are edible only after the berries are cooked; raw berries and all green parts (leaves, stems, roots, seeds) are toxic.[1][4]",
+    "parts": "Two parts are used: the creamy flower umbels (for cordial, 'elderflower champagne', fritters and tea) and the large glossy-black ripe berries (for syrup, jelly, wine and pies). 'Marge' is bred for heavy, easy-to-strip berry trusses. Everything else — leaves, bark, stems, roots, and the seeds and unripe green berries — contains cyanogenic glycosides and is toxic.[1][3][4]",
+    "preparation": "Gather flower heads in full bloom and use fresh or dried; strip berries only when fully dark-ripe and always cook them — heating drives off the cyanogenic compounds. Never eat raw berries, and discard leaves, stems and green fruit. Eat only from unsprayed plants.[4][1]",
+    "caution": "All green parts of elder — leaves, stems, bark and roots — plus the seeds and unripe berries contain cyanogenic glycosides (sambunigrin) that release cyanide and cause nausea, vomiting and diarrhea; even ripe berries eaten raw or in quantity can make you sick, so berries must be cooked before eating. Keep children from chewing the pithy stems, and never use the wood or leaves as food.[1][4]"
+  },
+  "references": [
+    {
+      "name": "Missouri Botanical Garden Plant Finder — Sambucus nigra",
+      "url": "http://www.missouribotanicalgarden.org/plantfinder/PlantFinderDetails.aspx?taxonid=278936"
+    },
+    {
+      "name": "NC State Extension Gardener Plant Toolbox — Sambucus nigra",
+      "url": "https://plants.ces.ncsu.edu/plants/sambucus-nigra/"
+    },
+    {
+      "name": "New Earth Nursery — 'Marge' European Elderberry",
+      "url": "https://newearthnursery.com/products/marge-european-elderberry"
+    },
+    {
+      "name": "Sambucus nigra (native range & toxicology) — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sambucus_nigra"
+    }
+  ],
+  "shots": [
+    {
+      "local": "images/su-flower-t.jpg",
+      "full": "images/su-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/516645599/large.jpg",
+      "s": "summer",
+      "cap": "Summer — a broad flat umbel of creamy-white elder flowers · © geotropics (CC-BY-NC) / iNaturalist",
+      "by": "geotropics",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/287338897"
+    },
+    {
+      "local": "images/su-flower2-t.jpg",
+      "full": "images/su-flower2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/46738687/large.jpg",
+      "s": "summer",
+      "cap": "Summer — a flower umbel with green developing berries · © Matthew Zlatunich (CC-BY-NC) / iNaturalist",
+      "by": "Matthew Zlatunich",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/29931424"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/121415111/large.jpeg",
+      "s": "summer",
+      "cap": "The pinnate, toothed compound leaf of black elder · © Blake Bringhurst (CC-BY) / iNaturalist",
+      "by": "Blake Bringhurst",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/74302887"
+    },
+    {
+      "local": "images/fa-berries-t.jpg",
+      "full": "images/fa-berries.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/232682182/large.jpg",
+      "s": "fall",
+      "cap": "Late summer — glossy ripe black elderberries · © bgmckenna (CC-BY-NC) / iNaturalist",
+      "by": "bgmckenna",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/136345873"
+    },
+    {
+      "local": "images/fa-berries2-t.jpg",
+      "full": "images/fa-berries2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/86638773/large.jpg",
+      "s": "fall",
+      "cap": "Late summer — heavy trusses of ripe black elderberries on red stalks · © Susan J. Hewitt (CC-BY-NC) / iNaturalist",
+      "by": "Susan J. Hewitt",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/54449790"
+    },
+    {
+      "local": "images/su-bloom-t.jpg",
+      "full": "images/su-bloom.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/504223305/large.jpg",
+      "s": "summer",
+      "cap": "Summer — a bush in full creamy bloom · © luisantos (CC-BY-NC) / iNaturalist",
+      "by": "luisantos",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/280724229"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/140911265/large.jpg",
+      "s": "summer",
+      "cap": "A vigorous, bushy elder in full leaf · © Samuel Cannon (CC-BY-NC) / iNaturalist",
+      "by": "Samuel Cannon",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/85624406"
+    }
+  ]
+}

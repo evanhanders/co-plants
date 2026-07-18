@@ -1,0 +1,185 @@
+{
+  "collection": "currants",
+  "common": "Rovada red currant",
+  "botanical": "Ribes rubrum 'Rovada'",
+  "type": "Shrub",
+  "lifecycle": "Perennial",
+  "native": "Non-native",
+  "flower_color": [
+    "green",
+    "yellow"
+  ],
+  "bloom": [
+    "spring"
+  ],
+  "blurb": "The heavy-cropping late red currant: vigorous, upright, and hung with exceptionally long strigs of glossy crimson berries that ripen after most others — easy to pick by the handful for jelly and jam.",
+  "size": "3–5 ft × 3–5 ft",
+  "sun": "Full sun to part shade",
+  "water": "Moderate; steady summer moisture for the heavy crop",
+  "spread": "Clumping, upright multi-cane shrub; does not run or self-sow",
+  "seasons": "Greenish-yellow flower strigs in spring (late); very long strigs of translucent crimson berries ripen late July–August; green aromatic summer foliage; upright bare canes in winter",
+  "wildlife": "Bees work the spring flowers; songbirds strip the berries if left unnetted",
+  "deer": "Occasionally browsed; not strongly deer-resistant",
+  "toxic": "",
+  "winter": false,
+  "verified": "2026-07-18",
+  "origin": "Western Europe (Dutch-bred selection of the red currant)",
+  "habitat": "Damp woods and stream margins on fertile soils",
+  "ph": {
+    "min": 6.0,
+    "ideal": 6.5,
+    "max": 7.5
+  },
+  "gaps": "Photos are species-representative red currant (Ribes rubrum); no open-licensed 'Rovada' cultivar photo exists.",
+  "care": {
+    "hardiness": "USDA zones 3–7 — fully hardy across the Front Range (5b–6a) and grown in Colorado to high elevation. Red currants prefer cool summers, so 'Rovada' rewards an east-facing or lightly shaded site over a hot, baking exposure; its late flowering also helps it dodge late spring frosts.[2][1]",
+    "planting": "Set out bare-root or container plants in early spring while dormant, placing the crown 1–2 in below the soil line so new canes rise from the base; early fall also works for container stock. It grows a season or two in a large pot, but pots dry fast in Boulder's wind and freeze harder than the zone-3 wood — sink or insulate the pot, or plan to move it into open ground for the best, heaviest cropping.[1][2]",
+    "sun": "Full sun to part shade. 'Rovada' fruits best and sweetest in full sun but tolerates part shade well, especially hot summer afternoons on the Front Range, where a little shade cuts heat and water stress.[2][1]",
+    "soil": "Prefers organically rich, fertile, medium-moisture, well-drained loam at pH about 6–7, but tolerates Boulder's heavier alkaline clay at higher pH — amend clay with compost for drainage and moisture. It crops even on poorer soils.[2][1]",
+    "water": "Water regularly and evenly through the season to carry its heavy crop and keep the berries plump; the shallow roots dislike both drought and waterlogging. Avoid overhead watering, and mulch to cool and moisten the roots. Taper off after harvest, then water deeply once in November before freeze-up.[2][1]",
+    "spacing": "Space plants 3.5–4.5 ft apart, in rows 6–8 ft apart; each upright, vigorous bush matures to about 3–5 ft tall and wide.[2][1]",
+    "propagation": "Easiest from hardwood cuttings of year-old wood taken in late fall to winter, or by mound layering — heap soil over the base in spring and detach the rooted shoots the next year. Seed won't come true. 'Rovada' is self-fertile, so a single bush crops abundantly even when planted alone.[2][3]",
+    "bloom": "Inconspicuous greenish-yellow saucer flowers hang in short drooping racemes (strigs) in April–May, a little later than most currants; bees and early pollinators work them, and they set the long strigs of berries that ripen late July into August.[2][1]",
+    "feeding": "A light feeder — a spring dressing of rich compost or well-composted manure, or a modest balanced feed before bud-swell, supports the heavy crop. Avoid heavy nitrogen, which pushes soft growth at the expense of fruit.[2][3]",
+    "pruning": "Prune in late winter or early spring before the buds swell. Red currant fruits on spurs of two- and three-year-old wood, so build an open, upright bush of about nine to twelve canes — roughly three each of one-, two- and three-year-old wood. Each year remove wood over three years old at the base, along with weak, damaged and crowded stems, to spur vigorous new canes and keep the airy frame that ripens 'Rovada's heavy crop and limits powdery mildew.[2][3]",
+    "harvest": "Pick whole strigs when the berries are fully crimson and translucent, usually late July into August — later than most red currants, which extends the season. The exceptionally long strigs make for fast picking, and 'Rovada' is famously heavy-yielding; the fruit hangs well once ripe. Net against birds.[2][1]",
+    "troubles": "'Rovada' is noted for leaf-spot resistance and is generally trouble-free here; watch only for aphids (which curl new leaves), cane borers and spider mites, which rarely need spraying, and powdery mildew on crowded bushes — prune for airflow and avoid overhead watering. Like all Ribes it is an alternate host for white pine blister rust (Cronartium ribicola), a far weaker host than black currant; Colorado has no statewide ban, but keep it away from five-needle (white) pines as a courtesy.[2][1]",
+    "companions": "Tucks into a part-shade corner of an edible garden or the dappled edge of a shrub border, and pairs naturally with the other currants and gooseberries in a small-fruit bed. Keep it clear of five-needle white pines (a blister-rust precaution).[2][1]"
+  },
+  "fact_src": {
+    "size": [
+      2,
+      1
+    ],
+    "sun": [
+      2,
+      1
+    ],
+    "water": [
+      2,
+      1
+    ],
+    "spread": [
+      2,
+      1
+    ],
+    "seasons": [
+      2,
+      1
+    ],
+    "wildlife": [
+      2,
+      1
+    ],
+    "deer": [
+      1
+    ],
+    "toxic": [
+      1,
+      4
+    ],
+    "origin": [
+      4,
+      2
+    ],
+    "habitat": [
+      4
+    ],
+    "ph": [
+      2,
+      1
+    ]
+  },
+  "edible": {
+    "level": "edible",
+    "food": true,
+    "kinds": [
+      "fruit"
+    ],
+    "card": "Ripe red berries (jelly, jam, juice)",
+    "summary": "The glossy crimson berries are edible and excellent — bright and tart fresh, superb cooked into jelly, jam, syrup and sauce, and borne in enormous quantity on long, easy-to-pick strigs; no part of the plant is poisonous.[2][1]",
+    "parts": "The fruit is the part eaten: small, glossy, translucent red berries in exceptionally long pendant strigs, ripening late July into August. They are pleasantly tart fresh and famously good cooked, being naturally high in pectin so they set into bright jelly, jam, syrup, cordial and sauce with ease. The leaves, stems and roots are not used as food.[2][1]",
+    "preparation": "Eat fully ripe berries fresh, or strip whole strigs for cooking into jelly, jam, syrup and sauce; their high pectin also helps set lower-pectin fruits. Wash before use and pick out stems and leaves. Eat only fruit from plants you have not sprayed.[2][1]",
+    "caution": "Red currant has no toxic parts — the berries, leaves and stems are not poisonous — so it is safe to grow around children and pets. The only real cautions are ordinary ones: the raw fruit is quite tart, so most people prefer it cooked and sweetened, and eat only berries from unsprayed plants. Like all Ribes, the bush is an alternate host for white pine blister rust, a tree disease — a concern for nearby white pines, not for eating the fruit.[4][2]"
+  },
+  "references": [
+    {
+      "name": "CSU Extension — Currants, Gooseberries, and Jostaberries",
+      "url": "https://extension.colostate.edu/resource/currants-gooseberries-and-jostaberries/"
+    },
+    {
+      "name": "Missouri Botanical Garden Plant Finder — Ribes rubrum 'Rovada'",
+      "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=257222"
+    },
+    {
+      "name": "University of Minnesota Extension — Growing currants and gooseberries in the home garden",
+      "url": "https://extension.umn.edu/fruit/growing-currants-and-gooseberries-home-garden"
+    },
+    {
+      "name": "Ribes rubrum (redcurrant) — native range — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ribes_rubrum"
+    }
+  ],
+  "shots": [
+    {
+      "local": "images/sp-flower-t.jpg",
+      "full": "images/sp-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/38159365/large.jpg",
+      "s": "spring",
+      "cap": "Spring — currant flower strigs opening · © Nate Martineau (CC-BY-NC) / iNaturalist",
+      "by": "Nate Martineau",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/24678292"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/78572166/large.jpg",
+      "s": "summer",
+      "cap": "Currant foliage on a leafy shrub · © garrett293 (CC-BY-NC) / iNaturalist",
+      "by": "garrett293",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/49495944"
+    },
+    {
+      "local": "images/su-fruit-t.jpg",
+      "full": "images/su-fruit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/82123562/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — a strig of ripe red currants among the leaves · © D. N. (CC-BY-NC) / iNaturalist",
+      "by": "D. N.",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/51678581"
+    },
+    {
+      "local": "images/su-fruit2-t.jpg",
+      "full": "images/su-fruit2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/229884399/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — the bush hung with a heavy crop of glossy red currants · © Γιώργος Παντάκης (CC-BY-NC) / iNaturalist",
+      "by": "Γιώργος Παντάκης",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/134828453"
+    },
+    {
+      "local": "images/su-fruit3-t.jpg",
+      "full": "images/su-fruit3.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/10498736/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — the exceptionally long strigs of translucent crimson berries · © Carlos Galindo-Leal (CC-BY-NC) / iNaturalist",
+      "by": "Carlos Galindo-Leal",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/7949011"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/3916069/large.JPG",
+      "s": "summer",
+      "cap": "An upright, vigorous currant bush carrying fruit · © Owen Clarkin (CC-BY-NC) / iNaturalist",
+      "by": "Owen Clarkin",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/3387668"
+    }
+  ]
+}

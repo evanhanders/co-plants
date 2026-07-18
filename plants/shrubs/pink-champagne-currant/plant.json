@@ -1,0 +1,183 @@
+{
+  "collection": "currants",
+  "common": "Pink Champagne currant",
+  "botanical": "Ribes rubrum 'Pink Champagne'",
+  "type": "Shrub",
+  "lifecycle": "Perennial",
+  "native": "Non-native",
+  "flower_color": [
+    "green",
+    "yellow"
+  ],
+  "bloom": [
+    "spring"
+  ],
+  "aka": [
+    "'Gloire des Sablons' currant",
+    "Pink currant"
+  ],
+  "blurb": "A connoisseur's pink currant: strigs of translucent pale-pink berries, sweeter and milder than the reds. Self-fertile and pretty, if shyer to crop than a workhorse red currant.",
+  "size": "3–5 ft × 3–5 ft",
+  "sun": "Full sun to part shade",
+  "water": "Moderate; steady summer moisture for good fruit set",
+  "spread": "Clumping multi-cane shrub; does not run or self-sow",
+  "seasons": "Greenish-yellow flower strigs in spring; translucent pale-pink berry strigs ripen in July; green summer foliage; bare cane frame in winter",
+  "wildlife": "Bees work the spring flowers; songbirds eat the berries if left unnetted",
+  "deer": "Occasionally browsed; not strongly deer-resistant",
+  "toxic": "",
+  "winter": false,
+  "verified": "2026-07-18",
+  "origin": "Western Europe (garden selection of the red currant)",
+  "habitat": "Damp woods and stream margins on fertile soils",
+  "ph": {
+    "min": 6.0,
+    "ideal": 6.5,
+    "max": 7.5
+  },
+  "gaps": "Photos are representative red currant (Ribes rubrum), including pale/white-fruited forms — no open-licensed 'Pink Champagne' cultivar photo exists; the pale translucent-berry shots best approximate its pink fruit.",
+  "care": {
+    "hardiness": "USDA zones 3–7 — fully hardy across the Front Range (5b–6a) and grown in Colorado to high elevation. Like all red currants it prefers cool summers, so it rewards an east-facing or lightly shaded site over a hot, baking exposure.[1][2]",
+    "planting": "Set out bare-root or container plants in early spring while dormant, placing the crown 1–2 in below the soil line so new canes rise from the base; early fall also works for container stock. It grows a season or two in a large pot, but pots dry fast in Boulder's wind and freeze harder than the zone-3 wood — sink or insulate the pot, or plan to move it into the ground for the best cropping.[1][2]",
+    "sun": "Full sun to part shade. Pink currant, like the reds, is one of the few fruit shrubs that genuinely tolerates part shade — it fruits best in full sun but still crops in light or afternoon shade, welcome on the hot Front Range where a little shade eases heat and water stress.[1][2]",
+    "soil": "Prefers fertile, organically rich, well-drained loam at pH about 6–7, but tolerates Boulder's heavier alkaline clay at higher pH — amend clay with compost to improve drainage and moisture retention. It crops even on poorer soils.[1][2]",
+    "water": "Give steady, even moisture through the growing season for good fruit set and size; the shallow roots dislike both drought and waterlogging. Avoid overhead watering. Taper off after harvest to harden the plant, then water deeply once in November before freeze-up.[1]",
+    "spacing": "Space plants 3.5–4.5 ft apart, in rows 6–8 ft apart; each bush matures to about 3–5 ft tall and wide.[1][2]",
+    "propagation": "Easiest from hardwood cuttings of year-old wood taken in late fall to winter, or by mound layering — heap soil over the base in spring and detach the rooted shoots the next year. Seed won't come true. 'Pink Champagne' is self-fertile, so a single bush sets fruit, though it is a lighter cropper than the workhorse reds.[1][3]",
+    "bloom": "Inconspicuous greenish-yellow saucer flowers hang in short drooping racemes (strigs) in April–May; bees and early pollinators work them, and they set the pale-pink berries that ripen in July.[2][1]",
+    "feeding": "A light feeder — a spring dressing of compost or well-composted manure, or a modest granular feed before bud-swell, is plenty. Avoid heavy nitrogen, which pushes soft growth at the expense of fruit.[1][3]",
+    "pruning": "Prune in late winter or early spring before the buds swell. Pink currant fruits on spurs of two- and three-year-old wood, so build an open bush of about nine to twelve canes — roughly three each of one-, two- and three-year-old wood. Each year cut the oldest stems (over three years old) to the base and thin crowded younger growth; the airy frame ripens fruit and limits powdery mildew. Left unrenewed, a bush of over-old dark wood crops less and less.[1][3]",
+    "harvest": "Pick whole strigs when the berries are fully colored and translucent pale-pink, usually over a two-to-three-week window in July; they hang well once ripe. Yields are lighter than a red currant, so net against birds if you want the crop yourself.[1][2]",
+    "troubles": "On the Front Range pests are minor — aphids, cane borers and spider mites rarely need spraying. Powdery mildew can appear on crowded bushes, so prune for airflow and avoid overhead watering. Like all Ribes it is an alternate host for white pine blister rust (Cronartium ribicola) — a far weaker host than black currant, and Colorado has no statewide ban, but keep it away from five-needle (white) pines as a courtesy.[1][3]",
+    "companions": "Tucks into a part-shade corner of an edible garden or the dappled edge of a shrub border, and pairs naturally with the red and white currants and gooseberries in a small-fruit bed. Keep it clear of five-needle white pines (a blister-rust precaution).[1][3]"
+  },
+  "fact_src": {
+    "size": [
+      1,
+      2
+    ],
+    "sun": [
+      1,
+      2
+    ],
+    "water": [
+      1
+    ],
+    "spread": [
+      1,
+      2
+    ],
+    "seasons": [
+      1,
+      2
+    ],
+    "wildlife": [
+      1,
+      2
+    ],
+    "deer": [
+      2
+    ],
+    "toxic": [
+      1,
+      3
+    ],
+    "origin": [
+      3
+    ],
+    "habitat": [
+      3
+    ],
+    "ph": [
+      1,
+      2
+    ]
+  },
+  "edible": {
+    "level": "edible",
+    "food": true,
+    "kinds": [
+      "fruit"
+    ],
+    "card": "Ripe pink berries (fresh, jelly, dessert)",
+    "summary": "The translucent pale-pink berries are edible and prized — sweeter, milder and less acid than red currants, delicious fresh and lovely in pale jellies and desserts; no part of the plant is poisonous.[1][2]",
+    "parts": "The fruit is the part eaten: small, glossy, translucent pink berries in pendant strigs, ripening in July. Pink currants are a cross in flavor between the tart reds and the sweet whites — sweet enough to eat fresh out of hand, and they cook into a delicately colored jelly, syrup and dessert. The leaves, stems and roots are not used as food.[1][2]",
+    "preparation": "Eat fully ripe berries fresh, or strip them from the strigs for cooking into jelly, syrup and desserts; being currants they carry good natural pectin, so they set jellies readily. Wash before use and pick out stems and leaves. Eat only fruit from plants you have not sprayed.[1][2]",
+    "caution": "Pink currant has no toxic parts — the berries, leaves and stems are not poisonous — so it is safe to grow around children and pets. The only real cautions are ordinary ones: eat only berries from unsprayed plants. Note that, like all Ribes, the bush is an alternate host for white pine blister rust, a tree disease — a concern for nearby white pines, not for eating the fruit.[3][1]"
+  },
+  "references": [
+    {
+      "name": "CSU Extension — Currants, Gooseberries, and Jostaberries",
+      "url": "https://extension.colostate.edu/resource/currants-gooseberries-and-jostaberries/"
+    },
+    {
+      "name": "University of Minnesota Extension — Growing currants and gooseberries in the home garden",
+      "url": "https://extension.umn.edu/fruit/growing-currants-and-gooseberries-home-garden"
+    },
+    {
+      "name": "Ribes rubrum (redcurrant; white & pink cultivars) — native range — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ribes_rubrum"
+    }
+  ],
+  "shots": [
+    {
+      "local": "images/sp-flower-t.jpg",
+      "full": "images/sp-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/129107674/large.jpeg",
+      "s": "spring",
+      "cap": "Spring — drooping strigs of pale greenish currant flowers · © Dawn Davis (CC-BY) / iNaturalist",
+      "by": "Dawn Davis",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/78861164"
+    },
+    {
+      "local": "images/sp-flower2-t.jpg",
+      "full": "images/sp-flower2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/484627449/large.jpg",
+      "s": "spring",
+      "cap": "Spring — face-on greenish-yellow currant saucer flowers · © Jared Belsky (CC-BY-NC) / iNaturalist",
+      "by": "Jared Belsky",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/269531346"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/124298429/large.jpg",
+      "s": "summer",
+      "cap": "Lobed currant foliage with a bare strig stalk · © Joe MacIndewar (CC-BY-NC) / iNaturalist",
+      "by": "Joe MacIndewar",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/75966821"
+    },
+    {
+      "local": "images/su-fruit-t.jpg",
+      "full": "images/su-fruit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/392515313/large.jpg",
+      "s": "summer",
+      "cap": "Summer — currant strigs ripening, the translucent berries paling toward the tips · © sklange (CC-BY-NC) / iNaturalist",
+      "by": "sklange",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/221636576"
+    },
+    {
+      "local": "images/su-fruit2-t.jpg",
+      "full": "images/su-fruit2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/678351036/large.jpg",
+      "s": "summer",
+      "cap": "Summer — a currant bush hung with pale ripening strigs · © daisybb (CC-BY-NC) / iNaturalist",
+      "by": "daisybb",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/371283972"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/35745984/large.jpg",
+      "s": "summer",
+      "cap": "A currant bush in full leaf · © zateshno (CC-BY-NC) / iNaturalist",
+      "by": "zateshno",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/23057702"
+    }
+  ]
+}

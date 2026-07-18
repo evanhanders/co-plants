@@ -54,7 +54,7 @@ function render(){
 
 /* lightbox is delegated on the stable #favGrid once; wireReels re-runs per render */
 wireLightbox(grid);
-window.Account.ready()
-  .then(loadSeed)
+/* load plant data in parallel with the account session (auth.js caps ready() so it can't hang) */
+Promise.all([window.Account.ready(), loadSeed()])
   .then(function(){ render(); window.Account.onChange(render); });
 })();

@@ -1,0 +1,182 @@
+{
+  "common": "Windwalker Royal Red sage",
+  "botanical": "Salvia darcyi × microphylla 'Windwalker Royal Red'",
+  "type": "Subshrub",
+  "lifecycle": "Perennial",
+  "native": "Non-native",
+  "flower_color": [
+    "red"
+  ],
+  "bloom": [
+    "summer",
+    "fall"
+  ],
+  "blurb": "A Plant Select hummingbird magnet: big, blood-red tubular flowers cloak a mound of silvery, aromatic large leaves from midsummer until frost. A cold-hardy cross of the tender Mexican Salvia darcyi with S. microphylla, so it takes Front Range winters the species can't.",
+  "size": "~3–4 ft tall × 3–4 ft wide",
+  "sun": "Full, hot sun",
+  "water": "Low; moderate-to-xeric — grow it dry once established",
+  "spread": "Slowly stoloniferous woody-based clump; growing it dry keeps it in bounds",
+  "seasons": "Wands of scarlet-red flowers from late June through October; silvery-green aromatic foliage all season; cut to the ground for winter",
+  "wildlife": "A hummingbird magnet; also draws bees and butterflies to the nectar-rich tubes",
+  "deer": "Deer-resistant — the aromatic sage foliage is passed over",
+  "toxic": "An ornamental sage grown for its flowers, not a culinary herb; no significant toxicity reported, but it is not eaten",
+  "winter": false,
+  "verified": "2026-07-18",
+  "ph": {
+    "min": 6.0,
+    "ideal": 6.8,
+    "max": 7.8
+  },
+  "shots": [
+    {
+      "local": "images/su-flower-t.jpg",
+      "full": "images/su-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/293037948/large.jpg",
+      "s": "summer",
+      "cap": "Summer — brilliant scarlet tubular flowers face-on · © Justin Mair (CC-BY-NC) / iNaturalist",
+      "by": "Justin Mair",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/132026030"
+    },
+    {
+      "local": "images/su-flower2-t.jpg",
+      "full": "images/su-flower2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/10799536/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — a single red flower and buds · © Ron Chang (curated by Cat Chang) (CC-BY-NC) / iNaturalist",
+      "by": "Ron Chang (curated by Cat Chang)",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/8156368"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/193200602/large.jpg",
+      "s": "summer",
+      "cap": "Summer — large soft triangular aromatic leaves · © Josh/Joshua (CC-BY-NC) / iNaturalist",
+      "by": "Josh/Joshua",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/114410695"
+    },
+    {
+      "local": "images/su-bloom-mass-t.jpg",
+      "full": "images/su-bloom-mass.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/269168064/large.jpg",
+      "s": "summer",
+      "cap": "Summer — tall wands of red flowers over the clump · © Arnan Pawawongsak (CC-BY-NC) / iNaturalist",
+      "by": "Arnan Pawawongsak",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/155698668"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/501814781/large.jpg",
+      "s": "summer",
+      "cap": "Summer — the whole plant in scarlet bloom · © jessicalanewilliams (CC-BY-NC) / iNaturalist",
+      "by": "jessicalanewilliams",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/279448326"
+    },
+    {
+      "local": "images/su-context-t.jpg",
+      "full": "images/su-context.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/157969883/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — a silvery-leaved shrub in a dry landscape · © Greener (CC-BY-NC) / iNaturalist",
+      "by": "Greener",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/95174441"
+    },
+    {
+      "local": "images/su-foliage2-t.jpg",
+      "full": "images/su-foliage2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/134940038/large.jpg",
+      "s": "summer",
+      "cap": "Summer — the fresh green foliage mound · © jess_clemson21 (CC-BY-NC) / iNaturalist",
+      "by": "jess_clemson21",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/82227251"
+    }
+  ],
+  "care": {
+    "hardiness": "Rated USDA zones 5–9, so it is reliably root-hardy through Boulder's zone 5b–6a — the whole point of the hybrid, since the pure Mexican Salvia darcyi parent is only about zone 7. It dies to the ground in winter and resprouts from the crown in late spring.[1][2]",
+    "planting": "Set plants out in late spring, after the mid-May last frost and once the soil has warmed, on a hot, sharply drained site. In containers the roots are far less cold-hardy than in the ground, so a potted plant needs a sheltered, protected spot or an unheated garage over winter, and it dries out fast in our low humidity.[1][2]",
+    "sun": "Give it full, hot sun — at least six hours — for the densest habit and heaviest bloom; it is built for the high-altitude Front Range light.[1][2]",
+    "soil": "Plant in lean, well-drained, rock-garden-type soil; it takes our clay, loam or sandy ground and tolerates alkaline pH, but wet or poorly drained soil in winter is what kills it.[1]",
+    "water": "Moderate to xeric — water to establish the first season, then keep it on the dry side. Growing this salvia very dry after establishment keeps it more compact and less rambunctious; it needs little to no supplemental water here in most years.[1][2]",
+    "spacing": "Give each plant 3–4 ft; it makes a broad mound and creeps slowly outward on stolons, so leave room rather than crowding it.[1]",
+    "bloom": "Huge, blood-red tubular flowers open on tall wands from late June through October, carried well above the foliage — a long, hummingbird-timed season through the hottest months.[1][2]",
+    "feeding": "Undemanding and best grown lean; rich soil or heavy feeding makes it floppy and shortens its life. Skip fertilizer or give only a light spring topdressing of compost.[1]",
+    "pruning": "Because it blooms on new wood, cut the whole plant back hard — to about 6–8 in — in early June once fresh growth has emerged at the base; this forces a compact, densely branched, floriferous mound instead of a leggy one. In early spring, hand-trim away the previous year's dead stems down to the live crown. Don't cut back in fall — leave the old stems standing over winter to protect the crown, and wait for spring resprout before removing them, since cutting into cold-dormant wood can kill borderline plants.[1][2]",
+    "maintenance": "Very low care once sited: leave it dry, deadhead or lightly shear spent wands through summer to keep flowers coming, and pull the occasional stoloniferous shoot at the clump's edge if it wanders. Its main winter risk is wet feet, not cold, so make sure the crown drains.[1][2]",
+    "propagation": "It is a sterile-ish garden hybrid, so grow it from soft or semi-ripe stem cuttings (or buy started plants) rather than seed to keep it true; cuttings root readily in a gritty mix, and established clumps can be lifted and divided in spring.[1][3]"
+  },
+  "references": [
+    {
+      "name": "Plant Select — WINDWALKER royal red salvia (Salvia darcyi × S. microphylla)",
+      "url": "https://plantselect.org/plant/salvia-darcyi-x-s-microphylla-pwin03s/"
+    },
+    {
+      "name": "Plant Select — Bring on the hummers with WINDWALKER royal red salvia",
+      "url": "https://plantselect.org/plantstories/bring-on-the-hummers-with-windwalker-royal-red-salvia/"
+    },
+    {
+      "name": "Fine Gardening — Mexican sage (Salvia darcyi)",
+      "url": "https://www.finegardening.com/plant/mexican-sage-salvia-darcyi"
+    },
+    {
+      "name": "Wikipedia — Salvia darcyi",
+      "url": "https://en.wikipedia.org/wiki/Salvia_darcyi"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      1
+    ],
+    "sun": [
+      1,
+      2
+    ],
+    "water": [
+      1,
+      2
+    ],
+    "spread": [
+      1,
+      3
+    ],
+    "seasons": [
+      1,
+      2
+    ],
+    "wildlife": [
+      1,
+      2
+    ],
+    "deer": [
+      1
+    ],
+    "toxic": [
+      1
+    ],
+    "ph": [
+      1
+    ],
+    "origin": [
+      3,
+      4
+    ],
+    "habitat": [
+      3,
+      4
+    ]
+  },
+  "origin": "Sierra Madre Oriental, NE Mexico (Salvia darcyi parent) × Mexican/SW-US S. microphylla",
+  "habitat": "Rocky limestone slopes at ~9,000 ft in the eastern Sierra Madre Oriental",
+  "edible": {
+    "level": "inedible",
+    "summary": "An ornamental sage grown for its hummingbird flowers, not a culinary herb — no part is used as food.[1][3]",
+    "caution": "This is a garden Salvia, unrelated in use to culinary sage (Salvia officinalis); it is not a food or seasoning plant and has no documented edible use. The aromatic foliage is best left to the hummingbirds. As with any ornamental, do not eat it.[1][3]"
+  }
+}

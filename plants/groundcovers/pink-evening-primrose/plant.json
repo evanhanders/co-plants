@@ -1,0 +1,176 @@
+{
+  "common": "Pink evening primrose",
+  "botanical": "Oenothera speciosa 'Siskiyou'",
+  "type": "Groundcover",
+  "lifecycle": "Perennial",
+  "native": "Non-native",
+  "flower_color": [
+    "pink",
+    "white"
+  ],
+  "bloom": [
+    "spring",
+    "summer"
+  ],
+  "blurb": "A low, fast-spreading carpet of clear light-pink, day-open cups over a long late-spring-to-summer season. 'Siskiyou' is a tidy pink selection, but the species is a determined runner — plant it where it can roam, not in a mixed border. (Distinct from the guide's clump-forming yellow evening primrose, Oenothera macrocarpa.)",
+  "size": "~10–15 in tall × spreading indefinitely",
+  "sun": "Full sun (part shade grows foliage but few flowers)",
+  "water": "Low; xeric once established — goes summer-dormant if bone dry",
+  "spread": "Runs hard by underground stolons AND self-seed — needs a barrier or a naturalized spot to contain it",
+  "seasons": "Clear pink, day-open cups from late spring through summer; may go dormant in the heat of a dry summer and reflush with fall moisture; dies back in winter",
+  "wildlife": "Bees and butterflies work the nectar (supports specialist bees); seeds feed finches and small birds",
+  "deer": "Highly deer-resistant",
+  "toxic": "No part is reported as poisonous",
+  "winter": false,
+  "verified": "2026-07-18",
+  "ph": {
+    "min": 6.0,
+    "ideal": 7.2,
+    "max": 8.2
+  },
+  "shots": [
+    {
+      "local": "images/su-flower-t.jpg",
+      "full": "images/su-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/271355014/large.jpg",
+      "s": "summer",
+      "cap": "Summer — a clear pink cup face-on, a butterfly at the center · © Christie Gardner (CC-BY-NC) / iNaturalist",
+      "by": "Christie Gardner",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/156903753"
+    },
+    {
+      "local": "images/su-flower2-t.jpg",
+      "full": "images/su-flower2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/287894303/large.jpg",
+      "s": "summer",
+      "cap": "Summer — pale-pink flowers showing the cross-shaped stigma · © reiver (CC-BY-NC) / iNaturalist",
+      "by": "reiver",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/166263976"
+    },
+    {
+      "local": "images/su-flower3-t.jpg",
+      "full": "images/su-flower3.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/629295998/large.jpg",
+      "s": "summer",
+      "cap": "Summer — a cluster of pink flowers · © kiannas21 (CC-BY-NC) / iNaturalist",
+      "by": "kiannas21",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/344731300"
+    },
+    {
+      "local": "images/su-bloom-mass-t.jpg",
+      "full": "images/su-bloom-mass.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/43177369/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — flowers massed over the foliage · © Kari Cook (CC-BY-NC) / iNaturalist",
+      "by": "Kari Cook",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/27731021"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/271798388/large.jpg",
+      "s": "summer",
+      "cap": "Summer — a low mat carpeted in pink · © carmelasimmons (CC-BY-NC) / iNaturalist",
+      "by": "carmelasimmons",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/157177843"
+    },
+    {
+      "local": "images/su-context-t.jpg",
+      "full": "images/su-context.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/71974768/large.jpg",
+      "s": "summer",
+      "cap": "Summer — a spreading drift in bloom · © brose7300 (CC-BY-NC) / iNaturalist",
+      "by": "brose7300",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/45391031"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/196319120/large.jpg",
+      "s": "summer",
+      "cap": "Summer — flowers over the narrow leafy stems · © everettdaugherty (CC-BY-NC) / iNaturalist",
+      "by": "everettdaugherty",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/115984446"
+    }
+  ],
+  "care": {
+    "hardiness": "Hardy in USDA zones 5a–8b, so it takes Boulder's zone 5b–6a winters comfortably, dying back to the ground and resprouting from its running rootstock in spring.[1]",
+    "planting": "Set plants out in spring after the mid-May last frost on a sunny, well-drained site — and choose that site carefully, because it will spread from it. In containers it makes an easy trailing spiller and is far easier to keep in bounds than in open ground; a pot dries fast in our low humidity, so water it more than an in-ground plant.[1]",
+    "sun": "Full sun gives the heaviest bloom; in shade it will grow and even spread as a groundcover but flowers sparsely.[1]",
+    "soil": "Unfussy about soil — it takes loam, clay, sand, rocky or gravelly ground and our neutral-to-alkaline (pH ~6.0 up past 8.0) Front Range soils — as long as it drains. It only fails in soggy, poorly drained spots.[1]",
+    "water": "Very drought-tolerant and genuinely xeric once established; it needs little to no supplemental water here, and will simply go summer-dormant if it gets none, greening up again with rain. Overwatering only makes it spread faster and flop.[1][2]",
+    "spacing": "A single plant colonizes a wide patch, so space plants 12–18 in apart for quick cover — but only where spread is welcome. In a bed, sink a root barrier or plant it in a buried bottomless container to stop the runners.[1]",
+    "bloom": "Cup-shaped, 1–2 in pink flowers with red veining and a yellow throat open over a long late-spring-into-summer season; despite the name, this species' blooms typically open by day here, not just at dusk.[1][2]",
+    "propagation": "Easiest by division of the spreading rootstock in spring or fall — a shovel-slice of runner roots readily. It also grows from seed (sow in fall) and from stem cuttings, and self-sows freely.[1]",
+    "selfsow": "It reseeds as well as running by root, so it recruits new plants beyond the parent patch. If you don't want the seedlings, shear off the spent flowers before the seed capsules ripen.[1]",
+    "maintenance": "The one real job is containment: this is a high-maintenance spreader that can overrun a perennial garden by stolon and seed, so it is best used as a groundcover in a naturalized area, a hell strip, or behind a barrier. Cut it back after the main flush to tidy it and cue rebloom, and edge or pull the runners each season to hold the line.[1][2]",
+    "troubles": "Trouble-free of pests and disease — its only 'problem' is vigor: sited in a mixed bed it will crowd less-aggressive neighbors, so give it room or rein it in.[1]"
+  },
+  "references": [
+    {
+      "name": "NC State Extension Plant Toolbox — Oenothera speciosa",
+      "url": "https://plants.ces.ncsu.edu/plants/oenothera-speciosa/"
+    },
+    {
+      "name": "Lady Bird Johnson Wildflower Center — Oenothera speciosa",
+      "url": "https://www.wildflower.org/plants/result.php?id_plant=OESP2"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      1
+    ],
+    "sun": [
+      1
+    ],
+    "water": [
+      1,
+      2
+    ],
+    "spread": [
+      1
+    ],
+    "seasons": [
+      1,
+      2
+    ],
+    "wildlife": [
+      1,
+      2
+    ],
+    "deer": [
+      2
+    ],
+    "toxic": [
+      1
+    ],
+    "ph": [
+      1
+    ],
+    "origin": [
+      1,
+      2
+    ],
+    "habitat": [
+      1,
+      2
+    ]
+  },
+  "origin": "South-central US (NE/KS/MO/OK/TX) to northeastern Mexico",
+  "habitat": "Prairies, grasslands, roadsides and open, disturbed ground",
+  "gaps": "Photos are species-level Oenothera speciosa representing the near-identical clear-pink 'Siskiyou' selection — no distinct CC 'Siskiyou' cultivar shots exist.",
+  "edible": {
+    "level": "caution",
+    "summary": "Young shoots and leaves of Oenothera speciosa have documented use as a cooked green, but it is grown here as an ornamental groundcover, not a food plant — treat it with caution and be sure of your identification.[1][2]",
+    "parts": "The parts with a food record are the young leaves and shoots, gathered before flowering (older foliage turns tough) and eaten cooked. This is a minor, historical use rather than an established food crop.[2]",
+    "preparation": "Following that record, young spring leaves and shoots are cooked as a pot-green, not eaten raw; harvest before the plant flowers for the best flavor. Because the use is minor, prepare conservatively and in small amounts.[2]",
+    "caution": "No part of Oenothera speciosa is reported as poisonous, but it is not a well-documented, established food plant, so do not rely on it as forage — identify it with certainty and eat only small, cooked amounts of correctly-identified young growth. When in doubt, don't.[1][2]"
+  }
+}

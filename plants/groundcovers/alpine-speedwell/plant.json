@@ -1,0 +1,167 @@
+{
+  "common": "Alpine speedwell",
+  "botanical": "Veronica allionii",
+  "type": "Groundcover",
+  "lifecycle": "Perennial",
+  "native": "Non-native",
+  "flower_color": [
+    "blue",
+    "purple"
+  ],
+  "bloom": [
+    "summer"
+  ],
+  "blurb": "A dense, slow-creeping mat of glossy olive-green leaves that throws up short, chubby spikes of deep violet-blue flowers in early summer. A tough, tidy alpine from the European Alps — a distinct mat-forming speedwell, unlike the guide's upright spike speedwells or the tiny-leaved Turkish creeper.",
+  "size": "~4–6 in tall × 8–12 in wide",
+  "sun": "Full sun",
+  "water": "Low to moderate; well-drained soil, never soggy",
+  "spread": "Slow-creeping mat — well-behaved, not invasive",
+  "seasons": "Chubby deep violet-blue flower spikes through early-to-late summer; glossy mat semi-evergreen where winters are mild",
+  "wildlife": "Bees and butterflies visit the flower spikes",
+  "deer": "Deer- and rabbit-resistant",
+  "toxic": "Not known to be toxic",
+  "winter": false,
+  "verified": "2026-07-18",
+  "ph": {
+    "min": 5.5,
+    "ideal": 6.8,
+    "max": 7.8
+  },
+  "shots": [
+    {
+      "local": "images/su-flower-t.jpg",
+      "full": "images/su-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/367778121/large.jpg",
+      "s": "summer",
+      "cap": "Summer — a dense deep blue-violet flower spike · © Thierry Arbault (CC-BY) / iNaturalist",
+      "by": "Thierry Arbault",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/207892114"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/113297832/large.jpg",
+      "s": "summer",
+      "cap": "Summer — a flower spike over a trailing glossy-leaved mat · © Denis Bastianelli (CC-BY) / iNaturalist",
+      "by": "Denis Bastianelli",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/69774298"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/293985505/large.jpg",
+      "s": "summer",
+      "cap": "Summer — glossy leaves at the base of a flower spike · © jeanloupbenoit (CC-BY-NC) / iNaturalist",
+      "by": "jeanloupbenoit",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/169561137"
+    },
+    {
+      "local": "images/su-foliage2-t.jpg",
+      "full": "images/su-foliage2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/4887245/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — the dense mat of glossy leaves · © Thomas Koffel (CC-BY) / iNaturalist",
+      "by": "Thomas Koffel",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/4111607"
+    },
+    {
+      "local": "images/su-bloom-mass-t.jpg",
+      "full": "images/su-bloom-mass.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/47595912/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — a mat studded with blue-violet spikes · © Thomas Koffel (CC-BY) / iNaturalist",
+      "by": "Thomas Koffel",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/30463693"
+    },
+    {
+      "local": "images/su-context-t.jpg",
+      "full": "images/su-context.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/344680091/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — plants in their rocky alpine habitat · © jltasset (CC-BY-NC) / iNaturalist",
+      "by": "jltasset",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/195863052"
+    },
+    {
+      "local": "images/su-flower2-t.jpg",
+      "full": "images/su-flower2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550436400/large.jpg",
+      "s": "summer",
+      "cap": "Summer — a flower spike and glossy foliage · © Ryan Boswarthick (CC-BY-NC) / iNaturalist",
+      "by": "Ryan Boswarthick",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/305294031"
+    }
+  ],
+  "care": {
+    "hardiness": "Very cold-hardy — rated roughly USDA zones 2–9 — so an alpine like this shrugs off Boulder's zone 5b–6a winters; cold is never its problem, poor drainage is.[1][2]",
+    "planting": "Plant in spring after the mid-May last frost (or in early fall) on a sunny, sharply drained site — a rock garden, trough, raised bed or gritty border edge is ideal. In our heavy clay, plant it high on a grit-amended mound so water drains away from the crown. It also does well in a well-drained container or alpine trough.[1][2]",
+    "sun": "Full sun gives the tightest mat and the most flower spikes; it wants the open, bright exposure of its alpine home.[1]",
+    "soil": "Undemanding about soil type — it takes normal, sandy or clay ground at neutral, alkaline or acid pH — but it insists on good drainage; a lean, gritty, fast-draining mix suits it best.[1]",
+    "water": "Give moderate water while it establishes and during dry spells, letting the top of the soil dry between waterings; once settled it is fairly drought-tolerant. The one thing to avoid is standing moisture, which rots the crown.[1][2]",
+    "spacing": "Space plants about 8–12 in apart for a knit mat; it is a slow grower that stays put, so it makes a neat, non-aggressive groundcover or edging.[1]",
+    "bloom": "Short, dense 'chubby' spikes of deep violet-blue flowers cover the mat from early through late summer, held just above the glossy foliage.[1]",
+    "maintenance": "Almost none — shear off the spent flower spikes after bloom to tidy the mat and it may reflush lightly. The foliage stays evergreen in mild winters but can brown in a hard, dry Front Range cold snap; tidy any winter-burned leaves in spring. The main killer is wet clay, so keep the crown dry.[1][2]",
+    "propagation": "Increase it by division of the creeping mat in spring or early fall, or by soft stem cuttings; it can also be grown from seed. Division is the quick, reliable way to make more.[1][2]",
+    "troubles": "Trouble-free of pests and disease in a dry, well-drained spot; crown and root rot in soggy or poorly drained soil is essentially the only thing that fails it.[1][2]"
+  },
+  "references": [
+    {
+      "name": "Perennials.com (Ball Horticultural) — Veronica allionii (Alpine Speedwell)",
+      "url": "http://www.perennials.com/plants/veronica-allionii.html"
+    },
+    {
+      "name": "The Old Farmer's Almanac — Veronica (Speedwell)",
+      "url": "https://www.almanac.com/plant/veronica-speedwell"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      1
+    ],
+    "sun": [
+      1
+    ],
+    "water": [
+      1,
+      2
+    ],
+    "spread": [
+      1
+    ],
+    "seasons": [
+      1
+    ],
+    "wildlife": [
+      2
+    ],
+    "deer": [
+      1
+    ],
+    "toxic": [
+      2
+    ],
+    "ph": [
+      1
+    ],
+    "origin": [
+      1
+    ],
+    "habitat": [
+      1
+    ]
+  },
+  "origin": "European Alps",
+  "habitat": "Alpine and subalpine rocky slopes and screes of the Alps",
+  "edible": {
+    "level": "inedible",
+    "summary": "Grown purely as an ornamental alpine groundcover — no part is used as food.[1]",
+    "caution": "Alpine speedwell has no documented edible use; it is a rock-garden ornamental, not a food or herb plant. Don't eat it.[1][2]"
+  }
+}

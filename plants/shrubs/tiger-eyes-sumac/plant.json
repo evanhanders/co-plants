@@ -1,0 +1,202 @@
+{
+  "collection": "sumacs",
+  "common": "Tiger Eyes sumac",
+  "botanical": "Rhus typhina 'Tiger Eyes'",
+  "type": "Shrub",
+  "lifecycle": "Perennial",
+  "native": "Non-native",
+  "aka": [
+    "'Bailtiger' sumac",
+    "Cutleaf staghorn sumac"
+  ],
+  "flower_color": [
+    "yellow",
+    "green"
+  ],
+  "bloom": [
+    "summer"
+  ],
+  "blurb": "A dwarf, golden cutleaf form of staghorn sumac: deeply dissected leaves emerge chartreuse and turn glowing yellow over rosy-pink stems, then blaze orange-scarlet in fall. It suckers far less than the wild species and stays a tidy ~6 ft. A garden selection of an eastern-North-American sumac — not a Colorado native — with the classic velvety, antler-like winter stems.",
+  "size": "~6 ft tall × 6 ft wide",
+  "sun": "Full sun to part shade (best color in full sun)",
+  "water": "Low to moderate; drought-tolerant once established",
+  "spread": "Suckers by rhizome, but far less than wild staghorn sumac — still give it root room or edge-control",
+  "seasons": "Chartreuse-to-gold dissected foliage over rosy-pink stems in summer; greenish-yellow flower panicles in early summer; brilliant orange-scarlet fall color; fuzzy crimson berry cones (on female plants, sparsely) and velvety bare stems in winter",
+  "wildlife": "Pollinators at bloom; birds eat the berry cones; a larval host for the Luna moth and spring azure butterfly",
+  "deer": "Somewhat deer-resistant; browsed only when other forage is scarce",
+  "toxic": "",
+  "winter": true,
+  "verified": "2026-07-18",
+  "ph": {
+    "min": 5.5,
+    "ideal": 6.5,
+    "max": 7.8
+  },
+  "origin": "Eastern North America (a garden selection of staghorn sumac)",
+  "habitat": "Dry, rocky open ground, roadsides and woodland edges (of the wild species)",
+  "shots": [
+    {
+      "local": "images/fa-berries-t.jpg",
+      "full": "images/fa-berries.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/9478923/large.jpg",
+      "s": "fall",
+      "cap": "Fall — a close-up of the crimson, fuzzy berry cone · © christine123 (CC-BY) / iNaturalist",
+      "by": "christine123",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/7319870"
+    },
+    {
+      "local": "images/su-flower-t.jpg",
+      "full": "images/su-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/526905941/large.jpg",
+      "s": "summer",
+      "cap": "Summer — a greenish-yellow flower panicle · © Sandy Wolkenberg (CC-BY) / iNaturalist",
+      "by": "Sandy Wolkenberg",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/292775494"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/149991378/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — the dissected pinnate foliage (shown at species level) · © Rob Routledge (CC-BY-NC) / iNaturalist",
+      "by": "Rob Routledge",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/90736332"
+    },
+    {
+      "local": "images/fa-fall-color-t.jpg",
+      "full": "images/fa-fall-color.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/175328047/large.jpeg",
+      "s": "fall",
+      "cap": "Fall — a whole shrub blazing orange-scarlet (species-level) · © germain_savard (CC-BY-NC) / iNaturalist",
+      "by": "germain_savard",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/104612998"
+    },
+    {
+      "local": "images/fa-fall-color2-t.jpg",
+      "full": "images/fa-fall-color2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/447120172/large.jpg",
+      "s": "fall",
+      "cap": "Fall — foliage turning fiery scarlet and pink (species-level) · © Song (CC-BY-NC) / iNaturalist",
+      "by": "Song",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/250056484"
+    },
+    {
+      "local": "images/wi-winter-t.jpg",
+      "full": "images/wi-winter.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/57664229/large.jpg",
+      "s": "winter",
+      "cap": "Winter — a red berry cone capped with snow · © Susan Elliott (CC-BY-NC) / iNaturalist",
+      "by": "Susan Elliott",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/36476393"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/539865267/large.jpg",
+      "s": "summer",
+      "cap": "Summer — the upright shrub habit · © Caleb Swecker (CC-BY-NC) / iNaturalist",
+      "by": "Caleb Swecker",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/299656500"
+    },
+    {
+      "local": "images/su-stem-t.jpg",
+      "full": "images/su-stem.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/164883660/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — the velvety, antler-like 'staghorn' stems · © no rights reserved (CC0) / iNaturalist",
+      "by": "no rights reserved",
+      "lic": "CC0",
+      "link": "https://www.inaturalist.org/observations/98964337"
+    }
+  ],
+  "care": {
+    "hardiness": "Rated USDA 4–8 and reliably hardy through Boulder's zone 5b–6a; it shrugs off cold, wind and urban conditions.[1][2]",
+    "planting": "Plant in spring or early fall. It tolerates poor soils, thrives in clay, and takes tough urban sites, so it is easy to establish; in a container the roots are less cold-hardy, so shelter potted plants over winter.[1][2]",
+    "sun": "Full sun gives the most intense chartreuse-gold summer foliage and the best orange-scarlet fall color; it takes part shade but colors less vividly.[1][2]",
+    "soil": "Adaptable to a wide range of soils, including dry, rocky, poor ground and our heavy clay; it only wants reasonable drainage.[1][2]",
+    "water": "Drought-tolerant once established — low water here after the first season, though it appreciates an occasional deep summer soak.[2]",
+    "spacing": "A big selling point over the wild species is that it suckers far less and sets little seed, but it still spreads slowly by rhizome, so give it 5–6 ft and be ready to cut the odd outer sucker.[1][2]",
+    "propagation": "It does not come true from seed; increase it from root cuttings or the suckers it throws (note it is a patented cultivar, so propagation for sale is restricted).[2]",
+    "bloom": "Greenish-yellow flowers in erect terminal panicles open in early summer; on female plants they form fuzzy, pyramidal crimson fruit cones up to 8 in. long that ripen in fall and persist into winter.[1]",
+    "pruning": "It resprouts vigorously from the crown and roots, so it takes hard renewal well: cut leggy, winter-damaged, or over-reaching stems low in late-winter dormancy, or cut the whole plant to the ground every few years to rejuvenate a congested shrub — it flushes back densely the same season. Pair pruning with cutting or pulling the outer suckers to keep the clump in bounds, and remove any all-green reverted shoots so it stays gold.[2][3]",
+    "maintenance": "Low care. The ongoing jobs are edge-control on the suckers and rogueing out reverted green growth; otherwise leave the winter berry cones and velvety stems for interest.[2]",
+    "harvest": "The red berry cones make the same tart, lemonade-like 'sumac-ade' as smooth sumac — but 'Tiger Eyes' bears fruit only on female plants and fruits sparsely, so treat any harvest as a bonus: clip fully colored cones in late summer before heavy rain leaches the sour surface coating.[3][4]",
+    "troubles": "Few problems — occasional leaf spot or verticillium wilt; its main 'issue' is the suckering habit, much reduced in this cultivar but not gone.[3]"
+  },
+  "references": [
+    {
+      "name": "Missouri Botanical Garden Plant Finder — Rhus typhina 'Bailtiger' TIGER EYES",
+      "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=c861"
+    },
+    {
+      "name": "University of Wisconsin-Madison Extension Horticulture — 'Tiger Eyes' Staghorn Sumac",
+      "url": "https://hort.extension.wisc.edu/articles/tiger-eyes-staghorn-sumac-rhus-typhina/"
+    },
+    {
+      "name": "NC State Extension Plant Toolbox — Rhus typhina",
+      "url": "https://plants.ces.ncsu.edu/plants/rhus-typhina/"
+    },
+    {
+      "name": "USDA-FS Fire Effects Information System (FEIS) — Rhus typhina",
+      "url": "https://www.fs.usda.gov/database/feis/plants/tree/rhutyp/all.html"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      1
+    ],
+    "sun": [
+      1,
+      2
+    ],
+    "water": [
+      2
+    ],
+    "spread": [
+      1,
+      2
+    ],
+    "seasons": [
+      1,
+      2
+    ],
+    "wildlife": [
+      3
+    ],
+    "deer": [
+      3
+    ],
+    "ph": [
+      1,
+      3
+    ],
+    "origin": [
+      1,
+      2
+    ],
+    "habitat": [
+      3,
+      4
+    ]
+  },
+  "edible": {
+    "level": "edible",
+    "food": true,
+    "kinds": [
+      "fruit"
+    ],
+    "card": "Tart red berry cones (sumac-ade) — sparse",
+    "summary": "The tart red berries are edible — steeped in cool water they make the same tangy, lemonade-like 'sumac-ade' as smooth sumac, though this ornamental fruits only sparsely.[3][4]",
+    "parts": "The ripe red, hairy drupes borne in the erect terminal cones are the edible part; their sourness is a tart, malic-acid coating on the fuzzy hairs.[3][4]",
+    "preparation": "Rub or steep the whole colored berry cones in cool water — do not boil, which draws out bitter tannins — then strain out the fruit and hairs and sweeten to taste.[4]",
+    "caution": "This is a true, red-fruited Rhus and is NOT poison sumac (Toxicodendron vernix), a white-berried tree of wet swamps — only the upright RED cones are used, never any white-berried look-alike. Note that 'Tiger Eyes' bears fruit only on female plants and fruits sparsely, so any harvest is minor.[3][4]"
+  },
+  "gaps": "Some shots are species-representative Rhus typhina (staghorn sumac) — open-licensed photographs of the gold 'Tiger Eyes' cultivar are scarce, so the foliage and fall-color shots show the wild green species; berry cones, flowers, winter cones and the velvety 'staghorn' stems are identical."
+}

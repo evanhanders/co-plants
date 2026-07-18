@@ -1,0 +1,179 @@
+{
+  "common": "Double flowering plum",
+  "botanical": "Prunus triloba",
+  "type": "Shrub",
+  "lifecycle": "Perennial",
+  "native": "Non-native",
+  "aka": [
+    "Flowering almond",
+    "Prunus triloba 'Multiplex'"
+  ],
+  "flower_color": [
+    "pink"
+  ],
+  "bloom": [
+    "spring"
+  ],
+  "blurb": "For a week or two in early spring the bare stems vanish under a froth of double pink pompom flowers, each like a tiny rose — one of the showiest of the early-blooming shrubs. The popular double form sets little or no fruit; the trick to keeping the show is to prune it right after it blooms.",
+  "size": "~10–15 ft tall × 10–15 ft wide",
+  "sun": "Full sun to part shade (best bloom in full sun)",
+  "water": "Moderate — medium water in well-drained soil; not xeric",
+  "spread": "Multi-stemmed shrub (can be trained as a small tree); may throw a few root suckers",
+  "seasons": "Profuse double pink pompom flowers on bare stems in early spring; coarse, double-toothed green leaves in summer; little to no fruit; no notable fall or winter interest",
+  "wildlife": "Early-spring pollinators visit, though the doubled flowers offer them less than single blooms",
+  "deer": "Browsed like other Prunus; not deer-resistant",
+  "toxic": "Foliage, twigs and seeds are cyanogenic (release HCN), as in all Prunus",
+  "winter": false,
+  "verified": "2026-07-18",
+  "ph": {
+    "min": 6.0,
+    "ideal": 6.5,
+    "max": 7.5
+  },
+  "origin": "Northern China",
+  "habitat": "Scrub and thickets on hills and slopes",
+  "shots": [
+    {
+      "local": "images/sp-flower-t.jpg",
+      "full": "images/sp-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/640724322/large.jpg",
+      "s": "spring",
+      "cap": "Early spring — a cluster of double pink pompom flowers · © orientalstork (CC-BY-NC) / iNaturalist",
+      "by": "orientalstork",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/351129204"
+    },
+    {
+      "local": "images/sp-flower2-t.jpg",
+      "full": "images/sp-flower2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/630482838/large.jpg",
+      "s": "spring",
+      "cap": "Early spring — a double pink flower face-on · © 李哲夫 (CC-BY-NC) / iNaturalist",
+      "by": "李哲夫",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/345919909"
+    },
+    {
+      "local": "images/sp-bloom-mass-t.jpg",
+      "full": "images/sp-bloom-mass.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/501826419/large.jpg",
+      "s": "spring",
+      "cap": "Early spring — bare stems smothered in double pink bloom · © Nurbek Allaberdi (CC-BY-NC) / iNaturalist",
+      "by": "Nurbek Allaberdi",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/279454825"
+    },
+    {
+      "local": "images/sp-habit-t.jpg",
+      "full": "images/sp-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/393325046/large.jpg",
+      "s": "spring",
+      "cap": "Early spring — the whole shrub in full pink bloom · © merlinws (CC-BY-NC) / iNaturalist",
+      "by": "merlinws",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/222067842"
+    },
+    {
+      "local": "images/sp-context-t.jpg",
+      "full": "images/sp-context.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/70142261/large.jpeg",
+      "s": "spring",
+      "cap": "Early spring — a flowering shrub in the landscape · © Homemountain/Shan Gui (CC-BY-NC) / iNaturalist",
+      "by": "Homemountain/Shan Gui",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/44241177"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/528657872/large.jpg",
+      "s": "summer",
+      "cap": "Summer — coarse, double-toothed green leaves · © 红梅 (CC-BY-NC) / iNaturalist",
+      "by": "红梅",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/293743977"
+    },
+    {
+      "local": "images/su-fruit-t.jpg",
+      "full": "images/su-fruit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/402330041/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — the occasional small red drupe (the double form fruits little) · © no rights reserved (CC0) / iNaturalist",
+      "by": "no rights reserved",
+      "lic": "CC0",
+      "link": "https://www.inaturalist.org/observations/226827438"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/684442137/large.jpg",
+      "s": "summer",
+      "cap": "Summer — the leafy green shrub in habit · © Urgamal Magsar (CC-BY) / iNaturalist",
+      "by": "Urgamal Magsar",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/374463447"
+    }
+  ],
+  "care": {
+    "hardiness": "Rated USDA 3–7 and fully hardy through Boulder's zone 5b–6a; the main weather risk here is a late frost nipping the very early flowers.[1]",
+    "planting": "Plant in spring in moist, fertile, well-drained loam in full sun; give it room to reach its full 10–15 ft spread, or plan to keep it smaller with regular pruning.[1]",
+    "sun": "Full sun to part shade — it flowers most heavily in full Front-Range sun.[1]",
+    "soil": "Best in moist, fertile, well-drained loam; it is not fussy but resents wet feet.[1]",
+    "water": "Medium water — regular moisture in our dry summers keeps it healthy; it is not a xeric shrub.[1]",
+    "propagation": "The double 'Multiplex' form sets no seed, so it is increased from softwood or hardwood cuttings (or grafted); take softwood cuttings in early summer.[1]",
+    "bloom": "A profuse flush of double pink flowers smothers the bare stems in early spring (roughly April here), just before or as the leaves break; the double form bears essentially no fruit.[1]",
+    "pruning": "This is the key task. It blooms on old wood — the flower buds form on the previous year's growth — so prune immediately AFTER flowering, cutting the spent flowering shoots back hard to spur vigorous new wood that will carry next spring's buds. Pruning in winter or early spring cuts off the coming show. Renew a congested old shrub by removing the oldest stems at the base. As with all Prunus, cut in dry weather and sanitize tools between cuts to keep out black knot, canker and silver leaf.[1][2]",
+    "maintenance": "Remove dead and winter-damaged wood, watch for and cut out black-knot galls, and rejuvenate leggy plants by taking the oldest stems to the ground.[1]",
+    "troubles": "The early flowers are frost-sensitive, and the shrub is prone to a long list of Prunus problems: leaf spot, dieback, powdery mildew, cankers, black knot and verticillium wilt, plus aphids, scale, borers, caterpillars and Japanese beetles.[1]"
+  },
+  "references": [
+    {
+      "name": "Missouri Botanical Garden Plant Finder — Prunus triloba 'Multiplex'",
+      "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=261668"
+    },
+    {
+      "name": "Royal Horticultural Society — Prunus triloba 'Multiplex'",
+      "url": "https://www.rhs.org.uk/plants/90628/prunus-triloba-multiplex-d/details"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      1
+    ],
+    "sun": [
+      1
+    ],
+    "water": [
+      1
+    ],
+    "spread": [
+      1
+    ],
+    "seasons": [
+      1
+    ],
+    "wildlife": [
+      1
+    ],
+    "deer": [
+      1
+    ],
+    "toxic": [
+      1
+    ],
+    "ph": [
+      1
+    ],
+    "origin": [
+      1
+    ],
+    "habitat": [
+      1
+    ]
+  },
+  "edible": {
+    "level": "inedible",
+    "summary": "Grown purely as an ornamental — the double form is essentially fruitless, and its foliage, twigs and seeds are cyanogenic, so no part of it is eaten.[1]",
+    "caution": "Like all Prunus, the leaves, twigs and any seeds contain cyanogenic glycosides that release hydrogen cyanide (HCN) when chewed or wilted; keep prunings away from grazing animals. The double-flowered 'Multiplex' sets little or no fruit, so there is nothing to harvest in any case.[1]"
+  }
+}

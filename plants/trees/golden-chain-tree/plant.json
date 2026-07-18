@@ -1,0 +1,166 @@
+{
+  "common": "Golden chain tree",
+  "botanical": "Laburnum alpinum",
+  "type": "Tree",
+  "lifecycle": "Perennial",
+  "native": "Non-native",
+  "flower_color": [
+    "yellow"
+  ],
+  "bloom": [
+    "spring"
+  ],
+  "blurb": "For a couple of weeks in late spring this small tree drips with long, pendent chains of bright-yellow, wisteria-like pea flowers — spectacular, and famously grown over arched walkways (the hybrid 'Vossii' / Laburnum × watereri is its showier kin). Every part is poisonous, and it is zone-borderline here, so site it thoughtfully.",
+  "size": "~15–30 ft tall × 15–30 ft wide",
+  "sun": "Full sun, with afternoon shade in the hottest spots",
+  "water": "Moderate — medium water in rich, well-drained soil; not xeric",
+  "spread": "Single small tree; if trained to one trunk, remove root suckers as they appear",
+  "seasons": "Dramatic hanging chains of yellow flowers in late spring; blue-green trifoliate foliage in summer; poisonous seedpods after; little fall or winter interest",
+  "wildlife": "Bees visit the flowers for pollen",
+  "deer": "Not relied on as deer-resistant; the whole plant is toxic",
+  "toxic": "ALL parts poisonous — seeds and pods most of all (cytisine); can be fatal if eaten",
+  "winter": false,
+  "verified": "2026-07-18",
+  "ph": {
+    "min": 6.0,
+    "ideal": 7.0,
+    "max": 7.8
+  },
+  "origin": "Mountains of south-central Europe",
+  "habitat": "Mountain woodland edges and rocky, limey slopes",
+  "shots": [
+    {
+      "local": "images/sp-flower-t.jpg",
+      "full": "images/sp-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/392887110/large.jpg",
+      "s": "spring",
+      "cap": "Late spring — pendent golden chains of pea flowers · © MARIA SYNATIKA (CC-BY-NC) / iNaturalist",
+      "by": "MARIA SYNATIKA",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/221834586"
+    },
+    {
+      "local": "images/sp-flower2-t.jpg",
+      "full": "images/sp-flower2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/398557167/large.jpeg",
+      "s": "spring",
+      "cap": "Late spring — the bright-yellow flower chains up close · © Mauro (CC-BY-NC) / iNaturalist",
+      "by": "Mauro",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/224841447"
+    },
+    {
+      "local": "images/sp-bloom-mass-t.jpg",
+      "full": "images/sp-bloom-mass.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/81982530/large.jpeg",
+      "s": "spring",
+      "cap": "Late spring — a small tree draped in golden chains · © Giovanni Perico (CC-BY-NC) / iNaturalist",
+      "by": "Giovanni Perico",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/51595635"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/416350938/large.jpg",
+      "s": "summer",
+      "cap": "Summer — trifoliate blue-green leaves · © frahome (CC-BY-NC) / iNaturalist",
+      "by": "frahome",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/234227738"
+    },
+    {
+      "local": "images/su-pods-t.jpg",
+      "full": "images/su-pods.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/218434574/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — the poisonous green seed pods · © Alberto Colatore (CC-BY-NC) / iNaturalist",
+      "by": "Alberto Colatore",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/128589037"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/231622921/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — the whole tree in leaf · © ivanaad (CC-BY-NC) / iNaturalist",
+      "by": "ivanaad",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/135771448"
+    },
+    {
+      "local": "images/sp-context-t.jpg",
+      "full": "images/sp-context.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/667021633/large.jpg",
+      "s": "spring",
+      "cap": "Late spring — a laburnum flowering in the landscape · © jltasset (CC-BY-NC) / iNaturalist",
+      "by": "jltasset",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/365342096"
+    }
+  ],
+  "care": {
+    "hardiness": "Rated USDA 4–7. That makes it borderline in Boulder's zone 5b–6a — cold-hardy enough, but happiest where summers and winters are both moderate (it hates deep-South heat and humidity, which we escape), so give it a protected spot sheltered from harsh sun-scald and drying winter wind.[1]",
+    "planting": "Plant in spring in a sheltered location with rich, well-drained soil; avoid a hot, exposed, reflected-heat site. It resents heat stress, so a spot with afternoon shade in our high-altitude sun helps it settle.[1]",
+    "sun": "Full sun for the best flowering, but it appreciates some afternoon shade in hot climates like ours.[1]",
+    "soil": "Best in organically rich, medium-moisture, well-drained soil; it tolerates our alkaline clay (it is a limestone-mountain plant) as long as drainage is sharp.[1]",
+    "water": "Medium water — keep it evenly moist through the growing season; it is not drought-tolerant, but it will not stand waterlogged ground either.[1]",
+    "propagation": "The species grows readily from seed (nick and soak the hard coat first) — but every seedling is poisonous, so handle with care. Named selections like 'Vossii' are grafted to stay true.[1]",
+    "bloom": "In May, pendent axillary racemes of yellow pea flowers up to about a foot long drape the whole canopy for a couple of showy weeks; poisonous pea-like seedpods follow.[1]",
+    "pruning": "Prune as little as possible — mainly to train a young tree to a single leader and remove dead or crossing wood. Laburnum bleeds heavily from late-winter and spring cuts, so prune in late summer to early autumn instead; and rub or cut off the poisonous seedpods, which are unattractive and drain the tree's energy.[1]",
+    "maintenance": "Remove the seedpods each year (poisonous and energy-sapping), pull root suckers if you are keeping it as a single-trunk tree, and keep it out of reach of children, pets and livestock.[1][2]",
+    "troubles": "Twig blight is an infrequent but potentially serious disease; canker and leaf spot are minor; watch for aphids and mealybugs.[1]"
+  },
+  "references": [
+    {
+      "name": "Missouri Botanical Garden Plant Finder — Laburnum alpinum",
+      "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=280633"
+    },
+    {
+      "name": "NC State Extension Plant Toolbox — Laburnum anagyroides (Laburnum toxicity)",
+      "url": "https://plants.ces.ncsu.edu/plants/laburnum-anagyroides/"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      1
+    ],
+    "sun": [
+      1
+    ],
+    "water": [
+      1
+    ],
+    "spread": [
+      1
+    ],
+    "seasons": [
+      1
+    ],
+    "wildlife": [
+      1
+    ],
+    "deer": [
+      2
+    ],
+    "toxic": [
+      1,
+      2
+    ],
+    "ph": [
+      1
+    ],
+    "origin": [
+      1
+    ],
+    "habitat": [
+      1
+    ]
+  },
+  "edible": {
+    "level": "toxic",
+    "summary": "Do NOT eat any part of this tree — the whole plant is poisonous, and the seedpods are the most dangerous part of all.[1][2]",
+    "caution": "Every part — roots, bark, wood, leaves, flower buds, petals and especially the pea-like seeds and pods — contains quinolizidine alkaloids, chiefly cytisine. It is rated highly toxic and can be fatal if eaten; ingestion causes nausea and vomiting, then drowsiness, dilated pupils, convulsions and coma. It is dangerous to people (children are tempted by the pods), pets and livestock alike. Wear gloves when pruning, and remove the seedpods where children or animals could reach them.[1][2]"
+  }
+}

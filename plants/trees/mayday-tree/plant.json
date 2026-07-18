@@ -1,0 +1,172 @@
+{
+  "common": "Mayday tree",
+  "botanical": "Prunus padus",
+  "type": "Tree",
+  "lifecycle": "Perennial",
+  "native": "Non-native",
+  "flower_color": [
+    "white"
+  ],
+  "bloom": [
+    "spring"
+  ],
+  "blurb": "A fast, tough little shade tree that hangs out fragrant, pendent racemes of white flowers in spring, then tart black cherries the birds strip; foliage turns yellow-bronze in fall. A Colorado Tree Coalition pick for the Front Range — NOT a Colorado native, and notoriously invasive in Alaska, but not on any Colorado noxious-weed list.",
+  "size": "~25–40 ft tall × 20–35 ft wide",
+  "sun": "Full sun to part shade",
+  "water": "Moderate — medium water; keep watered until established, not drought-proof",
+  "spread": "Single-trunked tree; self-sows from bird-dropped seed — pull volunteer seedlings",
+  "seasons": "Fragrant white flower racemes in spring after leaf-out; dull dark-green summer foliage; pea-sized black cherries ripening mid-summer; yellow-bronze fall color",
+  "wildlife": "Early-season pollinators work the flowers; birds devour the black cherries",
+  "deer": "Foliage and fruit are browsed; not notably deer-resistant",
+  "toxic": "Foliage, twigs and seeds contain cyanogenic compounds (release HCN) — hazardous to horses and livestock",
+  "winter": false,
+  "verified": "2026-07-18",
+  "ph": {
+    "min": 5.5,
+    "ideal": 6.5,
+    "max": 7.5
+  },
+  "origin": "Europe to northern Asia",
+  "habitat": "Moist woodlands, streambanks and hedgerows",
+  "shots": [
+    {
+      "local": "images/sp-flower-t.jpg",
+      "full": "images/sp-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/70207771/large.jpg",
+      "s": "spring",
+      "cap": "Spring — a pendent raceme of fragrant white flowers · © Karla Hamilton (CC-BY-NC) / iNaturalist",
+      "by": "Karla Hamilton",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/44282060"
+    },
+    {
+      "local": "images/sp-bloom-mass-t.jpg",
+      "full": "images/sp-bloom-mass.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/532332876/large.jpg",
+      "s": "spring",
+      "cap": "Spring — a small tree covered in white flower racemes · © Богдан (CC-BY-NC) / iNaturalist",
+      "by": "Богдан",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/295687306"
+    },
+    {
+      "local": "images/sp-spring-growth-t.jpg",
+      "full": "images/sp-spring-growth.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/468469363/large.jpg",
+      "s": "spring",
+      "cap": "Spring — reddish new growth breaking bud · © Даниил Корзунов (CC-BY-NC) / iNaturalist",
+      "by": "Даниил Корзунов",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/260826072"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/88406742/large.jpg",
+      "s": "summer",
+      "cap": "Summer — serrate dark-green leaves · © yulia_kazantseva (CC-BY-NC) / iNaturalist",
+      "by": "yulia_kazantseva",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/55516851"
+    },
+    {
+      "local": "images/su-berries-t.jpg",
+      "full": "images/su-berries.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/230406072/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — clusters of ripening black cherries · © echeveria_grey (CC-BY-NC) / iNaturalist",
+      "by": "echeveria_grey",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/135111643"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/249096940/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — the whole rounded tree in leaf · © alopecurus (CC-BY-NC) / iNaturalist",
+      "by": "alopecurus",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/145054257"
+    },
+    {
+      "local": "images/sp-context-t.jpg",
+      "full": "images/sp-context.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/69585719/large.jpeg",
+      "s": "spring",
+      "cap": "Spring — flowering branches against the sky · © no rights reserved (CC0) / iNaturalist",
+      "by": "no rights reserved",
+      "lic": "CC0",
+      "link": "https://www.inaturalist.org/observations/43877962"
+    }
+  ],
+  "care": {
+    "hardiness": "Rated USDA 3–6 and thoroughly cold-hardy through Boulder's zone 5b–6a; it struggles in the heat and humidity of the deep South but our cool nights and dry air suit it well, which is why the Colorado Tree Coalition lists it among recommended Front-Range trees.[1][3]",
+    "planting": "Plant in spring after the mid-May last frost, or in early fall, on any average well-drained site; it transplants easily and establishes fast. In a container the roots are far less cold-hardy than in the ground, so water potted trees through dry spells and shelter them over winter.[1]",
+    "sun": "Full sun to part shade; it flowers and fruits most heavily in full Front-Range sun.[1]",
+    "soil": "Adaptable to a wide range of soils, including the region's heavy alkaline clay; wants medium moisture and decent drainage.[1]",
+    "water": "Medium water — not a xeric tree. Give it regular water to establish and deep soaks during hot, dry Front-Range summers; it is not built for a bone-dry zone.[1]",
+    "propagation": "Grows readily from seed, which needs about three months of cold-moist stratification (sow outdoors in fall for natural chilling); it also comes up freely as bird-sown volunteers, so seedlings are rarely in short supply.[1][2]",
+    "bloom": "Fragrant white flowers in pendent 3–6 in. racemes open in April–May, after the leaves emerge; they give way to pea-sized black cherries that ripen by mid-summer — extremely bitter to people but loved by birds.[1]",
+    "pruning": "Prune when fully dormant in late winter, or in dry mid-summer weather, to remove dead, crossing, or congested wood and shape a single-leader tree. Like all Prunus it is prone to black knot, canker, and silver leaf, so cut in dry conditions, remove and destroy any black-knot galls, and sanitize tools between cuts to avoid spreading disease.[1]",
+    "maintenance": "Low care once established. Its one ongoing job is policing seedlings: it self-sows readily from bird-dropped pits (the trait that made it invasive in Alaska), so pull volunteers before they take hold, and remove any black-knot galls promptly.[1][2]",
+    "troubles": "No serious problems here, but watch for leaf spot, canker, and especially black knot, plus aphids, scale, borers, and tent caterpillars.[1]"
+  },
+  "references": [
+    {
+      "name": "Missouri Botanical Garden Plant Finder — Prunus padus",
+      "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=286450"
+    },
+    {
+      "name": "Alaska Division of Forestry — \"This Beauty is a Beast: European bird cherry (Prunus padus)\"",
+      "url": "https://forestry.alaska.gov/Assets/pdfs/community/publications/This%20Beauty%20is%20a%20Beast%20Prunus%20Padus.pdf"
+    },
+    {
+      "name": "Donovan Arborists — Trees of Colorado: Mayday Tree (European Bird Cherry)",
+      "url": "https://denvertrees.com/2022/07/28/trees-of-colorado-mayday-tree-european-bird-cherry/"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      1
+    ],
+    "sun": [
+      1
+    ],
+    "water": [
+      1
+    ],
+    "spread": [
+      1,
+      2
+    ],
+    "seasons": [
+      1
+    ],
+    "wildlife": [
+      1
+    ],
+    "deer": [
+      1
+    ],
+    "toxic": [
+      2
+    ],
+    "ph": [
+      1
+    ],
+    "origin": [
+      1
+    ],
+    "habitat": [
+      1
+    ]
+  },
+  "edible": {
+    "level": "caution",
+    "summary": "The ripe black cherries are edible cooked but intensely bitter and astringent — this is really a bird tree, not a table fruit — and the seeds, leaves and twigs are cyanogenic.[1][2]",
+    "parts": "Only the fully ripe black fruit flesh is used, and even then it is sour and puckeringly bitter; in Europe the cooked fruit is occasionally made into preserves or flavourings, but most people leave it to the birds.[1]",
+    "preparation": "Cook the ripe fruit and discard the pits; never eat the raw seeds. Do not eat the leaves, twigs or unripe fruit at all.[1][2]",
+    "caution": "The seeds (pits), foliage and bark contain cyanogenic glycosides that release hydrogen cyanide (HCN) when chewed or wilted — dangerous to people in quantity and genuinely deadly to horses and other livestock that browse the leaves or prunings. Keep clippings away from pastured animals.[2]"
+  }
+}

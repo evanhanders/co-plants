@@ -1,0 +1,138 @@
+[
+  {
+    "file": "images/su-foliage.jpg",
+    "photo_id": 330292586,
+    "by": "Antón Vázquez",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/188674082",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      935
+    ],
+    "thumb_px": [
+      400,
+      267
+    ]
+  },
+  {
+    "file": "images/sp-spring-growth.jpg",
+    "photo_id": 310489740,
+    "by": "Platon Kleanthidis",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/178433221",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      933
+    ],
+    "thumb_px": [
+      400,
+      267
+    ]
+  },
+  {
+    "file": "images/su-habit.jpg",
+    "photo_id": 490419987,
+    "by": "zebedeugalinha",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/observations/272593323",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      1050
+    ],
+    "thumb_px": [
+      400,
+      300
+    ]
+  },
+  {
+    "file": "images/su-habit2.jpg",
+    "photo_id": 18652921,
+    "by": "Michael Scherer-Lorenzen",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/12853459",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  },
+  {
+    "file": "images/su-foliage-mass.jpg",
+    "photo_id": 72172053,
+    "by": "Ángel Fernández Cancio",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/45527100",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      934
+    ],
+    "thumb_px": [
+      400,
+      267
+    ]
+  },
+  {
+    "file": "images/wi-winter.jpg",
+    "photo_id": 578217044,
+    "by": "merisolano",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/319847631",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  },
+  {
+    "file": "images/su-fruit.jpg",
+    "photo_id": 418970988,
+    "by": "Michael 2020",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/235571856",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1350,
+      900
+    ],
+    "thumb_px": [
+      400,
+      267
+    ]
+  },
+  {
+    "file": "images/sp-flower.jpg",
+    "photo_id": 559473011,
+    "by": "GandG",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/310017811",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      1050
+    ],
+    "thumb_px": [
+      400,
+      300
+    ]
+  }
+]

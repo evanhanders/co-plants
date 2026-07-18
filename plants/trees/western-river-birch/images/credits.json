@@ -1,0 +1,138 @@
+[
+  {
+    "file": "images/sp-bark.jpg",
+    "photo_id": 350551645,
+    "by": "David Martin",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/198845498",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      1050
+    ],
+    "thumb_px": [
+      400,
+      300
+    ]
+  },
+  {
+    "file": "images/sp-catkin.jpg",
+    "photo_id": 344636141,
+    "by": "Matt Langemeier",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/195839316",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      930
+    ],
+    "thumb_px": [
+      400,
+      266
+    ]
+  },
+  {
+    "file": "images/sp-context.jpg",
+    "photo_id": 391088840,
+    "by": "Stacey Anderson",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/220555065",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1054,
+      1400
+    ],
+    "thumb_px": [
+      301,
+      400
+    ]
+  },
+  {
+    "file": "images/su-foliage.jpg",
+    "photo_id": 9219748,
+    "by": "Tim Guida",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/7158234",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      1050
+    ],
+    "thumb_px": [
+      400,
+      300
+    ]
+  },
+  {
+    "file": "images/su-habit.jpg",
+    "photo_id": 147936640,
+    "by": "Craig Ontl",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/89578127",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  },
+  {
+    "file": "images/fa-fall-color.jpg",
+    "photo_id": 24027560,
+    "by": "sfitzgerald86",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/16047910",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  },
+  {
+    "file": "images/wi-catkin.jpg",
+    "photo_id": 177579659,
+    "by": "itsirkco",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/105788725",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  },
+  {
+    "file": "images/wi-winter.jpg",
+    "photo_id": 191416025,
+    "by": "David Martin",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/113285772",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      1050
+    ],
+    "thumb_px": [
+      400,
+      300
+    ]
+  }
+]

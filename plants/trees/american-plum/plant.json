@@ -1,0 +1,182 @@
+{
+  "collection": "plums",
+  "common": "American plum",
+  "botanical": "Prunus americana",
+  "type": "Tree",
+  "lifecycle": "Perennial",
+  "native": "CO native",
+  "flower_color": [
+    "white"
+  ],
+  "bloom": [
+    "spring"
+  ],
+  "blurb": "A thicket-forming native small tree that clouds itself in fragrant white blossom before the leaves unfold in early spring, then hangs with tart-sweet red-to-yellow plums by late summer — one of the Front Range's great wildlife and pollinator trees.",
+  "size": "~15–25 ft tall × 15–25 ft wide (suckers into thickets)",
+  "sun": "Full sun to part shade",
+  "water": "Moderate; drought-tolerant once established, with a deep soak in prolonged dry spells",
+  "spread": "Suckers freely from the roots into dense clonal thickets",
+  "seasons": "Aromatic white flowers smother the bare branches in early spring; glossy toothed leaves through summer; red-purple (to yellow) plums ripen late summer; yellow fall color",
+  "wildlife": "Early nectar and pollen for native bees and other pollinators; a larval host for many butterflies and moths; the fruit and dense thickets feed and shelter songbirds, turkeys and mammals",
+  "deer": "Not deer-resistant — foliage, twigs and fruit are browsed",
+  "toxic": "Ripe fruit flesh is safe, but the leaves, twigs and seed pits are cyanogenic and toxic to people and livestock",
+  "winter": false,
+  "verified": "2026-07-18",
+  "ph": {
+    "min": 6.0,
+    "ideal": 6.8,
+    "max": 8.0
+  },
+  "shots": [
+    {
+      "local": "images/sp-flower-t.jpg",
+      "full": "images/sp-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/125883674/large.jpeg",
+      "s": "spring",
+      "cap": "Spring — white five-petaled flowers face-on · © Jared Del Rosso (CC-BY-NC) / iNaturalist",
+      "by": "Jared Del Rosso",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/76964062"
+    },
+    {
+      "local": "images/sp-bloom-mass-t.jpg",
+      "full": "images/sp-bloom-mass.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/125022658/large.jpeg",
+      "s": "spring",
+      "cap": "Spring — a branch massed with fragrant white bloom · © Suzanne Dingwell (CC-BY-NC) / iNaturalist",
+      "by": "Suzanne Dingwell",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/76430450"
+    },
+    {
+      "local": "images/sp-context-t.jpg",
+      "full": "images/sp-context.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/16404721/large.jpg",
+      "s": "spring",
+      "cap": "Spring — flowering branches against the Boulder foothills · © Dave Sutherland (CC-BY-NC) / iNaturalist",
+      "by": "Dave Sutherland",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/11493019"
+    },
+    {
+      "local": "images/sp-habit-t.jpg",
+      "full": "images/sp-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/36644083/large.jpg",
+      "s": "spring",
+      "cap": "Spring — a small tree in full bloom by open water · © karenskib (CC-BY-NC) / iNaturalist",
+      "by": "karenskib",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/23675312"
+    },
+    {
+      "local": "images/sp-thicket-t.jpg",
+      "full": "images/sp-thicket.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/385293909/large.jpeg",
+      "s": "spring",
+      "cap": "Spring — a thicket-forming plum on an open hillside · © Sdavidm1 (CC-BY-NC) / iNaturalist",
+      "by": "Sdavidm1",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/217774680"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/89058971/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — glossy toothed leaves and ripening fruit · © Jes Gray (CC-BY) / iNaturalist",
+      "by": "Jes Gray",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/55910874"
+    },
+    {
+      "local": "images/su-berries-t.jpg",
+      "full": "images/su-berries.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/319932873/large.jpg",
+      "s": "summer",
+      "cap": "Late summer — ripe red-purple plums · © dianeca (CC-BY-NC) / iNaturalist",
+      "by": "dianeca",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/183387175"
+    },
+    {
+      "local": "images/su-fruit-set-t.jpg",
+      "full": "images/su-fruit-set.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/178080797/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — green plums developing on the branch · © gerrysnyder2634 (CC-BY-NC) / iNaturalist",
+      "by": "gerrysnyder2634",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/106053332"
+    }
+  ],
+  "care": {
+    "hardiness": "Thoroughly hardy on the Front Range — rated roughly USDA zones 3a–9b — and native from New England west to Montana and south to the Texas and New Mexico, so it is well adapted to Boulder's plains-and-foothills climate, high-altitude sun and mid-May last frost.[1][2]",
+    "planting": "Plant balled or container stock in spring after the mid-May frost, or in early fall on a well-drained site; it transplants readily and is widely used for windbreaks and erosion control. Give it room to sucker — site it where a thicket is welcome, not in a tidy border. Container plants have far less cold-hardy roots, so water them through the season and shelter the pot over winter.[1][2]",
+    "sun": "Best flowering and fruiting come in full sun, though it tolerates part shade at the woodland edge where bloom and crop thin.[1][2]",
+    "soil": "Adaptable to clay, loam and sand including the region's heavy alkaline clay; it wants average, dry-to-medium, well-drained ground and dislikes soggy sites.[1]",
+    "water": "Moderate needs — water new plants regularly the first season or two to establish, after which it is fairly drought-tolerant and asks only for a deep soak during extended Front-Range droughts.[1][2]",
+    "spacing": "Set plants about 12–24 ft apart; because it spreads by root suckers into wide thickets, plan for the colony rather than the single trunk.[1]",
+    "propagation": "Grow from seed sown outdoors in fall (the pits need a long cold-moist stratification of about 90–120 days) or from softwood/root cuttings; far easier, lift and transplant the rooted suckers thrown up around an established plant.[1]",
+    "bloom": "Clusters of five-petaled, one-inch, fragrant white flowers open on the bare branches in early spring (roughly April–May here); pollinated flowers set round, thick-skinned red-to-yellow plums with juicy yellow pulp that ripen from late July into September.[1][2]",
+    "pruning": "Prune in late winter while dormant, or right after flowering if you want to keep the spring bloom, since flowers form on the previous year's wood. Thin out crossing, dead and congested branches to open the crown, and cut back or dig the outer root suckers each year to keep the thicket in bounds. As with all plums, watch for and cut out any black-knot galls (swollen black masses on twigs) well below the infection, sterilizing tools between cuts to slow the disease.[1][2]",
+    "maintenance": "Low care once established; the ongoing job is managing the suckers. Mow, pull or cut the outer shoots each season, or contain the colony with a mowed strip or root barrier if you need it to stay put.[1][2]",
+    "harvest": "Pick the plums when fully colored and slightly soft, from late summer into early fall; raw fruit is tart with tough skin, so most of the crop goes into jam, jelly, sauce and fruit leather.[1][2]"
+  },
+  "references": [
+    {
+      "name": "NC State Extension Plant Toolbox — Prunus americana",
+      "url": "https://plants.ces.ncsu.edu/plants/prunus-americana/"
+    },
+    {
+      "name": "Lady Bird Johnson Wildflower Center — Prunus americana",
+      "url": "https://www.wildflower.org/plants/result.php?id_plant=PRAM"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      1,
+      2
+    ],
+    "sun": [
+      1,
+      2
+    ],
+    "water": [
+      1,
+      2
+    ],
+    "spread": [
+      1,
+      2
+    ],
+    "seasons": [
+      1,
+      2
+    ],
+    "wildlife": [
+      1,
+      2
+    ],
+    "deer": [
+      1
+    ],
+    "toxic": [
+      1
+    ],
+    "ph": [
+      1
+    ]
+  },
+  "edible": {
+    "level": "caution",
+    "food": true,
+    "kinds": [
+      "fruit"
+    ],
+    "card": "Ripe plums — fresh or in jam/jelly",
+    "summary": "The ripe plums are edible and good cooked into jam, jelly and sauce — but the leaves, twigs and seed pits are cyanogenic and must never be eaten.[1][2]",
+    "parts": "Only the fleshy ripe fruit is edible. It is tart with a somewhat tough, astringent skin raw, and is at its best cooked and sweetened; the crop is a Front-Range favorite for jelly, jam, sauce and fruit leather.[1][2]",
+    "preparation": "Eat the fruit fresh when fully soft, or cook it down for preserves — always spit out or strain away the pits. Do not crush or eat the seed kernels.[1][2]",
+    "caution": "The pits (seeds), leaves and twigs contain cyanogenic compounds that release hydrogen cyanide and are toxic to people, pets and livestock; only the ripe flesh is safe. Wilted leaves are especially dangerous to browsing animals.[1]"
+  }
+}

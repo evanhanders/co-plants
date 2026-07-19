@@ -1,0 +1,194 @@
+{
+  "common": "Flame peony",
+  "botanical": "Paeonia 'Flame'",
+  "type": "Forb",
+  "lifecycle": "Perennial",
+  "native": "Non-native",
+  "bloom_season": "Spring",
+  "flower_color": [
+    "red",
+    "orange"
+  ],
+  "bloom": [
+    "spring"
+  ],
+  "blurb": "A fiery, early single peony: broad cherry-to-orange-red cups blaze around a big boss of golden stamens over handsome, deeply cut foliage. Long-lived and bulletproof once settled — a plant your grandchildren could still enjoy.",
+  "size": "24–32 in × 24–36 in",
+  "sun": "Full sun to light afternoon shade",
+  "water": "Moderate; deep soak, must be well-drained",
+  "spread": "Clump-forming; non-spreading; long-lived and best left undisturbed",
+  "seasons": "Reddish-bronze shoots emerge early spring; single fiery red flowers with golden stamens in late spring (May–June); handsome divided green foliage all summer; foliage cut to the ground after fall frost",
+  "wildlife": "Golden stamens draw bees and other pollinators; ants that visit the buds are harmless",
+  "deer": "Fairly deer- and rabbit-resistant",
+  "toxic": "Toxic to dogs, cats and horses (paeonol); can cause stomach upset — not for eating",
+  "winter": false,
+  "verified": "2026-07-18",
+  "origin": "Southern and central Europe (Paeonia officinalis, the flame-red parent species)",
+  "habitat": "Mountain meadows, rocky scrub and open woodland",
+  "ph": {
+    "min": 6.5,
+    "ideal": 7.0,
+    "max": 7.5
+  },
+  "shots": [
+    {
+      "local": "images/sp-flower-t.jpg",
+      "full": "images/sp-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/107571541/large.jpeg",
+      "s": "spring",
+      "cap": "Late spring — a single cup-shaped bloom face-on with a boss of golden stamens (species-representative Paeonia officinalis for the 'Flame' hybrid) · © Yves Bas (CC-BY) / iNaturalist",
+      "by": "Yves Bas",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/66692766"
+    },
+    {
+      "local": "images/sp-flower2-t.jpg",
+      "full": "images/sp-flower2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/270468781/large.jpg",
+      "s": "spring",
+      "cap": "Late spring — a wide-open single flower showing the fiery petals and dense golden stamens · © vallespir (CC-BY-NC) / iNaturalist",
+      "by": "vallespir",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/156413845"
+    },
+    {
+      "local": "images/sp-flower3-t.jpg",
+      "full": "images/sp-flower3.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/278881745/large.jpg",
+      "s": "spring",
+      "cap": "Late spring — close-up of the flower centre: the star of carpels ringed by a golden stamen boss · © Thomas Shahan (CC-BY-NC) / iNaturalist",
+      "by": "Thomas Shahan",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/161348221"
+    },
+    {
+      "local": "images/sp-bloom-mass-t.jpg",
+      "full": "images/sp-bloom-mass.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/669737339/large.jpg",
+      "s": "spring",
+      "cap": "Late spring — a clump in full bloom, several fiery single flowers over handsome foliage · © zebedeugalinha (CC-BY) / iNaturalist",
+      "by": "zebedeugalinha",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/366773355"
+    },
+    {
+      "local": "images/sp-context-t.jpg",
+      "full": "images/sp-context.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/640805119/large.jpg",
+      "s": "spring",
+      "cap": "Late spring — a flowering plant in an open woodland-edge setting · © josecosta1 (CC-BY-NC) / iNaturalist",
+      "by": "josecosta1",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/351172502"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/1785949/large.jpg",
+      "s": "summer",
+      "cap": "Summer — the leafy mounded clump of a peony out of bloom, showing its shrubby summer form · © Pete Budde (CC-BY-NC) / iNaturalist",
+      "by": "Pete Budde",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/1442599"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/385139624/large.jpg",
+      "s": "summer",
+      "cap": "Summer — the deeply divided, handsome peony foliage · © corinna_sch (CC-BY-NC) / iNaturalist",
+      "by": "corinna_sch",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/217691474"
+    },
+    {
+      "local": "images/sp-habit-t.jpg",
+      "full": "images/sp-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/634513070/large.jpg",
+      "s": "spring",
+      "cap": "Early spring — the reddish-bronze new shoots emerging from the crown · © Kurt Lehrmann (CC-BY-NC) / iNaturalist",
+      "by": "Kurt Lehrmann",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/347955002"
+    }
+  ],
+  "care": {
+    "hardiness": "Iron-hardy through USDA zones 3–8, so Boulder's 5b–6a winters are no problem — herbaceous peonies actually need a good winter chill to bloom well, which the Front Range provides in abundance.[3][2]",
+    "planting": "Plant bare-root divisions in fall (September–October), the ideal season, so the roots settle before winter; container-grown plants can also go in during spring. The single most important rule: set the pink eyes (buds) no more than about 1 in. below the soil surface — plant deeper and the peony makes leaves but fails to bloom. Choose a permanent, sunny, well-drained spot, because peonies dislike being moved and can live for decades in one place.[2][3]",
+    "sun": "Full sun — 6–8 hours — gives the strongest stems and most flowers; a little afternoon shade at hot sites can extend the life of each bloom but too much shade means poor flowering.[3][2]",
+    "soil": "Rich, loamy, well-drained soil is ideal, and peonies prefer a neutral to slightly alkaline pH — which suits Boulder's clay soils well as long as drainage is good. Amend heavy clay with compost so water drains freely from the crown.[3][1]",
+    "water": "Give a deep, thorough soak during active growth and bloom, letting the soil dry somewhat between waterings; established clumps are moderately drought-tolerant. Sharp drainage matters far more than frequent watering — a waterlogged crown rots.[1][2]",
+    "spacing": "Space plants 3–4 ft apart; a peony grows into a wide clump and resents crowding.[2][3]",
+    "depth": "Set the buds (eyes) 1 in. below the surface on the Front Range (no more than 2 in. anywhere) — the classic cause of a peony that never blooms is being planted too deep.[2][3]",
+    "propagation": "Divide the tuberous roots in September–October, cutting the crown into sections that each carry 3–5 eyes (buds); replant at the correct shallow depth. Divisions are slow to settle and may take 2–3 years to bloom well, so divide only when necessary — peonies are happiest left alone.[3]",
+    "bloom": "Late spring — roughly mid-May into June here — opening early for a peony: a single, broad, fiery cherry-to-orange-red flower centered on a dense boss of golden stamens.[1]",
+    "feeding": "Light feeder; a spring topdressing of compost or a low-nitrogen fertilizer as shoots emerge is plenty. Avoid heavy nitrogen, which favors floppy foliage over flowers.[2]",
+    "maintenance": "Stake early in the season, before the heavy blooms open, so rain-soaked flowers don't flop (single-flowered peonies like this are sturdier than doubles but still benefit). Deadhead spent flowers, and in fall cut all the foliage to the ground and remove the debris to prevent disease from overwintering. The ants that crawl on the buds are harmless and need not be controlled.[2][3]",
+    "troubles": "Botrytis blight (gray mold) can wither buds and blacken stems in wet springs — space plants for air circulation and practice the fall cleanup above. The other common complaint, no flowers, almost always traces to planting too deep or too much shade rather than a pest.[3][2]"
+  },
+  "fact_src": {
+    "size": [
+      1,
+      3
+    ],
+    "sun": [
+      3,
+      2
+    ],
+    "water": [
+      1,
+      2
+    ],
+    "spread": [
+      2,
+      3
+    ],
+    "seasons": [
+      1,
+      3
+    ],
+    "wildlife": [
+      2
+    ],
+    "deer": [
+      3
+    ],
+    "toxic": [
+      4
+    ],
+    "ph": [
+      3,
+      1
+    ],
+    "origin": [
+      1
+    ],
+    "habitat": [
+      1
+    ]
+  },
+  "edible": {
+    "level": "toxic",
+    "summary": "Peony is not a food plant — it is toxic to dogs, cats and horses and can cause stomach upset in people, so grow it strictly as an ornamental.[4]",
+    "caution": "All parts contain the compound paeonol; the ASPCA rates peony toxic to dogs, cats and horses, with ingestion causing vomiting, diarrhea and depression. In people the raw plant is not eaten and can irritate the stomach. Enjoy the flowers in the garden and in the vase, but keep pets, livestock and children from nibbling any part.[4]"
+  },
+  "gaps": "Photos are species-representative Paeonia officinalis (the flame-red single-flowered parent) — no open-licensed shots of the hybrid 'Flame' exist; the fiery single blooms with golden stamens shown match the cultivar's described look.",
+  "references": [
+    {
+      "name": "Missouri Botanical Garden Plant Finder — Paeonia officinalis",
+      "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=286230"
+    },
+    {
+      "name": "PlantTalk Colorado (CSU Extension / Denver Botanic Gardens) — Peony",
+      "url": "https://planttalk.colostate.edu/topics/annuals-perennials/1042-peony/"
+    },
+    {
+      "name": "Wisconsin Horticulture Extension — Peony (Paeonia)",
+      "url": "https://hort.extension.wisc.edu/articles/peony/"
+    },
+    {
+      "name": "ASPCA — Peony (toxic to dogs, cats, horses; paeonol)",
+      "url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/peony"
+    }
+  ]
+}

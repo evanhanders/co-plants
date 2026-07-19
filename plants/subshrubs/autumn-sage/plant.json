@@ -1,6 +1,9 @@
 {
   "common": "Autumn sage",
   "botanical": "Salvia greggii",
+  "aka": [
+    "'Furman's Red' autumn sage"
+  ],
   "type": "Subshrub",
   "lifecycle": "Perennial",
   "native": "Non-native",

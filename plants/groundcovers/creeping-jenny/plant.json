@@ -1,0 +1,174 @@
+{
+  "common": "Golden creeping Jenny",
+  "botanical": "Lysimachia nummularia 'Aurea'",
+  "type": "Groundcover",
+  "lifecycle": "Perennial",
+  "native": "Non-native",
+  "flower_color": [
+    "yellow"
+  ],
+  "bloom": [
+    "summer"
+  ],
+  "blurb": "A fast trailing mat of round golden leaves — chartreuse in shade, brassy gold in sun — spangled with bright yellow cup flowers in summer; a moisture-lover that will run, so site it with care.",
+  "size": "~2–4 in tall × 12–24+ in spreading (running mat)",
+  "sun": "Part shade to full sun (gold in sun, chartreuse in shade; may scorch in hot afternoon sun)",
+  "water": "Moderate to high — keep consistently moist; tolerates wet ground, not for dry spots",
+  "spread": "Runs by rooting stems; can be aggressive — contain it",
+  "seasons": "Golden-to-chartreuse round leaves spring through fall (semi-evergreen in mild spells); bright yellow cup flowers in summer",
+  "wildlife": "Yellow summer flowers offer some pollen and nectar; grown mainly for its glowing foliage",
+  "deer": "Not documented as a significant deer or rabbit target",
+  "toxic": "No significant toxicity reported",
+  "winter": false,
+  "verified": "2026-07-18",
+  "origin": "Europe & W Asia",
+  "habitat": "Wet meadows, stream & pond banks, damp woodland",
+  "ph": {
+    "min": 5.5,
+    "ideal": 6.5,
+    "max": 7.5
+  },
+  "care": {
+    "hardiness": "Very cold-hardy — USDA zones 3–9 — so it overwinters easily in Boulder's 5b–6a; the golden 'Aurea' form is a touch less vigorous than the plain green species.[1][2]",
+    "planting": "Plant in spring after frost or in fall, in consistently moist ground or as a spiller in a well-watered pot; in our dry air and alkaline clay it needs steady moisture and some relief from hot afternoon sun to keep the foliage from scorching.[1][2]",
+    "sun": "Leaf color is light-driven: brassy gold in full sun (morning sun is ideal), softening to lime-chartreuse in shade. Under intense high-altitude Front-Range sun give it afternoon shade or extra water to prevent sun scald.[2]",
+    "soil": "Unfussy about soil type or pH — clay, loam or sand, acid to alkaline — as long as it stays moist; it will even grow in the shallow margins of a pond.[1][2]",
+    "water": "A genuine moisture-lover: keep it damp. It thrives where other groundcovers would rot and tolerates boggy ground and standing water, so it is the wrong plant for a dry, unirrigated bed here.[1][2]",
+    "spacing": "Space 12–18 in apart; it closes the gaps fast as the stems root down at every node.[1]",
+    "propagation": "Trivially easy by division or cuttings — lift rooted chunks from the edge of a patch, or lay a stem on moist soil and it roots at the nodes. In North America it sets little or no viable seed, so it moves only vegetatively.[1][2]",
+    "bloom": "Bright yellow, five-petaled cup flowers open along the stems through summer; the golden form blooms less freely than the green species, sometimes making leafy mats with few flowers.[2]",
+    "maintenance": "Almost no care beyond keeping it watered and in bounds. Its running, node-rooting stems spread quickly — the green species is invasive in wet natural areas and even this cultivar can run — so edge it, pull stray stems, and never plant it where it can escape to a creek or wetland. Its shallow roots make stray growth easy to pull.[1][3]",
+    "troubles": "Trouble-free apart from leaf scorch in dry, hot sun and its own tendency to wander; correct siting and steady moisture solve both.[2]"
+  },
+  "references": [
+    {
+      "name": "NC State Extension Plant Toolbox — Lysimachia nummularia",
+      "url": "https://plants.ces.ncsu.edu/plants/lysimachia-nummularia/"
+    },
+    {
+      "name": "UW–Madison Extension (Wisconsin Horticulture) — Golden Creeping Jenny",
+      "url": "https://hort.extension.wisc.edu/articles/golden-creeping-jenny-lysimachia-nummularia-aurea/"
+    },
+    {
+      "name": "USGS Nonindigenous Aquatic Species — Lysimachia nummularia",
+      "url": "https://nas.er.usgs.gov/queries/FactSheet.aspx?speciesID=2680"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      1,
+      2
+    ],
+    "sun": [
+      2
+    ],
+    "water": [
+      1,
+      2
+    ],
+    "spread": [
+      1,
+      3
+    ],
+    "seasons": [
+      1,
+      2
+    ],
+    "wildlife": [
+      2
+    ],
+    "deer": [
+      1
+    ],
+    "toxic": [
+      1
+    ],
+    "ph": [
+      1
+    ],
+    "origin": [
+      1
+    ],
+    "habitat": [
+      1
+    ]
+  },
+  "edible": {
+    "level": "inedible",
+    "summary": "Not a food plant — creeping Jenny is grown purely as ornamental groundcover and has no established culinary use.[1]",
+    "caution": "Grown for its foliage, not for eating; no part is recommended as food and there is no recommended preparation. It is not considered dangerously poisonous, but keep it ornamental.[1][2]"
+  },
+  "gaps": "Photos are species/type-representative Lysimachia nummularia — the golden 'Aurea' foliage is shown where a CC image exists; some flower and mat shots are of the green species form, which is identical but for leaf colour.",
+  "shots": [
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/497123382/large.jpg",
+      "s": "summer",
+      "cap": "Summer — bright golden foliage of the 'Aurea' form · © spiker (CC-BY-NC) / iNaturalist",
+      "by": "spiker",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/276842840"
+    },
+    {
+      "local": "images/su-foliage2-t.jpg",
+      "full": "images/su-foliage2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/680469874/large.jpg",
+      "s": "summer",
+      "cap": "Summer — golden leaves with a yellow flower · © Antje (CC-BY-NC) / iNaturalist",
+      "by": "Antje",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/372317862"
+    },
+    {
+      "local": "images/su-flower-face-t.jpg",
+      "full": "images/su-flower-face.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/397337805/large.jpg",
+      "s": "summer",
+      "cap": "Summer — a bright yellow cup flower face-on · © TShore (CC-BY-NC) / iNaturalist",
+      "by": "TShore",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/224204273"
+    },
+    {
+      "local": "images/su-bloom-mass-t.jpg",
+      "full": "images/su-bloom-mass.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/136628124/large.jpg",
+      "s": "summer",
+      "cap": "Summer — a mat spangled with yellow flowers · © enviro35 (CC-BY-NC) / iNaturalist",
+      "by": "enviro35",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/83203286"
+    },
+    {
+      "local": "images/su-context-t.jpg",
+      "full": "images/su-context.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/340659648/large.jpg",
+      "s": "summer",
+      "cap": "Summer — a dense round-leaved mat · © anthony_limoli_o (CC-BY-NC) / iNaturalist",
+      "by": "anthony_limoli_o",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/193882687"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/225485559/large.jpg",
+      "s": "summer",
+      "cap": "Summer — a trailing stem rooting as it creeps · © vwscully (CC-BY-NC) / iNaturalist",
+      "by": "vwscully",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/132410179"
+    },
+    {
+      "local": "images/su-flower-t.jpg",
+      "full": "images/su-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/78045500/large.jpg",
+      "s": "summer",
+      "cap": "Summer — a yellow flower and round paired leaves along the stem · © Germaine Light (CC-BY-NC) / iNaturalist",
+      "by": "Germaine Light",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/49168095"
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+[
+  {
+    "file": "images/sp-flower.jpg",
+    "photo_id": 125883674,
+    "by": "Jared Del Rosso",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/76964062",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  },
+  {
+    "file": "images/sp-bloom-mass.jpg",
+    "photo_id": 125022658,
+    "by": "Suzanne Dingwell",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/76430450",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      1274
+    ],
+    "thumb_px": [
+      400,
+      364
+    ]
+  },
+  {
+    "file": "images/sp-context.jpg",
+    "photo_id": 16404721,
+    "by": "Dave Sutherland",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/11493019",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1100,
+      733
+    ],
+    "thumb_px": [
+      400,
+      267
+    ]
+  },
+  {
+    "file": "images/sp-habit.jpg",
+    "photo_id": 36644083,
+    "by": "karenskib",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/23675312",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  },
+  {
+    "file": "images/sp-thicket.jpg",
+    "photo_id": 385293909,
+    "by": "Sdavidm1",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/217774680",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      1050
+    ],
+    "thumb_px": [
+      400,
+      300
+    ]
+  },
+  {
+    "file": "images/su-foliage.jpg",
+    "photo_id": 89058971,
+    "by": "Jes Gray",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/observations/55910874",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      630,
+      1400
+    ],
+    "thumb_px": [
+      180,
+      400
+    ]
+  },
+  {
+    "file": "images/su-berries.jpg",
+    "photo_id": 319932873,
+    "by": "dianeca",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/183387175",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  },
+  {
+    "file": "images/su-fruit-set.jpg",
+    "photo_id": 178080797,
+    "by": "gerrysnyder2634",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/106053332",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      933,
+      1400
+    ],
+    "thumb_px": [
+      267,
+      400
+    ]
+  }
+]

@@ -1,0 +1,178 @@
+{
+  "common": "Western river birch",
+  "botanical": "Betula occidentalis",
+  "type": "Tree",
+  "lifecycle": "Perennial",
+  "native": "CO native",
+  "flower_color": [
+    "green"
+  ],
+  "bloom": [
+    "spring"
+  ],
+  "aka": [
+    "Water birch",
+    "Red birch",
+    "Mountain birch"
+  ],
+  "blurb": "Colorado's native streamside birch — a graceful multi-stemmed clump with glossy cherry-brown bark flecked with white lenticels, catkins before the leaves, and clear-yellow fall color. A water-loving tree for the wet spot, not the dry one.",
+  "gaps": "No clean open-licensed clear-yellow fall-color shot exists; the fall image honestly shows foliage yellowing/browning by a stream. Bark, catkins, foliage, habit and winter structure are all well covered.",
+  "size": "~20–30 ft tall, multi-stemmed clump",
+  "sun": "Full sun to part shade",
+  "water": "High — moist to wet, streamside soil; NOT for dry zones",
+  "spread": "Clump-forming; suckers into a multi-stemmed thicket of leaning trunks",
+  "seasons": "Pendent catkins on bare branches in spring; doubly-toothed green leaves in summer; clear-yellow fall color; glossy red-brown bark and pale lenticels for winter interest",
+  "wildlife": "Catkins and seeds feed birds; the dense thickets give excellent bird nesting and hiding cover and shade streams for fish; foliage is browsed by deer and livestock",
+  "deer": "Not deer-resistant — foliage is browsed",
+  "toxic": "",
+  "winter": true,
+  "verified": "2026-07-18",
+  "ph": {
+    "min": 5.5,
+    "ideal": 6.5,
+    "max": 7.8
+  },
+  "shots": [
+    {
+      "local": "images/sp-bark-t.jpg",
+      "full": "images/sp-bark.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/350551645/large.jpg",
+      "s": "spring",
+      "cap": "Spring — glossy cherry-brown bark with white lenticels · © David Martin (CC-BY-NC) / iNaturalist",
+      "by": "David Martin",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/198845498"
+    },
+    {
+      "local": "images/sp-catkin-t.jpg",
+      "full": "images/sp-catkin.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/344636141/large.jpeg",
+      "s": "spring",
+      "cap": "Spring — pendent male catkins and unfolding leaves · © Matt Langemeier (CC-BY-NC) / iNaturalist",
+      "by": "Matt Langemeier",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/195839316"
+    },
+    {
+      "local": "images/sp-context-t.jpg",
+      "full": "images/sp-context.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/391088840/large.jpeg",
+      "s": "spring",
+      "cap": "Spring — a streamside clump leafing out · © Stacey Anderson (CC-BY-NC) / iNaturalist",
+      "by": "Stacey Anderson",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/220555065"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/9219748/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — doubly-toothed green leaves · © Tim Guida (CC-BY-NC) / iNaturalist",
+      "by": "Tim Guida",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/7158234"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/147936640/large.jpg",
+      "s": "summer",
+      "cap": "Summer — the multi-stemmed shrubby tree · © Craig Ontl (CC-BY-NC) / iNaturalist",
+      "by": "Craig Ontl",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/89578127"
+    },
+    {
+      "local": "images/fa-fall-color-t.jpg",
+      "full": "images/fa-fall-color.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/24027560/large.jpg",
+      "s": "fall",
+      "cap": "Fall — yellowing foliage along a mountain stream · © sfitzgerald86 (CC-BY-NC) / iNaturalist",
+      "by": "sfitzgerald86",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/16047910"
+    },
+    {
+      "local": "images/wi-catkin-t.jpg",
+      "full": "images/wi-catkin.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/177579659/large.jpg",
+      "s": "winter",
+      "cap": "Late winter — pendent catkins over snow · © itsirkco (CC-BY-NC) / iNaturalist",
+      "by": "itsirkco",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/105788725"
+    },
+    {
+      "local": "images/wi-winter-t.jpg",
+      "full": "images/wi-winter.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/191416025/large.jpg",
+      "s": "winter",
+      "cap": "Winter — bare pale trunks and lenticelled bark · © David Martin (CC-BY-NC) / iNaturalist",
+      "by": "David Martin",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/113285772"
+    }
+  ],
+  "care": {
+    "hardiness": "A cold-hardy Rocky Mountain native at home across the Front Range foothills and plains — it grows naturally from about 300 to 10,000 ft elevation and is the only birch native to Utah, New Mexico and Arizona — so Boulder's zone 5b–6a winters and high-altitude sun suit it well.[1][2]",
+    "planting": "Plant in spring or early fall in a low, moist or naturally wet spot — a streambank, swale, downspout or pond edge — where the soil never bakes dry. It is emphatically a riparian tree; skip it for hot, dry, exposed sites. Container-grown plants establish best; keep them well watered the first few seasons.[1][3]",
+    "sun": "Grows in full sun to part shade; it does not cast heavy shade itself, so it can be underplanted.[2]",
+    "soil": "Wants coarse-textured, consistently moist to wet soils with a high water table; it tolerates a range of textures but has low tolerance for high-lime (calcareous) ground, so amend heavy alkaline clay and keep it evenly moist.[2][3]",
+    "water": "High water use — this is a wetland/riparian species that must have moist to wet soil. In dry ground it is stressed and becomes prone to bronze birch borer, aphids and other problems, so never site it in a xeric zone.[2]",
+    "spacing": "Give a clump 15–20 ft of room; left alone it develops into a broad, multi-stemmed mass of curved trunks and can build a colony of many stems.[1]",
+    "propagation": "Sow the tiny seed as soon as the green catkins ripen, pressing it onto the surface — germination needs light, so never bury it deep; about one month of cold stratification substitutes for the light treatment. It also grows from the suckers around an established clump.[2]",
+    "bloom": "Wind-pollinated: yellow-brown male catkins and shorter erect female catkins expand on the bare branches in spring before the leaves, ripening small winged seeds by late summer.[1][2]",
+    "pruning": "Prune only in summer, after the leaves are fully out and the sap has stopped flowing. Birches 'bleed' heavily if cut in late winter or spring, so avoid dormant-season cuts; in summer remove dead, crossing or damaged stems and thin the clump for form. Keeping the tree well watered is the best defense against the borers that pruning wounds can otherwise invite.[2]",
+    "maintenance": "Low care in the right wet spot: mulch to keep the roots cool and moist, water deeply in drought, and thin or remove suckers if you want a tidier clump. Stressed, dry trees are the ones that get borers and aphids.[2]",
+    "troubles": "Bronze birch borer and aphids are the main threats, and both track drought stress — a birch kept in moist soil and out of hot, dry, reflected-heat sites largely sidesteps them.[2]"
+  },
+  "references": [
+    {
+      "name": "USDA-FS Fire Effects Information System (FEIS) — Betula occidentalis",
+      "url": "https://www.fs.usda.gov/database/feis/plants/tree/betocc/all.html"
+    },
+    {
+      "name": "Lady Bird Johnson Wildflower Center — Betula occidentalis",
+      "url": "https://www.wildflower.org/plants/result.php?id_plant=BEOC2"
+    },
+    {
+      "name": "USDA NRCS Plant Guide — Betula occidentalis (water birch)",
+      "url": "https://plants.sc.egov.usda.gov/DocumentLibrary/plantguide/pdf/pg_beoc2.pdf"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      1,
+      2
+    ],
+    "sun": [
+      2
+    ],
+    "water": [
+      2
+    ],
+    "spread": [
+      1
+    ],
+    "seasons": [
+      1,
+      2
+    ],
+    "wildlife": [
+      1,
+      2
+    ],
+    "deer": [
+      2
+    ],
+    "ph": [
+      2
+    ]
+  },
+  "edible": {
+    "level": "inedible",
+    "summary": "Not a food plant — no part is eaten as food, though the thin spring sap has historically been tapped like that of other birches.[1][2]",
+    "caution": "Water birch is not toxic, but it is not a culinary plant: the leaves, twigs and catkins are not eaten, and while birches in general can be tapped in early spring for a watery sap, this species is grown for its bark, form and wildlife value rather than any food use.[1][2]"
+  }
+}

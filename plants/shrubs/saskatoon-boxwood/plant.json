@@ -1,0 +1,178 @@
+{
+  "common": "Saskatoon boxwood",
+  "botanical": "Buxus 'Saskatoon'",
+  "type": "Shrub",
+  "lifecycle": "Perennial",
+  "native": "Non-native",
+  "flower_color": [
+    "green"
+  ],
+  "bloom": [
+    "spring"
+  ],
+  "blurb": "A cold-hardy hybrid boxwood bred for northern gardens — the dense, small-leaved evergreen you shear into hedges, edging and topiary. On the Front Range it holds its glossy green through winter (with some bronzing in exposed sun) where tender boxwoods would burn. Deer leave it alone; the foliage is toxic, so keep it out of mouths.",
+  "size": "~3–5 ft tall & wide, and shears to any smaller size",
+  "sun": "Full sun to part shade (some afternoon/winter shade reduces bronzing)",
+  "water": "Moderate — regular water in well-drained soil; shallow-rooted, so mulch and deep-water before winter",
+  "spread": "Dense, clumping evergreen; does not sucker — clips to shape",
+  "seasons": "Glossy evergreen foliage year-round; tiny fragrant creamy-green flowers in spring; leaves can take on an orange-bronze cast in winter sun and wind",
+  "wildlife": "Small early pollinators work the inconspicuous flowers",
+  "deer": "Deer-resistant — the toxic foliage is left alone",
+  "toxic": "All parts toxic — steroidal boxwood alkaloids (buxine); foliage also causes contact dermatitis",
+  "winter": true,
+  "verified": "2026-07-18",
+  "ph": {
+    "min": 6.0,
+    "ideal": 7.0,
+    "max": 8.0
+  },
+  "origin": "Garden hybrid; parent boxwoods from Europe and East Asia",
+  "habitat": "Woodland understorey and rocky hillsides (of the parent species)",
+  "shots": [
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/330292586/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — glossy dark-green evergreen leaves · © Antón Vázquez (CC-BY-NC) / iNaturalist",
+      "by": "Antón Vázquez",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/188674082"
+    },
+    {
+      "local": "images/sp-spring-growth-t.jpg",
+      "full": "images/sp-spring-growth.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/310489740/large.jpeg",
+      "s": "spring",
+      "cap": "Spring — a pale flush of new growth · © Platon Kleanthidis (CC-BY-NC) / iNaturalist",
+      "by": "Platon Kleanthidis",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/178433221"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/490419987/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — a dense boxwood shrub · © zebedeugalinha (CC-BY) / iNaturalist",
+      "by": "zebedeugalinha",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/272593323"
+    },
+    {
+      "local": "images/su-habit2-t.jpg",
+      "full": "images/su-habit2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/18652921/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — an upright, conical clipped boxwood · © Michael Scherer-Lorenzen (CC-BY-NC) / iNaturalist",
+      "by": "Michael Scherer-Lorenzen",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/12853459"
+    },
+    {
+      "local": "images/su-foliage-mass-t.jpg",
+      "full": "images/su-foliage-mass.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/72172053/large.jpg",
+      "s": "summer",
+      "cap": "Summer — a dense clipped mound of small-leaved foliage · © Ángel Fernández Cancio (CC-BY-NC) / iNaturalist",
+      "by": "Ángel Fernández Cancio",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/45527100"
+    },
+    {
+      "local": "images/wi-winter-t.jpg",
+      "full": "images/wi-winter.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/578217044/large.jpg",
+      "s": "winter",
+      "cap": "Winter — foliage taking on an orange-bronze cast in cold sun · © merisolano (CC-BY-NC) / iNaturalist",
+      "by": "merisolano",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/319847631"
+    },
+    {
+      "local": "images/su-fruit-t.jpg",
+      "full": "images/su-fruit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/418970988/large.jpg",
+      "s": "summer",
+      "cap": "Summer — small green seed capsules · © Michael 2020 (CC-BY-NC) / iNaturalist",
+      "by": "Michael 2020",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/235571856"
+    },
+    {
+      "local": "images/sp-flower-t.jpg",
+      "full": "images/sp-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/559473011/large.jpg",
+      "s": "spring",
+      "cap": "Spring — flowering shoots and new growth among the leaves · © GandG (CC-BY-NC) / iNaturalist",
+      "by": "GandG",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/310017811"
+    }
+  ],
+  "care": {
+    "hardiness": "'Saskatoon' is one of a group of extra-hardy hybrid boxwoods selected for cold northern-plains winters, so it holds up through Boulder's zone 5b–6a where common boxwood (rated USDA 5–8) can be marginal. The real winter threat here is not cold but desiccation — sun and wind drying the evergreen leaves while the ground is frozen.[1][2]",
+    "planting": "Plant in spring or early fall. It is shallow-rooted, so set it slightly high, mulch 2–3 in. to keep the roots cool and moist, and — critically here — site it out of drying winter wind and full south-to-southwest winter sun, which cause the worst bronzing and burn.[1][2]",
+    "sun": "Full sun to part shade; in our intense high-altitude light a spot with afternoon shade, or shelter from winter sun, keeps the foliage greener.[1][2]",
+    "soil": "Tolerant of clay, loam or sand at a neutral to alkaline pH (about 6.0–8.0), so our alkaline clay is fine as long as it drains well; it dislikes soggy ground.[1]",
+    "water": "Medium, even moisture — never bone-dry, never waterlogged. The single most useful thing you can do here is water deeply in late fall before the ground freezes, so the evergreen leaves go into winter fully hydrated and resist bronzing.[1][2]",
+    "propagation": "Increase from semi-hardwood stem cuttings taken in summer; they root readily under mist.[1]",
+    "pruning": "Shear or hand-prune for hedges and topiary from spring into mid-summer — it takes clipping beautifully. Avoid pruning very early in spring (a frost can nip the tender flush) or late in summer (soft regrowth won't harden before winter). Thin the interior a little each year for airflow, which helps fight blight, and sanitize your shears between plants because boxwood blight spreads on contaminated tools.[1]",
+    "maintenance": "Keep it mulched, and in exposed sites screen it with burlap after the first hard frost to prevent winter burn; rinse the foliage in early spring if it has caught road-salt spray.[1][2]",
+    "troubles": "Boxwood blight (dark stem streaks and rapid leaf drop — start with clean stock and sanitize tools) is the serious one; also watch for boxwood leafminer, boxwood mite, psyllid and leaf-spot diseases, plus the winter bronzing/burn from sun and wind.[1][2]"
+  },
+  "references": [
+    {
+      "name": "NC State Extension Plant Toolbox — Buxus sempervirens",
+      "url": "https://plants.ces.ncsu.edu/plants/buxus-sempervirens/"
+    },
+    {
+      "name": "Clemson Cooperative Extension HGIC — Boxwood Bronzing Blues (winter bronzing/burn)",
+      "url": "https://hgic.clemson.edu/boxwood-bronzing-blues/"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      1
+    ],
+    "sun": [
+      1,
+      2
+    ],
+    "water": [
+      1,
+      2
+    ],
+    "spread": [
+      1
+    ],
+    "seasons": [
+      1,
+      2
+    ],
+    "wildlife": [
+      1
+    ],
+    "deer": [
+      1
+    ],
+    "toxic": [
+      1
+    ],
+    "ph": [
+      1
+    ],
+    "origin": [
+      1
+    ],
+    "habitat": [
+      1
+    ]
+  },
+  "edible": {
+    "level": "toxic",
+    "summary": "Boxwood is poisonous — no part of it is edible, which is exactly why deer and rabbits leave it alone.[1]",
+    "caution": "The leaves and twigs contain steroidal alkaloids (buxine and relatives) that are toxic if eaten, causing vomiting, diarrhea, dizziness, convulsions and, in large amounts, respiratory failure — dangerous to people, dogs, cats, horses and livestock. The foliage and sap can also cause contact dermatitis, so wear gloves when shearing. Keep clippings away from pets and pastured animals.[1]"
+  },
+  "gaps": "Photos are species-representative Buxus (common/hybrid boxwood) — no open-licensed photographs of the 'Saskatoon' cultivar specifically exist; the shots show the identical glossy evergreen foliage, dense clipped habit, spring flowers, seed capsules and winter bronzing."
+}

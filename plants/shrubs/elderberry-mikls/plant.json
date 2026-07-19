@@ -1,0 +1,196 @@
+{
+  "collection": "elderberries",
+  "common": "'Mikl's' elderberry",
+  "botanical": "Sambucus nigra 'Mikl's'",
+  "type": "Shrub",
+  "lifecycle": "Perennial",
+  "native": "Non-native",
+  "flower_color": [
+    "white",
+    "pink"
+  ],
+  "bloom": [
+    "summer"
+  ],
+  "blurb": "A dark-leaved ornamental black elder in the black-lace mold: finely dissected near-black foliage, creamy pink-flushed flower umbels in early summer, and glossy dark berries if a compatible elder pollinates it.",
+  "size": "6–8 ft × 6–8 ft",
+  "sun": "Full sun to part shade (fullest sun deepens the dark foliage)",
+  "water": "Moderate; a moisture-lover — water young plants well, keep established ones evenly moist",
+  "spread": "Multi-stem shrub; can sucker at the root and self-seed — pull unwanted suckers",
+  "seasons": "Finely cut dark foliage spring–fall; creamy pink-flushed flower umbels in June; glossy near-black berry cymes in late summer; bare arching stems in winter",
+  "wildlife": "Flowers feed bees, hoverflies and butterflies; birds strip the ripe berries",
+  "deer": "Not a preferred browse; the bitter, toxic leaves are usually left alone",
+  "toxic": "Raw berries, leaves, stems, roots and seeds are toxic (cyanogenic glycosides); only the flowers and cooked ripe berries are edible",
+  "winter": false,
+  "verified": "2026-07-18",
+  "origin": "Europe, north Africa & southwest Asia (garden selection)",
+  "habitat": "Woodland edges, hedgerows and damp, disturbed ground",
+  "ph": {
+    "min": 5.5,
+    "ideal": 6.5,
+    "max": 7.5
+  },
+  "gaps": "Photos are species-representative European elder (Sambucus nigra), shown with the species' green foliage — no open-licensed photograph of the 'Mikl's' selection exists. A black-lace-type ornamental elder carries dark, finely dissected leaves and pink-flushed flowers not fully captured here; the cultivar name is poorly documented, so traits follow the black-lace ornamental-elder group.",
+  "care": {
+    "hardiness": "Hardy in roughly USDA zones 4–7, so it comes through Front Range winters (5b–6a) with ease; the dark-leaved black-lace elders color darkest in strong light and hold their tone in our high-altitude sun.[3][1]",
+    "planting": "Plant dormant bare-root or container stock in early spring, or container plants through the season if kept watered, setting the crown at soil level in ground that stays moist. It can be grown a year or two in a large pot, but pots dry and freeze fast in Boulder's wind — sink or insulate the pot and water faithfully, and plan to move it into open ground where its roots run cool and damp.[1][2]",
+    "sun": "Full sun to part shade. Give it full sun for the darkest foliage and the heaviest flower and fruit set; in the hottest, driest spots a little afternoon shade eases moisture stress, but deep shade greens the leaves and thins the bloom.[1][3]",
+    "soil": "Adaptable to clay, loam or sand as long as it holds moisture; it does best in moist, humus-rich, well-drained ground and tolerates Boulder's heavier alkaline clay at a pH from about 5.5 to 7.5 — amend clay with compost to feed it and hold water. It is not a xeric plant.[1][2]",
+    "water": "Elder is a moisture-lover, not a drought shrub. Water young plants regularly through the first seasons to establish, and keep established plants evenly moist through our dry summers — it wilts and drops fruit under drought. Give a deep soak in late fall before the ground freezes.[1][2]",
+    "spacing": "Allow about 6–8 ft per plant; a black-lace elder matures to roughly 6–8 ft tall and wide, or smaller if coppiced hard each year.[1][3]",
+    "propagation": "Very easy from hardwood cuttings of dormant one-year wood taken in late fall to winter, or softwood cuttings in early summer; it also layers and suckers readily. Seed needs cold stratification and won't come true for a named selection, so use cuttings to keep 'Mikl's' identical.[2][1]",
+    "bloom": "Flat 5–8 in umbels of tiny creamy-white, pink-flushed, musky-scented flowers open in June over the dark foliage; bees, hoverflies and butterflies work them, and the flowers themselves are edible (cordial, fritters) and set the berries.[1][3]",
+    "feeding": "A light spring mulch of compost or well-rotted manure is plenty; on decent soil little feeding is needed. Avoid heavy nitrogen, which pushes soft, floppy growth.[2][1]",
+    "pruning": "Prune when fully dormant, in late winter to early spring, and you have a choice — elder flowers on both new growth and second-year wood. To keep the plant compact and the foliage at its best, cut the whole bush back hard (even to a low framework) each late winter and grow it like a big perennial, trading away most of that year's flowers and fruit; to crop berries instead, build an open framework and merely renewal-prune, cutting the oldest, weakest and crossing canes to the base and thinning the center for light and air. Always remove dead, winter-broken and suckering stems. Wear gloves and don't chew the pithy prunings — the stems are toxic.[3][1][2]",
+    "maintenance": "Pull root suckers and stray seedlings each year to keep it in bounds, mulch to hold moisture, and head back or stake leggy stems, since the brittle wood can split under wet spring snow. Deadhead spent flower heads for tidiness if you aren't leaving them to fruit.[1][2]",
+    "troubles": "Generally trouble-free here; watch for aphids and spider mites in hot, dry spells and for powdery mildew, leaf spot, canker and stem borers on crowded, stressed plants — keep it watered and airy. Its main vice is vigor: it suckers and self-seeds, so site it away from wild areas and remove seedlings.[1][2]",
+    "companions": "Handsome as a dark-foliage anchor behind lighter perennials in a moist border or a damp corner where its water needs are met; plant a second compatible black elder nearby (a Black Beauty, Instant Karma or Laced Up type) so cross-pollination sets a good berry crop.[3][1]"
+  },
+  "fact_src": {
+    "size": [
+      1,
+      3
+    ],
+    "sun": [
+      1,
+      3
+    ],
+    "water": [
+      1,
+      2
+    ],
+    "spread": [
+      1,
+      2
+    ],
+    "seasons": [
+      1,
+      3
+    ],
+    "wildlife": [
+      1,
+      2
+    ],
+    "deer": [
+      2
+    ],
+    "toxic": [
+      1,
+      4
+    ],
+    "origin": [
+      4,
+      1
+    ],
+    "habitat": [
+      4
+    ],
+    "ph": [
+      1,
+      2
+    ]
+  },
+  "edible": {
+    "level": "caution",
+    "food": true,
+    "kinds": [
+      "flowers",
+      "fruit"
+    ],
+    "card": "Flowers & cooked ripe berries (cordial, syrup, jelly)",
+    "summary": "Caution — the fragrant flowers and fully-ripe berries are edible only after the berries are cooked; raw berries and all green parts (leaves, stems, roots, seeds) are toxic.[1][4]",
+    "parts": "Two parts of the elder are used: the creamy flower umbels (for cordial, 'elderflower champagne', fritters and tea) and the small glossy dark-purple ripe berries (for syrup, jelly, wine and pies). Everything else — leaves, bark, stems, roots, and the seeds and unripe green berries — contains cyanogenic glycosides and is toxic. For a berry crop this ornamental selection needs a compatible black elder nearby to pollinate it.[1][3][4]",
+    "preparation": "Gather flower heads in full bloom and use fresh or dried; pick berries only when fully dark-ripe and always cook them — heating drives off the cyanogenic compounds. Never eat raw berries, and discard leaves, stems and green fruit. Eat only from unsprayed plants, and be certain of the ID.[4][1]",
+    "caution": "All green parts of elder — leaves, stems, bark and roots — plus the seeds and unripe berries contain cyanogenic glycosides (sambunigrin) that release cyanide and cause nausea, vomiting and diarrhea; even ripe berries eaten raw or in quantity can make you sick, so berries must be cooked before eating. Keep children from chewing the pithy stems, and never use the wood or leaves as food. When in doubt, don't.[1][4]"
+  },
+  "references": [
+    {
+      "name": "Missouri Botanical Garden Plant Finder — Sambucus nigra",
+      "url": "http://www.missouribotanicalgarden.org/plantfinder/PlantFinderDetails.aspx?taxonid=278936"
+    },
+    {
+      "name": "NC State Extension Gardener Plant Toolbox — Sambucus nigra",
+      "url": "https://plants.ces.ncsu.edu/plants/sambucus-nigra/"
+    },
+    {
+      "name": "Proven Winners — Black Lace elderberry (Sambucus nigra)",
+      "url": "https://www.provenwinners.com/plants/sambucus/black-lace-elderberry-sambucus-nigra"
+    },
+    {
+      "name": "Sambucus nigra (native range & toxicology) — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sambucus_nigra"
+    }
+  ],
+  "shots": [
+    {
+      "local": "images/su-flower-t.jpg",
+      "full": "images/su-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/397147/large.jpg",
+      "s": "summer",
+      "cap": "Summer — a flat umbel of creamy, pink-flushed elder flowers, face-on · © no rights reserved (CC0) / iNaturalist",
+      "by": "no rights reserved",
+      "lic": "CC0",
+      "link": "https://www.inaturalist.org/observations/319401"
+    },
+    {
+      "local": "images/su-flower2-t.jpg",
+      "full": "images/su-flower2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/138459240/large.jpg",
+      "s": "summer",
+      "cap": "Summer — close-up of the star-shaped elder florets · © Rea Orthner (CC-BY-NC) / iNaturalist",
+      "by": "Rea Orthner",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/84253948"
+    },
+    {
+      "local": "images/su-bloom-t.jpg",
+      "full": "images/su-bloom.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/203205855/large.jpg",
+      "s": "summer",
+      "cap": "Summer — a shrub sheeted in creamy flower umbels, the way it reads in the garden · © Ken Wills (CC-BY-NC) / iNaturalist",
+      "by": "Ken Wills",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/120162921"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/158849858/large.jpeg",
+      "s": "summer",
+      "cap": "Pinnate elder foliage (green species form shown; 'Mikl's' has dark, finely cut leaves) · © no rights reserved (CC0) / iNaturalist",
+      "by": "no rights reserved",
+      "lic": "CC0",
+      "link": "https://www.inaturalist.org/observations/95671167"
+    },
+    {
+      "local": "images/fa-berries-t.jpg",
+      "full": "images/fa-berries.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/22680820/large.jpg",
+      "s": "fall",
+      "cap": "Late summer — a cyme of glossy dark-purple ripe elderberries · © Julia Gregory (CC-BY-NC) / iNaturalist",
+      "by": "Julia Gregory",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/15168155"
+    },
+    {
+      "local": "images/fa-berries2-t.jpg",
+      "full": "images/fa-berries2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/86638773/large.jpg",
+      "s": "fall",
+      "cap": "Late summer — heavy trusses of ripe black elderberries on red stalks · © Susan J. Hewitt (CC-BY-NC) / iNaturalist",
+      "by": "Susan J. Hewitt",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/54449790"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/498953330/large.jpg",
+      "s": "summer",
+      "cap": "A multi-stemmed elder shrub in full leaf · © crpalma (CC-BY-NC) / iNaturalist",
+      "by": "crpalma",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/277878695"
+    }
+  ]
+}

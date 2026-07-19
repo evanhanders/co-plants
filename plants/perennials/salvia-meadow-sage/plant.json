@@ -1,6 +1,10 @@
 {
   "common": "Salvia (meadow sage)",
   "botanical": "Salvia nemorosa",
+  "aka": [
+    "'May Night' salvia",
+    "'Mainacht' salvia"
+  ],
   "type": "Forb",
   "lifecycle": "Perennial",
   "native": "Non-native",

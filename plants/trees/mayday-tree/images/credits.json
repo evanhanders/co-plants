@@ -1,0 +1,121 @@
+[
+  {
+    "file": "images/sp-flower.jpg",
+    "photo_id": 70207771,
+    "by": "Karla Hamilton",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/44282060",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  },
+  {
+    "file": "images/sp-bloom-mass.jpg",
+    "photo_id": 532332876,
+    "by": "Богдан",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/295687306",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      1400
+    ],
+    "thumb_px": [
+      400,
+      400
+    ]
+  },
+  {
+    "file": "images/sp-spring-growth.jpg",
+    "photo_id": 468469363,
+    "by": "Даниил Корзунов",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/260826072",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      573,
+      1280
+    ],
+    "thumb_px": [
+      179,
+      400
+    ]
+  },
+  {
+    "file": "images/su-foliage.jpg",
+    "photo_id": 88406742,
+    "by": "yulia_kazantseva",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/55516851",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  },
+  {
+    "file": "images/su-berries.jpg",
+    "photo_id": 230406072,
+    "by": "echeveria_grey",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/135111643",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      1304
+    ],
+    "thumb_px": [
+      400,
+      373
+    ]
+  },
+  {
+    "file": "images/su-habit.jpg",
+    "photo_id": 249096940,
+    "by": "alopecurus",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/145054257",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      1050
+    ],
+    "thumb_px": [
+      400,
+      300
+    ]
+  },
+  {
+    "file": "images/sp-context.jpg",
+    "photo_id": 69585719,
+    "by": "no rights reserved",
+    "license": "CC0",
+    "source": "https://www.inaturalist.org/observations/43877962",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  }
+]

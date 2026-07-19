@@ -481,7 +481,8 @@ driven off one predicate so they can't drift. To add one (e.g. `Fragrant`):
 Cultivar/genus clusters (apples, plums, tart cherries, currants, pelargoniums, wallflowers,
 asters, irises, tulips, climbing/rambling roses, hardy geraniums, crocuses, penstemons, maples,
 milkweeds, alliums, sunflowers, bee-balms, lupines, dogwoods, clematis, mulleins, columbines,
-scabious, prairie-coneflowers, pinks, coreopsis, sumacs, primulas, ornamental-oreganos, marigolds — **31 in all**) collapse
+scabious, prairie-coneflowers, pinks, coreopsis, sumacs, primulas, ornamental-oreganos, marigolds,
+bugleweeds, pasqueflowers, coral-bells, elderberries — **35 in all**) collapse
 into a **single expandable family card** so the grid isn't buried under near-duplicate cards. It's
 an **inline accordion**, not a separate page — each member keeps its own detail page untouched.
 The bar for a collection is "would a gardener read these as one kind of plant in different
@@ -1070,7 +1071,7 @@ ground every statement in an authority cited in `references`.
 
 ## Current plant roster (in the live site)
 
-**252 specimens** (`plants/manifest.json` is the source of truth for the exact count), all verified
+**293 specimens** (`plants/manifest.json` is the source of truth for the exact count), all verified
 non-weed in CO and all carrying a full `care` block (incl.
 `planting` + `propagation`) **and a repo-hosted photo reel** (close-up + structure, seasonal
 where good shots exist). Every plant's detail page is **fully cited** — a numbered
@@ -1354,6 +1355,31 @@ false match). Weed-checked vs CO A/B/C/Watch 2026-07-18. `aka` carries the *Zaus
 "Hummingbird trumpet" / "'Orange Carpet' hummingbird trumpet" for search. 8-shot iNat reel (flower, bloom
 mass, low mat + grey foliage, cluster, wild habit, silvery seed plumes). Care sourced from Plant Select,
 MBG, LBJ Wildflower Center, USDA NRCS plant guide, RHS; `check_refs` guide-wide + `check_citations` pass.
+
+**Nursery walk-through batch (July 2026):** identified **~50** plants a user photographed at a Front-Range
+nursery (label shots) and added the **41** not already covered (roster 252 → **293**). Weed-checked vs CO
+A/B/C/Watch 2026-07-18 — all clear (notable calls: **Prunus padus** mayday tree is invasive in Alaska only,
+NOT CO-listed, and is a Colorado Tree Coalition recommended tree; **Lysimachia nummularia** creeping Jenny
+& **L. punctata** variegated loosestrife are NOT listed but their relative *L. vulgaris* IS on the CO
+**Watch List** and purple loosestrife *Lythrum salicaria* is CO **List A** — both distinctions are called
+out in those entries). Built by **8 parallel type-batched agents** (native woody · ornamental woody · Ribes
+& Sambucus · bugleweeds & Lysimachia · cranesbills & mats · xeric sun · spring forbs · summer/shade forbs
+& vine), each owning distinct files; the parent integrated manifest/collections/bundle and ran the QC +
+citation passes. **Four new family cards** (`bugleweeds` = 4 Ajuga reptans; `pasqueflowers` = native
+*Pulsatilla patens* + European *P. vulgaris* + 'Rubra'; `coral-bells` = *Heuchera sanguinea* + micrantha
+'Palace Purple'; `elderberries` = *Sambucus nigra* 'Mikl's' + 'Marge'); the rest fold into existing cards
+(4 currants/gooseberries → **currants**, 3 cranesbills → **hardy-geraniums**, Tiger Eyes → **sumacs**,
+American plum → **plums**). **Four `aka` merges instead of duplicate pages:** 'May Night'→meadow sage,
+'Furman's Red'→autumn sage, 'Purpleicious'→spike speedwell, 'Starfire'→garden phlox. Honesty calls baked in:
+**golden chain tree** (*Laburnum alpinum*), **Saskatoon boxwood**, and the two **pasqueflowers** are `edible`
+**toxic**; **western river birch** is riparian/**not xeric**; **blue wild indigo**, **woodland phlox**,
+**lady's mantle**, **Palace Purple coral bells**, **Tiger Eyes staghorn sumac** and most cultivars are
+`Non-native` (regional-but-not-Front-Range or garden origin) per the witch-hazel convention; aggressive
+spreaders (pink evening primrose, false indigo, creeping Jenny, hardy plumbago, golden hops, the Ajugas)
+carry explicit containment notes. Photos via `tools/inat_montage.py` (iNat open data; 6–8 shots each,
+720×480 smart-crop thumbs); the many named cultivars with no clean CC taxon use honestly-captioned
+species-representative shots with a `gaps` note, per the guide's convention. `check_refs` guide-wide PASS;
+`check_citations` on the 41 PASS (every plant ≥1 reachable authority).
 
 **Trees**
 - River hawthorn (*Crataegus rivularis*) (N) — Thorny native small tree; white spring flowers, dark edible haws, superb wildlife cover. A caterpillar keystone (~90 Lepidoptera). *(Riparian — wants more water; edible haws, spit the cyanogenic seeds.)*

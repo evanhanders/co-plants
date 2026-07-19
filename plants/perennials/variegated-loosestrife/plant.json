@@ -1,0 +1,173 @@
+{
+  "common": "Variegated loosestrife 'Alexander'",
+  "botanical": "Lysimachia punctata 'Alexander'",
+  "type": "Forb",
+  "lifecycle": "Perennial",
+  "bloom_season": "Summer",
+  "native": "Non-native",
+  "flower_color": [
+    "yellow"
+  ],
+  "bloom": [
+    "summer"
+  ],
+  "blurb": "An upright clump of cream-margined variegated leaves in whorls, hung in early summer with whorls of starry yellow flowers — not to be confused with the noxious purple loosestrife (a different genus), though it too runs by rhizome and wants containing.",
+  "size": "~18–24 in tall × 12–18 in wide (rhizomatous clump)",
+  "sun": "Full sun to part shade (laxer and less aggressive in dry shade)",
+  "water": "Moderate; likes rich, moist soil and tolerates wet ground",
+  "spread": "Runs by rhizome — can be aggressive; contain it",
+  "seasons": "Cream-and-green variegated whorled foliage spring–fall (pink-flushed when new); whorls of yellow star flowers early-to-late summer",
+  "wildlife": "Yellow flowers draw bees — including oil-collecting Macropis bees — and butterflies",
+  "deer": "Not well documented as deer-resistant; grown for foliage and flowers",
+  "toxic": "No significant toxicity reported",
+  "winter": false,
+  "verified": "2026-07-18",
+  "origin": "SE Europe & W Asia (Balkans to Turkey/Caucasus)",
+  "habitat": "Damp meadows, ditches & streamsides",
+  "ph": {
+    "min": 5.5,
+    "ideal": 6.5,
+    "max": 7.5
+  },
+  "care": {
+    "hardiness": "Cold-hardy through USDA zones 4–8, so fully winter-hardy in Boulder's 5b–6a; it dies back to the ground each fall and returns from the rhizome in spring.[1][2]",
+    "planting": "Plant in spring after the mid-May frost or in early fall in moisture-retentive soil, where it establishes easily. Give it room, or a spot where you can control its spread, and keep container plants well watered.[1][2]",
+    "sun": "Full sun to part shade. It flowers best and stays sturdiest in sun with steady moisture; in dry shade it grows laxer and spreads more slowly.[1][2]",
+    "soil": "Wants rich, moisture-retentive soil but tolerates clay and a wide pH range from acid to alkaline; it even shrugs off wet ground.[1][2]",
+    "water": "Moderate and steady — this is a damp-meadow plant, so it wants more water than a xeric bed provides; the drier it is the less it runs, but too dry and it scorches and flowers poorly.[1][2]",
+    "spacing": "Space 12–18 in apart; the rhizomes fill in and can push outward, so leave room or plan to divide.[1]",
+    "propagation": "Division in spring or fall is easiest — the running rhizomes yield abundant divisions. The variegated 'Alexander' only occasionally sets seed and will not come true from it, so propagate by division.[1][2]",
+    "bloom": "Cup-shaped yellow flowers with an orange-red eye ring the leaf whorls from roughly June into late summer, held tight against the upright stems.[1][2]",
+    "selfsow": "The variegated form rarely seeds; its spread is almost entirely by creeping rhizome rather than by seedlings.[2]",
+    "maintenance": "Cut the stems to the ground in late fall or early spring. The ongoing job is containment: the rhizomes can colonize, so divide or root-prune the clump every couple of years, plant it where it can be edged, and keep it away from wet natural areas where loosestrifes can naturalize.[1][2]",
+    "troubles": "Its only real fault is that vigorous rhizomatous spread; also watch for the occasional reverted all-green shoot on the variegated form and cut it out so it doesn't overtake the variegated growth.[1][2]"
+  },
+  "references": [
+    {
+      "name": "NC State Extension Plant Toolbox — Lysimachia punctata",
+      "url": "https://plants.ces.ncsu.edu/plants/lysimachia-punctata/"
+    },
+    {
+      "name": "Missouri Botanical Garden — Lysimachia punctata",
+      "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderProfileResults.aspx?basic=Lysimachia+punctata"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      1,
+      2
+    ],
+    "sun": [
+      1,
+      2
+    ],
+    "water": [
+      1,
+      2
+    ],
+    "spread": [
+      1,
+      2
+    ],
+    "seasons": [
+      1,
+      2
+    ],
+    "wildlife": [
+      1
+    ],
+    "deer": [
+      1
+    ],
+    "toxic": [
+      1
+    ],
+    "ph": [
+      1
+    ],
+    "origin": [
+      2
+    ],
+    "habitat": [
+      1
+    ]
+  },
+  "edible": {
+    "level": "inedible",
+    "summary": "Not a food plant — dotted loosestrife is an ornamental with no established edible use.[1]",
+    "caution": "Grown for its variegated foliage and flowers, not for eating; no part is recommended as food. Note this is Lysimachia punctata, NOT the invasive purple loosestrife (Lythrum salicaria, a Colorado List A noxious weed) — an entirely different genus.[1][2]"
+  },
+  "gaps": "Some photos are species-representative green-leaved Lysimachia punctata; the cream-variegated 'Alexander' foliage is shown where a CC image exists.",
+  "shots": [
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/680942691/large.jpg",
+      "s": "summer",
+      "cap": "Summer — cream-margined variegated foliage of the 'Alexander' form · © pklari (CC-BY-NC) / iNaturalist",
+      "by": "pklari",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/372634501"
+    },
+    {
+      "local": "images/su-flower-face-t.jpg",
+      "full": "images/su-flower-face.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/207238147/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — a yellow star flower with an orange-red eye · © zihuadean (CC-BY-NC) / iNaturalist",
+      "by": "zihuadean",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/122404305"
+    },
+    {
+      "local": "images/su-bloom-mass-t.jpg",
+      "full": "images/su-bloom-mass.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/386865129/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — upright stems massed with yellow flowers · © Dr. Peter Stimmler (CC-BY-NC) / iNaturalist",
+      "by": "Dr. Peter Stimmler",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/218612736"
+    },
+    {
+      "local": "images/su-flower-t.jpg",
+      "full": "images/su-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/206891258/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — yellow flowers ringing the leaf whorls · © sabine-g (CC-BY-NC) / iNaturalist",
+      "by": "sabine-g",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/122210776"
+    },
+    {
+      "local": "images/su-foliage2-t.jpg",
+      "full": "images/su-foliage2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/45907632/large.jpg",
+      "s": "summer",
+      "cap": "Summer — whorled leaves along the stems · © Kitty Maurey (CC-BY-NC) / iNaturalist",
+      "by": "Kitty Maurey",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/29416373"
+    },
+    {
+      "local": "images/su-context-t.jpg",
+      "full": "images/su-context.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/517044942/large.jpg",
+      "s": "summer",
+      "cap": "Summer — a flowering clump in the border · © Jeremy Barker (CC-BY-NC) / iNaturalist",
+      "by": "Jeremy Barker",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/287550550"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/397747640/large.jpg",
+      "s": "summer",
+      "cap": "Summer — an upright clump in leaf and bud · © estito (CC-BY-NC) / iNaturalist",
+      "by": "estito",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/224419052"
+    }
+  ]
+}

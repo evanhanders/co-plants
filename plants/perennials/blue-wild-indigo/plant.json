@@ -1,0 +1,179 @@
+{
+  "common": "Blue wild indigo",
+  "botanical": "Baptisia 'Blue Rocket'",
+  "type": "Forb",
+  "lifecycle": "Perennial",
+  "bloom_season": "Summer",
+  "native": "Non-native",
+  "origin": "Central & eastern U.S. prairies (a compact blue false indigo of the Baptisia australis type)",
+  "habitat": "Rich woods, thickets, prairies and gravelly streambanks of the central & eastern U.S.",
+  "blurb": "A tidy, compact blue false indigo: dense spikes of indigo-blue, lupine-like pea flowers over blue-green trifoliate foliage in early summer, followed by inflated black seed pods that rattle in the wind. A tough, long-lived, nitrogen-fixing prairie legume that sits still for decades.",
+  "size": "~2.5–3 ft tall × 2.5–3 ft wide (the straight species reaches 3–4 ft)",
+  "sun": "Full sun (tolerates light afternoon shade)",
+  "water": "Low; deeply drought-tolerant once its taproot is down",
+  "spread": "Slow-building single clump; a deep taproot — site it permanently, it resents being moved or divided",
+  "seasons": "Blue-green clover-like foliage spring through fall; indigo-blue flower spikes in late spring to early summer; charcoal-black inflated seed pods that rattle into fall; a bushy shrub-like silhouette",
+  "wildlife": "Bumblebees and other long-tongued bees work the flowers; a larval host for several sulphur, duskywing and blue butterflies; a nitrogen-fixing legume",
+  "deer": "Deer-resistant (the alkaloid-bearing foliage is left alone)",
+  "toxic": "All parts contain quinolizidine alkaloids and are poisonous if eaten",
+  "flower_color": [
+    "blue",
+    "purple"
+  ],
+  "bloom": [
+    "spring",
+    "summer"
+  ],
+  "winter": false,
+  "verified": "2026-07-18",
+  "ph": {
+    "min": 5.5,
+    "ideal": 6.5,
+    "max": 7.5
+  },
+  "shots": [
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/8193465/large.jpg",
+      "s": "summer",
+      "cap": "Early summer — indigo-blue flower spikes over the whole plant · © aarongunnar (CC-BY) / iNaturalist",
+      "by": "aarongunnar",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/6478270"
+    },
+    {
+      "local": "images/su-flower-t.jpg",
+      "full": "images/su-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/508835247/large.jpg",
+      "s": "summer",
+      "cap": "Early summer — indigo-blue pea flowers face-on with trifoliate foliage · © no rights reserved (CC0) / iNaturalist",
+      "by": "no rights reserved",
+      "lic": "CC0",
+      "link": "https://www.inaturalist.org/observations/283193549"
+    },
+    {
+      "local": "images/su-flower-close-t.jpg",
+      "full": "images/su-flower-close.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/37960148/large.jpg",
+      "s": "summer",
+      "cap": "Early summer — a raceme of blue-violet pea flowers up close · © sleepybme (CC-BY-NC) / iNaturalist",
+      "by": "sleepybme",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/24549304"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/83330423/large.jpg",
+      "s": "summer",
+      "cap": "Summer — blue-green, clover-like trifoliate foliage · © nczap (CC-BY-NC) / iNaturalist",
+      "by": "nczap",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/52420417"
+    },
+    {
+      "local": "images/fa-pods-t.jpg",
+      "full": "images/fa-pods.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/142424628/large.jpg",
+      "s": "fall",
+      "cap": "Late summer — an inflated seed pod ripening charcoal-black · © gweech (CC-BY-NC) / iNaturalist",
+      "by": "gweech",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/86454563"
+    },
+    {
+      "local": "images/su-habit-sky-t.jpg",
+      "full": "images/su-habit-sky.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/70459428/large.jpg",
+      "s": "summer",
+      "cap": "Early summer — a flowering spike against the sky · © Amy Martin (CC-BY-NC) / iNaturalist",
+      "by": "Amy Martin",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/44439598"
+    },
+    {
+      "local": "images/su-context-t.jpg",
+      "full": "images/su-context.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/277480860/large.jpg",
+      "s": "summer",
+      "cap": "Early summer — blooming in a prairie-style planting · © Owen Kathriner (CC-BY-NC) / iNaturalist",
+      "by": "Owen Kathriner",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/160559685"
+    }
+  ],
+  "care": {
+    "hardiness": "Iron-hardy — rated roughly USDA 3a–9b — so it is fully perennial across Boulder's zone 5b–6a and, once established, is one of the most durable, long-lived perennials you can plant, thriving in our semi-arid heat and high-altitude sun. It dies back to the ground in winter and reappears with asparagus-like purple shoots in spring.[1][2]",
+    "planting": "Set it out in spring after the mid-May last frost, choosing the spot carefully: it forms a deep taproot and settles in slowly the first year or two ('sleep, creep, leap'), then dislikes being disturbed, so plant it where it can stay for decades. In a container it makes a big, deep-rooted plant that needs a large pot and quickly outgrows most; ground is far better here.[1][2]",
+    "sun": "Full sun gives the sturdiest, most upright, best-flowering plant; in too much shade the stems flop and bloom thins. It will take a little afternoon shade in our strong Front-Range light without much penalty.[1][2]",
+    "soil": "Not fussy — it grows in average to lean, sandy, gravelly or clay soils, including Boulder's alkaline clay, provided drainage is reasonable. As a nitrogen-fixing legume it actually prefers poorer soils and needs no rich amendment. A near-neutral pH suits it, and it tolerates occasional wet as well as prolonged dry.[1][2]",
+    "water": "Low water once established. The deep taproot makes a mature plant genuinely drought-tolerant — a true xeric-tolerant perennial that needs little to no supplemental water here after its first couple of seasons. Water new plants through their establishing period, then back off.[1][2]",
+    "spacing": "Give it room to build into a bushy, shrub-like clump — space plants about 3 ft apart. It never runs or spreads aggressively; it simply gets a little wider each year from the same crown.[1][2]",
+    "bloom": "Erect racemes of indigo-blue to violet-blue, lupine-like pea flowers rise well above the foliage in late spring to early summer (roughly late May–June here) for two to three weeks. The spent flowers give way to inflated pods up to ~2.5 in. long that ripen charcoal-black and rattle their loose seeds — a strong ornamental and dried-arrangement feature into fall.[1][2]",
+    "feeding": "Needs no feeding — as a legume it fixes its own nitrogen, and rich soil or fertilizer only makes it floppy. Skip it.[1][2]",
+    "maintenance": "Very low-care. The clump stands on its own in full sun; a plant grown too soft or too shaded may need staking or a light shear after bloom to firm it up. Leave the black seed pods for winter interest, or cut them for arrangements. Cut the whole plant to the ground in late fall or early spring. It is best never divided.[1][2]",
+    "propagation": "Slow and best from seed: the hard seed coat needs scarifying, then a cold-moist stratification (or fall sowing outdoors) to break dormancy; seedlings develop a taproot quickly, so start them where they will grow or pot deep and transplant young. Mature crowns resent division because of the taproot — if you must, divide in early spring, but expect setback; root cuttings are the more reliable vegetative route.[1][2]",
+    "companions": "A shrub-like anchor for a sunny xeric or prairie border — pair it with ornamental grasses, penstemons, coneflowers, salvias and other drought-tolerant natives and perennials that appreciate the same lean, well-drained, full-sun conditions.[2]"
+  },
+  "references": [
+    {
+      "name": "NC State Extension Plant Toolbox — Baptisia australis",
+      "url": "https://plants.ces.ncsu.edu/plants/baptisia-australis/"
+    },
+    {
+      "name": "Missouri Botanical Garden Plant Finder — Baptisia australis (blue false indigo)",
+      "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=b660"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      1,
+      2
+    ],
+    "sun": [
+      1,
+      2
+    ],
+    "water": [
+      1,
+      2
+    ],
+    "spread": [
+      1,
+      2
+    ],
+    "seasons": [
+      1,
+      2
+    ],
+    "wildlife": [
+      1,
+      2
+    ],
+    "deer": [
+      1
+    ],
+    "toxic": [
+      1
+    ],
+    "origin": [
+      1,
+      2
+    ],
+    "habitat": [
+      2
+    ],
+    "ph": [
+      1,
+      2
+    ]
+  },
+  "edible": {
+    "level": "toxic",
+    "food": false,
+    "summary": "Do not eat — all parts of blue false indigo are poisonous, containing quinolizidine alkaloids, and it is grown strictly as an ornamental and pollinator plant.[1]",
+    "caution": "Every part of the plant contains toxic quinolizidine alkaloids (baptisin and cytisine); ingestion can cause nausea, vomiting and diarrhea, and larger amounts are more serious. The seeds in the ornamental black pods are especially not for eating, and the rattling pods should be kept away from small children who might mistake them for a toy or snack. It is not a food plant of any kind — enjoy it in the garden and in cut arrangements only.[1]"
+  },
+  "gaps": "Photos are species-representative Baptisia australis (the wild straight species); no open-licensed photos of the compact 'Blue Rocket' selection specifically exist. The flower colour, foliage and black seed pods match the cultivar, which is simply a shorter, tidier form."
+}

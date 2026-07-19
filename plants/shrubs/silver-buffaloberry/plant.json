@@ -1,0 +1,186 @@
+{
+  "common": "Silver buffaloberry",
+  "botanical": "Shepherdia argentea 'Silver Totem'",
+  "type": "Shrub",
+  "lifecycle": "Perennial",
+  "native": "CO native",
+  "flower_color": [
+    "yellow"
+  ],
+  "bloom": [
+    "spring"
+  ],
+  "aka": [
+    "Silver buffaloberry",
+    "Bull berry",
+    "Silver Totem buffaloberry"
+  ],
+  "blurb": "A thorny, silver-leaved native that glints like an olive and — where a male and female grow together — hangs with tart, jewel-red berries for jelly. A nitrogen-fixing, drought-proof shrub for hard, alkaline ground; 'Silver Totem' is a narrow, columnar selection for tight spaces.",
+  "gaps": "Photos are species-representative Shepherdia argentea — no open-licensed shots of the narrow columnar 'Silver Totem' selection exist, so the reel shows the wild species (which has the same silver foliage, thorns, yellow flowers and red fruit).",
+  "size": "Species ~6–12 ft tall × 6–10 ft wide; 'Silver Totem' narrowly columnar (~10–12 ft × 3–4 ft)",
+  "sun": "Full sun",
+  "water": "Low; xeric and very drought-tolerant once established",
+  "spread": "Suckering — forms thorny, silvery thickets",
+  "seasons": "Tiny yellow flowers before and with the leaves in spring; silvery foliage all summer; bright red tart berries on females from late summer into fall; thorny silver-gray structure in winter",
+  "wildlife": "The red berries feed many birds and mammals; of special value to native bees; the thorny thickets give protective cover; a nitrogen-fixing shrub that enriches poor soil",
+  "deer": "Browsed by deer, though the thorns give it some protection",
+  "toxic": "",
+  "winter": true,
+  "verified": "2026-07-18",
+  "ph": {
+    "min": 6.5,
+    "ideal": 7.6,
+    "max": 8.4
+  },
+  "shots": [
+    {
+      "local": "images/sp-flower-t.jpg",
+      "full": "images/sp-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/18312853/large.jpeg",
+      "s": "spring",
+      "cap": "Spring — tiny yellow flowers along silvery twigs · © Judith Ellen Lopez (CC-BY-NC) / iNaturalist",
+      "by": "Judith Ellen Lopez",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/12656622"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/144445815/large.jpg",
+      "s": "summer",
+      "cap": "Summer — leaves silver-scaled on both sides · © Nick Moore (CC-BY-NC) / iNaturalist",
+      "by": "Nick Moore",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/87613294"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/302263501/large.jpg",
+      "s": "summer",
+      "cap": "Summer — the whole silvery mounded shrub · © US Air Force Academy Natural Resources Office (CC-BY-NC) / iNaturalist",
+      "by": "US Air Force Academy Natural Resources Office",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/174015168"
+    },
+    {
+      "local": "images/su-context-t.jpg",
+      "full": "images/su-context.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/514412400/large.jpg",
+      "s": "summer",
+      "cap": "Summer — a buffaloberry arching over a streambank · © dpew (CC-BY-NC) / iNaturalist",
+      "by": "dpew",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/286030419"
+    },
+    {
+      "local": "images/su-thorns-t.jpg",
+      "full": "images/su-thorns.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/586775282/large.jpg",
+      "s": "summer",
+      "cap": "Summer — spiny silvery-gray twigs · © willem9 (CC-BY-NC) / iNaturalist",
+      "by": "willem9",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/324232950"
+    },
+    {
+      "local": "images/fa-berries-t.jpg",
+      "full": "images/fa-berries.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/225314486/large.jpg",
+      "s": "fall",
+      "cap": "Fall — a cluster of bright red berries · © khauswirth (CC-BY-NC) / iNaturalist",
+      "by": "khauswirth",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/132319597"
+    },
+    {
+      "local": "images/fa-fruit-mass-t.jpg",
+      "full": "images/fa-fruit-mass.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/399508945/large.jpg",
+      "s": "fall",
+      "cap": "Fall — red fruit dense among silver leaves · © avimancer (CC-BY-NC) / iNaturalist",
+      "by": "avimancer",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/225340328"
+    },
+    {
+      "local": "images/su-thicket-t.jpg",
+      "full": "images/su-thicket.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/423591931/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — a silvery buffaloberry thicket · © Indio Brown (CC-BY) / iNaturalist",
+      "by": "Indio Brown",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/237970394"
+    }
+  ],
+  "care": {
+    "hardiness": "Iron-hardy — rated across USDA zones 3–9 and native from the northern plains through Colorado to New Mexico — so it easily takes Boulder's zone 5b–6a winters, wind and high-altitude sun.[1][2][3]",
+    "planting": "Plant in spring or fall in full sun on well-drained ground. It is dioecious: male and female flowers are on separate plants and BOTH are needed for fruit, so set out at least one male for every few females if you want a berry crop (a lone plant, or an all-one-sex planting, will not fruit). 'Silver Totem' is a narrow columnar female selection, so pair it with a pollinating male. Mind the thorns when siting it near paths.[1][3]",
+    "sun": "Wants full sun for the densest silver habit and best fruit set; it tolerates light shade but flowers and fruits less.[1]",
+    "soil": "Adapts to clay, sand and shallow rocky ground and positively thrives in poor, dry, alkaline soils — as a nitrogen-fixing (actinorhizal) shrub it makes its own fertility and needs no rich soil.[1][3]",
+    "water": "Very drought-tolerant once established — a genuinely xeric shrub that needs little to no supplemental water in an ordinary Front-Range year, though occasional deep watering improves the berry crop.[1][3]",
+    "spacing": "Space plants about 6–8 ft apart; it suckers into thorny thickets over time, so allow room or plan to manage the spread. The columnar 'Silver Totem' stays much narrower and suits tighter spots.[1][3]",
+    "propagation": "Grow from seed cleaned of the fleshy fruit and cold-moist stratified for roughly 2–3 months (the seed coat is hard, so scarification helps), or lift and transplant the rooted suckers; softwood cuttings can also be rooted.[3]",
+    "pruning": "Prune while dormant in late winter, working carefully around the sharp thorns. Remove dead, damaged and congested stems, and cut back or dig the outer suckers each year to keep a thicket in bounds; the naturally columnar 'Silver Totem' needs little more than the odd corrective cut. It resprouts readily from the base if renewed hard.[1][3]",
+    "maintenance": "Low care once established — its main tasks are managing suckers and, if you want fruit, keeping a male pollinator alive nearby. No feeding is needed thanks to its nitrogen fixation.[1][3]",
+    "harvest": "Pick the bright-red berries once fully colored in late summer to fall; they are sharply sour and astringent raw and are best after a frost, cooked with sugar into jelly, syrup, sauce or pies.[1][3]"
+  },
+  "references": [
+    {
+      "name": "NC State Extension Plant Toolbox — Shepherdia argentea",
+      "url": "https://plants.ces.ncsu.edu/plants/shepherdia-argentea/"
+    },
+    {
+      "name": "Lady Bird Johnson Wildflower Center — Shepherdia argentea",
+      "url": "https://www.wildflower.org/plants/result.php?id_plant=SHAR"
+    },
+    {
+      "name": "USDA NRCS Plant Guide — Shepherdia argentea (silver buffaloberry)",
+      "url": "https://plants.sc.egov.usda.gov/DocumentLibrary/plantguide/pdf/pg_shar.pdf"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      1,
+      2
+    ],
+    "sun": [
+      1
+    ],
+    "water": [
+      1,
+      3
+    ],
+    "spread": [
+      1,
+      3
+    ],
+    "seasons": [
+      1,
+      2
+    ],
+    "wildlife": [
+      1,
+      3
+    ],
+    "deer": [
+      1
+    ],
+    "ph": [
+      1
+    ]
+  },
+  "edible": {
+    "level": "edible",
+    "food": true,
+    "kinds": [
+      "fruit"
+    ],
+    "card": "Tart red berries (jelly, syrup, sauce)",
+    "summary": "The bright red berries are edible and prized for tart, jewel-red jelly and syrup — sharply sour raw, and best cooked or picked after a frost.[1][3]",
+    "parts": "Only the ripe red drupes are eaten. They are edible raw but intensely sour and astringent, so the traditional and best use is cooked: buffaloberry jelly, syrup, sauce and pies, sweetened to taste. They sweeten somewhat after the first frosts.[1][3]",
+    "preparation": "Strip the frost-touched berries from the thorny branches, cook them down with sugar and strain for jelly or syrup; they are also whipped with water and sugar into a frothy traditional treat. Remember you need a female plant with a nearby male to get any fruit at all.[1][3]",
+    "caution": "The berries are safe in normal culinary amounts. Like many Elaeagnaceae they contain saponins, which can taste soapy and may upset the stomach if very large quantities are eaten raw, so cooking and moderation are wise. Mind the sharp thorns when harvesting.[1][3]"
+  }
+}

@@ -1,0 +1,183 @@
+{
+  "collection": "currants",
+  "common": "Pixwell gooseberry",
+  "botanical": "Ribes hirtellum 'Pixwell'",
+  "type": "Shrub",
+  "lifecycle": "Perennial",
+  "native": "Non-native",
+  "flower_color": [
+    "green"
+  ],
+  "bloom": [
+    "spring"
+  ],
+  "blurb": "The bulletproof homestead gooseberry: nearly thornless arching canes hung with berries that ripen from green through pink to deep purple, sweet-tart off the bush. Iron-hardy and self-fertile.",
+  "size": "3–5 ft × 4–5 ft",
+  "sun": "Full sun to part shade",
+  "water": "Moderate; steady summer moisture for plump berries",
+  "spread": "Clumping, arching multi-cane shrub, nearly thornless; does not run or self-sow",
+  "seasons": "Small greenish spring flowers; berries ripen green→pink→purple in July; lobed green foliage flushing red-orange in fall; open cane frame in winter",
+  "wildlife": "Bees work the early flowers; birds take the ripe berries",
+  "deer": "Occasionally browsed; the sparse thorns give little protection",
+  "toxic": "",
+  "winter": false,
+  "verified": "2026-07-18",
+  "origin": "Northern & north-central North America (parent species' range)",
+  "habitat": "Moist woods, thickets, swamps and rocky slopes across northern North America",
+  "ph": {
+    "min": 6.0,
+    "ideal": 6.5,
+    "max": 7.5
+  },
+  "gaps": "Photos are species-representative wild American gooseberry (Ribes hirtellum) — no open-licensed 'Pixwell' cultivar photo exists; ripe 'Pixwell' berries turn pink to purple as described in the text.",
+  "care": {
+    "hardiness": "Exceptionally cold-hardy — rated to USDA zone 3 (about −40°F) and reliably productive across the Front Range (5b–6a) and up into the mountains. Like the currants it prefers cool summers, so afternoon shade in a hot exposure is welcome.[2][1]",
+    "planting": "Plant dormant bare-root or container bushes in early spring, setting the crown 1–2 in below the soil line so new canes rise from the base; container stock can also go in during early fall. Site it out of frost pockets and strong wind. A large pot works for a season, but pots dry fast and freeze harder than the zone-3 top growth — sink or insulate it and plan to move it into open ground for the best crop.[2][1]",
+    "sun": "Full sun to part shade. It fruits best in full sun but crops well in light or afternoon shade — genuinely useful on the hot Front Range, where a little shade cuts heat and water stress and 'Pixwell' is noted for thriving in partial shade.[2][1]",
+    "soil": "Best in organically rich, fertile, medium-moisture, well-drained loam or silt loam at pH about 6–7, but it tolerates Boulder's heavier alkaline clay at higher pH — amend clay with compost for drainage and moisture. It is hardy on poorer soils too.[2][1]",
+    "water": "Give even, steady moisture through the season for the largest, plumpest berries; the shallow roots dislike both drought and waterlogging. Avoid overhead watering. Taper off after harvest to harden the wood, then water deeply once in November before the ground freezes.[2][1]",
+    "spacing": "Space plants about 4–5 ft apart, in rows 6–8 ft apart; each nearly thornless bush matures to roughly 3–5 ft tall and 4–5 ft wide.[2][1]",
+    "propagation": "Propagate from hardwood cuttings of year-old wood in late fall to winter, or by mound layering — heap soil over the crown in spring and detach rooted shoots the next year. Seed isn't used for cultivars. 'Pixwell' is self-fertile, so a single bush fruits; a second plant only improves yield.[1][3]",
+    "bloom": "Small, insignificant greenish flowers open singly or in pairs along the canes in April–May; bees visit them, and they set the berries that ripen through summer.[2][1]",
+    "feeding": "A light feeder — mulch with compost or well-rotted manure in spring, or apply a modest granular feed before bud-swell. Avoid heavy nitrogen, which encourages soft, mildew-prone growth.[1][3]",
+    "pruning": "Prune in late winter or early spring before bud-swell. Gooseberry fruits best on spurs of two- and three-year-old wood, so build an open bush of about a dozen canes and renewal-prune each year: cut the oldest wood (over three years old) to the base, along with weak, damaged and crowded stems, opening the center for airflow. Because 'Pixwell' is nearly thornless, this is a far friendlier job than most gooseberries; an unpruned, congested bush mildews and crops poorly.[1][3][2]",
+    "harvest": "Berries can be picked green and firm for cooking (where their tartness is wanted) or left to ripen through pink to deep purple for sweeter fresh eating, usually in July; they hang well once ripe. Net against birds if you want the crop yourself.[2][1]",
+    "troubles": "Pests here are minor — aphids, cane borers and spider mites rarely need spraying. Powdery mildew is the classic gooseberry problem in crowded, damp bushes; 'Pixwell' has some resistance but has mildewed badly in humid trials, so prune for an open habit, space well and avoid overhead watering. Like all Ribes it is an alternate host for white pine blister rust (Cronartium ribicola) — a weaker host than black currant, and Colorado has no statewide ban, but keep it away from five-needle (white) pines as a courtesy.[1][2][3]",
+    "companions": "Slots into a part-shade corner of an edible garden or the dappled edge of a border, alongside the currants in a small-fruit bed; the nearly thornless canes make it easy to work around. The one siting rule that matters is distance from five-needle white pines (a blister-rust precaution).[1][2]"
+  },
+  "fact_src": {
+    "size": [
+      2,
+      1
+    ],
+    "sun": [
+      2,
+      1
+    ],
+    "water": [
+      2,
+      1
+    ],
+    "spread": [
+      2,
+      1
+    ],
+    "seasons": [
+      2,
+      1
+    ],
+    "wildlife": [
+      2,
+      1
+    ],
+    "deer": [
+      1
+    ],
+    "toxic": [
+      1,
+      2
+    ],
+    "origin": [
+      4
+    ],
+    "habitat": [
+      4
+    ],
+    "ph": [
+      2,
+      1
+    ]
+  },
+  "edible": {
+    "level": "edible",
+    "food": true,
+    "kinds": [
+      "fruit"
+    ],
+    "card": "Ripe pink-purple berries (fresh, jam, pie)",
+    "summary": "The berries are edible and good — tart and firm when green (classic for pies and jam), sweet-tart and dessert-quality when ripened through pink to purple; no part of the plant is poisonous.[2][1]",
+    "parts": "The fruit is the part eaten: smooth, nearly thornless-borne berries that ripen from green through pink to deep purple, medium to large, with sweet-tart flesh. Picked firm and green they are excellent cooked into jam, jelly, pie and sauce; left to ripen they are sweet enough to eat fresh off the bush. The leaves and stems are not used as food.[2][1]",
+    "preparation": "Eat fully ripe purple berries fresh, or cook firmer green ones with sugar into jam, jelly, pie and sauce. Top-and-tail the berries (remove the blossom and stalk ends) before cooking and wash them. Eat only fruit from bushes you have not sprayed.[2][1]",
+    "caution": "Gooseberry has no toxic parts — the ripe berries are not poisonous — so the cautions are practical: very underripe berries are extremely tart and best cooked, and eat only unsprayed fruit. Like the currants, the bush is an alternate host for white pine blister rust, a disease that threatens nearby white pines, not people eating the fruit.[1][2]"
+  },
+  "references": [
+    {
+      "name": "CSU Extension — Currants, Gooseberries, and Jostaberries",
+      "url": "https://extension.colostate.edu/resource/currants-gooseberries-and-jostaberries/"
+    },
+    {
+      "name": "Missouri Botanical Garden Plant Finder — Ribes 'Pixwell'",
+      "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=252515"
+    },
+    {
+      "name": "University of Minnesota Extension — Growing currants and gooseberries in the home garden",
+      "url": "https://extension.umn.edu/fruit/growing-currants-and-gooseberries-home-garden"
+    },
+    {
+      "name": "Ribes hirtellum (hairystem gooseberry) — native range — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ribes_hirtellum"
+    }
+  ],
+  "shots": [
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/132200979/large.jpg",
+      "s": "summer",
+      "cap": "Summer — a nearly thornless gooseberry bush in full leaf · © scaup (CC-BY) / iNaturalist",
+      "by": "scaup",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/80651023"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/210031264/large.jpeg",
+      "s": "summer",
+      "cap": "Lobed, maple-like gooseberry foliage · © Ben (CC-BY-NC) / iNaturalist",
+      "by": "Ben",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/123946697"
+    },
+    {
+      "local": "images/sp-flower-t.jpg",
+      "full": "images/sp-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/197621129/large.jpeg",
+      "s": "spring",
+      "cap": "Spring — small greenish gooseberry bell flowers along the cane · © davidpickett (CC-BY-NC) / iNaturalist",
+      "by": "davidpickett",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/117043121"
+    },
+    {
+      "local": "images/su-fruit-t.jpg",
+      "full": "images/su-fruit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/500749104/large.jpg",
+      "s": "summer",
+      "cap": "Summer — berries ripening from pink toward purple on the cane · © Ashley Sutherland (CC-BY-NC) / iNaturalist",
+      "by": "Ashley Sutherland",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/278870573"
+    },
+    {
+      "local": "images/fa-fallcolor-t.jpg",
+      "full": "images/fa-fallcolor.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/46054969/large.jpg",
+      "s": "fall",
+      "cap": "Autumn — foliage flushing red-orange · © Graham Buck (CC-BY-NC) / iNaturalist",
+      "by": "Graham Buck",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/29505786"
+    },
+    {
+      "local": "images/su-context-t.jpg",
+      "full": "images/su-context.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/31067991/large.jpg",
+      "s": "summer",
+      "cap": "Summer — a berry hanging on an arching cane in woodland · © Laura J. Costello (CC-BY) / iNaturalist",
+      "by": "Laura J. Costello",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/20143089"
+    }
+  ]
+}

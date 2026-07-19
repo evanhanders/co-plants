@@ -1,0 +1,178 @@
+{
+  "collection": "coral-bells",
+  "common": "'Palace Purple' coral bells",
+  "botanical": "Heuchera micrantha 'Palace Purple'",
+  "type": "Forb",
+  "lifecycle": "Perennial",
+  "bloom_season": "Spring",
+  "native": "Non-native",
+  "origin": "Western North America (a purple-leaved selection of a Pacific-coast species, B.C. to California)",
+  "habitat": "Moist rocky slopes, streambanks and shaded cliff crevices of the Pacific West",
+  "blurb": "The trailblazing purple-leaved heuchera: a semi-evergreen mound of bronze-to-deep-purple, maple-shaped leaves with wine-red undersides, topped in early summer by airy wands of tiny cream flowers. Tougher, sunnier and more drought-tolerant than the fancy modern foliage hybrids — a dry-shade champion.",
+  "size": "8–12 in tall in foliage (to ~18 in in bloom) × 12–16 in wide",
+  "sun": "Part shade to full shade; takes more sun than most dark heucheras with steady moisture",
+  "water": "Low to moderate; drought-tolerant in shade once established",
+  "spread": "Clumping semi-evergreen foliage mound with airy flower wands above",
+  "seasons": "Bronze-purple maple-shaped leaves nearly year-round, richest in cool weather and fading to bronze-green in summer heat; airy cream flower wands in early summer; a semi-evergreen rosette in winter",
+  "wildlife": "Small bees and other insects visit the airy flowers; hummingbirds work heucheras; semi-evergreen winter cover",
+  "deer": "Generally deer- and rabbit-resistant",
+  "toxic": "Non-toxic; the astringent root was a folk medicine (alumroot), not a food",
+  "flower_color": [
+    "white",
+    "green"
+  ],
+  "bloom": [
+    "spring",
+    "summer"
+  ],
+  "winter": true,
+  "verified": "2026-07-18",
+  "ph": {
+    "min": 6.0,
+    "ideal": 6.8,
+    "max": 7.5
+  },
+  "shots": [
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/18816834/large.jpg",
+      "s": "summer",
+      "cap": "Summer — bronze-purple, maple-shaped leaves · © yerbasanta (CC-BY-NC) / iNaturalist",
+      "by": "yerbasanta",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/12947101"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/131349781/large.jpg",
+      "s": "summer",
+      "cap": "Summer — a mound of purple-bronze foliage · © Angela DeWitt (CC-BY-NC) / iNaturalist",
+      "by": "Angela DeWitt",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/80154813"
+    },
+    {
+      "local": "images/su-foliage-shape-t.jpg",
+      "full": "images/su-foliage-shape.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/402444617/large.jpg",
+      "s": "summer",
+      "cap": "Summer — the lobed, maple-shaped leaf form · © Robert Riedl (CC-BY-NC) / iNaturalist",
+      "by": "Robert Riedl",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/226890055"
+    },
+    {
+      "local": "images/su-bloom-t.jpg",
+      "full": "images/su-bloom.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/297940979/large.jpeg",
+      "s": "summer",
+      "cap": "Early summer — airy cream flower wands over the leaves · © Peter Zika (CC-BY-NC) / iNaturalist",
+      "by": "Peter Zika",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/171681008"
+    },
+    {
+      "local": "images/su-bloom-mass-t.jpg",
+      "full": "images/su-bloom-mass.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/82452598/large.jpg",
+      "s": "summer",
+      "cap": "Early summer — a spray of tiny cream bell-flowers · © jkuo (CC-BY-NC) / iNaturalist",
+      "by": "jkuo",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/51880738"
+    },
+    {
+      "local": "images/su-flower-t.jpg",
+      "full": "images/su-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/392706843/large.jpg",
+      "s": "summer",
+      "cap": "Early summer — the tiny bell-shaped flowers up close · © Ulysses M (CC-BY-NC) / iNaturalist",
+      "by": "Ulysses M",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/221738163"
+    },
+    {
+      "local": "images/su-context-t.jpg",
+      "full": "images/su-context.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/111683168/large.jpg",
+      "s": "summer",
+      "cap": "Early summer — in bloom among rocks · © ahernandez211 (CC-BY-NC) / iNaturalist",
+      "by": "ahernandez211",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/68902668"
+    }
+  ],
+  "care": {
+    "hardiness": "Hardy to USDA zone 4, so fully perennial across the Front Range (Boulder is zone 5b–6a). This is the original bronze-purple heuchera, and unlike the dazzling modern foliage hybrids it is genuinely tough — more heat-, sun- and drought-tolerant, and longer-lived, in our dry climate. The maple-shaped basal mound is semi-evergreen through Front-Range winters, tattering by late winter and refreshing in spring; the purple leaf colour is deepest in cool weather and may fade toward bronze-green in the heat of summer.[1][2]",
+    "planting": "Plant in spring (April–May) or early fall (late August–mid-September) so roots establish before summer heat or hard freeze. Set the crown slightly high, never in a low spot that pools water, and give it sharp drainage — this species dislikes heavy wet clay, so work coarse grit into Boulder's alkaline clay or plant on a slope or raised bed. It makes a handsome tidy tuft in a shaded patio pot; container roots are far less cold-hardy than ground roots, so sink the pot or move it to an unheated garage over winter.[1][2]",
+    "sun": "Part shade to full shade is safest here — morning sun with afternoon shade, or all-day dappled/open shade. 'Palace Purple' takes more sun than most dark-leaved heucheras and actually colours up well in sun where it has steady moisture, but on the dry Front Range hot afternoon sun on dry soil scorches the foliage and washes the purple to bronze-green.[1][2]",
+    "soil": "Lean, gritty, sharply drained soil suits it best; it grows wild in rock crevices and on streambanks, so wet, heavy ground rots the crown. It is described as intolerant of heavy clay, so Boulder's alkaline clay works only where drainage is excellent — amend the planting pocket with coarse grit or plant in a gravelly raised area. A neutral pH is ideal.[1][2]",
+    "water": "Low to moderate. In shade, established plants are genuinely drought-tolerant — a deep soak every week or two through the hottest, driest stretches is plenty, and overwatering (especially in heavy clay) is the main killer. Wet winter soil rots the crown, so err dry. Water new plantings regularly through their first season.[1][2]",
+    "spacing": "Space plants about 12–16 in. apart; each forms a clump roughly 12–16 in. wide. Plant in drifts of three or more for the best foliage effect and flower show.[1][2]",
+    "bloom": "In early summer (June–July) slender leafless stems rise about 18 in. to carry airy sprays of tiny, bell-shaped, blush-white to cream flowers well above the foliage — a soft haze rather than a bold show, since this cultivar is grown chiefly for its leaves. Shearing the spent flower stems tidies the plant and can encourage a little rebloom.[1][2]",
+    "feeding": "Light feeders. A thin spring topdressing of compost is ample; rich feeding makes floppy growth and weakens the drought tolerance that makes this old cultivar worth growing.[1]",
+    "maintenance": "Shear off spent flower stems after bloom to tidy the plant. The biggest Front-Range chore is winter frost-heave: freeze-thaw cycles push the woody crowns up out of the soil, exposing roots — check in late winter and early spring and firm heaved crowns back down or replant them deeper (a gravel mulch buffers the heaving). Divide every 3–4 years in spring to keep clumps vigorous as the crown rises and goes woody with age; a winter mulch helps in the coldest, most exposed spots.[1][2]",
+    "troubles": "Crown rot in heavy, wet or poorly drained soil is the dominant failure mode here — drainage is everything. Frost-heave (above) is the other recurring Front-Range issue. Few pests bother it; deer and rabbits generally leave it alone. Foliage scorch and colour fading in hot dry sun are siting problems, not disease.[1][2]",
+    "propagation": "Divide established clumps in spring: lift the woody crown, cut it into sections each with roots and a growing point, and replant at the same depth (or slightly deeper to counter heaving). Division every 3–4 years also rejuvenates aging, woody crowns. It can be grown from seed but seedlings vary in leaf colour and will not come uniformly true to the deep purple, so division is the way to keep the cultivar's colour.[1][2]",
+    "companions": "A superb dry-shade and woodland-edge plant — pair the bronze-purple leaves with chartreuse or silver shade foliage, ferns, barrenwort (Epimedium), hardy geraniums, hostas and spring bulbs. Excellent tucked into a shaded rock garden or dry-stone wall, echoing its wild rock-crevice habitat.[1][2]"
+  },
+  "references": [
+    {
+      "name": "NC State Extension Plant Toolbox — Heuchera 'Palace Purple'",
+      "url": "https://plants.ces.ncsu.edu/plants/heuchera-palace-purple/"
+    },
+    {
+      "name": "Missouri Botanical Garden Plant Finder — Heuchera micrantha var. diversifolia 'Palace Purple'",
+      "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=d240"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      1,
+      2
+    ],
+    "sun": [
+      1,
+      2
+    ],
+    "water": [
+      2
+    ],
+    "spread": [
+      1,
+      2
+    ],
+    "seasons": [
+      1,
+      2
+    ],
+    "wildlife": [
+      1
+    ],
+    "deer": [
+      1
+    ],
+    "toxic": [
+      1
+    ],
+    "origin": [
+      1,
+      2
+    ],
+    "habitat": [
+      1
+    ],
+    "ph": [
+      2
+    ]
+  },
+  "edible": {
+    "level": "inedible",
+    "food": false,
+    "summary": "'Palace Purple' coral bells is a foliage ornamental with no food use — not notably poisonous, but not eaten.[1]",
+    "caution": "Heuchera has no culinary use and should not be treated as food. The genus is called 'alumroot' for the astringent, tannin-rich root, which had a folk-medicinal use as a styptic/astringent — that is herbal-medicine history, not an invitation to eat the plant. It is not a recognized garden poison, but don't consume it, and avoid garden plants that may have been treated with pesticides.[1]"
+  },
+  "gaps": "Photos are species-representative Heuchera micrantha; foliage colour of wild plants ranges from green to bronze-purple, while the 'Palace Purple' selection is reliably bronze-to-deep-purple. Shots showing the purple leaf colouring were favoured; the cream flowers and maple-shaped leaf form match the cultivar."
+}

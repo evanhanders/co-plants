@@ -1,0 +1,138 @@
+[
+  {
+    "file": "images/fa-berries.jpg",
+    "photo_id": 9478923,
+    "by": "christine123",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/observations/7319870",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      900,
+      866
+    ],
+    "thumb_px": [
+      400,
+      385
+    ]
+  },
+  {
+    "file": "images/su-flower.jpg",
+    "photo_id": 526905941,
+    "by": "Sandy Wolkenberg",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/observations/292775494",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  },
+  {
+    "file": "images/su-foliage.jpg",
+    "photo_id": 149991378,
+    "by": "Rob Routledge",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/90736332",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  },
+  {
+    "file": "images/fa-fall-color.jpg",
+    "photo_id": 175328047,
+    "by": "germain_savard",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/104612998",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      1050
+    ],
+    "thumb_px": [
+      400,
+      300
+    ]
+  },
+  {
+    "file": "images/fa-fall-color2.jpg",
+    "photo_id": 447120172,
+    "by": "Song",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/250056484",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  },
+  {
+    "file": "images/wi-winter.jpg",
+    "photo_id": 57664229,
+    "by": "Susan Elliott",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/36476393",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  },
+  {
+    "file": "images/su-habit.jpg",
+    "photo_id": 539865267,
+    "by": "Caleb Swecker",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/299656500",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  },
+  {
+    "file": "images/su-stem.jpg",
+    "photo_id": 164883660,
+    "by": "no rights reserved",
+    "license": "CC0",
+    "source": "https://www.inaturalist.org/observations/98964337",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      933
+    ],
+    "thumb_px": [
+      400,
+      267
+    ]
+  }
+]

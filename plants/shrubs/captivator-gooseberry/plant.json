@@ -1,0 +1,181 @@
+{
+  "collection": "currants",
+  "common": "Captivator gooseberry",
+  "botanical": "Ribes uva-crispa 'Captivator'",
+  "type": "Shrub",
+  "lifecycle": "Perennial",
+  "native": "Non-native",
+  "flower_color": [
+    "green",
+    "red"
+  ],
+  "bloom": [
+    "spring"
+  ],
+  "blurb": "A nearly thornless red dessert gooseberry bred to marry European flavor with North American toughness: teardrop pinkish-red berries, sweet enough to eat fresh, on mildew- and rust-resistant canes.",
+  "size": "3–4 ft × 3–4 ft",
+  "sun": "Full sun to part shade",
+  "water": "Moderate; even summer moisture for large berries",
+  "spread": "Clumping, nearly thornless multi-cane shrub; does not run or self-sow",
+  "seasons": "Greenish-red bell flowers in spring; teardrop pinkish-red berries ripen mid-to-late summer; lobed green foliage; open cane frame in winter",
+  "wildlife": "Bees work the early flowers; birds take the ripe berries",
+  "deer": "Occasionally browsed; the nearly thornless canes offer little deterrence",
+  "toxic": "",
+  "winter": false,
+  "verified": "2026-07-18",
+  "origin": "Garden hybrid (European gooseberry × American gooseberry), raised at Vineland, Ontario",
+  "habitat": "A cultivated hybrid; its wild parents grow in rocky woods, thickets and hedgerows",
+  "ph": {
+    "min": 6.0,
+    "ideal": 6.5,
+    "max": 7.0
+  },
+  "gaps": "Photos are species-representative European gooseberry (Ribes uva-crispa) — no open-licensed 'Captivator' cultivar photo exists; the fruit shown is green, whereas ripe 'Captivator' berries are pinkish-red, and 'Captivator' is nearly thornless where wild uva-crispa is spiny.",
+  "care": {
+    "hardiness": "Very hardy — reliably to USDA zone 3–4 (about −40°F) and thoroughly at home across the Front Range (5b–6a). Bred at Vineland, Ontario to cross European dessert quality with North-American hardiness, it prefers cool summers and appreciates some afternoon shade in a hot site.[2][1]",
+    "planting": "Plant dormant bare-root or container bushes in early spring, setting the crown 1–2 in below the soil line; container stock can also go in during early fall. Site out of frost pockets and strong wind, with room for airflow. A large pot suits it for a season, but pots dry fast and freeze harder than the top growth — sink or insulate it and plan to move it into open ground for the best crop.[1][3]",
+    "sun": "Full sun to light part shade. It fruits best in full sun but still crops in afternoon shade, which cuts heat and water stress on the Front Range; give it wide spacing so air moves through the bush.[2][1]",
+    "soil": "Average to fertile, well-drained soil at a slightly acidic to neutral pH of about 6.0–7.0 is ideal, but it tolerates Boulder's heavier alkaline clay — amend clay with compost for drainage and moisture.[2][1]",
+    "water": "Give even, consistent moisture through the season for the largest, plumpest berries; it dislikes drought stress and resents waterlogging. Avoid overhead watering (it invites leaf disease). Taper off after harvest, then water deeply once in November before the ground freezes.[1][2]",
+    "spacing": "Space plants 4–5 ft apart to maximize airflow; each bush matures to a compact 3–4 ft tall and wide, smaller than most gooseberries.[2][1]",
+    "propagation": "Propagate from hardwood cuttings of year-old wood in late fall to winter, or by mound or tip layering — heap soil over the crown or peg down an arching cane in spring and detach the rooted shoot the next year. Seed isn't used for cultivars. 'Captivator' is self-fertile, so a single bush fruits reliably without a partner.[1][3]",
+    "bloom": "Small greenish-red bell flowers with reflexed sepals open along the canes in spring; bees visit them, and they set the pinkish-red berries that ripen in mid-to-late summer.[2][1]",
+    "feeding": "A light feeder — mulch with compost or well-rotted manure in spring, or a modest granular feed before bud-swell. Avoid heavy nitrogen, which pushes soft, disease-prone growth.[1][3]",
+    "pruning": "Prune in late winter or early spring before bud-swell. Gooseberry fruits best on spurs of two- and three-year-old wood, so build an open, goblet-shaped bush and renewal-prune: each year cut the oldest stems (over three years old) to the base along with weak, damaged and crowded growth, keeping the center open so air moves through. Because 'Captivator' is nearly thornless, the job is far easier than most gooseberries; the open frame ripens fruit and limits disease.[1][3][2]",
+    "harvest": "For dessert use, let the teardrop berries hang until fully pinkish-red, soft and sweet, usually in mid-to-late summer; for cooking (where tartness is wanted) pick them earlier and firmer. Net against birds. The nearly thornless canes make picking painless.[2][1]",
+    "troubles": "'Captivator' was selected for strong resistance to powdery mildew (the classic gooseberry disease) and to white pine blister rust, so it stays notably cleaner than European cultivars; it is, however, susceptible to anthracnose leaf spot in wet summers, so space widely, avoid overhead watering and rake up fallen leaves each fall. As a Ribes it is still an alternate rust host — keep it away from five-needle (white) pines as a courtesy.[3][1]",
+    "companions": "Slots into a part-shade corner of an edible garden or the dappled edge of a border, alongside the currants in a small-fruit bed; being compact and nearly thornless it also suits a container or a mixed edible hedge. Keep it clear of five-needle white pines (a blister-rust precaution).[1][2]"
+  },
+  "fact_src": {
+    "size": [
+      2,
+      1
+    ],
+    "sun": [
+      2,
+      1
+    ],
+    "water": [
+      1,
+      2
+    ],
+    "spread": [
+      2,
+      1
+    ],
+    "seasons": [
+      2,
+      1
+    ],
+    "wildlife": [
+      2,
+      1
+    ],
+    "deer": [
+      1
+    ],
+    "toxic": [
+      1,
+      2
+    ],
+    "origin": [
+      2,
+      3
+    ],
+    "habitat": [
+      2
+    ],
+    "ph": [
+      2,
+      1
+    ]
+  },
+  "edible": {
+    "level": "edible",
+    "food": true,
+    "kinds": [
+      "fruit"
+    ],
+    "card": "Ripe red dessert berries (fresh, jam, jelly)",
+    "summary": "The teardrop pinkish-red berries are edible and dessert-quality — sweet enough to eat fresh off the (nearly thornless) canes, and equally good in jam, jelly and juice; no part is poisonous.[2][1]",
+    "parts": "The fruit is the part eaten: large, teardrop-shaped, pinkish-red berries up to about an inch across, with sweet flesh when dead-ripe. Picked ripe they are a true dessert gooseberry for eating out of hand; picked firmer and tarter they are classic for jam, jelly, pie and juice. The leaves and stems are not used as food.[2][1]",
+    "preparation": "Eat fully ripe red berries fresh, or cook firmer ones with sugar into jam, jelly, pie and sauce. Top-and-tail the berries before cooking and wash them. Eat only fruit from bushes you have not sprayed.[2][1]",
+    "caution": "Gooseberry has no toxic parts — the ripe berries are not poisonous — so the cautions are practical: very underripe berries are extremely tart and best cooked, and eat only unsprayed fruit. Like the currants, the bush is an alternate host for white pine blister rust, which threatens nearby white pines, not people eating the fruit.[1][2]"
+  },
+  "references": [
+    {
+      "name": "CSU Extension — Currants, Gooseberries, and Jostaberries",
+      "url": "https://extension.colostate.edu/resource/currants-gooseberries-and-jostaberries/"
+    },
+    {
+      "name": "Royal Horticultural Society — Ribes uva-crispa 'Captivator'",
+      "url": "https://www.rhs.org.uk/plants/200995/ribes-uva-crispa-captivator-(c)/details"
+    },
+    {
+      "name": "University of Minnesota Extension — Growing currants and gooseberries in the home garden",
+      "url": "https://extension.umn.edu/fruit/growing-currants-and-gooseberries-home-garden"
+    }
+  ],
+  "shots": [
+    {
+      "local": "images/sp-flower-t.jpg",
+      "full": "images/sp-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/60184342/large.jpeg",
+      "s": "spring",
+      "cap": "Spring — a reddish gooseberry bell flower with reflexed sepals · © Matthieu Gauvain (CC-BY-NC) / iNaturalist",
+      "by": "Matthieu Gauvain",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/37917525"
+    },
+    {
+      "local": "images/sp-foliage-t.jpg",
+      "full": "images/sp-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/66819757/large.jpeg",
+      "s": "spring",
+      "cap": "Lobed gooseberry foliage · © no rights reserved (CC0) / iNaturalist",
+      "by": "no rights reserved",
+      "lic": "CC0",
+      "link": "https://www.inaturalist.org/observations/42112010"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/124460525/large.jpg",
+      "s": "summer",
+      "cap": "A compact, nearly thornless gooseberry bush · © waltersfam (CC-BY-NC) / iNaturalist",
+      "by": "waltersfam",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/76067262"
+    },
+    {
+      "local": "images/su-fruit-t.jpg",
+      "full": "images/su-fruit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/22127130/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — a gooseberry ripening on the cane (green shown; ripe 'Captivator' berries turn pinkish-red) · © Juha Tuomola (CC-BY-NC) / iNaturalist",
+      "by": "Juha Tuomola",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/14822710"
+    },
+    {
+      "local": "images/su-fruit2-t.jpg",
+      "full": "images/su-fruit2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/132236197/large.jpg",
+      "s": "summer",
+      "cap": "Summer — a developing berry over dark young foliage · © Kim Falck (CC-BY-NC) / iNaturalist",
+      "by": "Kim Falck",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/80674543"
+    },
+    {
+      "local": "images/su-context-t.jpg",
+      "full": "images/su-context.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/131658861/large.jpeg",
+      "s": "summer",
+      "cap": "A leafy gooseberry bush in the garden · © Denis Otkydach (CC-BY) / iNaturalist",
+      "by": "Denis Otkydach",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/80333931"
+    }
+  ]
+}

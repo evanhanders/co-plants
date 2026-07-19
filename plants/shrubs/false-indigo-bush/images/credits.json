@@ -1,0 +1,138 @@
+[
+  {
+    "file": "images/su-flower.jpg",
+    "photo_id": 137977687,
+    "by": "entropic_allegory",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/83979830",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  },
+  {
+    "file": "images/su-flower-detail.jpg",
+    "photo_id": 390907657,
+    "by": "Eric Watts",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/observations/220772898",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1170,
+      1400
+    ],
+    "thumb_px": [
+      334,
+      400
+    ]
+  },
+  {
+    "file": "images/su-foliage.jpg",
+    "photo_id": 174334238,
+    "by": "Eric Keith",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/104071935",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  },
+  {
+    "file": "images/su-habit.jpg",
+    "photo_id": 215133770,
+    "by": "Sequoia Janirella Wrens",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/126769872",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  },
+  {
+    "file": "images/su-context.jpg",
+    "photo_id": 109673967,
+    "by": "Stephen Hauptli",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/67820257",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  },
+  {
+    "file": "images/su-bloom-mass.jpg",
+    "photo_id": 137911947,
+    "by": "Prairie Guy",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/83942532",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  },
+  {
+    "file": "images/su-bloom-shrub.jpg",
+    "photo_id": 205792362,
+    "by": "Maggie Gaddis",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/121602291",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  },
+  {
+    "file": "images/fa-pods.jpg",
+    "photo_id": 187200005,
+    "by": "Tamar",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/110926511",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      934
+    ],
+    "thumb_px": [
+      400,
+      267
+    ]
+  }
+]

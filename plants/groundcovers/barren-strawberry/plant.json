@@ -1,0 +1,178 @@
+{
+  "common": "Barren strawberry",
+  "botanical": "Waldsteinia ternata",
+  "type": "Groundcover",
+  "lifecycle": "Perennial",
+  "native": "Non-native",
+  "aka": [
+    "Siberian barren strawberry",
+    "Geum ternatum"
+  ],
+  "origin": "Central Europe across temperate Asia to Siberia and Japan",
+  "habitat": "Woodland floors and shady forest edges of Eurasia",
+  "blurb": "A tough evergreen groundcover that mimics a wild strawberry — glossy trifoliate leaves in tidy rosettes and buttercup-yellow flowers in spring — but never sets edible fruit. One of the best weed-smothering carpets for dry shade.",
+  "size": "4–6 in tall × 12+ in wide, spreading",
+  "sun": "Part shade to full shade (takes sun with steady moisture)",
+  "water": "Low to moderate; drought-tolerant in shade once established",
+  "spread": "Creeps by short stolons and rhizomes into a dense evergreen carpet; steady but not aggressive",
+  "seasons": "Glossy evergreen strawberry-like trifoliate leaves year-round, bronzing in winter cold; buttercup-yellow flowers in mid-spring; non-fruiting (a dry, seedless husk, not a berry)",
+  "wildlife": "Early bees visit the spring flowers; the dense evergreen mat shelters ground-dwelling insects and is deer-tolerant",
+  "deer": "Resistant — deer-tolerant, seldom browsed",
+  "toxic": "Fruit is a dry, inedible husk (not a true strawberry); foliage non-toxic",
+  "flower_color": [
+    "yellow"
+  ],
+  "bloom": [
+    "spring"
+  ],
+  "winter": true,
+  "verified": "2026-07-18",
+  "ph": {
+    "min": 5.5,
+    "ideal": 6.5,
+    "max": 7.2
+  },
+  "care": {
+    "hardiness": "Hardy across USDA zones 4–8, so fully reliable in Boulder and the Front Range (zones 5b–6a) and into the foothills. The glossy trifoliate foliage is evergreen, holding through winter and bronzing in cold before greening up again in spring.[1][2]",
+    "planting": "Plant from nursery transplants or divisions in spring (Apr–May) or early fall so roots settle before summer heat or winter — it establishes best in the dry to moderate shade under trees and shrubs where lawn and other groundcovers struggle. In containers keep the mix evenly moist and shelter the pot over winter.[1][2]",
+    "sun": "Part shade to full shade is ideal, including dry shade under tree canopies; it will take full sun on the Front Range only with steadier moisture, since our intense high-altitude sun scorches it in a hot, dry spot.[1][2]",
+    "soil": "Highly adaptable — average, medium, well-drained soil is best, but it tolerates a wide range from moist to dry and even the lean, poor soil under trees. Give it decent drainage and it is unfussy.[1][2]",
+    "water": "Low to moderate. Water new plantings through the first season to establish; after that it is notably drought-tolerant in shade, getting by largely on natural precipitation with occasional soaks in prolonged summer dry spells.[1][2]",
+    "spacing": "Space transplants 10–12 in apart; the stolons and rhizomes knit them into a solid evergreen carpet over a couple of seasons — plant closer for a fast fill.[1][2]",
+    "propagation": "Very easy by division of the rooted stolon/rhizome crowns in spring or early fall — lift, pull apart rooted pieces, and replant immediately. It sets little viable seed, so vegetative division is the standard and faster route.[1][2]",
+    "bloom": "Five-petaled, buttercup-yellow, strawberry-like flowers open over the foliage from roughly April into June — mid-spring on the Front Range — but the plant is grown chiefly for its evergreen, weed-smothering foliage.[1][2]",
+    "feeding": "None needed once established; a light spring topdress of compost in poor soil under trees is plenty.[1]",
+    "maintenance": "Nearly maintenance-free — the evergreen mat needs no cutting back or deadheading. Simply pull or edge the stolons where they overstep, and rake out tree leaves that pile deep enough to smother the low rosettes.[1][2]",
+    "troubles": "Essentially pest- and disease-free and deer-tolerant; a top choice for problem dry shade. The only real failure mode is rot in waterlogged ground or scorch in a hot, dry, full-sun site — give it shade and drainage.[1][2]",
+    "companions": "Interplants beautifully with spring bulbs (its late-holding foliage masks fading bulb leaves) and pairs with hostas, ferns, epimedium and other shade groundcovers to carpet bare ground under shrubs and trees.[1][2]"
+  },
+  "edible": {
+    "level": "inedible",
+    "summary": "Despite the name and strawberry-like look, barren strawberry sets no edible fruit — it is grown as a groundcover, not a food.[1][2]",
+    "caution": "Waldsteinia ternata resembles a wild strawberry but is a different genus in the rose family: its yellow flowers give way to a small, dry, seedless husk, not a fleshy berry — the very name 'barren' strawberry reflects that it bears no useful fruit. The foliage is not documented as poisonous, but nothing on the plant is a food; grow it for the evergreen carpet, not for eating.[1][2]"
+  },
+  "references": [
+    {
+      "name": "Missouri Botanical Garden Plant Finder — Waldsteinia ternata",
+      "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=286522"
+    },
+    {
+      "name": "NC State Extension Plant Toolbox — Waldsteinia ternata",
+      "url": "https://plants.ces.ncsu.edu/plants/waldsteinia-ternata/"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      1,
+      2
+    ],
+    "sun": [
+      1,
+      2
+    ],
+    "water": [
+      2
+    ],
+    "spread": [
+      1,
+      2
+    ],
+    "seasons": [
+      1,
+      2
+    ],
+    "wildlife": [
+      2
+    ],
+    "deer": [
+      1,
+      2
+    ],
+    "toxic": [
+      1,
+      2
+    ],
+    "origin": [
+      1,
+      2
+    ],
+    "habitat": [
+      2
+    ],
+    "ph": [
+      1
+    ]
+  },
+  "shots": [
+    {
+      "local": "images/sp-flower-t.jpg",
+      "full": "images/sp-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/35455825/large.jpg",
+      "s": "spring",
+      "cap": "Spring — a buttercup-yellow flower face-on · © no rights reserved (CC0) / iNaturalist",
+      "by": "no rights reserved",
+      "lic": "CC0",
+      "link": "https://www.inaturalist.org/observations/22873828"
+    },
+    {
+      "local": "images/sp-bloom-t.jpg",
+      "full": "images/sp-bloom.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/125534849/large.jpg",
+      "s": "spring",
+      "cap": "Spring — flowers massed over the glossy foliage · © Lisa Brundage (CC-BY-NC) / iNaturalist",
+      "by": "Lisa Brundage",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/76764363"
+    },
+    {
+      "local": "images/sp-face-t.jpg",
+      "full": "images/sp-face.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/278391225/large.jpg",
+      "s": "spring",
+      "cap": "Spring — yellow flowers over strawberry-like leaves · © rob1954 (CC-BY-NC) / iNaturalist",
+      "by": "rob1954",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/160282546"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/388225652/large.jpg",
+      "s": "summer",
+      "cap": "The glossy, evergreen trifoliate foliage · © helenvorster (CC-BY-NC) / iNaturalist",
+      "by": "helenvorster",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/219340749"
+    },
+    {
+      "local": "images/su-evergreenmat-t.jpg",
+      "full": "images/su-evergreenmat.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/426815679/large.jpeg",
+      "s": "summer",
+      "cap": "The dense, glossy evergreen foliage carpet · © guywallbanks (CC-BY) / iNaturalist",
+      "by": "guywallbanks",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/239628472"
+    },
+    {
+      "local": "images/su-context-t.jpg",
+      "full": "images/su-context.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/421408834/large.jpeg",
+      "s": "summer",
+      "cap": "A weed-smothering groundcover carpet · © Alla Verkhozina (CC-BY-NC) / iNaturalist",
+      "by": "Alla Verkhozina",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/236838771"
+    },
+    {
+      "local": "images/sp-habit-t.jpg",
+      "full": "images/sp-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/100876881/large.jpg",
+      "s": "spring",
+      "cap": "Spring — fresh rosettes emerging · © suzandhertribe (CC-BY-NC) / iNaturalist",
+      "by": "suzandhertribe",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/62908780"
+    }
+  ]
+}

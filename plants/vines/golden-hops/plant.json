@@ -1,0 +1,188 @@
+{
+  "common": "Golden hops",
+  "botanical": "Humulus lupulus 'Aureus'",
+  "type": "Vine",
+  "lifecycle": "Perennial",
+  "native": "Non-native",
+  "origin": "Eurasia (Europe to western Asia); 'Aureus' is a golden-leaved garden selection of the common hop",
+  "habitat": "Hedgerows, riverbanks, damp thickets and woodland edges",
+  "blurb": "A fast, twining vine grown for its glowing golden-chartreuse foliage: coarsely lobed leaves that emerge bright yellow-green in spring and rocket 15–25 ft up a support by midsummer, then die to the ground each winter and do it all again. Female plants carry the papery green 'cones' used to brew beer.",
+  "size": "15–25 ft long twining vine (dies to the ground and regrows each year)",
+  "sun": "Full sun (light shade tolerated; best gold colour in sun)",
+  "water": "Moderate; wants steady moisture — not a xeric vine, but tolerates a range once established",
+  "spread": "Vigorous twining climber that can be rampant; spreads by rhizomes and needs containment",
+  "seasons": "Bright chartreuse-gold lobed leaves spring through summer (greening in high heat); papery green cones on female plants in late summer; dies back to the ground for winter",
+  "wildlife": "Cones and pine-scented flowers draw butterflies and beneficial insects; a larval host for several tortoiseshell and comma butterflies; dense screening cover",
+  "deer": "Young shoots may be nibbled; the rough, bristly mature foliage is largely left alone",
+  "toxic": "Toxic to dogs (can be fatal — keep spent hops and trimmings away from pets); stems bear rough bristles that can irritate skin",
+  "flower_color": [
+    "green"
+  ],
+  "bloom": [
+    "summer"
+  ],
+  "winter": false,
+  "verified": "2026-07-18",
+  "ph": {
+    "min": 6.0,
+    "ideal": 6.8,
+    "max": 7.8
+  },
+  "shots": [
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/218159262/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — bright chartreuse-gold hop foliage · © captainclover (CC-BY) / iNaturalist",
+      "by": "captainclover",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/128435971"
+    },
+    {
+      "local": "images/su-leaf-t.jpg",
+      "full": "images/su-leaf.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/217734148/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — a coarsely lobed, maple-like hop leaf · © Maria Kohanovskaya (CC-BY-NC) / iNaturalist",
+      "by": "Maria Kohanovskaya",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/128198365"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/673457744/large.jpg",
+      "s": "summer",
+      "cap": "Summer — the twining vine climbing its support · © Laure Theunissen (CC-BY-NC) / iNaturalist",
+      "by": "Laure Theunissen",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/368713331"
+    },
+    {
+      "local": "images/fa-cones-t.jpg",
+      "full": "images/fa-cones.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/432055341/large.jpeg",
+      "s": "fall",
+      "cap": "Late summer — the vine hung with papery green cones · © lastovka (CC-BY-NC) / iNaturalist",
+      "by": "lastovka",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/242352541"
+    },
+    {
+      "local": "images/fa-cones-close-t.jpg",
+      "full": "images/fa-cones-close.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/26132486/large.jpg",
+      "s": "fall",
+      "cap": "Late summer — a cluster of ripe, papery hop cones · © greenmthort (CC-BY-NC) / iNaturalist",
+      "by": "greenmthort",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/17233002"
+    },
+    {
+      "local": "images/fa-cone-detail-t.jpg",
+      "full": "images/fa-cone-detail.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/568913610/large.jpg",
+      "s": "fall",
+      "cap": "Late summer — a single hop cone up close · © mhalsted (CC-BY-NC) / iNaturalist",
+      "by": "mhalsted",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/315176636"
+    },
+    {
+      "local": "images/su-flowers-t.jpg",
+      "full": "images/su-flowers.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/671741887/large.jpg",
+      "s": "summer",
+      "cap": "Summer — young female flowers over the foliage · © Alexandre Leroy Delande (CC-BY-NC) / iNaturalist",
+      "by": "Alexandre Leroy Delande",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/367817117"
+    }
+  ],
+  "care": {
+    "hardiness": "Cold-hardy — rated roughly USDA 5a–8b — so it is reliably perennial across Boulder's zone 5b–6a. It is an herbaceous, not woody, vine: the top growth dies to the ground with hard frost each fall and the plant regrows explosively from its persistent rootstock the following spring, so no woody framework is left to protect over winter.[1][2]",
+    "planting": "Plant out in spring after the mid-May last frost, at the base of a sturdy support in a spot with room to run. It is a rapid grower reaching 15–25 ft by midsummer, so give it a strong structure from day one. It grows in a large container if you want to keep it contained, but pots dry quickly and their roots are less cold-hardy — water often in summer and shelter or sink the pot over winter.[1][2]",
+    "sun": "Full sun for the brightest golden foliage and the best cone set; it tolerates light or afternoon shade, but in too much shade the gold colour dulls toward plain green. In our intense high-altitude sun, some leaves also green up in the peak heat of summer, which is normal for 'Aureus'.[1][2]",
+    "soil": "Adaptable to a wide range of soils and pH — from acidic through neutral to alkaline — including Boulder's heavy clay, as long as it drains reasonably and holds some moisture. It grows wild along riverbanks, so it favours a soil that does not bake bone-dry, but it is not fussy.[1]",
+    "water": "Moderate and fairly steady — this is not a xeric vine. It wants consistent moisture to fuel its fast growth and looks best with regular water through the heat of a Front-Range summer, though an established plant tolerates short dry spells and occasional wet soil.[1]",
+    "spacing": "One plant covers a lot of ground; space multiples about 3–5 ft apart along a fence or trellis for a screen. Remember it spreads at the root, so leave a buffer from beds you want to keep hop-free.[1][2]",
+    "bloom": "Female plants bear the ornamental and useful part: small, bracted, cone-like clusters of greenish flowers ('hops') that mature in late summer, faintly pine-scented. The species is dioecious — separate male and female plants — so a female (or a rooted division of one) is needed for cones. The flowers themselves are insignificant as colour.[1][2]",
+    "feeding": "A moderate feeder given its fast growth — a spring topdressing of compost or a balanced feed as growth starts supports the season's long climb; avoid overfeeding, which just makes more vine to manage.[1]",
+    "pruning": "Because it dies back each year, pruning is simple and essential: cut all of the dead, tangled vines right down to the ground in late winter or early spring, before the new shoots push, and clear them off the support so the fresh growth climbs clean. Through the season, thin or head back wayward shoots any time to keep it in bounds. Wear gloves and long sleeves — the stems are covered in tiny hooked bristles that abrade bare skin.[1][2]",
+    "maintenance": "The main job is containment: it is a vigorous, rampant grower that also spreads by underground rhizomes, so pull or cut the suckers that stray beyond where you want it, and guide the new shoots onto the support each spring. Keep spent cones and prunings away from dogs (see toxicity). Otherwise it has no serious pest or disease problems here.[1][2][3]",
+    "propagation": "Easiest from rhizome or crown divisions taken in early spring — lift a piece of the running root with a bud and replant; this keeps the female, cone-bearing 'Aureus' true. Softwood cuttings root as well. Seed is possible but yields a mix of male and female seedlings that will not come true to the golden foliage, so vegetative propagation is preferred.[1][2]",
+    "harvest": "For brewing or hop tea, pick the female cones in late summer to early fall when they feel papery and dry, spring back when squeezed, and smell resinous; use them fresh or dry them for storage. Young spring shoots can be cut when a few inches tall and cooked like asparagus. Handle with gloves.[1][2]",
+    "companions": "A fast seasonal screen for a pergola, arbour, fence or porch — its gold foliage reads beautifully against dark evergreens, brick or purple-leaved shrubs. Pair at its feet with other sun perennials that tolerate its vigour, and give it a support it can fully own rather than a shared trellis.[2]"
+  },
+  "references": [
+    {
+      "name": "NC State Extension Plant Toolbox — Humulus lupulus",
+      "url": "https://plants.ces.ncsu.edu/plants/humulus-lupulus/"
+    },
+    {
+      "name": "Missouri Botanical Garden Plant Finder — Humulus lupulus 'Aureus' (golden hops)",
+      "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=j440"
+    },
+    {
+      "name": "ASPCA Animal Poison Control — Hops (Humulus lupulus)",
+      "url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/hops"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      1,
+      2
+    ],
+    "sun": [
+      1,
+      2
+    ],
+    "water": [
+      1
+    ],
+    "spread": [
+      1,
+      2
+    ],
+    "seasons": [
+      1,
+      2
+    ],
+    "wildlife": [
+      1,
+      2
+    ],
+    "deer": [
+      1
+    ],
+    "toxic": [
+      1,
+      3
+    ],
+    "origin": [
+      1,
+      2
+    ],
+    "habitat": [
+      1
+    ],
+    "ph": [
+      1
+    ]
+  },
+  "edible": {
+    "level": "caution",
+    "food": true,
+    "kinds": [
+      "stems",
+      "flowers"
+    ],
+    "card": "Young spring shoots (cooked); female cones for brewing & tea",
+    "summary": "Genuinely edible in two ways — the young spring shoots are cooked like asparagus and the papery female cones flavour and preserve beer (and a mild bedtime tea) — but the plant is toxic to dogs, so handle it with that caution.[1][2]",
+    "parts": "Two parts are used: the tender young shoots picked a few inches tall in spring, eaten cooked; and the female flower cones ('hops'), harvested papery-dry in late summer for brewing beer or steeping as a mild sedative tea. Only female plants bear cones.[1][2]",
+    "preparation": "Cook the young shoots briefly like asparagus (they are not eaten raw in quantity). Dry or use the female cones fresh for brewing, or steep a few in hot water for a bitter, calming tea. Wear gloves when harvesting — the bristly stems abrade skin, and the resin can cause contact dermatitis.[1][2]",
+    "caution": "Hops are TOXIC TO DOGS — ingestion (including spent brewing hops and vine trimmings) can cause panting, dangerously high body temperature, seizures and death, so keep all plant material and harvest waste well away from dogs. In people, skin contact with the bristly stems and resin can cause dermatitis, and hop tea is a sedative — do not combine it with other sedatives or use it carelessly. Male plants bear no cones.[1][2][3]"
+  },
+  "gaps": "Photos are species-representative common hop (Humulus lupulus); the golden 'Aureus' foliage colour is best shown by the brightest chartreuse leaf shots, but most open-licensed images are of the ordinary green-leaved species. The leaf shape, twining habit and cones match the cultivar."
+}

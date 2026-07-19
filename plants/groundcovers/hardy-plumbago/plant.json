@@ -1,0 +1,180 @@
+{
+  "common": "Hardy plumbago",
+  "botanical": "Ceratostigma plumbaginoides",
+  "type": "Groundcover",
+  "lifecycle": "Perennial",
+  "native": "Non-native",
+  "aka": [
+    "Leadwort",
+    "Dwarf plumbago"
+  ],
+  "origin": "Western China",
+  "habitat": "Rocky slopes and open scrub of western China",
+  "blurb": "One of the last plants to leaf out in spring and one of the last to quit in fall: a rhizomatous mat of green leaves lit by true gentian-blue flowers from midsummer to frost, the foliage turning bronze-red as the blooms carry on. Don't dig it in April thinking it's dead.",
+  "size": "6–10 in tall × 12–18 in wide, spreading",
+  "sun": "Full sun to part shade",
+  "water": "Low; drought-tolerant once established",
+  "spread": "Spreads briskly by rhizomes into a wide mat — give it room or edge it to keep it in bounds",
+  "seasons": "Late to leaf out in spring; gentian-blue flowers from mid-summer to frost; foliage turns bronze-red in fall; dies fully back for winter",
+  "wildlife": "The long, late run of blue flowers feeds bees and butterflies well into fall when little else blooms",
+  "deer": "Resistant — seldom browsed by deer",
+  "toxic": "Non-toxic to pets; contact with the foliage or sap can cause skin irritation in some people",
+  "flower_color": [
+    "blue"
+  ],
+  "bloom": [
+    "summer",
+    "fall"
+  ],
+  "winter": false,
+  "verified": "2026-07-18",
+  "ph": {
+    "min": 5.5,
+    "ideal": 6.8,
+    "max": 8.0
+  },
+  "care": {
+    "hardiness": "Hardy across USDA zones 5–9, so reliable in Boulder and the Front Range (zones 5b–6a); in a cold, exposed spot a winter mulch helps. It dies completely to the ground each winter and is one of the very last perennials to reappear in spring.[1][2]",
+    "planting": "Plant in spring after the mid-May last frost so it has the whole warm season to root in. Crucially, mark its spot — it leafs out very late (often not until late spring), so it is easy to dig up or plant over by mistake while it still looks like bare ground. In containers give it well-drained mix and overwinter the pot sheltered, since the roots are far less cold-hardy potted.[1][2]",
+    "sun": "Full sun to part shade; it blooms most heavily and colors up best in full Front Range sun, but takes a few hours of shade well.[1][2]",
+    "soil": "Adapts to clay, loam or sand as long as drainage is good; it takes our alkaline soils across a wide pH range and only dislikes wet, poorly drained ground.[1][2]",
+    "water": "Low. Drought-tolerant once established, needing only occasional deep soaks through summer here; keep it on the drier side and it thrives.[1][2]",
+    "spacing": "Space transplants 12–18 in apart; the rhizomes fill the gaps quickly into a solid mat, so err toward the wider spacing where you want it contained.[1][2]",
+    "propagation": "Easiest by division of the rhizomatous clump in spring as growth resumes, or by rooting rhizome pieces; softwood cuttings in early summer also root. Seed is rarely used.[1][2]",
+    "bloom": "Terminal clusters of five-petaled, gentian-blue, star-shaped flowers (about 1/2–3/4 in wide) open from mid-summer to frost — a long, valuable late run of true blue — as the foliage begins turning bronze-red beneath them.[1][2]",
+    "feeding": "None needed. Lean-to-average soil keeps it dense; skip fertilizer.[1]",
+    "maintenance": "Cut the old dead stems back to the ground in late spring, waiting until you see the new shoots emerging so you don't remove a plant that is merely late. Its brisk rhizomatous spread is the main upkeep — edge, pull, or barrier the mat to keep it where you want it.[1][2]",
+    "selfsow": "It spreads by creeping rhizomes rather than seed, and can travel well beyond where it was planted; run a spade around the edge each spring or set a root barrier where you need it to stay put.[1][2]",
+    "troubles": "Essentially pest- and disease-free and deer-resistant. The pitfalls are cultural: rot in wet, poorly drained soil, and its late emergence, which fools gardeners into disturbing it in spring. Sap contact can irritate sensitive skin, so wear gloves when cutting it back.[1][2]",
+    "companions": "Superb interplanted with spring bulbs — its late foliage rises just as daffodil and tulip leaves fade, hiding them — and with other late bloomers; it fills the front of borders and edges paths where its fall blue-over-bronze show reads well.[1][2]"
+  },
+  "edible": {
+    "level": "inedible",
+    "summary": "Hardy plumbago is grown as an ornamental groundcover, not as a food — don't eat it.[1][2]",
+    "caution": "Ceratostigma plumbaginoides is grown for its gentian-blue flowers and bronze-red fall foliage, not for eating, and no authoritative source documents an edible use. It is rated non-toxic to cats, dogs and horses, but contact with the foliage or sap can cause dermatitis in sensitive people — wear gloves when handling or cutting it back, and treat it as inedible.[2]"
+  },
+  "references": [
+    {
+      "name": "Missouri Botanical Garden Plant Finder — Ceratostigma plumbaginoides",
+      "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=b960"
+    },
+    {
+      "name": "NC State Extension Plant Toolbox — Ceratostigma plumbaginoides",
+      "url": "https://plants.ces.ncsu.edu/plants/ceratostigma-plumbaginoides/"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      1,
+      2
+    ],
+    "sun": [
+      1,
+      2
+    ],
+    "water": [
+      1,
+      2
+    ],
+    "spread": [
+      1,
+      2
+    ],
+    "seasons": [
+      1,
+      2
+    ],
+    "wildlife": [
+      1,
+      2
+    ],
+    "deer": [
+      2
+    ],
+    "toxic": [
+      2
+    ],
+    "origin": [
+      1,
+      2
+    ],
+    "habitat": [
+      1
+    ],
+    "ph": [
+      2
+    ]
+  },
+  "shots": [
+    {
+      "local": "images/su-flower-t.jpg",
+      "full": "images/su-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/174006194/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — a cluster of gentian-blue flowers face-on · © Thomas Wrbka (CC-BY-NC) / iNaturalist",
+      "by": "Thomas Wrbka",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/103897147"
+    },
+    {
+      "local": "images/su-macro-t.jpg",
+      "full": "images/su-macro.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/318418451/large.jpg",
+      "s": "summer",
+      "cap": "Summer — a gentian-blue flower up close · © Norbert Sauberer (CC-BY-NC) / iNaturalist",
+      "by": "Norbert Sauberer",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/182606306"
+    },
+    {
+      "local": "images/su-bloom-t.jpg",
+      "full": "images/su-bloom.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/229379028/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — blue flowers over the green mat · © jameswharper (CC-BY-NC) / iNaturalist",
+      "by": "jameswharper",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/134558669"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/130510049/large.jpeg",
+      "s": "summer",
+      "cap": "The dense green foliage mat · © anetteffm (CC-BY-NC) / iNaturalist",
+      "by": "anetteffm",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/79670632"
+    },
+    {
+      "local": "images/fa-context-t.jpg",
+      "full": "images/fa-context.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/422289468/large.jpg",
+      "s": "fall",
+      "cap": "Fall — spilling over a wall, foliage reddening among the blue flowers · © qwpool (CC-BY-NC) / iNaturalist",
+      "by": "qwpool",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/237297061"
+    },
+    {
+      "local": "images/fa-fall-t.jpg",
+      "full": "images/fa-fall.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/580175027/large.jpg",
+      "s": "fall",
+      "cap": "Fall — foliage flaming red beneath the last blue flowers · © Josette Puyo (CC-BY-NC) / iNaturalist",
+      "by": "Josette Puyo",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/320851130"
+    },
+    {
+      "local": "images/fa-fallblooms-t.jpg",
+      "full": "images/fa-fallblooms.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/582153476/large.jpg",
+      "s": "fall",
+      "cap": "Fall — blue flowers over bronze-red autumn foliage · © birdi3elive (CC-BY-NC) / iNaturalist",
+      "by": "birdi3elive",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/320651112"
+    }
+  ]
+}

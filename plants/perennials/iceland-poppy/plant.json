@@ -1,0 +1,194 @@
+{
+  "common": "Iceland poppy",
+  "botanical": "Papaver nudicaule 'Champagne Bubbles'",
+  "type": "Forb",
+  "lifecycle": "Biennial",
+  "native": "Non-native",
+  "bloom_season": "Spring",
+  "flower_color": [
+    "white",
+    "yellow",
+    "orange",
+    "pink",
+    "red"
+  ],
+  "bloom": [
+    "spring"
+  ],
+  "aka": [
+    "Icelandic poppy",
+    "Arctic poppy",
+    "Papaver croceum"
+  ],
+  "blurb": "Satiny, crepe-paper cups in soft pastels — apricot, pink, lemon, cream and scarlet — dance on wiry leafless stems above a tuft of ferny blue-green leaves. A cool-season charmer that blooms hardest before the summer heat arrives.",
+  "size": "12–15 in × 6–9 in",
+  "sun": "Full sun",
+  "water": "Moderate; keep evenly moist in spring, never waterlogged",
+  "spread": "Clump-forming basal rosette; non-running; self-sows gently where happy",
+  "seasons": "Ferny blue-green basal rosette in cool weather; crinkled pastel cup flowers on leafless stems April–June (into early summer where nights stay cool); sulks and fades in midsummer heat",
+  "wildlife": "Cup flowers offer pollen to early bees; a good cut flower (sear the stems)",
+  "deer": "Somewhat deer-resistant; the alkaloid-bearing foliage is usually left alone",
+  "toxic": "All parts contain toxic poppy alkaloids and are considered mildly poisonous if eaten; keep from grazing animals",
+  "winter": false,
+  "verified": "2026-07-18",
+  "origin": "Cool mountains of central Asia north into the subarctic and arctic",
+  "habitat": "Rocky arctic-alpine tundra, gravelly slopes and cold meadows",
+  "ph": {
+    "min": 6.0,
+    "ideal": 6.8,
+    "max": 7.5
+  },
+  "shots": [
+    {
+      "local": "images/sp-flower-t.jpg",
+      "full": "images/sp-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/665063598/large.jpg",
+      "s": "spring",
+      "cap": "Spring — a rose-pink crepe-paper flower face-on, showing the silky pastel petals of the species (representative of the 'Champagne Bubbles' strain) · © Lauren Lightfoot Soulen (CC-BY-NC) / iNaturalist",
+      "by": "Lauren Lightfoot Soulen",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/364311895"
+    },
+    {
+      "local": "images/sp-flower2-t.jpg",
+      "full": "images/sp-flower2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/260684283/large.jpg",
+      "s": "spring",
+      "cap": "Spring — a clear-yellow poppy face-on above grey-green basal foliage · © Pyak Andrei (CC-BY-NC) / iNaturalist",
+      "by": "Pyak Andrei",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/151113675"
+    },
+    {
+      "local": "images/sp-flower3-t.jpg",
+      "full": "images/sp-flower3.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/301304333/large.png",
+      "s": "spring",
+      "cap": "Spring — a pale chartreuse-cream ruffled bloom, the crinkled tissue-paper texture typical of Iceland poppy · © onidiras-iNaturalist (CC-BY-NC) / iNaturalist",
+      "by": "onidiras-iNaturalist",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/173497750"
+    },
+    {
+      "local": "images/sp-flower4-t.jpg",
+      "full": "images/sp-flower4.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/1922268/large.jpg",
+      "s": "spring",
+      "cap": "Spring — a pair of glowing orange poppies face-on · © adriana_pictures (CC-BY-NC) / iNaturalist",
+      "by": "adriana_pictures",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/1551783"
+    },
+    {
+      "local": "images/sp-bloom-mass-t.jpg",
+      "full": "images/sp-bloom-mass.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/614527699/large.jpg",
+      "s": "spring",
+      "cap": "Spring — a cluster of red-and-pink poppies over the ferny basal rosette · © elrhalm (CC-BY-NC) / iNaturalist",
+      "by": "elrhalm",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/337978353"
+    },
+    {
+      "local": "images/sp-habit-t.jpg",
+      "full": "images/sp-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/108675212/large.jpeg",
+      "s": "spring",
+      "cap": "Spring — a single leafless flower stem rising from the tuft of dissected ferny leaves, showing the basal-rosette habit · © Boris Bolshakov (CC-BY-NC) / iNaturalist",
+      "by": "Boris Bolshakov",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/67286317"
+    },
+    {
+      "local": "images/sp-buds-t.jpg",
+      "full": "images/sp-buds.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/206552375/large.jpg",
+      "s": "spring",
+      "cap": "Spring — nodding hairy buds on slender leafless stems before opening · © scienceco_fn (CC-BY-NC) / iNaturalist",
+      "by": "scienceco_fn",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/122026159"
+    },
+    {
+      "local": "images/sp-context-t.jpg",
+      "full": "images/sp-context.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/683272124/large.jpg",
+      "s": "spring",
+      "cap": "Spring — a poppy blooming among rocks in lean gritty ground, its natural look in a well-drained site · © Yuxuan Liu (CC-BY-NC) / iNaturalist",
+      "by": "Yuxuan Liu",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/373855339"
+    }
+  ],
+  "care": {
+    "hardiness": "Rated USDA zones 4–8, so the crown is winter-hardy in Boulder's 5b–6a climate — but Iceland poppy is a cold-loving arctic-alpine plant that is short-lived and heat-intolerant here: it grows and blooms best in cool weather and struggles in hot, dry summers, so on the Front Range treat it as a cool-season biennial or annual rather than counting on a long-lived perennial.[1][2]",
+    "planting": "Set out transplants (or sow) in early spring for that season's bloom, or in late summer/early fall to overwinter as a rosette and flower the following spring — the biennial way it is usually grown. Choose a spot in full sun with sharp drainage; it resents being moved once its taproot forms, so plant small and plant where it will stay. In containers use a gritty, free-draining mix and keep it cool and evenly moist; Front-Range sun and wind dry pots fast, and soggy pots rot the crown.[1][2]",
+    "sun": "Full sun for the most flowers and sturdiest stems; a little afternoon shade at hot, low-elevation sites helps it cope with summer heat.[1][2]",
+    "soil": "Organically rich but moderately fertile, evenly moist and well-drained soil suits it best; work compost and coarse grit into Boulder's heavy clay so the crown never sits wet. Lean, sharply drained ground is far safer than rich, water-holding soil.[1]",
+    "water": "Moderate — keep the soil evenly moist through the cool spring growing-and-blooming season, but never waterlogged. As heat builds the plant naturally declines; do not respond by over-watering, which rots the crown. It is not a xeric plant, but it hates wet feet.[1]",
+    "spacing": "Space plants about 8–10 in. apart; each forms a low basal clump rather than spreading.[1]",
+    "sow": "Sow the tiny seed on the surface and press it in — it needs light to germinate — sowing outdoors in early spring a few weeks before the last frost, or indoors in pots about 6–8 weeks before the mid-May last frost for earlier bloom. Germination is best in cool conditions.[1]",
+    "stratify": "Fresh seed germinates readily in cool soil and does not strictly require stratification; a brief cold-moist chill (a couple of weeks in the refrigerator) can improve and even out germination of stored seed.[1]",
+    "depth": "Barely cover — surface-sow and press the seed into firm, moist soil for good contact; deep sowing fails because the seed needs light.[1]",
+    "propagation": "By seed only. The taproot resents disturbance, so division is not practical — start new plants from seed each year (sown in place or in cells and transplanted young) and let happy plants self-sow gently.[1][2]",
+    "bloom": "April to June on the Front Range, sometimes carrying into early summer where nights stay cool; the crinkled, satiny cups open in a pastel range of apricot, pink, yellow, cream, white and scarlet over a long, cool-season run.[1]",
+    "feeding": "Undemanding — a light feed or compost topdressing in spring is plenty; overly rich soil produces floppy growth.[1]",
+    "maintenance": "Deadhead spent flowers to keep the plant blooming through the cool season; for cut flowers, harvest as the bud cracks color and sear the stem end. Expect the plant to decline in midsummer heat — pull it or let it self-sow and treat it as a cool-season replant.[1]",
+    "selfsow": "Self-sows gently where the soil is open and drainage is good; seedlings are easy to spot by their ferny, bristly leaves and can be thinned or moved while very young, before the taproot sets.[1]",
+    "troubles": "Crown and root rot from wet soil or over-watering — especially in summer — is the main killer; provide sharp drainage. Heat itself simply ends the plant's season here. Aphids may cluster on stems; no serious disease problems otherwise.[1][2]"
+  },
+  "fact_src": {
+    "size": [
+      1
+    ],
+    "sun": [
+      1,
+      2
+    ],
+    "water": [
+      1
+    ],
+    "spread": [
+      1
+    ],
+    "seasons": [
+      1,
+      2
+    ],
+    "wildlife": [
+      1
+    ],
+    "deer": [
+      2
+    ],
+    "toxic": [
+      2
+    ],
+    "ph": [
+      1
+    ],
+    "origin": [
+      1,
+      2
+    ],
+    "habitat": [
+      1
+    ]
+  },
+  "edible": {
+    "level": "inedible",
+    "summary": "Iceland poppy is not eaten — like other poppies, all parts carry toxic alkaloids and it is treated as mildly poisonous, so grow it for the flowers only.[2]",
+    "caution": "Every part of the plant contains poppy-family alkaloids; NC State notes poppies are rich in alkaloids and that poppy sap can even have teratogenic effects, and all parts of Iceland poppy are considered poisonous (low toxicity, but livestock have been sickened by discarded plants). There is no food use — do not eat any part, keep the milky sap off skin and eyes, and keep the plant away from grazing animals.[2]"
+  },
+  "gaps": "Photos are species-representative Papaver nudicaule — no open-licensed shots of the 'Champagne Bubbles' strain exist; the pink, yellow, orange and cream forms shown match the strain's pastel apricot/pink/lemon/cream/scarlet range.",
+  "references": [
+    {
+      "name": "Missouri Botanical Garden Plant Finder — Papaver nudicaule 'Champagne Bubbles'",
+      "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=268361"
+    },
+    {
+      "name": "NC State Extension Gardener Plant Toolbox — Papaver (poppy)",
+      "url": "https://plants.ces.ncsu.edu/plants/papaver/"
+    }
+  ]
+}

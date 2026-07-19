@@ -1,0 +1,173 @@
+{
+  "common": "New Mexico privet",
+  "botanical": "Forestiera neomexicana",
+  "type": "Shrub",
+  "lifecycle": "Perennial",
+  "native": "CO native",
+  "flower_color": [
+    "yellow"
+  ],
+  "bloom": [
+    "spring"
+  ],
+  "aka": [
+    "Desert olive",
+    "New Mexico olive",
+    "Stretchberry",
+    "Forestiera pubescens"
+  ],
+  "blurb": "A tough, waterwise Southwest native that fizzes with tiny yellow flowers on bare branches in earliest spring, wears grayish-green olive-like leaves that turn clear gold in fall over pale, silky bark, and — on female plants — hangs with blue-black bird berries. The classic xeric hedge or multi-stem small tree (and NOT a true privet).",
+  "size": "~8–12 ft tall × 6–8 ft wide",
+  "sun": "Full sun to part shade",
+  "water": "Low; xeric once established",
+  "spread": "Upright, multi-stemmed; throws occasional ground shoots but stays in bounds",
+  "seasons": "Clusters of tiny yellow flowers stud the bare twigs in earliest spring; grayish-green foliage through summer; clear golden-yellow fall color; blue-black drupes on females; pale silky bark in winter",
+  "wildlife": "One of the earliest nectar and pollen sources of spring; the blue fruit on female plants feeds many songbirds, and the twiggy form gives good nesting cover; a larval host for hairstreak butterflies",
+  "deer": "Deer-resistant",
+  "toxic": "",
+  "winter": true,
+  "verified": "2026-07-18",
+  "ph": {
+    "min": 6.5,
+    "ideal": 7.5,
+    "max": 8.2
+  },
+  "shots": [
+    {
+      "local": "images/sp-flower-t.jpg",
+      "full": "images/sp-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/3828621/large.jpg",
+      "s": "spring",
+      "cap": "Early spring — clusters of tiny yellow flowers on bare branches · © wingedchimera (CC-BY-NC) / iNaturalist",
+      "by": "wingedchimera",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/3312423"
+    },
+    {
+      "local": "images/sp-habit-t.jpg",
+      "full": "images/sp-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/3746028/large.jpg",
+      "s": "spring",
+      "cap": "Spring — an upright leafy shrub · © megswan (CC-BY-NC) / iNaturalist",
+      "by": "megswan",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/3236575"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/37058054/large.jpg",
+      "s": "summer",
+      "cap": "Summer — grayish-green olive-like foliage · © auroracraig (CC-BY-NC) / iNaturalist",
+      "by": "auroracraig",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/23956922"
+    },
+    {
+      "local": "images/su-tree-form-t.jpg",
+      "full": "images/su-tree-form.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/5071243/large.jpg",
+      "s": "summer",
+      "cap": "Summer — a multi-stemmed shrub grown as a small tree · © henneweez (CC-BY-NC) / iNaturalist",
+      "by": "henneweez",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/4242556"
+    },
+    {
+      "local": "images/su-context-t.jpg",
+      "full": "images/su-context.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/296006443/large.jpg",
+      "s": "summer",
+      "cap": "Summer — desert olive in a rocky canyon · © Andrea N. Chavez (CC-BY-NC) / iNaturalist",
+      "by": "Andrea N. Chavez",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/170647641"
+    },
+    {
+      "local": "images/fa-berries-t.jpg",
+      "full": "images/fa-berries.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/162500680/large.jpg",
+      "s": "fall",
+      "cap": "Fall — clusters of blue-black drupes on a female plant · © sam424242 (CC-BY-NC) / iNaturalist",
+      "by": "sam424242",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/97687076"
+    },
+    {
+      "local": "images/fa-fruit-mass-t.jpg",
+      "full": "images/fa-fruit-mass.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/415218047/large.jpeg",
+      "s": "fall",
+      "cap": "Fall — a fruiting branch laden with blue berries · © julieluetzelschwab (CC-BY-NC) / iNaturalist",
+      "by": "julieluetzelschwab",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/233631427"
+    },
+    {
+      "local": "images/fa-fruit-twigs-t.jpg",
+      "full": "images/fa-fruit-twigs.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/331595182/large.jpg",
+      "s": "fall",
+      "cap": "Late fall — blue fruit on silvery bare twigs · © lfh1947 (CC-BY-NC) / iNaturalist",
+      "by": "lfh1947",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/189312023"
+    }
+  ],
+  "care": {
+    "hardiness": "Hardy to about USDA zone 4, so Boulder's zone 5b–6a winters are no trouble; it is native from southern Colorado and Utah south through New Mexico and Arizona, growing wild in washes and arroyos, and is thoroughly at home in the Front Range's dry, sunny, alkaline conditions.[1][2]",
+    "planting": "Plant in spring or fall in a sunny, well-drained spot. It is dioecious — male and female flowers are on separate plants — so if you want the ornamental blue fruit, buy a known female (nurseries sometimes sell sexed plants), ideally with a male nearby for pollination; a lone plant of unknown sex may never fruit. In containers give it sharp drainage and shelter the pot in winter.[1][2]",
+    "sun": "Prefers full sun for the densest habit and best flowering and fruit, but tolerates a site with ample morning sun and afternoon shade.[2]",
+    "soil": "Undemanding — it grows in clay, sand or average soil and shrugs off the region's dry, alkaline ground; the one thing it will not take is soggy, poorly drained soil.[2]",
+    "water": "Genuinely xeric once established: it needs little to no supplemental water in an ordinary Front-Range year, though an occasional summer soak speeds growth. Overwatering in heavy clay is the main way to kill it.[2]",
+    "spacing": "Space plants about 6–8 ft apart for a screen, closer for a clipped hedge; it is upright and multi-stemmed and can be limbed up into a small tree or sheared tight.[1][2]",
+    "propagation": "Grow from seed cleaned of the fleshy fruit and cold-moist stratified over winter, or from softwood/semi-hardwood cuttings; note that a seed-grown batch will be a mix of males and females.[2]",
+    "pruning": "Very forgiving of the shears — prune in late winter or right after the early bloom. For a hedge, shear to shape; for a small tree, remove the lowest branches and thin to a few main stems. Because heavy snow can split wide crotches, shorten overlong branches by 10–20% and thin weak, narrow-angled shoots and ground suckers to build a sturdy framework.[1][2]",
+    "maintenance": "Nearly care-free once established: little water, few pests, and only occasional thinning of ground shoots or reshaping. Its main limitation is simply that only female plants bear the showy fruit.[1][2]"
+  },
+  "references": [
+    {
+      "name": "Lady Bird Johnson Wildflower Center — Forestiera pubescens",
+      "url": "https://www.wildflower.org/plants/result.php?id_plant=FOPU2"
+    },
+    {
+      "name": "Colorado Gardener — Shrub Profile: New Mexican Privet",
+      "url": "https://www.coloradogardener.com/post/shrub-profile-new-mexican-privet"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      1,
+      2
+    ],
+    "sun": [
+      2
+    ],
+    "water": [
+      2
+    ],
+    "spread": [
+      1,
+      2
+    ],
+    "seasons": [
+      1,
+      2
+    ],
+    "wildlife": [
+      1,
+      2
+    ],
+    "deer": [
+      2
+    ],
+    "ph": [
+      2
+    ]
+  },
+  "edible": {
+    "level": "inedible",
+    "summary": "Not a documented human food — the blue-black fruit is bird food, not a foraging crop, and this is NOT a true (toxic) privet.[1][2]",
+    "caution": "Despite the common name, New Mexico privet is an olive relative (Forestiera), not a true privet (Ligustrum) — but its fruit is still best left for the birds, as there is no documented tradition of people eating it. Do not confuse it with true garden privet (Ligustrum), whose berries ARE toxic. Treat the drupes here as wildlife fare, not human food.[1][2]"
+  }
+}

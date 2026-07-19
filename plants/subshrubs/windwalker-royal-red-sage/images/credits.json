@@ -1,0 +1,121 @@
+[
+  {
+    "file": "images/su-flower.jpg",
+    "photo_id": 293037948,
+    "by": "Justin Mair",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/132026030",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  },
+  {
+    "file": "images/su-flower2.jpg",
+    "photo_id": 10799536,
+    "by": "Ron Chang (curated by Cat Chang)",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/8156368",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      963,
+      1400
+    ],
+    "thumb_px": [
+      275,
+      400
+    ]
+  },
+  {
+    "file": "images/su-foliage.jpg",
+    "photo_id": 193200602,
+    "by": "Josh/Joshua",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/114410695",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  },
+  {
+    "file": "images/su-bloom-mass.jpg",
+    "photo_id": 269168064,
+    "by": "Arnan Pawawongsak",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/155698668",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  },
+  {
+    "file": "images/su-habit.jpg",
+    "photo_id": 501814781,
+    "by": "jessicalanewilliams",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/279448326",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  },
+  {
+    "file": "images/su-context.jpg",
+    "photo_id": 157969883,
+    "by": "Greener",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/95174441",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  },
+  {
+    "file": "images/su-foliage2.jpg",
+    "photo_id": 134940038,
+    "by": "jess_clemson21",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/82227251",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  }
+]

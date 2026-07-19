@@ -1,0 +1,182 @@
+{
+  "common": "Poquito Butter Yellow hummingbird mint",
+  "botanical": "Agastache 'Poquito Butter Yellow'",
+  "type": "Forb",
+  "lifecycle": "Perennial",
+  "native": "Non-native",
+  "flower_color": [
+    "yellow"
+  ],
+  "bloom": [
+    "summer",
+    "fall"
+  ],
+  "bloom_season": "Summer",
+  "blurb": "A dwarf, tidy hummingbird mint: a low, dense mound of aromatic, finely-textured foliage topped all summer to frost with short spikes of soft butter-yellow tubular flowers. A compact aurantiaca-type hybrid that packs the full-size hummingbird-mint show into a foot-tall plant.",
+  "size": "~10–14 in tall × ~15 in wide",
+  "sun": "Full sun (6+ hours)",
+  "water": "Low; xeric with sharp drainage — no soggy soil",
+  "spread": "Stays a compact, non-running clump (unlike weedy mints)",
+  "seasons": "Butter-yellow flower spikes from early summer until frost; aromatic grey-green foliage; dies back in winter",
+  "wildlife": "A hummingbird and bee magnet; butterflies work it too",
+  "deer": "Deer- and rabbit-resistant — the aromatic minty foliage is passed over",
+  "toxic": "Non-toxic aromatic mint-family plant",
+  "winter": false,
+  "verified": "2026-07-18",
+  "ph": {
+    "min": 6.0,
+    "ideal": 6.8,
+    "max": 7.5
+  },
+  "shots": [
+    {
+      "local": "images/su-flower-t.jpg",
+      "full": "images/su-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/82413979/large.jpg",
+      "s": "summer",
+      "cap": "Summer — a whorled spike of tubular hummingbird flowers · © jonger99 (CC-BY-NC) / iNaturalist",
+      "by": "jonger99",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/51858473"
+    },
+    {
+      "local": "images/su-flower2-t.jpg",
+      "full": "images/su-flower2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/559095380/large.jpg",
+      "s": "summer",
+      "cap": "Summer — tubular flowers in close detail · © no rights reserved (CC0) / iNaturalist",
+      "by": "no rights reserved",
+      "lic": "CC0",
+      "link": "https://www.inaturalist.org/observations/309808586"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/86009868/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — the whole plant in bloom · © biqt (CC-BY-NC) / iNaturalist",
+      "by": "biqt",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/44776205"
+    },
+    {
+      "local": "images/su-bloom-mass-t.jpg",
+      "full": "images/su-bloom-mass.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/156347477/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — a bushy mound covered in flower spikes · © jaxpinson (CC-BY-NC) / iNaturalist",
+      "by": "jaxpinson",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/94263513"
+    },
+    {
+      "local": "images/su-bloom-mass2-t.jpg",
+      "full": "images/su-bloom-mass2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/567892727/large.jpg",
+      "s": "summer",
+      "cap": "Summer — flower spikes massed over grey-green foliage · © Reed Heisley-Shellaby (CC-BY-NC) / iNaturalist",
+      "by": "Reed Heisley-Shellaby",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/314418393"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/682366059/large.jpg",
+      "s": "summer",
+      "cap": "Summer — aromatic mint-family foliage and stems · © Heather Bird Jackson (CC-BY-NC) / iNaturalist",
+      "by": "Heather Bird Jackson",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/373382379"
+    },
+    {
+      "local": "images/su-context-t.jpg",
+      "full": "images/su-context.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/317740784/large.jpg",
+      "s": "summer",
+      "cap": "Summer — a clump in flower in the garden · © Michael O'Loughlin (CC-BY) / iNaturalist",
+      "by": "Michael O'Loughlin",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/182256419"
+    }
+  ],
+  "care": {
+    "hardiness": "Rated hardy to about USDA zone 5, so it can take Boulder's zone 5b–6a — but its Southwest/Mexican Agastache aurantiaca parentage means winter survival hinges on drainage, not cold: these hummingbird mints rot out in wet winter clay, so treat it as borderline and site it sharply drained.[1][2][3]",
+    "planting": "Set plants out in late spring after the mid-May last frost, once the soil has warmed, on a hot, gritty, well-drained site. In a container it makes a neat mound and dries fast in our low humidity, so water potted plants more often — but keep the mix lean and sharply drained, and shelter a pot over winter since potted roots are far less cold-hardy.[1][2]",
+    "sun": "Give it full sun, at least six hours, for a dense, well-flowered mound; it thrives in the high-altitude Front Range light.[2]",
+    "soil": "Plant in lean, gritty, well-drained soil; it takes poor and dry ground and tolerates our alkaline pH, but heavy, moisture-retentive clay is what kills it. Amend clay with grit or plant on a slope or berm.[1][2]",
+    "water": "Drought-tolerant once established — water through the first season to root it in, then keep it dry. It resents overwatering and soggy soil far more than drought, needing little to no supplemental water here in most years.[1][2]",
+    "spacing": "Space the dwarf mounds about 12–15 in apart; it forms a tidy, non-spreading clump, so it holds its footprint without running.[1]",
+    "bloom": "Dense short spikes of soft butter-yellow tubular flowers open from early summer and keep coming until hard frost — a long, hummingbird-timed season. Shearing spent spikes keeps fresh bloom coming.[1][2]",
+    "feeding": "Grow it lean — rich soil and fertilizer make it floppy and short-lived. Skip feeding or give only a light spring compost topdressing.[2][3]",
+    "maintenance": "Very low care. Do NOT cut it back in fall — leave the dried stems and foliage standing over winter to insulate the crown and shed water, then cut the old growth back to the basal rosette in spring once new shoots appear. Deadhead or lightly shear through summer to prolong bloom.[1][3]",
+    "propagation": "As a named hybrid it is grown from cuttings (or bought as started plants) rather than seed to stay true; basal or soft stem cuttings root readily in a gritty mix. It also self-sows only modestly, and the seedlings won't come true to the cultivar.[1][3]",
+    "troubles": "Few pests bother the aromatic foliage; the killer here is winter wet, not cold or bugs — crown and root rot in poorly drained soil is the main cause of loss, so drainage is everything.[2][3]"
+  },
+  "references": [
+    {
+      "name": "Plant Select — Agastache aurantiaca (CORONADO)",
+      "url": "https://plantselect.org/plant/agastache-aurantiaca-p012s/"
+    },
+    {
+      "name": "High Country Gardens — Poquito Butter Yellow Hummingbird Mint",
+      "url": "https://www.highcountrygardens.com/products/perennial-agastache-poquito-butter-yellow"
+    },
+    {
+      "name": "Fine Gardening — Tips and tricks for growing Agastache in the Mountain West",
+      "url": "https://www.finegardening.com/article/tips-and-tricks-for-growing-agastache-in-the-mountain-west"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      2
+    ],
+    "sun": [
+      2
+    ],
+    "water": [
+      1,
+      2,
+      3
+    ],
+    "spread": [
+      3
+    ],
+    "seasons": [
+      1,
+      2
+    ],
+    "wildlife": [
+      1,
+      2
+    ],
+    "deer": [
+      2
+    ],
+    "toxic": [
+      1
+    ],
+    "ph": [
+      1,
+      2
+    ],
+    "origin": [
+      1,
+      3
+    ],
+    "habitat": [
+      1,
+      3
+    ]
+  },
+  "origin": "Garden hybrid of Southwest-US/Mexican Agastache aurantiaca parentage",
+  "habitat": "Parent species grows on dry, rocky slopes of northern Mexico and the SW US",
+  "gaps": "Photos are species-representative Agastache aurantiaca (the orange-flowered parent) — no CC 'Poquito Butter Yellow' cultivar shots exist; the cultivar's flowers are soft butter-yellow rather than the orange/coral shown, but form, foliage and habit match.",
+  "edible": {
+    "level": "edible",
+    "summary": "Like its mint-family relatives, the aromatic leaves and flowers are edible and can be steeped as a mild herbal tea — but this is a dwarf ornamental hybrid grown for hummingbirds, not a documented culinary herb.[1][3]",
+    "parts": "The parts used in the hummingbird-mint group are the aromatic leaves (mildly minty, with a citrus note) and the small tubular flowers, used fresh as a tea or garnish. Note the classic culinary/tea Agastache is anise hyssop (A. foeniculum); this aurantiaca-type hybrid is grown as an ornamental, so any food use is by family analogy rather than an established tradition for this plant.[3]",
+    "preparation": "Following mint-family practice, pick young leaves before flowering for the best flavor and steep them fresh or dried as a light tea; flowers make an edible garnish. Use in small amounts.[3]",
+    "caution": "No part is toxic, but this is an ornamental selection, not a tested culinary herb — don't treat it as a reliable food. Be certain of the plant's identity, use only clean, unsprayed foliage, and enjoy it chiefly for its fragrance and its hummingbirds.[1][3]"
+  }
+}

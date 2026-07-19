@@ -1071,7 +1071,7 @@ ground every statement in an authority cited in `references`.
 
 ## Current plant roster (in the live site)
 
-**293 specimens** (`plants/manifest.json` is the source of truth for the exact count), all verified
+**294 specimens** (`plants/manifest.json` is the source of truth for the exact count), all verified
 non-weed in CO and all carrying a full `care` block (incl.
 `planting` + `propagation`) **and a repo-hosted photo reel** (close-up + structure, seasonal
 where good shots exist). Every plant's detail page is **fully cited** — a numbered
@@ -1380,6 +1380,18 @@ carry explicit containment notes. Photos via `tools/inat_montage.py` (iNat open 
 720×480 smart-crop thumbs); the many named cultivars with no clean CC taxon use honestly-captioned
 species-representative shots with a `gaps` note, per the guide's convention. `check_refs` guide-wide PASS;
 `check_citations` on the 41 PASS (every plant ≥1 reachable authority).
+
+**Gaura (July 2026):** added **gaura / whirling butterflies** (*Oenothera lindheimeri*, syn. *Gaura
+lindheimeri*) from a user garden photo — an airy `Forb` of wiry wands tipped with four-petaled flowers that
+open white and age pink, blooming early summer to frost; a top xeric, deer-resistant, long-blooming
+pollinator/hummingbird plant with a deep taproot. **Non-native** (south-central US — LA/TX/N. Mexico —
+prairies/pinelands/pond edges; cited `origin`/`habitat`); `edible` **inedible** (no documented food use);
+honest notes that it's a **short-lived perennial** and the straight species **self-sows** (most named
+cultivars are sterile), and that **overwatering/rich soil** is the main killer. 8-shot iNat reel (white +
+pink flowers face-on, foliage rosette, bloom-mass, wiry habit, context). Care from NC State Extension + LBJ
+Wildflower Center; weed-checked vs CO A/B/C/Watch 2026-07-19 (not listed). The other 5 photos in that batch
+were already in the guide (oriental fountain grass, hardy plumbago, bluebeard, pink skullcap — and a second
+gaura shot). `check_refs` guide-wide PASS.
 
 **Trees**
 - River hawthorn (*Crataegus rivularis*) (N) — Thorny native small tree; white spring flowers, dark edible haws, superb wildlife cover. A caterpillar keystone (~90 Lepidoptera). *(Riparian — wants more water; edible haws, spit the cyanogenic seeds.)*

@@ -1,0 +1,190 @@
+{
+  "common": "Gaura",
+  "botanical": "Oenothera lindheimeri",
+  "aka": [
+    "Gaura lindheimeri",
+    "Whirling butterflies",
+    "Lindheimer's beeblossom",
+    "Wandflower"
+  ],
+  "type": "Forb",
+  "lifecycle": "Perennial",
+  "native": "Non-native",
+  "flower_color": [
+    "white",
+    "pink"
+  ],
+  "bloom": [
+    "summer",
+    "fall"
+  ],
+  "bloom_season": "Summer",
+  "blurb": "An airy cloud of wiry wands that dance in the slightest breeze, each tipped with four-petaled flowers that open white and age to pink — like a hovering swarm of tiny butterflies from early summer until frost.",
+  "size": "~2–4 ft tall × 1–3 ft wide",
+  "sun": "Full sun (tolerates light afternoon shade)",
+  "water": "Low; xeric and heat-proof once its taproot is established",
+  "spread": "Clumping from a deep taproot; the species self-sows (many named cultivars are sterile)",
+  "seasons": "Slender flower wands of white-to-pink blooms from early summer to hard frost; a low basal rosette of narrow, sometimes maroon-spotted leaves; little winter presence (cut back)",
+  "wildlife": "Long-blooming nectar for bees, butterflies and hummingbirds; larval host for the white-lined sphinx moth",
+  "deer": "Deer-resistant",
+  "toxic": "No significant toxicity reported to people or pets",
+  "winter": false,
+  "verified": "2026-07-19",
+  "origin": "South-central US — Louisiana, Texas & northern Mexico",
+  "habitat": "Open prairies, pinelands and pond edges on lean, well-drained ground",
+  "ph": {
+    "min": 6.0,
+    "ideal": 7.0,
+    "max": 8.0
+  },
+  "care": {
+    "hardiness": "Root-hardy through Boulder's zone 5b–6a — rated roughly USDA 5a–9b — so it reliably overwinters here, though it is a short-lived perennial best replaced or left to self-sow every few years.[1]",
+    "planting": "Set plants out in spring after the mid-May last frost so the taproot establishes over the warm season. It resents wet feet, so plant on a well-drained or slightly raised site; in containers give it a gritty free-draining mix, water sparingly, and expect it to be short-lived in a pot since the taproot wants room to run deep.[1][2]",
+    "sun": "Full sun for the densest flowering and sturdiest stems; it tolerates a little afternoon shade but grows floppier and blooms less.[1][2]",
+    "soil": "Adapts to sandy, loamy, or clay soils as long as drainage is good — lean ground is ideal. Rich, heavily amended, or poorly drained soil causes lax leafy growth, fewer flowers, and crown/root rot.[1]",
+    "water": "Highly drought and heat tolerant once established — the deep taproot carries it through Front Range summers on little to no supplemental water. Overwatering, especially in winter, is the main way to kill it.[1]",
+    "spacing": "Space 18–24 in apart; the wiry stems weave together into an airy, see-through veil that never needs staking when grown hard in lean soil and full sun.[1]",
+    "propagation": "Grow the species from seed (it self-sows readily) or take basal cuttings; established clumps can be divided, though the deep taproot makes division tricky and slow to recover. Named cultivars are often sterile and are propagated by cuttings to stay true.[1]",
+    "bloom": "Flowers open a few at a time up each wand from early summer until the first hard frost, opening white and blushing pink as they age (pink-flowered cultivars exist). The true species flowers heavily without deadheading; deadheading or a midsummer shear tidies floppy stems and can spur a fresh flush.[1][2]",
+    "feeding": "Needs no feeding — it flowers best in lean soil. Fertilizer or rich compost just pushes soft foliage at the expense of bloom and makes the stems flop.[1]",
+    "maintenance": "Very low care: cut the spent flower wands and old foliage back to the basal rosette in late fall or early spring. Where the species self-sows more than you want, shear off the wands before seed sets or pull the easy-to-spot seedlings.[1]",
+    "selfsow": "The straight species reseeds freely and can naturalize into a drift — welcome in a wild planting, easy to curb by deadheading before seed set; most named garden cultivars are sterile and stay put.[1]",
+    "troubles": "Almost trouble-free in lean, sunny, well-drained ground. The usual problems trace back to too much water or richness — root and crown rot in soggy soil, and floppy, sparse-blooming plants in shade or fertile beds.[1]"
+  },
+  "references": [
+    {
+      "name": "NC State Extension Gardener Plant Toolbox — Oenothera lindheimeri",
+      "url": "https://plants.ces.ncsu.edu/plants/oenothera-lindheimeri/"
+    },
+    {
+      "name": "Lady Bird Johnson Wildflower Center — Oenothera lindheimeri",
+      "url": "https://www.wildflower.org/plants/result.php?id_plant=OELI2"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      1
+    ],
+    "sun": [
+      1,
+      2
+    ],
+    "water": [
+      1
+    ],
+    "spread": [
+      1
+    ],
+    "seasons": [
+      1,
+      2
+    ],
+    "wildlife": [
+      1
+    ],
+    "deer": [
+      1
+    ],
+    "toxic": [
+      2
+    ],
+    "ph": [
+      1
+    ],
+    "origin": [
+      1,
+      2
+    ],
+    "habitat": [
+      1,
+      2
+    ]
+  },
+  "edible": {
+    "level": "inedible",
+    "summary": "Grown as an ornamental — no part of gaura is used as food, though it is not considered dangerously poisonous.[1]",
+    "caution": "There is no documented culinary use of gaura and no authority lists it as an edible plant, so treat it as inedible and enjoy it only as a garden flower. It is not reported to be significantly toxic to people or pets, but 'not a food' is the safe assumption without a trusted edible-use source.[1][2]"
+  },
+  "shots": [
+    {
+      "local": "images/su-flower-t.jpg",
+      "full": "images/su-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/582825653/large.jpg",
+      "s": "summer",
+      "cap": "Summer — a white flower face-on with long, arching stamens · © gg_copen (CC-BY-NC) / iNaturalist",
+      "by": "gg_copen",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/322200533"
+    },
+    {
+      "local": "images/su-flower-pink-t.jpg",
+      "full": "images/su-flower-pink.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/74539895/large.jpg",
+      "s": "summer",
+      "cap": "Summer — flowers blushing pink as they age, with slender buds above · © Mark K. James (CC-BY-NC) / iNaturalist",
+      "by": "Mark K. James",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/47002472"
+    },
+    {
+      "local": "images/su-bloom-t.jpg",
+      "full": "images/su-bloom.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/72209171/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — flowers and buds spaced up a wiry wand · © Emilio (CC-BY-NC) / iNaturalist",
+      "by": "Emilio",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/45537553"
+    },
+    {
+      "local": "images/sp-foliage-t.jpg",
+      "full": "images/sp-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/610258134/large.jpg",
+      "s": "spring",
+      "cap": "Spring — the low basal rosette of narrow, maroon-spotted leaves · © C P (CC-BY-NC) / iNaturalist",
+      "by": "C P",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/335876414"
+    },
+    {
+      "local": "images/su-bloom-mass-t.jpg",
+      "full": "images/su-bloom-mass.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/31191675/large.jpg",
+      "s": "summer",
+      "cap": "Summer — an airy drift in full pink-flushed bloom · © Clement Rivier Photos (CC-BY-NC) / iNaturalist",
+      "by": "Clement Rivier Photos",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/20208704"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/193874688/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — the whole see-through clump on lean, gravelly ground · © George Roark (CC-BY-NC) / iNaturalist",
+      "by": "George Roark",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/114838361"
+    },
+    {
+      "local": "images/su-habit-near-t.jpg",
+      "full": "images/su-habit-near.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/342680811/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — the wiry, open habit of a mature plant · © Nigel McNaught (CC-BY-NC) / iNaturalist",
+      "by": "Nigel McNaught",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/194878292"
+    },
+    {
+      "local": "images/su-context-t.jpg",
+      "full": "images/su-context.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/153335509/large.jpg",
+      "s": "summer",
+      "cap": "Summer — flowering wands weaving through a planting · © zebra1193 (CC-BY-NC) / iNaturalist",
+      "by": "zebra1193",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/92593679"
+    }
+  ]
+}

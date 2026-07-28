@@ -1,0 +1,155 @@
+[
+  {
+    "file": "images/su-close.jpg",
+    "photo_id": 214615554,
+    "by": "Patrick Hacker",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/observations/126490407",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      933,
+      1400
+    ],
+    "thumb_px": [
+      267,
+      400
+    ]
+  },
+  {
+    "file": "images/su-flower.jpg",
+    "photo_id": 56280265,
+    "by": "Vladimir Bryukhov",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/35674162",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1200,
+      801
+    ],
+    "thumb_px": [
+      400,
+      267
+    ]
+  },
+  {
+    "file": "images/su-near.jpg",
+    "photo_id": 149388925,
+    "by": "Connie Walker",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/90391331",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      1312
+    ],
+    "thumb_px": [
+      400,
+      375
+    ]
+  },
+  {
+    "file": "images/su-mass.jpg",
+    "photo_id": 149240591,
+    "by": "Jana Matějíčková",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/90313309",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      933,
+      1400
+    ],
+    "thumb_px": [
+      267,
+      400
+    ]
+  },
+  {
+    "file": "images/su-context.jpg",
+    "photo_id": 85483956,
+    "by": "Елена",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/53740093",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      933
+    ],
+    "thumb_px": [
+      400,
+      267
+    ]
+  },
+  {
+    "file": "images/su-foliage.jpg",
+    "photo_id": 629567200,
+    "by": "gg_copen",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/345452924",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      933
+    ],
+    "thumb_px": [
+      400,
+      267
+    ]
+  },
+  {
+    "file": "images/su-habitat.jpg",
+    "photo_id": 61901983,
+    "by": "Sergey Lednev",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/38985169",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      1035
+    ],
+    "thumb_px": [
+      400,
+      296
+    ]
+  },
+  {
+    "file": "images/fa-fallcolor.jpg",
+    "photo_id": 602755219,
+    "by": "Wolfgang Bacher",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/332168422",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      837
+    ],
+    "thumb_px": [
+      400,
+      239
+    ]
+  },
+  {
+    "file": "images/fa-seed.jpg",
+    "photo_id": 313331938,
+    "by": "Denis Trunin",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/179927394",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1051,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  }
+]

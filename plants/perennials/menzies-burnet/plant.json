@@ -1,0 +1,222 @@
+{
+  "common": "Menzies' burnet",
+  "botanical": "Sanguisorba menziesii",
+  "aka": [
+    "Sanguisorba menziesii",
+    "Alaskan burnet",
+    "Menzies burnet",
+    "Small-head burnet"
+  ],
+  "type": "Forb",
+  "lifecycle": "Perennial",
+  "native": "Non-native",
+  "collection": "burnets",
+  "flower_color": [
+    "red"
+  ],
+  "bloom": [
+    "spring",
+    "summer"
+  ],
+  "bloom_season": "Summer",
+  "blurb": "The earliest and reddest of the burnets — fat, dense bottlebrush spikes in a saturated ruby-to-maroon crimson stand on upright stems over blue-green pinnate foliage well before the other burnets bud. An Alaskan wet-meadow and coastal-bog plant, so its Front-Range risk is inverted: the cold is nothing to it, but our heat, dry air and drought are. Give it steady moisture and afternoon shade.",
+  "size": "~2–3 ft tall × 1½–2 ft wide",
+  "sun": "Full sun to part shade — afternoon shade is the safer choice here",
+  "water": "High — keep the soil evenly moist all season; a wetland plant, not for dry ground",
+  "spread": "Clump-forming and vigorous; the crown expands steadily outward year on year rather than by creeping stems, and lifts and divides easily",
+  "seasons": "Blue-green pinnate foliage from early spring; dense ruby-red bottlebrush spikes from late spring through summer; foliage dies back in fall — little winter presence",
+  "wildlife": "Attractive to wildlife — bees and other insects work the dense flower spikes",
+  "deer": "No Front-Range browse data for this species; don't assume it is deer-proof",
+  "toxic": "No toxicity reported to people or pets — but no part is a documented food either",
+  "winter": false,
+  "verified": "2026-07-28",
+  "origin": "Northwest North America — coastal southern Alaska through coastal British Columbia to Washington's Olympic Peninsula; a North American native, but not a Front-Range one",
+  "habitat": "Coastal peatlands, bogs, wet meadows and shorelines in cool, wet maritime country",
+  "ph": {
+    "min": 5.0,
+    "ideal": 6.5,
+    "max": 7.8
+  },
+  "care": {
+    "hardiness": "Cold is not this plant's problem here. The RHS rates it H7 — hardy in the severest European continental climates, below −20 °C (−4 °F) — which is well past anything Boulder's zone 5b–6a throws at it.[1] The limit is the opposite end. It is a plant of coastal southern Alaska, British Columbia and Washington's Olympic Peninsula, growing in peatlands, wet meadows and shorelines under cool, wet maritime summers.[2][3][4] Our hot, brilliantly sunny, low-humidity summers are the real test, so treat this as a moisture-and-shade problem, not a winter one.[1][2]",
+    "planting": "Set container-grown plants out any time during the growing season so they establish before winter; bare-root divisions go in spring, after Boulder's mid-May last frost.[5] Choose the coolest, dampest spot you have — a low corner, the shaded side of a bed, a downspout catchment, an irrigated border with afternoon shade — and work organic matter into the top 12 in of clay (CSU's figure is about 3 cubic yards per 1,000 sq ft) so the ground holds water instead of shedding it.[5] In a container it wants a large pot and a moisture-retentive mix and will need watering daily in a heat wave; potted roots are far less cold-hardy than the rated zone, so sink the pot or move it somewhere sheltered for winter.[1][5]",
+    "sun": "The RHS allows full sun or partial shade, on an east-, south- or west-facing aspect, exposed or sheltered.[1] On the Front Range, read that as part shade: full sun works only where the soil genuinely never dries, and morning sun with afternoon shade is the safer bet under our intense high-altitude light.[1][5]",
+    "soil": "Moderately fertile, moist but well-drained. The RHS lists it as happy on chalk, clay, loam or sand and tolerant of acid, neutral or alkaline soil, which PFAF corroborates — light through heavy soils, mildly acid through mildly alkaline.[1][8] That tolerance is the good news here: unlike the acid-loving bog plants it grows beside in Alaska, it does not object to Boulder's alkaline clay. What it does object to is dryness, so amend generously with compost and mulch to keep the root zone cool and damp.[1][5]",
+    "water": "This is the honest catch. In the wild it is a wetland species of peatlands, wet meadows and shores, and the U.S. Army Corps of Engineers National Wetland Plant List rates it FAC to OBL depending on region.[2][4] The RHS is blunt that the soil must be moist and must not dry out.[1] Plan on regular deep watering all season and more through July–August heat; it is not a xeric plant, and in dry ground it scorches and goes dormant early. CSU's establishment rhythm applies: water new plantings in sun every couple of days for the first month, then ease to every four to six days to draw the roots outward.[5]",
+    "spacing": "Both the RHS and Gardeners' World put mature size at roughly 0.5–1 m tall and about 60 cm across (2–3 ft × 2 ft), reached in two to five years.[1][6] Space plants 18–24 in apart for a solid clump, and design around that mature spread so air moves through the planting and the stems stay upright.[1][5]",
+    "propagation": "Division is the reliable route: lift and split the clump in spring or autumn.[1][8] CSU's general cadence for perennials is to divide after three to five growing seasons, taking a summer bloomer apart in spring or early fall.[5] Seed works too, but named garden selections will not come true from it, so propagate those by division.[1][8]",
+    "sow": "Sow in spring or autumn in a cold frame, prick the seedlings out into individual pots once they are large enough to handle, grow them on under cover through their first winter, and plant out after the last frost.[8] Keep the compost evenly moist throughout — as with the grown plant, this is not a seed to let dry.[1][8]",
+    "stratify": "No specific stratification protocol is published for this species. The standard method is simply an autumn sowing left in a cold frame, which gives the seed a natural winter chill before spring germination, or a spring sowing in the same cold frame.[8]",
+    "bloom": "The selling point is that it flowers earlier than the other burnets. The Lady Bird Johnson Wildflower Center records bloom in May, June and July across its range, wild Washington plants flower July–August, and the RHS records garden flowering through summer.[1][2][4] In Boulder, expect the first spikes in late spring and the peak in June. Each spike is a dense cylinder of 100–300 flowers, 1.5–7 cm long, opening from the top downwards; burnets carry no petals, so the colour comes from the purple calyx lobes and the long stamens, whose filaments are flattened and widened toward the tip — an effect the RHS and Gardeners' World both simply record as red.[1][2][6]",
+    "feeding": "Very little is needed. Moderately fertile ground is all it asks, so skip the fertilizer and put the effort into organic matter instead: amend at planting and top-dress each spring with compost, then mulch.[1][5] The mulch is doing double duty — feeding slowly, and, far more importantly here, holding moisture and keeping the root zone cool.[5]",
+    "maintenance": "No pruning is required; the RHS's only instruction is to cut the old stems to ground level in late February or March.[1] Deadhead through the season if you want it tidy, and follow CSU in leaving some standing growth over winter for wildlife rather than shearing everything down in fall.[5] Keep the mulch topped up, water through dry spells — including the occasional winter watering on a thawed, above-freezing morning, since Colorado's November-to-February air and soil are so dry — and divide every three to five years to keep the clump vigorous.[5]",
+    "troubles": "The RHS calls it generally pest-free and generally disease-free, and in a garden with steady moisture that holds.[1] The trouble here is environmental rather than biological: heat, dry wind and drought scorch the leaf margins and push the plant into early dormancy, which is the failure mode to watch for in a Front-Range August.[1][2] The mirror-image risk is a soggy, airless winter site — the requirement is moist but well-drained, and a crown left sitting in cold standing water can rot.[1]"
+  },
+  "edible": {
+    "level": "inedible",
+    "food": false,
+    "summary": "Ornamental only — no authority documents Menzies' burnet as a food plant.[7][8]",
+    "caution": "There is no documented food use of this species. The Native American Ethnobotany Database returns no records at all for the genus Sanguisorba — no food, no medicine — and USDA PLANTS carries no ethnobotanical entry for Menzies' burnet.[3][7] The only edibility mention anywhere is Plants For A Future's, which rates it 1 out of 5 and says just 'leaves — cooked. They are not choice,' with no source given; a lone uncorroborated line at the lowest rating is not grounds to call a plant food, so treat it as inedible.[8] Do not reason across from salad burnet: Sanguisorba minor is a different, long-cultivated culinary species listed separately by USDA, and a familiar edible relative is no evidence that this one is safe to eat.[3] No toxicity is reported for it either — PFAF lists no known hazards and the RHS profile flags none — so it is not a poisoning worry; it is simply not a food.[1][8] One more reason to leave wild plants where they are: it is listed Threatened in Washington and is uncommon through its narrow coastal range.[2]"
+  },
+  "references": [
+    {
+      "name": "Royal Horticultural Society — Sanguisorba menziesii (Menzies' burnet)",
+      "url": "https://www.rhs.org.uk/plants/102853/sanguisorba-menziesii/details"
+    },
+    {
+      "name": "Burke Herbarium Image Collection, University of Washington — Sanguisorba menziesii (with the Flora of North America description)",
+      "url": "https://burkeherbarium.org/imagecollection/taxon.php?Taxon=Sanguisorba%20menziesii"
+    },
+    {
+      "name": "USDA NRCS PLANTS Database — Sanguisorba menziesii Rydb. (SAME6)",
+      "url": "https://plants.usda.gov/plant-profile/SAME6"
+    },
+    {
+      "name": "Lady Bird Johnson Wildflower Center — Sanguisorba menziesii",
+      "url": "https://www.wildflower.org/plants/result.php?id_plant=SAME6"
+    },
+    {
+      "name": "CSU Extension — Perennial Gardening",
+      "url": "https://extension.colostate.edu/resource/perennial-gardening/"
+    },
+    {
+      "name": "BBC Gardeners' World Magazine — Sanguisorba menziesii plant profile",
+      "url": "https://www.gardenersworld.com/plants/sanguisorba-menziesii/"
+    },
+    {
+      "name": "Native American Ethnobotany Database (BRIT) — search for Sanguisorba (no recorded uses)",
+      "url": "http://naeb.brit.org/uses/search/?string=Sanguisorba"
+    },
+    {
+      "name": "Plants For A Future — Sanguisorba menziesii",
+      "url": "https://pfaf.org/user/Plant.aspx?LatinName=Sanguisorba+menziesii"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      1,
+      2,
+      4,
+      6
+    ],
+    "sun": [
+      1
+    ],
+    "water": [
+      1,
+      2,
+      4
+    ],
+    "spread": [
+      1
+    ],
+    "seasons": [
+      1,
+      2,
+      4,
+      6
+    ],
+    "wildlife": [
+      6
+    ],
+    "toxic": [
+      7,
+      8
+    ],
+    "ph": [
+      1,
+      8
+    ],
+    "origin": [
+      2,
+      3,
+      4
+    ],
+    "habitat": [
+      2,
+      4
+    ]
+  },
+  "shots": [
+    {
+      "local": "images/su-close-t.jpg",
+      "full": "images/su-close.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/21536938/large.jpg",
+      "s": "summer",
+      "cap": "Early summer — a fat rose-red bottlebrush standing above meadow grass · © Ian Gazeley (CC-BY-NC) / iNaturalist",
+      "by": "Ian Gazeley",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/14469598"
+    },
+    {
+      "local": "images/su-flower-t.jpg",
+      "full": "images/su-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/176149862/large.jpeg",
+      "s": "summer",
+      "cap": "Early summer — the deep magenta-crimson head opening, stamens tipped dark · © A Meissner (CC-BY-NC) / iNaturalist",
+      "by": "A Meissner",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/105042237"
+    },
+    {
+      "local": "images/su-near-t.jpg",
+      "full": "images/su-near.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/414098270/large.jpeg",
+      "s": "summer",
+      "cap": "Early summer — a flower head in detail on its upright stem · © Simone Littledale (CC-BY) / iNaturalist",
+      "by": "Simone Littledale",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/233036466"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/149039734/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — the blue-green pinnate leaflets below the flower stems · © rwr (CC-BY-NC) / iNaturalist",
+      "by": "rwr",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/90311049"
+    },
+    {
+      "local": "images/su-mat-t.jpg",
+      "full": "images/su-mat.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/539097653/large.jpg",
+      "s": "summer",
+      "cap": "Summer — a leafy colony spreading into a low mat · © midge99204 (CC-BY-NC) / iNaturalist",
+      "by": "midge99204",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/299239049"
+    },
+    {
+      "local": "images/su-mass-t.jpg",
+      "full": "images/su-mass.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558654261/large.jpg",
+      "s": "summer",
+      "cap": "Early summer — flower heads massed over the foliage · © Sherry Kirkvold (CC-BY-NC) / iNaturalist",
+      "by": "Sherry Kirkvold",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/309581004"
+    },
+    {
+      "local": "images/su-context-t.jpg",
+      "full": "images/su-context.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/226542093/large.jpeg",
+      "s": "summer",
+      "cap": "Early summer — a stand in its wet subalpine meadow habitat · © beauvaismaia (CC-BY-NC) / iNaturalist",
+      "by": "beauvaismaia",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/133033621"
+    },
+    {
+      "local": "images/fa-seed-t.jpg",
+      "full": "images/fa-seed.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/292645713/large.jpg",
+      "s": "fall",
+      "cap": "Late summer — darkened spent heads going over to seed beside a fresh flower · © bcurran (CC-BY-NC) / iNaturalist",
+      "by": "bcurran",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/168833214"
+    }
+  ]
+}

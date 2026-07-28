@@ -482,7 +482,7 @@ Cultivar/genus clusters (apples, plums, tart cherries, currants, pelargoniums, w
 asters, irises, tulips, climbing/rambling roses, hardy geraniums, crocuses, penstemons, maples,
 milkweeds, alliums, sunflowers, bee-balms, lupines, dogwoods, clematis, mulleins, columbines,
 scabious, prairie-coneflowers, pinks, coreopsis, sumacs, primulas, ornamental-oreganos, marigolds,
-bugleweeds, pasqueflowers, coral-bells, elderberries — **35 in all**) collapse
+bugleweeds, pasqueflowers, coral-bells, elderberries, burnets — **36 in all**) collapse
 into a **single expandable family card** so the grid isn't buried under near-duplicate cards. It's
 an **inline accordion**, not a separate page — each member keeps its own detail page untouched.
 The bar for a collection is "would a gardener read these as one kind of plant in different
@@ -1071,7 +1071,7 @@ ground every statement in an authority cited in `references`.
 
 ## Current plant roster (in the live site)
 
-**294 specimens** (`plants/manifest.json` is the source of truth for the exact count), all verified
+**300 specimens** (`plants/manifest.json` is the source of truth for the exact count), all verified
 non-weed in CO and all carrying a full `care` block (incl.
 `planting` + `propagation`) **and a repo-hosted photo reel** (close-up + structure, seasonal
 where good shots exist). Every plant's detail page is **fully cited** — a numbered
@@ -1393,6 +1393,41 @@ Wildflower Center; weed-checked vs CO A/B/C/Watch 2026-07-19 (not listed). The o
 were already in the guide (oriental fountain grass, hardy plumbago, bluebeard, pink skullcap — and a second
 gaura shot). `check_refs` guide-wide PASS.
 
+**Burnets batch (July 2026):** on a user request ("add a bunch of varieties of sanguisorba"), added **six**
+*Sanguisorba* as a new **Burnets** family card (id `burnets`, homed in Summer forbs, lead = great burnet).
+Weed-checked vs CO Lists A/B/C + Watch **and** the official CDA *Colorado Noxious Weed Seed List* PDF on
+2026-07-28 — no *Sanguisorba* (or *Poterium*) is listed anywhere. Care sourced via six parallel agents (one
+per plant, distinct files) from RHS, MBG, NC State, USDA NRCS/PLANTS, USDA-FS FEIS, LBJ Wildflower Center,
+Go Botany, Chicago Botanic Garden, Burke Herbarium/FNA, Maine NAP, USU Extension and CSU Extension.
+The six: the culinary **salad burnet** (*S. minor*, cucumber-flavoured leaves); the classic maroon-drumstick
+**great burnet** (*S. officinalis*); the tall white-candled **Canadian burnet** (*S. canadensis*); the fluffy
+pink **Japanese burnet** (*S. obtusa*); the shaggy-tailed **'Lilac Squirrel' burnet** (*S. hakusanensis*);
+and the early crimson **Menzies' burnet** (*S. menziesii*).
+
+**The batch's throughline is a water-honesty call:** *S. minor* is the ONLY genuinely xeric burnet and the
+only one that thrives here (it also holds green basal foliage through winter → `winter:true`); the other five
+are damp-meadow/bog/alpine plants whose `water` directives say plainly that they are **not xeric and carry a
+real water cost** on Boulder's semi-arid alkaline clay — *S. canadensis* is a true wetland plant ("High —
+moist to wet soil, not for dry zones"). All six are **Non-native** with cited `origin`/`habitat`: *canadensis*
+(eastern N. America) and *menziesii* (Alaska→coastal BC/WA only) are North-American natives that don't reach
+Colorado, marked Non-native per the witch-hazel convention. Other calls baked in: salad burnet **self-sows
+freely** and is an emerging invasive in PNW prairie-oak habitat (not CO-listed), is **wind-pollinated** (no
+bee-magnet claim) and is **NOT deer-resistant** (rangeland authorities rate it prime browse, overriding a
+database tag); great burnet's European large-blue-butterfly host relationship **does not exist in Colorado**;
+Menzies' has an **inverted risk profile** (RHS H7 — cold is a non-issue, heat/dry air is the limit).
+Edibility: salad burnet `edible`/`food` (young leaves only), great burnet `caution`/`food` (young leaves; the
+root is the high-tannin medicinal Di Yu, not a food), and the other four `inedible` — each caution explicitly
+forbids reasoning across from *S. minor*.
+
+Two **wrong-plant symbol traps** were caught and are worth remembering: USDA/LBJ **`SACA13` is *Sanguinaria
+canadensis* (bloodroot)** and **`SAME2` is *Salix melanopsis* (dusky willow)** — the correct burnet symbols
+are **`SACA14`** and **`SAME6`** (both verified against the USDA PLANTS API). Photos via
+`tools/inat_montage.py` (iNat open data; 7–9 CC shots each, 720×480 smart-crop thumbs). *S. obtusa* carries a
+`gaps` note: only ~a dozen CC photos of the species exist worldwide, so its reel is capped at seven
+summer shots with no fall/winter/seedhead shot available. `check_refs` guide-wide PASS; `check_citations` on
+the six PASS (46 OK / 8 REVIEW / 0 DEAD — the REVIEWs are JS-rendered USDA PLANTS pages and the generic CSU
+Front-Range framing cites).
+
 **Trees**
 - River hawthorn (*Crataegus rivularis*) (N) — Thorny native small tree; white spring flowers, dark edible haws, superb wildlife cover. A caterpillar keystone (~90 Lepidoptera). *(Riparian — wants more water; edible haws, spit the cyanogenic seeds.)*
 - Chokecherry (*Prunus virginiana*) (N) — Wildlife powerhouse: fragrant white flower racemes, dark…
@@ -1545,6 +1580,11 @@ gaura shot). `check_refs` guide-wide PASS.
 - Golden banner (*Thermopsis divaricarpa*) (N) — Bright lupine-like spikes of golden pea flowers over blue-green trifoliate foliage; spreads into bold drifts. *(Toxic — alkaloids in foliage/seeds.)*
 
 **Summer forbs**
+- Salad burnet (*Sanguisorba minor*) (I) — The culinary burnet: a low ferny rosette whose young leaves taste of cucumber, under wiry stems carrying small green heads tufted with crimson styles. *(Burnets family card; the ONE genuinely xeric, lime-tolerant burnet — the only one that thrives here — and semi-evergreen through winter. Edible young leaves; wind-pollinated, self-sows freely, and NOT deer-resistant.)*
+- Great burnet (*Sanguisorba officinalis*) (I) — Short dense drumsticks of deep maroon on airy wiry stems midsummer into fall, drying to rusty seedheads with winter structure. *(Burnets family card; a wet-meadow plant with a real water cost here — not xeric; caution/edible young leaves, the root is the medicinal Di Yu; flops in rich soil or shade.)*
+- Japanese burnet (*Sanguisorba obtusa*) (I) — Short, thick, nodding rose-pink bottlebrushes so crowded with stamens they read as soft feathery caterpillars. *(Burnets family card; moisture-lover, wants afternoon shade; inedible. Photos capped — see its `gaps` note.)*
+- 'Lilac Squirrel' burnet (*Sanguisorba hakusanensis* 'Lilac Squirrel') (I) — The showiest burnet: long shaggy lilac-pink 'squirrel tails' dangling from arching stems over deeply cut leaflets. *(Burnets family card; a cool alpine wanting steady moisture — not xeric; division only, won't come true from seed; inedible.)*
+- Menzies' burnet (*Sanguisorba menziesii*) (I) — The earliest and reddest burnet; fat ruby-crimson bottlebrushes well before the others bud. *(Burnets family card; Alaska→coastal BC/WA native, not Front-Range. Inverted risk: bone-hardy but heat- and drought-intolerant; inedible.)*
 - Purple mullein (*Verbascum phoeniceum*) (I) — Hardy xeric mullein; slender spires of flat purple/rose/white saucer flowers with fuzzy stamens over dark crinkled rosettes. *(Mulleins family card; NOT the weedy V. thapsus/blattaria.)*
 - Nettle-leaved mullein (*Verbascum chaixii*) (I) — The sturdiest, longest-lived mullein; spikes of small yellow (or white 'Album') flowers with woolly purple-stamen eyes over nettle-like foliage. *(Mulleins family card.)*
 - Giant silver mullein (*Verbascum bombyciferum*) (I) · **Biennial** — Architectural: a white-felted silver rosette year one, then a towering 5–6 ft yellow candelabra spire. *(Mulleins family card; self-sows — deadhead to manage.)*
@@ -1613,6 +1653,7 @@ gaura shot). `check_refs` guide-wide PASS.
 - Himalayan blue poppy (*Meconopsis betonicifolia*) (I) — The legendary sky-blue Himalayan poppy; satiny azure chalices with an orange stamen boss over bristly foliage. *(Kept-but-flagged like winter heath: cold-hardy here but hates our heat/dry air/alkaline clay — grow it potted in acidic mix, cool shade, constantly moist. Inedible — poppy-family alkaloids.)*
 
 **Fall forbs**
+- Canadian burnet (*Sanguisorba canadensis*) (I) — The tallest and latest burnet; long creamy-white bottlebrush candles opening bottom-up in late summer and holding into October, over big blue-green pinnate leaves. *(Burnets family card; a genuine bog/wet-meadow plant — "High — moist to wet soil, not for dry zones", the thirstiest of the group; eastern-N.A. native, not Front-Range; rare/threatened in nine states, so buy nursery-propagated; inedible.)*
 - Tansyaster (*Dieteria bigelovii*) (N) · **Biennial** — Big lavender, gold-eyed daisies on branching stems into fall; a self-sowing xeric native and late-season specialist-bee plant.
 - Japanese anemone (*Anemone × hybrida*) (I) — Tall, wiry-stemmed perennial that lights up the late-summer…
 - Panicled aster (*Symphyotrichum lanceolatum*) (N) — A tall, willow-leaved native aster that erupts in sprays of…

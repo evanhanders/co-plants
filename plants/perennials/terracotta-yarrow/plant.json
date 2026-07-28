@@ -1,0 +1,223 @@
+{
+  "common": "'Terracotta' yarrow",
+  "botanical": "Achillea millefolium 'Terracotta'",
+  "aka": [
+    "Achillea 'Terracotta'",
+    "Achillea millefolium 'Terracotta'",
+    "Terra Cotta yarrow",
+    "Achillea 'Inca Gold' Pagels"
+  ],
+  "type": "Forb",
+  "lifecycle": "Perennial",
+  "native": "Non-native",
+  "collection": "yarrows",
+  "flower_color": [
+    "orange",
+    "yellow"
+  ],
+  "bloom": [
+    "summer",
+    "fall"
+  ],
+  "bloom_season": "Summer",
+  "blurb": "The warm one. Flat corymbs open a deep peachy burnt-orange, then age through apricot and coppery bronze to buff-cream — and because the heads open in waves, one clump carries all of those tones at once and reads almost antique against its silvery ferny foliage. The colour shift is the whole point of the plant, not a flaw, but be clear-eyed: it ends up cream, and Front Range heat and high-altitude sun push it there faster. Bone-dry, deer-proof and relentless from June to frost, so long as you keep it lean, sunny and unfed.",
+  "size": "~2.5–3 ft tall × 2–2.5 ft wide (CSU lists 'Terra Cotta' at 30–36 in here; the RHS's 3–5 ft is UK-grown height on richer, wetter ground)",
+  "sun": "Full sun — 6+ hours of direct sun; anything less and the tall stems lean and want staking",
+  "water": "Low; xeric once established — a CSU-listed xeriscape perennial wanting dry-to-medium, sharply drained ground. Overwatering and rich, wet soil are what kill it.",
+  "spread": "Rhizomatous and spreading — CSU notes its 'spreading nature', and common yarrow runs aggressively by rhizome and seed in good ground; deadhead, edge it, and divide every 2–3 years (which also keeps the named cultivar vigorous and true)",
+  "seasons": "Silvery grey-green ferny foliage spring through fall; flat 2–4 in corymbs June–September opening deep peachy-orange and ageing through apricot and coppery bronze to buff-cream; tan dried seedheads and a semi-evergreen basal rosette through winter",
+  "wildlife": "Flat landing-pad corymbs draw butterflies, bees and other beneficial insects; also a first-rate cut and dried flower",
+  "deer": "Deer- and rabbit-resistant — the aromatic ferny foliage is left alone",
+  "toxic": "Mild for people — handling the foliage can cause contact dermatitis, so wear gloves; toxic to dogs, cats and horses if eaten (achillein, monoterpenes, sesquiterpene lactones)",
+  "winter": true,
+  "verified": "2026-07-28",
+  "origin": "Garden colour selection from the Eurasian Achillea millefolium complex; credited to raiser Ernst Pagels",
+  "habitat": "Dry to moderately moist open meadows, pastures and disturbed grassland on lean, well-drained soil",
+  "gaps": "Open-licensed imagery of 'Terracotta' is thin: the reel's five shots are all genuinely of this cultivar (two showing the fresh burnt-orange-to-gold colour, three the buff-cream state it ages into), but no CC foliage close-up, habit or seasonal shot of the named cultivar exists to add. Note that CC searches for it also surface 'Walter Funcke', a different orange cultivar, which is deliberately excluded.",
+  "ph": {
+    "min": 6.0,
+    "ideal": 7.0,
+    "max": 8.0
+  },
+  "care": {
+    "hardiness": "Cold is a non-issue: MBG rates it USDA 3–8, NC State gives the species 3a–9b, and the RHS puts it at H7 — hardy in the severest continental climates, below −20 °C — so Boulder's zone 5b–6a winters never threaten it.[1][2][6] The silvery basal rosette is semi-evergreen and commonly stays green through winter, which is why a clump reads as something rather than bare ground in January.[2][7] Worth knowing what you are planting: common yarrow is circumboreal and Colorado has its own native forms, but the ornamental colour cultivars descend from European garden stock, which the Forest Service distinguishes from the native plants (typical European material is hexaploid with flat leaves; native forms are mostly tetraploid with three-dimensional leaves) — hence this entry is filed as non-native.[7]",
+    "planting": "Set container plants out in spring once the soil is workable, or in early fall to let roots settle before winter; there is no need to wait for the mid-May last frost, since the plant is far hardier than that.[1][5] Choose the lean, sharply drained, full-sun spot — a slope, a gravel bed, the hot strip along a drive — and skip the compost-rich border; it tolerates poor soil but not heavy, wet clay in winter.[1][2] Water new plantings every couple of days for the first month, then stretch to four- to six-day intervals to push roots outward, and stop babying it after year one.[5] In a pot it works but is fussier than in the ground: use a gritty, fast-draining mix, never a moisture-retentive one, and remember container roots are markedly less cold-hardy than an in-ground crown — sink the pot or move it to a sheltered spot for winter, and water it on above-freezing days in our dry November-to-February stretch.[5]",
+    "sun": "Full sun, 6+ hours of direct sun daily, is not negotiable for this cultivar.[1][6] Yarrow is not tolerant of much shade in the wild, and in the garden the penalty is structural rather than floral: MBG notes taller plants may need staking, particularly if grown in less than full sun.[1][7] At 30–36 in this is one of the taller millefolium selections, so a shaded or sheltered siting turns a crisp upright clump into a splayed one by July.[1][4] Our intense high-altitude sun is an asset for stem strength — but it also drives the flowers from orange to cream faster than a cloudier climate would.[1]",
+    "soil": "Lean and well-drained beats fertile every time. MBG's culture is explicit: it thrives in lean, well-drained soils, tolerates average garden conditions and poor soils where drainage is adequate, and wants you to avoid heavy clay and overly moist, rich soils.[1] The RHS accepts chalk, loam or sand across acid, neutral and alkaline pH, and NC State gives 6.0–8.0, so Boulder's alkaline soil is fine on its own terms.[2][6] What Boulder clay is not fine at is drainage — so amend with coarse grit or plant on a raised or sloped bed rather than digging in compost, which only adds the fertility that makes this plant flop.[1][2] A soil test before you build the bed is worth the trouble.[5]",
+    "water": "Dry to medium, and drought-tolerant once established.[1] CSU lists it among the perennials for water-wise Front Range gardens, so treat it as a genuinely xeric plant: soak it deeply and infrequently through summer heat rather than watering little and often, and expect it to want essentially nothing in an average year once it is a couple of seasons old.[1][4] Overwatering is the failure mode — root rot sets in on too-wet soil, and MBG notes it performs poorly in wet sites or heavy, poorly-drained ground.[1][6] Group it with other dry-side plants on their own irrigation zone (hydrozoning) so it never gets caught on a thirsty plant's schedule.[5]",
+    "spacing": "Space plants 18–24 in apart against a mature spread of about 2–2.5 ft; NC State gives an available-planting-space range of 12 in to 3 ft.[1][6] Err toward the wider end here for two reasons: the rhizomes will close the gaps themselves, and adequate spacing keeps air moving, which is CSU's standing advice for heading off powdery mildew in a perennial bed.[5][6] Plan the bed around mature size and leave real room for growth rather than planting for instant effect.[5]",
+    "propagation": "Divide, don't sow. Division in spring is the RHS's method, and CSU is specific for this genus: plants that flower in mid-to-late summer or fall, 'such as daylily or yarrow', should be divided in the spring before growth begins.[2][5] That matters more than usual for 'Terracotta', because it is a named colour selection — seed from it will not come true, and any seedlings you get will drift back toward ordinary species colours, so deadheading (which NC State recommends anyway, to prolong bloom and minimize spread by seed) is also how you keep the patch honest.[2][6] Lift the clump, discard the tired woody center, and replant the vigorous outer sections at once.[5] Do this on a 2–3 year cycle — the tight end of MBG's every-3-to-4-years and CSU's three-to-five-growing-seasons guidance — since overcrowded perennials bloom poorly and a coasting yarrow clump thins from the middle.[1][5]",
+    "bloom": "June into September here, in dense flat-topped corymbs 2–4 in across held over the ferny foliage.[1][2][4] The colour is the reason to grow it and it does not hold still: MBG describes peachy-yellow heads when they first open, gradually maturing to coppery bronze; the RHS describes flat heads of deep yellow to terracotta fading to cream; CSU records the cultivar simply as 'peach pink'.[1][2][4] Because new heads keep opening while old ones age, a clump shows burnt-orange, apricot, bronze and buff all at once — that layered, antique look IS the plant. Be honest with yourself about the endpoint, though: it finishes cream, and MBG warns flower colour may fade in extended hot summer weather, which our hot, brilliantly lit summers deliver in full.[1][2] Deadheading spent heads back to lateral buds is what keeps fresh, saturated colour coming, and cutting the plant back after the main flush can bring a fall flush.[1]",
+    "feeding": "Don't. It tolerates poor soils and wants lean, well-drained ground, and the taller millefolium cultivars are already stake-prone in anything richer or shadier.[1] Fertilizer buys you soft, tall growth that lies down in the first thunderstorm and no extra flower. If you genuinely suspect a deficiency, test the soil first rather than guessing.[5] Skip the annual compost topdressing you would give a border perennial — on this plant it is a mistake, not a kindness.[1][4]",
+    "maintenance": "Deadhead through the season, cutting spent heads back to lateral buds — it keeps the colour fresh, extends the display, and limits self-seeding.[1][6] After the main flush, cut the plant back to encourage new growth and a possible fall bloom.[1] Get a grow-through hoop over it in late spring if your site is at all sheltered or windy: MBG flags staking for taller plants, and CSU notes tall perennials generally may need staking in windy sites — far easier before the stems get away from you.[1][5] Keep an eye on the rhizomes; CSU describes this cultivar's spreading nature and NC State notes the species can spread aggressively by rhizome and seed, so edge the patch and lift the strays.[4][6] Leave the tan seedheads and the semi-evergreen rosette standing over winter — reduced fall cutback supports overwintering pollinators and wildlife — then tidy the ratty foliage in spring, which is also the RHS's advice.[2][5] Water on above-freezing days during a dry, snowless Front Range winter, especially for first-year plants.[5]",
+    "troubles": "Almost every problem is a siting mistake, not a pest. Wet or poorly drained ground brings stem rot, root rot and botrytis; MBG also lists powdery mildew and rust, and the RHS adds aphids and powdery mildews.[1][2][6] Flopping comes from shade, shelter, rich soil or fertilizer — fix the cause rather than staking forever.[1] Colour disappointment is the other 'problem': the heads are meant to age to cream, and hot spells speed it up, so if you want saturated orange you must deadhead relentlessly and accept that this plant is a shifting palette, not a fixed one.[1][2] And it will run: expect to divide, edge and pull volunteers rather than assuming a tidy clump.[4][6] Wear gloves when cutting it back — the foliage can cause contact dermatitis in sensitive people.[6][11]",
+    "companions": "It belongs in the dry, sunny, unfed half of the garden, with the other plants on CSU's water-wise perennial list — hyssops and hummingbird mints (Agastache), Rocky Mountain penstemon, blanket flower, Russian sage, and the native bunchgrasses blue grama and little bluestem — all of which share its drainage and irrigation needs, which is exactly the hydrozoning CSU asks for.[4][5] Colour-wise the terracotta-to-buff range is at its best against blue and violet (penstemon, catmint, salvia) and beside silver foliage, which echoes its own leaves.[1][4] Give the whole group room and plan for mature sizes so nothing shades this one into flopping.[5]"
+  },
+  "edible": {
+    "level": "caution",
+    "food": true,
+    "kinds": [
+      "leaves",
+      "flowers"
+    ],
+    "card": "Young leaves & flowers, bitter — a flavouring, not a vegetable",
+    "summary": "Yarrow leaves and flowers are a documented bitter herb, eaten raw or cooked in moderation and brewed as tea, but this is a flavouring used in small amounts, not a crop — and there are real cautions around allergy, pregnancy, pets and a deadly look-alike.[6][10][12]",
+    "parts": "The leaves and flowers are the edible parts. NC State puts it plainly: they are bitter, but can be eaten raw or cooked in moderation, used in salads and teas, and to flavour some liquors and bitters.[6] Young leaves are the tender, mildest ones — they turn tougher and more bitter as they age — and an aromatic tea is brewed from leaves and flowers.[12] Nothing else on the plant is a food; the roots and the plant's medicinal reputation are a separate matter entirely.[10][12]",
+    "preparation": "Harvest young leaves before flowering, and use them sparingly — a few leaves shredded into a mixed salad, or leaves and flowers dried and steeped as tea, or infused into bitters.[6][12] The bitterness is self-limiting; treat it as a seasoning, never as a salad base, and use it in moderation because of its potential toxicity in quantity.[12] Remember that 'Terracotta' is an ornamental colour selection bred for the flower, not for the kitchen, and that nursery-bought ornamental stock is routinely treated with pesticides — never eat a plant you have not grown yourself, untreated, for a full season.[1][6]",
+    "caution": "Read this before eating any yarrow. Identification first: yarrow's lacy fern-like foliage is genuinely confused with deadly poison hemlock (Conium maculatum, a Colorado List C noxious weed), every part of which is extremely toxic to humans and livestock — small amounts can be deadly, causing trembling, lack of coordination, respiratory paralysis and death — and with the equally lethal water hemlocks (Cicuta).[9] The University of Minnesota gives the tells: poison hemlock has smooth, hollow, purple-spotted stems and generally triangular leaves, where yarrow's leaves are very lacy but not triangular; water hemlock's stems may be purple-spotted but its leaves are not lacy.[9] If there is any doubt, do not eat it. Allergy: the European Medicines Agency states outright that people hypersensitive to yarrow or to other plants of the Asteraceae (Compositae) family — ragweed, chamomile, daisies — must not take yarrow-herb preparations, and restricts licensed yarrow-herb medicines to adults and adolescents over 12.[10] Skin: handling the foliage can cause contact dermatitis, so wear gloves; linalool and α-peroxyachifolid in its volatile fraction are confirmed dermal sensitizers, and extended medicinal or dietary use can cause allergic skin rashes or photosensitivity in some people — a real consideration under our high-altitude sun.[6][11][12] Pregnancy: avoid internal use while pregnant or nursing. Yarrow's volatile fraction contains thujone, which is reported to cause neurological toxicity on oral intake, and no authority establishes its safety in pregnancy or lactation.[11][12] Pets: the ASPCA lists yarrow as toxic to dogs, cats and horses — glycoalkaloids (achillein), monoterpenes and sesquiterpene lactones (achillin), with vomiting, diarrhea, colic, drooling, anorexia, dermatitis and depression among the signs — so do not let animals graze it.[8] Finally, yarrow may add to the effects of sedative herbs and drugs and has diuretic effects in quantity; anyone on medication should leave it alone.[12]"
+  },
+  "references": [
+    {
+      "name": "Missouri Botanical Garden Plant Finder — Achillea 'Terracotta'",
+      "url": "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=241831"
+    },
+    {
+      "name": "Royal Horticultural Society — Achillea millefolium 'Terracotta' (yarrow 'Terracotta')",
+      "url": "https://www.rhs.org.uk/plants/182741/achillea-millefolium-terracotta/details"
+    },
+    {
+      "name": "Royal Horticultural Society — Achillea 'Inca Gold' Pagels (the accepted name, with 'Terracotta' as a synonym)",
+      "url": "https://www.rhs.org.uk/plants/156517/achillea-inca-gold-pagels/details"
+    },
+    {
+      "name": "Colorado State University Extension — Xeriscaping: Perennials and Annual Flowers (7.231), which lists Achillea millefolium 'Terra Cotta'",
+      "url": "https://extension.colostate.edu/resource/xeriscaping-perennials-and-annual-flowers/"
+    },
+    {
+      "name": "Colorado State University Extension — Perennial Gardening",
+      "url": "https://extension.colostate.edu/resource/perennial-gardening/"
+    },
+    {
+      "name": "NC State Extension Gardener Plant Toolbox — Achillea millefolium",
+      "url": "https://plants.ces.ncsu.edu/plants/achillea-millefolium/"
+    },
+    {
+      "name": "USDA Forest Service, Fire Effects Information System (FEIS) — Achillea millefolium (common yarrow)",
+      "url": "https://www.fs.usda.gov/database/feis/plants/forb/achmil/all.html"
+    },
+    {
+      "name": "ASPCA Animal Poison Control — Yarrow (Achillea millefolium)",
+      "url": "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/yarrow"
+    },
+    {
+      "name": "University of Minnesota Extension — Poison hemlock (identification and look-alikes, incl. yarrow and water hemlock)",
+      "url": "https://extension.umn.edu/identify-invasive-species/poison-hemlock"
+    },
+    {
+      "name": "European Medicines Agency — Millefolii herba (yarrow herb): traditional uses and contraindications",
+      "url": "https://www.ema.europa.eu/en/medicines/herbal/millefolii-herba"
+    },
+    {
+      "name": "Achillea Species as Sources of Active Phytochemicals for Dermatological and Cosmetic Applications (Molecules, via PubMed Central)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8018854/"
+    },
+    {
+      "name": "Plants For A Future — Achillea millefolium (corroboration)",
+      "url": "https://pfaf.org/user/Plant.aspx?LatinName=Achillea+millefolium"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      1,
+      2,
+      4
+    ],
+    "sun": [
+      1,
+      2,
+      6
+    ],
+    "water": [
+      1,
+      4,
+      6
+    ],
+    "spread": [
+      1,
+      4,
+      6
+    ],
+    "seasons": [
+      1,
+      2,
+      4,
+      7
+    ],
+    "wildlife": [
+      6
+    ],
+    "deer": [
+      6
+    ],
+    "toxic": [
+      6,
+      8
+    ],
+    "ph": [
+      2,
+      6
+    ],
+    "origin": [
+      2,
+      3,
+      7
+    ],
+    "habitat": [
+      6,
+      7,
+      12
+    ]
+  },
+  "shots": [
+    {
+      "local": "images/su-close-t.jpg",
+      "full": "images/su-close.jpg",
+      "commons": "Achillea millefolium 'Terracotta', 2 - geograph.org.uk - 5050175.jpg",
+      "s": "summer",
+      "cap": "Summer — burnt-orange florets shading to gold, the colour the cultivar is named for · © Jonathan Billinger (CC BY-SA 2.0) / Wikimedia Commons",
+      "by": "Jonathan Billinger",
+      "lic": "CC BY-SA 2.0",
+      "link": "https://commons.wikimedia.org/wiki/File:Achillea_millefolium_%27Terracotta%27,_2_-_geograph.org.uk_-_5050175.jpg"
+    },
+    {
+      "local": "images/su-flower-t.jpg",
+      "full": "images/su-flower.jpg",
+      "commons": "Achillea millefolium 'Terracotta', 1 - geograph.org.uk - 5050171.jpg",
+      "s": "summer",
+      "cap": "Summer — terracotta plates over ferny foliage, orange and gold together · © Jonathan Billinger (CC BY-SA 2.0) / Wikimedia Commons",
+      "by": "Jonathan Billinger",
+      "lic": "CC BY-SA 2.0",
+      "link": "https://commons.wikimedia.org/wiki/File:Achillea_millefolium_%27Terracotta%27,_1_-_geograph.org.uk_-_5050171.jpg"
+    },
+    {
+      "local": "images/su-aged-t.jpg",
+      "full": "images/su-aged.jpg",
+      "commons": "Achillea Terracotta 1zz.jpg",
+      "s": "summer",
+      "cap": "Late summer — heads aged to soft buff-cream, the shade this cultivar settles into · © Photo by David J. Stang (CC BY-SA 4.0) / Wikimedia Commons",
+      "by": "Photo by David J. Stang",
+      "lic": "CC BY-SA 4.0",
+      "link": "https://commons.wikimedia.org/wiki/File:Achillea_Terracotta_1zz.jpg"
+    },
+    {
+      "local": "images/su-mass-t.jpg",
+      "full": "images/su-mass.jpg",
+      "commons": "Achillea Terracotta 2zz.jpg",
+      "s": "summer",
+      "cap": "Late summer — a stand carrying its aged buff tones · © Photo by David J. Stang (CC BY-SA 4.0) / Wikimedia Commons",
+      "by": "Photo by David J. Stang",
+      "lic": "CC BY-SA 4.0",
+      "link": "https://commons.wikimedia.org/wiki/File:Achillea_Terracotta_2zz.jpg"
+    },
+    {
+      "local": "images/su-context-t.jpg",
+      "full": "images/su-context.jpg",
+      "commons": "Achillea Terracotta 3zz.jpg",
+      "s": "summer",
+      "cap": "Late summer — how the faded plates read massed in a border · © Photo by David J. Stang (CC BY-SA 4.0) / Wikimedia Commons",
+      "by": "Photo by David J. Stang",
+      "lic": "CC BY-SA 4.0",
+      "link": "https://commons.wikimedia.org/wiki/File:Achillea_Terracotta_3zz.jpg"
+    }
+  ]
+}

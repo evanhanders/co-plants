@@ -1,0 +1,253 @@
+{
+  "common": "Woolly yarrow",
+  "botanical": "Achillea tomentosa",
+  "aka": [
+    "Wooly yarrow",
+    "Golden-flowered yarrow",
+    "'Aurea' woolly yarrow",
+    "'Golden Fleece' woolly yarrow",
+    "Dwarf yarrow"
+  ],
+  "type": "Groundcover",
+  "lifecycle": "Perennial",
+  "native": "Non-native",
+  "collection": "yarrows",
+  "flower_color": [
+    "yellow"
+  ],
+  "bloom": [
+    "spring",
+    "summer"
+  ],
+  "blurb": "A flat, dense carpet of soft woolly silver-grey-green ferny foliage only a couple of inches high, throwing short stems topped with small flat corymbs of bright lemon-to-golden yellow in early summer. This is the walkable yarrow — a drought-proof lawn substitute for hot lean ground, planted between pavers and along path edges where it takes light foot traffic and reflected heat without flinching. Its one demand is sharp drainage: the wool that makes it lovely is also what rots it in wet, heavy, or humid conditions, which is exactly why Boulder's dryness suits it.",
+  "size": "Foliage mat ~2–4 in tall × 12–18 in wide, creeping wider with age; flower stems lift the yellow corymbs to roughly 6–12 in",
+  "sun": "Full sun — 6+ hours; takes reflected heat off paving and stone",
+  "water": "Low; xeric once established — deep, infrequent soaks only, and never overhead. Overwatering, not drought, is what kills it here.",
+  "spread": "Creeps steadily outward by low rooting stems into a dense mat, reaching its ultimate 1–1.5 ft spread in about 2–5 years; it can be aggressive enough to crowd small neighbours in a rock garden, and division keeps it in bounds — but it is not the running-rhizome lawn invader that common yarrow (A. millefolium) is",
+  "seasons": "Silver-grey woolly mat holding through the year — evergreen to semi-evergreen in Front Range winters; bright yellow flat-topped corymbs on short stems in early summer, with a possible light rebloom if sheared; foliage takes on a duller grey-green cast in cold weather",
+  "wildlife": "An RHS 'Plants for Pollinators' selection; the flat corymbs are easy landing pads for small native bees, hoverflies and butterflies",
+  "deer": "Deer-resistant, and rabbit-resistant too — the aromatic woolly foliage is unpalatable",
+  "toxic": "Aromatic Asteraceae foliage can cause contact dermatitis in sensitive people (wear gloves); yarrow is listed by the ASPCA as toxic to dogs, cats and horses if grazed",
+  "winter": true,
+  "verified": "2026-07-28",
+  "origin": "Southern Europe and western Asia — the RHS gives its wild range as southwest Europe to central Italy",
+  "habitat": "Dry, sunny lowland ground — stony and shallow-rocky soils, gravelly slopes and open sunny grassland",
+  "ph": {
+    "min": 5.5,
+    "ideal": 7.0,
+    "max": 8.0
+  },
+  "care": {
+    "hardiness": "Rated USDA 3–7 (NC State gives 3a–7b) and carrying the RHS's H5 rating, so Boulder's zone 5b–6a winters are comfortably inside its range.[2][3][4] The limit is at the warm end, not the cold one: it is generally intolerant of hot, humid summers and is not recommended south of zone 7, where plants lose vigor as summer temperatures climb.[2] Our summers are hot but bone-dry, and that dryness is precisely why the plant works here when it fails in the Southeast — CSU Extension lists it outright among the xeriscape ground covers for Colorado.[1][2]",
+    "planting": "Plant out in spring once the mid-May frost date has passed, or in early fall so the mat roots in before winter.[5] Prepare the bed first — CSU's xeric ground-cover guidance is to eliminate existing weeds before planting and work good-quality organic matter into the soil, about 3–5 cubic yards of compost per 1,000 square feet.[1] On Boulder's heavy alkaline clay go further and add coarse grit or pea gravel, or build a low raised or bermed bed: this plant wants lean, well-drained sandy loam and heavy clay is explicitly to be avoided.[2][3] Set plants slightly proud of grade so water sheds away from the woolly crowns. It also does well in containers, troughs and planting pockets in stone walls — use a gritty free-draining mix, and remember that pot roots are far less cold-hardy than in-ground crowns, so sink the pot or move it to a sheltered spot for winter.[2]",
+    "sun": "Full sun, 6 or more hours a day, on a south-, west- or east-facing exposure.[3][4] Shade thins the mat, stretches the flower stems and dulls the silver in the foliage. Intense high-altitude sun and heat radiating off paving, gravel or a south wall are assets here rather than problems — this is a plant for the hot lean spot other things sulk in.[1][2]",
+    "soil": "Lean, dry to medium, well-drained sandy loam is the ideal; it does fine in average garden soil and tolerates genuinely poor and shallow-rocky ground so long as drainage is good.[2][3] Avoid heavy clay and rich, moist, fertile soil — both are listed as things to avoid, and both produce a soft mat that rots.[2] pH is not a constraint: acid, neutral and alkaline soils are all tolerated, so Boulder's alkaline clay is fine once the drainage is fixed.[3][4] Skip the water-holding organic mulch right over the crowns and use a gravel or pea-gravel mulch instead, which keeps the woolly foliage off wet ground.",
+    "water": "Genuinely xeric once established: it is drought-tolerant and rated dry-to-medium, with drought resistance noted by the RHS.[2][3][4] Water it regularly through the first season to knit the mat in, then back off hard — deep soaks every 2–3 weeks in summer heat are usually plenty, and in a normal Boulder year it wants almost nothing extra. Water at the soil line, never overhead: wet, sitting water on the woolly leaves is what invites stem rot, powdery mildew and rust.[2][3] More plants are lost here to a sprinkler zone or a downspout than to drought.",
+    "spacing": "Space plants about 12–18 in apart to match a mature spread of roughly 1–1.5 ft; the mat will close the gaps on its own within a couple of seasons.[2][3][4] Between stepping stones or pavers, tuck a plug into each pocket and let it fill outward rather than crowding several into one gap. Give each plant adequate room and plan for the mature size rather than an instant effect.[5]",
+    "propagation": "Division is the simplest and most reliable route, and the only way to keep a named selection like 'Aurea' or 'Golden Fleece' true — 'Aurea' does not come true from seed.[2] Lift a mat in early spring or early fall, pull or cut it into rooted chunks, discard any dead or woody centre, and replant the vigorous outer pieces at the same depth.[2][5] Rooted sections often pull away with roots already attached, so you rarely need a knife. Seed and stem cuttings also work; the RHS gives seed or division in spring.[2][3][4]",
+    "bloom": "Small yellow flower heads (each about 1/8 in) crowd into dense flat-topped corymbs up to 2 in across, bright yellow rays around yellow disks, held on short stems above the silver mat.[2] Expect the main show in early summer — roughly June into August here, with MBG describing the species as blooming late spring to early autumn and the RHS as early summer into autumn.[2][4] CSU's xeric ground-cover list simply calls it a summer-blooming yellow mat.[1] Deadhead spent heads back to lateral buds to push more flowers, and shearing the whole planting back after the main flush can bring a lighter second showing later in the season.[2]",
+    "feeding": "Essentially none. This is a lean-soil plant rated low-maintenance and poor-soil tolerant, and rich or heavily fertilized ground gives you a soft, floppy, rot-prone mat instead of a tight one.[2][3] If the soil is genuinely dead, a light spring topdressing of compost worked in at planting is all it should ever get.[1]",
+    "maintenance": "The one job that matters is shearing: cut the planting back to the basal leaves right after flowering to tidy it, keep the mat dense and flat, and encourage a possible additional bloom.[2] A string trimmer or hedge shears set high does the whole patch in minutes. Beyond that, divide every 3–4 years — or whenever the mat gets crowded and starts thinning or dying out in the middle — lifting it, discarding the tired centre and replanting the strong outer pieces to fill the bare patch.[2][5] Division is also how you keep it from creeping into small neighbours.[3] Leave the silver mat standing over winter; it is evergreen to semi-evergreen and is the plant's off-season interest, so there is nothing to cut down in fall.[2] Keep leaf litter raked off it, since matted wet leaves sitting on woolly foliage all winter is a recipe for rot.",
+    "troubles": "Stem rot, powdery mildew and rust are the recognized disease problems, and every one of them traces back to the same cause — too much water, too little drainage, or wet foliage.[2][3] The RHS adds aphids and powdery mildew to the list.[4] The classic failure here is a mat that looks perfect for two or three years and then goes brown and hollow in the middle: that is crowding plus moisture sitting in the centre, and the fix is to lift, divide and replant rather than to water it more.[2][5] Strong summer thunderstorms with high winds can flatten an exposed planting in bloom, though it recovers.[2] It can also be aggressive enough to swamp small rock-garden neighbours — keep it away from choice miniatures and edge it back annually.[3] Note that it is genuinely tolerant of light foot traffic, but 'light' is the operative word: it is a plant for a stepping-stone path or a lightly-walked area, not a dog run or a soccer lawn.[2][3]",
+    "companions": "Use it as a lawn substitute in a small hot area, as edging, between stepping stones and pavers, in planting pockets in a dry stone wall, spilling over a wall top, on a slope, in a crevice or green-roof planting, or in a trough.[2][3] Grow it with other lean-soil, sharp-drainage xerics that share the same near-zero irrigation schedule — hens and chicks, spearleaf stonecrop, Turkish speedwell, hardy ice plant, cheddar pinks, sulphur flower buckwheat, prairie zinnia, blue grama — so one dry zone serves the whole planting.[1] Keep it out of irrigated turf and away from thirsty perennials, where the drainage and water it hates will find it.[1][2]"
+  },
+  "edible": {
+    "level": "caution",
+    "food": false,
+    "summary": "Not a food. The documented culinary yarrow is common yarrow (Achillea millefolium), whose bitter leaves and flowers are used sparingly in salads, teas and bitters; woolly yarrow is grown purely as an ornamental ground cover and no authority documents an edible use for it.[3][6] Treat it as a plant to look at and walk on, not to eat.[3]",
+    "parts": "No part of Achillea tomentosa has a documented food use. NC State's entry for the species records its ornamental and ground-cover value and gives no edibility or culinary information at all, and its own note that the foliage is spicily aromatic when crushed is a description of the essential oil, not an invitation to eat it.[2][3] The culinary and herbal record that people are thinking of when they hear 'yarrow' belongs to A. millefolium, a different species in the guide's yarrow family, and it should not be transferred to this one.[6]",
+    "caution": "Yarrows are aromatic Asteraceae with a chemically active essential oil, and chemical polymorphism is a defining feature of the genus: French A. millefolium oil has been reported at up to 26.8% α- and β-thujones (with camphor to 20% and 1,8-cineole to 20.3%) and a Quebec chemotype is 13.8% β-thujone, while the sample analysed in that same study contained no thujone at all.[8] Nobody has characterised A. tomentosa's oil for this guide's purposes, which is reason enough not to take an ornamental yarrow internally — least of all if you are pregnant, nursing, or on medication.[8] It is also a documented contact allergen: allergic contact dermatitis to Compositae is caused by sensitisation to sesquiterpene lactones, picked up by direct handling or from airborne exposure, and A. millefolium extract is one of the plants in the standard Compositae patch-test mix; in one ten-year dermatology series most clinically relevant Compositae reactions were in gardeners handling plants directly, and Compositae dermatitis may be complicated by chronic actinic dermatitis, a photosensitivity condition.[9] So wear gloves when you shear or divide it, and expect trouble if you react to ragweed, chamomile, daisies or other Asteraceae.[6][9] It is not safe for pets either: the ASPCA lists yarrow as toxic to dogs, cats and horses, with glycoalkaloids (achillein), monoterpenes and sesquiterpene lactones (achillin) as the toxic principles and vomiting, diarrhea, colic, drooling, anorexia, dermatitis and depression as signs.[7] Finally, the identification warning that matters most: fine, ferny, twice-divided grey-green foliage of the yarrow kind is repeatedly mistaken for deadly members of the carrot family. Poison hemlock (Conium maculatum) — a widely naturalized noxious weed with lacy parsley-like leaves, hollow purple-spotted stems and white umbels — is high-severity poisonous in every part, with coniine and related alkaloids causing salivation, vomiting, weakness, paralysis, convulsions and coma.[10] Water hemlock (Cicuta) is worse still: its cicutoxin makes it 'the most violently toxic plant that grows in North America,' capable of killing within hours of the first signs.[11] Never eat any ferny-leaved plant on the strength of a resemblance to yarrow — and never eat nursery ground-cover stock, which may have been treated.[10][11]"
+  },
+  "references": [
+    {
+      "name": "Colorado State University Extension — Xeriscaping: Ground Cover Plants (fact sheet 7.230)",
+      "url": "https://extension.colostate.edu/resource/xeriscaping-ground-cover-plants/"
+    },
+    {
+      "name": "Missouri Botanical Garden Plant Finder — Achillea tomentosa 'Aurea' (woolly yarrow)",
+      "url": "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=241839"
+    },
+    {
+      "name": "NC State Extension Gardener Plant Toolbox — Achillea tomentosa (woolly yarrow)",
+      "url": "https://plants.ces.ncsu.edu/plants/achillea-tomentosa/"
+    },
+    {
+      "name": "Royal Horticultural Society — Achillea tomentosa (woolly yarrow)",
+      "url": "https://www.rhs.org.uk/plants/318/achillea-tomentosa/details"
+    },
+    {
+      "name": "Colorado State University Extension — Perennial Gardening",
+      "url": "https://extension.colostate.edu/resource/perennial-gardening/"
+    },
+    {
+      "name": "NC State Extension Gardener Plant Toolbox — Achillea millefolium (common yarrow)",
+      "url": "https://plants.ces.ncsu.edu/plants/achillea-millefolium/"
+    },
+    {
+      "name": "ASPCA Animal Poison Control — Yarrow (Achillea millefolium)",
+      "url": "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/yarrow"
+    },
+    {
+      "name": "Antioxidant and Antimicrobial Activities of the Essential Oil of Achillea millefolium L. Grown in France (Medicines, via PubMed Central)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5590066/"
+    },
+    {
+      "name": "Allergic contact dermatitis to Compositae: An Australian case series (Contact Dermatitis, 2022, via PubMed Central)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9542089/"
+    },
+    {
+      "name": "NC State Extension Gardener Plant Toolbox — Conium maculatum (poison hemlock)",
+      "url": "https://plants.ces.ncsu.edu/plants/conium-maculatum/"
+    },
+    {
+      "name": "USDA Agricultural Research Service, Poisonous Plant Research Laboratory — Water hemlock (Cicuta douglasii)",
+      "url": "https://www.ars.usda.gov/pacific-west-area/logan-ut/poisonous-plant-research/docs/water-hemlock-cicuta-douglasii/"
+    },
+    {
+      "name": "Royal Horticultural Society — Yarrow in lawns (how Achillea millefolium spreads)",
+      "url": "https://www.rhs.org.uk/weeds/yarrow-in-lawns"
+    },
+    {
+      "name": "Wikipedia — Achillea tomentosa (corroboration)",
+      "url": "https://en.wikipedia.org/wiki/Achillea_tomentosa"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "sun": [
+      2,
+      3,
+      4
+    ],
+    "water": [
+      2,
+      3,
+      4
+    ],
+    "spread": [
+      2,
+      3,
+      4,
+      12
+    ],
+    "seasons": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "wildlife": [
+      3,
+      4
+    ],
+    "deer": [
+      2,
+      3
+    ],
+    "toxic": [
+      6,
+      7
+    ],
+    "ph": [
+      3,
+      4
+    ],
+    "origin": [
+      2,
+      4,
+      13
+    ],
+    "habitat": [
+      2,
+      3,
+      13
+    ]
+  },
+  "shots": [
+    {
+      "local": "images/su-close-t.jpg",
+      "full": "images/su-close.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/478273968/large.jpg",
+      "s": "summer",
+      "cap": "Summer — a dense corymb of deep golden-yellow florets · © jltasset (CC-BY-NC) / iNaturalist",
+      "by": "jltasset",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/266205487"
+    },
+    {
+      "local": "images/su-flower-t.jpg",
+      "full": "images/su-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/382088633/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — bright lemon-gold flowers on short stems above the mat · © massimogp (CC-BY-NC) / iNaturalist",
+      "by": "massimogp",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/216067720"
+    },
+    {
+      "local": "images/wi-mat-t.jpg",
+      "full": "images/wi-mat.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/658674846/large.jpg",
+      "s": "winter",
+      "cap": "The silver woolly mat spilling over rock — the evergreen foliage that carries it through winter · © Benjamin Besse (CC-BY-NC) / iNaturalist",
+      "by": "Benjamin Besse",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/360944323"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/268605639/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — the soft, woolly, silver-grey dissected foliage · © Ludwig Treuter (CC-BY-NC) / iNaturalist",
+      "by": "Ludwig Treuter",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/155396816"
+    },
+    {
+      "local": "images/su-leaf-t.jpg",
+      "full": "images/su-leaf.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/389351576/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — woolly leaves in close detail, the felting that gives it its name · © Martin Spaeth (CC-BY-NC) / iNaturalist",
+      "by": "Martin Spaeth",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/219941413"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/409175771/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — a flowering mat spread flat over lean gravel, its natural xeric setting · © jltasset (CC-BY-NC) / iNaturalist",
+      "by": "jltasset",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/230439855"
+    },
+    {
+      "local": "images/su-context-t.jpg",
+      "full": "images/su-context.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/608389721/large.jpg",
+      "s": "summer",
+      "cap": "Summer — the mat colonising dry, stony open ground · © Franck Le Driant (CC-BY-NC) / iNaturalist",
+      "by": "Franck Le Driant",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/334953279"
+    },
+    {
+      "local": "images/su-garden-t.jpg",
+      "full": "images/su-garden.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/386550248/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — used as a rock-garden carpet alongside creeping thyme · © Сергей Сергацков (CC-BY-NC) / iNaturalist",
+      "by": "Сергей Сергацков",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/218447089"
+    }
+  ]
+}

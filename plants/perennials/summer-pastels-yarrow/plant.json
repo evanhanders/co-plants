@@ -1,0 +1,273 @@
+{
+  "common": "Summer Pastels yarrow",
+  "botanical": "Achillea millefolium Summer Pastels Group",
+  "aka": [
+    "Achillea millefolium 'Summer Pastels'",
+    "Summer Pastels Group yarrow",
+    "Achillea 'Summer Pastels'",
+    "Summer Pastels yarrow mix"
+  ],
+  "type": "Forb",
+  "lifecycle": "Perennial",
+  "native": "Non-native",
+  "collection": "yarrows",
+  "flower_color": [
+    "white",
+    "yellow",
+    "orange",
+    "red",
+    "pink",
+    "purple"
+  ],
+  "bloom": [
+    "summer",
+    "fall"
+  ],
+  "bloom_season": "Summer",
+  "blurb": "The one yarrow in this guide you can honestly raise from seed and be pleased with — because 'Summer Pastels' is a seed STRAIN, not a clone. A single packet gives the whole soft range in one bed: cream and buff through apricot, salmon, soft pink, rose, lilac-mauve, red and white, all on flat landing-pad heads over the usual ferny, aromatic grey-green foliage. It won the All-America Selections flower award in 1990, flowers its first year from seed, and was bred to hold those pastels better in heat than most yarrows do. The trade-off is the whole point: you get a mix, not a colour you chose.",
+  "size": "~1.5–2 ft tall × 1.5–2 ft wide (uniform for a seed strain — AAS rates mature plants about 2 ft tall × 1.5 ft wide; the species ranges 1–3 ft)",
+  "sun": "Full sun — 6+ hours; best colour and sturdiest stems in full sun, floppy and washed-out in shade",
+  "water": "Low; xeric once established — dry to medium, essentially no supplemental water once settled. Overwatering and rich, moist ground are what kill it.",
+  "spread": "Clump-forming but rhizomatous — runs by underground stems and self-sows; lean dry ground keeps it modest, rich moist ground makes it travel",
+  "seasons": "Ferny aromatic grey-green foliage from early spring; flat-topped corymbs 2–3 in across in the full pastel range June through September and on until hard frost; heads dry well for cutting, and the basal foliage rosette holds late into the season",
+  "wildlife": "A strong pollinator plant — butterflies, bees, hoverflies and other beneficial insects work the flat landing-pad flower heads; the species is an RHS 'Plants for Pollinators' selection and is documented to support over 100 insect species",
+  "deer": "Deer-resistant, and rabbit-resistant too — the aromatic foliage does the work",
+  "toxic": "Toxic to dogs, cats and horses if eaten (achillein, monoterpenes, achillin — vomiting, diarrhea, colic, drooling, dermatitis); the foliage causes contact dermatitis in sensitive people, so wear gloves",
+  "winter": false,
+  "verified": "2026-07-28",
+  "origin": "A garden seed strain (bred by K. Sahin, Zaden B.V.) of Achillea millefolium — the Eurasian garden phase of a species native across temperate Europe and Asia; genetically distinct native North American races of the same species also occur, including in Colorado",
+  "habitat": "Open sunny grassland, meadows, roadsides and lean, dry, well-drained banks across temperate Eurasia",
+  "gaps": "No open-licensed photo set of the named 'Summer Pastels' seed strain exists. Because it is a seed strain rather than a clone, the reel instead uses honestly-captioned Achillea millefolium shots chosen to show the actual pastel range the strain produces — blush pink, rose, cream and buff, including several frames with two or three tones together, which is what a seed-raised planting really looks like. Every shot is the correct species; none is the named strain.",
+  "ph": {
+    "min": 6.0,
+    "ideal": 7.0,
+    "max": 8.0
+  },
+  "care": {
+    "hardiness": "Cold is the easy part. Missouri Botanical Garden rates the Summer Pastels Group USDA 3–8, NC State puts the species at 3a–9b, and the RHS gives Achillea millefolium its top H7 hardiness rating — hardy in the severest continental climates, below −20 °C.[1][3][4] Boulder's zone 5b–6a winters are a non-issue, and the species grows wild in Colorado from roughly 4,000 to 12,000 ft, so neither cold nor altitude is what limits it here.[8] The limit is at the other end: MBG notes the strain is tolerant of heat and humidity, but that the flower colours may fade in extended, hot summer weather.[1]",
+    "planting": "Container-grown plants can go in any time during the growing season; bare-root divisions are best planted in spring.[5] Spring after the mid-May last frost, or early fall, are the easiest windows for transplants here.[6] Drainage matters far more than timing — it wants lean, well-drained ground and does poorly in heavy, poorly drained soil, so when planting into Boulder clay amend the root zone with roughly 10 percent compost and 15 percent small aggregate such as pea gravel by volume, or build a raised bed.[1][6] Site it out of the wind: MBG specifically advises locations protected from strong winds, because strong summer storms with high winds can flatten exposed plantings.[1] It grows well in a pot given the same sharp-draining mix, but be honest about water — new plantings in full sun can need water every couple of days at first, easing to every four to six days after the first month, and a container in Front Range sun and wind dries faster still.[5]",
+    "sun": "Full sun — six or more hours of direct sun a day.[3] Light shade is tolerated, but MBG is blunt that the best colouring and flowering come from full sun, and that taller plants may need staking particularly if grown in less than full sun.[1] Under our high-altitude light, full sun is genuinely the right call: shade here buys stretched, floppy stems and washed-out flowers rather than relief.[1][3]",
+    "soil": "Best in lean, dry-to-medium, well-drained sandy loams; it does fine in average garden soil and tolerates poor soils as long as drainage is good.[1] Chemistry is not the problem in Boulder — the RHS lists the species as growing on chalk, clay, loam or sand across acid, neutral and alkaline soils, and NC State puts its working range at about pH 6.0–8.0, which brackets our alkaline ground comfortably.[3][4] The physical side is the problem: MBG says plainly to avoid heavy clays and moist, rich, fertile soils.[1] Break up and grit the clay, or raise the bed, and skip the generous compost amendment you would give a hungry perennial.[1][6]",
+    "water": "Low. Drought-tolerant once established, wanting dry to medium moisture with good drainage.[1][3] Water it through its first season to get roots down, then back right off — an occasional deep soak during a long hot dry spell is plenty, and in most Boulder beds it carries itself.[1][3] Failure here is almost always too much water rather than too little: it does poorly in wet sites and in heavy, poorly drained soil, where root and stem rot follow.[1][3]",
+    "spacing": "AAS gives a plant spacing of 12–15 in for this strain, but mature plants reach 1.5–2 ft across, so 15–18 in is a fairer number if you do not want them crowding by the third year.[1][2] Use diagonal or triangular spacing rather than rows and leave room for the mature size — overcrowded perennials bloom poorly and stay damp in the middle, which is the last thing this plant wants.[5]",
+    "propagation": "Two routes that do genuinely different jobs. Seed is the honest one for this plant: 'Summer Pastels' is an F2 seed strain rather than a clone, so every seedling is its own individual and a packet gives you the whole pastel range — that is precisely what the strain exists to do.[2] Division is how you pin down a colour you like: lift a clump in spring, split it, and replant the vigorous outer pieces, which keeps that individual plant's flower colour exactly.[3][4] MBG suggests dividing every 3–4 years in any case to reinvigorate the planting.[1]",
+    "sow": "This is the yarrow worth raising from seed — AAS notes it flowers its first year from seed and then blooms faithfully year after year.[2] Start indoors four to eight weeks before Boulder's roughly mid-May frost-free date (so late March into mid-April), or sow outdoors from early to late spring; CSU also notes that seed for perennial plantings is well sown in late fall, letting our winter do the settling.[6][7] The seed is very fine — cover it no more than about four times the seed's diameter, effectively a bare dusting of mix, because sowing too deep reduces or prevents germination.[7] Keep the flat warm and evenly moist but never soaking (small containers dry fast, while soil kept soaking wet inhibits or kills seedlings); yarrow seed germinates readily at roughly 65–75 °F, and a heat mat speeds it up.[7][9] Harden the seedlings off over about a week of increasing outdoor exposure before setting them out.[7]",
+    "bloom": "June through September on the Front Range, carrying on until heavy frost — tiny florets packed into flat-topped terminal corymbs 2–3 in across.[1][2] In one sowing the range runs cream and buff through yellow, apricot, salmon, soft pink, rose, red and lilac to mauve and white.[1][2] Be realistic about heat: MBG states the strain tolerates heat and humidity but that flower colours may fade in extended hot summer weather, so expect August flowers noticeably paler than June's.[1] The strain is bred to hold colour better than most yarrows, not to be immune to fading — treat the marketing claim as a relative one. Deadheading spent heads back to lateral buds extends the display, and cutting the plant back to its basal leaves after the main flush tidies it and can bring a second fall flush.[1]",
+    "feeding": "Effectively none. It wants lean soil and tolerates poor soil outright, and rich, fertile ground is on MBG's list of things to avoid.[1][3] Fertilizer produces exactly the failure you are trying to prevent — soft, tall growth that leans and needs staking.[1] If you feel you must do something, a thin spring topdressing of compost is the ceiling.[5]",
+    "maintenance": "Deadhead through summer, cutting back to lateral buds, then shear the whole plant to its basal foliage after the main flush to tidy it and encourage new growth.[1] Staying upright is a siting question more than a staking one: full sun, lean unfertilized soil and shelter from wind keep the stems stiff, whereas taller plants in less than full sun may need staking and strong storms can flatten an exposed planting.[1] Divide every 3–4 years to reinvigorate the clump.[1] Watch the rhizomes — the species spreads aggressively by rhizomes and by seed in ground it likes, and rhizome fragments can regenerate shoots from as deep as 12 in, so edge the patch, remove strays with their underground stems attached rather than snapping off the tops, and deadhead before seed sets if you do not want volunteers.[3][8][9] For fall cleanup, CSU now recommends leaving more standing for pollinators, except where a known pest or disease is present.[5]",
+    "troubles": "Disease is occasional rather than routine: botrytis, stem rot, powdery mildew and rust, with aphids and powdery mildews also on the RHS list, and root rot in overly wet soil.[1][3][4] The realistic problems on the Front Range are not pathogens. They are, in order: flopping (from rich soil, shade or fertilizer, and taller plants may need staking in less than full sun); storm flattening in exposed sites; colour fading in extended heat, which is inherent to the plant and not a cultural fault; and spread, since it travels by both rhizome and seed.[1][3][8] One handling note — the foliage causes contact dermatitis in sensitive people, and prolonged exposure can increase the skin's photosensitivity, so wear gloves and long sleeves when shearing it back.[3][12]",
+    "companions": "Built for the dry, sunny end of the garden — MBG lists it as specimen, group or mass, for borders, cottage gardens, wild gardens, naturalized areas and meadows.[1] Plant it with the guide's other lean-and-sunny things that share its watering schedule, so one xeric zone serves them all: Russian sage, meadow sage, lavender, blue grama and little bluestem, prairie zinnia, hardy ice plant, penstemons and ornamental alliums.[1][3] Design-wise, a soft multicoloured mix reads better against silver foliage, grasses and a few solid blues than against another mixed planting — give the pastels a quiet background.[1] Plan the bed with mature sizes in mind and leave adequate room to grow.[5]"
+  },
+  "edible": {
+    "level": "caution",
+    "food": true,
+    "kinds": [
+      "leaves",
+      "flowers"
+    ],
+    "card": "Young leaves & flowers (bitter — a seasoning, not a vegetable)",
+    "summary": "Yarrow leaves and flowers have documented food use — bitter, taken in small amounts in salads, teas and bitters — but this is an ornamental bedding strain bred for flower colour, and yarrow carries real cautions: thujone in its oil, sesquiterpene-lactone skin sensitizers, an Asteraceae-allergy contraindication, and a deadly hemlock look-alike problem.[1][3][11][13][14]",
+    "parts": "The leaves and the flowers are the parts used. NC State describes both as bitter but able to be eaten raw or cooked in moderation, used in salads and to make teas.[3] Young leaves are the mildest and are the part added raw to a salad; leaves and flowers are also brewed as a tea and used to flavour bitters and liquors, and historically yarrow was part of gruit, the herb mixture used to flavour beer before hops.[3][16] No part is a bulk vegetable — the bitterness alone limits how much anyone would use.[3][16]",
+    "preparation": "Pick young, tender leaves before the plant flowers and use them raw and sparingly in a mixed salad; older foliage is tougher and more bitter.[3][16] For tea, steep fresh or dried leaves or flower heads.[3][16] Treat it as a bitter seasoning herb — a few leaves, not a handful — and cook or steep rather than eating quantity raw.[3]",
+    "caution": "Read all of this before tasting anything. Identification comes first: yarrow's finely dissected ferny foliage is regularly confused with the lacy leaves of deadly poison hemlock (Conium maculatum), a Colorado List C noxious weed that is common along Front Range ditches, roadsides and ditchbanks and all parts of which are poisonous to people and animals — its alkaloids can cause muscle paralysis of the heart and lungs, followed by suffocation and death.[14][15] The tells: yarrow is a sunflower-family plant standing only 1–3 ft, with hairy, oval-to-elongate finely divided leaves, flat heads of comparatively large florets, and stems with no purple splotches; poison hemlock is a carrot-family plant 4–10 ft tall with smooth hollow stems distinctly spotted purple, triangular-outlined leaves, a musty smell when crushed, and tiny five-petalled white flowers in umbrella-shaped umbels.[14][15] Water hemlocks (Cicuta species) are equally deadly carrot-family plants of wet ground and must be ruled out the same way.[14] If you are not certain, do not eat it. On chemistry: yarrow's essential oil contains thujone, a neurotoxic compound that acts on GABA-gated chloride channels, so this is a small-quantity seasoning and never a concentrated oil taken internally.[13] On skin: the plant carries sensitizing sesquiterpene lactones, with alpha-peroxyachifolid identified as the primary sensitizer, and it is documented to cause contact dermatitis including airborne contact dermatitis; NC State advises wearing gloves to prevent contact dermatitis, and University of California landscape-safety guidance warns that in rare cases yarrow causes severe allergic skin rashes and that prolonged exposure can increase the skin's photosensitivity — notably when wet skin meets cut yarrow and cut grass together.[3][12][13] On allergy: the European Medicines Agency is explicit that patients hypersensitive to yarrow herb or to other plants of the Asteraceae (Compositae) family must not take yarrow herb medicines, that hypersensitivity reactions of the skin have been reported, and that such preparations are for adults and adolescents over 12 only; yarrow pollen is itself highly allergenic.[11][13] On pregnancy and medication: avoid yarrow in pregnancy and while breastfeeding — camphor, a constituent of the oil, passes through the placenta and is not recommended in pregnancy or lactation — and yarrow inhibits cytochrome P450 enzymes and interacts with anticoagulant and blood-pressure medications, so anyone taking medication should leave it alone.[13] On pets: the ASPCA lists yarrow as toxic to dogs, cats and horses (glycoalkaloids including achillein, monoterpenes, and the sesquiterpene lactone achillin), with vomiting, diarrhea, colic, drooling, anorexia, dermatitis and depression among the signs, so do not let animals graze it.[10] And finally, on this plant specifically: 'Summer Pastels' is an ornamental bedding strain bred and sold for flower colour, not a culinary variety, and ornamental nursery stock is routinely treated with pesticides — never eat a plant whose treatment history you do not know.[1][2]"
+  },
+  "references": [
+    {
+      "name": "Missouri Botanical Garden Plant Finder — Achillea (Summer Pastels Group)",
+      "url": "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=259410"
+    },
+    {
+      "name": "All-America Selections — Achillea Summer Pastels F2 (1990 AAS Flower Winner)",
+      "url": "https://all-americaselections.org/product/achillea-summer-pastels/"
+    },
+    {
+      "name": "NC State Extension Gardener Plant Toolbox — Achillea millefolium",
+      "url": "https://plants.ces.ncsu.edu/plants/achillea-millefolium/"
+    },
+    {
+      "name": "Royal Horticultural Society — Achillea millefolium (common yarrow)",
+      "url": "https://www.rhs.org.uk/plants/311/achillea-millefolium/details"
+    },
+    {
+      "name": "Colorado State University Extension — Perennial Gardening",
+      "url": "https://extension.colostate.edu/resource/perennial-gardening/"
+    },
+    {
+      "name": "Colorado State University Extension — Native Herbaceous Perennials for Colorado Landscapes (7.242)",
+      "url": "https://extension.colostate.edu/topic-areas/yard-garden/native-herbaceous-perennials-for-colorado-landscapes-7-242/"
+    },
+    {
+      "name": "Colorado State University Extension — Growing Plants from Seed (7.409)",
+      "url": "https://extension.colostate.edu/topic-areas/yard-garden/growing-plants-from-seed-7-409/"
+    },
+    {
+      "name": "USDA Forest Service, Fire Effects Information System — Achillea millefolium",
+      "url": "https://research.fs.usda.gov/feis/species-reviews/achmil"
+    },
+    {
+      "name": "Utah State University Extension IPM — Common yarrow (Achillea millefolium)",
+      "url": "https://extension.usu.edu/pests/ipm/ornamental-pest-guide/weeds/w_common-yarrow"
+    },
+    {
+      "name": "ASPCA Animal Poison Control — Yarrow (Achillea millefolium)",
+      "url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/yarrow"
+    },
+    {
+      "name": "European Medicines Agency — Millefolii herba (yarrow herb) herbal medicine overview",
+      "url": "https://www.ema.europa.eu/en/medicines/herbal/millefolii-herba"
+    },
+    {
+      "name": "University of California ANR — Plant Safely in Drought-Tolerant Landscapes: Achillea millefolium",
+      "url": "https://ucanr.edu/site/plant-safely-drought-tolerant-landscapes/achillea-millefolium"
+    },
+    {
+      "name": "Achillea millefolium: Mechanism of action, pharmacokinetic, clinical drug-drug interactions and tolerability (Heliyon, via PubMed Central)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10703637/"
+    },
+    {
+      "name": "Alabama Cooperative Extension System — Poison Hemlock in Alabama (yarrow look-alike comparison)",
+      "url": "https://www.aces.edu/blog/topics/forestry-wildlife/poison-hemlock-in-alabama/"
+    },
+    {
+      "name": "Jefferson County, Colorado — Poison Hemlock (Colorado List C noxious weed)",
+      "url": "https://www.jeffco.us/2230/Poison-Hemlock"
+    },
+    {
+      "name": "Wikipedia — Achillea millefolium (corroboration)",
+      "url": "https://en.wikipedia.org/wiki/Achillea_millefolium"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      1,
+      2,
+      3
+    ],
+    "sun": [
+      1,
+      3
+    ],
+    "water": [
+      1,
+      3
+    ],
+    "spread": [
+      3,
+      8,
+      9
+    ],
+    "seasons": [
+      1,
+      2
+    ],
+    "wildlife": [
+      1,
+      3,
+      4
+    ],
+    "deer": [
+      1,
+      3
+    ],
+    "toxic": [
+      3,
+      10
+    ],
+    "ph": [
+      3,
+      4
+    ],
+    "origin": [
+      2,
+      8,
+      16
+    ],
+    "habitat": [
+      4,
+      8,
+      16
+    ]
+  },
+  "shots": [
+    {
+      "local": "images/su-close-t.jpg",
+      "full": "images/su-close.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/41635462/large.jpg",
+      "s": "summer",
+      "cap": "Summer — a soft pale-pink head, one of the tones this seed strain throws · © Martin Grimm (CC-BY-NC) / iNaturalist",
+      "by": "Martin Grimm",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/26799587"
+    },
+    {
+      "local": "images/su-mix-t.jpg",
+      "full": "images/su-mix.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/204558076/large.jpg",
+      "s": "summer",
+      "cap": "Summer — pink and cream heads side by side: every plant from a sowing comes different · © no rights reserved (CC0) / iNaturalist",
+      "by": "no rights reserved",
+      "lic": "CC0",
+      "link": "https://www.inaturalist.org/observations/120912770"
+    },
+    {
+      "local": "images/su-range-t.jpg",
+      "full": "images/su-range.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/110719497/large.jpg",
+      "s": "summer",
+      "cap": "Summer — the pastel range in one clump, rose through blush to cream · © pinenutter (CC-BY-NC) / iNaturalist",
+      "by": "pinenutter",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/68386584"
+    },
+    {
+      "local": "images/su-mass-t.jpg",
+      "full": "images/su-mass.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/91052238/large.jpg",
+      "s": "summer",
+      "cap": "Summer — a drift showing how mixed a seed-raised planting reads · © Boris Bolshakov (CC-BY-NC) / iNaturalist",
+      "by": "Boris Bolshakov",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/57099421"
+    },
+    {
+      "local": "images/su-context-t.jpg",
+      "full": "images/su-context.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/299942663/large.jpg",
+      "s": "summer",
+      "cap": "Summer — pastel heads among other meadow flowers · © no rights reserved (CC0) / iNaturalist",
+      "by": "no rights reserved",
+      "lic": "CC0",
+      "link": "https://www.inaturalist.org/observations/172758989"
+    },
+    {
+      "local": "images/su-pale-t.jpg",
+      "full": "images/su-pale.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/4629598/large.jpg",
+      "s": "summer",
+      "cap": "Summer — the palest end of the range, blush fading to cream · © John Harlin (CC-BY-NC) / iNaturalist",
+      "by": "John Harlin",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/3932513"
+    },
+    {
+      "local": "images/su-cream-t.jpg",
+      "full": "images/su-cream.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/4150038/large.jpg",
+      "s": "summer",
+      "cap": "Summer — a cream-buff head, the strain's softest tone · © Paul Beck (CC-BY-NC) / iNaturalist",
+      "by": "Paul Beck",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/3580973"
+    },
+    {
+      "local": "images/fa-aged-t.jpg",
+      "full": "images/fa-aged.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/8491754/large.jpg",
+      "s": "fall",
+      "cap": "Fall — heads aged to tan, the end of the season's colour · © Ken-ichi Ueda (CC-BY) / iNaturalist",
+      "by": "Ken-ichi Ueda",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/6695951"
+    }
+  ]
+}

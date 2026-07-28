@@ -1,6 +1,12 @@
 {
   "note": "Display metadata for plant collections (cultivar/genus clusters). MEMBERSHIP lives on each plant.json as `collection:\"<id>\"`; this file only names the group, places it in a home section, picks the lead photo, and gives the blurb. See CLAUDE.md › Collections.",
   "collections": {
+    "burnets": {
+      "name": "Burnets",
+      "group": "Summer forbs",
+      "lead": "great-burnet",
+      "blurb": "Sanguisorba — bottlebrush burnets, from the xeric cucumber-leaved culinary herb to the moisture-loving maroon, pink and white border forms."
+    },
     "mulleins": {
       "name": "Mulleins",
       "group": "Summer forbs",

@@ -482,7 +482,7 @@ Cultivar/genus clusters (apples, plums, tart cherries, currants, pelargoniums, w
 asters, irises, tulips, climbing/rambling roses, hardy geraniums, crocuses, penstemons, maples,
 milkweeds, alliums, sunflowers, bee-balms, lupines, dogwoods, clematis, mulleins, columbines,
 scabious, prairie-coneflowers, pinks, coreopsis, sumacs, primulas, ornamental-oreganos, marigolds,
-bugleweeds, pasqueflowers, coral-bells, elderberries, burnets — **36 in all**) collapse
+bugleweeds, pasqueflowers, coral-bells, elderberries, burnets, yarrows — **37 in all**) collapse
 into a **single expandable family card** so the grid isn't buried under near-duplicate cards. It's
 an **inline accordion**, not a separate page — each member keeps its own detail page untouched.
 The bar for a collection is "would a gardener read these as one kind of plant in different
@@ -1071,7 +1071,7 @@ ground every statement in an authority cited in `references`.
 
 ## Current plant roster (in the live site)
 
-**300 specimens** (`plants/manifest.json` is the source of truth for the exact count), all verified
+**309 specimens** (`plants/manifest.json` is the source of truth for the exact count), all verified
 non-weed in CO and all carrying a full `care` block (incl.
 `planting` + `propagation`) **and a repo-hosted photo reel** (close-up + structure, seasonal
 where good shots exist). Every plant's detail page is **fully cited** — a numbered
@@ -1428,6 +1428,56 @@ summer shots with no fall/winter/seedhead shot available. `check_refs` guide-wid
 the six PASS (46 OK / 8 REVIEW / 0 DEAD — the REVIEWs are JS-rendered USDA PLANTS pages and the generic CSU
 Front-Range framing cites).
 
+**Yarrows batch (July 2026):** on a user request for "a bunch of achilleas… pinks, purples, reds, whites, mixes",
+added **nine** *Achillea* and folded them together with the existing 'Moonshine' yellow yarrow into a new
+**Yarrows** family card (id `yarrows`, homed in Summer forbs, lead = 'Paprika'). Weed-checked vs CO Lists
+A/B/C + Watch and the CDA Noxious Weed Seed List 2026-07-28 — no *Achillea* is listed. Care sourced via nine
+parallel agents (MBG, RHS, NC State, CSU Extension/PlantTalk, USDA-FS FEIS, USDA NRCS/PLANTS, LBJ, Clemson,
+Chicago Botanic Garden, ACCS/UAA, EMA, ASPCA).
+
+**Two things the user asked for that do not exist, and the entries say so plainly:**
+- **There are NO square-stemmed yarrows.** Square stems are a **Lamiaceae** (mint-family) trait; *Achillea* is
+  Asteraceae with round stems. Don't go looking.
+- ***Achillea* has no true purple or blue.** The palette runs white/cream/yellow/gold/apricot/salmon/terracotta/
+  pink/rose/red/wine-magenta. **'Cassis'** — marketed as "the purple yarrow" — is set `flower_color:["red"]`
+  because RHS describes it verbatim as "deep cherry-red"; putting `purple` on it would mislead the colour filter.
+  The blurb states the distinction outright. (Genuinely lilac-mauve *wild* forms do turn up in the species complex.)
+
+The nine: the **common yarrow** (*A. millefolium*) — **the guide's first CO-native yarrow**; the *millefolium*
+colour cultivars **'Paprika'** (brick-red + gold eye), **'Cerise Queen'** (cerise-magenta), **'Terracotta'**
+(burnt-orange→buff), **'Cassis'** (wine-dark) and **Summer Pastels** (a pastel seed MIX); plus the tall
+architectural **fernleaf yarrow** (*A. filipendulina*, gold plates, the dried-flower yarrow), **sneezewort**
+(*A. ptarmica* — the odd one out) and the mat-forming **woolly yarrow** (*A. tomentosa*, a `Groundcover`).
+
+**Batch-wide honesty calls:** (1) **Colour fade is the defining caveat of every coloured *millefolium*
+cultivar** — heads bleach as they age, so a mid-season clump is always two-toned; each entry says what the
+gardener will actually see, and both 'Paprika' and 'Cerise Queen' have reel shots showing the faded state
+beside the fresh. The Chicago Botanic Garden's 4-year *Achillea* trial rates **'Cerise Queen' lowest of four**
+for exactly that plus a sprawling/flopping habit — cited rather than glossed. (2) ***A. millefolium* runs hard
+by rhizome and self-sows**; *A. filipendulina* by contrast is genuinely **clump-forming, not running** (verified —
+the SPREADS trait should not fire on it). (3) **Sneezewort is the ONE yarrow that is not xeric** (damp/marshy
+wild habitat; RHS singles 'The Pearl' out as wanting moister soil than other achilleas) and it **runs hard and
+has naturalized in ~17 northern US states** — not CO-listed, but with containment guidance. (4) **Native-status
+nuance:** USDA PLANTS lists **ACMI2 as BOTH Native and Introduced** in L48 (ACMIO, var. *occidentalis*, is
+native-only), and European strains dominate the nursery trade — so common yarrow keeps `"CO native"` while
+telling the reader to buy regional native seed if they want the real thing.
+
+**Edibility:** *A. millefolium* and its cultivars are `caution`/`food` (young leaves + flowers, bitter). ***A.
+filipendulina*, *A. tomentosa* and *A. ptarmica* are `caution` but NOT food*** — the culinary record belongs to
+*A. millefolium* and was deliberately not transferred. **Every** yarrow caution leads with the **poison-hemlock
+(*Conium maculatum*, CO List C) / water-hemlock (*Cicuta*) ID warning** — yarrow's dissected foliage is the
+classic forager confusion, and this is the most important sentence in those entries.
+
+**Photo sourcing traps caught (worth remembering):** a Commons search for "Achillea millefolium rubra" returns
+**beetles** (*Stictoleptura rubra*) sitting on white yarrow, not red yarrow; the "Terracotta" search surfaces
+**'Walter Funcke'**, a different orange cultivar (excluded); RHS `/plants/1042/` serves ***Aurinia saxatilis***,
+not 'Cerise Queen' (the real id is 97048); and RHS `/plants/1103/` is ***Anacyclus maroccanus***, not yarrow.
+'Paprika', 'Cerise Queen' and 'Terracotta' have genuine CC cultivar photos via the **Commons pipeline**; **'Cassis'
+and Summer Pastels have none anywhere**, so both use honestly-captioned colour-matched *A. millefolium* shots with
+an explicit `gaps` note (as does 'Terracotta', capped at 5 shots). The rest are iNat via `inat_montage.py` — the
+native common yarrow deliberately sourced from **Colorado records** (`place_id=34`). `check_refs` guide-wide PASS;
+`check_citations` on the nine PASS (104 OK / 26 REVIEW / 0 DEAD).
+
 **Trees**
 - River hawthorn (*Crataegus rivularis*) (N) — Thorny native small tree; white spring flowers, dark edible haws, superb wildlife cover. A caterpillar keystone (~90 Lepidoptera). *(Riparian — wants more water; edible haws, spit the cyanogenic seeds.)*
 - Chokecherry (*Prunus virginiana*) (N) — Wildlife powerhouse: fragrant white flower racemes, dark…
@@ -1513,6 +1563,7 @@ Front-Range framing cites).
 - Feather reed grass (*Calamagrostis × acutiflora 'Karl Foerster'*) (I) — The classic vertical accent; sterile (never self-sows), wheat-gold plumes standing all winter.
 
 **Groundcovers**
+- Woolly yarrow (*Achillea tomentosa*) (I) — Flat evergreen carpet of soft woolly silver-grey ferny foliage under short stems of lemon-gold corymbs; a drought-proof lawn substitute that takes light foot traffic. *(Yarrows family card; needs sharp drainage — the wool rots in wet/humid ground, so Boulder's dryness suits it. Caution — not a food.)*
 - Bigroot geranium (*Geranium macrorrhizum*) (I) — Aromatic semi-evergreen dry-shade groundcover; weed-proof mat, magenta spring flowers, red fall foliage. *(Drought-tolerant dry shade.)*
 - Epimedium / barrenwort (*Epimedium grandiflorum*) (I) — The dry-shade champion; spurred spring 'bishop's hat' flowers over heart-shaped leaflets. *(Drought-tolerant once established.)*
 - Bergenia / pigsqueak (*Bergenia cordifolia*) (I) — Bold leathery evergreen leaves bronzing in winter; early-spring pink flowers. *(Dry shade; tannin leaves a historic 'badan' tea, not a food.)*
@@ -1580,6 +1631,14 @@ Front-Range framing cites).
 - Golden banner (*Thermopsis divaricarpa*) (N) — Bright lupine-like spikes of golden pea flowers over blue-green trifoliate foliage; spreads into bold drifts. *(Toxic — alkaloids in foliage/seeds.)*
 
 **Summer forbs**
+- Common yarrow (*Achillea millefolium*) (N) — The wild yarrow: flat white (sometimes pink-flushed) corymbs over ferny aromatic foliage, plains to timberline; drought-proof, deer-proof, a pollinator generalist's buffet. *(Yarrows family card; the guide's first CO-native yarrow. Runs hard by rhizome + self-sows. Caution/edible young leaves & flowers — and the hemlock ID warning matters.)*
+- 'Paprika' yarrow (*Achillea millefolium* 'Paprika') (I) — Brick-red florets each lit by a gold eye, ageing through salmon to buff so one head carries several tones. *(Yarrows family card; the fade is the honest caveat. Divide, don't sow.)*
+- 'Cerise Queen' yarrow (*Achillea millefolium* 'Cerise Queen') (I) — The classic hot-pink yarrow: cerise-magenta florets with pale eyes over ferny grey-green foliage. *(Yarrows family card; notorious for fading to dusty pink — Chicago Botanic Garden's trial rated it lowest of four for fade + flop.)*
+- 'Terracotta' yarrow (*Achillea millefolium* 'Terracotta') (I) — Burnt-orange plates ageing through apricot and copper to buff-cream, several tones at once, almost antique. *(Yarrows family card; the colour shift IS the plant. Photos capped at 5 — see its `gaps` note.)*
+- Summer Pastels yarrow (*Achillea millefolium* Summer Pastels Group) (I) — A seed STRAIN, not a clone: one sowing gives cream, apricot, salmon, pink, rose and lilac together. 1990 AAS winner, bred to hold pastels in heat. *(Yarrows family card; the one yarrow worth raising from seed — but you get a mix, not a chosen colour. Photos colour-representative — see `gaps`.)*
+- 'Cassis' yarrow (*Achillea millefolium* 'Cassis') (I) — The darkest yarrow sold: blackcurrant-crimson heads with tiny pale eyes. *(Yarrows family card; shopped for as "the purple yarrow" but Achillea has NO true purple — RHS calls it deep cherry-red. Photos colour-representative — see `gaps`.)*
+- Fernleaf yarrow (*Achillea filipendulina*) (I) — Architectural: big flat mustard-gold plates on stiff 3–4 ft stems over coarse grey ferny foliage; the classic dried-flower yarrow, standing all winter. *(Yarrows family card; clump-forming, NOT running, unlike common yarrow. Caution — not a food; the culinary record is A. millefolium's.)*
+- Sneezewort (*Achillea ptarmica*) (I) — The odd one out: loose sprays of small round white buttons (double in 'The Pearl') over narrow undivided willow-like leaves — nothing like a yarrow. *(Yarrows family card; the ONE yarrow that is not xeric — damp wild habitat, a real water cost here — and it runs hard; naturalized in ~17 northern states, not CO-listed. NOT sneezeweed (Helenium). Caution — not a food.)*
 - Salad burnet (*Sanguisorba minor*) (I) — The culinary burnet: a low ferny rosette whose young leaves taste of cucumber, under wiry stems carrying small green heads tufted with crimson styles. *(Burnets family card; the ONE genuinely xeric, lime-tolerant burnet — the only one that thrives here — and semi-evergreen through winter. Edible young leaves; wind-pollinated, self-sows freely, and NOT deer-resistant.)*
 - Great burnet (*Sanguisorba officinalis*) (I) — Short dense drumsticks of deep maroon on airy wiry stems midsummer into fall, drying to rusty seedheads with winter structure. *(Burnets family card; a wet-meadow plant with a real water cost here — not xeric; caution/edible young leaves, the root is the medicinal Di Yu; flops in rich soil or shade.)*
 - Japanese burnet (*Sanguisorba obtusa*) (I) — Short, thick, nodding rose-pink bottlebrushes so crowded with stamens they read as soft feathery caterpillars. *(Burnets family card; moisture-lover, wants afternoon shade; inedible. Photos capped — see its `gaps` note.)*

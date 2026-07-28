@@ -1,6 +1,12 @@
 {
   "note": "Display metadata for plant collections (cultivar/genus clusters). MEMBERSHIP lives on each plant.json as `collection:\"<id>\"`; this file only names the group, places it in a home section, picks the lead photo, and gives the blurb. See CLAUDE.md › Collections.",
   "collections": {
+    "yarrows": {
+      "name": "Yarrows",
+      "group": "Summer forbs",
+      "lead": "paprika-yarrow",
+      "blurb": "Achillea — flat-topped yarrows from the CO-native white species through the red, cerise, terracotta and pastel garden cultivars."
+    },
     "burnets": {
       "name": "Burnets",
       "group": "Summer forbs",

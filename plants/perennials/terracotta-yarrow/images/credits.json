@@ -1,0 +1,102 @@
+[
+  {
+    "file": "images/su-close.jpg",
+    "commons_file": "Achillea millefolium 'Terracotta', 2 - geograph.org.uk - 5050175.jpg",
+    "by": "Jonathan Billinger",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Achillea_millefolium_%27Terracotta%27,_2_-_geograph.org.uk_-_5050175.jpg",
+    "dataset": "Wikimedia Commons",
+    "orig_px": [
+      1600,
+      1203
+    ],
+    "full_px": [
+      1500,
+      1128
+    ],
+    "thumb_px": [
+      400,
+      301
+    ]
+  },
+  {
+    "file": "images/su-flower.jpg",
+    "commons_file": "Achillea millefolium 'Terracotta', 1 - geograph.org.uk - 5050171.jpg",
+    "by": "Jonathan Billinger",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Achillea_millefolium_%27Terracotta%27,_1_-_geograph.org.uk_-_5050171.jpg",
+    "dataset": "Wikimedia Commons",
+    "orig_px": [
+      1600,
+      1200
+    ],
+    "full_px": [
+      1500,
+      1125
+    ],
+    "thumb_px": [
+      400,
+      300
+    ]
+  },
+  {
+    "file": "images/su-aged.jpg",
+    "commons_file": "Achillea Terracotta 1zz.jpg",
+    "by": "Photo by David J. Stang",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Achillea_Terracotta_1zz.jpg",
+    "dataset": "Wikimedia Commons",
+    "orig_px": [
+      1000,
+      667
+    ],
+    "full_px": [
+      1000,
+      667
+    ],
+    "thumb_px": [
+      400,
+      267
+    ]
+  },
+  {
+    "file": "images/su-mass.jpg",
+    "commons_file": "Achillea Terracotta 2zz.jpg",
+    "by": "Photo by David J. Stang",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Achillea_Terracotta_2zz.jpg",
+    "dataset": "Wikimedia Commons",
+    "orig_px": [
+      1000,
+      667
+    ],
+    "full_px": [
+      1000,
+      667
+    ],
+    "thumb_px": [
+      400,
+      267
+    ]
+  },
+  {
+    "file": "images/su-context.jpg",
+    "commons_file": "Achillea Terracotta 3zz.jpg",
+    "by": "Photo by David J. Stang",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Achillea_Terracotta_3zz.jpg",
+    "dataset": "Wikimedia Commons",
+    "orig_px": [
+      1000,
+      667
+    ],
+    "full_px": [
+      1000,
+      667
+    ],
+    "thumb_px": [
+      400,
+      267
+    ]
+  }
+]

@@ -1,0 +1,248 @@
+{
+  "common": "'Cassis' yarrow",
+  "botanical": "Achillea millefolium 'Cassis'",
+  "aka": [
+    "Achillea 'Cassis'",
+    "Achillea millefolium 'Cassis'",
+    "Yarrow 'Cassis'",
+    "Cassis yarrow",
+    "'Cassis' common yarrow"
+  ],
+  "type": "Forb",
+  "lifecycle": "Perennial",
+  "native": "Non-native",
+  "collection": "yarrows",
+  "flower_color": [
+    "red"
+  ],
+  "bloom": [
+    "summer",
+    "fall"
+  ],
+  "bloom_season": "Summer",
+  "blurb": "The darkest yarrow you can buy: flat-topped heads of tiny deep cherry-red flowers, each with a tiny pale eye, over the usual ferny aromatic foliage. Cassis is French for blackcurrant, and that wine-dark, blackcurrant-crimson tone is the entire point of the plant. Gardeners shop for it as 'the purple yarrow' — be clear-eyed about that: Achillea has no true purple or blue, and the RHS describes this one plainly as deep cherry-red. It is a saturated wine-magenta, not a violet. Be equally clear-eyed that the colour pales as the heads age, so a mid-season clump is always a mix of near-black-red new flowers and dusky rose old ones. Genuinely xeric, deer-proof, bee-covered, and happiest on the leanest, hottest, driest ground you own.",
+  "size": "~18–30 in tall × 18–24 in wide, the rhizomatous clump widening steadily past that (cut-flower trial stems averaged ~18 in)",
+  "sun": "Full sun — 6+ hours; it stretches, flops and flowers poorly in shade",
+  "water": "Low; xeric once established — a deep soak every 2–3 weeks in summer heat is plenty, and overwatering is the usual killer",
+  "spread": "Clump-forming but rhizomatous — creeps steadily and self-sows; aggressive in rich, moist ground, modest on lean dry soil. Deadhead, and note that any seedlings will not be 'Cassis'",
+  "seasons": "Ferny aromatic green foliage from early spring; flat corymbs of deep cherry-red, pale-eyed flowers from June into September, each head softening toward dusky rose as it ages; foliage dies back after frost, leaving only tan seedheads if the stems are left standing",
+  "wildlife": "An RHS 'Plants for Pollinators' selection — native bees, hoverflies, beneficial wasps and butterflies work the flat landing-pad heads; also a first-rate fresh and dried cut flower",
+  "deer": "Deer- and rabbit-resistant; the aromatic ferny foliage is rarely browsed",
+  "toxic": "Toxic to dogs, cats and horses if eaten (achillein, monoterpenes, sesquiterpene lactones); handling can cause allergic contact dermatitis in susceptible people — wear gloves",
+  "winter": false,
+  "verified": "2026-07-28",
+  "origin": "Garden colour selection of Achillea millefolium, a temperate Eurasian and circumboreal species",
+  "habitat": "Dry meadows, grassland, roadsides and lean, open, well-drained ground",
+  "gaps": "No open-licensed photo of the named 'Cassis' cultivar exists anywhere (Wikimedia Commons, iNaturalist and GBIF all return nothing for it). The reel uses honestly-captioned, colour-matched dark-flowered Achillea millefolium shots — the deep crimson-magenta selections that match the cultivar's described cherry-red to blackcurrant tone — plus foliage frames of the same plants. Every shot is the correct species; none is verified as 'Cassis' itself.",
+  "ph": {
+    "min": 6.0,
+    "ideal": 7.0,
+    "max": 8.0
+  },
+  "care": {
+    "hardiness": "Cold is a non-issue. The species is hardy in USDA zones 3–9, and the RHS gives 'Cassis' its top H7 rating — hardy below −20 °C — so Boulder's zone 5b–6a winters never threaten it.[1][3] It helps that this is a circumboreal plant: MBG gives the species' native range as Europe, western Asia and North America, and NC State the temperate regions of all three, so a cold, continental, semi-arid climate is exactly what it evolved in; 'Cassis' is simply a European garden selection of that species for flower colour.[1][3][4] What it will not take is a wet winter crown — a clump sitting in soggy, compacted clay from November to March rots.[1][3]",
+    "planting": "Set container-grown plants out any time in the growing season, though spring after the mid-May last frost, or early September, gives the coolest and kindest weeks to establish; bare-root divisions go in during spring.[6] Choose the leanest, hottest, best-drained spot you have — CSU lists the yarrows among the perennials that perform at Colorado's lower elevations, and MBG is explicit that this one wants lean, dry-to-medium, well-drained ground in full sun.[3][5] On heavy Front-Range clay, fix the drainage rather than the fertility: coarse grit, a raised bed or a low berm, not a heavy load of compost, which buys exactly the soft floppy growth this plant is already prone to.[3] In a pot it grows easily but is short-lived: use a gritty free-draining mix, expect to water far more often than in the ground through July and August, and either sink the pot or move it somewhere sheltered over winter, since roots in containers are much less cold-hardy than an in-ground crown.[1][6]",
+    "sun": "Full sun, six hours or more of direct light.[4] The RHS calls for an open, sunny position, and growers in the NC State cut-flower trial specifically flagged shade as a problem for this cultivar.[1][2] In part shade the stems stretch and lodge and the colour is poorer, so on the Front Range there is no reason to give it anything but the most open, baked ground you own.[1][2][3]",
+    "soil": "Lean and sharply drained is the whole recipe: MBG calls for lean, dry to medium, well-drained sandy loams and notes it does fine in poor soils provided drainage is adequate.[3] pH is not a worry here — NC State gives a range of 6.0–8.0 and the RHS lists it as happy on acid, neutral or alkaline soils including chalk, so Boulder's alkaline clay is fine as long as water moves through it.[1][4] Rich, moist, heavily amended beds are the classic mistake: they buy lush foliage, floppy stems and a shorter-lived plant.[3][4]",
+    "water": "Low — genuinely xeric once established. MBG rates its need as dry to medium and lists drought and dry soil among its tolerances.[3] Water through the first season to root it in, then back off hard: a deep soak every two to three weeks in the hottest part of a Front-Range summer is plenty, and many established clumps here get nothing at all beyond what falls.[3][6] Overwatering is the usual cause of death — root and stem rot in wet ground — and the second consequence of too much water is a clump that flops open in the middle.[3][4]",
+    "spacing": "Space plants 18–24 in apart and plan for the mature size; CSU's advice is to leave adequate room for growth rather than crowd perennials together.[6] The clump will close those gaps on its own, since it creeps by rhizome, so err toward the wider spacing.[4] Air moving through the planting also helps keep off the powdery mildew the RHS lists among its susceptibilities.[1]",
+    "propagation": "Division in spring is the method — it is what the RHS lists for 'Cassis', and MBG advises dividing every two to three years anyway to maintain vigour, so propagation and routine upkeep are the same job.[1][3] Lift the clump, discard the tired woody centre, and replant vigorous outer pieces with roots attached. Seed is a different animal. 'Cassis' does exist as a commercial seed strain — the NC State cut-flower trial raised it from seed and found it very fast, flowering in the first year when sown early — but a seed-raised population varies, and volunteer seedlings in your own beds are open-pollinated crosses that will not repeat this plant's dark colour.[2][4] If you want this exact wine-red, divide it; sow seed only if you are happy with whatever yarrow turns up.[1][2]",
+    "bloom": "Flat-topped corymbs of tiny, white-centred, deep cherry-red flowers from early summer into autumn — roughly June through September here.[1][3] Two honest notes about that colour. First, it is red, not purple: 'Cassis' is the darkest, most blackcurrant-saturated common yarrow on the market and it reads wine-crimson, but the genus has no true violet or blue, and the RHS describes the flower simply as deep cherry-red.[1][4] Second, it fades. Growers in the NC State cut-flower trial listed fading among the cultivar's drawbacks, and softening with age is characteristic of coloured common-yarrow selections generally — the Chicago Botanic Garden records the same of 'Lilac Beauty', whose rosy lilac ages to pink lilac.[2][7] What you actually see over a Boulder summer is a shifting two-tone clump: fresh near-black-red heads alongside older, dustier rose-pink ones. Deadheading is the lever — the RHS notes it may encourage repeat flowering, and it keeps fresh dark heads coming instead of letting the whole clump drift pale.[1][4]",
+    "feeding": "Don't. This is a lean-soil plant that flowers best on poor ground, and MBG's warning that the stems lodge easily is a direct consequence of soft, well-fed growth.[3] On a genuinely impoverished site a spring topdressing of compost is more than enough; nitrogen fertilizer buys flop, not flowers.[3][4]",
+    "maintenance": "Deadhead spent corymbs through the season, both for repeat bloom and to stop it seeding itself around.[1][4] Cutting the stems back before flowering reduces the ultimate height if you want a tighter plant, and shearing after the main flush encourages a second round.[3] Growers in the cut-flower trial found the stems strong and needed no support — but that was lean ground in full sun; a fed, shaded, over-watered clump will want a grow-through hoop set in late spring.[2][3] Divide every two to three years, discarding the woody centre, to keep it vigorous and keep it from wandering.[1][3] The RHS suggests cutting back untidy foliage in spring; leave the tan seedheads standing over winter if you like the structure, in keeping with CSU's lighter-touch approach to fall cleanup except where disease is present.[1][6]",
+    "troubles": "Genuinely easy — the cut-flower trial reported no disease or insect problems on 'Cassis'.[2] What does go wrong: powdery mildew and aphids (both listed by the RHS), stem rot and rust in wet or crowded conditions, and stems lodging after storms.[1][3] The bigger issue on the Front Range is behavioural rather than pathological — NC State flags common yarrow as spreading aggressively by rhizomes and seed and too aggressive for a tidy border edge, and CSU likewise notes that the yarrows spread quickly.[4][5] Lean, dry, unfertilized ground plus a hard division every couple of years keeps it in bounds; rich moist soil turns it into a problem. Handling the foliage can raise a rash in susceptible people, so wear gloves when you cut or divide.[4][8]",
+    "companions": "Everything else on the hot, dry, unirrigated side of the garden — Russian sage, catmint, meadow sage, penstemon, blue grama and little bluestem, ornamental alliums, prairie zinnia, hardy ice plant — plants that want the same lean soil and the same very small amount of water.[3][5] The dark wine heads are a genuinely useful foil for silver foliage and for the yellows and blues that dominate xeric planting, and it is a first-rate fresh and dried cut flower, so put it where you can reach it with scissors.[1][5] Keep it out of rich, irrigated borders, where it both flops and runs.[3][4]"
+  },
+  "edible": {
+    "level": "caution",
+    "food": true,
+    "kinds": [
+      "leaves",
+      "flowers"
+    ],
+    "card": "Young leaves & flowers, bitter — a flavouring, not a vegetable",
+    "summary": "Yarrow leaves and flowers are a long-documented bitter culinary and tea herb — NC State says plainly they can be eaten raw or cooked in moderation — but this is an ornamental colour selection, and the plant carries real cautions: thujone, Asteraceae allergy, pregnancy, pets, and a family resemblance to two of North America's deadliest wild plants.[4][8][11]",
+    "parts": "The leaves and flowers are the edible parts: bitter, and used in small quantities in salads and to make teas.[4] Yarrow flower and herb are also recognised traditional herbal medicines in Europe for temporary loss of appetite and mild digestive complaints, which is the register to think of them in — a bitter flavouring and a tea, not a vegetable.[9] Young spring leaves picked before the plant flowers are the mildest.[4] There is nothing special about 'Cassis' here: it is a colour selection of the same species, and no authority documents any culinary property unique to it.[1][4]",
+    "preparation": "Use a few young leaves raw in a mixed salad, or dry the leaves and flowers and steep them as a tea; the bitterness means a little goes a long way, and steeping or cooking mellows it.[4] Treat it at the scale of a herb garnish rather than a salad base, and stop at the first sign of any reaction.[4][9] Because it is grown as an ornamental, harvest only from plants you raised yourself and know to be unsprayed — nursery bedding, garden-centre stock and cut-flower material are routinely treated with pesticides that are not cleared for food crops.[4]",
+    "caution": "Read all of this before eating any of it. Identification is the real hazard: yarrow's finely dissected, fern-like foliage looks a great deal like poison hemlock (Conium maculatum), whose leaves Jefferson County, Colorado describes as shiny, green and finely divided, and which is a Colorado List C noxious weed found along streams, ditch banks and pasture edges across the state.[13] All parts of poison hemlock are poisonous; USDA ARS calls it extremely poisonous to humans, its coniine and related piperidine alkaloids causing trembling, loss of coordination and death by respiratory paralysis, and notes it is routinely confused with parsley and other harmless look-alikes.[11][13] Water hemlock (Cicuta species) is worse still — USDA ARS calls it the most violently toxic plant that grows in North America, its cicutoxin causing violent convulsions and death within minutes of a lethal dose, and it too is confused with other plants.[12] Both grow wild in Colorado. So: never eat lacy-leaved foliage gathered from the wild, and eat only from a yarrow you planted yourself and can identify with certainty — yarrow's leaves are soft, hairy and sweetly aromatic when crushed and its stems are solid, while hemlock's stems are hollow and blotched with purple and its flowers are white umbels.[11][13] Thujone and pregnancy: yarrow's essential oil contains alpha-thujone, which the EMA records as a trace component (about 0.3% of the oil) at concentrations too low to present a risk in normal use, but the same assessment records the long-standing view that yarrow should not be taken during pregnancy — it is reputed to be an abortifacient and to affect the menstrual cycle — and concludes that for lack of adequate data its use in pregnancy and lactation is not recommended.[8] Do not use it if you are pregnant or nursing. Allergy is the best-documented risk: the EMA identifies the sesquiterpene lactone alpha-peroxyachifolid as a strong sensitiser and the cause of the allergic contact dermatitis yarrow is known for, and European regulators contraindicate yarrow preparations outright for anyone hypersensitive to yarrow or to other plants of the Asteraceae (Compositae) family — ragweed, chamomile, arnica, marigold.[8][9] If you react to daisies, do not eat this. Simply handling the plant can raise a rash, so wear gloves when cutting or dividing it, which is NC State's advice as well.[4] On photosensitivity, be precise: yarrow is often listed as a photosensitiser, but the testing the EMA reviewed found that alcoholic extracts of its dried leaves and stalks did not produce a phototoxic response, so treat sun-exposed skin contact as a sensible precaution rather than a proven hazard, and treat the allergic dermatitis as the documented one.[8] Pets: the ASPCA lists yarrow as toxic to dogs, cats and horses — the toxic principles being glycoalkaloids (achillein), monoterpenes and sesquiterpene lactones (achillin) — with vomiting, diarrhoea, colic, drooling, anorexia, dermatitis and depression among the signs, so site it away from animals that graze the borders.[10]"
+  },
+  "references": [
+    {
+      "name": "Royal Horticultural Society — Achillea millefolium 'Cassis' (yarrow 'Cassis')",
+      "url": "https://www.rhs.org.uk/plants/177522/achillea-millefolium-cassis/details"
+    },
+    {
+      "name": "NC State Extension Specialty Crops Program — ASCFG cut flower trial: Achillea millefolium 'Cassis'",
+      "url": "https://cutflowers.ces.ncsu.edu/achillea-millefolium-cassis/"
+    },
+    {
+      "name": "Missouri Botanical Garden Plant Finder — Achillea millefolium",
+      "url": "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=277129"
+    },
+    {
+      "name": "NC State Extension Gardener Plant Toolbox — Achillea millefolium",
+      "url": "https://plants.ces.ncsu.edu/plants/achillea-millefolium/"
+    },
+    {
+      "name": "Colorado State University Extension — Herbaceous Perennials (recommended perennials for Colorado's lower elevations)",
+      "url": "https://extension.colostate.edu/resource/herbaceous-perennials/"
+    },
+    {
+      "name": "Colorado State University Extension — Perennial Gardening",
+      "url": "https://extension.colostate.edu/resource/perennial-gardening/"
+    },
+    {
+      "name": "Chicago Botanic Garden Plant Finder — Achillea millefolium 'Lilac Beauty' (colour fading in coloured yarrow cultivars)",
+      "url": "https://www.chicagobotanic.org/plant-information/plant-finder/achillea-millefolium-lilac-beauty-common-yarrow"
+    },
+    {
+      "name": "European Medicines Agency (HMPC) — Assessment report on Achillea millefolium L., flos",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-report/draft-assessment-report-achillea-millefolium-l-flos_en.pdf"
+    },
+    {
+      "name": "European Medicines Agency — Yarrow (Millefolii herba) herbal medicine summary",
+      "url": "https://www.ema.europa.eu/en/medicines/herbal/millefolii-herba"
+    },
+    {
+      "name": "ASPCA Animal Poison Control — Yarrow (Achillea millefolium)",
+      "url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/yarrow"
+    },
+    {
+      "name": "USDA ARS Poisonous Plant Research Laboratory — Poison hemlock (Conium maculatum)",
+      "url": "https://www.ars.usda.gov/pacific-west-area/logan-ut/poisonous-plant-research/docs/poison-hemlock-conium-maculatum/"
+    },
+    {
+      "name": "USDA ARS Poisonous Plant Research Laboratory — Water hemlock (Cicuta douglasii)",
+      "url": "https://www.ars.usda.gov/pacific-west-area/logan-ut/poisonous-plant-research/docs/water-hemlock-cicuta-douglasii/"
+    },
+    {
+      "name": "Jefferson County, Colorado — Poison Hemlock (Colorado noxious weed List C)",
+      "url": "https://www.jeffco.us/2230/Poison-Hemlock"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "sun": [
+      1,
+      2,
+      4
+    ],
+    "water": [
+      3
+    ],
+    "spread": [
+      3,
+      4,
+      5
+    ],
+    "seasons": [
+      1,
+      2,
+      3,
+      7
+    ],
+    "wildlife": [
+      1,
+      3,
+      4
+    ],
+    "deer": [
+      3,
+      4
+    ],
+    "toxic": [
+      4,
+      10
+    ],
+    "ph": [
+      1,
+      4
+    ],
+    "origin": [
+      1,
+      3,
+      4
+    ],
+    "habitat": [
+      3,
+      4
+    ]
+  },
+  "shots": [
+    {
+      "local": "images/su-close-t.jpg",
+      "full": "images/su-close.jpg",
+      "commons": "Achillea millefolium (red beauty common yarrow) 1 (27682373759).jpg",
+      "s": "summer",
+      "cap": "Summer — deep crimson-magenta florets, each with the pale eye that marks the dark millefolium selections · © James St. John (CC BY 2.0) / Wikimedia Commons",
+      "by": "James St. John",
+      "lic": "CC BY 2.0",
+      "link": "https://commons.wikimedia.org/wiki/File:Achillea_millefolium_(red_beauty_common_yarrow)_1_(27682373759).jpg"
+    },
+    {
+      "local": "images/su-flower-t.jpg",
+      "full": "images/su-flower.jpg",
+      "commons": "Achillea millefolium (red beauty common yarrow) 3 (25589588318).jpg",
+      "s": "summer",
+      "cap": "Summer — a dense dark head at full colour · © James St. John (CC BY 2.0) / Wikimedia Commons",
+      "by": "James St. John",
+      "lic": "CC BY 2.0",
+      "link": "https://commons.wikimedia.org/wiki/File:Achillea_millefolium_(red_beauty_common_yarrow)_3_(25589588318).jpg"
+    },
+    {
+      "local": "images/su-dark-t.jpg",
+      "full": "images/su-dark.jpg",
+      "commons": "Achillea millefolium pomegranate, Achillée millefeuille rouge, Forest-M., 80-Fr.jpg",
+      "s": "summer",
+      "cap": "Summer — the deepest, most saturated wine tone these selections reach · © APictche (CC BY-SA 4.0) / Wikimedia Commons",
+      "by": "APictche",
+      "lic": "CC BY-SA 4.0",
+      "link": "https://commons.wikimedia.org/wiki/File:Achillea_millefolium_pomegranate,_Achill%C3%A9e_millefeuille_rouge,_Forest-M.,_80-Fr.jpg"
+    },
+    {
+      "local": "images/su-mass-t.jpg",
+      "full": "images/su-mass.jpg",
+      "commons": "Achillea millefolium (red beauty common yarrow) 2 (38580956105).jpg",
+      "s": "summer",
+      "cap": "Summer — dark heads carried on wiry stems above the foliage · © James St. John (CC BY 2.0) / Wikimedia Commons",
+      "by": "James St. John",
+      "lic": "CC BY 2.0",
+      "link": "https://commons.wikimedia.org/wiki/File:Achillea_millefolium_(red_beauty_common_yarrow)_2_(38580956105).jpg"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "commons": "Achillea millefolium (red beauty common yarrow) 5 (39459905551).jpg",
+      "s": "summer",
+      "cap": "Summer — the finely dissected aromatic foliage, with dark flowers behind · © James St. John (CC BY 2.0) / Wikimedia Commons",
+      "by": "James St. John",
+      "lic": "CC BY 2.0",
+      "link": "https://commons.wikimedia.org/wiki/File:Achillea_millefolium_(red_beauty_common_yarrow)_5_(39459905551).jpg"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "commons": "Achillea millefolium (red beauty common yarrow) 4 (38751349744).jpg",
+      "s": "summer",
+      "cap": "Summer — the leafy stems a flowering clump is built from · © James St. John (CC BY 2.0) / Wikimedia Commons",
+      "by": "James St. John",
+      "lic": "CC BY 2.0",
+      "link": "https://commons.wikimedia.org/wiki/File:Achillea_millefolium_(red_beauty_common_yarrow)_4_(38751349744).jpg"
+    },
+    {
+      "local": "images/su-leaf-t.jpg",
+      "full": "images/su-leaf.jpg",
+      "commons": "Achillea millefolium (red beauty common yarrow) 6 (25589550948).jpg",
+      "s": "summer",
+      "cap": "Summer — the ferny leaf in close detail · © James St. John (CC BY 2.0) / Wikimedia Commons",
+      "by": "James St. John",
+      "lic": "CC BY 2.0",
+      "link": "https://commons.wikimedia.org/wiki/File:Achillea_millefolium_(red_beauty_common_yarrow)_6_(25589550948).jpg"
+    }
+  ]
+}

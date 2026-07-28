@@ -1,0 +1,162 @@
+[
+  {
+    "file": "images/su-close.jpg",
+    "commons_file": "Die Schafgarbe, lat. Achillea millefolium, 'Cerise Queen' 05.jpg",
+    "by": "Plenuska",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Die_Schafgarbe,_lat._Achillea_millefolium,_%27Cerise_Queen%27_05.jpg",
+    "dataset": "Wikimedia Commons",
+    "orig_px": [
+      3265,
+      2449
+    ],
+    "full_px": [
+      1500,
+      1125
+    ],
+    "thumb_px": [
+      400,
+      300
+    ]
+  },
+  {
+    "file": "images/su-flower.jpg",
+    "commons_file": "Die Schafgarbe, lat. Achillea millefolium, 'Cerise Queen' 07.jpg",
+    "by": "Plenuska",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Die_Schafgarbe,_lat._Achillea_millefolium,_%27Cerise_Queen%27_07.jpg",
+    "dataset": "Wikimedia Commons",
+    "orig_px": [
+      3464,
+      2309
+    ],
+    "full_px": [
+      1500,
+      1000
+    ],
+    "thumb_px": [
+      400,
+      267
+    ]
+  },
+  {
+    "file": "images/su-mass.jpg",
+    "commons_file": "Die Schafgarbe, lat. Achillea millefolium, 'Cerise Queen' 06.jpg",
+    "by": "Plenuska",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Die_Schafgarbe,_lat._Achillea_millefolium,_%27Cerise_Queen%27_06.jpg",
+    "dataset": "Wikimedia Commons",
+    "orig_px": [
+      3265,
+      2449
+    ],
+    "full_px": [
+      1500,
+      1125
+    ],
+    "thumb_px": [
+      400,
+      300
+    ]
+  },
+  {
+    "file": "images/su-fade.jpg",
+    "commons_file": "Die Schafgarbe, lat. Achillea millefolium, 'Cerise Queen' 08.jpg",
+    "by": "Plenuska",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Die_Schafgarbe,_lat._Achillea_millefolium,_%27Cerise_Queen%27_08.jpg",
+    "dataset": "Wikimedia Commons",
+    "orig_px": [
+      3265,
+      2449
+    ],
+    "full_px": [
+      1500,
+      1125
+    ],
+    "thumb_px": [
+      400,
+      300
+    ]
+  },
+  {
+    "file": "images/su-faded.jpg",
+    "commons_file": "Achillea millefolium 'Cerise Queen' JRVdH 01.jpg",
+    "by": "Cephas",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Achillea_millefolium_%27Cerise_Queen%27_JRVdH_01.jpg",
+    "dataset": "Wikimedia Commons",
+    "orig_px": [
+      5472,
+      3648
+    ],
+    "full_px": [
+      1500,
+      1000
+    ],
+    "thumb_px": [
+      400,
+      267
+    ]
+  },
+  {
+    "file": "images/su-foliage.jpg",
+    "commons_file": "Die Schafgarbe, lat. Achillea millefolium, 'Cerise Queen' 03.jpg",
+    "by": "Plenuska",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Die_Schafgarbe,_lat._Achillea_millefolium,_%27Cerise_Queen%27_03.jpg",
+    "dataset": "Wikimedia Commons",
+    "orig_px": [
+      3265,
+      2449
+    ],
+    "full_px": [
+      1500,
+      1125
+    ],
+    "thumb_px": [
+      400,
+      300
+    ]
+  },
+  {
+    "file": "images/su-habit.jpg",
+    "commons_file": "Die Schafgarbe, lat. Achillea millefolium, 'Cerise Queen' 02.jpg",
+    "by": "Plenuska",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Die_Schafgarbe,_lat._Achillea_millefolium,_%27Cerise_Queen%27_02.jpg",
+    "dataset": "Wikimedia Commons",
+    "orig_px": [
+      3265,
+      2449
+    ],
+    "full_px": [
+      1500,
+      1125
+    ],
+    "thumb_px": [
+      400,
+      300
+    ]
+  },
+  {
+    "file": "images/su-context.jpg",
+    "commons_file": "Die Schafgarbe, lat. Achillea millefolium, 'Cerise Queen' 10.jpg",
+    "by": "Plenuska",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Die_Schafgarbe,_lat._Achillea_millefolium,_%27Cerise_Queen%27_10.jpg",
+    "dataset": "Wikimedia Commons",
+    "orig_px": [
+      2449,
+      3265
+    ],
+    "full_px": [
+      1125,
+      1500
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  }
+]

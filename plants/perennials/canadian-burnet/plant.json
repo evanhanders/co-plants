@@ -1,0 +1,241 @@
+{
+  "common": "Canadian burnet",
+  "botanical": "Sanguisorba canadensis",
+  "aka": [
+    "White burnet",
+    "American burnet",
+    "Canada burnet"
+  ],
+  "type": "Forb",
+  "lifecycle": "Perennial",
+  "native": "Non-native",
+  "collection": "burnets",
+  "flower_color": [
+    "white"
+  ],
+  "bloom": [
+    "summer",
+    "fall"
+  ],
+  "bloom_season": "Fall",
+  "blurb": "The tallest and latest of the burnets — stout stems carrying long, slender creamy-white bottlebrush candles that open from the bottom up in late summer and hold into October, over big blue-green pinnate leaves. A genuine bog and wet-meadow plant that feeds bees when almost nothing else is left in bloom.",
+  "size": "~3–5 ft tall × 2–3 ft wide (to 6 ft tall in constantly wet, rich ground)",
+  "sun": "Full sun (light afternoon shade is helpful here)",
+  "water": "High — moist to wet soil, not for dry zones",
+  "spread": "Clumping from a thick rhizome; slowly widens in damp ground rather than running",
+  "seasons": "Big blue-green pinnate leaves through spring and summer; creamy-white bottlebrush spikes from late summer into October; dies to the ground after hard frost with little winter presence",
+  "wildlife": "Abundant late-season pollen and nectar for bumble bees and other native bees; also draws butterflies",
+  "deer": "Deer-resistant",
+  "toxic": "No documented toxicity, but burnets irritate some people — an ornamental, not a food",
+  "winter": false,
+  "verified": "2026-07-28",
+  "origin": "Eastern & northern N. America (Labrador to Manitoba, south to Georgia) — a North American native, but NOT a Colorado or Front-Range native",
+  "habitat": "Bogs, fens, swamps, wet meadows and seepy river shores, in full sun",
+  "ph": {
+    "min": 5.0,
+    "ideal": 6.5,
+    "max": 7.8
+  },
+  "care": {
+    "hardiness": "Cold is a non-issue: Chicago Botanic Garden rates it USDA 3–7 and the NC State toolbox lists zones 4a–6b, so Boulder's 5b–6a winters are comfortably inside its range.[7][2] It dies to the ground each winter and resprouts from a thick rhizome in spring.[5] What limits it here is not cold but summer drought — see Water.",
+    "planting": "Set container plants out in spring once the ground has warmed and the mid-May frost risk has passed, so the crown roots in over the whole season; CSU rates spring the right window for perennials on the Front Range, with fall plantings needing to go in early enough to establish before dormancy.[9] Site it where water actually collects — the bottom of a downspout run, a rain-garden basin, a pond or ditch edge, or a bed on its own dedicated drip zone.[2] In a pot it needs a large container, a moisture-holding mix and near-daily summer water; it is a poor fit for the dry, sharply-drained containers most gardeners use here, and the same summer heat that dries a pot in an afternoon is exactly what it cannot tolerate.[2][9]",
+    "sun": "Full sun gives the sturdiest stems and the heaviest bloom — the USDA Forest Service notes it thrives in full sun like most prairie plants, and Chicago Botanic Garden lists it as a full-sun perennial.[1][7] It will also take light shade, which is genuinely useful at 5,300 ft: an hour or two of afternoon shade under Boulder's intense high-altitude sun measurably cuts the water it demands without costing much bloom.[10]",
+    "soil": "It wants deep, consistently damp soil rich in organic matter — NC State lists 'high organic matter' as its soil preference and rates it tolerant of frequent standing water and occasional flooding.[2] Soil pH is not the obstacle you might expect from a bog plant: in the wild it grows both in acid peat and on calcareous, mafic and ultramafic seeps and fens, and it is reported tolerant of mildly acid through mildly alkaline soils, so Boulder's alkaline clay pH is fine.[5][6][10] What matters is water-holding capacity. Work generous organic matter deep into the bed — CSU suggests roughly 3 cubic yards per 1,000 sq ft incorporated 12 in deep — and, contrary to almost every other plant in this guide, pick the heaviest, slowest-draining spot in the yard rather than a sharply-drained one.[9]",
+    "water": "This is the thirstiest plant of the burnet group and the honest sticking point on the Front Range. It is a facultative-wetland species of bogs, fens, swamps, wet meadows and seepy shores, and NC State rates it tolerant of frequent standing water and occasional flooding.[4][6][2] In Boulder's semi-arid climate that means it needs a genuinely wet site or deliberate, frequent irrigation from May to frost — it will not carry itself on rainfall, and it does not belong in a xeric bed or a low-water zone.[2][4] Do not plant it and hope it adapts; it does not. Give it winter water on thawed days between November and February when snow cover is thin, as CSU advises for perennials here.[9]",
+    "spacing": "Space plants about 2–3 ft apart — the leafy clump is roughly that wide, with flower stems rising 3–5 ft above it.[1][10] CSU's advice for perennial beds applies: lay plants out on staggered, triangular spacing with room for mature size, which keeps air moving and stops the tall stems leaning into one another.[9] Put it toward the back of a border; in a rain garden it belongs on the damp shoulder or in the basin itself.[2]",
+    "propagation": "Divide established clumps, or take root or stem cuttings — those are the three vegetative methods NC State lists for this species.[2] CSU's general perennial cadence fits: lift and divide every three to five seasons once a clump crowds, splitting it into four or five new plants, and divide a late-blooming perennial like this one in spring before growth starts.[9] Seed is the other route (below). Buy nursery-propagated stock and never dig wild plants: this species is listed as threatened or endangered in nine US states at the edges of its range, and is ranked S1 (critically imperiled) and state-Threatened in Maine.[1][5]",
+    "sow": "Sow onto a moist, well-firmed medium and keep it consistently damp. Germination research on the genus found Canadian burnet germinates rapidly and completely at a constant 24–25 °C (75–77 °F), and that neither light nor removing the dry calyx hull around the seed made any difference to the outcome.[8] Sow in flats indoors in late winter under warmth and grow the seedlings on, or sow into a prepared damp bed outdoors in fall; either way transplant out after the mid-May frost date.[8][9] Keep flats and seedbeds from ever drying — this is not a plant that forgives a missed watering at any stage.[2]",
+    "stratify": "No cold-moist stratification is required. The Native Plants Journal germination study found S. canadensis germinated quickly and completely at warm temperatures with no pretreatment, and that dry cold storage at 4 °C for six months — or even a full year — did not change germination percentages; what it does need is warmth, showing little or no germination at 5 °C and under 50 % above 30 °C.[8] An outdoor winter sowing works fine, but understand that the cold is not doing the work here — the warmth of late spring is.",
+    "bloom": "Creamy-white bottlebrush candles, 2–8 in long, open from the bottom of each spike upward, the long protruding stamens giving them a fuzzy look.[1][2] It is one of the last things standing in flower — bloom runs roughly July–August into September and October depending on the season and site, and the Forest Service calls it one of the last flowers to bloom in the northern part of its range.[7][5][1] That lateness is the entire reason to grow it: it puts abundant pollen and nectar in front of bees at a point in the season when little else is left.[1]",
+    "feeding": "It needs very little fertilizer — the organic matter you added to hold moisture does most of the work.[2][9] A spring topdressing of compost is plenty; pushing it with nitrogen just produces soft, over-tall growth that flops on 5 ft stems.",
+    "maintenance": "Mulch, and mulch generously — conserving soil moisture is the single most useful thing you can do for this plant on the Front Range — then keep the root zone damp all summer.[9][2] Leave the spent flower spikes and stems standing into winter for structure and for the birds, and cut the whole plant to the ground in early spring; CSU now recommends early-spring trimming over a hard fall cleanup, which also leaves cover for overwintering pollinators.[9] In an exposed, windy spot the tall stems may need staking or the support of close neighbours.[9]",
+    "troubles": "The realistic failure mode here is drought. A dry week or two in July scorches the foliage and cuts the bloom short, and a plant that dries out repeatedly simply declines — this is a plant of frequently-saturated ground, not a plant that 'prefers moisture'.[2][4][6] Beyond that it is trouble-free: NC State lists no pest or disease problems for it.[2] Its other real problem is siting — drop it into an ordinary Front Range perennial bed on normal irrigation and it will disappoint, so commit to a wet spot or skip it.[2]",
+    "companions": "Group it with the other genuinely moisture-loving plants in this guide so one irrigation zone serves the whole planting rather than fighting a xeric neighbour: swamp milkweed, Rocky Mountain iris and red-twig dogwood all share its full-sun, consistently-damp requirement.[2][4] It reads best as a see-through, late-season scrim at the back of a border, a pond edge or a rain garden — NC State lists it for native and rain gardens, Chicago Botanic Garden for beds and borders.[2][7]"
+  },
+  "edible": {
+    "level": "inedible",
+    "summary": "No documented food use — Canadian burnet is grown as an ornamental and a late-season pollinator plant, not as an edible.[1][3]",
+    "caution": "Do not confuse this with salad burnet (Sanguisorba minor), the cucumber-flavoured culinary herb — that is a different species, and no trusted authority documents S. canadensis as a food plant.[1][3] Both the USDA Forest Service and the Lady Bird Johnson Wildflower Center warn that some people are sensitive to burnets, with sensitivity varying by age, weight, physical condition and individual susceptibility, and the Forest Service adds that some believe parts of this plant can be poisonous.[1][3] One hobbyist plant database lists a marginal East-Asian use of boiled, leached young leaves and rates its edibility at the lowest level, but that is uncorroborated by any authority for this species and is not a basis for eating it.[10] Treat it as inedible: it is not known to be dangerously poisonous, but there is no reliable documented food use to recommend. Wild plants are rare and state-listed as threatened or endangered in nine US states, so they should never be collected.[1][5]"
+  },
+  "references": [
+    {
+      "name": "USDA Forest Service — Celebrating Wildflowers: American Burnet (Sanguisorba canadensis)",
+      "url": "https://www.fs.usda.gov/wildflowers/plant-of-the-week/sanguisorba_canadensis.shtml"
+    },
+    {
+      "name": "NC State Extension Gardener Plant Toolbox — Sanguisorba canadensis",
+      "url": "https://plants.ces.ncsu.edu/plants/sanguisorba-canadensis/"
+    },
+    {
+      "name": "Lady Bird Johnson Wildflower Center — Sanguisorba canadensis (Canadian burnet)",
+      "url": "https://www.wildflower.org/plants/result.php?id_plant=SACA14"
+    },
+    {
+      "name": "Go Botany, Native Plant Trust — Sanguisorba canadensis (Canada burnet)",
+      "url": "https://gobotany.nativeplanttrust.org/species/sanguisorba/canadensis/"
+    },
+    {
+      "name": "Maine Natural Areas Program — Rare Plant Fact Sheet: Sanguisorba canadensis",
+      "url": "https://www.maine.gov/dacf/mnap/features/sancan.htm"
+    },
+    {
+      "name": "Flora of the Southeastern United States (UNC Chapel Hill / NC Botanical Garden) — Sanguisorba canadensis",
+      "url": "https://fsus.ncbg.unc.edu/main.php?pg=show-taxon.php&parentid=65705"
+    },
+    {
+      "name": "Chicago Botanic Garden Plant Finder — Sanguisorba canadensis (Canada burnet)",
+      "url": "https://www.chicagobotanic.org/plant-information/plant-finder/sanguisorba-canadensis-canada-burnet"
+    },
+    {
+      "name": "Holloway & Matheke, \"Seed germination of burnet, Sanguisorba spp.\" — Native Plants Journal (USDA-FS Reforestation, Nurseries & Genetic Resources)",
+      "url": "https://rngr.net/npn/journal/articles/seed-germination-of-burnet-sanguisorba-spp"
+    },
+    {
+      "name": "CSU Extension — Perennial Gardening (fact sheet 7.402)",
+      "url": "https://extension.colostate.edu/topic-areas/yard-garden/perennial-gardening-7-402/"
+    },
+    {
+      "name": "Plants For A Future — Sanguisorba canadensis (corroboration only)",
+      "url": "https://pfaf.org/user/Plant.aspx?LatinName=Sanguisorba+canadensis"
+    },
+    {
+      "name": "USDA NRCS PLANTS Database — Sanguisorba canadensis L. (SACA14)",
+      "url": "https://plants.usda.gov/plant-profile/SACA14"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      1,
+      6,
+      10
+    ],
+    "sun": [
+      1,
+      7,
+      10
+    ],
+    "water": [
+      2,
+      4,
+      6
+    ],
+    "spread": [
+      4,
+      5
+    ],
+    "seasons": [
+      1,
+      2,
+      7
+    ],
+    "wildlife": [
+      1,
+      2,
+      7
+    ],
+    "deer": [
+      2
+    ],
+    "toxic": [
+      1,
+      3
+    ],
+    "ph": [
+      5,
+      6,
+      10
+    ],
+    "origin": [
+      1,
+      3,
+      11
+    ],
+    "habitat": [
+      1,
+      4,
+      6
+    ]
+  },
+  "shots": [
+    {
+      "local": "images/fa-close-t.jpg",
+      "full": "images/fa-close.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/252672870/large.jpeg",
+      "s": "fall",
+      "cap": "Late summer — long creamy-white bottlebrush candles arching against the sky · © Mark Kluge (CC-BY-NC) / iNaturalist",
+      "by": "Mark Kluge",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/146901538"
+    },
+    {
+      "local": "images/fa-flower-t.jpg",
+      "full": "images/fa-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/427309629/large.jpeg",
+      "s": "fall",
+      "cap": "Late summer — white candles opening from the bottom up · © Clay Gibbons (CC-BY) / iNaturalist",
+      "by": "Clay Gibbons",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/239888983"
+    },
+    {
+      "local": "images/fa-mass-t.jpg",
+      "full": "images/fa-mass.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/5380223/large.jpg",
+      "s": "fall",
+      "cap": "Late summer — a colony in full bloom, the tallest and latest of the burnets · © no rights reserved (CC0) / iNaturalist",
+      "by": "no rights reserved",
+      "lic": "CC0",
+      "link": "https://www.inaturalist.org/observations/4461668"
+    },
+    {
+      "local": "images/fa-context-t.jpg",
+      "full": "images/fa-context.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/227240344/large.jpg",
+      "s": "fall",
+      "cap": "Late summer — white spires among late-season yellow composites · © Grant Fessler (CC-BY-NC) / iNaturalist",
+      "by": "Grant Fessler",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/133410679"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/137052015/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — the big pinnate leaflets, coarsely toothed and blue-green · © Erin Haase (CC-BY-NC) / iNaturalist",
+      "by": "Erin Haase",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/83447416"
+    },
+    {
+      "local": "images/fa-far-t.jpg",
+      "full": "images/fa-far.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/181316403/large.jpg",
+      "s": "fall",
+      "cap": "Late summer — a wet-meadow stand read from a distance · © Joe (CC-BY-NC) / iNaturalist",
+      "by": "Joe",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/107766295"
+    },
+    {
+      "local": "images/fa-seed-t.jpg",
+      "full": "images/fa-seed.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/96936847/large.jpg",
+      "s": "fall",
+      "cap": "Fall — the spent flower spike ripening into dry seed · © no rights reserved (CC0) / iNaturalist",
+      "by": "no rights reserved",
+      "lic": "CC0",
+      "link": "https://www.inaturalist.org/observations/60614239"
+    },
+    {
+      "local": "images/fa-structure-t.jpg",
+      "full": "images/fa-structure.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/440993798/large.jpeg",
+      "s": "fall",
+      "cap": "Late fall — bare seedhead stalks still standing after bloom · © daisyfrabell (CC-BY-NC) / iNaturalist",
+      "by": "daisyfrabell",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/246968878"
+    }
+  ]
+}

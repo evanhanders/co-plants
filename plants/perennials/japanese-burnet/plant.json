@@ -34,6 +34,7 @@
   "verified": "2026-07-28",
   "origin": "Japan — the mountains of Honshu",
   "habitat": "Damp alpine and mountain meadows in cool, humus-rich ground",
+  "gaps": "Open-licensed photography of Sanguisorba obtusa is genuinely scarce — only about a dozen CC-licensed photos of the species exist worldwide on iNaturalist, and CC searches for \"burnet\" are dominated by S. officinalis and S. hakusanensis. The reel is therefore capped at seven summer shots: every photo was verified against the species' short, thick, nodding rose-pink brushes and blunt-toothed pinnate leaflets, but no open-licensed fall, winter or seedhead shot of this species exists to add. Not an oversight — a known supply limit; re-query and append with gbif_add.py if one ever surfaces.",
   "ph": {
     "min": 5.5,
     "ideal": 6.5,
@@ -138,5 +139,77 @@
     "habitat": [
       7
     ]
-  }
+  },
+  "shots": [
+    {
+      "local": "images/su-close-t.jpg",
+      "full": "images/su-close.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/147312521/large.jpg",
+      "s": "summer",
+      "cap": "Late summer — the short, thick nodding brush of rose-pink flowers, soft with long stamens · © valkyrieblaze (CC-BY-NC) / iNaturalist",
+      "by": "valkyrieblaze",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/89220886"
+    },
+    {
+      "local": "images/su-flower-t.jpg",
+      "full": "images/su-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/545566886/large.jpg",
+      "s": "summer",
+      "cap": "Late summer — a nodding pink bottlebrush head in detail · © Logan Fox (CC-BY-NC) / iNaturalist",
+      "by": "Logan Fox",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/302720340"
+    },
+    {
+      "local": "images/su-near-t.jpg",
+      "full": "images/su-near.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/231373271/large.jpg",
+      "s": "summer",
+      "cap": "Late summer — flower heads nodding on arching stems above the foliage · © Vladimir Bryukhov (CC-BY-NC) / iNaturalist",
+      "by": "Vladimir Bryukhov",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/135637408"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/424346328/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — the pinnate leaflets with their blunt, rounded teeth, below an opening flower head · © Erin Collins (CC-BY) / iNaturalist",
+      "by": "Erin Collins",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/238358080"
+    },
+    {
+      "local": "images/su-budding-t.jpg",
+      "full": "images/su-budding.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/317808729/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — flower heads still pale before they colour, over the pinnate foliage · © Louis Moons (CC-BY-NC) / iNaturalist",
+      "by": "Louis Moons",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/182289975"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/47032327/large.jpg",
+      "s": "summer",
+      "cap": "Late summer — the plant in a garden setting, showing its arching habit · © jlbdesign (CC-BY-NC) / iNaturalist",
+      "by": "jlbdesign",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/30116467"
+    },
+    {
+      "local": "images/su-context-t.jpg",
+      "full": "images/su-context.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/225474095/large.jpg",
+      "s": "summer",
+      "cap": "Late summer — a planting seen in context · © valpurie (CC-BY-NC) / iNaturalist",
+      "by": "valpurie",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/132404147"
+    }
+  ]
 }

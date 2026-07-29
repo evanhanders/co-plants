@@ -222,6 +222,84 @@
       "group": "Shrubs",
       "lead": "elderberry-mikls",
       "blurb": "Sambucus nigra selections — ornamental dark/cut-leaf forms and hardy fruiting elders; edible cooked flowers & berries."
+    },
+    "poppies": {
+      "name": "Poppies",
+      "group": "Spring forbs",
+      "lead": "oriental-poppy",
+      "blurb": "Papaver — crepe-paper poppies, from the huge oriental to the pastel Iceland."
+    },
+    "peonies": {
+      "name": "Peonies",
+      "group": "Spring forbs",
+      "lead": "garden-peony",
+      "blurb": "Paeonia — long-lived late-spring peonies, from the classic fragrant doubles to the fiery early singles."
+    },
+    "hummingbird-mints": {
+      "name": "Hummingbird mints",
+      "group": "Summer forbs",
+      "lead": "hummingbird-mint",
+      "blurb": "Agastache — aromatic xeric mints throwing spikes of tubular flowers hummingbirds work into fall."
+    },
+    "four-oclocks": {
+      "name": "Four o'clocks",
+      "group": "Summer forbs",
+      "lead": "desert-four-oclock",
+      "blurb": "Mirabilis — the native desert four o'clock and the old-fashioned garden annual, both opening on late-afternoon air."
+    },
+    "evening-primroses": {
+      "name": "Evening primroses",
+      "group": "Groundcovers",
+      "lead": "evening-primrose",
+      "blurb": "Oenothera — low xeric mats of big silky day- or evening-opening cups."
+    },
+    "oregon-grapes": {
+      "name": "Oregon grapes",
+      "group": "Shrubs",
+      "lead": "creeping-oregon-grape",
+      "blurb": "Berberis — holly-leaved evergreens with golden spring flowers and blue berries, in a low native mat and an upright screen."
+    },
+    "lindens": {
+      "name": "Lindens",
+      "group": "Trees",
+      "lead": "littleleaf-linden",
+      "blurb": "Tilia — big heart-leaved shade trees whose fragrant summer flowers are among the best bee forage there is."
+    },
+    "hawthorns": {
+      "name": "Hawthorns",
+      "group": "Trees",
+      "lead": "river-hawthorn",
+      "blurb": "Crataegus — thorny small trees with white spring flower clusters and red haws that feed birds all winter."
+    },
+    "rhododendrons": {
+      "name": "Rhododendrons & azaleas",
+      "group": "Shrubs",
+      "lead": "rhododendron",
+      "blurb": "The hardiest Rhododendron for the Front Range — evergreen rhodo and deciduous azalea, both needing an acid-mix bed away from our alkaline clay."
+    },
+    "phloxes": {
+      "name": "Phloxes",
+      "group": "Summer forbs",
+      "lead": "garden-phlox",
+      "blurb": "Phlox — sweetly fragrant clustered flowers, from the tall summer border spires to the low spring woodland haze."
+    },
+    "sages": {
+      "name": "Sages",
+      "group": "Subshrubs",
+      "lead": "mojave-sage",
+      "blurb": "Ornamental Salvia — aromatic, deer-proof mounds throwing wands of tubular flowers bees and hummingbirds work all season."
+    },
+    "honeysuckle-vines": {
+      "name": "Honeysuckle vines",
+      "group": "Vines",
+      "lead": "trumpet-honeysuckle",
+      "blurb": "Twining Lonicera — cold-hardy climbers hung with long scarlet-to-coral tubes hummingbirds work all summer."
+    },
+    "speedwells": {
+      "name": "Speedwells",
+      "group": "Summer forbs",
+      "lead": "speedwell",
+      "blurb": "Veronica — starry blue-to-white flowers, on upright border candlesticks and flat evergreen creeping mats."
     }
   }
 }

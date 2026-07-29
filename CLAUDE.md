@@ -482,19 +482,36 @@ Cultivar/genus clusters (apples, plums, tart cherries, currants, pelargoniums, w
 asters, irises, tulips, climbing/rambling roses, hardy geraniums, crocuses, penstemons, maples,
 milkweeds, alliums, sunflowers, bee-balms, lupines, dogwoods, clematis, mulleins, columbines,
 scabious, prairie-coneflowers, pinks, coreopsis, sumacs, primulas, ornamental-oreganos, marigolds,
-bugleweeds, pasqueflowers, coral-bells, elderberries, burnets, yarrows — **37 in all**) collapse
+bugleweeds, pasqueflowers, coral-bells, elderberries, burnets, yarrows, poppies, peonies,
+hummingbird-mints, four-o'clocks, evening-primroses, oregon-grapes, lindens, hawthorns,
+rhododendrons, phloxes, sages, honeysuckle-vines, speedwells — **50 in all**) collapse
 into a **single expandable family card** so the grid isn't buried under near-duplicate cards. It's
 an **inline accordion**, not a separate page — each member keeps its own detail page untouched.
 The bar for a collection is "would a gardener read these as one kind of plant in different
 varieties." Genus clusters intentionally **left ungrouped** because they fail that bar (same genus
-but too unlike in form/role to read as one family — don't re-group them): *Salvia* (culinary
-rosemary + the diverse ornamental sages), *Lonicera* honeysuckles (a fruit bush + a native shrub +
-ornamental vines, spanning shrubs and vines), *Veronica* speedwells (upright spike vs flat creeping
-mat), *Amaranthus* (draping love-lies-bleeding vs upright grain amaranth — too unlike in form),
-*Euphorbia* spurges (cushion subshrub + native forb + variegated annual), *Bouteloua* grama
-grasses (only 2 of a small section), *Centaurea* (annual cornflower vs perennial bluet) and
-*Anemone* (spring windflower vs fall Japanese anemone) — unlike + different bloom seasons; and
-*Rubus* (ornamental Boulder raspberry vs the fruit raspberry — different intent).
+but too unlike in form/role to read as one family — don't re-group them): *Amaranthus* (draping
+love-lies-bleeding vs upright grain amaranth — too unlike in form), *Euphorbia* spurges (cushion
+subshrub + native forb + variegated annual), *Bouteloua* grama grasses (only 2 of a small section),
+*Centaurea* (annual cornflower vs perennial bluet) and *Anemone* (spring windflower vs fall
+Japanese anemone) — unlike + different bloom seasons; *Rubus* (ornamental Boulder raspberry vs the
+fruit raspberry — different intent); the leftover *Prunus* (chokecherry, Nanking cherry, mayday
+tree, double flowering plum, peach — a native tree, a fruit bush and two ornamentals, nothing a
+gardener reads as one plant); *Amorpha* (a 3 ft refined xeric leadplant vs a 12 ft aggressive
+riparian false indigo); *Erigeron* and *Lysimachia* (sprawling mat vs upright forb, different
+sections); the yuccas (soapweed *Yucca* vs *Hesperaloe* "red yucca" — different genera, and red
+yucca honestly isn't a yucca); and the cacti (prickly pear / cholla / claret cup — a **category**,
+not a family, and it spans Shrub + Subshrub).
+
+**A collection is a partial-genus card when that's the honest read.** Three of these were on the
+ungrouped list until the roster grew enough to make a coherent core, and each deliberately leaves
+genus-mates out — copy this pattern rather than sweeping a whole genus in:
+- **`sages`** takes the four ornamental flowering *Salvia* (Mojave, autumn, meadow, Windwalker
+  Royal Red) and excludes **rosemary** (a culinary herb) and **Russian sage** (sold and read as its
+  own plant).
+- **`honeysuckle-vines`** takes only the two twining *Lonicera* **vines**; honeyberry and twinberry
+  stay standalone shrubs — which is what made the old whole-genus objection moot.
+- **`evening-primroses`** takes the two low *Oenothera* cups and excludes **gaura** (*O.
+  lindheimeri*) — nobody reads a cloud of wands as an evening primrose.
 
 **Data model (two parts):**
 - **Membership** is one field on the member's `plant.json`: `"collection":"<id>"`. That's all a
@@ -532,8 +549,12 @@ finger doesn't fire. `reel.js` is untouched by this. **Test swipe routing with r
 mouse drags — the reel swipe only responds to touch input** (mouse drags silently no-op, which once
 looked like a routing bug but wasn't).
 
-**Mixed-morphology collections** (penstemons span Subshrub + Forb; pelargoniums, wallflowers also
-mix) keep each member's honest `type` — the family is simply *placed* in its declared home `group`.
+**Mixed-morphology collections** (penstemons span Subshrub + Forb; pelargoniums, wallflowers,
+`sages` — Subshrubs-homed but holding the Forb meadow sage — and `speedwells` — Summer-forbs-homed
+but holding two Groundcover mats — also mix; `phloxes` likewise straddles bloom seasons, homing the
+Spring woodland phlox in Summer forbs) keep each member's honest `type` — the family is simply
+*placed* in its declared home `group`. Section tallies still count **plants**, so a mixed family
+shifts counts between sections without changing the 309 total.
 Known minor wart: with a **Form** filter active, a family whose matching member's form differs from
 its home `group` still shows in its home section (e.g. filtering `Subshrubs` can surface the
 `Summer forbs`-homed Penstemons card). Acceptable and rare; don't try to duplicate the card across

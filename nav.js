@@ -43,6 +43,7 @@ drawer.addEventListener('click', function(e){ if(e.target.closest('.navlink')) c
 /* basic Tab focus-trap while open (same idea as the lightbox) */
 drawer.addEventListener('keydown', function(e){
   if(e.key!=='Tab') return;
+  if(!document.body.classList.contains('nav-open')) return; // never trap Tab in a closed drawer
   var f=Array.prototype.slice.call(drawer.querySelectorAll('a[href],button')).filter(function(el){ return el.offsetParent!==null; });
   if(!f.length) return; var first=f[0], last=f[f.length-1];
   if(e.shiftKey && document.activeElement===first){ e.preventDefault(); last.focus(); }

@@ -35,7 +35,10 @@ const GROUP_DESC = {
 };
 /* ---------- state ---------- */
 let view = "type";
-const collapsed = new Set(); // group names collapsed (type view)
+const collapsed = new Set(); // collapsed section keys (see collapseKey)
+/* Section names are not unique across sort views (both the Bloom and Traits sorts emit a
+   "Winter" section), so the collapse key is namespaced by the current view. */
+function collapseKey(name){ return view+'||'+name; }
 
 /* ---------- filter dimensions ----------
    Filters are a data-driven set of GROUPS. Each group has options with a predicate; the
@@ -120,15 +123,15 @@ return '<section class="grp'+(collapsedNow?' collapsed':'')+'" data-group="'+nam
 +(desc?'<p class="group-desc">'+desc+'</p>':'')
 +'<div class="grid">'+gridInner+'</div></section>';
 }
-function wireGroupHeads(q){
+function wireGroupHeads(forceOpen){
 Array.prototype.forEach.call(content.querySelectorAll('.group-head'), function(h){
-h.onclick=function(){ if(q) return; /* during search everything is force-expanded */ const g=h.dataset.g; const nowC=!collapsed.has(g); if(nowC) collapsed.add(g); else collapsed.delete(g); const sec=h.parentElement; sec.classList.toggle('collapsed', nowC); const chev=h.querySelector('.chev'); if(chev){ chev.setAttribute('aria-expanded', nowC?'false':'true'); chev.setAttribute('aria-label', (nowC?'Expand ':'Collapse ')+g); }
+h.onclick=function(){ if(forceOpen) return; /* while searching/filtering everything is force-expanded */ const g=h.dataset.g, ck=collapseKey(g); const nowC=!collapsed.has(ck); if(nowC) collapsed.add(ck); else collapsed.delete(ck); const sec=h.parentElement; sec.classList.toggle('collapsed', nowC); const chev=h.querySelector('.chev'); if(chev){ chev.setAttribute('aria-expanded', nowC?'false':'true'); chev.setAttribute('aria-label', (nowC?'Expand ':'Collapse ')+g); }
 /* On collapse, if we've scrolled past this (sticky) header, the vanished cards would otherwise
    drop us at an arbitrary spot — snap the header to the top so the next section sits right below it. */
 if(nowC){ const secTop=window.pageYOffset+sec.getBoundingClientRect().top; if(secTop<window.pageYOffset) window.scrollTo(0, secTop); } };
 });
 }
-function genericGroupedHTML(list, key, q){
+function genericGroupedHTML(list, key, forceOpen){
 const g=GMAP[key]; const buckets={}, counts={};
 g.opts.forEach(function(o){ buckets[o.label]=[]; counts[o.label]=0; });
 const other=OTHER_LABEL[key]||'Other';
@@ -142,7 +145,7 @@ let html='';
 order.forEach(function(name){
 const items=buckets[name]; if(!items||!items.length) return;
 items.sort(function(a,b){ return a.botanical.localeCompare(b.botanical,'en',{sensitivity:'base'}); });
-const isC=!q && collapsed.has(name);
+const isC=!forceOpen && collapsed.has(collapseKey(name));
 html+=sectionHTML(name, counts[name], '', isC, items.map(cardHTML).join(''));
 });
 return html;
@@ -205,12 +208,18 @@ const dots=Array.prototype.slice.call(fam.querySelectorAll('.fc-dot'));
 /* start on the lead member (the one whose photo is the cover) for continuity */
 const col=COLLECTIONS[fam.dataset.col]||{}, mem=FAM[fam.dataset.col]||[];
 let lead=mem.map(slugTail).indexOf(col.lead); if(lead<0) lead=0;
-let idx=lead+1, W=vp.clientWidth; // idx is into the cloned track; real member r is slide r+1
+let idx=lead+1, W=vp.getBoundingClientRect().width; // idx is into the cloned track; real member r is slide r+1
+/* getBoundingClientRect, not clientWidth: the cell width is fractional, and an integer
+   rounding error per slide accumulates until a sliver of the next card bleeds into view. */
 function real(){ return (idx-1+N)%N; }
 function ui(){ const r=real(); if(counter) counter.textContent=(r+1)+' / '+N; dots.forEach(function(d,j){ d.classList.toggle('on', j===r); }); }
 const nb0=fam.querySelector('.fc-next'), pb0=fam.querySelector('.fc-prev');
 function placeArrows(){ const plate=vp.querySelector('.fc-slide .plate'); if(!plate) return; const t=Math.round(plate.clientHeight/2)+'px'; if(nb0) nb0.style.top=t; if(pb0) pb0.style.top=t; }
-function place(anim){ track.style.transition=anim?'transform .3s ease':'none'; track.style.transform='translateX('+(-idx*W)+'px)'; placeArrows(); ui(); }
+/* Every member card stays in the DOM inside an overflow:hidden viewport, so without this the
+   off-screen varieties keep their links/buttons tabbable and a screen reader reads the two
+   loop clones as duplicate cards. Only the slide on screen is exposed. */
+function expose(){ Array.prototype.forEach.call(track.children, function(sl,i){ const on=(i===idx); sl.toggleAttribute('inert', !on); sl.setAttribute('aria-hidden', on?'false':'true'); }); }
+function place(anim){ track.style.transition=anim?'transform .3s ease':'none'; track.style.transform='translateX('+(-idx*W)+'px)'; placeArrows(); ui(); expose(); }
 function go(d){ idx+=d; place(true); }
 track.addEventListener('transitionend', function(){ if(idx===0){ idx=N; place(false); } else if(idx===N+1){ idx=1; place(false); } });
 const nb=fam.querySelector('.fc-next'), pb=fam.querySelector('.fc-prev');
@@ -235,7 +244,7 @@ vp.addEventListener('pointerup', end, {passive:true});
 vp.addEventListener('pointercancel', end, {passive:true});
 vp.addEventListener('click', function(e){ if(suppress){ e.preventDefault(); e.stopPropagation(); suppress=false; } }, true);
 /* reposition on resize; a re-render discards this carousel, so bail if it's detached */
-window.addEventListener('resize', function(){ if(!document.body.contains(vp)) return; W=vp.clientWidth; place(false); });
+window.addEventListener('resize', function(){ if(!document.body.contains(vp)) return; W=vp.getBoundingClientRect().width||W; place(false); });
 place(false);
 }
 /* ---------- the filter bar: faceted counts + selected-first ordering ---------- */
@@ -264,7 +273,13 @@ return '<button type="button" class="chip'+(g.cls?(' '+g.cls):'')+(c.active?' ac
 }).join('');
 html+='<div class="fgroup"><span class="fl-label">'+g.label+'</span><div class="chips">'+inner+'</div></div>';
 });
+/* Re-rendering the bar destroys the chip the user just activated, dropping keyboard focus to
+   <body> (and the selected-first re-sort moves it anyway) — so restore focus to the same chip. */
+const active=document.activeElement;
+const keep = active && active.classList && active.classList.contains('chip') && root.contains(active)
+  ? {g:active.dataset.g, v:active.dataset.v} : null;
 root.innerHTML=html;
+if(keep){ const again=root.querySelector('.chip[data-g="'+keep.g+'"][data-v="'+keep.v+'"]'); if(again && !again.disabled) again.focus(); }
 }
 function render(){
 const q=(searchEl.value||'').toLowerCase().trim();
@@ -282,14 +297,16 @@ if(showingEl) showingEl.textContent = filtering ? ('Showing '+list.length+' of '
 const scEl=document.getElementById('searchClear'); if(scEl) scEl.hidden = !searchEl.value;
 const clearEl=document.getElementById('clearFilters'); if(clearEl) clearEl.hidden = !filtering;
 syncHash();
-if(!list.length){ const why = q ? 'match “'+searchEl.value+'”' : 'fit the current filters'; content.innerHTML='<div class="grid"><div class="empty">No plants '+why+'.</div></div>'; return; }
+/* esc() the query: it round-trips through the URL hash (#q=…), so an unescaped value here
+   would let a crafted link inject markup into the page. */
+if(!list.length){ const why = q ? 'match “'+esc(searchEl.value)+'”' : 'fit the current filters'; content.innerHTML='<div class="grid"><div class="empty">No plants '+why+'.</div></div>'; return; }
 if(view==="alpha"){
 content.innerHTML = gridOf(list);
 } else if(view!=="type" && GMAP[view]){
 /* group the flat list by a filter dimension (colour/bloom/lifecycle/sun/water/origin/traits/
    edibility) — no family cards here, just sectioned cards the same way the type view collapses */
-content.innerHTML = genericGroupedHTML(list, view, q);
-wireGroupHeads(q);
+content.innerHTML = genericGroupedHTML(list, view, filtering);
+wireGroupHeads(filtering);
 } else {
 /* Fold the filtered list into renderable ITEMS bucketed by section. An item is either a
    single plant or a collection family. A collection with ≥2 visible members becomes ONE
@@ -312,11 +329,13 @@ Object.keys(buckets).forEach(function(g){ buckets[g].sort(function(a,b){ return 
 let html="";
 GROUP_ORDER.forEach(function(g){
 if(!buckets[g]) return;
-const isC = !q && collapsed.has(g);
+/* any active filter expands sections, exactly like an active search: families force-open when
+   filtering, and a carousel built inside a display:none section measures zero width. */
+const isC = !filtering && collapsed.has(collapseKey(g));
 html += sectionHTML(g, counts[g], GROUP_DESC[g]||'', isC, buckets[g].map(function(it){ return it.html; }).join(''));
 });
 content.innerHTML = html;
-wireGroupHeads(q);
+wireGroupHeads(filtering);
 /* family expand/collapse: toggle in place (no full re-render → keeps scroll & sibling state);
    build the carousel lazily the first time a family is opened */
 Array.prototype.forEach.call(content.querySelectorAll('.fam-toggle'), function(btn){

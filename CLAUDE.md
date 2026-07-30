@@ -123,7 +123,10 @@ python3 tools/check_citations.py plants/perennials/knautia   # one or a few dirs
 plant's inline `[n]` markers (in `care`, `edible`, and the `fact_src` map) and verifies every one
 resolves to an entry in that plant's `references` bibliography. **UNDEFINED** (a `[n]` past the end
 of `references`) fails the run; **ORPHAN** (a never-cited reference), **UNCITED** (has care/edible
-but no `references`), and **NO-FACTSRC** are warnings. Run it after any citation edit:
+but no `references`), **NO-FACTSRC**, and **DANGLING** are warnings. **DANGLING** catches a
+`fact_src` key citing a card field the plant leaves empty — `plant.js` then renders a *fallback*
+string (`toxic` falls back to "None of concern") with a superscript cite pinned to it, i.e. a
+source credited for a claim the data never makes. Run it after any citation edit:
 
 ```
 python3 tools/check_refs.py                       # all plants
@@ -318,6 +321,12 @@ is **NOT** the grouping. A file can live in `plants/perennials/` yet be a `Groun
   `factsDL` in `plant.js` appends the superscript cites. **Do NOT bake `[n]` into the shared card
   fields themselves** (`size`, `sun`, …) — `app.js`'s grid renders those raw, so markers would leak
   onto the encyclopedia cards; the citations live only in `fact_src`, which the grid ignores.
+  **Only cite a field the card actually states.** `factsDL` appends the cite unconditionally, and
+  `toxic` falls back to "None of concern" when empty — so a `fact_src.toxic` on a plant with no
+  `toxic` text credits a source for a fallback. Worse, a plant with `edible.level:"caution"` and an
+  empty `toxic` renders "None of concern" directly above its own DO-NOT-EAT prose. If a plant's
+  `edible` block warns about something, **`toxic` must say so too** (`check_refs.py` flags the
+  dangling-cite half of this as DANGLING).
 - `edible:{…}` *(optional)* — the **"Edible parts" section** on the detail page (safety-critical;
   `edibleHTML` + `EDIBLE_FIELDS` in `plant.js`). Fields: **`level`** (`edible | caution | toxic |
   inedible` — drives the banner colour/label), **`summary`** (one-line banner verdict), and the
@@ -570,6 +579,20 @@ you've **scrolled past** (its sticky header is stuck at the top), the vanished c
 drop you at an arbitrary spot, so the handler snaps that header to the viewport top
 (`window.scrollTo(0, sectionDocTop)` when `sectionTop < pageYOffset`) — the next section then sits
 right below it. Collapsing a header that's still in view doesn't scroll.
+
+**Any active search OR filter force-expands every section** (`isC = !filtering && …`), not just a
+search — and while either is on, the chevrons are inert. This is load-bearing, not cosmetic: filters
+force-open family cards, and `buildCarousel` measures `vp.getBoundingClientRect().width` at build
+time, so a carousel built inside a `display:none` collapsed section caches **zero** width and lands
+stuck on the wrong slide with its arrows pinned at `top:0`. (It also stops a filter's matches from
+hiding inside a collapsed section.) The collapse key is namespaced by view (`collapseKey`) because
+section names repeat across sort modes — both the Bloom and Traits sorts emit a "Winter".
+
+**`wireReels` is idempotent — keep it that way.** It inserts the reel's loop clones, so wiring one
+plate twice inserts a *second* pair and every photo after that is off by one against its caption and
+season dots. A force-open family gets wired by `buildCarousel` **and** by the `wireReels(content)`
+sweep right after it, so the `plate.dataset.reeled` guard at the top is what keeps filtered views
+showing the right photo. Don't remove it, and don't add a second clone-inserting pass.
 
 **Accessibility.** Photos are `role="button" tabindex="0"` with descriptive per-shot `alt`;
 group-collapse chevrons are real `<button>`s with `aria-expanded`; the lightbox is a

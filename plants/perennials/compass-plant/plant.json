@@ -2,7 +2,6 @@
   "common": "Compass plant",
   "botanical": "Silphium laciniatum",
   "aka": [
-    "Silphium laciniatum",
     "Cut-leaf silphium"
   ],
   "type": "Forb",
@@ -23,7 +22,7 @@
   "seasons": "Big deeply-lobed basal leaves spring–fall; yellow daisy heads on tall stems mid-to-late summer; dried seed stalks and seedheads standing through winter",
   "wildlife": "Strong pollinator plant — bumble bees and native bees on the flowers; goldfinches and other birds strip the large seeds; a larval host and nectar source",
   "deer": "Browsed by deer and livestock — not deer-resistant",
-  "toxic": "",
+  "toxic": "No established edible part and no reported poisoning — grown as an ornamental, not eaten; the traditional chewing resin and root tea are non-food uses",
   "winter": true,
   "verified": "2026-06-28",
   "origin": "Tallgrass prairie of the central US (east of the Rockies)",

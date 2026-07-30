@@ -102,7 +102,7 @@ h1.display{font-size:clamp(34px,7vw,58px);font-weight:600;line-height:.98;margin
 .group-head .rule{flex:1;height:0;border-bottom:1px solid var(--line);align-self:center}
 .group-desc{margin:0 0 14px;color:var(--ink-soft);font-size:13px;font-style:italic;max-width:62ch}
 .grp.collapsed .grid, .grp.collapsed .group-desc{display:none}
-.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:20px;margin-top:12px}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:20px;margin-top:12px;align-items:start}
 .card{ background:var(--card);border:1px solid var(--line);border-radius:3px; box-shadow:var(--shadow);overflow:hidden;display:flex;flex-direction:column; position:relative;transition:transform .18s, box-shadow .18s; }
 .card:hover{transform:translateY(-3px);box-shadow:0 1px 0 #fff8,0 16px 36px -14px rgba(60,48,28,.5)}
 .plate{ position:relative;aspect-ratio:3/2;background: radial-gradient(120% 90% at 50% 18%, #fdfaf1, #efe6d2); border-bottom:1px solid var(--line);overflow:hidden; }
@@ -122,9 +122,10 @@ h1.display{font-size:clamp(34px,7vw,58px);font-weight:600;line-height:.98;margin
 /* a compact, scalable position indicator: small season-icon dots + an "n / m" counter, so a
    reel of 8+ shots stays readable and keeps its caption (unlike the old 30px-tab bar). The
    photos are ordered by season, so the dots read left-to-right as a little seasonal timeline. */
-.sbar .dots{display:flex;gap:2px;align-items:center;flex:0 0 auto}
-.sbar .rdot{width:16px;height:16px;display:grid;place-items:center;padding:0;border:1px solid #ffffff66;border-radius:50%;background:#ffffff26;color:#fff;cursor:pointer;transition:.15s}
+.sbar .dots{display:flex;gap:4px;align-items:center;flex:0 0 auto}
+.sbar .rdot{width:16px;height:16px;display:grid;place-items:center;padding:0;position:relative;border:1px solid #ffffff66;border-radius:50%;background:#ffffff26;color:#fff;cursor:pointer;transition:.15s}
 .sbar .rdot svg{width:9px;height:9px;display:block;opacity:.92}
+.sbar .rdot::before{content:'';position:absolute;inset:-4px}
 .sbar .rdot:hover{background:#ffffff55}
 .sbar .rdot.on{background:var(--rust);border-color:var(--rust)}
 .sbar .rcount{flex:0 0 auto;color:#fff;font-size:10px;letter-spacing:.06em;opacity:.85;text-shadow:0 1px 2px #000b;font-variant-numeric:tabular-nums}
@@ -176,7 +177,7 @@ transform:translateY(-50%) rotate(45deg);background:var(--rust);border:1.5px sol
 .verified::before{content:"";width:7px;height:7px;border-radius:50%;background:var(--green);display:inline-block}
 .empty{grid-column:1/-1;text-align:center;color:var(--ink-soft);font-style:italic;padding:50px 0}
 /* ---------- collection (family) cards ---------- */
-.plate .famcount{position:absolute;bottom:8px;left:8px;font-size:10px;letter-spacing:.12em;text-transform:uppercase;color:#fff;background:var(--green);padding:3px 9px;border-radius:20px;z-index:3}
+.plate .famcount{position:absolute;top:8px;left:8px;font-size:10px;letter-spacing:.12em;text-transform:uppercase;color:#fff;background:var(--green);padding:3px 9px;border-radius:20px;z-index:3}
 .fammembers{font-size:12px;color:var(--ink-soft);margin:8px 0 0;line-height:1.4}
 .fam-toggle{margin-top:13px;width:100%;display:flex;align-items:center;justify-content:center;gap:8px;border:1px solid var(--line);background:#f2ead6;color:var(--green);font-family:'Fraunces',Georgia,serif;font-size:13px;letter-spacing:.03em;padding:8px 12px;border-radius:3px;cursor:pointer;transition:background .15s}
 .fam-toggle:hover{background:#ece1c7}
@@ -196,7 +197,7 @@ transform:translateY(-50%) rotate(45deg);background:var(--rust);border:1.5px sol
 .fam-hide:hover{background:#ece1c7}
 /* the looping carousel */
 .fc-viewport{position:relative;overflow:hidden;touch-action:pan-y}
-.fc-track{display:flex;will-change:transform}
+.fc-track{display:flex;align-items:start;will-change:transform}
 .fc-slide{flex:0 0 100%;min-width:0}
 .fc-slide .card{border:none;border-radius:0;box-shadow:none;border-top:1px solid var(--line)}
 .fc-slide .card:hover{transform:none;box-shadow:none}
@@ -334,8 +335,10 @@ ol.biblio li:target{background:#f6edda;outline:2px solid var(--gold);outline-off
 .navback{position:fixed;inset:0;background:rgba(18,14,8,.45);opacity:0;visibility:hidden;transition:opacity .2s;z-index:95}
 body.nav-open .navback{opacity:1;visibility:visible}
 body.nav-open{overflow:hidden}
-.navdrawer{position:fixed;top:0;right:0;bottom:0;width:288px;max-width:85vw;background:var(--paper);border-left:2px solid var(--ink);box-shadow:0 0 44px rgba(0,0,0,.32);z-index:96;transform:translateX(100%);transition:transform .25s ease;display:flex;flex-direction:column}
-body.nav-open .navdrawer{transform:translateX(0)}
+/* `visibility:hidden` (not just the off-screen transform) so the closed drawer's links leave
+   the tab order — otherwise Tab walks into an invisible drawer you can't Escape out of. */
+.navdrawer{position:fixed;top:0;right:0;bottom:0;width:288px;max-width:85vw;background:var(--paper);border-left:2px solid var(--ink);box-shadow:0 0 44px rgba(0,0,0,.32);z-index:96;transform:translateX(100%);visibility:hidden;transition:transform .25s ease,visibility .25s;display:flex;flex-direction:column}
+body.nav-open .navdrawer{transform:translateX(0);visibility:visible}
 .navhead{display:flex;align-items:center;justify-content:space-between;gap:10px;padding:17px 16px 13px;border-bottom:2.5px double var(--ink)}
 .navtitle{font-family:'Fraunces',Georgia,serif;font-weight:600;font-size:16px;color:var(--green);line-height:1.15}
 .navclose{border:none;background:none;font-size:26px;line-height:1;color:var(--ink-soft);cursor:pointer;width:34px;height:34px;border-radius:50%;flex:0 0 auto}

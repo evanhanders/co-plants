@@ -16,6 +16,8 @@ and compares them against len(references):
   ORPHAN     a references[] entry is never cited anywhere        -> warning
   UNCITED    plant has `care`/`edible` but no `references` at all -> warning (not yet migrated)
   NO-FACTSRC plant has a facts table but no `fact_src` map        -> warning
+  DANGLING   a fact_src key cites a card field the plant leaves empty -> warning
+             (the citation renders on plant.js's fallback text, not a stated fact)
 
 Usage:
   python3 tools/check_refs.py                       # all plants in the manifest
@@ -56,6 +58,12 @@ def audit(path):
         warns.append("UNCITED: has care/edible but no `references` bibliography")
     if d.get("care") and "fact_src" not in d:
         warns.append("NO-FACTSRC: has care but no `fact_src` for the facts table")
+    # A fact can only be cited if the card actually states it: plant.js renders a fallback
+    # ("None of concern" for `toxic`) when the field is empty, so a cite there hangs on nothing.
+    for k in (d.get("fact_src") or {}):
+        v = d.get(k)
+        if v is None or (isinstance(v, str) and not v.strip()) or (isinstance(v, (list, dict)) and not v):
+            warns.append("DANGLING: fact_src.%s cites an empty/absent `%s` field" % (k, k))
     for n in sorted(used):
         if n < 1 or n > len(refs):
             errors.append("UNDEFINED: [%d] but only %d reference(s)" % (n, len(refs)))

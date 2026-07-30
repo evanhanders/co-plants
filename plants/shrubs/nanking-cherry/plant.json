@@ -47,11 +47,11 @@
   "fact_src": {
     "origin": [
       1,
-      4
+      3
     ],
     "habitat": [
       2,
-      4
+      3
     ],
     "size": [
       1,
@@ -66,7 +66,7 @@
       3
     ],
     "spread": [
-      4
+      3
     ],
     "seasons": [
       1,
@@ -81,7 +81,7 @@
     ],
     "toxic": [
       1,
-      5
+      4
     ],
     "ph": [
       2,
@@ -95,10 +95,10 @@
       "fruit"
     ],
     "card": "Ripe cherry flesh (fresh, jam, jelly, pie)",
-    "summary": "The ripe red cherries are edible and sweet-tart — good fresh and in jam, jelly, and pies — but the pits, leaves, and twigs are cyanogenic and must not be eaten.[1][2][5]",
+    "summary": "The ripe red cherries are edible and sweet-tart — good fresh and in jam, jelly, and pies — but the pits, leaves, and twigs are cyanogenic and must not be eaten.[1][2][4]",
     "parts": "The edible part is the ripe cherry flesh — bright red, about ½ in across, ranging from sweet to tart, ripening June–July. Use it fresh or cooked in jam, jelly, preserves, pies, and juice. Each fruit holds a single large pit (stone), which is NOT food: like other Prunus stones it is cyanogenic. The leaves, twigs, and bark are likewise not edible.[1][2]",
     "preparation": "Eat the ripe flesh fresh, or cook it into jams, jellies, preserves, pies, and juice. Pit the fruit and discard the stones rather than crushing or grinding them; never crack the pits to eat the kernels. Do not brew tea from the leaves or twigs. Ordinary cooking of the pitted flesh is safe.[1][2]",
-    "caution": "Like all Prunus (cherries, plums, almonds), the pits/seeds, leaves, and twigs contain cyanogenic glycosides that release hydrogen cyanide (HCN); the toxin is especially concentrated in wilting leaves and in the seed kernels. The ripe FLESH is the edible part — discard every pit and do not crack or eat the kernels. ASPCA lists cherry (Prunus) stems, leaves, and seeds as toxic to dogs, cats, and horses, causing difficulty breathing and shock; keep pruned foliage and pits away from pets and livestock, and keep children from swallowing or crushing the pits.[1][5]"
+    "caution": "Like all Prunus (cherries, plums, almonds), the pits/seeds, leaves, and twigs contain cyanogenic glycosides that release hydrogen cyanide (HCN); the toxin is especially concentrated in wilting leaves and in the seed kernels. The ripe FLESH is the edible part — discard every pit and do not crack or eat the kernels. ASPCA lists cherry (Prunus) stems, leaves, and seeds as toxic to dogs, cats, and horses, causing difficulty breathing and shock; keep pruned foliage and pits away from pets and livestock, and keep children from swallowing or crushing the pits.[1][4]"
   },
   "references": [
     {
@@ -111,10 +111,6 @@
     },
     {
       "name": "Missouri Botanical Garden Plant Finder — Prunus tomentosa",
-      "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=286358"
-    },
-    {
-      "name": "Missouri Botanical Garden Plant Finder — Prunus tomentosa (native range, naturalizing, downy habit)",
       "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=286358"
     },
     {

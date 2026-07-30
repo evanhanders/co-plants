@@ -81,6 +81,10 @@ window.__imggone = function(img){ var fig = img.closest ? img.closest('.shot') :
 window.__imgnext = function(img){ var alts=[]; try{ alts=JSON.parse(img.getAttribute('data-alts')||'[]'); }catch(e){} if(alts.length){ var next=alts.shift(); img.setAttribute('data-alts', JSON.stringify(alts)); img.src=next; } else { window.__imggone(img); } };
 function wireReels(root){
 Array.prototype.forEach.call(root.querySelectorAll('.plate'), function(plate){
+/* idempotent: a force-open family carousel is wired by buildCarousel AND by the wireReels(content)
+   sweep that follows it. Wiring twice would insert a second pair of loop clones and leave `idx`
+   pointing at the wrong photo, so bail if this plate is already wired. */
+if(plate.dataset.reeled) return; plate.dataset.reeled='1';
 var reel = plate.querySelector('.reel'), bar = plate.querySelector('.sbar'); if(!reel||!bar) return;
 var track = reel.querySelector('.reel-track'); if(!track) return;
 var tabs = Array.prototype.slice.call(bar.querySelectorAll('.rdot'));

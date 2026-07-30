@@ -484,7 +484,7 @@ milkweeds, alliums, sunflowers, bee-balms, lupines, dogwoods, clematis, mulleins
 scabious, prairie-coneflowers, pinks, coreopsis, sumacs, primulas, ornamental-oreganos, marigolds,
 bugleweeds, pasqueflowers, coral-bells, elderberries, burnets, yarrows, poppies, peonies,
 hummingbird-mints, four-o'clocks, evening-primroses, oregon-grapes, lindens, hawthorns,
-rhododendrons, phloxes, sages, honeysuckle-vines, speedwells — **50 in all**) collapse
+rhododendrons, phloxes, sages, honeysuckle-vines, speedwells, lamb's-ears — **51 in all**) collapse
 into a **single expandable family card** so the grid isn't buried under near-duplicate cards. It's
 an **inline accordion**, not a separate page — each member keeps its own detail page untouched.
 The bar for a collection is "would a gardener read these as one kind of plant in different
@@ -554,7 +554,7 @@ looked like a routing bug but wasn't).
 but holding two Groundcover mats — also mix; `phloxes` likewise straddles bloom seasons, homing the
 Spring woodland phlox in Summer forbs) keep each member's honest `type` — the family is simply
 *placed* in its declared home `group`. Section tallies still count **plants**, so a mixed family
-shifts counts between sections without changing the 309 total.
+shifts counts between sections without changing the 313 total.
 Known minor wart: with a **Form** filter active, a family whose matching member's form differs from
 its home `group` still shows in its home section (e.g. filtering `Subshrubs` can surface the
 `Summer forbs`-homed Penstemons card). Acceptable and rare; don't try to duplicate the card across
@@ -1092,7 +1092,7 @@ ground every statement in an authority cited in `references`.
 
 ## Current plant roster (in the live site)
 
-**309 specimens** (`plants/manifest.json` is the source of truth for the exact count), all verified
+**313 specimens** (`plants/manifest.json` is the source of truth for the exact count), all verified
 non-weed in CO and all carrying a full `care` block (incl.
 `planting` + `propagation`) **and a repo-hosted photo reel** (close-up + structure, seasonal
 where good shots exist). Every plant's detail page is **fully cited** — a numbered
@@ -1499,6 +1499,44 @@ an explicit `gaps` note (as does 'Terracotta', capped at 5 shots). The rest are 
 native common yarrow deliberately sourced from **Colorado records** (`place_id=34`). `check_refs` guide-wide PASS;
 `check_citations` on the nine PASS (104 OK / 26 REVIEW / 0 DEAD).
 
+**Lamb's ears batch (July 2026):** on a user request to "add a few species of lambs ear", added **four**
+*Stachys* around the existing *S. byzantina* and created a new **Lamb's ears** family card (id `lambs-ears`,
+homed in Groundcovers, lead = the existing `lambs-ear`). Weed-checked vs the full CO Lists A/B/C + Watch
+enumeration 2026-07-30 — **no *Stachys* or *Betonica* is listed anywhere**.
+
+**The framing call that shaped the batch:** "lamb's ear" is essentially **one species**, *S. byzantina*, so the
+variety a gardener actually buys comes from **cultivars**, while the genuinely distinct *species* sit further out
+in the genus. The batch delivers both, and splits them the way the collection bar demands:
+- The family card takes only the three **byzantina forms** — the flowering species plus **'Big Ears'** (leaves to
+  8 in, roughly twice the species, grey-green not silver-white, best rot resistance) and **'Silver Carpet'** (the
+  flattest, purest silver, 3–6 in). Both cultivars are **near-flowerless**, which is the whole point of them:
+  **CSU Extension's own xeriscape-groundcover guidance steers gardeners to the flowerless lamb's ears**, since the
+  flowering kinds self-sow and go untidy at bloom time. Both therefore carry **`flower_color: []` and `bloom: []`**
+  (the grown-for-foliage convention, as with the ornamental grasses) — do not "fix" these to purple.
+- The two true species stay **standalone**, because neither reads as "a lamb's ear in a different variety":
+  **pink cotton lamb's ear** (*S. lavandulifolia*, an Iraq/Iran/S-Caucasus alpine cushion — MBG files it under
+  "lamb's ears"/"pink cotton lamb's ear") and **scarlet hedgenettle** (*S. coccinea*).
+
+Honesty calls baked in: **scarlet hedgenettle is the one Stachys here that is NOT xeric** (wild habitat is moist
+canyon seeps; part shade, ~1 in of water every other week) and is **honestly zone-marginal** — High Plains growers
+report it does not reliably return, so its `care` says plan to replant rather than overselling zone 6. ***S.
+lavandulifolia* is `caution`/not-food**: its Iranian herbal-tea tradition is folk-medicinal, with animal-model
+pharmacology only and no established dose or pregnancy safety — deliberately not promoted to `food`. All four are
+**Non-native** with cited `origin`/`habitat`. Six more byzantina cultivars ('Primrose Heron', 'Cotton Boll',
+'Sheila Macqueen', 'Silky Fleece') and the *S. lanata*/*S. olympica* synonyms were folded into the parent's **`aka`**
+rather than spun up as near-duplicate pages.
+
+**Taxonomy trap worth remembering: the betonies are no longer *Stachys*.** *S. officinalis* is now
+***Betonica officinalis*** (iNat's active taxon), so wood betony/'Hummelo' is **not** a lamb's-ear species and was
+deliberately excluded — don't add it to this card on genus grounds. Photos: the two cultivars via the **Wikimedia
+Commons** pipeline (genuine cultivar-labelled shots exist, incl. a Coastal Maine BG bed with the 'Silver Carpet'
+label visible), the two species via `inat_montage.py`; 8 shots each, seasons assigned from actual capture dates.
+**Two photo traps caught in QC:** part of the Commons 'Silver Carpet' series carries a strong **teal white-balance
+cast** that misrepresents the silver foliage (swapped out), and the *S. coccinea* fall shots skew to **tropical
+Mexican December/January records** — useless for a plant that is bare ground here in winter, so the fall slot uses
+a September **Arizona** record instead. `check_refs` guide-wide PASS; `check_citations` on the five PASS
+(17 OK / 1 REVIEW / 0 DEAD — the REVIEW is the generic CSU Front-Range framing cite).
+
 **Trees**
 - River hawthorn (*Crataegus rivularis*) (N) — Thorny native small tree; white spring flowers, dark edible haws, superb wildlife cover. A caterpillar keystone (~90 Lepidoptera). *(Riparian — wants more water; edible haws, spit the cyanogenic seeds.)*
 - Chokecherry (*Prunus virginiana*) (N) — Wildlife powerhouse: fragrant white flower racemes, dark…
@@ -1597,7 +1635,10 @@ native common yarrow deliberately sourced from **Colorado records** (`place_id=3
 - Ivy-leaved geranium (*Pelargonium peltatum*) (I) · **Tender perennial** — The window-box spiller: glossy ivy leaves and cascading flower clusters.
 - Kinnikinnick (*Arctostaphylos uva-ursi*) (N) — A tough native evergreen mat-former
 - Snow-in-summer (*Cerastium tomentosum*) (I) — A silver-gray mat of woolly foliage that erupts into a froth…
-- Lamb's ear (*Stachys byzantina*) (I) — Soft silver-woolly mat grown for its fuzzy tongue-shaped leaves; woolly summer spikes of pink-purple flowers. *(Xeric — overhead water/humidity rots the wool; wool carder bees harvest the fuzz.)*
+- Lamb's ear (*Stachys byzantina*) (I) — Soft silver-woolly mat grown for its fuzzy tongue-shaped leaves; woolly summer spikes of pink-purple flowers. *(Lamb's ears family card lead; xeric — overhead water/humidity rots the wool; wool carder bees harvest the fuzz.)*
+- 'Big Ears' lamb's ear (*Stachys byzantina* 'Big Ears') (I) — The big-leaved one: velvety leaves to 8 in, roughly twice the species, grey-green rather than silver-white, and it almost never throws a flower spike. *(Lamb's ears family card; the most rot/leaf-spot resistant of the group — the safest pick where any overhead water lands. `aka` 'Helene von Stein'.)*
+- 'Silver Carpet' lamb's ear (*Stachys byzantina* 'Silver Carpet') (I) — The flattest, purest-silver lamb's ear, a 3–6 in mat that essentially never blooms. *(Lamb's ears family card; CSU's xeriscape groundcover guidance points at the flowerless kinds — no seeding-about, no leggy bloom-time mess. `flower_color`/`bloom` deliberately `[]`.)*
+- Pink cotton lamb's ear (*Stachys lavandulifolia*) (I) — A true wild lamb's-ear species, not a selection: a low tufted cushion of narrow grey-green leaves under short May–June spikes of lavender-pink flowers wrapped in shaggy cotton-wool calyces. *(Iraq/Iran/southern-Caucasus alpine — wants gritty sharp drainage, a rock-garden or trough plant; kept standalone, not in the byzantina family card. Caution — a traditional Iranian medicinal tea, NOT a culinary herb.)*
 - Turkish speedwell (*Veronica liwanensis*) (I) — A Plant Select standout
 - Hens and chicks (*Sempervivum tectorum*) (I) — Bulletproof evergreen succulent; tight rosette "hens" pup rings of "chicks" into a mat, with a monocarpic summer flower stalk. *(Non-toxic but not a documented food; European native.)*
 - Spearleaf stonecrop (*Sedum lanceolatum*) (N) — CO-native succulent mat of fleshy lance leaves that flush fire-red in drought/cold, then bright yellow star-flowers; *Parnassius smintheus* larval host. *(Caution — alkaloids/sarmentosin; not a tested food.)*
@@ -1700,6 +1741,7 @@ native common yarrow deliberately sourced from **Colorado records** (`place_id=3
 - Rocky Mountain bee plant (*Cleomella serrulata*) (N) · **Annual** — Colorado-native prairie annual
 - Salvia (meadow sage) (*Salvia nemorosa*) (I) — Upright wands of violet-blue in early summer
 - Scarlet bee balm (*Monarda didyma*) (I) — The classic fire-engine-red bee balm (eastern-US native)
+- Scarlet hedgenettle (*Stachys coccinea*) (I) — The red-flowered outlier of the lamb's-ear genus: an upright square-stemmed clump hung with narrow scarlet trumpets midsummer to frost, whose designated pollinators are hummingbirds. *(AZ/NM/west-TX canyon native, not Front-Range; the one Stachys here that is NOT xeric — moderate water, part shade — and honestly zone-marginal, so expect a short-lived perennial.)*
 - Shasta daisy (*Leucanthemum × superbum*) (I) — The classic, well-behaved white daisy
 - Silvery lupine (*Lupinus argenteus*) (N) — Colorado's most common native lupine
 - Snapdragon (*Antirrhinum majus*) (I) · **Annual** — Jewel-toned 'snapping' flower spikes kids love

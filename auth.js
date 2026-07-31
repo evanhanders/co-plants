@@ -50,8 +50,10 @@ var readyResolve, readyP=new Promise(function(r){ readyResolve=r; });
    The Supabase client is imported from a CDN (below); if that request is held/blocked (Brave
    privacy shields, flaky network) the import can stay pending forever — the .then/.catch never
    fire, so readyResolve() would never run. Resolve after a few seconds no matter what; calling
-   readyResolve again once the real init finishes is a harmless no-op. */
-setTimeout(function(){ readyResolve(); }, 5000);
+   readyResolve again once the real init finishes is a harmless no-op.
+   Render the menu too: this timeout exists precisely for the never-settling case, which is the
+   one where the drawer most needs to offer a Sign in link. renderMenu() is idempotent. */
+setTimeout(function(){ renderMenu(); readyResolve(); }, 5000);
 
 /* one notification = refresh the masthead menu + every heart on the page + tell subscribers */
 function emit(){ renderMenu(); syncButtons(); listeners.forEach(function(cb){ try{ cb(); }catch(e){} }); }
@@ -95,6 +97,9 @@ async function deleteAllData(){
 
 /* ---------- auth ---------- */
 async function signInWithEmail(email){
+  /* readyP always resolves (see the safety-net timeout), so the form can be submitted before —
+     or without — the client ever loading; the sibling calls guard on `supa` and so must this. */
+  if(!supa) return { error:{ message:'Couldn\u2019t reach the sign-in service \u2014 check your connection (or a privacy blocker) and try again.' } };
   return supa.auth.signInWithOtp({ email:email, options:{ emailRedirectTo:new URL('index.html', location.href).href } });
 }
 async function signOut(){ try{ await supa.auth.signOut(); }catch(e){} user=null; favSet=new Set(); emit(); }

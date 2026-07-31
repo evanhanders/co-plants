@@ -1,0 +1,267 @@
+{
+  "common": "Fernleaf yarrow",
+  "botanical": "Achillea filipendulina",
+  "aka": [
+    "'Gold Plate' yarrow",
+    "'Coronation Gold' yarrow",
+    "'Cloth of Gold' yarrow",
+    "Fern-leaf yarrow",
+    "Soldier's woundwort"
+  ],
+  "type": "Forb",
+  "lifecycle": "Perennial",
+  "native": "Non-native",
+  "collection": "yarrows",
+  "flower_color": [
+    "yellow"
+  ],
+  "bloom": [
+    "summer",
+    "fall"
+  ],
+  "bloom_season": "Summer",
+  "blurb": "The architectural yarrow: big, dense, flat plates of mustard-to-deep-gold — 4 in across and often 5 — held rigidly on stiff 3–4 ft stems above coarse grey-green ferny foliage that smells sharply of spice when you brush past it. Bone-dry, heat-proof and deer-proof, and — unlike common yarrow — a well-behaved clump that stays where you put it instead of running through the bed. It is the classic dried-flower yarrow: cut and hung upside down, the plates keep their gold for years, and left standing they hold their shape and their stiff stems right through a Front Range winter.",
+  "size": "~3–4 ft tall × 2–3 ft wide (the tall selections 'Gold Plate' and 'Cloth of Gold' reach 4–5 ft); flat flower plates to about 4 in across, often 5 in on a strong stem",
+  "sun": "Full sun — six or more hours, with good air movement; anything less and the tall stems lean",
+  "water": "Low; xeric once established — deep, infrequent soakings at most, and overwatering is the fastest way to kill it",
+  "spread": "Clump-forming, NOT running — it widens slowly from a woody rootstock rather than colonising by rhizomes the way common yarrow does; the straight species can self-sow, so deadhead ('Coronation Gold' is a non-reseeding selection)",
+  "seasons": "Grey-green ferny basal clump from early spring, semi-evergreen in mild winters; stiff stems topped with flat mustard-gold plates June through August, into September if deadheaded; the plates age to tan and the rigid stems hold them upright through winter if left standing",
+  "wildlife": "Attracts butterflies and bees — the flat corymbs are an open landing platform; the RHS gives 'Gold Plate' both an Award of Garden Merit and its 'Plants for Pollinators' mark",
+  "deer": "Deer-resistant and rabbit-resistant — the strongly aromatic, spicy foliage deters browsing",
+  "toxic": "Yarrow is listed as toxic to dogs, cats and horses; handling the aromatic foliage can cause contact dermatitis in Asteraceae-sensitive people — wear gloves when you cut it",
+  "winter": true,
+  "verified": "2026-07-28",
+  "origin": "The Caucasus and central/southwest Asia — Türkiye, Iraq, Iran, the Caucasus, Afghanistan, Central Asia and western Pakistan; naturalized in parts of Europe and North America",
+  "habitat": "Lean, stony, sharply drained slopes in semi-arid mountain country — roughly 3,200–5,200 ft, on ground receiving only about 14–17 in of rain a year",
+  "ph": {
+    "min": 6.0,
+    "ideal": 7.0,
+    "max": 8.0
+  },
+  "care": {
+    "hardiness": "Rock-solid here. The species is rated USDA 3–9, and RHS gives 'Gold Plate' its top H7 hardiness rating — hardy in the severest continental climates, below −20 °C — so Boulder's zone 5b–6a winters are no threat at all.[1][2][3] Heat is no threat either: NC State classes it heat-, humidity- and drought-tolerant, and it comes from semi-arid mountain country that receives only about 14–17 in of precipitation a year, which is drier than Boulder.[2][9] Cold and heat are both non-issues; wet feet are the one thing that reliably kills it.[1][2]",
+    "planting": "Set container-grown plants out any time in the growing season; on the Front Range, spring after the mid-May last frost or early September gives the roots the kindest weeks, and bare-root divisions are best planted in spring.[6] Site it in the leanest, sunniest, sharpest-draining spot you have and resist the urge to enrich the planting hole — lean, dry to medium, well-drained ground is the target, and rich or wet soil is what makes a 4 ft plant fall over.[1][2] It does grow in pots, but use a gritty, fast-draining mix in a container big enough that it does not cook bone-dry on a July afternoon; roots in pots sit far colder than in-ground crowns, so over winter sink the pot or move it somewhere sheltered and keep it barely moist — never soggy, since overwatering leads to root rot.[1][2]",
+    "sun": "Full sun — six or more hours of direct sun a day — plus good air movement.[1][2] For a 3–4 ft plant this is not negotiable: in shade the stems go soft and lean, and MBG ties floppy, stake-requiring growth directly to insufficient sun and overly rich soils.[1][4] Boulder's intense high-altitude sun is exactly what it wants; the more of it, the stiffer the stems.[1][2]",
+    "soil": "Lean, dry to medium, well-drained sandy loam is the ideal.[1] It takes clay, loam or sand at a neutral 6.0–8.0 pH, and RHS rates it for acid, alkaline or neutral ground, so Boulder's alkaline soil is chemically fine — drainage is the whole question.[2][3] What it will not tolerate is heavy, wet clay, particularly over winter.[1][3] On typical Front Range clay, plant it on a raised bed, a berm or a slope, or loosen the clay with coarse grit rather than feeding it with compost, and do not over-fertilize.[1][2] Skip the rich-soil treatment perennials usually get here: fertile, moist ground gives you a 4 ft plant lying flat after the first thunderstorm.[1][4]",
+    "water": "Low — genuinely xeric once established.[1][2] Water it regularly through the first season to root it in, then let it go: PlantTalk Colorado groups yarrow with the taller water-wise perennials for sun, and this species comes from country that gets only ~14–17 in of annual precipitation, less than Boulder does.[7][9] After establishment a deep soak every two or three weeks in the worst of a Front Range summer is plenty, and many gardens give it nothing at all. Overwatering is the number-one cause of failure — NC State warns plainly that overwatering leads to root rot, and MBG rules out wet soils outright — so never put it on the same drip zone as thirsty perennials.[1][2]",
+    "spacing": "Set plants 18–24 in apart, within the 12 in to 3 ft range NC State gives and allowing for the 2–3 ft mature spread; the tall 'Gold Plate' and 'Cloth of Gold' types want the wider end.[1][2] Design with mature size in mind and leave adequate room for growth — crowding costs you the air movement this plant specifically wants, and invites the mildew and rust it is otherwise mostly free of.[1][2][6]",
+    "propagation": "Division is the workhorse: lift the clump in spring, discard any woody dead centre and replant the vigorous outer pieces — RHS gives division in spring as the method, and MBG advises dividing clumps every 3–4 years anyway once they crowd.[1][3] NC State also lists seed, stem, leaf and root cuttings as workable routes.[2] Seed raises the straight species, which has largely been superseded in gardens by improved cultivars; named selections like 'Gold Plate' and 'Coronation Gold' must be divided to stay true.[2][4][16] CSU's rule for perennials is to divide spring- and summer-blooming plants in fall, but on the Front Range spring division is the safer call — it gives the new pieces a whole season to root before winter.[6]",
+    "bloom": "Flat, plate-like compound corymbs of tiny bright-golden flowers — to about 4 in across, and often 13 cm (5 in) on a strong stem — open June through August, and NC State notes they keep coming through most of the summer if the plant is deadheaded.[1][2][16] In its native range the flowering period is July–August; in Boulder's sun expect it to start in June and, deadheaded to lateral buds, carry into September the way the closely related 'Coronation Gold' does.[1][4][8] Cut spent flower stems down to the leaves for a neat plant.[1][2]",
+    "feeding": "Almost none. NC State's instruction is explicit — do not over-fertilize.[2] The plant is rated tolerant of poor and dry soils, and feeding buys you soft, lax, floppy stems rather than more flowers; MBG links staking directly to overly rich soils.[1][2][4] At most give a thin spring compost topdressing on genuinely dead ground; on ordinary Front Range soil, give it nothing.[1][2]",
+    "maintenance": "Deadhead to lateral buds through the summer, both to keep the bloom coming and to stop the straight species self-sowing.[1][2] Stake or hoop only if you have sited it badly — the honest fix is lean soil and full sun — though be warned that strong summer rainstorms with high winds can flatten even a well-grown planting, which on the Front Range is a real July risk.[1][4] Leave the dried plates and stiff stems standing over winter: less fall cutback and clean-up is now the recommended practice except where disease is present, and RHS's own instruction for this plant is to cut back untidy foliage in spring, not autumn.[3][6] The foliage is semi-evergreen, so cut the old stems down to the basal rosette in late winter before new growth pushes.[3] Divide every 3–4 years, when the clump crowds or the centre starts to thin.[1][2]",
+    "troubles": "Genuinely low-maintenance and largely trouble-free.[2] The named diseases are stem rot, powdery mildew and rust, with root rot following overwatering, and some cultivars show only fair-to-poor resistance to phytophthora.[1][2] Almost every Front Range failure is a siting mistake rather than a pathogen: crown and root rot from wet clay or a generous drip line, and flopping from rich soil, shade, fertilizer or a summer windstorm.[1][2][4] Give it air movement, keep water off the foliage, and do not crowd it.[1][2] One handling note: cutting the aromatic foliage can raise contact dermatitis in Asteraceae-sensitive people, so wear gloves.[5][12]",
+    "harvest": "This is the signature use — MBG rates the flowers Good Cut and Good Dried and calls them long-lasting, NC State says plainly that the flowers dry nicely and last a long time, and Illinois Extension names yarrow among the best flowers for air-drying.[1][2][15] Cut when the plate is fully open and evenly coloured but before any florets start to brown — an under-ripe head shatters, an over-ripe one dries dull. Harvest around midday, when the plant's water content is lowest, strip the leaves off the stems (they shrivel and mould inside a bundle), then bind small loose bunches with a rubber band or twist tie and hang them upside down in a warm, dark space with good air circulation; hanging upside down keeps the stems straight and the flower true to form, and darkness is what keeps the gold from bleaching.[15] They are dry in one to two weeks, stiff to the touch — Boulder's low humidity makes this easy — and the dried foliage keeps a strong, somewhat spicy aroma.[4][15]",
+    "companions": "Pair it with plants that share its lean, bone-dry, full-sun regime so one (nearly nonexistent) irrigation schedule serves them all — the other water-wise perennials for sun that PlantTalk Colorado groups yarrow with, plus Russian sage, lavender, penstemons, hardy ice plant, ornamental allium, blue grama and little bluestem.[7] The stiff gold plates are a strong horizontal against blue-violet spires and grass plumes, and the grey-green ferny foliage reads as silver from across the garden. MBG suggests borders, cottage gardens and naturalizing; NC State adds mass plantings, rock gardens, containers and specimen use.[1][2] Whatever you do, keep it out of any bed you irrigate for thirsty perennials.[1][2]"
+  },
+  "edible": {
+    "level": "caution",
+    "summary": "Grown as an ornamental and a dried flower, not as food. One extension database records in a single line that the leaves can be eaten raw or cooked, but the documented culinary and herbal tradition of yarrow belongs to common yarrow (Achillea millefolium), not to this species, and the genus carries real contact-allergy, photosensitivity and pet-toxicity concerns — treat fernleaf yarrow as a cut flower and leave the eating alone.[2][5][11][12]",
+    "parts": "There is no established food use for this species. NC State's toolbox entry for Achillea filipendulina carries a lone edibility line — the leaves can be eaten raw or cooked — with no preparation, quantity or safety guidance attached, and no cited tradition behind it.[2] By contrast, the same toolbox describes Achillea millefolium's leaves and flowers as bitter but edible raw or cooked in moderation, used in salads and teas: that is the yarrow with an actual kitchen record, and it is a different plant.[5] What people genuinely harvest from fernleaf yarrow is the flower plate, and it goes into a vase, not a pot.[1][2][15]",
+    "caution": "Treat this as a plant to handle carefully rather than one to eat. Yarrows are Asteraceae, and their sesquiterpene lactones — almost half of which are potential contact allergens, present in fresh and dried material alike at 0.01–8% of dry weight — make Compositae one of the top ten contact sensitivities; among Asteraceae-sensitive people 22–75% also show photosensitivity, which matters a great deal under Boulder's high-altitude sun.[12] Achillea's confirmed dermal sensitizers include α-peroxyachifolid and linalool, and thujone, reported among the genus's volatiles, has been reported to cause neurological toxicity on oral intake.[11][12] Handling the foliage can cause contact dermatitis — wear gloves.[5][12] Anyone pregnant or nursing should not ingest yarrow in any form: there are no safety data at all for A. filipendulina, and even for the far better-studied A. millefolium the reviews flag individual volatile components as safety concerns.[11] Keep it away from pets and livestock — the ASPCA lists yarrow as toxic to dogs, cats and horses, with glycoalkaloids (achillein), monoterpenes and the sesquiterpene lactone achillin as the toxic principles, and vomiting, diarrhoea, colic, drooling, anorexia, dermatitis and depression among the signs.[10] Finally, the identification warning that matters most: finely-divided, ferny grey-green foliage of this kind is exactly what gets confused with deadly poison hemlock (Conium maculatum) — a Colorado List C noxious weed, every part of which is extremely toxic to humans and livestock — and with water hemlock (Cicuta maculata).[13][14] University of Minnesota Extension explicitly lists yarrow among poison hemlock's look-alikes, separating them by leaf outline — hemlock's leaves are triangular, yarrow's are not — alongside hemlock's purple-spotted hollow stems and white carrot-family umbels.[13] Never eat any lacy-leaved plant you have not positively identified, and never eat nursery stock that may have been sprayed.[5][13]"
+  },
+  "references": [
+    {
+      "name": "Missouri Botanical Garden Plant Finder — Achillea filipendulina",
+      "url": "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=277264&isprofile=0"
+    },
+    {
+      "name": "NC State Extension Gardener Plant Toolbox — Achillea filipendulina (fernleaf yarrow)",
+      "url": "https://plants.ces.ncsu.edu/plants/achillea-filipendulina/"
+    },
+    {
+      "name": "Royal Horticultural Society — Achillea filipendulina 'Gold Plate'",
+      "url": "https://www.rhs.org.uk/plants/91601/achillea-filipendulina-gold-plate/details"
+    },
+    {
+      "name": "Missouri Botanical Garden Plant Finder — Achillea 'Coronation Gold'",
+      "url": "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=256931&isprofile=0"
+    },
+    {
+      "name": "NC State Extension Gardener Plant Toolbox — Achillea millefolium (common yarrow)",
+      "url": "https://plants.ces.ncsu.edu/plants/achillea-millefolium/"
+    },
+    {
+      "name": "Colorado State University Extension — Perennial Gardening",
+      "url": "https://extension.colostate.edu/resource/perennial-gardening/"
+    },
+    {
+      "name": "PlantTalk Colorado (CSU Extension) — 1039, Mountain Perennials: Choosing",
+      "url": "https://planttalk.colostate.edu/topics/annuals-perennials/1039-mountain-perennials-choosing/"
+    },
+    {
+      "name": "Flora of Pakistan — Achillea filipendulina (eFloras.org)",
+      "url": "http://www.efloras.org/florataxon.aspx?flora_id=5&taxon_id=242101003"
+    },
+    {
+      "name": "Effect of Habitat on Essential Oil of Achillea filipendulina L. in Iran (Asian Journal of Plant Sciences)",
+      "url": "https://scialert.net/fulltext/?doi=ajps.2008.779.781"
+    },
+    {
+      "name": "ASPCA Animal Poison Control — Yarrow (Achillea millefolium)",
+      "url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/yarrow"
+    },
+    {
+      "name": "Achillea Species as Sources of Active Phytochemicals for Dermatological and Cosmetic Applications (Evid. Based Complement. Alternat. Med., via PubMed Central)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8018854/"
+    },
+    {
+      "name": "Asteraceae species as potential environmental factors of allergy (Environ. Sci. Pollut. Res., via PubMed Central)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6428906/"
+    },
+    {
+      "name": "University of Minnesota Extension — Poison hemlock (identification & look-alikes)",
+      "url": "https://extension.umn.edu/identify-invasive-species/poison-hemlock"
+    },
+    {
+      "name": "Jefferson County, Colorado — Invasive Species Management: Poison Hemlock (Colorado List C)",
+      "url": "https://www.jeffco.us/2230/Poison-Hemlock"
+    },
+    {
+      "name": "Illinois Extension — Three simple techniques transform prized flowers into beautiful home decor (air-drying flowers)",
+      "url": "https://extension.illinois.edu/blogs/flowers-fruits-and-frass/2022-09-09-three-simple-techniques-transform-prized-flowers"
+    },
+    {
+      "name": "Wikipedia — Achillea filipendulina (corroboration)",
+      "url": "https://en.wikipedia.org/wiki/Achillea_filipendulina"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      1,
+      2,
+      3,
+      16
+    ],
+    "sun": [
+      1,
+      2,
+      3
+    ],
+    "water": [
+      1,
+      2,
+      7,
+      9
+    ],
+    "spread": [
+      1,
+      2,
+      4,
+      5
+    ],
+    "seasons": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "wildlife": [
+      2,
+      3
+    ],
+    "deer": [
+      1,
+      2
+    ],
+    "toxic": [
+      5,
+      10,
+      12
+    ],
+    "ph": [
+      2,
+      3
+    ],
+    "origin": [
+      1,
+      2,
+      8
+    ],
+    "habitat": [
+      1,
+      9
+    ]
+  },
+  "shots": [
+    {
+      "local": "images/su-close-t.jpg",
+      "full": "images/su-close.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/234752575/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — the dense, flat mustard-gold plate packed with tiny florets · © esdena (CC-BY-NC) / iNaturalist",
+      "by": "esdena",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/137450607"
+    },
+    {
+      "local": "images/su-flower-t.jpg",
+      "full": "images/su-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/394719722/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — a broad flat-topped plate held rigidly above the foliage · © Jamie Wood (CC-BY) / iNaturalist",
+      "by": "Jamie Wood",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/222806432"
+    },
+    {
+      "local": "images/su-pollinator-t.jpg",
+      "full": "images/su-pollinator.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/212517912/large.jpg",
+      "s": "summer",
+      "cap": "Summer — beetles and flies working the flat landing pad of a flower plate · © Ángel Fernández Cancio (CC-BY-NC) / iNaturalist",
+      "by": "Ángel Fernández Cancio",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/125326091"
+    },
+    {
+      "local": "images/su-mass-t.jpg",
+      "full": "images/su-mass.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/401591446/large.jpg",
+      "s": "summer",
+      "cap": "Summer — gold plates massed over grey-green ferny foliage · © nheintz (CC-BY-NC) / iNaturalist",
+      "by": "nheintz",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/226437477"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/381337369/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — stiff 3–4 ft stems holding the plates against the sky · © Franck Hidvegi (CC-BY-NC) / iNaturalist",
+      "by": "Franck Hidvegi",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/215670231"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/242929933/large.jpg",
+      "s": "summer",
+      "cap": "Summer — the coarse, grey-green, deeply cut aromatic foliage · © Warren Layberry (CC-BY-NC) / iNaturalist",
+      "by": "Warren Layberry",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/141760624"
+    },
+    {
+      "local": "images/su-clump-t.jpg",
+      "full": "images/su-clump.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/135409110/large.jpg",
+      "s": "summer",
+      "cap": "Summer — the whole clump, showing its upright non-running habit · © alinablack (CC-BY-NC) / iNaturalist",
+      "by": "alinablack",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/82499311"
+    },
+    {
+      "local": "images/fa-dried-t.jpg",
+      "full": "images/fa-dried.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/546608414/large.jpg",
+      "s": "fall",
+      "cap": "Fall — plates aged to rust and tan, the state they dry to for arrangements · © pedro_fonseca_alverca (CC-BY-NC) / iNaturalist",
+      "by": "pedro_fonseca_alverca",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/303276429"
+    }
+  ]
+}

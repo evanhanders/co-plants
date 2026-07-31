@@ -1,0 +1,268 @@
+{
+  "common": "Sneezewort",
+  "botanical": "Achillea ptarmica",
+  "aka": [
+    "'The Pearl' sneezewort",
+    "Boule de Neige",
+    "Sneezeweed yarrow",
+    "Bachelor's buttons",
+    "Goose tongue",
+    "Pearl yarrow",
+    "Fair-maid-of-France",
+    "White tansy"
+  ],
+  "type": "Forb",
+  "lifecycle": "Perennial",
+  "native": "Non-native",
+  "collection": "yarrows",
+  "flower_color": [
+    "white"
+  ],
+  "bloom": [
+    "summer",
+    "fall"
+  ],
+  "bloom_season": "Summer",
+  "blurb": "The odd one out of the yarrows, and unmistakably so. Instead of flat corymbs of tiny florets over ferny, dissected foliage, sneezewort carries loose, airy sprays of small round white buttons — in the garden form 'The Pearl' fully double, like tiny pompons or a coarse baby's breath — over narrow, undivided, finely toothed willow-like leaves. Look at it beside common yarrow and you would not guess they were the same genus. A cottage-garden and florist's filler flower that dries beautifully, with two honest catches: it is the one yarrow that is not xeric, and it runs hard by rhizome.",
+  "size": "~1.5–2 ft tall × 1.5–2 ft wide (erect flowering stems to ~3 ft / 90 cm on moist, fertile ground)",
+  "sun": "Full sun to part shade — full sun only where you are genuinely watering it; afternoon shade is the safer choice under our high-altitude sun",
+  "water": "Moderate to high — the ONE yarrow that is not xeric. Wants steadier moisture than any other Achillea and crisps and quits in a dry bed, but rots in soggy, poorly drained clay. Not a xeriscape plant, and a real water cost here.",
+  "spread": "Runs hard by branching rhizome into spreading colonies, and the single-flowered species also seeds freely — its main practical drawback; plan on confining it and dividing every 2–3 years",
+  "seasons": "Narrow, dark-green, willow-like toothed leaves from spring; loose sprays of small white buttons June through September; herbaceous — dies to the ground after hard frost with essentially no winter presence",
+  "wildlife": "Bees and flies work the open flowers; RHS lists it for wildlife gardens, and it is a classic fresh-and-dried cut filler",
+  "deer": "Deer- and rabbit-resistant, like the other yarrows",
+  "toxic": "No serious human toxicity documented, but yarrow foliage can cause allergic contact dermatitis, and Achillea is listed as toxic to dogs, cats and horses if eaten",
+  "winter": false,
+  "verified": "2026-07-28",
+  "origin": "Europe and western Asia — widespread across most of Europe, east into western Asia",
+  "habitat": "Damp acid grassland, wet meadows, marshes, ditches and streamsides, often on heavy clay-based soils",
+  "ph": {
+    "min": 5.0,
+    "ideal": 6.5,
+    "max": 7.8
+  },
+  "care": {
+    "hardiness": "Cold is a non-issue. MBG rates it USDA 3–9, and the RHS gives it an H7 hardiness rating — hardy in the severest European continental climates, below −20 °C — so Boulder's zone 5b–6a winters never threaten it.[1][2] It is fully herbaceous, dying to the ground after hard frost and re-sprouting from the rhizomes in spring.[2][4] What limits it here is the other end of the year: heat, dry air and intense high-altitude sun on a plant whose wild home is damp northern grassland, wet meadow and marsh.[6][12][13]",
+    "planting": "Set container-grown plants out any time in the growing season; bare-root plants and divisions are best planted in spring in Colorado.[7] Choose the site for two things at once — water and containment. Put it where you already irrigate (a low spot, a downspout run, the wet end of a drip line), and put it somewhere you can hold it: a bed with a hard edge, a strip between path and wall, or sunk in a bottomless container, because this is a vigorously rhizomatous plant that spreads into a colony.[1][2][6] Work organic matter about 12 inches deep before planting — on Boulder's clay that buys both the moisture retention this plant wants and the drainage it needs.[7] It grows well in a large pot, which is the tidiest way to contain the rhizomes, but a container on the Front Range dries out far faster than sneezewort tolerates, so expect near-daily watering in July, and either sink the pot or shelter it over winter since roots in pots are less cold-hardy than in-ground crowns.[1][7]",
+    "sun": "MBG lists full sun to part shade, while the RHS grows it in partial shade on an east-, north- or west-facing aspect.[1][2] Split the difference here: full sun works only if you are genuinely watering it, and afternoon shade is the safer choice under our thin high-altitude light — it buys the plant hours it would otherwise spend losing water. Too much shade, though, and the stems stretch and flop.[1][2]",
+    "soil": "It is easy about soil chemistry and particular about moisture and drainage together. The RHS lists acid, alkaline or neutral soil, and PFAF records it on light sandy through heavy clay ground across mildly acid to mildly alkaline pH, so Boulder's alkaline clay is not the obstacle.[2][13] In the wild it grows on damp acid grassland and heavy clay-based ground beside streams.[12] But MBG is blunt that it does poorly in wet sites or in heavy, poorly drained soil, so the target is moisture-retentive and free-draining at once: compost worked about 12 inches deep, and no spot where winter water stands.[1][7]",
+    "water": "This is the field that matters, and it is where sneezewort parts company with every other yarrow in this guide. The RHS says it plainly — it requires a more moist soil than most other achilleas, but not waterlogged — and its wild habitat is damp meadow, marsh, ditch and streamside.[2][12][13] Do not put it on the lean, dry, water-it-once-a-month regime that suits 'Moonshine' or common yarrow: in a dry Front Range bed the leaf margins brown, bloom stalls, and the clump goes dormant early. Plan on a deep soak roughly once a week through summer and more in a heat wave, delivered by drip and held in by mulch, which is one of the simplest ways to conserve water here.[2][7] New plantings in full sun often need water every couple of days for the first month, then every four to six days after that.[7] Equally, do not drown it — MBG warns it does poorly in wet, poorly drained sites, so the goal is steady moisture with drainage, not a bog.[1] Be honest with yourself before planting: this is a genuine water cost in a semi-arid climate, and it does not belong in a xeriscape or an unirrigated bed.[1][2][12]",
+    "spacing": "Space plants about 18–24 in apart to match a mature spread of roughly 1.5–2 ft, and design with that mature size in mind rather than the size of the pot you bought.[1][7] There is little point crowding them: the rhizomes close the gaps on their own within a season or two, and the wider spacing makes the annual job of cutting the colony back to its allotted space far easier.[1][6]",
+    "propagation": "Division in spring is the method — the RHS names it for both the clonal 'The Pearl' and the seed-raised group, and dividing every two to three years also keeps the clump vigorous and doubles as your containment programme.[1][2][3] It is also the only way to keep a good double true, which matters more than it sounds: the RHS lists a clonal 'The Pearl' separately from a seed-raised The Pearl Group, and describes the seed-raised plants as variable, with semi-double to fully double white flowers — so a packet of 'The Pearl' seed routinely yields disappointingly semi-double plants rather than the tight pompons in the catalogue photograph.[2][3] Beg or buy a division of a named clone if the fully double button is what you are after. Seed of the species germinates readily in one to three months sown in spring or early autumn, and basal cuttings taken in spring root in about three weeks.[13]",
+    "sow": "Sow in spring or early autumn; germination takes roughly one to three months, and Achillea germination is improved by exposure to light, so surface-sow or barely cover the seed.[6][13] Sowing is really only worth it for the straight single-flowered species or for deliberately variable seed strains — for a reliable double, divide instead.[2][3] Whatever you sow, keep track of the volunteers: this species seeds freely and both the single and the double forms persist in the wild.[4][6]",
+    "bloom": "Loose corymbs of small, button-like white flowers open from June through September on the Front Range — in 'The Pearl' pure white, about ½ in across, fully double and resembling pompons, borne on erect leafy stems.[1][3] Minnesota records the wild bloom as July through September, so expect the display to build through midsummer and carry into early fall.[4] Deadhead as heads brown: it prolongs the display and, more importantly, stops seed set.[1][6] For drying, the RHS advises cutting when the stems just below the flower are no longer floppy when shaken and most of the flowers are still white, then hanging the bunches upside down for a few weeks.[2]",
+    "feeding": "Almost none. MBG notes it tolerates poor soils with adequate drainage and rates it low-maintenance, and rich, fertile ground produces exactly the lax, floppy growth you do not want on a plant that already leans.[1] A spring topdressing of compost is plenty; skip the nitrogen.[1][7]",
+    "maintenance": "The RHS's entire pruning instruction is to cut back untidy foliage in spring, and that is essentially the routine: leave the spent stems standing over winter — less fall cutback supports overwintering pollinators and wildlife — then cut to the ground in late winter before new growth pushes, the exception being any foliage that carried powdery mildew, which is better removed.[2][7] Through summer, deadhead as heads go over, and expect to slip a grow-through hoop or pea-stakes over the clump in a rich or shaded spot before the stems flop.[1][2] Divide every two to three years to keep the clump vigorous.[1] And walk the edge of the patch once a year with a spade: MBG notes it spreads by rhizomes and can look weedy without regular division, and an unedged colony here will simply keep going.[1][6]",
+    "selfsow": "Take this seriously — it is the plant's real drawback and the reason to site it deliberately. Sneezewort reproduces both by abundant seed and by branching rhizomes, and the Alaska Center for Conservation Science weed risk assessment scores it 42 of 90 possible points (a relative score of 0.47) as a garden ornamental that has escaped cultivation.[6] It is widely naturalized across the northern half of North America, is an infrequent weed in Minnesota where both the single and the double forms persist in the wild, and had been recorded from 17 of the northern United States, including Alaska.[4][5][6] It can also hybridize with native Achillea species, which is a genetic risk as well as a weediness one.[6] Two mitigating facts: the seeds lack a pappus and are not dispersed long distances, and it does not grow into impenetrable thickets.[6] Be clear about the local rule, too — Achillea ptarmica is not on Colorado's noxious weed lists A, B or C, on the Watch List, or on the state Noxious Weed Seed List (checked July 2026); it is unlisted and legal to grow here. Grow it with discipline anyway: deadhead before seed set, keep it out of a bed that adjoins open space, a ditch or a creek, never dump divisions or spent dried arrangements where they can reach wild ground, and plant it where a spade edge or a buried container can hold it.[1][6]",
+    "troubles": "Aphids and powdery mildew are the two the RHS flags, and mildew is the likelier of the pair in a crowded, shaded or overhead-watered planting — give it airflow and water at the roots.[2] MBG adds the two siting failures: it does poorly in wet sites or in heavy, poorly drained soil, and it can look weedy and spread by rhizomes if it is not divided regularly.[1] The third failure is ours: drought stress, which shows as browned leaf margins and a clump that quits in August.[2][12] None of those is really a disease — they are all decisions about where you put it.",
+    "companions": "Group it by water need, not by family. Its natural bedfellows here are the other moisture-wanting perennials — great burnet, swamp milkweed, Rocky Mountain iris, garden phlox, Japanese anemone, switchgrass — so a single irrigation zone serves them all.[1][7] Keep it away from the xeric plants its name would put it beside: lavender, Russian sage and the drought-loving yarrows will rot on the schedule sneezewort needs.[1][2] The RHS suggests it for prairie planting, cottage and informal gardens, gravel gardens, wildlife gardens and cut-flower borders, and its real design job is the one baby's breath does — an airy white filler that separates strong colours, fresh or dried.[2] Plan the bed with mature sizes in mind.[7]"
+  },
+  "edible": {
+    "level": "caution",
+    "food": false,
+    "summary": "Not a food plant. Old European sources record the young leaves eaten raw or cooked as a pungent salad flavouring, and the dried, powdered leaves and roots used as a sneezing snuff — but the plant is literally named for making people sneeze, it numbs the mouth, and no extension service or botanical authority documents it as a modern food.[12][13][14] Grow it for the flowers, not the table.[1]",
+    "parts": "The documented parts are the young leaves — eaten raw or cooked and used as a flavouring in salads — and the leaves and roots dried and powdered as a sternutatory, the 'sneezing powder' the plant is named for; chewing the root was a folk toothache remedy.[12][13][14] Eating a leaf produces a numbing, tingling effect in the mouth compared to Sichuan pepper, which is exactly what the toothache use exploited and also why nobody eats it in quantity.[14] Note the limits of that record: it rests on Plants For A Future and general reference works rather than on any authority this guide would accept alone for a safety claim, and the nearest extension source, NC State, documents bitter, eat-in-moderation leaves and flowers for common yarrow (Achillea millefolium) — a different species — not for this one.[8][13][14] So while its cousins in the yarrows family card are treated here as sparing culinary herbs, sneezewort is not: treat it as an ornamental and cut flower.[1]",
+    "caution": "Start with the name. The epithet ptarmica is from the Greek for 'to cause a sneeze', and the dried, powdered plant was used deliberately as sneezing snuff — that is an irritant effect on the nose and airway, not a harmless curiosity, and on its own it argues against casual eating.[12][14] Genus-level risks then apply. The European Medicines Agency's assessment of yarrow (A. millefolium) records α-thujone in the essential oil as 'the known toxic principle', while concluding the concentrations in yarrow preparations are too low to present a risk to human health; the same report states that because data are insufficient, use during pregnancy and lactation is not recommended, and that use in children and adolescents under 18 has not been established.[10] Allergy is the better-documented hazard: yarrow is contraindicated in anyone with known hypersensitivity to Asteraceae/Compositae (yarrow, arnica, chamomile, marigold), the sesquiterpene lactone alpha-peroxyachifolid is identified as responsible for its allergic contact dermatitis, and the EMA records a case of occupational rhinitis, asthma and urticaria in a woman who handled dried yarrow flowers — worth knowing for a plant grown largely for drying.[10] Wear gloves when cutting it back, as NC State advises for yarrow generally.[8] On photosensitivity, be accurate rather than alarmist: it is widely repeated for yarrow, but the EMA report notes that alcoholic extracts of dried A. millefolium leaves and stalks did not produce a phototoxic response, so allergic contact dermatitis — not sunburn — is the documented skin risk.[10] Keep it away from animals: the ASPCA lists yarrow as toxic to dogs, cats and horses, with glycoalkaloids (achillein), monoterpenes and sesquiterpene lactones (achillin) as the toxic principles and vomiting, diarrhea, colic, drooling, anorexia, dermatitis and depression among the clinical signs.[9] Finally, identification, twice over. Yarrow-family foliage is routinely confused with deadly poison hemlock (Conium maculatum, a Colorado List C noxious weed, every part of which is poisonous to humans and animals, with shiny finely divided leaves and purple-spotted stems) and with water hemlock (Cicuta) — never eat a wild-collected 'yarrow' without being certain.[11] Honestly, sneezewort is the easy one to tell apart: its leaves are narrow, undivided, willow-like and finely toothed, nothing like common yarrow's dissected ferny foliage and nothing like a hemlock's compound lace — a reason to worry less about this species, not a reason to skip the check.[4][12] And do not confuse the name either: 'sneezeweed' is a common name shared with Helenium and Hymenoxys hoopesii, yellow-petalled American plants in the same family and entirely different genera from this white-flowered European Achillea.[15]"
+  },
+  "references": [
+    {
+      "name": "Missouri Botanical Garden Plant Finder — Achillea ptarmica (The Pearl Group)",
+      "url": "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=261946"
+    },
+    {
+      "name": "Royal Horticultural Society — Achillea ptarmica (The Pearl Group) 'The Pearl' (clonal)",
+      "url": "https://www.rhs.org.uk/plants/54852/achillea-ptarmica-(the-pearl-group)-the-pearl-(clonal)-(d)/details"
+    },
+    {
+      "name": "Royal Horticultural Society — Achillea ptarmica The Pearl Group, seed-raised",
+      "url": "https://www.rhs.org.uk/plants/100646/achillea-ptarmica-the-pearl-group-seed-raised-(d)/details"
+    },
+    {
+      "name": "Minnesota Wildflowers — Achillea ptarmica (Sneezewort)",
+      "url": "https://www.minnesotawildflowers.info/flower/sneezewort"
+    },
+    {
+      "name": "Go Botany, Native Plant Trust — Achillea ptarmica (pearl yarrow)",
+      "url": "https://gobotany.nativeplanttrust.org/species/achillea/ptarmica/"
+    },
+    {
+      "name": "Alaska Center for Conservation Science, University of Alaska Anchorage — Weed Risk Assessment: Achillea ptarmica",
+      "url": "https://accs.uaa.alaska.edu/wp-content/uploads/Achillea_ptarmica_RANK_ACPT.pdf"
+    },
+    {
+      "name": "Colorado State University Extension — Perennial Gardening",
+      "url": "https://extension.colostate.edu/resource/perennial-gardening/"
+    },
+    {
+      "name": "NC State Extension Gardener Plant Toolbox — Achillea millefolium (genus reference)",
+      "url": "https://plants.ces.ncsu.edu/plants/achillea-millefolium/"
+    },
+    {
+      "name": "ASPCA Animal Poison Control — Yarrow (Achillea millefolium)",
+      "url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/yarrow"
+    },
+    {
+      "name": "European Medicines Agency, HMPC — Assessment report on Achillea millefolium L., flos",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-report/draft-assessment-report-achillea-millefolium-l-flos_en.pdf"
+    },
+    {
+      "name": "Jefferson County, Colorado — Poison Hemlock (Conium maculatum), Colorado List C noxious weed",
+      "url": "https://www.jeffco.us/2230/Poison-Hemlock"
+    },
+    {
+      "name": "First Nature — Achillea ptarmica, Sneezewort: identification, distribution, habitat",
+      "url": "https://www.first-nature.com/flowers/achillea-ptarmica.php"
+    },
+    {
+      "name": "Plants For A Future — Achillea ptarmica (corroboration)",
+      "url": "https://pfaf.org/user/Plant.aspx?LatinName=Achillea+ptarmica"
+    },
+    {
+      "name": "Wikipedia — Achillea ptarmica (corroboration)",
+      "url": "https://en.wikipedia.org/wiki/Achillea_ptarmica"
+    },
+    {
+      "name": "Wikipedia — Sneezeweed, a shared common name (corroboration)",
+      "url": "https://en.wikipedia.org/wiki/Sneezeweed"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "sun": [
+      1,
+      2
+    ],
+    "water": [
+      1,
+      2,
+      12,
+      13
+    ],
+    "spread": [
+      1,
+      4,
+      5,
+      6
+    ],
+    "seasons": [
+      1,
+      2,
+      4
+    ],
+    "wildlife": [
+      2,
+      6,
+      13
+    ],
+    "deer": [
+      8
+    ],
+    "toxic": [
+      8,
+      9,
+      10
+    ],
+    "ph": [
+      2,
+      12,
+      13
+    ],
+    "origin": [
+      1,
+      5,
+      14
+    ],
+    "habitat": [
+      6,
+      12,
+      13
+    ]
+  },
+  "shots": [
+    {
+      "local": "images/su-close-t.jpg",
+      "full": "images/su-close.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551533807/large.jpg",
+      "s": "summer",
+      "cap": "Summer — the fully double white pompoms of the 'The Pearl' type · © ole4ka_ (CC-BY-NC) / iNaturalist",
+      "by": "ole4ka_",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/305868704"
+    },
+    {
+      "local": "images/su-flower-t.jpg",
+      "full": "images/su-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/30945759/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — double button flowers in loose sprays · © Joanne Muis Redwood (CC-BY-NC) / iNaturalist",
+      "by": "Joanne Muis Redwood",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/20044012"
+    },
+    {
+      "local": "images/su-single-t.jpg",
+      "full": "images/su-single.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/144949721/large.jpg",
+      "s": "summer",
+      "cap": "Summer — the single wild form: white rays around a soft cream disc · © Phaulactis (CC-BY-NC) / iNaturalist",
+      "by": "Phaulactis",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/87887730"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/85194899/large.jpg",
+      "s": "summer",
+      "cap": "Summer — the narrow, undivided, finely toothed willow-like leaves — nothing like a yarrow's ferny foliage · © Boris Bolshakov (CC-BY-NC) / iNaturalist",
+      "by": "Boris Bolshakov",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/53560917"
+    },
+    {
+      "local": "images/su-habitat-t.jpg",
+      "full": "images/su-habitat.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/62371462/large.jpg",
+      "s": "summer",
+      "cap": "Summer — flowering at a water's edge, the damp ground it wants in the wild · © Andreas Rockstein (CC-BY-NC) / iNaturalist",
+      "by": "Andreas Rockstein",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/39323959"
+    },
+    {
+      "local": "images/su-mass-t.jpg",
+      "full": "images/su-mass.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/368406086/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — a spreading colony in full bloom, showing how it runs · © sergey_stefanov (CC-BY-NC) / iNaturalist",
+      "by": "sergey_stefanov",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/208232476"
+    },
+    {
+      "local": "images/su-context-t.jpg",
+      "full": "images/su-context.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/214377676/large.jpg",
+      "s": "summer",
+      "cap": "Summer — flowering through rough damp grassland · © fahrenheit_66 (CC-BY-NC) / iNaturalist",
+      "by": "fahrenheit_66",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/126353389"
+    },
+    {
+      "local": "images/fa-seed-t.jpg",
+      "full": "images/fa-seed.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/694710535/large.jpg",
+      "s": "fall",
+      "cap": "Fall — flowers gone over to dry seedheads · © Alex Press (CC-BY) / iNaturalist",
+      "by": "Alex Press",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/379772614"
+    }
+  ]
+}

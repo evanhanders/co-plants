@@ -1,4 +1,5 @@
 {
+  "collection": "speedwells",
   "common": "Turkish speedwell",
   "botanical": "Veronica liwanensis",
   "type": "Groundcover",
@@ -63,9 +64,6 @@
     ],
     "deer": [
       1,
-      2
-    ],
-    "toxic": [
       2
     ],
     "origin": [

@@ -1,4 +1,5 @@
 {
+  "collection": "sages",
   "common": "Mojave sage",
   "botanical": "Salvia pachyphylla",
   "type": "Subshrub",
@@ -67,10 +68,6 @@
     ],
     "deer": [
       1
-    ],
-    "toxic": [
-      1,
-      3
     ],
     "origin": [
       3

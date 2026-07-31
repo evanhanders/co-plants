@@ -1,0 +1,279 @@
+{
+  "common": "Common yarrow",
+  "botanical": "Achillea millefolium",
+  "aka": [
+    "Yarrow",
+    "Milfoil",
+    "Western yarrow",
+    "Achillea millefolium var. occidentalis",
+    "Achillea lanulosa",
+    "Thousandleaf",
+    "Soldier's woundwort"
+  ],
+  "type": "Forb",
+  "lifecycle": "Perennial",
+  "native": "CO native",
+  "collection": "yarrows",
+  "flower_color": [
+    "white",
+    "pink"
+  ],
+  "bloom": [
+    "spring",
+    "summer",
+    "fall"
+  ],
+  "bloom_season": "Summer",
+  "blurb": "The wild yarrow: flat-topped, dome-shaped corymbs of tiny white — occasionally pale pink — florets held over finely dissected, aromatic, fern-like grey-green foliage, from late spring to frost. It grows wild across Colorado from the plains to near timberline, asks for nothing, shrugs off drought and deer, and feeds an enormous range of small bees, butterflies and beneficial predators. It is also a genuine runner: extensive rhizomes plus free self-sowing will colonize a bed and walk into the lawn if you let them.",
+  "size": "~1–3 ft tall × 1–3 ft wide as a clump — but the rhizomes carry it steadily outward, so the practical footprint is however much room you give it",
+  "sun": "Full sun (6+ hours) — it tolerates part shade, but flowering is delayed, seed set is limited and the stems lodge",
+  "water": "Very low — genuinely xeric; little to no supplemental irrigation once established, and overwatering is the surest way to ruin it",
+  "spread": "Aggressive on two fronts — an extensive rhizome system that forms spreading colonies and free self-sowing; it runs into lawn and neighbouring beds, so confine it with edging or a contained bed and deadhead before seed set",
+  "seasons": "Ferny grey-green foliage pushing early in spring; flat white corymbs from late spring through summer into early fall; tan seedheads and dry stems after, good in dried arrangements; the basal rosette often stays green right through winter",
+  "wildlife": "A generalist's buffet — butterflies, bees (of special value to native bees), and a long roster of beneficial predators recorded on it in Colorado: green lacewings, lady beetles, hoverflies and tachinid flies; the flowers are a primary food of blue copper butterflies",
+  "deer": "Deer-resistant in practice — the bitter aromatic foliage is rated poor forage for cattle and horses — but not deer-proof: deer palatability is rated 'fair' and sheep will graze the flower heads",
+  "toxic": "Contains volatile oils, alkaloids and glycosides; the ASPCA lists it toxic to dogs, cats and horses, and handling the foliage causes contact dermatitis in sensitive people — wear gloves",
+  "winter": true,
+  "verified": "2026-07-28",
+  "ph": {
+    "min": 6.0,
+    "ideal": 7.0,
+    "max": 8.0
+  },
+  "care": {
+    "hardiness": "Rated USDA 3a–9b, so Boulder's zone 5b–6a is nowhere near its limits.[6][7] This is not a plant you coax through a Front Range winter — it is already here, occupying 4,000 to 12,000 feet of Colorado elevation in the wild, and its basal rosette commonly stays green year-round rather than dying back.[3] It grows from sea level to about 11,000 feet across its range and survives a wide spread of climates and soils.[1] The things that actually kill it here are wet feet and kindness, not cold.[1][6]",
+    "planting": "Set container-grown plants out any time in the growing season — spring after the mid-May last frost, or early September, gives the easiest establishment; bare-root divisions go in in spring.[8] Loosen the top 12–15 inches of soil first, and site it in a genuinely sunny, well-drained spot.[1] Be deliberate about *where*: this plant spreads by rhizome and seed into substantial colonies if left unchecked, so plant it inside edging, in a hell strip, in a contained bed, or out in a rough meadow planting — not tucked between small choice perennials it will overrun.[1][7] It is one of the better natives for a pot precisely because it wants lean, fast-draining soil and almost no water: use a gritty, unamended mix, never a moisture-retentive one, since root rot in wet soil is its main failure mode.[1][6] A container also happens to be the simplest way to enjoy it without turning it loose. Push winter pots against a warm wall and water them on above-freezing days from November to February, the same as any Front Range perennial.[8] **Buy your plant honestly:** if you want the genuinely native western yarrow rather than a European-derived garden strain, source it from a regional native-seed supplier (MASA Seed Foundation in Boulder, BBB Seed) and ask what the seed source was — see the propagation note for why the label alone will not tell you.[1][2]",
+    "sun": "Full sun — six or more hours of direct sun, in lean open ground.[6][7] It thrives in dry, open, sunny areas at temperatures above 50 °F, and it is intolerant of dense shade.[1][3] It will *survive* in part shade, but flowering is delayed and seed production limited, and shaded stems lodge.[1][3][7] Under our high-altitude sun this is one of the few plants where 'full, brutal, unshaded exposure' is simply correct.",
+    "soil": "Lean and well-drained is the whole recipe. It is best in lean, dry to medium, well-drained sandy loams, tolerates poor soils as long as drainage is good, and grows on various-textured and infertile substrates without complaint.[1][7] It tolerates acid, neutral and alkaline pH, so Boulder's alkaline clay is genuinely fine — the guidance for it is roughly pH 6.0–8.0, and it prefers poor or lime-rich ground.[1][6][15] What you must not do is improve the soil for it. Rich, moist soil makes the stems flop, and root rot in poorly drained soils is a documented problem, so if you are working with heavy clay, fix the *drainage* (grit, a raised bed, a slope) rather than adding compost and moisture-holding organic matter.[1][6][7]",
+    "water": "This is one of the few plants in this guide that is honestly, uncomplicatedly xeric: it is drought tolerant and requires little to no irrigation, with supplemental water called for only where weekly precipitation falls below about an inch.[1] Drought tolerance is rated high — it famously stays green after the grass around it has browned off.[5][15] Water it regularly through its first season to get roots down, then essentially stop: an occasional deep soak in a prolonged hot dry spell is plenty, and root rot in overly wet soil is the main way gardeners kill it.[6][8] Put it on the driest zone you have, or on no zone at all.",
+    "spacing": "Space plants about 3 ft apart in a sunny area; mature clumps run 1–3 ft across before the rhizomes take over.[1][6][7] Plan the bed around mature sizes and leave adequate room for growth.[8] Spacing is a bit academic with a plant that colonizes — the real design decision is the *boundary* (edging, path, curb) that stops it, not the gap between plants.[1][7]",
+    "propagation": "Division is fastest and most reliable: lift and split patches every 3 to 4 growing seasons to keep them vigorous, and reset the vigorous outer pieces.[1] CSU puts the general perennial interval at three to five growing seasons, and MBG at two to three years for this species, so anywhere in that range is defensible — divide when bloom thins or the centre opens up.[7][8] Root cuttings also work, set into warm soil in direct sunlight in spring or fall.[1] Seed is easy too (see below), and a happy plant will hand you volunteers whether you asked for them or not.[7][9] **Provenance is the subtle part.** *A. millefolium* is a circumboreal complex whose North American native forms — treated as var. *occidentalis*, the entity older floras call var. *lanulosa* or *A. lanulosa* — are mostly tetraploid, while typical European yarrow is hexaploid; the two differ mainly in chromosome number and are very hard to tell apart in the garden.[1][3] USDA PLANTS accordingly lists the species as **both native and introduced** in the lower 48, while the native variety *occidentalis* is listed as native only.[2] The introduced European race is the most common form in the United States and is practically identical to the native one, which is exactly why the true native range is difficult to determine.[1] MBG states flatly that European and Asian common yarrow was brought over in colonial times and has naturalized across the continent.[7] So: 'CO native' is true of the species and of the plants growing wild on our foothills, but the flat of seedlings at a big-box store is as likely to be a European strain. If native provenance matters to you — and for a keystone insect plant it reasonably does — buy regional native seed and ask about the collection source rather than trusting the Latin binomial.[1][2][3]",
+    "sow": "Sow outdoors from September through April, or start it indoors in the same window.[1] The seed needs light to germinate, so surface-sow and press it into firm contact rather than burying it; germination follows in one to two weeks once the soil warms.[1] A fall or winter outdoor sowing is the low-effort Front Range route, because our winter supplies the required cold period for free.[1] Seed is prolific — roughly 2.2 to 4.1 million seeds per pound — and stays viable for 5 to 7 years stored cool and dry at about 40–50 °F, so a single packet goes an extraordinarily long way.[1] Keep the bed weed-free until it establishes.[1]",
+    "stratify": "The seed requires about one month of cold stratification before it will germinate.[1] Outdoors that is automatic: sow any time from September to early spring and let a Boulder winter do it. Indoors, mix the seed with barely damp sand or vermiculite, bag it, and hold it in the refrigerator for four weeks before sowing warm and bright.[1]",
+    "depth": "No deeper than about ¼ inch — and shallower is better, because the seed wants direct light to germinate, so surface-sowing with firm seed-to-soil contact is the safest reading of the guidance.[1] For broadcast seeding at scale the rate is 1 to 2 pounds per acre, doubled if broadcast rather than drilled.[1]",
+    "bloom": "Flowering runs from May until early fall depending on the season, which on the Front Range means roughly late May or June through September, with the heaviest flush in early summer.[1][6][7] Colorado's wild montane populations peak earlier, in May and June.[3] Each flat, dome-shaped corymb is about ½ to 1 inch wide and packs 10 to 100 tiny florets, white with the occasional pale-pink form.[1][5] Deadhead as heads brown: cutting or mowing spent flower heads promotes a second round of bloom, and pinching spent flowers before they set seed keeps yarrow re-blooming.[1][9] Cutting the stems back in late spring, before flowering, reduces the ultimate height and the flopping that goes with it.[7]",
+    "feeding": "Don't. It does not require fertilizer to grow successfully, and it thrives on cold, low-nutrient, infertile soils.[1] Feeding produces exactly the failure mode you are trying to avoid — soft growth on stems that are already weak and lodge easily, worst of all in moist, rich soil.[7] The one narrow exception in the literature is container-raised plugs, which can benefit from a 5N:4P:2K feed when transplanted on.[1] In the ground, on the Front Range, give it nothing.",
+    "maintenance": "Low, but not zero — and the work is containment, not coddling. Deadhead through the season to extend bloom and, critically, to keep it from self-seeding and becoming invasive.[1][9] Cut back in late spring before bloom if you want shorter, self-supporting stems; unmanaged plants have weak stems that lodge and can become a tangled mass by mid-summer.[7] Divide every 2–4 years to maintain vigour, and use that pass to physically cut the colony back to the footprint you want.[1][7] Edge it, or better, run a mowed strip or hard curb along the side facing your lawn — extensive rhizomes make it difficult to remove once established.[1] Leave the tan seedheads standing over winter for structure and wildlife if you have kept it inside bounds; minimal fall cleanup is now the recommended practice unless disease is present.[8] Wear gloves whenever you handle it: the foliage is a known cause of contact dermatitis.[6][11]",
+    "selfsow": "Yes, freely, and you should plan for it. Deadheading is specifically recommended to prevent yarrow from self-seeding and becoming invasive, and MBG notes plants spread aggressively by rhizomes *and* self-seeding and will naturalize into substantial colonies if left unchecked.[7][9] NC State bluntly calls it potentially too weedy for flower-bed borders.[6] With 2.2–4.1 million seeds per pound and 5–7 year seed longevity, one un-deadheaded season buys you volunteers for years.[1] The practical routine: cut spent heads off before they turn brown and hard, pull volunteers while they are small, and if you want it truly hands-off, put it somewhere a colony is welcome — a meadow, a curb strip, a dry bank — where the NRCS suggestion of seeding it into a contained area or among other competitive plants applies.[1] This is not a reason to avoid the plant; it is a reason to site it on purpose.",
+    "troubles": "Very few diseases, and all of them are wet-soil or crowding problems: gray mold, powdery mildew, and root rot in poorly drained soils; stem rot and mildew are rare in dry, open plantings.[1][6] Insect pests are minor — leaf bugs, flea beetles and spittlebugs, mostly a Great Plains and Midwest issue.[1] The real 'troubles' with this plant are horticultural: flopping stems in hot weather or rich, moist soil; a tangled mid-summer mass if it is never cut back; and colony spread into places you did not want it.[1][7] Contact dermatitis in the gardener is the last one — the sensitizers are peroxide-bearing sesquiterpene lactones such as α-peroxyachifolid, and yarrow is among the more significant causes of airborne Compositae contact dermatitis, so gloves and long sleeves are sensible.[6][11]",
+    "harvest": "For culinary or tea use, pick young leaves in spring before the plant flowers — they are best while tender and are frankly bitter even then — and flower heads as they open fully.[6][15] For aromatic/essential-oil quality, harvest as the plant is just beginning to flower and dry it in the shade to preserve colour and oils.[1] For flower arranging it is excellent both fresh and dried, and dried heads are a staple of winter arrangements.[1][6] For seed, wait until the flower heads turn brown and hard, then strip them by hand into a bag; store the cleaned seed cool and dry at about 40–50 °F, where it stays viable 5 to 7 years.[1] Never harvest anything for eating from a plant you cannot positively identify — see the edibility cautions below.[12][13]",
+    "companions": "Think of it as a beneficial-insect bank rather than a border specimen. A Colorado survey of flowering landscape plants recorded green lacewings, lady beetles, hoverflies and tachinid flies visiting it, and it draws butterflies and native bees besides, which makes it a genuinely useful neighbour to a vegetable garden or orchard — set at the edge, in its own strip, not in among the crops.[1][4][5] In the ornamental garden pair it with things that share its lean, dry, full-sun regime — blue grama, little bluestem, penstemons, prairie zinnia, sulphur flower buckwheat, hairy golden aster — so a single (nearly nonexistent) irrigation schedule suits everything, and keep it away from anything small, slow and precious.[1][7][8] NRCS's own advice is the design principle: seed it into a contained area, or among other competitive plants that can hold their ground against it.[1]"
+  },
+  "edible": {
+    "level": "caution",
+    "food": true,
+    "kinds": [
+      "leaves",
+      "flowers"
+    ],
+    "card": "Young leaves & flowers (bitter; small amounts, as a herb or tea)",
+    "summary": "Young yarrow leaves and the flowers are a long-documented bitter herb — a few leaves in a salad, or leaves and flowers steeped as tea or used to flavour beer and bitters — but this is a seasoning, not a vegetable, and the identification and safety cautions below are not optional.[6][15]",
+    "parts": "The edible parts are the young leaves and the flowers.[6][15] The leaves are rather bitter and are best used young, when they are acceptable in a mixed salad; flowers and leaves together make an aromatic tea, the herb has been used as a hop substitute in brewing, and an essential oil from the flowering heads is used as a commercial flavouring.[15] NC State lists the leaves and flowers as edible raw or cooked in moderation, in salads and teas.[6] The root and the plant's better-documented history are medicinal rather than culinary — yarrow has been used by many Native American nations and in European herbalism for wounds, fevers and stomach complaints, and it contains achilleine, a compound that shortens clotting time — but a documented medicinal history is not a food recommendation.[1]",
+    "preparation": "Take only young, tender leaves in spring before flowering, and open flower heads; both get more bitter and resinous with age.[6][15] Use a few leaves chopped into a mixed salad, or steep a small quantity of fresh or dried leaves and flowers as tea; it also flavours bitters and beers.[15] Keep the quantity small — the flavour polices this for you, but so should you, since large doses have sedative and diuretic effects and prolonged use can bring on skin reactions.[15] Never eat plants from a roadside, a treated lawn, or nursery stock that may have been sprayed.[6]",
+    "caution": "**Identify it beyond doubt before eating any of it.** Yarrow's finely dissected, feathery, fern-like leaves look superficially like the lacy, parsley-like, finely dissected foliage of **poison hemlock (*Conium maculatum*)** and **water hemlock (*Cicuta* spp.)** — both are deadly, both grow in Colorado, and poison hemlock is a listed noxious weed found in Boulder County.[1][12][13][14] Every part of poison hemlock is toxic (coniine and related alkaloids; paralysis, convulsions, death), and water hemlock is rated high-severity poison in every part, roots worst (cicutoxin; seizures, respiratory failure) — it is one of the most lethal plants on the continent.[12][13] Learn the tells: the hemlocks are 2–7 ft carrot-family plants with **hollow, purple-splotched stems** and **flat umbels of tiny five-petalled white flowers**, and they smell musty/parsnip-like when crushed; yarrow is a shorter aster-family plant with **solid, woolly-hairy stems**, **dome-shaped corymbs of ray-and-disc florets** (little daisies, not umbels), and a sweet, sharp aromatic scent.[1][12][14] If you are not certain, do not eat it.\n\nBeyond identification: yarrow contains **thujone**, a GABA-channel modulator that is neurotoxic (α-thujone more so than β-), with tolerable human intake on the order of only a few milligrams a day — a real argument for treating this as a flavouring in small amounts rather than a salad green.[11] It is also a notable **contact allergen**: peroxide-bearing sesquiterpene lactones, chiefly α-peroxyachifolid, make it one of the more significant causes of airborne Compositae contact dermatitis, so wear gloves to handle it, and **anyone allergic to other Asteraceae** — ragweed, chamomile, feverfew, daisies — should avoid it entirely.[6][11] Prolonged internal use can cause allergic skin rashes or **photosensitivity**, and yarrow is reported to increase photosensitivity where photodermatitis drugs are involved.[11][15] **Avoid it in pregnancy and while nursing**: its camphor content is not recommended in pregnancy or lactation, higher doses of the extract have shown reproductive toxicity in animal studies, and the herb's traditional reputation is as a uterine-active plant.[11] It inhibits several CYP450 enzymes and can raise blood levels of drugs such as erythromycin, diazepam and cyclosporine, and it may potentiate sedatives — so anyone on medication should leave it alone.[11][15] Finally, keep it away from animals: the ASPCA lists yarrow as toxic to dogs, cats and horses (glycoalkaloids/achillein, monoterpenes, sesquiterpene lactones/achillin), with vomiting, diarrhoea, colic, drooling, anorexia, dermatitis and depression among the signs, and the plant carries volatile oils, alkaloids and glycosides that make grazing livestock avoid it.[1][10]"
+  },
+  "references": [
+    {
+      "name": "USDA NRCS Plant Guide — Common Yarrow (Achillea millefolium) [PDF]",
+      "url": "https://plants.usda.gov/DocumentLibrary/plantguide/pdf/pg_acmi2.pdf"
+    },
+    {
+      "name": "USDA PLANTS Database — Achillea millefolium (ACMI2) plant profile (native/introduced status)",
+      "url": "https://plants.sc.egov.usda.gov/plant-profile/ACMI2"
+    },
+    {
+      "name": "USDA Forest Service, Fire Effects Information System (FEIS) — Achillea millefolium",
+      "url": "https://www.fs.usda.gov/database/feis/plants/forb/achmil/all.html"
+    },
+    {
+      "name": "USDA Forest Service, Celebrating Wildflowers — Plant of the Week: Common Yarrow",
+      "url": "https://www.fs.usda.gov/wildflowers/plant-of-the-week/achillea_millefolium.shtml"
+    },
+    {
+      "name": "Lady Bird Johnson Wildflower Center — Achillea millefolium (common yarrow)",
+      "url": "https://www.wildflower.org/plants/result.php?id_plant=ACMI2"
+    },
+    {
+      "name": "NC State Extension Gardener Plant Toolbox — Achillea millefolium",
+      "url": "https://plants.ces.ncsu.edu/plants/achillea-millefolium/"
+    },
+    {
+      "name": "Missouri Botanical Garden Plant Finder — Achillea millefolium",
+      "url": "https://plantfinder.mobot.org/PlantFinderDetails.aspx?kempercode=b282"
+    },
+    {
+      "name": "Colorado State University Extension — Perennial Gardening",
+      "url": "https://extension.colostate.edu/resource/perennial-gardening/"
+    },
+    {
+      "name": "PlantTalk Colorado 1072 — Deadheading: How to and When to?",
+      "url": "https://planttalk.colostate.edu/topics/annuals-perennials/1072-deadheading-how-to-and-when-to/"
+    },
+    {
+      "name": "ASPCA Animal Poison Control — Yarrow (Achillea millefolium)",
+      "url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/yarrow"
+    },
+    {
+      "name": "Achillea millefolium: Mechanism of action, pharmacokinetic, clinical drug-drug interactions and tolerability (via PubMed Central)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10703637/"
+    },
+    {
+      "name": "NC State Extension Gardener Plant Toolbox — Conium maculatum (poison hemlock)",
+      "url": "https://plants.ces.ncsu.edu/plants/conium-maculatum/"
+    },
+    {
+      "name": "NC State Extension Gardener Plant Toolbox — Cicuta maculata (water hemlock)",
+      "url": "https://plants.ces.ncsu.edu/plants/cicuta-maculata/"
+    },
+    {
+      "name": "Boulder County Noxious Weed Management Pocket Guide — CSU Extension, Boulder County [PDF]",
+      "url": "https://boulder.extension.colostate.edu/wp-content/uploads/sites/7/2019/11/Boulder-County-Noxious-Weed-Guide-Mountain-01022019-small-format.pdf"
+    },
+    {
+      "name": "Plants For A Future — Achillea millefolium (corroboration)",
+      "url": "https://pfaf.org/user/Plant.aspx?LatinName=Achillea+millefolium"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      3,
+      6,
+      7
+    ],
+    "sun": [
+      1,
+      3,
+      6,
+      7
+    ],
+    "water": [
+      1,
+      5,
+      7,
+      15
+    ],
+    "spread": [
+      1,
+      6,
+      7
+    ],
+    "seasons": [
+      1,
+      3,
+      6,
+      7
+    ],
+    "wildlife": [
+      1,
+      4,
+      5
+    ],
+    "deer": [
+      3,
+      6,
+      7
+    ],
+    "toxic": [
+      1,
+      6,
+      10
+    ],
+    "ph": [
+      1,
+      6,
+      15
+    ]
+  },
+  "shots": [
+    {
+      "local": "images/su-close-t.jpg",
+      "full": "images/su-close.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/412838254/large.jpg",
+      "s": "summer",
+      "cap": "Summer — flat corymbs of tiny white florets, each with a pale yellow centre · © Stan Huntting (CC-BY-NC) / iNaturalist",
+      "by": "Stan Huntting",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/232380994"
+    },
+    {
+      "local": "images/su-flower-t.jpg",
+      "full": "images/su-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/150768008/large.jpg",
+      "s": "summer",
+      "cap": "Summer — a dense white corymb in detail · © lisamason (CC-BY-NC) / iNaturalist",
+      "by": "lisamason",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/91173233"
+    },
+    {
+      "local": "images/su-buds-t.jpg",
+      "full": "images/su-buds.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/155011473/large.jpg",
+      "s": "summer",
+      "cap": "Summer — a head half open, tight cream buds beside spent florets · © no rights reserved (CC0) / iNaturalist",
+      "by": "no rights reserved",
+      "lic": "CC0",
+      "link": "https://www.inaturalist.org/observations/93520349"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/33968446/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — the finely dissected, aromatic fern-like foliage that gives it the name millefolium · © ty13539 (CC-BY-NC) / iNaturalist",
+      "by": "ty13539",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/21920939"
+    },
+    {
+      "local": "images/su-pink-t.jpg",
+      "full": "images/su-pink.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/12583059/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — a pink-flushed wild plant: Colorado's native yarrow is not always pure white · © Alex Bairstow (CC-BY-NC) / iNaturalist",
+      "by": "Alex Bairstow",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/9284820"
+    },
+    {
+      "local": "images/su-context-t.jpg",
+      "full": "images/su-context.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/152839052/large.jpg",
+      "s": "summer",
+      "cap": "Summer — growing wild in Colorado grassland among other native wildflowers · © no rights reserved (CC0) / iNaturalist",
+      "by": "no rights reserved",
+      "lic": "CC0",
+      "link": "https://www.inaturalist.org/observations/92316762"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/146959653/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — a wild stand, flower stems held above the ferny basal foliage · © no rights reserved (CC0) / iNaturalist",
+      "by": "no rights reserved",
+      "lic": "CC0",
+      "link": "https://www.inaturalist.org/observations/89023028"
+    },
+    {
+      "local": "images/su-far-t.jpg",
+      "full": "images/su-far.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/156935050/large.jpg",
+      "s": "summer",
+      "cap": "Summer — how it reads scattered through open Colorado grassland · © klholub (CC-BY-NC) / iNaturalist",
+      "by": "klholub",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/94594953"
+    },
+    {
+      "local": "images/fa-seed-t.jpg",
+      "full": "images/fa-seed.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/150526469/large.jpg",
+      "s": "fall",
+      "cap": "Fall — flower heads dried to tan seedheads · © John White (CC-BY-NC) / iNaturalist",
+      "by": "John White",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/91038813"
+    }
+  ]
+}

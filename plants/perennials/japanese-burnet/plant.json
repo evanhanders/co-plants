@@ -1,0 +1,214 @@
+{
+  "common": "Japanese burnet",
+  "botanical": "Sanguisorba obtusa",
+  "aka": [
+    "Bottlebrush burnet",
+    "Japanese bottlebrush",
+    "Sanguisorba obtusa var. albiflora",
+    "White Japanese burnet",
+    "Sanguisorba obtusa 'Chatto'"
+  ],
+  "type": "Forb",
+  "lifecycle": "Perennial",
+  "native": "Non-native",
+  "collection": "burnets",
+  "flower_color": [
+    "pink",
+    "white"
+  ],
+  "bloom": [
+    "summer"
+  ],
+  "bloom_season": "Summer",
+  "blurb": "The fluffy pink burnet: arching wiry stems hung with short, thick, nodding bottlebrushes of rose-pink, so crowded with long stamens that they read as soft feathery caterpillars rather than flowers, over glaucous blue-green pinnate leaflets. A Japanese mountain-meadow plant beloved in New Perennial planting for its late-summer softness — squatter and denser in the brush than the long, shaggily drooping 'squirrel tails' of its cousin Sanguisorba hakusanensis, and nothing at all like the hard maroon drumsticks of great burnet.",
+  "size": "~3–5 ft tall in flower × 1.5–3 ft wide",
+  "sun": "Full sun to part shade — afternoon shade is a real help in Boulder's heat",
+  "water": "High — wants reliably moist, humus-rich soil that never dries out; NOT a xeric plant, and will crisp in an unirrigated dry bed",
+  "spread": "Clump-forming from short rhizomes; widens slowly into a mound rather than running",
+  "seasons": "Glaucous blue-green pinnate foliage from spring; short, thick, nodding rose-pink bottlebrushes on arching stems in mid-to-late summer; foliage collapses after hard frost, leaving no winter presence",
+  "wildlife": "Stamen-packed, pollen-rich brushes worked by bees and other small insects; the related burnets are listed as pollinator plants",
+  "deer": "Generally left alone — related burnets are rated deer-resistant, though S. obtusa itself is unrated",
+  "toxic": "No toxicity reported to people or pets — but no part is a documented food either",
+  "winter": false,
+  "verified": "2026-07-28",
+  "origin": "Japan — the mountains of Honshu",
+  "habitat": "Damp alpine and mountain meadows in cool, humus-rich ground",
+  "gaps": "Open-licensed photography of Sanguisorba obtusa is genuinely scarce — only about a dozen CC-licensed photos of the species exist worldwide on iNaturalist, and CC searches for \"burnet\" are dominated by S. officinalis and S. hakusanensis. The reel is therefore capped at seven summer shots: every photo was verified against the species' short, thick, nodding rose-pink brushes and blunt-toothed pinnate leaflets, but no open-licensed fall, winter or seedhead shot of this species exists to add. Not an oversight — a known supply limit; re-query and append with gbif_add.py if one ever surfaces.",
+  "ph": {
+    "min": 5.5,
+    "ideal": 6.5,
+    "max": 7.8
+  },
+  "care": {
+    "hardiness": "Cold is not what limits this plant here. The Chicago Botanic Garden rates it USDA zones 4–9 and the RHS gives it their toughest H7 rating — hardy in the severest European continental climates, below −20 °C — which comfortably covers Boulder's zone 5b–6a winters.[1][2] What limits it on the Front Range is summer: heat, dry air and fast-draining soil, not January.[1][2]",
+    "planting": "Set container-grown plants out in spring once the soil has warmed and the mid-May last frost has passed, so the crown has the cool half of the season to root before July heat; early fall planting also works if you keep it watered in. Amend generously first — CSU recommends working organic matter about 12 inches deep, on the order of 3 cubic yards per 1,000 sq ft — because our lean, low-humus soil holds neither the moisture nor the organic matter this mountain-meadow plant expects.[3] It is a poor container subject here: a pot dries out far faster than the constantly-moist ground it wants, so if you grow it in one, use a large pot and a humus-rich mix and plan on daily summer watering.[1][2]",
+    "sun": "Both the RHS and the Chicago Botanic Garden list full sun or partial shade as suitable.[1][2] Read that as a British/Midwest recommendation, not a Front Range one: under Boulder's thin, intense high-altitude sun the honest advice is morning sun with afternoon shade, or dappled light at the edge of a tree. All-day full sun here simply multiplies the water it needs and scorches the leaf margins in a hot, dry week.[1][2]",
+    "soil": "Wants a moderately fertile, humus-rich soil that is moist but well drained and does not dry out; the RHS lists clay and loam as suitable and rates it tolerant of acid, neutral or alkaline pH, so Boulder's alkaline reaction is not itself the problem.[1] The problem is our soil's low organic matter and rapid drying — dig in plenty of compost at planting and keep a 2–3 in organic mulch over the root zone to hold moisture and keep the roots cool.[3]",
+    "water": "This is the honesty call on this plant: it is a moisture-lover, not a xeric perennial. The RHS specifies soil that 'does not dry out' and the Chicago Botanic Garden lists it simply as 'moist', recommending it beside ponds and streams and in woodland gardens.[1][2] On Boulder's hot, dry ground that means a deep soak once or twice a week through summer and more in a heat wave — do not plant it in an unirrigated xeric bed. Follow CSU's establishment pattern of water every couple of days for the first month, then stretching to four- to six-day intervals as the roots go down, and never let it go bone dry after that.[3]",
+    "spacing": "Space plants about 2 ft apart, allowing for a mature clump 1.5–3 ft across and stems that arch out over their neighbours.[1] CSU's rule of siting perennials with their mature size in mind — for air circulation and lower disease risk — matters here because the leaning flower stems close the gaps fast.[3] A group of three or more reads far better than a single specimen, and the stems help hold each other up.",
+    "propagation": "The two documented methods are seed sown in autumn and division in spring.[1] Division is the practical route on the Front Range: lift an established clump just as growth begins in spring, cut it into pieces carrying several buds each, discard the worn-out centre, and replant immediately at the same depth, keeping the divisions constantly wet until they take. CSU's general guidance — divide after three to five growing seasons, and divide summer- and fall-flowering perennials in spring before growth starts — fits this plant exactly.[3]",
+    "bloom": "Fat, fluffy rose-pink bottlebrushes open from red buds on arching wiry stems; the RHS gives June and July in Britain and the Chicago Botanic Garden logs bloom running from midsummer into autumn, so on the Front Range expect the main show in July and August.[1][2] The brushes are short, thick and densely packed, and nod over as they mature — don't confuse them with Sanguisorba hakusanensis ('Lilac Squirrel'), whose reddish-purple spikes are noticeably longer, more slender and shaggily drooping on a shorter (roughly 40–80 cm) plant.[9] A white-flowered variety also exists: S. obtusa var. albiflora is a compact form to about 60 cm with the same fluffy bottlebrush heads in pure white, as is the dwarf white cultivar 'Chatto' at around 45 cm.[8]",
+    "feeding": "Little to no feeding is needed once the bed has been amended with compost; an annual spring topdressing of compost or renewed mulch is enough.[3] Rich feeding is unnecessary and counterproductive — the RHS asks only for 'moderately fertile' soil, and extra nitrogen on a plant that already reaches 3–5 ft mostly buys taller, laxer stems that lean.[1]",
+    "maintenance": "Very low upkeep beyond water: renew the mulch, keep it from drying out, and cut the spent stems to the ground once a year — the RHS says cut back in winter.[1] CSU now advises leaving more perennial growth standing over winter for pollinator and wildlife habitat, so here it is fine to leave the stems until late winter and cut them down in early spring before new shoots push.[3] Tall stems can lean after a storm; a grow-through ring set early in the season keeps a 4 ft clump upright, though the RHS rates the plant tolerant of exposed positions.[1]",
+    "troubles": "The RHS rates it generally pest-free and disease-free, and the Chicago Botanic Garden names only one real pest: Japanese beetles, which can mar the foliage.[1][2] That matters here — Japanese beetle now has permanent, reproducing populations in Front Range communities, with adults out from early June through September and peaking from late June through early August, exactly when this plant is in leaf and bud. CSU's non-chemical control is hand-picking: shake infested plants over a container on cool early mornings, when the beetles drop and play dead.[4] Far more often, though, what kills Japanese burnet in Boulder is simply drought — a plant allowed to dry out browns at the leaf margins, aborts its flower spikes, and can be lost outright in one hot, dry spell.[1][2]"
+  },
+  "edible": {
+    "level": "inedible",
+    "summary": "Grown purely as an ornamental — no horticultural or extension authority documents Sanguisorba obtusa as a food plant.[1][2]",
+    "caution": "Treat Japanese burnet as a garden flower, not a vegetable. No horticultural or extension authority lists any edible use for Sanguisorba obtusa; the only reference to eating it anywhere is Plants For A Future's minimal edibility rating of 1 out of 5, which describes the cooked leaves solely as 'A famine food, they are only used when all else fails' — a record of desperation, not a recommendation.[7] Critically, do not transfer the well-known edibility of salad burnet (Sanguisorba minor), whose cucumber-flavoured leaves are a genuine culinary herb, onto this species — they are different plants, and nothing published establishes S. obtusa as safe or palatable food.[7] It is not reported to be significantly poisonous: PFAF records 'None known' under hazards and no medicinal use, and the RHS and Chicago Botanic Garden list no toxicity.[1][2][7] But with no trusted edible-use source for this species, 'not a food' is the safe assumption — enjoy the flowers and leave them on the plant.[1][7]"
+  },
+  "references": [
+    {
+      "name": "RHS — Sanguisorba obtusa (Japanese burnet)",
+      "url": "https://www.rhs.org.uk/plants/65212/sanguisorba-obtusa/details"
+    },
+    {
+      "name": "Chicago Botanic Garden Plant Finder — Sanguisorba obtusa (Japanese burnet)",
+      "url": "https://www.chicagobotanic.org/plant-information/plant-finder/sanguisorba-obtusa-japanese-burnet"
+    },
+    {
+      "name": "CSU Extension — Perennial Gardening (fact sheet 7.402)",
+      "url": "https://extension.colostate.edu/topic-areas/yard-garden/perennial-gardening-7-402/"
+    },
+    {
+      "name": "CSU Extension — Japanese Beetle (fact sheet 5.601)",
+      "url": "https://extension.colostate.edu/topic-areas/insects/japanese-beetle-5-601/"
+    },
+    {
+      "name": "NC State Extension Gardener Plant Toolbox — Sanguisorba canadensis (related burnet; genus-level deer & pollinator notes)",
+      "url": "https://plants.ces.ncsu.edu/plants/sanguisorba-canadensis/"
+    },
+    {
+      "name": "Wikipedia — Sanguisorba obtusa",
+      "url": "https://en.wikipedia.org/wiki/Sanguisorba_obtusa"
+    },
+    {
+      "name": "Plants For A Future — Sanguisorba obtusa",
+      "url": "https://pfaf.org/user/Plant.aspx?LatinName=Sanguisorba+obtusa"
+    },
+    {
+      "name": "RHS — Sanguisorba obtusa var. albiflora (white-flowered burnet)",
+      "url": "https://www.rhs.org.uk/plants/108190/sanguisorba-obtusa-var-albiflora/details"
+    },
+    {
+      "name": "Wikipedia — Sanguisorba hakusanensis (for the look-alike comparison)",
+      "url": "https://en.wikipedia.org/wiki/Sanguisorba_hakusanensis"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      1,
+      6
+    ],
+    "sun": [
+      1,
+      2
+    ],
+    "water": [
+      1,
+      2
+    ],
+    "spread": [
+      1,
+      2
+    ],
+    "seasons": [
+      1,
+      2
+    ],
+    "wildlife": [
+      1,
+      5
+    ],
+    "deer": [
+      5
+    ],
+    "toxic": [
+      1,
+      7
+    ],
+    "ph": [
+      1
+    ],
+    "origin": [
+      1,
+      6,
+      7
+    ],
+    "habitat": [
+      7
+    ]
+  },
+  "shots": [
+    {
+      "local": "images/su-close-t.jpg",
+      "full": "images/su-close.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/147312521/large.jpg",
+      "s": "summer",
+      "cap": "Late summer — the short, thick nodding brush of rose-pink flowers, soft with long stamens · © valkyrieblaze (CC-BY-NC) / iNaturalist",
+      "by": "valkyrieblaze",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/89220886"
+    },
+    {
+      "local": "images/su-flower-t.jpg",
+      "full": "images/su-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/545566886/large.jpg",
+      "s": "summer",
+      "cap": "Late summer — a nodding pink bottlebrush head in detail · © Logan Fox (CC-BY-NC) / iNaturalist",
+      "by": "Logan Fox",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/302720340"
+    },
+    {
+      "local": "images/su-near-t.jpg",
+      "full": "images/su-near.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/231373271/large.jpg",
+      "s": "summer",
+      "cap": "Late summer — flower heads nodding on arching stems above the foliage · © Vladimir Bryukhov (CC-BY-NC) / iNaturalist",
+      "by": "Vladimir Bryukhov",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/135637408"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/424346328/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — the pinnate leaflets with their blunt, rounded teeth, below an opening flower head · © Erin Collins (CC-BY) / iNaturalist",
+      "by": "Erin Collins",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/238358080"
+    },
+    {
+      "local": "images/su-budding-t.jpg",
+      "full": "images/su-budding.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/317808729/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — flower heads still pale before they colour, over the pinnate foliage · © Louis Moons (CC-BY-NC) / iNaturalist",
+      "by": "Louis Moons",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/182289975"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/47032327/large.jpg",
+      "s": "summer",
+      "cap": "Late summer — the plant in a garden setting, showing its arching habit · © jlbdesign (CC-BY-NC) / iNaturalist",
+      "by": "jlbdesign",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/30116467"
+    },
+    {
+      "local": "images/su-context-t.jpg",
+      "full": "images/su-context.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/225474095/large.jpg",
+      "s": "summer",
+      "cap": "Late summer — a planting seen in context · © valpurie (CC-BY-NC) / iNaturalist",
+      "by": "valpurie",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/132404147"
+    }
+  ]
+}

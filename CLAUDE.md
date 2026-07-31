@@ -123,7 +123,10 @@ python3 tools/check_citations.py plants/perennials/knautia   # one or a few dirs
 plant's inline `[n]` markers (in `care`, `edible`, and the `fact_src` map) and verifies every one
 resolves to an entry in that plant's `references` bibliography. **UNDEFINED** (a `[n]` past the end
 of `references`) fails the run; **ORPHAN** (a never-cited reference), **UNCITED** (has care/edible
-but no `references`), and **NO-FACTSRC** are warnings. Run it after any citation edit:
+but no `references`), **NO-FACTSRC**, and **DANGLING** are warnings. **DANGLING** catches a
+`fact_src` key citing a card field the plant leaves empty — `plant.js` then renders a *fallback*
+string (`toxic` falls back to "None of concern") with a superscript cite pinned to it, i.e. a
+source credited for a claim the data never makes. Run it after any citation edit:
 
 ```
 python3 tools/check_refs.py                       # all plants
@@ -318,6 +321,12 @@ is **NOT** the grouping. A file can live in `plants/perennials/` yet be a `Groun
   `factsDL` in `plant.js` appends the superscript cites. **Do NOT bake `[n]` into the shared card
   fields themselves** (`size`, `sun`, …) — `app.js`'s grid renders those raw, so markers would leak
   onto the encyclopedia cards; the citations live only in `fact_src`, which the grid ignores.
+  **Only cite a field the card actually states.** `factsDL` appends the cite unconditionally, and
+  `toxic` falls back to "None of concern" when empty — so a `fact_src.toxic` on a plant with no
+  `toxic` text credits a source for a fallback. Worse, a plant with `edible.level:"caution"` and an
+  empty `toxic` renders "None of concern" directly above its own DO-NOT-EAT prose. If a plant's
+  `edible` block warns about something, **`toxic` must say so too** (`check_refs.py` flags the
+  dangling-cite half of this as DANGLING).
 - `edible:{…}` *(optional)* — the **"Edible parts" section** on the detail page (safety-critical;
   `edibleHTML` + `EDIBLE_FIELDS` in `plant.js`). Fields: **`level`** (`edible | caution | toxic |
   inedible` — drives the banner colour/label), **`summary`** (one-line banner verdict), and the
@@ -482,19 +491,37 @@ Cultivar/genus clusters (apples, plums, tart cherries, currants, pelargoniums, w
 asters, irises, tulips, climbing/rambling roses, hardy geraniums, crocuses, penstemons, maples,
 milkweeds, alliums, sunflowers, bee-balms, lupines, dogwoods, clematis, mulleins, columbines,
 scabious, prairie-coneflowers, pinks, coreopsis, sumacs, primulas, ornamental-oreganos, marigolds,
-bugleweeds, pasqueflowers, coral-bells, elderberries, sea-hollies — **36 in all**) collapse
+bugleweeds, pasqueflowers, coral-bells, elderberries, burnets, yarrows, poppies, peonies,
+hummingbird-mints, four-o'clocks, evening-primroses, oregon-grapes, lindens, hawthorns,
+rhododendrons, phloxes, sages, honeysuckle-vines, speedwells, lamb's-ears, sea-hollies —
+**52 in all**) collapse
 into a **single expandable family card** so the grid isn't buried under near-duplicate cards. It's
 an **inline accordion**, not a separate page — each member keeps its own detail page untouched.
 The bar for a collection is "would a gardener read these as one kind of plant in different
 varieties." Genus clusters intentionally **left ungrouped** because they fail that bar (same genus
-but too unlike in form/role to read as one family — don't re-group them): *Salvia* (culinary
-rosemary + the diverse ornamental sages), *Lonicera* honeysuckles (a fruit bush + a native shrub +
-ornamental vines, spanning shrubs and vines), *Veronica* speedwells (upright spike vs flat creeping
-mat), *Amaranthus* (draping love-lies-bleeding vs upright grain amaranth — too unlike in form),
-*Euphorbia* spurges (cushion subshrub + native forb + variegated annual), *Bouteloua* grama
-grasses (only 2 of a small section), *Centaurea* (annual cornflower vs perennial bluet) and
-*Anemone* (spring windflower vs fall Japanese anemone) — unlike + different bloom seasons; and
-*Rubus* (ornamental Boulder raspberry vs the fruit raspberry — different intent).
+but too unlike in form/role to read as one family — don't re-group them): *Amaranthus* (draping
+love-lies-bleeding vs upright grain amaranth — too unlike in form), *Euphorbia* spurges (cushion
+subshrub + native forb + variegated annual), *Bouteloua* grama grasses (only 2 of a small section),
+*Centaurea* (annual cornflower vs perennial bluet) and *Anemone* (spring windflower vs fall
+Japanese anemone) — unlike + different bloom seasons; *Rubus* (ornamental Boulder raspberry vs the
+fruit raspberry — different intent); the leftover *Prunus* (chokecherry, Nanking cherry, mayday
+tree, double flowering plum, peach — a native tree, a fruit bush and two ornamentals, nothing a
+gardener reads as one plant); *Amorpha* (a 3 ft refined xeric leadplant vs a 12 ft aggressive
+riparian false indigo); *Erigeron* and *Lysimachia* (sprawling mat vs upright forb, different
+sections); the yuccas (soapweed *Yucca* vs *Hesperaloe* "red yucca" — different genera, and red
+yucca honestly isn't a yucca); and the cacti (prickly pear / cholla / claret cup — a **category**,
+not a family, and it spans Shrub + Subshrub).
+
+**A collection is a partial-genus card when that's the honest read.** Three of these were on the
+ungrouped list until the roster grew enough to make a coherent core, and each deliberately leaves
+genus-mates out — copy this pattern rather than sweeping a whole genus in:
+- **`sages`** takes the four ornamental flowering *Salvia* (Mojave, autumn, meadow, Windwalker
+  Royal Red) and excludes **rosemary** (a culinary herb) and **Russian sage** (sold and read as its
+  own plant).
+- **`honeysuckle-vines`** takes only the two twining *Lonicera* **vines**; honeyberry and twinberry
+  stay standalone shrubs — which is what made the old whole-genus objection moot.
+- **`evening-primroses`** takes the two low *Oenothera* cups and excludes **gaura** (*O.
+  lindheimeri*) — nobody reads a cloud of wands as an evening primrose.
 
 **Data model (two parts):**
 - **Membership** is one field on the member's `plant.json`: `"collection":"<id>"`. That's all a
@@ -532,8 +559,12 @@ finger doesn't fire. `reel.js` is untouched by this. **Test swipe routing with r
 mouse drags — the reel swipe only responds to touch input** (mouse drags silently no-op, which once
 looked like a routing bug but wasn't).
 
-**Mixed-morphology collections** (penstemons span Subshrub + Forb; pelargoniums, wallflowers also
-mix) keep each member's honest `type` — the family is simply *placed* in its declared home `group`.
+**Mixed-morphology collections** (penstemons span Subshrub + Forb; pelargoniums, wallflowers,
+`sages` — Subshrubs-homed but holding the Forb meadow sage — and `speedwells` — Summer-forbs-homed
+but holding two Groundcover mats — also mix; `phloxes` likewise straddles bloom seasons, homing the
+Spring woodland phlox in Summer forbs) keep each member's honest `type` — the family is simply
+*placed* in its declared home `group`. Section tallies still count **plants**, so a mixed family
+shifts counts between sections without changing the 313 total.
 Known minor wart: with a **Form** filter active, a family whose matching member's form differs from
 its home `group` still shows in its home section (e.g. filtering `Subshrubs` can surface the
 `Summer forbs`-homed Penstemons card). Acceptable and rare; don't try to duplicate the card across
@@ -549,6 +580,20 @@ you've **scrolled past** (its sticky header is stuck at the top), the vanished c
 drop you at an arbitrary spot, so the handler snaps that header to the viewport top
 (`window.scrollTo(0, sectionDocTop)` when `sectionTop < pageYOffset`) — the next section then sits
 right below it. Collapsing a header that's still in view doesn't scroll.
+
+**Any active search OR filter force-expands every section** (`isC = !filtering && …`), not just a
+search — and while either is on, the chevrons are inert. This is load-bearing, not cosmetic: filters
+force-open family cards, and `buildCarousel` measures `vp.getBoundingClientRect().width` at build
+time, so a carousel built inside a `display:none` collapsed section caches **zero** width and lands
+stuck on the wrong slide with its arrows pinned at `top:0`. (It also stops a filter's matches from
+hiding inside a collapsed section.) The collapse key is namespaced by view (`collapseKey`) because
+section names repeat across sort modes — both the Bloom and Traits sorts emit a "Winter".
+
+**`wireReels` is idempotent — keep it that way.** It inserts the reel's loop clones, so wiring one
+plate twice inserts a *second* pair and every photo after that is off by one against its caption and
+season dots. A force-open family gets wired by `buildCarousel` **and** by the `wireReels(content)`
+sweep right after it, so the `plate.dataset.reeled` guard at the top is what keeps filtered views
+showing the right photo. Don't remove it, and don't add a second clone-inserting pass.
 
 **Accessibility.** Photos are `role="button" tabindex="0"` with descriptive per-shot `alt`;
 group-collapse chevrons are real `<button>`s with `aria-expanded`; the lightbox is a
@@ -1071,7 +1116,7 @@ ground every statement in an authority cited in `references`.
 
 ## Current plant roster (in the live site)
 
-**299 specimens** (`plants/manifest.json` is the source of truth for the exact count), all verified
+**318 specimens** (`plants/manifest.json` is the source of truth for the exact count), all verified
 non-weed in CO and all carrying a full `care` block (incl.
 `planting` + `propagation`) **and a repo-hosted photo reel** (close-up + structure, seasonal
 where good shots exist). Every plant's detail page is **fully cited** — a numbered
@@ -1393,6 +1438,129 @@ Wildflower Center; weed-checked vs CO A/B/C/Watch 2026-07-19 (not listed). The o
 were already in the guide (oriental fountain grass, hardy plumbago, bluebeard, pink skullcap — and a second
 gaura shot). `check_refs` guide-wide PASS.
 
+**Burnets batch (July 2026):** on a user request ("add a bunch of varieties of sanguisorba"), added **six**
+*Sanguisorba* as a new **Burnets** family card (id `burnets`, homed in Summer forbs, lead = great burnet).
+Weed-checked vs CO Lists A/B/C + Watch **and** the official CDA *Colorado Noxious Weed Seed List* PDF on
+2026-07-28 — no *Sanguisorba* (or *Poterium*) is listed anywhere. Care sourced via six parallel agents (one
+per plant, distinct files) from RHS, MBG, NC State, USDA NRCS/PLANTS, USDA-FS FEIS, LBJ Wildflower Center,
+Go Botany, Chicago Botanic Garden, Burke Herbarium/FNA, Maine NAP, USU Extension and CSU Extension.
+The six: the culinary **salad burnet** (*S. minor*, cucumber-flavoured leaves); the classic maroon-drumstick
+**great burnet** (*S. officinalis*); the tall white-candled **Canadian burnet** (*S. canadensis*); the fluffy
+pink **Japanese burnet** (*S. obtusa*); the shaggy-tailed **'Lilac Squirrel' burnet** (*S. hakusanensis*);
+and the early crimson **Menzies' burnet** (*S. menziesii*).
+
+**The batch's throughline is a water-honesty call:** *S. minor* is the ONLY genuinely xeric burnet and the
+only one that thrives here (it also holds green basal foliage through winter → `winter:true`); the other five
+are damp-meadow/bog/alpine plants whose `water` directives say plainly that they are **not xeric and carry a
+real water cost** on Boulder's semi-arid alkaline clay — *S. canadensis* is a true wetland plant ("High —
+moist to wet soil, not for dry zones"). All six are **Non-native** with cited `origin`/`habitat`: *canadensis*
+(eastern N. America) and *menziesii* (Alaska→coastal BC/WA only) are North-American natives that don't reach
+Colorado, marked Non-native per the witch-hazel convention. Other calls baked in: salad burnet **self-sows
+freely** and is an emerging invasive in PNW prairie-oak habitat (not CO-listed), is **wind-pollinated** (no
+bee-magnet claim) and is **NOT deer-resistant** (rangeland authorities rate it prime browse, overriding a
+database tag); great burnet's European large-blue-butterfly host relationship **does not exist in Colorado**;
+Menzies' has an **inverted risk profile** (RHS H7 — cold is a non-issue, heat/dry air is the limit).
+Edibility: salad burnet `edible`/`food` (young leaves only), great burnet `caution`/`food` (young leaves; the
+root is the high-tannin medicinal Di Yu, not a food), and the other four `inedible` — each caution explicitly
+forbids reasoning across from *S. minor*.
+
+Two **wrong-plant symbol traps** were caught and are worth remembering: USDA/LBJ **`SACA13` is *Sanguinaria
+canadensis* (bloodroot)** and **`SAME2` is *Salix melanopsis* (dusky willow)** — the correct burnet symbols
+are **`SACA14`** and **`SAME6`** (both verified against the USDA PLANTS API). Photos via
+`tools/inat_montage.py` (iNat open data; 7–9 CC shots each, 720×480 smart-crop thumbs). *S. obtusa* carries a
+`gaps` note: only ~a dozen CC photos of the species exist worldwide, so its reel is capped at seven
+summer shots with no fall/winter/seedhead shot available. `check_refs` guide-wide PASS; `check_citations` on
+the six PASS (46 OK / 8 REVIEW / 0 DEAD — the REVIEWs are JS-rendered USDA PLANTS pages and the generic CSU
+Front-Range framing cites).
+
+**Yarrows batch (July 2026):** on a user request for "a bunch of achilleas… pinks, purples, reds, whites, mixes",
+added **nine** *Achillea* and folded them together with the existing 'Moonshine' yellow yarrow into a new
+**Yarrows** family card (id `yarrows`, homed in Summer forbs, lead = 'Paprika'). Weed-checked vs CO Lists
+A/B/C + Watch and the CDA Noxious Weed Seed List 2026-07-28 — no *Achillea* is listed. Care sourced via nine
+parallel agents (MBG, RHS, NC State, CSU Extension/PlantTalk, USDA-FS FEIS, USDA NRCS/PLANTS, LBJ, Clemson,
+Chicago Botanic Garden, ACCS/UAA, EMA, ASPCA).
+
+**Two things the user asked for that do not exist, and the entries say so plainly:**
+- **There are NO square-stemmed yarrows.** Square stems are a **Lamiaceae** (mint-family) trait; *Achillea* is
+  Asteraceae with round stems. Don't go looking.
+- ***Achillea* has no true purple or blue.** The palette runs white/cream/yellow/gold/apricot/salmon/terracotta/
+  pink/rose/red/wine-magenta. **'Cassis'** — marketed as "the purple yarrow" — is set `flower_color:["red"]`
+  because RHS describes it verbatim as "deep cherry-red"; putting `purple` on it would mislead the colour filter.
+  The blurb states the distinction outright. (Genuinely lilac-mauve *wild* forms do turn up in the species complex.)
+
+The nine: the **common yarrow** (*A. millefolium*) — **the guide's first CO-native yarrow**; the *millefolium*
+colour cultivars **'Paprika'** (brick-red + gold eye), **'Cerise Queen'** (cerise-magenta), **'Terracotta'**
+(burnt-orange→buff), **'Cassis'** (wine-dark) and **Summer Pastels** (a pastel seed MIX); plus the tall
+architectural **fernleaf yarrow** (*A. filipendulina*, gold plates, the dried-flower yarrow), **sneezewort**
+(*A. ptarmica* — the odd one out) and the mat-forming **woolly yarrow** (*A. tomentosa*, a `Groundcover`).
+
+**Batch-wide honesty calls:** (1) **Colour fade is the defining caveat of every coloured *millefolium*
+cultivar** — heads bleach as they age, so a mid-season clump is always two-toned; each entry says what the
+gardener will actually see, and both 'Paprika' and 'Cerise Queen' have reel shots showing the faded state
+beside the fresh. The Chicago Botanic Garden's 4-year *Achillea* trial rates **'Cerise Queen' lowest of four**
+for exactly that plus a sprawling/flopping habit — cited rather than glossed. (2) ***A. millefolium* runs hard
+by rhizome and self-sows**; *A. filipendulina* by contrast is genuinely **clump-forming, not running** (verified —
+the SPREADS trait should not fire on it). (3) **Sneezewort is the ONE yarrow that is not xeric** (damp/marshy
+wild habitat; RHS singles 'The Pearl' out as wanting moister soil than other achilleas) and it **runs hard and
+has naturalized in ~17 northern US states** — not CO-listed, but with containment guidance. (4) **Native-status
+nuance:** USDA PLANTS lists **ACMI2 as BOTH Native and Introduced** in L48 (ACMIO, var. *occidentalis*, is
+native-only), and European strains dominate the nursery trade — so common yarrow keeps `"CO native"` while
+telling the reader to buy regional native seed if they want the real thing.
+
+**Edibility:** *A. millefolium* and its cultivars are `caution`/`food` (young leaves + flowers, bitter). ***A.
+filipendulina*, *A. tomentosa* and *A. ptarmica* are `caution` but NOT food*** — the culinary record belongs to
+*A. millefolium* and was deliberately not transferred. **Every** yarrow caution leads with the **poison-hemlock
+(*Conium maculatum*, CO List C) / water-hemlock (*Cicuta*) ID warning** — yarrow's dissected foliage is the
+classic forager confusion, and this is the most important sentence in those entries.
+
+**Photo sourcing traps caught (worth remembering):** a Commons search for "Achillea millefolium rubra" returns
+**beetles** (*Stictoleptura rubra*) sitting on white yarrow, not red yarrow; the "Terracotta" search surfaces
+**'Walter Funcke'**, a different orange cultivar (excluded); RHS `/plants/1042/` serves ***Aurinia saxatilis***,
+not 'Cerise Queen' (the real id is 97048); and RHS `/plants/1103/` is ***Anacyclus maroccanus***, not yarrow.
+'Paprika', 'Cerise Queen' and 'Terracotta' have genuine CC cultivar photos via the **Commons pipeline**; **'Cassis'
+and Summer Pastels have none anywhere**, so both use honestly-captioned colour-matched *A. millefolium* shots with
+an explicit `gaps` note (as does 'Terracotta', capped at 5 shots). The rest are iNat via `inat_montage.py` — the
+native common yarrow deliberately sourced from **Colorado records** (`place_id=34`). `check_refs` guide-wide PASS;
+`check_citations` on the nine PASS (104 OK / 26 REVIEW / 0 DEAD).
+
+**Lamb's ears batch (July 2026):** on a user request to "add a few species of lambs ear", added **four**
+*Stachys* around the existing *S. byzantina* and created a new **Lamb's ears** family card (id `lambs-ears`,
+homed in Groundcovers, lead = the existing `lambs-ear`). Weed-checked vs the full CO Lists A/B/C + Watch
+enumeration 2026-07-30 — **no *Stachys* or *Betonica* is listed anywhere**.
+
+**The framing call that shaped the batch:** "lamb's ear" is essentially **one species**, *S. byzantina*, so the
+variety a gardener actually buys comes from **cultivars**, while the genuinely distinct *species* sit further out
+in the genus. The batch delivers both, and splits them the way the collection bar demands:
+- The family card takes only the three **byzantina forms** — the flowering species plus **'Big Ears'** (leaves to
+  8 in, roughly twice the species, grey-green not silver-white, best rot resistance) and **'Silver Carpet'** (the
+  flattest, purest silver, 3–6 in). Both cultivars are **near-flowerless**, which is the whole point of them:
+  **CSU Extension's own xeriscape-groundcover guidance steers gardeners to the flowerless lamb's ears**, since the
+  flowering kinds self-sow and go untidy at bloom time. Both therefore carry **`flower_color: []` and `bloom: []`**
+  (the grown-for-foliage convention, as with the ornamental grasses) — do not "fix" these to purple.
+- The two true species stay **standalone**, because neither reads as "a lamb's ear in a different variety":
+  **pink cotton lamb's ear** (*S. lavandulifolia*, an Iraq/Iran/S-Caucasus alpine cushion — MBG files it under
+  "lamb's ears"/"pink cotton lamb's ear") and **scarlet hedgenettle** (*S. coccinea*).
+
+Honesty calls baked in: **scarlet hedgenettle is the one Stachys here that is NOT xeric** (wild habitat is moist
+canyon seeps; part shade, ~1 in of water every other week) and is **honestly zone-marginal** — High Plains growers
+report it does not reliably return, so its `care` says plan to replant rather than overselling zone 6. ***S.
+lavandulifolia* is `caution`/not-food**: its Iranian herbal-tea tradition is folk-medicinal, with animal-model
+pharmacology only and no established dose or pregnancy safety — deliberately not promoted to `food`. All four are
+**Non-native** with cited `origin`/`habitat`. Six more byzantina cultivars ('Primrose Heron', 'Cotton Boll',
+'Sheila Macqueen', 'Silky Fleece') and the *S. lanata*/*S. olympica* synonyms were folded into the parent's **`aka`**
+rather than spun up as near-duplicate pages.
+
+**Taxonomy trap worth remembering: the betonies are no longer *Stachys*.** *S. officinalis* is now
+***Betonica officinalis*** (iNat's active taxon), so wood betony/'Hummelo' is **not** a lamb's-ear species and was
+deliberately excluded — don't add it to this card on genus grounds. Photos: the two cultivars via the **Wikimedia
+Commons** pipeline (genuine cultivar-labelled shots exist, incl. a Coastal Maine BG bed with the 'Silver Carpet'
+label visible), the two species via `inat_montage.py`; 8 shots each, seasons assigned from actual capture dates.
+**Two photo traps caught in QC:** part of the Commons 'Silver Carpet' series carries a strong **teal white-balance
+cast** that misrepresents the silver foliage (swapped out), and the *S. coccinea* fall shots skew to **tropical
+Mexican December/January records** — useless for a plant that is bare ground here in winter, so the fall slot uses
+a September **Arizona** record instead. `check_refs` guide-wide PASS; `check_citations` on the five PASS
+(17 OK / 1 REVIEW / 0 DEAD — the REVIEW is the generic CSU Front-Range framing cite).
+
 **Sea hollies batch (July 2026):** on a user request ("add some eryngium species"), added **five**
 *Eryngium* as a new **Sea hollies** family card (id `sea-hollies`, homed in Summer forbs, lead = flat sea
 holly): the bulletproof garden standard **flat sea holly** (*E. planum*), the tallgrass-prairie
@@ -1506,6 +1674,7 @@ five PASS (18 OK, 0 DEAD).
 - Feather reed grass (*Calamagrostis × acutiflora 'Karl Foerster'*) (I) — The classic vertical accent; sterile (never self-sows), wheat-gold plumes standing all winter.
 
 **Groundcovers**
+- Woolly yarrow (*Achillea tomentosa*) (I) — Flat evergreen carpet of soft woolly silver-grey ferny foliage under short stems of lemon-gold corymbs; a drought-proof lawn substitute that takes light foot traffic. *(Yarrows family card; needs sharp drainage — the wool rots in wet/humid ground, so Boulder's dryness suits it. Caution — not a food.)*
 - Bigroot geranium (*Geranium macrorrhizum*) (I) — Aromatic semi-evergreen dry-shade groundcover; weed-proof mat, magenta spring flowers, red fall foliage. *(Drought-tolerant dry shade.)*
 - Epimedium / barrenwort (*Epimedium grandiflorum*) (I) — The dry-shade champion; spurred spring 'bishop's hat' flowers over heart-shaped leaflets. *(Drought-tolerant once established.)*
 - Bergenia / pigsqueak (*Bergenia cordifolia*) (I) — Bold leathery evergreen leaves bronzing in winter; early-spring pink flowers. *(Dry shade; tannin leaves a historic 'badan' tea, not a food.)*
@@ -1518,7 +1687,10 @@ five PASS (18 OK, 0 DEAD).
 - Ivy-leaved geranium (*Pelargonium peltatum*) (I) · **Tender perennial** — The window-box spiller: glossy ivy leaves and cascading flower clusters.
 - Kinnikinnick (*Arctostaphylos uva-ursi*) (N) — A tough native evergreen mat-former
 - Snow-in-summer (*Cerastium tomentosum*) (I) — A silver-gray mat of woolly foliage that erupts into a froth…
-- Lamb's ear (*Stachys byzantina*) (I) — Soft silver-woolly mat grown for its fuzzy tongue-shaped leaves; woolly summer spikes of pink-purple flowers. *(Xeric — overhead water/humidity rots the wool; wool carder bees harvest the fuzz.)*
+- Lamb's ear (*Stachys byzantina*) (I) — Soft silver-woolly mat grown for its fuzzy tongue-shaped leaves; woolly summer spikes of pink-purple flowers. *(Lamb's ears family card lead; xeric — overhead water/humidity rots the wool; wool carder bees harvest the fuzz.)*
+- 'Big Ears' lamb's ear (*Stachys byzantina* 'Big Ears') (I) — The big-leaved one: velvety leaves to 8 in, roughly twice the species, grey-green rather than silver-white, and it almost never throws a flower spike. *(Lamb's ears family card; the most rot/leaf-spot resistant of the group — the safest pick where any overhead water lands. `aka` 'Helene von Stein'.)*
+- 'Silver Carpet' lamb's ear (*Stachys byzantina* 'Silver Carpet') (I) — The flattest, purest-silver lamb's ear, a 3–6 in mat that essentially never blooms. *(Lamb's ears family card; CSU's xeriscape groundcover guidance points at the flowerless kinds — no seeding-about, no leggy bloom-time mess. `flower_color`/`bloom` deliberately `[]`.)*
+- Pink cotton lamb's ear (*Stachys lavandulifolia*) (I) — A true wild lamb's-ear species, not a selection: a low tufted cushion of narrow grey-green leaves under short May–June spikes of lavender-pink flowers wrapped in shaggy cotton-wool calyces. *(Iraq/Iran/southern-Caucasus alpine — wants gritty sharp drainage, a rock-garden or trough plant; kept standalone, not in the byzantina family card. Caution — a traditional Iranian medicinal tea, NOT a culinary herb.)*
 - Turkish speedwell (*Veronica liwanensis*) (I) — A Plant Select standout
 - Hens and chicks (*Sempervivum tectorum*) (I) — Bulletproof evergreen succulent; tight rosette "hens" pup rings of "chicks" into a mat, with a monocarpic summer flower stalk. *(Non-toxic but not a documented food; European native.)*
 - Spearleaf stonecrop (*Sedum lanceolatum*) (N) — CO-native succulent mat of fleshy lance leaves that flush fire-red in drought/cold, then bright yellow star-flowers; *Parnassius smintheus* larval host. *(Caution — alkaloids/sarmentosin; not a tested food.)*
@@ -1573,6 +1745,19 @@ five PASS (18 OK, 0 DEAD).
 - Golden banner (*Thermopsis divaricarpa*) (N) — Bright lupine-like spikes of golden pea flowers over blue-green trifoliate foliage; spreads into bold drifts. *(Toxic — alkaloids in foliage/seeds.)*
 
 **Summer forbs**
+- Common yarrow (*Achillea millefolium*) (N) — The wild yarrow: flat white (sometimes pink-flushed) corymbs over ferny aromatic foliage, plains to timberline; drought-proof, deer-proof, a pollinator generalist's buffet. *(Yarrows family card; the guide's first CO-native yarrow. Runs hard by rhizome + self-sows. Caution/edible young leaves & flowers — and the hemlock ID warning matters.)*
+- 'Paprika' yarrow (*Achillea millefolium* 'Paprika') (I) — Brick-red florets each lit by a gold eye, ageing through salmon to buff so one head carries several tones. *(Yarrows family card; the fade is the honest caveat. Divide, don't sow.)*
+- 'Cerise Queen' yarrow (*Achillea millefolium* 'Cerise Queen') (I) — The classic hot-pink yarrow: cerise-magenta florets with pale eyes over ferny grey-green foliage. *(Yarrows family card; notorious for fading to dusty pink — Chicago Botanic Garden's trial rated it lowest of four for fade + flop.)*
+- 'Terracotta' yarrow (*Achillea millefolium* 'Terracotta') (I) — Burnt-orange plates ageing through apricot and copper to buff-cream, several tones at once, almost antique. *(Yarrows family card; the colour shift IS the plant. Photos capped at 5 — see its `gaps` note.)*
+- Summer Pastels yarrow (*Achillea millefolium* Summer Pastels Group) (I) — A seed STRAIN, not a clone: one sowing gives cream, apricot, salmon, pink, rose and lilac together. 1990 AAS winner, bred to hold pastels in heat. *(Yarrows family card; the one yarrow worth raising from seed — but you get a mix, not a chosen colour. Photos colour-representative — see `gaps`.)*
+- 'Cassis' yarrow (*Achillea millefolium* 'Cassis') (I) — The darkest yarrow sold: blackcurrant-crimson heads with tiny pale eyes. *(Yarrows family card; shopped for as "the purple yarrow" but Achillea has NO true purple — RHS calls it deep cherry-red. Photos colour-representative — see `gaps`.)*
+- Fernleaf yarrow (*Achillea filipendulina*) (I) — Architectural: big flat mustard-gold plates on stiff 3–4 ft stems over coarse grey ferny foliage; the classic dried-flower yarrow, standing all winter. *(Yarrows family card; clump-forming, NOT running, unlike common yarrow. Caution — not a food; the culinary record is A. millefolium's.)*
+- Sneezewort (*Achillea ptarmica*) (I) — The odd one out: loose sprays of small round white buttons (double in 'The Pearl') over narrow undivided willow-like leaves — nothing like a yarrow. *(Yarrows family card; the ONE yarrow that is not xeric — damp wild habitat, a real water cost here — and it runs hard; naturalized in ~17 northern states, not CO-listed. NOT sneezeweed (Helenium). Caution — not a food.)*
+- Salad burnet (*Sanguisorba minor*) (I) — The culinary burnet: a low ferny rosette whose young leaves taste of cucumber, under wiry stems carrying small green heads tufted with crimson styles. *(Burnets family card; the ONE genuinely xeric, lime-tolerant burnet — the only one that thrives here — and semi-evergreen through winter. Edible young leaves; wind-pollinated, self-sows freely, and NOT deer-resistant.)*
+- Great burnet (*Sanguisorba officinalis*) (I) — Short dense drumsticks of deep maroon on airy wiry stems midsummer into fall, drying to rusty seedheads with winter structure. *(Burnets family card; a wet-meadow plant with a real water cost here — not xeric; caution/edible young leaves, the root is the medicinal Di Yu; flops in rich soil or shade.)*
+- Japanese burnet (*Sanguisorba obtusa*) (I) — Short, thick, nodding rose-pink bottlebrushes so crowded with stamens they read as soft feathery caterpillars. *(Burnets family card; moisture-lover, wants afternoon shade; inedible. Photos capped — see its `gaps` note.)*
+- 'Lilac Squirrel' burnet (*Sanguisorba hakusanensis* 'Lilac Squirrel') (I) — The showiest burnet: long shaggy lilac-pink 'squirrel tails' dangling from arching stems over deeply cut leaflets. *(Burnets family card; a cool alpine wanting steady moisture — not xeric; division only, won't come true from seed; inedible.)*
+- Menzies' burnet (*Sanguisorba menziesii*) (I) — The earliest and reddest burnet; fat ruby-crimson bottlebrushes well before the others bud. *(Burnets family card; Alaska→coastal BC/WA native, not Front-Range. Inverted risk: bone-hardy but heat- and drought-intolerant; inedible.)*
 - Purple mullein (*Verbascum phoeniceum*) (I) — Hardy xeric mullein; slender spires of flat purple/rose/white saucer flowers with fuzzy stamens over dark crinkled rosettes. *(Mulleins family card; NOT the weedy V. thapsus/blattaria.)*
 - Nettle-leaved mullein (*Verbascum chaixii*) (I) — The sturdiest, longest-lived mullein; spikes of small yellow (or white 'Album') flowers with woolly purple-stamen eyes over nettle-like foliage. *(Mulleins family card.)*
 - Giant silver mullein (*Verbascum bombyciferum*) (I) · **Biennial** — Architectural: a white-felted silver rosette year one, then a towering 5–6 ft yellow candelabra spire. *(Mulleins family card; self-sows — deadhead to manage.)*
@@ -1613,6 +1798,7 @@ five PASS (18 OK, 0 DEAD).
 - Rocky Mountain bee plant (*Cleomella serrulata*) (N) · **Annual** — Colorado-native prairie annual
 - Salvia (meadow sage) (*Salvia nemorosa*) (I) — Upright wands of violet-blue in early summer
 - Scarlet bee balm (*Monarda didyma*) (I) — The classic fire-engine-red bee balm (eastern-US native)
+- Scarlet hedgenettle (*Stachys coccinea*) (I) — The red-flowered outlier of the lamb's-ear genus: an upright square-stemmed clump hung with narrow scarlet trumpets midsummer to frost, whose designated pollinators are hummingbirds. *(AZ/NM/west-TX canyon native, not Front-Range; the one Stachys here that is NOT xeric — moderate water, part shade — and honestly zone-marginal, so expect a short-lived perennial.)*
 - Shasta daisy (*Leucanthemum × superbum*) (I) — The classic, well-behaved white daisy
 - Silvery lupine (*Lupinus argenteus*) (N) — Colorado's most common native lupine
 - Snapdragon (*Antirrhinum majus*) (I) · **Annual** — Jewel-toned 'snapping' flower spikes kids love
@@ -1646,6 +1832,7 @@ five PASS (18 OK, 0 DEAD).
 - Himalayan blue poppy (*Meconopsis betonicifolia*) (I) — The legendary sky-blue Himalayan poppy; satiny azure chalices with an orange stamen boss over bristly foliage. *(Kept-but-flagged like winter heath: cold-hardy here but hates our heat/dry air/alkaline clay — grow it potted in acidic mix, cool shade, constantly moist. Inedible — poppy-family alkaloids.)*
 
 **Fall forbs**
+- Canadian burnet (*Sanguisorba canadensis*) (I) — The tallest and latest burnet; long creamy-white bottlebrush candles opening bottom-up in late summer and holding into October, over big blue-green pinnate leaves. *(Burnets family card; a genuine bog/wet-meadow plant — "High — moist to wet soil, not for dry zones", the thirstiest of the group; eastern-N.A. native, not Front-Range; rare/threatened in nine states, so buy nursery-propagated; inedible.)*
 - Tansyaster (*Dieteria bigelovii*) (N) · **Biennial** — Big lavender, gold-eyed daisies on branching stems into fall; a self-sowing xeric native and late-season specialist-bee plant.
 - Japanese anemone (*Anemone × hybrida*) (I) — Tall, wiry-stemmed perennial that lights up the late-summer…
 - Panicled aster (*Symphyotrichum lanceolatum*) (N) — A tall, willow-leaved native aster that erupts in sprays of…

@@ -1,0 +1,142 @@
+[
+  {
+    "file": "images/su-close.jpg",
+    "commons_file": "Achillea millefolium (red beauty common yarrow) 1 (27682373759).jpg",
+    "by": "James St. John",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Achillea_millefolium_(red_beauty_common_yarrow)_1_(27682373759).jpg",
+    "dataset": "Wikimedia Commons",
+    "orig_px": [
+      2590,
+      2000
+    ],
+    "full_px": [
+      1500,
+      1158
+    ],
+    "thumb_px": [
+      400,
+      309
+    ]
+  },
+  {
+    "file": "images/su-flower.jpg",
+    "commons_file": "Achillea millefolium (red beauty common yarrow) 3 (25589588318).jpg",
+    "by": "James St. John",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Achillea_millefolium_(red_beauty_common_yarrow)_3_(25589588318).jpg",
+    "dataset": "Wikimedia Commons",
+    "orig_px": [
+      2744,
+      2000
+    ],
+    "full_px": [
+      1500,
+      1093
+    ],
+    "thumb_px": [
+      400,
+      292
+    ]
+  },
+  {
+    "file": "images/su-dark.jpg",
+    "commons_file": "Achillea millefolium pomegranate, Achillée millefeuille rouge, Forest-M., 80-Fr.jpg",
+    "by": "APictche",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Achillea_millefolium_pomegranate,_Achill%C3%A9e_millefeuille_rouge,_Forest-M.,_80-Fr.jpg",
+    "dataset": "Wikimedia Commons",
+    "orig_px": [
+      3085,
+      2930
+    ],
+    "full_px": [
+      1500,
+      1425
+    ],
+    "thumb_px": [
+      400,
+      380
+    ]
+  },
+  {
+    "file": "images/su-mass.jpg",
+    "commons_file": "Achillea millefolium (red beauty common yarrow) 2 (38580956105).jpg",
+    "by": "James St. John",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Achillea_millefolium_(red_beauty_common_yarrow)_2_(38580956105).jpg",
+    "dataset": "Wikimedia Commons",
+    "orig_px": [
+      1949,
+      2000
+    ],
+    "full_px": [
+      1462,
+      1500
+    ],
+    "thumb_px": [
+      390,
+      400
+    ]
+  },
+  {
+    "file": "images/su-foliage.jpg",
+    "commons_file": "Achillea millefolium (red beauty common yarrow) 5 (39459905551).jpg",
+    "by": "James St. John",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Achillea_millefolium_(red_beauty_common_yarrow)_5_(39459905551).jpg",
+    "dataset": "Wikimedia Commons",
+    "orig_px": [
+      2000,
+      2000
+    ],
+    "full_px": [
+      1500,
+      1500
+    ],
+    "thumb_px": [
+      400,
+      400
+    ]
+  },
+  {
+    "file": "images/su-habit.jpg",
+    "commons_file": "Achillea millefolium (red beauty common yarrow) 4 (38751349744).jpg",
+    "by": "James St. John",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Achillea_millefolium_(red_beauty_common_yarrow)_4_(38751349744).jpg",
+    "dataset": "Wikimedia Commons",
+    "orig_px": [
+      3008,
+      2000
+    ],
+    "full_px": [
+      1500,
+      997
+    ],
+    "thumb_px": [
+      400,
+      266
+    ]
+  },
+  {
+    "file": "images/su-leaf.jpg",
+    "commons_file": "Achillea millefolium (red beauty common yarrow) 6 (25589550948).jpg",
+    "by": "James St. John",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Achillea_millefolium_(red_beauty_common_yarrow)_6_(25589550948).jpg",
+    "dataset": "Wikimedia Commons",
+    "orig_px": [
+      1966,
+      1959
+    ],
+    "full_px": [
+      1500,
+      1495
+    ],
+    "thumb_px": [
+      400,
+      399
+    ]
+  }
+]

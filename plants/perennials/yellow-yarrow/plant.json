@@ -4,6 +4,7 @@
   "type": "Forb",
   "lifecycle": "Perennial",
   "native": "Non-native",
+  "collection": "yarrows",
   "bloom_season": "Summer",
   "flower_color": [
     "yellow"

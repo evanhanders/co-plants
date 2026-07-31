@@ -1,0 +1,162 @@
+[
+  {
+    "file": "images/su-mat.jpg",
+    "commons_file": "Stachys byzantina Big Ears 2020-06-23 08284.jpg",
+    "by": "Salicyna",
+    "license": "CC-BY-SA",
+    "source": "https://commons.wikimedia.org/wiki/File:Stachys_byzantina_Big_Ears_2020-06-23_08284.jpg",
+    "dataset": "Wikimedia Commons",
+    "orig_px": [
+      5152,
+      3864
+    ],
+    "full_px": [
+      1500,
+      1125
+    ],
+    "thumb_px": [
+      400,
+      300
+    ]
+  },
+  {
+    "file": "images/sp-rosette.jpg",
+    "commons_file": "Stachys byzantina Helene von Stein 8zz.jpg",
+    "by": "Photo by David J. Stang",
+    "license": "CC-BY-SA",
+    "source": "https://commons.wikimedia.org/wiki/File:Stachys_byzantina_Helene_von_Stein_8zz.jpg",
+    "dataset": "Wikimedia Commons",
+    "orig_px": [
+      3504,
+      2336
+    ],
+    "full_px": [
+      1500,
+      1000
+    ],
+    "thumb_px": [
+      400,
+      267
+    ]
+  },
+  {
+    "file": "images/sp-leaf.jpg",
+    "commons_file": "Stachys byzantina Helene von Stein 9zz.jpg",
+    "by": "Photo by David J. Stang",
+    "license": "CC-BY-SA",
+    "source": "https://commons.wikimedia.org/wiki/File:Stachys_byzantina_Helene_von_Stein_9zz.jpg",
+    "dataset": "Wikimedia Commons",
+    "orig_px": [
+      3504,
+      2336
+    ],
+    "full_px": [
+      1500,
+      1000
+    ],
+    "thumb_px": [
+      400,
+      267
+    ]
+  },
+  {
+    "file": "images/sp-habit.jpg",
+    "commons_file": "Stachys byzantina Helene von Stein 11zz.jpg",
+    "by": "Photo by David J. Stang",
+    "license": "CC-BY-SA",
+    "source": "https://commons.wikimedia.org/wiki/File:Stachys_byzantina_Helene_von_Stein_11zz.jpg",
+    "dataset": "Wikimedia Commons",
+    "orig_px": [
+      3504,
+      2336
+    ],
+    "full_px": [
+      1500,
+      1000
+    ],
+    "thumb_px": [
+      400,
+      267
+    ]
+  },
+  {
+    "file": "images/su-leaves.jpg",
+    "commons_file": "Stachys byzantina Big Ears 2020-06-23 08285.jpg",
+    "by": "Salicyna",
+    "license": "CC-BY-SA",
+    "source": "https://commons.wikimedia.org/wiki/File:Stachys_byzantina_Big_Ears_2020-06-23_08285.jpg",
+    "dataset": "Wikimedia Commons",
+    "orig_px": [
+      4849,
+      3637
+    ],
+    "full_px": [
+      1500,
+      1125
+    ],
+    "thumb_px": [
+      400,
+      300
+    ]
+  },
+  {
+    "file": "images/su-foliage.jpg",
+    "commons_file": "Stachys byzantina 'Big Ears' in Jardin des 5 sens (2).jpg",
+    "by": "Krzysztof Golik",
+    "license": "CC-BY-SA",
+    "source": "https://commons.wikimedia.org/wiki/File:Stachys_byzantina_%27Big_Ears%27_in_Jardin_des_5_sens_(2).jpg",
+    "dataset": "Wikimedia Commons",
+    "orig_px": [
+      5340,
+      3560
+    ],
+    "full_px": [
+      1500,
+      1000
+    ],
+    "thumb_px": [
+      400,
+      267
+    ]
+  },
+  {
+    "file": "images/fa-clump.jpg",
+    "commons_file": "Stachys byzantina Helene von Stein 6zz.jpg",
+    "by": "Photo by David J. Stang",
+    "license": "CC-BY-SA",
+    "source": "https://commons.wikimedia.org/wiki/File:Stachys_byzantina_Helene_von_Stein_6zz.jpg",
+    "dataset": "Wikimedia Commons",
+    "orig_px": [
+      3504,
+      2336
+    ],
+    "full_px": [
+      1500,
+      1000
+    ],
+    "thumb_px": [
+      400,
+      267
+    ]
+  },
+  {
+    "file": "images/fa-rosette.jpg",
+    "commons_file": "Stachys byzantina Helene von Stein 0zz.jpg",
+    "by": "Photo by David J. Stang",
+    "license": "CC-BY-SA",
+    "source": "https://commons.wikimedia.org/wiki/File:Stachys_byzantina_Helene_von_Stein_0zz.jpg",
+    "dataset": "Wikimedia Commons",
+    "orig_px": [
+      1152,
+      1728
+    ],
+    "full_px": [
+      1000,
+      1500
+    ],
+    "thumb_px": [
+      267,
+      400
+    ]
+  }
+]

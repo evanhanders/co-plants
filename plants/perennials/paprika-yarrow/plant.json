@@ -1,0 +1,252 @@
+{
+  "common": "'Paprika' yarrow",
+  "botanical": "Achillea millefolium 'Paprika'",
+  "aka": [
+    "Achillea 'Paprika'",
+    "Galaxy Series yarrow",
+    "'Paprika' common yarrow"
+  ],
+  "type": "Forb",
+  "lifecycle": "Perennial",
+  "native": "Non-native",
+  "collection": "yarrows",
+  "flower_color": [
+    "red",
+    "pink",
+    "yellow"
+  ],
+  "bloom": [
+    "summer",
+    "fall"
+  ],
+  "bloom_season": "Summer",
+  "blurb": "Flat 2–3 in plates of tiny brick-red flowers, each floret lit by a pinprick gold eye, held over deeply cut ferny foliage that smells sharply of spice when you brush it. Because every floret ages on its own clock, one corymb can carry scarlet, salmon and buff-pink at once, and a whole patch reads like a bowl of paprika going pale. Be honest about that fade, though — red is the opening act, not the whole show: the heads bleach through salmon to creamy pink and tan, sometimes fast under our high-altitude sun. Bone-dry tough, deer-proof, and blooming June into September if you keep cutting the spent heads off.",
+  "size": "~1.5–2 ft tall × 1.5–2 ft wide, the rhizomatous mat creeping wider over time (the species runs 1–3 ft)",
+  "sun": "Full sun — 6+ hours; part shade is tolerated but the already-weak stems stretch and flop",
+  "water": "Low; xeric once established — dry to medium is the target, and a rich, moist, well-watered bed is what makes it sprawl",
+  "spread": "Spreading, mat-forming and rhizomatous — creeps outward and self-sows, and can naturalize into substantial colonies unchecked; divide every 2–3 years",
+  "seasons": "Ferny, aromatic, medium-green foliage from early spring; flat corymbs opening brick-red with gold eyes June through September, each head ageing through salmon to buff-pink and tan so a clump shows several tones at once; low basal foliage holds late into fall; little winter structure — the weak stems lodge rather than stand",
+  "wildlife": "An RHS 'Plants for Pollinators' selection; the flat corymbs are an easy landing pad for bees, butterflies, hoverflies and predatory beneficial insects. Also a good fresh-cut and dried flower",
+  "deer": "Deer-resistant, and rated rabbit-resistant too — the strongly aromatic, spicy foliage does the work",
+  "toxic": "Toxic to dogs, cats and horses if eaten (achillein, monoterpenes, the sesquiterpene lactone achillin); the aromatic foliage causes contact dermatitis in sensitive people, so wear gloves when cutting it back",
+  "winter": false,
+  "verified": "2026-07-28",
+  "origin": "Garden cultivar; its wild parent, common yarrow, is Eurasian — Europe east to western Asia — and long naturalized across North America",
+  "habitat": "Dry, open ground — meadows, pastures and roadsides on thin, sandy-gravelly loams; intolerant of dense shade",
+  "ph": {
+    "min": 6.0,
+    "ideal": 7.0,
+    "max": 8.0
+  },
+  "care": {
+    "hardiness": "Cold is a non-issue. MBG rates it USDA 3–8, NC State stretches the species from 3a to 9b, and the RHS gives it H7 — hardy in the severest European continental climates, below −20 °C.[1][2][3] Boulder's zone 5b–6a sits comfortably in the middle of that. What actually kills yarrow here is not winter cold but winter *wet*: the RHS notes it tolerates most situations except heavy, wet clay in winter, and NC State flags root rot in too-wet soils.[2][3] Drainage, not protection, is the thing to get right before the first freeze.",
+    "planting": "Set container-grown plants out any time in the growing season; spring after the mid-May last frost, or early September, gives roots the kindest weeks to establish, and bare-root divisions are best planted in spring.[4] Site it for drainage first — lean, well-drained sandy loam in full sun is the target, and poor soils are fine as long as water moves through.[1] In Boulder's heavy clay, plant on a slope, a berm or a raised bed and work coarse grit into the backfill rather than piling on compost; richness here is a liability, not a favour.[1][2] In a pot, use a gritty free-draining mix and a container big enough not to bake dry in August; overwinter the pot up against the house or sunk to its rim, since roots in a pot never get the insulation an in-ground crown does and this plant will not forgive a winter sitting in cold, sodden compost.[2][3]",
+    "sun": "Full sun — NC State's threshold is 6+ hours of direct sun a day, and MBG lists full sun flatly.[1][3] The RHS allows partial shade, and it will live there, but 'Paprika' already has weak stems that lodge easily, and shade plus rich ground is exactly the recipe for a collapsed tangle by August.[1][2] Our intense high-altitude sun is no problem at all: FEIS describes common yarrow as a plant of dry, open sites that is intolerant of dense shade.[6] If anything, give it the hottest, leanest, most exposed spot you have — but keep it out of the worst wind funnels, since MBG advises siting ornamental plantings where strong winds can't get at them.[1]",
+    "soil": "Lean, dry to medium, well-drained sandy loam is the ideal; average garden soil is fine and genuinely poor soil is fine too, provided drainage is good.[1] The RHS accepts chalk, loam or sand at acid, neutral or alkaline pH, and NC State puts the species at 6.0–8.0 — so Boulder's alkaline soil is simply not a problem for it.[2][3] Our clay is. CSU's standard perennial-bed prep is organic matter worked 12 inches deep, and that's right for most of the border, but for yarrow keep the compost light and add coarse grit or squeegee instead: MBG explicitly warns against moist, rich, fertile soils, which make the stems flop.[1][4] Avoid heavy wet clay outright, especially where it stays soggy over winter.[2]",
+    "water": "Low. MBG's water rating is 'dry to medium' and both MBG and NC State list drought, dry soil and poor soil among its tolerances; CSU's xeriscape fact sheet includes common yarrow in its list of low-water perennial flowers for Colorado.[1][3][5] Water it properly through the establishment season — CSU suggests every couple of days for the first month after planting in full sun, then stretching to four- to six-day intervals to push roots outward — and after that a deep soak every two to three weeks in high summer is generally plenty.[4] Overwatering is the classic way to ruin this plant: too-wet soil brings root rot, and moist, rich ground produces the soft, tall growth that sprawls into a mat.[1][3] If it is sharing a bed, share it with other xeric things, not with something you water twice a week.",
+    "spacing": "Space plants about 18–24 in apart to a mature size of roughly 1.5–2 ft each way.[1] Plan the bed with those mature dimensions in mind and leave real room — CSU notes that crowding perennials costs you air circulation and invites disease problems, which matters here because powdery mildew is one of the few things that does bother yarrow.[1][2][4] Don't try to close the gaps by planting tight; the rhizomes will do it for you within a season or two.[1]",
+    "propagation": "Divide, don't sow. The RHS lists division in spring as the propagation method for 'Paprika', and MBG's advice is to divide clumps every 2–3 years to maintain the vitality of the planting — do both jobs at once and you keep the plant vigorous and get free copies.[1][2] Lift the clump in April or early May, discard the woody, thinning middle, and replant the vigorous outer pieces with roots attached. Seed is the wrong route for a named clone: 'Paprika' is generally treated as one of the Galaxy Hybrids (*A. millefolium* × *A.* 'Taygetea'), and the cultivars of common yarrow are what carry its range of pinks, reds and creams — a seedling is a lottery ticket, not a copy.[1][3] The plant self-sows freely, so the volunteers appearing around a happy clump are seedlings drifting back toward muddy off-white and washed pink, not more 'Paprika'; pull them, and deadhead to keep them from starting.[1]",
+    "bloom": "June through September here, in dense flattened compound corymbs 2–3 in across held on stems 1.5–2 ft tall.[1] The flowers open dusty brick-red with yellow centres — the RHS calls the colour ruby-red — and this is the part to be plain about: MBG warns that the initial flower colour fades, sometimes rather quickly, to light pink, creamy yellow and brown, and the RHS describes the same ageing to pale pink and mustard-yellow.[1][2] Under Boulder's intense high-altitude sun and dry July heat, expect that run to be brisk, and expect the red phase to be the first week or two of any given head's life. Since heads open in succession, the practical effect is a plant that is red, salmon and buff all at once rather than uniformly scarlet — plan the colour scheme around that, not against it. Deadheading is the lever you actually have: cutting plants back to lateral flower buds after the first flush tidies the planting and encourages more bloom, and the RHS notes cutting back flowerheads may bring repeat flowering through summer.[1][2]",
+    "feeding": "Don't. Lean is the whole point — MBG's culture line is lean, dry to medium soil, and it names moist, rich, fertile soil as a cause of flopping stems.[1] On typical Front Range ground no fertilizer is needed at all; a thin spring topdressing of compost is the most this plant should ever see, and even that is optional. Feeding a cultivar already described as weak-stemmed and prone to lodging just buys you a bigger mess to stake.[1]",
+    "maintenance": "Plan on cutting it back, repeatedly. MBG is blunt that 'Paprika' tends to sprawl and lodge easily and, if not cut back, can form a tangled mat of stems and foliage by mid to late summer — and that strong summer storms with high winds can flatten exposed plantings, which is a fair description of a Front Range July afternoon.[1] Three cuts do the work: shear the clump back in late spring before flowering to reduce its eventual height; cut back to lateral flower buds after the first flush to tidy it and pull a second wave of bloom; and if it goes over anyway, cut the whole thing to the basal foliage — plantings can even be periodically mowed or sheared.[1] The RHS adds a spring tidy of untidy foliage.[2] Following CSU's guidance, leave the fall cleanup light for wildlife habitat unless disease is present, then cut the dead stems down in late winter before new growth pushes.[4] Divide every 2–3 years to keep it vigorous, and watch the edges: it spreads aggressively by rhizome and self-seeding and will naturalize into substantial colonies if left unchecked.[1][3][6]",
+    "troubles": "Genuinely low-trouble. MBG lists stem rot, powdery mildew and rust as occasional problems; the RHS adds aphids and powdery mildews; NC State calls stem rot and powdery mildew rare and flags root rot in too-wet soils.[1][2][3] Almost every real failure here is a siting mistake rather than a disease: soggy or heavy clay (rot), rich or fertilized soil (soft floppy growth), too much shade (stretching), or too much water (both at once). The other two honest annoyances are structural — the stems are weak and lodge easily, so it will need cutting back rather than staking, and it spreads aggressively enough to need an edge or a periodic division to keep it in bounds.[1][3] Wear gloves: the aromatic foliage can cause contact dermatitis.[3]",
+    "companions": "MBG puts it in cottage gardens, rock gardens, meadows, prairies and naturalized areas, and NC State files it under butterfly, cottage, drought-tolerant, pollinator and rock-garden themes, as a border plant or mass planting.[1][3] Design its bed around water, not just colour: pair it only with things happy on a xeric schedule — Russian sage, catmint, penstemon, hardy ice plant, blue grama and little bluestem, prairie zinnia — so one lean, low-water irrigation zone serves the whole planting, exactly the approach CSU's xeriscape perennial fact sheet is built on.[3][5] Its warm brick-to-salmon range is a strong foil for blue and violet flowers and for silver foliage, and the flat corymbs contrast well with vertical spikes. Leave adequate room for mature size when you lay it out.[4]"
+  },
+  "edible": {
+    "level": "caution",
+    "food": true,
+    "kinds": [
+      "leaves",
+      "flowers"
+    ],
+    "card": "Young leaves & flowers, bitter — tea, salads & bitters, sparingly",
+    "summary": "Yarrow leaves and flowers are a documented bitter culinary and tea herb used in small amounts — but this is a nursery ornamental bred for flower colour, not a food crop, and yarrow carries real cautions (thujone, dermatitis, photosensitivity, pregnancy) plus a genuinely deadly foliage look-alike.[3][8][12]",
+    "parts": "The leaves and flowers are the edible parts. NC State records that the leaves and flowers are bitter but can be eaten raw or cooked in moderation, used in salads and to make teas, and that the flowers and leaves are used in making some liquors and bitters.[3] PFAF likewise lists leaves raw or cooked — a rather bitter flavour, an acceptable addition to mixed salads and best used young — an aromatic tea made from the flowers and leaves, and a historic use of the leaves as a hop-substitute for flavouring beer.[12] Nothing else on the plant is a food; roots and mature stems have no documented culinary use.[3][12]",
+    "preparation": "Pick only young, tender leaves before they toughen, and use them sparingly — a few chopped leaves in a mixed salad, not a bowl of them.[3][12] Leaves or flowers dried and steeped make the traditional aromatic tea, and both are used to flavour bitters and liqueurs.[3][12] Treat it as a bitter seasoning, the way you would treat wormwood or hops, and start with far less than you think. Because 'Paprika' is an ornamental clone selected for flower colour rather than flavour, taste any of it cautiously and in small quantity.[1][3]",
+    "caution": "Read this before eating any yarrow. **Identification first:** yarrow's finely dissected, fern-like foliage is regularly confused with poison hemlock (*Conium maculatum*), which NC State rates high-severity — 'HIGHLY TOXIC, MAY BE FATAL IF EATEN', with the alkaloid coniine in every part — and which is a Colorado List C noxious weed common along streams, ditch banks and pasture borders here, so it is a plant you will actually meet.[9][11] The same warning covers water hemlock (*Cicuta*), whose cicutoxin is likewise potentially fatal.[10] The tells: yarrow is a low, mat-forming plant with a feathery basal rosette that smells strongly spicy when crushed and carries flat corymbs of tiny daisy-type heads (it is an Asteraceae); the hemlocks are 4–10 ft carrot-family plants with hollow, purple-blotched stems, parsley-like leaves and true umbels, and they smell musty.[1][9][11] Never eat a ferny-leaved plant you have not positively identified. **Chemistry:** *Achillea* essential oil contains α- and β-thujone, reported across the genus at anywhere from 0.4% to 55.3% of the oil, with α-thujone the more neurotoxic of the two and a recommended human intake on the order of only 3–7 mg/day — this is a plant to use as a flavouring, never as a bulk green.[8] **Skin and allergy:** the sesquiterpene lactone α-peroxyachifolid is yarrow's primary sensitizer and one of the more significant causes of airborne contact dermatitis; NC State lists contact dermatitis as a problem and advises gloves, and PFAF warns that extended use, medicinally or in the diet, can cause allergic skin rashes or photosensitivity — so anyone allergic to other Asteraceae (ragweed, chamomile, daisies) should avoid it entirely, and the pollen itself is highly allergenic.[3][8][12] **Pregnancy and medication:** avoid it while pregnant or nursing — the pharmacological review notes reproductive-toxicity signals at high doses and that constituents such as camphor cross the placenta and are not recommended in pregnancy or lactation, and flags interactions with antiplatelet drugs, blood-pressure medication, analgesics, sedatives and barbiturates; PFAF adds that large amounts can be sedative and diuretic and that yarrow may enhance other sedative herbs and drugs.[8][12] **Pesticides:** ornamental nursery stock is routinely treated, so never eat a plant whose treatment history you don't know — grow it a full clean season first. **Pets:** the ASPCA lists yarrow as toxic to dogs, cats and horses (achillein, monoterpenes and the sesquiterpene lactone achillin), with vomiting, diarrhea, colic, drooling, anorexia, dermatitis and depression among the signs, so don't let animals graze it.[7]"
+  },
+  "references": [
+    {
+      "name": "Missouri Botanical Garden Plant Finder — Achillea millefolium 'Paprika'",
+      "url": "https://plantfinder.mobot.org/PlantFinderDetails.aspx?kempercode=n710"
+    },
+    {
+      "name": "Royal Horticultural Society — Achillea 'Paprika' (Galaxy Series)",
+      "url": "https://www.rhs.org.uk/plants/277944/achillea-paprika-(galaxy-series)/details"
+    },
+    {
+      "name": "NC State Extension Gardener Plant Toolbox — Achillea millefolium",
+      "url": "https://plants.ces.ncsu.edu/plants/achillea-millefolium/"
+    },
+    {
+      "name": "Colorado State University Extension — Perennial Gardening",
+      "url": "https://extension.colostate.edu/resource/perennial-gardening/"
+    },
+    {
+      "name": "Colorado State University Extension — Xeriscaping: Perennial and Annual Flowers (fact sheet 7.231)",
+      "url": "https://www.extension.colostate.edu/docs/pubs/garden/07231.pdf"
+    },
+    {
+      "name": "USDA Forest Service, Fire Effects Information System (FEIS) — Achillea millefolium",
+      "url": "https://www.fs.usda.gov/database/feis/plants/forb/achmil/all.html"
+    },
+    {
+      "name": "ASPCA Animal Poison Control — Yarrow (Achillea millefolium)",
+      "url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/yarrow"
+    },
+    {
+      "name": "Achillea millefolium: Mechanism of action, pharmacokinetic, clinical drug-drug interactions and tolerability (via PubMed Central)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10703637/"
+    },
+    {
+      "name": "NC State Extension Gardener Plant Toolbox — Conium maculatum (poison hemlock)",
+      "url": "https://plants.ces.ncsu.edu/plants/conium-maculatum/"
+    },
+    {
+      "name": "NC State Extension Gardener Plant Toolbox — Cicuta maculata (water hemlock)",
+      "url": "https://plants.ces.ncsu.edu/plants/cicuta-maculata/"
+    },
+    {
+      "name": "Jefferson County, Colorado Noxious Weed Program — Poison Hemlock (Colorado List C)",
+      "url": "https://www.jeffco.us/2230/Poison-Hemlock"
+    },
+    {
+      "name": "Plants For A Future — Achillea millefolium (corroboration)",
+      "url": "https://pfaf.org/user/Plant.aspx?LatinName=Achillea+millefolium"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      1,
+      2,
+      3
+    ],
+    "sun": [
+      1,
+      2,
+      3
+    ],
+    "water": [
+      1,
+      3,
+      5
+    ],
+    "spread": [
+      1,
+      3,
+      6
+    ],
+    "seasons": [
+      1,
+      2,
+      3
+    ],
+    "wildlife": [
+      1,
+      2,
+      3
+    ],
+    "deer": [
+      1,
+      3
+    ],
+    "toxic": [
+      3,
+      7
+    ],
+    "ph": [
+      2,
+      3
+    ],
+    "origin": [
+      1,
+      12
+    ],
+    "habitat": [
+      6,
+      12
+    ]
+  },
+  "shots": [
+    {
+      "local": "images/su-close-t.jpg",
+      "full": "images/su-close.jpg",
+      "commons": "Achillea millefolium Paprika.jpg",
+      "s": "summer",
+      "cap": "Summer — brick-red florets each lit by a pinprick gold eye, over ferny foliage · © Stan Shebs (CC BY-SA 3.0) / Wikimedia Commons",
+      "by": "Stan Shebs",
+      "lic": "CC BY-SA 3.0",
+      "link": "https://commons.wikimedia.org/wiki/File:Achillea_millefolium_Paprika.jpg"
+    },
+    {
+      "local": "images/su-flower-t.jpg",
+      "full": "images/su-flower.jpg",
+      "commons": "Achilleamillefolium-paprika.jpg",
+      "s": "summer",
+      "cap": "Summer — a dense corymb at full colour, the gold eyes crowding the red · © Stickpen (Public domain) / Wikimedia Commons",
+      "by": "Stickpen",
+      "lic": "Public domain",
+      "link": "https://commons.wikimedia.org/wiki/File:Achilleamillefolium-paprika.jpg"
+    },
+    {
+      "local": "images/su-fade-t.jpg",
+      "full": "images/su-fade.jpg",
+      "commons": "Achillea millefolium Paprika 1zz.jpg",
+      "s": "summer",
+      "cap": "Summer — a fresh red head beside older ones already bleaching to cream: the fade in one frame · © Photo by David J. Stang (CC BY-SA 4.0) / Wikimedia Commons",
+      "by": "Photo by David J. Stang",
+      "lic": "CC BY-SA 4.0",
+      "link": "https://commons.wikimedia.org/wiki/File:Achillea_millefolium_Paprika_1zz.jpg"
+    },
+    {
+      "local": "images/su-aged-t.jpg",
+      "full": "images/su-aged.jpg",
+      "commons": "Achillea millefolium Paprika 2zz.jpg",
+      "s": "summer",
+      "cap": "Late summer — a head aged through salmon to buff-pink, the last stage of the fade · © Photo by David J. Stang (CC BY-SA 4.0) / Wikimedia Commons",
+      "by": "Photo by David J. Stang",
+      "lic": "CC BY-SA 4.0",
+      "link": "https://commons.wikimedia.org/wiki/File:Achillea_millefolium_Paprika_2zz.jpg"
+    },
+    {
+      "local": "images/su-mass-t.jpg",
+      "full": "images/su-mass.jpg",
+      "commons": "Achillea millefolium Paprika 6zz.jpg",
+      "s": "summer",
+      "cap": "Summer — a planting carrying red and faded cream heads at once · © Photo by David J. Stang (CC BY-SA 4.0) / Wikimedia Commons",
+      "by": "Photo by David J. Stang",
+      "lic": "CC BY-SA 4.0",
+      "link": "https://commons.wikimedia.org/wiki/File:Achillea_millefolium_Paprika_6zz.jpg"
+    },
+    {
+      "local": "images/su-context-t.jpg",
+      "full": "images/su-context.jpg",
+      "commons": "Achillea millefolium Paprika 7zz.jpg",
+      "s": "summer",
+      "cap": "Summer — how a patch reads in the garden, several tones at once · © Photo by David J. Stang (CC BY-SA 4.0) / Wikimedia Commons",
+      "by": "Photo by David J. Stang",
+      "lic": "CC BY-SA 4.0",
+      "link": "https://commons.wikimedia.org/wiki/File:Achillea_millefolium_Paprika_7zz.jpg"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "commons": "Achillea millefolium Paprika - 03.jpg",
+      "s": "summer",
+      "cap": "Summer — upright stems and deeply cut foliage below the flower plates · © Jeangagnon (CC BY-SA 4.0) / Wikimedia Commons",
+      "by": "Jeangagnon",
+      "lic": "CC BY-SA 4.0",
+      "link": "https://commons.wikimedia.org/wiki/File:Achillea_millefolium_Paprika_-_03.jpg"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "commons": "Achillea millefolium Paprika 4zz.jpg",
+      "s": "summer",
+      "cap": "Summer — the finely dissected, aromatic ferny foliage · © Photo by David J. Stang (CC BY-SA 4.0) / Wikimedia Commons",
+      "by": "Photo by David J. Stang",
+      "lic": "CC BY-SA 4.0",
+      "link": "https://commons.wikimedia.org/wiki/File:Achillea_millefolium_Paprika_4zz.jpg"
+    }
+  ]
+}

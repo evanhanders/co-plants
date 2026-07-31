@@ -306,6 +306,12 @@
       "group": "Groundcovers",
       "lead": "lambs-ear",
       "blurb": "Stachys byzantina — the woolly silver mat, from the flowering species to the big-leaved and flowerless garden selections."
+    },
+    "sea-hollies": {
+      "name": "Sea hollies",
+      "group": "Summer forbs",
+      "lead": "flat-sea-holly",
+      "blurb": "Eryngium — spiny, metallic-blue and silver thistle-like perennials for hot, lean, sharply drained ground."
     }
   }
 }

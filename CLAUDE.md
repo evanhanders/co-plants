@@ -493,7 +493,8 @@ milkweeds, alliums, sunflowers, bee-balms, lupines, dogwoods, clematis, mulleins
 scabious, prairie-coneflowers, pinks, coreopsis, sumacs, primulas, ornamental-oreganos, marigolds,
 bugleweeds, pasqueflowers, coral-bells, elderberries, burnets, yarrows, poppies, peonies,
 hummingbird-mints, four-o'clocks, evening-primroses, oregon-grapes, lindens, hawthorns,
-rhododendrons, phloxes, sages, honeysuckle-vines, speedwells, lamb's-ears — **51 in all**) collapse
+rhododendrons, phloxes, sages, honeysuckle-vines, speedwells, lamb's-ears, sea-hollies —
+**52 in all**) collapse
 into a **single expandable family card** so the grid isn't buried under near-duplicate cards. It's
 an **inline accordion**, not a separate page — each member keeps its own detail page untouched.
 The bar for a collection is "would a gardener read these as one kind of plant in different
@@ -1115,7 +1116,7 @@ ground every statement in an authority cited in `references`.
 
 ## Current plant roster (in the live site)
 
-**313 specimens** (`plants/manifest.json` is the source of truth for the exact count), all verified
+**318 specimens** (`plants/manifest.json` is the source of truth for the exact count), all verified
 non-weed in CO and all carrying a full `care` block (incl.
 `planting` + `propagation`) **and a repo-hosted photo reel** (close-up + structure, seasonal
 where good shots exist). Every plant's detail page is **fully cited** — a numbered
@@ -1560,6 +1561,34 @@ Mexican December/January records** — useless for a plant that is bare ground h
 a September **Arizona** record instead. `check_refs` guide-wide PASS; `check_citations` on the five PASS
 (17 OK / 1 REVIEW / 0 DEAD — the REVIEW is the generic CSU Front-Range framing cite).
 
+**Sea hollies batch (July 2026):** on a user request ("add some eryngium species"), added **five**
+*Eryngium* as a new **Sea hollies** family card (id `sea-hollies`, homed in Summer forbs, lead = flat sea
+holly): the bulletproof garden standard **flat sea holly** (*E. planum*), the tallgrass-prairie
+**rattlesnake master** (*E. yuccifolium*), the silver-veined Pyrenean **Mediterranean sea holly**
+(*E. bourgatii*), the monocarpic **giant sea holly / "Miss Willmott's ghost"** (*E. giganteum*) and the
+intensely coloured **amethyst sea holly** (*E. amethystinum*). **Weed-check call:** no *Eryngium* appears
+anywhere on Colorado's A/B/C/Watch lists — verified 2026-07-31 against the CDA 2023 Noxious Weed Act rules
+species list — and CSU-adjacent Colorado garden guidance actually recommends sea holly as an *alternative*
+to invasives. All five are **Non-native** with cited `origin`/`habitat`, all xeric, sharp-drainage-demanding
+(**winter wet, not cold, is what kills every one of them** — it's the through-line in all five `care`
+blocks), deer- and rabbit-resistant, and strong bee/wasp/butterfly nectar plants. Honesty calls baked in:
+**giant sea holly is a `Biennial` and monocarpic** — it flowers, seeds and dies, persisting only by
+self-sowing, so deadheading it completely means no plant next year; **rattlesnake master is an
+eastern/central-US prairie native, NOT Colorado** (marked `Non-native` per the witch-hazel convention) and
+the Wildflower Center flags it as a potentially aggressive self-seeder; **giant sea holly is the least
+xeric** of the five (MBG gives it medium moisture, unusually for the genus); and **all five are `edible`
+level `inedible`** — the genus does contain real foods (candied 'eryngo' roots from *E. maritimum*/*E.
+campestre*, culantro *E. foetidum*) but none of these five is a documented food, and the `caution` cells say
+plainly that carrot-family edibility is species-by-species since the same family holds poison hemlock. The
+real hazard on all of them is **mechanical** — genuinely sharp bracts and leaf margins, not toxicity. Every
+plant carries a **winter shot** (`winter: true`): bleached seedhead skeletons are the genus's best season,
+and RHS explicitly advises leaving them standing. Care sourced from MBG Plant Finder, RHS, NC State Plant
+Toolbox, UW–Madison Extension Horticulture and the LBJ Wildflower Center (MBG kempercodes/taxonids verified
+by fetching each page and confirming it names the right species). Photos via `tools/inat_montage.py` (iNat
+open data; 8–9 CC shots each, phenology- and month-targeted passes for foliage and winter structure),
+720×480 smart-crop thumbs. `check_refs` guide-wide PASS (0 errors, 0 warnings); `check_citations` on the
+five PASS (18 OK, 0 DEAD).
+
 **Trees**
 - River hawthorn (*Crataegus rivularis*) (N) — Thorny native small tree; white spring flowers, dark edible haws, superb wildlife cover. A caterpillar keystone (~90 Lepidoptera). *(Riparian — wants more water; edible haws, spit the cyanogenic seeds.)*
 - Chokecherry (*Prunus virginiana*) (N) — Wildlife powerhouse: fragrant white flower racemes, dark…
@@ -1733,6 +1762,11 @@ a September **Arizona** record instead. `check_refs` guide-wide PASS; `check_cit
 - Nettle-leaved mullein (*Verbascum chaixii*) (I) — The sturdiest, longest-lived mullein; spikes of small yellow (or white 'Album') flowers with woolly purple-stamen eyes over nettle-like foliage. *(Mulleins family card.)*
 - Giant silver mullein (*Verbascum bombyciferum*) (I) · **Biennial** — Architectural: a white-felted silver rosette year one, then a towering 5–6 ft yellow candelabra spire. *(Mulleins family card; self-sows — deadhead to manage.)*
 - Garden hybrid mullein (*Verbascum* 'Southern Charm' & kin) (I) — Showy pastel saucer flowers (apricot/buff/pink/lilac/cream) with purple-stamen eyes on branching spikes; short-lived. *(Mulleins family card; root cuttings to keep named hybrids true.)*
+- Flat sea holly (*Eryngium planum*) (I) — The toughest, most widely grown sea holly: branching stems flushing metallic steel-blue, tipped with violet-blue thimbles in spiny silver ruffs. *(Sea hollies family card; xeric — winter wet is the killer; inedible, and genuinely prickly.)*
+- Rattlesnake master (*Eryngium yuccifolium*) (I) — Yucca-like blue-green sword rosette throwing 4–5 ft stems of greenish-white, honey-scented flower globes; dark seed globes all winter. *(Sea hollies family card; E/central-US prairie native, NOT Colorado; self-sows aggressively if not deadheaded; inedible — medicinal history, not food.)*
+- Mediterranean sea holly (*Eryngium bourgatii*) (I) — The rock-garden pick: dark deeply cut leaves marbled silver-white, then silver-blue cones over long spiny bracts. *(Sea hollies family card; Pyrenean limestone native — loves our alkaline soil, hates winter wet; inedible.)*
+- Giant sea holly (*Eryngium giganteum*) (I) · **Biennial** — "Miss Willmott's ghost": a rosette year one, then a 3–4 ft candelabra of cones in wide ghost-silver bract collars. *(Sea hollies family card; monocarpic — dies after seeding, so leave some heads to self-sow; the least xeric of the five; inedible.)*
+- Amethyst sea holly (*Eryngium amethystinum*) (I) — The most intensely coloured hardy sea holly; amethyst-violet floods the cones and upper stems over leathery, spine-edged rosettes. *(Sea hollies family card; semi-evergreen, RHS H5, chalk-tolerant; inedible.)*
 - Hollyhock (*Alcea rosea*) (I) · **Biennial** — Towering cottage spires of saucer flowers in white through deep maroon; a classic dooryard plant bees and hummingbirds work. *(Mallow-family edible flowers & young leaves; hollyhock rust is the signature pest.)*
 - Arugula (*Eruca vesicaria*) (I) · **Annual** — Cool-season salad green with lobed leaves and creamy purple-veined flowers; bolts in heat, self-sows. *(Edible peppery leaves, flowers & pods; flea beetles the #1 pest.)*
 - Red hot poker (*Kniphofia uvaria*) (I) — South-African torch lily: grassy clumps throwing bicolor red-to-yellow flower spikes hummingbirds and bees mob. *(Zone-borderline — needs sharp drainage; tie foliage over the crown for winter.)*

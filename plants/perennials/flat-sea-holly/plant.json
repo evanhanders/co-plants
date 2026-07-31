@@ -1,0 +1,212 @@
+{
+  "common": "Flat sea holly",
+  "botanical": "Eryngium planum",
+  "aka": [
+    "Blue eryngo",
+    "Blue sea holly",
+    "'Blue Hobbit' sea holly",
+    "'Blue Glitter' sea holly"
+  ],
+  "type": "Forb",
+  "lifecycle": "Perennial",
+  "native": "Non-native",
+  "collection": "sea-hollies",
+  "flower_color": [
+    "blue",
+    "purple"
+  ],
+  "bloom": [
+    "summer",
+    "fall"
+  ],
+  "bloom_season": "Summer",
+  "blurb": "The toughest and most widely grown sea holly: branching stems that flush metallic steel-blue in midsummer, each tipped with a thimble of tiny violet-blue flowers inside a spiny silver ruff. Bees swarm it, deer and rabbits won't touch it, and the dried heads stand right through winter.",
+  "size": "~2–3 ft tall × 1–2 ft wide",
+  "sun": "Full sun (6+ hours; the blue colour deepens with more sun)",
+  "water": "Low; xeric once established — no supplemental water needed in ordinary Front Range summers",
+  "spread": "Clumping from a deep taproot; self-sows slowly around the garden unless deadheaded",
+  "seasons": "A flat rosette of white-veined, spiny leaves in spring; steel-blue stems and violet-blue flower cones June–September; bleached seedhead skeletons standing through fall and winter",
+  "wildlife": "Flowers mobbed by bees, wasps, hoverflies and butterflies; seedheads feed small birds",
+  "deer": "Deer- and rabbit-resistant (spiny leaves and bracts)",
+  "toxic": "No significant toxicity reported to people or pets — the hazard is mechanical: the bracts and leaf margins are genuinely prickly",
+  "winter": true,
+  "verified": "2026-07-31",
+  "origin": "East-central Europe east to Mongolia & the western Himalaya",
+  "habitat": "Dry stony grassland, steppe, sandy riverbanks and open roadsides on lean soil",
+  "ph": {
+    "min": 5.5,
+    "ideal": 7.0,
+    "max": 8.0
+  },
+  "care": {
+    "hardiness": "Rated USDA 5a–9b, so it is comfortably hardy through Boulder's zone 5b–6a and needs no winter protection.[1] What kills it here is not cold but wet — a taprooted plant in soggy winter ground rots, so sharp drainage matters more than mulch.[2]",
+    "planting": "Set plants out in spring after the mid-May last frost, or in early fall,[5] and site them where they will never be irrigated with the lawn. Because it is taprooted it transplants badly, so plant it small and leave it alone rather than moving it later.[1][2][4] In a container use a gritty, free-draining mix, water only when the top inch is dry, and expect a pot-grown plant to be short-lived — the taproot wants depth it can't get in a pot.",
+    "sun": "Full sun — six or more hours of direct sun. The more sun it gets, the more intensely blue the stems and flower heads colour up; in shade or under a tree it grows leggy, flops and blooms thinly.[1]",
+    "soil": "Sandy or loamy, well-drained, and deliberately lean. It is tolerant of a wide range of soil pH — acid, neutral or alkaline — which is why it copes with Front Range clay-loam so long as drainage is real.[1] Do not enrich the bed: in rich soil plants grow leggy and topple over.[1]",
+    "water": "Highly drought-tolerant and happy in poor, dry soils; once established it needs no supplemental watering.[1] Water a first-year plant enough to get the taproot down, then stop. Overwatering — especially winter wet — causes root rot.[1][2]",
+    "spacing": "Space 12 in to 3 ft apart depending on whether you want a solid drift or single specimens standing clear.[1] Given full sun and lean ground, plants stand up on their own and need no staking.[1]",
+    "propagation": "Grow it from seed — it sometimes self-seeds, slowly moving around the garden — or lift and separate the plantlets that form at the base of an established parent.[1] Root cuttings taken in late winter are the standard non-seed method for the genus and are more reliable than dividing a taproot.[3]",
+    "sow": "Sow seed outdoors in fall and let winter do the chilling, or start indoors after a cold-moist period; seedlings resent root disturbance, so sow into deep pots and plant out before the taproot circles.",
+    "bloom": "Flowers June through September, often profusely, in spherical-to-cylindrical umbels about 2 in across — tiny stemless steel-violet-blue florets over a collar of spiny bracts.[1] They are superb fresh cut flowers and dry perfectly for winter arrangements.[1][2] One honest quirk: the fresh flowers smell faintly of manure, so they are better in the garden than in a vase on the table.[1]",
+    "feeding": "Do not feed. It flowers best and stands straightest in poor soil; fertilizer or rich compost buys you floppy, leggy stems and fewer flowers.[1]",
+    "maintenance": "Very low. Deadhead spent flowers if you want to keep it from seeding around, and cut the plant back after flowering at the end of summer if you want it tidy.[1] Better on the Front Range: leave the stems standing — the bleached seedheads are one of the best winter silhouettes in the garden and the birds work them — then cut to the ground in early spring.[3]",
+    "selfsow": "It self-seeds slowly, drifting a few plants around the bed rather than taking over.[1] Deadhead before the heads shatter if you want none, or let a few go and move the volunteers while they are tiny (older seedlings will not transplant).",
+    "troubles": "Aphids, slugs and snails can chew it, and it is vulnerable to root rot in wet ground and to leaf spot; the genus is also prone to powdery mildew and to leaf and bud eelworms.[1][3] In rich soils plants grow leggy and topple over — nearly every problem with this plant traces back to too much water or too much fertility.[1]"
+  },
+  "references": [
+    {
+      "name": "NC State Extension Gardener Plant Toolbox — Eryngium planum",
+      "url": "https://plants.ces.ncsu.edu/plants/eryngium-planum/"
+    },
+    {
+      "name": "Royal Horticultural Society — Sea holly (Eryngium) plant guide",
+      "url": "https://www.rhs.org.uk/plants/sea-holly"
+    },
+    {
+      "name": "Royal Horticultural Society — Eryngium amethystinum (genus cultivation, pruning & propagation notes)",
+      "url": "https://www.rhs.org.uk/plants/6779/eryngium-amethystinum/details"
+    },
+    {
+      "name": "Missouri Botanical Garden Plant Finder — Eryngium bourgatii (taprooted Eryngium culture)",
+      "url": "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=276046"
+    },
+    {
+      "name": "CSU Extension — Yard & Garden (Front Range adaptation: frost dates, alkaline clay)",
+      "url": "https://extension.colostate.edu/topic-areas/yard-garden/"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      1
+    ],
+    "sun": [
+      1
+    ],
+    "water": [
+      1
+    ],
+    "spread": [
+      1,
+      4
+    ],
+    "seasons": [
+      1,
+      3
+    ],
+    "wildlife": [
+      1
+    ],
+    "deer": [
+      1
+    ],
+    "toxic": [
+      1
+    ],
+    "ph": [
+      1
+    ],
+    "origin": [
+      1
+    ],
+    "habitat": [
+      1
+    ]
+  },
+  "edible": {
+    "level": "inedible",
+    "summary": "Grown as an ornamental and a cut flower — flat sea holly has no documented food use, though it is not considered dangerously poisonous.[1]",
+    "caution": "No authority documents Eryngium planum as an edible plant, so treat it as inedible. Some of its relatives genuinely are eaten — sea holly (E. maritimum) and field eryngo (E. campestre) roots were candied as 'eryngoes', and culantro (E. foetidum) is a culinary herb — but that is not a licence to eat this one: edibility in the carrot family is strictly species-by-species, and the same family holds poison hemlock. NC State lists no toxicity for it but does flag it as spiny; the practical hazard is the prickles on the bracts and leaf margins, which draw blood, so handle with gloves and site it away from paths where children run.[1][2]"
+  },
+  "shots": [
+    {
+      "local": "images/su-flower-t.jpg",
+      "full": "images/su-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/470220082/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — a steel-blue flower cone inside its ruff of spiny bracts · © William Harland (CC-BY) / iNaturalist",
+      "by": "William Harland",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/261705208"
+    },
+    {
+      "local": "images/su-pollinator-t.jpg",
+      "full": "images/su-pollinator.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/61397873/large.jpg",
+      "s": "summer",
+      "cap": "Summer — a bee working the violet-blue florets · © Tatyana Zarubo (CC-BY-NC) / iNaturalist",
+      "by": "Tatyana Zarubo",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/38616497"
+    },
+    {
+      "local": "images/su-flower-cluster-t.jpg",
+      "full": "images/su-flower-cluster.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/306658424/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — several cones open together, florets shading lavender to blue · © Артём Пальцев (CC-BY-NC) / iNaturalist",
+      "by": "Артём Пальцев",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/176387844"
+    },
+    {
+      "local": "images/su-bloom-mass-t.jpg",
+      "full": "images/su-bloom-mass.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/301312198/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — a drift in full bloom, stems flushed metallic blue · © no rights reserved (CC0) / iNaturalist",
+      "by": "no rights reserved",
+      "lic": "CC0",
+      "link": "https://www.inaturalist.org/observations/173501395"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/112868212/large.jpg",
+      "s": "summer",
+      "cap": "Summer — the branching, upright habit of a flowering plant · © Pavel_Avdeev (CC-BY-NC) / iNaturalist",
+      "by": "Pavel_Avdeev",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/69546571"
+    },
+    {
+      "local": "images/su-context-t.jpg",
+      "full": "images/su-context.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/7337186/large.jpg",
+      "s": "summer",
+      "cap": "Summer — plants standing in open grassland · © reinderw (CC-BY-NC) / iNaturalist",
+      "by": "reinderw",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/5886642"
+    },
+    {
+      "local": "images/sp-foliage-t.jpg",
+      "full": "images/sp-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/376314974/large.jpeg",
+      "s": "spring",
+      "cap": "Spring — the flat basal rosette of toothed, white-veined leaves · © Елана (CC-BY-NC) / iNaturalist",
+      "by": "Елана",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/212946417"
+    },
+    {
+      "local": "images/fa-seedheads-t.jpg",
+      "full": "images/fa-seedheads.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/215785514/large.jpg",
+      "s": "fall",
+      "cap": "Fall — flower cones drying to tan and dark seedheads · © Valentin Hamon (CC-BY-NC) / iNaturalist",
+      "by": "Valentin Hamon",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/127133603"
+    },
+    {
+      "local": "images/wi-structure-t.jpg",
+      "full": "images/wi-structure.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/472249589/large.jpeg",
+      "s": "winter",
+      "cap": "Winter — the bleached seedhead skeleton standing over snow · © Анна Митрошенкова (CC-BY) / iNaturalist",
+      "by": "Анна Митрошенкова",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/262926795"
+    }
+  ]
+}

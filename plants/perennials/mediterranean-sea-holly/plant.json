@@ -1,0 +1,200 @@
+{
+  "common": "Mediterranean sea holly",
+  "botanical": "Eryngium bourgatii",
+  "aka": [
+    "Pyrenean sea holly",
+    "Bourgati's eryngo",
+    "'Picos Blue' sea holly",
+    "'Oxford Blue' sea holly"
+  ],
+  "type": "Forb",
+  "lifecycle": "Perennial",
+  "native": "Non-native",
+  "collection": "sea-hollies",
+  "flower_color": [
+    "blue",
+    "purple"
+  ],
+  "bloom": [
+    "summer",
+    "fall"
+  ],
+  "bloom_season": "Summer",
+  "blurb": "The connoisseur's sea holly and the best one for a rock garden: a compact rosette of dark, deeply cut leaves marbled with silver-white veins, then cone-shaped flower heads of silver-blue over long spiny bracts. A Pyrenean limestone-mountain plant that takes drought, poor soil and salt.",
+  "size": "~1–2 ft tall × 1–2 ft wide",
+  "sun": "Full sun (tolerates light shade, but colours and stands best in full sun)",
+  "water": "Low; dry to medium — drought-tolerant, and it hates winter wet",
+  "spread": "Clumping from a taproot; slow, well-behaved and non-running",
+  "seasons": "Silver-veined evergreen-ish rosettes from early spring; silver-blue cone flowers July–September; bleached, spiny seedhead skeletons standing into winter",
+  "wildlife": "Nectar-rich flowers worked by bees, hoverflies and butterflies",
+  "deer": "Deer-resistant (spiny bracts and leaf margins)",
+  "toxic": "No significant toxicity reported to people or pets; the bracts are sharply spiny",
+  "winter": true,
+  "verified": "2026-07-31",
+  "origin": "Pyrenees & the western Mediterranean — France, Spain & Morocco",
+  "habitat": "Dry, stony limestone mountain slopes and open alpine-to-subalpine grassland",
+  "ph": {
+    "min": 6.0,
+    "ideal": 7.4,
+    "max": 8.3
+  },
+  "care": {
+    "hardiness": "Rated USDA zones 5–8, so it is hardy in Boulder's 5b–6a, but it is a marginal-by-drainage plant rather than a marginal-by-cold one: it dislikes winter wetness, and a plant sitting in cold wet clay will rot long before it freezes.[1] Site it high and gritty and it is durable.",
+    "planting": "Plant in spring after the mid-May last frost so it has a full season to root, or in early fall.[4] Choose the site once — it is taprooted, transplants poorly and is best left undisturbed after establishment.[1] It is genuinely good in a trough, raised bed or gravel garden, where the drainage is automatic; in a pot use a gritty free-draining mix, keep it on the dry side, and shelter it from winter rain and snowmelt rather than from cold.",
+    "sun": "Full sun. It tolerates light shade, but the silver-blue colouring is strongest and the stems stiffest in full sun, and tall plants tend to sprawl in shade or rich ground.[1][2]",
+    "soil": "Average, poor to moderately fertile, dry to medium, well-drained soil — it tolerates poor soils, drought and even saline conditions.[1] As a limestone-mountain native it is entirely at home in Front Range alkaline soil;[4] what it will not accept is heavy clay that stays wet. Dig in grit or plant on a raised berm and do not amend with rich compost.[1][2]",
+    "water": "Dry to medium, and drought-tolerant once established.[1] Water through the first summer to get the taproot down, then leave it alone. Winter wet is the killer, not summer drought.[1][3]",
+    "spacing": "Space 12–18 in apart to match its 1–2 ft spread.[1] In lean soil and full sun it stands on its own; tall plants tend to sprawl, particularly if grown in moist fertile soils, so the fix for flopping is leaner ground, not a stake.[1]",
+    "propagation": "Root cuttings taken in late winter are the standard method for this genus and the reliable way to increase a good silver-veined form.[3] Seed works too, but the taproot makes division a poor bet — the plant transplants badly and resents being lifted.[1][3]",
+    "sow": "Sow fresh seed outdoors in fall so it gets natural winter chilling, into deep pots or straight where it is to grow; seedlings form a taproot early and dislike being pricked out and moved.",
+    "bloom": "Flowers July to September in dense, cylindrical, cone-shaped thistle-like heads about 1 in across, silver-blue, each subtended by a collar of showy spiny-toothed grey-green bracts up to 2 in long.[1] It is an excellent long-lasting cut flower that also dries well.[1]",
+    "feeding": "Do not feed. Poor to moderately fertile soil gives the best colour and the sturdiest stems; fertility makes it sprawl.[1]",
+    "maintenance": "Low maintenance.[1] Stems can be cut back after flowering, but the seedheads are a very attractive feature and are usually left over winter — on the Front Range that is the better choice, then cut to the ground in early spring.[3] Clear leaf litter and mulch away from the crown in fall so water drains off it instead of sitting on it.",
+    "selfsow": "Far less prolific than flat sea holly or Miss Willmott's ghost — it stays where you put it and any volunteers are welcome. Deadhead if you want none at all.",
+    "troubles": "No serious insect or disease problems, though it dislikes winter wetness.[1] The genus can pick up leaf and bud eelworms, slugs and snails, root rot and powdery mildew.[3] Nine failures in ten are drainage."
+  },
+  "references": [
+    {
+      "name": "Missouri Botanical Garden Plant Finder — Eryngium bourgatii",
+      "url": "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=276046"
+    },
+    {
+      "name": "Royal Horticultural Society — Sea holly (Eryngium) plant guide",
+      "url": "https://www.rhs.org.uk/plants/sea-holly"
+    },
+    {
+      "name": "Royal Horticultural Society — Eryngium amethystinum (genus cultivation, pruning & propagation notes)",
+      "url": "https://www.rhs.org.uk/plants/6779/eryngium-amethystinum/details"
+    },
+    {
+      "name": "CSU Extension — Yard & Garden (Front Range adaptation: frost dates, alkaline clay)",
+      "url": "https://extension.colostate.edu/topic-areas/yard-garden/"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      1
+    ],
+    "sun": [
+      1,
+      2
+    ],
+    "water": [
+      1
+    ],
+    "spread": [
+      1
+    ],
+    "seasons": [
+      1,
+      3
+    ],
+    "wildlife": [
+      1,
+      2
+    ],
+    "deer": [
+      1
+    ],
+    "toxic": [
+      1,
+      3
+    ],
+    "ph": [
+      1
+    ],
+    "origin": [
+      1
+    ],
+    "habitat": [
+      1
+    ]
+  },
+  "edible": {
+    "level": "inedible",
+    "summary": "An ornamental and cut flower — Eryngium bourgatii has no documented food use, and is not considered dangerously poisonous.[1]",
+    "caution": "No authority documents this species as edible, so treat it as inedible. Its relatives sea holly (E. maritimum) and field eryngo (E. campestre) had genuinely edible candied roots, and culantro (E. foetidum) is a kitchen herb, but that does not extend to E. bourgatii — edibility in the carrot family runs species-by-species, and the same family holds poison hemlock. The practical hazard is physical: the spiny-toothed bracts and leaf margins are sharp enough to draw blood, so wear gloves when cutting or dividing.[1][3]"
+  },
+  "shots": [
+    {
+      "local": "images/su-flower-t.jpg",
+      "full": "images/su-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/150221588/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — a violet-blue cone over its silver spiny collar, face-on · © Rafael Medina (CC-BY) / iNaturalist",
+      "by": "Rafael Medina",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/90873457"
+    },
+    {
+      "local": "images/su-flower-close-t.jpg",
+      "full": "images/su-flower-close.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/112375140/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — cone-shaped heads on steel-blue stems · © Yves Bas (CC-BY) / iNaturalist",
+      "by": "Yves Bas",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/69272548"
+    },
+    {
+      "local": "images/su-flower-macro-t.jpg",
+      "full": "images/su-flower-macro.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/297640853/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — the densely packed blue florets of a single head · © Pedro Antonio Lázaro Molinero (CC-BY-NC) / iNaturalist",
+      "by": "Pedro Antonio Lázaro Molinero",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/171519552"
+    },
+    {
+      "local": "images/su-bloom-mass-t.jpg",
+      "full": "images/su-bloom-mass.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/417714160/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — a clump in full bloom, bracts silvered · © Tomasz Wilk (CC-BY-NC) / iNaturalist",
+      "by": "Tomasz Wilk",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/234923145"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/415559179/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — a plant growing on a rocky mountain slope · © Carlos Bernal (CC-BY-NC) / iNaturalist",
+      "by": "Carlos Bernal",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/233806601"
+    },
+    {
+      "local": "images/su-context-t.jpg",
+      "full": "images/su-context.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/533480302/large.jpg",
+      "s": "summer",
+      "cap": "Summer — plants scattered over open limestone grassland · © lagarto11 (CC-BY-NC) / iNaturalist",
+      "by": "lagarto11",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/296285887"
+    },
+    {
+      "local": "images/sp-foliage-t.jpg",
+      "full": "images/sp-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/238244789/large.jpg",
+      "s": "spring",
+      "cap": "Spring — the deeply cut basal leaves marbled with silver-white veins · © Miguel A. Casado (CC-BY-NC) / iNaturalist",
+      "by": "Miguel A. Casado",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/139309066"
+    },
+    {
+      "local": "images/fa-seedheads-t.jpg",
+      "full": "images/fa-seedheads.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/583498328/large.jpg",
+      "s": "fall",
+      "cap": "Fall — bleached, spiny seedhead skeletons standing in the meadow · © noctua_ (CC-BY-NC) / iNaturalist",
+      "by": "noctua_",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/322537285"
+    }
+  ]
+}

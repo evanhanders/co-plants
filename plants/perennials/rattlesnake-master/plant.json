@@ -1,0 +1,223 @@
+{
+  "common": "Rattlesnake master",
+  "botanical": "Eryngium yuccifolium",
+  "aka": [
+    "Button snakeroot",
+    "Button eryngo",
+    "Beargrass",
+    "'Prairie Moon' rattlesnake master"
+  ],
+  "type": "Forb",
+  "lifecycle": "Perennial",
+  "native": "Non-native",
+  "collection": "sea-hollies",
+  "flower_color": [
+    "white",
+    "green"
+  ],
+  "bloom": [
+    "summer",
+    "fall"
+  ],
+  "bloom_season": "Summer",
+  "blurb": "The tallgrass prairie's oddest silhouette: a yucca-like rosette of blue-green sword leaves that throws 4–5 ft stems topped with golf-ball globes of greenish-white, honey-scented flowers. Bees, wasps and butterflies work it hard, and the dark seed globes stand all winter.",
+  "size": "~4–5 ft tall in bloom × 2–3 ft wide",
+  "sun": "Full sun (it opens up and sprawls in anything less)",
+  "water": "Low; dry to medium — drought-tolerant once the taproot is down",
+  "spread": "Clumping from a deep taproot, slowly making offsets; self-sows readily and can seed around aggressively if the heads are left",
+  "seasons": "A blue-green, spiny-edged sword-leaf rosette from spring; greenish-white flower globes mid-to-late summer; heads turning dull brown and standing as dark seed globes through fall and winter",
+  "wildlife": "Flowers attract a wide range of pollinators — bees, wasps, flies and butterflies; a documented native-bee plant",
+  "deer": "Not favored by deer or rabbits; spiny leaves make it unpalatable to livestock",
+  "toxic": "No significant toxicity reported to people or pets; the leaf margins are bristly-spiny",
+  "winter": true,
+  "verified": "2026-07-31",
+  "origin": "Eastern & central United States — Florida to Texas, north to New Jersey, Indiana, southern Minnesota & Nebraska (not Colorado)",
+  "habitat": "Mesic tallgrass prairies, savannas, glades, open rocky woods and sandy roadsides",
+  "ph": {
+    "min": 5.5,
+    "ideal": 6.8,
+    "max": 8.0
+  },
+  "care": {
+    "hardiness": "Hardy zones 3–8, and listed as hardy from zone 3a — well below anything Boulder throws at it, so it is one of the most cold-secure plants in the guide.[1][2] It is a prairie plant, not a mountain plant: cold is a non-issue, drainage is everything.",
+    "planting": "Plant in spring after the mid-May last frost, or in early fall,[5] and pick the spot carefully — it is a deep-taprooted plant that transplants poorly and is best left undisturbed once established.[1][2] Buy it small (a plug or a one-gallon), get it in young, and resist the urge to move it. It grows too tall and taprooted to be a good long-term container plant; if you must pot it, use the deepest container you have.",
+    "sun": "Full sun, without compromise. Plants tend to open up and sprawl if grown in overly fertile soils or in anything less than full sun, and in shade they flop and need staking.[1][2]",
+    "soil": "Easily grown in most garden soils — it tolerates clay, dry soil and shallow rocky ground, and NC State records it across acid, neutral and alkaline pH, so Boulder's alkaline clay-loam is no obstacle.[1][3][5] It prefers dryish sandy soil and does best in dry, lean ground; it performs poorly in very fertile conditions.[1][2]",
+    "water": "Dry to medium; drought-tolerant once established.[1] Water the first season to settle the taproot, then treat it as a low-water plant. It is genuinely tough — it also tolerates erosion-prone and shallow-rocky sites.[1]",
+    "spacing": "Give each plant 3–6 ft of space; a mature clump is 2–3 ft wide with leaves up to 3 ft long, and the flower stems rise 3–5 ft above that.[2][3] Spaced properly and grown lean in full sun, it needs no staking.",
+    "propagation": "Easily propagated from seed, and it will readily self-sow.[2] Established plants can be divided in spring or fall, but because of the taproot this is often not the best method — seed is the reliable route.[2] The rosette also produces offsets after blooming that can be separated.[2]",
+    "sow": "Sow outdoors in fall and let the winter chill the seed, or cold-moist stratify at about 40°F for two months and sow in spring.[4] Seed germinates best after roughly a month of cold stratification.[2] Sow into deep containers — the taproot forms early and resents disturbance.",
+    "stratify": "Cold-moist stratification at ~40°F for two months is the reliable treatment; one month of chilling is the practical minimum.[2][4] A fall sowing outdoors accomplishes the same thing for free.",
+    "bloom": "Blooms June through September — mid to late summer here — carrying clusters of up to ten spherical greenish-white heads about 1 in across, faintly honey-scented.[1][2][4] The heads eventually turn dull brown and fill with small brown seeds, and both the fresh flowers and the dried seed globes are excellent cut and dried material.[2]",
+    "feeding": "None. Feeding is actively harmful — plants grown in fertile soil open up, sprawl and need staking.[1][2] Lean ground is the whole point.",
+    "maintenance": "Very low maintenance.[1] The one real decision is whether to deadhead: leaving the heads gives you winter structure and self-sown seedlings, while cutting them off before the seed drops keeps it in bounds — the Wildflower Center specifically recommends removing seed heads to contain it.[2][4] Cut old stems to the ground in early spring.",
+    "selfsow": "It self-sows readily and the Wildflower Center flags it as potentially an aggressive self-seeder, recommending seed-head removal for containment.[2][4] In a prairie planting that is a feature; in a tidy border, deadhead. Volunteers pull easily while young but become immovable once the taproot forms.",
+    "troubles": "Has no significant insect or disease problems.[2] Nearly all failures are cultural: too much shade or too much fertility, which makes it floppy, and wet winter soil, which rots the crown."
+  },
+  "references": [
+    {
+      "name": "Missouri Botanical Garden Plant Finder — Eryngium yuccifolium",
+      "url": "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=276023"
+    },
+    {
+      "name": "University of Wisconsin–Madison Division of Extension Horticulture — Rattlesnake Master, Eryngium yuccifolium",
+      "url": "https://hort.extension.wisc.edu/articles/rattlesnake-master-eryngium-yuccifolium/"
+    },
+    {
+      "name": "NC State Extension Gardener Plant Toolbox — Eryngium yuccifolium",
+      "url": "https://plants.ces.ncsu.edu/plants/eryngium-yuccifolium/"
+    },
+    {
+      "name": "Lady Bird Johnson Wildflower Center — Eryngium yuccifolium",
+      "url": "https://www.wildflower.org/plants/result.php?id_plant=ERYU"
+    },
+    {
+      "name": "CSU Extension — Yard & Garden (Front Range adaptation: frost dates, alkaline clay)",
+      "url": "https://extension.colostate.edu/topic-areas/yard-garden/"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      1,
+      2
+    ],
+    "sun": [
+      1,
+      2
+    ],
+    "water": [
+      1,
+      2
+    ],
+    "spread": [
+      1,
+      2,
+      4
+    ],
+    "seasons": [
+      1,
+      2
+    ],
+    "wildlife": [
+      2,
+      4
+    ],
+    "deer": [
+      2,
+      4
+    ],
+    "toxic": [
+      2,
+      4
+    ],
+    "ph": [
+      3
+    ],
+    "origin": [
+      1,
+      4
+    ],
+    "habitat": [
+      1,
+      2,
+      4
+    ]
+  },
+  "edible": {
+    "level": "inedible",
+    "summary": "Not a food plant. Rattlesnake master has a long documented history of medicinal and fiber use, but no authority documents it as edible.[2]",
+    "caution": "Do not eat it. The common name comes from the erroneous belief that Native Americans used the root as an antidote for rattlesnake venom; the root was in fact used medicinally, which is a different thing from food, and medicinal doses of the genus's roots are not safe eating.[2] The spiny-margined leaves make it unpalatable enough that livestock leave it alone.[4] Its edible relatives — candied 'eryngo' roots from Eryngium maritimum and E. campestre, and culantro (E. foetidum) — do not make this species edible; edibility in the carrot family is species-by-species, and the same family contains poison hemlock. The everyday hazard is mechanical: bristly-spiny leaf edges that cut bare hands."
+  },
+  "shots": [
+    {
+      "local": "images/su-flower-t.jpg",
+      "full": "images/su-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/294238469/large.jpg",
+      "s": "summer",
+      "cap": "Summer — greenish-white flower globes on branching stems · © coastalkaylin (CC-BY-NC) / iNaturalist",
+      "by": "coastalkaylin",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/169696940"
+    },
+    {
+      "local": "images/su-flower-close-t.jpg",
+      "full": "images/su-flower-close.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/203988023/large.jpg",
+      "s": "summer",
+      "cap": "Summer — a single spiny globe of tightly packed florets · © no rights reserved (CC0) / iNaturalist",
+      "by": "no rights reserved",
+      "lic": "CC0",
+      "link": "https://www.inaturalist.org/observations/120596789"
+    },
+    {
+      "local": "images/su-bloom-mass-t.jpg",
+      "full": "images/su-bloom-mass.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/544954554/large.jpg",
+      "s": "summer",
+      "cap": "Summer — flower globes among prairie black-eyed Susans · © Brendan R. (CC-BY-NC) / iNaturalist",
+      "by": "Brendan R.",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/302383199"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/44819457/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — the whole flowering plant rising out of prairie grass · © Kari Cook (CC-BY-NC) / iNaturalist",
+      "by": "Kari Cook",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/28739241"
+    },
+    {
+      "local": "images/su-context-t.jpg",
+      "full": "images/su-context.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/403267806/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — plants scattered through a tallgrass planting · © Dennis Kent (CC-BY-NC) / iNaturalist",
+      "by": "Dennis Kent",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/227326973"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/280369659/large.jpg",
+      "s": "summer",
+      "cap": "Summer — the blue-green, yucca-like rosette of spiny-edged sword leaves · © Matthew Herron (CC-BY-NC) / iNaturalist",
+      "by": "Matthew Herron",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/162162658"
+    },
+    {
+      "local": "images/sp-emergence-t.jpg",
+      "full": "images/sp-emergence.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/122414104/large.jpg",
+      "s": "spring",
+      "cap": "Spring — a young rosette pushing up its first sword leaves · © no rights reserved (CC0) / iNaturalist",
+      "by": "no rights reserved",
+      "lic": "CC0",
+      "link": "https://www.inaturalist.org/observations/74866318"
+    },
+    {
+      "local": "images/fa-seedheads-t.jpg",
+      "full": "images/fa-seedheads.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/11043028/large.jpeg",
+      "s": "fall",
+      "cap": "Fall — heads turned to dark brown seed globes · © cassi saari (CC-BY-NC) / iNaturalist",
+      "by": "cassi saari",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/8316191"
+    },
+    {
+      "local": "images/wi-structure-t.jpg",
+      "full": "images/wi-structure.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/592439049/large.jpg",
+      "s": "winter",
+      "cap": "Winter — dark seed globes standing over frost-bleached prairie grass · © mycetophagus (CC-BY-NC) / iNaturalist",
+      "by": "mycetophagus",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/327050491"
+    }
+  ]
+}

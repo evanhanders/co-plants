@@ -1,0 +1,209 @@
+{
+  "common": "Giant sea holly",
+  "botanical": "Eryngium giganteum",
+  "aka": [
+    "Miss Willmott's ghost",
+    "Tall eryngo",
+    "'Silver Ghost' sea holly"
+  ],
+  "type": "Forb",
+  "lifecycle": "Biennial",
+  "native": "Non-native",
+  "collection": "sea-hollies",
+  "flower_color": [
+    "white",
+    "blue",
+    "green"
+  ],
+  "bloom": [
+    "summer"
+  ],
+  "bloom_season": "Summer",
+  "blurb": "\"Miss Willmott's ghost\" — a green rosette its first year, then a 3–4 ft candelabra of thimble-shaped cones each ringed by a wide, stiff collar of ghost-silver bracts. It blooms, seeds and dies, but it seeds itself so freely that the ghost keeps reappearing somewhere new.",
+  "size": "~2–4 ft tall × 1–3 ft wide in its flowering year",
+  "sun": "Full sun",
+  "water": "Low to moderate; medium moisture but drought-tolerant once rooted",
+  "spread": "Non-running — a single taprooted rosette that dies after flowering, but self-sows freely and perpetuates itself as drifting volunteers",
+  "seasons": "An evergreen basal rosette overwintering through year one; silvery-blue bracted flower cones June–August in year two; bleached seedhead skeletons standing into winter before the plant dies",
+  "wildlife": "Bumblebees and honeybees work the cones heavily; a strong midsummer nectar plant",
+  "deer": "Deer-resistant (stiff spiny bracts)",
+  "toxic": "No significant toxicity reported to people or pets; the bracts are stiff and sharply spined",
+  "winter": true,
+  "verified": "2026-07-31",
+  "origin": "Caucasus & Turkey",
+  "habitat": "Subalpine meadows and open rocky mountain slopes",
+  "ph": {
+    "min": 6.0,
+    "ideal": 7.0,
+    "max": 8.0
+  },
+  "care": {
+    "hardiness": "Rated USDA zones 4–7, so cold is no problem in Boulder's 5b–6a; the overwintering rosette is fully hardy here.[1] Zone 7 as an upper limit is a heat/humidity ceiling, not something the Front Range runs into.",
+    "planting": "This is a biennial: plant or sow it in spring after the mid-May last frost (or in fall)[4] and expect a rosette the first year and flowers the second.[1] It is taprooted, transplants poorly and is best left undisturbed, so put it where you want it the first time.[1] It grows more compactly in containers, which is a genuinely good option for a plant this architectural — use a deep pot with free-draining mix and let it overwinter outside.[1]",
+    "sun": "Full sun.[1] In less than full sun the flowering stems sprawl and the silver bract colour washes out.[1]",
+    "soil": "Medium-moisture, well-drained soil; unusually for a sea holly it prefers moist, fertile ground rather than starvation rations.[1] That said, tall plants still sprawl in overly fertile soils, so 'decent garden soil with real drainage' is the target — not a heavily manured bed, and not baked clay.[1]",
+    "water": "Medium moisture needs with good drought tolerance once established.[1] Of the sea hollies in this guide it is the least xeric — give it an occasional deep summer soak in a dry Front Range July rather than treating it as no-water.",
+    "spacing": "Space 18–24 in apart to suit its 1–3 ft spread.[1] Taller plants may need support, particularly in rich soil or wind — a discreet ring or a neighbouring shrub to lean on is easier than staking each stem.[1]",
+    "propagation": "Easily grown from seed, which is the only sensible route: it is monocarpic, so the parent dies after flowering and there is no clump left to divide.[1] Let a few heads shed where you want next year's plants, or collect seed and sow it fresh.",
+    "sow": "Sow fresh seed in fall, outdoors or in deep pots left outside, so it gets natural winter chilling; seedlings resent root disturbance, so thin rather than transplant, and move volunteers only while they are tiny.",
+    "bloom": "Flowers June to August in bluish-silver cones, each held in a wide ruff of stiff, spiny, silver-white bracts that are the real show.[1] Superb as a fresh cut flower and it dries beautifully — the bracts hold their ghost-silver colour.",
+    "feeding": "None needed; extra fertility mainly buys you sprawling stems.[1] If the soil is very poor, a spring topdressing of compost is enough.",
+    "maintenance": "Low. The single decision that matters is deadheading: these eryngiums self-seed and remain in the garden year after year as if they were perennial unless the spent flower heads are removed before seed drop.[1] Since the plant dies after seeding, deadheading everything means no plant next year — leave several heads to shed, cut the rest. Leave the skeletons standing for winter structure and clear them in early spring.[3]",
+    "selfsow": "Freely — this is the whole survival strategy of a monocarpic plant, and the reason a 'ghost' turns up in a different corner of the border each year.[1] Move volunteers while they are seedlings (the taproot forms fast), and deadhead hard if you want to confine it.",
+    "troubles": "No serious insect or disease problems, though taller plants may need support.[1] The genus is susceptible to leaf and bud eelworms, slugs and snails, root rot and powdery mildews.[3] Do not read the plant's death after flowering as a failure — it is monocarpic and that is the normal life cycle.[1]"
+  },
+  "references": [
+    {
+      "name": "Missouri Botanical Garden Plant Finder — Eryngium giganteum",
+      "url": "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=256059"
+    },
+    {
+      "name": "Royal Horticultural Society — Sea holly (Eryngium) plant guide",
+      "url": "https://www.rhs.org.uk/plants/sea-holly"
+    },
+    {
+      "name": "Royal Horticultural Society — Eryngium amethystinum (genus cultivation, pruning & propagation notes)",
+      "url": "https://www.rhs.org.uk/plants/6779/eryngium-amethystinum/details"
+    },
+    {
+      "name": "CSU Extension — Yard & Garden (Front Range adaptation: frost dates, alkaline clay)",
+      "url": "https://extension.colostate.edu/topic-areas/yard-garden/"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      1
+    ],
+    "sun": [
+      1
+    ],
+    "water": [
+      1
+    ],
+    "spread": [
+      1
+    ],
+    "seasons": [
+      1,
+      3
+    ],
+    "wildlife": [
+      1,
+      2
+    ],
+    "deer": [
+      1,
+      2
+    ],
+    "toxic": [
+      1,
+      3
+    ],
+    "ph": [
+      1
+    ],
+    "origin": [
+      1
+    ],
+    "habitat": [
+      1
+    ]
+  },
+  "edible": {
+    "level": "inedible",
+    "summary": "An ornamental and a dried-flower plant — Eryngium giganteum has no documented food use and is not considered dangerously poisonous.[1]",
+    "caution": "No authority documents this species as edible; treat it as inedible. The genus does contain real foods — candied 'eryngo' roots came from Eryngium maritimum and E. campestre, and culantro (E. foetidum) is a culinary herb — but edibility in the carrot family is species-by-species and cannot be generalised from a relative; the same family contains poison hemlock. The everyday hazard here is mechanical: the bracts are stiff and genuinely sharp, so cut and handle it with gloves.[3]"
+  },
+  "shots": [
+    {
+      "local": "images/su-flower-t.jpg",
+      "full": "images/su-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/689756814/large.jpg",
+      "s": "summer",
+      "cap": "Summer — a thimble cone inside its wide ruff of ghost-silver bracts · © Heiko Weber (CC-BY) / iNaturalist",
+      "by": "Heiko Weber",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/377206424"
+    },
+    {
+      "local": "images/su-pollinator-t.jpg",
+      "full": "images/su-pollinator.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/540264538/large.jpg",
+      "s": "summer",
+      "cap": "Summer — a bumblebee working a flower cone · © greenjane41 (CC-BY-NC) / iNaturalist",
+      "by": "greenjane41",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/299871734"
+    },
+    {
+      "local": "images/su-flower-close-t.jpg",
+      "full": "images/su-flower-close.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/300091084/large.jpg",
+      "s": "summer",
+      "cap": "Summer — a cone and bracts over the plant's green stem leaves · © Наталья Пикалова (CC-BY) / iNaturalist",
+      "by": "Наталья Пикалова",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/172837082"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/405721902/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — a whole flowering plant, silver from top to bottom · © pw1966 (CC-BY-NC) / iNaturalist",
+      "by": "pw1966",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/228622536"
+    },
+    {
+      "local": "images/su-bloom-mass-t.jpg",
+      "full": "images/su-bloom-mass.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/61216189/large.jpg",
+      "s": "summer",
+      "cap": "Summer — a silver drift of plants in full flower · © Karsten Rohweder (CC-BY) / iNaturalist",
+      "by": "Karsten Rohweder",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/38510932"
+    },
+    {
+      "local": "images/su-context-t.jpg",
+      "full": "images/su-context.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/547559131/large.jpg",
+      "s": "summer",
+      "cap": "Summer — plants flowering on an open mountain slope · © Илья Руденко (CC-BY) / iNaturalist",
+      "by": "Илья Руденко",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/303775649"
+    },
+    {
+      "local": "images/sp-foliage-t.jpg",
+      "full": "images/sp-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/580339857/large.jpg",
+      "s": "spring",
+      "cap": "Spring — the broad, scalloped green leaves of a first-year rosette · © no rights reserved (CC0) / iNaturalist",
+      "by": "no rights reserved",
+      "lic": "CC0",
+      "link": "https://www.inaturalist.org/observations/320935090"
+    },
+    {
+      "local": "images/wi-rosette-t.jpg",
+      "full": "images/wi-rosette.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/325675654/large.jpg",
+      "s": "winter",
+      "cap": "Winter — a silvery overwintering rosette among fallen leaves · © jimclark (CC-BY-NC) / iNaturalist",
+      "by": "jimclark",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/186366146"
+    },
+    {
+      "local": "images/wi-structure-t.jpg",
+      "full": "images/wi-structure.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/437599322/large.jpeg",
+      "s": "winter",
+      "cap": "Winter — the dried seedhead skeleton still standing over tan grass · © Наталья Пикалова (CC-BY) / iNaturalist",
+      "by": "Наталья Пикалова",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/245247956"
+    }
+  ]
+}

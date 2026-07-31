@@ -1,0 +1,210 @@
+{
+  "common": "Amethyst sea holly",
+  "botanical": "Eryngium amethystinum",
+  "aka": [
+    "Amethyst eryngo",
+    "Italian eryngo",
+    "'Sapphire Blue' sea holly"
+  ],
+  "type": "Forb",
+  "lifecycle": "Perennial",
+  "native": "Non-native",
+  "collection": "sea-hollies",
+  "flower_color": [
+    "blue",
+    "purple"
+  ],
+  "bloom": [
+    "summer",
+    "fall"
+  ],
+  "bloom_season": "Summer",
+  "blurb": "The most intensely coloured of the hardy sea hollies: branching stems that flood amethyst-violet from the flower cone right down into the upper stem, over leathery, pinnate, spine-edged rosette leaves. A dry limestone-grassland plant that asks for nothing but sun and drainage.",
+  "size": "~1.5–3 ft tall × 0.5–1.5 ft wide",
+  "sun": "Full sun (essential)",
+  "water": "Low; dry and lean is ideal — protect it from winter wet, not from drought",
+  "spread": "Clumping from a taproot; slow and non-running",
+  "seasons": "Semi-evergreen divided basal rosettes through the cold months; amethyst-blue stems and cones mid-to-late summer; bleached silvery seedheads standing through winter",
+  "wildlife": "Nectar-rich cones worked by bees, hoverflies and butterflies",
+  "deer": "Deer-resistant (leathery, spine-edged leaves and bracts)",
+  "toxic": "No significant toxicity reported to people or pets; leaves and bracts are leathery and spiny",
+  "winter": true,
+  "verified": "2026-07-31",
+  "origin": "Eastern Mediterranean",
+  "habitat": "Dry, stony, calcium-rich (limestone) grassland",
+  "ph": {
+    "min": 6.0,
+    "ideal": 7.5,
+    "max": 8.3
+  },
+  "care": {
+    "hardiness": "The RHS rates it H5 — hardy in most locations even through severe winters — which comfortably covers Boulder's zone 5b–6a, and it is a semi-evergreen perennial rather than a biennial, so an established clump returns for years.[1] The winter risk here is wet, not cold: the RHS is explicit that it needs protection from winter moisture.[1]",
+    "planting": "Plant in spring after the mid-May last frost, or in early fall,[4] on a site that drains hard — a slope, a raised bed, a gravel garden or the top of a berm. Like all the taprooted eryngos it transplants poorly and is best sited once and left alone.[1][2] In a container use a gritty, sharply drained mix and keep it under an eave over winter so it does not sit in snowmelt.",
+    "sun": "Full sun is essential.[1] Its whole appeal is the amethyst pigment that floods the bracts and upper stems, and that colour only develops in hard sun; in shade the plant is a floppy green disappointment.",
+    "soil": "Well-drained soil that is poor to moderately fertile — it does well on chalk, loam or sand.[1] Chalk tolerance is the useful signal for us: this is a limestone-grassland plant, so Boulder's alkaline soil suits it exactly.[4] Add grit rather than compost, and never plant it in a bed that is watered like a lawn.[1][3]",
+    "water": "Grow it dry. It wants dry, well-drained ground, and the standard genus guidance is that most sea hollies like very free-draining soil and some thrive in poor, dry soil in sun.[1][2] Water the first season to establish the taproot, then effectively stop; winter wet is what kills it.[1]",
+    "spacing": "Space 12–18 in apart — the RHS gives an ultimate height of roughly 0.5–1 m and a spread of 0.1–0.5 m, so it is a narrow, upright plant that packs in well among low xeric neighbours.[1] Grown lean in full sun it holds itself up.",
+    "propagation": "Root cuttings taken in late winter are the RHS-recommended method and the way to keep a well-coloured plant true.[1] Seed also works; division is a poor choice because of the taproot.[1][2]",
+    "sow": "Sow fresh seed outdoors in fall so it takes natural winter chilling, into deep pots or directly where it is to grow. Move seedlings only while very small — once the taproot is down they will not shift.",
+    "bloom": "Flowers in mid-to-late summer, carrying small cylindrical umbels about 2–3 cm long topped by silvery-blue bracts, with the stems themselves colouring light blue to purple.[3] The cones cut and dry superbly and hold their colour better than most sea hollies.",
+    "feeding": "None. Poor to moderately fertile soil is what the RHS specifies; feeding it produces soft, floppy growth and muddier colour.[1]",
+    "maintenance": "Minimal. Flower stems can be cut back after flowering, but the seedheads are a very attractive feature and are usually left over winter — do that here and cut to the ground in early spring.[1] Keep mulch pulled back from the crown so water sheds away from it.",
+    "selfsow": "Modest — it will drop a few seedlings around a happy clump rather than colonising, and volunteers are easy to remove while small. Deadhead before the heads shatter if you want none.",
+    "troubles": "May be susceptible to leaf and bud eelworms, and to slugs and snails; may develop root rot and powdery mildews.[1] Root rot is the one that actually kills plants here, and it is a drainage problem, not a disease you spray."
+  },
+  "references": [
+    {
+      "name": "Royal Horticultural Society — Eryngium amethystinum (amethyst eryngo)",
+      "url": "https://www.rhs.org.uk/plants/6779/eryngium-amethystinum/details"
+    },
+    {
+      "name": "Royal Horticultural Society — Sea holly (Eryngium) plant guide",
+      "url": "https://www.rhs.org.uk/plants/sea-holly"
+    },
+    {
+      "name": "Wikipedia — Eryngium amethystinum (description & native range)",
+      "url": "https://en.wikipedia.org/wiki/Eryngium_amethystinum"
+    },
+    {
+      "name": "CSU Extension — Yard & Garden (Front Range adaptation: frost dates, alkaline clay)",
+      "url": "https://extension.colostate.edu/topic-areas/yard-garden/"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      1,
+      3
+    ],
+    "sun": [
+      1
+    ],
+    "water": [
+      1,
+      2
+    ],
+    "spread": [
+      1,
+      3
+    ],
+    "seasons": [
+      1,
+      3
+    ],
+    "wildlife": [
+      2
+    ],
+    "deer": [
+      1,
+      2
+    ],
+    "toxic": [
+      1
+    ],
+    "ph": [
+      1
+    ],
+    "origin": [
+      3
+    ],
+    "habitat": [
+      3
+    ]
+  },
+  "edible": {
+    "level": "inedible",
+    "summary": "Grown as an ornamental and a dried flower — Eryngium amethystinum has no documented food use and is not considered dangerously poisonous.[1]",
+    "caution": "No authority documents this species as edible, so treat it as inedible. The genus does include real foods — the candied 'eryngo' roots of Eryngium maritimum and E. campestre, and culantro (E. foetidum), a culinary herb — but edibility in the carrot family is species-by-species and cannot be inferred from a relative; the same family contains poison hemlock. The real hazard is physical: leathery, spine-edged leaves and bracts that draw blood, so handle and cut it with gloves.[1][3]"
+  },
+  "shots": [
+    {
+      "local": "images/su-flower-t.jpg",
+      "full": "images/su-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/548360507/large.jpg",
+      "s": "summer",
+      "cap": "Summer — an amethyst-violet cone with a crab spider in ambush · © Tobias Polzer (CC-BY-NC) / iNaturalist",
+      "by": "Tobias Polzer",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/304206533"
+    },
+    {
+      "local": "images/su-flower-close-t.jpg",
+      "full": "images/su-flower-close.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/90221678/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — a blue head over long, silvery spine-tipped bracts · © fiorellarigoni (CC-BY-NC) / iNaturalist",
+      "by": "fiorellarigoni",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/56606833"
+    },
+    {
+      "local": "images/su-flower-cluster-t.jpg",
+      "full": "images/su-flower-cluster.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/54639258/large.jpg",
+      "s": "summer",
+      "cap": "Summer — several heads open on a branching stem · © Andrea Peterlongo (CC-BY-NC) / iNaturalist",
+      "by": "Andrea Peterlongo",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/34697604"
+    },
+    {
+      "local": "images/su-bloom-mass-t.jpg",
+      "full": "images/su-bloom-mass.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/334317588/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — a mass of plants in full amethyst bloom · © Tomáš Vrána (CC-BY-NC) / iNaturalist",
+      "by": "Tomáš Vrána",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/190676419"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/546280218/large.jpg",
+      "s": "summer",
+      "cap": "Summer — the whole plant standing in dry grassland · © Βασίλης Διαμαντόπουλος (CC-BY-NC) / iNaturalist",
+      "by": "Βασίλης Διαμαντόπουλος",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/303095242"
+    },
+    {
+      "local": "images/su-context-t.jpg",
+      "full": "images/su-context.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/549301405/large.jpg",
+      "s": "summer",
+      "cap": "Summer — plants flowering on open ground with mountains beyond · © Elettra (CC-BY-NC) / iNaturalist",
+      "by": "Elettra",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/304688912"
+    },
+    {
+      "local": "images/sp-foliage-t.jpg",
+      "full": "images/sp-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/533864392/large.jpg",
+      "s": "spring",
+      "cap": "Spring — the leathery, deeply cut, spine-edged basal leaves · © georgiadivamcgovern (CC-BY-NC) / iNaturalist",
+      "by": "georgiadivamcgovern",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/296486626"
+    },
+    {
+      "local": "images/fa-seedheads-t.jpg",
+      "full": "images/fa-seedheads.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/575808705/large.jpg",
+      "s": "fall",
+      "cap": "Fall — heads bleached to straw and holding their spiny form · © Giorgos Nikolakakis (CC-BY-NC) / iNaturalist",
+      "by": "Giorgos Nikolakakis",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/318585973"
+    },
+    {
+      "local": "images/wi-structure-t.jpg",
+      "full": "images/wi-structure.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/444461924/large.jpg",
+      "s": "winter",
+      "cap": "Winter — a silver-bleached skeleton with dark seedheads · © Alenka Mihoric (CC-BY-NC) / iNaturalist",
+      "by": "Alenka Mihoric",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/248714453"
+    }
+  ]
+}

@@ -210,6 +210,12 @@
       "group": "Shrubs",
       "lead": "elderberry-mikls",
       "blurb": "Sambucus nigra selections — ornamental dark/cut-leaf forms and hardy fruiting elders; edible cooked flowers & berries."
+    },
+    "sea-hollies": {
+      "name": "Sea hollies",
+      "group": "Summer forbs",
+      "lead": "flat-sea-holly",
+      "blurb": "Eryngium — spiny, metallic-blue and silver thistle-like perennials for hot, lean, sharply drained ground."
     }
   }
 }

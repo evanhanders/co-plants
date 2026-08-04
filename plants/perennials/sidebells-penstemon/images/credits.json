@@ -1,0 +1,121 @@
+[
+  {
+    "file": "images/sp-flower.jpg",
+    "photo_id": 636908374,
+    "by": "Jared Shorma",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/observations/349166255",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      1050
+    ],
+    "thumb_px": [
+      400,
+      300
+    ]
+  },
+  {
+    "file": "images/su-flower2.jpg",
+    "photo_id": 680086809,
+    "by": "Matt Wistrand",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/372186102",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      1050
+    ],
+    "thumb_px": [
+      400,
+      300
+    ]
+  },
+  {
+    "file": "images/sp-spikes.jpg",
+    "photo_id": 513081912,
+    "by": "Sille",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/285450738",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      1050
+    ],
+    "thumb_px": [
+      400,
+      300
+    ]
+  },
+  {
+    "file": "images/sp-stand.jpg",
+    "photo_id": 388605222,
+    "by": "no rights reserved",
+    "license": "CC0",
+    "source": "https://www.inaturalist.org/observations/219543463",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1054,
+      1400
+    ],
+    "thumb_px": [
+      301,
+      400
+    ]
+  },
+  {
+    "file": "images/su-habitat.jpg",
+    "photo_id": 134035963,
+    "by": "Sdavidm1",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/81709915",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      933
+    ],
+    "thumb_px": [
+      400,
+      267
+    ]
+  },
+  {
+    "file": "images/sp-meadow.jpg",
+    "photo_id": 509714906,
+    "by": "C. Settje",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/283660951",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  },
+  {
+    "file": "images/su-mass.jpg",
+    "photo_id": 518613386,
+    "by": "Austin Saunders",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/observations/288384338",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      933,
+      1400
+    ],
+    "thumb_px": [
+      267,
+      400
+    ]
+  }
+]

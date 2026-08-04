@@ -1,0 +1,121 @@
+[
+  {
+    "file": "images/su-flower.jpg",
+    "photo_id": 288383935,
+    "by": "FrontRangeWildflowers",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/166525665",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      933
+    ],
+    "thumb_px": [
+      400,
+      267
+    ]
+  },
+  {
+    "file": "images/su-cluster.jpg",
+    "photo_id": 524251049,
+    "by": "David Martin",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/291378333",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      1400
+    ],
+    "thumb_px": [
+      400,
+      400
+    ]
+  },
+  {
+    "file": "images/su-mass.jpg",
+    "photo_id": 333633222,
+    "by": "Scott F Smith",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/190334781",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      933
+    ],
+    "thumb_px": [
+      400,
+      267
+    ]
+  },
+  {
+    "file": "images/su-habit.jpg",
+    "photo_id": 528252593,
+    "by": "Matt Langemeier",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/293495931",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      933
+    ],
+    "thumb_px": [
+      400,
+      267
+    ]
+  },
+  {
+    "file": "images/su-far.jpg",
+    "photo_id": 138789625,
+    "by": "Loraine Yeatts",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/84442635",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      1050
+    ],
+    "thumb_px": [
+      400,
+      300
+    ]
+  },
+  {
+    "file": "images/su-branch.jpg",
+    "photo_id": 524522522,
+    "by": "Nick Moore",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/291527721",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  },
+  {
+    "file": "images/su-context.jpg",
+    "photo_id": 206579929,
+    "by": "mikekintgen",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/122038996",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  }
+]

@@ -1147,7 +1147,7 @@ ground every statement in an authority cited in `references`.
 
 ## Current plant roster (in the live site)
 
-**328 specimens** (`plants/manifest.json` is the source of truth for the exact count), all verified
+**337 specimens** (`plants/manifest.json` is the source of truth for the exact count), all verified
 non-weed in CO and all carrying a full `care` block (incl.
 `planting` + `propagation`) **and a repo-hosted photo reel** (close-up + structure, seasonal
 where good shots exist). Every plant's detail page is **fully cited** — a numbered
@@ -1681,6 +1681,48 @@ foliage shot on asphalt. `check_refs` guide-wide PASS (0 errors, 0 warnings); `c
 ten PASS (25 OK, 3 REVIEW, 0 DEAD — the REVIEWs are two generic CSU xeriscape framing cites and the
 USDA NRCS **PDF**, opened and verified by hand to be the right species).
 
+**CSU 7.242 native-perennials sweep, part 1 — nine penstemons (August 2026):** on a user request to add
+everything from CSU Extension fact sheet **7.242 (Native Herbaceous Perennials for Colorado Landscapes)**
+that the guide lacked, the sheet's Table 1 was diffed against the roster: **57 taxa listed, 26 already
+present, 31 missing.** Nine of the 31 are *Penstemon*, and those shipped first, all folding into the
+existing **Penstemons** family card (now **17 members**): **sand penstemon** (*P. ambiguus* — flat
+phlox-like flowers, not tubes, and the strictest sand-lover), **pagoda penstemon** (*P. angustifolius* —
+tiered whorls encircling the stalk), **mat penstemon** (*P. caespitosus* — the only mat-former, 4–6 in),
+**smooth penstemon** (*P. glaber*), **shell leaf penstemon** (*P. grandiflorus* — the largest flowers in
+the genus; short-lived but reseeds), **Grand Mesa penstemon** (*P. mensarum* — a western-CO near-endemic
+and Plant Select® introduction, the best true blue), **sidebells penstemon** (*P. secundiflorus* — flowers
+all lean one way), **wand bloom penstemon** (*P. virgatus*) and **Whipple's penstemon** (*P. whippleanus* —
+to 12,000 ft, dusky near-black purple *or* cream, and the one that takes part shade and moister soil).
+
+**Two things worth remembering about the source.** First, **the live HTML page's Table 1 is truncated** —
+it starts mid-alphabet at *Erigeron*, silently dropping every A–D row (Allium, Amsonia, Anaphalis, Anemone,
+Antennaria, Aquilegia, Artemisia, Asclepias, Berlandiera, Callirhoe, Calylophus, Campanula, Clematis,
+Dalea). The **PDF at `www.extension.colostate.edu/docs/pubs/garden/07242.pdf` has the complete table**, so
+diff against the PDF, not the page. Its table font also defeats naive stream extraction; `pdfminer.six`
+reads it (the system `cryptography` build panics, so stub `cryptography.hazmat.*` in `sys.modules` first).
+Second, 7.242's Table 1 is genuinely useful data — per-species planting elevation, bloom window, exposure,
+moisture class, flower colour, height and a habit comment — so it can carry the card fields and `fact_src`
+for a CO native on its own, paired with CSU's **Growing Penstemons** page for shared genus culture
+(6+ hours sun; excellent aeration/drainage; crown rot in wet or compacted soil is the killer; even
+"completely drought tolerant" species still want good *spring* moisture and it is watering *after*
+flowering that rots them; deadheading before seed set measurably extends a penstemon's life).
+
+**Weed check (2026-08-04):** of the 31 missing taxa's genera, only **two** relatives appear anywhere on
+Colorado's lists, both **List B** — ***Artemisia absinthium*** (absinth wormwood) and ***Clematis
+orientalis***. Neither is what 7.242 lists: the sheet's *A. frigida* / *A. ludoviciana* are CO natives, and
+its *C. scottii* is the native **non-vining** bush clematis, the same shrub-not-vine distinction this guide
+already draws for Mongolian Gold clematis. All 31 are clear.
+
+**Honesty calls:** LBJ is cited **only** for *P. grandiflorus*, the one species page actually opened — the
+other eight rest on the two CSU authorities rather than on citations to pages that weren't read. `winter`
+is left **false** on all nine even where CSU records semi-evergreen or evergreen foliage (*angustifolius*,
+*caespitosus*, *mensarum*), because no genuine winter photo was sourced; that is the conservative call, and
+a winter shot would justify flipping it. Reels are **6–7 CC shots** each rather than 8–9 — these are
+narrow-range natives with thin CC supply. Pick QC dropped three thumbs: two near-empty frames on sidebells
+(re-picked) and a dead brown "rosette" on shell-leaf.
+
+**Still outstanding — the other 22 taxa from 7.242** (tracked under Open work).
+
 **Trees**
 - River hawthorn (*Crataegus rivularis*) (N) — Thorny native small tree; white spring flowers, dark edible haws, superb wildlife cover. A caterpillar keystone (~90 Lepidoptera). *(Riparian — wants more water; edible haws, spit the cyanogenic seeds.)*
 - Chokecherry (*Prunus virginiana*) (N) — Wildlife powerhouse: fragrant white flower racemes, dark…
@@ -1996,6 +2038,30 @@ The current backlog. Move items out of this section as they ship.
   but needs a careful re-audit — a naive strip flips `groundcovers/woolly-yarrow` and
   `perennials/white-prairie-aster` **off**, and both arguably *should* stay on. Whichever way, re-run
   the audit and eyeball the resulting Spreads chip count.
+
+- **CSU 7.242 sweep — 22 taxa still to add.** The nine penstemons shipped; these 22 from fact sheet
+  7.242's Table 1 are still missing (all weed-checked clear 2026-08-04, all CO natives per CSU):
+  *Amsonia jonesii* (blue star, Plant Select), *Anaphalis margaritacea* (pearly everlasting),
+  *Anemone multifida* (cutleaf anemone/windflower — pick a common name that doesn't collide with the
+  guide's existing Grecian windflower), *Antennaria parvifolia* + *A. rosea* (pussytoes — CSU lists them
+  as one row; they'd make a two-member family card), *Artemisia frigida* + *A. ludoviciana* (fringed and
+  prairie sage — a possible collection, but note the naming clash with the guide's existing `sages` =
+  *Salvia*), *Berlandiera lyrata* (chocolate flower), *Calylophus lavandulifolius* + *C. serrulatus*
+  (another candidate pair), *Campanula rotundifolia* (harebell), *Clematis scottii* (sugarbowls — a
+  **non-vining Forb**, like Mongolian Gold, NOT the List-B *C. orientalis*), *Geranium viscosissimum*
+  (sticky geranium), *Ipomoea leptophylla* (bush morning glory — relative of List-C field bindweed
+  *Convolvulus arvensis*, but itself unlisted), *Ipomopsis aggregata* (scarlet gilia),
+  *Oenothera caespitosa* (white-tufted evening primrose), *Polemonium caeruleum* (Jacob's ladder —
+  **check nativity honestly: *P. caeruleum* is a Eurasian species and CSU's listing of it as a Colorado
+  native looks doubtful; the CO natives are *P. occidentale* / *P. foliosissimum*, so this may need
+  `Non-native` or a substitution**), *Solidago canadensis* (Canada goldenrod — CSU's own comment says it
+  **spreads by underground rhizomes**, so it needs containment notes and is a genuine SPREADS badge,
+  unlike the guide's clumping *S. speciosa*), *Stanleya pinnata* (prince's plume),
+  *Thelesperma filifolium* (greenthread/Navajo tea), *Tradescantia occidentalis* (prairie spiderwort),
+  and *Glandularia bipinnatifida* (spreading vervain, listed by CSU under the old name *Verbena
+  bipinnatifida* — the guide already has *G. canadensis*, a different species).
+  Montages for all 22 are already built under `/tmp/cw_main|cw_fruit|cw_foliage` if that session is still
+  warm; otherwise re-run `inat_montage.py`.
 
 - **Trim the batch-1 fulls:** a few early full images (e.g. dogwood `wi-stems.jpg`,
   little-bluestem) were saved at q85/1500px (~0.8 MB); later batches use q82/1400px.

@@ -312,6 +312,18 @@
       "group": "Summer forbs",
       "lead": "flat-sea-holly",
       "blurb": "Eryngium — spiny, metallic-blue and silver thistle-like perennials for hot, lean, sharply drained ground."
+    },
+    "globemallows": {
+      "name": "Globemallows",
+      "group": "Summer forbs",
+      "lead": "scarlet-globemallow",
+      "blurb": "Sphaeralcea — bone-dry xeric mallows in apricot, orange and scarlet, from our shortgrass-prairie native to the taller Great Basin species."
+    },
+    "hollyhocks": {
+      "name": "Hollyhocks",
+      "group": "Summer forbs",
+      "lead": "hollyhock",
+      "blurb": "Alcea — the tall cottage-garden flower spires, from the classic biennial hollyhock to the rust-resistant Russian species."
     }
   }
 }

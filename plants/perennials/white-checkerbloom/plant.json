@@ -1,0 +1,192 @@
+{
+  "common": "White checkerbloom",
+  "botanical": "Sidalcea candida",
+  "type": "Forb",
+  "lifecycle": "Perennial",
+  "native": "CO native",
+  "aka": [
+    "White checkermallow",
+    "Prairie mallow",
+    "White checker mallow"
+  ],
+  "flower_color": [
+    "white",
+    "pink"
+  ],
+  "bloom": [
+    "spring",
+    "summer",
+    "fall"
+  ],
+  "bloom_season": "Summer",
+  "blurb": "Colorado's own white mallow, and the one most at home along a mountain streambank: dense spires of clean white saucers with pale stamen columns, opening bottom-up from May into September over deeply cut palmate leaves. Most widespread in our own Rockies — and it wants the wet spot.",
+  "size": "~1–3 ft tall × 2–4 ft wide",
+  "sun": "Full sun to part shade",
+  "water": "Moderate to high — moist soil; not a xeric plant",
+  "spread": "Spreads slowly by rhizome into loose colonies; self-sows",
+  "seasons": "White spires May–September; palmate green foliage; dies back to the ground in winter",
+  "wildlife": "Special value to native bees (Xerces Society)",
+  "deer": "Not reliably deer resistant",
+  "toxic": "",
+  "winter": false,
+  "verified": "2026-08-04",
+  "ph": {
+    "min": 6.0,
+    "ideal": 7.0,
+    "max": 8.0
+  },
+  "care": {
+    "hardiness": "A Rocky Mountain native of Colorado, Wyoming, Utah, Nevada and New Mexico that is most widespread in the mountains of Colorado and northern New Mexico — it is hardy well past anything Boulder produces, and Fort Collins lists it for foothills, montane, subalpine, riparian and wet-meadow plantings.[1][2][3]",
+    "planting": "Plant in spring after the mid-May last frost or in early fall, in ground that stays moist. Because it is naturally a streambank and wet-meadow plant, put it where water collects rather than where it drains away — a low spot, a rain garden, a pond margin, or a bed you irrigate regularly. It transplants easily as a young plant; in a container it needs a large pot and consistent water.[2][1]",
+    "sun": "Full sun to part shade. In the wild it grows in open mountain meadows and along stream corridors, so it takes full sun where its roots stay damp, and appreciates afternoon shade in a hotter, drier bed at Boulder's elevation.[1][3]",
+    "soil": "Moist, reasonably fertile soil. It is rated a facultative to facultative-wetland species — meaning it usually occupies wet ground but will grow outside it — so it wants soil that holds moisture. Work compost into heavy clay to improve structure without letting it dry out; it is not fussy about pH in the neutral-to-alkaline range typical here.[1][2]",
+    "water": "Moderate to high, and worth being plain about: Fort Collins rates it moderate to high water, and the Wildflower Center flags it as a wetland indicator. This is not a xeric plant and it carries a real summer water cost on the semi-arid Front Range. Site it accordingly rather than trying to dry-farm it.[2][1]",
+    "spacing": "Space 18–24 in apart; plants reach 2–4 ft across and knit together into loose colonies over time.[2]",
+    "propagation": "By seed, or by careful division of the rhizomatous crown in spring. Seed of the mallow family has a hard coat, so scratch or soak it before sowing. Established plants also self-sow where the ground stays moist and open.[1][3]",
+    "sow": "Sow in fall so seed gets natural winter chilling, or scarify and start indoors in early spring. Keep the seedbed genuinely moist — dry surface soil is the usual reason mountain-meadow natives fail to establish in a Front Range garden.[1]",
+    "bloom": "May through September, in white — occasionally pale pink — flowers arranged in a short, relatively dense panicle at the top of the stem, opening from the bottom upward. The long season is one of its best qualities.[1][3]",
+    "maintenance": "Low. Deadhead spent spires to extend the bloom and to limit self-sowing, then cut the plant to the ground after frost. Mulch to conserve soil moisture, which matters more here than any other single thing you can do for it.[2][3]",
+    "selfsow": "It self-sows modestly in moist, open ground and creeps outward by rhizome, forming loose colonies rather than a running mat. Deadhead before the schizocarps dry if you want it to stay put.[1][3]",
+    "troubles": "Few pests or diseases. The reliable failure mode here is drought stress: it wilts, browns at the leaf edges and stops flowering if the soil dries out. Rust and leaf spot can appear on crowded plants in a damp, still corner — space them for airflow and water at the base.[1][2]"
+  },
+  "references": [
+    {
+      "name": "Lady Bird Johnson Wildflower Center — Sidalcea candida",
+      "url": "https://www.wildflower.org/plants/result.php?id_plant=SICA3"
+    },
+    {
+      "name": "City of Fort Collins Recommended Plant List — white checkerbloom (Sidalcea candida)",
+      "url": "https://www.fcgov.com/vegetation/?view=1148-white-checkerbloom"
+    },
+    {
+      "name": "Wildflowers of Southwest USA — White checkermallow, Sidalcea candida",
+      "url": "https://www.americansouthwest.net/plants/wildflowers/sidalcea-candida.html"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      2,
+      3
+    ],
+    "sun": [
+      1,
+      2
+    ],
+    "water": [
+      2,
+      1
+    ],
+    "spread": [
+      2,
+      1
+    ],
+    "seasons": [
+      1,
+      3
+    ],
+    "wildlife": [
+      1
+    ],
+    "ph": [
+      2
+    ]
+  },
+  "edible": {
+    "level": "inedible",
+    "food": false,
+    "summary": "No documented culinary use; grown as a native ornamental and a native-bee plant.[1][3]",
+    "caution": "None of the authorities consulted documents a food use for white checkerbloom, so this guide treats it as inedible — don't eat it. No part is recorded as notably poisonous either, but the absence of a poisoning record is not a licence to eat something. Do not reason across from the edible mallows in this guide — musk mallow and marshmallow have their own documented records, and *Sidalcea* does not. If you find it growing wild in a mountain meadow, leave it: it is a native plant of a habitat that is scarce and easily damaged.[1][3]"
+  },
+  "shots": [
+    {
+      "local": "images/su-flower-t.jpg",
+      "full": "images/su-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/305724125/large.jpg",
+      "s": "summer",
+      "cap": "Summer — white flowers face-on · © dhopp45 (CC-BY-NC) / iNaturalist",
+      "by": "dhopp45",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/175888166"
+    },
+    {
+      "local": "images/su-flower2-t.jpg",
+      "full": "images/su-flower2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/545159614/large.jpg",
+      "s": "summer",
+      "cap": "Summer — a white flower in close detail · © ichaley (CC-BY-NC) / iNaturalist",
+      "by": "ichaley",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/302496005"
+    },
+    {
+      "local": "images/su-spike-t.jpg",
+      "full": "images/su-spike.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/144076662/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — the flower spike opening bottom-up · © Jim Bromberg (CC-BY-NC) / iNaturalist",
+      "by": "Jim Bromberg",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/87390362"
+    },
+    {
+      "local": "images/su-drift-t.jpg",
+      "full": "images/su-drift.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/405606601/large.jpg",
+      "s": "summer",
+      "cap": "Summer — a drift across a mountain meadow · © kaitlynbarthell (CC-BY-NC) / iNaturalist",
+      "by": "kaitlynbarthell",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/228562219"
+    },
+    {
+      "local": "images/su-habitat-t.jpg",
+      "full": "images/su-habitat.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/87418466/large.jpg",
+      "s": "summer",
+      "cap": "Summer — flowering beside a mountain creek · © Jen Toews (CC-BY-NC) / iNaturalist",
+      "by": "Jen Toews",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/54921083"
+    },
+    {
+      "local": "images/su-far-t.jpg",
+      "full": "images/su-far.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/217652242/large.jpg",
+      "s": "summer",
+      "cap": "Summer — plants in a montane wet meadow · © jstanf0rd (CC-BY-NC) / iNaturalist",
+      "by": "jstanf0rd",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/128152884"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/542289820/large.jpg",
+      "s": "summer",
+      "cap": "Summer — the deeply palmate lower leaves · © Scott F Smith (CC-BY-NC) / iNaturalist",
+      "by": "Scott F Smith",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/300955221"
+    },
+    {
+      "local": "images/su-leaves-t.jpg",
+      "full": "images/su-leaves.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/148510128/large.jpg",
+      "s": "summer",
+      "cap": "Summer — flowers over lobed foliage · © dkairns (CC-BY-NC) / iNaturalist",
+      "by": "dkairns",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/89901153"
+    },
+    {
+      "local": "images/su-stream-t.jpg",
+      "full": "images/su-stream.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/232994047/large.jpg",
+      "s": "summer",
+      "cap": "Summer — plants along a streambank · © curt_nimz (CC-BY-NC) / iNaturalist",
+      "by": "curt_nimz",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/136514284"
+    }
+  ]
+}

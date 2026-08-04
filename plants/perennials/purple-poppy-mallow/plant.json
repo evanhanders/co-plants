@@ -1,0 +1,198 @@
+{
+  "common": "Purple poppy mallow",
+  "botanical": "Callirhoe involucrata",
+  "type": "Forb",
+  "lifecycle": "Perennial",
+  "native": "CO native",
+  "aka": [
+    "Winecups",
+    "Wine cups",
+    "Purple poppymallow"
+  ],
+  "flower_color": [
+    "purple",
+    "pink"
+  ],
+  "bloom": [
+    "spring",
+    "summer",
+    "fall"
+  ],
+  "bloom_season": "Summer",
+  "blurb": "A ground-hugging prairie native that sprawls into a 4-foot mat of finely cut leaves and opens satiny wine-magenta chalices from April until hard frost — one of the longest-blooming xeric plants there is, anchored by a woody taproot that makes it essentially drought-proof.",
+  "size": "~6–12 in tall × 2–5 ft spread",
+  "sun": "Full sun to part sun",
+  "water": "Low; xeric once established — deep taproot needs no supplemental water",
+  "spread": "Sprawling stems from one deep taproot; widens to 2–5 ft as a single crown; self-sows modestly",
+  "seasons": "Wine-magenta cups April to hard frost over deeply cut foliage; dies back completely in winter",
+  "wildlife": "Native bees; larval host and nectar source for the gray hairstreak butterfly",
+  "deer": "Deer resistant; rabbits will browse the foliage",
+  "toxic": "",
+  "winter": false,
+  "verified": "2026-08-04",
+  "ph": {
+    "min": 6.0,
+    "ideal": 7.0,
+    "max": 8.0
+  },
+  "care": {
+    "hardiness": "Rated USDA zones 4–8 by most authorities and 3–9 by Plant Select, with reports of zone 3 hardiness in well-drained ground — comfortably tough for Boulder's zone 5b–6a. Plant Select grows it to about 6,200 ft on the Front Range. It is a genuine Colorado native rather than an import: its native range across the southern Great Plains takes in Colorado, and CSU Extension lists it among the native herbaceous perennials recommended for Colorado landscapes.[1][2][3][5][6]",
+    "planting": "Set out spring-planted nursery stock after the mid-May last frost, or plant in early fall. Buy it as a young container plant and get it in the ground promptly: the woody taproot can thicken to several inches across and makes established plants very hard to move, so choose the spot once. In a container give it a deep pot and gritty mineral mix — a shallow pot fights the taproot, and the crown rots if the mix stays wet.[1][4]",
+    "sun": "Full sun is where it flowers hardest; Plant Select allows full to part sun. It takes hot south- and west-facing exposures that cook other perennials, which is exactly the niche it fills on a Front Range hell strip.[2][4]",
+    "soil": "Easily grown in dry to medium, well-drained soil, and genuinely adaptable — it tolerates clay, loam, sand and shallow rocky ground, and does fine in infertile soil. Sharp drainage matters far more than fertility, and it is at home in our neutral-to-alkaline soils.[1][2][3]",
+    "water": "Low. The long woody taproot — up to about 5 in thick — is what makes it drought-tolerant, so once established it needs no supplemental water. Plant Select notes that giving it *less* water keeps it more compact instead of sprawling as wide, and NC State warns it especially wants good drainage in wet winter conditions.[3][4][2]",
+    "spacing": "Space 18–24 in apart and let the stems knit together; a single plant fills 2–5 ft across, so a few plants cover a lot of ground.[2][1]",
+    "propagation": "Seed is the practical route — it is the strategy NC State recommends, and the plant self-sows readily where it is happy. Division and transplanting are not realistic once the taproot is established, so treat mature clumps as permanent.[3][1][4]",
+    "sow": "Scarify the hard seed coat first — rubbing it on coarse sandpaper markedly improves germination — then sow outdoors about 1/8 in deep in late summer or fall so it gets natural winter chilling.[4]",
+    "bloom": "The long season is the whole point: Plant Select gives April to hard frost, NC State late spring through summer into early fall, and MBG a May–June peak. Each 1.5–2.5 in magenta chalice has a white spot at the base of its five petals, opens in the morning and closes at evening, then closes permanently once pollinated.[2][3][1][4]",
+    "maintenance": "Very low. Cut the whole plant back to the base each spring — it dies back completely in winter and re-emerges from the crown. Pinching the stems back keeps it tighter if it is crowding neighbours, and Plant Select notes it is long-lived and well-behaved, needing almost nothing after 5–10 years. Expect some dieback in late summer after the heaviest flowering.[2][4][3]",
+    "selfsow": "It self-sows where conditions suit it, though not aggressively. Plant Select's advice is the practical one: pull unwanted seedlings while they are young, before the taproot gets a hold and makes them hard to remove.[2][3]",
+    "troubles": "No serious insect or disease problems. Crown rot is the real risk and it comes from poorly drained soil, not from cold — the failure mode here is a wet, heavy spot, not a cold winter. Rabbits will chew the foliage.[1][4]"
+  },
+  "references": [
+    {
+      "name": "Missouri Botanical Garden Plant Finder — Callirhoe involucrata",
+      "url": "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=282616"
+    },
+    {
+      "name": "Plant Select — Callirhoe involucrata (winecups)",
+      "url": "https://plantselect.org/plant/callirhoe-involucrata/"
+    },
+    {
+      "name": "NC State Extension Plant Toolbox — Callirhoe involucrata",
+      "url": "https://plants.ces.ncsu.edu/plants/callirhoe-involucrata/"
+    },
+    {
+      "name": "University of Wisconsin–Madison Extension Horticulture — Winecups, Callirhoe involucrata",
+      "url": "https://hort.extension.wisc.edu/articles/winecups-callirhoe-involucrata/"
+    },
+    {
+      "name": "Lady Bird Johnson Wildflower Center — Callirhoe involucrata",
+      "url": "https://www.wildflower.org/plants/result.php?id_plant=cain2"
+    },
+    {
+      "name": "CSU Extension — Native Herbaceous Perennials for Colorado Landscapes (7.242)",
+      "url": "https://extension.colostate.edu/topic-areas/yard-garden/native-herbaceous-perennials-for-colorado-landscapes-7-242/"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      2,
+      3
+    ],
+    "sun": [
+      2,
+      4
+    ],
+    "water": [
+      2,
+      4
+    ],
+    "spread": [
+      1,
+      2
+    ],
+    "seasons": [
+      1,
+      2
+    ],
+    "wildlife": [
+      3
+    ],
+    "deer": [
+      4
+    ],
+    "ph": [
+      1,
+      3
+    ]
+  },
+  "edible": {
+    "level": "inedible",
+    "food": false,
+    "summary": "No documented culinary use in the horticultural authorities; grown purely as a xeric ornamental groundcover.[1][3]",
+    "caution": "None of the authorities consulted document a food use for purple poppy mallow, so this guide treats it as inedible — don't eat it. No part is recorded as notably poisonous either, and NC State lists no toxicity concern, but absence of a poisoning record is not evidence of edibility. The plant's own defence is chemical-free anyway: what protects it is a taproot too deep to dig and foliage deer leave alone.[1][3]"
+  },
+  "shots": [
+    {
+      "local": "images/sp-flower-t.jpg",
+      "full": "images/sp-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/277012574/large.jpg",
+      "s": "spring",
+      "cap": "Spring — wine-cup flower face-on · © Jeff Back (CC-BY-NC) / iNaturalist",
+      "by": "Jeff Back",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/160312221"
+    },
+    {
+      "local": "images/sp-flower2-t.jpg",
+      "full": "images/sp-flower2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/34635314/large.jpg",
+      "s": "spring",
+      "cap": "Spring — magenta cup with its white eye · © Becky Brenner (CC-BY-NC) / iNaturalist",
+      "by": "Becky Brenner",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/22362079"
+    },
+    {
+      "local": "images/sp-habit-t.jpg",
+      "full": "images/sp-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/128019861/large.jpg",
+      "s": "spring",
+      "cap": "Spring — a low mound of cut foliage studded with flowers · © audette (CC-BY-NC) / iNaturalist",
+      "by": "audette",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/78240742"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/139983903/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — flowers over deeply cut palmate leaves · © kilikana (CC-BY-NC) / iNaturalist",
+      "by": "kilikana",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/85112423"
+    },
+    {
+      "local": "images/sp-mass-t.jpg",
+      "full": "images/sp-mass.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/376186111/large.jpeg",
+      "s": "spring",
+      "cap": "Spring — a drift of wine cups in bloom · © Brandon Corder (CC-BY) / iNaturalist",
+      "by": "Brandon Corder",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/212875378"
+    },
+    {
+      "local": "images/su-drift-t.jpg",
+      "full": "images/su-drift.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/500944236/large.jpg",
+      "s": "summer",
+      "cap": "Summer — wine cups scattered through a meadow · © svec9648 (CC-BY-NC) / iNaturalist",
+      "by": "svec9648",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/278976481"
+    },
+    {
+      "local": "images/su-leaves-t.jpg",
+      "full": "images/su-leaves.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/41870396/large.jpg",
+      "s": "summer",
+      "cap": "Summer — finely divided grey-green foliage · © spotdo (CC-BY-NC) / iNaturalist",
+      "by": "spotdo",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/26943797"
+    },
+    {
+      "local": "images/sp-plant-t.jpg",
+      "full": "images/sp-plant.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/263888558/large.jpg",
+      "s": "spring",
+      "cap": "Spring — a wine cup in prairie grass · © hllundwall (CC-BY-NC) / iNaturalist",
+      "by": "hllundwall",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/152835835"
+    }
+  ]
+}

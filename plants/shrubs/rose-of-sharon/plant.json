@@ -1,0 +1,204 @@
+{
+  "common": "Rose of Sharon",
+  "botanical": "Hibiscus syriacus",
+  "type": "Shrub",
+  "lifecycle": "Perennial",
+  "native": "Non-native",
+  "aka": [
+    "Shrub althea",
+    "Althea",
+    "Korean rose"
+  ],
+  "origin": "South China and Taiwan (long cultivated across east Asia; the national flower of South Korea)",
+  "habitat": "Warm-temperate east-Asian hill scrub and forest margins",
+  "flower_color": [
+    "white",
+    "pink",
+    "purple",
+    "red"
+  ],
+  "bloom": [
+    "summer",
+    "fall"
+  ],
+  "blurb": "An upright, vase-shaped shrub that saves its show for the end of summer, when little else is flowering — weeks of hollyhock-like blooms in white, pink, lavender or wine, each with a dark eye. Late to leaf out, late to bloom, and it hangs its split seed capsules on bare stems all winter.",
+  "size": "~8–12 ft tall × 6–10 ft wide",
+  "sun": "Full sun to part shade",
+  "water": "Moderate; deep soak every week or two in summer heat",
+  "spread": "Upright and clumping; self-sows freely and naturalizes near plantings",
+  "seasons": "Dark-eyed blooms July to frost; clear-yellow fall leaf; split brown seed capsules on bare stems all winter",
+  "wildlife": "Hummingbirds, butterflies and specialized bees work the flowers heavily",
+  "deer": "Mildly deer resistant",
+  "toxic": "",
+  "winter": true,
+  "verified": "2026-08-04",
+  "ph": {
+    "min": 5.5,
+    "ideal": 6.8,
+    "max": 8.0
+  },
+  "care": {
+    "hardiness": "Rated USDA zones 5a–9b, which puts Boulder's 5b–6a inside its range but near the cold edge — expect some winter twig dieback in a hard year, and site it out of the worst wind. It is a heat-loving plant, so our hot summers suit it well.[1][2]",
+    "planting": "Plant in spring after the mid-May last frost so it has a full season to root before winter. Be patient: it leafs out notably late, and a bare rose of Sharon in May is normal, not dead. It tolerates most sites except extremely dry or extremely wet ones. It takes well to a large container, though a potted shrub's roots are far less cold-hardy than one in the ground — move the pot to a sheltered spot for winter.[2][1]",
+    "sun": "Full sun to partial shade. Full sun gives the heaviest flowering; light afternoon shade is no loss here and eases its water needs.[1][2]",
+    "soil": "Prefers moist, well-drained soil but is genuinely adaptable — NC State calls it pH adaptable and tolerant of all but extremely wet or extremely dry soils, which makes it one of the easier large shrubs for Front Range clay.[1][2]",
+    "water": "Moderate, with moderate drought tolerance once established. Give it a deep soak every week or two through the summer, especially while flower buds are forming in July, since drought stress at that point costs you flowers. It is not xeric and it is not a water hog.[1][2]",
+    "spacing": "Space 6–10 ft apart as specimens, or about 4–5 ft apart if you want it to knit into an informal flowering screen. It is naturally vase-shaped and upright, wider at the top than the base.[1]",
+    "propagation": "Softwood cuttings taken in early summer root readily, which is how named cultivars are kept true. Seed germinates easily too — that is exactly why it self-sows so freely — but seedlings vary and won't match the parent.[2][1]",
+    "pruning": "Prune in late winter or very early spring, before the buds break — this shrub blooms on new wood, so a hard dormant cut costs you nothing and actively pays. NC State is explicit that spring pruning encourages flowers on new growth and increases flower size, and the JC Raulston Arboretum notes a heavy winter pruning increases flowering. Take out dead, damaged and crossing stems first, then shorten the previous season's growth; cutting back hard produces fewer but much larger blooms, while a light trim gives more, smaller ones. Thin out the crowded middle to open the vase shape. What goes wrong: pruning in summer or fall removes the growth that would have carried flowers and, in fall, pushes soft shoots that winterkill here — so keep it dormant-season. Deadheading or shearing off the spent flowers before the capsules ripen is also the single most effective way to cut down the seedling problem below.[1][2]",
+    "feeding": "Little needed. A spring topdress of compost is enough; heavy nitrogen produces leafy growth at the expense of bloom.[1]",
+    "maintenance": "Rated high-maintenance by NC State, and the reason is seedlings rather than fussiness — see below. Beyond that, remove spent flowers, clear the winter capsules if you don't want the self-sowing, and leave some on if you do want the winter silhouette against snow.[1][2]",
+    "selfsow": "This is the one real drawback and it deserves stating plainly. Rose of Sharon self-sows prolifically — NC State tags it both weedy and aggressive and reports it invasive in some states, including Virginia and Kentucky, and the JC Raulston Arboretum notes it is often found naturalized in semi-wooded areas near where it was planted. It is **not** listed as a noxious weed in Colorado (verified against Lists A/B/C and the Watch List, 2026-08-04), and our dry climate limits it far more than the humid Southeast does, but the management is the same: deadhead or shear spent flowers before the capsules split, pull seedlings while small, and don't plant it next to a creek corridor or open space where seed can wash away from the garden. Sterile or near-sterile cultivars exist and are the better choice if you'd rather not manage it.[1][2]",
+    "troubles": "Few serious problems. Japanese beetles chew the flowers, and aphids collect on the soft new shoots. In our alkaline soil watch for iron chlorosis — yellow leaves with green veins. Late spring frost can nip the emerging shoots; the shrub grows out of it.[1][2]"
+  },
+  "references": [
+    {
+      "name": "NC State Extension Plant Toolbox — Hibiscus syriacus",
+      "url": "https://plants.ces.ncsu.edu/plants/hibiscus-syriacus/"
+    },
+    {
+      "name": "JC Raulston Arboretum (NC State University) — Hibiscus syriacus plant profile",
+      "url": "https://jcra.ncsu.edu/horticulture/plant-profiles/details.php?ID=90"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      1,
+      2
+    ],
+    "sun": [
+      1,
+      2
+    ],
+    "water": [
+      1,
+      2
+    ],
+    "spread": [
+      1,
+      2
+    ],
+    "seasons": [
+      1,
+      2
+    ],
+    "wildlife": [
+      1
+    ],
+    "deer": [
+      1
+    ],
+    "ph": [
+      1
+    ],
+    "origin": [
+      1
+    ],
+    "habitat": [
+      1
+    ]
+  },
+  "edible": {
+    "level": "caution",
+    "food": true,
+    "kinds": [
+      "flowers",
+      "leaves"
+    ],
+    "card": "Petals and young leaves, mild and mucilaginous",
+    "summary": "The petals and young leaves are mild, mucilaginous and traditionally eaten in east Asia, and NC State records the shrub as non-toxic to cats, dogs and horses — but no extension authority documents it as a crop, so use it as a garnish only.[1]",
+    "caution": "The species is benign — NC State lists it as non-toxic for cats, dogs and horses, and the flowers are a recognised wildlife food source — and the petals and youngest leaves have a long culinary history in east Asia, used fresh in salads or brewed as a tea. This entry is set to caution rather than plain edible because none of the extension authorities consulted documents it as a food crop or gives any guidance on quantity. Practical limits: eat the petals and the very youngest leaves only, in small amounts; like all mallows they are slimy and mildly laxative in quantity. Take them only from a shrub you know has not been sprayed — rose of Sharon is a common landscape shrub and routinely treated for Japanese beetles and aphids. Do not confuse it with the unrelated plants also called 'rose of Sharon' in other countries, notably *Hypericum calycinum*, a St John's wort, which this guide classes as toxic.[1][2]"
+  },
+  "shots": [
+    {
+      "local": "images/su-flower-t.jpg",
+      "full": "images/su-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/219551060/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — white flower with a red eye, face-on · © Sunset Recinos Moya (CC-BY-NC) / iNaturalist",
+      "by": "Sunset Recinos Moya",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/129210897"
+    },
+    {
+      "local": "images/fa-flower2-t.jpg",
+      "full": "images/fa-flower2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/104793913/large.jpg",
+      "s": "fall",
+      "cap": "Fall — a lavender bloom with a dark eye · © chaitanyavattem (CC-BY-NC) / iNaturalist",
+      "by": "chaitanyavattem",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/65133852"
+    },
+    {
+      "local": "images/fa-flower3-t.jpg",
+      "full": "images/fa-flower3.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/332297752/large.jpeg",
+      "s": "fall",
+      "cap": "Fall — a deep rose-pink bloom · © panagiota_vergou (CC-BY-NC) / iNaturalist",
+      "by": "panagiota_vergou",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/189655698"
+    },
+    {
+      "local": "images/su-bee-t.jpg",
+      "full": "images/su-bee.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/233337391/large.jpg",
+      "s": "summer",
+      "cap": "Summer — a bee flying into a flower · © JO&amp;JP (CC-BY-NC) / iNaturalist",
+      "by": "JO&amp;JP",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/136694083"
+    },
+    {
+      "local": "images/fa-mass-t.jpg",
+      "full": "images/fa-mass.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/54492859/large.jpg",
+      "s": "fall",
+      "cap": "Fall — the shrub sheeted in bloom · © nowherezen (CC-BY-NC) / iNaturalist",
+      "by": "nowherezen",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/34614044"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/399890744/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — flower, bud and the toothed three-lobed leaves · © a_virginian (CC-BY) / iNaturalist",
+      "by": "a_virginian",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/225543177"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/147119491/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — the whole upright shrub in flower · © amandastoffels (CC-BY-NC) / iNaturalist",
+      "by": "amandastoffels",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/85947492"
+    },
+    {
+      "local": "images/wi-winter-t.jpg",
+      "full": "images/wi-winter.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/255556758/large.jpeg",
+      "s": "winter",
+      "cap": "Winter — split seed capsules on bare winter stems · © Lori Jo Jamieson (CC-BY-NC) / iNaturalist",
+      "by": "Lori Jo Jamieson",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/148404676"
+    },
+    {
+      "local": "images/fa-fall-t.jpg",
+      "full": "images/fa-fall.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/56222357/large.jpg",
+      "s": "fall",
+      "cap": "Fall — the shrub in yellowing autumn leaf · © connorumd (CC-BY-NC) / iNaturalist",
+      "by": "connorumd",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/35641573"
+    }
+  ]
+}

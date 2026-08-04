@@ -1,0 +1,190 @@
+{
+  "common": "Musk mallow",
+  "botanical": "Malva moschata",
+  "type": "Forb",
+  "lifecycle": "Perennial",
+  "native": "Non-native",
+  "aka": [
+    "Musk-mallow",
+    "White musk mallow"
+  ],
+  "origin": "Europe, Turkey and northwestern Africa",
+  "habitat": "Dry grassland, hedge banks, field margins and rough sunny ground",
+  "flower_color": [
+    "pink",
+    "white"
+  ],
+  "bloom": [
+    "summer",
+    "fall"
+  ],
+  "bloom_season": "Summer",
+  "blurb": "A bushy cottage-garden mallow that flowers for three solid months in soft rose-pink (or pure white), over finely cut leaves that smell faintly musky when crushed. Easy, bee-covered and short-lived — it keeps itself going by seeding around.",
+  "size": "~2–3 ft tall × 1.5–2 ft wide",
+  "sun": "Full sun to part shade",
+  "water": "Moderate; deep weekly soak in summer heat",
+  "spread": "Bushy and upright; self-seeds freely and maintains itself that way",
+  "seasons": "Rose-pink or white saucers June–September; finely divided musk-scented foliage; brown seed 'cheeses' into fall",
+  "wildlife": "Bees and butterflies work the flowers heavily",
+  "deer": "Not reliably deer resistant",
+  "toxic": "",
+  "winter": false,
+  "verified": "2026-08-04",
+  "ph": {
+    "min": 6.0,
+    "ideal": 7.0,
+    "max": 8.0
+  },
+  "care": {
+    "hardiness": "Rated USDA zones 3–8, so winter cold is no obstacle here at zone 5b–6a. Heat is the bigger limit: NC State notes foliage can yellow in hot, dry weather, which on the Front Range means it looks best with some afternoon relief in July and August.[1][2]",
+    "planting": "Plant in spring after the mid-May last frost, or in early fall, in average well-drained soil. It transplants easily as a young plant — there is no deep taproot to fight — and it does perfectly well in a large container given regular water, though it is short-lived enough that most gardeners simply let it reseed in the ground.[1][2]",
+    "sun": "Full sun gives the sturdiest, best-flowered plants; NC State also allows partial shade (2–6 hours), and a little afternoon shade is genuinely helpful in our high-altitude summer sun.[2][1]",
+    "soil": "Average, medium, well-drained soil. NC State records it on clay, loam or sand at a neutral pH of about 6.0–8.0, which covers essentially all Front Range garden soil, and it tolerates moist ground as well as occasional dryness.[2][1]",
+    "water": "Medium. Give it a deep soak about weekly through summer heat — this is not a xeric plant, and drought shows up first as yellowing, tired foliage. It is not a water hog either; ordinary border watering suits it.[1][2]",
+    "spacing": "Space 15–18 in apart. Plants are bushy but narrow, and a group of several reads far better than one, since each individual is short-lived.[1]",
+    "propagation": "By seed, and it does the work itself — both MBG and NC State note it self-seeds freely in suitable positions and maintains itself that way. Because it is a short-lived perennial often grown as a biennial, sowing seed rather than dividing clumps is the practical approach.[1][2]",
+    "sow": "Sow outdoors in late summer or fall for flowers the following year, or start indoors in early spring for a first-year bloom. Seedlings transplant readily while small.[1][2]",
+    "bloom": "June to September in 1.25 in rose-pink flowers with five notched, wedge-shaped petals around a small central column of stamens; there is also a clean white form. Both flowers and foliage are musk-scented, most noticeably when bruised.[1]",
+    "maintenance": "Remove spent blooms to keep it flowering — MBG makes deadheading the key task, and it genuinely extends the season here. Cut the plant to the ground after frost, and leave a few seedheads if you want next year's replacements. Staking is rarely needed at this height.[1]",
+    "selfsow": "It self-sows freely. That is how a short-lived plant persists, but it does mean seedlings turn up where you didn't plant them — deadhead before the ring-shaped seed 'cheeses' dry if you want it contained. It has naturalized widely across North America, so keep it out of wild land, though it is not a listed noxious weed in Colorado.[1][2]",
+    "troubles": "Generally pest- and disease-resistant. Japanese beetles are the usual nuisance, foliage may yellow in hot dry spells, and it can pick up foliar disease in crowded, humid conditions — space plants for airflow and water at the base rather than overhead.[1][2]"
+  },
+  "references": [
+    {
+      "name": "Missouri Botanical Garden Plant Finder — Malva moschata",
+      "url": "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=282567"
+    },
+    {
+      "name": "NC State Extension Plant Toolbox — Malva moschata",
+      "url": "https://plants.ces.ncsu.edu/plants/malva-moschata/"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      1,
+      2
+    ],
+    "sun": [
+      1,
+      2
+    ],
+    "water": [
+      1
+    ],
+    "spread": [
+      1,
+      2
+    ],
+    "seasons": [
+      1
+    ],
+    "wildlife": [
+      1,
+      2
+    ],
+    "ph": [
+      2
+    ],
+    "origin": [
+      1,
+      2
+    ],
+    "habitat": [
+      1
+    ]
+  },
+  "edible": {
+    "level": "edible",
+    "food": true,
+    "kinds": [
+      "flowers",
+      "leaves",
+      "seeds"
+    ],
+    "card": "Young leaves, flowers & green seeds in salads",
+    "summary": "Leaves and flowers are a documented addition to wild salads, and the green seeds are edible too — mild, mucilaginous and pleasant rather than strongly flavoured.[2]",
+    "caution": "NC State documents the leaves and flowers as salad additions and the seeds as edible; use the young leaves, since older ones turn coarse and hairy, and eat the ring-shaped green seed 'cheeses' while still soft rather than dry and brown. Everything mallow is mucilaginous, so a large helping is slimy and mildly laxative — treat it as a garnish, not a green. Only eat plants you know have not been sprayed, and don't take it from roadsides, where mallows readily colonize contaminated ground. Anyone with a known mallow-family sensitivity should avoid it. Confirm your plant is *Malva moschata* by its finely cut, musk-scented leaves before eating any part.[2][1]"
+  },
+  "shots": [
+    {
+      "local": "images/su-flower-t.jpg",
+      "full": "images/su-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/6158997/large.jpg",
+      "s": "summer",
+      "cap": "Summer — pink flower face-on with a bud · © Rose Zappa (CC-BY) / iNaturalist",
+      "by": "Rose Zappa",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/5030732"
+    },
+    {
+      "local": "images/su-flower2-t.jpg",
+      "full": "images/su-flower2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/411181848/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — pink flower in close detail · © Kieran Roy Powell (CC-BY) / iNaturalist",
+      "by": "Kieran Roy Powell",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/231504881"
+    },
+    {
+      "local": "images/su-mass-t.jpg",
+      "full": "images/su-mass.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/543667844/large.jpg",
+      "s": "summer",
+      "cap": "Summer — a plant covered in pink flowers · © blueeyedf (CC-BY-NC) / iNaturalist",
+      "by": "blueeyedf",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/301694599"
+    },
+    {
+      "local": "images/su-drift-t.jpg",
+      "full": "images/su-drift.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/102147632/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — a drift of pale pink bloom · © virginiet (CC-BY-NC) / iNaturalist",
+      "by": "virginiet",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/63627304"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/299930908/large.jpg",
+      "s": "summer",
+      "cap": "Summer — the whole plant among grasses · © no rights reserved (CC0) / iNaturalist",
+      "by": "no rights reserved",
+      "lic": "CC0",
+      "link": "https://www.inaturalist.org/observations/172752679"
+    },
+    {
+      "local": "images/fa-foliage-t.jpg",
+      "full": "images/fa-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/4918942/large.jpeg",
+      "s": "fall",
+      "cap": "Fall — a flower over finely dissected foliage · © Vinny Curtis (CC-BY-NC) / iNaturalist",
+      "by": "Vinny Curtis",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/4133701"
+    },
+    {
+      "local": "images/su-leaves-t.jpg",
+      "full": "images/su-leaves.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/154157022/large.jpg",
+      "s": "summer",
+      "cap": "Summer — the divided basal foliage · © j_osborn (CC-BY) / iNaturalist",
+      "by": "j_osborn",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/93048316"
+    },
+    {
+      "local": "images/su-seed-t.jpg",
+      "full": "images/su-seed.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/418042946/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — flowers beside ripe seed 'cheeses' · © Anita Sprungk (CC-BY-NC) / iNaturalist",
+      "by": "Anita Sprungk",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/235092941"
+    }
+  ]
+}

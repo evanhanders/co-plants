@@ -1,0 +1,200 @@
+{
+  "common": "Russian hollyhock",
+  "botanical": "Alcea rugosa",
+  "type": "Forb",
+  "lifecycle": "Perennial",
+  "native": "Non-native",
+  "aka": [
+    "Rugose hollyhock",
+    "Yellow hollyhock",
+    "Alcea rugosa"
+  ],
+  "origin": "Ukraine, Crimea, southern European Russia and the Caucasus",
+  "habitat": "Dry open steppe grassland and rough sunny slopes",
+  "flower_color": [
+    "yellow"
+  ],
+  "bloom": [
+    "summer"
+  ],
+  "bloom_season": "Summer",
+  "blurb": "The hollyhock to grow if rust has ruined the others for you: tall unbranched spires of soft pale-yellow saucers over rough, wrinkled basal leaves, and reportedly good resistance to the disfiguring hollyhock rust that plagues the common sort.",
+  "size": "~4–9 ft tall × 1.5–2 ft wide",
+  "sun": "Full sun",
+  "water": "Moderate; deep occasional soak — will not tolerate wet winter soil",
+  "spread": "Upright and clumping; self-seeds freely into persistent colonies",
+  "seasons": "Pale-yellow spires July–August opening bottom to top; rugose basal leaves; dried seed stalks stand into winter",
+  "wildlife": "Attracts hummingbirds, butterflies and bees to its showy staminal columns",
+  "deer": "Not reliably deer resistant",
+  "toxic": "",
+  "winter": false,
+  "verified": "2026-08-04",
+  "collection": "hollyhocks",
+  "ph": {
+    "min": 6.0,
+    "ideal": 7.0,
+    "max": 8.0
+  },
+  "care": {
+    "hardiness": "Rated USDA zones 4–8, so it is reliably hardy at Boulder's zone 5b–6a. It comes from the dry continental steppe of Ukraine, Crimea and the Caucasus — a climate of cold winters and hot dry summers that maps unusually well onto the Front Range.[1][2]",
+    "planting": "Plant in spring after the mid-May last frost or in early fall, in average, well-drained soil in full sun. Give it a spot against a wall, fence or hedge where the tall spires get some shelter — MBG notes taller plants may need staking where they are exposed to wind, and the Front Range delivers wind. Containers are a poor fit for a 9 ft taprooted spire; grow it in the ground.[1]",
+    "sun": "Full sun. Less than that and the spires lean, stretch and flower thinly.[1]",
+    "soil": "Easily grown in average, medium, well-drained soil, and tolerant of a wide range of soil conditions — but it dislikes wet winter soils, which is the one thing to get right. Sharpen the drainage of heavy clay rather than enriching it.[1]",
+    "water": "Medium. Water it deeply but occasionally through the heat of a Front Range summer; do not let it sit wet, especially over winter, since winter wet on the crown is what kills hollyhocks here.[1]",
+    "spacing": "Space 18–24 in apart. It is a narrow, vertical plant — 1.5–2 ft wide against 4–9 ft tall — so plant it in a row or a loose group at the back of a border.[1]",
+    "propagation": "By seed, which is how it maintains itself: MBG notes it freely self-seeds and establishes persistent garden colonies, so once you have one you tend to keep having them. Since the species comes true from seed, saved seed is a genuine option — unlike named hybrid hollyhocks.[1][2]",
+    "sow": "Sow outdoors in late summer or early fall for bloom the following year, or start indoors in early spring. It behaves as a biennial or short-lived perennial, so sow a few seeds each year to keep a succession of flowering spires coming.[1][2]",
+    "bloom": "July to August, in outward-facing pale-yellow single flowers that open from the bottom of the spire upward, each showing a prominent central staminal column. Cutting the stalk back after the main flush can bring a second, lighter bloom.[1]",
+    "feeding": "Little needed in decent soil. A spring topdress of compost is plenty; heavy feeding produces soft, top-heavy growth that flops in wind.[1]",
+    "maintenance": "Deadhead spent spires to prolong bloom and cut the old stalks down at the end of the season — clearing that dead material is the standard way to reduce carry-over of leaf disease. Leave a few stalks standing if you want the winter silhouette and self-sown seedlings, and stake in exposed spots.[1]",
+    "selfsow": "It self-seeds freely where it is happy, forming persistent colonies. That is mostly a feature for a short-lived perennial, but pull seedlings you don't want while they're small, and deadhead before the capsules dry if you want to keep it contained.[1]",
+    "troubles": "This is the species' selling point: hollyhocks as a group are susceptible to rust, leaf spot and anthracnose, but *A. rugosa* reportedly has good resistance to rust — the orange-pustuled disease that reduces common hollyhock foliage to tatters by midsummer here. 'Resistant' is not 'immune', so still space plants for airflow, water at the base rather than overhead, and clear fallen leaves. Spider mites and Japanese beetles are occasional pests.[1][2]"
+  },
+  "references": [
+    {
+      "name": "Missouri Botanical Garden Plant Finder — Alcea rugosa",
+      "url": "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=282569"
+    },
+    {
+      "name": "Wikipedia — Alcea rugosa (native range; rust resistance)",
+      "url": "https://en.wikipedia.org/wiki/Alcea_rugosa"
+    },
+    {
+      "name": "ASPCA Animal Poison Control — Hollyhock (Alcea)",
+      "url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/hollyhock"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      1
+    ],
+    "sun": [
+      1
+    ],
+    "water": [
+      1
+    ],
+    "spread": [
+      1
+    ],
+    "seasons": [
+      1
+    ],
+    "wildlife": [
+      1
+    ],
+    "ph": [
+      1
+    ],
+    "origin": [
+      1,
+      2
+    ],
+    "habitat": [
+      2
+    ]
+  },
+  "edible": {
+    "level": "caution",
+    "food": true,
+    "kinds": [
+      "flowers",
+      "leaves"
+    ],
+    "card": "Petals and young leaves, as for other hollyhocks",
+    "summary": "Like other hollyhocks the petals and young leaves are edible and mucilaginous, but the food record belongs to common hollyhock — treat this species as edible-by-family, not by its own documentation.[3][1]",
+    "caution": "The genus is benign — ASPCA lists hollyhock as non-toxic to dogs, cats and horses — and mallow-family petals and young leaves are a traditional mild, mucilaginous salad and tea ingredient. But the documented culinary record is for *Alcea rosea*, the common hollyhock, not specifically for *A. rugosa*, so this entry is set to caution rather than plain edible: eat only the petals and the youngest leaves, in small quantity, and only from plants you know have not been sprayed. The coarse hairs on stems and mature leaves are unpleasant and irritating in the mouth, so skip them. Anyone with a mallow-family sensitivity should avoid it, and this is an ornamental grown for its spires, not a crop.[3][1]"
+  },
+  "shots": [
+    {
+      "local": "images/su-flower-t.jpg",
+      "full": "images/su-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/469469947/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — pale-yellow flower face-on beside seed capsules · © Markus Ackermann (CC-BY-NC) / iNaturalist",
+      "by": "Markus Ackermann",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/261328353"
+    },
+    {
+      "local": "images/su-flower2-t.jpg",
+      "full": "images/su-flower2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/322063059/large.jpg",
+      "s": "summer",
+      "cap": "Summer — a clean pale-yellow saucer · © m_renard (CC-BY-NC) / iNaturalist",
+      "by": "m_renard",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/184503222"
+    },
+    {
+      "local": "images/su-mass-t.jpg",
+      "full": "images/su-mass.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/297134378/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — a stand of yellow hollyhock spires · © Aliaksandr Mialik (CC-BY-NC) / iNaturalist",
+      "by": "Aliaksandr Mialik",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/171247306"
+    },
+    {
+      "local": "images/su-spire-t.jpg",
+      "full": "images/su-spire.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/449031722/large.jpg",
+      "s": "summer",
+      "cap": "Summer — flowering spire over rugose leaves · © Aleksandr Ebel (CC-BY-NC) / iNaturalist",
+      "by": "Aleksandr Ebel",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/251003411"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/341590587/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — a whole flowering spire · © Markus Ackermann (CC-BY-NC) / iNaturalist",
+      "by": "Markus Ackermann",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/194342771"
+    },
+    {
+      "local": "images/sp-foliage-t.jpg",
+      "full": "images/sp-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/502805241/large.jpg",
+      "s": "spring",
+      "cap": "Spring — the basal clump of wrinkled leaves · © Alexander Dubynin (CC-BY) / iNaturalist",
+      "by": "Alexander Dubynin",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/279989135"
+    },
+    {
+      "local": "images/su-seed-t.jpg",
+      "full": "images/su-seed.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/335707419/large.jpg",
+      "s": "summer",
+      "cap": "Summer — dried seed capsules up the stem · © m_renard (CC-BY-NC) / iNaturalist",
+      "by": "m_renard",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/191376910"
+    },
+    {
+      "local": "images/su-stalk-t.jpg",
+      "full": "images/su-stalk.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/421996236/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — a bare seed stalk standing in dry grass · © Юрий Данилевский (Yuriy Danilevsky) (CC-BY) / iNaturalist",
+      "by": "Юрий Данилевский (Yuriy Danilevsky)",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/237145128"
+    },
+    {
+      "local": "images/su-far-t.jpg",
+      "full": "images/su-far.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/313642055/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — plants on an open wild hillside · © Вадим (CC-BY-NC) / iNaturalist",
+      "by": "Вадим",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/180091995"
+    }
+  ]
+}

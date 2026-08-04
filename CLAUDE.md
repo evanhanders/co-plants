@@ -482,6 +482,16 @@ driven off one predicate so they can't drift. To add one (e.g. `Fragrant`):
    `mode:'and'`) or `edible` (the Edibility facets, `mode:'or'`); each group lists its keys explicitly
    and maps them to `TRAITS`. `passesFilters()` tests `TRAITS[t].test(p)`, and the per-group URL-hash
    round-trip + faceted counts + Clear-all then cover it automatically.
+**Gotcha — negation false-matches in derived predicates.** Several traits are *derived by regex from
+prose fields*, so a **negated** phrase still matches. The live example: `spreads` tests
+`/run|rhizom|sucker|thicket|mat-form/i` against `spread`, so writing "**does not run**" or "**not
+rhizomatous**" turns the SPREADS badge **on** for a plant whose own data says the opposite (the regex
+sees `run` / `rhizom` and has no idea it was negated). **When you write `spread`, state the habit
+positively and don't reach for the trigger words to deny them** — say "Clumping; spreads only by seed,
+never at the root" rather than "not rhizomatous", and "widens as a single crown" rather than "does not
+run". Sanity-check the badge after adding a plant. The same care applies to any future regex-derived
+trait (e.g. a `Fragrant` test against `blurb`).
+
 5. **If the predicate reads a new data field, populate it** on the qualifying `plant.json`s (and
    document the field in the "`plant.json` schema" list). Then sanity-check the count.
 
@@ -493,8 +503,9 @@ milkweeds, alliums, sunflowers, bee-balms, lupines, dogwoods, clematis, mulleins
 scabious, prairie-coneflowers, pinks, coreopsis, sumacs, primulas, ornamental-oreganos, marigolds,
 bugleweeds, pasqueflowers, coral-bells, elderberries, burnets, yarrows, poppies, peonies,
 hummingbird-mints, four-o'clocks, evening-primroses, oregon-grapes, lindens, hawthorns,
-rhododendrons, phloxes, sages, honeysuckle-vines, speedwells, lamb's-ears, sea-hollies —
-**52 in all**) collapse
+rhododendrons, phloxes, sages, honeysuckle-vines, speedwells, lamb's-ears, sea-hollies,
+globemallows, hollyhocks —
+**54 in all**) collapse
 into a **single expandable family card** so the grid isn't buried under near-duplicate cards. It's
 an **inline accordion**, not a separate page — each member keeps its own detail page untouched.
 The bar for a collection is "would a gardener read these as one kind of plant in different
@@ -510,7 +521,15 @@ gardener reads as one plant); *Amorpha* (a 3 ft refined xeric leadplant vs a 12 
 riparian false indigo); *Erigeron* and *Lysimachia* (sprawling mat vs upright forb, different
 sections); the yuccas (soapweed *Yucca* vs *Hesperaloe* "red yucca" — different genera, and red
 yucca honestly isn't a yucca); and the cacti (prickly pear / cholla / claret cup — a **category**,
-not a family, and it spans Shrub + Subshrub).
+not a family, and it spans Shrub + Subshrub). **"Mallows" is the same kind of trap** — the guide now
+holds a dozen-plus Malvaceae (globemallows, hollyhocks, poppy mallow, musk mallow, marshmallow, the
+two hibiscus, checkerbloom, wild hollyhock, lamb's ears' family-mate linden…), and a single "Mallows"
+card would be a **family**, not a family card. Group them by genus-and-role instead, which is what
+`globemallows` and `hollyhocks` do. The two ***Hibiscus*** are deliberately **left ungrouped**: a
+woody 10 ft shrub (rose of Sharon) and a herbaceous perennial that dies to the ground (rose mallow)
+are not one plant in two varieties, and this is the same Shrub-vs-Forb call that kept honeyberry and
+twinberry out of `honeysuckle-vines`. **Musk mallow and marshmallow also stay standalone** — different
+genera, and one is a cottage flower while the other is a root crop.
 
 **A collection is a partial-genus card when that's the honest read.** Three of these were on the
 ungrouped list until the roster grew enough to make a coherent core, and each deliberately leaves
@@ -1096,6 +1115,18 @@ ground every statement in an authority cited in `references`.
   **CO List B noxious weed**, and **mayweed chamomile** (*Anthemis cotula*) is also weedy —
   both look daisy-like; don't confuse them with the herb. The tell: German chamomile is
   sweetly apple-scented with a hollow, domed/conical disc.
+- **Mallows (Malvaceae):** exactly **two** mallow-family plants are on Colorado's noxious weed
+  lists, both **List C** — **velvetleaf** (*Abutilon theophrasti*) and **Venice mallow / flower-of-
+  an-hour** (*Hibiscus trionum*). Both are weedy annuals of cropland and disturbed ground, and
+  velvetleaf seed stays viable in soil for 50+ years. Nothing else in the family is listed: the
+  garden and native mallows this guide carries — *Callirhoe*, *Sphaeralcea*, *Alcea*, *Althaea*,
+  *Malva moschata*, *Sidalcea*, *Iliamna*, *Hibiscus moscheutos* and *H. syriacus* — are all clear
+  (verified 2026-08-04). **The one that needs care is *Hibiscus*:** the ornamental *H. moscheutos*
+  and *H. syriacus* are fine, but their small yellow-flowered relative *H. trionum* is the listed
+  weed — don't let a "hibiscus is fine" shortcut wave it through. Note also that ***Malva neglecta***
+  (common mallow) is a familiar lawn and sidewalk weed but is **not** state-listed, and that **rose
+  of Sharon self-sows hard and is invasive in several eastern states** without being CO-listed —
+  that one is a management note in its entry, not a weed-check failure.
 
 ## Trusted resources
 
@@ -1116,7 +1147,7 @@ ground every statement in an authority cited in `references`.
 
 ## Current plant roster (in the live site)
 
-**318 specimens** (`plants/manifest.json` is the source of truth for the exact count), all verified
+**328 specimens** (`plants/manifest.json` is the source of truth for the exact count), all verified
 non-weed in CO and all carrying a full `care` block (incl.
 `planting` + `propagation`) **and a repo-hosted photo reel** (close-up + structure, seasonal
 where good shots exist). Every plant's detail page is **fully cited** — a numbered
@@ -1589,6 +1620,67 @@ open data; 8–9 CC shots each, phenology- and month-targeted passes for foliage
 720×480 smart-crop thumbs. `check_refs` guide-wide PASS (0 errors, 0 warnings); `check_citations` on the
 five PASS (18 OK, 0 DEAD).
 
+**Mallows batch (August 2026):** on a user request to add **purple poppy mallow** (*Callirhoe
+involucrata*) "and other mallows", added **ten** Malvaceae and created **two** new family cards
+(roster 318 → **328**). The requested plant is a genuine **CO native** and a **Plant Select**
+introduction — a 6–12 in mat that sprawls to 4–5 ft and opens wine-magenta chalices from April to hard
+frost over a woody taproot up to 5 in thick; CSU Extension fact sheet 7.242 lists it among the native
+herbaceous perennials recommended for Colorado landscapes. New cards: **`globemallows`** (homed in
+Summer forbs, lead = the existing scarlet-globemallow) folding the CO-native *Sphaeralcea coccinea*
+together with **Munro's globemallow** (*S. munroana*) and **gooseberryleaf globemallow**
+(*S. grossulariifolia*); and **`hollyhocks`** (lead = the existing hollyhock) folding *Alcea rosea*
+together with **Russian hollyhock** (*A. rugosa*, the rust-resistant pale-yellow species). New
+standalones: **musk mallow** (*Malva moschata*), **marshmallow** (*Althaea officinalis*), **rose
+mallow / hardy hibiscus** (*Hibiscus moscheutos*), **rose of Sharon** (*H. syriacus*, a Shrub, so it
+carries `pruning`), and the two CO natives **white checkerbloom** (*Sidalcea candida*) and
+**streambank wild hollyhock** (*Iliamna rivularis*).
+
+**The batch's throughline is that "mallow" tells you nothing about water.** These ten split into two
+camps and the `water` directives say so plainly: the **xeric** ones (purple poppy mallow and both
+globemallows — taprooted, no supplemental water once established, killed by wet feet rather than by
+cold) and the **thirsty** ones — **rose mallow** is an *obligate wetland* species that also wants
+**slightly acidic** soil (pH below ~6.8), a double mismatch for Boulder's alkaline clay, so its care
+makes the winter-heath-style call that a large pot of acidic mix is the honest route; **marshmallow**
+is rated "High — moist to wet soil, not for dry zones"; **white checkerbloom** is a wetland-indicator
+streambank plant at moderate-to-high water; **streambank wild hollyhock** is a montane streamside
+plant with a low calcium-carbonate tolerance. Other honesty calls: **rose of Sharon self-sows
+prolifically** — NC State tags it weedy/aggressive and reports it invasive in Virginia and Kentucky,
+so its `selfsow` field says so outright and points at sterile cultivars (it is **not** CO-listed);
+**Russian hollyhock's** rust resistance is stated as *reportedly* resistant, not immune, because that
+is exactly how MBG frames it; and **streambank wild hollyhock is NOT deer resistant** — USDA-FS FEIS
+records it as heavily browsed by elk and mule deer and highly preferred by sheep and cattle, which
+overrides any generic native-plant assumption. Its seed also **requires heat to germinate** and stays
+viable in soil for *at least a few hundred years*, which is why it erupts after wildfire.
+**Provenance calls:** *S. munroana* reaches only **western** Colorado and *S. grossulariifolia* not at
+all, so both are `Non-native` per the witch-hazel convention, while *Sidalcea candida* and *Iliamna
+rivularis* are genuine Colorado natives (the Parry's-primrose precedent — a CO native that is montane
+rather than Boulder-local still reads `CO native`).
+
+**Edibility** splits three ways: **marshmallow** and **musk mallow** are `edible`/`food` (the
+marshmallow root really is the original confection — MBG documents it cooked with honey — with the
+honest caveat that its mucilage can slow absorption of oral medicines); **Russian hollyhock** and
+**rose of Sharon** are `caution`/`food`, deliberately *not* promoted to plain `edible` because the
+documented culinary record belongs to *Alcea rosea* and to east-Asian tradition rather than to any
+extension authority for those two species; and the remaining six are `inedible`, each caution
+explicitly forbidding reasoning across from the edible mallows. **Do not reason from *Hibiscus
+sabdariffa* (roselle, the tea hibiscus) to either garden hibiscus** — that is called out in rose
+mallow's caution.
+
+**Three wrong-plant citation traps caught here**, alongside the burnets' `SACA13`/`SAME2`: MBG
+**kempercode `a752` serves hay-scented fern**, not poppy mallow (the correct *Callirhoe involucrata*
+page is **`taxonid=282616`**); LBJ **`SICA5` is *Silene campanulata*** (Red Mountain catchfly), not
+*Sidalcea candida* — the right symbol is **`SICA3`**; and RHS **`/plants/8898/` serves *Hydnophytum
+tetrapterum***, not *Hibiscus syriacus*. Also note **MBG has moved**:
+`www.missouribotanicalgarden.org/PlantFinder/…` now 301s to **`plantfinder.mobot.org/…`**, so cite the
+new host directly. Photos via `tools/inat_montage.py` (iNat open data) with phenology- and
+month-targeted passes for foliage, seed and winter shots; **8–9 CC shots each, 85 images**, 720×480
+smart-crop thumbs, seasons assigned from each observation's real capture date. Rose mallow and rose of
+Sharon carry genuine **winter** shots (split star-shaped capsules on bare stems). Pick QC dropped two
+thumbs that failed the reject list — a "bumblebee" shot whose bee fell outside the 3:2 crop, and a
+foliage shot on asphalt. `check_refs` guide-wide PASS (0 errors, 0 warnings); `check_citations` on the
+ten PASS (25 OK, 3 REVIEW, 0 DEAD — the REVIEWs are two generic CSU xeriscape framing cites and the
+USDA NRCS **PDF**, opened and verified by hand to be the right species).
+
 **Trees**
 - River hawthorn (*Crataegus rivularis*) (N) — Thorny native small tree; white spring flowers, dark edible haws, superb wildlife cover. A caterpillar keystone (~90 Lepidoptera). *(Riparian — wants more water; edible haws, spit the cyanogenic seeds.)*
 - Chokecherry (*Prunus virginiana*) (N) — Wildlife powerhouse: fragrant white flower racemes, dark…
@@ -1642,6 +1734,7 @@ five PASS (18 OK, 0 DEAD).
 - Hedge cotoneaster (*Cotoneaster lucidus*) (I) — The Front Range's classic tall privacy hedge: dense upright Asian shrub, glossy leaves, small black berries, fiery scarlet fall color; shears beautifully. *(Berries mildly poisonous — cyanogenic, bird-spread; fire-blight-prone rose relative.)*
 - Shrubby St. John's wort (*Hypericum prolificum*) (I) — Tough, adaptable little mound smothered in bright golden powder-puff flowers all summer, then rusty seed capsules that persist through winter; a native-bee magnet. *(E/central-US native, NOT Front-Range; blooms on new wood — prune late winter. Toxic — hypericin photosensitization; NOT the weedy H. perforatum.)*
 
+- Rose of Sharon (*Hibiscus syriacus*) (I) — Upright vase-shaped shrub that saves its show for late summer: weeks of dark-eyed hollyhock-like blooms in white, pink, lavender or wine, then split brown seed capsules on bare stems all winter. *(Blooms on NEW wood — prune late winter. Self-sows prolifically: deadhead, or choose a sterile cultivar. Caution — petals & young leaves edible, but not a documented crop.)*
 **Subshrubs**
 - Mongolian Gold clematis (*Clematis fruticosa 'Mongolian Gold'*) (I) — A non-vining SHRUB clematis from the Mongolian steppe: nodding bright-yellow lantern flowers in late summer over a tidy woody clump, then silvery seed plumes; bone-dry xeric, iron cold-hardy. *(A true shrub, NOT the vining CO List-B weed C. orientalis; Pruning Group 3 — hard spring cutback; toxic — protoanemonin. Photos species-representative — see `gaps`.)*
 - Ornamental oregano 'Herrenhausen' (*Origanum laevigatum 'Herrenhausen'*) (I) — Hardy xeric ornamental oregano; rose-purple flowers over dark bracts swarm with bees/butterflies late summer, foliage reddens in fall. *(Ornamental oreganos family card; edible but milder than culinary oregano.)*
@@ -1831,6 +1924,15 @@ five PASS (18 OK, 0 DEAD).
 - Martagon lily (*Lilium martagon*) (I) — Tall woodland-edge true lily; a single stem hung with up to 30 nodding, fully recurved 'Turk's cap' flowers, rosy-pink freckled maroon, over whorled leaves. *(Part-shade, moist humus-rich soil — not xeric; tolerates alkaline clay, so one of the better lilies here; DEADLY to cats like all true lilies.)*
 - Himalayan blue poppy (*Meconopsis betonicifolia*) (I) — The legendary sky-blue Himalayan poppy; satiny azure chalices with an orange stamen boss over bristly foliage. *(Kept-but-flagged like winter heath: cold-hardy here but hates our heat/dry air/alkaline clay — grow it potted in acidic mix, cool shade, constantly moist. Inedible — poppy-family alkaloids.)*
 
+- Purple poppy mallow (*Callirhoe involucrata*) (N) — A Plant Select native: a ground-hugging 4–5 ft mat of finely cut leaves opening satiny wine-magenta chalices from April to hard frost. *(Xeric — a woody taproot up to 5 in thick; crown rot in wet ground is the only real risk. `aka` Winecups. Inedible.)*
+- Munro's globemallow (*Sphaeralcea munroana*) (I) — The tall cousin of our native scarlet globemallow: grey-felted wands hung with apricot-orange cups, a magnet for specialist globemallow bees. *(Globemallows family card; Great Basin native reaching only western CO, so Non-native. Xeric. Scarify the seed — impermeable coat. Stellate hairs irritate eyes.)*
+- Gooseberryleaf globemallow (*Sphaeralcea grossulariifolia*) (I) — The most intensely coloured globemallow: stiff wands of orange-to-brick-red cups over grey-white currant-shaped leaves. *(Globemallows family card; a true alkaline-soil desert plant, so our high-pH clay is an asset. Not a gooseberry, and no edible fruit.)*
+- Russian hollyhock (*Alcea rugosa*) (I) — The hollyhock to grow if rust has ruined the others: 4–9 ft unbranched spires of soft pale-yellow saucers over rough wrinkled basal leaves. *(Hollyhocks family card; *reportedly* rust-resistant, not immune. Won't take wet winter soil; self-seeds into colonies. Caution/edible petals & young leaves.)*
+- Musk mallow (*Malva moschata*) (I) — Bushy cottage mallow flowering three solid months in rose-pink or pure white over finely cut musk-scented foliage; covered in bees. *(Short-lived — it persists by seeding around. Edible young leaves, flowers & green seed 'cheeses'.)*
+- Marshmallow (*Althaea officinalis*) (I) — The original marshmallow: velvety grey-green leaves and pale pink saucers over a mucilage-rich root that really was boiled with honey into the confection. *(High water — a wetland plant, NOT for dry zones. Edible root, young leaves & flowers; mucilage can slow absorption of oral medicines.)*
+- Rose mallow (*Hibiscus moscheutos*) (I) — The hardy hibiscus: dies to the ground each winter, emerges very late, then opens dinner-plate white-to-pink flowers with a crimson eye. *(An OBLIGATE wetland plant that also wants slightly acidic soil — a double mismatch for alkaline clay, so grow it potted in acid mix or in a rain garden. Winter capsules. Inedible.)*
+- White checkerbloom (*Sidalcea candida*) (N) — Colorado's own white mallow: dense spires of clean white saucers opening bottom-up May–September over deeply cut palmate leaves. *(A streambank/wet-meadow native — moderate to high water, not xeric. Special value to native bees. Inedible.)*
+- Streambank wild hollyhock (*Iliamna rivularis*) (N) — Colorado's wild hollyhock: stout stems, big maple-like leaves and crowded spikes of pale pink to rose-purple mallow flowers along montane streambanks and burns. *(Moist rich soil + part shade, not xeric. NOT deer resistant — elk and deer browse it hard. Fire-activated seed viable for centuries. Inedible.)*
 **Fall forbs**
 - Canadian burnet (*Sanguisorba canadensis*) (I) — The tallest and latest burnet; long creamy-white bottlebrush candles opening bottom-up in late summer and holding into October, over big blue-green pinnate leaves. *(Burnets family card; a genuine bog/wet-meadow plant — "High — moist to wet soil, not for dry zones", the thirstiest of the group; eastern-N.A. native, not Front-Range; rare/threatened in nine states, so buy nursery-propagated; inedible.)*
 - Tansyaster (*Dieteria bigelovii*) (N) · **Biennial** — Big lavender, gold-eyed daisies on branching stems into fall; a self-sowing xeric native and late-season specialist-bee plant.
@@ -1881,6 +1983,20 @@ The current backlog. Move items out of this section as they ship.
   shot for a capped axis ever surfaces, re-query the iNat API (the fast path above) and append it
   with `gbif_add.py`. (Watch the *Veronica liwanensis* look-alike: only pick shots verifiable as
   the tiny-glossy-leaved tight mat, not the coarse-leaved *V. persica*.)
+- **SPREADS badge false-positives (28 plants, pre-existing).** The `spreads` predicate in `reel.js`
+  regex-matches `run|rhizom|sucker|thicket|mat-form` against the `spread` prose, so **28 existing
+  plants whose `spread` says they do *not* run currently show the SPREADS badge and match the
+  Traits→Spreads filter** — e.g. `perennials/butterfly-milkweed` ("does NOT run like showy
+  milkweed"), `perennials/compass-plant` ("does not run"), the four currants/gooseberries ("does not
+  run or self-sow"), `shrubs/smoke-tree`, `vines/dropmore-honeysuckle`, `perennials/fernleaf-yarrow`
+  ("Clump-forming, NOT running"). Two ways to fix, and it needs a deliberate choice rather than a
+  drive-by patch, since it changes badges **and** faceted filter counts guide-wide: (a) reword those
+  28 `spread` fields positively (safe, no code change — see the negation gotcha under "Adding a
+  trait"), or (b) make the predicate strip negated clauses before testing, which is less repetitive
+  but needs a careful re-audit — a naive strip flips `groundcovers/woolly-yarrow` and
+  `perennials/white-prairie-aster` **off**, and both arguably *should* stay on. Whichever way, re-run
+  the audit and eyeball the resulting Spreads chip count.
+
 - **Trim the batch-1 fulls:** a few early full images (e.g. dogwood `wi-stems.jpg`,
   little-bluestem) were saved at q85/1500px (~0.8 MB); later batches use q82/1400px.
   Re-running those through `finalize.py` would shave repo weight if it matters.

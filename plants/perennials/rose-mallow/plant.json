@@ -1,0 +1,200 @@
+{
+  "common": "Rose mallow",
+  "botanical": "Hibiscus moscheutos",
+  "type": "Forb",
+  "lifecycle": "Perennial",
+  "native": "Non-native",
+  "aka": [
+    "Hardy hibiscus",
+    "Swamp rose-mallow",
+    "Crimson-eyed rose-mallow",
+    "Dinner-plate hibiscus"
+  ],
+  "origin": "Eastern and southeastern United States — Florida to Texas, north to New Jersey, West Virginia, Ohio and Indiana",
+  "habitat": "Swampy forests, wet meadows and marshes — an obligate wetland plant",
+  "flower_color": [
+    "white",
+    "pink",
+    "red"
+  ],
+  "bloom": [
+    "summer",
+    "fall"
+  ],
+  "bloom_season": "Summer",
+  "blurb": "The hardy hibiscus: a shrubby perennial that dies to the ground each winter, comes up late, then opens dinner-plate flowers up to 8 inches across, white to deep pink with a crimson eye. A marsh plant at heart — spectacular here, but only if you can keep it genuinely wet.",
+  "size": "~3–6 ft tall × 2–5 ft wide",
+  "sun": "Full sun to part shade",
+  "water": "High — moist to wet soil, low drought tolerance; not for dry zones",
+  "spread": "Clumping; the crown widens slowly but stays a single clump",
+  "seasons": "Huge white-to-pink crimson-eyed flowers July–September; late to emerge in spring; woody stems and split star-shaped seed capsules stand through winter",
+  "wildlife": "Hummingbirds, butterflies and bees; larval host for 28 butterfly and moth species; native bees nest in the dead stems",
+  "deer": "Occasionally browsed by deer",
+  "toxic": "",
+  "winter": true,
+  "verified": "2026-08-04",
+  "ph": {
+    "min": 5.5,
+    "ideal": 6.3,
+    "max": 7.0
+  },
+  "care": {
+    "hardiness": "Rated USDA zones 4a–9b, so it is fully cold-hardy at Boulder's zone 5b–6a — the roots take our winters without protection. Cold is not the constraint on this plant; water and soil pH are.[1][2]",
+    "planting": "Plant in spring after the mid-May last frost, into ground you have prepared to hold moisture. Be patient in spring: clumps start into growth late in the season, later than almost anything else in the border, so mark the crown and don't dig it up assuming it died. In a container it needs a large pot, a moisture-retentive mix and watering that does not lapse — a hot Front Range patio will dry a pot faster than this plant can tolerate.[2][1]",
+    "sun": "Full sun to part shade — six or more hours gives the most flowers, while a little afternoon shade reduces its water demand here, which on the Front Range is a worthwhile trade.[1][2]",
+    "soil": "Well-draining loam high in organic matter, and slightly acidic: the Wildflower Center gives moist to wet, slightly acidic soils (pH below about 6.8). That is a real mismatch for Boulder's alkaline clay, so work in generous compost and be prepared to see iron chlorosis — yellowing leaves with green veins — in high-pH ground. In a bed you can't acidify, growing it in a large container of acidic mix is the more honest approach, the same call this guide makes for winter heath.[2][1]",
+    "water": "High. It is classed an obligate wetland species with low drought tolerance, native to marshes and wet meadows — it is not a plant you can wean off water here. Plan on a spot that stays reliably moist: a rain-garden basin, a downspout outfall, a pond edge or a dedicated drip line running all summer. Let it dry out badly once in July and it will drop buds and leaves.[2][1]",
+    "spacing": "Space 3 ft apart. Plants reach 2–5 ft across, and good airflow between them helps with the leaf spots and rust it is prone to.[1]",
+    "propagation": "By seed or by tip cuttings. Seed germinates readily — collect it when the capsules have matured and the seed has turned dark brown. Tip cuttings taken in early July root readily under adequate mist. Named cultivars must be taken from cuttings, since seedlings won't come true.[2]",
+    "sow": "Sow collected dark-brown seed in fall or start indoors in early spring in warmth; nick or soak the hard coat first. Keep the medium consistently moist, matching the wetland conditions the seedlings expect.[2]",
+    "bloom": "July into September in enormous flowers — white, pink, red or burgundy, each with a conspicuous band of red or burgundy at the base of the petals. Individual blooms are short-lived, lasting about a day, but the plant carries on opening them for roughly a month or more.[2][1]",
+    "feeding": "It appreciates fertility, unlike most of this guide's mallows: a spring topdress of compost feeds it and helps hold soil moisture at once. In alkaline ground an iron chelate can correct chlorosis while you work on the soil.[1][2]",
+    "maintenance": "Pinch the growing tips early for a bushier, better-branched plant and deadhead spent flowers. Cut the stems nearly to the ground — but do that in spring rather than fall if you can: the dried stems and split star-shaped capsules are genuinely good winter structure, and NC State notes native bees nest in the dead stems. Mulch well to conserve moisture.[1]",
+    "troubles": "Japanese beetles and sawfly caterpillars chew the foliage; whiteflies, aphids and scale turn up occasionally, and it is susceptible to leaf spots and rust. On the Front Range the more common complaints are cultural rather than pest — iron chlorosis in alkaline soil, and bud drop from drying out.[1][2]"
+  },
+  "references": [
+    {
+      "name": "NC State Extension Plant Toolbox — Hibiscus moscheutos",
+      "url": "https://plants.ces.ncsu.edu/plants/hibiscus-moscheutos/"
+    },
+    {
+      "name": "Lady Bird Johnson Wildflower Center — Hibiscus moscheutos",
+      "url": "https://www.wildflower.org/plants/result.php?id_plant=HIMO"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      1,
+      2
+    ],
+    "sun": [
+      1,
+      2
+    ],
+    "water": [
+      2,
+      1
+    ],
+    "spread": [
+      1
+    ],
+    "seasons": [
+      2,
+      1
+    ],
+    "wildlife": [
+      1,
+      2
+    ],
+    "deer": [
+      1
+    ],
+    "ph": [
+      2
+    ],
+    "origin": [
+      2
+    ],
+    "habitat": [
+      2
+    ]
+  },
+  "edible": {
+    "level": "inedible",
+    "food": false,
+    "summary": "No documented culinary use for this species; grown as an ornamental. NC State records no toxicity to cats, dogs or horses.[1]",
+    "caution": "Rose mallow is not documented as a food plant by the authorities consulted, so this guide treats it as inedible — don't eat it. It is not notably poisonous either: NC State lists no toxicity concern. Do not reason across from the tropical *Hibiscus sabdariffa* (roselle), whose fleshy red calyces make hibiscus tea, or from *H. syriacus*, whose flowers are sometimes eaten — those are different species with their own records, and neither transfers to this one.[1][2]"
+  },
+  "shots": [
+    {
+      "local": "images/su-flower-t.jpg",
+      "full": "images/su-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/148132069/large.jpg",
+      "s": "summer",
+      "cap": "Summer — pale pink bloom with its crimson eye, face-on · © unkelbob (CC-BY-NC) / iNaturalist",
+      "by": "unkelbob",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/89689232"
+    },
+    {
+      "local": "images/su-flower2-t.jpg",
+      "full": "images/su-flower2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/549347958/large.jpg",
+      "s": "summer",
+      "cap": "Summer — the white form with a red eye · © Rodney Haynes (CC-BY-NC) / iNaturalist",
+      "by": "Rodney Haynes",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/304713606"
+    },
+    {
+      "local": "images/fa-flower3-t.jpg",
+      "full": "images/fa-flower3.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/50180034/large.jpg",
+      "s": "fall",
+      "cap": "Fall — a big pink dinner-plate flower · © Joe Rowlett (CC-BY-NC) / iNaturalist",
+      "by": "Joe Rowlett",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/32021253"
+    },
+    {
+      "local": "images/su-mass-t.jpg",
+      "full": "images/su-mass.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/222477361/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — a mass of bloom · © fredatwood (CC-BY-NC) / iNaturalist",
+      "by": "fredatwood",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/130789585"
+    },
+    {
+      "local": "images/su-bee-t.jpg",
+      "full": "images/su-bee.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/145421458/large.jpg",
+      "s": "summer",
+      "cap": "Summer — a bumblebee deep inside a white flower · © Jonathan Berenguer Uhuad Koch (CC-BY-NC) / iNaturalist",
+      "by": "Jonathan Berenguer Uhuad Koch",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/88158847"
+    },
+    {
+      "local": "images/su-bud-t.jpg",
+      "full": "images/su-bud.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/420042400/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — a flower bud among the broad leaves · © Bill MacIndewar (CC-BY-NC) / iNaturalist",
+      "by": "Bill MacIndewar",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/236127236"
+    },
+    {
+      "local": "images/su-habitat-t.jpg",
+      "full": "images/su-habitat.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/147677100/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — plants standing in a reedy marsh · © wadesworld19 (CC-BY-NC) / iNaturalist",
+      "by": "wadesworld19",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/89428197"
+    },
+    {
+      "local": "images/fa-capsules-t.jpg",
+      "full": "images/fa-capsules.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/334145997/large.jpeg",
+      "s": "fall",
+      "cap": "Fall — dried seed capsules on winter stems · © no rights reserved (CC0) / iNaturalist",
+      "by": "no rights reserved",
+      "lic": "CC0",
+      "link": "https://www.inaturalist.org/observations/190587329"
+    },
+    {
+      "local": "images/wi-seed-t.jpg",
+      "full": "images/wi-seed.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/109656522/large.jpg",
+      "s": "winter",
+      "cap": "Winter — an opened star-shaped seed capsule · © Devon Cummings (CC-BY-NC) / iNaturalist",
+      "by": "Devon Cummings",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/67810395"
+    }
+  ]
+}

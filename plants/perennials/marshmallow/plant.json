@@ -1,0 +1,199 @@
+{
+  "common": "Marshmallow",
+  "botanical": "Althaea officinalis",
+  "type": "Forb",
+  "lifecycle": "Perennial",
+  "native": "Non-native",
+  "aka": [
+    "Marsh mallow",
+    "Marsh-mallow",
+    "Common marshmallow",
+    "White mallow"
+  ],
+  "origin": "Europe and northern Africa, east into western Asia",
+  "habitat": "Ditches, streambanks, brackish wetlands and swamp margins — moist, disturbed ground",
+  "flower_color": [
+    "white",
+    "pink"
+  ],
+  "bloom": [
+    "summer",
+    "fall"
+  ],
+  "bloom_season": "Summer",
+  "blurb": "The original marshmallow — a stately herb-garden perennial of velvety grey-green leaves and pale pink saucers whose mucilage-rich root really was boiled with honey to make the confection. A genuine wetland plant, so it wants the damp corner, not the dry one.",
+  "size": "~3–6 ft tall × 2.5–4 ft wide",
+  "sun": "Full sun",
+  "water": "High — moist to wet soil; not for dry zones",
+  "spread": "Clumping and upright; expands slowly at the crown",
+  "seasons": "Pale pink saucers July–September; velvety grey-green foliage all summer; dried seed stalks stand into winter",
+  "wildlife": "Bees and butterflies work the flowers",
+  "deer": "Not reliably deer resistant",
+  "toxic": "",
+  "winter": false,
+  "verified": "2026-08-04",
+  "ph": {
+    "min": 6.0,
+    "ideal": 7.0,
+    "max": 8.0
+  },
+  "care": {
+    "hardiness": "Rated USDA zones 3–9, so it is bone-hardy at Boulder's zone 5b–6a. The limit here is not cold but moisture: this is a plant of ditches, streambanks and brackish wetlands, and semi-arid Colorado is the opposite of its native ground.[1][2]",
+    "planting": "Plant in spring after the mid-May last frost, or in early fall, in moist fertile soil in full sun. Choose the site deliberately — the low, damp corner, a downspout outfall, the edge of a rain garden or a spot on a drip line you never turn off. In a container it needs a big pot and near-constant moisture; a standard pot on a hot Front Range patio will dry out faster than the plant can cope with.[1][2]",
+    "sun": "Full sun for the sturdiest stems and the best flowering; it will take a little shade, which slightly reduces its water demand here.[1][2]",
+    "soil": "Moist, fertile soil, and unusually for this guide it genuinely wants the richer end — work compost in rather than grit. Once established it tolerates a range of soil types, and it is naturally a plant of brackish, silty wetland ground, so heavy soil that holds water is an asset instead of a problem.[1]",
+    "water": "High, and this is the honest headline for the plant: MBG rates it medium to wet, tolerant only of brief drought once established. On the Front Range that means a real, ongoing water cost through July and August — do not plant it in a xeric bed and expect it to carry on. Arkansas Extension's growing note is simply decent soil, full sun and water during dry spells; here the dry spell is most of the summer.[1][2]",
+    "spacing": "Space 2.5–3 ft apart — it is a substantial plant, 3–6 ft tall and up to 4 ft across, and crowding it invites the foliar rust it is prone to.[1]",
+    "propagation": "By seed, by division of the crown in spring or fall, or by root cuttings — the thick fleshy roots make division straightforward, unlike the taprooted xeric mallows in this guide. Divide every few years if the clump opens out in the middle.[1][2]",
+    "sow": "Sow outdoors in fall so the seed gets natural winter chilling, or start indoors in spring; the hard mallow seed coat benefits from a scratch or an overnight soak before sowing. Keep the seedbed genuinely moist — it will not tolerate the dry surface most Front Range sowings get.[1]",
+    "bloom": "July to September, in pale pink flowers about 1.5 in across, borne singly or in small clusters in the upper leaf axils. The bloom is quietly pretty rather than showy; the velvety foliage carries the plant.[1]",
+    "feeding": "Unlike most of this guide's mallows it appreciates fertility. A spring topdress of compost suits it, in keeping with its preference for moist, fertile ground.[1]",
+    "maintenance": "Low. Cut the stems down after frost, or leave the dried seed stalks standing for winter structure and clear them in early spring. Mulch to hold soil moisture — that does more for this plant here than anything else. Tall stems may need support in a windy site.[1][2]",
+    "troubles": "No major problems, but watch for foliar rusts and flea beetles. Rust is the one to take seriously in a crowded, damp planting: space plants for airflow, water at the base rather than over the leaves, and clear infected foliage rather than composting it.[1]"
+  },
+  "references": [
+    {
+      "name": "Missouri Botanical Garden Plant Finder — Althaea officinalis",
+      "url": "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=282618"
+    },
+    {
+      "name": "University of Arkansas Cooperative Extension — Plant of the Week: Marsh Mallow (Althaea officinalis)",
+      "url": "https://www.uaex.uada.edu/yard-garden/resource-library/plant-week/marsh-mallow.aspx"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      1
+    ],
+    "sun": [
+      1,
+      2
+    ],
+    "water": [
+      1,
+      2
+    ],
+    "spread": [
+      1
+    ],
+    "seasons": [
+      1
+    ],
+    "wildlife": [
+      1
+    ],
+    "ph": [
+      1
+    ],
+    "origin": [
+      1
+    ],
+    "habitat": [
+      1
+    ]
+  },
+  "edible": {
+    "level": "edible",
+    "food": true,
+    "kinds": [
+      "roots",
+      "leaves",
+      "flowers"
+    ],
+    "card": "Mucilaginous root (the original marshmallow), young leaves & flowers",
+    "summary": "The mucilage-rich root is the original marshmallow confection — historically cooked with honey into a sweet — and all parts contain mucilage usable to thicken dishes.[1][2]",
+    "caution": "This is a genuine food and medicinal plant with a long record: MBG notes marsh mallow roots were cooked with honey to create the sweet confection that gave modern marshmallows their name (today's version contains none of the plant), and that all parts contain mucilage that can be used for thickening. Roots and leaves were traditionally used to soothe inflamed mucous membranes of the mouth, throat and stomach. Two honest limits. First, the mucilage that makes it useful can also coat the gut and slow the absorption of other medicines — take it well apart from any oral medication, and check with a clinician if you are on prescription drugs, pregnant or nursing, since the traditional record is not a safety study. Second, dig roots only from a plant you raised yourself and know is unsprayed; wild mallows colonize ditches and roadsides where runoff collects. Give a plant two or three years before harvesting a root, or you will simply kill it.[1][2]"
+  },
+  "shots": [
+    {
+      "local": "images/su-flower-t.jpg",
+      "full": "images/su-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/405833079/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — pale pink flowers in close detail · © no rights reserved (CC0) / iNaturalist",
+      "by": "no rights reserved",
+      "lic": "CC0",
+      "link": "https://www.inaturalist.org/observations/228682261"
+    },
+    {
+      "local": "images/fa-flower2-t.jpg",
+      "full": "images/fa-flower2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/426765081/large.jpeg",
+      "s": "fall",
+      "cap": "Fall — a flower face-on · © Luke (CC-BY) / iNaturalist",
+      "by": "Luke",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/239388032"
+    },
+    {
+      "local": "images/fa-spike-t.jpg",
+      "full": "images/fa-spike.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/175072852/large.jpg",
+      "s": "fall",
+      "cap": "Fall — flowers along the stem among velvety leaves · © no rights reserved (CC0) / iNaturalist",
+      "by": "no rights reserved",
+      "lic": "CC0",
+      "link": "https://www.inaturalist.org/observations/104479803"
+    },
+    {
+      "local": "images/sp-foliage-t.jpg",
+      "full": "images/sp-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/504643151/large.jpg",
+      "s": "spring",
+      "cap": "Spring — the grey-green velvety foliage clump · © Mario Klesczewski (CC-BY-NC) / iNaturalist",
+      "by": "Mario Klesczewski",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/280946117"
+    },
+    {
+      "local": "images/su-habitat-t.jpg",
+      "full": "images/su-habitat.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/121027819/large.jpg",
+      "s": "summer",
+      "cap": "Summer — plants standing in a wet reedbed · © csdeant (CC-BY-NC) / iNaturalist",
+      "by": "csdeant",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/74077797"
+    },
+    {
+      "local": "images/su-mass-t.jpg",
+      "full": "images/su-mass.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/151413276/large.jpg",
+      "s": "summer",
+      "cap": "Summer — a stand in full flower · © odmitrie (CC-BY-NC) / iNaturalist",
+      "by": "odmitrie",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/91161132"
+    },
+    {
+      "local": "images/su-leaves-t.jpg",
+      "full": "images/su-leaves.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/223637297/large.jpg",
+      "s": "summer",
+      "cap": "Summer — flowers among broad soft leaves · © Alexander Baransky (CC-BY-NC) / iNaturalist",
+      "by": "Alexander Baransky",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/131414908"
+    },
+    {
+      "local": "images/su-stalk-t.jpg",
+      "full": "images/su-stalk.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/551062611/large.jpg",
+      "s": "summer",
+      "cap": "Summer — the dried seed stalk · © Tobias Bauer (CC-BY-NC) / iNaturalist",
+      "by": "Tobias Bauer",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/305622204"
+    },
+    {
+      "local": "images/fa-seed-t.jpg",
+      "full": "images/fa-seed.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/584166871/large.jpg",
+      "s": "fall",
+      "cap": "Fall — seed capsules browning on the stem · © zebedeugalinha (CC-BY) / iNaturalist",
+      "by": "zebedeugalinha",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/322875843"
+    }
+  ]
+}

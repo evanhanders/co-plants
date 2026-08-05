@@ -2118,12 +2118,28 @@ The current backlog. Move items out of this section as they ship.
   shot for a capped axis ever surfaces, re-query the iNat API (the fast path above) and append it
   with `gbif_add.py`. (Watch the *Veronica liwanensis* look-alike: only pick shots verifiable as
   the tiny-glossy-leaved tight mat, not the coarse-leaved *V. persica*.)
-- **Trim the batch-1 fulls:** a few early full images (e.g. dogwood `wi-stems.jpg`,
-  little-bluestem) were saved at q85/1500px (~0.8 MB); later batches use q82/1400px.
-  Re-running those through `finalize.py` would shave repo weight if it matters.
-- **Thumbnail weight:** the 720×480 card thumbs total ~6.3 MB (up from ~2 MB at 400px).
-  Fine for now; if repo weight matters, `rethumb.py` can drop to 640px or lower JPEG
-  quality — a small sharpness-for-size trade on high-DPI screens.
+- **Image weight — measured August 2026; both old TODOs are now resolved, don't re-open them
+  from the stale numbers.** The old notes here quoted a 68-plant roster ("thumbs total ~6.3 MB")
+  and were off by two orders of magnitude. Current actuals at 359 plants: **2,632 fulls = 673 MB,
+  2,632 thumbs = 246 MB, `.git` = ~958 MB.**
+  - **Batch-1 fulls: DONE.** All 99 stragglers still at 1500px were brought to the documented
+    **1400px / q82** standard, each **re-derived from its remote `url`/`commons` source** rather
+    than resized in place, so they are a single generation from the original instead of a double
+    compression. Saved 5.6 MB; verified every one is still the same photograph (mean pixel diff
+    ≤2.2/255 against the previous committed version, plus a visual before/after check).
+  - **Thumbnail weight: measured and deliberately NOT reduced.** Do not "optimise" these without
+    re-reading this. Progressive/optimised JPEG is **not** a free win — at equal quality it came
+    out *2.5% larger* in testing, and pixel-identical, so there is nothing to gain there. The only
+    real levers are quality or dimensions, and both are visible on every card: q84→80 saves ~13 MB,
+    q84→75 saves ~31 MB, dropping to 640px costs retina sharpness the guide chose 720×480 for on
+    purpose. Trading crispness on 2,632 card images for ~1–2% of a 1.9 GB repo is a bad deal, so
+    the thumbs stay at **720×480 / q84**. If repo size ever genuinely has to come down, the targets
+    are the 673 MB of fulls and the ~958 MB of `.git` image history — not the thumbs.
+- **Commons `Special:FilePath` needs percent-encoding.** When rebuilding an image from a `commons:`
+  filename, `urllib` throws *"URL can't contain control characters"* on any name with a space or
+  apostrophe — and most cultivar filenames have both (`Prunus cerasus 'Montmorency' 01.jpg`). Build
+  the URL as `Special:FilePath/` + `urllib.parse.quote(name.replace(' ', '_'))`. This silently failed
+  85 of 99 files on the first pass of the trim above.
 
 ## Quick conventions recap
 

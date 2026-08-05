@@ -482,15 +482,49 @@ driven off one predicate so they can't drift. To add one (e.g. `Fragrant`):
    `mode:'and'`) or `edible` (the Edibility facets, `mode:'or'`); each group lists its keys explicitly
    and maps them to `TRAITS`. `passesFilters()` tests `TRAITS[t].test(p)`, and the per-group URL-hash
    round-trip + faceted counts + Clear-all then cover it automatically.
-**Gotcha — negation false-matches in derived predicates.** Several traits are *derived by regex from
-prose fields*, so a **negated** phrase still matches. The live example: `spreads` tests
-`/run|rhizom|sucker|thicket|mat-form/i` against `spread`, so writing "**does not run**" or "**not
-rhizomatous**" turns the SPREADS badge **on** for a plant whose own data says the opposite (the regex
-sees `run` / `rhizom` and has no idea it was negated). **When you write `spread`, state the habit
-positively and don't reach for the trigger words to deny them** — say "Clumping; spreads only by seed,
-never at the root" rather than "not rhizomatous", and "widens as a single crown" rather than "does not
-run". Sanity-check the badge after adding a plant. The same care applies to any future regex-derived
-trait (e.g. a `Fragrant` test against `blurb`).
+**Gotcha — negation false-matches in derived predicates. WRITE `spread` POSITIVELY.** Several traits
+are *derived by regex from prose fields*, and a regex cannot see negation — so a phrase that **denies**
+a habit still matches it. The live case: `spreads` tests `/run|rhizom|sucker|thicket|mat-form/i` against
+`spread`, so writing "**does not run**" or "**not rhizomatous**" turns the SPREADS badge **on** for a
+plant whose own data says the opposite, and drops it into the Traits→Spreads filter too. This was a real
+guide-wide bug: 28 plants shipped with a badge contradicting their own text (rhododendron "no suckering",
+butterfly milkweed "does NOT run like showy milkweed", the four currants "does not run or self-sow") and
+were reworded in one pass in August 2026.
+
+**The rule: never use a trigger word in order to deny it.** Describe what the plant *does*, not what it
+doesn't. Swap the phrasing:
+
+| don't write | write instead |
+|---|---|
+| "does not run", "not running" | "stays where planted", "widens as a single crown", "stays put" |
+| "not rhizomatous", "no rhizomes" | "spreads only by seed", "stays as a single crown" |
+| "does not sucker" | "renews from the crown", "thickens gradually in place" |
+| "not a running-rhizome invader" | "far less invasive than *X*" (drop the mechanism word) |
+| "no suckering or self-sowing" | "neither spreads at the root nor seeds about" |
+
+**And the mirror-image trap: a plant that genuinely spreads needs an *affirmative* trigger word**, or it
+silently loses a badge it should have. Three plants sit exactly here — `groundcovers/kinnikinnick`,
+`groundcovers/woolly-yarrow` and `perennials/white-prairie-aster` all creep, and their `spread` text
+negated only a *comparison* ("not the running-rhizome lawn invader that common yarrow is"). Stripping the
+negation would have switched them off wrongly, so they were reworded to lead with **"Mat-forming:"** /
+**"Spreads slowly by rhizomes"** — badge on, and on purpose.
+
+**Audit after adding or editing any plant** (should print `0`):
+
+```
+python3 - <<'EOF'
+import json, re
+RX=re.compile(r'run|rhizom|sucker|thicket|mat-form', re.I)
+NEG=re.compile(r"(not|never|non-|doesn'?t|does not|no)\s+\w{0,14}\s*(run|rhizom|sucker|thicket|mat-form)", re.I)
+bad=[s for s in json.load(open('plants/manifest.json'))['plants']
+     if (sp:=(json.load(open('plants/%s/plant.json'%s)).get('spread') or '')) and RX.search(sp) and NEG.search(sp)]
+print(len(bad), bad)
+EOF
+```
+
+As of the August 2026 pass the SPREADS badge shows on **125 of 359** plants with **0** negation
+false-positives. The same care applies to any future regex-derived trait (e.g. a `Fragrant` test against
+`blurb`) — prefer an explicit per-plant marker over a prose regex when "who qualifies" is a judgment call.
 
 5. **If the predicate reads a new data field, populate it** on the qualifying `plant.json`s (and
    document the field in the "`plant.json` schema" list). Then sanity-check the count.
@@ -1773,6 +1807,15 @@ guide-wide PASS (359 plants, 0 errors, 0 warnings); `check_citations` on the 22 
 **6–7 CC shots** each via the Colorado-records montage pass, 720×480 smart-crop thumbs, seasons from real
 capture dates; **133 images**.
 
+**SPREADS badge negation fix (August 2026):** the long-standing false-positive class was cleared. The
+`spreads` trait is regex-derived from the `spread` prose, so 28 plants that *denied* the habit ("does not
+run", "not rhizomatous", "no suckering") were displaying the badge and matching the Traits→Spreads filter.
+All 28 were reworded **positively** — no code change to `reel.js`, which keeps the shared predicate and the
+other 125 matches untouched. Three of the 28 genuinely spread (kinnikinnick, woolly yarrow, white prairie
+aster: their text negated only a *comparison*) and were reworded to lead with an affirmative trigger so they
+correctly **keep** the badge. Badge now on **125 of 359** plants, **0** negation false-positives. The phrasing
+rule and a copy-paste audit snippet are under "Adding a trait" — read them before writing a `spread` field.
+
 **Trees**
 - River hawthorn (*Crataegus rivularis*) (N) — Thorny native small tree; white spring flowers, dark edible haws, superb wildlife cover. A caterpillar keystone (~90 Lepidoptera). *(Riparian — wants more water; edible haws, spit the cyanogenic seeds.)*
 - Chokecherry (*Prunus virginiana*) (N) — Wildlife powerhouse: fragrant white flower racemes, dark…
@@ -2075,20 +2118,6 @@ The current backlog. Move items out of this section as they ship.
   shot for a capped axis ever surfaces, re-query the iNat API (the fast path above) and append it
   with `gbif_add.py`. (Watch the *Veronica liwanensis* look-alike: only pick shots verifiable as
   the tiny-glossy-leaved tight mat, not the coarse-leaved *V. persica*.)
-- **SPREADS badge false-positives (28 plants, pre-existing).** The `spreads` predicate in `reel.js`
-  regex-matches `run|rhizom|sucker|thicket|mat-form` against the `spread` prose, so **28 existing
-  plants whose `spread` says they do *not* run currently show the SPREADS badge and match the
-  Traits→Spreads filter** — e.g. `perennials/butterfly-milkweed` ("does NOT run like showy
-  milkweed"), `perennials/compass-plant` ("does not run"), the four currants/gooseberries ("does not
-  run or self-sow"), `shrubs/smoke-tree`, `vines/dropmore-honeysuckle`, `perennials/fernleaf-yarrow`
-  ("Clump-forming, NOT running"). Two ways to fix, and it needs a deliberate choice rather than a
-  drive-by patch, since it changes badges **and** faceted filter counts guide-wide: (a) reword those
-  28 `spread` fields positively (safe, no code change — see the negation gotcha under "Adding a
-  trait"), or (b) make the predicate strip negated clauses before testing, which is less repetitive
-  but needs a careful re-audit — a naive strip flips `groundcovers/woolly-yarrow` and
-  `perennials/white-prairie-aster` **off**, and both arguably *should* stay on. Whichever way, re-run
-  the audit and eyeball the resulting Spreads chip count.
-
 - **Trim the batch-1 fulls:** a few early full images (e.g. dogwood `wi-stems.jpg`,
   little-bluestem) were saved at q85/1500px (~0.8 MB); later batches use q82/1400px.
   Re-running those through `finalize.py` would shave repo weight if it matters.

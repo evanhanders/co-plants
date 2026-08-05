@@ -1,0 +1,153 @@
+{
+  "common": "Prairie spiderwort",
+  "botanical": "Tradescantia occidentalis",
+  "type": "Forb",
+  "lifecycle": "Perennial",
+  "native": "CO native",
+  "aka": [
+    "Western spiderwort",
+    "Spiderwort",
+    "Prairie spiderlily"
+  ],
+  "flower_color": [
+    "purple",
+    "blue"
+  ],
+  "bloom": [
+    "summer"
+  ],
+  "bloom_season": "Summer",
+  "blurb": "Grass-like foliage sending up stalks of three-petalled violet-blue flowers with bright yellow anthers. Each flower lasts a single day and dissolves into a drop of jelly, but a clump opens a fresh set every morning for weeks.",
+  "size": "~12–24 in tall × 12–18 in wide",
+  "sun": "Full sun to part shade",
+  "water": "Low to moderate; occasional deep soak in summer heat",
+  "spread": "Clumping from fleshy roots; spreads slowly and self-sows",
+  "seasons": "Three-petalled violet-blue flowers through summer, each lasting one morning; grass-like foliage dies back in winter",
+  "wildlife": "Native bees and butterflies work the flowers",
+  "deer": "Generally deer resistant",
+  "toxic": "",
+  "winter": false,
+  "verified": "2026-08-04",
+  "ph": {
+    "min": 6.0,
+    "ideal": 7.2,
+    "max": 8.0
+  },
+  "care": {
+    "hardiness": "CSU lists this as a Colorado native plantable to about 8,000 ft, so cold is not the constraint at Boulder's zone 5b–6a.[1]",
+    "planting": "Plant in spring after the mid-May last frost, or in early fall, into ground prepared to suit it (see Soil). Set out young container plants — most of these natives resent having an established root system disturbed — and water them in well, then taper off.[1][2]",
+    "sun": "Full sun to part shade, which is CSU's exposure rating for it.[1]",
+    "soil": "Most soils, per CSU, though it is at its best in sandy or loamy ground with drainage. It is genuinely adaptable and one of the easier natives to place.[1]",
+    "water": "Low to moderate. CSU rates its moisture requirement low to moderate, and on the semi-arid Front Range that is the number that matters most — the commonest way to kill a xeric native here is kindness with the hose.[1][2]",
+    "spacing": "Space to suit its mature spread of 12–18 in wide. Upright stalks above grass-like foliage carrying clusters of three-petalled flowers, each lasting a day — CSU rates it for most soils.[1]",
+    "propagation": "By seed, which is how nearly all of these natives are raised and how they persist in a planting. Autumn sowing outdoors lets winter provide the chilling most of them want.[1]",
+    "bloom": "Flowers roughly June through mid-August; CSU records the colour as purple, blue and the height as 12–24 in tall.[1]",
+    "maintenance": "Low. Cut old growth back in late winter or early spring rather than in fall, so the stems hold snow and give the crown some cover. Skip fertilizer: lean soil keeps these natives compact and long-lived.[1][2]",
+    "troubles": "Few pests or diseases when it is sited right. Crown and root rot in soil that stays wet is the usual cause of failure for a Colorado native in a Front Range garden, and it is a siting problem rather than bad luck.[1][2]"
+  },
+  "references": [
+    {
+      "name": "CSU Extension — Native Herbaceous Perennials for Colorado Landscapes (fact sheet 7.242, PDF: complete Table 1)",
+      "url": "https://www.extension.colostate.edu/docs/pubs/garden/07242.pdf"
+    },
+    {
+      "name": "CSU Extension — Xeriscaping: Perennials and Annual Flowers (7.231)",
+      "url": "https://extension.colostate.edu/topic-areas/yard-garden/xeriscaping-perennials-and-annual-flowers-7-231/"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      1
+    ],
+    "sun": [
+      1
+    ],
+    "water": [
+      1,
+      2
+    ],
+    "spread": [
+      1
+    ],
+    "seasons": [
+      1
+    ],
+    "deer": [
+      1
+    ],
+    "ph": [
+      2
+    ],
+    "wildlife": [
+      1
+    ]
+  },
+  "edible": {
+    "level": "inedible",
+    "food": false,
+    "summary": "No documented culinary use in the authorities consulted; grown as a native ornamental.[1]",
+    "caution": "No authority consulted documents a food use for prairie spiderwort, so this guide treats it as inedible — don't eat it. Spiderworts appear in some foraging accounts, but no extension or botanical-garden authority in this guide's trusted set documents it, and that is the bar used here. The sap is mucilaginous and can irritate sensitive skin.[1]"
+  },
+  "shots": [
+    {
+      "local": "images/sp-flower-t.jpg",
+      "full": "images/sp-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/282307528/large.jpg",
+      "s": "spring",
+      "cap": "Spring — a three-petalled violet flower with yellow anthers · © David Martin (CC-BY-NC) / iNaturalist",
+      "by": "David Martin",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/163236979"
+    },
+    {
+      "local": "images/sp-foliage-t.jpg",
+      "full": "images/sp-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/39930043/large.jpg",
+      "s": "spring",
+      "cap": "Spring — flower and grass-like foliage · © dlehle (CC-BY-NC) / iNaturalist",
+      "by": "dlehle",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/25758183"
+    },
+    {
+      "local": "images/su-flowers-t.jpg",
+      "full": "images/su-flowers.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/264349796/large.jpg",
+      "s": "summer",
+      "cap": "Summer — two open flowers · © donotblinkjustobserve_heather (CC-BY-NC) / iNaturalist",
+      "by": "donotblinkjustobserve_heather",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/153082416"
+    },
+    {
+      "local": "images/su-plant-t.jpg",
+      "full": "images/su-plant.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/152702366/large.jpg",
+      "s": "summer",
+      "cap": "Summer — the whole flowering plant · © vzink (CC-BY-NC) / iNaturalist",
+      "by": "vzink",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/92243127"
+    },
+    {
+      "local": "images/sp-sand-t.jpg",
+      "full": "images/sp-sand.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/27379604/large.jpeg",
+      "s": "spring",
+      "cap": "Spring — flowering in sandy ground · © Brian Johnson (CC-BY-NC) / iNaturalist",
+      "by": "Brian Johnson",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/17923141"
+    },
+    {
+      "local": "images/sp-clump-t.jpg",
+      "full": "images/sp-clump.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/646615869/large.jpg",
+      "s": "spring",
+      "cap": "Spring — the grass-like clump · © Alice Guthrie (CC-BY-NC) / iNaturalist",
+      "by": "Alice Guthrie",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/354460449"
+    }
+  ]
+}

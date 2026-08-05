@@ -1,0 +1,153 @@
+{
+  "common": "Sticky geranium",
+  "botanical": "Geranium viscosissimum",
+  "type": "Forb",
+  "lifecycle": "Perennial",
+  "native": "CO native",
+  "aka": [
+    "Sticky purple geranium",
+    "Sticky cranesbill"
+  ],
+  "flower_color": [
+    "pink",
+    "purple"
+  ],
+  "bloom": [
+    "spring",
+    "summer"
+  ],
+  "bloom_season": "Spring",
+  "blurb": "A native cranesbill with open clusters of pale pink to rose-purple flowers veined in a darker shade, over lobed leaves that colour red in fall. The stems really are sticky — glandular hairs that catch small insects.",
+  "size": "~12–24 in tall × 12–18 in wide",
+  "sun": "Full sun to part shade",
+  "water": "Low to moderate; occasional deep soak in summer heat",
+  "spread": "Clumping from a woody crown; spreads only by seed",
+  "seasons": "Pink to rose-purple, dark-veined flowers late spring into summer; lobed leaves turn red in fall",
+  "wildlife": "Native bees and butterflies work the flowers",
+  "deer": "Generally deer resistant",
+  "toxic": "",
+  "winter": false,
+  "verified": "2026-08-04",
+  "ph": {
+    "min": 6.0,
+    "ideal": 7.2,
+    "max": 8.0
+  },
+  "care": {
+    "hardiness": "CSU lists this as a Colorado native plantable to about 9,500 ft, so cold is not the constraint at Boulder's zone 5b–6a.[1]",
+    "planting": "Plant in spring after the mid-May last frost, or in early fall, into ground prepared to suit it (see Soil). Set out young container plants — most of these natives resent having an established root system disturbed — and water them in well, then taper off.[1][2]",
+    "sun": "Full sun to part shade, which is CSU's exposure rating for it.[1]",
+    "soil": "Well-drained soil. A plant of montane meadows and open woods, so it appreciates some organic matter and steadier moisture than the plains xerics, but not wet feet.[1]",
+    "water": "Low to moderate. CSU rates its moisture requirement low to moderate, and on the semi-arid Front Range that is the number that matters most — the commonest way to kill a xeric native here is kindness with the hose.[1][2]",
+    "spacing": "Space to suit its mature spread of 12–18 in wide. Lobed leaves that turn red in fall, with open clusters of flowers on notably sticky stems.[1]",
+    "propagation": "By seed, which is how nearly all of these natives are raised and how they persist in a planting. Autumn sowing outdoors lets winter provide the chilling most of them want.[1]",
+    "bloom": "Flowers from spring into midsummer; CSU records the colour as pink, purple and the height as 12–24 in tall.[1]",
+    "maintenance": "Low. Cut old growth back in late winter or early spring rather than in fall, so the stems hold snow and give the crown some cover. Skip fertilizer: lean soil keeps these natives compact and long-lived.[1][2]",
+    "troubles": "Few pests or diseases when it is sited right. Crown and root rot in soil that stays wet is the usual cause of failure for a Colorado native in a Front Range garden, and it is a siting problem rather than bad luck.[1][2]"
+  },
+  "references": [
+    {
+      "name": "CSU Extension — Native Herbaceous Perennials for Colorado Landscapes (fact sheet 7.242, PDF: complete Table 1)",
+      "url": "https://www.extension.colostate.edu/docs/pubs/garden/07242.pdf"
+    },
+    {
+      "name": "CSU Extension — Xeriscaping: Perennials and Annual Flowers (7.231)",
+      "url": "https://extension.colostate.edu/topic-areas/yard-garden/xeriscaping-perennials-and-annual-flowers-7-231/"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      1
+    ],
+    "sun": [
+      1
+    ],
+    "water": [
+      1,
+      2
+    ],
+    "spread": [
+      1
+    ],
+    "seasons": [
+      1
+    ],
+    "deer": [
+      1
+    ],
+    "ph": [
+      2
+    ],
+    "wildlife": [
+      1
+    ]
+  },
+  "edible": {
+    "level": "inedible",
+    "food": false,
+    "summary": "No documented culinary use in the authorities consulted; grown as a native ornamental.[1]",
+    "caution": "No authority consulted documents a food use for sticky geranium, so this guide treats it as inedible — don't eat it. No part is recorded as notably poisonous. The glandular, sticky stems are unpleasant to handle and to chew, which is deterrent enough.[1]"
+  },
+  "shots": [
+    {
+      "local": "images/su-flower-t.jpg",
+      "full": "images/su-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/402706256/large.jpg",
+      "s": "summer",
+      "cap": "Summer — a dark-veined pink flower face-on · © Sara Spaid (CC-BY-NC) / iNaturalist",
+      "by": "Sara Spaid",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/227027710"
+    },
+    {
+      "local": "images/su-flower2-t.jpg",
+      "full": "images/su-flower2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/292211236/large.jpg",
+      "s": "summer",
+      "cap": "Summer — a rose-purple flower · © Chelsea Hazlett (CC-BY-NC) / iNaturalist",
+      "by": "Chelsea Hazlett",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/168598219"
+    },
+    {
+      "local": "images/su-fall-t.jpg",
+      "full": "images/su-fall.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/417403107/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — a leaf turned scarlet in fall · © jsmorph (CC-BY-NC) / iNaturalist",
+      "by": "jsmorph",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/234761726"
+    },
+    {
+      "local": "images/su-mass-t.jpg",
+      "full": "images/su-mass.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/302624129/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — flowers over grey-green foliage · © Judith Ellen Lopez (CC-BY-NC) / iNaturalist",
+      "by": "Judith Ellen Lopez",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/174207458"
+    },
+    {
+      "local": "images/su-plant-t.jpg",
+      "full": "images/su-plant.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/218898327/large.jpg",
+      "s": "summer",
+      "cap": "Summer — the whole plant · © curt_nimz (CC-BY-NC) / iNaturalist",
+      "by": "curt_nimz",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/128852878"
+    },
+    {
+      "local": "images/su-context-t.jpg",
+      "full": "images/su-context.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/79626887/large.jpg",
+      "s": "summer",
+      "cap": "Summer — in an aspen grove · © jendarnell (CC-BY-NC) / iNaturalist",
+      "by": "jendarnell",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/50145471"
+    }
+  ]
+}

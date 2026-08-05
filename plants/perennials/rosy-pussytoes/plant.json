@@ -1,0 +1,154 @@
+{
+  "common": "Rosy pussytoes",
+  "botanical": "Antennaria rosea",
+  "type": "Groundcover",
+  "lifecycle": "Perennial",
+  "native": "CO native",
+  "aka": [
+    "Rose pussytoes",
+    "Pink pussytoes",
+    "Pussytoes"
+  ],
+  "flower_color": [
+    "pink",
+    "white"
+  ],
+  "bloom": [
+    "spring",
+    "summer"
+  ],
+  "blurb": "The pink one: the same silver-grey felted mat as its little sister, but with rose-tinted bracts that give the flower clusters a distinct blush. CSU lists the two together, and they are used interchangeably as a tough, walkable groundcover.",
+  "size": "~2–6 in tall × spreading",
+  "sun": "Full sun to part shade",
+  "water": "Low to moderate; occasional deep soak in summer heat",
+  "spread": "Mat-forming: creeps outward by short stolons into a spreading silver-grey carpet",
+  "seasons": "Rose-pink 'cat toe' clusters late spring into summer over a silver-grey mat that persists through winter",
+  "wildlife": "Native bees and butterflies work the flowers",
+  "deer": "Generally deer resistant",
+  "toxic": "",
+  "winter": false,
+  "verified": "2026-08-04",
+  "collection": "pussytoes",
+  "ph": {
+    "min": 6.0,
+    "ideal": 7.2,
+    "max": 8.0
+  },
+  "care": {
+    "hardiness": "CSU lists this as a Colorado native plantable to about 11,000 ft, so cold is not the constraint at Boulder's zone 5b–6a.[1]",
+    "planting": "Plant in spring after the mid-May last frost, or in early fall, into ground prepared to suit it (see Soil). Set out young container plants — most of these natives resent having an established root system disturbed — and water them in well, then taper off.[1][2]",
+    "sun": "Full sun to part shade, which is CSU's exposure rating for it.[1]",
+    "soil": "Well-drained soil, as for the whole genus. Gritty, lean ground; it will rot at the crown in a wet, heavy spot.[1]",
+    "water": "Low to moderate. CSU rates its moisture requirement low to moderate, and on the semi-arid Front Range that is the number that matters most — the commonest way to kill a xeric native here is kindness with the hose.[1][2]",
+    "spacing": "Space to suit its mature spread of spreading. A spreading mat of silver-grey foliage with clustered flowerheads like cat toes — CSU lists it alongside littleleaf pussytoes for flagstones and rock gardens.[1]",
+    "propagation": "By seed, which is how nearly all of these natives are raised and how they persist in a planting. Autumn sowing outdoors lets winter provide the chilling most of them want.[1]",
+    "bloom": "Flowers from spring into midsummer; CSU records the colour as pink, white and the height as 2–6 in tall.[1]",
+    "maintenance": "Low. Cut old growth back in late winter or early spring rather than in fall, so the stems hold snow and give the crown some cover. Skip fertilizer: lean soil keeps these natives compact and long-lived.[1][2]",
+    "troubles": "Few pests or diseases when it is sited right. Crown and root rot in soil that stays wet is the usual cause of failure for a Colorado native in a Front Range garden, and it is a siting problem rather than bad luck.[1][2]"
+  },
+  "references": [
+    {
+      "name": "CSU Extension — Native Herbaceous Perennials for Colorado Landscapes (fact sheet 7.242, PDF: complete Table 1)",
+      "url": "https://www.extension.colostate.edu/docs/pubs/garden/07242.pdf"
+    },
+    {
+      "name": "CSU Extension — Xeriscaping: Perennials and Annual Flowers (7.231)",
+      "url": "https://extension.colostate.edu/topic-areas/yard-garden/xeriscaping-perennials-and-annual-flowers-7-231/"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      1
+    ],
+    "sun": [
+      1
+    ],
+    "water": [
+      1,
+      2
+    ],
+    "spread": [
+      1
+    ],
+    "seasons": [
+      1
+    ],
+    "deer": [
+      1
+    ],
+    "ph": [
+      2
+    ],
+    "wildlife": [
+      1
+    ]
+  },
+  "edible": {
+    "level": "inedible",
+    "food": false,
+    "summary": "No documented culinary use; a native mat groundcover and butterfly host plant.[1]",
+    "caution": "No authority consulted documents a food use for rosy pussytoes, so this guide treats it as inedible — don't eat it, and don't reason across from any other plant in this guide. Like its relatives it is a larval host for painted lady and American lady butterflies, which is a much better reason to grow it.[1]"
+  },
+  "shots": [
+    {
+      "local": "images/su-flower-t.jpg",
+      "full": "images/su-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/692774041/large.jpg",
+      "s": "summer",
+      "cap": "Summer — rose-pink 'cat toe' clusters in close detail · © Hank Raizen (CC-BY) / iNaturalist",
+      "by": "Hank Raizen",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/378769982"
+    },
+    {
+      "local": "images/su-cluster-t.jpg",
+      "full": "images/su-cluster.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/402535260/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — a pink flowerhead · © comradejon (CC-BY-NC) / iNaturalist",
+      "by": "comradejon",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/226940442"
+    },
+    {
+      "local": "images/su-mat-t.jpg",
+      "full": "images/su-mat.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/207593088/large.jpg",
+      "s": "summer",
+      "cap": "Summer — pink flowers over the silver mat · © ranatrafusca (CC-BY-NC) / iNaturalist",
+      "by": "ranatrafusca",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/122599425"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/112480389/large.jpg",
+      "s": "summer",
+      "cap": "Summer — a mat spilling over rock · © tiffanyreese (CC-BY-NC) / iNaturalist",
+      "by": "tiffanyreese",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/69327835"
+    },
+    {
+      "local": "images/su-mass-t.jpg",
+      "full": "images/su-mass.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/216482780/large.jpg",
+      "s": "summer",
+      "cap": "Summer — the flowering mat · © kelley_raftery (CC-BY-NC) / iNaturalist",
+      "by": "kelley_raftery",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/127510984"
+    },
+    {
+      "local": "images/su-context-t.jpg",
+      "full": "images/su-context.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/84017378/large.jpg",
+      "s": "summer",
+      "cap": "Summer — in open stony ground · © Rick Williams (CC-BY-NC) / iNaturalist",
+      "by": "Rick Williams",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/52834247"
+    }
+  ]
+}

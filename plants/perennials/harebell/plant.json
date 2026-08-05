@@ -1,0 +1,155 @@
+{
+  "common": "Harebell",
+  "botanical": "Campanula rotundifolia",
+  "type": "Forb",
+  "lifecycle": "Perennial",
+  "native": "CO native",
+  "aka": [
+    "Harebells",
+    "Bluebell bellflower",
+    "Scottish bluebell",
+    "Bluebell-of-Scotland"
+  ],
+  "flower_color": [
+    "purple",
+    "blue"
+  ],
+  "bloom": [
+    "summer",
+    "fall"
+  ],
+  "bloom_season": "Summer",
+  "blurb": "Thread-fine stems carrying nodding violet-blue bells that shiver in any breeze — delicate to look at and the toughest plant on CSU's whole list, growing as a landscape plant to 13,000 ft. It takes most soils and blooms from midsummer to frost.",
+  "size": "~8–15 in tall × 8–12 in wide",
+  "sun": "Full sun to part shade",
+  "water": "Low to moderate; occasional deep soak in summer heat",
+  "spread": "Slender clump, spreading slowly by thin rhizomes and seed",
+  "seasons": "Nodding violet-blue bells midsummer to frost on thread-fine stems; narrow delicate foliage; dies back in winter",
+  "wildlife": "Native bees and butterflies work the flowers",
+  "deer": "Generally deer resistant",
+  "toxic": "",
+  "winter": false,
+  "verified": "2026-08-04",
+  "ph": {
+    "min": 6.0,
+    "ideal": 7.2,
+    "max": 8.0
+  },
+  "care": {
+    "hardiness": "CSU lists this as a Colorado native plantable to about 13,000 ft, so cold is not the constraint at Boulder's zone 5b–6a.[1]",
+    "planting": "Plant in spring after the mid-May last frost, or in early fall, into ground prepared to suit it (see Soil). Set out young container plants — most of these natives resent having an established root system disturbed — and water them in well, then taper off.[1][2]",
+    "sun": "Full sun to part shade, which is CSU's exposure rating for it.[1]",
+    "soil": "Most soils, per CSU. That tolerance is unusual on this list and makes it one of the easier natives to place, though it still prefers drainage over standing wet.[1]",
+    "water": "Low to moderate. CSU rates its moisture requirement low to moderate, and on the semi-arid Front Range that is the number that matters most — the commonest way to kill a xeric native here is kindness with the hose.[1][2]",
+    "spacing": "Space to suit its mature spread of 8–12 in wide. Narrow delicate foliage under nodding bell-shaped flowers — and CSU rates it for most soils, to 13,000 ft, the highest planting elevation on its list.[1]",
+    "propagation": "By seed, which is how nearly all of these natives are raised and how they persist in a planting. Autumn sowing outdoors lets winter provide the chilling most of them want.[1]",
+    "bloom": "Flowers from midsummer through to frost; CSU records the colour as purple, blue and the height as 8–15 in tall.[1]",
+    "maintenance": "Low. Cut old growth back in late winter or early spring rather than in fall, so the stems hold snow and give the crown some cover. Skip fertilizer: lean soil keeps these natives compact and long-lived.[1][2]",
+    "troubles": "Few pests or diseases when it is sited right. Crown and root rot in soil that stays wet is the usual cause of failure for a Colorado native in a Front Range garden, and it is a siting problem rather than bad luck.[1][2]"
+  },
+  "references": [
+    {
+      "name": "CSU Extension — Native Herbaceous Perennials for Colorado Landscapes (fact sheet 7.242, PDF: complete Table 1)",
+      "url": "https://www.extension.colostate.edu/docs/pubs/garden/07242.pdf"
+    },
+    {
+      "name": "CSU Extension — Xeriscaping: Perennials and Annual Flowers (7.231)",
+      "url": "https://extension.colostate.edu/topic-areas/yard-garden/xeriscaping-perennials-and-annual-flowers-7-231/"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      1
+    ],
+    "sun": [
+      1
+    ],
+    "water": [
+      1,
+      2
+    ],
+    "spread": [
+      1
+    ],
+    "seasons": [
+      1
+    ],
+    "deer": [
+      1
+    ],
+    "ph": [
+      2
+    ],
+    "wildlife": [
+      1
+    ]
+  },
+  "edible": {
+    "level": "inedible",
+    "food": false,
+    "summary": "No documented culinary use in the authorities consulted; grown as an ornamental native.[1]",
+    "caution": "No authority consulted documents a food use for harebell, so this guide treats it as inedible — don't eat it. Some other bellflowers do have a food record (the roots of rampion, *Campanula rapunculus*, for instance), but that belongs to a different species and this guide does not extend it to harebell.[1]"
+  },
+  "shots": [
+    {
+      "local": "images/su-flower-t.jpg",
+      "full": "images/su-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/409874045/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — nodding violet-blue bells · © Tamar (CC-BY-NC) / iNaturalist",
+      "by": "Tamar",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/230825407"
+    },
+    {
+      "local": "images/su-cluster-t.jpg",
+      "full": "images/su-cluster.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/49263701/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — bells on thread-fine stems · © Judith Ellen Lopez (CC-BY-NC) / iNaturalist",
+      "by": "Judith Ellen Lopez",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/31475162"
+    },
+    {
+      "local": "images/su-drift-t.jpg",
+      "full": "images/su-drift.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/307930279/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — a drift in an alpine meadow · © Jennifer Ackerfield (CC-BY-NC) / iNaturalist",
+      "by": "Jennifer Ackerfield",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/177077059"
+    },
+    {
+      "local": "images/su-rock-t.jpg",
+      "full": "images/su-rock.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/400411438/large.jpg",
+      "s": "summer",
+      "cap": "Summer — bells against rock · © David Martin (CC-BY-NC) / iNaturalist",
+      "by": "David Martin",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/225827171"
+    },
+    {
+      "local": "images/su-plants-t.jpg",
+      "full": "images/su-plants.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/475309547/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — a clump in bloom · © Matt Langemeier (CC-BY-NC) / iNaturalist",
+      "by": "Matt Langemeier",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/264688099"
+    },
+    {
+      "local": "images/su-meadow-t.jpg",
+      "full": "images/su-meadow.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558446748/large.jpg",
+      "s": "summer",
+      "cap": "Summer — in a mountain meadow · © Curtis Drake (CC-BY) / iNaturalist",
+      "by": "Curtis Drake",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/309468218"
+    }
+  ]
+}

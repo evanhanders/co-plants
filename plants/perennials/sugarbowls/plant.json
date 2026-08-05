@@ -1,0 +1,153 @@
+{
+  "common": "Sugarbowls",
+  "botanical": "Clematis scottii",
+  "type": "Forb",
+  "lifecycle": "Perennial",
+  "native": "CO native",
+  "aka": [
+    "Scott's sugarbowls",
+    "Scott's clematis",
+    "Bush clematis",
+    "Clematis hirsutissima var. scottii"
+  ],
+  "flower_color": [
+    "purple"
+  ],
+  "bloom": [
+    "spring"
+  ],
+  "bloom_season": "Spring",
+  "blurb": "A clematis that is not a vine at all: a low mound of lacy blue-green foliage hung with thick nodding purple urns in spring, followed by silky seed plumes. Bumblebees work it hard, and it is a Plant Select Petite selection.",
+  "size": "~8–15 in tall × 12–18 in wide",
+  "sun": "Full sun to part shade",
+  "water": "Low to moderate; occasional deep soak in summer heat",
+  "spread": "Low mounding clump from a woody crown; does not climb and does not spread",
+  "seasons": "Nodding purple urn flowers in spring over lacy foliage, followed by silky seed plumes; dies back in winter",
+  "wildlife": "Native bees and butterflies work the flowers",
+  "deer": "Generally deer resistant",
+  "toxic": "",
+  "winter": false,
+  "verified": "2026-08-04",
+  "ph": {
+    "min": 6.0,
+    "ideal": 7.2,
+    "max": 8.0
+  },
+  "care": {
+    "hardiness": "CSU lists this as a Colorado native plantable to about 8,500 ft, so cold is not the constraint at Boulder's zone 5b–6a.[1]",
+    "planting": "Plant in spring after the mid-May last frost, or in early fall, into ground prepared to suit it (see Soil). Set out young container plants — most of these natives resent having an established root system disturbed — and water them in well, then taper off.[1][2]",
+    "sun": "Full sun to part shade, which is CSU's exposure rating for it.[1]",
+    "soil": "Well-drained soil with some organic matter. It is a foothills and montane plant rather than a desert one, so it takes a little more moisture than the xeric list, but the crown must not sit wet.[1]",
+    "water": "Low to moderate. CSU rates its moisture requirement low to moderate, and on the semi-arid Front Range that is the number that matters most — the commonest way to kill a xeric native here is kindness with the hose.[1][2]",
+    "spacing": "Space to suit its mature spread of 12–18 in wide. Mounds of lacy foliage with nodding purple flowers that CSU notes are attractive to bumblebees — a Plant Select Petite® selection.[1]",
+    "propagation": "By seed, which is how nearly all of these natives are raised and how they persist in a planting. Autumn sowing outdoors lets winter provide the chilling most of them want.[1]",
+    "bloom": "Flowers in spring, March through May; CSU records the colour as purple and the height as 8–15 in tall.[1]",
+    "maintenance": "Two things to be clear about. First, this is a **non-vining, herbaceous clematis** — do not give it a trellis, and do not prune it like a climber; simply cut the dead stems back in late winter. Second, it is **not** the vining *Clematis orientalis* (Chinese or orange-peel clematis), which is a Colorado **List B noxious weed** whose listing covers all its cultivars. The tell is exactly this: shrub, not vine, and purple urns rather than yellow orange-peel flowers. It is also often treated botanically as *C. hirsutissima* var. *scottii*.[1]",
+    "troubles": "Few pests or diseases when it is sited right. Crown and root rot in soil that stays wet is the usual cause of failure for a Colorado native in a Front Range garden, and it is a siting problem rather than bad luck.[1][2]"
+  },
+  "references": [
+    {
+      "name": "CSU Extension — Native Herbaceous Perennials for Colorado Landscapes (fact sheet 7.242, PDF: complete Table 1)",
+      "url": "https://www.extension.colostate.edu/docs/pubs/garden/07242.pdf"
+    },
+    {
+      "name": "CSU Extension — Xeriscaping: Perennials and Annual Flowers (7.231)",
+      "url": "https://extension.colostate.edu/topic-areas/yard-garden/xeriscaping-perennials-and-annual-flowers-7-231/"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      1
+    ],
+    "sun": [
+      1
+    ],
+    "water": [
+      1,
+      2
+    ],
+    "spread": [
+      1
+    ],
+    "seasons": [
+      1
+    ],
+    "deer": [
+      1
+    ],
+    "ph": [
+      2
+    ],
+    "wildlife": [
+      1
+    ]
+  },
+  "edible": {
+    "level": "toxic",
+    "food": false,
+    "summary": "Poisonous, like the rest of the genus — clematis contains protoanemonin, an irritant of the buttercup family.[1]",
+    "caution": "Do not eat any part of this plant. Every *Clematis* in this guide is classed toxic for the same reason: the buttercup family (Ranunculaceae) produces protoanemonin, which blisters skin and inflames the mouth and gut. Wear gloves when cutting it back and keep the sap out of your eyes. The fact that it is a low garden mound rather than a rampant vine makes no difference to the chemistry.[1]"
+  },
+  "shots": [
+    {
+      "local": "images/su-flower-t.jpg",
+      "full": "images/su-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/140135899/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — a nodding purple urn in close detail · © wadewhitlock (CC-BY-NC) / iNaturalist",
+      "by": "wadewhitlock",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/85194243"
+    },
+    {
+      "local": "images/su-urn-t.jpg",
+      "full": "images/su-urn.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/529255174/large.jpg",
+      "s": "summer",
+      "cap": "Summer — the thick nodding flower · © Anders Hastings (CC-BY) / iNaturalist",
+      "by": "Anders Hastings",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/294085066"
+    },
+    {
+      "local": "images/su-urn2-t.jpg",
+      "full": "images/su-urn2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/530503801/large.jpg",
+      "s": "summer",
+      "cap": "Summer — an urn flower among grass · © Sequoia Janirella Wrens (CC-BY-NC) / iNaturalist",
+      "by": "Sequoia Janirella Wrens",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/294720750"
+    },
+    {
+      "local": "images/su-plant-t.jpg",
+      "full": "images/su-plant.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/521206248/large.jpg",
+      "s": "summer",
+      "cap": "Summer — flowers over lacy foliage · © Sequoia Janirella Wrens (CC-BY-NC) / iNaturalist",
+      "by": "Sequoia Janirella Wrens",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/289765070"
+    },
+    {
+      "local": "images/sp-habit-t.jpg",
+      "full": "images/sp-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/18811120/large.jpeg",
+      "s": "spring",
+      "cap": "Spring — the low mounding clump · © Teresa Jegelewicz Mayfield-Meyer (CC-BY) / iNaturalist",
+      "by": "Teresa Jegelewicz Mayfield-Meyer",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/12944554"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/525877973/large.jpg",
+      "s": "summer",
+      "cap": "Summer — the lacy divided leaves · © curt_nimz (CC-BY-NC) / iNaturalist",
+      "by": "curt_nimz",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/292237656"
+    }
+  ]
+}

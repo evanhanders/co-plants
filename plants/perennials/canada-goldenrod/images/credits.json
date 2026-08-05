@@ -1,0 +1,104 @@
+[
+  {
+    "file": "images/fa-plume.jpg",
+    "photo_id": 245677776,
+    "by": "Andy Fyon",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/143263002",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      999,
+      858
+    ],
+    "thumb_px": [
+      400,
+      344
+    ]
+  },
+  {
+    "file": "images/fa-colony.jpg",
+    "photo_id": 320875729,
+    "by": "ahbahdoo",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/183882296",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  },
+  {
+    "file": "images/su-foliage.jpg",
+    "photo_id": 423387816,
+    "by": "energo13",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/237862925",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1054,
+      1400
+    ],
+    "thumb_px": [
+      301,
+      400
+    ]
+  },
+  {
+    "file": "images/su-plumes.jpg",
+    "photo_id": 309294858,
+    "by": "jonastid",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/177803064",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  },
+  {
+    "file": "images/fa-landscape.jpg",
+    "photo_id": 453551269,
+    "by": "George Cook",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/253317893",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  },
+  {
+    "file": "images/su-stem.jpg",
+    "photo_id": 173596452,
+    "by": "Шильников Дмитрий Сергеевич",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/103687040",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      933,
+      1400
+    ],
+    "thumb_px": [
+      267,
+      400
+    ]
+  }
+]

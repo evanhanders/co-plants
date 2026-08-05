@@ -1,0 +1,158 @@
+{
+  "common": "Chocolate flower",
+  "botanical": "Berlandiera lyrata",
+  "type": "Forb",
+  "lifecycle": "Perennial",
+  "native": "CO native",
+  "aka": [
+    "Greeneyes",
+    "Chocolate daisy",
+    "Lyreleaf greeneyes"
+  ],
+  "flower_color": [
+    "yellow"
+  ],
+  "bloom": [
+    "summer",
+    "fall"
+  ],
+  "bloom_season": "Summer",
+  "blurb": "Yellow daisies with a dark green-and-maroon eye that genuinely smell of chocolate — strongest in the morning and again in the evening, fading as the day heats up. A Plant Select native that blooms from June to frost and thrives in heat.",
+  "size": "~12–20 in tall × 12–20 in wide",
+  "sun": "Full sun",
+  "water": "Low; xeric — well-drained ground, little or no supplemental water once established",
+  "spread": "Mounded rosette; self-seeds modestly",
+  "seasons": "Chocolate-scented yellow daisies June to frost; petals close as the day heats; mounded rosette of lyre-shaped leaves",
+  "wildlife": "Native bees and butterflies work the flowers",
+  "deer": "Generally deer resistant",
+  "toxic": "",
+  "winter": false,
+  "verified": "2026-08-04",
+  "ph": {
+    "min": 6.0,
+    "ideal": 7.2,
+    "max": 8.0
+  },
+  "care": {
+    "hardiness": "CSU lists this as a Colorado native plantable to about 8,000 ft, so cold is not the constraint at Boulder's zone 5b–6a. Plant Select rates it USDA zones 4–9 and grows it to about 6,200 ft on the Front Range.[1][3]",
+    "planting": "Plant in spring after the mid-May last frost, or in early fall, into ground prepared to suit it (see Soil). Set out young container plants — most of these natives resent having an established root system disturbed — and water them in well, then taper off.[1][2]",
+    "sun": "Full sun, which is CSU's exposure rating for it.[1]",
+    "soil": "Clay or sandy soils both work, but Plant Select is specific that you should avoid highly organic amendments and give it good drainage — this is a plant that wants mineral soil, not compost.[1][3]",
+    "water": "Low. CSU rates its moisture requirement low, and on the semi-arid Front Range that is the number that matters most — the commonest way to kill a xeric native here is kindness with the hose.[1][2]",
+    "spacing": "Space to suit its mature spread of 12–20 in wide. A mounded rosette of lyre-shaped leaves under daisy-like flowers with a chocolate scent — CSU notes it thrives in heat, and it is a Plant Select® introduction.[1]",
+    "propagation": "By seed, which is how nearly all of these natives are raised and how they persist in a planting. Autumn sowing outdoors lets winter provide the chilling most of them want.[1]",
+    "bloom": "Flowers from midsummer through to frost; CSU records the colour as yellow and the height as 12–20 in tall.[1][3]",
+    "maintenance": "Plant Select's practical tip is to cut it back in July to stop it sprawling and to push a longer bloom, then hand-trim the dead stems in spring. It self-seeds, so thin the seedlings you don't want. The scent is real but schedule-dependent: morning and evening, not midday.[1][3]",
+    "troubles": "Few pests or diseases when it is sited right. Crown and root rot in soil that stays wet is the usual cause of failure for a Colorado native in a Front Range garden, and it is a siting problem rather than bad luck.[1][2]"
+  },
+  "references": [
+    {
+      "name": "CSU Extension — Native Herbaceous Perennials for Colorado Landscapes (fact sheet 7.242, PDF: complete Table 1)",
+      "url": "https://www.extension.colostate.edu/docs/pubs/garden/07242.pdf"
+    },
+    {
+      "name": "CSU Extension — Xeriscaping: Perennials and Annual Flowers (7.231)",
+      "url": "https://extension.colostate.edu/topic-areas/yard-garden/xeriscaping-perennials-and-annual-flowers-7-231/"
+    },
+    {
+      "name": "Plant Select — Berlandiera lyrata (chocolate flower)",
+      "url": "https://plantselect.org/plant/berlandiera-lyrata/"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      1,
+      3
+    ],
+    "sun": [
+      1
+    ],
+    "water": [
+      1,
+      2
+    ],
+    "spread": [
+      1
+    ],
+    "seasons": [
+      1
+    ],
+    "deer": [
+      1
+    ],
+    "ph": [
+      2
+    ],
+    "wildlife": [
+      1
+    ]
+  },
+  "edible": {
+    "level": "inedible",
+    "food": false,
+    "summary": "Smells of chocolate but is not a food plant — no documented culinary use.[1][3]",
+    "caution": "The chocolate scent is not an invitation. No authority consulted documents a food use for chocolate flower, so this guide treats it as inedible — don't eat it, and don't brew it as a cocoa substitute. No part is recorded as notably poisonous, but an absent poisoning record is not evidence of edibility, and it is an Asteraceae, so daisy-family allergies apply.[1][3]"
+  },
+  "shots": [
+    {
+      "local": "images/sp-flower-t.jpg",
+      "full": "images/sp-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/647422822/large.jpg",
+      "s": "spring",
+      "cap": "Spring — a yellow daisy with its dark maroon eye, face-on · © FrontRangeWildflowers (CC-BY-NC) / iNaturalist",
+      "by": "FrontRangeWildflowers",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/354929498"
+    },
+    {
+      "local": "images/su-flower2-t.jpg",
+      "full": "images/su-flower2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/521920427/large.jpg",
+      "s": "summer",
+      "cap": "Summer — the flower in close detail · © FrontRangeWildflowers (CC-BY-NC) / iNaturalist",
+      "by": "FrontRangeWildflowers",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/290143067"
+    },
+    {
+      "local": "images/fa-plant-t.jpg",
+      "full": "images/fa-plant.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/233141015/large.jpg",
+      "s": "fall",
+      "cap": "Fall — the mounded plant in bloom · © thebeeswaggle (CC-BY-NC) / iNaturalist",
+      "by": "thebeeswaggle",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/136590003"
+    },
+    {
+      "local": "images/sp-mass-t.jpg",
+      "full": "images/sp-mass.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/198629417/large.jpg",
+      "s": "spring",
+      "cap": "Spring — several flowers over the rosette · © David Martin (CC-BY-NC) / iNaturalist",
+      "by": "David Martin",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/117611503"
+    },
+    {
+      "local": "images/su-habitat-t.jpg",
+      "full": "images/su-habitat.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/528275948/large.jpg",
+      "s": "summer",
+      "cap": "Summer — in dry open ground · © Matt Langemeier (CC-BY-NC) / iNaturalist",
+      "by": "Matt Langemeier",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/293507099"
+    },
+    {
+      "local": "images/sp-bloom-t.jpg",
+      "full": "images/sp-bloom.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/662695110/large.jpg",
+      "s": "spring",
+      "cap": "Spring — a flower among grasses · © Jake Armstrong (CC-BY) / iNaturalist",
+      "by": "Jake Armstrong",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/363058357"
+    }
+  ]
+}

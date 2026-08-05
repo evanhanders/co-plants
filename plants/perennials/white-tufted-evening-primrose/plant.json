@@ -1,0 +1,154 @@
+{
+  "common": "White-tufted evening primrose",
+  "botanical": "Oenothera caespitosa",
+  "type": "Forb",
+  "lifecycle": "Perennial",
+  "native": "CO native",
+  "aka": [
+    "Tufted evening primrose",
+    "Gumbo lily",
+    "Fragrant evening primrose",
+    "Desert evening primrose"
+  ],
+  "flower_color": [
+    "white",
+    "pink"
+  ],
+  "bloom": [
+    "summer"
+  ],
+  "bloom_season": "Summer",
+  "blurb": "A dense rosette of grey-green leaves that opens huge, sweetly fragrant white saucers in the late afternoon — each one fading to pink by the next morning and gone. Night-flying moths do the pollinating, and the show repeats all summer.",
+  "size": "~6–12 in tall × 12–18 in wide",
+  "sun": "Full sun",
+  "water": "Low; xeric — well-drained ground, little or no supplemental water once established",
+  "spread": "Dense stemless rosette; clumping",
+  "seasons": "Large fragrant white flowers ageing pink, opening late afternoon through summer; dense grey-green rosette",
+  "wildlife": "Native bees and butterflies work the flowers",
+  "deer": "Generally deer resistant",
+  "toxic": "",
+  "winter": false,
+  "verified": "2026-08-04",
+  "ph": {
+    "min": 6.0,
+    "ideal": 7.2,
+    "max": 8.0
+  },
+  "care": {
+    "hardiness": "CSU lists this as a Colorado native plantable to about 9,000 ft, so cold is not the constraint at Boulder's zone 5b–6a.[1]",
+    "planting": "Plant in spring after the mid-May last frost, or in early fall, into ground prepared to suit it (see Soil). Set out young container plants — most of these natives resent having an established root system disturbed — and water them in well, then taper off.[1][2]",
+    "sun": "Full sun, which is CSU's exposure rating for it.[1]",
+    "soil": "Well-drained soil. It is a plant of dry slopes, gravelly flats and clay 'gumbo' banks — hence one of its names — so it will take heavy soil provided the surface drains and it is not irrigated.[1]",
+    "water": "Low. CSU rates its moisture requirement low, and on the semi-arid Front Range that is the number that matters most — the commonest way to kill a xeric native here is kindness with the hose.[1][2]",
+    "spacing": "Space to suit its mature spread of 12–18 in wide. A dense rosette of dark grey-green leaves whose fragrant flowers open in late afternoon and fade the next morning.[1]",
+    "propagation": "By seed, which is how nearly all of these natives are raised and how they persist in a planting. Autumn sowing outdoors lets winter provide the chilling most of them want.[1]",
+    "bloom": "Flowers roughly June through mid-August; CSU records the colour as white, pink and the height as 6–12 in tall.[1]",
+    "maintenance": "Plan for it around the evening rather than the middle of the day: the flowers open in the late afternoon, scent the air after dark, and are finished by mid-morning. Site it by a patio or a path you use in the evening.[1]",
+    "troubles": "Few pests or diseases when it is sited right. Crown and root rot in soil that stays wet is the usual cause of failure for a Colorado native in a Front Range garden, and it is a siting problem rather than bad luck.[1][2]"
+  },
+  "references": [
+    {
+      "name": "CSU Extension — Native Herbaceous Perennials for Colorado Landscapes (fact sheet 7.242, PDF: complete Table 1)",
+      "url": "https://www.extension.colostate.edu/docs/pubs/garden/07242.pdf"
+    },
+    {
+      "name": "CSU Extension — Xeriscaping: Perennials and Annual Flowers (7.231)",
+      "url": "https://extension.colostate.edu/topic-areas/yard-garden/xeriscaping-perennials-and-annual-flowers-7-231/"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      1
+    ],
+    "sun": [
+      1
+    ],
+    "water": [
+      1,
+      2
+    ],
+    "spread": [
+      1
+    ],
+    "seasons": [
+      1
+    ],
+    "deer": [
+      1
+    ],
+    "ph": [
+      2
+    ],
+    "wildlife": [
+      1
+    ]
+  },
+  "edible": {
+    "level": "inedible",
+    "food": false,
+    "summary": "No documented culinary use in the authorities consulted; grown as a fragrant native ornamental.[1]",
+    "caution": "No authority consulted documents a food use for white-tufted evening primrose, so this guide treats it as inedible — don't eat it. Other members of the genus have a food and oil record (notably *Oenothera biennis*), but that belongs to different species and this guide does not extend it here.[1]"
+  },
+  "shots": [
+    {
+      "local": "images/su-flower-t.jpg",
+      "full": "images/su-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/12848558/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — a large white flower in close detail · © cindylemon (CC-BY-NC) / iNaturalist",
+      "by": "cindylemon",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/9448234"
+    },
+    {
+      "local": "images/sp-rosette-t.jpg",
+      "full": "images/sp-rosette.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/666684878/large.jpg",
+      "s": "spring",
+      "cap": "Spring — flower and grey-green rosette on volcanic rock · © Judith Ellen Lopez (CC-BY-NC) / iNaturalist",
+      "by": "Judith Ellen Lopez",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/365169597"
+    },
+    {
+      "local": "images/sp-fade-t.jpg",
+      "full": "images/sp-fade.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/510470508/large.jpg",
+      "s": "spring",
+      "cap": "Spring — white and pink-faded flowers together · © juderosebaugh1 (CC-BY-NC) / iNaturalist",
+      "by": "juderosebaugh1",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/284064787"
+    },
+    {
+      "local": "images/su-flower2-t.jpg",
+      "full": "images/su-flower2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/291323597/large.jpg",
+      "s": "summer",
+      "cap": "Summer — a flower face-on · © Lindz Loves The Desert (CC-BY-NC) / iNaturalist",
+      "by": "Lindz Loves The Desert",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/168123111"
+    },
+    {
+      "local": "images/su-gravel-t.jpg",
+      "full": "images/su-gravel.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/291635732/large.jpg",
+      "s": "summer",
+      "cap": "Summer — in gravelly ground · © CredibleCorvid (CC-BY-NC) / iNaturalist",
+      "by": "CredibleCorvid",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/168288401"
+    },
+    {
+      "local": "images/sp-pink-t.jpg",
+      "full": "images/sp-pink.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/509173105/large.jpg",
+      "s": "spring",
+      "cap": "Spring — flowers ageing pink · © bloomingbrooke (CC-BY-NC) / iNaturalist",
+      "by": "bloomingbrooke",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/283372315"
+    }
+  ]
+}

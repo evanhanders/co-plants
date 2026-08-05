@@ -1,0 +1,147 @@
+{
+  "common": "Prairie sage",
+  "botanical": "Artemisia ludoviciana",
+  "type": "Forb",
+  "lifecycle": "Perennial",
+  "native": "CO native",
+  "aka": [
+    "Silver sage",
+    "White sagebrush",
+    "Louisiana sagewort",
+    "Western mugwort"
+  ],
+  "flower_color": [],
+  "bloom": [],
+  "bloom_season": "Summer",
+  "blurb": "The tall silver one — upright stems of coarse, felted white-grey foliage that lights up a dry border and dries well for bundles. CSU's own note calls it an aggressive grower, and it means it: this one runs at the root and needs a boundary.",
+  "size": "~15–30 in tall × spreading",
+  "sun": "Full sun",
+  "water": "Low; xeric — well-drained ground, little or no supplemental water once established",
+  "spread": "Runs at the root and spreads into broad colonies; needs containment",
+  "seasons": "Coarse silver-white foliage all season; bloom insignificant; stems die back in winter",
+  "wildlife": "Grown for foliage; bloom is insignificant and of little pollinator value",
+  "deer": "Generally deer resistant",
+  "toxic": "",
+  "winter": false,
+  "verified": "2026-08-04",
+  "collection": "artemisias",
+  "ph": {
+    "min": 6.0,
+    "ideal": 7.2,
+    "max": 8.0
+  },
+  "care": {
+    "hardiness": "CSU lists this as a Colorado native plantable to about 10,000 ft, so cold is not the constraint at Boulder's zone 5b–6a.[1]",
+    "planting": "Plant in spring after the mid-May last frost, or in early fall, into ground prepared to suit it (see Soil). Set out young container plants — most of these natives resent having an established root system disturbed — and water them in well, then taper off.[1][2]",
+    "sun": "Full sun, which is CSU's exposure rating for it.[1]",
+    "soil": "Well-drained soil, lean rather than rich. Good drainage tempers its vigour slightly; moist fertile ground makes it run harder.[1]",
+    "water": "Low. CSU rates its moisture requirement low, and on the semi-arid Front Range that is the number that matters most — the commonest way to kill a xeric native here is kindness with the hose.[1][2]",
+    "spacing": "Space to suit its mature spread of spreading. Coarse silver foliage with an insignificant bloom — and CSU flags it plainly as an aggressive grower.[1]",
+    "propagation": "By seed, which is how nearly all of these natives are raised and how they persist in a planting. Autumn sowing outdoors lets winter provide the chilling most of them want.[1]",
+    "bloom": "Flowers negligibly — it is grown for foliage; CSU records the colour as insignificant (it is a foliage plant) and the height as 15–30 in tall.[1]",
+    "maintenance": "Site it where spreading is acceptable — a hell strip, a dry bank, a bed with a hard edge — or sink a root barrier. CSU's 'aggressive grower' is the operative fact about this plant, more than any question of culture: it will outrun a polite perennial border. Cut it to the ground in late winter and pull the runners you don't want each spring.[1]",
+    "troubles": "Few pests or diseases when it is sited right. Crown and root rot in soil that stays wet is the usual cause of failure for a Colorado native in a Front Range garden, and it is a siting problem rather than bad luck.[1][2]"
+  },
+  "references": [
+    {
+      "name": "CSU Extension — Native Herbaceous Perennials for Colorado Landscapes (fact sheet 7.242, PDF: complete Table 1)",
+      "url": "https://www.extension.colostate.edu/docs/pubs/garden/07242.pdf"
+    },
+    {
+      "name": "CSU Extension — Xeriscaping: Perennials and Annual Flowers (7.231)",
+      "url": "https://extension.colostate.edu/topic-areas/yard-garden/xeriscaping-perennials-and-annual-flowers-7-231/"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      1
+    ],
+    "sun": [
+      1
+    ],
+    "water": [
+      1,
+      2
+    ],
+    "spread": [
+      1
+    ],
+    "seasons": [
+      1
+    ],
+    "deer": [
+      1
+    ],
+    "ph": [
+      2
+    ]
+  },
+  "edible": {
+    "level": "caution",
+    "food": false,
+    "summary": "Aromatic, and important ceremonially and medicinally, but not a food — Artemisia species carry thujone and related compounds.[1]",
+    "caution": "This guide does not treat prairie sage as food. It is one of the most culturally important plants of the Plains, used for smudging and medicine, and that record deserves respect rather than casual experimentation. Chemically, *Artemisia* species characteristically contain thujone and related volatiles that are neurotoxic in quantity. Don't brew or eat it, keep it away from children and from anyone pregnant or nursing, and note it is a different plant entirely from culinary sage (*Salvia officinalis*), despite the name.[1]"
+  },
+  "shots": [
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/558694489/large.jpg",
+      "s": "summer",
+      "cap": "Summer — the coarse silver-white foliage · © meowdle (CC-BY-NC) / iNaturalist",
+      "by": "meowdle",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/309601441"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/524793095/large.jpg",
+      "s": "summer",
+      "cap": "Summer — upright silver stems in a colony · © inspectahjess (CC-BY-NC) / iNaturalist",
+      "by": "inspectahjess",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/291668957"
+    },
+    {
+      "local": "images/su-plants-t.jpg",
+      "full": "images/su-plants.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/22164365/large.jpg",
+      "s": "summer",
+      "cap": "Summer — a spreading colony · © Jessica (CC-BY-NC) / iNaturalist",
+      "by": "Jessica",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/14847476"
+    },
+    {
+      "local": "images/sp-clump-t.jpg",
+      "full": "images/sp-clump.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/507097057/large.jpg",
+      "s": "spring",
+      "cap": "Spring — a silver clump · © Bunny Pfau (CC-BY-NC) / iNaturalist",
+      "by": "Bunny Pfau",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/282257307"
+    },
+    {
+      "local": "images/sp-mass-t.jpg",
+      "full": "images/sp-mass.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/512484627/large.jpg",
+      "s": "spring",
+      "cap": "Spring — the plant in a dry meadow · © francescabradley (CC-BY-NC) / iNaturalist",
+      "by": "francescabradley",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/285130241"
+    },
+    {
+      "local": "images/su-leaves-t.jpg",
+      "full": "images/su-leaves.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/40665252/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — felted silver leaves · © connorbenfield (CC-BY-NC) / iNaturalist",
+      "by": "connorbenfield",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/26202331"
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+[
+  {
+    "file": "images/sp-flower.jpg",
+    "photo_id": 282307528,
+    "by": "David Martin",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/163236979",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      1091
+    ],
+    "thumb_px": [
+      400,
+      312
+    ]
+  },
+  {
+    "file": "images/sp-foliage.jpg",
+    "photo_id": 39930043,
+    "by": "dlehle",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/25758183",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      1050
+    ],
+    "thumb_px": [
+      400,
+      300
+    ]
+  },
+  {
+    "file": "images/su-flowers.jpg",
+    "photo_id": 264349796,
+    "by": "donotblinkjustobserve_heather",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/153082416",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      933,
+      1306
+    ],
+    "thumb_px": [
+      286,
+      400
+    ]
+  },
+  {
+    "file": "images/su-plant.jpg",
+    "photo_id": 152702366,
+    "by": "vzink",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/92243127",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  },
+  {
+    "file": "images/sp-sand.jpg",
+    "photo_id": 27379604,
+    "by": "Brian Johnson",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/17923141",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      1050
+    ],
+    "thumb_px": [
+      400,
+      300
+    ]
+  },
+  {
+    "file": "images/sp-clump.jpg",
+    "photo_id": 646615869,
+    "by": "Alice Guthrie",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/354460449",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  }
+]

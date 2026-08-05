@@ -1,0 +1,153 @@
+{
+  "common": "Lavenderleaf sundrops",
+  "botanical": "Calylophus lavandulifolius",
+  "type": "Groundcover",
+  "lifecycle": "Perennial",
+  "native": "CO native",
+  "aka": [
+    "Lavender-leaf sundrops",
+    "Sundrops",
+    "Oenothera lavandulifolia"
+  ],
+  "flower_color": [
+    "yellow",
+    "orange"
+  ],
+  "bloom": [
+    "summer"
+  ],
+  "blurb": "A low spreading carpet of narrow green leaves opening lemon-yellow four-petalled cups one at a time, all summer. The spent flowers age to orange, so a clump carries both colours at once. It likes heat and lean ground.",
+  "size": "~4–8 in tall × spreading",
+  "sun": "Full sun",
+  "water": "Low; xeric — well-drained ground, little or no supplemental water once established",
+  "spread": "Mat-forming: spreading stems knit into a low carpet",
+  "seasons": "Lemon-yellow four-petalled cups through summer, spent flowers ageing orange; low spreading foliage",
+  "wildlife": "Native bees and butterflies work the flowers",
+  "deer": "Generally deer resistant",
+  "toxic": "",
+  "winter": false,
+  "verified": "2026-08-04",
+  "collection": "sundrops",
+  "ph": {
+    "min": 6.0,
+    "ideal": 7.2,
+    "max": 8.0
+  },
+  "care": {
+    "hardiness": "CSU lists this as a Colorado native plantable to about 7,000 ft, so cold is not the constraint at Boulder's zone 5b–6a.[1]",
+    "planting": "Plant in spring after the mid-May last frost, or in early fall, into ground prepared to suit it (see Soil). Set out young container plants — most of these natives resent having an established root system disturbed — and water them in well, then taper off.[1][2]",
+    "sun": "Full sun, which is CSU's exposure rating for it.[1]",
+    "soil": "Well-drained soil, and lean. Both *Calylophus* on CSU's list want sharp drainage and heat; rich, damp ground rots the crown.[1]",
+    "water": "Low. CSU rates its moisture requirement low, and on the semi-arid Front Range that is the number that matters most — the commonest way to kill a xeric native here is kindness with the hose.[1][2]",
+    "spacing": "Space to suit its mature spread of spreading. A spreading habit with narrow green leaves and four-petalled flowers borne singly on the stems — CSU notes it is long blooming and likes heat.[1]",
+    "propagation": "By seed, which is how nearly all of these natives are raised and how they persist in a planting. Autumn sowing outdoors lets winter provide the chilling most of them want.[1]",
+    "bloom": "Flowers roughly June through mid-August; CSU records the colour as yellow, orange and the height as 4–8 in tall.[1]",
+    "maintenance": "Low. Cut old growth back in late winter or early spring rather than in fall, so the stems hold snow and give the crown some cover. Skip fertilizer: lean soil keeps these natives compact and long-lived.[1][2]",
+    "troubles": "Few pests or diseases when it is sited right. Crown and root rot in soil that stays wet is the usual cause of failure for a Colorado native in a Front Range garden, and it is a siting problem rather than bad luck.[1][2]"
+  },
+  "references": [
+    {
+      "name": "CSU Extension — Native Herbaceous Perennials for Colorado Landscapes (fact sheet 7.242, PDF: complete Table 1)",
+      "url": "https://www.extension.colostate.edu/docs/pubs/garden/07242.pdf"
+    },
+    {
+      "name": "CSU Extension — Xeriscaping: Perennials and Annual Flowers (7.231)",
+      "url": "https://extension.colostate.edu/topic-areas/yard-garden/xeriscaping-perennials-and-annual-flowers-7-231/"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      1
+    ],
+    "sun": [
+      1
+    ],
+    "water": [
+      1,
+      2
+    ],
+    "spread": [
+      1
+    ],
+    "seasons": [
+      1
+    ],
+    "deer": [
+      1
+    ],
+    "ph": [
+      2
+    ],
+    "wildlife": [
+      1
+    ]
+  },
+  "edible": {
+    "level": "inedible",
+    "food": false,
+    "summary": "No documented culinary use; grown as a xeric groundcover.[1]",
+    "caution": "No authority consulted documents a food use for this plant, so this guide treats it as inedible — don't eat it. It sits in the evening-primrose family, some of whose members have a food record, but that does not transfer to this species and this guide does not extend it.[1]"
+  },
+  "shots": [
+    {
+      "local": "images/su-colour-t.jpg",
+      "full": "images/su-colour.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/214220643/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — a spent orange flower beside a fresh yellow one · © Kaden Slone (CC-BY) / iNaturalist",
+      "by": "Kaden Slone",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/126266076"
+    },
+    {
+      "local": "images/sp-flower-t.jpg",
+      "full": "images/sp-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/133046884/large.jpg",
+      "s": "spring",
+      "cap": "Spring — a lemon-yellow four-petalled cup · © Wren Mei Ferguson (CC-BY-NC) / iNaturalist",
+      "by": "Wren Mei Ferguson",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/81134175"
+    },
+    {
+      "local": "images/sp-flowers-t.jpg",
+      "full": "images/sp-flowers.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/387786248/large.jpg",
+      "s": "spring",
+      "cap": "Spring — flowers over narrow foliage · © gibrokich (CC-BY-NC) / iNaturalist",
+      "by": "gibrokich",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/219105082"
+    },
+    {
+      "local": "images/sp-mat-t.jpg",
+      "full": "images/sp-mat.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/637059876/large.jpg",
+      "s": "spring",
+      "cap": "Spring — the low spreading mat in bloom · © cyphorhinus (CC-BY-NC) / iNaturalist",
+      "by": "cyphorhinus",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/349243139"
+    },
+    {
+      "local": "images/su-plant-t.jpg",
+      "full": "images/su-plant.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/144466691/large.jpg",
+      "s": "summer",
+      "cap": "Summer — the whole plant · © Reid Hardin (CC-BY) / iNaturalist",
+      "by": "Reid Hardin",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/87612845"
+    },
+    {
+      "local": "images/sp-habitat-t.jpg",
+      "full": "images/sp-habitat.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/41175409/large.jpeg",
+      "s": "spring",
+      "cap": "Spring — in dry gravelly ground · © mlavan (CC-BY-NC) / iNaturalist",
+      "by": "mlavan",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/26512203"
+    }
+  ]
+}

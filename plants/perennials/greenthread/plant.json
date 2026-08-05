@@ -1,0 +1,164 @@
+{
+  "common": "Greenthread",
+  "botanical": "Thelesperma filifolium",
+  "type": "Forb",
+  "lifecycle": "Perennial",
+  "native": "CO native",
+  "aka": [
+    "Navajo tea",
+    "Hopi tea",
+    "Cota",
+    "Stiff greenthread",
+    "Plains greenthread"
+  ],
+  "flower_color": [
+    "yellow"
+  ],
+  "bloom": [
+    "summer",
+    "fall"
+  ],
+  "bloom_season": "Summer",
+  "blurb": "A vase-shaped clump of thread-fine dissected leaves carrying golden daisies in profusion over a very long season. Known across the Southwest as Navajo tea or cota — the dried plant makes a smoky, faintly sweet beverage with centuries of use behind it.",
+  "size": "~16–24 in tall × 12–18 in wide",
+  "sun": "Full sun",
+  "water": "Low; xeric — well-drained ground, little or no supplemental water once established",
+  "spread": "Vase-shaped clump; reseeds modestly",
+  "seasons": "Profuse golden daisies from midsummer to frost over finely dissected foliage; dies back in winter",
+  "wildlife": "Native bees and butterflies work the flowers",
+  "deer": "Generally deer resistant",
+  "toxic": "",
+  "winter": false,
+  "verified": "2026-08-04",
+  "ph": {
+    "min": 6.0,
+    "ideal": 7.2,
+    "max": 8.0
+  },
+  "care": {
+    "hardiness": "CSU lists this as a Colorado native plantable to about 8,000 ft, so cold is not the constraint at Boulder's zone 5b–6a.[1]",
+    "planting": "Plant in spring after the mid-May last frost, or in early fall, into ground prepared to suit it (see Soil). Set out young container plants — most of these natives resent having an established root system disturbed — and water them in well, then taper off.[1][2]",
+    "sun": "Full sun, which is CSU's exposure rating for it.[1]",
+    "soil": "Well-drained soil — dry, sandy, clay or rocky ground all suit it. This is a plains and Southwest plant that asks for drainage and heat, not fertility.[1][3]",
+    "water": "Low. CSU rates its moisture requirement low, and on the semi-arid Front Range that is the number that matters most — the commonest way to kill a xeric native here is kindness with the hose.[1][2]",
+    "spacing": "Space to suit its mature spread of 12–18 in wide. A vase-shaped clump with finely dissected leaves and profuse daisy-like flowers over a long period.[1]",
+    "propagation": "By seed, which is how nearly all of these natives are raised and how they persist in a planting. Autumn sowing outdoors lets winter provide the chilling most of them want.[1]",
+    "bloom": "Flowers from midsummer through to frost; CSU records the colour as yellow and the height as 16–24 in tall.[1][3]",
+    "maintenance": "If you want it for tea, cut whole stems while it is in flower and dry them in bundles out of direct sun; the traditional preparation uses the dried leaves and stems rather than fresh material. Otherwise just let it bloom and reseed — it is one of the longest-flowering natives on CSU's list.[1][3]",
+    "troubles": "Few pests or diseases when it is sited right. Crown and root rot in soil that stays wet is the usual cause of failure for a Colorado native in a Front Range garden, and it is a siting problem rather than bad luck.[1][2]"
+  },
+  "references": [
+    {
+      "name": "CSU Extension — Native Herbaceous Perennials for Colorado Landscapes (fact sheet 7.242, PDF: complete Table 1)",
+      "url": "https://www.extension.colostate.edu/docs/pubs/garden/07242.pdf"
+    },
+    {
+      "name": "CSU Extension — Xeriscaping: Perennials and Annual Flowers (7.231)",
+      "url": "https://extension.colostate.edu/topic-areas/yard-garden/xeriscaping-perennials-and-annual-flowers-7-231/"
+    },
+    {
+      "name": "UTEP Herbal Safety — Cota (Thelesperma, greenthread/Navajo tea)",
+      "url": "https://www.utep.edu/herbal-safety/herbal-facts/herbal%20facts%20sheet/cota.html"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      1,
+      3
+    ],
+    "sun": [
+      1
+    ],
+    "water": [
+      1,
+      2
+    ],
+    "spread": [
+      1
+    ],
+    "seasons": [
+      1
+    ],
+    "deer": [
+      1
+    ],
+    "ph": [
+      2
+    ],
+    "wildlife": [
+      1
+    ]
+  },
+  "edible": {
+    "level": "edible",
+    "food": true,
+    "kinds": [
+      "leaves"
+    ],
+    "card": "Dried leaves & stems for tea (Navajo tea / cota)",
+    "summary": "A genuine, long-documented tea plant: the dried leaves and stems make the Southwestern beverage known as Navajo tea, Hopi tea or cota.[1][3]",
+    "caution": "This is a real and long-used beverage plant — Navajo, Hopi, Apache and Pueblo communities have made tea from greenthread for centuries, and several *Thelesperma* species are used interchangeably for it. Sensible limits. It is a tea herb, not a vegetable: use the dried leaves and stems as an infusion rather than eating the plant. The traditional record also describes it as a mild diuretic, so it is not a drink to take in unlimited quantity, and there is no established dose — if you are pregnant, nursing or on medication, treat it as you would any herbal infusion and check first. It is an Asteraceae, so daisy-family allergies apply. Harvest only from plants you have grown or can confirm are unsprayed, and identify carefully before drinking anything.[1][3]"
+  },
+  "shots": [
+    {
+      "local": "images/su-flower-t.jpg",
+      "full": "images/su-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/288346779/large.jpg",
+      "s": "summer",
+      "cap": "Summer — a golden daisy in close detail · © Scott Greubel (CC-BY-NC) / iNaturalist",
+      "by": "Scott Greubel",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/166506520"
+    },
+    {
+      "local": "images/su-daisies-t.jpg",
+      "full": "images/su-daisies.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/42260303/large.jpg",
+      "s": "summer",
+      "cap": "Summer — daisies over threadlike foliage · © austin8836 (CC-BY-NC) / iNaturalist",
+      "by": "austin8836",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/27178811"
+    },
+    {
+      "local": "images/su-mass-t.jpg",
+      "full": "images/su-mass.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/399683126/large.jpg",
+      "s": "summer",
+      "cap": "Summer — the clump in profuse bloom · © oneearthwi (CC-BY-NC) / iNaturalist",
+      "by": "oneearthwi",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/225432008"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/418562169/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — flower and dissected leaves · © Lorraine Lanning (CC-BY-NC) / iNaturalist",
+      "by": "Lorraine Lanning",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/235361489"
+    },
+    {
+      "local": "images/su-flowers-t.jpg",
+      "full": "images/su-flowers.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/140617400/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — flowers face-on · © anneomaly (CC-BY-NC) / iNaturalist",
+      "by": "anneomaly",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/85462430"
+    },
+    {
+      "local": "images/sp-threadleaf-t.jpg",
+      "full": "images/sp-threadleaf.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/535766438/large.jpg",
+      "s": "spring",
+      "cap": "Spring — the thread-fine foliage · © Becca Lee (CC-BY-NC) / iNaturalist",
+      "by": "Becca Lee",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/297492542"
+    }
+  ]
+}

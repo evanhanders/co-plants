@@ -1,0 +1,151 @@
+{
+  "common": "Pearly everlasting",
+  "botanical": "Anaphalis margaritacea",
+  "type": "Forb",
+  "lifecycle": "Perennial",
+  "native": "CO native",
+  "aka": [
+    "Western pearly everlasting",
+    "Life everlasting"
+  ],
+  "flower_color": [
+    "white"
+  ],
+  "bloom": [
+    "summer"
+  ],
+  "bloom_season": "Summer",
+  "blurb": "Silver-felted stems topped with tight buttons of papery white bracts that dry perfectly and hold their shape for years — the classic everlasting for winter arrangements, and tough enough for almost any soil to 10,500 ft.",
+  "size": "~12–20 in tall × 12–18 in wide",
+  "sun": "Full sun to part shade",
+  "water": "Low to moderate; occasional deep soak in summer heat",
+  "spread": "Upright, spreading slowly at the root into loose colonies",
+  "seasons": "White button clusters in summer over silvery foliage; the dried heads persist into winter",
+  "wildlife": "Native bees and butterflies work the flowers",
+  "deer": "Generally deer resistant",
+  "toxic": "",
+  "winter": false,
+  "verified": "2026-08-04",
+  "ph": {
+    "min": 6.0,
+    "ideal": 7.2,
+    "max": 8.0
+  },
+  "care": {
+    "hardiness": "CSU lists this as a Colorado native plantable to about 10,500 ft, so cold is not the constraint at Boulder's zone 5b–6a.[1]",
+    "planting": "Plant in spring after the mid-May last frost, or in early fall, into ground prepared to suit it (see Soil). Set out young container plants — most of these natives resent having an established root system disturbed — and water them in well, then taper off.[1][2]",
+    "sun": "Full sun to part shade, which is CSU's exposure rating for it.[1]",
+    "soil": "Most soils, per CSU — this is one of the least fussy plants on the list. Good drainage still helps, but it does not demand the sharp, lean conditions the desert species do.[1]",
+    "water": "Low to moderate. CSU rates its moisture requirement low to moderate, and on the semi-arid Front Range that is the number that matters most — the commonest way to kill a xeric native here is kindness with the hose.[1][2]",
+    "spacing": "Space to suit its mature spread of 12–18 in wide. Silvery foliage with button-like clusters on top of upright stems — CSU rates it an excellent dried flower, and it takes most soils.[1]",
+    "propagation": "By seed, which is how nearly all of these natives are raised and how they persist in a planting. Autumn sowing outdoors lets winter provide the chilling most of them want.[1]",
+    "bloom": "Flowers roughly June through mid-August; CSU records the colour as white and the height as 12–20 in tall.[1]",
+    "maintenance": "Low. Cut old growth back in late winter or early spring rather than in fall, so the stems hold snow and give the crown some cover. Skip fertilizer: lean soil keeps these natives compact and long-lived.[1][2]",
+    "troubles": "Few pests or diseases when it is sited right. Crown and root rot in soil that stays wet is the usual cause of failure for a Colorado native in a Front Range garden, and it is a siting problem rather than bad luck.[1][2]"
+  },
+  "references": [
+    {
+      "name": "CSU Extension — Native Herbaceous Perennials for Colorado Landscapes (fact sheet 7.242, PDF: complete Table 1)",
+      "url": "https://www.extension.colostate.edu/docs/pubs/garden/07242.pdf"
+    },
+    {
+      "name": "CSU Extension — Xeriscaping: Perennials and Annual Flowers (7.231)",
+      "url": "https://extension.colostate.edu/topic-areas/yard-garden/xeriscaping-perennials-and-annual-flowers-7-231/"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      1
+    ],
+    "sun": [
+      1
+    ],
+    "water": [
+      1,
+      2
+    ],
+    "spread": [
+      1
+    ],
+    "seasons": [
+      1
+    ],
+    "deer": [
+      1
+    ],
+    "ph": [
+      2
+    ],
+    "wildlife": [
+      1
+    ]
+  },
+  "edible": {
+    "level": "inedible",
+    "food": false,
+    "summary": "No documented culinary use; grown as an ornamental and for dried arrangements.[1]",
+    "caution": "No authority consulted documents a food use for pearly everlasting, so this guide treats it as inedible — don't eat it. No part is recorded as notably poisonous either, but an absent poisoning record is not evidence of edibility. It is an Asteraceae, so anyone with a daisy-family allergy should handle it with that in mind.[1]"
+  },
+  "shots": [
+    {
+      "local": "images/fa-flower-t.jpg",
+      "full": "images/fa-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/563451270/large.jpg",
+      "s": "fall",
+      "cap": "Fall — white papery button clusters · © jayburke (CC-BY-NC) / iNaturalist",
+      "by": "jayburke",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/312098323"
+    },
+    {
+      "local": "images/su-clusters-t.jpg",
+      "full": "images/su-clusters.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/225805948/large.jpg",
+      "s": "summer",
+      "cap": "Summer — flowerheads over silver foliage · © Chris F (CC-BY-NC) / iNaturalist",
+      "by": "Chris F",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/132599542"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/418783414/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — the silver-felted foliage · © Gage Barnes (CC-BY-NC) / iNaturalist",
+      "by": "Gage Barnes",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/235473459"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/11770338/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — the whole plant in bloom · © rwyatt (CC-BY-NC) / iNaturalist",
+      "by": "rwyatt",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/8763752"
+    },
+    {
+      "local": "images/su-context-t.jpg",
+      "full": "images/su-context.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/597880313/large.jpg",
+      "s": "summer",
+      "cap": "Summer — in a wild montane setting · © calekennamer (CC-BY-NC) / iNaturalist",
+      "by": "calekennamer",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/329793002"
+    },
+    {
+      "local": "images/su-flowers2-t.jpg",
+      "full": "images/su-flowers2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/23855562/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — open flowerheads · © Bridget Sandoval (CC-BY-NC) / iNaturalist",
+      "by": "Bridget Sandoval",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/15942455"
+    }
+  ]
+}

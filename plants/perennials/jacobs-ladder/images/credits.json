@@ -1,0 +1,104 @@
+[
+  {
+    "file": "images/su-flower.jpg",
+    "photo_id": 140621183,
+    "by": "amantedarmanin",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/observations/85482739",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      1050
+    ],
+    "thumb_px": [
+      400,
+      300
+    ]
+  },
+  {
+    "file": "images/su-mass.jpg",
+    "photo_id": 479039719,
+    "by": "zebedeugalinha",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/observations/266612440",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      1050
+    ],
+    "thumb_px": [
+      400,
+      300
+    ]
+  },
+  {
+    "file": "images/sp-cluster.jpg",
+    "photo_id": 77003118,
+    "by": "Martin Rader",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/48524556",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      931
+    ],
+    "thumb_px": [
+      400,
+      266
+    ]
+  },
+  {
+    "file": "images/su-spike.jpg",
+    "photo_id": 206473286,
+    "by": "markus-fiala",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/121978083",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1133,
+      1400
+    ],
+    "thumb_px": [
+      324,
+      400
+    ]
+  },
+  {
+    "file": "images/su-habit.jpg",
+    "photo_id": 80048584,
+    "by": "Илья Сухов",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/50414867",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      933,
+      1400
+    ],
+    "thumb_px": [
+      267,
+      400
+    ]
+  },
+  {
+    "file": "images/su-pale.jpg",
+    "photo_id": 209812093,
+    "by": "Арина Юминова",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/123824287",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  }
+]

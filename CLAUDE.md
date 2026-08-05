@@ -504,8 +504,8 @@ scabious, prairie-coneflowers, pinks, coreopsis, sumacs, primulas, ornamental-or
 bugleweeds, pasqueflowers, coral-bells, elderberries, burnets, yarrows, poppies, peonies,
 hummingbird-mints, four-o'clocks, evening-primroses, oregon-grapes, lindens, hawthorns,
 rhododendrons, phloxes, sages, honeysuckle-vines, speedwells, lamb's-ears, sea-hollies,
-globemallows, hollyhocks —
-**54 in all**) collapse
+globemallows, hollyhocks, pussytoes, artemisias, sundrops —
+**57 in all**) collapse
 into a **single expandable family card** so the grid isn't buried under near-duplicate cards. It's
 an **inline accordion**, not a separate page — each member keeps its own detail page untouched.
 The bar for a collection is "would a gardener read these as one kind of plant in different
@@ -1147,7 +1147,7 @@ ground every statement in an authority cited in `references`.
 
 ## Current plant roster (in the live site)
 
-**337 specimens** (`plants/manifest.json` is the source of truth for the exact count), all verified
+**359 specimens** (`plants/manifest.json` is the source of truth for the exact count), all verified
 non-weed in CO and all carrying a full `care` block (incl.
 `planting` + `propagation`) **and a repo-hosted photo reel** (close-up + structure, seasonal
 where good shots exist). Every plant's detail page is **fully cited** — a numbered
@@ -1721,7 +1721,57 @@ a winter shot would justify flipping it. Reels are **6–7 CC shots** each rathe
 narrow-range natives with thin CC supply. Pick QC dropped three thumbs: two near-empty frames on sidebells
 (re-picked) and a dead brown "rosette" on shell-leaf.
 
-**Still outstanding — the other 22 taxa from 7.242** (tracked under Open work).
+**CSU 7.242 sweep, part 2 — the remaining 22 (August 2026):** the rest of Table 1 shipped, completing the
+sweep. Roster 337 → **359**; 7.242 is now fully represented. Three new family cards: **`pussytoes`**
+(Groundcovers, lead = littleleaf pussytoes) holding *Antennaria parvifolia* + *A. rosea*, which CSU lists as a
+single row; **`artemisias`** (Subshrubs, lead = fringed sage) holding *Artemisia frigida* + *A. ludoviciana*;
+and **`sundrops`** (Subshrubs, lead = lavenderleaf sundrops) holding the two *Calylophus*. The other 16 are
+standalone: dwarf blue star, pearly everlasting, cutleaf anemone, chocolate flower, harebell, sugarbowls,
+sticky geranium, bush morning glory, scarlet gilia, white-tufted evening primrose, Jacob's ladder, Canada
+goldenrod, prince's plume, greenthread, prairie spiderwort and spreading vervain.
+
+**The nativity error in the source, corrected here.** CSU's Table 1 lists ***Polemonium caeruleum*** as a
+Colorado native. It is not — *P. caeruleum* is native to temperate Europe and northern Asia. Colorado's own
+Jacob's ladders are *P. occidentale* and *P. foliosissimum*; some treatments sink the former into
+*P. caeruleum* as a subspecies, which is the likeliest cause of the listing. The entry is therefore badged
+**`Non-native`** with its honest Eurasian `origin`/`habitat`, and its `care` says so plainly and points the
+reader at the two real natives. **This is the one place in the guide where a CSU fact sheet is contradicted
+on purpose** — don't "fix" it back.
+
+**Other calls worth remembering:**
+- **Canada goldenrod runs.** CSU's own comment says it *spreads by underground rhizomes*, so its `spread`
+  states that positively, the SPREADS badge fires correctly, and its `maintenance` points at the guide's
+  clumping *S. speciosa* as the well-behaved alternative. CSU also kills the myth: goldenrod is
+  **mistakenly blamed** for hay fever (heavy insect-carried pollen; ragweed is the culprit).
+- **Prince's plume is a selenium hyperaccumulator** — to ~1% of shoot dry weight, causing severe selenium
+  poisoning in cattle, sheep and horses. Set `toxic`. There is a historical record of the shoots boiled
+  through several waters as "Indian cabbage"; the entry deliberately does **not** present that as usable,
+  because selenium load tracks the soil and cannot be judged by eye.
+- **Greenthread is the batch's one `food` plant** — genuinely Navajo/Hopi/cota tea, dried leaves and stems,
+  cited to UTEP's herbal-safety sheet.
+- **`toxic` calls:** dwarf blue star (Apocynaceae milky sap), cutleaf anemone (LBJ: *all fresh parts
+  poisonous*) and sugarbowls (Ranunculaceae protoanemonin, as for every *Clematis* here). **Sugarbowls is a
+  non-vining herbaceous *Clematis*** — same shrub-not-vine distinction as Mongolian Gold, and emphatically
+  not the List-B *C. orientalis*; it is often filed as *C. hirsutissima* var. *scottii*.
+- **Both *Artemisia* are `caution`, not food** (thujone), and the collection blurb disambiguates them from
+  the guide's `sages` (= *Salvia*) and from List-B absinth wormwood.
+- **Naming:** *Anemone multifida* is entered as **cutleaf anemone**, not "windflower", to avoid colliding
+  with the guide's Grecian windflower. *Glandularia bipinnatifida* is entered under its current name with
+  the old *Verbena bipinnatifida* in `aka`, and is a different plant from the guide's *G. canadensis*.
+
+**Sourcing + a tooling limitation to know about.** These 22 rest on **CSU 7.242** (which carries per-species
+elevation, bloom window, exposure, moisture class, colour, height and a habit comment — enough for the card
+fields and `fact_src` on its own) plus **CSU 7.231** for xeric Front-Range framing, with extra sources cited
+**only** where the page was actually opened: Plant Select (blue star, chocolate flower), LBJ (cutleaf anemone,
+bush morning glory, prince's plume), the selenium paper, UTEP's cota sheet and Wikipedia (Polemonium range).
+Two gotchas: **cite the 7.242 PDF, not the web page** — the page's Table 1 is truncated and drops every A–D
+row, so a genus like *Antennaria* simply is not on it. And **`check_citations.py` reports REVIEW on that PDF**
+because the table's embedded font defeats text extraction, so 7 of these plants show "no content-verified
+source". That is a checker limitation, not a wrong-plant citation: the table was read by hand with
+`pdfminer.six` (stub `cryptography.hazmat.*` in `sys.modules` first — the system build panics). `check_refs`
+guide-wide PASS (359 plants, 0 errors, 0 warnings); `check_citations` on the 22 PASS (0 DEAD). Reels are
+**6–7 CC shots** each via the Colorado-records montage pass, 720×480 smart-crop thumbs, seasons from real
+capture dates; **133 images**.
 
 **Trees**
 - River hawthorn (*Crataegus rivularis*) (N) — Thorny native small tree; white spring flowers, dark edible haws, superb wildlife cover. A caterpillar keystone (~90 Lepidoptera). *(Riparian — wants more water; edible haws, spit the cyanogenic seeds.)*
@@ -2038,30 +2088,6 @@ The current backlog. Move items out of this section as they ship.
   but needs a careful re-audit — a naive strip flips `groundcovers/woolly-yarrow` and
   `perennials/white-prairie-aster` **off**, and both arguably *should* stay on. Whichever way, re-run
   the audit and eyeball the resulting Spreads chip count.
-
-- **CSU 7.242 sweep — 22 taxa still to add.** The nine penstemons shipped; these 22 from fact sheet
-  7.242's Table 1 are still missing (all weed-checked clear 2026-08-04, all CO natives per CSU):
-  *Amsonia jonesii* (blue star, Plant Select), *Anaphalis margaritacea* (pearly everlasting),
-  *Anemone multifida* (cutleaf anemone/windflower — pick a common name that doesn't collide with the
-  guide's existing Grecian windflower), *Antennaria parvifolia* + *A. rosea* (pussytoes — CSU lists them
-  as one row; they'd make a two-member family card), *Artemisia frigida* + *A. ludoviciana* (fringed and
-  prairie sage — a possible collection, but note the naming clash with the guide's existing `sages` =
-  *Salvia*), *Berlandiera lyrata* (chocolate flower), *Calylophus lavandulifolius* + *C. serrulatus*
-  (another candidate pair), *Campanula rotundifolia* (harebell), *Clematis scottii* (sugarbowls — a
-  **non-vining Forb**, like Mongolian Gold, NOT the List-B *C. orientalis*), *Geranium viscosissimum*
-  (sticky geranium), *Ipomoea leptophylla* (bush morning glory — relative of List-C field bindweed
-  *Convolvulus arvensis*, but itself unlisted), *Ipomopsis aggregata* (scarlet gilia),
-  *Oenothera caespitosa* (white-tufted evening primrose), *Polemonium caeruleum* (Jacob's ladder —
-  **check nativity honestly: *P. caeruleum* is a Eurasian species and CSU's listing of it as a Colorado
-  native looks doubtful; the CO natives are *P. occidentale* / *P. foliosissimum*, so this may need
-  `Non-native` or a substitution**), *Solidago canadensis* (Canada goldenrod — CSU's own comment says it
-  **spreads by underground rhizomes**, so it needs containment notes and is a genuine SPREADS badge,
-  unlike the guide's clumping *S. speciosa*), *Stanleya pinnata* (prince's plume),
-  *Thelesperma filifolium* (greenthread/Navajo tea), *Tradescantia occidentalis* (prairie spiderwort),
-  and *Glandularia bipinnatifida* (spreading vervain, listed by CSU under the old name *Verbena
-  bipinnatifida* — the guide already has *G. canadensis*, a different species).
-  Montages for all 22 are already built under `/tmp/cw_main|cw_fruit|cw_foliage` if that session is still
-  warm; otherwise re-run `inat_montage.py`.
 
 - **Trim the batch-1 fulls:** a few early full images (e.g. dogwood `wi-stems.jpg`,
   little-bluestem) were saved at q85/1500px (~0.8 MB); later batches use q82/1400px.

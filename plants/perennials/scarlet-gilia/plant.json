@@ -1,0 +1,155 @@
+{
+  "common": "Scarlet gilia",
+  "botanical": "Ipomopsis aggregata",
+  "type": "Forb",
+  "lifecycle": "Biennial",
+  "native": "CO native",
+  "aka": [
+    "Fairy trumpets",
+    "Skyrocket",
+    "Ipomopsis aggregata",
+    "Gilia aggregata"
+  ],
+  "flower_color": [
+    "red",
+    "pink",
+    "white"
+  ],
+  "bloom": [
+    "summer"
+  ],
+  "bloom_season": "Summer",
+  "blurb": "Long scarlet trumpets ranged up a slender stalk, built for hummingbird beaks and mobbed by them. It is a biennial — a flat rosette of finely divided leaves the first year, the flowering spike the second — so it carries on by seeding rather than by persisting.",
+  "size": "~12–30 in tall × 8–12 in wide",
+  "sun": "Full sun",
+  "water": "Low; xeric — well-drained ground, little or no supplemental water once established",
+  "spread": "Single flowering stalk from a basal rosette; reseeds readily",
+  "seasons": "Scarlet (sometimes pink or white) trumpets through summer on a slender spike; a low rosette in its first year",
+  "wildlife": "Native bees and butterflies work the flowers",
+  "deer": "Generally deer resistant",
+  "toxic": "",
+  "winter": false,
+  "verified": "2026-08-04",
+  "ph": {
+    "min": 6.0,
+    "ideal": 7.2,
+    "max": 8.0
+  },
+  "care": {
+    "hardiness": "CSU lists this as a Colorado native plantable to about 9,000 ft, so cold is not the constraint at Boulder's zone 5b–6a.[1]",
+    "planting": "Plant in spring after the mid-May last frost, or in early fall, into ground prepared to suit it (see Soil). Set out young container plants — most of these natives resent having an established root system disturbed — and water them in well, then taper off.[1][2]",
+    "sun": "Full sun, which is CSU's exposure rating for it.[1]",
+    "soil": "Well-drained soil, lean and gritty. It is a plant of dry open slopes and clearings; the rosette rots in wet ground over winter, which is the usual way gardeners lose it.[1]",
+    "water": "Low. CSU rates its moisture requirement low, and on the semi-arid Front Range that is the number that matters most — the commonest way to kill a xeric native here is kindness with the hose.[1][2]",
+    "spacing": "Space to suit its mature spread of 8–12 in wide. A rosette of finely divided leaves throwing trumpet-shaped flowers that attract hummingbirds — CSU notes it is a biennial and reseeds readily.[1]",
+    "propagation": "By seed, which is how nearly all of these natives are raised and how they persist in a planting. Autumn sowing outdoors lets winter provide the chilling most of them want.[1]",
+    "bloom": "Flowers roughly June through mid-August; CSU records the colour as red, pink, white and the height as 12–30 in tall.[1]",
+    "maintenance": "Treat it as a self-renewing colony, not a clump. Because it is biennial, the way to keep it is to let some seed fall every year — deadhead everything and you will have no plants in two years' time. Sow a patch two years running to get overlapping generations, then leave it alone.[1]",
+    "troubles": "Few pests or diseases when it is sited right. Crown and root rot in soil that stays wet is the usual cause of failure for a Colorado native in a Front Range garden, and it is a siting problem rather than bad luck.[1][2]"
+  },
+  "references": [
+    {
+      "name": "CSU Extension — Native Herbaceous Perennials for Colorado Landscapes (fact sheet 7.242, PDF: complete Table 1)",
+      "url": "https://www.extension.colostate.edu/docs/pubs/garden/07242.pdf"
+    },
+    {
+      "name": "CSU Extension — Xeriscaping: Perennials and Annual Flowers (7.231)",
+      "url": "https://extension.colostate.edu/topic-areas/yard-garden/xeriscaping-perennials-and-annual-flowers-7-231/"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      1
+    ],
+    "sun": [
+      1
+    ],
+    "water": [
+      1,
+      2
+    ],
+    "spread": [
+      1
+    ],
+    "seasons": [
+      1
+    ],
+    "deer": [
+      1
+    ],
+    "ph": [
+      2
+    ],
+    "wildlife": [
+      1
+    ]
+  },
+  "edible": {
+    "level": "inedible",
+    "food": false,
+    "summary": "No documented culinary use; grown as a native hummingbird plant.[1]",
+    "caution": "No authority consulted documents a food use for scarlet gilia, so this guide treats it as inedible — don't eat it. No part is recorded as notably poisonous. If you meet it in the wild, leave the seedheads: as a biennial it depends entirely on setting seed, so stripping a stand is how you remove it from a site.[1]"
+  },
+  "shots": [
+    {
+      "local": "images/fa-flower-t.jpg",
+      "full": "images/fa-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/591542385/large.jpg",
+      "s": "fall",
+      "cap": "Fall — a scarlet trumpet in close detail · © Hannah D. (CC-BY-NC) / iNaturalist",
+      "by": "Hannah D.",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/326600183"
+    },
+    {
+      "local": "images/su-trumpets-t.jpg",
+      "full": "images/su-trumpets.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/693758745/large.jpg",
+      "s": "summer",
+      "cap": "Summer — a cluster of red trumpets · © no rights reserved (CC0) / iNaturalist",
+      "by": "no rights reserved",
+      "lic": "CC0",
+      "link": "https://www.inaturalist.org/observations/379275939"
+    },
+    {
+      "local": "images/su-stalk-t.jpg",
+      "full": "images/su-stalk.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/86600896/large.jpg",
+      "s": "summer",
+      "cap": "Summer — trumpets ranged up the stalk · © John Powers (CC-BY) / iNaturalist",
+      "by": "John Powers",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/54427170"
+    },
+    {
+      "local": "images/su-plant-t.jpg",
+      "full": "images/su-plant.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/4738814/large.jpg",
+      "s": "summer",
+      "cap": "Summer — the whole flowering spike · © dianerc (CC-BY-NC) / iNaturalist",
+      "by": "dianerc",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/4013101"
+    },
+    {
+      "local": "images/su-rosette-t.jpg",
+      "full": "images/su-rosette.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/311719587/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — the first-year basal rosette · © bvking98 (CC-BY-NC) / iNaturalist",
+      "by": "bvking98",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/179076957"
+    },
+    {
+      "local": "images/su-habitat-t.jpg",
+      "full": "images/su-habitat.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/213373464/large.jpg",
+      "s": "summer",
+      "cap": "Summer — in dry open habitat · © zunlor (CC-BY-NC) / iNaturalist",
+      "by": "zunlor",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/125799155"
+    }
+  ]
+}

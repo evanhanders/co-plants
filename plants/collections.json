@@ -324,6 +324,24 @@
       "group": "Summer forbs",
       "lead": "hollyhock",
       "blurb": "Alcea — the tall cottage-garden flower spires, from the classic biennial hollyhock to the rust-resistant Russian species."
+    },
+    "pussytoes": {
+      "name": "Pussytoes",
+      "group": "Groundcovers",
+      "lead": "littleleaf-pussytoes",
+      "blurb": "Antennaria — flat silver-grey mats whose clustered flowerheads really do look like a cat's paw; tough to 11,000 ft and happy between flagstones."
+    },
+    "artemisias": {
+      "name": "Artemisias",
+      "group": "Subshrubs",
+      "lead": "fringed-sage",
+      "blurb": "Artemisia — the CO-native silver sages, grown for aromatic foliage rather than bloom. Not the Salvia 'sages' elsewhere in this guide, and not the List-B weed absinth wormwood."
+    },
+    "sundrops": {
+      "name": "Sundrops",
+      "group": "Subshrubs",
+      "lead": "lavenderleaf-sundrops",
+      "blurb": "Calylophus — heat-loving native sundrops with four-petalled yellow cups over a long season, from a low spreading mat to a tidy mound."
     }
   }
 }

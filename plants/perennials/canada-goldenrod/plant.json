@@ -1,0 +1,153 @@
+{
+  "common": "Canada goldenrod",
+  "botanical": "Solidago canadensis",
+  "type": "Forb",
+  "lifecycle": "Perennial",
+  "native": "CO native",
+  "aka": [
+    "Goldenrod",
+    "Common goldenrod",
+    "Tall goldenrod"
+  ],
+  "flower_color": [
+    "yellow"
+  ],
+  "bloom": [
+    "summer",
+    "fall"
+  ],
+  "bloom_season": "Fall",
+  "blurb": "The running goldenrod: upright stems topped with dense golden plumes that feed late-season butterflies and bees when little else is open. CSU's own note is the important one — it spreads by underground rhizomes, so give it room or a boundary.",
+  "size": "~12–36 in tall × spreading",
+  "sun": "Full sun to part shade",
+  "water": "Low to moderate; occasional deep soak in summer heat",
+  "spread": "Spreads by underground rhizomes into broad colonies; needs room or containment",
+  "seasons": "Dense golden plumes late summer into fall; upright stems die back in winter",
+  "wildlife": "Native bees and butterflies work the flowers",
+  "deer": "Generally deer resistant",
+  "toxic": "",
+  "winter": false,
+  "verified": "2026-08-04",
+  "ph": {
+    "min": 6.0,
+    "ideal": 7.2,
+    "max": 8.0
+  },
+  "care": {
+    "hardiness": "CSU lists this as a Colorado native plantable to about 7,000 ft, so cold is not the constraint at Boulder's zone 5b–6a.[1]",
+    "planting": "Plant in spring after the mid-May last frost, or in early fall, into ground prepared to suit it (see Soil). Set out young container plants — most of these natives resent having an established root system disturbed — and water them in well, then taper off.[1][2]",
+    "sun": "Full sun to part shade, which is CSU's exposure rating for it.[1]",
+    "soil": "Clay or loam soils, per CSU — this is not a plant that needs sharp drainage, and it will take ordinary Front Range garden ground happily. Almost too happily.[1]",
+    "water": "Low to moderate. CSU rates its moisture requirement low to moderate, and on the semi-arid Front Range that is the number that matters most — the commonest way to kill a xeric native here is kindness with the hose.[1][2]",
+    "spacing": "Space to suit its mature spread of spreading. Upright stems with spikes of flowers that attract butterflies and bees — and CSU notes plainly that it spreads by underground rhizomes.[1]",
+    "propagation": "By seed, which is how nearly all of these natives are raised and how they persist in a planting. Autumn sowing outdoors lets winter provide the chilling most of them want.[1]",
+    "bloom": "Flowers from midsummer through to frost; CSU records the colour as yellow and the height as 12–36 in tall.[1]",
+    "maintenance": "Read CSU's comment before you plant it: it **spreads by underground rhizomes**. In a mixed border it will outrun its neighbours; in a dry meadow, a bank or a hell strip it is an asset. Give it a hard edge, a mowed margin or a root barrier, divide it hard every couple of years, and cut it down in late winter. This guide's other goldenrod, showy goldenrod (*S. speciosa*), is the clumping, well-behaved alternative if you want the look without the running.[1]",
+    "troubles": "Few pests or diseases when it is sited right. Crown and root rot in soil that stays wet is the usual cause of failure for a Colorado native in a Front Range garden, and it is a siting problem rather than bad luck.[1][2]"
+  },
+  "references": [
+    {
+      "name": "CSU Extension — Native Herbaceous Perennials for Colorado Landscapes (fact sheet 7.242, PDF: complete Table 1)",
+      "url": "https://www.extension.colostate.edu/docs/pubs/garden/07242.pdf"
+    },
+    {
+      "name": "CSU Extension — Xeriscaping: Perennials and Annual Flowers (7.231)",
+      "url": "https://extension.colostate.edu/topic-areas/yard-garden/xeriscaping-perennials-and-annual-flowers-7-231/"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      1
+    ],
+    "sun": [
+      1
+    ],
+    "water": [
+      1,
+      2
+    ],
+    "spread": [
+      1
+    ],
+    "seasons": [
+      1
+    ],
+    "deer": [
+      1
+    ],
+    "ph": [
+      2
+    ],
+    "wildlife": [
+      1
+    ]
+  },
+  "edible": {
+    "level": "inedible",
+    "food": false,
+    "summary": "No documented culinary use in the authorities consulted. Worth stating: goldenrod does NOT cause hay fever.[1]",
+    "caution": "No authority consulted documents a food use for Canada goldenrod, so this guide treats it as inedible — don't eat it, and note that a folk record of goldenrod tea is not an authority-backed preparation. One myth worth killing, though, and CSU says it outright: goldenrod is **mistakenly blamed as a cause of hay fever**. Its pollen is heavy and insect-carried, not wind-borne; the culprit blooming at the same time is ragweed. Anyone with an Asteraceae allergy should still handle it accordingly.[1]"
+  },
+  "shots": [
+    {
+      "local": "images/fa-plume-t.jpg",
+      "full": "images/fa-plume.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/245677776/large.jpeg",
+      "s": "fall",
+      "cap": "Fall — a golden plume in close detail · © Andy Fyon (CC-BY-NC) / iNaturalist",
+      "by": "Andy Fyon",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/143263002"
+    },
+    {
+      "local": "images/fa-colony-t.jpg",
+      "full": "images/fa-colony.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/320875729/large.jpg",
+      "s": "fall",
+      "cap": "Fall — a broad rhizomatous colony in bloom · © ahbahdoo (CC-BY-NC) / iNaturalist",
+      "by": "ahbahdoo",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/183882296"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/423387816/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — plumes over lance-shaped leaves · © energo13 (CC-BY-NC) / iNaturalist",
+      "by": "energo13",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/237862925"
+    },
+    {
+      "local": "images/su-plumes-t.jpg",
+      "full": "images/su-plumes.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/309294858/large.jpg",
+      "s": "summer",
+      "cap": "Summer — flowering plumes · © jonastid (CC-BY-NC) / iNaturalist",
+      "by": "jonastid",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/177803064"
+    },
+    {
+      "local": "images/fa-landscape-t.jpg",
+      "full": "images/fa-landscape.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/453551269/large.jpeg",
+      "s": "fall",
+      "cap": "Fall — a stand in the landscape · © George Cook (CC-BY-NC) / iNaturalist",
+      "by": "George Cook",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/253317893"
+    },
+    {
+      "local": "images/su-stem-t.jpg",
+      "full": "images/su-stem.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/173596452/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — a single flowering stem · © Шильников Дмитрий Сергеевич (CC-BY-NC) / iNaturalist",
+      "by": "Шильников Дмитрий Сергеевич",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/103687040"
+    }
+  ]
+}

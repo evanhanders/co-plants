@@ -1,0 +1,145 @@
+{
+  "common": "Fringed sage",
+  "botanical": "Artemisia frigida",
+  "type": "Subshrub",
+  "lifecycle": "Perennial",
+  "native": "CO native",
+  "aka": [
+    "Fringed sagewort",
+    "Prairie sagewort",
+    "Estafiata"
+  ],
+  "flower_color": [],
+  "bloom": [],
+  "blurb": "Grown entirely for its foliage: a low aromatic subshrub of feathery silver-grey leaves that stays evergreen through the winter. CSU calls the bloom insignificant, and it is — this is a texture and colour plant, and a very tough one.",
+  "size": "~8–24 in tall × 12–24 in wide",
+  "sun": "Full sun",
+  "water": "Low; xeric — well-drained ground, little or no supplemental water once established",
+  "spread": "Low woody-based mound; clumping",
+  "seasons": "Aromatic feathery silver foliage year-round, evergreen through winter; bloom insignificant",
+  "wildlife": "Grown for foliage; bloom is insignificant and of little pollinator value",
+  "deer": "Generally deer resistant",
+  "toxic": "",
+  "winter": false,
+  "verified": "2026-08-04",
+  "collection": "artemisias",
+  "ph": {
+    "min": 6.0,
+    "ideal": 7.2,
+    "max": 8.0
+  },
+  "care": {
+    "hardiness": "CSU lists this as a Colorado native plantable to about 10,000 ft, so cold is not the constraint at Boulder's zone 5b–6a.[1]",
+    "planting": "Plant in spring after the mid-May last frost, or in early fall, into ground prepared to suit it (see Soil). Set out young container plants — most of these natives resent having an established root system disturbed — and water them in well, then taper off.[1][2]",
+    "sun": "Full sun, which is CSU's exposure rating for it.[1]",
+    "soil": "Well-drained soil, and lean. It is a plant of dry plains and rocky slopes; rich or wet ground makes it lax and short-lived.[1]",
+    "water": "Low. CSU rates its moisture requirement low, and on the semi-arid Front Range that is the number that matters most — the commonest way to kill a xeric native here is kindness with the hose.[1][2]",
+    "spacing": "Space to suit its mature spread of 12–24 in wide. Aromatic feathery silver foliage on an evergreen subshrub, with what CSU calls an insignificant bloom.[1]",
+    "propagation": "By seed, which is how nearly all of these natives are raised and how they persist in a planting. Autumn sowing outdoors lets winter provide the chilling most of them want.[1]",
+    "bloom": "Flowers negligibly — it is grown for foliage; CSU records the colour as insignificant (it is a foliage plant) and the height as 8–24 in tall.[1]",
+    "maintenance": "Because the flowers are negligible, treat this as a foliage plant: shear it lightly in spring to keep the mound tight, and never cut back into bare old wood, which will not resprout reliably on a woody-based *Artemisia*.[1]",
+    "troubles": "Few pests or diseases when it is sited right. Crown and root rot in soil that stays wet is the usual cause of failure for a Colorado native in a Front Range garden, and it is a siting problem rather than bad luck.[1][2]"
+  },
+  "references": [
+    {
+      "name": "CSU Extension — Native Herbaceous Perennials for Colorado Landscapes (fact sheet 7.242, PDF: complete Table 1)",
+      "url": "https://www.extension.colostate.edu/docs/pubs/garden/07242.pdf"
+    },
+    {
+      "name": "CSU Extension — Xeriscaping: Perennials and Annual Flowers (7.231)",
+      "url": "https://extension.colostate.edu/topic-areas/yard-garden/xeriscaping-perennials-and-annual-flowers-7-231/"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      1
+    ],
+    "sun": [
+      1
+    ],
+    "water": [
+      1,
+      2
+    ],
+    "spread": [
+      1
+    ],
+    "seasons": [
+      1
+    ],
+    "deer": [
+      1
+    ],
+    "ph": [
+      2
+    ]
+  },
+  "edible": {
+    "level": "caution",
+    "food": false,
+    "summary": "Aromatic and long used ceremonially and medicinally, but not a food — Artemisia species carry thujone and related compounds.[1]",
+    "caution": "This guide does not treat fringed sage as food. The genus has a long ceremonial and medicinal record across the Plains and Southwest, but *Artemisia* species characteristically contain thujone and related volatile compounds, which are neurotoxic in quantity — the same chemistry that makes its Eurasian relative absinth wormwood (*A. absinthium*, a Colorado List B noxious weed) something to handle carefully. Enjoy the scent on your fingers; don't brew it, and don't give it to children or anyone pregnant or nursing.[1]"
+  },
+  "shots": [
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/520335734/large.jpg",
+      "s": "summer",
+      "cap": "Summer — the feathery silver mound · © psweet (CC-BY-NC) / iNaturalist",
+      "by": "psweet",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/289303855"
+    },
+    {
+      "local": "images/su-cushion-t.jpg",
+      "full": "images/su-cushion.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/431305201/large.jpg",
+      "s": "summer",
+      "cap": "Summer — a silver cushion on rock · © Lucas Schrader (CC-BY-NC) / iNaturalist",
+      "by": "Lucas Schrader",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/241991717"
+    },
+    {
+      "local": "images/sp-leaves-t.jpg",
+      "full": "images/sp-leaves.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/36480453/large.jpeg",
+      "s": "spring",
+      "cap": "Spring — aromatic feathery foliage · © Matt Webb (CC-BY-NC) / iNaturalist",
+      "by": "Matt Webb",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/23559830"
+    },
+    {
+      "local": "images/sp-close-t.jpg",
+      "full": "images/sp-close.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/649100141/large.jpg",
+      "s": "spring",
+      "cap": "Spring — silver foliage in close detail · © Rupert Clayton (CC-BY) / iNaturalist",
+      "by": "Rupert Clayton",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/355940031"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/42843075/large.jpg",
+      "s": "summer",
+      "cap": "Summer — the whole low subshrub · © slimnature (CC-BY-NC) / iNaturalist",
+      "by": "slimnature",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/27529850"
+    },
+    {
+      "local": "images/su-bloom-t.jpg",
+      "full": "images/su-bloom.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/149792735/large.jpg",
+      "s": "summer",
+      "cap": "Summer — the insignificant flowering stems · © Aidan Campos (CC-BY-NC) / iNaturalist",
+      "by": "Aidan Campos",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/90621097"
+    }
+  ]
+}

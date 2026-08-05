@@ -1,0 +1,155 @@
+{
+  "common": "Spreading vervain",
+  "botanical": "Glandularia bipinnatifida",
+  "type": "Groundcover",
+  "lifecycle": "Perennial",
+  "native": "CO native",
+  "aka": [
+    "Dakota vervain",
+    "Dakota mock vervain",
+    "Prairie verbena",
+    "Verbena bipinnatifida"
+  ],
+  "flower_color": [
+    "pink",
+    "purple"
+  ],
+  "bloom": [
+    "spring",
+    "summer",
+    "fall"
+  ],
+  "blurb": "Sprawling stems of deeply cut leaves smothered in flat rose-purple flower clusters from spring right through to frost — one of the longest-blooming natives CSU lists, and a reliable butterfly plant for hot, lean ground.",
+  "size": "~6–10 in tall × spreading",
+  "sun": "Full sun",
+  "water": "Low; xeric — well-drained ground, little or no supplemental water once established",
+  "spread": "Sprawling stems root as they run, forming a low mat; self-sows",
+  "seasons": "Flat rose-purple flower clusters spring to frost over deeply cut foliage; dies back in winter",
+  "wildlife": "Native bees and butterflies work the flowers",
+  "deer": "Generally deer resistant",
+  "toxic": "",
+  "winter": false,
+  "verified": "2026-08-04",
+  "ph": {
+    "min": 6.0,
+    "ideal": 7.2,
+    "max": 8.0
+  },
+  "care": {
+    "hardiness": "CSU lists this as a Colorado native plantable to about 8,000 ft, so cold is not the constraint at Boulder's zone 5b–6a.[1]",
+    "planting": "Plant in spring after the mid-May last frost, or in early fall, into ground prepared to suit it (see Soil). Set out young container plants — most of these natives resent having an established root system disturbed — and water them in well, then taper off.[1][2]",
+    "sun": "Full sun, which is CSU's exposure rating for it.[1]",
+    "soil": "Well-drained soil. A plant of dry plains and roadside gravel; it wants heat and drainage and no irrigation once settled.[1]",
+    "water": "Low. CSU rates its moisture requirement low, and on the semi-arid Front Range that is the number that matters most — the commonest way to kill a xeric native here is kindness with the hose.[1][2]",
+    "spacing": "Space to suit its mature spread of spreading. Sprawling stems with deeply cut leaves — CSU calls it a prolific bloomer that attracts butterflies.[1]",
+    "propagation": "By seed, which is how nearly all of these natives are raised and how they persist in a planting. Autumn sowing outdoors lets winter provide the chilling most of them want.[1]",
+    "bloom": "Flowers from spring right through to frost; CSU records the colour as pink, purple and the height as 6–10 in tall.[1]",
+    "maintenance": "CSU gives its bloom window as early through late — March to frost — which is the longest season of anything on the list. Shear it lightly after the first heavy flush to keep it tidy and push more flowers. It is often still sold under the old name *Verbena bipinnatifida*, and it is a different plant from the guide's garden verbena (*Glandularia canadensis*).[1]",
+    "troubles": "Few pests or diseases when it is sited right. Crown and root rot in soil that stays wet is the usual cause of failure for a Colorado native in a Front Range garden, and it is a siting problem rather than bad luck.[1][2]"
+  },
+  "references": [
+    {
+      "name": "CSU Extension — Native Herbaceous Perennials for Colorado Landscapes (fact sheet 7.242, PDF: complete Table 1)",
+      "url": "https://www.extension.colostate.edu/docs/pubs/garden/07242.pdf"
+    },
+    {
+      "name": "CSU Extension — Xeriscaping: Perennials and Annual Flowers (7.231)",
+      "url": "https://extension.colostate.edu/topic-areas/yard-garden/xeriscaping-perennials-and-annual-flowers-7-231/"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      1
+    ],
+    "sun": [
+      1
+    ],
+    "water": [
+      1,
+      2
+    ],
+    "spread": [
+      1
+    ],
+    "seasons": [
+      1
+    ],
+    "deer": [
+      1
+    ],
+    "ph": [
+      2
+    ],
+    "wildlife": [
+      1
+    ]
+  },
+  "edible": {
+    "level": "inedible",
+    "food": false,
+    "summary": "No documented culinary use; grown as a long-blooming xeric native and butterfly plant.[1]",
+    "caution": "No authority consulted documents a food use for spreading vervain, so this guide treats it as inedible — don't eat it. No part is recorded as notably poisonous. Don't confuse it with the unrelated herbal 'vervain' (*Verbena officinalis*), which has its own separate folk-medicinal record that does not transfer here.[1]"
+  },
+  "shots": [
+    {
+      "local": "images/sp-flower-t.jpg",
+      "full": "images/sp-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/128757763/large.jpg",
+      "s": "spring",
+      "cap": "Spring — rose-purple flower clusters in close detail · © David Martin (CC-BY-NC) / iNaturalist",
+      "by": "David Martin",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/78659846"
+    },
+    {
+      "local": "images/su-mass-t.jpg",
+      "full": "images/su-mass.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/79760289/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — the mat in prolific bloom · © adriscoll (CC-BY-NC) / iNaturalist",
+      "by": "adriscoll",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/50227207"
+    },
+    {
+      "local": "images/su-cluster-t.jpg",
+      "full": "images/su-cluster.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/287091927/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — a flower cluster and cut leaves · © Matt Langemeier (CC-BY-NC) / iNaturalist",
+      "by": "Matt Langemeier",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/165826852"
+    },
+    {
+      "local": "images/sp-bloom-t.jpg",
+      "full": "images/sp-bloom.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/169381811/large.jpg",
+      "s": "spring",
+      "cap": "Spring — the sprawling plant in flower · © Jennifer Ackerfield (CC-BY-NC) / iNaturalist",
+      "by": "Jennifer Ackerfield",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/101424786"
+    },
+    {
+      "local": "images/sp-gravel-t.jpg",
+      "full": "images/sp-gravel.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/670733175/large.jpg",
+      "s": "spring",
+      "cap": "Spring — sprawling over gravel · © Matt Langemeier (CC-BY-NC) / iNaturalist",
+      "by": "Matt Langemeier",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/367290175"
+    },
+    {
+      "local": "images/su-rock-t.jpg",
+      "full": "images/su-rock.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/23511111/large.jpg",
+      "s": "summer",
+      "cap": "Summer — flowers among rock · © roomthily (CC-BY-NC) / iNaturalist",
+      "by": "roomthily",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/15743531"
+    }
+  ]
+}

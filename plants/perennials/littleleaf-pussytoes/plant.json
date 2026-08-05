@@ -1,0 +1,154 @@
+{
+  "common": "Littleleaf pussytoes",
+  "botanical": "Antennaria parvifolia",
+  "type": "Groundcover",
+  "lifecycle": "Perennial",
+  "native": "CO native",
+  "aka": [
+    "Small-leaf pussytoes",
+    "Nuttall's pussytoes",
+    "Pussytoes"
+  ],
+  "flower_color": [
+    "white",
+    "pink"
+  ],
+  "bloom": [
+    "spring",
+    "summer"
+  ],
+  "blurb": "A flat spreading mat of silver-grey felted leaves studded with small clustered flowerheads that really do look like a cat's paw. Tough to 11,000 ft, takes light foot traffic, and one of the best things to plant between flagstones.",
+  "size": "~2–6 in tall × spreading",
+  "sun": "Full sun to part shade",
+  "water": "Low to moderate; occasional deep soak in summer heat",
+  "spread": "Mat-forming: creeps outward by short stolons into a spreading silver-grey carpet",
+  "seasons": "Cream-to-pink 'cat toe' clusters late spring into summer over a silver-grey mat that persists through winter",
+  "wildlife": "Native bees and butterflies work the flowers",
+  "deer": "Generally deer resistant",
+  "toxic": "",
+  "winter": false,
+  "verified": "2026-08-04",
+  "collection": "pussytoes",
+  "ph": {
+    "min": 6.0,
+    "ideal": 7.2,
+    "max": 8.0
+  },
+  "care": {
+    "hardiness": "CSU lists this as a Colorado native plantable to about 11,000 ft, so cold is not the constraint at Boulder's zone 5b–6a.[1]",
+    "planting": "Plant in spring after the mid-May last frost, or in early fall, into ground prepared to suit it (see Soil). Set out young container plants — most of these natives resent having an established root system disturbed — and water them in well, then taper off.[1][2]",
+    "sun": "Full sun to part shade, which is CSU's exposure rating for it.[1]",
+    "soil": "Well-drained soil. It is a mat plant with a shallow root run, so sharp drainage at the surface matters more than depth of soil; gritty or gravelly ground is ideal.[1]",
+    "water": "Low to moderate. CSU rates its moisture requirement low to moderate, and on the semi-arid Front Range that is the number that matters most — the commonest way to kill a xeric native here is kindness with the hose.[1][2]",
+    "spacing": "Space to suit its mature spread of spreading. A spreading mat of silver-grey foliage whose flowers come in small clusters resembling cat toes — CSU picks it out for planting between flagstones or in rock gardens.[1]",
+    "propagation": "By seed, which is how nearly all of these natives are raised and how they persist in a planting. Autumn sowing outdoors lets winter provide the chilling most of them want.[1]",
+    "bloom": "Flowers from spring into midsummer; CSU records the colour as white, pink and the height as 2–6 in tall.[1]",
+    "maintenance": "Low. Cut old growth back in late winter or early spring rather than in fall, so the stems hold snow and give the crown some cover. Skip fertilizer: lean soil keeps these natives compact and long-lived.[1][2]",
+    "troubles": "Few pests or diseases when it is sited right. Crown and root rot in soil that stays wet is the usual cause of failure for a Colorado native in a Front Range garden, and it is a siting problem rather than bad luck.[1][2]"
+  },
+  "references": [
+    {
+      "name": "CSU Extension — Native Herbaceous Perennials for Colorado Landscapes (fact sheet 7.242, PDF: complete Table 1)",
+      "url": "https://www.extension.colostate.edu/docs/pubs/garden/07242.pdf"
+    },
+    {
+      "name": "CSU Extension — Xeriscaping: Perennials and Annual Flowers (7.231)",
+      "url": "https://extension.colostate.edu/topic-areas/yard-garden/xeriscaping-perennials-and-annual-flowers-7-231/"
+    }
+  ],
+  "fact_src": {
+    "size": [
+      1
+    ],
+    "sun": [
+      1
+    ],
+    "water": [
+      1,
+      2
+    ],
+    "spread": [
+      1
+    ],
+    "seasons": [
+      1
+    ],
+    "deer": [
+      1
+    ],
+    "ph": [
+      2
+    ],
+    "wildlife": [
+      1
+    ]
+  },
+  "edible": {
+    "level": "inedible",
+    "food": false,
+    "summary": "No documented culinary use; a native mat groundcover and butterfly host plant.[1]",
+    "caution": "No authority consulted documents a food use for pussytoes, so this guide treats it as inedible — don't eat it. No part is recorded as notably poisonous either. Leave wild mats alone where you find them: *Antennaria* is a larval host for painted lady and American lady butterflies, and the mats are slow to rebuild once damaged.[1]"
+  },
+  "shots": [
+    {
+      "local": "images/su-flower-t.jpg",
+      "full": "images/su-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/58255125/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — the 'cat toe' flower clusters in close detail · © Tim Shortell (CC-BY-NC) / iNaturalist",
+      "by": "Tim Shortell",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/36813596"
+    },
+    {
+      "local": "images/su-mat-t.jpg",
+      "full": "images/su-mat.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/198710408/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — flowering over the silver mat · © Audrey Spencer (CC-BY-NC) / iNaturalist",
+      "by": "Audrey Spencer",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/117649315"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/138428661/large.jpg",
+      "s": "summer",
+      "cap": "Summer — the silver-grey felted foliage · © atxparkers (CC-BY-NC) / iNaturalist",
+      "by": "atxparkers",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/84236810"
+    },
+    {
+      "local": "images/sp-habit-t.jpg",
+      "full": "images/sp-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/17878406/large.jpg",
+      "s": "spring",
+      "cap": "Spring — the mat spreading through short grass · © Annabelle Corboy (CC-BY-NC) / iNaturalist",
+      "by": "Annabelle Corboy",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/12403375"
+    },
+    {
+      "local": "images/fa-rosettes-t.jpg",
+      "full": "images/fa-rosettes.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/4769105/large.jpg",
+      "s": "fall",
+      "cap": "Fall — silver leaf rosettes · © Annabelle Corboy (CC-BY-NC) / iNaturalist",
+      "by": "Annabelle Corboy",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/4033238"
+    },
+    {
+      "local": "images/su-gravel-t.jpg",
+      "full": "images/su-gravel.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/398601000/large.jpg",
+      "s": "summer",
+      "cap": "Summer — a mat on gravelly ground · © ProfessaVanessa (CC-BY-NC) / iNaturalist",
+      "by": "ProfessaVanessa",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/224865306"
+    }
+  ]
+}

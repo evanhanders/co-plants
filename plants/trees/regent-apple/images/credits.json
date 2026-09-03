@@ -1,0 +1,69 @@
+[
+  {
+    "file": "images/fa-fruit.jpg",
+    "photo_id": 73167111,
+    "by": "mickeny",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/46132638",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  },
+  {
+    "file": "images/fa-cultivar.jpg",
+    "by": "National Fruit Collection, Brogdale",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Cross_section_of_Regent,_National_Fruit_Collection_(acc._1974-067).jpg",
+    "via": "Wikimedia Commons",
+    "commons_file": "Cross section of Regent, National Fruit Collection (acc. 1974-067).jpg"
+  },
+  {
+    "file": "images/sp-blossom.jpg",
+    "by": "Koray Öğreten",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/359148379",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/sp-bloommass.jpg",
+    "by": "Andrea Roper",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/216657878",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/su-foliage.jpg",
+    "by": "snaily_naily",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/observations/171373457",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/su-fruitmass.jpg",
+    "by": "Matthew Thompson",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/133918132",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/fa-habit.jpg",
+    "by": "Andrew Murray",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/observations/186893671",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/wi-winter.jpg",
+    "by": "Barbara L. Wilson",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/67946563",
+    "via": "iNaturalist"
+  }
+]

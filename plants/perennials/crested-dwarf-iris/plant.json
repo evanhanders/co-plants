@@ -1,0 +1,232 @@
+{
+  "collection": "irises",
+  "common": "Crested dwarf iris",
+  "botanical": "Iris cristata",
+  "aka": [
+    "Dwarf crested iris",
+    "Crested iris"
+  ],
+  "type": "Groundcover",
+  "lifecycle": "Perennial",
+  "native": "Non-native",
+  "flower_color": [
+    "blue",
+    "purple",
+    "white"
+  ],
+  "bloom": [
+    "spring"
+  ],
+  "blurb": "A 4–8 in woodland groundcover iris from the Appalachians and Ozarks — pale blue-violet flowers with a white signal and a ruffled golden crest sit almost stemless on fans of short sword leaves, spreading into a slow mat for a shaded, mulched bed.",
+  "size": "4–9 in × 6–12 in",
+  "sun": "Part shade to shade; full sun only with steady moisture",
+  "water": "Moderate; moist but well-drained humus, not xeric — tolerates drier shade once established",
+  "spread": "Spreads by shallow creeping surface rhizomes into a slow, dense mat; easily kept in bounds",
+  "seasons": "Pale blue-violet crested flowers April–May just above short leaf fans; fans through summer, yellowing in fall; low semi-evergreen fans in winter",
+  "wildlife": "Flowers attract hummingbirds and bumblebees and other bees for nectar and pollen; the three ridged crests act as a landing guide",
+  "deer": "Highly resistant to deer damage; slugs and snails are the main grazers",
+  "toxic": "Toxic (low severity) to people & pets — rhizomes, sap and seeds (irisin/iridin, terpenoids); GI upset, sap irritates skin",
+  "winter": false,
+  "verified": "2026-09-03",
+  "origin": "Eastern US — Pennsylvania to Georgia, west to the Ozarks (Missouri, Oklahoma)",
+  "habitat": "Rich rocky wooded slopes, bluffs and stream banks in dappled shade",
+  "ph": {
+    "min": 5.0,
+    "ideal": 6.0,
+    "max": 7.5
+  },
+  "care": {
+    "hardiness": "USDA zones 3a–9b, so Boulder's zone 5b–6a winters are no concern — this is an Appalachian and Ozark woodland native that is hardy to at least zone 5 and heat tolerant.[1][2] What it does not have at home is the Front Range's dry air, high-altitude sun and alkaline clay, so success here depends on siting rather than cold protection: a shaded, amended, mulched bed with afternoon shade. Weed status: the only iris on Colorado's noxious weed lists is yellow flag (*Iris pseudacorus*, List A), a tall yellow-flowered wetland plant; this small woodland species is not listed and does not resemble it (verified 2026-09-03).",
+    "planting": "Set out container-grown plants any time in the growing season, but spring (after the mid-May frost date) or early fall gives roots the most time to settle before summer heat or winter dry-out; bare-root divisions are best planted in spring.[7] Plant the rhizome at ground level rather than burying it — the top of the rhizome should sit at or just barely beneath the soil surface, and in heavy clay up to half the rhizome may be left exposed above soil level.[5] In pots, use a peat- or compost-based mix in a wide, shallow container kept in shade and never allowed to dry out; the shallow rhizomes and roots have far less cold protection in a pot than in the ground, so sink the pot to its rim in a bed or move it to an unheated, frost-protected spot for winter and give it an occasional drink on mild days.[7]",
+    "sun": "Part shade to shade — it grows in dappled woodland light in the wild and will tolerate close to full shade.[2][3] NC State lists full sun as acceptable, but only where the soil stays consistently moist; in Colorado's intense high-altitude sun, treat afternoon shade as mandatory and site it as you would other shade-loving perennials such as ferns, bleeding heart and hostas — the north or east side of a house, or under a deciduous canopy.[1][7]",
+    "soil": "Organically rich, well-drained loam or sandy soil, acid to neutral (pH below about 6.0 up to neutral); wild populations grow in peaty woodland soils but are also found on calcareous slopes, so a slightly alkaline bed is not fatal if it is humus-rich and drains freely.[1][2][3] Boulder's dense alkaline clay needs amending first: work 3–4 in of plant-based compost into the top 8–12 in of a new bed, and top up with about a quarter-inch each year, choosing low-salt plant-based compost rather than manure- or biosolids-based products, since salt burn from over-amended Colorado soils is common.[8] Do not overdo fertility either — soils that are too rich encourage rank leafy growth at the expense of flowers, and Clemson describes it as preferring infertile, well-drained soil.[2][5]",
+    "water": "Moderate. It wants moist but well-drained soil and tolerates occasional dryness once established, especially in shade where a leaf mulch keeps the surface cool.[1][2] It is not a xeric plant — in an unwatered, sun-exposed Front Range bed it will scorch and dwindle — so plan on a deep soak every week or two through the summer, more in a hot spell. Colorado winters bring dry air and low soil moisture from November through February, so water the bed once or twice a month on mild, above-freezing days when there is no snow cover, in the early part of the day.[7]",
+    "spacing": "Space plants 6–12 in apart; each clump spreads to roughly 6 in–1 ft across and the rhizomes knit adjoining plants into a continuous carpet within a few seasons.[1]",
+    "propagation": "Division is the reliable method: lift and separate the shallow rhizomes in early fall when the leaves begin to yellow, keeping a fan of leaves on each piece, and replant immediately at the surface.[2][5] Plants generally become crowded and benefit from division after three to five years.[5] By seed, sow immediately after collection in acid soil and expect two to three years to first flower; division is faster and keeps named forms such as the white 'Alba' true.[1][2]",
+    "bloom": "April to May, each stem carrying one or two flowers about 1–3 in across, pale blue through violet-purple to occasional white, with a white patch and a golden crest on each fall.[1][2][3] On the Front Range expect bloom in late April into May, a couple of weeks after the dwarf bulb irises and just as the deciduous canopy is leafing out.",
+    "feeding": "Very little. It is better to underfeed than overfeed iris, and rich soil pushes rank leafy growth rather than flowers; an annual quarter-inch topdress of plant-based compost is enough, or at most a light spring application of a low-nitrogen balanced fertilizer such as 5-10-10 (Clemson's rate for new iris beds is 1 lb per 100 sq ft).[2][5][8]",
+    "maintenance": "Low. Mulch with shredded leaves or fine bark to conserve moisture and suppress weeds, but keep the mulch off the exposed rhizomes themselves.[5][7] Leave the foliage to ripen and feed the rhizomes after bloom, then tidy the yellowed leaves in late fall or early spring. Divide crowded mats every three to five years to keep them flowering, and simply lift any rhizomes that creep where they are not wanted — the mat is shallow and easy to edit.[5]",
+    "troubles": "Slugs and snails are the recurring pest, chewing the soft young leaves in damp spring weather; hand-pick or use an iron-phosphate bait.[1] The most serious iris problems — bacterial soft rot and iris borer — are mostly bearded-iris troubles, but they follow the same rule here: a rhizome buried under soil or wet mulch in heavy clay rots, so keep the rhizome at the surface and the bed well drained.[5] Sun scorch and drying out are the likely Front Range failures rather than cold. Wear gloves when dividing — the sap can irritate skin.[1][6] Weed note: not on Colorado's A/B/C or Watch lists; yellow flag (*Iris pseudacorus*, List A) is the only listed iris and is a completely different, 3–4 ft wetland plant.",
+    "companions": "Use it as the front-edge carpet of a shade bed with the other perennials CSU recommends for a north-side site — ferns, bleeding heart and hostas — and with woodland spring companions such as brunnera, epimedium, bigroot geranium and coral bells, which enjoy the same amended, mulched, afternoon-shaded conditions.[7] Its short fans also make a tidy skirt under shrubs such as viburnum or serviceberry; avoid pairing it with xeric plants that want the bed left dry."
+  },
+  "fact_src": {
+    "size": [
+      1
+    ],
+    "sun": [
+      1,
+      2
+    ],
+    "water": [
+      1,
+      2
+    ],
+    "spread": [
+      1,
+      3
+    ],
+    "seasons": [
+      1,
+      2,
+      3
+    ],
+    "wildlife": [
+      1,
+      2
+    ],
+    "deer": [
+      1
+    ],
+    "toxic": [
+      1,
+      6
+    ],
+    "origin": [
+      2,
+      3,
+      4
+    ],
+    "habitat": [
+      2,
+      3
+    ],
+    "ph": [
+      1,
+      2,
+      3
+    ]
+  },
+  "edible": {
+    "level": "toxic",
+    "food": false,
+    "summary": "Crested dwarf iris is toxic to people, dogs, cats and horses — no part is eaten.[1][6]",
+    "caution": "Do not eat any part of this plant. Like other irises, the rhizomes, sap and seeds contain pentacyclic terpenoids (zeorin, missourin, missouriensin) along with the glycosides irisin and iridin, with the highest concentration in the rhizomes; ingestion causes nausea, salivation, vomiting, abdominal pain and diarrhea, and the sap irritates skin on contact. NC State rates the severity as low (harmful mainly in quantity), but the ASPCA lists iris as toxic to dogs, cats and horses (salivation, vomiting, drooling, lethargy, diarrhea) regardless of amount — treat any ingestion as a concern. Keep the shallow, easily exposed rhizomes away from digging dogs and small children, wear gloves when dividing, and call Poison Control (1-800-222-1222) or ASPCA Animal Poison Control (888-426-4435) if ingestion is suspected.[1][6]"
+  },
+  "references": [
+    {
+      "name": "NC State Extension Gardener Plant Toolbox — Iris cristata (crested iris)",
+      "url": "https://plants.ces.ncsu.edu/plants/iris-cristata/"
+    },
+    {
+      "name": "Lady Bird Johnson Wildflower Center — Iris cristata (dwarf crested iris)",
+      "url": "https://www.wildflower.org/plants/result.php?id_plant=IRCR"
+    },
+    {
+      "name": "USDA Forest Service, Celebrating Wildflowers — Iris cristata (crested iris)",
+      "url": "https://fs.usda.gov/wildflowers/beauty/iris/Dwarf_Woodland/iris_cristata.shtml"
+    },
+    {
+      "name": "USDA NRCS PLANTS Database — Iris cristata (IRCR) profile",
+      "url": "https://plants.sc.egov.usda.gov/plant-profile/IRCR"
+    },
+    {
+      "name": "Clemson Cooperative Extension HGIC — Iris",
+      "url": "https://hgic.clemson.edu/factsheet/iris/"
+    },
+    {
+      "name": "ASPCA Animal Poison Control — Iris (Iris species)",
+      "url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/iris"
+    },
+    {
+      "name": "CSU Extension — Perennial Gardening (fact sheet 7.402)",
+      "url": "https://extension.colostate.edu/resource/perennial-gardening/"
+    },
+    {
+      "name": "CSU Extension — Choosing a Soil Amendment (fact sheet 7.235)",
+      "url": "https://extension.colostate.edu/resource/choosing-a-soil-amendment/"
+    }
+  ],
+  "gaps": "No open-licensed seed-capsule shot exists (iNat's 'fruiting' filter returns a single foliage-only record) and the plant has no real winter interest — the late-winter frame is an honest early-February shot of new fans emerging through leaf litter in Georgia. Missouri Botanical Garden's Plant Finder page was unreachable (HTTP 503) when this entry was built, so it is not cited.",
+  "shots": [
+    {
+      "local": "images/sp-flower-t.jpg",
+      "full": "images/sp-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/33863588/large.jpg",
+      "s": "spring",
+      "cap": "Spring — a face-on flower: pale violet-blue falls each carrying the white signal patch and ruffled orange-yellow crest · © Laura Neale (CC-BY-NC) / iNaturalist",
+      "by": "Laura Neale",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/21858858"
+    },
+    {
+      "local": "images/sp-bee-t.jpg",
+      "full": "images/sp-bee.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/186080838/large.jpeg",
+      "s": "spring",
+      "cap": "Spring — a bee working the crest; the ridged 'landing strip' guides pollinators into the flower · © andrealudwig (CC-BY-NC) / iNaturalist",
+      "by": "andrealudwig",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/110320634"
+    },
+    {
+      "local": "images/sp-mass-t.jpg",
+      "full": "images/sp-mass.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/460934970/large.jpg",
+      "s": "spring",
+      "cap": "Spring — a colony in full bloom, flowers held barely above the short leaf fans · © Jacob Weston (CC-BY) / iNaturalist",
+      "by": "Jacob Weston",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/257002720"
+    },
+    {
+      "local": "images/sp-colony-t.jpg",
+      "full": "images/sp-colony.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/65544164/large.jpg",
+      "s": "spring",
+      "cap": "Spring — a mat spreading across a wooded rocky slope, its natural habitat · © Mark Vance (CC-BY-NC) / iNaturalist",
+      "by": "Mark Vance",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/41323825"
+    },
+    {
+      "local": "images/sp-habitat-t.jpg",
+      "full": "images/sp-habitat.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/177947270/large.jpeg",
+      "s": "spring",
+      "cap": "Spring — a broad drift lighting up the woodland floor before the canopy closes · © Christopher David Benda (CC-BY-NC) / iNaturalist",
+      "by": "Christopher David Benda",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/105982042"
+    },
+    {
+      "local": "images/sp-foliage-t.jpg",
+      "full": "images/sp-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/657207438/large.jpg",
+      "s": "spring",
+      "cap": "Late spring — the fan of short sword-shaped leaves after bloom · © Ruth M. (CC-BY-NC) / iNaturalist",
+      "by": "Ruth M.",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/360174008"
+    },
+    {
+      "local": "images/su-fans-t.jpg",
+      "full": "images/su-fans.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/564752536/large.jpg",
+      "s": "summer",
+      "cap": "Late summer — the low foliage fans, still green and tidy in shade · © Tim Lewis (CC-BY-NC) / iNaturalist",
+      "by": "Tim Lewis",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/312774110"
+    },
+    {
+      "local": "images/fa-mat-t.jpg",
+      "full": "images/fa-mat.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/333241727/large.jpeg",
+      "s": "fall",
+      "cap": "Fall — the rhizome mat holding its foliage carpet into October · © Eric Schmidt (CC-BY) / iNaturalist",
+      "by": "Eric Schmidt",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/190133910"
+    },
+    {
+      "local": "images/wi-shoots-t.jpg",
+      "full": "images/wi-shoots.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/31023359/large.jpg",
+      "s": "winter",
+      "cap": "Late winter — new fans pushing up through the leaf litter (Georgia, early February) · © rachelvaughan (CC-BY-NC) / iNaturalist",
+      "by": "rachelvaughan",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/20089096"
+    }
+  ]
+}

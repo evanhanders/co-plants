@@ -1,0 +1,155 @@
+[
+  {
+    "file": "images/sp-flower.jpg",
+    "photo_id": 33863588,
+    "by": "Laura Neale",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/21858858",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1049,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  },
+  {
+    "file": "images/sp-bee.jpg",
+    "photo_id": 186080838,
+    "by": "andrealudwig",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/110320634",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      1350
+    ],
+    "thumb_px": [
+      400,
+      386
+    ]
+  },
+  {
+    "file": "images/sp-mass.jpg",
+    "photo_id": 460934970,
+    "by": "Jacob Weston",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/observations/257002720",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      1050
+    ],
+    "thumb_px": [
+      400,
+      300
+    ]
+  },
+  {
+    "file": "images/sp-colony.jpg",
+    "photo_id": 65544164,
+    "by": "Mark Vance",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/41323825",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  },
+  {
+    "file": "images/sp-habitat.jpg",
+    "photo_id": 177947270,
+    "by": "Christopher David Benda",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/105982042",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      1050
+    ],
+    "thumb_px": [
+      400,
+      300
+    ]
+  },
+  {
+    "file": "images/sp-foliage.jpg",
+    "photo_id": 657207438,
+    "by": "Ruth M.",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/360174008",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      933
+    ],
+    "thumb_px": [
+      400,
+      267
+    ]
+  },
+  {
+    "file": "images/su-fans.jpg",
+    "photo_id": 564752536,
+    "by": "Tim Lewis",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/312774110",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1054,
+      1400
+    ],
+    "thumb_px": [
+      301,
+      400
+    ]
+  },
+  {
+    "file": "images/fa-mat.jpg",
+    "photo_id": 333241727,
+    "by": "Eric Schmidt",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/observations/190133910",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      1050
+    ],
+    "thumb_px": [
+      400,
+      300
+    ]
+  },
+  {
+    "file": "images/wi-shoots.jpg",
+    "photo_id": 31023359,
+    "by": "rachelvaughan",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/20089096",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  }
+]

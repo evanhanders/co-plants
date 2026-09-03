@@ -1,0 +1,228 @@
+{
+  "collection": "apples",
+  "common": "Regent apple",
+  "botanical": "Malus domestica 'Regent'",
+  "type": "Tree",
+  "lifecycle": "Perennial",
+  "native": "Non-native",
+  "flower_color": [
+    "white",
+    "pink"
+  ],
+  "bloom": [
+    "spring"
+  ],
+  "aka": [
+    "Red Regent apple",
+    "Minnesota 1430"
+  ],
+  "blurb": "A 1964 University of Minnesota keeper sold by nurseries as 'Red Regent' (a trade name for 'Regent'): red-striped, crisp, very juicy, well-balanced. Hits the crisp-and-juicy brief, but it's balanced rather than sharp — the sweeter-leaning side of tart.",
+  "size": "~12–15 ft × 10–15 ft on semi-dwarf rootstock (20 ft+ on standard)",
+  "sun": "Full sun (6+ hrs)",
+  "water": "Moderate, regular — ~1 in a week May–Oct; deep weekly soak in summer",
+  "spread": "Clumping — single grafted tree; needs a pollinizer apple nearby",
+  "seasons": "White-pink blossom mid-May; red-striped fruit early–mid Oct, stores 4–5 months",
+  "wildlife": "Blossoms feed bees; dropped fruit feeds birds & small mammals",
+  "deer": "Foliage, bark & fruit browsed — not deer-resistant; fence young trees",
+  "toxic": "Fruit flesh edible; seeds contain cyanogenic amygdalin (mildly toxic if chewed in quantity)",
+  "winter": false,
+  "verified": "2026-09-03",
+  "origin": "Central Asia and Afghanistan; cultivar bred in Minnesota (University of Minnesota, 1964)",
+  "habitat": "Wild fruit-tree forests and mountain slopes of Central Asia",
+  "ph": {
+    "min": 5.5,
+    "ideal": 6.5,
+    "max": 8.0
+  },
+  "gaps": "Only one open-licensed photo of the cultivar itself exists (the UK National Fruit Collection's whole-and-cross-sectioned reference plate on Commons, used as the lead); no CC photo of 'Regent' on the tree was found on Commons, Openverse/Flickr or iNaturalist (the one Flickr 'Regent' shot is an indoor typewriter still-life and was rejected), so the blossom, foliage, habit, on-branch fruit and winter shots are honestly-captioned species-representative Malus domestica.",
+  "shots": [
+    {
+      "local": "images/fa-fruit-t.jpg",
+      "full": "images/fa-fruit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/73167111/large.jpg",
+      "s": "fall",
+      "cap": "Fall — a red-striped apple ripening on the branch (species-representative; 'Regent' is red-striped over yellow) · © mickeny (CC-BY-NC) / iNaturalist",
+      "by": "mickeny",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/46132638"
+    },
+    {
+      "local": "images/sp-blossom-t.jpg",
+      "full": "images/sp-blossom.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/655243485/large.jpg",
+      "s": "spring",
+      "cap": "Spring — face-on white apple blossom with rose-pink buds on the spur (species-representative) · © Koray Öğreten (CC-BY-NC) / iNaturalist",
+      "by": "Koray Öğreten",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/359148379"
+    },
+    {
+      "local": "images/sp-bloommass-t.jpg",
+      "full": "images/sp-bloommass.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/383188964/large.jpeg",
+      "s": "spring",
+      "cap": "Spring — clusters of white blossom through the fresh spring canopy (species-representative) · © Andrea Roper (CC-BY-NC) / iNaturalist",
+      "by": "Andrea Roper",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/216657878"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/297370520/large.jpeg",
+      "s": "summer",
+      "cap": "Summer foliage — broad, toothed apple leaves along the branches (species-representative) · © snaily_naily (CC-BY) / iNaturalist",
+      "by": "snaily_naily",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/171373457"
+    },
+    {
+      "local": "images/su-fruitmass-t.jpg",
+      "full": "images/su-fruitmass.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/228181928/large.jpg",
+      "s": "summer",
+      "cap": "Late summer — branches loaded with ripening red apples against a blue sky (species-representative) · © Matthew Thompson (CC-BY-NC) / iNaturalist",
+      "by": "Matthew Thompson",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/133918132"
+    },
+    {
+      "local": "images/fa-habit-t.jpg",
+      "full": "images/fa-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/326711149/large.jpg",
+      "s": "fall",
+      "cap": "Fall — a whole apple tree in an open field, the rounded spreading habit hung with red fruit (species-representative) · © Andrew Murray (CC-BY) / iNaturalist",
+      "by": "Andrew Murray",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/186893671"
+    },
+    {
+      "local": "images/fa-cultivar-t.jpg",
+      "full": "images/fa-cultivar.jpg",
+      "s": "fall",
+      "cap": "Ripe fruit — 'Regent' itself, whole and cross-sectioned at the UK National Fruit Collection (acc. 1974-067): dull red stripes over yellow, cream flesh · © National Fruit Collection, Brogdale (CC BY-SA 4.0) / Wikimedia Commons",
+      "by": "National Fruit Collection, Brogdale",
+      "lic": "CC BY-SA 4.0",
+      "link": "https://commons.wikimedia.org/wiki/File:Cross_section_of_Regent,_National_Fruit_Collection_(acc._1974-067).jpg",
+      "commons": "Cross section of Regent, National Fruit Collection (acc. 1974-067).jpg"
+    },
+    {
+      "local": "images/wi-winter-t.jpg",
+      "full": "images/wi-winter.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/109907959/large.jpeg",
+      "s": "winter",
+      "cap": "Winter — an old orchard tree fully dormant, the bare spreading crown, Oregon, January (species-representative) · © Barbara L. Wilson (CC-BY-NC) / iNaturalist",
+      "by": "Barbara L. Wilson",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/67946563"
+    }
+  ],
+  "references": [
+    {
+      "name": "CSU Extension — Backyard Orchard: Apples and Pears",
+      "url": "https://extension.colostate.edu/resource/backyard-orchard-apples-and-pears/"
+    },
+    {
+      "name": "PlantTalk Colorado #1201 — Apples",
+      "url": "https://planttalk.colostate.edu/topics/fruits/1201-apples/"
+    },
+    {
+      "name": "University of Minnesota Extension — Growing Apples",
+      "url": "https://extension.umn.edu/fruit/growing-apples"
+    },
+    {
+      "name": "NC State Extension Plant Toolbox — Malus domestica",
+      "url": "https://plants.ces.ncsu.edu/plants/malus-domestica/"
+    },
+    {
+      "name": "Amygdalin: Toxicity, Anticancer Activity and Analytical Procedures for Its Determination in Plant Seeds (Molecules, 2021) — NCBI PMC",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8069783/"
+    },
+    {
+      "name": "University of Minnesota Extension Service — Apple and Crabapple Varieties for Minnesota (AG-FO-0606-B, Hertz, rev. 1991; PDF)",
+      "url": "https://conservancy.umn.edu/server/api/core/bitstreams/d28e4ec8-ec9f-4d9b-9691-2ba9ba301179/content"
+    },
+    {
+      "name": "UK National Fruit Collection (Brogdale) — Regent, accession 1974-067",
+      "url": "https://www.nationalfruitcollection.org.uk/full2.php?varid=5122&&acc=1974067&&fruit=apple"
+    },
+    {
+      "name": "SDSU Extension — Fruit Variety 2019 Recommendations for South Dakota (P-00041; PDF)",
+      "url": "https://extension.sdstate.edu/sites/default/files/2019-04/P-00041.pdf"
+    },
+    {
+      "name": "Luby, Howard, Tillman & Bedford (2022) — Extended Pedigrees of Apple Cultivars from the University of Minnesota Breeding Program Elucidated Using SNP Array Markers, HortScience 57(3):472–477 — Experts@Minnesota",
+      "url": "https://experts.umn.edu/en/publications/extended-pedigrees-of-apple-cultivars-from-the-university-of-minn/"
+    }
+  ],
+  "care": {
+    "hardiness": "'Regent' (selection Minnesota 1430) was introduced by the University of Minnesota's Horticulture Research Center in 1964 — the UK National Fruit Collection lists it as 1963 — and UMN's own bulletin records the cross as Daniels Red Duchess × Red Delicious.[6][7] Treat that pedigree as the documented-but-dated one: a 2022 UMN SNP-marker study found 16 of the 21 cultivars the program released before 'Honeycrisp' had incorrect or incomplete recorded pedigrees, and on the strength of that work 'Regent' is now widely reported in trade and enthusiast references as Haralson × McIntosh — but the study's abstract does not name 'Regent' and we could not open the full paper, so treat the revised parentage as reported, not verified here.[9] Within Minnesota it is one of the *less* hardy releases — UMN rates it 'good to fair' and says it 'lacks extreme winter hardiness', recommending it only for the state's two milder fruit zones, and South Dakota calls it 'intermediate hardiness' — but that is a zone-3/4 concern; the species is rated USDA 4a–9b and Boulder's 5b–6a winters are no test for it.[3][4][6][8]",
+    "planting": "Plant bare-root trees as soon as the soil can be worked in April–May, and potted trees once frost danger has passed in May–June; check container stock for circling woody roots and straighten or cut them before planting.[3] Site it in full sun on a high point where cold air drains away, not in a low frost pocket, and not against the warm south or west wall of a building, which pushes bloom too early into our late-spring frosts.[2] In a pot the roots are far less cold-hardy than the top and freeze far harder than ground roots over a Front Range winter, so a containerized apple needs a large (≥20 gal) pot, a sheltered spot out of desiccating wind, and a move to an unheated garage in a hard cold snap; plan to plant it in the ground within a year or two, since UMN's spacing and rootstock advice all assumes a tree in the ground.[3]",
+    "sun": "Full sun — at least 6 hours, ideally all day — for fruit set, sugar and the red striping; the species tolerates part shade but crops and colors poorly there.[2][4]",
+    "soil": "Wants well-drained soil; the species tolerates clay, loam and sand across a wide pH from neutral (6.0–8.0) up into the alkaline (>8.0) range, so Boulder's alkaline clay-loam is workable, with 6.0–7.0 the sweet spot.[4] Never plant where water stands — PlantTalk's first rule for apples here is full sun and well-draining soil.[2]",
+    "water": "Moderate and regular: UMN's target is about 1 inch of water a week from rain or irrigation, May through October, and a thorough soak of the whole root zone whenever a dry spell sets in — which on the Front Range means most summer weeks.[3] Water at the dripline rather than the trunk and avoid chronic wet feet.[2][3]",
+    "spacing": "Spacing follows the rootstock: dwarf trees 6–8 ft apart, semi-dwarf 12–15 ft, standard 20–25 ft.[3] A semi-dwarf 'Regent' at roughly 12–15 ft is the practical backyard size and leaves room for the pollinizer apple it needs; M.111 is the hardy semi-dwarf that tolerates drier soil, while M.26 and M.9 are notably fire-blight-susceptible and M.9 needs staking.[3][8]",
+    "propagation": "Apples don't come true from seed, so 'Regent' is propagated only by grafting or budding a scion of the cultivar onto a chosen rootstock — never from its own pips.[4] The rootstock sets mature size, hardiness and how soon it bears, so buy a grafted tree on a rootstock matched to your space (see Spacing); the cultivar itself is precocious, coming into fruit early in life.[3][6]",
+    "bloom": "Nursery copy sells it as late-blooming; the one dated record we found — the UK National Fruit Collection at Brogdale — logs 10% bloom on 6 May, full bloom on 11 May and petal fall on 19 May, a mid-to-late date for that collection.[7] Here that is roughly mid-May, still inside Boulder's frost window, which is why the high-ground, no-south-wall siting matters.[2] It flowers heavily, and like every apple it is not self-fruitful: it needs pollen from a *different* apple variety (a flowering crabapple works) within about 100 ft whose bloom overlaps.[3][6][8]",
+    "feeding": "Nitrogen is normally the only nutrient an apple needs annually, and compost supplies it; if shoot growth is already vigorous, UMN says to apply none, because excess growth suppresses fruiting and lush growth is more susceptible to fire blight — a real hazard for this moderately blight-susceptible cultivar in our warm, wet bloom-time weather.[1][3]",
+    "pruning": "Prune while fully dormant, before growth begins and after the coldest weather has passed — early March here — training to a central leader with well-spaced scaffold limbs and thinning crossing, crowded and inward wood so sun reaches the fruit; 'Regent' bears its fruit singly along shoots and spurs rather than in clusters, so keep the fruiting wood open rather than heading it back hard.[2][3][6] Because it is moderately susceptible to fire blight, cut only in dry weather, never during the warm (65–90°F), wet or humid spells when the bacterium moves, disinfect pruners between cuts, and cut out any blight strikes well below the visibly dead tissue and dispose of the prunings.[1][6][8]",
+    "maintenance": "Thin the young fruit in June to one or two per cluster, or about 4–6 in apart along a branch, for size and quality; 'Regent' sets its fruit singly and usually crops every year, so it needs less rescue thinning than a biennial-bearing Haralson.[3][6] Wrap the trunk for winter and fence young trees against deer and voles.[3]",
+    "troubles": "Disease is where 'Regent' asks for care: UMN calls it susceptible to apple scab and fire blight, its 1991 bulletin rates it 'moderately susceptible' to scab, fire blight and cedar-apple rust, and South Dakota's table gives it poor scab resistance with moderate rust and fire-blight resistance — so the nursery claim of strong rust resistance is not what the extension record says, and a nearby juniper is a risk.[3][6][8] Fire blight is the Front Range headline: infection periods are 18+ hours at 65–90°F with rain or humidity above 65%, so keep nitrogen modest and cut strikes out in dry weather.[1] Codling moth is the most serious pest of pome fruit here — weekly sprays are needed for complete control in high-pressure areas — and apple maggot is present in parts of the Front Range; PlantTalk's schedule starts codling-moth control two weeks after petal fall, repeats every two weeks, and relies on picking up dropped fruit and leaves.[1][2] Scab is a wet-spring disease, so the tree's need for scab sprays will be lowest in our dry years.[3]",
+    "harvest": "Pick early to mid October — UMN's Minnesota date is about 12 October, the National Fruit Collection says mid-October — when the ground color under the red stripes turns from green to greenish-yellow.[3][6][7] What you get, per the release authority: a medium (Brogdale measured large, ~3 in) globose-conical apple, dull red with obscure stripes over a green-yellow ground, a tough skin that resists bruising, cream flesh that is crisp and very juicy, and a flavor that 'suggests Delicious, but is more sprightly' — UMN's current word is 'well-balanced'.[3][6][7] Read that honestly: it is a crisp, juicy, balanced apple, not a sharp one — sweeter-leaning than Haralson.[3][6] It stores 4–5 months in the fridge (33–38°F, ~85% humidity), so from an October pick expect it to run through February into March; none of the authorities we read grade how fast it softens in storage, so eat the crispest ones first and don't expect a GoldRush-length shelf.[3]",
+    "companions": "Plant a second, different apple variety or a flowering crabapple within ~100 ft as the essential pollinizer; two varieties is PlantTalk's rule for Colorado.[2][3][8] Keep the root zone in mulch or low groundcover rather than competing turf, and site it away from junipers, the alternate host of the cedar-apple rust it is moderately susceptible to.[6][8]"
+  },
+  "fact_src": {
+    "size": [
+      3,
+      4
+    ],
+    "sun": [
+      2,
+      4
+    ],
+    "water": [
+      3
+    ],
+    "spread": [
+      3,
+      8
+    ],
+    "seasons": [
+      3,
+      6,
+      7
+    ],
+    "wildlife": [
+      4
+    ],
+    "deer": [
+      3
+    ],
+    "toxic": [
+      4,
+      5
+    ],
+    "origin": [
+      4,
+      6
+    ],
+    "habitat": [
+      4
+    ],
+    "ph": [
+      4
+    ]
+  },
+  "edible": {
+    "level": "edible",
+    "food": true,
+    "kinds": [
+      "fruit"
+    ],
+    "card": "Crisp, juicy, well-balanced fruit — fresh, pie, sauce, or baked",
+    "summary": "The fruit is a first-rate fresh-eating and cooking apple — crisp, very juicy and well-balanced, excellent fresh, in pie, sauce, freezing and baking, and a 4–5-month keeper; only the seeds carry a trace toxin.[3][5][6]",
+    "parts": "The fruit (flesh and skin) is the edible part, raw or cooked.[4] 'Regent' is a medium-to-large, red-striped dessert-and-culinary apple with cream flesh that the release authority describes as crisp and very juicy, with a flavor that suggests Delicious but is more sprightly — in plain terms, crisp and juicy with a balanced sweet-tart rather than a real bite — under a tough, bruise-resistant skin.[6][7] It holds 4–5 months in cold storage; how quickly the crunch fades after that is not documented by any authority we read.[3]",
+    "preparation": "Eat fresh out of hand, or core and slice for pie, sauce, freezing and baking — UMN rates it excellent for all of them.[3][6] Cut out and discard the seedy core; the flesh needs no special treatment to be safe.[5]",
+    "caution": "The flesh and skin are entirely safe; the only concern is the seeds, which like all apple pips contain cyanogenic amygdalin. Hydrogen cyanide is released only when the seed tissue is crushed or chewed and the glycoside meets β-glucosidase (in the plant tissue, and in gut flora) — whole seeds swallowed by accident pass through essentially intact, and apple seeds carry only about 0.3–1.4 mg of amygdalin per gram, so it would take deliberately chewing a great many to approach a toxic dose — so just core the apple, don't eat or grind the pips, and keep children and pets from chewing them.[5]"
+  }
+}

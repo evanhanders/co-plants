@@ -1,0 +1,215 @@
+{
+  "collection": "apples",
+  "common": "SnowSweet apple",
+  "botanical": "Malus domestica 'Wildung'",
+  "aka": [
+    "SnowSweet®",
+    "Wildung"
+  ],
+  "type": "Tree",
+  "lifecycle": "Perennial",
+  "native": "Non-native",
+  "flower_color": [
+    "white",
+    "pink"
+  ],
+  "bloom": [
+    "spring"
+  ],
+  "blurb": "A 2006 University of Minnesota apple with firm, snow-white flesh that barely browns when cut. Verdict for the tart-crisp shopper: crisp, yes — but sweet-leaning with only a slight tart edge, and a short two-month keeper; a partial fit.",
+  "size": "~10–15 ft × 10–15 ft on dwarf/semi-dwarf rootstock (20+ ft on standard)",
+  "sun": "Full sun (6+ hrs)",
+  "water": "Moderate, regular — ~1 in a week May–Oct; deep weekly soak in summer",
+  "spread": "Clumping — single grafted tree; needs a pollinizer apple nearby",
+  "seasons": "White-pink blossom mid-spring; bronze-red-blushed fruit late Sept–Oct",
+  "wildlife": "Bee-pollinated blossom; fruit for birds & small mammals",
+  "deer": "Foliage, bark & fruit browsed — not deer-resistant; fence young trees",
+  "toxic": "Fruit flesh edible; seeds contain cyanogenic amygdalin (mildly toxic if chewed in quantity)",
+  "winter": false,
+  "verified": "2026-09-03",
+  "origin": "Central Asia and Afghanistan; cultivar bred in Minnesota",
+  "habitat": "Wild fruit-tree forests and mountain slopes of Central Asia",
+  "ph": {
+    "min": 5.5,
+    "ideal": 6.5,
+    "max": 8.0
+  },
+  "gaps": "No open-licensed photograph of the SnowSweet®/'Wildung' cultivar could be found anywhere reachable (Openverse/Flickr returned zero hits on every spelling, Wikimedia Commons holds no file for it, and iNaturalist has no cultivar taxon), so every shot in this reel is an honestly-captioned species-representative Malus domestica; the fruit shots were chosen to match the University of Minnesota's description — an oblate apple with a 70–85% bronze-red blush over a pale ground.",
+  "shots": [
+    {
+      "local": "images/fa-fruit-t.jpg",
+      "full": "images/fa-fruit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/317778845/large.jpeg",
+      "s": "fall",
+      "cap": "Fall — a red-blushed apple ripening on the branch; SnowSweet carries a 70–85% bronze-red blush over a pale ground (species-representative) · © Xian Zhou (CC-BY-NC) / iNaturalist",
+      "by": "Xian Zhou",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/182275455"
+    },
+    {
+      "local": "images/sp-bloommass-t.jpg",
+      "full": "images/sp-bloommass.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/363671197/large.jpg",
+      "s": "spring",
+      "cap": "Spring — tree smothered in pink-white apple blossom (species-representative) · © kenbehrens (CC-BY-NC) / iNaturalist",
+      "by": "kenbehrens",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/205659416"
+    },
+    {
+      "local": "images/sp-blossom-t.jpg",
+      "full": "images/sp-blossom.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/38615726/large.jpeg",
+      "s": "spring",
+      "cap": "Spring — a face-on cluster of white apple blossom with pink buds (species-representative) · © Kassidy (CC-BY-NC) / iNaturalist",
+      "by": "Kassidy",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/24961306"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/280099593/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — a whole apple tree in leaf, the open spreading form (species-representative) · © no rights reserved (CC0) / iNaturalist",
+      "by": "no rights reserved",
+      "lic": "CC0",
+      "link": "https://www.inaturalist.org/observations/162018074"
+    },
+    {
+      "local": "images/fa-close-t.jpg",
+      "full": "images/fa-close.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/718579574/large.jpg",
+      "s": "fall",
+      "cap": "Fall — an oblate, red-blushed apple close up, the shape SnowSweet shares (species-representative) · © inconnu31 (CC-BY-NC) / iNaturalist",
+      "by": "inconnu31",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/392131235"
+    },
+    {
+      "local": "images/fa-laden-t.jpg",
+      "full": "images/fa-laden.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/427836869/large.jpeg",
+      "s": "fall",
+      "cap": "Fall — a young tree hung with red apples at harvest (species-representative) · © Katarzyna A Phillips (CC-BY-NC) / iNaturalist",
+      "by": "Katarzyna A Phillips",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/240164820"
+    },
+    {
+      "local": "images/fa-foliage-t.jpg",
+      "full": "images/fa-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/322839371/large.jpeg",
+      "s": "fall",
+      "cap": "Early fall foliage — a whorl of glossy, serrated apple leaves (species-representative) · © Ellen (CC-BY-NC) / iNaturalist",
+      "by": "Ellen",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/184911215"
+    },
+    {
+      "local": "images/wi-winter-t.jpg",
+      "full": "images/wi-winter.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/174406932/large.jpeg",
+      "s": "winter",
+      "cap": "Winter — persistent red apples on bare, snow-dusted branches (species-representative) · © Matthew Ruzicka (CC-BY-NC) / iNaturalist",
+      "by": "Matthew Ruzicka",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/104109661"
+    }
+  ],
+  "references": [
+    {
+      "name": "CSU Extension — Backyard Orchard: Apples and Pears",
+      "url": "https://extension.colostate.edu/resource/backyard-orchard-apples-and-pears/"
+    },
+    {
+      "name": "PlantTalk Colorado #1201 — Apples",
+      "url": "https://planttalk.colostate.edu/topics/fruits/1201-apples/"
+    },
+    {
+      "name": "University of Minnesota Extension — Growing Apples",
+      "url": "https://extension.umn.edu/fruit/growing-apples"
+    },
+    {
+      "name": "NC State Extension Plant Toolbox — Malus domestica",
+      "url": "https://plants.ces.ncsu.edu/plants/malus-domestica/"
+    },
+    {
+      "name": "Amygdalin: Toxicity, Anticancer Activity and Analytical Procedures for Its Determination in Plant Seeds (Molecules, 2021) — NCBI PMC",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8069783/"
+    },
+    {
+      "name": "University of Minnesota — Minnesota Hardy: SnowSweet® apple (Wildung cultivar)",
+      "url": "https://mnhardy.umn.edu/snowsweet"
+    }
+  ],
+  "care": {
+    "hardiness": "SnowSweet® — the trademark; the cultivar name is 'Wildung' — was introduced by the University of Minnesota in 2006 from a Sharon × Connell Red cross and is rated hardy to USDA zone 4a, with cold-hardiness the University puts on a par with Haralson and Honeycrisp, so Boulder's 5b–6a winters are no concern.[6] It is a mid-bloom variety, which gives it a modest edge over the earliest apples against the late-spring frosts that strip bloom here; PlantTalk's Colorado advice to keep apples off warm south- and west-facing walls, which force bloom out early into frost, applies.[2][6] The Front-Range catch is at the other end of the season: it ripens late — about two weeks after Honeycrisp — and UMN warns that the late harvest leaves the fruit more at risk of freezing on the tree.[3][6]",
+    "planting": "Plant in full sun on well-drained, elevated ground where cold air drains away, and avoid the south or west side of a building, where reflected warmth pushes bloom out early into frost danger.[2] Bare-root trees go in while dormant in early spring; UMN's calendar has potted trees planted in May–June once the threat of frost has passed.[3] A tree that has to sit in its nursery pot over a first winter has no soil around its roots, so shelter the pot — heel it in, or move it to an unheated garage in a hard cold snap — and plan to plant it out the following spring; from November through March check any young tree for deer and vole damage and fence it if needed, and fit a tree guard against winter injury and bark chewing by voles and rabbits.[3]",
+    "sun": "Full sun. NC State rates apples full sun to partial shade, but PlantTalk's Colorado guidance is unambiguous — full sun and well-drained soil — and fruit set, sugar and the bronze-red blush all fall off in shade; our intense high-altitude light is an asset.[2][4]",
+    "soil": "Well-drained soil is the one non-negotiable; beyond that apples are forgiving — NC State lists clay, loam and sand and a pH range running from neutral (6.0–8.0) into alkaline (above 8.0), so Boulder's alkaline clay-loam is workable ground for this tree.[4] Plant on elevated, well-draining ground rather than a low spot where water sits.[2]",
+    "water": "About an inch of water a week from rain or irrigation, May through October, is UMN's rule for apples; on the Front Range that means a deep weekly soak through the dry summer, applied at the dripline, and never standing water.[3] Consistent late-season water matters for this variety because its fruit is still sizing on the tree into October.[3][6]",
+    "spacing": "Rootstock sets the spacing: dwarf trees 6–8 ft apart, semi-dwarf (MM.111) 12–15 ft, standard 20–25 ft.[3] The University describes the SnowSweet tree as moderately vigorous with a somewhat pendant, open habit, so a semi-dwarf tree fits the 10–15 ft footprint most yards have, with room left for the pollinizer it needs.[3][6]",
+    "propagation": "Apples do not come true from seed; SnowSweet® is a trademarked, grafted cultivar ('Wildung'), propagated only by grafting or budding scions of the named variety onto a rootstock, and the rootstock — dwarf (8–15 ft), semi-dwarf (14–18 ft) or standard (20+ ft) — sets the tree's size and how soon it bears.[3][4][6] Dwarf trees bear in 2–3 years; standard trees can take up to 8.[3]",
+    "bloom": "White-and-pink blossom in mid-spring — the University classes SnowSweet as mid-bloom.[6] It is not self-fruitful: two different varieties are required for pollination, and one of them can be a flowering crabapple; PlantTalk makes the same point for Colorado — select two different varieties for cross-pollination and a good crop.[2][3]",
+    "feeding": "Nitrogen is the one nutrient apples need yearly; UMN applies it as compost and reads more than 18 in of shoot growth a year as a sign of over-fertilizing.[3] Keep nitrogen modest here: fire blight is serious enough on the Front Range that CSU names it an area prone to the disease and calls for protective sprays at 3–5 day intervals through bloom where growers choose to treat, and SnowSweet's above-average resistance is not immunity.[1][6]",
+    "pruning": "Prune while fully dormant in early March, as PlantTalk and UMN both time it — after the coldest weather but before growth begins — cutting so that light penetrates into the lower tree for better fruit production and strong branch structure.[2][3] SnowSweet's naturally open, somewhat pendant habit needs less thinning than an upright grower; concentrate on crossing, crowded and drooping wood.[6] Fire blight is the local hazard with any cut: CSU names Colorado's Front Range as an area prone to it, so keep pruning to dry dormant weather and cut out any blighted shoots promptly; SnowSweet's above-average fire-blight resistance lowers the odds but does not remove them.[1][6]",
+    "maintenance": "Thin when the fruit reaches marble size in late June or early July, leaving one or two per flower cluster about 4–6 in apart along the branch, for size — the University notes SnowSweet is annually productive with good fruit adherence, so thinning is for fruit size more than to fight biennial bearing.[3][6] Spray dormant oil in late March for scale, mites and aphids, and clean up fallen fruit and leaves each season to break the codling-moth cycle.[2] From November through March check for deer and vole damage, and keep a tree guard on the trunk against winter injury and bark chewing by voles and rabbits.[3]",
+    "troubles": "Codling moth is the most serious pest of pome fruits here; in high-pressure areas CSU says complete control takes weekly sprays, with backyard growers working a 7-to-10-day interval — PlantTalk's version is to begin about two weeks after the blooms fall and repeat every two weeks through the season, removing fallen fruit and leaves.[1][2] Apple maggot is established in some Front Range areas and needs the same schedule, started a week to ten days after the first adult flies show on yellow sticky traps.[1] Fire blight: CSU recommends protective sprays at 3–5 day intervals during bloom in high-risk areas like the Front Range; SnowSweet's above-average fire-blight resistance and average-to-above-average scab resistance put it among the lower-maintenance apples, but neither is immunity.[1][6] Powdery mildew is handled preventively — prebloom, again at petal fall, then at two-week intervals until mid-June.[1]",
+    "harvest": "Late season: about two weeks after Honeycrisp, which UMN harvests in late September — so late September into mid-October on the Front Range, and because that runs late, pick before a hard freeze; UMN flags the late harvest as leaving the fruit more at risk of freezing.[3][6] The fruit is oblate, 2.8–3.1 in across, with a 70–85% bronze-red blush over a pale ground.[6] How it eats: firm, snow-white, crisp flesh that is sweet with only a slight tart balance and rich, almost buttery overtones — and the party trick is that cut slices are very slow to oxidize, staying white long after cutting.[6] Storage is the weak spot: 1½ to 2 months in common storage at 34–37°F, a short window next to the long-storing apples, so eat it fresh in fall rather than counting on it as a keeper.[3][6] Verdict for the tart-crisp shopper: crisp and firm, yes — but sweet-leaning with mild acid and a short shelf life, a partial fit.[6]",
+    "companions": "The essential companion is a second, different apple variety (or a flowering crabapple) for cross-pollination.[2][3] Keep the root zone weeded and the trunk in a tree guard, and fence young trees where deer and voles work in winter.[3]"
+  },
+  "fact_src": {
+    "size": [
+      3,
+      4,
+      6
+    ],
+    "sun": [
+      2,
+      4
+    ],
+    "water": [
+      3
+    ],
+    "spread": [
+      2,
+      3
+    ],
+    "seasons": [
+      3,
+      6
+    ],
+    "wildlife": [
+      4
+    ],
+    "deer": [
+      3
+    ],
+    "toxic": [
+      4,
+      5
+    ],
+    "origin": [
+      4
+    ],
+    "habitat": [
+      4
+    ],
+    "ph": [
+      4
+    ]
+  },
+  "edible": {
+    "level": "edible",
+    "food": true,
+    "kinds": [
+      "fruit"
+    ],
+    "card": "Crisp, sweet, slow-browning fruit — fresh eating",
+    "summary": "The fruit is a fresh-eating dessert apple — crisp, snow-white flesh, sweet with a slight tart edge, and notably slow to brown when cut — that also cooks like any apple; only the seeds carry a trace toxin.[4][5][6]",
+    "parts": "The fruit (flesh and skin) is the edible part, eaten raw or cooked.[4] SnowSweet is firm and crisp with snow-white flesh, sweet with only a slight tart balance and rich, buttery overtones — a sweet-leaning dessert apple, not a tart one — and its flesh is very slow to oxidize, so slices stay white for salads and platters; it holds only about 1½–2 months in common storage, so it is a fall apple to eat fresh, not a winter keeper.[6]",
+    "preparation": "Eat fresh out of hand or sliced — the slow-browning flesh is made for lunchboxes, salads and cheese boards — or core and cook it like any apple.[4][6] Cut out and discard the seedy core; the flesh needs no special treatment to be safe.[5]",
+    "caution": "The flesh and skin are entirely safe; the only concern is the seeds, which (like all apples and stone fruit) contain cyanogenic amygdalin. Amygdalin releases hydrogen cyanide only when seeds are crushed or chewed — whole seeds swallowed by accident pass through harmlessly, and a person would have to deliberately chew on the order of dozens to hundreds of seeds to risk poisoning — so simply core the apple and don't eat or grind the pips, and keep children and pets from chewing them.[5]"
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "collection": "apples",
+  "common": "Fameuse apple",
+  "botanical": "Malus domestica 'Fameuse'",
+  "aka": [
+    "Snow apple",
+    "Chimney apple",
+    "Pomme de Neige",
+    "La Fameuse"
+  ],
+  "type": "Tree",
+  "lifecycle": "Perennial",
+  "native": "Non-native",
+  "flower_color": [
+    "white",
+    "pink"
+  ],
+  "bloom": [
+    "spring"
+  ],
+  "blurb": "The Quebec heirloom 'Snow apple' — dark-red fruit with snow-white, tender, aromatic flesh that eats sweet-mild, not sharp. A beloved dessert and cider apple, but tender flesh, mild acid and a short storage life mean it misses the tart-crisp-keeper brief.",
+  "size": "~12–18 ft × 10–15 ft (smaller on dwarf rootstock)",
+  "sun": "Full sun (6+ hrs)",
+  "water": "Moderate, regular",
+  "spread": "Clumping — single grafted tree; needs a pollinizer apple nearby",
+  "seasons": "White-pink blossom mid-spring; dark-red fruit Sept–Oct, eaten by midwinter",
+  "wildlife": "Bee-pollinated blossom; fruit for wildlife",
+  "deer": "Foliage & fruit browsed — not deer-resistant",
+  "toxic": "Fruit flesh edible; seeds contain cyanogenic amygdalin (mildly toxic if chewed in quantity)",
+  "winter": false,
+  "verified": "2026-09-03",
+  "origin": "Central Asia and Afghanistan; cultivar a Quebec seedling of French stock, c. 1700",
+  "habitat": "Wild fruit-tree forests and mountain slopes of Central Asia",
+  "ph": {
+    "min": 5.5,
+    "ideal": 6.5,
+    "max": 8.0
+  },
+  "gaps": "No open-licensed photograph of the 'Fameuse' cultivar on the tree exists (the one Commons on-tree shot is OGL-licensed and 640 px; the CC Flickr hits are market bowls, book plates and text-overlaid frames), so the whole reel is honestly-captioned species-representative Malus domestica — red-fruited apples, blossom, foliage, habit and a winter shot.",
+  "references": [
+    {
+      "name": "CSU Extension — Backyard Orchard: Apples and Pears",
+      "url": "https://extension.colostate.edu/resource/backyard-orchard-apples-and-pears/"
+    },
+    {
+      "name": "PlantTalk Colorado #1201 — Apples",
+      "url": "https://planttalk.colostate.edu/topics/fruits/1201-apples/"
+    },
+    {
+      "name": "University of Minnesota Extension — Growing Apples",
+      "url": "https://extension.umn.edu/fruit/growing-apples"
+    },
+    {
+      "name": "NC State Extension Plant Toolbox — Malus domestica",
+      "url": "https://plants.ces.ncsu.edu/plants/malus-domestica/"
+    },
+    {
+      "name": "Amygdalin: Toxicity, Anticancer Activity and Analytical Procedures for Its Determination in Plant Seeds (Molecules, 2021) — NCBI PMC",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8069783/"
+    },
+    {
+      "name": "Beach, The Apples of New York, vol. 2 (1905), p. 65 — 'Fameuse' (Bard College AppleDB transcription)",
+      "url": "https://projects.eh.bard.edu/appledb/cultivars/fameuse/"
+    },
+    {
+      "name": "Montana State University Western Agricultural Research Center — Heritage Fruit ID Guide: Fameuse",
+      "url": "https://agresearch.montana.edu/warc/guides/apples/heritage_orchard_management_guide/heritage-fruit-id-guide/apples_id_key/fameuseappleid.html"
+    },
+    {
+      "name": "NW Fruit (Western Washington Fruit Research Foundation) — Antique Apple Collection: Fameuse (Snow)",
+      "url": "https://nwfruit.org/home-fruit-garden-tour-antique-apple-collection/"
+    },
+    {
+      "name": "Canada's History — The Mystery of Mr. McIntosh's Apple",
+      "url": "http://www.canadashistory.ca/Explore/Arts,-Culture-Society/The-Mystery-of-Mr-McIntosh-s-Apple"
+    }
+  ],
+  "care": {
+    "hardiness": "'Fameuse' is one of the oldest apples in North America — first recorded around 1700 and reported in Quebec by 1730, either raised there from seed the French settlers brought or a French variety outright (the record does not settle which).[7][8] It was the most commonly grown apple in Quebec for over a century and a major commercial variety in the Champlain and St. Lawrence valleys, and is described as a very hardy tree — cold is no issue at all in Boulder's 5b–6a.[6][8] PlantTalk Colorado lists Fameuse by name among the apple varieties that are reliable in Colorado.[2] The genuine local risks are late-spring frost on the mid-season bloom and a wet spring bringing scab, not winter cold.[2][7]",
+    "planting": "Plant in spring (April–May) or early fall, in full sun on well-drained, elevated ground rather than a low frost pocket, and not against a south or west wall — a warm wall pushes apples into bloom too early, where a Front-Range frost takes the crop.[2] Set bare-root trees while dormant, container stock through the growing season. In a pot the roots freeze far harder than ground roots over a Front-Range winter, so use a large (≥20 gal) container in a sheltered spot out of the wind (or an unheated garage in a hard cold snap) and plan to plant it in the ground within a year or two; the tree needs a steady inch of water a week from May through October, which a pot cannot hold.[3]",
+    "sun": "Full sun, 6+ hours minimum and ideally all day; apples take partial shade but fruit, colour and disease resistance all drop as light does, and PlantTalk's Colorado guidance is full sun on an elevated, well-drained site.[2][4]",
+    "soil": "Well-drained soil; the species tolerates clay, loam and sand across a broad pH from neutral into alkaline (>8.0), so Boulder's alkaline clay-loam is workable, happiest near 6.0–7.0.[4] Beach recorded that Fameuse did best on light, well-drained soil over a clay subsoil, and the nursery label's warning that it dislikes heavy soil agrees — amend heavy clay with organic matter at planting, plant on a slight mound, and never where water stands.[2][6]",
+    "water": "Moderate, regular water — about an inch a week from rain or irrigation from May through October, applied as a deep soak at the dripline rather than frequent sprinkles, and never chronic wet feet.[3] Keep it even while the fruit is sizing in late summer; this tender-fleshed apple shows drought stress and irregular watering as small, soft fruit.[3][7]",
+    "spacing": "Spacing follows the rootstock: roughly 6–8 ft for dwarf, 12–15 ft for semi-dwarf, and 20–25 ft for standard trees.[3] Fameuse is a vigorous, upright tree with sturdy long branches, so a semi-dwarf rootstock gives the most manageable backyard tree at about 12–15 ft, with the pollinizer it needs within 100 ft.[3][7]",
+    "propagation": "Apples don't come true from seed, so 'Fameuse' is propagated only by grafting or budding a scion of the cultivar onto a selected rootstock — never from its own seed.[4] (Its own seedlings are famous for a different reason: McIntosh and Cortland are widely held to descend from it.)[7][9] The rootstock sets mature size, vigor and how soon it bears, so buy a grafted tree on a rootstock sized to your space.[3][4]",
+    "bloom": "White-and-pink blossom opens in mid-spring, around May here — a mid-season bloomer.[2][7] Like all apples, 'Fameuse' is not self-fruitful and needs pollen from a different, co-blooming apple or flowering crabapple within about 100 ft — plant a compatible second variety to set a crop.[2][3] Because it flowers mid-season rather than late, a Front-Range frost after bloom can still take the crop; the elevated, non-south-wall siting matters.[2]",
+    "feeding": "Feed lightly — nitrogen is normally the only nutrient apples need annually, and compost supplies it.[3] Keep nitrogen modest: heavy feeding pushes soft growth that delays bearing and invites fire blight, which strikes in warm, wet bloom-time weather here.[1][3]",
+    "pruning": "Do the main structural pruning while fully dormant in early March, training to a central leader — one dominant trunk with tiered scaffold branches — and thinning crowded, crossing and inward wood to open the canopy for light and air, which also cuts the leaf-wetness that scab needs.[2][3] Fameuse is a vigorous upright grower, so annual pruning keeps it in bounds.[7] Fire blight is the Front-Range apple disease, so prune only in dry weather, disinfect tools between cuts, and cut out any blight strikes well below the visibly dead tissue.[1][2]",
+    "maintenance": "Thin the fruit hard when it is marble-size in late June or early July — one or two per cluster, 4–6 in apart — both for size and to stop this heavy-bearing tree from settling into the crop-every-other-year rhythm the nursery label warns of.[3][8] Rake up and remove fallen leaves and fruit every autumn: scab overwinters in the leaf litter, and Fameuse is a scab-susceptible variety.[3][7] Dormant oil in late March covers scale, mites and aphids.[2]",
+    "troubles": "Scab is the signature trouble — Beach noted the fruit is 'often badly injured by the apple-scab fungus', and Montana State rates it susceptible; a wet Front-Range spring is exactly when it hits, so the dry-climate advantage is real but not a guarantee.[6][7] Leaf-litter sanitation and an open canopy are the first line, with a preventive fungicide programme through the wet weeks of spring if the fruit has scabbed in prior years.[3][6] Fire blight is the big local disease of pome fruit — watch warm, wet bloom-time weather, keep nitrogen modest and cut out strikes in dry weather.[1] Codling moth is the most serious pest of pome fruits here and needs timed control after bloom for clean fruit.[1][2]",
+    "harvest": "Pick in September into early October here — a late harvest on the Montana State scale — when the skin has deepened from bright red to near-purple-black over the shaded green-yellow ground.[7] Eat it soon. The flesh is snow-white (often streaked crimson under the skin), very tender and juicy, subacid becoming very mild subacid or sweetish, and aromatic — a spicy, distinctive dessert apple, not a sharp one and not a crunchy one.[6][7][8] Beach rated it decidedly inferior to other apples of its season for cooking, and storage is poor: it holds until about Christmas under good conditions, keeps best in a refrigerator at 33–38°F, and softens rather than staying crisp.[3][6][7]",
+    "companions": "Plant a different apple variety or a compatible flowering crabapple within ~100 ft as the required pollinizer.[2][3] Keep the root zone in mulch or low groundcover rather than competing turf, and keep it away from junipers and hawthorns that host shared diseases.[1]"
+  },
+  "fact_src": {
+    "size": [
+      3,
+      4,
+      7
+    ],
+    "sun": [
+      2,
+      4
+    ],
+    "water": [
+      3
+    ],
+    "spread": [
+      2,
+      3
+    ],
+    "seasons": [
+      6,
+      7
+    ],
+    "wildlife": [
+      3,
+      4
+    ],
+    "deer": [
+      1
+    ],
+    "toxic": [
+      4,
+      5
+    ],
+    "origin": [
+      4,
+      7
+    ],
+    "habitat": [
+      4
+    ],
+    "ph": [
+      4
+    ]
+  },
+  "edible": {
+    "level": "edible",
+    "food": true,
+    "kinds": [
+      "fruit"
+    ],
+    "card": "Tender, snow-white, sweet-mild fruit — fresh or cider; short keeper",
+    "summary": "The fruit is a classic dessert and cider apple — snow-white, tender, aromatic flesh that eats mild-subacid to sweetish — best fresh within weeks of picking; only the seeds carry a trace toxin.[5][6]",
+    "parts": "The fruit (flesh and skin) is the edible part, fresh or cooked.[4] 'Fameuse' is prized above all as a dessert apple: Beach called it 'one of the most desirable dessert apples of its season', with flesh that is white, very tender, juicy, subacid becoming very mild subacid or sweetish, and aromatic.[6] That is the honest texture-and-flavor verdict — it is sweet-leaning with soft acid, and the flesh is tender rather than crisp, so it is not the tart-crunchy apple a crisp-keeper shopper is after.[6][7] It is also the traditional Quebec cider apple and cooks acceptably, though Beach rated it decidedly inferior to its season-mates for culinary use.[6][7]",
+    "preparation": "Eat fresh, ideally within a few weeks of picking — storage is poor, holding only until about Christmas under good conditions — or press for cider.[3][7] Core and slice for sauce if cooking; the flesh needs no special treatment to be safe, just discard the seedy core.[5]",
+    "caution": "The flesh and skin are entirely safe; the only concern is the seeds, which contain cyanogenic amygdalin like all apple pips. Amygdalin releases hydrogen cyanide only when seeds are crushed or chewed — whole seeds swallowed by accident pass through harmlessly, and it would take deliberately chewing on the order of dozens to hundreds of seeds to risk poisoning — so just core the apple, don't eat or grind the pips, and keep children and pets from chewing them.[5]"
+  },
+  "shots": [
+    {
+      "local": "images/su-fruit-t.jpg",
+      "full": "images/su-fruit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/73167111/large.jpg",
+      "s": "summer",
+      "cap": "Late summer — a red-striped apple colouring up on the branch (species-representative) · © mickeny (CC-BY-NC) / iNaturalist",
+      "by": "mickeny",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/46132638"
+    },
+    {
+      "local": "images/sp-bloommass-t.jpg",
+      "full": "images/sp-bloommass.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/363671197/large.jpg",
+      "s": "spring",
+      "cap": "Spring — branches sheeted in pink-and-white apple blossom (species-representative) · © kenbehrens (CC-BY-NC) / iNaturalist",
+      "by": "kenbehrens",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/205659416"
+    },
+    {
+      "local": "images/sp-blossom-t.jpg",
+      "full": "images/sp-blossom.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/68017309/large.jpg",
+      "s": "spring",
+      "cap": "Spring — face-on white apple blossom, petals flushed pink at the bud (species-representative) · © joerg_ewald (CC-BY-NC) / iNaturalist",
+      "by": "joerg_ewald",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/42831850"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/280099593/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — a mature orchard apple tree in full leaf (species-representative) · © no rights reserved (CC0) / iNaturalist",
+      "by": "no rights reserved",
+      "lic": "CC0",
+      "link": "https://www.inaturalist.org/observations/162018074"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/538172919/large.jpg",
+      "s": "summer",
+      "cap": "Summer foliage — an oval, finely serrated apple leaf, felted grey-green beneath (species-representative) · © Daniel Cahen (CC-BY) / iNaturalist",
+      "by": "Daniel Cahen",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/298755668"
+    },
+    {
+      "local": "images/fa-habit-t.jpg",
+      "full": "images/fa-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/490556772/large.jpg",
+      "s": "fall",
+      "cap": "Fall — the whole tree laden with red fruit (species-representative) · © Michal Svit (CC-BY-NC) / iNaturalist",
+      "by": "Michal Svit",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/272666577"
+    },
+    {
+      "local": "images/fa-close-t.jpg",
+      "full": "images/fa-close.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/608231835/large.jpg",
+      "s": "fall",
+      "cap": "Early fall — a red-blushed apple ripening among the leaves (species-representative) · © rytheguyluvswolves (CC-BY-NC) / iNaturalist",
+      "by": "rytheguyluvswolves",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/334878652"
+    },
+    {
+      "local": "images/wi-winter-t.jpg",
+      "full": "images/wi-winter.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/61612926/large.jpeg",
+      "s": "winter",
+      "cap": "Winter — a single persistent red apple frozen on a bare branch over snow, Ontario, February (species-representative) · © Paul Abell (CC-BY-NC) / iNaturalist",
+      "by": "Paul Abell",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/38737243"
+    }
+  ]
+}

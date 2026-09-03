@@ -1,0 +1,232 @@
+{
+  "collection": "apples",
+  "common": "Haralred apple",
+  "botanical": "Malus domestica 'Haralred'",
+  "type": "Tree",
+  "lifecycle": "Perennial",
+  "native": "Non-native",
+  "flower_color": [
+    "white",
+    "pink"
+  ],
+  "bloom": [
+    "spring"
+  ],
+  "blurb": "The solid-red sport of Minnesota's 'Haralson': firm, crisp, juicy, tart flesh and a 3–5-month keeper, a shade earlier and redder than its parent. Hits the tart-crisp brief — a workmanlike crisp rather than a Honeycrisp explosion.",
+  "size": "~12–15 ft × 12–15 ft on semi-dwarf rootstock (a naturally smallish, spreading tree; 20+ ft standard)",
+  "sun": "Full sun (6+ hrs)",
+  "water": "Moderate, regular — deep weekly soak in summer",
+  "spread": "Clumping — single grafted tree; needs a pollinizer apple other than Haralson",
+  "seasons": "Pink-budded white blossom mid-spring; solid-red fruit late Sept–early Oct",
+  "wildlife": "Blossoms feed bees; dropped fruit feeds birds & mammals",
+  "deer": "Foliage & fruit browsed — not deer-resistant",
+  "toxic": "Fruit flesh edible; seeds contain cyanogenic amygdalin (mildly toxic if chewed in quantity)",
+  "winter": false,
+  "verified": "2026-09-03",
+  "origin": "Central Asia and Afghanistan; sport found in La Crescent, Minnesota",
+  "habitat": "Wild fruit-tree forests and mountain slopes of Central Asia",
+  "ph": {
+    "min": 5.5,
+    "ideal": 6.5,
+    "max": 8.0
+  },
+  "aka": [
+    "Red Haralson",
+    "Malus pumila 'Haralred'"
+  ],
+  "shots": [
+    {
+      "local": "images/fa-fruit2-t.jpg",
+      "full": "images/fa-fruit2.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/29859450/large.jpeg",
+      "s": "fall",
+      "cap": "Fall — a branch of ripe red apples against blue sky (species-representative) · © Barbara L. Wilson (CC-BY-NC) / iNaturalist",
+      "by": "Barbara L. Wilson",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/19412683"
+    },
+    {
+      "local": "images/sp-blossom-t.jpg",
+      "full": "images/sp-blossom.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/284364523/large.jpeg",
+      "s": "spring",
+      "cap": "Spring — face-on white apple blossom clustered among fresh leaves (species-representative) · © mhalsted (CC-BY-NC) / iNaturalist",
+      "by": "mhalsted",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/164357937"
+    },
+    {
+      "local": "images/sp-bloommass-t.jpg",
+      "full": "images/sp-bloommass.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/500468652/large.jpg",
+      "s": "spring",
+      "cap": "Spring — branches sheeted in white apple blossom (species-representative) · © Степченков Андрей Анатольевич (CC-BY-NC) / iNaturalist",
+      "by": "Степченков Андрей Анатольевич",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/278783847"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/288214338/large.jpeg",
+      "s": "summer",
+      "cap": "Summer foliage — oval, finely serrated apple leaves (species-representative) · © Fyodor Pudovikov (CC-BY) / iNaturalist",
+      "by": "Fyodor Pudovikov",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/166434559"
+    },
+    {
+      "local": "images/fa-habit-t.jpg",
+      "full": "images/fa-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/490556772/large.jpg",
+      "s": "fall",
+      "cap": "Fall — a tree laden with ripening red apples (species-representative) · © Michal Svit (CC-BY-NC) / iNaturalist",
+      "by": "Michal Svit",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/272666577"
+    },
+    {
+      "local": "images/fa-fruit-t.jpg",
+      "full": "images/fa-fruit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/592308121/large.jpg",
+      "s": "fall",
+      "cap": "Fall — red-blushed apples ripening on the branch (species-representative) · © A Emmerson (CC-BY-NC) / iNaturalist",
+      "by": "A Emmerson",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/326985284"
+    },
+    {
+      "local": "images/wi-winter-t.jpg",
+      "full": "images/wi-winter.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/344272210/large.jpeg",
+      "s": "winter",
+      "cap": "Winter — a young apple tree's bare, snow-laden branches (species-representative) · © Вадим Рыбаков (CC-BY-NC) / iNaturalist",
+      "by": "Вадим Рыбаков",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/195659018"
+    }
+  ],
+  "references": [
+    {
+      "name": "CSU Extension — Backyard Orchard: Apples and Pears",
+      "url": "https://extension.colostate.edu/resource/backyard-orchard-apples-and-pears/"
+    },
+    {
+      "name": "PlantTalk Colorado #1201 — Apples",
+      "url": "https://planttalk.colostate.edu/topics/fruits/1201-apples/"
+    },
+    {
+      "name": "University of Minnesota Extension — Growing Apples",
+      "url": "https://extension.umn.edu/fruit/growing-apples"
+    },
+    {
+      "name": "NC State Extension Plant Toolbox — Malus domestica",
+      "url": "https://plants.ces.ncsu.edu/plants/malus-domestica/"
+    },
+    {
+      "name": "Amygdalin: Toxicity, Anticancer Activity and Analytical Procedures for Its Determination in Plant Seeds (Molecules, 2021) — NCBI PMC",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8069783/"
+    },
+    {
+      "name": "University of Minnesota Extension — Apple–Crabapple Varieties for Minnesota (AG-FO-0606-B, rev. 1991; L. B. Hertz) — UMN Digital Conservancy",
+      "url": "https://conservancy.umn.edu/server/api/core/bitstreams/d28e4ec8-ec9f-4d9b-9691-2ba9ba301179/content"
+    },
+    {
+      "name": "University of Wisconsin–Madison Extension — Apple Cultivars for Wisconsin (A2105)",
+      "url": "https://hort.extension.wisc.edu/files/2024/03/Apple-Cultivars-for-WI-A2105.pdf"
+    },
+    {
+      "name": "University of Idaho Extension — Growing Apples for Local Markets in Cold Climates (Finnigan, Colt & Fallahi)",
+      "url": "https://www.uvm.edu/~orchard/fruit/treefruit/tf_horticulture/AppleHortBasics/Readings/Idaho_FruitTreesColdClimates.pdf"
+    },
+    {
+      "name": "University of Wyoming Extension — Barnyards & Backyards, Fall 2017: 'Apple trees CAN grow in Wyoming' (C. Hilgert)",
+      "url": "https://www.uwyo.edu/barnbackyard/_files/documents/magazine/2017/fall/apples1017.pdf"
+    },
+    {
+      "name": "NDSU Carrington Research Extension Center — Northern Hardy Fruit Evaluation Project: Apples (Malus domestica)",
+      "url": "https://www.ag.ndsu.edu/carringtonrec/archive/northern-hardy-fruit-evaluation-project/fruit-index/apple/apples-2013-malus-domestica"
+    },
+    {
+      "name": "NDSU Carrington Research Extension Center — Recommendations from the Carrington REC Fruit Project",
+      "url": "https://www.ag.ndsu.edu/carringtonrec/archive/northern-hardy-fruit-evaluation-project/fruit-project-results/crec-fruit-recommendations"
+    },
+    {
+      "name": "Bailey Nurseries — Haralred® Apple (introducer's cultivar description)",
+      "url": "https://shop.baileynurseries.com/Product/Detail/1378"
+    }
+  ],
+  "care": {
+    "hardiness": "'Haralred' is a solid-red bud-sport of 'Haralson', the University of Minnesota's 1922 all-purpose apple (Malinda open-pollinated); the red limb was found by orchardist Louis Lautz of La Crescent, Minnesota, and Bailey Nurseries introduced it, rating it USDA zones 3–7.[6][12] It inherits Haralson's iron constitution — the parent is approved for every Minnesota fruit zone and rated hardy through zones 3–5 in Wisconsin's cultivar guide — and University of Idaho lists 'Haralred' itself among apples adapted to cold, short-season areas, while University of Wyoming Extension names it among the varieties known to thrive in Wyoming, a climate much like the Front Range's.[6][7][8][9] Boulder's 5b–6a winters are therefore no concern at all; the local risk is a late spring frost on the open bloom, which is a siting problem, not a hardiness one.[1][2]",
+    "planting": "Plant in spring once the ground is workable (April–May), or in early fall, in full sun on a high spot so cold air drains past rather than pooling around the buds — avoid frost-pocket lows and the warm south or west wall of a building, which pushes bloom too early into frost danger.[1][2] Bare-root trees go in while dormant; container stock anytime in the growing season. In a pot the roots are far less cold-hardy than the canopy and freeze far harder than ground roots over a Front Range winter, so a containerized apple needs a large (≥20 gal) pot, a sheltered or heeled-in spot out of desiccating wind, and a move to an unheated garage in a hard cold snap; plan to plant it in the ground within a year or two.[3]",
+    "sun": "Full sun — at least 6 hours of direct sun, and the more the better for fruit set, sugar, and the deep red finish that is the whole point of this sport over striped Haralson.[1][4] Shade cuts cropping and invites disease.[4]",
+    "soil": "Tolerates a wide range of soils, including Boulder's alkaline (>8.0) clay-loam, and does best in well-drained ground near neutral 6.0–7.0.[4] Amend heavy clay with organic matter at planting to speed establishment and improve drainage; never plant where water stands.[1]",
+    "water": "Moderate but regular — a deep weekly soak through the dry Front Range summer keeps the fruit sizing and the tree stress-free, especially the first few years while roots establish. Water at the dripline, not the trunk, and avoid chronic wet feet, which invites root rot.[1][3]",
+    "spacing": "Size depends on rootstock: dwarf trees want about 6–8 ft, semi-dwarf 12–15 ft, and standard (seedling) trees 20–25 ft apart.[3] Haralson-type trees are naturally on the small, spreading side for an apple — the parent is described as hardy and vigorous but relatively small — so a semi-dwarf 'Haralred' makes a manageable 12–15 ft backyard tree with room left for the second variety it needs.[6][7]",
+    "propagation": "Apples do not come true from seed, and a sport is a limb mutation, so 'Haralred' exists only as grafted or budded wood traced back to the red-fruited Lautz limb — never grow it from its own pips, which would give a random seedling.[4][12] The rootstock sets mature size and how soon the tree bears (dwarf, semi-dwarf, or standard), so buy a grafted tree on a rootstock matched to your space.[3][4]",
+    "bloom": "Pink-budded white blossom opens in mid-spring, typically May on the Front Range, in the same window as its parent.[1][4] Apples need pollen from a different, co-blooming variety, and here is the trap with this one: a sport is genetically the same apple as its parent, so 'Haralred' and 'Haralson' cannot pollinate each other — the introducer states plainly that it is an unsuitable pollinator for Haralson.[2][12] Plant a third, different apple or a flowering crabapple within about 100 ft whose bloom overlaps.[2][3]",
+    "feeding": "Feed lightly. A modest spring application of a balanced fertilizer supports young trees, but avoid heavy nitrogen — lush, soft growth both delays fruiting and dramatically increases fire-blight susceptibility, a real hazard in warm, moist Front Range springs.[1][3]",
+    "pruning": "Do the main structural pruning while fully dormant in late winter (February into early March here). Haralson-type trees build a strongly developed central leader with wide-angled lateral branches almost on their own, so training is mostly a matter of keeping one leader, spacing the scaffold tiers, and thinning crossing, crowded, and inward wood to let light and air into the canopy.[1][3][6] Fire blight is the Front Range risk: it spreads on tools and through fresh cuts in warm, wet weather, so never prune during active growth or wet spells, disinfect pruners between cuts (10% bleach or 70% alcohol), and cut any strike out 8–12 in below the visibly dead tissue in dry weather — the cultivar's fire-blight resistance is real but moderate, not immunity.[1][3][7][8]",
+    "maintenance": "Thin the fruit. Haralson sets in clusters and tends toward biennial bearing, and North Dakota's Carrington trial found its 'Haralred' bearing precociously every year on every branch — their note is simply 'Thin the fruit!' — so in late June or early July reduce clusters to one or two apples, 4–6 in apart along the branch, for size and a crop every year.[3][6][10]",
+    "troubles": "Disease-wise this is a solid, not bulletproof, apple: the parent is only slightly susceptible to fire blight and cedar-apple rust, and Wisconsin rates it moderately resistant to both, while Idaho lists fire-blight resistance for 'Haralred' itself; the weak spot is apple scab, to which Haralson is moderately susceptible — though Colorado's dry climate usually limits fungal disease outside extended wet spells.[1][6][7][8] Keep nitrogen modest and cut fire-blight strikes out 8–12 in below the dead tissue in dry weather, sterilizing pruners between cuts.[1][3] Codling moth (the wormy-apple pest) is the most serious fruit pest here and needs monitoring and timed control for clean fruit; cleaning up dropped fruit and leaves each fall helps.[1][2] One honest caveat from the far north: at NDSU's Carrington station (a shorter, cooler season than Boulder's) 'Haralred' ripened very late with weak flavor and the reviewers concluded there were better choices, even as home growers reported fine fruit — so give it the sunniest spot you have and let it hang to full color.[10][11]",
+    "harvest": "Pick late September into early October on the Front Range — Idaho lists a late-September harvest for 'Haralred', and Haralson comes off around October 1 in Wisconsin and late September to early October in Minnesota; the sport colors up a solid red and runs a little earlier than its red-striped parent.[3][7][8][12] How it eats: the flesh is white, firm, crisp, and juicy — Minnesota's own description calls it medium-tender crisp, mildly acid, while Wisconsin's guide rates it crisp, juicy, and tart with a distinctive flavor — so expect a clean tart-crisp apple, a workmanlike crunch rather than Honeycrisp's shatter.[6][7] It is a genuine keeper: the introducer calls it juicy, tart, firm and a good keeper, and the parent stores about 3 months in Wisconsin's rating and 4–5 months in Minnesota's, staying firm rather than going mealy; its tartness mellows a little in storage and it makes an excellent pie and sauce apple.[3][6][7][12]",
+    "companions": "Plant a different apple variety or a compatible flowering crabapple within ~100 ft as the essential pollinizer — and not Haralson, which this sport cannot cross-pollinate.[2][3][12] Keep the root zone in low groundcover or mulch rather than competing turf, and site away from junipers and hawthorns that share apple diseases (cedar-apple rust, fire blight).[1]"
+  },
+  "fact_src": {
+    "size": [
+      3,
+      6,
+      7
+    ],
+    "sun": [
+      1,
+      4
+    ],
+    "water": [
+      1,
+      3
+    ],
+    "spread": [
+      2,
+      12
+    ],
+    "seasons": [
+      4,
+      8
+    ],
+    "wildlife": [
+      2,
+      4
+    ],
+    "deer": [
+      3
+    ],
+    "toxic": [
+      4,
+      5
+    ],
+    "origin": [
+      4,
+      12
+    ],
+    "habitat": [
+      4
+    ],
+    "ph": [
+      4
+    ]
+  },
+  "edible": {
+    "level": "edible",
+    "food": true,
+    "kinds": [
+      "fruit"
+    ],
+    "card": "Crisp, tart, juicy fruit — fresh, pie, sauce, or cider",
+    "summary": "The fruit is a firm, crisp, juicy, tart all-purpose apple — fresh eating for those who like a sharp apple, and a classic pie and sauce apple that keeps 3–5 months; only the seeds carry a trace toxin.[3][6][7][5]",
+    "parts": "The fruit (flesh and skin) is the edible part, fresh or cooked.[4] 'Haralred' is Haralson in a red skin: white, firm flesh that is crisp and juicy, medium-tender rather than rock-hard, with a mildly acid to distinctly tart flavor — good for pie, sauce, freezing, fresh eating, and baking — and it is a reliable keeper that stays firm for several months in cold storage instead of softening or going mealy.[6][7][12]",
+    "preparation": "Eat fresh out of hand (the tartness mellows after some weeks in storage), or core and slice for pies, crisps, sauce, freezing, drying, and juice or cider.[3][6] Cut out and discard the seedy core — the flesh needs no special preparation to be safe.[5]",
+    "caution": "The flesh and skin are entirely safe; the only concern is the seeds, which (like all apples and stone fruit) contain cyanogenic amygdalin. Amygdalin releases hydrogen cyanide only when seeds are crushed or chewed — whole seeds swallowed by accident pass through harmlessly, and a person would have to deliberately chew on the order of dozens to hundreds of seeds to risk poisoning — so simply core the apple and don't eat or grind the pips, and keep children and pets from chewing them.[5]"
+  },
+  "gaps": "No open-licensed photo of 'Haralred' exists anywhere we could find (Openverse/Flickr, Wikimedia Commons, iNaturalist and GBIF all return nothing for the cultivar; the only CC 'Haralson' parent shots are a cutting-board macro, a market tray and a sign-dominated orchard row, which fail the orchard-shot rule). All seven shots are honestly-captioned species-representative Malus domestica, with the red-fruit shots chosen to match Haralred's solid-red finish."
+}

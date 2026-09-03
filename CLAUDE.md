@@ -845,7 +845,9 @@ types:
 5. **Seed pods / seedheads / hips / berries** wherever they're a notable feature (asters,
    larkspur, bee plant, columbine, pasque plumes, rose hips, dogwood berries, milkweed pods…).
 6. **Same species** (verify against the taxon + known features — no look-alikes), **open-licensed**
-   (CC0/CC-BY/CC-BY-SA, or CC-BY-NC/-NC-SA for this non-commercial guide — never ARR; record
+   (CC0/CC-BY/CC-BY-SA, or CC-BY-NC/-NC-SA for this non-commercial guide — never ARR, and **not
+   OGL** either: the UK National Fruit Collection's on-tree cultivar shots on Commons are Open Government
+   Licence, which is open but not CC, so they were excluded from the apple reels for consistency; record
    attribution), **a photograph not an illustration**, and **upright** (apply EXIF orientation).
 7. **Framed for the thumbnail:** the interesting feature must be **centered and clearly visible
    in the 720×480 card thumbnail without expanding** — not cut off at an edge, not a speck in the
@@ -900,6 +902,10 @@ if in doubt):
 3. **Wikimedia Commons** (`*.wikimedia.org`) — its own search API, used for the
    hand-sourced cultivars (the Commons pipeline below). Wikimedia rate-limits hard:
    always send a descriptive `User-Agent`, throttle, and back off on HTTP 429.
+   **It can 429 every search call for an entire session** (it did through the whole apple batch,
+   even with the UA): when that happens, **Openverse (5, below) indexes Commons files too** and
+   returns their direct `upload.wikimedia.org` URLs, and `Special:FilePath` downloads keep working —
+   so search via Openverse and pull the file direct rather than waiting the limit out.
 4. **GBIF** (`api.gbif.org`) — aggregates iNaturalist **plus observation.org and many
    other datasets** with license metadata, so it surfaces openly-licensed photos (and shot
    types — ripe berries, fall colour) that iNat's vote-sorted top results bury. **Use it to
@@ -1181,7 +1187,7 @@ ground every statement in an authority cited in `references`.
 
 ## Current plant roster (in the live site)
 
-**359 specimens** (`plants/manifest.json` is the source of truth for the exact count), all verified
+**367 specimens** (`plants/manifest.json` is the source of truth for the exact count), all verified
 non-weed in CO and all carrying a full `care` block (incl.
 `planting` + `propagation`) **and a repo-hosted photo reel** (close-up + structure, seasonal
 where good shots exist). Every plant's detail page is **fully cited** — a numbered
@@ -1816,6 +1822,52 @@ aster: their text negated only a *comparison*) and were reworded to lead with an
 correctly **keep** the badge. Badge now on **125 of 359** plants, **0** negation false-positives. The phrasing
 rule and a copy-paste audit snippet are under "Adding a trait" — read them before writing a `spread` field.
 
+**Nursery apple batch (September 2026):** on a user request ("add all of these apple trees I found at
+the local nursery… be sure to look up how they taste — we want tart, a little sweet, and crispy, not
+mealy"), added **eight** *Malus domestica* cultivars from nursery-label photos, all folded into the
+existing **Apples** family card (now **10 members**; roster 359 → **367**): **Haralson** (UMN 1922),
+**Haralred** (its red bud-sport), **Regent** (UMN 1964 — sold as "Red Regent", kept in `aka`),
+**SnowSweet®** (UMN 2006, cultivar 'Wildung'), **Fameuse** (the Quebec "Snow apple" heirloom, parent of
+McIntosh), **Cortland** (Geneva NY 1898), **Liberty** (Geneva 1978) and **Freedom** (Geneva 1983).
+Weed-check trivial (*Malus domestica* is on none of CO's lists; verified 2026-09-03). Built by **eight
+parallel agents** (one per cultivar, distinct dirs) off a shared brief, then one more agent to
+**de-duplicate the species-representative iNat shots** across the reels (see below).
+
+**The batch's throughline is the eating verdict**, stated plainly in every blurb, `care.harvest` and
+`edible.parts`, grounded in the university release bulletin/extension page rather than nursery copy:
+- **Hit the tart-crisp brief:** Haralson and Haralred (firm-crisp, tart, 4–5-month keepers; a
+  workmanlike crunch, not a Honeycrisp shatter), Liberty (crisp, tangy-sweet, but a *short* keeper —
+  Cornell's own organic-apple guide says weeks, contradicting the label's "stores very well") and
+  Regent (crisp, juicy, *balanced* — the sweeter side of tart; keeps 4–5 months).
+- **Partial fits:** SnowSweet (crisp but sweet-leaning, slight tart edge, ~2-month storage), Freedom
+  (sprightly-subacid but "nearly crisp"/tender per the Cornell bulletin, use by January) and Cortland
+  (good McIntosh-type sweet-tart flavor, but soft-fleshed — goes greasy/mealy within weeks).
+- **Misses it:** Fameuse (sweet-mild, tender snow-white flesh, poor keeper, very scab-susceptible) —
+  a beloved dessert/cider heirloom, honestly framed.
+Other honesty calls: **Haralson and Haralred cannot pollinate each other** (a sport is the same apple —
+Ask Extension); Haralson's "−50 °F", Fameuse's "zone 3", Freedom's "zone 4" and Cortland's "top ten of
+500 at Cheyenne" are **nursery-label claims with no authority behind them** and are attributed as such
+or omitted — the Cortland agent found and OCR'd the actual 1962 USDA Cheyenne Horticultural Field
+Station report (Howard & Brown, hosted on uwyo.edu), which shows Cortland surviving 28 years in both
+the irrigated and dryland orchards but explicitly *did not rate fruit quality*; Regent's "very resistant
+to cedar-apple rust" is contradicted by UMN's own bulletin (moderately susceptible); Regent's 2020
+Haralson × McIntosh re-parentage is reported as *reported*, since the SNP paper is paywalled.
+
+**Photo lessons from this batch:** cultivar-true CC photos are rare — Liberty (3) and Cortland (4) have
+genuine Flickr orchard shots via Openverse, Freedom one, Haralson one cultivar-tagged blossom, Regent
+only the National Fruit Collection reference plate (kept, but **not as the card thumbnail** — a cut-fruit
+lab plate isn't a lead); Haralred, SnowSweet and Fameuse have **none anywhere**, so their reels are
+honestly-captioned species-representative *Malus domestica* with a `gaps` note. **Parallel agents all
+pick the same top-voted iNat photos** — the first pass put one blossom in all seven reels and one
+winter shot in six, which looks absurd inside a single family carousel. The fix, and the rule from now
+on for any family built in parallel: **no iNat photo in more than two reels of one collection** (a
+follow-up agent swapped 21+ shots using the phenology/month montages; count reuse by `url` across the
+collection's members before committing). Two tooling notes: `gbif_add.py` pulls iNat's `large` render
+(≤1024 px), so those fulls are 1024 px not 1400; and `rethumb.py`'s edge-energy crop chases twig
+tangles on winter shots — `fameuse-apple/images/wi-winter-t.jpg` is a hand-placed crop, so re-running
+`rethumb.py` on that plant regresses it. `check_refs` guide-wide PASS (367, 0/0); `check_citations` on
+the eight PASS (0 DEAD; REVIEWs are PDFs read by hand).
+
 **Trees**
 - River hawthorn (*Crataegus rivularis*) (N) — Thorny native small tree; white spring flowers, dark edible haws, superb wildlife cover. A caterpillar keystone (~90 Lepidoptera). *(Riparian — wants more water; edible haws, spit the cyanogenic seeds.)*
 - Chokecherry (*Prunus virginiana*) (N) — Wildlife powerhouse: fragrant white flower racemes, dark…
@@ -1828,6 +1880,14 @@ rule and a copy-paste audit snippet are under "Adding a trait" — read them bef
 - Toka plum (*Prunus 'Toka'*) (I) — The "bubblegum plum" — spicy-sweet, hardy to -40°F, the orchard's best pollinizer.
 - Reliance peach (*Prunus persica 'Reliance'*) (I) — The hardiest peach and one of the last to bloom — the best shot at homegrown peaches.
 - Summercrisp pear (*Pyrus communis 'Summercrisp'*) (I) — Cold-hardy, fire-blight-resistant pear, picked crisp and sweet in mid-summer. *(photos species-representative — see `gaps`)*
+- Haralson apple (*Malus domestica 'Haralson'*) (I) — Minnesota's classic pie apple (UMN 1922): striped-red, firm-crisp, tart, keeps 4–5 months; iron-hardy, late-blooming, biennial bearer. *(Apples family card; hits the tart-crisp brief. Photos species-representative — see `gaps`.)*
+- Haralred apple (*Malus domestica 'Haralred'*) (I) — The solid-red sport of Haralson: same tart-crisp keeper, a shade earlier and redder. *(Apples family card; cannot pollinate Haralson — plant a third variety. Photos species-representative — see `gaps`.)*
+- Regent apple (*Malus domestica 'Regent'*) (I) — UMN 1964, sold as "Red Regent": crisp, juicy, balanced sweet-tart, tough bruise-proof skin, keeps 4–5 months. *(Apples family card; `aka` Red Regent. One cultivar-true reference-plate shot — see `gaps`.)*
+- SnowSweet apple (*Malus domestica 'Wildung'*) (I) — UMN 2006: firm snow-white flesh that barely browns when cut; sweet-leaning with a slight tart edge, ~2-month keeper. *(Apples family card; partial fit. Photos species-representative — see `gaps`.)*
+- Fameuse apple (*Malus domestica 'Fameuse'*) (I) — The Quebec "Snow apple" heirloom, parent of McIntosh: tender snow-white aromatic flesh, sweet-mild, short keeper, scab-prone. *(Apples family card; misses the tart-crisp brief. Photos species-representative — see `gaps`.)*
+- Cortland apple (*Malus domestica 'Cortland'*) (I) — The salad apple (Geneva NY 1898): slow-browning white flesh, mild sweet-tart McIntosh flavor, but soft — mealy within weeks of picking. *(Apples family card; partial fit; survived 28 years of USDA Cheyenne trials. Four cultivar-true Flickr shots.)*
+- Liberty apple (*Malus domestica 'Liberty'*) (I) — Cornell's 1978 low-spray apple: scab-immune, crisp, tangy-sweet dark-red fruit in early October; a short keeper. *(Apples family card; hits the brief fresh. Three cultivar-true Flickr shots.)*
+- Freedom apple (*Malus domestica 'Freedom'*) (I) — Cornell's 1983 scab-immune apple: big red-striped fruit, firm, juicy, sprightly-subacid but only "nearly crisp"; use by January. *(Apples family card; fair fit. One cultivar-true Flickr shot.)*
 - Bigtooth maple (*Acer grandidentatum*) (N) — Small Western maple with brilliant scarlet-orange fall color; the Rockies' answer to sugar maple.
 - Gambel oak (*Quercus gambelii*) (N) — Iconic foothills scrub oak; lobed leaves, gold-russet fall, acorns that feed everything. *(Acorns edible once leached of tannins.)*
 - Piñon pine (*Pinus edulis*) (N) — Slow, drought-proof rounded evergreen; sweet edible pine nuts in good years. *(Edible seeds.)*

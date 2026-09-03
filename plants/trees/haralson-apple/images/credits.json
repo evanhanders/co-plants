@@ -1,0 +1,71 @@
+[
+  {
+    "file": "images/sp-bloommass.jpg",
+    "photo_id": 70739381,
+    "by": "no rights reserved",
+    "license": "CC0",
+    "source": "https://www.inaturalist.org/observations/44619411",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  },
+  {
+    "file": "images/fa-fruit.jpg",
+    "photo_id": 317778845,
+    "by": "Xian Zhou",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/182275455",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      933
+    ],
+    "thumb_px": [
+      400,
+      267
+    ]
+  },
+  {
+    "file": "images/sp-blossom.jpg",
+    "by": "lindakowen",
+    "license": "CC BY-NC-SA 2.0",
+    "source": "https://www.flickr.com/photos/98685617@N05/26752919486",
+    "via": "Flickr"
+  },
+  {
+    "file": "images/fa-habit.jpg",
+    "by": "no rights reserved",
+    "license": "CC0",
+    "source": "https://www.inaturalist.org/observations/245696075",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/sp-foliage.jpg",
+    "by": "Alexander Baransky",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/221545760",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/fa-fruittree.jpg",
+    "by": "Barbara L. Wilson",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/33715889",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/wi-winter.jpg",
+    "by": "mjohn_17",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/66312801",
+    "via": "iNaturalist"
+  }
+]

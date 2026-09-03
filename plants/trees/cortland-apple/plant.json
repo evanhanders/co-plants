@@ -1,0 +1,241 @@
+{
+  "collection": "apples",
+  "common": "Cortland apple",
+  "botanical": "Malus domestica 'Cortland'",
+  "type": "Tree",
+  "lifecycle": "Perennial",
+  "native": "Non-native",
+  "flower_color": [
+    "white",
+    "pink"
+  ],
+  "bloom": [
+    "spring"
+  ],
+  "blurb": "The classic salad apple: snow-white, slow-browning flesh with a mild sweet-tart McIntosh flavor, on a heavy-cropping 1898 Geneva NY cross that survived 28 years of USDA trials at Cheyenne. Verdict: good flavor but soft-fleshed — tender-crisp only at picking, softens and goes mealy within weeks in storage — a partial fit for the tart-crisp brief, not a crisp keeper.",
+  "size": "~13–20 ft × 12–15 ft (smaller on semi-dwarf rootstock)",
+  "sun": "Full sun (6+ hrs)",
+  "water": "Moderate, regular — deep weekly soak in summer",
+  "spread": "Clumping — single grafted tree; needs a pollinizer apple nearby",
+  "seasons": "White-pink blossom late May; dark-red, bloom-dusted fruit late Sept–early Oct",
+  "wildlife": "Blossoms feed bees; dropped fruit feeds birds & mammals",
+  "deer": "Foliage & fruit browsed — not deer-resistant",
+  "toxic": "Fruit flesh edible; seeds contain cyanogenic amygdalin (mildly toxic if chewed in quantity)",
+  "winter": false,
+  "verified": "2026-09-03",
+  "origin": "Central Asia and Afghanistan; cultivar bred at Geneva, New York (1898)",
+  "habitat": "Wild fruit-tree forests and mountain slopes of Central Asia",
+  "ph": {
+    "min": 5.5,
+    "ideal": 6.5,
+    "max": 8.0
+  },
+  "aka": [
+    "Redcort (red sport)",
+    "Royal Court (red sport)"
+  ],
+  "shots": [
+    {
+      "local": "images/fa-fruit-t.jpg",
+      "full": "images/fa-fruit.jpg",
+      "url": "https://live.staticflickr.com/4089/5090468859_381129b6ce_b.jpg",
+      "s": "fall",
+      "cap": "Fall — a ripe Cortland apple on the branch, its dark red skin dulled by the variety's characteristic waxy bloom · © timsackton (CC BY-SA 2.0) / Flickr",
+      "by": "timsackton",
+      "lic": "CC BY-SA 2.0",
+      "link": "https://www.flickr.com/photos/43581314@N08/5090468859"
+    },
+    {
+      "local": "images/sp-blossom-t.jpg",
+      "full": "images/sp-blossom.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/135223912/large.jpeg",
+      "s": "spring",
+      "cap": "Spring — face-on white apple blossom (species-representative) · © Felix Riegel (CC-BY-NC) / iNaturalist",
+      "by": "Felix Riegel",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/82393466"
+    },
+    {
+      "local": "images/sp-bloommass-t.jpg",
+      "full": "images/sp-bloommass.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/70739381/large.jpeg",
+      "s": "spring",
+      "cap": "Spring — a tree smothered in white apple blossom (species-representative) · © Alex Heyman (CC0) / iNaturalist",
+      "by": "Alex Heyman",
+      "lic": "CC0",
+      "link": "https://www.inaturalist.org/observations/44619411"
+    },
+    {
+      "local": "images/sp-foliage-t.jpg",
+      "full": "images/sp-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/380411252/large.jpeg",
+      "s": "spring",
+      "cap": "Late-spring foliage — fresh apple leaves unfolding as the petals drop (species-representative) · © Станислав (CC-BY-NC) / iNaturalist",
+      "by": "Станислав",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/215188854"
+    },
+    {
+      "local": "images/su-young-t.jpg",
+      "full": "images/su-young.jpg",
+      "url": "https://live.staticflickr.com/5038/5895238505_31d05a7ace_b.jpg",
+      "s": "summer",
+      "cap": "Summer — a young green Cortland apple sizing up on the branch · © kajiai (CC BY-NC-SA 2.0) / Flickr",
+      "by": "kajiai",
+      "lic": "CC BY-NC-SA 2.0",
+      "link": "https://www.flickr.com/photos/71807969@N00/5895238505"
+    },
+    {
+      "local": "images/fa-cluster-t.jpg",
+      "full": "images/fa-cluster.jpg",
+      "url": "https://live.staticflickr.com/3054/2856037273_23a364f197_b.jpg",
+      "s": "fall",
+      "cap": "Fall — a heavy cluster of Cortland apples ripening on the tree · © apium (CC BY 2.0) / Flickr",
+      "by": "apium",
+      "lic": "CC BY 2.0",
+      "link": "https://www.flickr.com/photos/7377473@N02/2856037273"
+    },
+    {
+      "local": "images/fa-orchard-t.jpg",
+      "full": "images/fa-orchard.jpg",
+      "url": "https://live.staticflickr.com/65535/52506758417_851d7e3bd3_b.jpg",
+      "s": "fall",
+      "cap": "Fall — a Cortland tree in a pick-your-own orchard, ripe fruit hanging above the variety sign · © Joe Shlabotnik (CC BY-NC-SA 2.0) / Flickr",
+      "by": "Joe Shlabotnik",
+      "lic": "CC BY-NC-SA 2.0",
+      "link": "https://www.flickr.com/photos/40646519@N00/52506758417"
+    },
+    {
+      "local": "images/wi-winter-t.jpg",
+      "full": "images/wi-winter.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/174406932/large.jpeg",
+      "s": "winter",
+      "cap": "Winter — persistent red apples on bare branches after a late-December Michigan snowfall (species-representative) · © Matthew Ruzicka (CC-BY-NC) / iNaturalist",
+      "by": "Matthew Ruzicka",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/104109661"
+    }
+  ],
+  "references": [
+    {
+      "name": "CSU Extension — Backyard Orchard: Apples and Pears",
+      "url": "https://extension.colostate.edu/resource/backyard-orchard-apples-and-pears/"
+    },
+    {
+      "name": "PlantTalk Colorado #1201 — Apples",
+      "url": "https://planttalk.colostate.edu/topics/fruits/1201-apples/"
+    },
+    {
+      "name": "University of Minnesota Extension — Growing Apples",
+      "url": "https://extension.umn.edu/fruit/growing-apples"
+    },
+    {
+      "name": "NC State Extension Plant Toolbox — Malus domestica",
+      "url": "https://plants.ces.ncsu.edu/plants/malus-domestica/"
+    },
+    {
+      "name": "Amygdalin: Toxicity, Anticancer Activity and Analytical Procedures for Its Determination in Plant Seeds (Molecules, 2021) — NCBI PMC",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8069783/"
+    },
+    {
+      "name": "University of Maryland Extension — Important Apple Cultivars in the Mid-Atlantic Region (EB-2023-0684)",
+      "url": "https://extension.umd.edu/resource/important-apple-cultivars-mid-atlantic-region-eb-2023-0684"
+    },
+    {
+      "name": "Way, R.D. (1979) — Apple Varieties Grown in New York State, NY Food & Life Sciences Bulletin 78 (NYSAES Geneva / Cornell eCommons)",
+      "url": "https://ecommons.cornell.edu/bitstreams/c4cbefe0-abff-4c80-9e73-8a45f92371ac/download"
+    },
+    {
+      "name": "University of Vermont — Rootstocks and Cultivars in Vermont Apple Orchards",
+      "url": "https://www.uvm.edu/~orchard/fruit/treefruit/tf_horticulture/AppleHortBasics/Rootstocks_and_cultivars.html"
+    },
+    {
+      "name": "Howard, G.S. & Brown, G.B. (1962) — Twenty-eight Years of Testing Tree Fruit Varieties at the Cheyenne Horticultural Field Station, USDA-ARS (hosted by UW Extension)",
+      "url": "https://www.uwyo.edu/barnbackyard/_files/documents/resources/gardening/Twentyeightyears1962.pdf"
+    },
+    {
+      "name": "USDA-ARS — Cheyenne Horticultural Field Station and the High Plains Grasslands Research Station (station history)",
+      "url": "https://www.ars.usda.gov/ARSUserFiles/30180000/History/CHEYENNEHORTICULTURALFIELDSTATION.pdf"
+    },
+    {
+      "name": "Way, Livermore & Aldwinckle (1982) — 'Early Cortland' and 'Geneva Early' Apples, NY Food & Life Sciences Bulletin 99 (NYSAES Geneva / Cornell eCommons)",
+      "url": "https://ecommons.cornell.edu/handle/1813/5107"
+    },
+    {
+      "name": "Wikipedia — Cortland (apple)",
+      "url": "https://en.wikipedia.org/wiki/Cortland_(apple)"
+    }
+  ],
+  "care": {
+    "hardiness": "'Cortland' is a McIntosh × Ben Davis cross made in 1898 at the New York State Agricultural Experiment Station in Geneva by S.A. Beach and introduced in 1915 — a northern apple bred for cold-climate yield, so Boulder's 5b–6a winters are no concern.[6][12] Its real cold-country credential is regional: in the USDA's 28-year tree-fruit trial at the Cheyenne Horticultural Field Station (6,000 ft on the Wyoming high plains, just north of the Front Range — a station that screened some 1,200 apple varieties for the semi-arid plains between 1930 and 1962), Cortland trees survived the full 28 years in both the irrigated and the never-watered dryland orchard, fruiting in 9 of the ~15–17 years averaged.[9][10] The nursery's 'top ten of 500 varieties tested at Cheyenne' line is the nursery's own summary — the published station report ranks survival, bloom, yield and fire blight but explicitly made no attempt to rate fruit size or quality.[9] The Front-Range risk is the usual one for apples here: late spring frost on the open bloom, so site it where cold air drains away.[1]",
+    "planting": "Plant in spring once the ground is workable (April–May), or in early fall, in full sun on a high spot where cold air drains past rather than pooling around the buds — avoid frost-pocket lows and the warm south/west wall that pushes bloom too early into frost danger.[1] Bare-root trees go in while dormant; container stock anytime in the growing season. In a pot the roots freeze far harder than ground roots over a Front Range winter, so a containerized apple needs a large (≥20 gal) pot in a sheltered or heeled-in spot out of the wind (an unheated garage in a hard cold snap), and should be planted in the ground within a year or two.[3]",
+    "sun": "Full sun — at least 6 hours of direct sun, and the more the better for fruit set, sugar and the dark-red skin colour Cortland is known for; our intense high-altitude light suits it, while shade cuts cropping and invites disease.[1][4]",
+    "soil": "Wants well-drained soil and tolerates a wide pH including the alkaline (>8.0) clay-loam common around Boulder, performing best in neutral 6.0–7.0 ground.[4] Amend heavy clay with organic matter at planting to speed establishment and improve drainage, and never plant where water stands.[1] The Cheyenne trial notes lime-induced chlorosis on some older trees in that alkaline high-plains soil — a reminder to watch for yellowing between the veins on our own calcareous clay.[9]",
+    "water": "Moderate but regular — a deep weekly soak through the dry Front Range summer keeps fruit sizing and quality up, especially in the first few years while roots establish; water at the dripline, not the trunk, and avoid chronic wet feet.[1][3] Cortland is strikingly drought-tolerant once established: at Cheyenne the dryland trees, never given supplemental water, out-yielded the irrigated ones (an average 83 lb a year against 35), though the study cautions that a few trees per variety only indicate trends.[9]",
+    "spacing": "Size depends on rootstock: dwarf trees want about 6–8 ft, semi-dwarf 12–15 ft, and standard (seedling) trees 20–25 ft apart.[3] Cortland is a vigorous, precocious grower, so a semi-dwarf rootstock is the practical backyard choice here, keeping it around 12–15 ft with room for the second variety it needs for pollination.[3][8] For scale, the Cheyenne trees on hardy crabapple seedling rootstock stood 13–13.5 ft after 28 years.[9]",
+    "propagation": "Apples do not come true from seed, so 'Cortland' is propagated only by grafting or budding a scion of the named cultivar onto a chosen rootstock — never grown from its own pips.[4] The rootstock sets mature size and how soon it bears, and Cortland can be propagated on the full range of size-controlling rootstocks; buy a grafted tree on a rootstock matched to your space, and note that the better-coloured red sports 'Redcort' and 'Royal Court' are the same apple with more skin colour.[3][6][11]",
+    "bloom": "White-and-pink blossom opens in mid-to-late spring — the Cheyenne trial recorded average full bloom on May 28, comfortably after the Front Range's mid-May last-frost date, though a late cold snap can still nip an open bloom.[1][9] Like all apples it is not self-fruitful: plant a different, co-blooming apple or flowering crabapple within about 100 ft whose bloom overlaps.[2][3] Cortland bears on both spurs and shoot tips, so it needs pollen and bees at the tips as well as on the older wood.[11]",
+    "feeding": "Feed lightly — a modest spring application of balanced fertilizer supports a young tree, but avoid heavy nitrogen, which pushes soft growth that delays bearing and dramatically raises fire-blight susceptibility in our warm, moist springs.[1][3] The Cheyenne orchards received no fertilizer at all over 28 years and Cortland still cropped, so err on the lean side.[9]",
+    "pruning": "Do the main structural pruning while fully dormant in late winter (February into early March here), training to a central leader with tiered scaffold branches and thinning crossing, crowded and inward wood to open the canopy to light and air.[1][3] Cortland is partly a tip bearer (it fruits on spurs and on twig terminals), so heading back every shoot tip removes next year's crop — thin whole branches rather than shearing the tips, as you would for Rome Beauty.[8][11] Fire blight is the local hazard: prune only in dry weather, never during active growth or wet spells, disinfect pruners between cuts (10% bleach or 70% alcohol), and cut out any strike 8–12 in below the visibly dead tissue; Cortland is only moderately resistant — it scored a light fire-blight index of 2 (on a 1–5 scale) at Cheyenne — so treat it as susceptible.[1][3][9]",
+    "maintenance": "Cortland sets very heavy crops, so thin the young fruit in June–July to one apple per cluster about 6 in apart for size and to even out cropping from year to year.[3][6] Because the fruit hangs on well past full maturity, the temptation is to leave it — but overmature Cortland goes greasy and mushy, so harvest promptly (see Harvest).[6][7] Keep a mulch ring rather than turf under the tree, and manage codling moth, the Front Range's wormy-apple pest, with timed controls for clean fruit.[1]",
+    "troubles": "Fire blight is the headline risk here: in warm, wet bloom-time weather it can blight blossoms and shoots, so keep nitrogen modest and cut out any strikes 8–12 in below the dead tissue in dry weather, sterilizing pruners between every cut.[1][3] Cortland is moderately resistant rather than immune — a light index of 2 at Cheyenne — and carries no special resistance to scab or other apple diseases.[9][11] Codling moth (larvae tunnelling to the core) is the most serious fruit pest, and apple maggot is established in parts of the Front Range; both need monitoring and well-timed sprays for clean fruit.[1] Cedar-apple rust means siting away from junipers.[1] The other 'trouble' is the fruit itself: like its McIntosh parent Cortland is a high ethylene producer, and fruit left on the tree or in the crisper too long turns greasy, mushy and short-lived.[6]",
+    "harvest": "Pick in late September into early October — Cortland ripens just after McIntosh, and the Cheyenne trial recorded an average harvest date of September 27–28.[7][9] How it eats, honestly: the flesh is snow-white, juicy, and crisp-to-tender only at picking, with a mild sweet-tart, aromatic McIntosh-type flavor — sweeter and larger-fruited than McIntosh and rated the better eating apple by the Geneva station that bred it, but by pomological standards a soft apple, just not as soft as McIntosh.[6][7][12] Then it softens fast: Cortland is a high ethylene producer and a 'normally short-term keeper' — overmature fruit goes greasy and mushy, and even well-picked fruit loses its crunch within weeks in a home refrigerator, so eat it within a few weeks of picking (commercial growers rely on controlled-atmosphere storage to hold it longer).[6][7] Because the fruit hangs on the tree well after full maturity, it is routinely picked overmature — pick within 4–5 days of the McIntosh window, not when it finally drops.[7] Its signature virtue is that the cut white flesh browns very slowly, which is why it is the salad and cut-fruit apple; it also sauces (with a pink tinge) and bakes well.[7][12]",
+    "companions": "Plant a second, different apple variety or a compatible flowering crabapple within ~100 ft as the essential pollinizer.[2][3] Keep the root zone in mulch or low groundcover rather than competing turf, and site away from junipers and hawthorns that share apple diseases (cedar-apple rust, fire blight).[1]"
+  },
+  "fact_src": {
+    "size": [
+      3,
+      9
+    ],
+    "sun": [
+      1,
+      4
+    ],
+    "water": [
+      1,
+      3
+    ],
+    "spread": [
+      2,
+      3
+    ],
+    "seasons": [
+      7,
+      9
+    ],
+    "wildlife": [
+      2,
+      4
+    ],
+    "deer": [
+      1
+    ],
+    "toxic": [
+      4,
+      5
+    ],
+    "origin": [
+      4,
+      6
+    ],
+    "habitat": [
+      4
+    ],
+    "ph": [
+      4
+    ]
+  },
+  "edible": {
+    "level": "edible",
+    "food": true,
+    "kinds": [
+      "fruit"
+    ],
+    "card": "Sweet-tart fruit — best fresh within weeks of picking; salads (slow-browning), sauce, pies",
+    "summary": "The fruit is a good all-purpose eating and cooking apple — mild sweet-tart McIntosh flavor and snow-white flesh that barely browns when cut — but it is soft-fleshed and softens quickly, so it is eaten fresh soon after harvest; only the seeds carry a trace toxin.[5][6][7]",
+    "parts": "The fruit (flesh and skin) is the edible part, fresh or cooked.[4] Texture and flavor, plainly: Cortland is juicy and crisp only when freshly picked, with a mild, aromatic sweet-tart flavor — sweeter than McIntosh — and by apple standards a soft apple that quickly loses its crunch; overmature or long-stored fruit turns greasy and mushy.[6][7][12] Its strength is the fine white flesh that resists browning, making it the classic apple for salads, cut-fruit plates and pale pink applesauce, and it cooks and bakes well in pies.[6][7][12]",
+    "preparation": "Eat fresh within a few weeks of picking while it still has some crunch; slice for salads and cut-fruit plates (it stays white), or core and slice for pies, sauce and drying — Cortland's pink-tinged sauce is a specialty.[6][7][12] Cut out and discard the seedy core; the flesh needs no special preparation to be safe.[5]",
+    "caution": "The flesh and skin are entirely safe; the only concern is the seeds, which (like all apples and stone fruit) contain cyanogenic amygdalin. Amygdalin releases hydrogen cyanide only when seeds are crushed or chewed — whole seeds swallowed by accident pass through harmlessly, and a person would have to deliberately chew on the order of dozens to hundreds of seeds to risk poisoning — so simply core the apple and don't eat or grind the pips, and keep children and pets from chewing them.[5]"
+  },
+  "gaps": "The four fruit shots (branch close-up, cluster, young summer fruit, orchard tree under its variety sign) are cultivar-labelled Cortland photos from Flickr. No open-licensed Cortland photo exists for blossom, foliage, bloom-mass or winter structure, so those four are honestly-captioned species-representative Malus domestica shots from iNaturalist."
+}

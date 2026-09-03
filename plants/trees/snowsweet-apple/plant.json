@@ -47,16 +47,6 @@
       "link": "https://www.inaturalist.org/observations/182275455"
     },
     {
-      "local": "images/sp-blossom-t.jpg",
-      "full": "images/sp-blossom.jpg",
-      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/135223912/large.jpeg",
-      "s": "spring",
-      "cap": "Spring — face-on white apple blossom with pink-flushed buds (species-representative) · © Felix Riegel (CC-BY-NC) / iNaturalist",
-      "by": "Felix Riegel",
-      "lic": "CC-BY-NC",
-      "link": "https://www.inaturalist.org/observations/82393466"
-    },
-    {
       "local": "images/sp-bloommass-t.jpg",
       "full": "images/sp-bloommass.jpg",
       "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/363671197/large.jpg",
@@ -67,14 +57,14 @@
       "link": "https://www.inaturalist.org/observations/205659416"
     },
     {
-      "local": "images/su-foliage-t.jpg",
-      "full": "images/su-foliage.jpg",
-      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/288214338/large.jpeg",
-      "s": "summer",
-      "cap": "Summer foliage — glossy oval serrated apple leaves (species-representative) · © Fyodor Pudovikov (CC-BY) / iNaturalist",
-      "by": "Fyodor Pudovikov",
-      "lic": "CC-BY",
-      "link": "https://www.inaturalist.org/observations/166434559"
+      "local": "images/sp-blossom-t.jpg",
+      "full": "images/sp-blossom.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/38615726/large.jpeg",
+      "s": "spring",
+      "cap": "Spring — a face-on cluster of white apple blossom with pink buds (species-representative) · © Kassidy (CC-BY-NC) / iNaturalist",
+      "by": "Kassidy",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/24961306"
     },
     {
       "local": "images/su-habit-t.jpg",
@@ -105,6 +95,16 @@
       "by": "Katarzyna A Phillips",
       "lic": "CC-BY-NC",
       "link": "https://www.inaturalist.org/observations/240164820"
+    },
+    {
+      "local": "images/fa-foliage-t.jpg",
+      "full": "images/fa-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/322839371/large.jpeg",
+      "s": "fall",
+      "cap": "Early fall foliage — a whorl of glossy, serrated apple leaves (species-representative) · © Ellen (CC-BY-NC) / iNaturalist",
+      "by": "Ellen",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/184911215"
     },
     {
       "local": "images/wi-winter-t.jpg",

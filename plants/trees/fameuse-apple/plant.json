@@ -158,16 +158,6 @@
       "link": "https://www.inaturalist.org/observations/46132638"
     },
     {
-      "local": "images/sp-blossom-t.jpg",
-      "full": "images/sp-blossom.jpg",
-      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/135223912/large.jpeg",
-      "s": "spring",
-      "cap": "Spring — face-on white apple blossom with pink-flushed buds (species-representative) · © Felix Riegel (CC-BY-NC) / iNaturalist",
-      "by": "Felix Riegel",
-      "lic": "CC-BY-NC",
-      "link": "https://www.inaturalist.org/observations/82393466"
-    },
-    {
       "local": "images/sp-bloommass-t.jpg",
       "full": "images/sp-bloommass.jpg",
       "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/363671197/large.jpg",
@@ -178,14 +168,14 @@
       "link": "https://www.inaturalist.org/observations/205659416"
     },
     {
-      "local": "images/su-foliage-t.jpg",
-      "full": "images/su-foliage.jpg",
-      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/288214338/large.jpeg",
-      "s": "summer",
-      "cap": "Summer foliage — oval, finely serrated apple leaves (species-representative) · © Fyodor Pudovikov (CC-BY) / iNaturalist",
-      "by": "Fyodor Pudovikov",
-      "lic": "CC-BY",
-      "link": "https://www.inaturalist.org/observations/166434559"
+      "local": "images/sp-blossom-t.jpg",
+      "full": "images/sp-blossom.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/68017309/large.jpg",
+      "s": "spring",
+      "cap": "Spring — face-on white apple blossom, petals flushed pink at the bud (species-representative) · © joerg_ewald (CC-BY-NC) / iNaturalist",
+      "by": "joerg_ewald",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/42831850"
     },
     {
       "local": "images/su-habit-t.jpg",
@@ -198,14 +188,14 @@
       "link": "https://www.inaturalist.org/observations/162018074"
     },
     {
-      "local": "images/fa-close-t.jpg",
-      "full": "images/fa-close.jpg",
-      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/317778845/large.jpeg",
-      "s": "fall",
-      "cap": "Early fall — ripening red-blushed apple on the tree, Ontario (species-representative) · © Xian Zhou (CC-BY-NC) / iNaturalist",
-      "by": "Xian Zhou",
-      "lic": "CC-BY-NC",
-      "link": "https://www.inaturalist.org/observations/182275455"
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/538172919/large.jpg",
+      "s": "summer",
+      "cap": "Summer foliage — an oval, finely serrated apple leaf, felted grey-green beneath (species-representative) · © Daniel Cahen (CC-BY) / iNaturalist",
+      "by": "Daniel Cahen",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/298755668"
     },
     {
       "local": "images/fa-habit-t.jpg",
@@ -218,14 +208,24 @@
       "link": "https://www.inaturalist.org/observations/272666577"
     },
     {
+      "local": "images/fa-close-t.jpg",
+      "full": "images/fa-close.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/608231835/large.jpg",
+      "s": "fall",
+      "cap": "Early fall — a red-blushed apple ripening among the leaves (species-representative) · © rytheguyluvswolves (CC-BY-NC) / iNaturalist",
+      "by": "rytheguyluvswolves",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/334878652"
+    },
+    {
       "local": "images/wi-winter-t.jpg",
       "full": "images/wi-winter.jpg",
-      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/174406932/large.jpeg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/61612926/large.jpeg",
       "s": "winter",
-      "cap": "Winter — persistent red apples on bare, snow-dusted branches, Michigan (species-representative) · © Matthew Ruzicka (CC-BY-NC) / iNaturalist",
-      "by": "Matthew Ruzicka",
+      "cap": "Winter — a single persistent red apple frozen on a bare branch over snow, Ontario, February (species-representative) · © Paul Abell (CC-BY-NC) / iNaturalist",
+      "by": "Paul Abell",
       "lic": "CC-BY-NC",
-      "link": "https://www.inaturalist.org/observations/104109661"
+      "link": "https://www.inaturalist.org/observations/38737243"
     }
   ]
 }

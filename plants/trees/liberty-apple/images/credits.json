@@ -17,23 +17,6 @@
     ]
   },
   {
-    "file": "images/sp-bloommass.jpg",
-    "photo_id": 70739381,
-    "by": "Alex Heyman",
-    "license": "CC0",
-    "source": "https://www.inaturalist.org/observations/44619411",
-    "dataset": "iNaturalist open data",
-    "render": "original",
-    "full_px": [
-      1050,
-      1400
-    ],
-    "thumb_px": [
-      300,
-      400
-    ]
-  },
-  {
     "file": "images/su-foliage.jpg",
     "photo_id": 288214338,
     "by": "Fyodor Pudovikov",
@@ -48,23 +31,6 @@
     "thumb_px": [
       400,
       320
-    ]
-  },
-  {
-    "file": "images/wi-winter.jpg",
-    "photo_id": 174406932,
-    "by": "Matthew Ruzicka",
-    "license": "CC-BY-NC",
-    "source": "https://www.inaturalist.org/observations/104109661",
-    "dataset": "iNaturalist open data",
-    "render": "original",
-    "full_px": [
-      1400,
-      933
-    ],
-    "thumb_px": [
-      400,
-      267
     ]
   },
   {
@@ -87,5 +53,19 @@
     "license": "CC BY 2.0",
     "source": "https://www.flickr.com/photos/70757891@N00/9615729268",
     "via": "Flickr"
+  },
+  {
+    "file": "images/sp-bloommass.jpg",
+    "by": "Leonie Parsonage",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/324264937",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/wi-winter.jpg",
+    "by": "Barbara L. Wilson",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/38201614",
+    "via": "iNaturalist"
   }
 ]

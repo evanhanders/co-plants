@@ -34,23 +34,6 @@
     ]
   },
   {
-    "file": "images/su-foliage.jpg",
-    "photo_id": 288214338,
-    "by": "Fyodor Pudovikov",
-    "license": "CC-BY",
-    "source": "https://www.inaturalist.org/observations/166434559",
-    "dataset": "iNaturalist open data",
-    "render": "original",
-    "full_px": [
-      1200,
-      960
-    ],
-    "thumb_px": [
-      400,
-      320
-    ]
-  },
-  {
     "file": "images/wi-winter.jpg",
     "photo_id": 174406932,
     "by": "Matthew Ruzicka",
@@ -94,5 +77,12 @@
     "license": "CC BY-NC-SA 2.0",
     "source": "https://www.flickr.com/photos/40646519@N00/52506758417",
     "via": "Flickr"
+  },
+  {
+    "file": "images/sp-foliage.jpg",
+    "by": "Станислав",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/215188854",
+    "via": "iNaturalist"
   }
 ]

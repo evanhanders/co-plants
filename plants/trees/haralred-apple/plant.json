@@ -48,22 +48,22 @@
     {
       "local": "images/sp-blossom-t.jpg",
       "full": "images/sp-blossom.jpg",
-      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/135223912/large.jpeg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/284364523/large.jpeg",
       "s": "spring",
-      "cap": "Spring — face-on white apple blossom (species-representative) · © Felix Riegel (CC-BY-NC) / iNaturalist",
-      "by": "Felix Riegel",
+      "cap": "Spring — face-on white apple blossom clustered among fresh leaves (species-representative) · © mhalsted (CC-BY-NC) / iNaturalist",
+      "by": "mhalsted",
       "lic": "CC-BY-NC",
-      "link": "https://www.inaturalist.org/observations/82393466"
+      "link": "https://www.inaturalist.org/observations/164357937"
     },
     {
       "local": "images/sp-bloommass-t.jpg",
       "full": "images/sp-bloommass.jpg",
-      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/70739381/large.jpeg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/500468652/large.jpg",
       "s": "spring",
-      "cap": "Spring — whole tree smothered in blossom against blue sky (species-representative) · © no rights reserved (CC0) / iNaturalist",
-      "by": "no rights reserved",
-      "lic": "CC0",
-      "link": "https://www.inaturalist.org/observations/44619411"
+      "cap": "Spring — branches sheeted in white apple blossom (species-representative) · © Степченков Андрей Анатольевич (CC-BY-NC) / iNaturalist",
+      "by": "Степченков Андрей Анатольевич",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/278783847"
     },
     {
       "local": "images/su-foliage-t.jpg",

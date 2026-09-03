@@ -63,44 +63,44 @@
       "link": "https://www.inaturalist.org/observations/44619411"
     },
     {
-      "local": "images/sp-habit-t.jpg",
-      "full": "images/sp-habit.jpg",
-      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/280099593/large.jpeg",
+      "local": "images/sp-foliage-t.jpg",
+      "full": "images/sp-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/392318096/large.jpg",
       "s": "spring",
-      "cap": "Spring — the whole tree in fresh leaf, a rounded orchard crown (species-representative) · © no rights reserved (CC0) / iNaturalist",
-      "by": "no rights reserved",
-      "lic": "CC0",
-      "link": "https://www.inaturalist.org/observations/162018074"
+      "cap": "Late-spring foliage — glossy, serrated apple leaves along a young shoot (species-representative) · © Alexander Baransky (CC-BY-NC) / iNaturalist",
+      "by": "Alexander Baransky",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/221545760"
     },
     {
-      "local": "images/su-foliage-t.jpg",
-      "full": "images/su-foliage.jpg",
-      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/288214338/large.jpeg",
-      "s": "summer",
-      "cap": "Summer foliage — oval, finely serrated apple leaves, glossy above (species-representative) · © Fyodor Pudovikov (CC-BY) / iNaturalist",
-      "by": "Fyodor Pudovikov",
-      "lic": "CC-BY",
-      "link": "https://www.inaturalist.org/observations/166434559"
+      "local": "images/fa-habit-t.jpg",
+      "full": "images/fa-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/438471121/large.jpeg",
+      "s": "fall",
+      "cap": "Fall — an old apple tree in open ground, the wide spreading form (species-representative) · © no rights reserved (CC0) / iNaturalist",
+      "by": "no rights reserved",
+      "lic": "CC0",
+      "link": "https://www.inaturalist.org/observations/245696075"
     },
     {
       "local": "images/fa-fruittree-t.jpg",
       "full": "images/fa-fruittree.jpg",
-      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/490556772/large.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/52981636/large.jpeg",
       "s": "fall",
-      "cap": "Fall — tree laden with red fruit at harvest (species-representative) · © Michal Svit (CC-BY-NC) / iNaturalist",
-      "by": "Michal Svit",
+      "cap": "Fall — a tree hung with red apples at harvest (species-representative) · © Barbara L. Wilson (CC-BY-NC) / iNaturalist",
+      "by": "Barbara L. Wilson",
       "lic": "CC-BY-NC",
-      "link": "https://www.inaturalist.org/observations/272666577"
+      "link": "https://www.inaturalist.org/observations/33715889"
     },
     {
       "local": "images/wi-winter-t.jpg",
       "full": "images/wi-winter.jpg",
-      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/174406932/large.jpeg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/106873551/large.jpg",
       "s": "winter",
-      "cap": "Winter — persistent apples clinging to bare snow-dusted branches, Michigan, late December (species-representative) · © Matthew Ruzicka (CC-BY-NC) / iNaturalist",
-      "by": "Matthew Ruzicka",
+      "cap": "Winter — bare dormant branches silhouetted against a grey sky, two persistent apples still hanging, Nova Scotia, December (species-representative) · © mjohn_17 (CC-BY-NC) / iNaturalist",
+      "by": "mjohn_17",
       "lic": "CC-BY-NC",
-      "link": "https://www.inaturalist.org/observations/104109661"
+      "link": "https://www.inaturalist.org/observations/66312801"
     }
   ],
   "references": [

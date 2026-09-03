@@ -45,62 +45,62 @@
     {
       "local": "images/sp-blossom-t.jpg",
       "full": "images/sp-blossom.jpg",
-      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/135223912/large.jpeg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/306624526/large.jpeg",
       "s": "spring",
-      "cap": "Spring — face-on apple blossom, white petals flushed pink (species-representative) · © Felix Riegel (CC-BY-NC) / iNaturalist",
-      "by": "Felix Riegel",
+      "cap": "Spring — a flowering spur: face-on white blossom and rose-pink buds (species-representative) · © yury-redkin (CC-BY-NC) / iNaturalist",
+      "by": "yury-redkin",
       "lic": "CC-BY-NC",
-      "link": "https://www.inaturalist.org/observations/82393466"
+      "link": "https://www.inaturalist.org/observations/176370386"
     },
     {
       "local": "images/sp-bloommass-t.jpg",
       "full": "images/sp-bloommass.jpg",
-      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/70739381/large.jpeg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/277703680/large.jpg",
       "s": "spring",
-      "cap": "Spring — a whole apple tree in bloom against the sky (species-representative) · © no rights reserved (CC0) / iNaturalist",
+      "cap": "Spring — blossom-laden branches against a spring sky (species-representative) · © no rights reserved (CC0) / iNaturalist",
       "by": "no rights reserved",
       "lic": "CC0",
-      "link": "https://www.inaturalist.org/observations/44619411"
+      "link": "https://www.inaturalist.org/observations/160694419"
     },
     {
       "local": "images/su-foliage-t.jpg",
       "full": "images/su-foliage.jpg",
-      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/288214338/large.jpeg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/414276898/large.jpg",
       "s": "summer",
-      "cap": "Summer foliage — large, coarsely serrated apple leaves, glossy dark green above (species-representative) · © Fyodor Pudovikov (CC-BY) / iNaturalist",
-      "by": "Fyodor Pudovikov",
-      "lic": "CC-BY",
-      "link": "https://www.inaturalist.org/observations/166434559"
+      "cap": "Summer foliage — broad, serrated apple leaves (species-representative) · © Eduard Garin (CC-BY-NC) / iNaturalist",
+      "by": "Eduard Garin",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/233131682"
     },
     {
       "local": "images/su-habit-t.jpg",
       "full": "images/su-habit.jpg",
-      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/280099593/large.jpeg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/408192509/large.jpeg",
       "s": "summer",
-      "cap": "Summer — the vigorous, spreading habit of a mature grafted apple tree (species-representative) · © no rights reserved (CC0) / iNaturalist",
-      "by": "no rights reserved",
-      "lic": "CC0",
-      "link": "https://www.inaturalist.org/observations/162018074"
+      "cap": "Summer — a mature apple tree in full leaf, the rounded spreading crown (species-representative) · © Vincinek (CC-BY-NC) / iNaturalist",
+      "by": "Vincinek",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/229927334"
     },
     {
-      "local": "images/fa-fruitmass-t.jpg",
-      "full": "images/fa-fruitmass.jpg",
-      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/490556772/large.jpg",
-      "s": "fall",
-      "cap": "Fall — a tree loaded with red-striped apples, how a well-thinned Freedom crop reads at harvest (species-representative) · © Michal Svit (CC-BY-NC) / iNaturalist",
-      "by": "Michal Svit",
-      "lic": "CC-BY-NC",
-      "link": "https://www.inaturalist.org/observations/272666577"
+      "local": "images/su-fruitmass-t.jpg",
+      "full": "images/su-fruitmass.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/315485853/large.jpg",
+      "s": "summer",
+      "cap": "Late summer — a young tree hung with ripening red-blushed apples against a blue sky (species-representative) · © Uliana Bogatyreva (CC-BY) / iNaturalist",
+      "by": "Uliana Bogatyreva",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/181051242"
     },
     {
       "local": "images/wi-winter-t.jpg",
       "full": "images/wi-winter.jpg",
-      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/174406932/large.jpeg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/58715386/large.jpg",
       "s": "winter",
-      "cap": "Winter — bare dormant branches holding a few persistent red apples, late December (species-representative) · © Matthew Ruzicka (CC-BY-NC) / iNaturalist",
-      "by": "Matthew Ruzicka",
+      "cap": "Winter — the gnarled bare trunk and limbs of an old apple tree, Maine, late December (species-representative) · © chlorophyll-a (CC-BY-NC) / iNaturalist",
+      "by": "chlorophyll-a",
       "lic": "CC-BY-NC",
-      "link": "https://www.inaturalist.org/observations/104109661"
+      "link": "https://www.inaturalist.org/observations/37075462"
     }
   ],
   "references": [

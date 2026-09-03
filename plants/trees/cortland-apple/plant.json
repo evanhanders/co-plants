@@ -66,6 +66,16 @@
       "link": "https://www.inaturalist.org/observations/44619411"
     },
     {
+      "local": "images/sp-foliage-t.jpg",
+      "full": "images/sp-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/380411252/large.jpeg",
+      "s": "spring",
+      "cap": "Late-spring foliage — fresh apple leaves unfolding as the petals drop (species-representative) · © Станислав (CC-BY-NC) / iNaturalist",
+      "by": "Станислав",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/215188854"
+    },
+    {
       "local": "images/su-young-t.jpg",
       "full": "images/su-young.jpg",
       "url": "https://live.staticflickr.com/5038/5895238505_31d05a7ace_b.jpg",
@@ -74,16 +84,6 @@
       "by": "kajiai",
       "lic": "CC BY-NC-SA 2.0",
       "link": "https://www.flickr.com/photos/71807969@N00/5895238505"
-    },
-    {
-      "local": "images/su-foliage-t.jpg",
-      "full": "images/su-foliage.jpg",
-      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/288214338/large.jpeg",
-      "s": "summer",
-      "cap": "Summer foliage — glossy, serrated apple leaves (species-representative) · © Fyodor Pudovikov (CC-BY) / iNaturalist",
-      "by": "Fyodor Pudovikov",
-      "lic": "CC-BY",
-      "link": "https://www.inaturalist.org/observations/166434559"
     },
     {
       "local": "images/fa-cluster-t.jpg",

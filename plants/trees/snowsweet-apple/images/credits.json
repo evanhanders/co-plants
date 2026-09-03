@@ -1,22 +1,5 @@
 [
   {
-    "file": "images/sp-blossom.jpg",
-    "photo_id": 135223912,
-    "by": "Felix Riegel",
-    "license": "CC-BY-NC",
-    "source": "https://www.inaturalist.org/observations/82393466",
-    "dataset": "iNaturalist open data",
-    "render": "original",
-    "full_px": [
-      1400,
-      1050
-    ],
-    "thumb_px": [
-      400,
-      300
-    ]
-  },
-  {
     "file": "images/sp-bloommass.jpg",
     "photo_id": 363671197,
     "by": "kenbehrens",
@@ -31,23 +14,6 @@
     "thumb_px": [
       300,
       400
-    ]
-  },
-  {
-    "file": "images/su-foliage.jpg",
-    "photo_id": 288214338,
-    "by": "Fyodor Pudovikov",
-    "license": "CC-BY",
-    "source": "https://www.inaturalist.org/observations/166434559",
-    "dataset": "iNaturalist open data",
-    "render": "original",
-    "full_px": [
-      1200,
-      960
-    ],
-    "thumb_px": [
-      400,
-      320
     ]
   },
   {
@@ -123,6 +89,20 @@
     "by": "Katarzyna A Phillips",
     "license": "CC-BY-NC",
     "source": "https://www.inaturalist.org/observations/240164820",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/sp-blossom.jpg",
+    "by": "Kassidy",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/24961306",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/fa-foliage.jpg",
+    "by": "Ellen",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/184911215",
     "via": "iNaturalist"
   }
 ]

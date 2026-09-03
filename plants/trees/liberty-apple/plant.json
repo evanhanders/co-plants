@@ -171,12 +171,12 @@
     {
       "local": "images/sp-bloommass-t.jpg",
       "full": "images/sp-bloommass.jpg",
-      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/70739381/large.jpeg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/586875885/large.jpg",
       "s": "spring",
-      "cap": "Spring — a whole apple tree smothered in blossom against blue sky (species-representative) · © Alex Heyman (CC0) / iNaturalist",
-      "by": "Alex Heyman",
-      "lic": "CC0",
-      "link": "https://www.inaturalist.org/observations/44619411"
+      "cap": "Spring — a whole apple tree smothered in blossom (species-representative) · © Leonie Parsonage (CC-BY-NC) / iNaturalist",
+      "by": "Leonie Parsonage",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/324264937"
     },
     {
       "local": "images/su-foliage-t.jpg",
@@ -211,12 +211,12 @@
     {
       "local": "images/wi-winter-t.jpg",
       "full": "images/wi-winter.jpg",
-      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/174406932/large.jpeg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/60679562/large.jpeg",
       "s": "winter",
-      "cap": "Winter — bare branches holding persistent red apples in the snow (species-representative) · © Matthew Ruzicka (CC-BY-NC) / iNaturalist",
-      "by": "Matthew Ruzicka",
+      "cap": "Winter — lichen-crusted bare branches with shrivelled persistent apples, Oregon, January (species-representative) · © Barbara L. Wilson (CC-BY-NC) / iNaturalist",
+      "by": "Barbara L. Wilson",
       "lic": "CC-BY-NC",
-      "link": "https://www.inaturalist.org/observations/104109661"
+      "link": "https://www.inaturalist.org/observations/38201614"
     }
   ]
 }

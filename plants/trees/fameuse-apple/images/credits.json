@@ -1,22 +1,5 @@
 [
   {
-    "file": "images/sp-blossom.jpg",
-    "photo_id": 135223912,
-    "by": "Felix Riegel",
-    "license": "CC-BY-NC",
-    "source": "https://www.inaturalist.org/observations/82393466",
-    "dataset": "iNaturalist open data",
-    "render": "original",
-    "full_px": [
-      1400,
-      1050
-    ],
-    "thumb_px": [
-      400,
-      300
-    ]
-  },
-  {
     "file": "images/sp-bloommass.jpg",
     "photo_id": 363671197,
     "by": "kenbehrens",
@@ -31,23 +14,6 @@
     "thumb_px": [
       300,
       400
-    ]
-  },
-  {
-    "file": "images/su-foliage.jpg",
-    "photo_id": 288214338,
-    "by": "Fyodor Pudovikov",
-    "license": "CC-BY",
-    "source": "https://www.inaturalist.org/observations/166434559",
-    "dataset": "iNaturalist open data",
-    "render": "original",
-    "full_px": [
-      1200,
-      960
-    ],
-    "thumb_px": [
-      400,
-      320
     ]
   },
   {
@@ -85,23 +51,6 @@
     ]
   },
   {
-    "file": "images/fa-close.jpg",
-    "photo_id": 317778845,
-    "by": "Xian Zhou",
-    "license": "CC-BY-NC",
-    "source": "https://www.inaturalist.org/observations/182275455",
-    "dataset": "iNaturalist open data",
-    "render": "original",
-    "full_px": [
-      1400,
-      933
-    ],
-    "thumb_px": [
-      400,
-      267
-    ]
-  },
-  {
     "file": "images/fa-habit.jpg",
     "photo_id": 490556772,
     "by": "Michal Svit",
@@ -119,20 +68,31 @@
     ]
   },
   {
-    "file": "images/wi-winter.jpg",
-    "photo_id": 174406932,
-    "by": "Matthew Ruzicka",
+    "file": "images/sp-blossom.jpg",
+    "by": "joerg_ewald",
     "license": "CC-BY-NC",
-    "source": "https://www.inaturalist.org/observations/104109661",
-    "dataset": "iNaturalist open data",
-    "render": "original",
-    "full_px": [
-      1400,
-      933
-    ],
-    "thumb_px": [
-      400,
-      267
-    ]
+    "source": "https://www.inaturalist.org/observations/42831850",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/su-foliage.jpg",
+    "by": "Daniel Cahen",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/observations/298755668",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/fa-close.jpg",
+    "by": "rytheguyluvswolves",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/334878652",
+    "via": "iNaturalist"
+  },
+  {
+    "file": "images/wi-winter.jpg",
+    "by": "Paul Abell",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/38737243",
+    "via": "iNaturalist"
   }
 ]

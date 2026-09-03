@@ -1,0 +1,222 @@
+{
+  "collection": "apples",
+  "common": "Liberty apple",
+  "botanical": "Malus domestica 'Liberty'",
+  "type": "Tree",
+  "lifecycle": "Perennial",
+  "native": "Non-native",
+  "flower_color": [
+    "white",
+    "pink"
+  ],
+  "bloom": [
+    "spring"
+  ],
+  "blurb": "Cornell's 1978 low-spray apple — scab-immune, resistant to fire blight, rust and mildew — with crisp, juicy, fine-textured, tangy-sweet dark-red fruit in early October. Hits the tart-crisp brief; just eat it within a couple of months, because it is a short keeper, not a cellar apple.",
+  "size": "~12–18 ft × 12–15 ft (semi-dwarf; smaller on dwarf rootstock)",
+  "sun": "Full sun (6+ hrs)",
+  "water": "Moderate, regular — ~1 in a week May–Oct; keep out of lawn-sprinkler wet",
+  "spread": "Clumping — single grafted tree; needs a pollinizer apple within 100 ft",
+  "seasons": "White-pink blossom spring; dark-red striped fruit early–mid Oct",
+  "wildlife": "Bee-pollinated blossom; dropped fruit feeds birds & small mammals",
+  "deer": "Foliage & fruit browsed — not deer-resistant",
+  "toxic": "Fruit flesh edible; seeds contain cyanogenic amygdalin (mildly toxic if chewed in quantity)",
+  "winter": false,
+  "verified": "2026-09-03",
+  "gaps": "The three fall fruit/habit shots are cultivar-labelled Liberty photos (Flickr, CC). No open-licensed cultivar-specific blossom, foliage or winter shot exists that passes QC (the only Commons Liberty blossom series is shot against a painted wall), so those four are honestly-captioned species-representative Malus domestica shots.",
+  "origin": "Central Asia and Afghanistan; cultivar bred in New York State",
+  "habitat": "Wild fruit-tree forests and mountain slopes of Central Asia",
+  "ph": {
+    "min": 5.5,
+    "ideal": 6.5,
+    "max": 8.0
+  },
+  "references": [
+    {
+      "name": "CSU Extension — Backyard Orchard: Apples and Pears",
+      "url": "https://extension.colostate.edu/resource/backyard-orchard-apples-and-pears/"
+    },
+    {
+      "name": "PlantTalk Colorado #1201 — Apples",
+      "url": "https://planttalk.colostate.edu/topics/fruits/1201-apples/"
+    },
+    {
+      "name": "University of Minnesota Extension — Growing Apples",
+      "url": "https://extension.umn.edu/fruit/growing-apples"
+    },
+    {
+      "name": "NC State Extension Plant Toolbox — Malus domestica",
+      "url": "https://plants.ces.ncsu.edu/plants/malus-domestica/"
+    },
+    {
+      "name": "Amygdalin: Toxicity, Anticancer Activity and Analytical Procedures for Its Determination in Plant Seeds (Molecules, 2021) — NCBI PMC",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8069783/"
+    },
+    {
+      "name": "Lamb, Aldwinckle, Way & Terry (1978) — LIBERTY, a new disease resistant apple. New York's Food and Life Sciences Bulletin No. 73, NYS Agricultural Experiment Station, Geneva (Cornell eCommons)",
+      "url": "https://ecommons.cornell.edu/server/api/core/bitstreams/df23bb1a-03c3-4be1-a791-d1517d86dec9/content"
+    },
+    {
+      "name": "Peck & Merwin (2010) — A Grower's Guide to Organic Apples, NYS IPM Publication No. 223, Cornell University (Cornell eCommons)",
+      "url": "https://ecommons.cornell.edu/bitstreams/7b5f78c5-233f-4025-9694-c0c6585f4043/download"
+    },
+    {
+      "name": "University of Vermont Apple Program — Rootstocks and Cultivars in Vermont Apple Orchards (T. Bradshaw)",
+      "url": "https://www.uvm.edu/~orchard/fruit/treefruit/tf_horticulture/AppleHortBasics/Rootstocks_and_cultivars.html"
+    },
+    {
+      "name": "CSU Extension — CMG GardenNotes #771: Growing Tree Fruit in Colorado Gardens",
+      "url": "https://cmg.extension.colostate.edu/Gardennotes/771.pdf"
+    },
+    {
+      "name": "Iowa State University Extension — Why Potted Cold Hardy Fruit Plants Need Winter Protection",
+      "url": "https://yardandgarden.extension.iastate.edu/article/2025/10/why-potted-cold-hardy-fruit-plants-need-winter-protection"
+    },
+    {
+      "name": "University of Missouri IPM — Scab Resistant Apple Cultivars Revisited (M. Warmund)",
+      "url": "https://ipm.missouri.edu/MEG/2011/12/Scab-Resistant-Apple-Cultivars-Revisited/"
+    }
+  ],
+  "care": {
+    "hardiness": "'Liberty' was bred at Cornell's New York State Agricultural Experiment Station in Geneva — a 1955 cross of 'Macoun' × Purdue 54-12 (seedling NY 55140-19), named in 1978 as the first release of the station's disease-resistance program — and in more than twenty years of testing its breeders saw no winter injury and no frost injury to the open blossom, expecting it to be quite cold hardy given the 'McIntosh' and 'Wealthy' in its ancestry.[6] Cornell's organic-apple guide rates its winter hardiness good, and Minnesota Extension rates it good-to-fair even for Minnesota, so it is fully reliable through Boulder's 5b–6a winters.[3][7] As with every apple here, the real climate risk is not winter cold but a late-spring frost catching the open bloom — a common problem in Colorado — so keep it out of cold sinks.[9]",
+    "planting": "Plant in spring (April–May) once the ground is workable, or in early fall, in full sun on well-drained ground on a high spot where cold air drains away — never in a valley-floor frost pocket, and not against a south- or west-facing wall, which pushes bloom too early into frost.[2][9] Bare-root trees go in while dormant; container stock any time in the growing season. In a pot the roots are far less adapted to winter cold than the top of the tree, and the potting mix drifts toward air temperature instead of the buffered warmth of garden soil, so a containerized apple needs a large pot moved into an insulated but unheated garage or porch for winter, or grouped with other pots and banked in straw or wood-chip mulch; plan to plant it in the ground within a year or two.[10]",
+    "sun": "Full sun — the species is listed as full sun to partial shade, but for fruit set, sugar and the deep red skin it wants the sunniest spot you have, and PlantTalk's Colorado guidance is simply full sun on well-draining ground.[2][4]",
+    "soil": "Well-drained soil above all: fruit trees are prone to root rot and intolerant of poor drainage or heavy irrigation, so keep it out of the lawn-sprinkler zone.[9] The species tolerates clay, loam or sand across a pH from neutral to alkaline (about 6.0–8.0+), so Boulder's alkaline clay-loam is workable; on heavy clay the priority is drainage, not fertility.[4][9]",
+    "water": "Moderate and regular: about an inch of water a week from rain or irrigation, May through October, applied at the dripline as a deep soak rather than frequent shallow sprinkling — fruit trees are not compatible with lawn-style frequent irrigation.[3][9]",
+    "spacing": "Spacing follows rootstock: dwarf trees 6–8 ft apart, semi-dwarf 12–15 ft, standard 20–25 ft.[3] A semi-dwarf 'Liberty' trained to a modified central leader can be held at 15–18 ft (a dwarf at 8–10 ft, though dwarf trees are less hardy and slower to establish here); leave room for the second apple it needs within 100 ft.[9]",
+    "propagation": "Apples do not come true from seed, so 'Liberty' is propagated only by grafting or budding a scion of the named cultivar onto a rootstock.[4] Its scab immunity is the single Vf gene inherited from the Japanese flowering crabapple *Malus floribunda*, so there is no seed-grown shortcut to it — buy a grafted tree.[6][8] Choose the rootstock for the size you want; dwarf trees are the least hardy and slowest to establish in Colorado, so semi-dwarf is the usual home pick.[9]",
+    "bloom": "White-and-pink blossom in spring (May here), on the early side among apples — Cornell notes 'Liberty' blooms early and sizes its fruit fast after petal fall.[7] It sets flower buds heavily at the tips and sides of the current year's shoots and on numerous spurs that stay fruitful for years, which is why it crops every year rather than alternating.[6] It is not self-fruitful: plant a different, co-blooming apple or a flowering crabapple within 100 ft.[3][9]",
+    "feeding": "Nitrogen is usually the only nutrient an apple needs yearly; judge the dose by last season's shoot growth, apply it in spring just before or at bud break, broadcast under the tree and watered in — compost does the job.[3][9] Keep it modest: 'Liberty' has high fire-blight resistance, not immunity, and under heavy pressure even resistant cultivars can be infected.[6][7]",
+    "pruning": "Prune in late winter, after the risk of sub-zero cold has passed but before bud swell (early March here), training to a modified central leader with three to five well-spaced scaffold branches; the annual job is light thinning of the canopy to let light in — thinning and reduction cuts worked from the top down, no heading cuts, water sprouts removed — while leaving the small twigs and spurs that carry the fruit.[2][9] The tree is vigorous and round-spreading, fruits at the tips and along one-year shoots as well as on spurs, and its branches tend to set off at odd angles at each year's growth point, so expect regular corrective cuts.[6][8] Fire blight is the Front Range's headline apple disease: prune in dry weather, and if a strike does appear cut it out 8–12 in below the visible symptoms, disinfecting the tool between cuts.[1][7]",
+    "maintenance": "Thin hard, every year: 'Liberty' sets several apples per spur and must be aggressively thinned — to one fruit per cluster, 6–8 in apart, by mid-June when the fruit is nickel-to-quarter sized — or the crop runs small.[7][8][9] Thinning also helps against codling moth, which likes to lay eggs between touching apples.[9] Because its scab immunity rests on a single gene that has broken down where local scab races adapted, don't interplant it with unsprayed scab-susceptible apples.[8]",
+    "troubles": "Disease is where this apple earns its keep: in unsprayed Cornell plantings it stayed free of scab for 22 years, showed very high resistance to cedar-apple rust and high resistance to fire blight, and carried far less mildew than 'McIntosh' — the breeders grew it without any fungicide at all, and Missouri still lists it as a standard scab-resistant cultivar with broad resistance to all four diseases.[6][11] Colorado's dry climate already limits fungal disease, so here that resistance matters mostly in wet springs, when fire blight (18 hours or more at 65–90°F with rain or humidity above 65 percent), powdery mildew and occasional scab hit susceptible varieties.[1] Insects are not covered by that resistance: codling moth is the most serious pest of Front-Range apples and needs a regular summer program for clean fruit, apple maggot is present in some Front Range areas, and Cornell notes that early-blooming, fast-sizing 'Liberty' is prone to plum curculio and is a preferred host of Japanese beetle where those occur.[1][6][7]",
+    "harvest": "Ripens about October 5 at Geneva, New York, ten days after 'McIntosh' — count on early to mid October here — when the striped deep red covers about 90 percent of the skin over a yellowish ground and the 2¾–3 in fruit is oblate-conic and slightly russeted at the stem.[6] The flesh is yellowish, juicy, crisp and fine-textured with a subacid, moderately acid, aromatic flavour — 'well-balanced, similar to McIntosh but firmer' in Minnesota Extension's words — and after a hot summer it can be sharply acid at picking, mellowing over a few weeks in the fridge.[3][6][7] The catch is the picking window: only 7–10 days for peak quality, usually over several pickings, and fruit left on the tree softens fast, develops off-flavours and drops.[7][8] It is a short keeper: fine for a few weeks, but it loses quality after several months in ordinary cold storage (commercial low-oxygen storage of pre-climacteric fruit is what stretches it), so eat it through fall and early winter rather than counting on a crisp apple in March, and press or cook the rest.[7]",
+    "companions": "A different apple variety or a flowering crabapple within 100 ft is the essential pollinizer.[3][9] Keep the root zone in mulch outside the lawn's irrigation, and — a small bonus of its rust resistance — it can live near the junipers that give other apples cedar-apple rust.[6][9] Cornell recommends it for hard cider and juice, so it pairs well with a second cider or keeper apple like the GoldRush in this guide.[7]"
+  },
+  "fact_src": {
+    "size": [
+      4,
+      9
+    ],
+    "sun": [
+      2,
+      4
+    ],
+    "water": [
+      3,
+      9
+    ],
+    "spread": [
+      3,
+      9
+    ],
+    "seasons": [
+      4,
+      6
+    ],
+    "wildlife": [
+      4
+    ],
+    "deer": [
+      7
+    ],
+    "toxic": [
+      4,
+      5
+    ],
+    "origin": [
+      4,
+      6
+    ],
+    "habitat": [
+      4
+    ],
+    "ph": [
+      4
+    ]
+  },
+  "edible": {
+    "level": "edible",
+    "food": true,
+    "kinds": [
+      "fruit"
+    ],
+    "card": "Crisp, tangy-sweet fruit — fresh, cooked, or cider",
+    "summary": "The fruit is a crisp, juicy, tangy-sweet dessert apple that also cooks well and is recommended for juice and hard cider; only the seeds carry a trace toxin.[3][6][7][5]",
+    "parts": "The fruit (flesh and skin) is the edible part, raw or cooked.[4] 'Liberty' eats crisp, juicy and fine-textured with a subacid, moderately acid, aromatic flavour — 'well-balanced, similar to McIntosh but firmer' — excellent when picked at the right moment and sharper after a hot season; the crispness holds for weeks, not months, and the fruit goes soft and off-flavoured in prolonged ordinary cold storage, so it is a fall-and-early-winter apple rather than a keeper.[3][6][7][8]",
+    "preparation": "Eat fresh, or cook it — Minnesota Extension lists it for fresh eating and cooking, and Cornell recommends it for hard cider and juice.[3][7] Cut out and discard the seedy core; the flesh needs no special treatment to be safe.[5]",
+    "caution": "The flesh and skin are entirely safe; the only concern is the seeds, which (like all apples and stone fruit) contain cyanogenic amygdalin. Amygdalin releases hydrogen cyanide only when seed tissue is crushed or chewed and its enzymes hydrolyse it — whole seeds swallowed by accident pass through harmlessly, and a person would have to deliberately chew on the order of dozens to hundreds of seeds to risk poisoning — so simply core the apple and don't eat or grind the pips, and keep children and pets from chewing them.[5]"
+  },
+  "shots": [
+    {
+      "local": "images/fa-fruit-t.jpg",
+      "full": "images/fa-fruit.jpg",
+      "url": "https://live.staticflickr.com/5519/9612489523_f0f8b531a4_b.jpg",
+      "s": "fall",
+      "cap": "Fall — Liberty apples ripening on the branch, deep red striped over a yellow ground · © grongar (CC BY 2.0) / Flickr",
+      "by": "grongar",
+      "lic": "CC BY 2.0",
+      "link": "https://www.flickr.com/photos/70757891@N00/9612489523"
+    },
+    {
+      "local": "images/sp-blossom-t.jpg",
+      "full": "images/sp-blossom.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/135223912/large.jpeg",
+      "s": "spring",
+      "cap": "Spring — face-on apple blossom, white flushed pink (species-representative) · © Felix Riegel (CC-BY-NC) / iNaturalist",
+      "by": "Felix Riegel",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/82393466"
+    },
+    {
+      "local": "images/sp-bloommass-t.jpg",
+      "full": "images/sp-bloommass.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/70739381/large.jpeg",
+      "s": "spring",
+      "cap": "Spring — a whole apple tree smothered in blossom against blue sky (species-representative) · © Alex Heyman (CC0) / iNaturalist",
+      "by": "Alex Heyman",
+      "lic": "CC0",
+      "link": "https://www.inaturalist.org/observations/44619411"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/288214338/large.jpeg",
+      "s": "summer",
+      "cap": "Summer foliage — glossy, serrated apple leaves (species-representative) · © Fyodor Pudovikov (CC-BY) / iNaturalist",
+      "by": "Fyodor Pudovikov",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/166434559"
+    },
+    {
+      "local": "images/fa-close-t.jpg",
+      "full": "images/fa-close.jpg",
+      "url": "https://live.staticflickr.com/7650/28567822174_89a00d62fa_b.jpg",
+      "s": "fall",
+      "cap": "Ripe fruit — Liberty apples on the tree, the dark red covering nearly the whole skin · © Linda, Fortuna future (CC BY-NC 2.0) / Flickr",
+      "by": "Linda, Fortuna future",
+      "lic": "CC BY-NC 2.0",
+      "link": "https://www.flickr.com/photos/53470892@N08/28567822174"
+    },
+    {
+      "local": "images/fa-habit-t.jpg",
+      "full": "images/fa-habit.jpg",
+      "url": "https://live.staticflickr.com/5449/9615729268_7f2f235144_b.jpg",
+      "s": "fall",
+      "cap": "Fall — a young Liberty tree in fruit, showing the round-spreading habit · © grongar (CC BY 2.0) / Flickr",
+      "by": "grongar",
+      "lic": "CC BY 2.0",
+      "link": "https://www.flickr.com/photos/70757891@N00/9615729268"
+    },
+    {
+      "local": "images/wi-winter-t.jpg",
+      "full": "images/wi-winter.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/174406932/large.jpeg",
+      "s": "winter",
+      "cap": "Winter — bare branches holding persistent red apples in the snow (species-representative) · © Matthew Ruzicka (CC-BY-NC) / iNaturalist",
+      "by": "Matthew Ruzicka",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/104109661"
+    }
+  ]
+}

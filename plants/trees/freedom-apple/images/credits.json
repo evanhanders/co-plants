@@ -1,0 +1,111 @@
+[
+  {
+    "file": "images/sp-blossom.jpg",
+    "photo_id": 135223912,
+    "by": "Felix Riegel",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/82393466",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      1050
+    ],
+    "thumb_px": [
+      400,
+      300
+    ]
+  },
+  {
+    "file": "images/sp-bloommass.jpg",
+    "photo_id": 70739381,
+    "by": "no rights reserved",
+    "license": "CC0",
+    "source": "https://www.inaturalist.org/observations/44619411",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  },
+  {
+    "file": "images/su-foliage.jpg",
+    "photo_id": 288214338,
+    "by": "Fyodor Pudovikov",
+    "license": "CC-BY",
+    "source": "https://www.inaturalist.org/observations/166434559",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1200,
+      960
+    ],
+    "thumb_px": [
+      400,
+      320
+    ]
+  },
+  {
+    "file": "images/su-habit.jpg",
+    "photo_id": 280099593,
+    "by": "no rights reserved",
+    "license": "CC0",
+    "source": "https://www.inaturalist.org/observations/162018074",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1050,
+      1400
+    ],
+    "thumb_px": [
+      300,
+      400
+    ]
+  },
+  {
+    "file": "images/fa-fruitmass.jpg",
+    "photo_id": 490556772,
+    "by": "Michal Svit",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/272666577",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1080,
+      1327
+    ],
+    "thumb_px": [
+      326,
+      400
+    ]
+  },
+  {
+    "file": "images/wi-winter.jpg",
+    "photo_id": 174406932,
+    "by": "Matthew Ruzicka",
+    "license": "CC-BY-NC",
+    "source": "https://www.inaturalist.org/observations/104109661",
+    "dataset": "iNaturalist open data",
+    "render": "original",
+    "full_px": [
+      1400,
+      933
+    ],
+    "thumb_px": [
+      400,
+      267
+    ]
+  },
+  {
+    "file": "images/su-fruit.jpg",
+    "by": "tofumidget",
+    "license": "CC BY-NC 2.0",
+    "source": "https://www.flickr.com/photos/33789549@N05/20646859549",
+    "via": "Flickr"
+  }
+]

@@ -1,0 +1,218 @@
+{
+  "collection": "apples",
+  "common": "Freedom apple",
+  "botanical": "Malus domestica 'Freedom'",
+  "type": "Tree",
+  "lifecycle": "Perennial",
+  "native": "Non-native",
+  "flower_color": [
+    "white",
+    "pink"
+  ],
+  "bloom": [
+    "spring"
+  ],
+  "blurb": "Cornell–Geneva's 1983 no-spray apple: scab-immune, big red-striped fruit that eats firm, juicy and sprightly-subacid. Fair fit for the tart-crisp brief fresh off the tree — but 'nearly crisp' rather than snapping, and a short keeper (use by January).",
+  "size": "~15–18 ft × 12–15 ft on semi-dwarf rootstock; vigorous and spreading",
+  "sun": "Full sun (6+ hrs)",
+  "water": "Moderate, regular — about 1 in/week May–Oct",
+  "spread": "Clumping — a single grafted tree; needs a pollinizer apple within ~100 ft; very productive and precocious",
+  "seasons": "White-pink blossom mid-spring; large red-striped fruit early–mid Oct, keeps to January",
+  "wildlife": "Bee-pollinated blossom; fruit for birds & small mammals",
+  "deer": "Foliage, bark & fruit browsed — fence young trees; not deer-resistant",
+  "toxic": "Fruit flesh edible; seeds contain cyanogenic amygdalin (mildly toxic if chewed in quantity)",
+  "winter": false,
+  "verified": "2026-09-03",
+  "origin": "Central Asia and Afghanistan; cultivar bred at Geneva, New York",
+  "habitat": "Wild fruit-tree forests and mountain slopes of Central Asia",
+  "ph": {
+    "min": 5.5,
+    "ideal": 6.5,
+    "max": 8.0
+  },
+  "gaps": "Only one open-licensed cultivar-true photo of 'Freedom' exists (the Flickr fruit-on-branch shot); the blossom, foliage, habit, fruit-mass and winter shots are honestly-captioned species-representative Malus domestica from iNaturalist. No CC photo shows the ripe fruit's full 80% red-stripe colour or a cut apple.",
+  "shots": [
+    {
+      "local": "images/su-fruit-t.jpg",
+      "full": "images/su-fruit.jpg",
+      "url": "https://live.staticflickr.com/661/20646859549_e7ea424c5f_b.jpg",
+      "s": "summer",
+      "cap": "Late summer — a 'Freedom' apple colouring up on the branch: bright red stripes breaking over the yellow-green ground, large leathery dark-green leaves · © tofumidget (CC BY-NC 2.0) / Flickr",
+      "by": "tofumidget",
+      "lic": "CC BY-NC 2.0",
+      "link": "https://www.flickr.com/photos/33789549@N05/20646859549"
+    },
+    {
+      "local": "images/sp-blossom-t.jpg",
+      "full": "images/sp-blossom.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/135223912/large.jpeg",
+      "s": "spring",
+      "cap": "Spring — face-on apple blossom, white petals flushed pink (species-representative) · © Felix Riegel (CC-BY-NC) / iNaturalist",
+      "by": "Felix Riegel",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/82393466"
+    },
+    {
+      "local": "images/sp-bloommass-t.jpg",
+      "full": "images/sp-bloommass.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/70739381/large.jpeg",
+      "s": "spring",
+      "cap": "Spring — a whole apple tree in bloom against the sky (species-representative) · © no rights reserved (CC0) / iNaturalist",
+      "by": "no rights reserved",
+      "lic": "CC0",
+      "link": "https://www.inaturalist.org/observations/44619411"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/288214338/large.jpeg",
+      "s": "summer",
+      "cap": "Summer foliage — large, coarsely serrated apple leaves, glossy dark green above (species-representative) · © Fyodor Pudovikov (CC-BY) / iNaturalist",
+      "by": "Fyodor Pudovikov",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/166434559"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/280099593/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — the vigorous, spreading habit of a mature grafted apple tree (species-representative) · © no rights reserved (CC0) / iNaturalist",
+      "by": "no rights reserved",
+      "lic": "CC0",
+      "link": "https://www.inaturalist.org/observations/162018074"
+    },
+    {
+      "local": "images/fa-fruitmass-t.jpg",
+      "full": "images/fa-fruitmass.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/490556772/large.jpg",
+      "s": "fall",
+      "cap": "Fall — a tree loaded with red-striped apples, how a well-thinned Freedom crop reads at harvest (species-representative) · © Michal Svit (CC-BY-NC) / iNaturalist",
+      "by": "Michal Svit",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/272666577"
+    },
+    {
+      "local": "images/wi-winter-t.jpg",
+      "full": "images/wi-winter.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/174406932/large.jpeg",
+      "s": "winter",
+      "cap": "Winter — bare dormant branches holding a few persistent red apples, late December (species-representative) · © Matthew Ruzicka (CC-BY-NC) / iNaturalist",
+      "by": "Matthew Ruzicka",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/104109661"
+    }
+  ],
+  "references": [
+    {
+      "name": "CSU Extension — Backyard Orchard: Apples and Pears",
+      "url": "https://extension.colostate.edu/resource/backyard-orchard-apples-and-pears/"
+    },
+    {
+      "name": "PlantTalk Colorado #1201 — Apples",
+      "url": "https://planttalk.colostate.edu/topics/fruits/1201-apples/"
+    },
+    {
+      "name": "University of Minnesota Extension — Growing Apples",
+      "url": "https://extension.umn.edu/fruit/growing-apples"
+    },
+    {
+      "name": "NC State Extension Plant Toolbox — Malus domestica",
+      "url": "https://plants.ces.ncsu.edu/plants/malus-domestica/"
+    },
+    {
+      "name": "Amygdalin: Toxicity, Anticancer Activity and Analytical Procedures for Its Determination in Plant Seeds (Molecules, 2021) — NCBI PMC",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8069783/"
+    },
+    {
+      "name": "Lamb, Aldwinckle & Terry — 'FREEDOM' A New Disease-Resistant Apple (NYSAES Geneva, Food and Life Sciences Bulletin 103, 1983) — Cornell eCommons",
+      "url": "https://ecommons.cornell.edu/server/api/core/bitstreams/9278e645-6f15-4d9b-b318-de450fa5edf3/content"
+    },
+    {
+      "name": "University of Vermont Extension — Scab Resistant Apple Cultivars (Northeast Sustainable Apple Project)",
+      "url": "https://www.uvm.edu/d10-files/documents/2024-06/Scab-Resistant-Apples.pdf"
+    },
+    {
+      "name": "University of Missouri Extension G6026 — Disease-Resistant Apple Cultivars",
+      "url": "https://extension.missouri.edu/publications/g6026"
+    },
+    {
+      "name": "eXtension Apples — Disease-Resistant Apple Cultivars",
+      "url": "https://apples.extension.org/disease-resistant-apple-cultivars/"
+    },
+    {
+      "name": "Lamb, Aldwinckle, Way & Terry — LIBERTY, a new disease resistant apple (NYSAES Geneva, Food and Life Sciences Bulletin 73, 1978) — Cornell eCommons",
+      "url": "https://ecommons.cornell.edu/server/api/core/bitstreams/df23bb1a-03c3-4be1-a791-d1517d86dec9/content"
+    }
+  ],
+  "care": {
+    "hardiness": "'Freedom' is the second disease-resistant apple named by the New York State Agricultural Experiment Station at Geneva (Cornell), released in 1983 from a 1958 cross and grown there for 23 years without a single disease-control spray; the bulletin reports it hardy to winter cold, and its blossom buds withstood −5 °C (23 °F) on 21 April 1981.[6] The bulletin's pedigree chart traces it to NY 18492 — Macoun (McIntosh × Jersey Black) crossed with the Russian Antonovka — pollinated by NY 49821-46, a Golden Delicious × (Rome × Malus floribunda 821) selection, which is where its two separate kinds of scab resistance come from.[6] Minnesota Extension lists it among the disease-resistant cultivars for that far colder state, so Boulder's 5b–6a winters are no concern; the Front-Range risk is the one every apple faces here — a late-spring frost during bloom on a tree sited where it breaks dormancy early.[2][3]",
+    "planting": "Plant in full sun, in soil that drains well, on a high point so frost gathering in low pockets cannot damage the tree or the fruit, and not close to the south or west side of a building, where an apple blooms too early and loses its crop to frost.[2] Bare-root trees go in while dormant in early spring, container stock through the growing season; choose a semi-dwarf rootstock so the tree fits a yard with its pollinizer nearby, as PlantTalk recommends for Colorado landscapes.[2][3] In a pot, use a dwarfing rootstock (dwarf stocks cut tree size by up to half) and keep the weekly inch of water coming, because a container dries far faster than a bed in Front-Range sun; plan to get it in the ground within a year or two.[3]",
+    "sun": "Full sun, six or more hours a day.[4] Light matters twice for 'Freedom': the tree is very vigorous, and Vermont Extension notes it takes considerable pruning to keep the canopy open enough for good fruit colouring — a shaded interior gives dull, greenish apples.[7]",
+    "soil": "Adaptable: clay, loam or sand with good drainage, tolerant of a broad pH from neutral up into Boulder's alkaline (>8.0) clay-loam.[4] Drainage is the non-negotiable — plant on a high, well-drained spot, never where water stands.[2] Keep a 3-ft radius around a young tree free of grass and weeds for the first three to five years (grass depletes soil moisture fast and slows the tree), mulched a few inches deep but held back from the trunk.[3]",
+    "water": "Moderate, regular: about one inch a week from rain or irrigation, May through October, so the large fruit keeps sizing through our dry summer.[3] Water deeply at the dripline rather than sprinkling the canopy — Colorado's dry climate is the reason fungal diseases usually stay minor here, and extended wetting is what lets them start.[1]",
+    "spacing": "Spacing follows the rootstock: 6–8 ft for dwarf, 12–15 ft for semi-dwarf, 20–25 ft for standard trees.[3] 'Freedom' is a vigorous, spreading grower, so a size-controlling semi-dwarf stock makes the most manageable backyard tree at roughly 15 ft, with the required pollinizer within 100 ft.[3][6]",
+    "propagation": "Apples do not come true from seed, so 'Freedom' exists only as grafted or budded scion wood on a chosen rootstock — buy a grafted tree.[4] The station patented the variety at release (long since expired) so licensed nurseries could sell it; the rootstock, not the scion, decides mature size and how soon it bears.[3][6] The tree is precocious: on M9 stock at Geneva, 25 trees planted in 1980 carried 1,129 fruits by 1983.[6]",
+    "bloom": "White-pink blossom in mid-spring — about 15 May at Geneva, roughly three days after 'McIntosh', making it a midseason bloomer; it produces good pollen and has been used as a pollen parent with many varieties, so it pollinizes other apples well.[6] Like every apple it needs pollen from a different variety to set fruit: plant a second apple, or count on a crabapple within about 100 ft.[2][3]",
+    "feeding": "Nitrogen is normally the only nutrient an apple needs annually, and compost supplies it.[3] Keep it modest: 'Freedom' is already very vigorous, and its fire-blight resistance is only moderate, so lush nitrogen-fed shoots are exactly the tissue blight strikes.[3][7][8]",
+    "pruning": "Prune in early March while fully dormant, opening the canopy so sunlight reaches the lower branches — better fruit and stronger limbs.[2] 'Freedom' needs more of this than most apples: Vermont Extension calls the trees very vigorous and says they require considerable pruning effort to hold a productive shape and colour their fruit.[7] Work with its habit — most buds on one-year wood break into spurs that stay productive for two to three years, so thin and shorten rather than stripping young wood.[6] Its fire-blight resistance is moderate, not immunity (the bulletin's worst field score was some entry into two-year wood on 4–6% of a tree), so make cuts in dry weather and, in blight-prone sites, follow CSU's bloom-time protective spray schedule rather than assuming it is safe.[1][6][8]",
+    "maintenance": "Thin hard: leave one or two fruits per cluster, or better 4–6 in between apples, when they are marble-sized in late June or early July.[3] This variety is extremely productive and precocious, and it bears large fruit annually only on well-thinned trees.[6][7] Codling moth is the most serious pest of pome fruit in Colorado — begin controls about two weeks after petal fall and repeat every two weeks (avoid Sevin on bearing trees, which drops fruit), and a late-March dormant oil handles overwintering scale, mites and aphids.[1][2] Guard the trunk of a young tree against voles and rabbits, and fence against deer if needed, until the bark is rough and mature.[3]",
+    "troubles": "Bred to grow without disease sprays: it is immune to apple scab in the field, carrying both the Malus floribunda (Vf) resistance from its pollen parent and the Antonovka type from its seed parent, which the breeders expected to make the resistance more durable — a real advantage now that Vf alone has been overcome by scab in parts of the Midwest and Europe.[6][9] Cedar-apple rust has appeared on it only once in the field; powdery mildew shows as scattered leaf lesions but rarely the infected terminals that carry the disease over winter; and it is rated resistant (not immune) to fire blight — a lower level of rust and blight resistance than 'Liberty', but enough to grow unsprayed at Geneva.[6][8] Missouri notes it can get black rot in wet seasons, a smaller risk in our dry air.[1][8] Insects are not covered by any of this: codling moth and, in some Front-Range areas, apple maggot still need a spray schedule for clean fruit.[1]",
+    "harvest": "Ripens about 5 October at Geneva, with 'Delicious' — expect early to mid October here, as the ground colour turns from green to greenish-yellow.[3][6] The fruit is large (69 × 85 mm), oblate, about 80% bright red stripes over yellow.[6] How it eats, from the authorities rather than the catalogue: Cornell's own bulletin calls the cream flesh firm, medium-fine, tender and juicy with a sprightly subacid flavour of good quality; Minnesota Extension calls it crisp, juicy and sweet; Vermont Extension calls it firm, juicy and only nearly crisp, and somewhat lacking in fresh flavour — so brisk and juicy, yes, but not the snapping crispness of 'Liberty', whose flesh the sister bulletin describes as crisp and fine.[3][6][7][10] It is a dual-purpose apple, good fresh and good for sauce and juice, and the short storage life is the honest catch: refrigerated it keeps only until January, whereas 'Liberty' stores well for several months.[6][7] Hold it near 33–38 °F at high humidity — cold storage lasts up to ten times longer than a countertop.[3]",
+    "companions": "A different apple variety, or a crabapple, within about 100 ft is the required pollinizer, and 'Freedom' returns the favour as a strong pollen source.[2][3][6] Keep a mulched, grass-free circle around the trunk for the first years rather than competing turf.[3] Cedar-apple rust needs junipers or red cedars as its alternate host; with rust seen on this variety only once in the field, nearby junipers are a minor risk rather than a deal-breaker.[6][8]"
+  },
+  "fact_src": {
+    "size": [
+      3,
+      4,
+      6
+    ],
+    "sun": [
+      4
+    ],
+    "water": [
+      3
+    ],
+    "spread": [
+      2,
+      3,
+      6
+    ],
+    "seasons": [
+      4,
+      6
+    ],
+    "wildlife": [
+      4
+    ],
+    "deer": [
+      3
+    ],
+    "toxic": [
+      4,
+      5
+    ],
+    "origin": [
+      4,
+      6
+    ],
+    "habitat": [
+      4
+    ],
+    "ph": [
+      4
+    ]
+  },
+  "edible": {
+    "level": "edible",
+    "food": true,
+    "kinds": [
+      "fruit"
+    ],
+    "card": "Firm, juicy, sprightly-tart fruit — fresh, sauce, or juice",
+    "summary": "A large dual-purpose apple — firm, juicy and sprightly subacid, good fresh and for sauce and juice, but a short keeper that should be used by January; only the seeds carry a trace toxin.[5][6]",
+    "parts": "The fruit, skin and flesh, eaten raw or cooked.[4] Expect firm, juicy, cream-coloured flesh with a brisk subacid flavour: Cornell's bulletin describes it as firm, medium-fine, tender and juicy; Minnesota Extension as crisp, juicy and sweet; Vermont Extension as firm, juicy and nearly crisp but somewhat short on fresh flavour — juicy and lively rather than truly snapping.[3][6][7] It softens in storage sooner than most keepers, holding in the refrigerator only until about January.[6]",
+    "preparation": "Eat fresh in October and November while it is at its firmest, or core and cook it into sauce and juice, baked goods, and cider.[6][7] Refrigerate at 33–38 °F and high humidity to stretch its short storage life.[3] Cut out and discard the seedy core — the flesh needs no special treatment to be safe.[5]",
+    "caution": "The flesh and skin are entirely safe; the only concern is the seeds, which contain cyanogenic amygdalin like all apple pips. Amygdalin releases hydrogen cyanide only when seeds are crushed or chewed — whole seeds swallowed by accident pass through harmlessly, and it would take deliberately chewing on the order of dozens to hundreds of seeds to risk poisoning — so just core the apple, don't eat or grind the pips, and keep children and pets from chewing them.[5]"
+  }
+}

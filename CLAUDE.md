@@ -1187,7 +1187,7 @@ ground every statement in an authority cited in `references`.
 
 ## Current plant roster (in the live site)
 
-**367 specimens** (`plants/manifest.json` is the source of truth for the exact count), all verified
+**368 specimens** (`plants/manifest.json` is the source of truth for the exact count), all verified
 non-weed in CO and all carrying a full `care` block (incl.
 `planting` + `propagation`) **and a repo-hosted photo reel** (close-up + structure, seasonal
 where good shots exist). Every plant's detail page is **fully cited** — a numbered
@@ -1868,6 +1868,23 @@ tangles on winter shots — `fameuse-apple/images/wi-winter-t.jpg` is a hand-pla
 `rethumb.py` on that plant regresses it. `check_refs` guide-wide PASS (367, 0/0); `check_citations` on
 the eight PASS (0 DEAD; REVIEWs are PDFs read by hand).
 
+**Crested dwarf iris (September 2026):** added **crested dwarf iris** (*Iris cristata*) on a user request,
+folded into the existing **Irises** family card (now 4 members; roster 367 → **368**). It is entered as a
+**`Groundcover`** (a 4–9 in mat-forming rhizomatous woodland iris, sold as a shade groundcover), so the
+Irises card is now a mixed-morphology collection like the penstemons — that's fine. **Non-native** per the
+witch-hazel convention (Appalachian/Ozark eastern-US native, PA→GA west to MO/OK; cited `origin`/`habitat`).
+**Weed check (2026-09-03):** the only *Iris* on Colorado's lists is **yellow flag (*I. pseudacorus*)** —
+List A on the current county pages (the June-2020 statewide PDF still had it at List B), and no other *Iris*
+appears anywhere; the entry says so. Honesty calls: it wants **part shade + moist, humus-rich, slightly acid
+soil — the opposite of Boulder's alkaline clay** — so the `water` directive says "not xeric" and `care`
+frames it as an amended, mulched, afternoon-shade bed plant; `spread` leads with "Spreads by shallow creeping
+surface rhizomes" so the SPREADS badge fires on purpose; `edible` **toxic** (irisin/iridin + terpenoids —
+rhizomes most concentrated; ASPCA) like every iris here. Sources: NC State, LBJ (IRCR), USDA-FS Celebrating
+Wildflowers, USDA PLANTS, Clemson HGIC, ASPCA, CSU 7.402 + 7.235; MBG Plant Finder 503'd and is not cited.
+9-shot iNat reel (face-on crest, bee, colony, drift, foliage fans, fall mat, a genuine late-winter emergence
+shot); no CC seed-capsule photo exists (logged in `gaps`). `check_refs` guide-wide PASS (368, 0/0);
+`check_citations` PASS (0 DEAD).
+
 **Trees**
 - River hawthorn (*Crataegus rivularis*) (N) — Thorny native small tree; white spring flowers, dark edible haws, superb wildlife cover. A caterpillar keystone (~90 Lepidoptera). *(Riparian — wants more water; edible haws, spit the cyanogenic seeds.)*
 - Chokecherry (*Prunus virginiana*) (N) — Wildlife powerhouse: fragrant white flower racemes, dark…
@@ -1980,6 +1997,7 @@ the eight PASS (0 DEAD; REVIEWs are PDFs read by hand).
 - 'Silver Carpet' lamb's ear (*Stachys byzantina* 'Silver Carpet') (I) — The flattest, purest-silver lamb's ear, a 3–6 in mat that essentially never blooms. *(Lamb's ears family card; CSU's xeriscape groundcover guidance points at the flowerless kinds — no seeding-about, no leggy bloom-time mess. `flower_color`/`bloom` deliberately `[]`.)*
 - Pink cotton lamb's ear (*Stachys lavandulifolia*) (I) — A true wild lamb's-ear species, not a selection: a low tufted cushion of narrow grey-green leaves under short May–June spikes of lavender-pink flowers wrapped in shaggy cotton-wool calyces. *(Iraq/Iran/southern-Caucasus alpine — wants gritty sharp drainage, a rock-garden or trough plant; kept standalone, not in the byzantina family card. Caution — a traditional Iranian medicinal tea, NOT a culinary herb.)*
 - Turkish speedwell (*Veronica liwanensis*) (I) — A Plant Select standout
+- Crested dwarf iris (*Iris cristata*) (I) — A 4–9 in woodland groundcover iris: pale blue-violet flowers with a white signal and ruffled golden crest over fans of short sword leaves, spreading into a slow mat. *(Irises family card; Appalachian/Ozark native, not Front-Range; wants part shade + moist humus, NOT xeric; toxic rhizomes; NOT the List-A yellow flag iris.)*
 - Hens and chicks (*Sempervivum tectorum*) (I) — Bulletproof evergreen succulent; tight rosette "hens" pup rings of "chicks" into a mat, with a monocarpic summer flower stalk. *(Non-toxic but not a documented food; European native.)*
 - Spearleaf stonecrop (*Sedum lanceolatum*) (N) — CO-native succulent mat of fleshy lance leaves that flush fire-red in drought/cold, then bright yellow star-flowers; *Parnassius smintheus* larval host. *(Caution — alkaloids/sarmentosin; not a tested food.)*
 - Mexican fleabane (*Erigeron karvinskianus*) (I) — The marathon-blooming "wall daisy"; a wiry sprawling mat frothing with tiny daisies that open white and age pink-to-purple, early summer to frost. *(Borderline-hardy ~zone 6 — frost-tender here, carries on by self-sowing; xeric/sharp drainage; self-seeds prolifically and is invasive in mild climates, so deadhead & site away from wild areas.)*

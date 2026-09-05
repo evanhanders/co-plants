@@ -1,0 +1,264 @@
+{
+  "common": "Cup plant",
+  "botanical": "Silphium perfoliatum",
+  "aka": [
+    "Cup rosinweed",
+    "Carpenter's weed"
+  ],
+  "type": "Forb",
+  "lifecycle": "Perennial",
+  "native": "Non-native",
+  "bloom_season": "Summer",
+  "flower_color": [
+    "yellow"
+  ],
+  "bloom": [
+    "summer",
+    "fall"
+  ],
+  "blurb": "A towering 4–8 ft (to 10 ft) tallgrass-prairie forb with square stems and paired leaves fused into cups that hold rainwater — goldfinches drink from them — topped from midsummer into fall with clusters of 3-in pale-yellow sunflower heads. A moist-soil giant that runs by rhizome and self-sows: for the big wet corner, not the xeric bed.",
+  "size": "4–8 ft tall (to 10 ft) × 1–3 ft wide",
+  "sun": "Full sun to part shade",
+  "water": "Moderate to high — a moist-soil prairie plant, not xeric; wants regular deep water here",
+  "spread": "Spreads by shallow rhizomes into substantial colonies and self-sows freely — give it room or contain it",
+  "seasons": "Big paired cup-leaves from late spring; 3–4 in yellow sunflower heads July–September; goldfinches on the seedheads in fall; stout square stems and seedheads standing through winter",
+  "wildlife": "Long-tongued bees, butterflies and skippers nectar; goldfinches strip the seeds and drink from the leaf cups; hummingbirds visit; host to stem-boring moths and gall wasps; dense colonies shelter birds",
+  "deer": "Generally deer-resistant (coarse, resinous foliage), though cattle graze the leaves",
+  "toxic": "No toxicity recorded by the authorities cited — cattle eat the leaves and it is grown as fodder in Europe; the turpentine-scented stem resin is a chewing gum, not a poison",
+  "winter": true,
+  "verified": "2026-09-05",
+  "origin": "Eastern & central North America — Ontario to the Dakotas, south to Georgia & Oklahoma",
+  "habitat": "Moist prairies, streambanks, floodplains & wet woodland edges",
+  "ph": {
+    "min": 5.5,
+    "ideal": 6.5,
+    "max": 8.0
+  },
+  "care": {
+    "hardiness": "Fully hardy — USDA zones 3–9 (Chicago Botanic Garden rates it 3–7), and its roots survive to −22 °F, so Boulder's zone 5b–6a winters are no concern. A long-lived, deep-rooted tallgrass-prairie perennial: a multi-rhizomed clone traced to a single seed has been aged at 15 years, and botanical-garden root systems at more than 50.[2][5][6][7]",
+    "planting": "Set out container plants in spring once the soil has warmed (mid-May, after the average last frost) or in early fall so they root in before winter; CSU notes new plantings in full sun often need water every couple of days for the first month, then every four to six days to push roots outward.[8] Plant it young and where it will stay — the extensive root system makes older plants very difficult to move.[3] Give it the wettest, richest spot you have: a downspout corner, a rain garden or a pond edge. Container growing is a poor fit — an 8 ft plant with a rhizome mat outgrows any pot in a season, and pots dry out far faster than the moist ground it wants.[1][2][4]",
+    "sun": "Full sun to part shade — six-plus hours gives the stoutest, most upright stems. It takes light shade, but shaded plants stretch and are likelier to lean or topple.[1][2][4]",
+    "soil": "Deep, moist, fertile loam is ideal; it tolerates clay and grows across acid, neutral and alkaline soils, so Boulder's alkaline clay is workable as long as it stays moist. In the wild it sits on low ground — floodplains, alluvial thickets and wet woodland edges — and it takes occasional flooding.[1][2][3][4]",
+    "water": "Moderate to high. This is a moist-soil plant, not a xeric one — in our semi-arid climate plan on regular deep watering through summer, and mulch to hold moisture. The Wildflower Center rates its drought tolerance high once the roots are down, but in drought it drops its lower leaves, browns, stunts and can abort its flowers — treat that as survival, not happiness.[1][2][4]",
+    "spacing": "Space plants 2–3 ft apart, and count on the colony widening — shallow rhizomes knit plants into a stand, so plant it where a 6–8 ft-tall thicket is welcome, or edge it with a mowed strip or a root barrier.[2][4]",
+    "propagation": "By seed (easiest) or by division of the rhizomes. Divide in early spring as the shoots emerge, lifting a rhizome section with buds from the edge of the colony — the deep central roots are hard to dig, so take young side pieces. Seed collected in fall needs a cold-moist period before it germinates, and seedlings may not bloom until their second season.[1][2][3]",
+    "stratify": "Give collected seed about three months (twelve weeks) of cold-moist stratification — in the refrigerator, or simply sow outdoors in fall and let winter do it. The NRCS greenhouse method: stratify twelve weeks, hold the sown flats at 24–32 °F for four to eight weeks, then move them to 68 °F for germination. Untreated seed germinates poorly (15–20%).[1][3][7]",
+    "sow": "Sow fresh seed as soon as it ripens in fall, barely covered, or sow stratified seed in spring; prick the seedlings out into individual pots when they are large enough to handle and plant out in summer. A fall-sown bed outdoors is the low-effort route.[3]",
+    "bloom": "Yellow sunflower-like heads 3–4 in across, each with 20–30 pale-yellow rays around a darker yellow disc, clustered at the tips of the stems from July into September (June–August in the South, sometimes on to October). The ray florets set the seed; the small disc florets are sterile.[1][2][3][4]",
+    "feeding": "None needed — it is a big, hungry plant, but moist fertile ground supplies it, and extra nitrogen only makes taller, floppier stems. A compost mulch is plenty.[2][4]",
+    "maintenance": "Low. Leave the stems and seedheads standing through winter for the goldfinches and for structure, then cut to the ground in late winter. The plant is top-heavy and can topple in a wind-driven rainstorm — site it in shelter, among other tall prairie plants that hold it up, or stake it. Red aphids sometimes colonize the leaf undersides; there is no serious disease.[2][4][8]",
+    "selfsow": "Self-sows freely and can be aggressive: the Wildflower Center calls its urge to reproduce \"unstoppable\", and NC State warns that it spreads through the landscape by seed. Deadhead most heads before they ripen if you don't want seedlings (leave a few for the finches), and pull volunteers young. It has been declared invasive in several eastern states and is a prohibited plant in New York, though it is not on any Colorado list.[1][2][7]",
+    "troubles": "Drought is the main trouble here — dropped lower leaves, browning and stunted growth. Otherwise sturdy: occasional red aphids, gall wasps (Antistrophus) that form globe-shaped stem galls, and the larvae of the Silphium borer moth and giant eucosma moth that bore the stems and roots; none needs treatment.[2][4][9]",
+    "companions": "Give it the back of a moist border or rain garden with other tall wet-prairie natives — swamp milkweed, Canada goldenrod, switchgrass, panicled aster — which mirror its wild company on floodplain prairie edges and help hold it upright.[1][4]",
+    "harvest": "For the historic green, pick the young basal leaves in spring while they are small and tender and cook them; older leaves are large, coarse and sandpaper-rough. Leave the flowers and seed for the pollinators and goldfinches.[3][4]"
+  },
+  "fact_src": {
+    "size": [
+      1,
+      2,
+      4
+    ],
+    "sun": [
+      1,
+      2,
+      4
+    ],
+    "water": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "spread": [
+      1,
+      2,
+      4
+    ],
+    "seasons": [
+      1,
+      2,
+      4,
+      5
+    ],
+    "wildlife": [
+      2,
+      4,
+      5,
+      9
+    ],
+    "deer": [
+      4,
+      5
+    ],
+    "toxic": [
+      3,
+      4,
+      7
+    ],
+    "origin": [
+      1,
+      3,
+      7
+    ],
+    "habitat": [
+      1,
+      3,
+      4
+    ],
+    "ph": [
+      2
+    ]
+  },
+  "edible": {
+    "level": "caution",
+    "food": true,
+    "kinds": [
+      "leaves"
+    ],
+    "card": "Young spring leaves, cooked (a minor historic green)",
+    "summary": "Not a crop, but not poisonous: the young spring leaves were cooked as a green, and the stem resin was chewed as gum.[3]",
+    "parts": "The young leaves, cooked in spring — Kindscher's prairie ethnobotany records them as \"an acceptable green\" (faint praise), and the USDA NRCS guide repeats it. The hardened, turpentine-scented resin that beads from the stems was chewed as a gum, including to settle nausea.[3][7]",
+    "preparation": "Gather only young, tender spring basal leaves and cook them like spinach; mature leaves are large, coarse and rough. There is no documented raw use.[3][4]",
+    "caution": "Treat it as a curiosity, not a foodstuff — the record is thin and no authority gives a safe quantity. The root and rhizome have a long traditional-medicine history (a Winnebago purifying drink before buffalo hunts; Chippewa root decoctions for back and chest pain and lung hemorrhage; teas for the liver and spleen), and that medicinal use is a reason for caution, not a recipe — skip it entirely in pregnancy, since it was used for morning sickness and to check menstrual bleeding, which means it is bioactive. Anyone with a daisy-family (Asteraceae) allergy should avoid it. No toxicity to pets or livestock is recorded — cattle graze it and it is grown as fodder in Europe — but it is not a documented pet food either. Don't confuse it with the guide's compass plant (Silphium laciniatum), whose only tradition is the chewing resin.[3][4][7]"
+  },
+  "references": [
+    {
+      "name": "Lady Bird Johnson Wildflower Center — Silphium perfoliatum (SIPE2)",
+      "url": "https://www.wildflower.org/plants/result.php?id_plant=SIPE2"
+    },
+    {
+      "name": "NC State Extension Plant Toolbox — Silphium perfoliatum",
+      "url": "https://plants.ces.ncsu.edu/plants/silphium-perfoliatum/"
+    },
+    {
+      "name": "USDA NRCS Plant Guide — Cup Plant (Silphium perfoliatum)",
+      "url": "https://plants.sc.egov.usda.gov/DocumentLibrary/plantguide/pdf/pg_sipe2.pdf"
+    },
+    {
+      "name": "Illinois Wildflowers — Cup Plant (Silphium perfoliatum)",
+      "url": "https://www.illinoiswildflowers.info/prairie/plantx/cupplantx.htm"
+    },
+    {
+      "name": "Chicago Botanic Garden Plant Finder — Silphium perfoliatum",
+      "url": "https://www.chicagobotanic.org/plantcollections/plantfinder/silphium_perfoliatum--cup_plant"
+    },
+    {
+      "name": "University of Illinois Extension Hort Answers — Cup Plant",
+      "url": "https://web.extension.illinois.edu/hortanswers/PlantDetail.cfm?PlantID=877&PlantTypeID=14"
+    },
+    {
+      "name": "Wikipedia — Silphium perfoliatum",
+      "url": "https://en.wikipedia.org/wiki/Silphium_perfoliatum"
+    },
+    {
+      "name": "CSU Extension — Perennial Gardening (7.402)",
+      "url": "https://extension.colostate.edu/resource/perennial-gardening/"
+    },
+    {
+      "name": "Illinois Wildflowers — Insect feeders on Silphium perfoliatum",
+      "url": "https://www.illinoiswildflowers.info/plant_insects/plants/silphium_perfoliatum.html"
+    }
+  ],
+  "shots": [
+    {
+      "local": "images/su-flower-t.jpg",
+      "full": "images/su-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/420555620/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — a cluster of pale-yellow sunflower heads face-on, 20–30 slender rays around a darker disc · © outdoorsie (CC-BY-NC) / iNaturalist",
+      "by": "outdoorsie",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/236395618"
+    },
+    {
+      "local": "images/sp-cup-t.jpg",
+      "full": "images/sp-cup.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/519844928/large.jpg",
+      "s": "spring",
+      "cap": "Spring — the signature: paired leaves fused around the square stem into a cup, holding rainwater · © Anora Johnson (CC-BY-NC) / iNaturalist",
+      "by": "Anora Johnson",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/289042218"
+    },
+    {
+      "local": "images/su-foliage-t.jpg",
+      "full": "images/su-foliage.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/298822959/large.jpeg",
+      "s": "summer",
+      "cap": "Early summer — a vegetative clump of big, coarse, toothed leaves before the stems shoot up · © Larry Jensen (CC-BY) / iNaturalist",
+      "by": "Larry Jensen",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/172163319"
+    },
+    {
+      "local": "images/su-habit-t.jpg",
+      "full": "images/su-habit.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/146998654/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — a single plant in a meadow, showing the stout upright form · © Tom Norton (CC-BY) / iNaturalist",
+      "by": "Tom Norton",
+      "lic": "CC-BY",
+      "link": "https://www.inaturalist.org/observations/89043469"
+    },
+    {
+      "local": "images/su-bloom-t.jpg",
+      "full": "images/su-bloom.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/417313290/large.jpeg",
+      "s": "summer",
+      "cap": "Summer — a whole colony in bloom against the sky, the 6–8 ft stems massed with yellow heads · © George Keller (CC-BY-NC) / iNaturalist",
+      "by": "George Keller",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/234716289"
+    },
+    {
+      "local": "images/fa-stem-t.jpg",
+      "full": "images/fa-stem.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/428343070/large.jpeg",
+      "s": "fall",
+      "cap": "Early fall — square stem and cup-leaves below the late flower clusters · © Jonathan Sellman (CC-BY-NC) / iNaturalist",
+      "by": "Jonathan Sellman",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/240427376"
+    },
+    {
+      "local": "images/fa-flower-t.jpg",
+      "full": "images/fa-flower.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/157119033/large.jpg",
+      "s": "fall",
+      "cap": "Fall — a late head face-on beside a green bud · © Елена Миськова (CC-BY-NC) / iNaturalist",
+      "by": "Елена Миськова",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/94696848"
+    },
+    {
+      "local": "images/fa-seedhead-t.jpg",
+      "full": "images/fa-seedhead.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/591693278/large.jpg",
+      "s": "fall",
+      "cap": "Late fall — a dried seedhead with its papery bracts, after the goldfinches · © komodo21 (CC-BY-NC) / iNaturalist",
+      "by": "komodo21",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/326676995"
+    },
+    {
+      "local": "images/wi-cups-t.jpg",
+      "full": "images/wi-cups.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/348024330/large.jpg",
+      "s": "winter",
+      "cap": "Winter — dried cup-leaves clasping the stem in snow · © Payton Lott (CC-BY-NC) / iNaturalist",
+      "by": "Payton Lott",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/197576458"
+    },
+    {
+      "local": "images/wi-silhouette-t.jpg",
+      "full": "images/wi-silhouette.jpg",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/217829/large.jpg",
+      "s": "winter",
+      "cap": "Winter — stems and seedheads silhouetted at dusk on the prairie · © Cassi (CC-BY-NC) / iNaturalist",
+      "by": "Cassi",
+      "lic": "CC-BY-NC",
+      "link": "https://www.inaturalist.org/observations/160841"
+    }
+  ]
+}

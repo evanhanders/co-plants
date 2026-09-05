@@ -553,7 +553,9 @@ fruit raspberry — different intent); the leftover *Prunus* (chokecherry, Nanki
 tree, double flowering plum, peach — a native tree, a fruit bush and two ornamentals, nothing a
 gardener reads as one plant); *Amorpha* (a 3 ft refined xeric leadplant vs a 12 ft aggressive
 riparian false indigo); *Erigeron* and *Lysimachia* (sprawling mat vs upright forb, different
-sections); the yuccas (soapweed *Yucca* vs *Hesperaloe* "red yucca" — different genera, and red
+sections); *Silphium* (compass plant vs cup plant — a xeric taprooted clump with cut
+"compass" leaves vs a moist-soil rhizomatous colony with perfoliate cup leaves: same genus, opposite water
+needs, nothing a gardener reads as one plant); the yuccas (soapweed *Yucca* vs *Hesperaloe* "red yucca" — different genera, and red
 yucca honestly isn't a yucca); and the cacti (prickly pear / cholla / claret cup — a **category**,
 not a family, and it spans Shrub + Subshrub). **"Mallows" is the same kind of trap** — the guide now
 holds a dozen-plus Malvaceae (globemallows, hollyhocks, poppy mallow, musk mallow, marshmallow, the
@@ -1187,7 +1189,7 @@ ground every statement in an authority cited in `references`.
 
 ## Current plant roster (in the live site)
 
-**368 specimens** (`plants/manifest.json` is the source of truth for the exact count), all verified
+**369 specimens** (`plants/manifest.json` is the source of truth for the exact count), all verified
 non-weed in CO and all carrying a full `care` block (incl.
 `planting` + `propagation`) **and a repo-hosted photo reel** (close-up + structure, seasonal
 where good shots exist). Every plant's detail page is **fully cited** — a numbered
@@ -1885,6 +1887,27 @@ Wildflowers, USDA PLANTS, Clemson HGIC, ASPCA, CSU 7.402 + 7.235; MBG Plant Find
 shot); no CC seed-capsule photo exists (logged in `gaps`). `check_refs` guide-wide PASS (368, 0/0);
 `check_citations` PASS (0 DEAD).
 
+**Cup plant (September 2026):** added **cup plant** (*Silphium perfoliatum*) on a user request — a 4–8 ft
+(to 10 ft) tallgrass-prairie `Forb` with square stems and paired leaves fused into rain-holding cups (goldfinches
+drink from them), clusters of 3–4 in pale-yellow sunflower heads July–September, and seedheads that stand
+through winter (`winter: true`, with two genuine winter shots). Kept **standalone**, not grouped with the
+existing compass plant — same genus, but a moist-soil rhizomatous colony vs a xeric taprooted clump is not "one
+plant in two varieties" (now on the left-ungrouped list). **Non-native** per the witch-hazel convention
+(Ontario→Dakotas, south to GA/OK; LBJ, NRCS and Wikipedia all omit Colorado; cited `origin`/`habitat`).
+**Weed check (2026-09-05):** no *Silphium* on CO's A/B/C/Watch lists or the CDA noxious weed seed list —
+`ag.colorado.gov` 403s a plain `curl`/WebFetch but serves the list to a browser User-Agent. Honesty calls: the
+`water` directive says plainly it is **not xeric** (a floodplain/wet-prairie plant; drought makes it drop leaves and
+abort flowers); `spread` leads with "Spreads by shallow rhizomes" so the SPREADS badge fires on purpose, and
+`selfsow` records that LBJ calls its reproduction "unstoppable", that it is declared invasive in several eastern
+states and prohibited in New York; `edible` is `caution`/`food:true`/`kinds:["leaves"]` — the USDA NRCS guide
+documents the young leaves cooked as "an acceptable green" (Kindscher), so unlike compass plant it *is* a
+(minor) documented food, with a caution cell that flags the thin record, the bioactive root-medicine history
+(skip in pregnancy) and Asteraceae allergy. Sources: LBJ (SIPE2), NC State, USDA NRCS Plant Guide (the PDF —
+cite `plants.sc.egov.usda.gov`, since `plants.usda.gov` 301s there), Illinois Wildflowers (the page is
+`cupplantx.htm`, not `cup_plantx.htm`), Chicago Botanic Garden, Illinois Extension Hort Answers, Wikipedia, CSU
+7.402; MBG Plant Finder 503'd throughout and is not cited. 10-shot iNat reel via `tools/inat_montage.py`
+(votes + `--phenology no_evidence`/`fruiting` + `--month` passes), seasons from real capture dates.
+
 **Trees**
 - River hawthorn (*Crataegus rivularis*) (N) — Thorny native small tree; white spring flowers, dark edible haws, superb wildlife cover. A caterpillar keystone (~90 Lepidoptera). *(Riparian — wants more water; edible haws, spit the cyanogenic seeds.)*
 - Chokecherry (*Prunus virginiana*) (N) — Wildlife powerhouse: fragrant white flower racemes, dark…
@@ -2136,6 +2159,7 @@ shot); no CC seed-capsule photo exists (logged in `gaps`). `check_refs` guide-wi
 - Prairie zinnia (*Zinnia grandiflora*) (N) — Fine-leaved cushion smothered in golden papery daisies midsummer to frost; a Plant Select-tough groundcover.
 - Martagon lily (*Lilium martagon*) (I) — Tall woodland-edge true lily; a single stem hung with up to 30 nodding, fully recurved 'Turk's cap' flowers, rosy-pink freckled maroon, over whorled leaves. *(Part-shade, moist humus-rich soil — not xeric; tolerates alkaline clay, so one of the better lilies here; DEADLY to cats like all true lilies.)*
 - Himalayan blue poppy (*Meconopsis betonicifolia*) (I) — The legendary sky-blue Himalayan poppy; satiny azure chalices with an orange stamen boss over bristly foliage. *(Kept-but-flagged like winter heath: cold-hardy here but hates our heat/dry air/alkaline clay — grow it potted in acidic mix, cool shade, constantly moist. Inedible — poppy-family alkaloids.)*
+- Cup plant (*Silphium perfoliatum*) (I) — Towering square-stemmed prairie forb whose paired leaves fuse into rain-holding cups; clusters of pale-yellow 3–4 in sunflower heads July–September, seedheads standing all winter. *(NOT xeric — moist-soil; runs by rhizome + self-sows freely; caution/food — young leaves cooked, a minor historic green.)*
 
 - Purple poppy mallow (*Callirhoe involucrata*) (N) — A Plant Select native: a ground-hugging 4–5 ft mat of finely cut leaves opening satiny wine-magenta chalices from April to hard frost. *(Xeric — a woody taproot up to 5 in thick; crown rot in wet ground is the only real risk. `aka` Winecups. Inedible.)*
 - Munro's globemallow (*Sphaeralcea munroana*) (I) — The tall cousin of our native scarlet globemallow: grey-felted wands hung with apricot-orange cups, a magnet for specialist globemallow bees. *(Globemallows family card; Great Basin native reaching only western CO, so Non-native. Xeric. Scarify the seed — impermeable coat. Stellate hairs irritate eyes.)*
